@@ -106,6 +106,37 @@ for _ in range(pairs):
     p = _val(d0, p)
 meta_blob = d0[off0:p]  # 'INDEX' + complete metadata dynval
 
+# ---- inject a very high load priority so every content-mod file already
+# exists when this overlay is scanned (patches only register for targets
+# present at scan time). The raw (key,value) byte spans are copied verbatim
+# and the new pair is appended.
+p2 = off0 + 5
+npairs, p2 = _vlqr(d0, p2)
+spans = []
+for _ in range(npairs):
+    s0 = p2
+    p2 = _key(d0, p2)
+    p2 = _val(d0, p2)
+    spans.append(d0[s0:p2])
+def _vlq(n):
+    parts = []
+    while True:
+        parts.append(n & 0x7F)
+        n >>= 7
+        if not n:
+            break
+    out = bytearray()
+    for i, b in enumerate(reversed(parts)):
+        out.append(b | (0x80 if i < len(parts) - 1 else 0))
+    return bytes(out)
+def _wint(n):
+    z = (n << 1) if n >= 0 else ((-n - 1) << 1) | 1
+    return bytes([0x04]) + _vlq(z)
+meta_blob = (
+    b"INDEX" + _vlq(npairs + 1) + b"".join(spans)
+    + _vlq(len(b"priority")) + b"priority" + _wint(999999850)
+)
+
 # ---- assemble file list
 files = {}  # rel -> bytes
 for rel, gs in patch_groups.items():

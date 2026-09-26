@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/primaryAbility/projectileParameters/periodicActions/2/config/actionOnReap/0/specification/image",
+    "value": "/items/active/weapons/melee/flail/flailballancient.png"
+  }
+]

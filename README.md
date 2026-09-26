@@ -8,6 +8,11 @@ Korean overhaul translation.
 - `mods/zz_female_overhaul.pak` — consolidated non-translation compatibility
   fixes (reference repairs, FU copper armor price type fix, Viera blueprint
   unlock). See `FEMALE_OVERHAUL.txt` inside the pak for the full manifest.
+  **All future local modifications to any mod are made as overrides inside
+  this pak** — edit the source tree at `mods_src/female_overhaul/` and run
+  `python tools/repack_overhaul.py` to rebuild the pak (case-preserving
+  writer). Upstream paks are only repacked when a change cannot be expressed
+  as a patch (removals, in-place patch edits, binary assets).
 - `mods/gic_4_3_compat_fixes/` — must load immediately after the GiC core mod
   and before its addon patches (provides empty `interactData.recipes` and a
   restored deprecated magazine asset).

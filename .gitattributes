@@ -1,0 +1,9 @@
+*.bat text=crlf
+*.py text=lf
+*.tsv text=lf
+*.patch text=lf
+*.json text=lf
+*.txt text=lf
+*.png binary
+*.pak binary
+*.zip binary

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/animationCustom/animatedParts/parts/couch/properties/image",
+    "value": "/objects/sextoylegendary/sexbound_castingcouch/sexbound_castingcouch.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animationCustom/animatedParts/parts/couchcover/properties/image",
+    "value": "/objects/sextoylegendary/sexbound_castingcouch/sexbound_castingcouchcover.png"
+  }
+]

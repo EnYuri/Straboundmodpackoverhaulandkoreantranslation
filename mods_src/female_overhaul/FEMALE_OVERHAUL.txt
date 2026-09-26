@@ -1,0 +1,101 @@
+HOW THIS MOD IS MAINTAINED (rule since 2026-09-26)
+====================================================
+
+ALL future local modifications to any installed mod must be expressed as
+overrides inside THIS pak - never by repacking or editing upstream mod paks
+again, unless the change cannot be expressed as a patch (removals, in-place
+patch edits, binary assets).
+
+Workflow: edit the source tree under
+  translation\modpack-overhaul-repo\mods_src\female_overhaul\
+then rebuild with:
+  python translation\modpack-overhaul-repo\tools\repack_overhaul.py
+
+female_overhaul - non-translation local fixes inventory
+=========================================================
+
+This pak consolidates every local non-translation override that can safely
+share a single late load slot (the file is named zz_female_overhaul.pak so it
+keeps the same late position the original zz_/999999200_ files used).
+
+Bundled in this pak
+-------------------
+
+1) fu_copperarmor_price_fix (absorbed directory mod)
+   - items/armors/biome/copperarmor/copperarmor.{chest,head,legs}.patch
+   - Frackin' Universe replaces the vanilla /price of the three copper armor
+     pieces with the string "500". The engine reads price as an integer, so
+     item instantiation failed entirely. These patches only run when /price
+     is still the string "500" (test + replace), so they stay harmless if FU
+     ever fixes the source.
+
+2) zz_modfix_refs (absorbed pak, previously mods/zz_modfix_refs.pak)
+   - Repoints dangling asset references found during maintenance:
+     * shpd_old/*: potion tooltip/object images pointed at removed icons.
+     * professions/*.config, classes/default.config, ivrpg_specs/*.config:
+       RPG Growth profession/class icon references repaired.
+     * objects/sextoylegendary/sexbound_castingcouch: casting couch + cover
+       images repointed to the existing sexbound asset.
+     * projectiles/explosions/strong_cumexplosion: animation reference.
+     * projectiles/sw_antimaterialround: spark impact animation reference.
+     * interface/confirmation/gic_teleportconfirmation.config: reference fix.
+     * items/WEAPONS/MELEE/{NPC_ONLY/gic_psionickatana,UNUSED_OLD/gic_chainsword}:
+       weapon image references.
+     * items/active/weapons/other/tentaclegun/shadowtentaclegun2: image ref.
+     * objects/biome/alterash/ayaka/ct_ayaka_giant_tree: image reference.
+     * items/active/weapons/ranged/abilities/{ctolight,kivlight_hellognio}:
+       replacement icon pngs shipped as assets.
+
+3) ffxiv_viera_blueprint_compat (absorbed pak, previously
+   mods/999999200_ffxiv_viera_blueprint_compat.pak)
+   - player.config.patch: adds the Viera racial blueprints (313 valid ones)
+     to the shared player blueprint list so every race can craft them.
+   - The earlier repack removed the three references that pointed at assets
+     deleted in Viera 1.3.22 (vieratailoringcenter, crystallanternstickback,
+     extravagantcurtainmed2).
+
+Kept separate on purpose
+------------------------
+
+4) mods/gic_4_3_compat_fixes (directory mod, NOT merged)
+   - Must load in the narrow slot right after Galaxy_in_Conflict core and
+     before its addon paks (Weapons Pack, Escalate, Reskin): it creates the
+     empty interactData.recipes arrays those addons append to, and restores
+     one magazine asset still referenced by a deprecated pistol. A single mod
+     cannot hold both that early slot and the late slot this pak needs, so it
+     stays its own mod.
+
+Fixes baked into repacked paks (cannot be moved into an override)
+-----------------------------------------------------------------
+
+The following installed paks are locally repaired versions of upstream mods.
+The originals are not on disk, and most of the changes are removals or
+in-place patch edits that an overlay cannot express, so they remain inside
+the paks:
+
+- Armok_Fixes_5.4_compat.pak      - Plushbound tooltipFields guard
+- Book_of_Spirits_2.0_compat.pak  - Outpost scripts[] guard
+- Tougher_Mobs_1.11.5.2_compat.pak- elite tag only when scriptConfig exists
+- Less_Annoying_Weather_rev1_compat.pak - conditional actionOnReap removal
+- Craftable_Seeds_FU_1.1_compat.pak    - research -> fuscienceresource
+- Craftable_Seeds_Avali_1.0_compat.pak - dropped avaliproduce4 requirement
+- 20_sxb_Lewdbound_0.7.0_compat.pak    - isn_fissionreactor -> ...new
+- PRxCW_compat.pak                     - dropped prod-anatsali recipe
+- 997_sxb_Lustlings_1.2.9_clean.pak    - removed 48 orphaned race recipes
+- NonEKI_9_FU_compat.pak               - conditional log.matitem, lunar base
+- Project_Redemption_12.3_FU_SBKor_compat.pak - lunar base patch removal +
+                                        escort-quest dialog path fix
+- Black_Armory_4.2.5_FU_NEKI_compat.pak - lunar base patch removal + radio
+                                        messages merged into FU lunarbase.json
+- RPG_contents_1115920474.pak           - RPG Growth damage fix repack
+- contents_2735634052.pak (nuggubs)     - nuggubs Mega Mod fix repack
+
+Translation-related (kept in the translation layer, not here)
+-------------------------------------------------------------
+
+- female_translation.pak           - Korean overhaul translation overlay
+- zz_localeko_postload.pak         - late Korean translation fixes
+- localeko_gic_legacy.pak,
+  localeko_black_armory_legacy.pak - legacy Korean overlays
+- -9998_trans_sbkor_0.98_structfix.pak - sbkor Korean patch, repacked to fix
+  string-vs-array structure damage (translation pak, not an override)

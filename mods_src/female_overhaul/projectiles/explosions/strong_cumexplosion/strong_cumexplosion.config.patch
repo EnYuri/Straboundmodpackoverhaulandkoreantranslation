@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/list/1/body/0/options/0/specification/animation",
+    "value": "/projectiles/explosions/strong_cumexplosion/strong_cumexplosion.animation"
+  }
+]

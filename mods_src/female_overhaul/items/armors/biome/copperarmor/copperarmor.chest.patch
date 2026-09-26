@@ -1,0 +1,6 @@
+[
+	[
+		{ "op": "test", "path": "/price", "value": "500" },
+		{ "op": "replace", "path": "/price", "value": 500 }
+	]
+]

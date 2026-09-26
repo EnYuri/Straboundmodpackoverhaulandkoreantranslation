@@ -1,0 +1,32 @@
+{
+  "matchedOccurrences": 6334,
+  "uniquePairs": 5020,
+  "uniqueCurrentOriginals": 4999,
+  "ambiguousOriginals": 7,
+  "unresolvedOccurrences": 2650,
+  "conflictingLocations": 0,
+  "perMod": {
+    "GiC": {
+      "patch-index-string": 2,
+      "patch-key-string": 26,
+      "pointer-missing": 22,
+      "pointer-string": 4473,
+      "target-asset-missing": 2444
+    },
+    "Extended Story": {
+      "patch-key-string": 23,
+      "pointer-string": 893
+    },
+    "Black Armory": {
+      "pointer-string": 445,
+      "target-asset-missing": 39
+    },
+    "NonEKI": {
+      "matched-nonstring": 1,
+      "patch-index-string": 364,
+      "patch-key-string": 103,
+      "pointer-missing": 144,
+      "pointer-string": 5
+    }
+  }
+}

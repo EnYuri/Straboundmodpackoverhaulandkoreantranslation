@@ -1,0 +1,363 @@
+# high-priority remaining: 41965, low-priority remaining: 32031
+65414	[1x longcontentpages]	FrackinUniverse adds a great number of additional status effects, environmental hazards and environmental interactions. These can be both detrimental or beneficial depending on circumstances. This short guide should help to sort them out for you. Click next page to continue.
+
+
+   ^blue;------------------------^reset;
+   ^yellow;Resistances^reset;:
+   ^blue;------------------------^reset;
+
+   Your resistance to effects is a pretty big deal. Bear in mind that the ^cyan;higher your value^reset; in a resistance type, the ^cyan;less you are affected by various debuffs as well as damage of that type^reset;. ^red;Weakness^reset; plays a factor too.
+
+   ^orange;Example^reset; :
+
+   A Floran has ^red;-50% Fire Resistance^reset;. He will take ^red;50% more damage from fire^reset; and will need an ^orange;additional 50% resistance^reset; in order to negate the penalty. That means that if a biome has a 40% resistance requirement for immunity to its effects he will ^orange;actually need 90%^reset;.
+
+   On the other hand, should your race have a ^cyan;bonus against elements^reset; you will need ^orange;less resistance^reset; than the normal amount. A race with ^green;+30% to Fire Resistance^reset; would need ^green;30% less resistance to fire effects in order to gain immunity^reset;. This allows you to have native immunity to minor effects such as desert heat or minor cold.
+
+^cyan;All resistances stack^reset;.
+
+
+   ^blue;-----------------------------------^reset;
+
+   As a general rule, assume resistance for biome types works as such:
+
+   ^green;20%^reset; (Mild) / ^yellow;40%^reset; (Moderate) / ^orange;60%^reset; (Extreme) / ^red;80%^reset; (Lethal)
+
+   Note that severe storms and other factors can influence the potency of a biomes effect, so on occasion you will have increased requirements while the event transpires.
+
+   Enemies can ^yellow;also have resistance strengths and weaknesses^reset;. Some are utterly immune to particular elements but easily felled by another, so be prepared to experiment.
+
+
+
+   ^blue;-----------------------------------^reset;
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Weather^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Various types of weather exist that can cause you harm. All can be resisted with a relevant protection type. Electrical storms are blocked by electric resistance, poison gas by poison, and so on. Some are less obvious however, such as Aether sickness, which requires specialized immunity from armor or augments.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Tile Breaking^reset;
+   ^#555555;-----------------------------------^reset;
+
+   If you're falling a bit too fast, some tiles will be unable to bear the strain of your weight. Ice, glass, slime, mud and other materials can break on impact. So, watch your step and take care.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Tile Effects^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Some tiles give buffs or debuffs when stepped on. Many of these will not give indicators, but will affect your movement. Snow, mud, jungle dirt and clay are some examples of this in action. Asphalt increases your ground speed, which is useful in bases. Experiment, and you might find some really useful stuff.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Temperature^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Cold, Heat and Radiation are things from ordinary Starbound, true. But in FU they play a different role. You won't find many Immunity effects on EPP packs. Instead, you'll primarily be using ^cyan;resistances^reset; obtained from them or augments. The higher your resistance in an element, the less it will bother you (or be blocked completely). Resistances stack.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Desert Heat^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Deserts are typically dry and non-humid, and their heat will slowly sap your health and food. From noon till sundown, it will be at its worst. Nights are relatively harmless and cool. Underground is colder. You can resist Deserts with Fire Resistance.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Jungle Heat^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Much like deserts, the heat of a Jungle will gradually drain your health and food, and is less severe at night. Unlike Desert Heat, it will take Physical resistance to counter this effect.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Radiation^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Radiation can be rather hazardous to the unprepared. This nasty effect will drain your health and energy rapidly (your max health/energy, not your current amount). If you reach 0 max health, you will die without warning...so do keep an eye on yourself. You will also starve faster. Wind will make things worse for you. Resistance requires Radioactive Resistance.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Sulphuric^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Sulphuric effects can be nasty, rapidly eating your armor and then doing health damage. Worse, on sulphuric worlds you have storms to contend with that make this effect even more dangerous, acid rain and pools of caustic acid! To resist this effect you'll need ^orange;Physical resistance^reset; or an ^orange;acid immunity^reset; effect.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Proto-Poison^reset;
+   ^#555555;-----------------------------------^reset;
+
+   This nasty effect is a threat on Proto Worlds. It will slowly sap your maximum health and *will* eventually kill you. Furthermore, it will reduce your critChance and apply damage over time. Seek out ^orange;proto-poison protection^reset; from various gears in your lab stations, ^orange;poison resistance^reset;.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Insanity^reset;
+   ^#555555;-----------------------------------^reset;
+
+   A constant degradation of your mental state, insanity saps your ability to protect yourself over a sustained period by draining your Protection. Additionally, it gives a mild bit of damage per tick. Your brain will become muddled and you will hallucinate, and go hungry faster. Augments and armor exist to combat this nasty effect, or you could have decent resistance to ^orange;both Shadow and Cosmic^reset; and you'll be okay.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Pressure^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Perhaps the deadliest of all the status effects, extreme pressure will ^red;definitely kill you in seconds^reset; if you do not have protection. Thankfully, it is found in few places (primarily on Gas Ball biomes). ^orange;Do not risk this environment effect without a protective suit^reset;. You *will* die.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Poison^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Fairly self explanatory. You don't want to be poisoned, but some are worse than others. You've got basic poisoned, mercury poison (which is especially nasty), contaminated water, food poisoning and darkwater poison to name a few. ^orange;Poisoned immunity or resistance^reset; will do the trick in avoiding this particular set of hazards. Potent poisons require higher amounts of resistance.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Pus^reset;
+   ^#555555;-----------------------------------^reset;
+
+   This fluid is absolutely repulsive, and even having the stuff on you causes retching and nausea. To traverse it, you will need some sort of ^orange;physical protection^reset;. This acidic bile is not your friend. I recommend against ingesting it.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Black Tar^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Black tar slows you down ^red;a lot^reset; and makes jumping a decent height nearly impossible. It hampers, but does not directly cause damage. You can block it with various armors or produce.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Gas^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Gas can be both positive (Helium 3) or negative (Caliginous Gas, Hydrogen etc) to immerse yourself in. Blocking gas is generally straightforward...^orange;wear something that protects from gas^reset;. However, Some are more specialized. ^orange;Caliginous Gas requires Shadow Resistance^reset; and ^orange;Poison Gas is non-functional with high poison resistance^reset;.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Organic Soup^reset;
+   ^#555555;-----------------------------------^reset;
+
+   One of the few effects that is actually something you *want*. Organic soup will increase your health total as well as remove the effects of hunger (and even fill you up!). Take a bath in it when you can!
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Bio Ooze^reset;
+   ^#555555;-----------------------------------^reset;
+
+   This fluid will stick to you, make you ill and affect your movement and survival chances while active. Wearing protection is recommended. Most common on Proto Worlds and a few other select biomes. Can be ^orange;blocked or mitigated with Poison Resistance or Immunity^reset;.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Liquid Nitrogen^reset;
+   ^#555555;-----------------------------------^reset;
+
+   I hear its a bit cold, so stepping in this might just be a crappy idea for fun times. However, you can make it a joyously fun event by simply wearing adequate ^orange;Ice Resistance^reset;.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Darkness^reset;
+   ^#555555;-----------------------------------^reset;
+
+   There is darkness capable of permeating your vision centers and turning the world around you into a lightless expanse. Be wary of these effects. Thankfully, it is most common in places that are already dark.
+
+
+   ^blue;------------------------^reset;
+
+   Note that there are many other effects you can be affected by in your exploration of the universe. Not all of them can be resisted, and some might be resisted by surprising things. Just stay aware...and stay safe.
+
+^blue;--------------------------------------------------^reset;
+^yellow;The Frackin Wiki
+^blue;--------------------------------------------------^reset;
+If you need the help of a Wiki, use our ^cyan;official wiki^reset; here:
+^green;frackinuniverse.miraheze.org^reset;
+
+^red;Do not^reset; use the Fandom wiki. It is horribly outdated.
+65415	[1x longcontentpages]	FrackinUniverse adds a large amount of armors (and foods) and enhances some older ones, allowing for a greater variety of playstyles. These can be very useful through gameplay and provide exceptionally useful benefits!
+
+^yellow;Set Bonus Inheritance^reset;: As an important note, armors that are used to craft other armors can still be used to complete armor set bonuses for sets that were used in the crafting chain, so partially upgrading your set is still viable.
+
+^orange;Stats^reset; : Vanilla players may notice there are more than they are used to, and even the ones they are used to have different ranges. FU presents a wider variety of armor classes to spice up your play, and does the same with food.
+
+If you are more interested in damage, pick up Power Armor or Hyper Power Armor to trade defensive stats for offensive ones. Alternatively, pick up Tank or Hyper Tank sets to outlast your enemy. They come in melee OR ranged! Fighting not quite your thing? Pick up an Exploration oriented set, and be at home in your environment! You're guaranteed to locate a set that suits your playstyle somewhere out there!
+
+^orange;Resistances^reset; : Many armors in FU come with inherent resistances. Many biome weather effects will simply stop affecting you once you hit an appropriate amount, and various enemy attacks will do less damage. Nifty, right? It gets better; upgrade your armor, and those resistances will increase!
+
+^orange;Bonuses^reset; : Most are increases to your stats, plenty are conditional.
+Any that say ^green;+value^reset; are typically additive increases. It can be a little confusing, however. As example: if it gives +^green;3^reset;% Crit Chance it increases your crit chance by a flat 3%, but if it says +^green;3^reset;% Energy Regen, that's 3% of your base. The easiest way to remember is to ask yourself...does it have a base of 0? If so, it likely is like Crit Chance! If a bonus says x^green;1.3^reset;, or ^green;More^reset;, that's a multiplier on the value you currently have. Have 1000% Damage somehow? 100% More (or 2x) would make it 2000%! Small note: Regen is usually per second.
+
+Of course, some bonuses have hidden components we couldn't easily include, for tooltip space.
+ Additionally, there are some other phrase uses to note. If a set bonus states that it grants immunity to ^green;ALL^reset; of a related effect, that typically means all biome weather ^orange;as well as^reset; specific status effects related to that element. For heat, that includes burning and even lava! For radiation, that includes rad-burn.
+As a small side-note, some terms or symbols are used loosely. If you see a bonus with x/y, that means the bonuses are different based on how their conditions are met. For weapons, this means how many of that type. If you see something like (Machine) Pistols, that means the bonus applies to Machine Pistols OR Pistols. This is typically done for tooltip space.
+
+^cyan;Mining Sets^reset; :
+ Mining laser sets grant a lot more mining laser damage...but that bonus is reduced significantly if you are pairing them with something else. Using a mining laser with a pistol, as example: 2x Mining Laser Damage becomes 1.25x.
+^orange;Colors^reset;: Colors are important in identifying and understanding bonuses. To start with, set bonuses are identified by a ^yellow;⟦E024⟧^reset;, while a ^green;⟦E024⟧^reset; is only visible in crafting interfaces to display resistances. If a bonus stat is ^green;GREEN^reset;, that means it is a good thing. ^red;RED^reset; means it is a bad thing. ^cyan;Cyan^reset; is for bonuses that are binary. They typically do not stack with similar effects. This will be especially apparent with various foods...so choose carefully. It is worth noticing that there is ONE exception to the rules regarding colors: Glow. If you see Glow in a color, that is usually the color of the glow effect.
+
+^orange;Special Bonuses^reset; : Some sets have special bonuses that don't really display much information due to lack of space, an unfortunate limitation of the game. Here, some bonuses will be explained.
+
+^cyan;Adaptive Armor^reset;: Multiplies the wearer's total defense based on current health percentage, scaling between the left value at 20% health and the right value at 100% health.
+
+^cyan;Auto-Medic^reset;: More complicated than ordinary regeneration, this effect will restore more health per second at the cost of an equal percentage of energy. It will also decrease energy regen and increase energy regen lock-out multiplicatively at 2x the heal percent.
+
+^cyan;Thorns^reset;: a nova of thorns when hit, ^cyan;Fire Burst^reset; makes a nova of fire instead.
+
+^cyan;Summons Minions^reset;: summons short-lived allies to fight alongside you or distract enemies. These minions scale based on the lowest armor's tier, so upgrading it is essential! Upgrade ALL of the pieces.
+
+^cyan;Life/Energy Shell^reset;: Gain damage absorption (shell) which scales based on a resource (health, energy) to protect your health, comes with a matching overhead bar to indicate its state. Regenerates quickly if you haven't taken damage recently. ^cyan;Shell Immunities^reset; are granted only while the shell holds. The numbers on the effect's label indicate the conversion rate relative to the resource's stats. In order: capacity, regeneration rate, and the delay upon taking damage before it begins regenerating.
+
+^cyan;Life Shell^reset; specific: Regeneration rate is a direct percentage of health per second, lockout is in specified seconds.
+
+^cyan;Energy Shell^reset; specific: Regeneration rate is a percentage of the energy regeneration stat, base vanilla regeneration is 58.5% per second. Special note due to balance: Minimum lockout time of 0.5 seconds, and a maximum regen rate of 50% per second.
+
+^cyan;Gravity Normalization^reset;: Personal gravity too low? Up it goes. Too high? Down instead. Exception: Zero-gravity.
+
+^cyan;Vital Power^reset; and ^cyan;Juggernaut^reset;: these effects are set bonus exclusive, and quite powerful; they grant one stat based on a percent of another. Vital power grants power as life, Juggernaut grants life as power.
+
+^cyan;Undying Resolve^reset;: increases Protection as your life gets lower, up to the stated amount, while ^cyan;Immortal Resolve^reset; grants HP Regen instead. If a set grants either, it will grant ^cyan;Immortal Resolve^reset; to your pet.
+
+^cyan;Dark Commander^reset;/^cyan;Beast Master^reset;: Increases Damage, Protection, HP and Speed of your pets (both) and crew (Dark Commander) by the listed percent, increases their jump ability by half of that, and regenerates HP at a sixth of that amount per second.
+
+^cyan;Capturenaut^reset;: Increases pet count by 1, plus an additional 1 per 2 tiers (up to +2) of the lowest equipped set piece. Grants an additional +1 if using alongside the back item. This means a fully upgraded set will allow up to 5 additional pets!
+
+^red;Wretchel Toxicity^reset;: Ingesting Wretchel reduces core stats and healing received, and drains health over time. These effects increase in severity the more you consume in a short time frame, as well as while your health is critically low. It will ^red;KILL^reset; you, if you are careless.
+
+^cyan;Charisma^reset;: Your ability to bargain with Traders at space stations. The higher your charisma, the better the deal (and fatter your bank balance!)
+
+
+
+^cyan;Pet/Crew Stat Inheritance^reset;:
+Overall scaling is as follows: HP, directly from your character, rather than just equipped armor. Protection: applied as a multiplier to HP via a specific formula. Damage: directly from character sheet. Health Regen: Inherits as a flat amount, except in special cases (^cyan;Immortal Resolve^reset;, effects not covered by FU, etc.). If you have 100 health and 10% HP Regen, it will grant your pet 10 HP per second. If a stat isn't here, a pet most likely does not inherit it.
+^yellow;Special notes^reset;: Be mindful when taking powerful buffs like ^cyan;Glass Cannon^reset;, as it will reduce their health noticeably.
+65550	[1x shortdescription]	Friendship Square Plushie
+65551	[1x longdescription]	Friendship candies are a traditional Ava Day gift, exchanged between altas to show appreciation and strengthen bonds. Each candy is carefully wrapped and often comes with a small note of gratitude. The candy itself is made from plant-based cocola, making it a perfect treat for herbivore altas.
+65552	[1x default]	Friendship is magic... AND MAGIC IS HERESY!
+65553	[1x text]	Friendship with Companion Punchy established and online. Friendship levels detected at 13.3 percent.
+65554	[1x description]	Fries with a fermented gravy, adorned with bacon. What a crappy meal. ^orange;Type: Cooked Meat + Vegetables^reset;
+65555	[1x shortdescription]	Frigate Booster
+65557	[1x angel]	Frightened. A living Angel? Here?! Impossible!
+65560	[1x nebulite]	Frightened. How are you still alive?!
+65562	[1x angel]	Frightened. I went for a late-night walk one time and encountered a beast with black, red, and purple colors. It was so ferocious! Can you tell me what it was?
+65563	[1x avikan]	Frightened. Please stop looking at me like that.
+65568	[1x default]	Frightened. This planet, with its eternal darkness and endless starry seas, can either be mesmerizing or horrifying.
+65570	[1x angel]	Frightened. Wha!! Hey, you scared me, Angel!
+65573	[1x text]	Frightened. These growin' things within me...
+65577	[1x shortdescription]	Frisky Felin Dancer, Special Edition! (Female version.
+65578	[1x shortdescription]	Frisky Felin Dancer, Special Edition! (Male version.)
+65579	[1x shortdescription]	Frisky Felin Hologram
+65599	[1x shortdescription]	Frogg O'Clock Somewhere
+65600	[1x shortdescription]	Frogg Peddler Plushie
+65601	[1x shortdescription]	Frogg Plushie
+65603	[1x shortdescription]	Frogpole Aquarium
+65604	[1x shortdescription]	Frogpole Wall Aquarium
+65606	[1x contentpages]	From Her essence, trees sprang forth, their branches reaching towards the sky, their roots delving deep into the ground. Rivers flowed with Her laughter, winds danced to Her song. She was the pulse within every leaf, the whisper within every breeze. Her presence permeated every living thing, binding them together in harmony.
+65608	[1x longdescription]	From a toy to an energy tool to a stardust relic. Processed through starsmithing technology, it proves that with the right tools and in the right hands, anything can reach its prime state.
+65609	[1x contentpages]	From a young age, Asteria was drawn to the ancient glades where light and shadow mingled in delicate balance. She listened to the whispering winds and felt the pulse of the ground beneath her feet, her bond with the Green Word deep and unbreakable. Yet, unlike others who heard the voices of the past, Asteria dreamed of the future.
+65611	[1x contentpages]	From as far back as Apex history can be traced, all that is known is the rule of the majestic Big Ape and his benevolent Miniknog. Of course, Apex history only reaches back about one hundred years, due to a series of accidental fires, explosions, and rogue mech accidents which destroyed all of the archives ever.
+65612	[1x completiontext]	From defending one mountain to the next. Some things never change for her.
+65613	[1x contentpages]	From each consumed drop of vicious liquid, to individual crumbs,
+so did her lust for the white ichor and ruinous essence sow deeper.
+
+Till one day, the seeds of her conquered victims reached her inner sanctum, and her bloated womb stirs with activity.
+One by one her children were ejected into a nutritious paradise, where they served their queen faithfully.
+With each offspring born,
+so did the Floran's influence grew.
+65614	[1x contentpages]	From her first steps, she was drawn to the bow and the blade, her movements graceful as the deer and swift as the coursing stream. By her twentieth summer, she had bested every hunter in the village, her arrows finding their mark even in the darkened undergrowth. Yet, it was not her strength but her mind that set her apart. She listened to the Green Word with a depth beyond her years, hearing not just the voice of the forest, but the echoes of those who walked it long before.
+65616	[1x text]	From here, one may view the aether, from here, one may view boundless eternity and realise one's smallness in Kluex's vast glory.
+65617	[1x nebulac]	From how your race acts about technology, I would almost assume you worship it. Pathetic.
+65619	[1x text]	From my view, ^yellow;this tech is closer to an exploratory helper than a combat tool^reset;, but it does offer unparalleled maneuverability. If you want to know how this tech really works, ^green;why not try it out for yourself?^reset;
+65621	[1x human]	From the ashes of the Protectorate, a new light shall shine anew.
+65623	[1x text]	From the few reports my crow tengu managed to get without getting shot down by the human's anti-air defenses, that base is what's fueling majority of the siege around this mountain.
+
+If that base is taken out, the humans will likely not be able to sustain their positions and be forced to fall back.
+65625	[1x chatoptions]	From the looks of it, you yourself have seen many stars, have you not?
+65626	[1x text]	From the loot you brought back, Nereus recognised some as belonging to a creature known as the Seeker of Dust, though it ought not to exist here. The pale ruins and traces of activity on Horizon only deepen the mystery surrounding this already peculiar ruin. He hopeds you will venture back inside to conduct further investigation.
+65627	[1x children]	From the smoFrom the smoke, the Huslender body.nter emerged, blood spattered althe Hunter emerged, bloong her slender body. ^#ffaafa;No. No. This isn't right. Something isSomething is wrong. Don't go, Soliste. DonNo. No.'t go.^reset;
+
+^#75ff75;You can't bring back the dead. Heh... Or so we thought, but that was clearly incorrect: Necromancer, he says. Uncanny. But Egoen, if such a feat is possible, then please, BRING HER BACK.
+
+I see. You can't. You can't bring her back. Egoen, what happened down there? Why can you not remember? Why didn't you protect them? Why?
+
+I tend to her garden now. It pains me to do so, seeing the flowers bloom, a reminder of who she was. But if she were to come back, I'd want her to have something to return to. Her garden. Her teammates. Me. Perhaps one day.
+
+Egoen always says the same thing when asked: ^#6d577c;"Her spirit, soul, tether, and so on, does not exist. There is no possibility to ressurect her as I did Zia, for there is no intersection between that plane and ours that points to her. There is a fundamental truth that I am unable to comprehend, but when enough research is developed, and enough time has come to pass, perhaps then."
+
+^#75ff75;All I can do is laugh now. Laugh at the absurdity. Laugh at the pointlessess of it all. Heh, to think my laughter would be strained and hollow: as if I never was a Fae at all.
+65628	[1x children]	From the smoke, the Hunter emerged, blood spattered along her slender body. She picked up an arrow lodged in the ground, one that had sliced clean through her prey; of course, of course: she never missed... Her Bow hummed as it scanned the ammunition, a mist of liquid spraying from the bottom canister. These weren't normal arrows, and definitely not an average bow, but she was no ordinary predator.
+
+Placing the now cleansed arrow in her quiver, she quickly searched for any other enemies as the smoke behind her dissipated, showing only red remains. She wasn't psychopathic, but rather ^red;efficient^reset;, and with each new target killed, her worries shrank. Her ears picked up a sound that only an animal would hear, and so she took off, deftly weaving through thickets of spiny branches. Despite her rapid movement, she barely made a sound as she approached what she could only assume was an enemy camp. Sure enough, she found a camp occupied by several soldiers.
+
+She crouched: time to get to it. Drawing the string, a radiant magenta emanated from within her, spreading throughout the components of her bow and slowly enveloping her body. But before the light could shine bright enough to alert the guards of her presence, she released. The arrow flew true, landing dead center of the encampment, embedding within a wooden post before imploding. She smirked, brandishing her dagger and vanishing from sight.
+
+Near or Far; Quick or Flashy; Wrong or Right...
+^green;Ha! Didn't matter to a Hunter.
+65629	[1x longdescription]	From the text it is clear that most of the flora found in eva is of cosmic origins, and boils down to alien lifeforms getting stuck in the clouds on their way down, surviving the fall.
+65630	[1x nightar]	From the way your kind wallows in darkness, I would almost think you are akin to Demons...
+65632	[1x contentpages]	From this point forward, all ^green;Cultists^reset; must exchange ^yellow;stars^reset; for items.
+
+^red;We have no need for currency.^reset; Our planet will provide! Stars are our new "currency".
+
+Collect, collect, and collect some more! Even if it ^orange;hurts^reset; you, collect stars. They are your "pixels" now.
+65633	[1x neki]	From up here in space, the entire history of the Avian people feels like merely a footnote in the great tapestry of the universe.
+65635	[1x default]	From venom, we shall find purity...
+65636	[1x -]	From what I could gather from old Floran legends, their artifact gifted the first Greenfingers their powers, these powers have been passed down the generations since.
+65638	[1x description]	From where you're standing, he looks like an 18-karat run of bad luck. Truth is, you're correct.
+65639	[1x shortdescription]	Front Glass Screen
+65640	[1x shortdescription]	Frontier Brothel Bed
+65641	[1x shortdescription]	Frontier Chuckwagon
+65642	[1x description]	Frost & Cryo Affinity Upgrade.
+Affinity Weaknesses no longer affect you.
+65643	[1x description]	Frost & Cryo Affinity Upgrade.
+Deal +50% Damage with Bows. Hits with arrows always Embrittle for 3 Seconds.
+Does not work with Adaptable Crossbow.
+65644	[1x description]	Frost & Cryo Affinity Upgrade.
+The longer an enemy is Embrittled,
+the more damage they take from outside sources.
+65645	[1x description]	Frost & Cryo Affinity Upgrade. ^red;Females Only.^reset;
+Deal +75% Damage with Whips, Claws, and Daggers.
+No Affinity Speed decrease while wielding Whips.
+65650	[1x shortdescription]	Frost Spear
+65651	[1x description]	Frost and Cryo Affinity Upgrade.
+Embrittled enemies further weakened to damage.
+65652	[1x description]	Frost and Cryo Affinity Upgrade.
+Improves potential with Whips, Claws, and Daggers. ^red;Female Only^reset;.
+65653	[1x description]	Frost and Cryo Affinity Upgrade.
+Increases potential with Bows.
+65654	[1x description]	Frost and Cryo Affinity Upgrade.
+Negates all Affinity Weaknesses.
+65655	[1x text]	Frost, the Protective Affinity. This Affinity grants Ice based Immunities and Resistances, and a Medium Vitality Stat Boost. Provides better Immunities and a Large Endurance Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Speed and Jump Height, and makes you weak to Fire.
+65656	[1x shortdescription]	FrostBat Critter
+65657	[1x shortdescription]	Frostberry Chiller
+65658	[1x shortdescription]	Frostberry Freeze
+65659	[1x shortdescription]	Frostberry Juice
+65660	[1x shortdescription]	Frostberry Melt
+65661	[1x shortdescription]	Frostberry Waffle
+65664	[1x 3]	Frostfleck
+This bug is easily mistaken for a snowflake.
+
+Frostfly
+Where there's frost, there are frostflies.
+
+Gasgiant
+These bugs float on updrafts of poisonous gases.
+
+Glowbug
+The warmer this bug gets, the more it glows.
+65665	[1x shortdescription]	Frosthound Critter
+65666	[1x description]	Frosting foes since 2200.
+^cyan;Inflicts Freezing^reset;
+65667	[1x shortdescription]	Frostshard Lamp
+65668	[1x shortdescription]	Frosty Ape
+65669	[1x shortdescription]	Frosty Fig
+65670	[1x description]	Frosty dark matter to help your foes die a bit faster.
+^yellow;Extremely fast, accurate rounds^reset;
+65673	[1x shortdescription]	Froza Poster
+65676	[1x shortdescription]	Frozen Auracite Crystal
+65677	[1x shortdescription]	Frozen Creature
+65678	[1x shortdescription]	Frozen Energy Ball
+65679	[1x shortdescription]	Frozen Energy Charge
+65680	[1x shortdescription]	Frozen Energy Impulse
+65681	[1x shortdescription]	Frozen Energy Spark
+65682	[1x shortdescription]	Frozen Fence

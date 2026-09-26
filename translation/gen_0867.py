@@ -1,0 +1,81 @@
+#!/usr/bin/env python3
+# gen_0867: non-description low-priority rows
+import json, csv, re
+
+T = {
+'125042':'^green;+10% 얼음 저항^reset;.',
+'125043':'^green;+100% 엑수시안 무기 피해^reset;',
+'125047':'^green;+산성 용해, 산성 연소 면역^reset;.',
+'125049':'^green;- 100% 배고픔 감소^reset;',
+'125050':'^green;- 35% 배고픔 감소^reset;',
+'125051':'^green;- 40% 배고픔 감소^reset;',
+'125053':'^green;....',
+'125055':'^green;뼈 하나 고르기',
+'125056':'^green;갚아야 할 빚',
+'125057':'^green;공정한 거래^reset;',
+'125058':'^green;작은 동물원',
+'125059':'^green;사랑스러운 코코넛 한 다발!',
+'125060':'^green;전갈^reset;',
+'125061':'^green;잠시의 휴식^reset;',
+'125063':'^green;잉키를 위한 펫!',
+'125064':'^green;별 항해자의 부탁',
+'125065':'^green;차 재료는 해당 아이템을 획득하면 영구히 해금됩니다.\n^yellow;[남는 재료는 쿠폰 교환에 사용할 수 있습니다.]',
+'125068':'^green;새로운 시작^reset;',
+'125069':'^green;노바 스테이션의 새 손님!^reset;',
+'125070':'^green;애드온^white;',
+'125074':'^green;모든 여행자는 훌륭한 조력자^reset;',
+'125075':'^green;연합 제작 기법',
+'125076':'^green;연합 메카 부품',
+'125079':'^green;대체 마법 결정^reset;',
+'125082':'^green;고대 프로젝트',
+'125083':'^green;예상 못한 도전',
+'125084':'^green;예상 못한 도전^reset; - 후일담',
+'125086':'^green;고대 과학',
+'125091':'^green;에이펙스 피습!',
+'125092':'^green;아크 섬광',
+'125093':'^green;투기장 전투 1',
+'125094':'^green;투기장 전투 2',
+'125095':'^green;투기장 전투 3',
+'125096':'^green;투기장 전투 4',
+'125097':'^green;투기장 전투 5',
+'125098':'^green;투기장 전투 6',
+'125100':'^green;요새를 강습하라!',
+'125102':'^green;오토마토 배달',
+'125103':'^green;아베스밍고 배달',
+'125104':'^green;아비칸 제작 기법',
+'125106':'^green;바나나 배달',
+'125107':'^green;수피 생활',
+'125110':'^green;부리씨앗 배달',
+'125111':'^green;우주생활 적응하기',
+'125113':'^green;우주를 뚫고',
+'125116':'^green;볼트벌브 배달',
+'125117':'^green;뼈 탄도학',
+'125118':'^green;본부 배달',
+'125121':'^green;부서진 용',
+'125124':'^green;벌레 사냥',
+'125126':'^green;칼라드볼그',
+'125128':'^green;포수',
+'125129':'^green;당근 배달',
+'125130':'^green;애쉬스프라이트 포획',
+'125131':'^green;오로라벌 포획',
+}
+
+TAG = re.compile(r'\^[a-zA-Z]+;|\^#[0-9a-fA-F,]+;')
+src = {}
+with open('rest_worklist.tsv', encoding='utf-8-sig', newline='') as f:
+    for r in csv.DictReader(f, delimiter='\t'):
+        if r['id'] in T:
+            src[r['id']] = r['englishText']
+bad = []
+for i, ko in T.items():
+    s = src.get(i)
+    if s is None:
+        bad.append(('MISSING', i)); continue
+    if TAG.findall(s) != TAG.findall(ko):
+        bad.append(('TAG', i))
+    if s.count('\n') != ko.count('\n'):
+        bad.append(('NL', i))
+print('bad:', bad)
+print(len(T))
+with open('priority_0867.json', 'w', encoding='utf-8') as f:
+    json.dump(T, f, ensure_ascii=False, indent=0)

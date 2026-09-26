@@ -1,0 +1,58 @@
+GiC	/interface/windowconfig/charcreation.config	/paneLayout/name/regex	"""[a-zA-Z0-9 '-]{0,16}"""
+GiC	/interface/windowconfig/charcreation_initialdraft.config	/paneLayout/name/regex	"""[a-zA-Z0-9 '-]{0,16}"""
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/reattack/default/default/10	'Qi lai! Bu yuan zuo nu li de ren men!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/attack/default/default/10	'Qi lai! Bu yuan zuo nu li de ren men!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/reattack/default/default/11	'Ba wo men de xue rou zhu cheng wo men xin de chang cheng!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/attack/default/default/11	'Ba wo men de xue rou zhu cheng wo men xin de chang cheng!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/reattack/default/default/12	'Mei ge ren bei po zhe fa chu zui hou de hou sheng!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/attack/default/default/12	'Mei ge ren bei po zhe fa chu zui hou de hou sheng!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/reattack/default/default/13	'Qi lai!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/attack/default/default/13	'Qi lai!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/reattack/default/default/14	'Qi lai! Qi lai! Qi lai!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/attack/default/default/14	'Qi lai! Qi lai! Qi lai!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/reattack/default/default/15	'Wo men wan zhong yi xin!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/attack/default/default/15	'Wo men wan zhong yi xin!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/reattack/default/default/16	'Mao zhe di ren de pao huo!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/attack/default/default/16	'Mao zhe di ren de pao huo!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/reattack/default/default/17	'Qian jin!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/attack/default/default/17	'Qian jin!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/reattack/default/default/18	'Qian jin! Jin!'
+GiC	/dialog/JIANGSHI/gic_jiangshi_sniper_combat.config	/attack/default/default/18	'Qian jin! Jin!'
+GiC	/interface/questtracker/questtracker.config	/incompleteObjectiveTemplate	'- <objective>'
+GiC	/interface/questtracker/questtracker.config	/completeObjectiveTemplate	'^gray;- <objective>^reset;'
+GiC	/interface/cockpit/cockpit.config	/gui/editBookmarkFrame/children/name/regex	"""[a-zA-Z0-9 '-?!.]{0,28}"""
+GiC	/items/COMMODITIES/gic_breadseedpoppy_plant_cut/gic_breadseedpoppy_plant_cut.item	/category	'^gray;Papaver somniferum'
+GiC	/celestial/names.config	/satelliteSuffixes/0	'^white;- ^yellow;a^white;'
+GiC	/celestial/names.config	/satelliteSuffixes/1	'^white;- ^yellow;b^white;'
+GiC	/celestial/names.config	/satelliteSuffixes/2	'^white;- ^yellow;c^white;'
+GiC	/celestial/names.config	/satelliteSuffixes/3	'^white;- ^yellow;d^white;'
+GiC	/celestial/names.config	/satelliteSuffixes/4	'^white;- ^yellow;e^white;'
+GiC	/celestial/names.config	/satelliteSuffixes/5	'^white;- ^yellow;f^white;'
+GiC	/celestial/names.config	/satelliteSuffixes/6	'^white;- ^yellow;g^white;'
+GiC	/celestial/names.config	/satelliteSuffixes/7	'^white;- ^yellow;h^white;'
+GiC	/celestial/names.config	/satelliteSuffixes/8	'^white;- ^yellow;i^white;'
+GiC	/celestial/names.config	/satelliteSuffixes/9	'^white;- ^yellow;j^white;'
+GiC	/celestial/names.config	/satelliteSuffixes/10	'^white;- ^yellow;k^white;'
+GiC	/celestial/names.config	/satelliteSuffixes/11	'^white;- ^yellow;l^white;'
+Black Armory	/dungeons/missions/avianmissions/avianmission1.json	/layers/3/objects/1126/properties/parameters	"'{ ""radioMessages"" : [""avianmission01"", ""black_avianmission0"
+Black Armory	/dungeons/missions/avianmissions/avianmission1.json	/layers/3/objects/1133/properties/parameters	"'{ ""radioMessages"" : [""avianmission02"", ""black_avianmission0"
+Black Armory	/dungeons/missions/avianmissions/avianmission1.json	/layers/3/objects/1135/properties/parameters	"'{ ""radioMessages"" : [""avianmission04"", ""black_avianmission0"
+Black Armory	/dungeons/missions/avianmissions/avianmission1.json	/layers/3/objects/1136/properties/parameters	"'{ ""radioMessages"" : [""avianmission06"", ""black_avianmission0"
+Black Armory	/dungeons/missions/hylotlmissions/hylotlmission1.json	/layers/6/objects/3/properties/parameters	"'{ ""radioMessages"" :[""hylotlmission01"", ""black_hylotlmission"
+Black Armory	/dungeons/missions/hylotlmissions/hylotlmission1.json	/layers/6/objects/4/properties/parameters	"'{ ""radioMessages"" : [""hylotlmission04"", ""black_hylotlmissio"
+Black Armory	/dungeons/missions/hylotlmissions/hylotlmission1.json	/layers/6/objects/5/properties/parameters	"'{ ""radioMessages"" : [""hylotlmission02"", ""black_hylotlmissio"
+Black Armory	/dungeons/missions/hylotlmissions/hylotlmission1.json	/layers/6/objects/6/properties/parameters	"'{ ""radioMessages"" : [""hylotlmission03"", ""hylotlmission03a"","
+Black Armory	/dungeons/missions/glitchmissions/glitchmission1.json	/layers/4/objects/117/properties/parameters	"'{ ""radioMessages"" : [""glitchmission01"", ""glitchmission01a"","
+Black Armory	/dungeons/missions/apexmissions/apexmission1.json	/layers/7/objects/14/properties/parameters	"'{ ""radioMessages"" : [""apexmission01"", ""black_apexmission01a"
+Black Armory	/dungeons/missions/apexmissions/apexmission1.json	/layers/7/objects/15/properties/parameters	"'{ ""radioMessages"" : [""apexmission02"", ""apexmission02a"", ""bl"
+Black Armory	/dungeons/missions/apexmissions/apexmission1.json	/layers/7/objects/23/properties/parameters	"'{ ""radioMessages"" : [""apexmission06"", ""apexmission06a"", ""bl"
+Black Armory	/dungeons/missions/lunarbase/lunarbase.json	/layers/4/objects/5/properties/parameters	"'{ ""radioMessages"" : [""lunarbase01"", ""black_lunarbase01a""] }"
+Black Armory	/dungeons/missions/lunarbase/lunarbase.json	/layers/4/objects/7/properties/parameters	"'{ ""radioMessages"" : [""lunarbase03"", ""black_lunarbase03a""] }"
+Black Armory	/dungeons/missions/lunarbase/lunarbase.json	/layers/2/objects/422/properties/parameters	"'{ ""radioMessages"" : [""lunarbase07"", ""lunarbase07_avian"", ""b"
+Black Armory	/dungeons/missions/lunarbase/lunarbase.json	/layers/4/objects/11/properties/parameters	"'{ ""radioMessages"" : [""lunarbase08a"", ""lunarbase08a_neki"", """
+NonEKI	/dungeons/missions/avianmissions/avianmission1.json.patch	/0/value	"'{ ""radioMessages"" : [""avianmission02"", ""avianmission02_avia"
+NonEKI	/dungeons/missions/avianmissions/avianmission1.json.patch	/1/value	"'{ ""radioMessages"" : [""avianmission03"", ""avianmission03_neki"
+NonEKI	/radiomessages/fu_madness.radiomessages.patch	/7/value/text	'^red;N^orange;Y^yellow;A^green;N ^cyan;N^blue;Y^violet;A^ma
+NonEKI	/dungeons/missions/apexmissions/apexmission1.json.patch	/0/value	"'{ ""radioMessages"" : [""apexmission05"", ""apexmission05_neki""]"
+NonEKI	/dungeons/missions/hylotlmissions/hylotlmission1.json.patch	/0/1/value	"'{ ""radioMessages"" : [""hylotlmission02"", ""hylotlmission02_av"
+NonEKI	/dungeons/missions/hylotlmissions/hylotlmission1.json.patch	/0/2/value	"'{ ""radioMessages"" : [""hylotlmission03_avian"", ""hylotlmissio"

@@ -1,0 +1,344 @@
+=== 1160
+...What is this thing? It's like, some kind of stone, that's alive. I have absolutely no records of anything resembling it. I really have no idea what to say.
+=== 1161
+...Y'know, that thing mines so slowly, I'm convinced it was just supposed to be a graduation prop.
+=== 1162
+...except when it isn't.
+=== 1163
+.223 Rem Bullet
+=== 1164
+.22LR Bullet
+=== 1165
+.243 Win Bullet
+=== 1166
+.30 Carbine
+=== 1167
+.30 Carbine Mag
+=== 1168
+.30-06 Bullet
+=== 1169
+.303 British Bullet
+=== 1170
+.303 Tracer
+=== 1171
+.357 Magnum AP
+=== 1172
+.357 Magnum Bullet
+=== 1173
+.36 Cal Paper (ST)
+=== 1174
+.36 Cal Paper Cartridge
+=== 1175
+.38 Special AP Bullet
+=== 1176
+.38 Special Bullet
+=== 1177
+.44 Magnum Bullet
+=== 1178
+.45 ACP Bullet
+=== 1179
+.45 ACP Hollow-Point
+=== 1180
+.45 ACP Silver-Tip
+=== 1181
+.57 Cal Divine Shot
+=== 1182
+.57 Cal Minié-Ball Shot
+=== 1183
+.57 Cal Spread Shot
+=== 1184
+.577 Snider
+=== 1185
+.577 Snider (ST)
+=== 1186
+.60 Cal Paper (ST)
+=== 1187
+.60 Cal Paper Cartridge
+=== 1188
+10 seconds!
+=== 1189
+10 seconds! Prepare for impact! Make it quick, lads!
+=== 1190
+10.9x33mm AP Bullet
+=== 1191
+100rnd 7.62x54mm ammunition box for the PKM.
+=== 1192
+100rnd 7.62x54mm ammunition box for the PKM. Loaded with Incendiary-Tracer rounds for better suppressive power.
+
+^orange;Incendiary-Tracers:^reset;
+Chance to proc 5s IGNITION (Base 10% chance, each 1% of THERMAL RES reduces proc chance by 1%) | Bullets will SUPPRESS targets whilst in flight, not just at the point of impact | Loses Wall-Piercing ability.
+=== 1193
+12 Gauge Beanbag
+=== 1194
+12 Gauge Buckshot
+=== 1195
+12 Gauge Explosive
+=== 1196
+12 Gauge Flechette
+=== 1197
+12 Gauge Penny Shot
+=== 1198
+12 Gauge Slug
+=== 1199
+12 Gauge Starshell
+=== 1200
+12 Gauge Tactical Special
+=== 1201
+12 Gauge Tactical Special (1H)
+=== 1202
+12 Gauge WP
+=== 1203
+12.7x108mm Bullet
+=== 1204
+12rnd 11.43x23mm (.45 ACP) magazine for the MK23 pistol.
+=== 1205
+12rnd 11.43x23mm (.45 ACP) magazine for the MK23 pistol. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1206
+12rnd 11.43x23mm (.45 ACP) magazine for the MK23 pistol. Loaded with Silver-Tip ammunition which reacts violently towards UNHOLY beings.
+
+^orange;Purity of Silver:^reset; Shooting an UNHOLY enemy afflicts 50 THERMAL DMG/s, -25% Movement, -25% ATK, -75% Proficiency, and PANIC (against infantry) for 15s.
+=== 1207
+12v Icebox
+=== 1208
+13rnd magazine for the Browning HP.
+=== 1209
+13rnd magazine for the Browning HP. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1210
+15 round magazine for the M1 or M2 Carbine
+=== 1211
+15mm Crow Bullet
+=== 1212
+17rnd 9x19mm ammunition pistol double-stack magazine for Glock weaponry.
+=== 1213
+17rnd 9x19mm ammunition pistol double-stack magazine for Glock weaponry. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1214
+20 Gauge Birdshot
+=== 1215
+20 Gauge Buckshot
+=== 1216
+20 Gauge Corrosive
+=== 1217
+20 Gauge Penny Shot
+=== 1218
+20 Gauge Slug
+=== 1219
+200rnd 5.56x45mm ammunition box for the M249.
+=== 1220
+200rnd 5.56x45mm ammunition box for the M249. Loaded with Incendiary-Tracer rounds for better suppressive power.
+
+^orange;Incendiary-Tracers:^reset;
+Chance to proc 5s IGNITION (Base 10% chance, each 1% of THERMAL RES reduces proc chance by 1%) | Bullets will SUPPRESS targets whilst in flight, not just at the point of impact | Loses Wall-Piercing ability.
+=== 1221
+200rnd 7.62x51mm ammunition box for the MG3.
+=== 1222
+20rnd mag for the SCAR-H.
+=== 1223
+20rnd magazine for the AS-VAL.
+=== 1224
+20rnd magazine for the FG42. Loaded with a powerful pure incendiary mixture.
+
+^orange;Incendiary:^reset;
+Chance to proc 5s IGNITION (Base 70% chance, each 1% of THERMAL RES reduces proc chance by 1%) | +40 THERMAL DMG | Loses Wall-Piercing ability.
+=== 1225
+20rnd magazine for the FG42. Loaded with an incendiary-tracer mixture.
+
+^orange;Incendiary-Tracers:^reset;
+Chance to proc 5s IGNITION (Base 10% chance, each 1% of THERMAL RES reduces proc chance by 1%) | Bullets will SUPPRESS targets whilst in flight, not just at the point of impact | Loses Wall-Piercing ability.
+=== 1226
+23x75mmR Barrikada
+=== 1227
+23x75mmR Frag
+=== 1228
+23x75mmR Shrapnel-25
+=== 1229
+23x75mmR Volna-R
+=== 1230
+23x75mmR Zvezda
+=== 1231
+3018 Population Census
+=== 1232
+30rnd .45 magazine for the M1A1 Thompson. Loaded with Silver-Tip ammunition which reacts violently towards UNHOLY beings.
+
+^orange;Purity of Silver:^reset; Shooting an UNHOLY enemy afflicts 50 THERMAL DMG/s, -25% Movement, -25% ATK, -75% Proficiency, and PANIC (against infantry) for 15s.
+=== 1233
+30rnd .45 magazine for the UMP-45. Loaded with Silver-Tip ammunition which reacts violently towards UNHOLY beings.
+
+^orange;Purity of Silver:^reset; Shooting an UNHOLY enemy afflicts 50 THERMAL DMG/s, -25% Movement, -25% ATK, -75% Proficiency, and PANIC (against infantry) for 15s.
+=== 1234
+30rnd 11.43x23mm (.45) magazine for the M1A1 Thompson.
+=== 1235
+30rnd 11.43x23mm (.45) magazine for the M1A1 Thompson. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1236
+30rnd 11.43x23mm (.45) magazine for the UMP-45.
+=== 1237
+30rnd 11.43x23mm (.45) magazine for the UMP-45. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1238
+30rnd 9x18mm Magazine for the Scrap SMG.
+=== 1239
+30rnd 9x18mm Magazine for the Scrap SMG. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1240
+32-round 9x19mm magazine for an UZI loaded with Hollow-Point ammunition. Shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1241
+32-round 9x19mm magazine for an UZI.
+=== 1242
+32-round 9x19mm magazine for the Sten Gun.
+=== 1243
+32-round 9x19mm magazine for the Sten Gun. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1244
+35rnd 9x18mm double-stacked ammunition magazine for the Gepard SMG.
+=== 1245
+35rnd 9x18mm double-stacked ammunition magazine for the Gepard SMG. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1246
+35rnd double-stacked 9x19mm Magazine for use in the MP5 and MP41(r) Submachine Gun.
+=== 1247
+35rnd double-stacked 9x19mm Magazine for use in the MP5 and MP41(r) Submachine Gun. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1248
+4.73x33mm Caseless
+=== 1249
+40rnd .45 ACP magazine for a MAC-10.
+=== 1250
+40rnd .45 ACP magazine for a MAC-10. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1251
+40rnd .45 ACP magazine for a MAC-10. Loaded with Silver-Tip ammunition which reacts violently towards UNHOLY beings.
+
+^orange;Purity of Silver:^reset; Shooting an UNHOLY enemy afflicts 50 THERMAL DMG/s, -25% Movement, -25% ATK, -75% Proficiency, and PANIC (against infantry) for 15s.
+=== 1252
+40x46mm LV Beanbag
+=== 1253
+40x46mm LV Rubber
+=== 1254
+40x46mm LV Shock
+=== 1255
+40x46mm LV-HE
+=== 1256
+5.45x15mm Bullet
+=== 1257
+5.45x39mm Bullet
+=== 1258
+5.45x39mm ^#FFDD00;[Corrosive]^reset;
+=== 1259
+5.45x39mm ^#FFDD00;[Overcharged]^reset;
+=== 1260
+5.56x45mm Bullet
+=== 1261
+5.56x45mm ^#FFDD00;[Corrosive]^reset;
+=== 1262
+5.56x45mm ^#FFDD00;[Overcharged]^reset;
+=== 1263
+5.56x45mm magazine adopted by a variety of private firearms manufacturers. 30 rounds in a magazine.
+=== 1264
+5.56x45mm magazine adopted by a variety of private firearms manufacturers. 50 rounds per drum magazine.
+=== 1265
+52mm Scorpion Rocket
+=== 1266
+6-shot revolver-type grenade launcher that was developed and manufactured in South Africa by Milkor (Pty) Ltd. The MGL was initially demonstrated as a concept to the South African Defense Force in 1981, eventually seeing production in 1983.
+  
+Loads 40x46mm LV Grenade Rounds.
+
+^orange;Can jam, unlike other grenade launchers.
+=== 1267
+7.62x25mm Bullet
+=== 1268
+7.62x25mm Hollow-Point
+=== 1269
+7.62x39mm Assault Rifle derived from the Old-Earth Kalashnikov series of rifles. The gun was popular amongst colonial partisan movements who held out against the suspiciously-united Drufloran hordes during the First Contact Wars.
+=== 1270
+7.62x39mm Bullet
+=== 1271
+7.62x39mm ^#FFDD00;[Airburst]^reset;
+=== 1272
+7.62x39mm ^#FFDD00;[Anti-Xeno]^reset;
+=== 1273
+7.62x39mm ^#FFDD00;[Needler]^reset;
+=== 1274
+7.62x51mm Bullet
+=== 1275
+7.62x51mm ^#FFDD00;[Smart]^reset;
+=== 1276
+7.62x54 Dragunov (Tracer)
+=== 1277
+7.62x54mm AP Bullet
+=== 1278
+7.62x54mm Bullet
+=== 1279
+7.62x54mm Dragunov Mag
+=== 1280
+7.62x54mm HE-T Bullet
+=== 1281
+7.62x54mm Tracer
+=== 1282
+7.92x57mm Bullet
+=== 1283
+7.92x57mm Incendiary
+=== 1284
+7.92x57mm Tracer
+=== 1285
+75rnd 7.7x56mm ammunition drum magazine for the MG3 weapons.
+=== 1286
+75rnd drum containing .223 Remington bullets for the Scrap Chaingun.
+=== 1287
+7rnd .45 caliber ammunition magazine for the M1911 pistol.
+=== 1288
+7rnd .45 caliber ammunition magazine for the M1911 pistol. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1289
+7rnd .45 caliber ammunition magazine for the M1911 pistol. Loaded with Silver-Tip ammunition which reacts violently towards UNHOLY beings.
+
+^orange;Purity of Silver:^reset; Shooting an UNHOLY enemy afflicts 50 THERMAL DMG/s, -25% Movement, -25% ATK, -75% Proficiency, and PANIC (against infantry) for 15s.
+=== 1290
+8rnd 7.62x25mm magazine for the Type 54 Black Star pistol.
+=== 1291
+8rnd 7.62x25mm magazine for the Type 54 Black Star pistol. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor. Sacrifices the Type-54's ability to penetrate walls but retains more of its overall power compared to other pistol rounds.
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor.
+=== 1292
+8rnd En-Bloc Clip
+=== 1293
+8rnd obsolete loading clip for the M1 Garand.
+=== 1294
+8x50mmR ''Lebel'' Bullet
+=== 1295
+9x18mm Bullet
+=== 1296
+9x18mm Hollow-Point
+=== 1297
+9x19mm Bullet
+=== 1298
+9x19mm Hollow-Point
+=== 1299
+9x20mm Bullet

@@ -1,0 +1,9 @@
+{
+  "name" : "gic_4_3_local_compat_fixes",
+  "friendlyName" : "GiC 4.3 Local Compatibility Fixes",
+  "version" : "1.0.0",
+  "author" : "Local compatibility patch",
+  "description" : "Initializes legacy inline recipe arrays required by installed GiC addons and restores one magazine still referenced by a deprecated GiC weapon.",
+  "priority" : -90,
+  "requires" : [ "Galaxy_in_Conflict" ]
+}

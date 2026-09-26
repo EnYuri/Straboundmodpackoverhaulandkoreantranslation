@@ -1,0 +1,604 @@
+# high-priority remaining: 40822, low-priority remaining: 32031
+67100	[1x human]	Got a staring problem?
+67101	[1x default]	Got a target!
+67102	[1x neki]	Got a way to help me with my research, Neki? If not, get out of my way.
+67103	[1x radien]	Got any Aether donuts on you?
+67104	[1x chatoptions]	Got any extra badges? You can exchange them for supplies here.
+67105	[1x avali]	Got any good games over on the Nexus?
+67106	[1x avali]	Got any good music feeds to share? - I'm bored.
+67107	[1x chatoptions]	Got any goods you need to sell?
+67108	[1x khajiit-sr]	Got any moon sugar? No? Good!
+67109	[1x default]	Got anything good from your adventures? Let me have a look!
+67110	[1x alta]	Got invited to a party this weekend, sis! Want to come with? I don't want to go alone...
+67111	[1x default]	Got it.
+67112	[1x default]	Got me a lotta metal t' shape.
+67114	[1x description]	Got something rare? Wherever this shop is - they're bound to have something rarer.
+67115	[1x angel]	Got the hots for me or somethin'? Ya lookin' at me all strange.
+67116	[1x neki]	Got too many lives?
+Let's fix that for you!
+67117	[1x description]	Got wood?
+    ^#00A9FF;Attributes^reset;
+^white;Max Health^reset;: ^red;-35%^reset;
+^darkgray;Max Energy: -^reset;
+^darkgray;Energy Regen: -^reset;
+^white;Attack Multiplier^reset;: ^red;-10%^reset;
+^white;Defense^reset;: ^red;-3%^reset;
+    ^#00A9FF;Resistances^reset;
+^white;Fire Resistance^reset;: ^red;-50%^reset;
+^white;Electric Resistance^reset;: ^green;+50%^reset;
+^white;Poison Resistance^reset;: ^green;+25%^reset;
+^white;Ice Resistance^reset;: ^red;-35%^reset;
+^white;Physical Resistance^reset;: ^red;-5%^reset;
+    ^#00A9FF;Immunities^reset;: ^green;Starving, Food Poisoning, Poisoned, Electrified, Suffocation, Hungry
+    ^#00A9FF;Racial Traits^reset;: ^#AA72FF;Don't Starve, Liquid Vulnerability
+^white;Fall Damage^reset;: ^red;+15%^reset;, ^white;Knockback Resistance^reset;: ^green;+10%^reset;, ^white;Breath Depletion Rate^reset;: ^green;-100%^reset;, ^white;Hunger Rate^reset;: ^green;-100%^reset;
+67118	[1x woofie]	Got ya , bro
+67119	[1x default]	Got your package right here!
+67122	[1x shortdescription]	Gothloli Aquarium
+67123	[1x shortdescription]	Gothloli Baluster Center
+67124	[1x shortdescription]	Gothloli Baluster End
+67125	[1x shortdescription]	Gothloli Baluster Sloped
+67126	[1x shortdescription]	Gothloli Candelabra
+67127	[1x shortdescription]	Gothloli Ceiling Light
+67128	[1x shortdescription]	Gothloli Coffee Table
+67129	[1x shortdescription]	Gothloli Doll Alice
+67130	[1x shortdescription]	Gothloli Doll Cerise
+67131	[1x shortdescription]	Gothloli Doll Sephira
+67132	[1x shortdescription]	Gothloli Lantern
+67133	[1x shortdescription]	Gothloli Mirror
+67134	[1x shortdescription]	Gothloli Small Table
+67135	[1x shortdescription]	Gothloli Table
+67136	[1x shortdescription]	Gothloli Toiletries
+67137	[1x shortdescription]	Gothloli Turquoise Tea Cup
+67138	[1x shortdescription]	Gothloli Turquoise Teapot
+67139	[1x shortdescription]	Gothloli Vased Rose
+67140	[1x shortdescription]	Gothloli Wall Fireplace
+67141	[1x shortdescription]	Gothloli Wall Shelf
+67142	[1x shortdescription]	Gothloli White Tea Cup
+67143	[1x shortdescription]	Gothloli White Teapot
+67145	[1x text]	Gotta admit, got me hooked on this here tentacle birthin'.
+67147	[1x chatoptions]	Gotta admit, these pots of essence are freakin' heavy!
+67152	[1x chatoptions]	Gotta earn money for a new computer. My current one lags a lot at this 2D game about space and exploring. You know what I mean?
+67153	[1x default]	Gotta fix hut now. Floran is really annoyed.
+67154	[1x default]	Gotta fix hut now. I'm really annoyed.
+67157	[1x description]	Gotta keep the juice flowing.
+67159	[1x text]	Gotta love those wild rides...
+ ...especially when they leave ya lookin’ this messy
+67160	[1x text]	Gotta say, I’ve had worse company.
+67161	[1x generic]	Gotta say, the bird feet are pretty cool. I miss my human toes, though.
+67162	[1x chatoptions]	Gotta stop drinkin' so much coffee some day. It tastes so nice, I can't help it!
+67165	[1x shortdescription]	Graa Venetto
+67166	[1x default]	Grab the loot and get out of here, I'll clean up behind you.
+67167	[1x contentpages]	Grab your ^#b0e0fc;waterblaster^reset;, your floatie and your ^#b0e0fc;snorkel^reset;, and don't forget your ^#b0e0fc;bikini top^reset;! ..And ^#b0e0fc;bikini bottom^reset; too, obviously. Your choice.
+
+The fun starts now!
+67168	[1x shortdescription]	Grabber (Ship)
+67169	[1x shortdescription]	Grabber v1
+67170	[1x shortdescription]	Grabber v2
+67171	[1x shortdescription]	Grabber v3
+67172	[1x description]	Grabbing a midnight snack has become a helluva lot more appealing!
+67173	[1x children]	Grabbing the device, his burly hands did not fumble. There was no time to waste flailing about. Speaking clearly, the man's deep voice could not be drowned by the surrounding chaos: Request; Situation; Location; Details; Threat; Request; Pause; Resolution. A supply pipe running within the mainframe imploded, likely as the shuttle broke apart and was exposed to the vacuum outside. Or, what should have been vacuum: he could not tell if that was the truth; he could not tell what was there. Even so, he gripped his Shield with determination, as light enveloped his surroundings. There may not have been anything out there, or perhaps there was -- something too deranged to understand -- but it did not change his mind. There were times when he had dropped his guard: it hadn't happened often, and it certainly hadn't happened trivially, but regardless, it had happened. This would not be one of those times.
+67176	[1x neki]	Gracious. I reckon you earned your right to play with...
+67177	[1x mechineki]	Gracious. You've certainly earned your bauble!
+67179	[1x description]	Gradually slows enemies to a crawl.
+67180	[1x shortdescription]	Graduation Flyer (P)
+67181	[1x description]	Graffiti. A little long-winded, perhaps.
+67182	[1x description]	Graffiti. A nice sentiment, but wrong.
+67183	[1x description]	Graffiti. It seems nostalgic, somehow.
+67184	[1x description]	Graffiti. More courteous than usual.
+67185	[1x description]	Graffiti. Sweet and charming.
+67186	[1x description]	Grains of goodness. Good for when you're hungry and want to eat a thousand of something.
+67187	[1x buttontext]	Grand Pagoda Library (4)
+67189	[1x description]	Grand masters of the garterchakram can catch it without getting nibbled.
+67190	[1x description]	Grandel, the Great Wilderness.
+67191	[1x generic]	Grandfather-Akki help write code-Justicar. Akki impressed.
+67192	[1x location]	Grandma Armpit II
+67193	[1x shortdescription]	Grandma's Painkiller
+67194	[1x shortdescription]	Grandmaster Fossil Brush
+67195	[1x shortdescription]	Grandpa's Pepperbox
+67197	[1x shortdescription]	Grange Grazer
+67198	[1x description]	Grants +10% attack and +20% run speed for 30s. 50s cooldown. ^green;[F]^reset;
+67199	[1x description]	Grants +10% attack and +20% run speed for 30s. 50s cooldown. ^green;[F]^reset; ^orange;[Use to gain a new type of tech!]^reset;
+67200	[1x description]	Grants +20% Max Energy, +10% Max Health, and gives you ^orange;five^reset; jumps!
+67201	[1x description]	Grants +20% Max Energy, +10% Max Health, and gives you ^orange;five^reset; jumps! ^orange;[Use to gain a new type of tech!]^reset;
+67202	[1x description]	Grants ^green;immunity to fall damage^reset;. Double tap ^green;[A]^white; or ^green;[D] ^white;to dash. Dashes can dodge attacks, which has a separate 0.7s cooldown.
+67203	[1x description]	Grants ^green;immunity to fall damage^reset;. Double tap ^green;[A]^white; or ^green;[D] ^white;to dash. Dashes can dodge attacks, which has a separate 3s cooldown.
+67204	[1x description]	Grants ^green;immunity to fall damage^reset;. Double tap ^green;[A]^white; or ^green;[D] ^white;to dash. Dashes can dodge attacks, which has a separate 3s cooldown. ^orange;[Use to gain a new type of tech!]^reset;
+67205	[1x description]	Grants a massive health boost.
+67206	[1x description]	Grants fast flight in any direction! ^green;[SPACE]
+67207	[1x description]	Grants four additional jumps which use energy!
+67208	[1x description]	Grants healing and protection at the cost of motility loss for 12s. ^green;[F]^reset; ^orange;[Use to gain a new type of tech!]^reset;
+67209	[1x description]	Grants immunity to Poison for 30 seconds.
+67210	[1x description]	Grants immunity to fire for 30 seconds.
+67211	[1x description]	Grants immunity to the cold for 30 seconds.
+67212	[1x description]	Grants loose flight in any direction! ^green;[SPACE]^reset;
+67214	[1x description]	Grants slow flight in any direction! ^green;[SPACE]
+67215	[1x description]	Grants the Anal Trained [+100 Max HP for 30 minutes] Status Effect when used with Anal Trainer. Grants Sexbux while having sex.
+67216	[1x description]	Grants two additional jumps which use energy!
+67217	[1x description]	Grants unlimited energy and +10% attack for 20s. 50s cooldown. ^green;[F]^reset;
+67218	[1x description]	Grants unlimited energy and +10% attack for 20s. 50s cooldown. ^green;[F]^reset; ^orange;[Use to gain a new type of tech!]^reset;
+67219	[1x description]	Grants unlimited energy for 20s. 55s cooldown. ^green;[F]^reset;
+67220	[1x description]	Grapes, nature's snackfood. ^green;Type: Fruit^reset;
+67221	[1x shortdescription]	Graph Display Hologram
+67222	[1x shortdescription]	Graphene Fiber
+67223	[1x description]	Graphs, diagrams, and long lines of text fill this screen.
+67224	[1x shortdescription]	Grapple Sphere
+67225	[1x description]	Grapples onto surfaces. ^green;[F]^reset; Transform, ^green;[Shift]^reset; Grapple
+67226	[1x description]	Grapples onto surfaces. ^green;[F]^reset; Transform, ^green;[Shift]^reset; Re-Grapple
+67227	[1x shortdescription]	Grass Milk
+67228	[1x shortdescription]	Grass Staff
+67229	[1x shortdescription]	Grasshopper Critter
+67230	[1x shortdescription]	Grassland Pin
+67231	[1x shortdescription]	Grassland Terraformer
+67233	[1x shortdescription]	Grassy Painting
+67234	[1x shortdescription]	Grassy Rocks
+67237	[1x default]	Grateful. I can hide out here until the heat dies down! Whenever you need backup I am be here to help.
+67238	[1x default]	Grateful. Please take this gift as a thank you for helping with my bar.
+67239	[1x neki]	Grateful. Please take this gift as a thank you for helping with my shop.
+67240	[1x default]	Grateful. Thanks for the help!
+67241	[1x neki]	Grateful. There seem to be plenty of things to fix since your kind started showing up!
+67242	[1x default]	Grateful. This ship is the ideal place to lay low. If you need backup, I shall be here!
+67243	[1x default]	Grateful. You seem to be a responsible landlord. Thank you for letting me stay here.
+67244	[1x description]	Gratling Hades V
+67247	[1x chatoptions]	Gravekeeper of a dormant ark, the Navigator has found its meaning of continued existence in this nigh eternity.
+67248	[1x shortdescription]	Gravekeeper of the Lost Ark
+67251	[1x shortdescription]	Graviton Gun
+67252	[1x shortdescription]	Graviton Pistol
+67255	[1x shortdescription]	Gravity Bubble
+67256	[1x shortdescription]	Gravity Field Distorter
+67258	[1x shortdescription]	Gravity Graffiti
+67260	[1x shortdescription]	Gravity Gun
+67261	[1x shortdescription]	Gravity Neutraliser
+67266	[1x description]	Gravity Sphere Upgrade.
+Hold Space while transformed to Hover in the direction you hold.
+^red;Drains Energy while Hover is active.
+67267	[1x description]	Gravity Sphere Upgrade.
+Hold jump while transformed to hover at the expense of energy.
+67269	[1x text]	Gravity barely affects you. Upon taking the damage, become invulnerable and ethereal for a short time.
+67272	[1x shortdescription]	Gray Cargo Container
+67273	[1x shortdescription]	Gray Garage Door
+67274	[1x shortdescription]	Gray Industrial Plating
+67275	[1x shortdescription]	Gray Potion
+67278	[1x shortdescription]	Gray Trash Bin
+67282	[1x #### [[ trees]	Great Ayaka Prime
+67283	[1x systemnames]	Great Griddle
+67284	[1x shortdescription]	Great Monster Bone
+67286	[1x shortdescription]	Great Scion
+67287	[1x buttontext]	Great Sovereign Temple (5)
+67288	[1x shortdescription]	Great Wave Wall Scroll
+67289	[1x shortdescription]	Great White
+67291	[1x default]	Great choice!
+67292	[1x description]	Great feed for cattle. Not for sapient ingestion. You'll get sick.
+67294	[1x description]	Great for chopping around corners!
+67295	[1x description]	Great for destroying the engine of a truck, or another vehicle.
+67296	[1x description]	Great for early hide and meat gathering.
+^cyan;Hunting weapon, Floran^reset;
+67297	[1x description]	Great for early meat and hide gathering.
+^cyan;Floran^reset;
+67298	[1x description]	Great for early meat and hide gathering.
+^cyan;Hunting weapon^reset;
+67301	[1x description]	Great for ride-by slashings.
+67302	[1x description]	Great for stabby times. Really old
+^cyan;Hunting weapon^reset;
+67304	[1x description]	Great for those lost in the wilds.
+^cyan;Floran^reset;
+67305	[1x default]	Great horny toads... a trespasser gettin' footie prints all over my house.
+67306	[1x text]	Great job getting in! Now the hard part begins. While you were out, Three-Eyes here started working his magic - how're you doing with those access codes?
+67307	[1x default]	Great job maintaining this place. You deserve a reward.
+67308	[1x text]	Great job! Let's move on - the Commissar's home is bound to be crawling with guards.
+67310	[1x completiontext]	Great job! You caught Shogun Takeshi and rescued Princess Koto! I see her father was quite generous with all gifts we recieved.
+67311	[1x text]	Great job! You obtained their Proto Control Module and destroyed any potential evidence.
+67312	[1x completiontext]	Great job, dear! This should be all we need to get through the barrier. Let me deal with the rest of the preparations and you'll be able to enter the ^green;The Great Sovereign Temple^reset;.
+67313	[1x default]	Great job, partner. We still have to secure the situation here, you can use this teleporter to leave first.
+67314	[1x completiontext]	Great job. With these I can finally finish my opening report. Once I got funded, my first book will be published very soon! This is the draft. I hope it can help you in your journey.
+67315	[1x description]	Great offensive shotgun, favored by mercenaries and bandits. Was designed for USCM soldiers, though.
+67318	[1x default]	Great to see you
+67319	[1x default]	Great weapons are an adventurer's best buddy!
+67320	[1x default]	Great weapons with good price!
+67321	[1x text]	Great work! I'm glad my Fennix is unharmed.
+67322	[1x completiontext]	Great work, I received a report that the Justicar has been taken care of. Here you go: this security card will give you access to the shooting range.
+67323	[1x completiontext]	Great! If you're interested, I may have another task you might be able to help with soon.
+67324	[1x after]	Great! Now let's go!
+67325	[1x args]	Great! The ^orange;Butterfly^reset; position was correct!
+67326	[1x ayylien]	Great, <target> seems to enjoy the <gift> you gave <target.pronoun.object>. Just as planned... Err, I mean, well done! Thanks a lot! Ha ha...
+67327	[1x default]	Great, I'm going to have tentacle nightmares for the rest of my life aren't I?
+67328	[1x default]	Great, I've just recharged my ray gun!
+67331	[1x text]	Great, let's get it started. Once it's done, you'll receive your final payment.
+67332	[1x text]	Great, now upload the virus into the control system.
+67333	[1x neki]	Great, one of them. Time to break out the hair brushes...
+67335	[1x children]	Greater - 50 Energy. 10 Lightning Bolts dealing 8 Electric Damage each, and chaining up to 5 times. Travels at 110 Blocks per Second for 2 Seconds. Causes Electrified.
+67336	[1x children]	Greater - 60 Energy. The Icicle deals 15 Ice Damage per hit. Travels at 40 Blocks per Second for 1.5 Seconds. Causes Frost Slow.
+67337	[1x children]	Greater - 80 Energy. The Flame Burst deals 10 Fire and 10 Fire Explosion Damage, and the Mini Magma Zone deals 6.66 Damage per hit. Travels at 25 Blocks per Second for 1.2 Seconds. Causes Burning.
+67338	[1x ivrpg_greatermist]	Greater Mist
+67339	[1x ivrpg_greatermote]	Greater Mote
+67341	[1x text]	Greatly Increases Max Energy.
+67342	[1x text]	Greatly Increases Max Health.
+67343	[1x text]	Greatly Increases Shield Health.
+67344	[1x text]	Greatly Increases Staff Damage.
+67345	[1x text]	Greatly Increases Swim Speed.
+67346	[1x description]	Greatly boosts your defensive capabilities.
+67347	[1x description]	Greaves reinforced with pure chronium, as strong as the spirit of their wearer.
+67349	[1x queststage1]	Greedy! Come back when you've finissshed the lassst one.
+67352	[1x shortdescription]	Greek Baluster Center
+67353	[1x shortdescription]	Greek Baluster End
+67354	[1x shortdescription]	Greek Bathtub
+67355	[1x shortdescription]	Greek Bookcase
+67356	[1x shortdescription]	Greek Cabinet
+67357	[1x shortdescription]	Greek Candles Chandelier
+67358	[1x shortdescription]	Greek Chair
+67359	[1x shortdescription]	Greek Coffee Table
+67360	[1x shortdescription]	Greek Curtain
+67361	[1x shortdescription]	Greek Curtain Bar
+67362	[1x shortdescription]	Greek Door
+67363	[1x shortdescription]	Greek Dresser
+67364	[1x shortdescription]	Greek Fire Chandelier
+67365	[1x shortdescription]	Greek Goddess Statue
+67366	[1x shortdescription]	Greek Handtowel
+67367	[1x shortdescription]	Greek Night Stand
+67368	[1x shortdescription]	Greek Pillar
+67369	[1x shortdescription]	Greek Sink
+67370	[1x shortdescription]	Greek Table
+67371	[1x shortdescription]	Greek Torch
+67372	[1x shortdescription]	Greek Wardrobe
+67373	[1x shortdescription]	Green Alta Painter
+67374	[1x shortdescription]	Green Apple
+67375	[1x shortdescription]	Green Apple Sapling
+67376	[1x shortdescription]	Green Balloon Critter
+67377	[1x shortdescription]	Green Banner
+67378	[1x shortdescription]	Green Barrel Shipment
+67379	[1x shortdescription]	Green Bed
+67380	[1x shortdescription]	Green Bird Critter
+67381	[1x shortdescription]	Green Bouncer Critter
+67382	[1x shortdescription]	Green Cargo Container
+67383	[1x shortdescription]	Green Cell Critter
+67385	[1x shortdescription]	Green Conveyor Belt
+67386	[1x shortdescription]	Green Crystal Bottle
+67387	[1x shortdescription]	Green Crystal Lamp
+67388	[1x shortdescription]	Green Crystal Lamppost
+67389	[1x shortdescription]	Green Cushion
+67390	[1x shortdescription]	Green Dildo
+67391	[1x shortdescription]	Green Fairy Reinforcement
+67392	[1x shortdescription]	Green Fenron Torch
+67393	[1x shortdescription]	Green Flat Locker
+67394	[1x shortdescription]	Green Fleshlight
+67395	[1x shortdescription]	Green Float Crystal S
+67396	[1x shortdescription]	Green Float Orb
+67397	[1x shortdescription]	Green Fuel Canister
+67398	[1x shortdescription]	Green Gas Tank
+67400	[1x shortdescription]	Green Globaura
+67401	[1x shortdescription]	Green Gouger
+67402	[1x shortdescription]	Green Industrial Arm
+67403	[1x shortdescription]	Green Industrial Washer
+67404	[1x chocobobreed]	Green Ivalician
+67405	[1x shortdescription]	Green Junimo Plushie
+67406	[1x shortdescription]	Green Kettle
+67407	[1x shortdescription]	Green Keycard
+67408	[1x shortdescription]	Green Light
+67409	[1x shortdescription]	Green Lizard Critter
+67411	[1x shortdescription]	Green Metal Spotlight
+67412	[1x shortdescription]	Green Mushroom Painting
+67413	[1x shortdescription]	Green Paper
+67414	[1x shortdescription]	Green Potion
+67416	[1x shortdescription]	Green Quibble Critter
+67417	[1x shortdescription]	Green Rail
+67418	[1x shortdescription]	Green Screen
+67419	[1x shortdescription]	Green Screen Platform
+67420	[1x shortdescription]	Green Seal Door
+67421	[1x shortdescription]	Green Shadow Tech Lamp
+67422	[1x shortdescription]	Green Shy Guy Plushie
+67423	[1x shortdescription]	Green Slime Figurine
+67425	[1x shortdescription]	Green Snoogle Critter
+67426	[1x shortdescription]	Green Sporeling Critter
+67427	[1x shortdescription]	Green Spray Bottle
+67428	[1x shortdescription]	Green Steel
+67430	[1x shortdescription]	Green Tanker
+67431	[1x shortdescription]	Green Teabag
+67432	[1x shortdescription]	Green Television
+67433	[1x shortdescription]	Green Tortoise Critter
+67434	[1x shortdescription]	Green Waste Bin
+67435	[1x shortdescription]	Green Weasel Critter
+67436	[1x shortdescription]	Green Wheelie Bin
+67438	[1x longdescription]	Green clothing dye found throughout the universe. Altas favor green for its connection to nature and plant life.
+67441	[1x description]	Green flowers found in Jade Morass biomes.
+67448	[1x description]	Green striped shelf, to put different things on it.
+67454	[1x shortdescription]	GreenChick Critter
+67455	[1x shortdescription]	Greenfinger Painting
+67456	[1x shortdescription]	Greenfinger Plushie
+67457	[1x default]	Greenfinger say Floran ssstims volatile. Volatile mean sssafe.
+67458	[1x text]	Greenhorn! ... Don't look!
+Don't you look!!!
+67461	[1x default]	Greeting procedure started.
+67462	[1x default]	Greeting stranger! Feeling shy.
+67463	[1x default]	Greeting stranger. Feeling awkward.
+67464	[1x default]	Greeting stranger. New experience!
+67465	[1x default]	Greeting. Hello! I've got some of the best crops in the system!
+67466	[1x avali]	Greetings Avali, welcome to our settlement!
+67467	[1x avali]	Greetings Avali, welcome to our ship!
+67468	[1x welcome]	Greetings [(playername)], and welcome to the {STATIONNAME} station
+67470	[1x angel]	Greetings fellow Angel. Please do not accidentally let the prisoners free.
+67471	[1x description]	Greetings from ^gray;The Outpost^white;. I hope we can meet anytime soon.
+67472	[1x description]	Greetings from ^orange;Somewhere^white;. I'm having a good time vacationing in some place, I wish you were here.
+67473	[1x 0]	Greetings gamers, it has come to our attention that our own Claw Machines have come under threat. 
+
+According to reports to our Product Safety Division, there's a hacker group known as the "Trinocular Privateers" that have compromised many of our Popball Claw Machines recently.
+67474	[1x default]	Greetings mortal, I am ^#2d2d2d;Armok^reset;, Overlord and Loremaster.
+67475	[1x completiontext]	Greetings mortal, I am ^orange;Aphrodite^reset;! I am aware that you have found my lost staff, but you can keep it. In fact, I'll help you convert it into something much more interesting.
+67476	[1x contentpages]	Greetings new pilot and congratulations on completing your training. The RW-08 "Modular Mech" is a marvel of Terran Engineering, being both versatile and powerful in space or on the ground. This manual will detail everything about designing your own personal mech. 
+
+To be able to start to use your mech, you need: both arm attachments, the main chassis, an EVA booster system, and legs. Nonessential parts like horns are a cosmetic only and not required. Shields will be brought up later in the manual.
+67478	[1x default]	Greetings! <questGiver> contracted me to deal with the <enemy>.
+67479	[1x default]	Greetings! I am the one who's looking for perfectly generic items all over the galaxy... Because they must be mine!
+67480	[1x default]	Greetings! I have some hazard blocking equipment for sale.
+67481	[1x default]	Greetings! I'm glad you joined us.
+67482	[1x default]	Greetings! My name is ^orange;Sim Lemaw^white;, what can I assist you with?
+67483	[1x completiontext]	Greetings! We don't normally have many visitors, but I sense that you are in possession of ^orange;Aphrodite's Staff^reset;.
+
+Welcome to ^green;Aphrodite's Retreat^reset;!
+67484	[1x default]	Greetings! What brought you here?
+67485	[1x aegi]	Greetings, Aegi.
+67486	[1x neki]	Greetings, Agent. How I can serve you today?
+67487	[1x contentpages]	Greetings, Atlantis' loyal customers. Good news for you! Atlantis has launched a new Premium Pass mechanism!
+
+After you subscribe our Premium Pass. All of our chain stores will offer you a whole new range of drinks, including Abyssal Reef and Beast Slaughter! And you will receive notification when we are promoting!
+67488	[1x default]	Greetings, CLIENT_NAME, and welcome to Print Co., where all the things imaginable can be easily printed using nothing but your pixels!
+67489	[1x avikan]	Greetings, Captain! Do you have any crafting blueprints to share?
+67490	[1x avikan]	Greetings, Captain. Have you found any Centensian ruins on your journeys?
+67491	[1x glitch]	Greetings, Glitch. I am Greenfinger <selfname>. It iss my role to guide the Floran of this colony.
+67492	[1x hylotl]	Greetings, Hylotl. I am Greenfinger <selfname>. It iss my role to guide the Floran of this colony.
+67493	[1x fukirhos]	Greetings, Kirhos.
+67494	[1x neki]	Greetings, Neki. So long as we're cordial, you may see my wares.
+67495	[1x default]	Greetings, Officer <entityname>!
+67496	[1x fragmentedruin]	Greetings, Ruin-spawn...
+67497	[1x thelusian]	Greetings, Thelusian.
+67498	[1x radien]	Greetings, X'i.
+67499	[1x text]	Greetings, adventurer! 
+You're exactly the person I've been waiting for. My scrying chamber seems to be full of ^red;distracting monsters!^reset;
+You look pretty strong...
+Perhaps you can ^orange;clear them out^reset; for me?
+I'll make it worth your time.
+67500	[1x akkimari]	Greetings, alien.
+67501	[1x trink]	Greetings, ambassador <entityname>. What brings you to the embassy today?
+67502	[1x text]	Greetings, ambassador! I have your Alliance body mods ready for you: here you are.
+67503	[1x text]	Greetings, ambassador! I have your uniform ready for you: here you are.
+67504	[1x apex]	Greetings, ape.
+67505	[1x avian]	Greetings, bird-man.
+67506	[1x avian]	Greetings, birdman. I am Greenfinger <selfname>. It iss my role to guide the Floran of this colony.
+67507	[1x zombie]	Greetings, corrupted-one...
+67508	[1x indix]	Greetings, data-being...
+67509	[1x lastree]	Greetings, fake Demon!
+67510	[1x avian]	Greetings, feathered friend!
+67511	[1x avian]	Greetings, feathered one.
+67512	[1x avian]	Greetings, feathered one. What brings you to our camp?
+67513	[1x avian]	Greetings, feathered one. What brings you to our colony?
+67514	[1x om_harpy]	Greetings, feathered-human.
+67515	[1x angel]	Greetings, fellow Angel! So, you explore space as well.. Grand, isn't it! What a wondrous creation by our Cultivator!
+67516	[1x angel]	Greetings, fellow Angel. I'm gathering supplies for the Angelic Rebellion.
+67517	[1x avikan]	Greetings, fellow Captain. I hope your ship is in good condition?
+67518	[1x trink]	Greetings, fellow Trink.
+67519	[1x shoggoth]	Greetings, fellow ancient being.
+67520	[1x default]	Greetings, foreigner. I wish you a safe journey.
+67521	[1x viera]	Greetings, friend Viera, kupo!
+67522	[1x default]	Greetings, friend! Can I interest you with any of my wares..?
+67523	[1x fenerox]	Greetings, fur-skin.
+67524	[1x apex]	Greetings, furry-one.
+67525	[1x novakid]	Greetings, glowing one.
+67526	[1x apex]	Greetings, hairy thing.
+67527	[1x lastree]	Greetings, hell-skin!
+67528	[1x human]	Greetings, human.
+67529	[1x radien]	Greetings, it's always pleasant to see a X'i. Have you got any stories to tell?
+67530	[1x 1]	Greetings, it's not so often I see one of you, mind if we catch up for a little while?
+67531	[1x aegi]	Greetings, long-ear.
+67532	[1x mechineki]	Greetings, machine.
+67533	[1x trink]	Greetings, metal-being...
+67534	[1x felin]	Greetings, my Feline friend.
+67535	[1x neki]	Greetings, my Neki friend! I am Greenfinger <selfname>, and it iss my role to guide the Floran of this tribe.
+67536	[1x avikan]	Greetings, my fellow Starfarer.
+67537	[1x mechineki]	Greetings, my mechanical friend...I certainly hope you're willing to behave.
+67538	[1x novakid]	Greetings, my ssstrange glowing friend! I am Greenfinger <selfname>, and it iss my role to guide the Floran of this colony.
+67539	[1x contentpages]	Greetings, new recruit!
+
+As a freshly minted Peacekeeper it is your duty to keep the peace across the galaxy, which means following the law just as much as the civilians you serve do. 
+
+As a result, here are some important rules you must follow to that end:
+- Violence is ONLY ever a tool of last resort, always try to find a peaceful means of dealing with a problem first before resorting to the use of force.
+67540	[1x avikan]	Greetings, nomad.
+67541	[1x avikan]	Greetings, odd lizard.
+67542	[1x novakid]	Greetings, oh gas-being.
+67543	[1x default]	Greetings, oh hairy-one.
+67544	[1x hylotl]	Greetings, oh three-eyes.
+67545	[1x floran]	Greetings, organic lifeform.
+67546	[1x floran]	Greetings, plant thing.
+67547	[1x floran]	Greetings, plant.
+67548	[1x fumantizi]	Greetings, rebel.
+67549	[1x droden]	Greetings, robot man.
+67550	[1x zombie]	Greetings, rotten-skin...
+67551	[1x shoggoth]	Greetings, sludge-like being.
+67552	[1x mollopod]	Greetings, slug-skin.
+67553	[1x human]	Greetings, soft-skin. What brings you to our camp?
+67554	[1x human]	Greetings, soft-skin. What brings you to our colony?
+67555	[1x nebulac]	Greetings, starry-one.
+67556	[1x akkimari]	Greetings, strange one.
+67557	[1x mindflayer]	Greetings, strange-being.
+67558	[1x default]	Greetings, stranger. I hope you will have a pleasant stay here.
+67559	[1x chatoptions]	Greetings, stranger. Is there somethin' ya would like to get today?
+67560	[1x vanta]	Greetings, subterranean-one.
+67561	[1x nightar]	Greetings, subterranean-one...
+67562	[1x glitch]	Greetings, synthetic.
+67563	[1x text]	Greetings, tall one! Welcome to the realm of the High Gnomes! As long as you don't step on our loyal citizens, you are free to roam around the wonderful capital of our empire!
+67564	[1x generic]	Greetings, traveler.
+67565	[1x -]	Greetings, traveller from afar.
+67566	[1x default]	Greetings, traveller! I'm one of the pilots on this ship.
+67567	[1x default]	Greetings, traveller! Let us trade!
+67568	[1x text]	Greetings, traveller! Welcome to ^orange;Nova Station^reset;! We've just had a recent refurbishment completed, thus you can find many new vendors here. You can use your ^orange;Matter Manipulator^white; to scan what you're interested with! ^green;We've also prepared a gift for you at the end of the tour.
+67569	[1x text]	Greetings, traveller! Welcome to ^orange;Nova Station^reset;! Well, in fact, we just got a sizable investment for ^yellow;an upcoming refurbishment^reset; recently, and the ^green;investor^reset; asked me to keep an eye out for a traveler... who looks just like you! ^green;And she asked me to deliver a message to you.
+67570	[1x viera]	Greetings, traveller. Have you attuned well to the voice of the Wood within this thicket?
+67571	[1x aegi]	Greetings, um, human..??
+67572	[1x floran]	Greetings, walking plant.
+67573	[1x nebulite]	Greetings, we're pleased to meet a Nebulite. We thought your kind had been extinct for ages, but I'm glad we were wrong about it.
+67574	[1x hylotl]	Greetings, wise one. We Centlars might be able to use someone like you.
+67575	[1x chatoptions]	Greetings, young one.
+67576	[1x default]	Greetings. <questGiver> is an old friend of mine, they sent me to help you with <enemy>. We shall not lose!
+67577	[1x default]	Greetings. <questGiver> requested that I help you fight the <enemy>.
+67578	[1x default]	Greetings. Are you in outer space for any specific purpose?
+67579	[1x default]	Greetings. Do you wish to discuss something?
+67580	[1x angel]	Greetings. I am <selfname>. It is perfect weather for flying, correct?
+67581	[1x default]	Greetings. I am Greenfinger <selfname>. It iss my role to guide the Floran of this colony.
+67582	[1x default]	Greetings. I am the ^green;Monarch^reset; of this Palace.
+67583	[1x viera]	Greetings. I do not cross paths much with wayfaring Viera.
+67584	[1x default]	Greetings. I'm <selfname>, a humble maid. Please grant me the honor of serving you.
+67585	[1x default]	Greetings. I'm <selfname>, master's reliable maid.
+67586	[1x chatoptions]	Greetings. Since you're free enough to talk to me. So I'd assume you've talked to her.
+67587	[1x chatoptions]	Greetings. Thanks to you, I have found a new purpose, a new way to increase my mastery.
+67588	[1x default]	Greetings. We are on our way to the closest midnight planet.
+67589	[1x default]	Greetingss! What brought ssstranger to Temple?
+67590	[1x neki]	Greetingsss, Neki!
+67591	[1x shortdescription]	Gregor Plushie
+67592	[1x shortdescription]	Grenade Ammo
+67594	[1x description]	Grenade launcher ammunition that briefly stuns targets on detonation.
+67595	[1x description]	Grenade launcher ammunition that releases small cluster grenades on detonation.
+67596	[1x description]	Grenade launcher ammunition that sticks to surfaces, exploding on proximity.
+67598	[1x chatoptions]	Grenades and grapes don't mix very well.
+67599	[1x description]	Grenades packed together for ease of storage.
+67612	[1x shortdescription]	Grey Barrel Shipment
+67614	[1x shortdescription]	Grey Cushion
+67615	[1x shortdescription]	Grey Dildo
+67616	[1x ironsides_greyexpanse]	Grey Expanse
+67617	[1x shortdescription]	Grey Expanse Microformer
+67618	[1x shortdescription]	Grey Fleshlight
+67619	[1x shortdescription]	Grey Soil
+67620	[1x shortdescription]	Grey Squirrel Critter
+67621	[1x shortdescription]	Grey Stim Pack
+67622	[1x longdescription]	Grey clothing dye for neutral tones. Altas use grey for titanium-colored equipment and neutral professional wear.
+67623	[1x description]	Grey, horned insectoids. The brutality of their homeworld has made them incredibly hardy, but they're somewhat unhinged, and very susceptible to psionics- even their own.^reset;
+
+  ^orange;Diet^reset;: Omnivore
+
+^orange;Perks^reset;:
+  ^green;Resist^reset;: +^green;10^reset;% Physical, Poison
+  Health x^green;1.1^reset;
+
+^orange;Environment^reset;:
+  Alien biomes: Health and Defense x^green;1.05^reset;
+  ^orange;In darkness gain health and speed. Lose health and speed in bright light.^reset;
+
+^orange;Weapons^reset;:
+  Dual Fists: +^green;8^reset; Defense, ^green;minor regen^reset;
+  Dual Rapier: Damage x^green;1.125^reset;
+
+^red;Weaknesses^reset;:
+  ^red;Resist^reset;: -^red;40^reset;% Cosmic, -^red;15^reset;% Fire
+67625	[1x shortdescription]	Greystone Block
+67626	[1x shortdescription]	Grilled Meat
+67627	[1x shortdescription]	Grilled Salmon
+67628	[1x description]	Grilled lamprey, a common central kitchen product found in convenience stores.
+
+^#FFB941;Meat - +25HP restored.
+67629	[1x description]	Grilled meat and peppers on a stick! Simple and very spicy food.
+67631	[1x glitch]	Grim. Come to finish me off?
+67633	[1x shortdescription]	Grimfang Plushie
+67635	[1x children]	Grimoires are tomes containing powerful incantations and symbols for conjury.
+
+Common Grimoires only contain Earth and Elemental Spells, and never mix elements together.
+
+Uncommon Grimoires contain Nova Spells as well, and start mixing base elements.
+
+Rare Grimoires contain Holy and Demonic Spells, and more elements are mixed together.
+
+For more information on Element mixing, see '^gray;Grimoires - Element Mixing.'
+67638	[1x shortdescription]	Gritstone Block
+67639	[1x shortdescription]	Gritstone Rock
+67640	[1x description]	Gritty roofing made from hard stones.
+67641	[1x shortdescription]	Groou Juice
+67644	[1x shortdescription]	Gross Microformer
+67647	[1x hylotl]	Gross, you're all slimy.
+67649	[1x description]	Gross. There's absolutely no way this is still edible.
+^green;Growth Rate x^white;1.25^reset;
+67651	[1x shortdescription]	Ground Smash
+67652	[1x description]	Ground bones and meat. Effect: +30 Armor.
+67653	[1x text]	Ground-penetrating scans complete. Results show ^green;unusually high concentrations of metal^reset;, most likely human-made in nature, located ^orange;deep underground^reset;.
+67656	[1x avian]	Grow food? too boring. Fenerox hunt. Not farm.
+67657	[1x description]	Grows soybeans, used for a variety of dishes.
+67658	[1x default]	Grrr! I hate, hate, hate, hate you!
+67660	[1x contentpages]	Gruesome ^#D03AD7;Horizon Fleets^white;, on the other hand, are far from friendly. These dangerous terrorists will indiscriminately attack any travelers nearby.
+Speaking of ^#D03AD7;Horizon Fleets^white;, the main materials they use in their armory are ^orange;Necroium Bars^white; melted from ^#973DC5;Necroium Fragments^white; which widely present beneath the surface of ^#5b3ea0;Abyssal Woods^white;.
+67661	[1x default]	Gruhaha. I will dessstroy thessse patheic ratsss.
+67662	[1x default]	Gruhaha. I will destroy these patheic rats.
+67663	[1x default]	Gruhaha. Let's teach them a lesson.
+67664	[1x default]	Gruhaha. Let's teach them a lesssson.
+67665	[1x shortdescription]	Grumpy Nyan Plushie
+67666	[1x shortdescription]	Gryphon Drone Carrier
+67667	[1x shortdescription]	Gryphon Gunship
+67668	[1x shortdescription]	Gryphon Support Variant
+67669	[1x shortdescription]	Gryphon Unarmed Variant
+67670	[1x description]	Gryphons!
+    ^#00A9FF;Attributes^reset;
+^white;Max Health^reset;: ^green;+10%^reset;
+^darkgray;Max Energy: -^reset;
+^darkgray;Energy Regen: -^reset;
+^white;Attack Multiplier^reset;: ^green;+5%^reset;
+^darkgray;Defense: -^reset;
+    ^#00A9FF;Resistances^reset;
+^darkgray;Fire Resistance: -^reset;
+^darkgray;Electric Resistance: -^reset;
+^white;Poison Resistance^reset;: ^green;+10%^reset;
+^white;Ice Resistance^reset;: ^green;+10%^reset;
+^darkgray;Physical Resistance: -^reset;
+    ^#00A9FF;Immunities^reset;: ^green;Food Poisoning
+    ^#00A9FF;Racial Traits^reset;: -
+^white;Fall Damage^reset;: ^green;-75%^reset;, ^white;Knockback Resistance^reset;: ^green;+4%^reset;, ^white;Jump Height^reset;: ^green;+10%^reset;, ^white;Movement Speed^reset;: ^green;+5%^reset;, ^white;Max Breath^reset;: ^green;+25.0^reset;, ^white;Hunger Rate^reset;: ^red;+5%^reset;
+67671	[1x -]	Guan Yu
+67672	[1x description]	Guaranteed ghost immunity. May cause an allergic reaction.
+67673	[1x description]	Guaranteed to contain a Floran collectible.
+67674	[1x description]	Guaranteed to contain a Human collectible.
+67675	[1x description]	Guaranteed to contain a Hylotl collectible.
+67676	[1x description]	Guaranteed to contain a sticker of an especially mean individual.
+67677	[1x description]	Guaranteed to contain a sticker themed after no particular theme.
+67678	[1x description]	Guaranteed to contain an Apex collectible.
+67679	[1x description]	Guaranteed to contain an Avian collectible.
+67680	[1x description]	Guaranteed to contain an object sticker.
+67681	[1x description]	Guaranteed to contain the sticker of a well-known individual.
+67682	[1x description]	Guaranteed to contain two random stickers of Plushbound's 1st community-made collection.
+67683	[1x description]	Guaranteed to contain two random stickers of Plushbound's 2nd community-made collection.
+67684	[1x description]	Guaranteed to contain two random stickers of Plushbound's 3rd community-made collection.
+67685	[1x description]	Guaranteed to never dry out. Whether that's a good thing is up to you.
+67686	[1x contentpages]	Guard 1: Good, so we know they are still alive and within prison confines.
+Guard 2: ... I see. Why would anyone condone this?
+Guard 1: It's all about the money. You see, fewer mouths to feed but still high inmate numbers in the statistics is more money in our pockets.
+It also looks good on paper, and we have less work to do.
+67687	[1x contentpages]	Guard 1: Is this your first day on the job?
+Guard 2: Yes, sir.
+Guard 1: Don't worry and just observe these security cameras for now.
+Guard 2: Unders- SIR! On camera 7, an inmate is trying to escape into the sewers!
+Guard 1: The sewers, eh? That person won't go far, anyway. Just let them be.
+67688	[1x contentpages]	Guard 2: But what is happening to all those inmates down in the sewers, that are caught by those tentacles, if they are kept alive?
+Guard 1: If you are so concerned, how about you visit them?
+Guard 2: No, sir. I understand, sir. I'll just observe the security cameras, sir.
+Guard 1: Good. Maybe this newbie has what it takes for the job after all.
+67689	[1x contentpages]	Guard 2: But, sir! We can't just- WHAT IS THAT!? A GIANT TENTACLE GRABBED HIM!
+Guard 1: Stop screaming, newbie. This is just how things are done around here.
+Guard 2: I can't believe this, what is happening to that inmate?
+Guard 1: Don't know, don't care. You know that we track all inmates with implanted chips, right?
+Guard 2: Eh... Yes, sir.
+67690	[1x default]	Guard duty it is, then.
+67693	[1x shortdescription]	Guardian Droid Plushie
+67694	[1x shortdescription]	Guardian Hammer
+67695	[1x shortdescription]	Guardian Mech Body
+67696	[1x shortdescription]	Guardian Mech Boosters
+67697	[1x shortdescription]	Guardian Mech Legs
+67698	[1x shortdescription]	Guardian Plushie
+67699	[1x shortdescription]	Guardian Scimitar
+67700	[1x shortdescription]	Guardian Sticker
+67701	[1x shortdescription]	Guardian of Ruin
+67703	[1x shortdescription]	Guardian's Palisade
+67705	[1x shortdescription]	Guardian's Sword
+67706	[1x shortdescription]	Guardian-00 Mech Body
+67708	[1x default]	Guards! Catch this terrible robber!
+67709	[1x default]	Guards! Stop that thief!
+67710	[1x default]	Guards, capture this criminal!
+67711	[1x default]	Guards, end this thievery!
+67712	[1x default]	Guards, get that thief!
+67713	[1x default]	Guards, please help me!
+67714	[1x default]	Guards, this one is stealing!
+67715	[1x shortdescription]	Guardsman Statue
+67716	[1x shortdescription]	Gubworm Plushie
+67718	[1x default]	Guess I'll just sleep, then.

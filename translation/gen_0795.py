@@ -1,0 +1,83 @@
+#!/usr/bin/env python3
+# gen_0795: non-description low-priority rows
+import json, csv, re
+
+T = {
+'77636':'이온 연발',
+'77637':'이온 폭발',
+'77639':'이온 구름',
+'77663':'이온 마비',
+'77667':'이온 충격',
+'77668':'이온 서기',
+'77670':'이온 타격',
+'77674':'이온화됨 - 시간이 지날수록 피해 가중',
+'77675':'이온화된 공기',
+'77688':'아이리사 형태 변환 테스트',
+'77693':'아이리실 야전 안내서',
+'77695':'아이리실 연구 기록',
+'77712':'철의 오라',
+'77715':'철 대포',
+'77716':'철 제작대',
+'77756':'아이언워치 임무.',
+'77983':'이 필드가 실제로 쓰이긴 하나요?',
+'78065':'이세 부적 - 걸림 확률 제거. | 재장전할 때마다 능력 마나 50 소모.',
+'78076':'그거 안전하지 않은 거 아닌가요?',
+'78084':'아이소겐 블루',
+'78101':'요리 속 아이소슬라임',
+'78145':'^orange;TerraLib^reset;가 설치되어 있지 않은 것 같습니다. 그것 없이는 Voided가 ^red;제대로 작동하지 않을 수 있습니다^reset;.\n\nSteam 워크숍 ^blue;https://steamcommunity.com/sharedfiles/filedetails/?id=2230165463^reset; 또는 Chucklefish 포럼 ^blue;https://community.playstarbound.com/resources/terralib.6055/^reset;에서 찾을 수 있습니다. 아니면 두 사이트에서 "terralib"을 검색하세요.\n\n이미 TerraLib이 있다면 Discord, Steam 또는 Chucklefish 포럼으로 알려주시면 문제를 살펴보겠습니다.',
+'78146':'^orange;tileBroken Workaround^reset;가 설치되어 있지 않은 것 같습니다. 그것 없이는 Voided가 ^red;제대로 작동하지 않을 수 있습니다^reset;.\n\nSteam 워크숍 ^blue;https://steamcommunity.com/sharedfiles/filedetails/?id=3534582033^reset; 또는 Chucklefish 포럼 ^blue;https://community.playstarbound.com/resources/tilebroken-workaround.6375/^reset;에서 찾을 수 있습니다. 아니면 두 사이트에서 "tilebroken workaround"를 검색하세요.\n\n이미 tileBroken Workaround가 있다면 Discord, Steam 또는 Chucklefish 포럼으로 알려주시면 문제를 살펴보겠습니다.',
+'78147':'^orange;Quickbar^reset; 모드가 설치되어 있지 않은 것 같습니다. Voided는 Quickbar를 통해서만 접근 가능한 설정 창을 추가합니다.\n\nSteam 워크숍이나 Chucklefish 포럼에서 "quickbar"를 검색해 원하는 모드를 설치하시길 권장합니다.\n\n이미 Quickbar 모드가 있다면 Discord, Steam 또는 Chucklefish 포럼으로 알려주시면 문제를 살펴보겠습니다.',
+'78807':'함정이다!',
+'79028':'실크햇인가...',
+'79766':'익소둠의 거미줄',
+'79771':'이조 브에이',
+'79773':'이조포이 노이',
+'79774':'이조포이 패드',
+'79775':'이조포이 브에이',
+'79810':'잼 만드는 편리함',
+'79831':'자페라의 유물 상점',
+'79841':'턱 타격',
+'79842':'리바이어던의 턱',
+'79861':'젤리 만드는 편리함',
+'79886':'제트 알타미수',
+'79888':'보석공의 제작대',
+'79889':'보석 \'추출기\'',
+'79896':'장시 갑주장 - 요괴 장비',
+'79897':'지카타비 - [EWS/GiC] 중형 무기 이동 페널티 무효 | 속도 +10% | 넉백 저항 -25%.',
+'79898':'지미 링월드',
+'79903':'잡 방어구 도안: 궁수',
+'79904':'잡 방어구 도안: 암살자',
+'79905':'잡 방어구 도안: 용기사',
+'79906':'잡 방어구 도안: 원소술사',
+'79907':'잡 방어구 도안: 펜서',
+'79908':'잡 방어구 도안: 녹마도사',
+'79909':'잡 방어구 도안: 적마도사',
+'79910':'잡 방어구 도안: 저격수',
+'79911':'잡 방어구 도안: 마검사',
+'79912':'잡 방어구 도안: 소환사',
+'79913':'잡 방어구 도안: 백마도사',
+'79959':'지금 언바운드에 가입하세요!',
+'79976':'호세',
+}
+
+TAG = re.compile(r'\^[a-zA-Z]+;|\^#[0-9a-fA-F]+;')
+src = {}
+with open('rest_worklist.tsv', encoding='utf-8-sig', newline='') as f:
+    for r in csv.DictReader(f, delimiter='\t'):
+        if r['id'] in T:
+            src[r['id']] = r['englishText']
+bad = []
+for i, ko in T.items():
+    s = src.get(i)
+    if s is None:
+        bad.append(('MISSING', i)); continue
+    if TAG.findall(s) != TAG.findall(ko):
+        bad.append(('TAG', i))
+    if s.count('\n') != ko.count('\n'):
+        bad.append(('NL', i))
+    if re.findall(r'\[[A-Za-z/:]+\]', s) != re.findall(r'\[[A-Za-z/:]+\]', ko):
+        bad.append(('PH', i))
+print('bad:', bad)
+print(len(T))
+with open('priority_0795.json', 'w', encoding='utf-8') as f:
+    json.dump(T, f, ensure_ascii=False, indent=0)

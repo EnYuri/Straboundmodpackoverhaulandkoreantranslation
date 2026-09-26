@@ -1,0 +1,244 @@
+﻿english	korean	category	rule	alternatives	notes
+Back	뒤로	UI	context	이전	목록의 이전 항목은 이전
+Next	다음	UI	context	다음으로	UI 버튼은 다음
+Accept	수락	UI	context	적용 | 확인	설정 반영은 적용, 단순 확인은 확인
+Cancel	취소	UI	context	중지	진행 중 제작을 멈출 때는 중지
+Okay	확인	UI	context	좋아 | 알겠어 | 괜찮아	UI 확인 버튼은 확인
+Ruin-Killer	루인킬러	name	fixed		바닐라 대명사 루인(Ruin)과 연관된 칭호. Slayer면 루인슬레이어 사용
+Ruin-Touched	루인에 물든 자	상태	fixed		Ruin은 고유명사 - '유적에 물든 자' 사용 금지
+Search	검색	UI	context	찾기	UI 기능명은 검색
+Stop	중지	UI	context	막다 | 멈추다	UI·제작 중지 버튼은 중지, 문장 속 동작은 문맥에 맞춤
+Ready	준비 완료	UI	context	준비됨 | 준비됐다	UI 상태 표시는 준비 완료
+Name	이름	UI	context	명칭	UI 필드명은 이름
+Type	유형	UI	context	종류 | 형식	UI 분류명은 유형
+Product	제품	UI	context	상품 | 생산물	UI 결과물 명칭은 제품
+Items	아이템	UI	context	물품	UI 목록·게임 개체는 아이템
+Input	입력	UI	context	투입	UI 필드·시스템 용어는 입력
+Output	출력	UI	context	산출물	UI 필드·시스템 용어는 출력
+Inventory	인벤토리	UI	context	재고 | 목록	플레이어 UI는 인벤토리
+Craft	제작	UI	context	만들기	버튼과 시스템 용어는 제작
+Crafting	제작	UI	context	공예	시스템·UI 용어는 제작
+Crafting Station	제작대	UI	fixed		
+Recipe	레시피	UI	context	제조법 | 조리법	제작 UI는 레시피, 서술문은 문맥에 맞춤
+Materials Available	재료가 있는 것만 보기	UI	fixed		필터 문구
+Have Material	재료가 있는 것만 보기	UI	fixed		필터 문구
+Take All	모두 가져오기	UI	context	모두 가지기	UI 동작명일 때만 적용
+Buy	구매	UI	context	사기	UI 동작명은 구매
+Sell	판매	UI	context	팔기	UI 동작명은 판매
+Upgrade	업그레이드	UI	context	강화 | 개량	UI·시스템명은 업그레이드
+Research	연구	UI	context	리서치	일반 시스템 용어는 연구, 고유 조직명은 음역 허용
+Quest	퀘스트	UI	context	여정	게임 임무는 퀘스트
+Mission	임무	UI	context	작전	퀘스트·UI 분류명은 임무
+Codex	코덱스	UI	fixed		
+Bookmark	북마크	UI	context	등록 | 표시	텔레포터 UI·기능명은 북마크
+Add Bookmark	북마크 추가	UI	fixed		
+Read All	모두 읽기	UI	context	전부 읽다	UI 동작명은 모두 읽기
+Unknown	알 수 없음	UI	context	미상	UI 상태 표시는 알 수 없음
+Unexplored	미탐험 구역	UI	fixed		
+Matter Manipulator	물질 조작기	core	fixed		
+Manipulator Module	물질 조작기 모듈	core	fixed		
+Upgrade Module	업그레이드 모듈	core	fixed		
+Tech Card	테크 카드	core	fixed		
+Tech	테크	core	context	기술	게임 시스템·장비 분류는 테크
+Pixels	픽셀	core	fixed		
+Core Fragment	코어 파편	core	context	행성 핵 파편	바닐라 아이템 고유명에는 행성 핵 파편 허용
+Perfectly Generic Item	완벽하게 일반적인 아이템	core	fixed		
+Teleporter	텔레포터	travel	fixed		
+Teleport	텔레포트	travel	context	순간이동	UI·기능명은 텔레포트
+Teleport Confirmation	텔레포트 확인	travel	fixed		
+Portal	포털	travel	fixed	관문	장치·현상명은 포털, 문학적 문맥은 관문 허용. 포탈 금지
+Beam Up	올라가기	travel	context	함선으로 올라가다	텔레포터 UI 동작명은 올라가기
+Beam Down	내려가기	travel	context	워프하기	텔레포터 목적지 동작은 워프하기 허용
+FTL Fuel Hatch	FTL 연료 해치	travel	fixed		
+Fuel Hatch	연료 해치	travel	fixed		
+Ship Locker	함선 사물함	travel	context	선박 사물함 | 선박 보관함	종족별 기존 명칭이 굳어진 경우 대체형 허용
+Ship Pet Bed	함선용 동물 침대	travel	fixed		
+Mech	메카	core	context	기계	탑승형 기체·게임 시스템은 메카
+Colony	식민지	core	context	정착지|콜로니	정치 단위는 식민지, 거주지는 정착지, 함급은 콜로니 허용
+Tenant	세입자	core	fixed		
+Crew	승무원	core	context	선원 | 대원	함선 인력은 승무원
+Captain	선장	core	context	선장님	직접 부르는 호칭은 선장님
+sir	상관님	dialogue	context	님 | 선생님	군·조직의 보고 대화에서는 상관님, 일반 존칭은 문맥에 맞춤
+Health	체력	stats	context	HP | 건강	수치·스탯명은 체력, 일반 건강 상태는 건강
+Energy	에너지	stats	context	MP | 동력 | 기운 | 활력	자원·스탯명은 에너지
+Damage	피해량	stats	context	피해 | 손상	수치·스탯명은 피해량, 서술문은 피해
+Armor	방어력	stats	context	방어구	수치면 방어력, 장비 종류면 방어구
+Defense	방어력	stats	context	방어	표시 스탯명은 방어력
+Protection	방어력	stats	context	보호	표시 스탯명은 방어력
+Attack Speed	공격 속도	stats	fixed		
+Fire Rate	발사 속도	stats	context	연사 속도	UI 스탯명은 발사 속도
+Critical Chance	치명타 확률	stats	fixed		
+Critical Hit Chance	치명타 확률	stats	fixed		
+Knockback	넉백	stats	fixed		
+Cooldown	재사용 대기시간	combat	context	재사용 대기 | 대기시간	게임 스킬·무기 문맥
+Stock Ammo	예비 탄약	combat	fixed		Project 45의 무기 저장 탄약 시스템
+Reserve Ammo	예비 탄약	combat	fixed		탄창 밖에 보유하여 재장전에 쓰는 탄약
+Active Reload	액티브 재장전	combat	fixed		Project 45 시스템명
+AP rounds	철갑탄	combat	fixed		armor-piercing ammunition
+Reload Rating	재장전 등급	combat	fixed		Project 45 시스템명
+Per-Bullet Reload	한 발씩 재장전	combat	fixed	발당 재장전 | 탄환별 재장전	설명서 제목은 자연스러운 표현 우선
+Jamming	총기 걸림	combat	context	걸림 | 전파 방해 | 재밍	Project 45 총기 문맥은 총기 걸림
+Flechette	플레셰트	weapon	fixed		철갑탄으로 번역하지 않음
+Thrust Damage	찌르기 피해	combat	fixed		GiC 피해 유형
+Stun	기절	combat	fixed		
+Stagger	휘청임	combat	context	비틀거리다|휘청거리다	상태명은 휘청임, 동작 서술은 비틀거리다 허용
+Bleeding	출혈	status	context	피가 나다	상태명은 출혈
+Poison	독	status	context	중독|포이즌	상태명은 독, 동작·서술과 고유명사는 문맥에 맞춤
+Burning	화상	status	context	연소 | 불타는	상태명은 화상
+Frozen	빙결	status	context	얼어붙음 | 냉동	상태명은 빙결
+Regeneration	재생	status	fixed		
+Healing	회복	status	context	치유	의술·행위 또는 고유 효과명은 치유 허용
+Immunity	면역	status	fixed		
+Invulnerability	무적	status	context	피해 면역	설명문에서는 피해 면역 허용
+Parry	패링	combat	fixed		
+Parry Window	패링 창	combat	fixed		시간 구간을 뜻하는 window
+Hit Shield	피격 방패	combat	fixed		GiC 확정 용어
+Stability	안정성	combat	context		전투 스탯은 안정성, 물리적 안정은 문맥에 맞춤; 안정도 사용 금지
+Ability Mana	능력 마나	combat	fixed		GiC 확정 용어
+Primary Ability	주 능력	combat	fixed		
+Secondary Ability	보조 능력	combat	fixed		
+Alt Ability	보조 능력	combat	fixed		입력 자체는 보조 발사
+Alt Fire	보조 발사	combat	fixed		입력 토큰 [ALT-FIRE]는 번역하지 않음
+One-Handed	한손	item	fixed		명사 앞 관형 표기
+Two-Handed	양손	item	fixed		명사 앞 관형 표기
+Head	머리	item	context	머리 장비	장비 슬롯명은 머리
+Chest	흉갑	item	context	상자 | 가슴	장비 슬롯명은 흉갑
+Legs	다리	item	context	하의	장비 슬롯명은 다리
+Broadsword	브로드소드	weapon	fixed		현재 번역 메모리의 무기 분류명. 대검·장검과 혼용하지 않음
+Shortsword	소검	weapon	fixed		별도 분류인 Dagger의 단검과 구분
+Dagger	단검	weapon	context	푸시 대거	Shortsword의 소검과 구분; 실제 무기 모델명은 보존
+Assault Rifle	돌격소총	weapon	fixed		
+Sniper Rifle	저격소총	weapon	fixed		
+Rocket Launcher	로켓 발사기	weapon	fixed		
+Grenade Launcher	유탄 발사기	weapon	fixed		
+Machine Pistol	기관권총	weapon	fixed		
+Submachine Gun	기관단총	weapon	fixed		
+Shotgun	산탄총	weapon	context	산탄	무기 분류는 산탄총, 탄약·복합 명칭은 산탄 허용
+Spear	창	weapon	context	스피어	일반 무기 분류는 창, 고유 모델명은 스피어 허용
+Hammer	해머	weapon	context	망치	무기 분류는 해머, 일반 공구는 망치
+Axe	도끼	weapon	context	아이스액스	일반 무기는 도끼, 등반 장비 모델명은 아이스액스 허용
+Bow	활	weapon	context	보우 | 리본	무기 분류는 활
+Shield	방패	weapon	context	보호막 | 실드	휴대 무기는 방패, 에너지 장벽은 보호막
+Tsar	차르	weapon-name	fixed		Raiizy's Forge 무기 계열명
+Unexistancer	언엑지스탠서	weapon-name	fixed		조어형 무기명은 음역
+Unstoppable	언스토퍼블	weapon-name	context		무기 고유명은 음역. 일반 형용사(막을 수 없는)와 특전명은 의역
+Vicious Skullfucker	비셔스 스컬퍼커	weapon-name	fixed		욕설이 포함된 무기 고유명은 직역하지 않고 음역
+Tank Fucker	탱크 퍼커	weapon-name	fixed		욕설이 포함된 무기 고유명은 직역하지 않고 음역
+Mоthеrfuсkеr	마더퍼커	weapon-name	fixed	Motherfucker	원문의 키릴 문자 유사 글자를 포함한 무기명
+Common	일반	quality	context	흔한	아이템 등급명은 일반
+Uncommon	고급	quality	context	흔치 않은	아이템 등급명은 고급
+Rare	희귀	quality	context	드문	아이템 등급명은 희귀
+Legendary	전설	quality	context	전설적인	아이템 등급명은 전설
+Augment	증강 장치	item	context	증강물 | 증강	아이템·슬롯 명칭은 증강 장치
+Environmental Protection Pack	환경 보호 팩	item	fixed	EPP	약칭 EPP는 보존 가능
+Durasteel	듀라스틸	resource	fixed		
+Aegisalt	에지솔트	resource	fixed		
+Ferozium	페로지움	resource	fixed		
+Violium	바이올륨	resource	fixed		
+Solarium	솔라리움	resource	fixed		
+Erchius	에르키우스	resource	fixed		
+Floran	플로란	race	fixed		
+Hylotl	하이로틀	race	fixed		
+Apex	에이펙스	race	context	apex	종족명은 에이펙스, 내부 ID·명령 인수는 보존
+Avian	아비안	race	context	AVIAN	종족명은 아비안, 대문자 AVIAN 인공지능은 보존
+Glitch	글리치	race	fixed		
+Human	인간	race	context	인류	종족명은 인간, 인류사·인간 종족의 후손 같은 집합적 문맥은 인류 허용
+Novakid	노바키드	race	fixed		
+Actian	액티안	race	fixed		Saturnians 종족명
+Saturnian	새터니안	race	fixed		Saturnians 종족명
+Poptop	팝톱	creature	fixed		기존 스타바운드 번역
+Wisper	위스퍼	creature	fixed		기존 스타바운드 번역
+Ringram	링그램	creature	fixed		기존 스타바운드 번역
+Lumoth	루모스	creature	fixed		기존 스타바운드 번역
+King Nutmidgeling	킹 넛밋지링	creature	fixed		기존 스타바운드 번역
+Scandroid	스캔드로이드	creature	fixed		기존 스타바운드 번역
+Terrene Protectorate	행성 보호국	faction	fixed	테레네 프로텍터레이트	기존 바닐라 번역 우선, 음역은 NonEKI 일부 대사에만 존재
+Protector	보호자	faction	context	수호자	보호국 직책명은 보호자
+Grand Protector	대보호자	faction	fixed		
+Miniknog	미니크녹	faction	fixed		
+Occasus	오카서스	faction	fixed		
+Cultist	광신도	faction	context		Starry Planets 세력원은 컬티스트/스타리 컬티스트
+Peacekeeper	피스키퍼	faction	fixed		2026-09-23 사용자 지시로 평화유지군→피스키퍼 변경(용례 충돌 회피)
+Esther	에스더	name	fixed		
+Asra Nox	아스라 녹스	name	fixed		
+Nuru	누루	name	fixed		
+Koichi	코이치	name	fixed		
+Tonauac	토나우악	name	fixed		
+Lana Blake	라나 블레이크	name	fixed		
+Big Ape	빅 에이프	name	context	큰 유인원	에이펙스 지도자 고유명일 때만 빅 에이프
+Dreadwing	드레드윙	name	fixed		
+Penguin Pete	펭귄 피트	name	fixed		
+Penguin Bay	펭귄 베이	place	fixed		
+Infinity Express	인피니티 익스프레스	place	fixed		
+Ursa Miner	우루사 마이너	place	fixed		
+Gensokyo	환상향	mod-name	fixed		GiC 기존 번역
+Bunbunmaru	붕붕마루	mod-name	fixed		GiC 기존 번역
+Tsuku	츠쿠	mod-name	fixed		GiC 기존 번역
+Quietus	콰이어투스	mod-term	fixed		GiC 기존 번역
+Telebrium	텔레브리엄	mod-term	fixed		기존 번역
+Zerchesium	제르세슘	mod-term	fixed		기존 번역
+Infernus	인퍼너스	mod-term	fixed		기존 번역
+Protosite	프로토사이트	mod-term	fixed		기존 번역
+G3	G3	model	keep		무기 모델명 보존
+MP-40	MP-40	model	keep		무기 모델명 보존
+[ALT-FIRE]	[ALT-FIRE]	input	keep		토큰과 대소문자 보존
+[FIRE]	[FIRE]	input	keep		토큰과 대소문자 보존
+[LEFT-MOUSE]	[LEFT-MOUSE]	input	keep		토큰과 대소문자 보존
+[SHIFT]	[SHIFT]	input	keep		토큰과 대소문자 보존
+Shield Bash	방패 강타	combat	fixed		기존 번역 메모리 표기. 실드 배시·방패 밀치기로 쓰지 않는다
+Perfect Block	퍼펙트 블록	combat	fixed		기존 FU 번역 표기. 완벽 블록·완벽 방어·완벽 막기로 쓰지 않는다
+Protectorate	보호국	faction	fixed	수호자	기존 번역 287건이 보호국. 프로텍토레이트 음역 금지
+Kappa	캇파	race	fixed		GIC 환상향 계열 요괴. 카파로 쓰지 않는다
+Magilock	매지락	weapon	fixed		Magishot과 같은 매지- 접두 표기 통일
+Magishot	매지샷	weapon	fixed		
+United Systems	연합 시스템	faction	fixed		연합 체계로 쓰지 않는다
+Table Stance	탁자 자세	combat	fixed		탁자를 방패로 쓰는 자세. 방패 자세로 쓰지 않는다
+DEF	방어력	stats	fixed		스탯 줄의 DEF. 방어 단독 표기 금지
+Crit Chance	치명타 확률	combat	fixed		
+Crit Damage	치명타 피해	combat	fixed		
+Divine Confetti	신성한 색종이	item	context		GIC 정화 아이템. 원문이 고유명일 때만 사용
+Archetype	아키타입	mod-term	fixed		Project 45 계열 캐릭터 아키타입
+Cultivator	컬티베이터	고유명	fixed		경작자/재배자 금지
+leafy-ones	잎사귀 종족	호칭	fixed		천사가 플로란을 부르는 말
+metal-ones	금속 종족	호칭	fixed		천사가 글리치를 부르는 말
+Relic Seeker	유물 탐구자	조직	fixed		렐릭 시커 금지
+Union flag	유니언 깃발	아이템	fixed		Elithian Union - 연합 깃발 금지
+Alliance	얼라이언스	조직	context	연합	Elithian Alliance는 얼라이언스
+Lustling	러스틀링	종족	fixed		러스트링 금지
+sanctilite	생크틸라이트	재료	fixed		생틸라이트 금지
+Cosmic Dragon	우주 드래곤	몬스터	fixed		우주 용 금지
+wood-warder	숲의 파수꾼	직책	fixed		FFXIV Viera
+salve-maker	연고 제작자	직책	fixed		FFXIV Viera
+Grounded	땅에 사는 자들	호칭	context	지상의 사람들	아비안 용어
+Aurea Seekers	아우레아 탐구자	조직	fixed		
+anglure	앵글루어	몬스터	fixed		앵글러 금지
+Trink	트링크	종족	fixed		
+Avikan	아비칸	종족	fixed		
+Avali	아발리	종족	context	avali	종족명은 아발리, 내부 ID·명령 인수는 보존
+Viera	비에라	종족	fixed	비에란	관형형 비에란 허용
+Alta	알타	종족	context	alta	종족명은 알타, 자산 경로·내부 ID는 보존
+Aegi	에지	종족	fixed		
+Thaumoth	타우모스	종족	fixed		
+Kadavan	카다반	장소	fixed		Elithian Alliance의 아비칸 모행성. 카데반 금지
+Rhaiod	라이오드	조직	fixed		Elithian Alliance의 아비칸 종교·기관
+The Ruined	루인드	종족	fixed		Angel 종족의 타락한 집단. 일반 형용사 ruined에는 적용하지 않음
+Tserera	체레라	조직	fixed		My Enternia의 알타 연구 조직
+Aeroponics	에어로포닉스	기술	fixed		Avali의 분무 재배 기술. hydroponics의 수경 재배와 구분
+Aeroponic Tubing	에어로포닉 튜빙	아이템	fixed		
+Boneworking Station	뼈 세공대	제작대	fixed		Elithian Alliance 제작대. 뼈 가공 제작대와 혼용하지 않음
+Leatherworking Station	가죽 세공대	제작대	fixed		Elithian Alliance 제작대. 가죽 가공 제작대와 혼용하지 않음
+Fusion Chamber	핵융합로	제작대	fixed		Elithian Alliance 3단계 제련 시설. 작은 별·태양으로 묘사되는 핵융합 장치
+dream hare	꿈토끼	생물	fixed		FFXIV Viera
+Ivalice	이발리스	장소	fixed		FFXIV Viera
+aura	오라	용어	context	기운	설치 TM 기준 오라(사용자 확정 2026-09-23). 문맥상 기세·분위기는 기운 허용. 학명 아우라투스(auratus)는 제외
+Starry Cultist(s)	스타리 컬티스트	세력	fixed		Starry Planets. Cultists of the Stars도 동일. 단독 Cultist는 컬티스트 (사용자 확정 2026-09-23)
+Starry planet	스타리 행성	장소	context		Starry Planets 행성 유형 (사용자 확정 2026-09-23). 다른 모드의 일반 묘사(starry planet=별빛 행성)는 제외
+Alliance (Elithian)	얼라이언스	세력	context	동맹	Elithian 세력명은 얼라이언스(사용자 확정 2026-09-23). FU Skath의 Alliance는 동맹. Red Star Alliance 제외
+gheatsyn	기트신	고유명	fixed		선례 없어 2026-09-23 신규 음역 결정 (배치 31951-32300)
+Faryth	파리스	고유명	fixed		선례 없어 2026-09-23 신규 음역 결정 (배치 31601-31950)
+Akkimari	아키마리	종족	fixed		아끼마리 금지 (사용자 확정 2026-09-25)
+Akki	아키	고유명	fixed		아끼 금지. 한국어 동사 아끼다 용법은 예외 (사용자 확정 2026-09-25)
+Spooked	겁먹음	상태이상	fixed		추격당함 금지 (사용자 확정 2026-09-25)
+opposite gender	이성	표현	fixed		반대 성별 금지 (사용자 확정 2026-09-25)
+Union Pride flag	유니언 프라이드 깃발	아이템	fixed		Union flag와 동일 규칙 - 연합 프라이드 깃발 금지
+Voltage	볼티지	바이옴/아이템명	fixed	전압	일반 명사 voltage(전압)는 예외 (사용자 확정 2026-09-25)

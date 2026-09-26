@@ -1,0 +1,161 @@
+﻿assetPath	legacyPointer	newPointer	legacyKorean	status
+/ai/ai.config.patch	/0/14/value		"^#6f6f6f;`$ status
+^cyan;이제는 승무원 걱정 안 해도 돼. 너의 배는 내가 안전하게 지켜줄게. 내가 너라면 우주선을 혼자 갖고 싶을 거야! 하지만, 혹시 도움을 줄 사람을 모집하고 싶다면, 그건 너의 몫이야. 그냥 그들이 뭘 하는지 알고 있는지 확인만 해줘..."	no-candidate
+/ai/ai.config.patch	/0/16/value		"^#6f6f6f;`$ status
+^cyan;음, 이 메뉴가 뭔지 잘 모르겠어. 임무? 어떤 임무? 우리는 지금 여기서 살아남으려고 애쓰고 있어. '여기'가 어디든 말이야."	no-candidate
+/ai/ai.config.patch	/0/18/value		"^#6f6f6f;`$ status
+^cyan;음. 안녕. 배를 재부팅할 수 있어?"	no-candidate
+/ai/ai.config.patch	/0/20/value		"^#6f6f6f;`$ status
+^cyan;그래, 우리 배가 지금은 별로 예쁘지 않아. 넌^green;우리가 공전하고 있는 행성에 빔다운해서 둘러보는 게 좋을 거야.^cyan;이 엉망진창을 고칠 무언가를 찾을 수 있기를 기도해."	no-candidate
+/ai/ai.config.patch	/0/21/value		"^#6f6f6f;`$ status
+^cyan;우리 배가 적어도 날 수 있다는 소식을 전해드릴 수 있어서 기뻐요!
+추진기가 잘 작동해.
+배 텔레포터가 작동해.
+^green;이 시스템의 어디든 여행할 수 있어,^cyan;하지만 FTL 드라이브를 고치기 전까지는 성간 여행은 못 해."	no-candidate
+/ai/ai.config.patch	/0/22/value		"^#6f6f6f;`$ status
+^cyan;다시 안녕! 배는 평소처럼 괜찮은 상태야.
+추진기가 잘 작동해.
+FTL 드라이브가 잘 작동해.
+배 텔레포터가 작동해.
+거의^green;우주의 어디든 갈 수 있어!"	no-candidate
+/interface/cockpit/cockpit.config.patch	/0/0/value	/1/0/value	"FTL 여행에 필요한 연료^green;%s 연료^reset;으로 설정합니다.
+준비됐어?"	mapped
+/quests/story/human_mission1.questtemplate.patch	/0/value		거기로 빔 전송할 수 있어.^orange;내가 그 함선을 수리할 수 있어, 하지만 20개의^reset;에르키우스 크리스탈^green;이 필요해... 너는^reset;에르키우스 채굴 시설로 가야 해^green;. 내가 위치 좌표를 너의^reset;으로 설정합니다.	ambiguous:/0/1|/1/1
+/quests/story/human_mission1.questtemplate.patch	/1/value	/2/0/value	함선 컴퓨터에 보냈어^orange;우리는 레테이아^reset;에르키우스 채굴 시설로 여행을 가는 거야! 만약 네가^green;함선 터미널로 돌아가면^reset;, 우리는 거기로 이동할 수 있어.	mapped
+/radiomessages/exploration.radiomessages.patch	/3/0/value	/4/0/value	이 방에서 너는 너의 이동성을 도와줄 다양한 기술을 시도해볼 수 있어. 더블 점프나 대시 같은 것들!	mapped
+/radiomessages/exploration.radiomessages.patch	/3/2/value/text	/4/2/value/text	이봐, 기다려! 기다려! 이 행성의 방사능 수치가 너에게 너무 높아! 보호 장비를 착용하거나 다시 빔 업해야 해!	mapped-by-context
+/radiomessages/exploration.radiomessages.patch	/3/3/value/text	/4/3/value/text	너의 폐에 대해 중요한 걸 잊고 있어: 그것들은 산소가 필요해! 호흡 EPP를 얻지 않으면 질식할 거야!	mapped-by-context
+/radiomessages/exploration.radiomessages.patch	/4/0/value/text	/5/0/value/text	기다려! 이 행성은 너무, 너무, 너무 추워! 보호 장비를 얻지 않으면 얼어 죽을 거야!	mapped-by-context
+/radiomessages/fu_elder.radiomessages.patch	/0/4/value	/3/value	생물학적 신호를 감지하고 있어. 잠시만 기다려줘 내가^red;****^reset;...어머나. 날씨가 우리 연결을 방해하고 있어. 만약 내가 너에게 더 이상 닿을 수 없다면, NEKI가 너를 안내할 수 있어. 냐옹~	mapped
+/radiomessages/intro.radiomessages.patch	/0/value/text	/2/0/value/text	보호자야, 너 침대에서 나와야 해, 늦잠 잤거든. 그 침대에서 나와^#71f2f6;A나 D를 눌러서^white;, 알겠지? 천천히 해도 돼.	mapped
+/radiomessages/intro.radiomessages.patch	/1/value/text		물건이나 사람과 상호작용하려면,^#71f2f6;커서를 그 위에 올리고 E를 눌러^white;. 오늘 졸업식이니까 서둘러야 해...	ambiguous:/0/1|/1/1
+/radiomessages/intro.radiomessages.patch	/2/value/text	/2/1/value/text	늦은 거에 대해 더 잔소리하고 싶지만, 어차피 아무것도 제시간에 맞춰지지 않아. 시간은 있어. 그냥 그 문을 열자고^#71f2f6;커서를 그 위에 올리고 E를 눌러서^white;으로 설정합니다.	mapped
+/radiomessages/intro.radiomessages.patch	/3/value/text	/2/2/value/text	이거 진짜 재밌을 거야! 네 시점으로 졸업식을 볼 수 있다니, 관중석에 앉아있지 않아도 되니까!	mapped
+/radiomessages/intro.radiomessages.patch	/4/value/text	/2/3/value/text	외계인 공격?! 지금?! 아무도 그걸 예상 못했을 거야! 보호자 기술을 발휘해서 지구를 구할 시간이야!^#71f2f6;그 물질 조작기를 잡아^white;, 필요할 거야!	mapped
+/radiomessages/intro.radiomessages.patch	/5/value/text	/2/4/value/text	야, 친구, 그 물질 조작기가 필요해! 돌아가서 잡아, 지금!	mapped
+/radiomessages/intro.radiomessages.patch	/6/value/text	/2/5/value/text	젠장, 천장이 무너졌어! 빨리,^#71f2f6;R을 눌러 물질 조작기를 꺼내^white;이걸 뚫고 지나가!	mapped
+/radiomessages/intro.radiomessages.patch	/7/value/text	/2/6/value/text	내 고양이 디지털 계산에 따르면, 이 흙더미를 그냥 파고 지나갈 수 있어!^#71f2f6;R을 눌러 물질 조작기를 장착해^white;!	mapped
+/radiomessages/intro.radiomessages.patch	/8/value/text	/2/7/value/text	잠깐, 저 문으로 들어가지 마! 물이 있어. 방 전체가 잠겼어. 저기 위에 있는 지붕 출입구로 가!^#71f2f6;스페이스바로 점프할 수 있어^white;으로 설정합니다.	mapped
+/radiomessages/intro.radiomessages.patch	/9/value/text	/2/8/value/text	...오. 상황이... 내가 생각했던 것보다 훨씬 안 좋아. 우리 도망가야 할 것 같아. 이건 큰일이야.	mapped
+/radiomessages/intro.radiomessages.patch	/10/value/text	/2/9/value/text	빨리, 이제 다시 안으로 들어가! 플랫폼을 내려가려면^#71f2f6;S로 웅크리고 스페이스바를 눌러^white;!	mapped
+/radiomessages/intro.radiomessages.patch	/11/value/text	/2/10/value/text	너는 가능한 한 빨리 우주선으로 가야 해!^#71f2f6;S로 웅크리고 스페이스바를 눌러^white;플랫폼을 내려가!	mapped
+/radiomessages/intro.radiomessages.patch	/12/value/text	/2/11/value/text	지금 당장 무기를 얻는 게 아닌데, 어디에 있는지 모르겠어. 그러니까 저 상자에서 찾는 거 그냥 가져가! 지금은 그걸로 버텨!	mapped
+/radiomessages/intro.radiomessages.patch	/13/value/text	/2/12/value/text	무기를 넣어봐^#71f2f6;화면 상단의 핫바 슬롯 중 하나에^white;. 장착하려면^#71f2f6;마우스를 스크롤하거나 키보드의 할당된 번호를 눌러봐^white;!	mapped
+/radiomessages/intro.radiomessages.patch	/14/value/text	/2/13/value/text	내가 무기 가지러 가라고 말하지 않았어?! 이 촉수가 길을 막고 있는데, 스스로 타코야키가 되진 않을 거야!	mapped
+/radiomessages/intro.radiomessages.patch	/15/value/text	/2/14/value/text	우주선에 올라타서 날 컴퓨터에 꽂아! 지금 당장 가야 해!	mapped
+/radiomessages/mech.radiomessages.patch	/0/value/text	/0/18/value/text	네 퍼레이드에 찬물을 끼얹기 싫지만, 네 메카는 아직^green;방사능^reset;을 견딜 만큼 강력하지 않아. 이 행성에는 방사능이 많으니까, 가능하면 나오는 게 좋을 거야.	mapped-by-context
+/radiomessages/mech.radiomessages.patch	/1/value/text	/0/19/value/text	여기 안이 따뜻하고 아늑한 건 알겠지만... 네 메카는 아직^cyan;추운^reset;저항력이 충분하지 않아. 만약 추위에 대한 보호 장비가 있다면, 지금은 도보로 가는 게 나을 것 같아.	mapped-by-context
+/radiomessages/mech.radiomessages.patch	/2/value/text	/0/20/value/text	놀라워! 이 행성은 정말로 너무^red;뜨거워질^reset;해서, 네 메카를 빵처럼 굽고 있어! 여기서 이걸 조종하지 않는 게 좋겠어.	mapped-by-context
+/radiomessages/mech.radiomessages.patch	/3/value/text	/0/23/value/text	용암에서 메카를 꺼내줘. 너는 타로 키타노가 아니야.	mapped-by-context
+/radiomessages/mech.radiomessages.patch	/4/value/text	/0/6/value/text	좋아, 우주인, 이제 무중력 상태야. 새 메카 안에 머물러! 우주를 날 수 있도록 장비가 되어 있으니, 가서 익숙해져 봐.	mapped-by-context
+/radiomessages/mech.radiomessages.patch	/5/value/text	/3/1/value/text	저기 목표물들이 보여. 네 메카의 무기를 사용해서 산산조각 내봐!	mapped
+/radiomessages/mech.radiomessages.patch	/6/value/text	/0/8/value/text	메카가 중력이 있는 환경에 있을 때는 다리가 활성화될 거야. 여기서 메카로 걸어가 봐.	mapped-by-context
+/radiomessages/mech.radiomessages.patch	/7/value/text	/0/9/value/text	아비안 유물^#60b8ea;파란 막대^white;는 네 메카의 에너지 미터야, 시간이 지나거나 피해를 입으면 줄어들 거야.	mapped-by-context
+/radiomessages/mech.radiomessages.patch	/8/value/text	/0/10/value/text	우주에서도 우리를 죽이려는 것들이 있는 것 같아. 메카의 무기를 사용해서 이 것들을 물리치면, 메카의 에너지를 보충할 수 있는 에너지 배터리를 떨어뜨릴 거야.	mapped-by-context
+/radiomessages/mech.radiomessages.patch	/9/value/text	/3/2/value/text	이제 메카에서 나와야 할 것 같아.^#71f2f6;E 키를 사용해서 메카에 들어가고 나와봐^white;으로 설정합니다.	mapped
+/radiomessages/mech.radiomessages.patch	/10/value/text	/3/3/value/text	^green;여기서 모든 게 정리된 것 같아^white;. 이 테스트 코스를 만들기 위해 USCM이 이 고철 덩어리를 남겨둔 것에 감사해야겠어!	mapped
+/radiomessages/mech.radiomessages.patch	/11/value/text	/4/0/value/text	밖에서 조심해. 메카 안에서도 이곳은 꽤 위험해 보여.	mapped
+/radiomessages/mech.radiomessages.patch	/12/value/text	/4/1/value/text	휴...^green;좋아, 해냈어!^reset;그건 정말 말도 안 됐어. 이제 돌아가서 아카기 박사와 얘기해봐.	mapped
+/radiomessages/mech.radiomessages.patch	/13/value/text	/4/2/value/text	이 우주선에서 이상한 생명 신호가 감지되고 있어. 눈 크게 뜨고 있어, 알겠지?	mapped
+/radiomessages/mech.radiomessages.patch	/14/value/text	/4/3/value/text	테레네 보호구역 저장소를 찾은 것 같아. 이런 게 여기 떠다니고 있는 줄은 몰랐어.	mapped
+/radiomessages/quests.radiomessages.patch	/0/value/text		혹시^orange;고대 에너지원^reset;에 대해 알고 있니? 근처에서 하나를 감지했어.^green;한번 확인해볼 수 있어^reset;... 아니면, 그냥 우리 별 간 캠핑 여행을 계속할 수도 있어, 네가 원한다면.	ambiguous:/0/3|/1/1
+/radiomessages/quests.radiomessages.patch	/1/value/text		오, 이거 봐봐? 뭔가^orange;라디오 방송이 이걸 통해 들어오고 있어^reset;. 한번 들어봐.	ambiguous:/0/1|/1/2
+/radiomessages/quests.radiomessages.patch	/3/value/text		...흥미롭네. 좋은 소식은, 지질 스캔에 따르면^orange;이 행성에 코어 조각이 있어^reset;. 나쁜 소식은 그것들이 꽤 깊이, 세계의 중심에 있다는 거야.	ambiguous:/0/2|/1/3
+/radiomessages/quests.radiomessages.patch	/4/value/text		우와, 너 이 문을 작동시켰구나! 이제 나오는 라디오 신호가 더 강해졌어. 또 다른 메시지가 들리는 것 같아.^orange;메시지^reset;으로 설정합니다.	ambiguous:/0/4|/1/4
+/radiomessages/sb_tutorial.radiomessages.patch	/0/value/text	/0/1/value/text	오, 좋아. 기술 결합 스테이션이네? 이걸로 기술 카드를 만들어서 어디서든 기술을 장착할 수 있어.	mapped
+/radiomessages/sb_tutorial.radiomessages.patch	/1/value/text	/1/1/value/text	기술 개발 콘솔이 네 기술 드라이브를 인식하지 않으면, 이 문제를 해결할 수 있다고 들었어.^orange;정제소에 기술 드라이브를 넣어서 포맷하면 돼.^reset;으로 설정합니다.	mapped
+/radiomessages/sb_tutorial.radiomessages.patch	/2/value/text		네가 놓은 식민지 증서와 고용 비콘은 위험 수준이 높은 행성에서 더 강력한 세입자를 끌어들일 거야.	no-candidate
+/radiomessages/sb_tutorial.radiomessages.patch	/3/value/text	/4/1/value/text	이런 강의대는 너의 독서를 편리하게 해줄 수 있어. 그리고 네가 이동해도 그 위에 있는 모든 것을 유지할 거야.	mapped
+/radiomessages/sb_tutorial.radiomessages.patch	/4/value/text	/5/1/value/text	그건 빈 책이야! 네가 원하는 걸 쓸 수 있어. 내가 네가 쓰는 걸 다 볼 수 있으니까, 말 조심해.	mapped
+/radiomessages/sb_tutorial.radiomessages.patch	/5/value/text	/6/1/value/text	페인트로, 너는 페인트할 수 있어. 블록을 페인트할 수 있어. 그림은 못 그려. 나도 못 그려.	mapped
+/radiomessages/sb_tutorial.radiomessages.patch	/6/value/text		플러팔로 먹이를 좀 가지고 있구나. 그걸 플러팔로 송아지에게 줄 수 있어.^#71f2f6;오른쪽 클릭^reset;으로 성장 속도를 높이거나 영향을 줄 수 있어.	no-candidate
+/radiomessages/sb_tutorial.radiomessages.patch	/7/value/text	/7/1/value/text	이제 사다리를 가지고 있구나. 사다리 앞에 서서^#71f2f6;스페이스바를 누르고 있으면^reset;으로 설정합니다.	mapped
+/radiomessages/sb_tutorial.radiomessages.patch	/8/value/text	/8/1/value/text	올라갈 수 있어. 음악 악보를 얻었구나! 라디오에서 찾은 노래를 연주할 수 있어, 그리고 그걸 도구 테이블에서 만들 수 있어.	mapped
+/radiomessages/sb_tutorial.radiomessages.patch	/9/value/text	/9/1/value/text	이제 제대로 된 채굴 도구를 얻었구나? 그걸 네 아이템 슬롯에 넣고 일반적으로 사용할 수 있어, 하지만 네가 원한다면 오른손 도구 모음을 사용해서 물질 조작기 슬롯에 넣을 수도 있어.	mapped
+/radiomessages/sb_tutorial.radiomessages.patch	/10/value/text		방금 주운 탄약은 특정 총에 사용해서^green;20%^reset;데미지 증가를 줄 수 있어. 탄약이 떨어지거나^#71f2f6;발사할 때 SHIFT를 누르면^reset;, 총이 대신 에너지를 사용할 거야.	no-candidate
+/radiomessages/sb_tutorial.radiomessages.patch	/11/value/text		이 문은 우리가 본 다른 고대 문들과 거의 똑같이 생겼어. 어디론가 이어질 게 분명한데, 왜 이 시스템의 가장자리에 이렇게 멀리 두었을까?	no-candidate
+/radiomessages/ship.radiomessages.patch	/0/0/value	/1/0/value	해냈어! 네 첫 번째 승무원을 얻었어! 그들에 대한 더 많은 정보를 보고 싶다면, 터미널에서 확인할 수 있어.	mapped
+/radiomessages/ship.radiomessages.patch	/1/0/value/text	/2/0/value/text	더 이상 승무원을 데려갈 수 없어. 다른 사람을 데려가고 싶다면, 그들 중 한 명을 함선에 남겨야 해.	mapped
+/radiomessages/techchallenge.radiomessages.patch	/1/value/text	/1/4/3/value/text	우리 방금^orange;펄스 점프 기술을^reset;이 테스트 코스에서 얻었어. 이제 너는 더블 점프를 할 수 있어^#71f2f6;공중에서 스페이스바를 눌러서 말이야.^reset;!	mapped
+/radiomessages/techchallenge.radiomessages.patch	/2/value/text	/1/4/4/value/text	내 생각엔 너가^#71f2f6;타이밍을 맞춰서^orange;펄스 점프를^#71f2f6;정확하게 해야 할 것 같아.^reset;저기 아래 쪽에 있는 경사로 근처에 도착했을 때 말이야.	mapped
+/radiomessages/techchallenge.radiomessages.patch	/3/value/text	/1/4/5/value/text	좋아, 너는^orange;대시 기술을^reset;이 테스트 코스에서 장착했어.^#71f2f6;A나 D를 더블 탭해서 왼쪽이나 오른쪽으로 대시해봐^reset;지면에 있을 때 말이야.	mapped
+/radiomessages/techchallenge.radiomessages.patch	/4/value/text	/1/4/6/value/text	너는 문 바로 옆에 위치해야 해^#71f2f6;대시해서 통과하기 전에 말이야.^reset;내가 여기서 뛰어다니면 훨씬 쉬울 텐데, 그치?	mapped
+/radiomessages/techchallenge.radiomessages.patch	/5/value/text	/1/4/7/value/text	아, 참, 달리기로도 이 문들을 통과할 수 없겠지? 나도 이런 멋진 이동 기술을 받고 싶어.	mapped
+/radiomessages/techchallenge.radiomessages.patch	/6/value/text	/1/4/8/value/text	어머나. 저^orange;냉동 블래스터들을^reset;건드리지 마. 너를 느리게 만들고... 엄청 차가워.	mapped
+/radiomessages/techchallenge.radiomessages.patch	/7/value/text	/1/4/2/value/text	양말처럼 몸을 둥글게 말아봐!^#71f2f6;F를 눌러서^orange;왜곡 구체를^reset;사용해서 둥글게 변신할 수 있어.	mapped-by-context
+/radiomessages/techchallenge.radiomessages.patch	/8/value/text	/1/4/9/value/text	거기에 들어가려면, 너는^#71f2f6;점프 중에 구체로 변신해야 해.^reset;으로 설정합니다.	mapped
+/radiomessages/tutorial.radiomessages.patch	/0/0/value	/2/0/value	FTL 드라이브용 액체 스푸키움을 달에서 채굴할 수 있어. 지구가 파괴된 이후로 스캔한 모든 달에서 이상하고 불쾌하며 무서운 신호가 나왔다는 점을 알아둬.	mapped
+/radiomessages/tutorial.radiomessages.patch	/1/2/value/text	/3/2/value/text	이-이-뭐라고? 헉?! 저게 그 피쉬액스야?! 그 피쉬액스?! 그거 조심해서 다뤄야 해!	mapped
+/radiomessages/tutorial.radiomessages.patch	/1/3/value/text	/3/3/value/text	우리가 직접 로브 리페이로를 얻었어! 이제 전초기지에 가지 않고도 차량을 수리할 수 있어.	mapped
+/radiomessages/tutorial.radiomessages.patch	/2/2/value/text	/5/2/value/text	기본으로 돌아가는 거구나! 아, 우리가 첫날부터 나무를 자를 줄 누가 알았겠어?	mapped
+/radiomessages/tutorial.radiomessages.patch	/2/3/value/text	/5/3/value/text	네가 모으고 있는 나무는 우리가 필요로 하는 많은 것들에 유용해. 기회가 되면 제작 메뉴를 한번 봐봐.	mapped
+/radiomessages/tutorial.radiomessages.patch	/2/4/value/text	/5/4/value/text	씨앗 좀 얻었어? 채집 테이블을 만들면 그 씨앗을 심고 농장을 시작할 수 있는 도구를 만들 수 있어!	mapped
+/radiomessages/tutorial.radiomessages.patch	/2/5/value/text	/5/5/value/text	캠프파이어로 기본적인 음식을 요리할 수 있어. 주방에 도착할 때까지는 외계 고기 꼬치와 끓인 쌀로 버텨야 할 것 같아...	mapped
+/radiomessages/tutorial.radiomessages.patch	/2/6/value/text	/5/6/value/text	석탄을 얻었구나! 그걸 나무 조각에 살짝 얹으면 횃불이 생길 거야. 다들 아는 것처럼. 사실... 모두가 알고 있지.	mapped
+/radiomessages/tutorial.radiomessages.patch	/2/7/value/text	/5/7/value/text	오, 활? 너, 친구야, 신선한 고기를 얻으러 가는 길이야! 타이밍을 잘 맞춰서 쏴야 해!	mapped
+/radiomessages/tutorial.radiomessages.patch	/2/8/value/text	/5/8/value/text	저 아래에 온갖 생물들이 감지되고 있어, 그러니까 코어 프래그먼트를 찾으려면 장비를 만들기 위해 철을 좀 모으는 게 좋을 거야.	mapped-by-context
+/radiomessages/tutorial.radiomessages.patch	/3/4/value/text	/6/4/value/text	내가 말해주면 재미없잖아!	mapped
+/radiomessages/tutorial.radiomessages.patch	/3/5/value/text	/6/5/value/text	우리가 이걸 하는 데에 어떤 업보가 있을 것 같아.	mapped
+/radiomessages/tutorial.radiomessages.patch	/3/6/value/text	/6/6/value/text	뭐, 추위 좀 못 견디겠어?	mapped
+/radiomessages/tutorial.radiomessages.patch	/3/7/value/text	/6/7/value/text	누가 이 기름으로 요리하라고 해도 절대 사용하지 마.	mapped
+/radiomessages/tutorial.radiomessages.patch	/3/8/value/text	/6/8/value/text	EPP는 달이나 물속처럼 공기가 없는 곳에서 생존할 수 있게 해줘! 다른 모델은 열과 추위 같은 것들로부터 보호해줘! 강화로 파워업도 할 수 있어.	mapped
+/radiomessages/tutorial.radiomessages.patch	/3/9/value/text	/6/9/value/text	내 핀업을 보고 싶다면, 가게에서 사는 것만으로는 부족해!	mapped
+/radiomessages/tutorial.radiomessages.patch	/3/10/value/text	/6/10/value/text	아니야. 그냥 턱스의 뉴그라운드 페이지로 가서 아트 갤러리를 M등급으로 필터링해.	mapped
+/radiomessages/tutorial.radiomessages.patch	/3/11/value/text	/6/11/value/text	너 싫어.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/2/value/text	/7/2/value/text	내가 네 머릿속 작은 컴퓨터로 갇혀 있는 동안, SAIL의 전체 데이터베이스를 참조할 수 있어, 그리고 상상할 수 있는 거의 모든 것을 단계별로 가르쳐줄 수 있어! 너는^orange;발명가의 테이블^reset;으로 설정합니다.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/3/value/text	/7/3/value/text	네가 만든 발명가의 테이블은 다른 제작 스테이션을 만들 수 있게 해줘! 목공에 투자한 건 잘한 일이야.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/4/value/text	/7/4/value/text	저 깃발은 네 텔레포터의 북마크로 설정할 수 있어. 수백 광년 떨어진 곳에서도 다시 돌아올 수 있어!	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/5/value/text	/7/5/value/text	지금 시대에 광석을 캐고 뭐 하는 거야? 그걸 주괴로 녹여서 장비를 만들려고? 청동기 시대야? 대단하네.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/6/value/text	/7/6/value/text	오, 코어 프래그먼트! 이건 에너지가 가득 차 있어. 이거 스무 개면 우리가 필요한 모든 것에 충분해.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/7/value/text	/7/7/value/text	식물 섬유는 특히 너에게 유용할 거야, 옷과 갑옷을 만드는 데. 로프로 짜거나 연고로 만들 수도 있어.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/8/value/text	/7/8/value/text	염료 좀 얻었어? 색을 옷에 대고 있으면^#71f2f6;오른쪽 클릭^reset;으로 설정합니다.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/9/value/text	/7/9/value/text	환경 보호 팩은 다양한 대기 위험으로부터 면역을 줘! 그걸 등에 메고 있으면 이제 갈 수 없는 곳은 가스 행성뿐이야!	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/10/value/text	/7/10/value/text	강화는 환경 보호 팩에 추가 에너지, 체력 또는 데미지 같은 능력을 부여할 수 있어. EPP에 오른쪽 클릭으로 장착할 수 있어. 상상할 수 없는 힘!	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/11/value/text	/7/11/value/text	저 목걸이를 잡은 몬스터에 장착하면 그들의 능력을 강화하고 더 강하게 만들어줘. 아니면 폭발하게 만들 수도 있어. 물론 의도적으로 폭발하게.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/12/value/text	/7/12/value/text	이 포획 포드에는 살아있는 생명체를 전부 담을 수 있어. 별들 사이에 다양한 외계인들이 있어! 약해지면 던져서 잡고 길들일 수 있어.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/13/value/text	/7/13/value/text	던질 수 있는 사냥용 창으로 몬스터에서 고기를 얻을 수도 있어. 느리고 무겁지만 강력해.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/14/value/text	/7/14/value/text	조작자 모듈은 물질 조작자를 업그레이드하는 데 사용돼, 네 것도 포함해서! 이걸 충분히 모으면 조작자에 추가 모드, 범위, 채굴 능력을 줄 수 있어!	mapped-by-context
+/radiomessages/tutorial.radiomessages.patch	/4/15/value/text	/7/15/value/text	...알다시피, 그건 너무 느리게 채굴해서 졸업 소품으로 만들어진 것 같아.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/16/value/text	/7/16/value/text	긴 길로 내려가고 싶다면, 직접 광산을 파서 코어 프래그먼트를 채굴할 수 있을 만큼 깊이 파면 더 적은 문제와 더 많은 광석을 만날 수 있을 거야.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/17/value/text	/7/17/value/text	이거 정말 대단하네? 이 고대 문은 어떤 시험을 포함한 주머니 차원으로 이어지는 것 같아. 들어가고 싶다면, 우리가 알아볼 수 있어...	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/18/value/text	/9/0/value/text	이 장난감 제작자 테이블은 산타에게 새로운 작업장을 지어줄 만큼 다양한 축제 아이템을 만들 수 있게 해줘!	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/19/value/text	/9/1/value/text	어, 하트 포지? 특별히 생각해둔 사람이 있어?	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/20/value/text	/9/2/value/text	나도 좀 피곤해, 알지... 이 모든 걸 하는 게... 피곤해...	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/21/value/text	/9/3/value/text	오, 나는 셰퍼드 파이를 정말 좋아해! 내 최애야! 그 모든 든든하고 맛있는 고기와 채소가 내가 사관생도였을 때 배를 채울 수 있는 유일한 것이었어. 내 승무원은... 음, 전부^pink;그녀^reset;는 톱밥만 먹었어.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/22/value/text	/9/4/value/text	좋아, 이제 어떤 세계의 표면에 구멍을 뚫지 마. 큰 힘에는 큰 책임이 따른다는 걸 알고 있겠지.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/23/value/text	/9/5/value/text	페인트 건 없이는 벽돌 전투를 할 수 없어! 여기서도 피구공과 슬링샷을 좀 가져와봐. 옛날 생각이 날 거야.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/24/value/text	/9/6/value/text	와우, 내가 졸업식 날 그걸 잡으라고 말한 게 기쁘지? 지금 봐봐!	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/25/value/text	/9/7/value/text	아, 제발. 이걸 북마크하라고? 우주의 어디서든... 속옷으로 워프하고 싶다고? 장난하는 거지.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/26/value/text	/9/8/value/text	봐, 어느 순간에는 섹시함을 넘어서 그냥 다이어트 누드가 되는 거야, 알겠어? 이젠 심지어 패셔너블하지도 않아.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/27/value/text	/9/9/value/text	그러니까, 진짜로 그걸 생각해봐, 응? 몇 개의 끈과 끈에 얼마나 많은 스타일리시한 매력을 담을 수 있을까, 내 멋진 재킷과 화려한 빨간 치마에 비해서?	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/28/value/text	/9/10/value/text	나는 비키니를 싫어하지 않아. 그냥 미적 감각이 있으면 좋겠어.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/29/value/text	/9/11/value/text	음... 그게 정말... 너를 보호해줄 거라고... 확신해...?	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/30/value/text	/9/12/value/text	아, 내가 너한테 네키 갑옷 설계도를 줬으니 이건 내 잘못이네, 뭐.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/31/value/text	/9/13/value/text	장난해? 이 갑옷 입으면 진짜로 수영할 수 있어! 해변에 가도 아무도 눈치 못 챌걸!	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/32/value/text	/9/14/value/text	음, 아무도 이상하다고 생각하진 않겠지만, 분명 널 쳐다보긴 할 거야.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/33/value/text	/9/15/value/text	어머나, 너 생고기를 먹었네! 있잖아, 그거 원래 먹으면 안 되는 건데... 음...	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/34/value/text	/9/16/value/text	...오, 근데 네 몸이 그걸 잘 받아들이는 것 같네? 생체 신호에 이상은 없으니, 네 생물학적 특성이 생고기를 받아들이는 것 같아. 계속 먹어도 되겠어.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/35/value/text	/9/17/value/text	아이고, 아무도 너한테 초콜릿 먹으면 안 된다고 안 알려줬어? 초콜릿은 너한테 독이야! 약 좀 먹어야겠다.	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/36/value/text	/9/18/value/text	"저거
+				
+				후광이야?"	mapped
+/radiomessages/tutorial.radiomessages.patch	/4/37/value/text	/9/19/value/text	^red;(노래 부르지 않으려고 엄청 애쓰고 있음)	mapped
+/system_objects.config.patch	/0/value	/0/0/value	이 우주 정거장에서는 우주 시대 기술에 널리 쓰이는 전자 부품을 생산해.	mapped
+/system_objects.config.patch	/1/value	/0/1/value	우주 요리의 거점이야! 이 정거장은 온갖 종족과 문화권에 음식과 재료를 공급해.	mapped-by-context
+/system_objects.config.patch	/2/value	/0/2/value	의료 우주 정거장이야. 과학자들이 온갖 병에 대한 약을 개발해서 고통을 없애줘!	mapped-by-context
+/system_objects.config.patch	/3/value	/0/3/value	이 정거장에서는 최첨단 무기 부품을 생산해서 우주의 온갖 위험에 맞서 싸워.	mapped-by-context
+/system_objects.config.patch	/4/value	/0/4/value	이 꼬마 우주 바위는 테렌 평화유지군의 본부로 쓰여.	mapped
+/system_objects.config.patch	/5/value	/0/5/value	우주에 떠 있는 낡은 사무실 건물이야. 평화유지군의 허브로 개조했어.	mapped
+/system_objects.config.patch	/6/value	/0/6/value	테렌 평화유지군 전용 우주 정거장이야. 좀 녹슬었지만 기능은 잘해.	mapped
+/system_objects.config.patch	/7/value	/0/7/value	멋진 우주 정거장이야. 테렌 평화유지군의 본부로 쓰여.	mapped
+/system_objects.config.patch	/8/value	/0/8/value	활기차고 세련된 우주 정거장이야. 테렌 평화유지군의 허브로 자랑스럽게 쓰여.	mapped
+/system_objects.config.patch	/9/value	/0/9/value	완전히 독립적인 우주 정거장이야. 배치한 사람이 전부 책임져야 해! 꼭 컨디션을 잘 유지해야겠지...	mapped
+/system_objects.config.patch	/10/value	/0/10/value	이 우주선은 뭔가 찜찜해. 그곳에서 좋은 사람을 만날 것 같지 않아.	mapped
+/system_objects.config.patch	/11/value	/0/11/value	이 우주선은 뭔가 찜찜해. 그곳에서 좋은 사람을 만날 것 같지 않아.	mapped
+/system_objects.config.patch	/12/value	/0/12/value	별 사이를 항해하는 작은 우주선이야. 승무원들이 방문을 환영한다고 해. 꼭 들러봐.	mapped
+/system_objects.config.patch	/13/value	/0/13/value	별 사이를 항해하는 작은 우주선이야. 승무원들이 방문을 환영한다고 해. 꼭 들러봐.	mapped
+/system_objects.config.patch	/14/value	/0/14/value	별 사이를 항해하는 작은 우주선이야. 승무원들이 방문을 환영한다고 해. 꼭 들러봐.	mapped
+/system_objects.config.patch	/15/value	/0/15/value	별 사이를 항해하는 작은 우주선이야. 승무원들이 방문을 환영한다고 해. 꼭 들러봐.	mapped
+/system_objects.config.patch	/16/value	/0/16/value	공허 속에 뭔가 있어. 스캔 결과가 별로 없어.	mapped
+/system_objects.config.patch	/17/value	/0/17/value	법 집행자들로부터 벗어날 수 있는 최고의 장소가 바로 슈퍼 노웨어, 즉 깊은 우주라는 걸 깨달을 만큼 똑똑한 범죄자들의 피난처야!	mapped
+/system_objects.config.patch	/18/value	/0/18/value	법보다는 별에 묶이기를 선택한 자들의 배야. 그리 오래 가지 않을 것 같아.	mapped

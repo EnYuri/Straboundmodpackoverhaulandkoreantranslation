@@ -1,0 +1,104 @@
+{
+  "keptRows": 229024,
+  "keptUniqueEnglish": 134245,
+  "excludedRows": 370688,
+  "worklistUnique": 128808,
+  "byCategory": {
+    "new-translation": 204670,
+    "tm-single": 14540,
+    "tm-multi": 9814
+  },
+  "excludedReasons": {
+    "patch-nontext-leaf": 192172,
+    "patch-test-value": 127676,
+    "already-translated": 47043,
+    "unused-or-deprecated-asset": 1868,
+    "behavior-tree-parameter": 1194,
+    "template-placeholder": 500,
+    "parameter-reference": 203,
+    "code-like-string": 22,
+    "asset-path-identifier": 10
+  },
+  "perModTop": [
+    [
+      "-9700_Elithian_contents_850109963.pak",
+      21239
+    ],
+    [
+      "sexbound-reborn-1.2_r3h2.pak",
+      16637
+    ],
+    [
+      "contents_2735634052.pak",
+      14559
+    ],
+    [
+      "Enternia_contents_2006558650.pak",
+      13085
+    ],
+    [
+      "contents_2604255131.pak",
+      9032
+    ],
+    [
+      "contents_2359135864.pak",
+      8638
+    ],
+    [
+      "FrackinUniverse_contents_729480149.pak",
+      8467
+    ],
+    [
+      "ffxiv_viera_contents_732276079.pak",
+      7683
+    ],
+    [
+      "-1000_angel_contents_1686520464.pak",
+      7330
+    ],
+    [
+      "contents_2611501999.pak",
+      5762
+    ],
+    [
+      "Saturnians_contents_1103027918.pak",
+      5716
+    ],
+    [
+      "sxb_TTPPv2.pak",
+      5290
+    ],
+    [
+      "contents_2010607826.pak",
+      4396
+    ],
+    [
+      "contents_2959854988.pak",
+      3796
+    ],
+    [
+      "contents_1417364378.pak",
+      3748
+    ],
+    [
+      "contents_2957477338.pak",
+      3744
+    ],
+    [
+      "contents_3117942107.pak",
+      3648
+    ],
+    [
+      "contents_2925061852.pak",
+      3623
+    ],
+    [
+      "997_sxb_Lustlings_1.2.9_clean.pak",
+      3547
+    ],
+    [
+      "voided_contents_2822921122.pak",
+      3381
+    ]
+  ]
+}

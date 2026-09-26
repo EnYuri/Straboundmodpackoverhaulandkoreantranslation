@@ -1,0 +1,635 @@
+=== 880
+  The supply line of the future.
+=== 881
+  Tiny Mouse Commander
+=== 882
+  Trade Terminal: Alliance of Independents Embassy
+
+
+
+
+
+
+
+
+=== 883
+  Trade Terminal: Archivist
+
+
+
+
+
+
+
+
+=== 884
+  Trade Terminal: AutoMarket
+=== 885
+  Trade Terminal: Civilian Firearms
+=== 886
+  Trade Terminal: Human Clothes Shop Section 1
+=== 887
+  Trade Terminal: Human Clothes Shop Section 2
+=== 888
+  Trade Terminal: Human Food Shop
+=== 889
+  Trade Terminal: Human Restaurant
+=== 890
+  Trade Terminal: Occasus Embassy
+
+
+
+
+
+
+
+
+=== 891
+  Trade Terminal: Protectorate Embassy
+
+
+
+
+
+
+
+
+=== 892
+  Trade Terminal: Spaceport
+=== 893
+  Trade Terminal: Unitan Embassy
+
+
+
+
+
+
+
+
+=== 894
+  Trade looted tech and other parts for lethal off-brand mech gear here.
+=== 895
+  Tradeswoman Nitori of Gensokyo
+=== 896
+  Tradeswoman Nitori of Gensokyo [CLOSED]
+=== 897
+  Uniche of Eskhatos
+=== 898
+  Vending Machine
+=== 899
+  Weapons and Objects
+=== 900
+  Wymond of the Free Company Rangers
+=== 901
+ ''So, no head?''
+=== 902
+ ''There is a time to fight, and a time to flee. You must choose, before the enemy does it for you.''
+=== 903
+ ''This city needs healing. My dreams are now breathing.''
+
+ The Celestial Workshop Merchant and her kind are highly-specialized artisans, dealing with the exotic
+ elements of the galaxy ranging from anomalous artifacts to magical tools wielded by great warriors of
+ the galaxy.
+ 
+ Her kind are undoubtedly critical to fighting hardy folk above mortal men, and it would be wise to bookmark
+ her store.
+=== 904
+ ''Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.''
+=== 905
+ ''We have little to offer except medicine, ammunition, and weapons.''
+
+=== 906
+ ''Well, everyone's dead or possessed anyways. May as well make the most of it, eh?''
+=== 907
+ A station or settlement geared towards the refinement of various chemicals, metals, and other substances
+ which are typically too impure to use by itself. Most commonly, these economies will handle the processing of
+ unrefined fuels and impure ores to convert them into more useful materials en-masse with unrivalled
+ efficiency.
+
+ Imports: Raw Minerals
+
+ Exports: Refined Metals
+
+=== 908
+ Ancient Forge
+=== 909
+ Ancient Furnace
+=== 910
+ Defensive Structures | Economic Structures | Defensive Units | Assault Structures | Assault Units | Fire Support
+=== 911
+ Disabled asset! Please visit the Bazaar Between Time for the updated inventory!
+=== 912
+ Navigation Console
+=== 913
+ Tasty Snacks
+=== 914
+ The local station or settlement's primary economy type is geared towards the extraction of the planet's metal
+ reserves indicating a high metal content world, with its inhabitants mostly consisting of a mix of temporary
+ and permanent mining staff. Minerals are chemical compounds that are mined from naturally-occurring deposits
+ and can be refined into other substances.
+
+ Imports: Industrial Equipment
+
+ Exports: Raw Minerals
+
+=== 915
+ This station or settlement is geared towards the production of Industrial Metals and Machinery, and relies
+ on the import of Refined Metals to maintain consistent exports of Trade Goods towards other settlements.
+ Industrial Economies also produce Consumer Goods, but are unavailable to independent adventurers.
+
+
+ Imports: Refined Metals
+
+ Exports: Industrial Equipment
+
+=== 916
+ Titansteel Cooking Table
+=== 917
+ Vending Machine
+=== 918
+ ^#b9b5b2;Ancient armor and weapons
+=== 919
+ ^#b9b5b2;More things to smelt
+=== 920
+''---''
+
+^yellow;Parry [ALT-FIRE]: 0.6s PARRY WINDOW | 75HP STABILITY.^white;
+^#FFEEC6;Counter-Brace [SHIFT]: Brace for an attack. If hit, respond with a powerful overhead strike that afflicts high SLASH DMG.^white;
+=== 921
+''---'''
+
+^orange;Rally Points are structures that can be deployed at range and continuously spawns soldiers so long as it is in combat. If the rally point is destroyed, all units of that rally point type are killed.
+=== 922
+''A gunslinger asks himself if one chain pistol was enough. The answer is no. Then he asks how long it takes to reload. The answer is yes.''
+Fires .36 Cal Paper Cartridges.
+^orange;Reloads significantly slower than usual.^reset;
+^green;Double tap Shift to switch to a stable two-handed grip.^reset;
+=== 923
+''A lifetime of training for a moment of glory.''
+
+Axemen are warriors who act as melee skirmishers. They open up with a throwing axe before marching towards the front with shields up. Their use can easily disrupt an assault, distracting melee units and preventing ranged units from using their weapons.
+^orange;Assault Stance: Designated infantry will move towards enemies and attack them.^reset;
+=== 924
+''A lifetime of training for a single man.''
+
+While similarly-armored to their crossbowman counterparts, their type of attacks vary depending on the range of their target. They tend to have greater hit rates over their crossbow counterparts and much faster nock speeds but they likewise suffer from an inability to fight in melee.
+^orange;Defensive Stance: Designated infantry will not move from its position. Best placed behind cover.^reset;
+=== 925
+''A small quantity of ground stops the most thunderous cannon.''
+
+A sandbag that offers tremendous resistance to most forms of ballistic damage, making it incredibly effective against a predominantly ranged enemy. Like other defenses, they are vulnerable to melee attacks.
+^orange;Ballistic Defense: Extremely high ballistic resistance, but vulnerable to melee attacks | Not always a target for enemies | Instantly constructed.^reset;
+=== 926
+''A spear to the throat does all the same to every human.''
+
+Lowest of the low. These poor sods have been forced into your cruel service and do not fare too well in direct combat alone. They are best placed behind cover where they can launch javelins unimpeded and use their spears against nearby targets.
+^orange;Defensive Stance: Designated infantry will not move from its position. Best placed behind cover, but may not always focus on the closest target.^reset;
+=== 927
+''A terrifying finality for the trusty fireball.''
+
+Effects: IGNITION
+
+^orange;Scrolls are powerful consumable magic weapons.^reset;
+=== 928
+''A well-armed peasant is more dangerous than a knight, for where there is one there are a hundred.''
+  
+The bread-and-butter of medieval and ancient forces. The spearman is lightly-armored but highly defensive thanks to his greatshield and longspear. He is also equipped with throwing spears which are used to break enemy lines to great effect.
+^orange;Assault Stance: Designated infantry will move towards enemies and attack them.^reset;
+=== 929
+''A well-fed and well-paid soldier is the most likely to fight the hardest for his cause.''
+  
+^#CC8A4D;Hard-Fought Food - When SECOND CHANCE is triggered, gain +100% Weapon Proficiency for 30 seconds | Cuisine effect expires on trigger | 1hr duration.^reset;
+=== 930
+''And oft there's shades of the twilight
+When the soft winds are whisperin' low
+And the darkening shadows are falling
+Think then of the men down below.''
+
+Fires .303 British ammunition.
+=== 931
+''And oft there's shades of the twilight
+When the soft winds are whisperin' low
+And the darkening shadows are falling
+Think then of the men down below.''
+
+Fires .303 British ammunition.
+
+^orange;The Digger: 0.6s PARRY WINDOW | 100HP STABILITY^reset;
+=== 932
+''Are we lost!? Are we fucking lost!?''
+
+A highly-energetic and valuable artifact most common at mid-depth RUNDOWNs, making these a very lucrative option for most RUNDOWN OPERATIVEs. Despite the prized nature of these artifacts, operative death-rates are significantly higher owing to the dangerous creatures that patrol deeper portions of the Bunker Complex.
+=== 933
+''Arrows are just smaller javelins.''
+
+Two barrels filled with arrows and bolts. While both of these ammo types lacked the raw power that a javelin could offer, significantly more arrows/bolts could be transported to the troops which drastically increased the staying power of missile infantry.
+^orange;Ranged Bolster: Nearby archers and crossbowmen gain +50% DMG | Instantly constructed.^reset;
+=== 934
+''Back then, prayers were all you had when it came to medicine. If you were lucky, you might've gotten a physician to fix you.''
+A sort of thick paste made from the fibres and flowerheads of Moonlight Herbs. Moonlight Herbs have miraculous healing properties for what they are, but falter in the face of actual medical technology and experience.
+^#7AA8E0;- Restores 40 health/3s | Heal Delay: 0.5s | Immobile Time: 1.5s
+^yellow;Handcrafted ointments cost an extra moonlight herb.
+=== 935
+''Bringing a heavy shock to any ne'er do-gooder, the Electro Starshock Mk.1a will put a low-life down long enough until authorities can arrive to deliver proper justice.''
+A heavy weapon filled with an internal battery and receptacles for delivering shock across its ''blade''. Repeated attacks deliver ^#FFEEC6;OVERCHARGING^#reset; which reduces the enemy's ATK.
+
+^#FFEEC6;Flashbang Slash [SHIFT]: Gain I-frames and dodge whilst throwing a short-lived flashbang | 45s cooldown.
+=== 936
+''Buried underground on an unknown island, a wealthy noble constructed a crypt in memory of those lost in the Shogunate's war against the Machinarius. His closest friend was erased from history for his ties to a shunned religion.''
+
+^orange;Final strike sends out icicles that fire off forwards a short distance^reset; | ^yellow;Parry [ALT-FIRE]: 0.6s PARRY WINDOW | 75HP STABILITY.^white;
+^#FFEEC6;Winter-Pierce [SHIFT]: Leap into the air and stab downwards, firing additional icicle projectiles downwards | 25s Cooldown.
+=== 937
+''Chaos and cruelty took hold after the Great Barrier imploded, leaving Gensokyo open to the ravages of the Outside World, or Earth, as we now know it. I am not a murderer, but to be defenseless is to be foolish.''
+^yellow;Parry [ALT-FIRE]: 0.4s PARRY WINDOW | 50HP STABILITY.^reset;
+^#FFEEC6;Stake Blaster Combo [SHIFT]: Fire three gun-blasts in quick succession to deal rapid damage. Last shot fires a Youkai-Stake that rapidly deals BLEED damage over 3s | 30s cooldown.^white;
+=== 938
+''Come on you dogs! Do you want to live forever!?''
+
+^orange;Activation grants all nearby PLAYERS including the user 2s of DMG IMMUNITY.^reset;
+
+^red;Must be equipped for 2 seconds before it can be activated.^reset;
+
+Each activation costs a Gensidium Shard.
+=== 939
+''Defend and Attack! The cycle unending!''
+
+^orange;A ''weapon'' that is used to designate an area to summon a permanent allied infantryman at the marked location. Uses Republic Oaths of Service for summoning and special ability. Base 25HP.
+^#8FAED3;Summons: Grunt Summon [FIRE] | Stand Your Ground! - Allied Republic Grunts will hold position and gain +50% BALLISTIC RES for 10s [ALT | 10x]
+=== 940
+''Despite what people might say, laws are not made to be broken. They can, however, be interpreted, elided, even wilfully misunderstood. Any law can be circumvented in the right circumstances--even the laws of the Death Judge herself.''
+^#BCBC87;Sinner's Retribution: Confers alternative rewards if dealing the killing blow on THE TYRANT JUDGE^reset; | ^#D6DFFF;Swords of Judgment [BLINK into enemy]: 200 THRUST DMG | Summons Judgment Sword | 0.25s windup | 60 MP^reset; | ^#FFEEC6;Dirty Tackle [SHIFT]: Perform a simple tackle, afflicting true STUN for 3s | 30s cooldown.^reset;
+=== 941
+''Deviants.''
+
+^orange;Interact to read.^reset;
+=== 942
+''Do you understand now?''
+
+^orange;Interact to read.^reset;
+=== 943
+''Dutiful.''
+
+^orange;Interact to read.^reset;
+=== 944
+''Easy money.''
+
+^orange;Interact to read.^reset;
+=== 945
+''Eat this and say your prayers. Tomorrow you will be healed.''
+  
+Medicinal pellets mixed with various blessed herbs and coated in honey. The Shogunate's medicine is imbued with Moonlight Herbs, though there are other plants mixed in which you cannot identify. Better than ointments, but seemingly non-replicable.
+
+^#7AA8E0;- Restores 50 health/3s | Heal Delay: 0.5s | Immobile Time: 1.5s
+=== 946
+''Empath Experimentation.''
+
+^orange;Interact to read.^reset;
+=== 947
+''Empires wither away
+As heroes will blossom
+But after this final crusade
+We will have lost them.''
+
+^#CCD8B6;100HP STABILITY | 0.35s Lower-Raise Delay | 100% DEF.^white;
+=== 948
+''Erchius Ceasefire?''
+=== 949
+''Even a poor man can throw a javelin with skill.''
+  
+Equipment that allows one to rapidly pull Pilum from their inventory for constant missile barrages on the enemy. ^yellow;Reloading will use Pila (plural form of Pilum) from your inventory to reload the kit.^reset; The damage dealt by the Pila Throwing Kit is the same as its one-use Pilum counterpart, and its space for two in one slot allows for rapid opening attacks or mass-volleys with multiple people. ^yellow;Pila can be picked up after throwing. Unaffected by attack power.^reset;
+=== 950
+''Even a poor man can throw a javelin with skill.''
+CLOSE RANGE DAMAGE: 100 THRUST
+EFFECTIVE RANGE DAMAGE: 175 THRUST | SHIELDBREAK
+CRIT CLOSE RANGE DAMAGE: 225 THRUST
+CRIT EFFECTIVE RANGE DAMAGE: 350 THRUST | SHIELDBREAK
+^orange;Throwing weapons gain additional damage after a short distance.^reset;
+=== 951
+''Even in the future, man will find ways to utilize everything it has.''
+
+^#96CBE7;On Pickup: Learn how to craft Shock Arrows, Bolts, and Grenades.
+=== 952
+''Even the lowest wall can buy precious time.''
+A low wooden palisade that offers rudimentary cover from ranged attacks. While infantry can maneuver through defenses with little risk by itself, these palisades can delay them as they move through. Pair with defensive units to better protect them whilst opening up enemy melee troops to attack.
+^orange;Infantry Defense: Infantry are delayed and unshielded when moving through | Not always a target for enemies | Instantly constructed.^reset;
+=== 953
+''Every drop of sweat in drill is every drop of blood saved in battle.''
+
+Rather decently-equipped troops, these crossbowman are given 'good enough' chainmail that helps them survive against ranged attacks. Don't expect them to fight in melee though, as they'll be quickly overwhelmed.
+^orange;Defensive Stance: Designated infantry will not move from its position. Best placed behind cover.^reset;
+=== 954
+''Every part of human history is buried under a scorching sky set ablaze by our darkest demons and drowned under an ocean of the blood of our brightest angels.''
+
+^orange;50% of DMG converted to THERMAL | 2nd strike DEFLECTS (resist melee) | Final strike afflicts 4s IGNITION.^reset;
+^yellow;Parry [ALT-FIRE]: 0.75s PARRY WINDOW | 45HP STABILITY.^reset;
+^#FFEEC6;Enflamed Strike [SHIFT]: Perform a heavy upper slash, spewing flames a distance forwards that afflict IGNITION | 16s cooldown.^reset;
+=== 955
+''For he who is Man toils under the gaze of the immortals, shackled by those self-titled Gods wearing the skin of Man. In this, Man is merely akin to a rat, avoiding the gaze of those who would continue to bring down Man. And yet it is this insignificance in the eyes of false Gods that Man finds true strength.''
+  
+^orange;Obtaining this item allows one to use Rat Form, a magic ability that allows the user to turn into a rat to avoid enemy fire and increase mobility. Does nothing if Rat Form is already unlocked.
+=== 956
+''Frail, yet unbroken.''
+
+^orange;Interact to read.^reset;
+=== 957
+''Going from toting a machine gun... to using a bed pan, and I can't even put my own socks on - that was hard to kind of suck it up.''
+  
+The Kurtz Maschinenpistole 5, an extremely popular SMG used by both military & law enforcement chambered in 9x19mm. Holds 35rnds.
+
+^green;Double-Tap [SHIFT] to switch to a questionable one-handed stance.^reset;
+=== 958
+''Goods for sale, as long as there is enough coin.''
+=== 959
+''Great Sage is dead. Gensokyo must fall.''
+  
+^orange;Reloads significantly slower than usual.^reset;
+^green;Double tap Shift to switch to a stable two-handed grip.^reset;
+=== 960
+''Gunpowder; the downfall of civilizations.''
+
+A sapper armed with a primitive but high-caliber fire lance. The rounds fired by these lances aren't particularly accurate, but they deal tremendous damage against anything they hit.
+
+^orange;Assault Stance: Designated infantry will move towards enemies and attack them.^reset;
+=== 961
+''He always said they're better than ours. They don't jam.''
+  
+After the German Army captured large numbers of the Soviet PPSh-41 during World War 2, a program was instituted to convert the weapon to the standard German submachine gun cartridge - 9x19mm Parabellum. Can accept Kurtz 9x19mm 35rnd magazines or 71rnd MP41r drums.
+=== 962
+''Hey mate, you got a moment? Name's Imon. Got a nasty arm sprain few days back and I'm gonna be out of action for a while. No carrying for me. I've got an apprentice coming in a week so I'd like to get ready sooner. If ya' get me some wood for fuel, I'll give ye' some excess I've got. ^orange;Bring 100 Wood Materials to the Imon.^reset;
+=== 963
+''Him.''
+
+^orange;Interact to read.^reset;
+=== 964
+''History is full of wars, fought for a lot of reasons. This war? Our war? I want to believe. I have to believe, that it's all worthwhile because our cause is just.''
+A Light Machinegun hailing from the United Systems, chambered in a heavy 7.62x54mm round. Only supports the 100rnd Box designed specifically for the 6P41. Comes with a preattached bipod for extra stability when grounded at the cost of usability otherwise.
+^orange;Gun gains ACCURACY and HIT CHANCE the longer the trigger is held.
+=== 965
+''History is full of wars, fought for a lot of reasons. This war? Our war? I want to believe. I have to believe, that it's all worthwhile because our cause is just.''
+A Light Machinegun hailing from the United Systems, chambered in a heavy 7.62x54mm round. Only supports the 100rnd Box designed specifically for the 6P41. Comes with a preattached bipod for extra stability when grounded at the cost of usability otherwise.
+^orange;Gun gains Weapon Proficiency when maintaining sustained fire.
+=== 966
+''Human sorcerers have an interesting tendency to attribute familiar motions to their magic. Perhaps it just makes casting easier on them.''
+
+Effects: 2s REND-BLEED | HEAVY BLEEDING
+
+^orange;Scrolls are powerful consumable magic weapons.^reset;
+=== 967
+''Humanity reveled in their weapons development. But after such illustrious feats, lethargy festered within their genius. Without passion and purpose, there can be no innovation.''
+
+Chambered in 9x18mm. Holds 35 rounds with controllable recoil management for long bursts of fire.
+
+^green;Double-Tap [SHIFT] to switch to a two-handed stance.^reset;
+=== 968
+''Humanity reveled in their weapons development. But after such illustrious feats, lethargy festered within their genius. Without passion and purpose, there can be no innovation.''
+Chambered in 9x18mm. Holds 35 rounds with controllable recoil management for long bursts of fire.
+
+^green;Hold down "Alt Fire" to switch between Full Auto and Semi-Auto.^reset;
+
+^green;Double-Tap [SHIFT] to switch to a questionable one-handed stance.^reset;
+=== 969
+''Hundreds of thousands of Youkai have been displaced into this realm. Thousands more are materializing every week.''
+  
+Chambered in a 9x19mm cartridge.
+
+^green;Double tap Shift to switch to a versatile one-handed grip.^reset;
+=== 970
+''I am the immortal Shell... I am the immortal Shell... Many times I've died. Many times I've rose.''
+  
+^orange;Final strike deals 1.25x DMG | Slightly longer than regular spears.
+
+^#FFEEC6;Samurai Spirit [SHIFT]: Summons the spirit of Sun Tachishige to slash across a wide area | 25s cooldown.^white;
+=== 971
+''I desire not to keep my place in this accursed realm an hour longer than I may preserve mankind in its right to exist as a peoples.''
+For a period of time after the fall of the Tengu, there still weren't enough weapons to go around. Those without firearms or sorceries were given pikes and swords, and trained in the warfare of old.
+^#FFEEC6;Has no ability but can be one-handed and held out. Royalists often paired this with a tuck.^reset;
+=== 972
+''I have found myself all manner of rodents to be the closest things to friends I have down here. Yet... my powers wane. Many are violent animals now, much like the men here.''
+
+^#8FAED3;Fires an orb that then summons 4x allied rats | Crits create Rat-Knights which hit harder and last longer.
+=== 973
+''I have outlived that care that curries public favour or dreads the public frown... let the hand of law strike me down if it will, but I ask that my story be heard and considered.''
+
+Fires .36 Cal Paper Cartridges.
+
+^orange;Reloads significantly slower than usual.^reset;
+^green;Double tap Shift to switch to a stable two-handed grip.^reset;
+=== 974
+''I just needed one shot. Pull out this thing and shoot him in the body. It's all I needed to do. So I do. And I miss, twice.''
+
+^yellow;Fires 2 18.5x70mm slug or buckshot rounds^reset; loaded in a break-action fashion.
+^green;Double tap Shift to switch to an^reset; impractical ^green;one-handed grip.^reset;
+=== 975
+''I live to fight.''
+  
+^orange;Obtaining this item allows one to use Rapid Dash, a simple ability that enables the dodging of enemy attacks via quick steps, though offering no I-frames unlike Evasive Dash.
+=== 976
+''I saw her, the Yamaxanadu, a towering figure, but unmistakenably feminine. Is it salvation to look upon her? Deliverance? I knelt, losing my strength. I wanted to look away, and yet, she was all I wanted to see.''
+A balanced and versatile sword. It excels with any type of shield but it is also suitable for quick evasive maneuvres.
+
+^#FFEEC6;Retreating Slash [SHIFT]: Perform a 16x SLASH DMG attack with I-frames | 10s cooldown.
+=== 977
+''I was but a mere observer of the events that transpired over those one-thousand years. While Man scoured the stars for their purpose, the youkai fought each other for but only two dreams: A world with or without purpose.''
+
+^orange;Purchase of this item grants the ability to traverse the memories inherited from realms beyond, giving unseen insight. Does nothing if memory-walking is already unlocked.
+=== 978
+''I was given a choice: to kneel before the executioner's axe or their queen. An easy choice. For years, I wore her sigil and repeated all the oaths. But I always knew one day, no matter how many honors were bestowed upon me, I would escape.''
+
+The longsword is a quick, effective, and versatile weapon capable of deadly thrusts, slices, and mordhau maneuvers.
+^yellow;Parry [ALT-FIRE]: 0.4s PARRY WINDOW | 150HP STABILITY.^reset;
+^#FFEEC6;Hilt Bash [SHIFT]: Quickly bash a target, stunning them for 2s.^reset;
+=== 979
+''I was given a choice: to kneel before the executioner's axe or their queen. An easy choice. For years, I wore her sigil and repeated all the oaths. But I always knew one day, no matter how many honors were bestowed upon me, I would escape.''
+The longsword is a quick, effective, and versatile weapon capable of deadly thrusts, slices, and cuts.
+^yellow;Parry [ALT-FIRE]: 0.75s PARRY WINDOW | 45HP STABILITY.^reset;
+^#FFEEC6;Hard Striker [SHIFT]: Prepare a singular focused attack, dealing high SLASH and BLUNT DMG | 12s cooldown.^reset;
+=== 980
+''I was given a choice: to kneel before the executioner's axe or their queen. An easy choice. For years, I wore her sigil and repeated all the oaths. But I always knew one day, no matter how many honors were bestowed upon me, I would escape.''
+The longsword is a quick, effective, and versatile weapon capable of deadly thrusts, slices, and cuts.
+^yellow;Parry [ALT-FIRE]: 0.75s PARRY WINDOW | 75HP STABILITY.^reset;
+^#FFEEC6;Hard Striker [SHIFT]: Prepare a singular focused attack, dealing high SLASH and BLUNT DMG | 12s cooldown.^reset;
+=== 981
+''I'm not taking another step! Not one-''
+
+An enigmatic artifact of extreme value. Appearing only within the deepest portions of the Bunker Complex, these artifacts constantly spew out random bullets in every direction with no seeming pattern. Only sufficient damage to its small outer shell is able to pacify its exorbitant energy output. By itself, it poses little threat to a RUNDOWN OPERATIVE.
+=== 982
+''I've always been curious about why one man jumps out of a foxhole with a grenade and charges a machine gun nest, and his buddy next to him sits there cowering. And my feeling is that the difference is tiny between the two.''
+  
+Uses the unique FG42 7.92x57mm Magazine.
+=== 983
+''I, JOSHUA TARISH, DO SWEAR - THAT - I WILL WELL AND TRULY SERVE - OUR SOVEREIGN LORD THE KING - AS A POLICE OFFICER WITHOUT FAVOUR OR AFFECTION - MALICE OR ILL-WILL. SO HELP ME GOD.''
+The Glock 17 is chambered in 9x19mm ammunition with respect to the philosophy of lightweight weaponry.
+
+^green;Double tap Shift to switch to an automatic one-handed grip.^reset;
+=== 984
+''It is imperative we utilize everything we have to win this fight. We must pour everything we have into this, even if they will die after.''
+
+^#96CBE7;On Pickup: Learn how to craft the Syringe Gun, Mk.1 Syrettes, and the Prototype Auto-Healer at the Medical Workstation.
+=== 985
+''It's not right!''
+
+^orange;Interact to read.^reset;
+=== 986
+''Javelins are like giant arrows.''
+
+A simple rack equipped with throwing spears. Your typical spearman will carry his large longspear and a much shorter throwing spear for breaking apart enemy shield formations.
+
+^orange;Spearman Bolster: Nearby spearmen gain +100% DMG | Instantly constructed.^reset;
+=== 987
+''Killing her changed something...''
+=== 988
+''Lavishly-decorated machines of death, gathered from all the forgotten corners of the galaxy...''
+=== 989
+''Let's get you home...''
+=== 990
+''Logistics dominates all.''
+
+More advanced computing software that allows for true chemical simulations. Whilst alchemy is still required for the poorly-understood field of magic, there is a surprising degree of overlap between this and chemistry.
+  
+^#96CBE7;Used to upgrade the Occultist Workbench.
+=== 991
+''Loyal.''
+
+^orange;Interact to read.^reset;
+=== 992
+''Luck is what happens when preparation meets opportunity.''
+
+A sword designed for thrusting. Intended to be paired with a shield, wielding this weapon grants a passive +30 SHIELD STABILITY.
+^orange;Final strike deals 1.5x DMG.
+^#FFEEC6;War Cry [SHIFT]: Raise the sword and shout a war cry. Causes PANIC for 5s and buffs self and other players with +4HP/s and increased Ability Mana regeneration for 15s | 30s cooldown.
+=== 993
+''Magic is merely another field of science to exploit.''
+
+A collection of equipment used in the applied sciences of chemistry. At this stage, magic has become another field of science that can be researched, documented, and weaponized. While magic is still mysterious, there are certain chemical patterns present in the enchanted, blessed, or divine.
+  
+^#96CBE7;Used to upgrade the Occultist Workbench.
+=== 994
+''Mankind must hold, no matter the pain.''
+
+^#96CBE7;On Pickup: Learn how to craft Mk.3 Syrettes at the Medical Workstation.
+=== 995
+''Marcian was a mere lieutenant in the surviving French Armies as it was spirited-away to Gensokyo. Like most others, they were cut down by the hordes of the Feral Youkai. Yet he was given another chance by an unknown fairy who gifted her own lifeforce to revive this one unimportant man under a mountain of bodies.''
+  
+^orange;Obtaining this item allows one to use Rapid Spellcast, a simple ability that performs a short dash whilst triggering other special effects. Does nothing if Rapid Spellcast is already unlocked.
+=== 996
+''Marking of an Era.''
+
+^orange;Interact to read.^reset;
+=== 997
+''Medium-rare?''
+  
+The taste and texture of beef can change drastically depending on how long it's cooked for.
+
+^#FFB941;Meat - +25HP restored.
+=== 998
+''Monument to PS-1''
+=== 999
+''More elite forces could be considered force multipliers, either because of training, better equipment, or specialization. Man for man, the higher caliber of training for some units would have a bigger impact on the battlefield because they could hit a bit harder, hold out longer, and slow down the enemy just that little bit more.''
+
+Fires 12.7x108mm ammunition | ^yellow;Must be GROUNDED (bipod) to be useful.^reset;
+=== 1000
+''More stimulants. More men.''
+
+^#96CBE7;On Pickup: Learn how to craft Mk.2 Syrettes at the Medical Workstation.
+=== 1001
+''Most people look at this thing and think it's no better than a piece of junk. They're not wrong, it *is* made from shit. Doesn't mean it's shit though, eh?''
+
+The magazines for these kinds of guns are often custom-made, and thus incompatible with each other. For that purpose, you must load the bullets manually on-the-fly. Loads 7.62x39mm bullets.
+
+^orange;Wrought Havoc: 0.4s PARRY WINDOW | 150HP STABILITY^reset;
+=== 1002
+''Most people look at this thing and think it's no better than a piece of junk. They're not wrong, it *is* made from shit. Doesn't mean it's shit though, eh?''
+  
+Packing the common 7.62x39mm bullet as its cartridge and accepting standard 30rnd STANAG-USM magazines, this gun sees use where its bullets are more common than Credits.
+
+^green;Hold down "Alt Fire" to switch between Full Auto and Semi-Auto.^reset;
+=== 1003
+''Most people look at this thing and think it's no better than a piece of junk. They're right. Pain in the ass to load and jams all the time.''
+
+The magazines for these kinds of guns are often custom-made, and thus incompatible with each other. For that purpose, you must load the bullets manually on-the-fly. Loads 7.62x39mm bullets.
+=== 1004
+''Muh' stoppin' power.''
+  
+Fires the heavy .45 ACP bullet and holds 7rnds per magazine.
+
+^orange;Bullets deal ridiculous knockback | Knockback-affected enemies take terrain impact damage dependent on velocity | Cannot one-hand | Cannot use special ammo.^reset;
+=== 1005
+''My body, entombed in an eternal ice. I shall rise once more when the time comes.''
+
+^#96CBE7;On Pickup: Learn how to craft Frost Arrows and Bolts.
+=== 1006
+''My shoulder's gonna hurt after this.''
+
+The Right Arm of the Free Galaxy, this rifle is but one of many variations and production models across charted human space. Cheap and reliable, this weapon has seen itself in the hands of Insurgencies, Policing Forces and every area in-between. Loads FAL 7.62x51mm Magazines.
+=== 1007
+''My shoulder's gonna hurt after this.''
+
+The Right Arm of the Free Galaxy, this rifle is but one of many variations and production models across charted human space. Cheap and reliable, this weapon has seen itself in the hands of Insurgencies, Policing Forces and every area in-between. Loads FAL 7.62x51mm Magazines.
+
+^orange;The Rebellious: 0.6s PARRY WINDOW | 100HP STABILITY^reset;
+=== 1008
+''Nai Desu-nored''
+
+A temporary mark upon the user's appendage of choice allows its bearer to summon forth a swarm of ravenous rats, attacking and devouring enemy targets. ^yellow;Uses Cracked Red Suns to summon Rat Swarms.^reset; Summoned Rats are ineffective against enemies that deal touch damage due to their low healthpool.
+=== 1009
+''No guide that came before can show the way beyond the pass
+No footprints on the trail for you to follow in the tracks
+For you to make it there you have to leave without the map.''
+
+A special bow that allows the user to rapidly notch the string back and fire in quick succession. Slower than a Hankyu, but more suitable as a long-ranged option.
+
+Launches Wooden Bolts.^reset;
+=== 1010
+''No guide that came before can show the way beyond the pass
+No footprints on the trail for you to follow in the tracks
+For you to make it there you have to leave without the map.''
+
+^orange;HIT CHANCE replaced with CRIT CHANCE. CRIT Arrows have different effects based on the arrow.^reset;
+
+Launches Wooden Arrows.^reset;
+=== 1011
+''No more sister wars over Gensokyo. No more brother wars over Earth.'' ^orange;Final strike afflicts 8s IGNITION^reset; | ^yellow;Parry [ALT-FIRE]: 0.6s PARRY WINDOW | 75HP STABILITY | ^orange;MELEE DMG shared with THERMAL DMG.^reset; ^#FFEEC6;Yatagarasu Combo [SHIFT]: Leap into the air, becoming invulnerable, and then lance towards the cursor, leaving behind a gigantic area of danmaku. Follows into a second attack whilst on the ground, initiating a thrust attack which launches a delayed trail of explosions | 40s Cooldown.^reset;
+=== 1012
+''Not all were willing to chip in their part for the defense against the lunarians. There were times where feral youkai would continue to prowl the nights for victims. Volunteers would head out to take youkai nests by surprise. Some of them even made it back.''
+^orange;Final strike converts all DMG into 2x PSYCHIC at cost of range.
+^yellow;Parry [ALT-FIRE]: 0.6s PARRY WINDOW | 40HP STABILITY.^white;
+^#FFEEC6;Prayer Response [SHIFT]: Raise the spear in salute, summoning two bouncing YIN-YANG orbs. After 5 seconds, the orbs explode in a barrage of talismans | 35s Cooldown.^white;
+=== 1013
+''Not one step back!''
+
+^orange;A ''weapon'' that is used to designate an area to summon a permanent allied infantryman at the marked location. Uses P.A Draft Letters for summoning and special ability. Base 25HP.
+^#8FAED3;Summons: Conscript Summon [FIRE] | Full Force Forward! - P.A Conscripts gain maximum firerate and +25% Weapon Proficiency for 5s [ALT | 10x]
+=== 1014
+''Now there's no way I can know what your card is because I didn't see it yet...''
+
+^orange;Fanning & Speedloading: Very fast primary fire and extremely fast reload for its weapon class^reset; | Chambered in .44 magnum, or 10.9x33mm.
+
+^#E8C445;Hold [ALT-FIRE] to MANUAL-AIM. Aiming does not confer bonuses, but can help with ammo conservation if needed.
+=== 1015
+''Oh, my dear Mankind has learnt so much with this fire. Oh how I wish they hadn't!''
+
+A common torch formed by wrapping a drenched cloth around the end of a wooden stick. When society falls and technology fails, a primitive torch will be there to light the way.
+
+^#FFEEC6;Flame Spread [SHIFT]: Thrust forward, sending forth a wave of flames that afflict IGNITION | 25s Cooldown.^white;
+=== 1016
+''On the cusp of immeasurable knowledge and wealth.''
+
+A collection of advanced alchemical recipes for converting materials into another of equivalent value.
+  
+^#96CBE7;Used to upgrade the Occultist Workbench.
+=== 1017
+''Once a so-called miracle mallet, said to be able to change the size of something and even grant wishes. Abused by the unworthy and the unholy, it shrieked.'' ^orange;Final strike afflicts 6s WINDED (-25% BLUNT RES and Warrior DMG) | ^yellow;Parry [ALT-FIRE]: 0.6s PARRY WINDOW | 30HP STABILITY^white; | ^#FFEEC6;Crushing Guilt [SHIFT]: Sacrifices current HP Regen value to summon a spirit that strikes the ground (no function with %-based regen) | Each unit of HP Regen sacrificed decreases cooldown time by 2s but reduces HP regen by amount sacrificed (1/4 CD duration) | Base 45s CD | 700 + (175 x 6) DMG.^white;
+=== 1018
+''Only the mad stayed to continue their war against The Flesh. They too joined their ranks in the end.''
+
+^orange;Each strike increases in DMG | Final strike DEFLECTS (resists melee) and afflicts 2s STAGGER.
+^yellow;Parry [ALT-FIRE]: 0.4s PARRY WINDOW | 35HP STABILITY.^white;
+
+^#FFEEC6;Stone Spikes [SHIFT]: Perform a heavy slam whilst causing spikes to rise from the ground in both directions | 25s Cooldown.^white;
+=== 1019
+''Only the most desperate are going to charge into battle with this thing.''
+
+^orange;Final strike deals 1.5x DMG, breaks Warrior GUARD/SHIELD stances, and afflicts 2s STAGGER.
+^yellow;Parry [ALT-FIRE]: 0.6s PARRY WINDOW | 30HP STABILITY.^white;
+^#FFEEC6;Jawbreaker [SHIFT]: Tackle a foe in front of you, afflicting STAGGER for 3s. Follows up with an electrifying Overhead-Thrust that outputs a blast of lightning | 35s cooldown.^white;

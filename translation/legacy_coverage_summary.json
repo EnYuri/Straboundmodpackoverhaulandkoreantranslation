@@ -1,0 +1,30 @@
+{
+  "GiC": {
+    "inventoryCandidates": 13885,
+    "coveredAtExactLocation": 3766,
+    "remainingCandidates": 10119,
+    "heuristicCoveragePercent": 27.1,
+    "allAlignedLocations": 4501
+  },
+  "Extended Story": {
+    "inventoryCandidates": 1608,
+    "coveredAtExactLocation": 783,
+    "remainingCandidates": 825,
+    "heuristicCoveragePercent": 48.7,
+    "allAlignedLocations": 916
+  },
+  "Black Armory": {
+    "inventoryCandidates": 1682,
+    "coveredAtExactLocation": 421,
+    "remainingCandidates": 1261,
+    "heuristicCoveragePercent": 25.0,
+    "allAlignedLocations": 445
+  },
+  "NonEKI": {
+    "inventoryCandidates": 844,
+    "coveredAtExactLocation": 210,
+    "remainingCandidates": 634,
+    "heuristicCoveragePercent": 24.9,
+    "allAlignedLocations": 472
+  }
+}

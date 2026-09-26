@@ -1,0 +1,46 @@
+{
+  "byMod": {
+    "Black Armory": {
+      "rows": 1260,
+      "uniqueEnglish": 936,
+      "new-translation": 634,
+      "tm-multi": 254,
+      "tm-single": 372
+    },
+    "Extended Story": {
+      "rows": 740,
+      "uniqueEnglish": 516,
+      "new-translation": 622,
+      "tm-multi": 48,
+      "tm-single": 70
+    },
+    "GiC": {
+      "rows": 7961,
+      "uniqueEnglish": 5881,
+      "new-translation": 6762,
+      "tm-multi": 547,
+      "tm-single": 652
+    },
+    "NonEKI": {
+      "rows": 634,
+      "uniqueEnglish": 432,
+      "new-translation": 443,
+      "tm-single": 191
+    }
+  },
+  "excludedReasons": {
+    "unused-or-deprecated-asset": 1925,
+    "behavior-tree-parameter": 208,
+    "template-placeholder": 111
+  },
+  "uniqueTexts": {
+    "cleanRows": 10595,
+    "cleanUniqueEnglish": 7724,
+    "excludedRows": 2244
+  },
+  "unresolvedTriage": {
+    "content-removed-unrecoverable": 2483,
+    "pointer-moved-needs-manual-relocation": 166,
+    "target-not-a-string": 1
+  }
+}

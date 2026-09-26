@@ -1,0 +1,5595 @@
+[
+  {
+    "file": "-1000_angel_contents_1686520464.pak",
+    "name": "The Angels of Starbound",
+    "friendlyName": "The Angels of Starbound",
+    "candidateAssets": 345,
+    "candidateStrings": 1780
+  },
+  {
+    "file": "-1_sxb_lovelywhipsname.pak",
+    "name": "lovelywhipsname",
+    "friendlyName": "lovelywhipsfriendlyName",
+    "candidateAssets": 8,
+    "candidateStrings": 16
+  },
+  {
+    "file": "-1_sxb_Lox_OmniBrowser.pak",
+    "name": "Lox_OmniBrowser",
+    "friendlyName": "OmniBrowser",
+    "candidateAssets": 4,
+    "candidateStrings": 17
+  },
+  {
+    "file": "-2500_trans+FFS_Feast_of_Fire_and_Smoke_heal_fix.pak",
+    "name": "FFS",
+    "friendlyName": "[FFS]Feast of Fire and Smoke",
+    "candidateAssets": 373,
+    "candidateStrings": 1814
+  },
+  {
+    "file": "-60_sxb_Lox_AphroditesBow.pak",
+    "name": "Lox_AphroditesBow",
+    "friendlyName": "[SxB] Aphrodite's Bow",
+    "candidateAssets": 26,
+    "candidateStrings": 114
+  },
+  {
+    "file": "-7000_EEs_contents_1790667104.pak",
+    "name": "EES",
+    "friendlyName": "EE for Starbound",
+    "candidateAssets": 20,
+    "candidateStrings": 68
+  },
+  {
+    "file": "-8900_fu_blackradio_contents_2780671377.pak",
+    "name": "FrackinUniverseRadioPopupRestoration",
+    "friendlyName": "Frackin' Universe - Radio Message Popup Restoration",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "-8999_Optimizer_contents_2777369762.pak",
+    "name": "Starbound Optimizer",
+    "friendlyName": "Starbound Optimizer",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "-9000_Quest Manager Optimizer (FU)_contents_2914217512.pak",
+    "name": "QuestManagerOptimizerFU",
+    "friendlyName": "Quest Manager Optimizer(FU)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "-9700_Elithian_contents_850109963.pak",
+    "name": "Elithian_Races_Mod",
+    "friendlyName": "Elithian Races Mod",
+    "candidateAssets": 2150,
+    "candidateStrings": 9757
+  },
+  {
+    "file": "-9991_no_duststorm_midnight_contents_1247812383.pak",
+    "name": "nomidnightparticles",
+    "friendlyName": "No more duststorm particles",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "-9991_No_Sandstorm_contents1257128625.pak",
+    "name": "No Sandstorm Particles",
+    "friendlyName": "No Sandstorm Particles",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "-9991_weater_no_black_fall_contents_2755456682.pak",
+    "name": "no_more_blockfalling",
+    "friendlyName": "No more weather blockfall!",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "-9992_Parallax_fps_contents_885877773.pak",
+    "name": "Parallax Compression",
+    "friendlyName": "Parallax Performance Compression (FPS Improvement)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "-9998_trans_sbkor_0.98_structfix.pak",
+    "name": "sbkor",
+    "friendlyName": "Starbound Korean Patch",
+    "candidateAssets": 4,
+    "candidateStrings": 12
+  },
+  {
+    "file": "0_a_OPTION_MOD_999998013_FPS_60_cap_skipfix_remover_contents_2950845790.pak",
+    "name": "NO FPS CAP",
+    "friendlyName": "NO FPS CAP",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "0_sxb_lox_statueofdibella.pak",
+    "name": "lox_statueofdibella",
+    "friendlyName": "[Sxb] Statue of Dibella",
+    "candidateAssets": 1,
+    "candidateStrings": 9
+  },
+  {
+    "file": "0_sxb_sexbound_kitsunerace.pak",
+    "name": "sexbound_kitsunerace",
+    "friendlyName": "Sexbound - Kitsune Race",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "100000000_No_FU_Party_contents_2564952144.pak",
+    "name": "No More Party Music for Frackin' Universe",
+    "friendlyName": "No More Party Music for Frackin' Universe",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "100000001_eyeBlink_contents_1807482741.pak",
+    "name": "BlinkyEyes",
+    "friendlyName": "SmoothBlink",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "100000002_Slower_Gas_contents_3387581763.pak",
+    "name": "SlowerSpaceGasRotation",
+    "friendlyName": "Slower Space Gas Rotation",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "1000_SxB-Neki_POV_Addon.pak",
+    "name": "sexbound_Neki_Pov",
+    "friendlyName": "Sexbound - Shows Neki Pov",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "100_skip_warp_contents_3354114852.pak",
+    "name": "I don't have time for that",
+    "friendlyName": "I don't have time for that",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "100_sxb_fuchsia_returns.pak",
+    "name": "fuchsia_returns",
+    "friendlyName": "Fuchsia Returns",
+    "candidateAssets": 2,
+    "candidateStrings": 2
+  },
+  {
+    "file": "100_sxb_sexbound_sexobject_felinholo.pak",
+    "name": "sexbound_sexobject_felinholo",
+    "friendlyName": "Sexbound: Frisky Felin 2.0",
+    "candidateAssets": 2,
+    "candidateStrings": 18
+  },
+  {
+    "file": "1010_sxb_Lustling Race more colors.pak",
+    "name": "Lustling Race more colors",
+    "friendlyName": "Lustlings recolor",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "101_sxb_sexbound_cb.pak",
+    "name": "sexbound_cb",
+    "friendlyName": "Sexbound - CritterBang!",
+    "candidateAssets": 349,
+    "candidateStrings": 709
+  },
+  {
+    "file": "101_sxb_TTPP_MPI_patch.pak",
+    "name": "TTPP_MPI_patch",
+    "friendlyName": "TTPP - More Planet Info patch",
+    "candidateAssets": 1,
+    "candidateStrings": 40
+  },
+  {
+    "file": "102_SxB-Lucario_POV_Addon.pak",
+    "name": "Lucario POV addon",
+    "friendlyName": "Sexbound - Lucario POV addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "10_sxb_lox_gofuckyourself.pak",
+    "name": "lox_gofuckyourself",
+    "friendlyName": "[SxB] Go Fuck Yourself Properly",
+    "candidateAssets": 2,
+    "candidateStrings": 20
+  },
+  {
+    "file": "10_sxb_Lox_Maid4U.pak",
+    "name": "Lox_Maid4U",
+    "friendlyName": "Maid4U",
+    "candidateAssets": 2,
+    "candidateStrings": 4
+  },
+  {
+    "file": "10_sxb_Sexbound-Globaura-2.1.pak",
+    "name": "sexy_globaura",
+    "friendlyName": "Sexbound - Globaura",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "1100_sxb_TTPP_Tentacle Enhanced Storage.pak",
+    "name": "Tentacle Enhanced Storage",
+    "friendlyName": "Thick throbbing Tenacles",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "20_sxb_kawaiistuffsupports.pak",
+    "name": "kawaiistuffsupports",
+    "friendlyName": "KawaiiStuff+ Supports",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "20_sxb_Lewdbound_0.7.0_compat.pak",
+    "name": "Lewdbound",
+    "friendlyName": "Lewdbound",
+    "candidateAssets": 65,
+    "candidateStrings": 131
+  },
+  {
+    "file": "20_sxb_Sexbound-Race-Avali0.3.2.src.pak",
+    "name": "Sexbound_Avali",
+    "friendlyName": "Sexbound API - Avali Species",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "20_sxb_sexbound_arcanaraces.pak",
+    "name": "sexbound_arcanaraces",
+    "friendlyName": "Sexbound - Arcana Races",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "20_sxb_SexBound_Cuter_Felin.pak",
+    "name": "SexboundAPI_Felin",
+    "friendlyName": "Sexbound API - Felin Species",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "20_sxb_Sexbound_Kemono.pak",
+    "name": "Sexbound_Kemono",
+    "friendlyName": "Sexbound API - Kemono Species",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "20_sxb_Sexbound_Kitsune_Moans_Support.pak",
+    "name": "sexbound kitsune moans",
+    "friendlyName": "Sexbound - kitsune moans",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "20_sxb_Sexbound_Lucario.pak",
+    "name": "Sexbound_Lucario",
+    "friendlyName": "Sexbound Race Patch - Lucario Species",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "210_sxb_lustbound_aphroditesbow.pak",
+    "name": "lustbound_aphroditesbow",
+    "friendlyName": "Lustbound: Aphrodite's Bow Addon",
+    "candidateAssets": 13,
+    "candidateStrings": 27
+  },
+  {
+    "file": "211_sxb_lustbound_omnibrowser.pak",
+    "name": "lustbound_omnibrowser",
+    "friendlyName": "Lustbound: Omnibrowser Addon",
+    "candidateAssets": 31,
+    "candidateStrings": 388
+  },
+  {
+    "file": "211_sxb_lustbound_omnibrowser_unclog.pak",
+    "name": "lustbound_omnibrowser_unclog",
+    "friendlyName": "Lustbound: Omnibrowser Addon Unclogger",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "220_sxb_lustbound_friskyfelin.pak",
+    "name": "lustbound_friskyfelin",
+    "friendlyName": "Lustbound: Frisky Felin Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "220_sxb_lustbound_globaura.pak",
+    "name": "lustbound_globaura",
+    "friendlyName": "Lustbound: Globaura Patch",
+    "candidateAssets": 1,
+    "candidateStrings": 24
+  },
+  {
+    "file": "220_sxb_lustbound_gofuckyourself.pak",
+    "name": "lustbound_gofuckyourself",
+    "friendlyName": "Lustbound: Go Fuck Yourself Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "220_sxb_lustbound_lewdbound.pak",
+    "name": "lustbound_lewdbound",
+    "friendlyName": "Lustbound: Lewdbound Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "220_sxb_lustbound_lewdboundmattresses.pak",
+    "name": "lustbound_lewdboundmattresses",
+    "friendlyName": "Lustbound: Lewdbound Mattresses Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "25_sxb_CleanMattresses.pak",
+    "name": "CleanMattresses",
+    "friendlyName": "CleanMattress",
+    "candidateAssets": 21,
+    "candidateStrings": 181
+  },
+  {
+    "file": "322_SxB_MimicSupport.pak",
+    "name": "SxB_MimicSupport",
+    "friendlyName": "SexBound - TTPP's Mimic Support",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "39827_sxb_LewdFluidDesc.pak",
+    "name": "LewdFluidDesc",
+    "friendlyName": "Lewd Fluid Descriptions",
+    "candidateAssets": 9,
+    "candidateStrings": 9
+  },
+  {
+    "file": "5_sxb_Throwing Heart 2.2.pak",
+    "name": "eikoThrowingHeart",
+    "friendlyName": "Throwing Hearts",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "997_sxb_Lustlings_1.2.9_clean.pak",
+    "name": "Lustling Race Traits Update",
+    "friendlyName": "Big Bounceing Boobies",
+    "candidateAssets": 216,
+    "candidateStrings": 1269
+  },
+  {
+    "file": "998_Enhanced Storage - Lustlings.pak",
+    "name": "Lustling Enhanced Storage",
+    "friendlyName": "Big Bounceing Boobies",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "999990101_Ruincalboss_contents_2912289180.pak",
+    "name": "Ruincalboss",
+    "friendlyName": "Ruin Overhaul",
+    "candidateAssets": 21,
+    "candidateStrings": 77
+  },
+  {
+    "file": "999998000_futara_engine_contents_2297133082.pak",
+    "name": "Futara's Dragon Engine",
+    "friendlyName": "Futara's Dragon Engine [oSB Optional Support]",
+    "candidateAssets": 2,
+    "candidateStrings": 3
+  },
+  {
+    "file": "999998001_futaraEnergyOrbAddOn.pak",
+    "name": "Futara's Dragon Race Addon Energy Orb",
+    "friendlyName": "Futara's Dragon Race Addon Energy Orb",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "999998002_futaraEnergyBeamAddOn.pak",
+    "name": "Futara's Dragon Race Addon Energy Beam",
+    "friendlyName": "Futara's Dragon Race Addon Energy Beam",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "999998010_Optimized_Weather_Vanilla_contents_3078788080.pak",
+    "name": "Optimized Weather - Vanilla",
+    "friendlyName": "Optimized Weather - Vanilla",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "999998011_Optimized_Weather_FU_contents_3078794530.pak",
+    "name": "Optimized Weather - Frackin Universe",
+    "friendlyName": "Optimized Weather - Frackin Universe",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "999998012_stop_flicker_fps_contents_771695952.pak",
+    "name": "Stop That Damn Flicker!",
+    "friendlyName": "Stop That Damn Flicker!",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "999999100_pixels_death_contents_3350355857.pak",
+    "name": "pat_DropMoneyOnDeath",
+    "friendlyName": "Drop pixels on death",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "999999200_ffxiv_viera_blueprint_compat.pak",
+    "name": "ffxiv_viera_fucking_racist",
+    "friendlyName": null,
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "999999900_holo_roading_contents_1662954134.pak",
+    "name": "Cuter Chucklefish",
+    "friendlyName": "Cuter Chucklefish",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "999999900_sxb_cuter2_contents_761242493.pak",
+    "name": "Cutebound2",
+    "friendlyName": "Make the universe a cuter place2",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "999999901_sxb_cuter_captin_contents_2961295192.pak",
+    "name": "captain_noble_cuter_place",
+    "friendlyName": "Captain Noble Headgear Convenient for Make the Universe a Cuter Place",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "999999910_whatmenu.pak",
+    "name": "whatmenu",
+    "friendlyName": "What Menu?",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "999999980_fuck_u_trace_back.pak",
+    "name": "fuck_u_trace_back",
+    "friendlyName": "fuck_u_trace_back",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "99_sxb_brothel.pak",
+    "name": "sx_brothel",
+    "friendlyName": "Sexbound - Brothel",
+    "candidateAssets": 35,
+    "candidateStrings": 141
+  },
+  {
+    "file": "All_Items_Stack_contents_3370469697.pak",
+    "name": "XRC_maxStackOSB",
+    "friendlyName": "[oSB] All Items Are Stackable!",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Anter583_contents_2144215143.pak",
+    "name": "Anter583_Library_antrUtilityLib",
+    "friendlyName": "Anter583's Utility Library",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "Armok_Fixes_5.4_compat.pak",
+    "name": "Armok's Assorted Mod Fixes and Tweaks",
+    "friendlyName": "Armok's Assorted Mod Fixes and Tweaks",
+    "candidateAssets": 252,
+    "candidateStrings": 560
+  },
+  {
+    "file": "aval_plus_patch_contents_3049118061.pak",
+    "name": "AvaliPlus-GibberishPatch",
+    "friendlyName": "Avali Plus - Gibberish Patch",
+    "candidateAssets": 79,
+    "candidateStrings": 515
+  },
+  {
+    "file": "Avali Plus_contents_1636662922.pak",
+    "name": "Avali Plus",
+    "friendlyName": "Avali Plus",
+    "candidateAssets": 177,
+    "candidateStrings": 1156
+  },
+  {
+    "file": "barrel_boom_Enhanced_Storage_contents_2510776866.pak",
+    "name": "Toxicity Infraction: returning the ES toxic waste barrel to its vanilla self",
+    "friendlyName": "Toxicity Infraction: returning the ES toxic waste barrel to its vanilla self",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "bd_hpbar_fix_contents_2225813517.pak",
+    "name": "bl3healthbars",
+    "friendlyName": "Borderlands 3 Custom Health bars",
+    "candidateAssets": 14,
+    "candidateStrings": 22
+  },
+  {
+    "file": "bd_player_bar_contents_2437888263.pak",
+    "name": "player_bl3healthbars",
+    "friendlyName": "Custom Player Health Bar",
+    "candidateAssets": 3,
+    "candidateStrings": 7
+  },
+  {
+    "file": "Better_Icons_contents_1642552023.pak",
+    "name": "bc_icons_blocks",
+    "friendlyName": "Better (C) Icons - Blocks",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "BL3_Clean_Texture_contents_2229880801.pak",
+    "name": "bl3healthbarshdclean",
+    "friendlyName": "BL3 Healthbars Clean Texture",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "BL3_Shellguard_Addon_contents_2225814372.pak",
+    "name": "bl3healthbarssgaddon",
+    "friendlyName": "BL3 Healthbars Shellguard Addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Black_Armory_4.2.5_FU_NEKI_compat.pak",
+    "name": "The Black Armory",
+    "friendlyName": "The Black Armory (Version 4.2.5)",
+    "candidateAssets": 291,
+    "candidateStrings": 1682
+  },
+  {
+    "file": "Black_Armory_Enhanced_Storage_contents_2263440896.pak",
+    "name": "tba_es_patch",
+    "friendlyName": "Black Armory Enhanced Storage Compatibility",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Book_of_Spirits_2.0_compat.pak",
+    "name": "BookOfSpirits",
+    "friendlyName": "Book of Spirits - NPC & Monster Name Displayer",
+    "candidateAssets": 150,
+    "candidateStrings": 404
+  },
+  {
+    "file": "Bookstore_contents_1108897518.pak",
+    "name": "bookstore",
+    "friendlyName": "The Bookstore",
+    "candidateAssets": 11,
+    "candidateStrings": 41
+  },
+  {
+    "file": "content_823008631.pak",
+    "name": "Character Creation Extender 100",
+    "friendlyName": "CCExt100",
+    "candidateAssets": 1,
+    "candidateStrings": 11
+  },
+  {
+    "file": "contents_1006623185.pak",
+    "name": "Barrel Collision: Platforms and Stacking",
+    "friendlyName": "Barrel Collision: Platforms and Stacking",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1086805718.pak",
+    "name": "lowHealthAlarm",
+    "friendlyName": "Low Health Alarm",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1096159903.pak",
+    "name": "aethertexreplace",
+    "friendlyName": "Aether Sea Texture Reduction",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1102394541.pak",
+    "name": "Shuttlecraft",
+    "friendlyName": "Customizable Shuttlecraft",
+    "candidateAssets": 15,
+    "candidateStrings": 155
+  },
+  {
+    "file": "contents_1103569914.pak",
+    "name": "Elevator",
+    "friendlyName": "RailTram Retexture!",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1109048662.pak",
+    "name": "Better Staff Zones",
+    "friendlyName": "Better Staff Zones",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1114277962.pak",
+    "name": "OutpostShuttlecraft",
+    "friendlyName": "Outpost Shuttlecraft",
+    "candidateAssets": 1,
+    "candidateStrings": 10
+  },
+  {
+    "file": "contents_1114865340.pak",
+    "name": "Hissy Hurt Nova Sounds",
+    "friendlyName": "Hissy Hurt Nova Sounds",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1115253139.pak",
+    "name": "Automatic Capsules",
+    "friendlyName": "Automatic Capsules",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1116097274.pak",
+    "name": "Make the Saturnians a Cuter Race",
+    "friendlyName": "Make the Saturnians a Cuter Race",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1119086325.pak",
+    "name": "many_tabs1",
+    "friendlyName": "Many Tabs (1/2)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1119973779.pak",
+    "name": "Fixed Critters",
+    "friendlyName": "Fixed Critters",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1133358548.pak",
+    "name": "Betterchains",
+    "friendlyName": "Better Chains",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1137228707.pak",
+    "name": "Wild West Music Pack.",
+    "friendlyName": "Western music pack for deserts.",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1142523872.pak",
+    "name": "sup_monsterparts",
+    "friendlyName": "Supper's Monster Parts",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1142579300.pak",
+    "name": "carpettool",
+    "friendlyName": "Carpet Tool",
+    "candidateAssets": 2,
+    "candidateStrings": 4
+  },
+  {
+    "file": "contents_1145193933.pak",
+    "name": "Play as NPCs",
+    "friendlyName": "Play as NPCs",
+    "candidateAssets": 1,
+    "candidateStrings": 11
+  },
+  {
+    "file": "contents_1165677332.pak",
+    "name": "FreeYourHands",
+    "friendlyName": "Free your hands! (One-handed torches, hoes, platforms, crops)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1174122487.pak",
+    "name": "OceanCropsMod",
+    "friendlyName": "Surface Ocean Crops",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1178310549.pak",
+    "name": "TimelessAnimals",
+    "friendlyName": "Timeless Animals",
+    "candidateAssets": 17,
+    "candidateStrings": 87
+  },
+  {
+    "file": "contents_1185445462.pak",
+    "name": "BQQM",
+    "friendlyName": "Better Quest Complete Markers",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1199608652.pak",
+    "name": "Aging Alien Alcohols",
+    "friendlyName": "Aging Alien Alcohols",
+    "candidateAssets": 135,
+    "candidateStrings": 245
+  },
+  {
+    "file": "contents_1218367214.pak",
+    "name": "Aimable Abilities: Spears",
+    "friendlyName": "Aimable Abilities: Spears",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1236040332.pak",
+    "name": "FU Mech Antimatter Cannon Annihilation Sound by AnthonyZaBoss",
+    "friendlyName": "FU Mech Antimatter Cannon Annihilation Sound",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1239952506.pak",
+    "name": "Pets Are Useful",
+    "friendlyName": "Pets Are Useful!",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1240540230.pak",
+    "name": "No Weather Particles",
+    "friendlyName": "No Weather Particles",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1253782150.pak",
+    "name": "playerdancing",
+    "friendlyName": "Player Dances and Emotes",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1258008544.pak",
+    "name": "applestorage",
+    "friendlyName": "Backpacks",
+    "candidateAssets": 4,
+    "candidateStrings": 13
+  },
+  {
+    "file": "contents_1277619409.pak",
+    "name": "Bluedrop's Feline Friends",
+    "friendlyName": "Bluedrop's Feline Friends",
+    "candidateAssets": 15,
+    "candidateStrings": 85
+  },
+  {
+    "file": "contents_1296666565.pak",
+    "name": "Heartbeat 3.0",
+    "friendlyName": "Heartbeat 3.0",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1300828186.pak",
+    "name": "PlayableCatsRedux",
+    "friendlyName": "Playable Cats Redux - The Tiknass'uut",
+    "candidateAssets": 45,
+    "candidateStrings": 195
+  },
+  {
+    "file": "contents_1312619566.pak",
+    "name": "Craftable Mech Blueprints - Anvil Edition",
+    "friendlyName": "Craftable Mech Blueprints - Anvil Edition",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1321934117.pak",
+    "name": "visiblemeteorweather",
+    "friendlyName": "Visible Meteor Showers",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1327702382.pak",
+    "name": "Maid n Butler Outfits",
+    "friendlyName": "Maid n Butler Outfits",
+    "candidateAssets": 1,
+    "candidateStrings": 11
+  },
+  {
+    "file": "contents_1335123569.pak",
+    "name": "Aether Book Creator",
+    "friendlyName": "Aetheric Book Creator",
+    "candidateAssets": 2,
+    "candidateStrings": 5
+  },
+  {
+    "file": "contents_1356955138.pak",
+    "name": "lucario",
+    "friendlyName": "Lucario Race",
+    "candidateAssets": 89,
+    "candidateStrings": 404
+  },
+  {
+    "file": "contents_1367444689.pak",
+    "name": "Subtler Hyperspace",
+    "friendlyName": "Subtler Hyperspace",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1371648124.pak",
+    "name": "mkiotntworkshop",
+    "friendlyName": "MkioTNT Workshop",
+    "candidateAssets": 36,
+    "candidateStrings": 81
+  },
+  {
+    "file": "contents_1385230137.pak",
+    "name": "Sign Machine",
+    "friendlyName": "signmachine",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1386367471.pak",
+    "name": "Cute Japanese Girl as Your AI! 2.0",
+    "friendlyName": "NicoleAI",
+    "candidateAssets": 3,
+    "candidateStrings": 12
+  },
+  {
+    "file": "contents_1390490083.pak",
+    "name": "morenpcships",
+    "friendlyName": "More NPC Ships",
+    "candidateAssets": 3,
+    "candidateStrings": 34
+  },
+  {
+    "file": "contents_1394106904.pak",
+    "name": "Solara, The Novakid Energy Sword",
+    "friendlyName": "Solara, The Novakid Energy Sword",
+    "candidateAssets": 2,
+    "candidateStrings": 4
+  },
+  {
+    "file": "contents_1394999146.pak",
+    "name": "avalifit",
+    "friendlyName": "AvaliFit (TM)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1396610566.pak",
+    "name": "kitsunerace",
+    "friendlyName": "Kitsune Race",
+    "candidateAssets": 691,
+    "candidateStrings": 2503
+  },
+  {
+    "file": "contents_1411331676.pak",
+    "name": "FUSAILModdedRaceSupport",
+    "friendlyName": "FU/ztarbound S.A.I.L. Modded Race Support",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1417364378.pak",
+    "name": "ikn_furnishing",
+    "friendlyName": "WW Furnishing",
+    "candidateAssets": 1703,
+    "candidateStrings": 3495
+  },
+  {
+    "file": "contents_1422582678.pak",
+    "name": "vibrant_novakids",
+    "friendlyName": "Vibrant Novakids",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1428547342.pak",
+    "name": "Minidresses",
+    "friendlyName": "Minidresses",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1429652829.pak",
+    "name": "Elithian_Races_Mod_FU",
+    "friendlyName": "Elithian Races Mod: Frackin Universes Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1432556830.pak",
+    "name": "fuvillfelin",
+    "friendlyName": "felin towns on frackin' planets",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1432794738.pak",
+    "name": "fuvillavali",
+    "friendlyName": "fuvillavali",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1433991809.pak",
+    "name": "elithianperennialcrops",
+    "friendlyName": "Elithian Perennial Crops",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1434229372.pak",
+    "name": "craftableseedser",
+    "friendlyName": "Craftable Seeds: Elithian Races Addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1447060281.pak",
+    "name": "Dark Souls Teleport SFX",
+    "friendlyName": "Dark Souls Teleport SFX",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1468297293.pak",
+    "name": "Lamia Colorpack - Pastel",
+    "friendlyName": "Lamia Colorpack - Pastel",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1469379049.pak",
+    "name": "Craftable Green Apple and Orange saplings in Seed Maker",
+    "friendlyName": "Craftable Green Apple and Orange saplings in Seed Maker",
+    "candidateAssets": 5,
+    "candidateStrings": 7
+  },
+  {
+    "file": "contents_1479985478.pak",
+    "name": "Swoosh Sprite Overhauls",
+    "friendlyName": "Swoosh Sprite Overhauls",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1482174649.pak",
+    "name": "HelmetsFixed",
+    "friendlyName": "HelmetsFixed",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1487455404.pak",
+    "name": "TileTweaksTanz",
+    "friendlyName": "Tile Tweaks - Tanz Compatibility Addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1500761263.pak",
+    "name": "NewRecipeStar",
+    "friendlyName": "New Recipe Star",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1501869759.pak",
+    "name": "I'd Like To Sit Here",
+    "friendlyName": "I'd Like To Sit Here",
+    "candidateAssets": 13,
+    "candidateStrings": 116
+  },
+  {
+    "file": "contents_1508762885.pak",
+    "name": "Powers of Ruin",
+    "friendlyName": "Powers of Ruin",
+    "candidateAssets": 2,
+    "candidateStrings": 3
+  },
+  {
+    "file": "contents_1519251821.pak",
+    "name": "kitsunefr",
+    "friendlyName": "Kitsune Frackin' Universe Patch",
+    "candidateAssets": 2,
+    "candidateStrings": 3
+  },
+  {
+    "file": "contents_1523349276.pak",
+    "name": "Ette Set",
+    "friendlyName": "Ette Set",
+    "candidateAssets": 1,
+    "candidateStrings": 11
+  },
+  {
+    "file": "contents_1529649528.pak",
+    "name": "vanguardblade",
+    "friendlyName": "The Forge: Vanguard's Pride",
+    "candidateAssets": 2,
+    "candidateStrings": 9
+  },
+  {
+    "file": "contents_1538589010.pak",
+    "name": "[Dragon Maid] Tohru's Outfit",
+    "friendlyName": "[Dragon Maid] Tohru's Outfit",
+    "candidateAssets": 1,
+    "candidateStrings": 11
+  },
+  {
+    "file": "contents_1558104990.pak",
+    "name": "perennialcropsFUnew",
+    "friendlyName": "Frackin Universe Perennial Crops New",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1566201532.pak",
+    "name": "futreecrops",
+    "friendlyName": "FU Tree Crops",
+    "candidateAssets": 12,
+    "candidateStrings": 102
+  },
+  {
+    "file": "contents_1568971442.pak",
+    "name": "vanillatreecrops",
+    "friendlyName": "Vanilla Tree Crops",
+    "candidateAssets": 13,
+    "candidateStrings": 111
+  },
+  {
+    "file": "contents_1593802400.pak",
+    "name": "meleeaimfu",
+    "friendlyName": "Frackin' Universe - Melee Aiming",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1594682555.pak",
+    "name": "CuterKirhos",
+    "friendlyName": "Cuter Kirhos",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1598973984.pak",
+    "name": "Alternate UI Sounds",
+    "friendlyName": "Alternate UI Sounds",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1608905076.pak",
+    "name": "FREX",
+    "friendlyName": "[FREX] I'll Frack Your Races Expansion (Pseudo-Maintained)",
+    "candidateAssets": 15,
+    "candidateStrings": 15
+  },
+  {
+    "file": "contents_1612579544.pak",
+    "name": "Give the avian oculemonade",
+    "friendlyName": "Give the avian oculemonade",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_1627057511.pak",
+    "name": "quietpartyhorn",
+    "friendlyName": "Quiet Partyhorn - Sound Replacer",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1627427082.pak",
+    "name": "CCR",
+    "friendlyName": "Critter Capture: Revamped!",
+    "candidateAssets": 286,
+    "candidateStrings": 562
+  },
+  {
+    "file": "contents_1628020624.pak",
+    "name": "Skittle's Mega Crafter",
+    "friendlyName": "Skittle's Mega Crafter",
+    "candidateAssets": 2,
+    "candidateStrings": 15
+  },
+  {
+    "file": "contents_1636723841.pak",
+    "name": "Aging Alien Alcohol Addon",
+    "friendlyName": "Aging Alien Alcohol Addon",
+    "candidateAssets": 58,
+    "candidateStrings": 125
+  },
+  {
+    "file": "contents_1639501560.pak",
+    "name": "MorePlanetInfo-FU",
+    "friendlyName": "More Planet Info - FU Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1643716707.pak",
+    "name": "Erchius Mission Music Replacement with HL2 Music",
+    "friendlyName": "Erchius Mission Music Replacement with HL2 Music",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1643826709.pak",
+    "name": "Erchius Horrors Texture Change",
+    "friendlyName": "Erchius Horrors Texture Change",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1645857629.pak",
+    "name": "Erchius Dark Reskin",
+    "friendlyName": "Erchius Dark Reskin",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_1666272764.pak",
+    "name": "Green's Dye Suite",
+    "friendlyName": "- Green's Dye Suite 1.7 - Super Ultra Matter Update DX Plus Omega Repainted Edition & Knuckles",
+    "candidateAssets": 10,
+    "candidateStrings": 868
+  },
+  {
+    "file": "contents_1681880007.pak",
+    "name": "FUExGUIPatch",
+    "friendlyName": "FU + Extended GUI Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1683606374.pak",
+    "name": "KawaiiStuff+",
+    "friendlyName": "KawaiiStuff+",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1686763043.pak",
+    "name": "FU_ShellguardMech",
+    "friendlyName": "FU / Shellguard Mech Compatability",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1697042019.pak",
+    "name": "the_angels_of_starbound_CutePatch",
+    "friendlyName": "Make the Angels a Cuter Yet Holy Race",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1698045793.pak",
+    "name": "saturnian_C3",
+    "friendlyName": "Make the Thaumoth a Cuter Yet Mothy Race",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1700512569.pak",
+    "name": "My Lil Mermaid Pack",
+    "friendlyName": "My Lil Mermaid Pack",
+    "candidateAssets": 1,
+    "candidateStrings": 11
+  },
+  {
+    "file": "contents_1722987773.pak",
+    "name": "Dresses n Skirts Pack",
+    "friendlyName": "Dresses n Skirts Pack",
+    "candidateAssets": 1,
+    "candidateStrings": 11
+  },
+  {
+    "file": "contents_1723934741.pak",
+    "name": "suphaxnonfatalfalls",
+    "friendlyName": "Non Fatal Fall Damage",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1726500697.pak",
+    "name": "Fish Tweaks",
+    "friendlyName": "Fishing Tweaks",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1732808640.pak",
+    "name": "SmartCrew",
+    "friendlyName": "Smart Crew",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1733089348.pak",
+    "name": "eStyleMonsters",
+    "friendlyName": "eStyleMonsters - Globaura",
+    "candidateAssets": 6,
+    "candidateStrings": 6
+  },
+  {
+    "file": "contents_1733755757.pak",
+    "name": "MorePlanetInfoCSKPatch",
+    "friendlyName": "More Planet Info- Saturnians Addon",
+    "candidateAssets": 1,
+    "candidateStrings": 6
+  },
+  {
+    "file": "contents_1741562203.pak",
+    "name": "Ancient Infuser",
+    "friendlyName": "Ancient Infuser",
+    "candidateAssets": 2,
+    "candidateStrings": 16
+  },
+  {
+    "file": "contents_1761193918.pak",
+    "name": "Garden Planet fix",
+    "friendlyName": "More Planet Info Lush Planet fix(Works with Frackin Universe)",
+    "candidateAssets": 1,
+    "candidateStrings": 4
+  },
+  {
+    "file": "contents_1764356080.pak",
+    "name": "Wooloo Fluffalo Varient",
+    "friendlyName": "Wooloo Fluffalo Varient",
+    "candidateAssets": 2,
+    "candidateStrings": 11
+  },
+  {
+    "file": "contents_1772643711.pak",
+    "name": "ANTRMPIQPatch1_4",
+    "friendlyName": "[More Planet Info] 1.4 Quest Marker Fix",
+    "candidateAssets": 1,
+    "candidateStrings": 7
+  },
+  {
+    "file": "contents_1772846135.pak",
+    "name": "CuterNightars",
+    "friendlyName": "Cuter Nightars",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_1774272492.pak",
+    "name": "JSSSewerMonsters",
+    "friendlyName": "Cut Content - Sewer Monsters",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_1788644520.pak",
+    "name": "xs_crumex",
+    "friendlyName": "NPC Mechs",
+    "candidateAssets": 5,
+    "candidateStrings": 26
+  },
+  {
+    "file": "contents_1792129883.pak",
+    "name": "Remove_Mosquito_Sound",
+    "friendlyName": "Remove Mosquito",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1799854324.pak",
+    "name": "FrackinUniverseManyTabsPatch",
+    "friendlyName": "Frackin' Universe & Many Tabs Compatibility Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1802500596.pak",
+    "name": "tagsstation",
+    "friendlyName": "Tags Scanning Station",
+    "candidateAssets": 2,
+    "candidateStrings": 11
+  },
+  {
+    "file": "contents_1807455828.pak",
+    "name": "bedsForTwo",
+    "friendlyName": "Beds for Two",
+    "candidateAssets": 4,
+    "candidateStrings": 36
+  },
+  {
+    "file": "contents_1826459917.pak",
+    "name": "OutpostMusicTranquilityBase",
+    "friendlyName": "Outpost Music Replacer - Tranquility Base",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1829295532.pak",
+    "name": "MusicalMoons",
+    "friendlyName": "Musical Moons",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1830330047.pak",
+    "name": "vanillafoodpatch",
+    "friendlyName": "Frackin Races Vanilla Food Patch",
+    "candidateAssets": 54,
+    "candidateStrings": 54
+  },
+  {
+    "file": "contents_1830331363.pak",
+    "name": "avalifoodpatch",
+    "friendlyName": "Frackin Races Avali Food Patch",
+    "candidateAssets": 4,
+    "candidateStrings": 4
+  },
+  {
+    "file": "contents_1841301309.pak",
+    "name": "Emergency Teleporter",
+    "friendlyName": "Emergency Teleporter",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_1857537129.pak",
+    "name": "Suits n Stuff Pack",
+    "friendlyName": "Suits n Stuff Pack",
+    "candidateAssets": 1,
+    "candidateStrings": 11
+  },
+  {
+    "file": "contents_1886984497.pak",
+    "name": "Balloon",
+    "friendlyName": "Hot Air Balloon",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_1889721468.pak",
+    "name": "GirderT_VS",
+    "friendlyName": "Girder Tweaks - Vertical & Soft Corners",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1911595500.pak",
+    "name": "Beta Star Generation / 0.01 Star Multplier",
+    "friendlyName": "Beta Star Generation / 0.01 Star Multplier",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1920352046.pak",
+    "name": "Avali Maid Outfit",
+    "friendlyName": "Avali Maid Outfit",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1923768422.pak",
+    "name": "augiteArcadeSounds",
+    "friendlyName": "Augite's Arcade Sounds",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1926211048.pak",
+    "name": "programmer socks",
+    "friendlyName": "programmer socks",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1928972521.pak",
+    "name": "The Angels of Starbound - FR/FU Patch",
+    "friendlyName": "The Angels of Starbound - FR/FU Patch",
+    "candidateAssets": 9,
+    "candidateStrings": 14
+  },
+  {
+    "file": "contents_1929091560.pak",
+    "name": "Lamia FR-FU Patch",
+    "friendlyName": "Lamia FR-FU Patch",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_1932122417.pak",
+    "name": "carpettoolflat",
+    "friendlyName": "Carpet Tool - Lowgroundr Addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1938886559.pak",
+    "name": "craftableseeds",
+    "friendlyName": "Craftable Seeds NEW",
+    "candidateAssets": 33,
+    "candidateStrings": 85
+  },
+  {
+    "file": "contents_1945946369.pak",
+    "name": "shattered_alchemy",
+    "friendlyName": "^#0f0,shadow;Shattered Alchemy!",
+    "candidateAssets": 190,
+    "candidateStrings": 386
+  },
+  {
+    "file": "contents_1952112607.pak",
+    "name": "RPG Growth FU Recipe Balance Patch",
+    "friendlyName": "RPG Growth FU Recipe Balance Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1964557400.pak",
+    "name": "Nightar & FU Nightar shiplocker FU fix",
+    "friendlyName": "Nightar & FU Nightar shiplocker FU fix",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1968871907.pak",
+    "name": "treefix",
+    "friendlyName": "treefix",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1969427709.pak",
+    "name": null,
+    "friendlyName": "More Tabs for Many Tabs and Extended GUI",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1974816168.pak",
+    "name": "RedoneEncounters",
+    "friendlyName": "Redone Ship Encounters - Names, Icons, Descriptions, and Horizons",
+    "candidateAssets": 1,
+    "candidateStrings": 32
+  },
+  {
+    "file": "contents_1982486298.pak",
+    "name": "Custom races inventory fix",
+    "friendlyName": "Custom races inventory fix",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1987370505.pak",
+    "name": "saturniansfubiomeaddon",
+    "friendlyName": "Saturnian Villages on Frackin Universe Planets",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_1987992979.pak",
+    "name": "Letheia Expanded",
+    "friendlyName": "Letheia Expanded",
+    "candidateAssets": 258,
+    "candidateStrings": 595
+  },
+  {
+    "file": "contents_1999869786.pak",
+    "name": "FUVaultsPlus",
+    "friendlyName": "More Rewarding FU Vaults",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2001156040.pak",
+    "name": "PvZ Quest SFX",
+    "friendlyName": "Plants vs. Zombies Quest Complete SFX",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2002853135.pak",
+    "name": "Avali Solar Panels",
+    "friendlyName": "Avali Solar Panels for FU!",
+    "candidateAssets": 3,
+    "candidateStrings": 18
+  },
+  {
+    "file": "contents_2003959183.pak",
+    "name": "nitrogendeep",
+    "friendlyName": "Nitrogen Deep",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2009993372.pak",
+    "name": "z4galacticdungeonsfrackin",
+    "friendlyName": "Galactic Dungeons + Frackin Universe patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2010607826.pak",
+    "name": "XRC_BETA_STARBOUND",
+    "friendlyName": "^shadow;Betab^#ff0;¤^clear;.^reset,shadow;und!",
+    "candidateAssets": 1630,
+    "candidateStrings": 3992
+  },
+  {
+    "file": "contents_2010883172.pak",
+    "name": "Project Knightfall",
+    "friendlyName": "Project Knightfall",
+    "candidateAssets": 530,
+    "candidateStrings": 2964
+  },
+  {
+    "file": "contents_2010914574.pak",
+    "name": "z4galacticdungeonsmpi",
+    "friendlyName": "Galactic Dungeons More Planet Info patch",
+    "candidateAssets": 1,
+    "candidateStrings": 9
+  },
+  {
+    "file": "contents_2017600718.pak",
+    "name": "RPG_Growth_Fix",
+    "friendlyName": "RPG Growth Graphical Fix",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2018183533.pak",
+    "name": "rb_base",
+    "friendlyName": "Recipe Browser",
+    "candidateAssets": 2,
+    "candidateStrings": 9
+  },
+  {
+    "file": "contents_2018986916.pak",
+    "name": "rb_patch_fu",
+    "friendlyName": "Recipe Browser FU-Patch",
+    "candidateAssets": 1,
+    "candidateStrings": 125
+  },
+  {
+    "file": "contents_2019615016.pak",
+    "name": "rb_patch_avalibase",
+    "friendlyName": "Recipe Browser Avali-Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2019615322.pak",
+    "name": "rb_patch_elithianraces",
+    "friendlyName": "Recipe Browser Elithian Races-Patch",
+    "candidateAssets": 1,
+    "candidateStrings": 288
+  },
+  {
+    "file": "contents_2022935092.pak",
+    "name": "HellishPlanet",
+    "friendlyName": "Hellish Planet",
+    "candidateAssets": 37,
+    "candidateStrings": 139
+  },
+  {
+    "file": "contents_2032882095.pak",
+    "name": "kitsunesenkosail",
+    "friendlyName": "Senko-san SAIL for Kitsune",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2045136368.pak",
+    "name": "NoWeaponNPCTypesFU",
+    "friendlyName": "NPCSpawner+ No-Weapon Crew member types for Frackin Universe",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2052758462.pak",
+    "name": "FUAvaliTriagePatch",
+    "friendlyName": "FU + Avali Triage Patch",
+    "candidateAssets": 14,
+    "candidateStrings": 21
+  },
+  {
+    "file": "contents_2061053988.pak",
+    "name": "PlanetParallaxRemovalOmeruin",
+    "friendlyName": "Planet Parallax Removal - Omeruin",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2067524656.pak",
+    "name": "Mechanical Rhythm Music Replacement",
+    "friendlyName": "Mechanical Rhythm Music Replacement",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2070856005.pak",
+    "name": "Law Enforcement",
+    "friendlyName": "Law Enforcement 0.7.3",
+    "candidateAssets": 253,
+    "candidateStrings": 749
+  },
+  {
+    "file": "contents_2071883876.pak",
+    "name": "MorePlanetInfoLEPatch",
+    "friendlyName": "More Planet Info- Letheia Expanded Addon",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2123652964.pak",
+    "name": "DarkSouls Killsound SFX",
+    "friendlyName": "DarkSouls Killsound SFX",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2139248963.pak",
+    "name": "ehbnm",
+    "friendlyName": "Enemy Health Bar No More!",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2141182021.pak",
+    "name": "Wooden Furniture Reskin",
+    "friendlyName": "Wooden furniture reskin",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2141947777.pak",
+    "name": "Nightar FU Desc fix",
+    "friendlyName": "Nightar FU Desc fix",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_2143587500.pak",
+    "name": "emptyhand",
+    "friendlyName": "Empty Hand",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2149802085.pak",
+    "name": "winterbraid's Planetary Clocks: Rewound!",
+    "friendlyName": "winterbraid's Planetary Clocks: Rewound!",
+    "candidateAssets": 4,
+    "candidateStrings": 35
+  },
+  {
+    "file": "contents_2167914507.pak",
+    "name": "bossesgateshop",
+    "friendlyName": "Bosses Gateshop",
+    "candidateAssets": 24,
+    "candidateStrings": 154
+  },
+  {
+    "file": "contents_2170995740.pak",
+    "name": "Neb_Tormentor",
+    "friendlyName": "Tormentor",
+    "candidateAssets": 4,
+    "candidateStrings": 9
+  },
+  {
+    "file": "contents_2172686376.pak",
+    "name": "Recipe Browser RPG Growth - Patch",
+    "friendlyName": "Recipe Browser RPG Growth - Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2172987468.pak",
+    "name": "RoundtablesAndAMonitor",
+    "friendlyName": "Round Tables and a Monitor ",
+    "candidateAssets": 6,
+    "candidateStrings": 54
+  },
+  {
+    "file": "contents_2173629563.pak",
+    "name": "Adventurer's Addons",
+    "friendlyName": "Adventurer’s Addons: Loot, Treasure, and Equipment Expanded!",
+    "candidateAssets": 55,
+    "candidateStrings": 115
+  },
+  {
+    "file": "contents_2177711780.pak",
+    "name": "The Ironsides",
+    "friendlyName": "The Ironsides",
+    "candidateAssets": 49,
+    "candidateStrings": 101
+  },
+  {
+    "file": "contents_2182583592.pak",
+    "name": "Kelp Sapling Fix - Updated",
+    "friendlyName": "Kelp Sapling Fix - Updated",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2187004982.pak",
+    "name": "cutebound_felins_kemonomimi",
+    "friendlyName": "Feb's Cuter Felins - Kemonomimi Version",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_2193593073.pak",
+    "name": "sakuraitemsanobjects",
+    "friendlyName": "Sakura Objects",
+    "candidateAssets": 21,
+    "candidateStrings": 48
+  },
+  {
+    "file": "contents_2194900256.pak",
+    "name": "cutebound_felins_kemonomimi_big_eyes",
+    "friendlyName": "Feb's Cuter Felins - Kemonomimi Version (Large Male Eyes Patch)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2195702875.pak",
+    "name": "Stellaris OST Replacer & Addon for Main Menu Music",
+    "friendlyName": "Stellaris OST Replacer & Addon for Main Menu Music",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2210878914.pak",
+    "name": "utopia",
+    "friendlyName": "Utopia",
+    "candidateAssets": 136,
+    "candidateStrings": 425
+  },
+  {
+    "file": "contents_2212179822.pak",
+    "name": "utopiaeng",
+    "friendlyName": "Utopia ENG.patch",
+    "candidateAssets": 104,
+    "candidateStrings": 123
+  },
+  {
+    "file": "contents_2221185460.pak",
+    "name": "Uncommon Avali",
+    "friendlyName": "Uncommon Avali",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2232650711.pak",
+    "name": "Lucario_Chest_Spike_Remover",
+    "friendlyName": "Lucario Chest Spike Remover",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2232652761.pak",
+    "name": "Lucario_Paw_Spike_Remover",
+    "friendlyName": "Lucario Paw Spike Remover",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2237446179.pak",
+    "name": "saturniansStarryPlanetaddon",
+    "friendlyName": "Saturnian Villages on Starry Planets",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2265144528.pak",
+    "name": "CompactCrops_FU",
+    "friendlyName": "Compact Crops FU",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2283501469.pak",
+    "name": "XRC_ITEMNAMES",
+    "friendlyName": "Show Item Names!",
+    "candidateAssets": 2,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2287046122.pak",
+    "name": "FUStarryPlanetsCompatibilityPatch",
+    "friendlyName": "FU + Starry Planets Compatibility Patch",
+    "candidateAssets": 30,
+    "candidateStrings": 30
+  },
+  {
+    "file": "contents_2287610979.pak",
+    "name": "angelsailreplacer",
+    "friendlyName": "Angel SAIL Replacer",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2295152742.pak",
+    "name": "FUHellishPlanetsCompatibilityPatch",
+    "friendlyName": "FU + Hellish Planets Compatibility Patch",
+    "candidateAssets": 6,
+    "candidateStrings": 6
+  },
+  {
+    "file": "contents_2311446973.pak",
+    "name": "EE-Starry",
+    "friendlyName": "Equivalent Exchange Nebulathite Ore Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2314946092.pak",
+    "name": "sg_es_patch",
+    "friendlyName": "Shellguard Enhanced Storage Compatibility",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2329520812.pak",
+    "name": "kitsuneplanetinfo",
+    "friendlyName": "More Planet Info - Kitsune Patch",
+    "candidateAssets": 1,
+    "candidateStrings": 3
+  },
+  {
+    "file": "contents_2348968660.pak",
+    "name": "frackin_xsmechs",
+    "friendlyName": "Frackin XS Mechs",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2359135864.pak",
+    "name": "Arcana",
+    "friendlyName": "Arcana",
+    "candidateAssets": 3261,
+    "candidateStrings": 7684
+  },
+  {
+    "file": "contents_2370607854.pak",
+    "name": "Arcana FU Desc fix",
+    "friendlyName": "Arcana FU Desc fix",
+    "candidateAssets": 2,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2373148549.pak",
+    "name": "ffstags",
+    "friendlyName": "[FFS] Coordinator and Weapon Tags patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2375270402.pak",
+    "name": "Zarra_FUElithianShips",
+    "friendlyName": "Frackin' Universe - Elithian BYOS Ships",
+    "candidateAssets": 1,
+    "candidateStrings": 4
+  },
+  {
+    "file": "contents_2375350009.pak",
+    "name": "saturniansArcanaaddon",
+    "friendlyName": "Saturnian Villages on Arcana Planets",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2375908302.pak",
+    "name": null,
+    "friendlyName": "[FU] Default Recipe UNLOCKER!",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2380700372.pak",
+    "name": "LessDeadMoons",
+    "friendlyName": "Less Dead Moons - Moon Dungeons",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_2387099956.pak",
+    "name": "af_ees_saturnian",
+    "friendlyName": "Saturnian Support for 'EE for Starbound'",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2388120601.pak",
+    "name": "Even Less Dead Moons",
+    "friendlyName": "Even Less Dead Moons",
+    "candidateAssets": 4,
+    "candidateStrings": 7
+  },
+  {
+    "file": "contents_2395650902.pak",
+    "name": "Neo Re-sprite",
+    "friendlyName": "Neo Re-sprite",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2396110695.pak",
+    "name": "af_tagsstation_quickbar",
+    "friendlyName": "Tag Scanning Station: Quickbar Patch",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_2402909895.pak",
+    "name": "froggfix",
+    "friendlyName": "(Frogg) Villager Fix",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2408540180.pak",
+    "name": "Holyday Lucario Outfit",
+    "friendlyName": "Holyday Lucario Outfit",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2409538486.pak",
+    "name": "Darker Nights",
+    "friendlyName": "Darker Nights",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2420830786.pak",
+    "name": "crewpatchesdialogmoderandom",
+    "friendlyName": "[Crew Patches] \"dialogMode\":\"random\"",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2421829571.pak",
+    "name": "cutearcana",
+    "friendlyName": "Cutebound Arcana",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2428588507.pak",
+    "name": "Evanaug's Coal Resprite",
+    "friendlyName": "Evanaug's Coal Resprite",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2428616454.pak",
+    "name": "alternativefluffalocolours",
+    "friendlyName": "Fluffalo Recolours",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2433700417.pak",
+    "name": "RPG Growth Tabs & Profession Retexture ",
+    "friendlyName": "RPG Growth Tabs & Profession Retexture ",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2433914920.pak",
+    "name": "WingedFlight",
+    "friendlyName": "Universal Winged Flight Tech",
+    "candidateAssets": 4,
+    "candidateStrings": 8
+  },
+  {
+    "file": "contents_2439342862.pak",
+    "name": "EE-Arcana",
+    "friendlyName": "Equivalent Exchange patch for Arcana ores",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2440033332.pak",
+    "name": "Glitch Lights Full Bright",
+    "friendlyName": "Glitch Lights Full Bright",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2440256472.pak",
+    "name": "Armor Lights Full Bright",
+    "friendlyName": "Armor Lights Full Bright",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2463780108.pak",
+    "name": "Starbound But Pixels Sound Like Studs",
+    "friendlyName": "Starbound But Pixels Sound Like Studs",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2468895859.pak",
+    "name": "AnomsOutpostOverhaul_EnhancedStorage",
+    "friendlyName": "Anom's Outpost Overhaul - Enhanced Storage Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2468896108.pak",
+    "name": "AnomsOutpostOverhaul_OutpostShuttlecraft",
+    "friendlyName": "Anom's Outpost Overhaul - Outpost Shuttlecraft Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2468896248.pak",
+    "name": "AnomsOutpostOverhaul_TheBookstore",
+    "friendlyName": "Anom's Outpost Overhaul - The Bookstore Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2468896437.pak",
+    "name": "AnomsOutpostOverhaul_TheLottery",
+    "friendlyName": "Anom's Outpost Overhaul - The Lottery Patch",
+    "candidateAssets": 1,
+    "candidateStrings": 9
+  },
+  {
+    "file": "contents_2468903056.pak",
+    "name": "AnomsOutpostOverhual",
+    "friendlyName": "Anom's Outpost Overhaul",
+    "candidateAssets": 30,
+    "candidateStrings": 168
+  },
+  {
+    "file": "contents_2468984308.pak",
+    "name": "raiizysforge",
+    "friendlyName": "Raiizy's Forge",
+    "candidateAssets": 713,
+    "candidateStrings": 1809
+  },
+  {
+    "file": "contents_2469215698.pak",
+    "name": "AnomsOutpost_GalacticCruise",
+    "friendlyName": "Anom's Outpost Overhaul - The Essential Galactic Cruise Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2471939344.pak",
+    "name": "Less Dead Moons - Reduced Spawn Rate",
+    "friendlyName": "Less Dead Moons - Reduced Spawn Rate",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2478011034.pak",
+    "name": "ikavatarmechlegsadapter",
+    "friendlyName": "Avatar: Na'vi & RDA Mech Legs Adapter",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2478119400.pak",
+    "name": "AnomsOutpostGunsmithAddon",
+    "friendlyName": "Anom's Outpost Overhaul - Gunsmith Shop Addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2478120319.pak",
+    "name": "AnomsOutpostScrapVendorAddon",
+    "friendlyName": "Anom's Outpost Overhaul - Scrap Vendor Addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2494853338.pak",
+    "name": "antr_biggerTeleportGUI_4x",
+    "friendlyName": "^#00FFFF;Bigger Teleporter GUI (4x)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2497254778.pak",
+    "name": "chaosweapons",
+    "friendlyName": "Chaos Weapons",
+    "candidateAssets": 152,
+    "candidateStrings": 508
+  },
+  {
+    "file": "contents_2507851821.pak",
+    "name": "pat_techremover",
+    "friendlyName": "Unequip and Remove Techs",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2510413988.pak",
+    "name": "NihilSaturniansUniversalFlightIntegration",
+    "friendlyName": "(FU) Saturnians Universal Winged Flight Integration",
+    "candidateAssets": 2,
+    "candidateStrings": 4
+  },
+  {
+    "file": "contents_2520304930.pak",
+    "name": "Void's Set",
+    "friendlyName": "Void's Set",
+    "candidateAssets": 10,
+    "candidateStrings": 19
+  },
+  {
+    "file": "contents_2548423095.pak",
+    "name": "Detailed Ship Encounters",
+    "friendlyName": "Detailed Ship Encounters",
+    "candidateAssets": 1,
+    "candidateStrings": 74
+  },
+  {
+    "file": "contents_2553602050.pak",
+    "name": "Shellguard Tweaks",
+    "friendlyName": "Shellguard Tweaks",
+    "candidateAssets": 93,
+    "candidateStrings": 357
+  },
+  {
+    "file": "contents_2554353548.pak",
+    "name": "Less Floaty Movement FU Dirty Patch",
+    "friendlyName": "Less Floaty Movement FU Dirty Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2571698194.pak",
+    "name": "RustTreeFix",
+    "friendlyName": "Rust Tree Fix",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2576946364.pak",
+    "name": "furesearcht",
+    "friendlyName": "FU Research Tweaks",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2580293884.pak",
+    "name": "Brighter Moons",
+    "friendlyName": "Brighter Moons",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2582274902.pak",
+    "name": "Starcity",
+    "friendlyName": "Cosetropilis Planets",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2582440502.pak",
+    "name": "OmGrasslandPlanet",
+    "friendlyName": "Grassland Planet",
+    "candidateAssets": 5,
+    "candidateStrings": 37
+  },
+  {
+    "file": "contents_2582464455.pak",
+    "name": "BPCC100",
+    "friendlyName": "Bigger Character Creator Image",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2585848460.pak",
+    "name": "Divine Planets - Seraphim Music Replacer",
+    "friendlyName": "Divine Planets - Seraphim Music Replacer",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2593214277.pak",
+    "name": "Pokemon Outfits Gen 1",
+    "friendlyName": "Pokemon Outfits Gen 1",
+    "candidateAssets": 4,
+    "candidateStrings": 15
+  },
+  {
+    "file": "contents_2593744603.pak",
+    "name": "Peacekeeper's Arsenal (Abandoned)",
+    "friendlyName": "Peacekeeper's Arsenal (Abandoned)",
+    "candidateAssets": 71,
+    "candidateStrings": 140
+  },
+  {
+    "file": "contents_2601315924.pak",
+    "name": "XRC_dietaryaid",
+    "friendlyName": "Dietary Aid!",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2601450656.pak",
+    "name": "FREXfix",
+    "friendlyName": "FREX Character Creation Fix",
+    "candidateAssets": 12,
+    "candidateStrings": 12
+  },
+  {
+    "file": "contents_2601511795.pak",
+    "name": "antr_freeThePrismMan",
+    "friendlyName": "^#62D8FC;Free The Prism Man^reset;",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2601606862.pak",
+    "name": "rentek_armorAdapt",
+    "friendlyName": "Armor Adapt",
+    "candidateAssets": 3,
+    "candidateStrings": 5
+  },
+  {
+    "file": "contents_2604255131.pak",
+    "name": "precursorracekrakoth",
+    "friendlyName": "K'Rakoth Mod",
+    "candidateAssets": 968,
+    "candidateStrings": 6469
+  },
+  {
+    "file": "contents_2605267672.pak",
+    "name": "precursorracekrakoth_fupatch",
+    "friendlyName": "K'Rakoth Mod: Frackin' Universe Addon",
+    "candidateAssets": 46,
+    "candidateStrings": 72
+  },
+  {
+    "file": "contents_2607069863.pak",
+    "name": "precursorracekrakoth_arcanapatch",
+    "friendlyName": "K'Rakoth Mod: Arcana Patch",
+    "candidateAssets": 36,
+    "candidateStrings": 317
+  },
+  {
+    "file": "contents_2608061089.pak",
+    "name": "antr_playerVoice",
+    "friendlyName": "^#cc9582;Player Voice^reset;",
+    "candidateAssets": 45,
+    "candidateStrings": 45
+  },
+  {
+    "file": "contents_2611377283.pak",
+    "name": "antr_playerVoice_allEmotes",
+    "friendlyName": "[^#cc9582;Player Voice^reset;] Play on All Emotes",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2611495531.pak",
+    "name": "cottonatterramart",
+    "friendlyName": "Cotton at Terramart",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2611501999.pak",
+    "name": "Neki",
+    "friendlyName": "Neki",
+    "candidateAssets": 113,
+    "candidateStrings": 477
+  },
+  {
+    "file": "contents_2612885673.pak",
+    "name": "Peacekeeper's Arsenal FU Patch",
+    "friendlyName": "Peacekeeper's Arsenal FU Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2622367894.pak",
+    "name": "OmRaceTraits-NPCAddon",
+    "friendlyName": "Race Traits - NPC Addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2628213443.pak",
+    "name": "Fullbright Crops",
+    "friendlyName": "Fullbright Crops",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2628218117.pak",
+    "name": "Fullbright Flora",
+    "friendlyName": "Fullbright Flora",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2628222548.pak",
+    "name": "Fullbright Monsters",
+    "friendlyName": "Fullbright Monsters",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2632319634.pak",
+    "name": "NekiFU",
+    "friendlyName": "NekiFU",
+    "candidateAssets": 22,
+    "candidateStrings": 24
+  },
+  {
+    "file": "contents_2643364844.pak",
+    "name": "NPC Controller",
+    "friendlyName": "NPC Controller",
+    "candidateAssets": 5,
+    "candidateStrings": 10
+  },
+  {
+    "file": "contents_2645627882.pak",
+    "name": "Alcoholic Poptops",
+    "friendlyName": "Alcoholic Poptops",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2646673935.pak",
+    "name": "joboffers-addon-meido",
+    "friendlyName": "Job Offers Compatibility Addon: Maid NPCs",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2647014626.pak",
+    "name": "ng_flametrapnerf",
+    "friendlyName": "Weaker Flame Traps",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2656849369.pak",
+    "name": "cuteaegi",
+    "friendlyName": "Cutebound Aegi",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2659254416.pak",
+    "name": "OmFalseHarpyRace",
+    "friendlyName": "False Harpies Race",
+    "candidateAssets": 17,
+    "candidateStrings": 68
+  },
+  {
+    "file": "contents_2661151311.pak",
+    "name": "False Harpies Big Eyes",
+    "friendlyName": "False Harpies Big Eyes",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2661670128.pak",
+    "name": "novakidquest",
+    "friendlyName": "Novakid Quest Mod",
+    "candidateAssets": 15,
+    "candidateStrings": 34
+  },
+  {
+    "file": "contents_2672162514.pak",
+    "name": "novakidquest_anomoutpostcompatibility",
+    "friendlyName": "Novakid Quest Mod - Anom's Outpost Compatibility Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2672213160.pak",
+    "name": "AnomsOutpostOverhaul_ProjectRedemption",
+    "friendlyName": "Anom's Outpost Overhaul - Project Redemption Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2677134074.pak",
+    "name": "FalseHarpyFUPatch",
+    "friendlyName": "False Harpy FU Patch",
+    "candidateAssets": 2,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2678547138.pak",
+    "name": "MPI+M32_COMPAT",
+    "friendlyName": "More Planet Info: Maple32 patch",
+    "candidateAssets": 1,
+    "candidateStrings": 28
+  },
+  {
+    "file": "contents_2694383533.pak",
+    "name": "Disintegration Death Animation",
+    "friendlyName": "Disintegration Death Animation",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2698975190.pak",
+    "name": "outbackkit",
+    "friendlyName": "The Forge: Outback Survival Kit",
+    "candidateAssets": 10,
+    "candidateStrings": 24
+  },
+  {
+    "file": "contents_2704778060.pak",
+    "name": "neo+",
+    "friendlyName": "Neo+",
+    "candidateAssets": 28,
+    "candidateStrings": 93
+  },
+  {
+    "file": "contents_2716757438.pak",
+    "name": "NekiChips",
+    "friendlyName": "NekiChips",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2720293579.pak",
+    "name": "NekiShades",
+    "friendlyName": "NekiShades",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2725667743.pak",
+    "name": "RingAltAnomalies",
+    "friendlyName": "Alt Anomalies",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2727658868.pak",
+    "name": "AllTeleportersPlatformized",
+    "friendlyName": "All Teleporters Platformized",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2735634052.pak",
+    "name": "nuggubsmegamod",
+    "friendlyName": "nuggubs' Mega Mod (LEGACY VERSION)",
+    "candidateAssets": 1738,
+    "candidateStrings": 11821
+  },
+  {
+    "file": "contents_2740063170.pak",
+    "name": "Mechineki",
+    "friendlyName": "Mechineki",
+    "candidateAssets": 3,
+    "candidateStrings": 3
+  },
+  {
+    "file": "contents_2740611866.pak",
+    "name": "Funny Weapons",
+    "friendlyName": "Funny Weapons",
+    "candidateAssets": 46,
+    "candidateStrings": 83
+  },
+  {
+    "file": "contents_2746439524.pak",
+    "name": "Arcane Magus - A Starbound Magic Mod",
+    "friendlyName": "Arcane Magus - A Starbound Magic Mod",
+    "candidateAssets": 114,
+    "candidateStrings": 430
+  },
+  {
+    "file": "contents_2751503410.pak",
+    "name": "mechinekialtears1.5",
+    "friendlyName": "Mechineki AltEars",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2753663754.pak",
+    "name": "MicroMachines - Vanilla Edition",
+    "friendlyName": "MicroMachines - Vanilla Edition",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2754895866.pak",
+    "name": "Galaxy_in_Conflict_Music",
+    "friendlyName": "Galaxy in Conflict - Music [v4.3+]",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2755769172.pak",
+    "name": "manytabsfelinclay",
+    "friendlyName": "Many Tabs for Felins",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2755769572.pak",
+    "name": "manytabsmaple32clay",
+    "friendlyName": "Many Tabs for Maple32",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2755770105.pak",
+    "name": "manytabssaturnclay",
+    "friendlyName": "Many Tabs for Saturnians",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2760361822.pak",
+    "name": "dyeablemkioweaponsbetabound",
+    "friendlyName": "MkioTNT Workshop Dyeable weapons - Betabound Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2760708749.pak",
+    "name": "curiousspecies",
+    "friendlyName": "Custom species are curious too",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2765094668.pak",
+    "name": "CosmicHusbandry",
+    "friendlyName": "Cosmic Husbandry",
+    "candidateAssets": 137,
+    "candidateStrings": 588
+  },
+  {
+    "file": "contents_2768649963.pak",
+    "name": "nuudescriptions",
+    "friendlyName": "Nuu Descriptions",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2768791657.pak",
+    "name": "BetterSitIdle",
+    "friendlyName": "Better Sit Idle",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2768796598.pak",
+    "name": "BetterSitIdleNekiNoSitAddon",
+    "friendlyName": "Better Sit Idle - Neki Addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2771117582.pak",
+    "name": "MicroMachines - Enhanced Storage Edition",
+    "friendlyName": "MicroMachines - Enhanced Storage Edition",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2773001691.pak",
+    "name": "IWantThoseClothesToo",
+    "friendlyName": "I Want Those Clothes Too",
+    "candidateAssets": 7,
+    "candidateStrings": 62
+  },
+  {
+    "file": "contents_2774848292.pak",
+    "name": "interactivecrew",
+    "friendlyName": "Corbent's Interactive Crew",
+    "candidateAssets": 11,
+    "candidateStrings": 14
+  },
+  {
+    "file": "contents_2776815088.pak",
+    "name": "pat_fixstarterclothes",
+    "friendlyName": "starter clothes slot fix thibng",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2777148528.pak",
+    "name": "Maple32 Glutt FU/FR Patch",
+    "friendlyName": "Maple32 Glutt FU/FR Patch",
+    "candidateAssets": 2,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2778441214.pak",
+    "name": "MicroMachines - Equivalent Exchange Edition",
+    "friendlyName": "MicroMachines - Equivalent Exchange Edition",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2781791650.pak",
+    "name": "cmdr_eevee",
+    "friendlyName": "Wild Eevees And Kanto Evolutions",
+    "candidateAssets": 9,
+    "candidateStrings": 17
+  },
+  {
+    "file": "contents_2785129570.pak",
+    "name": "Weep Not My Child - Title Music Addition",
+    "friendlyName": "Weep Not My Child - Title Music Addition",
+    "candidateAssets": 2,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2785206166.pak",
+    "name": "Saturnian Player Voice",
+    "friendlyName": "Saturnian Player Voice",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2797442567.pak",
+    "name": "FalseHarpiesExtraColours",
+    "friendlyName": "False Harpies-Extra Colours",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2797892339.pak",
+    "name": "AlphaBattle",
+    "friendlyName": "Alpha Battle",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_2798757981.pak",
+    "name": "zcrab_broomresprite",
+    "friendlyName": "broom resprite",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2799920138.pak",
+    "name": "BK3KCompat",
+    "friendlyName": "BK3K-Various Mods Compatibility",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2811708018.pak",
+    "name": "Pet Collars Plus",
+    "friendlyName": "Pet Collars Plus",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2816710537.pak",
+    "name": "ManyTabsMapleFurnace",
+    "friendlyName": "[Many Tabs] Maple32 Furnace Tab",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2818770472.pak",
+    "name": "ManyTabsKnightfallInventors",
+    "friendlyName": "[Many Tabs] Project Knightfall Inventor's Table Tab",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2820349130.pak",
+    "name": "Eat While Well Fed",
+    "friendlyName": "Eat While Well Fed",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_2821879793.pak",
+    "name": "precursorracekrakoth_redemptionpatch",
+    "friendlyName": "K'Rakoth Mod: Project Redemption Patch",
+    "candidateAssets": 12,
+    "candidateStrings": 29
+  },
+  {
+    "file": "contents_2823524841.pak",
+    "name": "Lunar Base Music Replacer",
+    "friendlyName": "Lunar Base Music Replacer",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2825779796.pak",
+    "name": "Aimable Traveling Slash",
+    "friendlyName": "Aimable Traveling Slash",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2826222679.pak",
+    "name": "Angels - FU Armor Patch",
+    "friendlyName": "Angels - Frackin Armor Patch",
+    "candidateAssets": 40,
+    "candidateStrings": 49
+  },
+  {
+    "file": "contents_2828324239.pak",
+    "name": "precursorracekrakoth_extendedstorypatch",
+    "friendlyName": "K'Rakoth Mod: Extended Story Patch",
+    "candidateAssets": 15,
+    "candidateStrings": 134
+  },
+  {
+    "file": "contents_2830836086.pak",
+    "name": "Improved Food Descriptions FU Patch",
+    "friendlyName": "Improved Food Descriptions: Frackin' Universe Patch",
+    "candidateAssets": 275,
+    "candidateStrings": 275
+  },
+  {
+    "file": "contents_2834085966.pak",
+    "name": "FFS_VanillaDungeonNonReplacer",
+    "friendlyName": "[FFS] Dungeons and Encounters: FFS-Ified Vanilla Dungeons (Non-Replacer)",
+    "candidateAssets": 10,
+    "candidateStrings": 60
+  },
+  {
+    "file": "contents_2835491179.pak",
+    "name": "More Canned Food",
+    "friendlyName": "More Canned Food!",
+    "candidateAssets": 40,
+    "candidateStrings": 84
+  },
+  {
+    "file": "contents_2835498895.pak",
+    "name": "More Canned Food IFD Patch",
+    "friendlyName": "More Canned Food: Improved Food Descriptions Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2835549767.pak",
+    "name": "More Canned Food FU",
+    "friendlyName": "More Canned Food! [FU Version]",
+    "candidateAssets": 40,
+    "candidateStrings": 84
+  },
+  {
+    "file": "contents_2836659083.pak",
+    "name": "BetterPlatformFalling",
+    "friendlyName": "Better Platform Falling",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2843733950.pak",
+    "name": "FU - Fixed Helmets",
+    "friendlyName": "FU - Fixed Helmets",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2844996935.pak",
+    "name": "XRC_OMNICRAFTER",
+    "friendlyName": "Omnicrafter!",
+    "candidateAssets": 3,
+    "candidateStrings": 5
+  },
+  {
+    "file": "contents_2845911688.pak",
+    "name": "Frackin Universe Legacy Planets",
+    "friendlyName": "Frackin' Universe - Legacy Planets",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2846035010.pak",
+    "name": "RPG_Growth_no_particles",
+    "friendlyName": "RPG Growth - No Particles",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2848049388.pak",
+    "name": "pat_techloadouts",
+    "friendlyName": "Tech Loadouts",
+    "candidateAssets": 2,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2855692046.pak",
+    "name": "XRC_AUTOLOOTER",
+    "friendlyName": "Autolooter!",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_2858362793.pak",
+    "name": "project42",
+    "friendlyName": "Project 42",
+    "candidateAssets": 10,
+    "candidateStrings": 13
+  },
+  {
+    "file": "contents_2862695403.pak",
+    "name": "City.modularpatch.neoncolors2CITY",
+    "friendlyName": "Apply Neon Pollution Sky colors to Citybound Planets - City Planets modular patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2862699576.pak",
+    "name": "City.modularpatch.terraformerrecipes.citybound",
+    "friendlyName": "Citybound Terraformer at Terraforge - City Planets modular patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2862700248.pak",
+    "name": "City.modularpatch.WWsfx2Citybound",
+    "friendlyName": "City Planets Modular Patch - Daytime Sound effects from WW Outpost to Citybound Planets",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2862701014.pak",
+    "name": "City.modularpatch+dungeons2CITY",
+    "friendlyName": "City Planets Modular Patch - More Dungeons (8-9) on Citybound Planets",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2864852527.pak",
+    "name": "precursorracekrakoth_manytabspatch",
+    "friendlyName": "K'Rakoth Mod: Many Tabs Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2865310071.pak",
+    "name": "DRG Underground  Music Replace",
+    "friendlyName": "DRG Underground  Music Replace",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2870027331.pak",
+    "name": "zcrab_ermcodextabremover",
+    "friendlyName": "ERM Unused Codex Tab Remover",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2871440361.pak",
+    "name": "City.modularpatch.neonNightColors2CITY",
+    "friendlyName": "Neon Night Sky Color to Citybound - City Planets Modular Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2871779394.pak",
+    "name": "City.modularpatch.AddOther4Colors2City",
+    "friendlyName": null,
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2871781673.pak",
+    "name": "City.modularpatchDefaultColors2CITY",
+    "friendlyName": "Default Sky Colors for Citybound Parallax Overhauled - City Planets Modular Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2871784021.pak",
+    "name": "City.modularpatch.LiliacDayColors2CITY",
+    "friendlyName": "Liliac Day Colors to Citybound - City Planets modular patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2875152120.pak",
+    "name": "FU Total Immunity Augment",
+    "friendlyName": "FU Total Immunity Augment",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2875590555.pak",
+    "name": "FrackinGiCRacePatch",
+    "friendlyName": "Frackin GiC race patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2876233021.pak",
+    "name": "City.modularpatch.AegiOnPopulated",
+    "friendlyName": "Spawns Aegi colonies on Citybound planets - City Planets modular patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2876250988.pak",
+    "name": "starry.angrystar1noclip.remover",
+    "friendlyName": "Angry star (Starry Planets) can't cross walls",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2876535509.pak",
+    "name": "FUBYOSGiCRacePatch",
+    "friendlyName": "FU BYOS GiC Race Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2881835252.pak",
+    "name": "FasterFollowers",
+    "friendlyName": "Simply Faster Followers",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2882304309.pak",
+    "name": "ESShattered",
+    "friendlyName": "Enhanced Storage-Shattered Alchemy Compat",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2882305339.pak",
+    "name": "ESAngels",
+    "friendlyName": "Enhanced Storage-Angels Compat",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2882305990.pak",
+    "name": "ESStarry",
+    "friendlyName": "Enhanced Storage-Starry Planet Compat",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2882514643.pak",
+    "name": "LessAnnoyingPyreapers",
+    "friendlyName": "Less Annoying Pyreapers",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2884298247.pak",
+    "name": "reussfixstarbound",
+    "friendlyName": "Fix Starbound (Fix code omissions and bugs; holiday items; disabled vanilla items)\n",
+    "candidateAssets": 8,
+    "candidateStrings": 10
+  },
+  {
+    "file": "contents_2885561253.pak",
+    "name": "monsterDex",
+    "friendlyName": "MonsterDex",
+    "candidateAssets": 124,
+    "candidateStrings": 126
+  },
+  {
+    "file": "contents_2893719979.pak",
+    "name": "Re-sprited",
+    "friendlyName": "Fuck original weapon sprites",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2894145647.pak",
+    "name": "WingedFlightConfigTemplate",
+    "friendlyName": "Universal Winged Flight Tech[Limitless Vertical Flight]",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2898350335.pak",
+    "name": "Cosmic Husbandry FU Patches",
+    "friendlyName": "Cosmic Husbandry FU Patches",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2900206734.pak",
+    "name": "Fox Hime Moli 2",
+    "friendlyName": "Fox Hime Moli 2 [v2.4.1]",
+    "candidateAssets": 24,
+    "candidateStrings": 53
+  },
+  {
+    "file": "contents_2900609045.pak",
+    "name": "juuxfullbright",
+    "friendlyName": "Pharitu Partial Fullbright Support",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2902710950.pak",
+    "name": "Space Glitters Removal",
+    "friendlyName": "Space Glitters Removal - FPS Boost in Space",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2903240740.pak",
+    "name": "raiizysforgeCE",
+    "friendlyName": "Raiizy's Forge: Corporate Expansion Addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2912589725.pak",
+    "name": "Adventurer's Addons Patch",
+    "friendlyName": "Adventurer's Addons Patch",
+    "candidateAssets": 45,
+    "candidateStrings": 89
+  },
+  {
+    "file": "contents_2913433210.pak",
+    "name": "Ringable Large Bell",
+    "friendlyName": "Ringable Large Bell",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2916463190.pak",
+    "name": "gic_automation",
+    "friendlyName": "[GIC]Storage Convenience Addon",
+    "candidateAssets": 40,
+    "candidateStrings": 115
+  },
+  {
+    "file": "contents_2916902416.pak",
+    "name": "Nebulox_Echo_Relics_Of_Revengeance",
+    "friendlyName": "Relics of Revengeance",
+    "candidateAssets": 4,
+    "candidateStrings": 13
+  },
+  {
+    "file": "contents_2917219987.pak",
+    "name": "NPC Mechs Declutter",
+    "friendlyName": "NPC Mechs Declutter",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2918996204.pak",
+    "name": "Blue archive cosmetic[Halo mod]",
+    "friendlyName": "Blue Archive Cosmetic",
+    "candidateAssets": 2,
+    "candidateStrings": 15
+  },
+  {
+    "file": "contents_2919830263.pak",
+    "name": "DigitalCrafting",
+    "friendlyName": "DigitalCrafting",
+    "candidateAssets": 3,
+    "candidateStrings": 16
+  },
+  {
+    "file": "contents_2919848208.pak",
+    "name": "DigitalCraftingFU",
+    "friendlyName": "DigitalCraftingFU",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920038488.pak",
+    "name": "DigitalCraftingArcana",
+    "friendlyName": "DigitalCraftingArcana",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920040002.pak",
+    "name": "DigitalCraftingBetabound",
+    "friendlyName": "DigitalCraftingBetabound",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920043112.pak",
+    "name": "DigitalCraftingBlackArmory",
+    "friendlyName": "DigitalCraftingBlackArmory",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920282729.pak",
+    "name": "DigitalCraftingFUXSMech",
+    "friendlyName": "DigitalCraftingFUXSMech",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920283346.pak",
+    "name": "DigitalCraftingKnightfall",
+    "friendlyName": "DigitalCraftingKnightfall",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920301629.pak",
+    "name": "DigitalCraftingMoreOutpostObjects",
+    "friendlyName": "DigitalCraftingMoreOutpostObjects",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920301924.pak",
+    "name": "DigitalCraftingRPG",
+    "friendlyName": "DigitalCraftingRPG",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920302042.pak",
+    "name": "DigitalCraftingRedemption",
+    "friendlyName": "DigitalCraftingRedemption",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920302226.pak",
+    "name": "DigitalCraftingShellguard",
+    "friendlyName": "DigitalCraftingShellguard",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920302544.pak",
+    "name": "DigitalCraftingVoidedEM",
+    "friendlyName": "DigitalCraftingVoidedEM",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920302972.pak",
+    "name": "DigitalCraftingXSMech",
+    "friendlyName": "DigitalCraftingXSMech",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920303062.pak",
+    "name": "DigitalCraftingXSWeapons",
+    "friendlyName": "DigitalCraftingXSWeapons",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920554397.pak",
+    "name": "DigitalCraftingFUTreeCrops",
+    "friendlyName": "DigitalCraftingFUTreeCrops",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2920684844.pak",
+    "name": "pat_techloadoutbinds",
+    "friendlyName": "Tech Loadout Binds [StarExtensions / OpenSB]",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2921688761.pak",
+    "name": "SyncsSpectacularShipsTrashedGreenhouse",
+    "friendlyName": "Syncs Spectacular Ships: Trashed Greenhouse",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_2924963711.pak",
+    "name": "am_glitch_no_breath",
+    "friendlyName": "Glitch No Breath",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2925061852.pak",
+    "name": "woof race_FU_support",
+    "friendlyName": "Woof race(ver.FU) update_Seeding",
+    "candidateAssets": 175,
+    "candidateStrings": 910
+  },
+  {
+    "file": "contents_2927818361.pak",
+    "name": "woof race_byos_support",
+    "friendlyName": "Woof race_BYOS ship remover",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2931114055.pak",
+    "name": "RPG_Growth_MultiProf",
+    "friendlyName": "Professions Memory for RPG Growth",
+    "candidateAssets": 1,
+    "candidateStrings": 3
+  },
+  {
+    "file": "contents_2936613366.pak",
+    "name": "stutterReducer",
+    "friendlyName": "Stutter Reducer Stable",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2938898485.pak",
+    "name": "felin_settlements_on_arcana_planets",
+    "friendlyName": "Felin Settlements on Arcana Planets",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2938914405.pak",
+    "name": "avali_settlements_on_arcana_planets",
+    "friendlyName": "Avali Camps on Arcana Planets",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2942998673.pak",
+    "name": "Neb_Narthex",
+    "friendlyName": "Narthex: A Flying Bloodsword",
+    "candidateAssets": 9,
+    "candidateStrings": 21
+  },
+  {
+    "file": "contents_2957136802.pak",
+    "name": "pat_QuickbarClassic",
+    "friendlyName": "Classic Quickbar",
+    "candidateAssets": 4,
+    "candidateStrings": 12
+  },
+  {
+    "file": "contents_2957477338.pak",
+    "name": "MWHArcanaAddon",
+    "friendlyName": "[3.4 UPDATE]Voyage: An Arcana Addon",
+    "candidateAssets": 876,
+    "candidateStrings": 2540
+  },
+  {
+    "file": "contents_2958989874.pak",
+    "name": "Nebulox_CityScaper",
+    "friendlyName": "CityScaper 2.0 - Building Made Easy!",
+    "candidateAssets": 5,
+    "candidateStrings": 78
+  },
+  {
+    "file": "contents_2959854988.pak",
+    "name": "plushbound",
+    "friendlyName": "Plushbound - Plushies, stickers and more!",
+    "candidateAssets": 577,
+    "candidateStrings": 3561
+  },
+  {
+    "file": "contents_2960006717.pak",
+    "name": "Lit Tents",
+    "friendlyName": "Lit Tents",
+    "candidateAssets": 6,
+    "candidateStrings": 54
+  },
+  {
+    "file": "contents_2962464896.pak",
+    "name": "pat_actionbarbinds",
+    "friendlyName": "More Action Bar Binds [StarExtensions]",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2965482743.pak",
+    "name": "MoreCannedFood_PATCH",
+    "friendlyName": "MoreCannedFood PATCH",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2965496406.pak",
+    "name": "EnhancedStorageStarforge",
+    "friendlyName": "Enhanced Storage-Starforge Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2966549181.pak",
+    "name": "more_ouch_noises",
+    "friendlyName": "More Ouch Noises For Species",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2967291460.pak",
+    "name": "XRC_SWAPAUGMENTS",
+    "friendlyName": "Swap Augments!",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2973603646.pak",
+    "name": "Underground Spider Nest",
+    "friendlyName": "Underground Spider Nest - Updated",
+    "candidateAssets": 13,
+    "candidateStrings": 70
+  },
+  {
+    "file": "contents_2974524803.pak",
+    "name": "zcrab_bombresprite",
+    "friendlyName": "bomb resprite",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2976098002.pak",
+    "name": "NekiCity",
+    "friendlyName": "Neki City",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2977384255.pak",
+    "name": "Bruce's Compact Arsenal",
+    "friendlyName": "Bruce's Compact Arsenal",
+    "candidateAssets": 8,
+    "candidateStrings": 13
+  },
+  {
+    "file": "contents_2977650123.pak",
+    "name": "WMITF",
+    "friendlyName": "What mod is this from?",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2979678524.pak",
+    "name": "SDP",
+    "friendlyName": "Super Dungeon Pack",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_2979732554.pak",
+    "name": "[GIC] Black Ops",
+    "friendlyName": "[GIC] Black Ops",
+    "candidateAssets": 82,
+    "candidateStrings": 168
+  },
+  {
+    "file": "contents_2980583814.pak",
+    "name": "Galaxy In Conflict - Red Sun Rising Expansion Pack",
+    "friendlyName": "[GiC] Red Sun Rising Expansion Pack [V2.4]",
+    "candidateAssets": 317,
+    "candidateStrings": 563
+  },
+  {
+    "file": "contents_2980863873.pak",
+    "name": "SDP_MPI_Patch",
+    "friendlyName": "SDP - More Planet Info Patch",
+    "candidateAssets": 1,
+    "candidateStrings": 8
+  },
+  {
+    "file": "contents_2980872125.pak",
+    "name": "manytabsforarcana",
+    "friendlyName": "Many Tabs for Arcana",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2981084223.pak",
+    "name": "lofty_savethewhales",
+    "friendlyName": "Toxic Ocean Fish / Critter Fix",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2982938140.pak",
+    "name": "astraskitsunedialog",
+    "friendlyName": "Astra's Kitsune Dialog",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2983087701.pak",
+    "name": "Titanbound FU Patch ",
+    "friendlyName": "Titanbound FU Patch ",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2983327908.pak",
+    "name": "FrackinConfigureMMQuickbarIcon",
+    "friendlyName": "Frackin' Configure MM Quickbar Icon",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_2983581962.pak",
+    "name": "GiC_Weapons_Pack",
+    "friendlyName": "[GiC 4.0] YveltalZekrom's Extended Lore Friendly Weapons Expansion Pack",
+    "candidateAssets": 163,
+    "candidateStrings": 307
+  },
+  {
+    "file": "contents_2983639797.pak",
+    "name": "lofty_irisil",
+    "friendlyName": "Project Irisil (v1.6.0.4)",
+    "candidateAssets": 129,
+    "candidateStrings": 584
+  },
+  {
+    "file": "contents_2988576904.pak",
+    "name": "The Cutieverse - Space Navigation Reskin",
+    "friendlyName": "The Cutieverse - Space Navigation Reskin",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2992119945.pak",
+    "name": "Fullbright Avali Holograms",
+    "friendlyName": "Fullbright Avali Holograms",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_2992799707.pak",
+    "name": "U.S.C.M. Alt. Progression Mod",
+    "friendlyName": "U.S.C.M. Alt. Progression Mod",
+    "candidateAssets": 102,
+    "candidateStrings": 211
+  },
+  {
+    "file": "contents_3008930556.pak",
+    "name": "EnhancedStorageCumulative_PATCH",
+    "friendlyName": "Enhanced Storage PATCH [Cumulative]",
+    "candidateAssets": 2,
+    "candidateStrings": 12
+  },
+  {
+    "file": "contents_3009306245.pak",
+    "name": "ERM FU Meat Chunk patch",
+    "friendlyName": null,
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3009820691.pak",
+    "name": "destiny_ost_repl",
+    "friendlyName": "test ost mod upload",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3010955719.pak",
+    "name": "Elithian Energy Weapon FU Patch",
+    "friendlyName": "Elithian Energy Weapon FU Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3014317291.pak",
+    "name": "Elithian Craftable Flashlights",
+    "friendlyName": "Elithian Craftable Flashlights",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3015818996.pak",
+    "name": "[GIC] FU armor with GIC augment",
+    "friendlyName": "[GIC] FU armor with GIC augment",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3019188957.pak",
+    "name": "ES-MatterExtractor_REBALANCED",
+    "friendlyName": "Enhanced Storage Matter Extractor - REBALANCED",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3019677199.pak",
+    "name": "nmm_enstorpatch",
+    "friendlyName": "nuggubs' Mega Mod Enhanced Storage Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3024829105.pak",
+    "name": "MPI_Frackin_Patch",
+    "friendlyName": "Frackin Universe: More Planet Info Official Patch Correctly Fixed",
+    "candidateAssets": 1,
+    "candidateStrings": 21
+  },
+  {
+    "file": "contents_3029670850.pak",
+    "name": "ArcanaTerraforgePatch",
+    "friendlyName": "Arcana - Terraforge patch (Craftable terraformers)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3030900103.pak",
+    "name": "ExtendedGUITerraforge",
+    "friendlyName": "Extended GUI for Terraforge",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3030902631.pak",
+    "name": "ManyTabsTerraforge1",
+    "friendlyName": "Many Tabs for Terraforge (1/2)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3030903277.pak",
+    "name": "ManyTabsTerraforge2",
+    "friendlyName": "Many Tabs for Terraforge (2/2)",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_3030908648.pak",
+    "name": "SuperCityPack",
+    "friendlyName": "Super City Pack",
+    "candidateAssets": 146,
+    "candidateStrings": 290
+  },
+  {
+    "file": "contents_3032664993.pak",
+    "name": "BK3KCompatAddon",
+    "friendlyName": "BK3K-Various Mods Compatibility Addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3034913399.pak",
+    "name": "XRC_UPGRADEMODULESFORSPACESTATIONS",
+    "friendlyName": "Station Upgrade Modules!",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_3036699000.pak",
+    "name": "HoloRuler",
+    "friendlyName": "Holographic Ruler 2in1",
+    "candidateAssets": 2,
+    "candidateStrings": 4
+  },
+  {
+    "file": "contents_3037236777.pak",
+    "name": "macrochip",
+    "friendlyName": "^darkcyan;Macrochip ^reset;2in1",
+    "candidateAssets": 28,
+    "candidateStrings": 114
+  },
+  {
+    "file": "contents_3037288458.pak",
+    "name": "FuzzierNekiFloof",
+    "friendlyName": "Fuzzier NekiFloof",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3046915477.pak",
+    "name": "pfstarburst_betasuitpatch",
+    "friendlyName": "Betabound Suit Patch for Starburst Rework",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3048977458.pak",
+    "name": "Alta FU Patch+",
+    "friendlyName": "Alta FU Patch+",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_3058028748.pak",
+    "name": "StarboundGoodGamesFixes",
+    "friendlyName": "Starbound - Good Game's Fixes",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3062232953.pak",
+    "name": "BookOfSpirits-ElithianRaces",
+    "friendlyName": "Book Of Spirits - Elithian Races",
+    "candidateAssets": 6,
+    "candidateStrings": 6
+  },
+  {
+    "file": "contents_3065586024.pak",
+    "name": "BookOfSpirits-NamesForAllNPC",
+    "friendlyName": "Book of Spirits - Names For All NPCs",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3071398361.pak",
+    "name": "Frackin Patch For U.S.C.M. Alt. Progression mod",
+    "friendlyName": "Frackin Patch For U.S.C.M. Alt. Progression mod",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3077933615.pak",
+    "name": "Weather Lag Fix",
+    "friendlyName": "Weather Lag Fix",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3088086087.pak",
+    "name": "RandomNPCDialogue",
+    "friendlyName": "Immersive NPC Dialogue",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_3093874669.pak",
+    "name": "Pikachu_CityScaper_AlcoholicPoptops_Addon",
+    "friendlyName": "CityScaper - Alcoholic Poptops Addon",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_3095436865.pak",
+    "name": "NekiStorage",
+    "friendlyName": "NekiStorage",
+    "candidateAssets": 22,
+    "candidateStrings": 132
+  },
+  {
+    "file": "contents_3109616623.pak",
+    "name": "ExpandedMagnorbsGoodGamesFixes",
+    "friendlyName": "Expanded Magnorbs - Good Game's Fixes",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3111667255.pak",
+    "name": "Pixel Equipment 2",
+    "friendlyName": "Pixel Equipment Reloaded",
+    "candidateAssets": 29,
+    "candidateStrings": 125
+  },
+  {
+    "file": "contents_3117942107.pak",
+    "name": "[GIC]The Escalate Expansion",
+    "friendlyName": "[GIC]The Escalate Expansion",
+    "candidateAssets": 1118,
+    "candidateStrings": 2304
+  },
+  {
+    "file": "contents_3118274689.pak",
+    "name": "eggmech",
+    "friendlyName": "The Eggmobile MKI and II!!!",
+    "candidateAssets": 5,
+    "candidateStrings": 9
+  },
+  {
+    "file": "contents_3126098974.pak",
+    "name": "PeacekeepersArsenalGoodGamesFixes",
+    "friendlyName": "Peacekeeper's Arsenal - Good Game's fixes",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3130082417.pak",
+    "name": "pat_collectionnumberer",
+    "friendlyName": "Collection numberer",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3133663078.pak",
+    "name": "MWH's Gelsemis [FU PATCH]",
+    "friendlyName": "MWH's Gelsemis [FU PATCH]",
+    "candidateAssets": 4,
+    "candidateStrings": 4
+  },
+  {
+    "file": "contents_3138628476.pak",
+    "name": "GiC Logo Remover",
+    "friendlyName": "GiC Logo Remover",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3140827067.pak",
+    "name": "snipingcrew120",
+    "friendlyName": "Crew Can Snipe (120)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3142820233.pak",
+    "name": "Blue Archive Bunny chaser",
+    "friendlyName": "[Blue Archive] Bunny Chaser Costume",
+    "candidateAssets": 11,
+    "candidateStrings": 22
+  },
+  {
+    "file": "contents_3145129643.pak",
+    "name": "FUBYOSRACESPATCH",
+    "friendlyName": "FU BYOS RACES PATCH",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3145769397.pak",
+    "name": "FU RACES PATCH",
+    "friendlyName": "FU RACES PATCH",
+    "candidateAssets": 9,
+    "candidateStrings": 59
+  },
+  {
+    "file": "contents_3149193954.pak",
+    "name": "QuickStackGun",
+    "friendlyName": "Quick Stack Gun",
+    "candidateAssets": 3,
+    "candidateStrings": 4
+  },
+  {
+    "file": "contents_3160406285.pak",
+    "name": "Calamity Fracking Music Addon",
+    "friendlyName": "Calamity Fracking Music Addon",
+    "candidateAssets": 1,
+    "candidateStrings": 32
+  },
+  {
+    "file": "contents_3164757879.pak",
+    "name": "AvaliSFX",
+    "friendlyName": "Avali sounds",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3165005488.pak",
+    "name": "MPI Neki",
+    "friendlyName": "More Planet Info- Neki Race Addon",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_3166013233.pak",
+    "name": "antr_cosmeticEffects_utilityEffects",
+    "friendlyName": "[Cosmetic Effects] Utility Effects",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3166567877.pak",
+    "name": "ShellguardEngineerFix",
+    "friendlyName": "Shellguard Engineer Fix",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3166606156.pak",
+    "name": "ShellguardFullbright",
+    "friendlyName": "Shellguard Fullbright",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3166608545.pak",
+    "name": "Elithian Fullbright",
+    "friendlyName": "Elithian Fullbright",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3181091861.pak",
+    "name": "Neki Racial Descriptions for Mechineki",
+    "friendlyName": "Neki Racial Descriptions for Mechineki",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3192167067.pak",
+    "name": "tdg-gic-enhanced-storage",
+    "friendlyName": "[GiC] Enhanced Storage Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3193965118.pak",
+    "name": "Give the avian oculemonade - a small adjustment",
+    "friendlyName": "Give the avian oculemonade - a small adjustment",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_3195444456.pak",
+    "name": "nmm_unifiedgold",
+    "friendlyName": "Unified Gold",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3200546118.pak",
+    "name": "Double Jump Effect Retexture",
+    "friendlyName": "Double Jump Effect Retexture",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3204590896.pak",
+    "name": "MPI Woof",
+    "friendlyName": "More Planet Info- Woof Race Addon",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_3208283582.pak",
+    "name": "OmRaceTraits-DefaultTooltip",
+    "friendlyName": "Race Traits - Default Tooltip",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3219773602.pak",
+    "name": "Deremas SAIL chip",
+    "friendlyName": "Deremas SAIL chip",
+    "candidateAssets": 4,
+    "candidateStrings": 52
+  },
+  {
+    "file": "contents_3222936740.pak",
+    "name": "paperwindowpatch",
+    "friendlyName": "Transluscent Paper Screen Walls",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3223894534.pak",
+    "name": "reuseBottles",
+    "friendlyName": "Reusable Bottles",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3225377547.pak",
+    "name": "spicedMenuMusic",
+    "friendlyName": "Spicebound:Menu Music",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3225378587.pak",
+    "name": "spicedMenuMusic_Arcana",
+    "friendlyName": "Spicebound:Menu Music - Arcana",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3225378671.pak",
+    "name": "spicedMenuMusic_Betabound",
+    "friendlyName": "Spicebound:Menu Music - Betabound",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3225378740.pak",
+    "name": "spicedMenuMusic_Frackin",
+    "friendlyName": "Spicebound:Menu Music - Frackin' Universe",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3225378807.pak",
+    "name": "spicedMenuMusic_WeepNot",
+    "friendlyName": "Spicebound:Menu Music - Weep Not, My Child",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3242163103.pak",
+    "name": "nmm_vttp",
+    "friendlyName": "nuggubs' Vanilla Texture Tweak Pack",
+    "candidateAssets": 5,
+    "candidateStrings": 17
+  },
+  {
+    "file": "contents_3255373921.pak",
+    "name": "CommunityClothingGathering",
+    "friendlyName": "Community Clothing Gathering",
+    "candidateAssets": 3,
+    "candidateStrings": 19
+  },
+  {
+    "file": "contents_3269792617.pak",
+    "name": "fl_planetsearch",
+    "friendlyName": "Planet Search",
+    "candidateAssets": 1,
+    "candidateStrings": 34
+  },
+  {
+    "file": "contents_3270016569.pak",
+    "name": "pat_crazyring",
+    "friendlyName": "crazyring warp cinematic",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3277624648.pak",
+    "name": "NFOF",
+    "friendlyName": "Neki Furniture - Other Floofs",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3277732237.pak",
+    "name": "nmm_vttp_modpatch",
+    "friendlyName": "nVTTP - Mod Compat Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3277732919.pak",
+    "name": "nmm_vttp_omnicrafter",
+    "friendlyName": "Omnicrafter Resprite",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3277803571.pak",
+    "name": "cmdr_mechinekiplayervoicepatch",
+    "friendlyName": "Mechineki + Player Voice Compatibility Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3278292921.pak",
+    "name": "MyEnterniaEnhancedStorage",
+    "friendlyName": "My Enternia Enhanced Storage Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3287628601.pak",
+    "name": "NPCs Keep Quest",
+    "friendlyName": "NPCs Keep Quest",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3289772696.pak",
+    "name": "nnmm_starsuits",
+    "friendlyName": "Starsuits! (Remastered+ Edition)",
+    "candidateAssets": 6,
+    "candidateStrings": 43
+  },
+  {
+    "file": "contents_3293208013.pak",
+    "name": "Darker_Celestial_Shadows",
+    "friendlyName": "Darker Celestial Shadows",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3293271257.pak",
+    "name": "techRework",
+    "friendlyName": "TR [1.0: Content Update]",
+    "candidateAssets": 36,
+    "candidateStrings": 64
+  },
+  {
+    "file": "contents_3298510103.pak",
+    "name": "nmm-priceadjustments",
+    "friendlyName": "nuggubs' Price Adjustments",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3299480450.pak",
+    "name": "AAAreuseBottles",
+    "friendlyName": "Alien Alcohols: Reuse Bottles",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3299480629.pak",
+    "name": "M32reuseBottles",
+    "friendlyName": "M32 Drinks: Reuse Bottles",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3301329391.pak",
+    "name": "meido",
+    "friendlyName": "Maid NPCs",
+    "candidateAssets": 3,
+    "candidateStrings": 33
+  },
+  {
+    "file": "contents_3308976351.pak",
+    "name": "CityboundGuardPatch",
+    "friendlyName": "Citybound Human Guard MicroPatch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3310130960.pak",
+    "name": "NonEKI-AI-Chip-Addon",
+    "friendlyName": "S.A.I.L. chip - N.E.K.I.",
+    "candidateAssets": 2,
+    "candidateStrings": 27
+  },
+  {
+    "file": "contents_3318166719.pak",
+    "name": "PlayerVoicePatch",
+    "friendlyName": "Player Voice w/ More Ouch Noises Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3321953346.pak",
+    "name": "frackinColander",
+    "friendlyName": "[FU] Pastafarian Crown of the Idiot",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_3354788395.pak",
+    "name": "(Objectively) Less Annoying Low Health Alarm",
+    "friendlyName": "(Objectively) Less Annoying Low Health Alarm",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3356730157.pak",
+    "name": "Erchius Girl",
+    "friendlyName": "Erchius Girl",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3359876550.pak",
+    "name": "NEONPUNK Title screen [oSB] ",
+    "friendlyName": "NEONPUNK Title screen[oSB]",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3373211265.pak",
+    "name": "kyt_rpghunger",
+    "friendlyName": "^yellow;RPG Growth^reset; - ^red;Hunger Drain ^reset;At ^cyan;20 Vitality!^reset;",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_3374297401.pak",
+    "name": "meido-FU",
+    "friendlyName": "Maid NPC FU Patch",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_3383344702.pak",
+    "name": "Relics of Revengence - Solus Song",
+    "friendlyName": "Relics of Revengence - Solus Song",
+    "candidateAssets": 5,
+    "candidateStrings": 23
+  },
+  {
+    "file": "contents_3385818446.pak",
+    "name": "AnomsOutpostOverhaul_ProjectIrisil",
+    "friendlyName": "Anom's Outpost Overhaul - Project Irisil Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3385966710.pak",
+    "name": "AnomsOutpostOverhaul_PixelEquipment",
+    "friendlyName": "Anom's Outpost Overhaul - Pixel Equipment Reloaded Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_3534582033.pak",
+    "name": "TBWorkaround",
+    "friendlyName": "tileBroken Workaround",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_729426722.pak",
+    "name": "xbawks",
+    "friendlyName": "Xbawks Character Extender",
+    "candidateAssets": 1,
+    "candidateStrings": 5
+  },
+  {
+    "file": "contents_729426797.pak",
+    "name": "Extended GUI",
+    "friendlyName": "Extended GUI",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_729429377.pak",
+    "name": "felinsfurplus",
+    "friendlyName": "Felin Fur+",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_729524482.pak",
+    "name": "ContainerUITweak",
+    "friendlyName": "Container UI Tweak",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_729599895.pak",
+    "name": "automaticDoors",
+    "friendlyName": "Automatic Doors",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_729626550.pak",
+    "name": "Obe Monster Parts",
+    "friendlyName": "Obe Monster Parts",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_729746228.pak",
+    "name": "Disabled drop for Survival Mode",
+    "friendlyName": "Disabled drop for Survival Mode",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_730353842.pak",
+    "name": "Desert Music Restored",
+    "friendlyName": "Desert Music Restored",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_730360251.pak",
+    "name": "Ocean Music Restored",
+    "friendlyName": "Ocean Music Restored",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_730378641.pak",
+    "name": "PerennialCrops",
+    "friendlyName": "Perennial Crops",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_730745660.pak",
+    "name": "AnTiMonster",
+    "friendlyName": "AnTiMonster",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_730852387.pak",
+    "name": "EverFrogg",
+    "friendlyName": "EverFrogg",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_731035127.pak",
+    "name": "Less Sky (RAM's version)",
+    "friendlyName": "Less Sky",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_731044896.pak",
+    "name": "CompactCrops",
+    "friendlyName": "Compact Crops",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_731354142.pak",
+    "name": "Improved Food Descriptions",
+    "friendlyName": "Improved Food Descriptions",
+    "candidateAssets": 1,
+    "candidateStrings": 5
+  },
+  {
+    "file": "contents_731465268.pak",
+    "name": "Enhanced Matter Manipulator",
+    "friendlyName": "Enhanced Matter Manipulator",
+    "candidateAssets": 3,
+    "candidateStrings": 104
+  },
+  {
+    "file": "contents_731489261.pak",
+    "name": "Hylotl Voice Fix",
+    "friendlyName": "Hylotl Voice Fix",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_731549837.pak",
+    "name": "More Starbound Critters, Updated!",
+    "friendlyName": "More Starbound Critters (Updated)",
+    "candidateAssets": 319,
+    "candidateStrings": 2511
+  },
+  {
+    "file": "contents_732371478.pak",
+    "name": "shadowedatmospheres",
+    "friendlyName": "Shadowed Atmospheres",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_732985336.pak",
+    "name": "felinsobjectplus",
+    "friendlyName": "Felin Objects+",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_733212338.pak",
+    "name": "Usable Hylotl Bookcases",
+    "friendlyName": "Usable Hylotl Bookcases",
+    "candidateAssets": 4,
+    "candidateStrings": 35
+  },
+  {
+    "file": "contents_733968776.pak",
+    "name": "New Farmables: Hemp for Plant Fibre",
+    "friendlyName": "New Farmables: Hemp for Plant Fibre",
+    "candidateAssets": 1,
+    "candidateStrings": 9
+  },
+  {
+    "file": "contents_735253889.pak",
+    "name": "joboffers",
+    "friendlyName": "Job Offers",
+    "candidateAssets": 12,
+    "candidateStrings": 23
+  },
+  {
+    "file": "contents_735568821.pak",
+    "name": "JTE_Hunger",
+    "friendlyName": "Don't Annoy Me Hunger Overhaul",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_735909966.pak",
+    "name": "Mini Village",
+    "friendlyName": "Mini Village",
+    "candidateAssets": 23,
+    "candidateStrings": 200
+  },
+  {
+    "file": "contents_736040778.pak",
+    "name": "Tanz Tweaks - Textures",
+    "friendlyName": "Tanz Tweaks - Textures",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_736061228.pak",
+    "name": "MeatMaker",
+    "friendlyName": "Meat Maker - Boneboo to All Raw Meats",
+    "candidateAssets": 6,
+    "candidateStrings": 25
+  },
+  {
+    "file": "contents_736752766.pak",
+    "name": "Monster Part Mod Pack",
+    "friendlyName": "Monster Part Mod Pack",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_737195784.pak",
+    "name": "Missing Music Addition [Soundtrack]",
+    "friendlyName": "Missing Music Addition [Soundtrack]",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_742434873.pak",
+    "name": "Citybound",
+    "friendlyName": "Citybound",
+    "candidateAssets": 2,
+    "candidateStrings": 3
+  },
+  {
+    "file": "contents_742893572.pak",
+    "name": "Hover Wheelchair",
+    "friendlyName": "Hover Wheelchair",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_744621236.pak",
+    "name": "wvr_crew_lava",
+    "friendlyName": "Too Dumb to Live: Crew lava/poison immunity",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_745519873.pak",
+    "name": "Compact Crops for New Farmables: Hemp",
+    "friendlyName": "Compact Crops for New Farmables: Hemp",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_746884345.pak",
+    "name": "az-expandedmagnorbs",
+    "friendlyName": "Expanded Magnorbs",
+    "candidateAssets": 26,
+    "candidateStrings": 94
+  },
+  {
+    "file": "contents_749382770.pak",
+    "name": "EverPenguin",
+    "friendlyName": "EverPenguin",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_749386227.pak",
+    "name": "EverLana",
+    "friendlyName": "EverLana",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_750140864.pak",
+    "name": "Action Spawners",
+    "friendlyName": "Action Spawners",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_751868467.pak",
+    "name": "Magic Labels",
+    "friendlyName": "Magic Labels",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_752112050.pak",
+    "name": "BetterSleep",
+    "friendlyName": "BetterSleep",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_753833699.pak",
+    "name": "Geek's Woosh V2",
+    "friendlyName": "Geek's Woosh V2",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_771819285.pak",
+    "name": "Improved Merchants",
+    "friendlyName": "Improved Merchants",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_773691656.pak",
+    "name": "blueprintcrafting",
+    "friendlyName": "Blueprint crafting",
+    "candidateAssets": 30,
+    "candidateStrings": 68
+  },
+  {
+    "file": "contents_776078387.pak",
+    "name": "Easier Bows",
+    "friendlyName": "Easier Bows",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_779096734.pak",
+    "name": "lamia",
+    "friendlyName": "Lamia Race",
+    "candidateAssets": 52,
+    "candidateStrings": 276
+  },
+  {
+    "file": "contents_784179199.pak",
+    "name": "Outpost Nebula",
+    "friendlyName": "Outpost Nebula - Orion",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_810113582.pak",
+    "name": "Dark Souls Sound Mod Quieter Version",
+    "friendlyName": "Dark Souls Money pick up sound Quieter Version",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_817468961.pak",
+    "name": "meleeaim",
+    "friendlyName": "Melee Aiming",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_832872255.pak",
+    "name": "Lord of the Rings Music Addition",
+    "friendlyName": "Lord of the Rings Music Addition",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_838356389.pak",
+    "name": "tenantPack",
+    "friendlyName": "Tenant Pack",
+    "candidateAssets": 15,
+    "candidateStrings": 23
+  },
+  {
+    "file": "contents_851781339.pak",
+    "name": "Make the Lamia a cuter race",
+    "friendlyName": "Make the Lamia a cuter race",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "contents_853665529.pak",
+    "name": "Bigger Action Bar(20 slots)",
+    "friendlyName": "Bigger Action Bar(20 slots)",
+    "candidateAssets": 1,
+    "candidateStrings": 4
+  },
+  {
+    "file": "contents_869900472.pak",
+    "name": "AvaliPerennialCrops",
+    "friendlyName": "Avali Perennial Crops",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_872296411.pak",
+    "name": "Dark Souls-like broadsword idle",
+    "friendlyName": "Dark Souls-like broadsword idle",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_874199496.pak",
+    "name": "galaxy",
+    "friendlyName": "Starry sky",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_879789773.pak",
+    "name": "darksoulsidlepatch",
+    "friendlyName": "Dark Souls-like Broadsword idle - Energy Sword Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_882900100.pak",
+    "name": "bk3k_inventory",
+    "friendlyName": "bk3k's Inventory",
+    "candidateAssets": 1,
+    "candidateStrings": 6
+  },
+  {
+    "file": "contents_889490070.pak",
+    "name": "galaxyFUver",
+    "friendlyName": "Starry sky(FU)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_892426652.pak",
+    "name": "Player UI Redone",
+    "friendlyName": "Player UI Redone",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_895140470.pak",
+    "name": "NpcSpawnerPlus",
+    "friendlyName": "NpcSpawner+",
+    "candidateAssets": 9,
+    "candidateStrings": 50
+  },
+  {
+    "file": "contents_898712767.pak",
+    "name": "Avali Objects+",
+    "friendlyName": "Avali Objects+",
+    "candidateAssets": 157,
+    "candidateStrings": 912
+  },
+  {
+    "file": "contents_907927613.pak",
+    "name": "Food Processor",
+    "friendlyName": "Food Processor",
+    "candidateAssets": 67,
+    "candidateStrings": 190
+  },
+  {
+    "file": "contents_924665383.pak",
+    "name": "WhyIsThisNotPrintable",
+    "friendlyName": "Why is this not printable?!",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_931757634.pak",
+    "name": "CraftableConcoctions",
+    "friendlyName": "Craftable Concoctions",
+    "candidateAssets": 4,
+    "candidateStrings": 11
+  },
+  {
+    "file": "contents_935934101.pak",
+    "name": "CraftableConcoctionsFUAddon",
+    "friendlyName": "Craftable Concoctions: Frackin Universe Addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_943636021.pak",
+    "name": "aichip_avian",
+    "friendlyName": "S.A.I.L. chip - A.V.I.A.N.",
+    "candidateAssets": 8,
+    "candidateStrings": 73
+  },
+  {
+    "file": "contents_943651005.pak",
+    "name": "aichip_dragon",
+    "friendlyName": "S.A.I.L. chip - Draconis",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_943655618.pak",
+    "name": "aichip_felin",
+    "friendlyName": "S.A.I.L. chip - Felin",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_943657010.pak",
+    "name": "aichip_redrabbit",
+    "friendlyName": "S.A.I.L. chip - Red_Rabbit",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_943658087.pak",
+    "name": "aichip_rem",
+    "friendlyName": "S.A.I.L. chip - R.E.M.",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_943659349.pak",
+    "name": "aichip_ene",
+    "friendlyName": "S.A.I.L. chip - Enomoto / Takane Ene",
+    "candidateAssets": 1,
+    "candidateStrings": 10
+  },
+  {
+    "file": "contents_943792285.pak",
+    "name": "aichip_servalchan",
+    "friendlyName": "S.A.I.L. chip - Servalchan",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_943793477.pak",
+    "name": "aichip_ordis",
+    "friendlyName": "S.A.I.L. chip - Ordis AI Replacement",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "contents_943794573.pak",
+    "name": "aichip_giffany",
+    "friendlyName": "S.A.I.L. chip - Giffany AI",
+    "candidateAssets": 1,
+    "candidateStrings": 7
+  },
+  {
+    "file": "contents_945707062.pak",
+    "name": "XS Mechs : Modular Edition (BETA)",
+    "friendlyName": "XS Mechs : Modular Edition (BETA)",
+    "candidateAssets": 13,
+    "candidateStrings": 26
+  },
+  {
+    "file": "contents_946227505.pak",
+    "name": "DigitalStorage",
+    "friendlyName": "DigitalStorage",
+    "candidateAssets": 32,
+    "candidateStrings": 77
+  },
+  {
+    "file": "contents_947429656.pak",
+    "name": "scriptedail",
+    "friendlyName": "Scripted Artificial Intelligence Lattice (Customisable A.I.!)",
+    "candidateAssets": 20,
+    "candidateStrings": 53
+  },
+  {
+    "file": "contents_952424668.pak",
+    "name": "Furniture Song Replacement mod",
+    "friendlyName": "Furniture Song Replacement mod",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_953251013.pak",
+    "name": "Atmospheric Entry",
+    "friendlyName": "Atmospheric Entry",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_954995970.pak",
+    "name": "dspFUCrewCompat",
+    "friendlyName": "Frackin' Job Offers MKII",
+    "candidateAssets": 30,
+    "candidateStrings": 60
+  },
+  {
+    "file": "contents_956247051.pak",
+    "name": "many_tabs2",
+    "friendlyName": "Many Tabs (2/2)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_958539829.pak",
+    "name": "xsmm_weapons",
+    "friendlyName": "XS Mechs : Modular Weapons+ Pack",
+    "candidateAssets": 18,
+    "candidateStrings": 36
+  },
+  {
+    "file": "contents_960708990.pak",
+    "name": "Hop On Shops",
+    "friendlyName": "Hop On Shops",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_961347741.pak",
+    "name": "crewDontCloseDoors",
+    "friendlyName": "Crew Don't Close Doors As Much",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_962379099.pak",
+    "name": "speciesreplace",
+    "friendlyName": "Species Clothing",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_965461640.pak",
+    "name": "Hard impact",
+    "friendlyName": "Hard impact",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "contents_973424307.pak",
+    "name": "Crafted 'Stable' Challenge Portal",
+    "friendlyName": "Crafted \"Stable\" Challenge Portal",
+    "candidateAssets": 1,
+    "candidateStrings": 9
+  },
+  {
+    "file": "Craftable_Seeds_Avali_1.0_compat.pak",
+    "name": "craftableseedsavali",
+    "friendlyName": "Craftable Seeds: Avali Addon",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Craftable_Seeds_FU_1.1_compat.pak",
+    "name": "craftableseedsfu",
+    "friendlyName": "Craftable Seeds: Frackin' Universe Addon NEW",
+    "candidateAssets": 17,
+    "candidateStrings": 32
+  },
+  {
+    "file": "Cruise_contents_1660547150.pak",
+    "name": "The Essential Galactic Cruise",
+    "friendlyName": "The Essential Galactic Cruise",
+    "candidateAssets": 14,
+    "candidateStrings": 36
+  },
+  {
+    "file": "drx_fix_npc_protect_quest_2440281893.pak",
+    "name": "fixNPCProtectQuest",
+    "friendlyName": "Fix protect NPC quest",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "El_Race_fix_contents_3053738400.pak",
+    "name": "ElithianRacesGoodGamesFixes",
+    "friendlyName": "Elithian Races - Good Game's fixes (Includes Custom Collection UI conflict fix)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "enemy_mech_contents_3390666416.pak",
+    "name": "enemymechnpc",
+    "friendlyName": "Real Ferozium (Enemy Mechs)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Enhanced_Elemental_Effects_contents_3011438445.pak",
+    "name": "enhancedelementalstatuseffects",
+    "friendlyName": "Enhanced Elemental Effects",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "Enhanced_Storage_contents_731220462.pak",
+    "name": "Enhanced Storage",
+    "friendlyName": "Enhanced Storage",
+    "candidateAssets": 82,
+    "candidateStrings": 487
+  },
+  {
+    "file": "Enternia_contents_2006558650.pak",
+    "name": "My Enternia",
+    "friendlyName": "My Enternia 2.4: Alta Hobbies",
+    "candidateAssets": 1852,
+    "candidateStrings": 8181
+  },
+  {
+    "file": "Extended_Story_contents_899795176.pak",
+    "name": "Extended Story",
+    "friendlyName": "^#dbf2ff;Extended St^#c700c7;O^#dbf2ff;ry",
+    "candidateAssets": 522,
+    "candidateStrings": 1608
+  },
+  {
+    "file": "Felin_contents_729429063.pak",
+    "name": "Felins",
+    "friendlyName": "Felin",
+    "candidateAssets": 161,
+    "candidateStrings": 1158
+  },
+  {
+    "file": "FFS--Rylasasin Edition_contents_2312074020.pak",
+    "name": "FFSE---Expanded weapons for FFS",
+    "friendlyName": "FFSE---Expanded weapons for FFS--Rylasasin Edition",
+    "candidateAssets": 71,
+    "candidateStrings": 199
+  },
+  {
+    "file": "FFS_Dungeon_Tweaks_contents_2834081743.pak",
+    "name": "FFS_contributions",
+    "friendlyName": "[FFS] Feast of Fire and Smoke Dungeon Tweaks",
+    "candidateAssets": 150,
+    "candidateStrings": 1061
+  },
+  {
+    "file": "FFS_Dungeons_contents_2124858525.pak",
+    "name": "FFS_dungeons",
+    "friendlyName": "[FFS] Feast of Fire and Smoke: Dungeons and Encounters",
+    "candidateAssets": 163,
+    "candidateStrings": 403
+  },
+  {
+    "file": "ffXIV_Furniture_contents_2294792156.pak",
+    "name": "ffxivfurniture",
+    "friendlyName": "Final Fantasy XIV Furniture",
+    "candidateAssets": 4,
+    "candidateStrings": 35
+  },
+  {
+    "file": "ffxiv_viera_contents_732276079.pak",
+    "name": "WIP: The Viera of Ivalice",
+    "friendlyName": "The Viera of Ivalice",
+    "candidateAssets": 634,
+    "candidateStrings": 3505
+  },
+  {
+    "file": "Font.pak",
+    "name": null,
+    "friendlyName": null,
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "food_bar_contents_1099450875.pak",
+    "name": "food_spoil_bars",
+    "friendlyName": "Food Spoil Bars",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "FrackinUniverse_contents_729480149.pak",
+    "name": "FrackinUniverse",
+    "friendlyName": "Frackin' Universe",
+    "candidateAssets": 11360,
+    "candidateStrings": 39118
+  },
+  {
+    "file": "FU_Extraction_Arcana_contents_3350051925.pak",
+    "name": "FU Extraction Patch for Arcana (Fixed)",
+    "friendlyName": "FU Extraction Patch for Arcana (Fixed)",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "FU_KO_contents_3166424163.pak",
+    "name": "FUlocaleko",
+    "friendlyName": "Frackin' Universe 한국어화 모드 [BETA] (한글 번역)",
+    "candidateAssets": 425,
+    "candidateStrings": 537
+  },
+  {
+    "file": "FU_RedemptionPatch_contents_2185949973.pak",
+    "name": "FU-Redemption integration patch",
+    "friendlyName": "FU-Redemption integration patch",
+    "candidateAssets": 20,
+    "candidateStrings": 21
+  },
+  {
+    "file": "FU_Tweaked_Story_contents_3157772971.pak",
+    "name": "FUTweakedStory",
+    "friendlyName": "Frackin' Universe Tweaked Story",
+    "candidateAssets": 53,
+    "candidateStrings": 97
+  },
+  {
+    "file": "Futara_Shader_contents_2422986190.pak",
+    "name": "Futara's Dragon Pixel Full Bright Shader",
+    "friendlyName": "Futara's Dragon Pixel Full Bright Shader",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Galactic_Dungeons_contents_2009744270.pak",
+    "name": "z4galacticdungeons",
+    "friendlyName": "Galactic Dungeons",
+    "candidateAssets": 30,
+    "candidateStrings": 253
+  },
+  {
+    "file": "Galaxy_in_Conflict_contents_2754886445.pak",
+    "name": "Galaxy_in_Conflict",
+    "friendlyName": "Galaxy in Conflict [v4.3.2 - Roots of the Old Blood]",
+    "candidateAssets": 6492,
+    "candidateStrings": 13885
+  },
+  {
+    "file": "ganransu_turretNdrone_2905283163.pak",
+    "name": "Drone and Turret Reskin",
+    "friendlyName": "RPG Growth Mechanist's Drone/Turret Reskin",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "GIC_BK3K_Base_Compat_contents_3700097203.pak",
+    "name": "gic_bk3k_inventory_compatible",
+    "friendlyName": "GIC [v4.0+] bk3k Inventory Compatible",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "GIC_BK3K_Sorting_Compat_contents_3778034807.pak",
+    "name": "BK3K-GIC_Compatibility",
+    "friendlyName": "BK3K-GIC Compatibility",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "gic_cyber_contents_3044827572.pak",
+    "name": "[GIC]Cyberpunk 2077 Weapon pack",
+    "friendlyName": "[GIC]Cyberpunk 2077 Weapon pack",
+    "candidateAssets": 146,
+    "candidateStrings": 280
+  },
+  {
+    "file": "gic_gl_reskin_contents_3400895443.pak",
+    "name": "[GIC]Glitch Reskin patch",
+    "friendlyName": "[GIC]Glitch Reskin patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "GIC_Otherworlds_contents_3731148374.pak",
+    "name": "GiC_Otherworlds",
+    "friendlyName": "Galaxy In Conflict: Otherworlds [1.0.2]",
+    "candidateAssets": 1361,
+    "candidateStrings": 2594
+  },
+  {
+    "file": "GIC_Otherworlds_Music_contents_3731147091.pak",
+    "name": "GiC_Otherworlds_Music",
+    "friendlyName": "[MUSIC] Galaxy In Conflict: Otherworlds",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "gic_reskin_contents_3090704586.pak",
+    "name": "[GIC] Galaxy in Conflict Reskin patch",
+    "friendlyName": "[GIC] Galaxy in Conflict Reskin patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "HLib_contents_1189065705.pak",
+    "name": "HLib",
+    "friendlyName": "HLib",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "HLibPlus_contents_2919826588.pak",
+    "name": "HLibPlus",
+    "friendlyName": "HLibPlus",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Improved_Damage_Particles_contents_2451489168.pak",
+    "name": "Damage Particles",
+    "friendlyName": "Improved Damage Particles",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "inventory180_contents_1410562400.pak",
+    "name": "bk3k_inventory_180slots",
+    "friendlyName": "bk3k's Inventory - 180 Slot Patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "item_filter_yellow_contents_1814789921.pak",
+    "name": "JSSFilterByRarityExtended",
+    "friendlyName": "Filter by Rarity - Extended Edition",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "lagless_printer_contents_3003880924.pak",
+    "name": "XRC_PIXELPRINTER",
+    "friendlyName": "Lagless Pixel Printer!",
+    "candidateAssets": 2,
+    "candidateStrings": 11
+  },
+  {
+    "file": "Less_Annoying_Weather_rev1_compat.pak",
+    "name": "No Annoying Weather",
+    "friendlyName": "No Annoying Weather",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "loadtime_2302257069.pak",
+    "name": "XRC_LOADTIME",
+    "friendlyName": "Loading Timer",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Lottery_contents_1131927758.pak",
+    "name": "The Lottery!",
+    "friendlyName": "The Lottery!",
+    "candidateAssets": 12,
+    "candidateStrings": 37
+  },
+  {
+    "file": "LR_dynamic_contents_3400223391.pak",
+    "name": "lr_dynamicequipment",
+    "friendlyName": "LR's Dynamic Equipment",
+    "candidateAssets": 15,
+    "candidateStrings": 35
+  },
+  {
+    "file": "mayhem_contents_3374288336.pak",
+    "name": "bl3mayhemmode",
+    "friendlyName": "Borderlands 3 Mayhem Mode",
+    "candidateAssets": 71,
+    "candidateStrings": 223
+  },
+  {
+    "file": "mech_bar_contents_3390657059.pak",
+    "name": "npcmechhealthbars",
+    "friendlyName": "NPC Mech Healthbars",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "mech_blueprint_Anomoutpost_contents_3381267540.pak",
+    "name": "BuyMechBlueprints",
+    "friendlyName": "Buyable Mech Blueprints",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "mech_hitbox_contents_3385308492.pak",
+    "name": "mechhitboxfix",
+    "friendlyName": "Mech Hitbox Fix",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "mech_load_contents_3371011064.pak",
+    "name": "mechcompatload",
+    "friendlyName": "Mech Compatibility Loader",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "mecharmor_contents_3385421174.pak",
+    "name": "mecharmormitigation",
+    "friendlyName": "Mech are made of ARMOR",
+    "candidateAssets": 7,
+    "candidateStrings": 14
+  },
+  {
+    "file": "mechcore_contents_3371002682.pak",
+    "name": "mechcompatcore",
+    "friendlyName": "Mech Compatibility Core",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "mechdata_contents_3386957026.pak",
+    "name": "mechdetailedstats",
+    "friendlyName": "Mech Detallist",
+    "candidateAssets": 2,
+    "candidateStrings": 3
+  },
+  {
+    "file": "missing_physic_contents_3014571970.pak",
+    "name": "missingphysical",
+    "friendlyName": "Missing Physical Definition",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "mon_loader_contents_2442873217.pak",
+    "name": "monstercompatloader",
+    "friendlyName": "Monster Compatibility Loader",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Monster_Core_contents_2442860690.pak",
+    "name": "monstercompatcore",
+    "friendlyName": "Monster Core : Configuration",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "More_Outpost_contents_1635522739.pak",
+    "name": "More Outpost Objects",
+    "friendlyName": "More Outpost Objects",
+    "candidateAssets": 197,
+    "candidateStrings": 1401
+  },
+  {
+    "file": "More_Planet_Info_contents_1117007107.pak",
+    "name": "MorePlanetInfo",
+    "friendlyName": "More Planet Info",
+    "candidateAssets": 1,
+    "candidateStrings": 112
+  },
+  {
+    "file": "More_Teleportz_contents_1543782525.pak",
+    "name": "More Teleportz",
+    "friendlyName": "More Teleportz",
+    "candidateAssets": 26,
+    "candidateStrings": 233
+  },
+  {
+    "file": "nenEKI_Station_contents_3344198231.pak",
+    "name": "NEKIStation",
+    "friendlyName": "NEKIStation",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "nmm_Vanilla_Tweaks_contents_3175132253.pak",
+    "name": "nmm_vanillatweaks",
+    "friendlyName": "nuggubs' Mega Mod - Vanilla Tweaks",
+    "candidateAssets": 77,
+    "candidateStrings": 182
+  },
+  {
+    "file": "No_Protectorate_Spinner_2497566233.pak",
+    "name": null,
+    "friendlyName": null,
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "NonEKI_9_FU_compat.pak",
+    "name": "NonEKI",
+    "friendlyName": "N.E.K.I. (Non-Essential Kitty Interface)",
+    "candidateAssets": 95,
+    "candidateStrings": 844
+  },
+  {
+    "file": "om_Divine_Planet_contents_2548371664.pak",
+    "name": "OmDivinePlanet",
+    "friendlyName": "Divine Planet",
+    "candidateAssets": 37,
+    "candidateStrings": 250
+  },
+  {
+    "file": "osb_food_stack_contents_3301942276.pak",
+    "name": "UnLimitedFoodStacking",
+    "friendlyName": "[oSB] Unlimited Food Stacking",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Patch_Project_contents_1543219534.pak",
+    "name": null,
+    "friendlyName": "Starbound Patch Project",
+    "candidateAssets": 324,
+    "candidateStrings": 755
+  },
+  {
+    "file": "Place_Blocks_Anywhere_contents_2123363543.pak",
+    "name": "xrc_blocksinair",
+    "friendlyName": "Place Blocks In The Air",
+    "candidateAssets": 2,
+    "candidateStrings": 4
+  },
+  {
+    "file": "player_bar_type_contents_3394719204.pak",
+    "name": "bl3playerbarspecies",
+    "friendlyName": "Player Bar - Species Types",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Player_Healthbar_Clean_contents_3384559894.pak",
+    "name": "blshieldcleanbars",
+    "friendlyName": "Player Healthbar Clean textures",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Project_45_contents_3117517322.pak",
+    "name": "aikiro42-project45",
+    "friendlyName": "Project 45 (BETA)",
+    "candidateAssets": 103,
+    "candidateStrings": 231
+  },
+  {
+    "file": "Project_Redemption_12.3_FU_SBKor_compat.pak",
+    "name": "Project Redemption",
+    "friendlyName": "Project Redemption",
+    "candidateAssets": 126,
+    "candidateStrings": 271
+  },
+  {
+    "file": "PRxCW_compat.pak",
+    "name": "Test",
+    "friendlyName": "Test",
+    "candidateAssets": 8,
+    "candidateStrings": 16
+  },
+  {
+    "file": "Quick_Commands_contents_3145473452.pak",
+    "name": "XRC_quickCommands",
+    "friendlyName": "[SE/oSB] Quick Commands!",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "racetrait_contents_2622273194.pak",
+    "name": "OmRaceTraits",
+    "friendlyName": "Race Traits",
+    "candidateAssets": 343,
+    "candidateStrings": 419
+  },
+  {
+    "file": "RemixedStarNames_2986660950.pak",
+    "name": "Remixed Star Names",
+    "friendlyName": "Remixed Star Names",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "RPG_contents_1115920474.pak",
+    "name": "RPG_Growth",
+    "friendlyName": "RPG Growth",
+    "candidateAssets": 597,
+    "candidateStrings": 2129
+  },
+  {
+    "file": "Saturnians_contents_1103027918.pak",
+    "name": "saturnians",
+    "friendlyName": "The Saturnians",
+    "candidateAssets": 598,
+    "candidateStrings": 3048
+  },
+  {
+    "file": "SaveInventoryPosition_contents_3331093074.pak",
+    "name": "pat_saveInventoryPosition",
+    "friendlyName": "Save Inventory Position",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "sexbound-reborn-1.2_r3h2.pak",
+    "name": "lox_sexbound",
+    "friendlyName": "Sexbound Reborn",
+    "candidateAssets": 340,
+    "candidateStrings": 2087
+  },
+  {
+    "file": "size_stat_contents_3218827753.pak",
+    "name": "sizeofstats",
+    "friendlyName": "Size of Life - Stat Modifiers",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "size_vanilla_contents_3218826863.pak",
+    "name": "sizeofspeciesvanilla",
+    "friendlyName": "Size of Life - Vanilla Species",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "size_work_contents_3218820111.pak",
+    "name": "sizeoflife",
+    "friendlyName": "Size of Life - Framework",
+    "candidateAssets": 14,
+    "candidateStrings": 19
+  },
+  {
+    "file": "spookit_knockback_contents_3371072235.pak",
+    "name": "kyt_betterspookit",
+    "friendlyName": "^white;Less ^red;Annoying ^violet;Sp^indigo;ook^black;it!^reset;",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "starburst_contents_3025139283.pak",
+    "name": "StarburstRework",
+    "friendlyName": "Starburst Rework",
+    "candidateAssets": 798,
+    "candidateStrings": 1888
+  },
+  {
+    "file": "Stardust_Core_contents_764887546.pak",
+    "name": "StardustLib",
+    "friendlyName": "Stardust Core",
+    "candidateAssets": 11,
+    "candidateStrings": 39
+  },
+  {
+    "file": "Stardust_Monster_Core_contents_2690363974.pak",
+    "name": "stardustmonstercore_patch",
+    "friendlyName": "Stardust | Monster Core patch",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "StardustLibPost.pak",
+    "name": "StardustLibPost",
+    "friendlyName": "Stardust Core Postload Module",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "Starry_Planets_contents_2157200368.pak",
+    "name": "StarryPlanet",
+    "friendlyName": "Starry Planets",
+    "candidateAssets": 179,
+    "candidateStrings": 910
+  },
+  {
+    "file": "starvisuals_contents_3322797618.pak",
+    "name": "Starvisuals",
+    "friendlyName": "Starvisuals",
+    "candidateAssets": 111,
+    "candidateStrings": 126
+  },
+  {
+    "file": "SupremeExvoidimus_2441120266.pak",
+    "name": "SupremeExvoidimus",
+    "friendlyName": "Terraria Calamity Mod - Stained, Brutal Calamity final boss music for Extended Story",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "SxB - Teratophilia 0.4.8.pak",
+    "name": "sexbound_terato",
+    "friendlyName": "Sexbound - Teratophilia",
+    "candidateAssets": 46,
+    "candidateStrings": 92
+  },
+  {
+    "file": "SxB-Lamia.pak",
+    "name": "sexbound_Lamia",
+    "friendlyName": "Sexbound API - Lamia Species",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "SxB-POV_Redux_masterbate_420.pak",
+    "name": "pov_redux",
+    "friendlyName": "Sexbound - PoV Redux",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "SxB-Races_Viera_v3.0.pak",
+    "name": "SxB-Races_Viera",
+    "friendlyName": "SxB Race - Viera Species",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "SxB-Relayer09.pak",
+    "name": "sexbound_relayer",
+    "friendlyName": "Sexbound - Relayerer",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "SxB_-_TemTems_Teratoscenes.pak",
+    "name": "sexbound_TeratophiliaScenesPack",
+    "friendlyName": "Sexbound - Teratophilia Scenes Pack",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "sxb_NekiFloofSxB.pak",
+    "name": "NekiFloofSxB",
+    "friendlyName": "^pink;NekiFloofSxB^reset;",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "sxb_NekiSxB.pak",
+    "name": "NekiSxB",
+    "friendlyName": "^pink;NekiSxB^reset;",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "sxb_Sexbound POV Avians.pak",
+    "name": null,
+    "friendlyName": null,
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "sxb_Sexbound_GiC.pak",
+    "name": "SexboundAPI_GiCcute",
+    "friendlyName": "Sexbound API - GiC Cutebound",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "sxb_TTPP_Cutebound.pak",
+    "name": "TTPP cutebound furnitures",
+    "friendlyName": "TTPP furnitures",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "sxb_TTPPv2.pak",
+    "name": "Titillating Tentacle Porn Pack",
+    "friendlyName": "TTPP",
+    "candidateAssets": 1322,
+    "candidateStrings": 4246
+  },
+  {
+    "file": "sxb_TTPPv27MR.pak",
+    "name": "TTPPv27 Mimic Rework",
+    "friendlyName": "Mimic Rework",
+    "candidateAssets": 1,
+    "candidateStrings": 2
+  },
+  {
+    "file": "sxbEBsTerramonsRework1.1.4.pak",
+    "name": "sexbound_ebterramons",
+    "friendlyName": "EB's Terramons Rework of BlakeTheFlareon's Terramons",
+    "candidateAssets": 8,
+    "candidateStrings": 31
+  },
+  {
+    "file": "terralib_contents_2230165463.pak",
+    "name": "terralib",
+    "friendlyName": "TerraLib",
+    "candidateAssets": 1,
+    "candidateStrings": 1
+  },
+  {
+    "file": "terraliblite_contents_2230165463.pak",
+    "name": "terraliblite",
+    "friendlyName": "TerraLib Lite",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Tile_Tweaks_contents_1483622891.pak",
+    "name": "TileTweaks",
+    "friendlyName": "Tile Tweaks",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Tooltip_Fix_contents_3355387636.pak",
+    "name": "adh_ocd_tooltip_fixes",
+    "friendlyName": "[oSB] OCD Tooltip Fix",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "Tougher_Mobs_1.11.5.2_compat.pak",
+    "name": "Tougher Mobs with Better Loot!",
+    "friendlyName": "Tougher Mobs with Better Loot!",
+    "candidateAssets": 16,
+    "candidateStrings": 20
+  },
+  {
+    "file": "trans+Avali_contents_729558042.pak",
+    "name": "Avali",
+    "friendlyName": "Avali (Triage) Race Mod",
+    "candidateAssets": 237,
+    "candidateStrings": 1391
+  },
+  {
+    "file": "trans+dmgfix_starforge_contents_2431875552.pak",
+    "name": "The Starforge v1.0",
+    "friendlyName": "The Starforge v1.1.5",
+    "candidateAssets": 391,
+    "candidateStrings": 1640
+  },
+  {
+    "file": "trans+Shellguard_contents_1563376005.pak",
+    "name": "Shellguard Expansion ",
+    "friendlyName": "Shellguard: Starbound Expansion Remastered",
+    "candidateAssets": 319,
+    "candidateStrings": 1298
+  },
+  {
+    "file": "trans+Stargate_Invasion_contents_1195446899.pak",
+    "name": "Stargate Invasion",
+    "friendlyName": "Stargate Invasion 0.8.8a",
+    "candidateAssets": 122,
+    "candidateStrings": 575
+  },
+  {
+    "file": "UnderstaffedPeacekeepers_contents_3133450581.pak",
+    "name": "ProjectRedemptionPeacekeeperBlocker",
+    "friendlyName": "Understaffed Peacekeepers",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "useapexpod_v1.6_860578021.pak",
+    "name": "Interactable Apex Pod",
+    "friendlyName": null,
+    "candidateAssets": 1,
+    "candidateStrings": 9
+  },
+  {
+    "file": "usebathtubs_v1.3_862287085.pak",
+    "name": "Usable Bathtubs",
+    "friendlyName": null,
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "useuprighttorturebed_v1.0_1334165490.pak",
+    "name": "Improved Upright Torture Bed",
+    "friendlyName": null,
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "vanila_boss_hpdmg_contents_3333222908.pak",
+    "name": "Mega Bosses - Health + Damage",
+    "friendlyName": "Mega Bosses",
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "voided_contents_2822921122.pak",
+    "name": "Voided",
+    "friendlyName": "Voided: Expansion Mod (WIP)",
+    "candidateAssets": 777,
+    "candidateStrings": 3852
+  },
+  {
+    "file": "workingshower_v1.1_894901052.pak",
+    "name": "Working Showers",
+    "friendlyName": null,
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  },
+  {
+    "file": "wormlib_contents_2230165463.pak",
+    "name": "wormlib",
+    "friendlyName": null,
+    "candidateAssets": 0,
+    "candidateStrings": 0
+  }
+]

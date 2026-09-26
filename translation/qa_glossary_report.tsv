@@ -1,0 +1,139 @@
+﻿id	file	englishTerm	preferredKorean	englishText	koreanText
+103561	rest_priority_0840.tsv	Ruin-Killer	루인킬러	The Ruin-Killer	루인 킬러
+125888	rest_priority_0876.tsv	Crafting Station	제작대	^noshadow;^#60c0fc;CRAFTING STATION	^noshadow;^#60c0fc;제작 스테이션
+122248	rest_priority_0852.tsv	Materials Available	재료가 있는 것만 보기	^#190700;MATERIALS AVAILABLE	^#190700;사용 가능 재료
+128726	rest_priority_0742.tsv	Codex	코덱스	"{ ""initialItems"" : [ { ""name"" : ""protectoratechest"", ""count"" : 1 }, { ""name"" : ""protectoratepants"", ""count"" : 1 },  { ""name"" : ""money"", ""count"" : 20 },  { ""name"" : ""lustlingView-codex"", ""count"" : 1 }, { ""name"" : ""protectorateflyer"", ""count"" : 1 } ] }"	"{ ""initialItems"" : [ { ""name"" : ""protectoratechest"", ""count"" : 1 }, { ""name"" : ""protectoratepants"", ""count"" : 1 },  { ""name"" : ""money"", ""count"" : 20 },  { ""name"" : ""lustlingView-codex"", ""count"" : 1 }, { ""name"" : ""protectorateflyer"", ""count"" : 1 } ] }"
+80744	rest_priority_0797.tsv	Thrust Damage	찌르기 피해	Knife Throw: Throws a combat knife at the closest enemy which deals 100 THRUST DAMAGE. | 20s Cooldown	단검 투척: 가장 가까운 적에게 전투용 단검을 던져 관통 피해 100. | 재사용 대기시간 20초
+80375	rest_priority_0796.tsv	Parry	패링	Katana Parry	카타나 패리
+112396	rest_priority_0843.tsv	Parry	패링	Toxic Parry	독성 패리
+89550	rest_priority_0812.tsv	Hit Shield	피격 방패	Orange Potion - IMMUNE to BLEED. Gain 1 Hit Shield. | 30s Cooldown. -50% General Weapon Proficiency.	주황 물약 - 출혈 면역. 타격 보호막 1 획득. | 재사용 대기시간 30초. 일반 무기 숙련 -50%.
+112132	rest_priority_0842.tsv	Broadsword	브로드소드	"To upgrade an existing weapon, place it in the Purple Slot.
+      ^gray;Otherwise, to create a new weapon, place an item in the Purple Slot. Accepts the following:^reset;
+      Exactly 2 Sharpened Claw (Spear), Exactly 2 Hardened Carapace (Hammer), Exactly 6 Steel Bar (Broadsword),
+      ^gray;Exactly 1 Sharpened Claw (Dagger), Exactly 1 Hardened Carapace (Axe), Exactly 3 Steel Bar (Shortsword)
+      ^red;More Weapon Types will be introduced at a later date; Mod Weapon Types, like Katanas, will be included as well."	"기존 무기를 업그레이드하려면 보라색 슬롯에 넣으세요.
+      ^gray;새 무기를 만들려면 보라색 슬롯에 아이템을 넣으세요. 다음 항목 허용:^reset;
+      날카로운 발톱 정확히 2개 (창), 단단한 갑각 정확히 2개 (해머), 강철 주괴 정확히 6개 (대검),
+      ^gray;날카로운 발톱 정확히 1개 (단검), 단단한 갑각 정확히 1개 (도끼), 강철 주괴 정확히 3개 (소검)
+      ^red;더 많은 무기 유형이 추후 도입될 예정입니다; 카타나 같은 모드 무기 유형도 포함됩니다."
+125690	rest_priority_0874.tsv	Assault Rifle	돌격소총	^green;Toxin Assault Rifle^reset;	^green;독소 어설트 라이플^reset;
+126110	rest_priority_0877.tsv	Assault Rifle	돌격소총	^orange;Assault Rifle.^reset;	^orange;어설트 소총.^reset;
+67995	rest_priority_0788.tsv	Grenade Launcher	유탄 발사기	Handheld or Multi Grenade Launcher	휴대용 또는 다연장 유탄발사기
+124142	rest_priority_0860.tsv	Grenade Launcher	유탄 발사기	^blue;Grenade Launcher^reset;	^blue;유탄발사기^reset;
+88904	rest_priority_0811.tsv	Aegisalt	에지솔트	Old Aegisalt	낡은 이지설트
+91117	rest_priority_0816.tsv	Aegisalt	에지솔트	"Place 5 Bars in Grey Slot to determine Weapon Level, from 1 to 6. Accepts the following:
+      ^gray;Iron, Tungsten, Titanium, Durasteel, Violium/Aegisalt/Ferozium, Solarium
+      ^red;A higher tier will be introduced at a later date.^reset;"	"무기 레벨을 1~6으로 결정하려면 회색 슬롯에 주괴 5개를 넣으세요. 다음을 허용:
+      ^gray;철, 텅스텐, 티타늄, 듀라스틸, 바이올륨/이지설트/페로지움, 솔라리움
+      ^red;더 높은 등급이 추후 추가될 예정입니다.^reset;"
+58364	rest_priority_0769.tsv	Erchius	에르키우스	"Defeat Erchius Herald.
+^orange;Threat Level: 8"	"에르치우스 사자 처치.
+^orange;위협 등급: 8"
+61688	rest_priority_0776.tsv	Erchius	에르키우스	Erchius Crystal Ore	에르치우스 수정 광석
+61712	rest_priority_0776.tsv	Erchius	에르키우스	Erchius: An Overview	에르치우스: 개요
+62311	rest_priority_0777.tsv	Erchius	에르키우스	Exploiting Erchius	에르치우스 착취
+80772	rest_priority_0797.tsv	Erchius	에르키우스	Know Your Risks: Erchius Rads	위험을 알아라: 에르치우스 방사능
+123270	rest_priority_0856.tsv	Erchius	에르키우스	^#b9b5b2;Erchius fuel, when you need it	^#b9b5b2;필요할 때 얼치어스 연료
+124948	rest_priority_0865.tsv	Erchius	에르키우스	"^green;+ Erchius Ghost
+  Immunity^reset;"	"^green;+ 얼치어스 유령
+  면역^reset;"
+125297	rest_priority_0870.tsv	Erchius	에르키우스	^green;Erchius Crystal Delivery	^green;얼치어스 수정 배달
+95132	rest_priority_0824.tsv	Saturnian	새터니안	SATURNIAN LOOM	새터니언 베틀
+95405	rest_priority_0825.tsv	Saturnian	새터니안	Saturnian Civilization	새터니언 문명
+95413	rest_priority_0825.tsv	Saturnian	새터니안	Saturnian Librarian	새터니언 사서
+95415	rest_priority_0825.tsv	Saturnian	새터니안	Saturnian Loom	새터니언 베틀
+103237	rest_priority_0839.tsv	Grand Protector	대보호자	The Grand Protector	대수호자
+94433	rest_priority_0289.tsv	Miniknog	미니크녹	Revisit the Miniknog Stronghold (6)	지식부 요새 재방문 (6)
+92926	rest_priority_0819.tsv	Quietus	콰이어투스	Quietus Gold	쿠에투스 골드
+92932	rest_priority_0819.tsv	Quietus	콰이어투스	Quietus Red	쿠에투스 레드
+92939	rest_priority_0819.tsv	Quietus	콰이어투스	Quietus Yellow	쿠에투스 옐로
+101923	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Blast	텔레브리움 폭발
+101924	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Bomb	텔레브리움 폭탄
+101925	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Bouncer	텔레브리움 바운서
+101926	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Burst	텔레브리움 버스트
+101930	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Glow	텔레브리움 광채
+101932	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Metal	텔레브리움 금속
+101933	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Ore	텔레브리움 광석
+121634	rest_priority_0852.tsv	Zerchesium	제르세슘	Zerchesium II	제르케시움 II
+80296	rest_priority_0224.tsv	Kappa	캇파	K'Rakoth Codex Kappa	크라코스 코덱스 카파
+57342	rest_priority_0766.tsv	Kappa	캇파	Cucumber Addiction [CORPORATE KAPPA TRAIT] - The universe is a cruel and chaotic place. I can't see any potential profits or knowledge ahead. I really need some cucumbers. | ALL positive traits are disabled | Take any cucumber flavor foods to stave off withdrawal.	오이 중독 [CORPORATE KAPPA TRAIT] - 우주는 잔인하고 혼돈한 곳이야. 앞에 이익이나 지식의 가능성이 안 보여. 오이가 정말 필요해. | 모든 긍정 특성 비활성화 | 오이 맛 음식을 먹어 금단 억제.
+61413	rest_priority_0775.tsv	Kappa	캇파	Energetic Riptide [CORPORATE KAPPA TRAIT] - Fire to accumulate energy, bonuses applied based on energy level. | Clear all energy level after reload	활기찬 역류 [CORPORATE KAPPA TRAIT] - 발사해 에너지 축적, 에너지 수준에 따라 보너스 적용. | 재장전 후 모든 에너지 수준 초기화
+80368	rest_priority_0796.tsv	Kappa	캇파	Kappa Repair Kit - Ability Recharging.	카파 수리 키트 - 능력 재충전 중.
+80369	rest_priority_0796.tsv	Kappa	캇파	Kappa Repair Kit - Every 180 seconds, drop a special Kappa Repair Kit that can repair any firearm regardless of its design for 20% of its durability.	카파 수리 키트 - 180초마다 설계와 무관하게 모든 총기의 내구도 20%를 수리할 수 있는 특수 카파 수리 키트 투하.
+90724	rest_priority_0814.tsv	Kappa	캇파	Performance Evaluation [CORPORATE KAPPA TRAIT] - Achieve specific requirements to gain additional bonuses | Each bonus - +5% weapon proficiency and +5HP.	성과 평가 [CORPORATE KAPPA TRAIT] - 특정 조건 달성 시 추가 보너스 획득 | 보너스 하나당 - 무기 숙련 +5%, 체력 +5.
+101908	rest_priority_0837.tsv	Kappa	캇파	Technophile [CORPORATE KAPPA TRAIT] - +15% Tech and Energy Weapon Proficiency.	기술애호가 [CORPORATE KAPPA TRAIT] - 테크 및 에너지 무기 숙련 +15%.
+112260	rest_priority_0842.tsv	Kappa	캇파	Too Young To Die [CORPORATE KAPPA TRAIT] - Lower maximum HP. When HP below 10%, remove all positive traits for 15s.	죽기엔 너무 어림 [CORPORATE KAPPA TRAIT] - 최대 체력 감소. 체력 10% 미만 시 모든 긍정 특성을 15초간 제거.
+113459	rest_priority_0845.tsv	Kappa	캇파	Unconventional Tech - When used by [Corpo Kappa], Counts as TECH WEAPON.	비전통 기술 - [Corpo Kappa]가 사용할 때 테크 무기로 취급.
+83302	rest_priority_0803.tsv	Magilock	매지락	Magilock Workbench	마기록 작업대
+114241	rest_priority_0846.tsv	Magilock	매지락	Using a Magilock Weapon	마지록 무기 사용 중
+83257	rest_priority_0803.tsv	Magishot	매지샷	Magic Frenzy: Firing a [EWS] Weapon will also fire a magishot that deals 40 PSYCHIC damage. | 3s Cooldown	마법 광란: [EWS] 무기 발사 시 대상에게 정신 피해 40을 주는 마법탄도 함께 발사. | 재사용 대기시간 3초
+96773	rest_priority_0829.tsv	Magishot	매지샷	Shot Loaded - Next magic blast fires minie balls instead of magishot. 30s Duration.	탄 장전됨 - 다음 마법 폭발이 매직샷 대신 미니에 탄 발사. 지속시간 30초.
+113645	rest_priority_0845.tsv	United Systems	연합 시스템	United Systems Weapon	연합 체계 무기
+47501	rest_priority_0084.tsv	Trink	트링크	An old prototype for the MEGA-TRINK armour.	MEGA-TRINK 방어구의 낡은 시제품이다.
+60395	rest_priority_0771.tsv	Aegi	에지	"During the Harrowing, the Aegi remember the dead and celebrate the living. It's a time for candy, costumes and tricks! This event features:
+
+- A new event-themed ^cyan;vendor ^reset;who sells a variety of event items. You can find Ayala, the Harrowing event vendor, in the Creon Embassy
+
+- ^cyan;Collectible masks ^reset;and ^cyan;costumes ^reset;for all races
+
+- ^cyan;Sweet candy ^reset;that offers a variety of useful and fun status effects
+
+- New quests for obtaining event-themed ^orange;Unique-quality items^reset;
+
+- Event-themed ^cyan;decorative objects ^reset;to bring the Harrowing to your own home"	"하로윙 기간 동안, 아에기는 망자를 기리고 산 자를 축하합니다. 사탕과 의상, 장난의 시간이죠! 이 이벤트에는 다음이 포함됩니다:
+
+- 다양한 이벤트 아이템을 파는 새로운 이벤트 테마 ^cyan;상인^reset;. 하로윙 이벤트 상인 아얄라는 크레온 대사관에서 만날 수 있습니다
+
+- 모든 종족용 ^cyan;수집용 가면^reset;과 ^cyan;의상^reset;
+
+- 다양하고 유용한 재미있는 상태 효과를 주는 ^cyan;달콤한 사탕^reset;
+
+- 이벤트 테마 ^orange;고유 등급 아이템^reset;을 얻는 새 퀘스트
+
+- 하로윙을 집으로 가져올 이벤트 테마 ^cyan;장식 오브젝트^reset;"
+103333	rest_priority_0839.tsv	Aegi	에지	"The Landing Festival, a celebration of the Aegi's arrival on Elithia hundreds of years ago, has arrived! This event features:
+
+- A new location, the ^cyan;Festival Hall^reset;, accessible through a teleporter in the Creon Embassy
+
+- New event-themed ^cyan;decorative objects^reset;, ^cyan;armour pieces^reset;, ^cyan;weapons^reset; and ^cyan;consumables^reset;
+
+- New quests for obtaining event-themed ^orange;Unique-quality items^reset;
+
+- ^cyan;Fireworks^reset; available in various colours
+
+- ^cyan;Daily presents^reset; in the Festival Hall. Visit the large decorated tree in the Festival Hall for a free daily present
+
+- A second chance at obtaining ^cyan;items missed in previous events^reset;. These items drop randomly from Landing Festival Presents!"	"수백 년 전 아에기가 엘리시아에 도착한 것을 기념하는 착륙제가 찾아왔습니다! 이 이벤트에는:
+
+- 새로운 장소 ^cyan;축제 회관^reset; - 크레온 대사관의 텔레포터로 이동 가능
+
+- 새로운 이벤트 테마 ^cyan;장식 오브젝트^reset;, ^cyan;갑옷 부위^reset;, ^cyan;무기^reset;, ^cyan;소모품^reset;
+
+- 이벤트 테마 ^orange;고유 등급 아이템^reset; 획득 신규 퀘스트
+
+- 다양한 색상의 ^cyan;불꽃놀이^reset;
+
+- 축제 회관의 ^cyan;일일 선물^reset;. 회관의 큰 장식 나무를 찾아 매일 무료 선물을 받으세요
+
+- ^cyan;이전 이벤트에서 놓친 아이템^reset;을 얻을 두 번째 기회. 이 아이템들은 착륙제 선물에서 무작위로 드롭합니다!"
+53140	rest_priority_0111.tsv	The Ruined	루인드	"But not long till the Floran chomped and gobbled,
+and in her delight, her hunger concerns halted.
+
+And so the Floran journeyed though the ruined city,
+from pleasure to fear, Earth's victims moaned and screamed.
+
+The Floran feasted on her so called tentacled victims,
+with each bite after another, her appetite grows."	"하지만 얼마 지나지 않아 플로란은 우적우적 먹어치웠고,
+그 기쁨 속에서, 배고픔에 대한 걱정도 멎었다.
+
+그리하여 플로란은 폐허가 된 도시를 여행했고,
+쾌락에서 공포로, 지구의 희생자들은 신음하고 비명을 질렀다.
+
+플로란은 이른바 촉수 달린 희생자들을 포식했고,
+한 입 한 입 베어 물 때마다, 그녀의 식욕은 커져만 갔다."
+52400	rest_priority_0753.tsv	Boneworking Station	뼈 세공대	Boneworking Station	뼈 가공 스테이션
+81397	rest_priority_0798.tsv	Leatherworking Station	가죽 세공대	Leatherworking Station	가죽 작업대
+65872	rest_priority_0783.tsv	Fusion Chamber	핵융합로	Fusion Chamber	융합실
+66380	rest_priority_0784.tsv	gheatsyn	기트신	Gheatsyn Chi	게아신 치
+66399	rest_priority_0784.tsv	gheatsyn	기트신	Gheatsyn Pad	게아신 패드
+127202	rest_priority_0884.tsv	Spooked	겁먹음	^red;Spooked - You aren't alone. Something is following you.	^red;소름 - 혼자가 아니다. 무언가가 뒤따르고 있다.

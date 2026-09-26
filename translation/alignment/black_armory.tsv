@@ -1,0 +1,486 @@
+﻿assetPath	legacyPointer	currentPointer	status	currentOriginal	legacyKorean
+/codex/updatecodex301.codex	/description	/description	pointer-string	An update for Sheila's Workshop Version 3.01. New features and stuff.	Sheila's Workshop 버전 3.01 업데이트. 새로운 기능과 추가 사항.
+/codex/updatecodex301.codex	/contentPages/0	/contentPages/0	pointer-string	Sheila's Workshop has now made it to over 2000 Subscribers! I am so proud of you all for the continued support and love for this mod! I am soo sorry that it took so long to get an update out! I have been busy as all high hell, and been distracted with gaming. So shame on me for that! Regardless, my new update is out! I have changed a few things and have added a lot of new stuff! Recraft, or if you already have them, drop and pick up all of the six tablets to learn the new recipes. You can check out the update details on my mod page!	Sheila's Workshop이 이제 2000명 이상의 구독자를 달성했습니다! 이 모드에 대한 지속적인 지원과 사랑에 대해 여러분 모두에게 너무나 자랑스럽습니다! 업데이트가 너무 오래 걸려서 정말 죄송합니다! 저는 정말 바빴고, 게임에 빠져서 정신이 없었습니다. 그래서 제 잘못입니다! 어쨌든, 제 새로운 업데이트가 나왔습니다! 몇 가지를 변경했고, 많은 새로운 것들을 추가했습니다! 여섯 개의 태블릿을 모두 다시 제작하거나, 이미 가지고 있다면 떨어뜨렸다가 다시 주워서 새로운 레시피를 배우세요. 제 모드 페이지에서 업데이트 세부 사항을 확인할 수 있습니다!
+/interface/confirmation/sw_dronecaptureconfirmation.config	/message	/message	pointer-string	 Do you want to capture the drone? This requires an empty capture pod.	드론을 포획하시겠습니까? 빈 포획 포드가 필요합니다.
+/interface/confirmation/sw_dronecaptureconfirmation.config	/okCaption	/okCaption	pointer-string	Yes	예
+/interface/confirmation/sw_dronecaptureconfirmation.config	/cancelCaption	/cancelCaption	pointer-string	No	아니오
+/items/other/black_blueprintdrive.activeitem	/description	/description	pointer-string	A flash drive containing a blueprint to the Black Armory.	블랙 아머리의 설계도가 담긴 플래시 드라이브.
+/items/other/black_blueprintdrive.activeitem	/shortdescription	/shortdescription	pointer-string	Blueprint Drive	설계도 드라이브
+/items/other/black_magnorbblueprint.item	/description	/description	pointer-string	This PDA holds the blueprint to creating the essential ^yellow;Artifact Magnorbs.^white;	이 PDA는 필수적인^orange;유물 마그노브를 만드는 설계도를 담고 있습니다.^white;
+/items/other/black_magnorbblueprint.item	/shortdescription	/shortdescription	pointer-string	Blueprint Tablet	설계도 태블릿
+/items/other/black_mastertablet.item	/description	/description	pointer-string	This PDA allows you to learn the basics of an arms dealer. ^orange;Minor Materials.^white;	이 PDA는 무기 상인의 기본 사항을 배울 수 있게 해줍니다.^orange;소재들.^white;
+/items/other/black_mastertablet.item	/shortdescription	/shortdescription	pointer-string	^red;Master Tablet^white;	마스터 태블릿
+/items/sheilaworkshop/black_armory/black_grapplinghook/black_grapplinghook.activeitem	/description	/description	pointer-string	Oh my god, whee! This is so fun!	오 마이 갓, 와! 이거 너무 재밌어!
+/items/sheilaworkshop/black_armory/black_grapplinghook/black_grapplinghook.activeitem	/shortdescription	/shortdescription	pointer-string	Titansteel Grappling Hook	타이탄스틸 갈고리 훅
+/items/sheilaworkshop/black_armory/black_titansteelshield/black_titansteelshield.activeitem	/description	/description	pointer-string	A powerful shield, designed to stop plenty of damage.	많은 피해를 막기 위해 설계된 강력한 방패.
+/items/sheilaworkshop/black_armory/black_titansteelshield/black_titansteelshield.activeitem	/shortdescription	/shortdescription	pointer-string	Titansteel Shield	타이탄스틸 방패
+/items/sheilaworkshop/black_materials/black_ancientbattery.item	/description	/description	pointer-string	This ancient-made battery can power something of great power.	이 고대 배터리는 강력한 무언가에 전력을 공급할 수 있습니다.
+/items/sheilaworkshop/black_materials/black_ancientbattery.item	/shortdescription	/shortdescription	pointer-string	Ancient Battery	고대 배터리
+/items/sheilaworkshop/black_materials/black_ancientmetal.item	/description	/description	pointer-string	This bar of ancient metal can craft something rare or of great power.	이 고대 금속 막대는 희귀하거나 강력한 무언가를 제작할 수 있습니다.
+/items/sheilaworkshop/black_materials/black_ancientmetal.item	/shortdescription	/shortdescription	pointer-string	Ancient Metal Bar	고대 금속 막대
+/items/sheilaworkshop/black_materials/black_energyweaponcore.item	/description	/description	pointer-string	A powerful energy core, the primary device to power energy weapons. Experimental!	강력한 에너지 코어로, 에너지 무기를 구동하는 주요 장치입니다. 실험용!
+/items/sheilaworkshop/black_materials/black_energyweaponcore.item	/shortdescription	/shortdescription	pointer-string	Energy Weapon Core	에너지 무기 코어
+/items/sheilaworkshop/black_materials/black_flashpowder.item	/description	/description	pointer-string	A freezing powder, useful for crafting concussion devices.	냉각 분말로, 충격 장치를 제작하는 데 유용합니다.
+/items/sheilaworkshop/black_materials/black_flashpowder.item	/shortdescription	/shortdescription	pointer-string	Flashpowder	섬광 분말
+/items/sheilaworkshop/black_materials/black_gunpowder.item	/description	/description	pointer-string	A dangerous powder, useful for crafting explosives and ammunition.	위험한 분말로, 폭발물과 탄약을 제작하는 데 유용합니다.
+/items/sheilaworkshop/black_materials/black_gunpowder.item	/shortdescription	/shortdescription	pointer-string	Gunpowder	화약
+/items/sheilaworkshop/black_materials/black_liquidfullthrottleenergy/black_liquidfullthrottleenergy.liqitem	/shortdescription	/shortdescription	pointer-string	Full Throttle Energy	풀 스로틀 에너지
+/items/sheilaworkshop/black_materials/black_liquidfullthrottleenergy/black_liquidfullthrottleenergy.liqitem	/description	/description	pointer-string	A measure of energized drink. Drinking it will restore your body and energy.	에너지가 충전된 음료의 양입니다. 마시면 몸과 에너지가 회복됩니다.
+/items/sheilaworkshop/black_materials/black_magneticdrive.item	/description	/description	pointer-string	This magnetic device can craft weapons that may require a bit of magnetic kick.	이 자기장 장치는 약간의 자기적 충격이 필요한 무기를 제작할 수 있습니다.
+/items/sheilaworkshop/black_materials/black_magneticdrive.item	/shortdescription	/shortdescription	pointer-string	Magnetic Drive	자기 드라이브
+/items/sheilaworkshop/black_materials/black_milspecleather.item	/description	/description	pointer-string	Military-grade leather designed for the construction of armor.	갑옷 제작에 사용되는 군용 가죽입니다.
+/items/sheilaworkshop/black_materials/black_milspecleather.item	/shortdescription	/shortdescription	pointer-string	MilSpec Leather	밀스펙 가죽
+/items/sheilaworkshop/black_materials/black_milspecpolymer.item	/description	/description	pointer-string	A sheet of military plastic used for crafting parts.	부품 제작에 사용되는 군용 플라스틱 시트입니다.
+/items/sheilaworkshop/black_materials/black_milspecpolymer.item	/shortdescription	/shortdescription	pointer-string	MilSpec Polymer	밀스펙 폴리머
+/items/sheilaworkshop/black_materials/black_prismcore.item	/description	/description	pointer-string	A prism core designed to bend light into its appropriate hues.	빛을 적절한 색상으로 굴절시키는 프리즘 코어입니다.
+/items/sheilaworkshop/black_materials/black_prismcore.item	/shortdescription	/shortdescription	pointer-string	Prism Core	프리즘 코어
+/items/sheilaworkshop/black_materials/black_steelball.item	/description	/description	pointer-string	A highly magnetic ball... capable of being infused with prism tech.	프리즘 기술을 주입할 수 있는 고도로 자성을 띤 강철 구체입니다.
+/items/sheilaworkshop/black_materials/black_steelball.item	/shortdescription	/shortdescription	pointer-string	Steel Ball	강철 구체
+/items/sheilaworkshop/black_materials/black_steelbar.item	/description	/description	pointer-string	A material made of iron and coal. Strong enough to be used for weapon.	철과 석탄으로 만들어진 재료입니다. 무기 제작에 충분히 강합니다.
+/items/sheilaworkshop/black_materials/black_steelbar.item	/shortdescription	/shortdescription	pointer-string	Steel Bar	강철 주괴
+/items/sheilaworkshop/black_materials/black_titansteelbar.item	/description	/description	pointer-string	A material made of steel, titanium and coal. Strong to be used for hull plating.	강철, 티타늄, 석탄으로 만들어진 재료입니다. 선체 도금에 사용할 만큼 강합니다.
+/items/sheilaworkshop/black_materials/black_titansteelbar.item	/shortdescription	/shortdescription	pointer-string	Titansteel Bar	티탄스틸 바
+/items/sheilaworkshop/black_materials/black_titansteelgoldalloy.item	/description	/description	pointer-string	A material made of steel, titanium, coal and gold. Strong to be used for hull plating.	강철, 티타늄, 석탄, 금으로 만들어진 재료입니다. 선체 도금에 사용할 만큼 강합니다.
+/items/sheilaworkshop/black_materials/black_titansteelgoldalloy.item	/shortdescription	/shortdescription	pointer-string	Titansteel-Gold Alloy	티탄스틸-골드 합금
+/items/sheilaworkshop/black_materials/black_weaponbolt.item	/description	/description	pointer-string	One of the most important parts to a weapon, enough said.	무기의 가장 중요한 부품 중 하나입니다. 더 이상의 설명은 필요 없습니다.
+/items/sheilaworkshop/black_materials/black_weaponbolt.item	/shortdescription	/shortdescription	pointer-string	Weapon Bolt	무기 볼트
+/items/sheilaworkshop/black_materials/black_weaponinternals.item	/description	/description	pointer-string	Electronic parts that make up the mechanisms of futuristic weaponry.	미래형 무기의 메커니즘을 구성하는 전자 부품입니다.
+/items/sheilaworkshop/black_materials/black_weaponinternals.item	/shortdescription	/shortdescription	pointer-string	Weapon Internals	무기 내부 부품
+/items/sheilaworkshop/black_materials/black_weaponmagazine.item	/description	/description	pointer-string	A magazine for weapons of all types.	모든 종류의 무기에 사용할 수 있는 탄창입니다.
+/items/sheilaworkshop/black_materials/black_weaponmagazine.item	/shortdescription	/shortdescription	pointer-string	Weapon Magazine	무기 탄창
+/items/sheilaworkshop/black_materials/black_weaponparts.item	/description	/description	pointer-string	A collection of parts to make weapons, just basic components.	무기를 만들기 위한 기본 부품 모음입니다.
+/items/sheilaworkshop/black_materials/black_weaponparts.item	/shortdescription	/shortdescription	pointer-string	Weapon Parts	무기 부품
+/items/sheilaworkshop/black_materials/black_weaponwiring.item	/description	/description	pointer-string	Special wiring for the inside of a futuristic weapon.	미래형 무기의 내부에 사용되는 특수 배선입니다.
+/items/sheilaworkshop/black_materials/black_weaponwiring.item	/shortdescription	/shortdescription	pointer-string	Weapon Wiring	무기 배선
+/items/sheilaworkshop/black_other/black_fullthrottleavesmingodrink/black_fullthrottleavesmingodrink.consumable	/description	/description	pointer-string	A can of delicious avesmingo energy drink.	맛있는 아베스밍고 에너지 음료 한 캔입니다.
+/items/sheilaworkshop/black_other/black_fullthrottleavesmingodrink/black_fullthrottleavesmingodrink.consumable	/shortdescription	/shortdescription	pointer-string	Avesmingo Energy	아베스밍고 에너지
+/items/sheilaworkshop/black_other/black_fullthrottleboneboodrink/black_fullthrottleboneboodrink.consumable	/description	/description	pointer-string	A can of delicious boney energy drink.	맛있는 본부 에너지 음료 한 캔입니다.
+/items/sheilaworkshop/black_other/black_fullthrottleboneboodrink/black_fullthrottleboneboodrink.consumable	/shortdescription	/shortdescription	pointer-string	Boneboo Energy	본부 에너지
+/items/sheilaworkshop/black_other/black_fullthrottlegrapedrink/black_fullthrottlegrapedrink.consumable	/description	/description	pointer-string	A can of delicious grape-ish energy drink.	맛있는 포도 맛 에너지 음료 한 캔입니다.
+/items/sheilaworkshop/black_other/black_fullthrottlegrapedrink/black_fullthrottlegrapedrink.consumable	/shortdescription	/shortdescription	pointer-string	Grape Energy	포도 에너지
+/items/sheilaworkshop/black_other/black_fullthrottlekiwidrink/black_fullthrottlekiwidrink.consumable	/description	/description	pointer-string	A can of delicious kiwi energy drink.	맛있는 키위 맛 에너지 음료 한 캔입니다.
+/items/sheilaworkshop/black_other/black_fullthrottlekiwidrink/black_fullthrottlekiwidrink.consumable	/shortdescription	/shortdescription	pointer-string	Kiwi Energy	키위 에너지
+/items/sheilaworkshop/black_other/black_fullthrottleneonmelondrink/black_fullthrottleneonmelondrink.consumable	/description	/description	pointer-string	A can of delicious melon energy drink.	맛있는 멜론 맛 에너지 음료 한 캔입니다.
+/items/sheilaworkshop/black_other/black_fullthrottleneonmelondrink/black_fullthrottleneonmelondrink.consumable	/shortdescription	/shortdescription	pointer-string	Neonmelon Energy	네온멜론 에너지
+/items/sheilaworkshop/black_other/black_fullthrottleoculemondrink/black_fullthrottleoculemondrink.consumable	/description	/description	pointer-string	A can of delicious citrus energy drink.	맛있는 시트러스 맛 에너지 음료 한 캔입니다.
+/items/sheilaworkshop/black_other/black_fullthrottleoculemondrink/black_fullthrottleoculemondrink.consumable	/shortdescription	/shortdescription	pointer-string	Oculemon Energy	오큘레몬 에너지
+/items/sheilaworkshop/black_other/black_fullthrottlepussplumdrink/black_fullthrottlepussplumdrink.consumable	/description	/description	pointer-string	A can of delicious berry energy drink.	맛있는 베리 맛 에너지 음료 한 캔입니다.
+/items/sheilaworkshop/black_other/black_fullthrottlepussplumdrink/black_fullthrottlepussplumdrink.consumable	/shortdescription	/shortdescription	pointer-string	Pussplum Energy	퍼스플럼 에너지
+/items/sheilaworkshop/black_other/black_fullthrottletoxictopdrink/black_fullthrottletoxictopdrink.consumable	/description	/description	pointer-string	A can of delicious toxic energy drink.	맛있는 독성 에너지 음료 한 캔입니다.
+/items/sheilaworkshop/black_other/black_fullthrottletoxictopdrink/black_fullthrottletoxictopdrink.consumable	/shortdescription	/shortdescription	pointer-string	Toxictop Energy	톡식탑 에너지
+/items/sheilaworkshop/black_other/titansteelblock/titansteelblock.matitem	/description	/description	pointer-string	This metal is extremely durable.	이 금속은 매우 내구성이 뛰어납니다.
+/items/sheilaworkshop/black_other/titansteelblock/titansteelblock.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Block	티탄스틸 블록
+/items/sheilaworkshop/black_other/titansteeldetails/titansteeldetails.matitem	/description	/description	pointer-string	A strong riveted metal wall.	강력한 리벳이 박힌 금속 벽입니다.
+/items/sheilaworkshop/black_other/titansteeldetails/titansteeldetails.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Railing	티탄스틸 난간
+/items/sheilaworkshop/black_other/titansteelhazard/titansteelhazard.matitem	/description	/description	pointer-string	A hazard caution block made with Titansteel.	티탄스틸로 만든 위험 경고 블록입니다.
+/items/sheilaworkshop/black_other/titansteelhazard/titansteelhazard.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Hazard Block	티탄스틸 위험 블록
+/items/sheilaworkshop/black_other/titansteelplatform/titansteelplatform.matitem	/description	/description	pointer-string	An extremely strong platform.	매우 강력한 플랫폼입니다.
+/items/sheilaworkshop/black_other/titansteelplatform/titansteelplatform.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Platform	티탄스틸 플랫폼
+/items/sheilaworkshop/black_other/titansteelshipwall/titansteelshipwall.matitem	/description	/description	pointer-string	A strong and sleek metal wall panel.	강력하고 매끄러운 금속 벽 패널입니다.
+/items/sheilaworkshop/black_other/titansteelshipwall/titansteelshipwall.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Wall Panel	티탄스틸 벽 패널
+/items/sheilaworkshop/black_other/titansteelslopedfloor/titansteelslopedfloor.matitem	/description	/description	pointer-string	A strong titansteel floor, good for laying out bases.	기지 건설에 적합한 강력한 티탄스틸 바닥입니다.
+/items/sheilaworkshop/black_other/titansteelslopedfloor/titansteelslopedfloor.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Flooring	티탄스틸 바닥재
+/items/sheilaworkshop/black_other/titansteelslopedglass/titansteelslopedglass.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Sloped Glass	티탄스틸 경사 유리
+/items/sheilaworkshop/black_other/titansteelslopedglass/titansteelslopedglass.matitem	/description	/description	pointer-string	A glass pane good for titansteel structures.	티탄스틸 구조물에 적합한 유리 패널입니다.
+/items/sheilaworkshop/black_other/titansteelslopedpanel/titansteelslopedpanel.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Sloped Panel	티탄스틸 경사 패널
+/items/sheilaworkshop/black_other/titansteelslopedpanel/titansteelslopedpanel.matitem	/description	/description	pointer-string	A somewhat inexpensive material that can withstand most weathering.	대부분의 풍화를 견딜 수 있는 다소 저렴한 재료.
+/items/sheilaworkshop/black_other/titansteelslopedwall/titansteelslopedwall.matitem	/description	/description	pointer-string	This is strong, and heavy titansteel wall panels. Good for building bases.	강력하고 무거운 티탄스틸 벽 패널입니다. 기지 건설에 적합합니다.
+/items/sheilaworkshop/black_other/titansteelslopedwall/titansteelslopedwall.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Sloped Walls	티탄스틸 경사 벽
+/items/sheilaworkshop/black_other/titansteelstairs/titansteelstairs.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Stairs	티탄스틸 계단
+/items/sheilaworkshop/black_other/titansteelstairs/titansteelstairs.matitem	/description	/description	pointer-string	Titansteel constructed stairs.	티탄스틸로 제작된 계단입니다.
+/items/sheilaworkshop/black_other/titansteelsteps/titansteelsteps.matitem	/description	/description	pointer-string	A set of steps made out of Titansteel.	티탄스틸로 만든 계단 세트입니다.
+/items/sheilaworkshop/black_other/titansteelsteps/titansteelsteps.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Steps	티탄스틸 스텝
+/items/sheilaworkshop/black_other/titansteelstripedfloor/titansteelstripedfloor.matitem	/description	/description	pointer-string	A striped titansteel floor, good for laying out bases.	기지 건설에 적합한 줄무늬 티탄스틸 바닥입니다.
+/items/sheilaworkshop/black_other/titansteelstripedfloor/titansteelstripedfloor.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Striped Flooring	티탄스틸 바닥재
+/items/sheilaworkshop/black_other/titansteelsupport/titansteelsupport.matitem	/description	/description	pointer-string	A strong wall support used in ship construction.	선박 건설에 사용되는 강력한 벽 지지대입니다.
+/items/sheilaworkshop/black_other/titansteelsupport/titansteelsupport.matitem	/shortdescription	/shortdescription	pointer-string	Titansteel Support	티탄스틸 지지대
+/items/sheilaworkshop/black_weapons/AAS12/AAS12.activeitem	/description	/description	pointer-string	A fully-automatic shotgun with a choke for tighter shots. Held at the hip to release hell.	조준을 좁히기 위한 초크가 장착된 완전 자동 산탄총입니다. 허리에서 잡고 지옥을 쏟아냅니다.
+/items/sheilaworkshop/black_weapons/AMR20/AMR20.activeitem	/description	/description	pointer-string	A 20x120mm Anti-Material Sniper Rifle, designed to penetrate through most objects.	대부분의 물체를 관통하도록 설계된 20x120mm 대물 저격총입니다.
+/items/sheilaworkshop/black_weapons/ASh127/ASh127.activeitem	/description	/description	pointer-string	A strong-framed 12.7x55mm KCP Rifle that can shred through body armor.	12.7x55mm KCP 탄을 사용하는 강력한 프레임의 소총으로, 방탄복을 뚫을 수 있습니다.
+/items/sheilaworkshop/black_weapons/AntiTank4/AntiTank4.activeitem	/description	/description	pointer-string	An unguided anti-tank rocket launcher. Devastating range with unsure results.	유도되지 않는 대전차 로켓 발사기입니다. 파괴적인 사거리를 자랑하지만 결과는 불확실합니다.
+/items/sheilaworkshop/black_weapons/AntiTank4/AntiTank4.activeitem	/shortdescription	/shortdescription	pointer-string	Anti-Tank Model 4	대전차 모델 4
+/items/sheilaworkshop/black_weapons/Arcstaff/Arcstaff.activeitem	/description	/description	pointer-string	A quarterstaff with the power of the tempest.	폭풍의 힘을 지닌 쿼터스태프입니다.
+/items/sheilaworkshop/black_weapons/Arcstaff/Arcstaff.activeitem	/shortdescription	/shortdescription	pointer-string	Arcstaff	아크스태프
+/items/sheilaworkshop/black_weapons/Artiligazer/Artiligazer.activeitem	/description	/description	pointer-string	A laser cannon made to endlessly pour beams of energy at the enemy.	적에게 끝없이 에너지 광선을 쏟아붓는 레이저 대포입니다.
+/items/sheilaworkshop/black_weapons/Artiligazer/Artiligazer.activeitem	/shortdescription	/shortdescription	pointer-string	Artiligazer	아틸리게이저
+/items/sheilaworkshop/black_weapons/Atlas45/Atlas45.activeitem	/description	/description	pointer-string	A .45 KCP pistol with a built in laser sight.	내장형 레이저 조준기가 장착된 .45 KCP 권총입니다.
+/items/sheilaworkshop/black_weapons/Atlas45/Atlas45.activeitem	/shortdescription	/shortdescription	pointer-string	Atlas .45	아틀라스 .45
+/items/sheilaworkshop/black_weapons/Battlemaster/Battlemaster.activeitem	/description	/description	pointer-string	A strong-framed, belt-fed LMG, capable of armor penetration and is equipped with a missile payload.	방탄 능력을 갖춘 벨트 급탄식 LMG로, 미사일 페이로드가 장착되어 있습니다.
+/items/sheilaworkshop/black_weapons/Battlemaster/Battlemaster.activeitem	/shortdescription	/shortdescription	pointer-string	Battlemaster	배틀마스터
+/items/sheilaworkshop/black_weapons/Blackout300/Blackout300.activeitem	/description	/description	pointer-string	An internally-suppressed PDW that chambers the .300 Blackout round.	.300 블랙아웃 탄을 사용하는 내부 소음 처리된 PDW입니다.
+/items/sheilaworkshop/black_weapons/Blackout300/Blackout300.activeitem	/shortdescription	/shortdescription	pointer-string	Blackout 300	블랙아웃 300
+/items/sheilaworkshop/black_weapons/Coldplay/Coldplay.activeitem	/description	/description	pointer-string	A double-barreled icy shotgun that fired both shells at the same time.	두 개의 탄환을 동시에 발사하는 더블 배럴 얼음 산탄총입니다.
+/items/sheilaworkshop/black_weapons/Coldplay/Coldplay.activeitem	/shortdescription	/shortdescription	pointer-string	Coldplay	콜드플레이
+/items/sheilaworkshop/black_weapons/Crackshot308/Crackshot308.activeitem	/description	/description	pointer-string	A one-handed 7.62x51mm DMR with a built-in arm wrap. Perfect for those rappel kills.	내장형 팔 감싸개가 있는 한 손 7.62x51mm DMR로, 래펠 킬에 적합합니다.
+/items/sheilaworkshop/black_weapons/Crackshot308/Crackshot308.activeitem	/shortdescription	/shortdescription	pointer-string	Crackshot .308	크랙샷 .308
+/items/sheilaworkshop/black_weapons/Cryoburn/Cryoburn.activeitem	/description	/description	pointer-string	A battle axe with frozen-energized blades.	얼어붙은 에너지가 깃든 전투 도끼입니다.
+/items/sheilaworkshop/black_weapons/Cryoburn/Cryoburn.activeitem	/shortdescription	/shortdescription	pointer-string	Cryoburn	크라이오번
+/items/sheilaworkshop/black_weapons/Daybreak/Daybreak.activeitem	/description	/description	pointer-string	A sword with the fury of the sun in its blade.	태양의 분노가 깃든 검입니다.
+/items/sheilaworkshop/black_weapons/Daybreak/Daybreak.activeitem	/shortdescription	/shortdescription	pointer-string	Daybreak	데이브레이크
+/items/sheilaworkshop/black_weapons/Dragon12/Dragon12.activeitem	/description	/description	pointer-string	An over-under, semi-auto shotgun that fires two shells at once. Double the power!	두 개의 탄환을 동시에 발사하는 오버 언더 반자동 산탄총입니다. 두 배의 파워!
+/items/sheilaworkshop/black_weapons/Dragon12/Dragon12.activeitem	/shortdescription	/shortdescription	pointer-string	Dragon .12	드래곤 .12
+/items/sheilaworkshop/black_weapons/Eagle50/Eagle50.activeitem	/description	/description	pointer-string	A powerful .50 KAE hand cannon with moderate damage but a slow fire rate.	중간 정도의 피해를 주지만 발사 속도가 느린 강력한 .50 KAE 핸드 캐논입니다.
+/items/sheilaworkshop/black_weapons/Eagle50/Eagle50.activeitem	/shortdescription	/shortdescription	pointer-string	Eagle .50 KAE	이글 .50 KAE
+/items/sheilaworkshop/black_weapons/Elemental4/Elemental4.activeitem	/description	/description	pointer-string	A quad-barreled elemental launcher that fires multiple element rockets.	여러 가지 원소 로켓을 발사하는 4배럴 원소 발사기입니다.
+/items/sheilaworkshop/black_weapons/Elemental4/Elemental4.activeitem	/shortdescription	/shortdescription	pointer-string	Elemental-4 Quad	엘리멘탈-4 쿼드
+/items/sheilaworkshop/black_weapons/FalconX8/FalconX8.activeitem	/description	/description	pointer-string	A powerful 8.2x55mm minigun with a high rate of fire. Includes missile payload.	발사 속도가 빠른 강력한 8.2x55mm 미니건입니다. 미사일 페이로드가 포함되어 있습니다.
+/items/sheilaworkshop/black_weapons/FalconX8/FalconX8.activeitem	/shortdescription	/shortdescription	pointer-string	Falcon X8	팔콘 X8
+/items/sheilaworkshop/black_weapons/FennecP9/FennecP9.activeitem	/description	/description	pointer-string	A 9x19mm KCP pistol with a permanent 5-round burst fire mode.	5발 연속 사격 모드가 고정된 9x19mm KCP 권총입니다.
+/items/sheilaworkshop/black_weapons/FennecP9/FennecP9.activeitem	/shortdescription	/shortdescription	pointer-string	Fennec P9	페넥 P9
+/items/sheilaworkshop/black_weapons/Flashback/Flashback.activeitem	/description	/description	pointer-string	A magazine-fed grenade launcher designed for incapacitation. Equipped with a missile loadout for proper defense.	탄창 급탄식 유탄 발사기로, 방어를 위한 미사일 장착이 가능합니다.
+/items/sheilaworkshop/black_weapons/Flashback/Flashback.activeitem	/shortdescription	/shortdescription	pointer-string	Flashback	플래시백
+/items/sheilaworkshop/black_weapons/Frankenlove/Frankenlove.activeitem	/description	/description	pointer-string	A heavy sniper rifle with a poisonous bite. Includes a missle payload.	독을 품은 강력한 저격총입니다. 미사일 페이로드가 포함되어 있습니다.
+/items/sheilaworkshop/black_weapons/Frankenlove/Frankenlove.activeitem	/shortdescription	/shortdescription	pointer-string	Frankenlove	프랑켄러브
+/items/sheilaworkshop/black_weapons/FrozenOrbit/FrozenOrbit.activeitem	/description	/description	pointer-string	A powerful .338 sniper rifle with a chilling aftermath. The Frozen Throne spawned this weapon.	얼어붙은 왕좌에서 탄생한 강력한 .338 저격총으로, 차가운 여운을 남깁니다.
+/items/sheilaworkshop/black_weapons/FrozenOrbit/FrozenOrbit.activeitem	/shortdescription	/shortdescription	pointer-string	Frozen Orbit	프로즌 오빗
+/items/sheilaworkshop/black_weapons/Hailfire220/Hailfire220.activeitem	/description	/description	pointer-string	A quick-launching rocket launcher with a barrage alt attack.	빠르게 발사되는 로켓 발사기로, 연속 공격 보조 모드가 있습니다.
+/items/sheilaworkshop/black_weapons/Hailfire220/Hailfire220.activeitem	/shortdescription	/shortdescription	pointer-string	Hailfire 220	헤일파이어 220
+/items/sheilaworkshop/black_weapons/HornetsNest/HornetsNest.activeitem	/description	/description	pointer-string	A recoiless launcher that fires a massive burst of mini missiles.	미니 미사일을 대량으로 발사하는 반동 없는 발사기입니다.
+/items/sheilaworkshop/black_weapons/HornetsNest/HornetsNest.activeitem	/shortdescription	/shortdescription	pointer-string	Hornet's Nest	호넷 네스트
+/items/sheilaworkshop/black_weapons/JavelinT10/JavelinT10.activeitem	/description	/description	pointer-string	An unguided anti-tank rocket launcher. Devastating range with unsure results.	유도되지 않는 대전차 로켓 발사기입니다. 파괴적인 사거리를 자랑하지만 결과는 불확실합니다.
+/items/sheilaworkshop/black_weapons/JavelinT10/JavelinT10.activeitem	/shortdescription	/shortdescription	pointer-string	Javelin T10	자벨린 T10
+/items/sheilaworkshop/black_weapons/Kets20/Kets20.activeitem	/description	/description	pointer-string	A semi-auto, 12 gague shotgun with a built-in flashlight.	내장형 손전등이 있는 반자동 12게이지 산탄총입니다.
+/items/sheilaworkshop/black_weapons/Kets20/Kets20.activeitem	/shortdescription	/shortdescription	pointer-string	Kets .20	케츠 .20
+/items/sheilaworkshop/black_weapons/LK17M/LK17M.activeitem	/description	/description	pointer-string	A strong-bodied 7.62x51mm rifle with a heavy kick and great fire rate, but a strong recoil.	강력한 반동과 빠른 발사 속도를 자랑하는 7.62x51mm 소총으로, 반동이 강합니다.
+/items/sheilaworkshop/black_weapons/LastPrism/LastPrism.activeitem	/description	/description	pointer-string	A prototype assault rifle that fires kinectic-charged rounds through a prism core. Sheila's custom rifle.	프리즘 코어를 통해 운동 에너지가 충전된 탄환을 발사하는 프로토타입 돌격소총입니다. 시일라의 커스텀 소총입니다.
+/items/sheilaworkshop/black_weapons/LastPrism/LastPrism.activeitem	/shortdescription	/shortdescription	pointer-string	Last Prism	라스트 프리즘
+/items/sheilaworkshop/black_weapons/Lightfire/Lightfire.activeitem	/description	/description	pointer-string	With the use of light-splitting prisms, this prototype shotgun fires narrow kinetic-charged rounds and does excellent damage.	빛을 분할하는 프리즘을 사용하여, 이 프로토타입 산탄총은 좁은 운동 에너지가 충전된 탄환을 발사하며 뛰어난 피해를 줍니다.
+/items/sheilaworkshop/black_weapons/Lightfire/Lightfire.activeitem	/shortdescription	/shortdescription	pointer-string	Lightfire	라이트파이어
+/items/sheilaworkshop/black_weapons/MIPR/MIPR.activeitem	/description	/description	pointer-string	A prototype plasma rifle, developed by Miniknog, now stolen. Equipped with plasma grenade launcher.	미니크노그가 개발한 프로토타입 플라즈마 소총으로, 현재 도난당했습니다. 플라즈마 유탄 발사기가 장착되어 있습니다.
+/items/sheilaworkshop/black_weapons/MIPR/MIPR.activeitem	/shortdescription	/shortdescription	pointer-string	Miniknog I.P.R.	미니크노그 I.P.R.
+/items/sheilaworkshop/black_weapons/MORS/MORS.activeitem	/description	/description	pointer-string	A Military Operated Rail Sniper, or MORS for short. Exceptionally good for long-range combat.	군용 레일 저격총, 줄여서 MORS. 장거리 전투에 탁월합니다.
+/items/sheilaworkshop/black_weapons/MjolnirMk2/MjolnirMk2.activeitem	/description	/description	pointer-string	This modified hammer would make even Thor jealous.	이 개조된 망치는 심지어 토르도 질투하게 만들 것입니다.
+/items/sheilaworkshop/black_weapons/MjolnirMk2/MjolnirMk2.activeitem	/shortdescription	/shortdescription	pointer-string	Mjolnir Mk II	묠니르 Mk II
+/items/sheilaworkshop/black_weapons/Opalescent/Opalescent.activeitem	/description	/description	pointer-string	A prototype sniper rifle that fires highly-accelerated kinetic rounds through a prism core. Beautiful and deadly!	프리즘 코어를 통해 운동 에너지가 충전된 탄환을 발사하는 프로토타입 돌격소총입니다. 아름답고 치명적입니다!
+/items/sheilaworkshop/black_weapons/Opalescent/Opalescent.activeitem	/shortdescription	/shortdescription	pointer-string	Opalescent	오팔레센트
+/items/sheilaworkshop/black_weapons/PyroDelight/PyroDelight.activeitem	/description	/description	pointer-string	A duo flamethrower/shotgun combo that'll make any pyromaniac jealous.	화염방사기와 산탄총이 결합된 듀오 무기로, 어떤 방화광도 질투하게 만들 것입니다.
+/items/sheilaworkshop/black_weapons/PyroDelight/PyroDelight.activeitem	/shortdescription	/shortdescription	pointer-string	Pyro's Delight	파이로의 기쁨
+/items/sheilaworkshop/black_weapons/RK308/RK308.activeitem	/description	/description	pointer-string	A futuristic AK-styled rifle with an underbarrel rocket launcher.	언더배럴 로켓 발사기가 장착된 미래형 AK 스타일 소총입니다.
+/items/sheilaworkshop/black_weapons/RaptorK10/RaptorK10.activeitem	/description	/description	pointer-string	A tactical SMG with a mounted flashlight. Chambered in the 10x20mm KCP round.	내장형 손전등이 있는 전술 SMG로, 10x20mm KCP 탄을 사용합니다.
+/items/sheilaworkshop/black_weapons/RaptorK10/RaptorK10.activeitem	/shortdescription	/shortdescription	pointer-string	Raptor K10	랩터 K10
+/items/sheilaworkshop/black_weapons/Retribution/Retribution.activeitem	/description	/description	pointer-string	A .357 revolver with a poisonous draw.	독을 품은 .357 리볼버입니다.
+/items/sheilaworkshop/black_weapons/Retribution/Retribution.activeitem	/shortdescription	/shortdescription	pointer-string	Retribution	리트리뷰션
+/items/sheilaworkshop/black_weapons/SMG12/SMG12.activeitem	/description	/description	pointer-string	A 9x19mm, one-handed SMG with a rapid rate of fire.	빠른 발사 속도를 자랑하는 9x19mm 한 손 SMG입니다.
+/items/sheilaworkshop/black_weapons/Scalar45/Scalar45.activeitem	/description	/description	pointer-string	A light .45 KCP SMG with recoil mitigation technology to allow for accurate, rapid shots.	반동 완화 기술이 적용된 가벼운 .45 KCP SMG로, 정확하고 빠른 사격이 가능합니다.
+/items/sheilaworkshop/black_weapons/Scalar45/Scalar45.activeitem	/shortdescription	/shortdescription	pointer-string	Scalar .45	스칼라 .45
+/items/sheilaworkshop/black_weapons/Scornblade/Scornblade.activeitem	/description	/description	pointer-string	A jagged Zweihander with a poisonous touch.	독을 품은 톱니 모양의 즈바이핸더입니다.
+/items/sheilaworkshop/black_weapons/Scornblade/Scornblade.activeitem	/shortdescription	/shortdescription	pointer-string	Scornblade	스코른블레이드
+/items/sheilaworkshop/black_weapons/Scout338/Scout338.activeitem	/description	/description	pointer-string	A rapid-firing DMR with decent range and powerful shots.	빠른 발사 속도를 자랑하는 DMR로, 적당한 사거리와 강력한 사격을 제공합니다.
+/items/sheilaworkshop/black_weapons/Scout338/Scout338.activeitem	/shortdescription	/shortdescription	pointer-string	Scout .338	스카우트 .338
+/items/sheilaworkshop/black_weapons/Spectrum/Spectrum.activeitem	/description	/description	pointer-string	A prototype, one-handed SMG that fires kinetic-charged rounds through a prism. Akimbo time!	프리즘을 통해 운동 에너지가 충전된 탄환을 발사하는 프로토타입 한 손 SMG입니다. 아킴보 타임!
+/items/sheilaworkshop/black_weapons/Spectrum/Spectrum.activeitem	/shortdescription	/shortdescription	pointer-string	Spectrum	스펙트럼
+/items/sheilaworkshop/black_weapons/Speculation/Speculation.activeitem	/description	/description	pointer-string	A custom prototype LMG that implements prism technology, and recoil mitigation.	프리즘 기술과 반동 완화 기술을 적용한 커스텀 프로토타입 LMG입니다.
+/items/sheilaworkshop/black_weapons/Speculation/Speculation.activeitem	/shortdescription	/shortdescription	pointer-string	Speculation	스펙큘레이션
+/items/sheilaworkshop/black_weapons/Stingray/Stingray.activeitem	/description	/description	pointer-string	A poison spear designed to send corroding venom into their enemies.	적에게 부식성 독을 주입하는 독창입니다.
+/items/sheilaworkshop/black_weapons/Stingray/Stingray.activeitem	/shortdescription	/shortdescription	pointer-string	Stingray	스팅레이
+/items/sheilaworkshop/black_weapons/Talon12X/Talon12X.activeitem	/description	/description	pointer-string	A reliable pump-action shotgun with a built-in napalm launcher.	내장형 네이팜 발사기가 있는 신뢰할 수 있는 펌프 액션 산탄총입니다.
+/items/sheilaworkshop/black_weapons/Talon12X/Talon12X.activeitem	/shortdescription	/shortdescription	pointer-string	Talon .12X	탈론 .12X
+/items/sheilaworkshop/black_weapons/TarkovP229/TarkovP229.activeitem	/description	/description	pointer-string	A compact, hard hitting .40 KCP pistol with an electric touch. Do not bring to work!	전기 충격을 주는 강력한 .40 KCP 권총입니다. 직장에 가져오지 마세요!
+/items/sheilaworkshop/black_weapons/TarkovP229/TarkovP229.activeitem	/shortdescription	/shortdescription	pointer-string	Tarkov P229	타르코프 P229
+/items/sheilaworkshop/black_weapons/TheLegend12/TheLegend12.activeitem	/description	/description	pointer-string	A golden 12 gague shotgun that was designed by Sheila to send enemies flying... literally.	시일라가 설계한 황금빛 12게이지 산탄총으로, 적을 날려버립니다... 말 그대로.
+/items/sheilaworkshop/black_weapons/TheLegend12/TheLegend12.activeitem	/shortdescription	/shortdescription	pointer-string	The Legend 12	더 레전드 12
+/items/sheilaworkshop/black_weapons/Thumper/Thumper.activeitem	/description	/description	pointer-string	A multiple grenade launcher loaded with different types of grenades. Mounted with a flashlight.	다양한 종류의 수류탄이 장착된 다중 유탄 발사기로, 손전등이 장착되어 있습니다.
+/items/sheilaworkshop/black_weapons/Thumper/Thumper.activeitem	/shortdescription	/shortdescription	pointer-string	Thumper	텀퍼
+/items/sheilaworkshop/black_weapons/Vengeance01/Vengeance01.activeitem	/description	/description	pointer-string	A absolute unit of an LMG, equipped with a drum magazine and a variety of ammo types. Don't forget the missile underneath.	드럼 탄창과 다양한 탄약 종류가 장착된 거대한 LMG입니다. 미사일도 잊지 마세요.
+/items/sheilaworkshop/black_weapons/Vengeance01/Vengeance01.activeitem	/shortdescription	/shortdescription	pointer-string	Vengeance-01	벤전스-01
+/items/sheilaworkshop/black_weapons/Volk556/Volk556.activeitem	/description	/description	pointer-string	A bullpup, burst fire assault rifle chambered in 5.56x45mm.	5.56x45mm 탄을 사용하는 불펍, 3점사 돌격소총입니다.
+/items/sheilaworkshop/black_weapons/Volk556/Volk556.activeitem	/shortdescription	/shortdescription	pointer-string	Volk 5.56	볼크 5.56
+/items/sheilaworkshop/black_weapons/X01/X01.activeitem	/description	/description	pointer-string	An unguided anti-tank rocket launcher. Devastating range with unsure results.	유도되지 않는 대전차 로켓 발사기입니다. 파괴적인 사거리를 자랑하지만 결과는 불확실합니다.
+/items/sheilaworkshop/black_weapons/X01/X01.activeitem	/shortdescription	/shortdescription	pointer-string	X-01 Rocket Launcher	X-01 로켓 발사기
+/items/sheilaworkshop/black_weapons/XRay762/XRay762.activeitem	/description	/description	pointer-string	A lightweight assault rifle with a powerful caliber, moderate fire rate and exceptional damage.	강력한 구경, 적당한 발사 속도, 뛰어난 피해를 자랑하는 경량 돌격소총입니다.
+/items/sheilaworkshop/black_weapons/XRay762/XRay762.activeitem	/shortdescription	/shortdescription	pointer-string	X-Ray 7.62	X-레이 7.62
+/items/sheilaworkshop/black_weapons/Yuma545/Yuma545.activeitem	/description	/description	pointer-string	A lightweight rifle that is chambered in the 5.45x39mm round.	5.45x39mm 탄을 사용하는 경량 소총입니다.
+/items/sheilaworkshop/black_weapons/Yuma545/Yuma545.activeitem	/shortdescription	/shortdescription	pointer-string	Yuma 5.45	유마 5.45
+/items/sheilaworkshop/black_weapons/black_fulgurtempestas/black_fulgurtempestas.activeitem	/description	/description	pointer-string	Even Gods require a weapon of power.	신들도 강력한 무기가 필요합니다.
+/items/sheilaworkshop/black_weapons/black_fulgurtempestas/black_fulgurtempestas.activeitem	/shortdescription	/shortdescription	pointer-string	Fulgur Tempestas	풀구르 템페스타스
+/items/sheilaworkshop/black_weapons/black_relicmagnorbs/black_relicmagnorbs.activeitem	/description	/description	pointer-string	How in the world did Sheila pull this off?	도대체 어떻게 시일라가 이걸 해냈을까요?
+/items/sheilaworkshop/black_weapons/black_relicmagnorbs/black_relicmagnorbs.activeitem	/shortdescription	/shortdescription	pointer-string	^yellow;Artifact Magnorbs^white;	아티팩트 마그노브
+/items/sheilaworkshop/black_weapons/darksolusblade/darksolusblade.activeitem	/description		target-asset-missing		솔라리움이 주입된 검으로, 천체 물질에 의해 어두워졌습니다. 시일라가 제작했으며 솔루스 카타나에 대항하기 위해 설계되었습니다.
+/items/sheilaworkshop/black_weapons/darksolusblade/darksolusblade.activeitem	/shortdescription		target-asset-missing		다크 솔루스 블레이드
+/items/sheilaworkshop/black_weapons/flightstabilizer/flightstabilizer.activeitem	/description	/description	pointer-string	Repulsor Flight Technology in the palm of your hand. Useful in space.	손바닥에서 발사되는 반발 비행 기술입니다.
+/items/sheilaworkshop/black_weapons/flightstabilizer/flightstabilizer.activeitem	/shortdescription	/shortdescription	pointer-string	Flight Stabilizer	비행 안정기
+/items/sheilaworkshop/black_weapons/repulsorlaser/repulsorlaser.activeitem	/description	/description	pointer-string	Emits a continuous beam of pure energy from the palm of your hand.	손바닥에서 순수한 파괴 에너지를 연속적으로 방출합니다.
+/items/sheilaworkshop/black_weapons/repulsorlaser/repulsorlaser.activeitem	/shortdescription	/shortdescription	pointer-string	Repulsor Blast	반발 폭발
+/items/sheilaworkshop/black_weapons/sw_prismorbs/sw_prismorbs.activeitem	/description	/description	pointer-string	A magnetic orb weapon that utilizes prism technology.	프리즘 기술을 활용한 자기장 구체 무기입니다.
+/items/sheilaworkshop/black_weapons/sw_prismorbs/sw_prismorbs.activeitem	/shortdescription	/shortdescription	pointer-string	Prismatic Magnorbs	프리즘 마그노브
+/items/sheilaworkshop/black_weapons/titansteelbroadsword/titansteelbroadsword.activeitem	/description		target-asset-missing		전투용으로 설계된 날카롭고 톱니 모양의 검입니다.
+/items/sheilaworkshop/black_weapons/titansteelbroadsword/titansteelbroadsword.activeitem	/shortdescription		target-asset-missing		티탄스틸 브로드소드
+/items/sheilaworkshop/black_weapons/titansteelembersword/titansteelembersword.activeitem	/description	/description	pointer-string	A fiery energy sword with a Titansteel hilt.	티탄스틸 손잡이가 있는 불타는 에너지 검입니다.
+/items/sheilaworkshop/black_weapons/titansteelembersword/titansteelembersword.activeitem	/shortdescription	/shortdescription	pointer-string	Titansteel Embersword	티탄스틸 엠버소드
+/items/sheilaworkshop/black_weapons/titansteelfrostblade/titansteelfrostblade.activeitem	/description	/description	pointer-string	An icy energy sword with a Titansteel hilt.	티탄스틸 손잡이가 있는 얼어붙은 에너지 검입니다.
+/items/sheilaworkshop/black_weapons/titansteelfrostblade/titansteelfrostblade.activeitem	/shortdescription	/shortdescription	pointer-string	Titansteel Frostblade	티탄스틸 프로스트블레이드
+/items/sheilaworkshop/black_weapons/titansteelthundersword/titansteelthundersword.activeitem	/description	/description	pointer-string	A shocking energy sword with a Titansteel hilt.	티탄스틸 손잡이가 있는 충격적인 에너지 검입니다.
+/items/sheilaworkshop/black_weapons/titansteelthundersword/titansteelthundersword.activeitem	/shortdescription	/shortdescription	pointer-string	Titansteel Thundersword	티탄스틸 썬더소드
+/items/sheilaworkshop/black_weapons/titansteelvenomblade/titansteelvenomblade.activeitem	/description	/description	pointer-string	A corrosive energy sword with a Titansteel hilt.	티탄스틸 손잡이가 있는 부식성 에너지 검입니다.
+/items/sheilaworkshop/black_weapons/titansteelvenomblade/titansteelvenomblade.activeitem	/shortdescription	/shortdescription	pointer-string	Titansteel Venomblade	티탄스틸 베놈블레이드
+/items/treasure/black_apexorb.item	/description		target-asset-missing		에이펙스가 소유한 신비한 물체입니다. 강력한 맥동을 느낄 수 있습니다.
+/items/treasure/black_apexorb.item	/shortdescription		target-asset-missing		에이펙스 오브
+/items/treasure/black_avianorb.item	/description		target-asset-missing		에이비언이 소유한 신비한 물체입니다. 민첩함이 느껴집니다.
+/items/treasure/black_avianorb.item	/shortdescription		target-asset-missing		에이비언 오브
+/items/treasure/black_floranorb.item	/description		target-asset-missing		플로란이 소유한 신비한 물체입니다. 생명력이 느껴집니다.
+/items/treasure/black_floranorb.item	/shortdescription		target-asset-missing		플로란 오브
+/items/treasure/black_glitchorb.item	/description		target-asset-missing		글리치가 소유한 신비한 물체입니다. 권위가 느껴집니다.
+/items/treasure/black_glitchorb.item	/shortdescription		target-asset-missing		글리치 오브
+/items/treasure/black_humanorb.item	/description		target-asset-missing		인간이 소유한 신비한 물체입니다. 강력한 힘이 느껴집니다.
+/items/treasure/black_humanorb.item	/shortdescription		target-asset-missing		휴먼 오브
+/items/treasure/black_hylotlorb.item	/description		target-asset-missing		하이로틀이 소유한 신비한 물체입니다. 지혜가 느껴집니다.
+/items/treasure/black_hylotlorb.item	/shortdescription		target-asset-missing		하이로틀 오브
+/items/treasure/black_refinederchiuscore.item	/description		target-asset-missing		완벽하게 정제된 에르키우스 크리스탈입니다. 강력한 힘이 느껴집니다.
+/items/treasure/black_refinederchiuscore.item	/shortdescription		target-asset-missing		정제된 에르키우스 코어
+/liquids/black_fullthrottleenergyliquid/black_fullthrottleenergyliquid.liquid	/description	/description	pointer-string	Liquid citrusy goodness, giving you extra energy when needed.	필요할 때 추가 에너지를 제공하는 상큼한 시트러스 음료입니다.
+/monsters/flyers/sw_prismadrone/sw_prismadrone.monstertype	/shortdescription	/shortdescription	pointer-string	Prismatic Drone	프리즘 드론
+/monsters/flyers/sw_prismadrone/sw_prismadrone.monstertype	/description	/description	pointer-string	A Titansteel-plated drone that fires prismatic lasers with accurate precision.	프리즘 레이저를 정확하게 발사하는 티탄스틸 도금 드론입니다.
+/monsters/flyers/sw_rocketdrone/sw_rocketdrone.monstertype	/shortdescription	/shortdescription	pointer-string	Rocket Drone	로켓 드론
+/monsters/flyers/sw_rocketdrone/sw_rocketdrone.monstertype	/description	/description	pointer-string	A Titansteel-plated drone that fires mini rockets. Be careful.	미니 로켓을 발사하는 티탄스틸 도금 드론입니다. 조심하세요.
+/objects/crafting/sheilaworkshop/sheilaworkshop.object	/description	/description	pointer-string	A music-thumping 3D Printer personally made for Sheila and her creations.	시일라와 그녀의 창작물을 위해 개인적으로 제작된 음악이 울려 퍼지는 3D 프린터입니다.
+/objects/crafting/sheilaworkshop/sheilaworkshop.object	/shortdescription	/shortdescription	pointer-string	^orange;Sheila's Workshop^white;	^orange;시일라의 작업실^white;
+/objects/crafting/sheilaworkshop/sheilaworkshopnomusic.object	/description	/description	pointer-string	A silent but colorful 3D Printer personally made for Sheila and her creations.	시일라와 그녀의 창작물을 위해 개인적으로 제작된 조용하지만 화려한 3D 프린터입니다.
+/objects/crafting/sheilaworkshop/sheilaworkshopnomusic.object	/shortdescription	/shortdescription	pointer-string	^orange;Sheila's Workshop (Silent)^white;	^orange;시일라의 작업실 (조용함)^white;
+/objects/sheilaworkshop/black_furniture/black_blackarmorybanner/black_blackarmorybanner.object	/description	/description	pointer-string	A gold-trimmed section of a Black Armory Banner.	검은 무기고 배너의 금색 테두리 섹션입니다.
+/objects/sheilaworkshop/black_furniture/black_blackarmorybanner/black_blackarmorybanner.object	/shortdescription	/shortdescription	pointer-string	Black Armory Banner	검은 무기고 배너
+/objects/sheilaworkshop/black_furniture/black_blackarmorybanner2a/black_blackarmorybanner2a.object	/description	/description	pointer-string	A gold-trimmed section of a Black Armory Banner.	검은 무기고 배너의 금색 테두리 섹션입니다.
+/objects/sheilaworkshop/black_furniture/black_blackarmorybanner2a/black_blackarmorybanner2a.object	/shortdescription	/shortdescription	pointer-string	Black Armory Banner (Symbol A)	검은 무기고 배너 (심볼 A)
+/objects/sheilaworkshop/black_furniture/black_blackarmorybanner2b/black_blackarmorybanner2b.object	/description	/description	pointer-string	A gold-trimmed section of a Black Armory Banner.	검은 무기고 배너의 금색 테두리 섹션입니다.
+/objects/sheilaworkshop/black_furniture/black_blackarmorybanner2b/black_blackarmorybanner2b.object	/shortdescription	/shortdescription	pointer-string	Black Armory Banner (Symbol B)	검은 무기고 배너 (심볼 B)
+/objects/sheilaworkshop/black_furniture/black_blackarmorybannerend/black_blackarmorybannerend.object	/description	/description	pointer-string	A gold-trimmed bottom of a Black Armory Banner.	검은 무기고 배너의 금색 테두리 하단입니다.
+/objects/sheilaworkshop/black_furniture/black_blackarmorybannerend/black_blackarmorybannerend.object	/shortdescription	/shortdescription	pointer-string	Black Armory Banner (Bottom)	검은 무기고 배너 (하단)
+/objects/sheilaworkshop/black_furniture/black_blackarmorybannertattered/black_blackarmorybannertattered.object	/description	/description	pointer-string	A tattered, gold-trimmed section of a Black Armory Banner.	검은 무기고 배너의 금색 테두리가 있는 너덜너덜한 섹션입니다.
+/objects/sheilaworkshop/black_furniture/black_blackarmorybannertattered/black_blackarmorybannertattered.object	/shortdescription	/shortdescription	pointer-string	Black Armory Banner (Tattered)	검은 무기고 배너 (너덜너덜함)
+/objects/sheilaworkshop/black_furniture/black_blackarmorybannertop/black_blackarmorybannertop.object	/description	/description	pointer-string	A gold-trimmed section of a Black Armory Banner.	검은 무기고 배너의 금색 테두리 섹션입니다.
+/objects/sheilaworkshop/black_furniture/black_blackarmorybannertop/black_blackarmorybannertop.object	/shortdescription	/shortdescription	pointer-string	Black Armory Banner (Top)	검은 무기고 배너 (상단)
+/objects/sheilaworkshop/black_furniture/black_blackarmorycache/black_blackarmorycache.object	/description	/description	pointer-string	A hidden cache containing items from the Black Armory.	검은 무기고에서 나온 아이템이 들어 있는 숨겨진 캐시입니다.
+/objects/sheilaworkshop/black_furniture/black_blackarmorycache/black_blackarmorycache.object	/shortdescription	/shortdescription	pointer-string	Black Armory Cache	검은 무기고 캐시
+/objects/sheilaworkshop/black_furniture/black_blackarmoryportrait/black_blackarmoryportrait.object	/description	/description	pointer-string	A titansteel frame encasing a glowing logo of the Black Armory in glass.	검은 무기고의 빛나는 로고가 유리로 둘러싸인 티탄스틸 프레임입니다.
+/objects/sheilaworkshop/black_furniture/black_blackarmoryportrait/black_blackarmoryportrait.object	/shortdescription	/shortdescription	pointer-string	Black Armory Portrait	검은 무기고 초상화
+/objects/sheilaworkshop/black_furniture/black_fullthrottleavesmingodrinkobject/black_fullthrottleavesmingodrinkobject.object	/description	/description	pointer-string	A can of delicious avesmingo energy drink.	맛있는 아베스밍고 에너지 음료 한 캔입니다.
+/objects/sheilaworkshop/black_furniture/black_fullthrottleavesmingodrinkobject/black_fullthrottleavesmingodrinkobject.object	/shortdescription	/shortdescription	pointer-string	Avesmingo Energy	아베스밍고 에너지
+/objects/sheilaworkshop/black_furniture/black_fullthrottleboneboodrinkobject/black_fullthrottleboneboodrinkobject.object	/description	/description	pointer-string	A can of delicious boney energy drink.	맛있는 본부 에너지 음료 한 캔입니다.
+/objects/sheilaworkshop/black_furniture/black_fullthrottleboneboodrinkobject/black_fullthrottleboneboodrinkobject.object	/shortdescription	/shortdescription	pointer-string	Boneboo Energy	본부 에너지
+/objects/sheilaworkshop/black_furniture/black_fullthrottlegrapedrinkobject/black_fullthrottlegrapedrinkobject.object	/description	/description	pointer-string	A can of delicious grape-ish energy drink.	맛있는 포도 맛 에너지 음료 한 캔입니다.
+/objects/sheilaworkshop/black_furniture/black_fullthrottlegrapedrinkobject/black_fullthrottlegrapedrinkobject.object	/shortdescription	/shortdescription	pointer-string	Grape Energy	포도 에너지
+/objects/sheilaworkshop/black_furniture/black_fullthrottlekiwidrinkobject/black_fullthrottlekiwidrinkobject.object	/description	/description	pointer-string	A can of delicious kiwi energy drink.	맛있는 키위 맛 에너지 음료 한 캔입니다.
+/objects/sheilaworkshop/black_furniture/black_fullthrottlekiwidrinkobject/black_fullthrottlekiwidrinkobject.object	/shortdescription	/shortdescription	pointer-string	Kiwi Energy	키위 에너지
+/objects/sheilaworkshop/black_furniture/black_fullthrottleneonmelondrinkobject/black_fullthrottleneonmelondrinkobject.object	/description	/description	pointer-string	A can of delicious melon energy drink.	맛있는 멜론 맛 에너지 음료 한 캔입니다.
+/objects/sheilaworkshop/black_furniture/black_fullthrottleneonmelondrinkobject/black_fullthrottleneonmelondrinkobject.object	/shortdescription	/shortdescription	pointer-string	Neonmelon Energy	네온멜론 에너지
+/objects/sheilaworkshop/black_furniture/black_fullthrottleoculemondrinkobject/black_fullthrottleoculemondrinkobject.object	/description	/description	pointer-string	A can of delicious citrus energy drink.	맛있는 시트러스 맛 에너지 음료 한 캔입니다.
+/objects/sheilaworkshop/black_furniture/black_fullthrottleoculemondrinkobject/black_fullthrottleoculemondrinkobject.object	/shortdescription	/shortdescription	pointer-string	Oculemon Energy	오큘레몬 에너지
+/objects/sheilaworkshop/black_furniture/black_fullthrottlepussplumdrinkobject/black_fullthrottlepussplumdrinkobject.object	/description	/description	pointer-string	A can of delicious berry energy drink.	맛있는 베리 맛 에너지 음료 한 캔입니다.
+/objects/sheilaworkshop/black_furniture/black_fullthrottlepussplumdrinkobject/black_fullthrottlepussplumdrinkobject.object	/shortdescription	/shortdescription	pointer-string	Pussplum Energy	퍼스플럼 에너지
+/objects/sheilaworkshop/black_furniture/black_fullthrottletoxictopdrinkobject/black_fullthrottletoxictopdrinkobject.object	/description	/description	pointer-string	A can of delicious toxic energy drink.	맛있는 독성 에너지 음료 한 캔입니다.
+/objects/sheilaworkshop/black_furniture/black_fullthrottletoxictopdrinkobject/black_fullthrottletoxictopdrinkobject.object	/shortdescription	/shortdescription	pointer-string	Toxictop Energy	톡식탑 에너지
+/objects/sheilaworkshop/black_furniture/black_holographicmarker/black_holographicmarker.object	/description	/description	pointer-string	A holographic teleportation marker. Use ^red;[E]^white; to bookmark a teleportation location.	홀로그램 텔레포트 마커입니다. 사용^red;[E]^white;텔레포트 위치를 북마크하려면.
+/objects/sheilaworkshop/black_furniture/black_holographicmarker/black_holographicmarker.object	/shortdescription	/shortdescription	pointer-string	Holographic Marker	홀로그램 마커
+/objects/sheilaworkshop/black_furniture/black_maiahologram/black_maiahologram.object	/shortdescription	/shortdescription	pointer-string	M.A.I.A Hologram	M.A.I.A 홀로그램
+/objects/sheilaworkshop/black_furniture/black_maiahologram/black_maiahologram.object	/description	/description	pointer-string	The hologram for the Aritifical Intelligence for the Black Armory.	검은 무기고의 인공지능을 위한 홀로그램입니다.
+/objects/sheilaworkshop/black_furniture/black_maiapedestal/black_maiapedestal.object	/description	/description	pointer-string	The pedestal that generates the hologram of the AI, M.A.I.A.	AI M.A.I.A의 홀로그램을 생성하는 받침대입니다.
+/objects/sheilaworkshop/black_furniture/black_maiapedestal/black_maiapedestal.object	/shortdescription	/shortdescription	pointer-string	M.A.I.A Pedestal	M.A.I.A 받침대
+/objects/sheilaworkshop/black_furniture/black_titansteelalarm/black_titansteelalarm.object	/description	/description	pointer-string	The flashing light is meant to signal that there's been some sort of emergency...	깜빡이는 불빛은 어떤 비상사태가 발생했음을 알리기 위한 것입니다...
+/objects/sheilaworkshop/black_furniture/black_titansteelalarm/black_titansteelalarm.object	/shortdescription	/shortdescription	pointer-string	Titansteel Alert Light	티탄스틸 경고등
+/objects/sheilaworkshop/black_furniture/black_titansteelceilingmonitor/black_titansteelceilingmonitor.object	/description	/description	pointer-string	A monitor attached to a Titansteel bracket that displays some information.	일부 정보를 표시하는 티탄스틸 브래킷에 부착된 모니터입니다.
+/objects/sheilaworkshop/black_furniture/black_titansteelceilingmonitor/black_titansteelceilingmonitor.object	/shortdescription	/shortdescription	pointer-string	Titansteel Ceiling Monitor	티탄스틸 천장 모니터
+/objects/sheilaworkshop/black_furniture/black_titansteelsolarpanel/black_titansteelsolarpanel.object	/description	/description	pointer-string	A panel of Titansteel that generates electricity from solar energy.	태양 에너지로 전기를 생성하는 티탄스틸 패널입니다.
+/objects/sheilaworkshop/black_furniture/black_titansteelsolarpanel/black_titansteelsolarpanel.object	/shortdescription	/shortdescription	pointer-string	Titansteel Solar Panel	타이탄스틸 태양 전지판
+/objects/sheilaworkshop/black_furniture/brokentitansteelfuelhatch/brokentitansteelfuelhatch.object	/description	/description	pointer-string	A broken FTL fuel hatch. This won't do! (For BYOS Purposes)	고장난 FTL 연료 해치. 이건 안 되겠어! (BYOS 용도)
+/objects/sheilaworkshop/black_furniture/brokentitansteelfuelhatch/brokentitansteelfuelhatch.object	/shortdescription	/shortdescription	pointer-string	Broken FTL Fuel Hatch	고장난 FTL 연료 해치
+/objects/sheilaworkshop/black_furniture/sw_prismadronespawner/sw_prismadronespawner.object	/description		target-asset-missing		타이탄스틸로 장갑된 공격 드론이 충전 중입니다. 잠시 후 배치될 겁니다!
+/objects/sheilaworkshop/black_furniture/sw_prismadronespawner/sw_prismadronespawner.object	/shortdescription		target-asset-missing		프리즘 드론
+/objects/sheilaworkshop/black_furniture/sw_rocketdronespawner/sw_rocketdronespawner.object	/description		target-asset-missing		타이탄스틸로 장갑된 로켓 드론이 충전 중입니다. 잠시 후 배치될 겁니다!
+/objects/sheilaworkshop/black_furniture/sw_rocketdronespawner/sw_rocketdronespawner.object	/shortdescription		target-asset-missing		로켓 드론
+/objects/sheilaworkshop/black_furniture/titansteelairlock/titansteelairlock.object	/description	/description	pointer-string	This automated door is made of Titansteel.	이 자동문은 타이탄스틸로 만들어졌습니다.
+/objects/sheilaworkshop/black_furniture/titansteelairlock/titansteelairlock.object	/shortdescription	/shortdescription	pointer-string	Titansteel Small Airlock	타이탄스틸 소형 에어록
+/objects/sheilaworkshop/black_furniture/titansteelairlocklarge/titansteelairlocklarge.object	/description	/description	pointer-string	This Titansteel door is extremely strong.	이 타이탄스틸 문은 매우 강력합니다.
+/objects/sheilaworkshop/black_furniture/titansteelairlocklarge/titansteelairlocklarge.object	/shortdescription	/shortdescription	pointer-string	Titansteel Large Airlock	타이탄스틸 대형 에어록
+/objects/sheilaworkshop/black_furniture/titansteelbarbedwire/titansteelbarbedwire.object	/description	/description	pointer-string	Ouch! I shouldn't get too close to that.	아야! 저기에 너무 가까이 가면 안 되겠어.
+/objects/sheilaworkshop/black_furniture/titansteelbarbedwire/titansteelbarbedwire.object	/shortdescription	/shortdescription	pointer-string	Titansteel Barbed Wire	타이탄스틸 철조망
+/objects/sheilaworkshop/black_furniture/titansteelbarlight/titansteelbarlight.object	/description	/description	pointer-string	A orangey bar light.	주황색 불빛이 나는 바 조명입니다.
+/objects/sheilaworkshop/black_furniture/titansteelbarlight/titansteelbarlight.object	/shortdescription	/shortdescription	pointer-string	Titansteel Bar Light	타이탄스틸 바 조명
+/objects/sheilaworkshop/black_furniture/titansteelbarlight/titansteelbarlightbroken.object	/description	/description	pointer-string	A malfunctioning orange bar light.	고장난 주황색 바 조명입니다.
+/objects/sheilaworkshop/black_furniture/titansteelbarlight/titansteelbarlightbroken.object	/shortdescription	/shortdescription	pointer-string	Broken Titansteel Bar Light	고장난 타이탄스틸 바 조명
+/objects/sheilaworkshop/black_furniture/titansteelbiometricscanner/titansteelbiometricscanner.object	/shortdescription	/shortdescription	pointer-string	Titansteel Biometric Scanner	타이탄스틸 생체 인식 스캐너
+/objects/sheilaworkshop/black_furniture/titansteelbiometricscanner/titansteelbiometricscanner.object	/description	/description	pointer-string	It scans fingerprints and matches them to personnel data.	지문을 스캔하고 이를 인사 데이터와 대조합니다.
+/objects/sheilaworkshop/black_furniture/titansteelbookcase/titansteelbookcase.object	/description	/description	pointer-string	It should be stocked full of science books and manuals.	과학 서적과 매뉴얼로 가득 차 있어야 합니다.
+/objects/sheilaworkshop/black_furniture/titansteelbookcase/titansteelbookcase.object	/shortdescription	/shortdescription	pointer-string	Titansteel Bookcase	타이탄스틸 책장
+/objects/sheilaworkshop/black_furniture/titansteelbunk/titansteelbunk.object	/description	/description	pointer-string	These cozy beds can stack on top of each other. Made with Titansteel.	이 아늑한 침대는 서로 쌓을 수 있습니다. 타이탄스틸로 만들어졌습니다.
+/objects/sheilaworkshop/black_furniture/titansteelbunk/titansteelbunk.object	/shortdescription	/shortdescription	pointer-string	Titansteel Bunk	타이탄스틸 이층 침대
+/objects/sheilaworkshop/black_furniture/titansteelcabinet/titansteelcabinet.object	/description	/description	pointer-string	A cabinet containing who knows what?	무엇이 들어 있는지 알 수 없는 캐비닛입니다.
+/objects/sheilaworkshop/black_furniture/titansteelcabinet/titansteelcabinet.object	/shortdescription	/shortdescription	pointer-string	Titansteel Cabinet	타이탄스틸 캐비닛
+/objects/sheilaworkshop/black_furniture/titansteelcaptainschair/titansteelcaptainschair.object	/description	/description	pointer-string	The Captain sits here to fly the ship. (For BYOS Purposes)	선장이 여기 앉아 우주선을 조종합니다. (BYOS 용도)
+/objects/sheilaworkshop/black_furniture/titansteelcaptainschair/titansteelcaptainschair.object	/shortdescription	/shortdescription	pointer-string	Titansteel Captain's Chair	타이탄스틸 선장 의자
+/objects/sheilaworkshop/black_furniture/titansteelcargocontainer/titansteelcargocontainer.object	/description	/description	pointer-string	A titansteel cargo container. No doubt its use.	타이탄스틸 화물 컨테이너. 그 용도는 의심할 여지가 없습니다.
+/objects/sheilaworkshop/black_furniture/titansteelcargocontainer/titansteelcargocontainer.object	/shortdescription	/shortdescription	pointer-string	Titansteel Cargo Container	타이탄스틸 화물 컨테이너
+/objects/sheilaworkshop/black_furniture/titansteelcargocrate/titansteelcargocrate.object	/description	/description	pointer-string	A crate containing cargo. Titansteel made.	화물이 들어 있는 상자입니다. 타이탄스틸로 만들어졌습니다.
+/objects/sheilaworkshop/black_furniture/titansteelcargocrate/titansteelcargocrate.object	/shortdescription	/shortdescription	pointer-string	Titansteel Cargo Crate	타이탄스틸 화물 상자
+/objects/sheilaworkshop/black_furniture/titansteelcctvcamera/titansteelcctvcamera.object	/shortdescription	/shortdescription	pointer-string	Titansteel CCTV Camera	타이탄스틸 CCTV 카메라
+/objects/sheilaworkshop/black_furniture/titansteelcctvcamera/titansteelcctvcamera.object	/description	/description	pointer-string	An HD Camera hidden in a bulletproof glass on a titansteel chassis.	타이탄스틸 섀시에 방탄 유리로 숨겨진 HD 카메라입니다.
+/objects/sheilaworkshop/black_furniture/titansteelcctvstation/titansteelcctvstation.object	/description	/description	pointer-string	A set of monitors displaying the feeds from security cameras. Made of Titansteel.	보안 카메라의 영상을 표시하는 모니터 세트입니다. 타이탄스틸로 만들어졌습니다.
+/objects/sheilaworkshop/black_furniture/titansteelcctvstation/titansteelcctvstation.object	/shortdescription	/shortdescription	pointer-string	Titansteel CCTV Station	타이탄스틸 CCTV 스테이션
+/objects/sheilaworkshop/black_furniture/titansteelchair/titansteelchair.object	/description	/description	pointer-string	A very surprisingly comfortable chair.	놀랍도록 편안한 의자입니다.
+/objects/sheilaworkshop/black_furniture/titansteelchair/titansteelchair.object	/shortdescription	/shortdescription	pointer-string	Titansteel Chair	타이탄스틸 의자
+/objects/sheilaworkshop/black_furniture/titansteelcomfychair/titansteelcomfychair.object	/description	/description	pointer-string	A comfy chair. You sit in it. Yes.	편안한 의자입니다. 앉아보세요. 네, 맞습니다.
+/objects/sheilaworkshop/black_furniture/titansteelcomfychair/titansteelcomfychair.object	/shortdescription	/shortdescription	pointer-string	Padded Titansteel Chair	쿠션이 있는 타이탄스틸 의자
+/objects/sheilaworkshop/black_furniture/titansteelconsole/titansteelconsole.object	/description	/description	pointer-string	A strong control console.	강력한 제어 콘솔입니다.
+/objects/sheilaworkshop/black_furniture/titansteelconsole/titansteelconsole.object	/shortdescription	/shortdescription	pointer-string	Titansteel Console	타이탄스틸 콘솔
+/objects/sheilaworkshop/black_furniture/titansteelcookingtable/titansteelcookingtable.object	/description	/description	pointer-string	This titansteel counter seems ideal for food preparation.	이 타이탄스틸 조리대는 음식 준비에 이상적입니다.
+/objects/sheilaworkshop/black_furniture/titansteelcookingtable/titansteelcookingtable.object	/shortdescription	/shortdescription	pointer-string	Titansteel Cooking Table	타이탄스틸 조리대
+/objects/sheilaworkshop/black_furniture/titansteelcounter/titansteelcounter.object	/description	/description	pointer-string	A titansteel table. Perfect for tabletop gaming. Or eating. Or weapon building.	타이탄스틸 테이블. 테이블탑 게임, 식사, 무기 제작에 완벽합니다.
+/objects/sheilaworkshop/black_furniture/titansteelcounter/titansteelcounter.object	/shortdescription	/shortdescription	pointer-string	Titansteel Counter	타이탄스틸 카운터
+/objects/sheilaworkshop/black_furniture/titansteelcrate/titansteelcrate.object	/description	/description	pointer-string	A strong storage crate, typically used for stashing equipment and ores.	장비와 광석을 보관하는 데 주로 사용되는 강력한 보관 상자입니다.
+/objects/sheilaworkshop/black_furniture/titansteelcrate/titansteelcrate.object	/shortdescription	/shortdescription	pointer-string	Titansteel Crate	타이탄스틸 상자
+/objects/sheilaworkshop/black_furniture/titansteeldesk/titansteeldesk.object	/description	/description	pointer-string	A titansteel desk.	타이탄스틸 책상입니다.
+/objects/sheilaworkshop/black_furniture/titansteeldesk/titansteeldesk.object	/shortdescription	/shortdescription	pointer-string	Titansteel Desk	타이탄스틸 책상
+/objects/sheilaworkshop/black_furniture/titansteeldoor/titansteeldoor.object	/description	/description	pointer-string	This indestructible door is airtight and made with incredibly strong materials.	이 파괴 불가능한 문은 밀폐되어 있으며 매우 강력한 재료로 만들어졌습니다.
+/objects/sheilaworkshop/black_furniture/titansteeldoor/titansteeldoor.object	/shortdescription	/shortdescription	pointer-string	Titansteel Blastdoor	타이탄스틸 방폭문
+/objects/sheilaworkshop/black_furniture/titansteelfilingcabinet/titansteelfilingcabinet.object	/description		target-asset-missing		서류 캐비닛입니다. 타이탄스틸로 정리되고 안전하게 보관됩니다.
+/objects/sheilaworkshop/black_furniture/titansteelfilingcabinet/titansteelfilingcabinet.object	/shortdescription		target-asset-missing		타이탄스틸 서류 캐비닛
+/objects/sheilaworkshop/black_furniture/titansteelflatscreen/titansteelflatscreen.object	/description	/description	pointer-string	A warning is being displayed on this flat screen... Odd.	이 평면 화면에 경고가 표시되고 있습니다... 이상하군요.
+/objects/sheilaworkshop/black_furniture/titansteelflatscreen/titansteelflatscreen.object	/shortdescription	/shortdescription	pointer-string	Titansteel Flatscreen HDTV	타이탄스틸 평면 HDTV
+/objects/sheilaworkshop/black_furniture/titansteelfridge/titansteelfridge.object	/description	/description	pointer-string	A titansteel fridge. Hopefully filled with tasty, tasty treats.	타이탄스틸 냉장고입니다. 맛있는 간식이 가득하길 바랍니다.
+/objects/sheilaworkshop/black_furniture/titansteelfridge/titansteelfridge.object	/shortdescription	/shortdescription	pointer-string	Titansteel Fridge	타이탄스틸 냉장고
+/objects/sheilaworkshop/black_furniture/titansteelfuelhatch/titansteelfuelhatch.object	/description	/description	pointer-string	Accepts Liquid Erchius as fuel for the ship's FTL dive. (For BYOS Purposes)	우주선의 FTL 다이브에 연료로 액체 에르키우스를 사용합니다. (BYOS 용도)
+/objects/sheilaworkshop/black_furniture/titansteelfuelhatch/titansteelfuelhatch.object	/shortdescription	/shortdescription	pointer-string	FTL Fuel Hatch	FTL 연료 해치
+/objects/sheilaworkshop/black_furniture/titansteelgenerator/titansteelgenerator.object	/description	/description	pointer-string	A power generator made of Titansteel.	타이탄스틸로 만들어진 발전기입니다.
+/objects/sheilaworkshop/black_furniture/titansteelgenerator/titansteelgenerator.object	/shortdescription	/shortdescription	pointer-string	Titansteel Power Generator	타이탄스틸 발전기
+/objects/sheilaworkshop/black_furniture/titansteelglasspanel/titansteelglasspanel.object	/description		target-asset-missing		타이탄스틸 프레임에 반짝이는 유리 패널입니다.
+/objects/sheilaworkshop/black_furniture/titansteelglasspanel/titansteelglasspanel.object	/shortdescription		target-asset-missing		타이탄스틸 유리 패널
+/objects/sheilaworkshop/black_furniture/titansteelhologem/titansteelhologem.object	/description	/description	pointer-string	A diamond utilizing prism tech to shift hues. Sheila's favorite toy.	다이아몬드를 이용한 프리즘 기술로 색상을 변화시킵니다.
+/objects/sheilaworkshop/black_furniture/titansteelhologem/titansteelhologem.object	/shortdescription	/shortdescription	pointer-string	Titansteel Hologem	타이탄스틸 홀로젬
+/objects/sheilaworkshop/black_furniture/titansteelkeypad/titansteelkeypad.object	/description		target-asset-missing		타이탄스틸 키패드입니다.
+/objects/sheilaworkshop/black_furniture/titansteelkeypad/titansteelkeypad.object	/shortdescription		target-asset-missing		타이탄스틸 키패드
+/objects/sheilaworkshop/black_furniture/titansteelkitchenshelf/titansteelkitchenshelf.object	/description	/description	pointer-string	A shelf full of goodies and tools for the culinary trade.	요리 도구와 재료가 가득한 선반입니다.
+/objects/sheilaworkshop/black_furniture/titansteelkitchenshelf/titansteelkitchenshelf.object	/shortdescription	/shortdescription	pointer-string	Titansteel Kitchen Shelf	타이탄스틸 주방 선반
+/objects/sheilaworkshop/black_furniture/titansteellantern/titansteellantern.object	/description	/description	pointer-string	These electric lanterns generate a pleasantly warm UV light.	이 전기 랜턴은 따뜻한 UV 빛을 생성합니다.
+/objects/sheilaworkshop/black_furniture/titansteellantern/titansteellantern.object	/shortdescription	/shortdescription	pointer-string	Titansteel Lantern	타이탄스틸 랜턴
+/objects/sheilaworkshop/black_furniture/titansteellocker/titansteellocker.object	/description	/description	pointer-string	A set of strong lockers, perfect for storing things.	물건을 보관하기에 완벽한 강력한 사물함 세트입니다.
+/objects/sheilaworkshop/black_furniture/titansteellocker/titansteellocker.object	/shortdescription	/shortdescription	pointer-string	Titansteel Lockers	타이탄스틸 사물함
+/objects/sheilaworkshop/black_furniture/titansteelmicrowave/titansteelmicrowave.object	/description		target-asset-missing		타이탄스틸 전자레인지입니다. 음식을 전자파로 데우고 싶을 때 사용하세요.
+/objects/sheilaworkshop/black_furniture/titansteelmicrowave/titansteelmicrowave.object	/shortdescription		target-asset-missing		타이탄스틸 전자레인지
+/objects/sheilaworkshop/black_furniture/titansteelmonitor/titansteelmonitor.object	/description	/description	pointer-string	A monitor of Titansteel.	타이탄스틸 모니터입니다.
+/objects/sheilaworkshop/black_furniture/titansteelmonitor/titansteelmonitor.object	/shortdescription	/shortdescription	pointer-string	Titansteel Monitor	타이탄스틸 모니터
+/objects/sheilaworkshop/black_furniture/titansteelmug/titansteelmug.object	/description		target-asset-missing		타이탄스틸로 만든 머그잔에 담긴 신선한 커피 한 잔입니다.
+/objects/sheilaworkshop/black_furniture/titansteelmug/titansteelmug.object	/shortdescription		target-asset-missing		타이탄스틸 머그잔
+/objects/sheilaworkshop/black_furniture/titansteelpc/titansteelpc.object	/description	/description	pointer-string	A rather cool holographic computer, designed for gaming.	컴퓨터입니다. PC 케이스와 모니터가 함께 있습니다. 여기에는 PUBG가 설치되어 있습니다.
+/objects/sheilaworkshop/black_furniture/titansteelpc/titansteelpc.object	/shortdescription	/shortdescription	pointer-string	Titansteel PC	타이탄스틸 PC
+/objects/sheilaworkshop/black_furniture/titansteelplant/titansteelplant1.object	/description	/description	pointer-string	A fake plastic plant in a titansteel pot. Not a tree.	타이탄스틸 화분에 담긴 가짜 플라스틱 식물입니다. 나무는 아닙니다.
+/objects/sheilaworkshop/black_furniture/titansteelplant/titansteelplant1.object	/shortdescription	/shortdescription	pointer-string	Plastic Plant	플라스틱 식물
+/objects/sheilaworkshop/black_furniture/titansteelplant/titansteelplant2.object	/description	/description	pointer-string	A fake plastic plant in a titansteel pot. Not a tree.	타이탄스틸 화분에 담긴 가짜 플라스틱 식물입니다. 나무는 아닙니다.
+/objects/sheilaworkshop/black_furniture/titansteelplant/titansteelplant2.object	/shortdescription	/shortdescription	pointer-string	Plastic Plant	플라스틱 식물
+/objects/sheilaworkshop/black_furniture/titansteelplant/titansteelplant3.object	/description	/description	pointer-string	A fake plastic plant in a titansteel pot. Not a tree.	타이탄스틸 화분에 담긴 가짜 플라스틱 식물입니다. 나무는 아닙니다.
+/objects/sheilaworkshop/black_furniture/titansteelplant/titansteelplant3.object	/shortdescription	/shortdescription	pointer-string	Plastic Plant	플라스틱 식물
+/objects/sheilaworkshop/black_furniture/titansteelradardish/titansteelradardish.object	/description	/description	pointer-string	A radar dish constructed from titansteel alloy.	타이탄스틸 합금으로 제작된 레이더 접시입니다.
+/objects/sheilaworkshop/black_furniture/titansteelradardish/titansteelradardish.object	/shortdescription	/shortdescription	pointer-string	Titansteel Radar Dish	타이탄스틸 레이더 접시
+/objects/sheilaworkshop/black_furniture/titansteelregister/titansteelregister.object	/description		target-asset-missing		강력한 ''카칭!'' 소리!
+/objects/sheilaworkshop/black_furniture/titansteelregister/titansteelregister.object	/shortdescription		target-asset-missing		타이탄스틸 계산대
+/objects/sheilaworkshop/black_furniture/titansteelretinalscanner/titansteelretinalscanner.object	/description	/description	pointer-string	A device to scan eyeballs and match them to personnel data.	눈을 스캔하여 인사 데이터를 일치시키는 장치.
+/objects/sheilaworkshop/black_furniture/titansteelretinalscanner/titansteelretinalscanner.object	/shortdescription	/shortdescription	pointer-string	Titansteel Retinal Scanner	타이탄스틸 망막 스캐너
+/objects/sheilaworkshop/black_furniture/titansteelserver/titansteelserver.object	/description	/description	pointer-string	It's a large titansteel server cabinet.	대형 타이탄스틸 서버 캐비닛입니다.
+/objects/sheilaworkshop/black_furniture/titansteelserver/titansteelserver.object	/shortdescription	/shortdescription	pointer-string	Titansteel Server Cabinet	타이탄스틸 서버 캐비닛
+/objects/sheilaworkshop/black_furniture/titansteelshieldgenerator/titansteelshieldgenerator.object	/description	/description	pointer-string	A titansteel shield generator. Protective!	타이탄스틸 방패 생성기입니다. 보호 기능이 있습니다!
+/objects/sheilaworkshop/black_furniture/titansteelshieldgenerator/titansteelshieldgenerator.object	/shortdescription	/shortdescription	pointer-string	Titansteel Shield Generator	타이탄스틸 방패 생성기
+/objects/sheilaworkshop/black_furniture/titansteelshipdoor/titansteelshipdoor.object	/description	/description	pointer-string	A door suitable for a spaceship.	우주선에 적합한 문.
+/objects/sheilaworkshop/black_furniture/titansteelshipdoor/titansteelshipdoor.object	/shortdescription	/shortdescription	pointer-string	Titansteel Ship Door	타이탄스틸 우주선 문
+/objects/sheilaworkshop/black_furniture/titansteelshipdoor/titansteelshiphatch.object	/description	/description	pointer-string	A hatch suitable for a spaceship.	우주선에 적합한 해치.
+/objects/sheilaworkshop/black_furniture/titansteelshipdoor/titansteelshiphatch.object	/shortdescription	/shortdescription	pointer-string	Titansteel Ship Hatch	타이탄스틸 우주선 해치
+/objects/sheilaworkshop/black_furniture/titansteelshipdoorBroken/titansteelshipdoorBroken.object	/description	/description	pointer-string	A door suitable for a spaceship. It's broken. (For BYOS Purposes)	우주선에 적합한 문입니다. 고장났습니다. (BYOS 용도)
+/objects/sheilaworkshop/black_furniture/titansteelshipdoorBroken/titansteelshipdoorBroken.object	/shortdescription	/shortdescription	pointer-string	Titansteel Ship Door	타이탄스틸 우주선 문
+/objects/sheilaworkshop/black_furniture/titansteelshiplight/titansteelshiplight.object	/description	/description	pointer-string	This spotlight is designed for universal ships.	이 스포트라이트는 범용 우주선을 위해 설계되었습니다.
+/objects/sheilaworkshop/black_furniture/titansteelshiplight/titansteelshiplight.object	/shortdescription	/shortdescription	pointer-string	Titansteel Ship Light	타이탄스틸 우주선 조명
+/objects/sheilaworkshop/black_furniture/titansteelshiplight/titansteelshiplightBroken.object	/description	/description	pointer-string	A malfunctioning Titansteel light.	고장난 타이탄스틸 조명입니다.
+/objects/sheilaworkshop/black_furniture/titansteelshiplight/titansteelshiplightBroken.object	/shortdescription	/shortdescription	pointer-string	Broken Titansteel Ship Light	고장난 타이탄스틸 우주선 조명
+/objects/sheilaworkshop/black_furniture/titansteelshiplocker/titansteelshiplocker.object	/description	/description	pointer-string	A locker. Store some stuff, why don't you?	보관함. 물건을 좀 보관해보세요.
+/objects/sheilaworkshop/black_furniture/titansteelshiplocker/titansteelshiplocker.object	/shortdescription	/shortdescription	pointer-string	Titansteel Ship Locker	타이탄스틸 우주선 사물함
+/objects/sheilaworkshop/black_furniture/titansteelshiplockerTier0/titansteelshiplockerTier0.object	/description	/description	pointer-string	A locker. Store some stuff, why don't you? (For BYOS Purposes)	사물함입니다. 물건을 보관해보세요, 왜 안 하시나요? (BYOS 용도)
+/objects/sheilaworkshop/black_furniture/titansteelshiplockerTier0/titansteelshiplockerTier0.object	/shortdescription	/shortdescription	pointer-string	Titansteel Ship Locker	타이탄스틸 우주선 사물함
+/objects/sheilaworkshop/black_furniture/titansteelshippingcontainer/titansteelshippingcontainer.object	/description	/description	pointer-string	A shipping container. Titansteel construct, pretty big.	타이탄스틸로 만들어진 대형 화물 컨테이너입니다.
+/objects/sheilaworkshop/black_furniture/titansteelshippingcontainer/titansteelshippingcontainer.object	/shortdescription	/shortdescription	pointer-string	Titansteel Shipping Container	타이탄스틸 화물 컨테이너
+/objects/sheilaworkshop/black_furniture/titansteelshipteleporter/titansteelshipteleporter.object	/description	/description	pointer-string	A teleporter of Titansteel design. (For BYOS Purposes)	타이탄스틸 디자인의 텔레포터입니다. (BYOS 용도)
+/objects/sheilaworkshop/black_furniture/titansteelshipteleporter/titansteelshipteleporter.object	/shortdescription	/shortdescription	pointer-string	Titansteel Ship Teleporter	타이탄스틸 우주선 텔레포터
+/objects/sheilaworkshop/black_furniture/titansteelshipteleporterTier0/titansteelshipteleporterTier0.object	/description	/description	pointer-string	Trusty teleporter, what would we do without you? (For BYOS Purposes)	믿음직한 텔레포터, 당신 없이는 어떻게 했을까요? (BYOS 용도)
+/objects/sheilaworkshop/black_furniture/titansteelshipteleporterTier0/titansteelshipteleporterTier0.object	/shortdescription	/shortdescription	pointer-string	Titansteel Ship Teleporter	타이탄스틸 우주선 텔레포터
+/objects/sheilaworkshop/black_furniture/titansteelslidingdoor/titansteelslidingdoor.object	/description	/description	pointer-string	This sliding door is made of Titansteel. Retro and Modern.	이 미닫이문은 타이탄스틸로 만들어졌습니다. 레트로하면서도 현대적입니다.
+/objects/sheilaworkshop/black_furniture/titansteelslidingdoor/titansteelslidingdoor.object	/shortdescription	/shortdescription	pointer-string	Titansteel Sliding Door	타이탄스틸 미닫이문
+/objects/sheilaworkshop/black_furniture/titansteelsmalllight/titansteelsmalllight.object	/description	/description	pointer-string	A titansteel wall light with a UV Bulb.	UV 전구가 장착된 타이탄스틸 벽 조명입니다.
+/objects/sheilaworkshop/black_furniture/titansteelsmalllight/titansteelsmalllight.object	/shortdescription	/shortdescription	pointer-string	Titansteel Wall Light	타이탄스틸 벽 조명
+/objects/sheilaworkshop/black_furniture/titansteelsmallmonitor/titansteelsmallmonitor.object	/description	/description	pointer-string	A smaller monitor of Titansteel.	타이탄스틸 소형 모니터입니다.
+/objects/sheilaworkshop/black_furniture/titansteelsmallmonitor/titansteelsmallmonitor.object	/shortdescription	/shortdescription	pointer-string	Titansteel Small Monitor	타이탄스틸 소형 모니터
+/objects/sheilaworkshop/black_furniture/titansteelstandingdesk/titansteelstandingdesk.object	/description		target-asset-missing		서서 일할 수 있는 책상입니다. 자세에 좋습니다.
+/objects/sheilaworkshop/black_furniture/titansteelstandingdesk/titansteelstandingdesk.object	/shortdescription		target-asset-missing		타이탄스틸 스탠딩 책상
+/objects/sheilaworkshop/black_furniture/titansteelstoreshelf/titansteelstoreshelf.object	/description	/description	pointer-string	Everything you need to survive on a strong shelf.	생존에 필요한 모든 것이 강력한 선반에 있습니다.
+/objects/sheilaworkshop/black_furniture/titansteelstoreshelf/titansteelstoreshelf.object	/shortdescription	/shortdescription	pointer-string	Titansteel Store Shelf	타이탄스틸 상점 선반
+/objects/sheilaworkshop/black_furniture/titansteeltable/titansteeltable.object	/description	/description	pointer-string	This strong table glows... it has to be nice.	이 강력한 테이블은 빛납니다... 멋질 수밖에 없네요.
+/objects/sheilaworkshop/black_furniture/titansteeltable/titansteeltable.object	/shortdescription	/shortdescription	pointer-string	Titansteel Table	타이탄스틸 테이블
+/objects/sheilaworkshop/black_furniture/titansteeltechstation/titansteeltechstation.object	/description	/description	pointer-string	Ship-based Artificial Intelligence Lattice, or S.A.I.L for short. (For BYOS Purposes)	우주선 기반 인공지능 격자, 줄여서 S.A.I.L. (BYOS 용도)
+/objects/sheilaworkshop/black_furniture/titansteeltechstationTier0/titansteeltechstationTier0.object	/description	/description	pointer-string	Ship-based Artificial Intelligence Lattice, or S.A.I.L for short. (For BYOS Purposes)	우주선 기반 인공지능 격자, 줄여서 S.A.I.L. (BYOS 용도)
+/objects/sheilaworkshop/black_furniture/titansteelteleporter/titansteelteleporter.object	/description	/description	pointer-string	"A personal teleporter, connects to bookmarked locations. 
+^red;Destroys when broken."	개인 텔레포터, 북마크된 위치로 연결됨.\\n^red;파괴되면 사라집니다.
+/objects/sheilaworkshop/black_furniture/titansteelteleporter/titansteelteleporter.object	/shortdescription	/shortdescription	pointer-string	Titansteel Teleporter	타이탄스틸 텔레포터
+/objects/sheilaworkshop/black_furniture/titansteeltoolbox/titansteeltoolbox.object	/description		target-asset-missing		매우 강력해 보이는 도구 상자입니다.
+/objects/sheilaworkshop/black_furniture/titansteeltoolbox/titansteeltoolbox.object	/shortdescription		target-asset-missing		타이탄스틸 도구 상자
+/objects/sheilaworkshop/black_furniture/titansteelturret/titansteelturret.object	/description	/description	pointer-string	An automatic sentry defense turret made of Titansteel.	타이탄스틸로 만들어진 자동 경비 포탑입니다. 한 번만 배치할 수 있습니다.
+/objects/sheilaworkshop/black_furniture/titansteelturret/titansteelturret.object	/shortdescription	/shortdescription	pointer-string	Titansteel Turret	타이탄스틸 포탑
+/objects/sheilaworkshop/black_furniture/titansteelvendingmachine/titansteelvendingmachine.object	/description	/description	pointer-string	A vending machine, there are some quality snacks in here.	자판기입니다. 여기에는 고급 간식이 들어 있습니다.
+/objects/sheilaworkshop/black_furniture/titansteelvendingmachine/titansteelvendingmachine.object	/shortdescription	/shortdescription	pointer-string	Titansteel Vending Machine	타이탄스틸 자판기
+/objects/sheilaworkshop/black_furniture/titansteelwindchimes/titansteelwindchimes.object	/description	/description	pointer-string	Wind Chimes made with Titansteel. Who knew metal alloy sounded nice?	타이탄스틸로 만든 풍경종입니다. 금속 합금이 이렇게 좋은 소리를 낼 줄 누가 알았겠어요?
+/objects/sheilaworkshop/black_furniture/titansteelwindchimes/titansteelwindchimes.object	/shortdescription	/shortdescription	pointer-string	Titansteel Wind Chimes	타이탄스틸 풍경종
+/objects/sheilaworkshop/black_furniture/uvdisplaylight/uvdisplaylight.object	/description	/description	pointer-string	A directional light used to illuminate items on display with UV rays.	UV 광선을 사용하여 전시된 물품을 비추는 방향성 조명입니다.
+/objects/sheilaworkshop/black_furniture/uvdisplaylight/uvdisplaylight.object	/shortdescription	/shortdescription	pointer-string	UV Display Light	UV 전시 조명
+/objects/sheilaworkshop/black_furniture/uvfloodlights/uvfloodlights.object	/description	/description	pointer-string	The light given of by these bulbs contain ultraviolet beams.	이 전구에서 나오는 빛은 자외선 광선을 포함하고 있습니다.
+/objects/sheilaworkshop/black_furniture/uvfloodlights/uvfloodlights.object	/shortdescription	/shortdescription	pointer-string	UV Floodlights	UV 투광등
+/objects/sheilaworkshop/black_furniture/uvfluorescentlight/flickeringuvfluorescentlight.object	/description	/description	pointer-string	This UV fluorescent light has seen better days.	이 UV 형광등은 더 나은 시절을 보냈습니다.
+/objects/sheilaworkshop/black_furniture/uvfluorescentlight/flickeringuvfluorescentlight.object	/shortdescription	/shortdescription	pointer-string	Damaged UV Fluorescent Light	손상된 UV 형광등
+/objects/sheilaworkshop/black_furniture/uvfluorescentlight/uvfluorescentlight.object	/description	/description	pointer-string	Ultraviolet fluorescent light.	자외선 형광등입니다.
+/objects/sheilaworkshop/black_furniture/uvfluorescentlight/uvfluorescentlight.object	/shortdescription	/shortdescription	pointer-string	UV Fluorescent Light	UV 형광등
+/objects/sheilaworkshop/black_furniture/uvlamp/uvlamp.object	/description	/description	pointer-string	A UV wall light.	UV 벽 조명입니다.
+/objects/sheilaworkshop/black_furniture/uvlamp/uvlamp.object	/shortdescription	/shortdescription	pointer-string	UV Wall Light	UV 벽 조명
+/objects/sheilaworkshop/black_furniture/uvshiplight/uvshiplight.object	/description	/description	pointer-string	A ultraviolet ship light.	자외선 우주선 조명입니다.
+/objects/sheilaworkshop/black_furniture/uvshiplight/uvshiplight.object	/shortdescription	/shortdescription	pointer-string	UV Ship Light	UV 우주선 조명
+/objects/sheilaworkshop/black_furniture/uvshiplight/uvshiplightbroken.object	/description	/description	pointer-string	A malfunctioning ultraviolet light.	고장난 자외선 조명입니다.
+/objects/sheilaworkshop/black_furniture/uvshiplight/uvshiplightbroken.object	/shortdescription	/shortdescription	pointer-string	Broken UV Ship Light	고장난 UV 우주선 조명
+/objects/sheilaworkshop/black_furniture/uvspotlight/uvspotlight.object	/description	/description	pointer-string	A highly-mounted spotlight that gives off UV Rays!	높이 설치된 스포트라이트로 UV 광선을 방출합니다!
+/objects/sheilaworkshop/black_furniture/uvspotlight/uvspotlight.object	/shortdescription	/shortdescription	pointer-string	UV Spotlight	UV 스포트라이트
+/objects/sheilaworkshop/black_radios/black_africatoto/black_africatoto.object	/description	/description	pointer-string	A stylish radio that plays Africa by Toto.	아프리카의 Toto가 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_africatoto/black_africatoto.object	/shortdescription	/shortdescription	pointer-string	Toto Radio	Toto 라디오
+/objects/sheilaworkshop/black_radios/black_badlove/black_badlove.object	/description	/description	pointer-string	A stylish radio that plays Bad Love by Eric Clapton.	에릭 클랩튼의 Bad Love가 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_badlove/black_badlove.object	/shortdescription	/shortdescription	pointer-string	Eric Clapton Radio	에릭 클랩튼 라디오
+/objects/sheilaworkshop/black_radios/black_bakerstreet/black_bakerstreet.object	/description	/description	pointer-string	A stylish radio that plays Baker Street by Gerry Rafferty.	게리 래퍼티의 Baker Street가 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_bakerstreet/black_bakerstreet.object	/shortdescription	/shortdescription	pointer-string	Gerry Rafferty Radio	게리 래퍼티 라디오
+/objects/sheilaworkshop/black_radios/black_blackvelvet/black_blackvelvet.object	/description	/description	pointer-string	A stylish radio that plays Black Velvet by Alannah Myles.	알라나 마일스의 Black Velvet이 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_blackvelvet/black_blackvelvet.object	/shortdescription	/shortdescription	pointer-string	Alannah Myles Radio	알라나 마일스 라디오
+/objects/sheilaworkshop/black_radios/black_catsinthecradle/black_catsinthecradle.object	/description	/description	pointer-string	A stylish radio that plays Cats in the Cradle by Harry Chapin.	해리 채핀의 Cats in the Cradle이 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_catsinthecradle/black_catsinthecradle.object	/shortdescription	/shortdescription	pointer-string	Harry Chapin Radio	해리 채핀 라디오
+/objects/sheilaworkshop/black_radios/black_circleinthesand/black_circleinthesand.object	/description	/description	pointer-string	A stylish radio that plays Circle in the Sand by Belinda Carlisle.	벨린다 칼라일의 Circle in the Sand가 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_circleinthesand/black_circleinthesand.object	/shortdescription	/shortdescription	pointer-string	Belinda Carlisle Radio	벨린다 칼라일 라디오
+/objects/sheilaworkshop/black_radios/black_dangerzone/black_dangerzone.object	/description	/description	pointer-string	A stylish radio that plays Danger Zone by Kenny Loggins.	케니 로긴스의 Danger Zone이 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_dangerzone/black_dangerzone.object	/shortdescription	/shortdescription	pointer-string	Kenny Loggins Radio	케니 로긴스 라디오
+/objects/sheilaworkshop/black_radios/black_intheairtonight/black_intheairtonight.object	/description	/description	pointer-string	A stylish radio that plays In the Air Tonight by Phil Collins.	필 콜린스의 In the Air Tonight이 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_intheairtonight/black_intheairtonight.object	/shortdescription	/shortdescription	pointer-string	Phil Collins Radio	필 콜린스 라디오
+/objects/sheilaworkshop/black_radios/black_itsasin/black_itsasin.object	/description	/description	pointer-string	A stylish radio that plays It's a Sin by Pet Shop Boys.	펫 샵 보이즈의 It's a Sin이 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_itsasin/black_itsasin.object	/shortdescription	/shortdescription	pointer-string	Pet Shop Boys Radio	펫 샵 보이즈 라디오
+/objects/sheilaworkshop/black_radios/black_landofconfusion/black_landofconfusion.object	/description	/description	pointer-string	A stylish radio that plays Land of Confusion by Genesis.	제네시스의 Land of Confusion이 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_landofconfusion/black_landofconfusion.object	/shortdescription	/shortdescription	pointer-string	Genesis Radio	제네시스 라디오
+/objects/sheilaworkshop/black_radios/black_photograph/black_photograph.object	/description	/description	pointer-string	A stylish radio that plays Photograph by Def Leppard.	데프 레퍼드의 Photograph가 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_photograph/black_photograph.object	/shortdescription	/shortdescription	pointer-string	Def Leppard Radio	데프 레퍼드 라디오
+/objects/sheilaworkshop/black_radios/black_rainbowinthedark/black_rainbowinthedark.object	/description	/description	pointer-string	A stylish radio that plays Rainbow in the Dark by Dio.	디오의 Rainbow in the Dark가 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_rainbowinthedark/black_rainbowinthedark.object	/shortdescription	/shortdescription	pointer-string	Dio Radio	디오 라디오
+/objects/sheilaworkshop/black_radios/black_separateways/black_separateways.object	/description	/description	pointer-string	A stylish radio that plays Separate Ways by Journey.	저니의 Separate Ways가 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_separateways/black_separateways.object	/shortdescription	/shortdescription	pointer-string	Journey Radio	저니 라디오
+/objects/sheilaworkshop/black_radios/black_skrillexclubdecks/black_skrillexclubdecks.object	/description	/description	pointer-string	The huge speakers pumps out Imma Try it Out by Skrillex.	거대한 스피커에서 Skrillex의 Imma Try it Out이 나옵니다.
+/objects/sheilaworkshop/black_radios/black_skrillexclubdecks/black_skrillexclubdecks.object	/shortdescription	/shortdescription	pointer-string	Skrillex Club Decks	Skrillex 클럽 데크
+/objects/sheilaworkshop/black_radios/black_solesurvivor/black_solesurvivor.object	/description	/description	pointer-string	A stylish radio that plays Sole Survivor by Asia.	아시아의 Sole Survivor가 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_solesurvivor/black_solesurvivor.object	/shortdescription	/shortdescription	pointer-string	Asia Radio	아시아 라디오
+/objects/sheilaworkshop/black_radios/black_somethinggoingon/black_somethinggoingon.object	/description	/description	pointer-string	A stylish radio that plays Something Going On by Frida.	프리다의 Something Going On이 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_somethinggoingon/black_somethinggoingon.object	/shortdescription	/shortdescription	pointer-string	Frida Radio	프리다 라디오
+/objects/sheilaworkshop/black_radios/black_spacelandclubdecks/black_spacelandclubdecks.object	/description	/description	pointer-string	The huge speakers pumps out Zombies in Spaceland.	거대한 스피커에서 Zombies in Spaceland가 나옵니다.
+/objects/sheilaworkshop/black_radios/black_spacelandclubdecks/black_spacelandclubdecks.object	/shortdescription	/shortdescription	pointer-string	Spaceland Club Decks	Spaceland 클럽 데크
+/objects/sheilaworkshop/black_radios/black_thebreakupsong/black_thebreakupsong.object	/description	/description	pointer-string	A stylish radio that plays The Breakup Song by the Greg Kihn Band.	그렉 킨 밴드의 The Breakup Song이 나오는 멋진 라디오입니다.
+/objects/sheilaworkshop/black_radios/black_thebreakupsong/black_thebreakupsong.object	/shortdescription	/shortdescription	pointer-string	Greg Kihn Band Radio	그렉 킨 밴드 라디오
+/quests/black_humanorb.questtemplate	/text		target-asset-missing		파괴하고 구슬을 얻으세요. 더 이상 설명이 필요 없습니다.
+/stats/effects/Exosuit/Exosuit.statuseffect	/label	/label	pointer-string	Exosuit	엑소슈트
+/stats/effects/energyregenenergydrink.statuseffect	/label	/label	pointer-string	Caffeine Energy	카페인 에너지
+/stats/effects/glowenergydrink.statuseffect	/label	/label	pointer-string	Caffeine Surge	카페인 서지
+/stats/effects/jumpboostenergydrink.statuseffect	/label	/label	pointer-string	Caffeine Boost	카페인 부스트
+/stats/effects/lowgravenergydrink.statuseffect	/label	/label	pointer-string	Caffeine Light	카페인 라이트
+/stats/effects/nofalldamageenergydrink.statuseffect	/label	/label	pointer-string	Caffeine Safe	카페인 세이프
+/stats/effects/rageenergydrink.statuseffect	/label	/label	pointer-string	Caffeine Rage	카페인 레이지
+/stats/effects/runboostenergydrink.statuseffect	/label	/label	pointer-string	Caffeine Buzz	카페인 버즈
+/stats/effects/sw_titansteeljetpack/sw_titansteeljetpack/sw_titansteeljetpack.statuseffect	/label	/label	pointer-string	Jetpack	제트팩
+/stats/effects/swimboostenergydrink.statuseffect	/label	/label	pointer-string	Caffeine Taste	카페인 맛

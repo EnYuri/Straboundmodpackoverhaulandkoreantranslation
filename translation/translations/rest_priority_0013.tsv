@@ -1,0 +1,446 @@
+﻿37014	"오직 오락만을 목적으로 창조된, 고도로 발전된 표본 종족. 이들은 스스로의 삶에서 벗어나고 싶어하는 이들을 위해 역사 속 배역을 연기하는 꼭두각시로 살아간다.
+    ^#00A9FF;특성^reset;
+^white;최대 체력^reset;: ^red;-15%^reset;
+^white;최대 에너지^reset;: ^green;+35%^reset;
+^white;에너지 재생^reset;: ^green;+10%^reset;
+^darkgray;공격 배율: -^reset;
+^white;방어력^reset;: ^red;-5%^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^red;-10%^reset;
+^white;전기 저항^reset;: ^red;-50%^reset;
+^darkgray;독 저항: -^reset;
+^darkgray;냉기 저항: -^reset;
+^white;물리 저항^reset;: ^red;-10%^reset;
+    ^#00A9FF;면역^reset;: ^green;기아, 식중독, 중독, 질식, 배고픔
+    ^#00A9FF;종족 특성^reset;: ^#AA72FF;굶지 않음
+^white;숨 소모 속도^reset;: ^green;-100%^reset;, ^white;배고픔 속도^reset;: ^green;-100%^reset;"
+37016	"고도로 지능적인 영장류 종족. 수천 년 동안 에이펙스는 겉모습이 인간과 비슷했지만, 어느 과학적 돌파구를 통해 신체적 퇴화와 지적 진화를 맞바꾸게 되었다.
+    ^#00A9FF;특성^reset;
+^white;최대 체력^reset;: ^red;-15%^reset;
+^white;최대 에너지^reset;: ^green;+25%^reset;
+^white;에너지 재생^reset;: ^green;+10%^reset;
+^darkgray;공격 배율: -^reset;
+^darkgray;방어력: -^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^red;-25%^reset;
+^white;전기 저항^reset;: ^red;-10%^reset;
+^darkgray;독 저항: -^reset;
+^white;냉기 저항^reset;: ^green;+25%^reset;
+^white;물리 저항^reset;: ^red;-5%^reset;
+    ^#00A9FF;면역^reset;: ^green;둔화, 서리
+    ^#00A9FF;종족 특성^reset;: -"
+37017	"고도로 지능적인 영장류 종족. 과학의 대가인 이들은 다른 어떤 종족보다도 기술을 잘 활용한다.
+
+  ^orange;식성^reset;: 잡식성
+
+^orange;장점^reset;:
+  물질 조작기: 반경 +^green;1^reset;
+  체력 x^green;1.08^reset;, 에너지 x^green;1.06^reset;
+  ^green;저항^reset;: 냉기 +^cyan;14^reset;%, 전기 +^cyan;12^reset;%, 우주 +^cyan;7^reset;%, 물리 +^cyan;4^reset;%
+  ^cyan;모든 기술의 효율 향상^reset;
+  ^cyan;면역^reset;: 정글, 진흙
+
+^orange;환경^reset;:
+  ^green;정글, ^green;태고^reset;, ^green;숲^reset;, ^green;열대우림^reset;, ^green;눈^reset; 생물군계: 방어력 x^green;1.15^reset;, 체력 x^green;1.1^reset;
+  ^red;사막^reset;, ^red;붉은 사막^reset; 생물군계: 방어력 x^red;0.85^reset;, 체력 x^red;0.85^reset;
+
+^orange;무기^reset;:
+  없음
+
+^red;약점^reset;:
+  최대 배고픔 x^red;0.9^reset;
+  ^red;저항^reset;: 화염 & 독 -^red;12^reset;%, 방사능 -^red;5^reset;%"
+37018	"귀가 네 개 달린, 작고 복슬복슬한 유목민 우주 랩터인 고도로 지능적인 종족. 뛰어난 사냥꾼이자 가수로 알려져 있으며, 매우 사랑스럽기도 하다.
+    ^#00A9FF;특성^reset;
+^white;최대 체력^reset;: ^red;-5%^reset;
+^white;최대 에너지^reset;: ^green;+10%^reset;
+^white;에너지 재생^reset;: ^green;+25%^reset;
+^darkgray;공격 배율: -^reset;
+^white;방어력^reset;: ^red;-5%^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^red;-40%^reset;
+^darkgray;전기 저항: -^reset;
+^darkgray;독 저항: -^reset;
+^white;냉기 저항^reset;: ^green;+40%^reset;
+^darkgray;물리 저항: -^reset;
+    ^#00A9FF;면역^reset;: ^green;서리
+    ^#00A9FF;종족 특성^reset;: -
+^white;낙하 피해^reset;: ^green;-15%^reset;, ^white;점프 높이^reset;: ^green;+15%^reset;, ^white;이동 속도^reset;: ^green;+15%^reset;"
+37019	"천체를 테마로 한 인간형 종족.
+    ^#00A9FF;특성^reset;
+^white;최대 체력^reset;: ^green;+10%^reset;
+^white;최대 에너지^reset;: ^green;+10%^reset;
+^darkgray;에너지 재생: -^reset;
+^darkgray;공격 배율: -^reset;
+^white;방어력^reset;: ^green;+5%^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^red;-10%^reset;
+^white;전기 저항^reset;: ^red;-20%^reset;
+^white;독 저항^reset;: ^green;+10%^reset;
+^white;냉기 저항^reset;: ^red;-10%^reset;
+^darkgray;물리 저항: -^reset;
+    ^#00A9FF;면역^reset;: ^green;식중독
+    ^#00A9FF;종족 특성^reset;: ^#AA72FF;머리 조명, 야간 재생
+^white;점프 높이^reset;: ^green;+25%^reset;"
+37020	"나방과 나비를 닮아 그렇게 이름 붙은, 나비목을 닮은 종족. 유목민적인 우주 생활 방식과, 다른 종족들이 탐내는 비단 원단을 생산하는 것으로 알려져 있다.
+    ^#00A9FF;특성^reset;
+^white;최대 체력^reset;: ^red;-10%^reset;
+^white;최대 에너지^reset;: ^green;+15%^reset;
+^white;에너지 재생^reset;: ^green;+10%^reset;
+^white;공격 배율^reset;: ^red;-5%^reset;
+^darkgray;방어력: -^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^red;-15%^reset;
+^darkgray;전기 저항: -^reset;
+^white;독 저항^reset;: ^green;+10%^reset;
+^darkgray;냉기 저항: -^reset;
+^darkgray;물리 저항: -^reset;
+    ^#00A9FF;면역^reset;: -
+    ^#00A9FF;종족 특성^reset;: -
+^white;낙하 피해^reset;: ^green;-30%^reset;, ^white;점프 높이^reset;: ^green;+5%^reset;, ^white;배고픔 속도^reset;: ^red;+10%^reset;"
+37021	"텔레안 군대의 거듭된 침공을 피해 고향 행성을 떠난 유목민 우주 항해자 종족. 고도로 발전된 기술 수준에도 불구하고, 전통 문화 탓에 뼈와 가죽으로 만든 장비를 자주 사용한다.
+
+  ^orange;식성^reset;: 잡식성
+
+^orange;장점^reset;:
+  체력 & 에너지 x^green;1.15^reset;, 방어력 x^green;1.05^reset;, 속도 +^green;5^reset;%
+  ^green;저항^reset;: 화염 +^green;40^reset;%, 방사능 +^green;10^reset;%, 넉백 +^green;25^reset;%
+  ^cyan;면역^reset;: 화상, 모래폭풍, 유사, 타르
+
+^orange;환경^reset;:
+  ^green;사막^reset; 생물군계: 방어력 x^green;1.05^reset;, 체력 x^green;1.15^reset;, 체력 재생 +^green;0.5^reset;%
+  ^green;추운^reset; 생물군계: 에너지 재생 -^red;50^reset;%
+
+^orange;무기^reset;:
+  한손 콤보 타격 시 피해량 증가 (^green;체력/50^reset;)
+  단검/창: 피해량 x^green;1.05^reset;, 치명타 +^green;2^reset;%
+  에너지 무기: 피해량 x^green;1.15^reset;
+
+^red;약점^reset;:
+  ^red;저항^reset;: 냉기 -^red;40^reset;%"
+37022	"텔레안 군대의 거듭된 침공을 피해 고향 행성을 떠난 유목민 우주 항해자 종족. 고도로 발전된 기술 수준에도 불구하고, 전통 문화 탓에 뼈와 가죽으로 만든 장비를 자주 사용한다.
+
+  ^orange;식성^reset;: 잡식성
+
+^orange;장점^reset;:
+  체력 & 에너지 x^green;1.30^reset;, 방어력 x^green;1.15^reset;, 속도 +^green;25^reset;%
+  ^green;저항^reset;: 화염 +^green;40^reset;%, 방사능 +^green;10^reset;%, 넉백 +^green;25^reset;%
+  ^cyan;면역^reset;: 화상, 모래폭풍, 유사, 타르
+
+^orange;환경^reset;:
+  ^green;사막^reset; 생물군계: 방어력 x^green;1.05^reset;, 체력 x^green;1.15^reset;, 체력 재생 +^green;0.5^reset;%
+  ^green;추운^reset; 생물군계: 에너지 재생 -^red;50^reset;%
+
+^orange;무기^reset;:
+  한손 콤보 타격 시 피해량 증가 (^green;체력/50^reset;)
+  단검/창: 피해량 x^green;1.05^reset;, 치명타 +^green;2^reset;%
+  에너지 무기: 피해량 x^green;1.15^reset;
+
+^red;약점^reset;:
+  ^red;저항^reset;: 냉기 -^red;40^reset;%"
+37023	텔레안 군대의 거듭된 침공을 피해 고향 행성을 떠난 유목민 우주 항해자 종족. 고도로 발전된 기술 수준에도 불구하고, 전통 문화 탓에 뼈와 가죽으로 만든 장비를 자주 사용한다.
+37024	"텔레안 군대의 거듭된 침공을 피해 고향 행성을 떠난 유목민 우주 항해자 종족. 고도로 발전된 기술 수준에도 불구하고, 전통 문화 탓에 뼈와 가죽으로 만든 장비를 자주 사용한다.
+    ^#00A9FF;특성^reset;
+^white;최대 체력^reset;: ^green;+10%^reset;
+^white;최대 에너지^reset;: ^green;+5%^reset;
+^darkgray;에너지 재생: -^reset;
+^darkgray;공격 배율: -^reset;
+^darkgray;방어력: -^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^green;+40%^reset;
+^white;전기 저항^reset;: ^green;+15%^reset;
+^white;독 저항^reset;: ^red;-10%^reset;
+^white;냉기 저항^reset;: ^red;-40%^reset;
+^darkgray;물리 저항: -^reset;
+    ^#00A9FF;면역^reset;: ^green;둔화
+    ^#00A9FF;종족 특성^reset;: -"
+37025	"평화롭고 외교적인 의인화된 시추 종족. 예전에는 지구에서 다른 시추, 인간, 그 밖의 의인화된 존재들과 함께 마을을 돌보곤 했지만, 지구가 파괴되면서 시주벨은 별들 사이로 흩어지고 말았다. 다른 많은 종족들과 함께, 시주벨은 다시 한번 안전을 보장받기 위해 보호국에 합류할 계획이다.
+    ^#00A9FF;특성^reset;
+^darkgray;최대 체력: -^reset;
+^darkgray;최대 에너지: -^reset;
+^white;에너지 재생^reset;: ^green;+15%^reset;
+^darkgray;공격 배율: -^reset;
+^darkgray;방어력: -^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^red;-15%^reset;
+^white;전기 저항^reset;: ^red;-10%^reset;
+^darkgray;독 저항: -^reset;
+^white;냉기 저항^reset;: ^green;+25%^reset;
+^darkgray;물리 저항: -^reset;
+    ^#00A9FF;면역^reset;: -
+    ^#00A9FF;종족 특성^reset;: -
+^white;낙하 피해^reset;: ^green;-15%^reset;, ^white;이동 속도^reset;: ^green;+15%^reset;"
+37026	이발리스 출신의 토끼형 박쥐 종족.
+37027	"이발리스 출신의 토끼형 박쥐 종족.
+    ^#00A9FF;특성^reset;
+^white;최대 체력^reset;: ^red;-20%^reset;
+^white;최대 에너지^reset;: ^green;+10%^reset;
+^darkgray;에너지 재생: -^reset;
+^darkgray;공격 배율: -^reset;
+^darkgray;방어력: -^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^red;-20%^reset;
+^white;전기 저항^reset;: ^green;+20%^reset;
+^white;독 저항^reset;: ^green;+10%^reset;
+^white;냉기 저항^reset;: ^green;+30%^reset;
+^white;물리 저항^reset;: ^red;-20%^reset;
+    ^#00A9FF;면역^reset;: ^green;겁먹음
+    ^#00A9FF;종족 특성^reset;: ^#AA72FF;느린 수영
+^white;낙하 피해^reset;: ^green;-20%^reset;, ^white;점프 높이^reset;: ^green;+20%^reset;, ^white;이동 속도^reset;: ^green;+10%^reset;, ^white;배고픔 속도^reset;: ^red;+10%^reset;"
+37028	"지구의 악어를 닮은 파충류형 인간형 종족. 해안가와 짠 바닷물 냄새를 꽤 좋아하는 것으로 보인다.
+    ^#00A9FF;특성^reset;
+^darkgray;최대 체력: -^reset;
+^white;최대 에너지^reset;: ^red;-35%^reset;
+^white;에너지 재생^reset;: ^red;-15%^reset;
+^white;공격 배율^reset;: ^green;+15%^reset;
+^darkgray;방어력: -^reset;
+    ^#00A9FF;저항^reset;
+^darkgray;화염 저항: -^reset;
+^white;전기 저항^reset;: ^red;-25%^reset;
+^darkgray;독 저항: -^reset;
+^white;냉기 저항^reset;: ^red;-25%^reset;
+^darkgray;물리 저항: -^reset;
+    ^#00A9FF;면역^reset;: ^green;식중독, 젖음
+    ^#00A9FF;종족 특성^reset;: -
+^white;숨 소모 속도^reset;: ^green;-50%^reset;, ^white;최대 숨^reset;: ^green;+100.0^reset;, ^white;배고픔 속도^reset;: ^red;+50%^reset;"
+37030	"고철을 훔치고 물건을 쌓아두는 도둑 종족.
+    ^#00A9FF;특성^reset;
+^white;최대 체력^reset;: ^red;-5%^reset;
+^white;최대 에너지^reset;: ^red;-10%^reset;
+^white;에너지 재생^reset;: ^red;-25%^reset;
+^white;공격 배율^reset;: ^green;+10%^reset;
+^darkgray;방어력: -^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^red;-25%^reset;
+^darkgray;전기 저항: -^reset;
+^darkgray;독 저항: -^reset;
+^white;냉기 저항^reset;: ^green;+35%^reset;
+^darkgray;물리 저항: -^reset;
+    ^#00A9FF;면역^reset;: ^green;식중독, 서리
+    ^#00A9FF;종족 특성^reset;: ^#AA72FF;전투 분노
+^white;낙하 피해^reset;: ^red;+15%^reset;, ^white;넉백 저항^reset;: ^green;+15%^reset;, ^white;숨 소모 속도^reset;: ^red;+25%^reset;, ^white;배고픔 속도^reset;: ^red;+35%^reset;"
+37031	"반쯤 육식성인 신화 속 존재, 데몬은 매우 열정적이고 야심 차며 자존심 강한 종족이다. 독특하고 다채로운 외모와 강렬한 마법의 힘으로 잘 알려져 있다.
+
+고대 데몬은 극도로 폭력적이고 지배적인 행동으로 과거에도, 그리고 오늘날에도 악명이 높다. 이 때문에 대부분의 현대 데몬은 조상들이 지녔던 야만성이 없음에도 불구하고 종종 경멸이나 두려움의 시선을 받는다. 그럼에도, 여전히 옛 관습을 믿고 야만적인 부족 사회로 돌아가길 바라는 몇몇 데몬 집단들이 알려져 있다.
+    ^#00A9FF;특성^reset;
+^darkgray;최대 체력: -^reset;
+^white;최대 에너지^reset;: ^red;-35%^reset;
+^white;에너지 재생^reset;: ^red;-15%^reset;
+^white;공격 배율^reset;: ^green;+8%^reset;
+^darkgray;방어력: -^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^green;+50%^reset;
+^white;전기 저항^reset;: ^red;-10%^reset;
+^darkgray;독 저항: -^reset;
+^white;냉기 저항^reset;: ^red;-50%^reset;
+^white;물리 저항^reset;: ^green;+5%^reset;
+    ^#00A9FF;면역^reset;: ^green;식중독, 겁먹음, 화상
+    ^#00A9FF;종족 특성^reset;: ^#AA72FF;화염 오라, 재생(비전투 시)
+^white;넉백 저항^reset;: ^green;+2%^reset;, ^white;점프 높이^reset;: ^green;+10%^reset;, ^white;이동 속도^reset;: ^green;+25%^reset;, ^white;숨 소모 속도^reset;: ^green;-25%^reset;, ^white;배고픔 속도^reset;: ^red;+35%^reset;"
+37033	"가이아라는 행성에서 태어난, 형태를 바꾸고 불안감을 느끼는 종족.
+
+  ^orange;식성^reset;: 잡식성
+
+^orange;장점^reset;:
+  체력 & 피해량 x^green;1.1^reset;.
+  ^green;저항^reset;:
+    독, 우주, 전기, 어둠, 방사능, 물리 +^green;10^reset;%.
+    냉기 +^green;30^reset;%.
+
+^orange;환경^reset;:
+  울창한 숲, 숲, 정글, 열대우림, 눈, 툰드라, 극지 생물군계: 속도와 점프 +^green;10^reset;%
+  늪, 바다, 마그마, 화산 생물군계: 속도와 점프 -^red;10^reset;%
+
+^red;약점^reset;:
+  에너지 x^red;0.9^reset;
+  ^red;저항^reset;: 화염 -^red;40^reset;%"
+37034	"기원이 불분명한, 수줍은 방사능 존재 종족. 이 종족은 ^red;배고픔을 중심으로 설계^reset;되었다. ^red;난이도가 높다^reset;.
+
+  ^orange;식성^reset;: 조리된 동위원소를 포함해 무엇이든
+
+^orange;장점^reset;:
+  체력 x^green;1.1^reset;, 에너지 x^green;1.2^reset;, ^red;배고픔에 따라 감소^reset;. 방어력 x^green;1.03^reset;
+  ^green;저항^reset;: 방사능 +^green;35^reset;%, 독 +^green;10^reset;%, 우주 +^green;5^reset;%, ^green;배가 부르면 최대 2배^reset;. 정신 +^green;5^reset;%.
+  기술: 씨앗 구근.
+  ^cyan;면역^reset;: 방사능 화상
+
+^orange;환경^reset;:
+  ^green;방사능^reset; 생물군계: 피해량 x^green;1.15^reset;, 에너지 재생 +^green;15^reset;%, 배고픔 소모 -^green;5^reset;%
+  ^red;더운^reset; 생물군계: 방어력 x^red;0.85^reset;, 배고픔 소모 +^red;35^reset;%.
+  ^green;시간이 지날수록 방어력 증가^reset;
+  ^cyan;종족 기술이 성공에 필수적^reset;.
+  ^green;수동적으로 유전자 생성^reset;.
+
+^orange;무기^reset;:
+  Xʼi 무기: 치명타 확률 +^green;1.5^reset;%, 방어력 x^green;1.15^reset;
+
+^red;약점^reset;:
+  배고픔 소모 +^red;25^reset;%.
+  ^red;저항^reset;: 화염, 냉기 & 전기 -^red;20^reset;%, ^red;배고플 때 최대 1.5배^reset;.
+  ^red;치유 아이템을 사용할 수 없음^reset;. 종족 전용 치유 수단을 사용해야 한다."
+37035	"사교적이고 기술적이고 어쩌면 위험할 법한 모든 것에 열정적인 관심을 가진, 튼튼하고 게으른 외계 도마뱀 종족. 자이루센이 있는 곳엔 반드시 모험이 있다!
+    ^#00A9FF;특성^reset;
+^white;최대 체력^reset;: ^green;+25%^reset;
+^darkgray;최대 에너지: -^reset;
+^white;에너지 재생^reset;: ^red;-25%^reset;
+^white;공격 배율^reset;: ^red;-5%^reset;
+^white;방어력^reset;: ^green;+5%^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^green;+25%^reset;
+^darkgray;전기 저항: -^reset;
+^darkgray;독 저항: -^reset;
+^white;냉기 저항^reset;: ^red;-50%^reset;
+^white;물리 저항^reset;: ^green;+5%^reset;
+    ^#00A9FF;면역^reset;: ^green;식중독
+    ^#00A9FF;종족 특성^reset;: ^#AA72FF;열렬한 탐험가"
+37038	"몸을 투명하게 만들고 목적지를 볼 수 있게 해주는 유전적 오류를 가진 종족!
+    ^#00A9FF;특성^reset;
+^white;최대 체력^reset;: ^red;-15%^reset;
+^white;최대 에너지^reset;: ^green;+15%^reset;
+^darkgray;에너지 재생: -^reset;
+^darkgray;공격 배율: -^reset;
+^darkgray;방어력: -^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^green;+10%^reset;
+^white;전기 저항^reset;: ^green;+10%^reset;
+^white;독 저항^reset;: ^green;+10%^reset;
+^white;냉기 저항^reset;: ^green;+10%^reset;
+^white;물리 저항^reset;: ^red;-10%^reset;
+    ^#00A9FF;면역^reset;: ^green;겁먹음
+    ^#00A9FF;종족 특성^reset;: -
+^white;이동 속도^reset;: ^green;+15%^reset;"
+37052	얼라이언스 데이터 서버로 가득 찬 선반.
+37053	트링키언 데이터 서버로 가득 찬 선반.
+37054	옷을 걸어 두는 선반. 환기용이든 보관용이든 다 괜찮다.
+37055	수건을 걸어 두는 선반.
+37056	검을 보관하는 선반.
+37057	루예의 멋진 플라즈마 도끼를 보관하는 선반.
+37058	블래스트 소총을 보관하는 선반.
+37059	화기를 보관하는 선반.
+37060	권총을 보관하는 선반.
+37062	두루마리를 보관하는 선반.
+37063	고폭 미사일로 가득 찬 선반.
+37064	고폭 로켓으로 가득 찬 선반.
+37065	흑요석 메이스로 가득 찬 선반.
+37066	흑요석 레이피어로 가득 찬 선반.
+37068	배스천 에너지 실드가 걸린 선반.
+37069	코밋 권총이 걸린 선반.
+37070	다이어하운드 미사일 발사기가 걸린 선반.
+37071	폭스하운드 돌격소총이 걸린 선반.
+37072	MA-1A '마이아' 돌격소총이 걸린 선반.
+37073	랩터 중돌격소총이 걸린 선반.
+37074	레이백 54형 산탄총이 걸린 선반.
+37075	셰터러 산탄총이 걸린 선반.
+37076	셸본 산탄총이 걸린 선반.
+37077	뼈 창이 걸린 선반.
+37079	등반 장비가 걸린 선반. 산을 오를 때 유용하다.
+37082	금속 창이 걸린 선반.
+37083	산탄총이 걸린 선반.
+37084	모나크 랜스 몇 자루가 걸린 선반.
+37086	캇파 배낭을 거는 선반.
+37089	선반.
+37093	드롭 스테이션 주변에서 흔히 사용되는 레이더 화면.
+37094	프리실라이트로 만든 빛나는 지팡이. 존 안에 있을 때 적에게 걸린 원소 상태이상을 강화한다.
+37097	BL4D3W0LF의 테마곡 전곡을 재생하는 라디오.
+37098	음악 채널에 맞춰진 라디오.
+37103	끊임없이 임계 상태에 이르는, 매우 뜨거운 방사성 동위원소.
+37104	"뼈를 부러뜨리도록 설계된 방사능 지팡이.
+^cyan;방사능 화상 부여^reset;"
+37105	화분에 심은 방사영양성 나무.
+37109	여러 고철을 모아 만든 레일.
+37111	무슨 일이 있어도 자매들을 지킬 무지개빛 알타 전사.
+37116	"속사형 냉기 로켓 발사기.
+^cyan;적을 둔화시킨다^reset;"
+37117	근접한 적을 갈기갈기 찢을 수 있는 속사형 산탄총. 임플로더 플라즈마 유탄을 발사할 수 있다.
+37118	모든 것을 구하려면 급격한 위상 전환이 필요할 것이다.
+37119	주로 조립식 콘크리트 패널로 이루어진, 빠르게 확장되고 있는 난민촌.
+37120	구강 성교를 흉내 내기 위한 랩터 주둥이.
+37121	L43 반자동 소총에서만 사용되는 희귀한 10발들이 7.92x57mm 탄창. 이 무기의 가련한 표적을 불태우도록 소이 부품으로 개조되었다. 생산 비용이 높아 노련한 저격수에게만 지급되는 독특한 탄약이다.
+37123	방어 능력이 뛰어난 희귀한 자수정 결정체. 꽤 예쁘기도 하다.
+37124	.30-06 탄을 사용하는 희귀하고 특이한 AK 플랫폼 소총. 사냥용으로 만들어졌다.
+37125	"아케인 툰드라에서만 발견되는 희귀한 꽃.
+ ^yellow;직접 치유 비활성화. 재사용 대기 시간이 끝나거나 직접 치유량의 180%(최대 2500)를 회복할 때까지 초당 최대 체력의 10%를 회복."
+37126	스타바운드 오케스트라 사운드트랙의 희귀한 초판본.
+37129	솔라리움과 다크라이트를 합성해 만든 희귀 소재.
+37130	영양이 풍부한 희귀한 고기. ^orange;종류: 조리된 고기^reset;
+37131	아주르 해에서 발견되는 희귀 금속. 아르카니안들이 보석과 무기 부품을 만드는 데 흔히 사용한다.
+37132	드라코 능선과 데이브로큰 생물군계에서 발견되는 희귀 금속으로, 불이나 용암 같은 대부분의 열원을 견딜 수 있다.
+37133	원하는 특별한 장난감을 살 수 있는 희귀 보상 티켓.
+37134	보통보다 훨씬 작은 희귀한 종류의 ^#9b2d3f;아르출린^reset;으로, 그냥 먹어도 완전히 안전하다. 맛있게 드세요!
+37135	이국적인 섬에서 나는 희귀한 돌. 캐비닛으로 만들어졌다.
+37136	설탕에 조린 베이컨으로 만든 희귀한 플로란 별미. ^orange;종류: 조리된 고기^reset;
+37137	희귀하고 자연적인, 꽃을 닮은 광물 형성체. 독특하고 광물답지 않은 특유의 냄새가 난다.
+37138	솔라트루스가 스타바운드를 위해 작곡한(반드시 사용되지는 않았지만) 음악이 담긴, 희귀한 절판 앨범.
+37139	식물로 뒤덮인, 좀처럼 사용되지 않는 소총.
+37151	잘 알려지지 않은 TV 프로그램의 사랑스러운 캐릭터를 본뜬 꽤 귀여운 플러시 인형.
+37157	꽤 평범한 지지대.
+37158	제법 기하학적인 의자.
+37159	제법 기하학적인 사이드 테이블.
+37160	제법 기하학적인 테이블.
+37162	하드라이트 가시가 달린 꽤 묵직한 피스키퍼 망치.
+37163	고통스러운 플라즈마 화상을 입힐 수 있는 꽤 묵직한 무기.
+37164	피스키퍼 엔지니어들이 사용하는 꽤 묵직한 렌치. 위급할 때 유용하다.
+37166	"꽤 큰 화염 무기.
+^yellow;화상 부여^reset;"
+37187	단단한 돌로 만들어져 다소 불편한 침대.
+37191	꽤나 운이 없는 광신도.
+37193	다소 허약한 메카 본체지만, 전투에서 그럭저럭 제 몫을 해낸다.
+37197	마른 나뭇가지 위에 서서 주변을 살피는 까마귀.
+37198	날것의 빅 퍼퍼. 이 생선이 들어간 요리를 제대로 손질하지 않으면 치명적일 수 있다.
+37199	출처가 의심스러운 날고기 덩어리. 익혀 먹으면 더 먹을 만할 것이다.
+37200	그림자 데몬의 날고기 덩어리. 보기에... 역겹다.
+37201	그림자 데몬의 날고기 덩어리. 보기에... 역겹다. ^red;종류: 날고기^reset;
+37202	이상하고 힘줄이 많은 외계 날고기 덩어리. 익혀 먹는 게 나을지도 모른다. ^red;종류: 날고기^reset;
+37203	날 촉수. 익히면 더 먹을 만할지도... ^red;종류: 날고기^reset;
+37205	면도날처럼 날카로운 몬스터의 발톱.
+37206	엄청나게 강력한 에너지원으로 재활용된 핵폭탄.
+37207	덴드라리움에 부착된 읽어보기 안내문. 인쇄해서 코덱스에 저장할 수 있다. ^gray;(초기 농사 도구 제작법 해금)^reset;
+37208	키카드 리더기.
+37210	진짜 터프한 놈을 위한 진짜 터프한 검.
+37212	진짜 경기장을 가득 채울 만한 곡.
+37215	현실을 의심하게 만드는 맛. 고기일까? 과일일까? 자전거일까? 셋 다 맞다.
+37217	극한의 추위가 있는 지역에서 발견되는 정말 차가운 금속.
+37218	정말이지 엄청나게 큰 총. 앞을 가로막는 누구든 종잇장처럼 갈기갈기 찢어버릴 것이다.
+37219	정말이지 엄청나게 빠른 기관단총. 한 발에 총알 두 개가 나가는 것처럼 느껴질지도 모른다.
+37222	예쁜 액자에 담긴 정말 근사한 거울. 이건 조개껍데기와 산호로 장식되어 있다.
+37223	예쁜 액자에 담긴 정말 근사한 거울. 이건 불가사리와 산호로 장식되어 있다.
+37231	적당한 크기의 천사 서적 더미!
+37235	미니크녹 이전 시대 기관에 관한 어느 반체제 역사학자의 논문.
+37236	모든 ^green;별의 광신도들^reset;을 위한 최신 신문.
+37238	마기사이트 결정을 발사해 함선에 에너지를 공급하는 용기지만-고장 났다.
+37239	마기사이트 결정을 발사해 함선에 에너지를 공급하는 용기.
+37247	글리치 요리 레시피.
+37248	노바키드 요리 레시피.
+37249	인간 요리 레시피.
+37250	에이펙스 요리 레시피.
+37251	아비안 요리 레시피.
+37252	플로란 요리 레시피.
+37253	하이로틀 요리 레시피.
+37256	^#8020f0;이온^reset; 에너지와 소나 냉기를 결합해 초전류 흐름으로 만들 수 있었던 신비로운 ^#ffa8e8;스타더스트^reset; 장치의 복제품.
+37261	행성 보호국의 모병 포스터.
+37262	직사각형 천장등.
+37264	수정 마감의 직사각형 왕실 캐비닛.
+37265	직사각형 테이블 램프.
+37267	러스틱한 느낌을 원할 때 어울리는, 재활용된 테이블.
+37268	재활용 쓰레기통. 쓰레기통 같지만 환경친화적이다.
+37269	붉은 아비안 홀로그램 댄서
+37270	붉은 하이로틀 홀로그램 댄서.
+37271	빨간색과 검은색이 섞인 벽 선반.
+37272	인간들이 즐겨 먹는, 붉고 지독하게 매운 고추. 몸을 아주 뜨겁게 달궈준다.
+37273	레테이아 사무실에서 사용되는 빨간색과 흰색이 섞인 바닥재.
+37274	빨간색과 흰색이 섞인 무균 의자.
+37275	빨간색과 흰색이 섞인 무균 소파.
+37276	빨간색과 흰색이 섞인 무균 테이블.
+37277	누미 플러시 인형을 파는 빨간색과 흰색이 섞인 자판기.
+37278	간식을 파는 빨간색과 흰색이 섞인 자판기.
+37281	엔지니어링 공간을 밝히는 붉은 천장등.
+37282	위험물이 담긴 빨간 상자. 무슨 화물이냐고? 누가 알겠는가.
+37283	날카로운 조각으로 부서지는 붉은 결정. 저급한 형태의 아볼라이트로 추정된다.
+37284	피의 암살자들이 사용하는 붉은 단검.
+37285	붉은 화염 물약.
+37286	붉은 신호탄.
+37288	붉은 바닥 조명.
+37289	붉은 꿀단지! 뛰어난 치유 능력을 지녔다.
+37290	물을 끓이는 빨간 주전자.
+37293	"활력을 북돋는 붉은 물약.
+60초 동안 ^green;체력을 소폭 재생시키고 최대 체력을 20% 증가시킨다^reset;.^reset;"

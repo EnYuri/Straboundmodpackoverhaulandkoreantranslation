@@ -1,0 +1,891 @@
+# high-priority remaining: 41822, low-priority remaining: 32031
+65414	[1x longcontentpages]	FrackinUniverse adds a great number of additional status effects, environmental hazards and environmental interactions. These can be both detrimental or beneficial depending on circumstances. This short guide should help to sort them out for you. Click next page to continue.
+
+
+   ^blue;------------------------^reset;
+   ^yellow;Resistances^reset;:
+   ^blue;------------------------^reset;
+
+   Your resistance to effects is a pretty big deal. Bear in mind that the ^cyan;higher your value^reset; in a resistance type, the ^cyan;less you are affected by various debuffs as well as damage of that type^reset;. ^red;Weakness^reset; plays a factor too.
+
+   ^orange;Example^reset; :
+
+   A Floran has ^red;-50% Fire Resistance^reset;. He will take ^red;50% more damage from fire^reset; and will need an ^orange;additional 50% resistance^reset; in order to negate the penalty. That means that if a biome has a 40% resistance requirement for immunity to its effects he will ^orange;actually need 90%^reset;.
+
+   On the other hand, should your race have a ^cyan;bonus against elements^reset; you will need ^orange;less resistance^reset; than the normal amount. A race with ^green;+30% to Fire Resistance^reset; would need ^green;30% less resistance to fire effects in order to gain immunity^reset;. This allows you to have native immunity to minor effects such as desert heat or minor cold.
+
+^cyan;All resistances stack^reset;.
+
+
+   ^blue;-----------------------------------^reset;
+
+   As a general rule, assume resistance for biome types works as such:
+
+   ^green;20%^reset; (Mild) / ^yellow;40%^reset; (Moderate) / ^orange;60%^reset; (Extreme) / ^red;80%^reset; (Lethal)
+
+   Note that severe storms and other factors can influence the potency of a biomes effect, so on occasion you will have increased requirements while the event transpires.
+
+   Enemies can ^yellow;also have resistance strengths and weaknesses^reset;. Some are utterly immune to particular elements but easily felled by another, so be prepared to experiment.
+
+
+
+   ^blue;-----------------------------------^reset;
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Weather^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Various types of weather exist that can cause you harm. All can be resisted with a relevant protection type. Electrical storms are blocked by electric resistance, poison gas by poison, and so on. Some are less obvious however, such as Aether sickness, which requires specialized immunity from armor or augments.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Tile Breaking^reset;
+   ^#555555;-----------------------------------^reset;
+
+   If you're falling a bit too fast, some tiles will be unable to bear the strain of your weight. Ice, glass, slime, mud and other materials can break on impact. So, watch your step and take care.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Tile Effects^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Some tiles give buffs or debuffs when stepped on. Many of these will not give indicators, but will affect your movement. Snow, mud, jungle dirt and clay are some examples of this in action. Asphalt increases your ground speed, which is useful in bases. Experiment, and you might find some really useful stuff.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Temperature^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Cold, Heat and Radiation are things from ordinary Starbound, true. But in FU they play a different role. You won't find many Immunity effects on EPP packs. Instead, you'll primarily be using ^cyan;resistances^reset; obtained from them or augments. The higher your resistance in an element, the less it will bother you (or be blocked completely). Resistances stack.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Desert Heat^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Deserts are typically dry and non-humid, and their heat will slowly sap your health and food. From noon till sundown, it will be at its worst. Nights are relatively harmless and cool. Underground is colder. You can resist Deserts with Fire Resistance.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Jungle Heat^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Much like deserts, the heat of a Jungle will gradually drain your health and food, and is less severe at night. Unlike Desert Heat, it will take Physical resistance to counter this effect.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Radiation^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Radiation can be rather hazardous to the unprepared. This nasty effect will drain your health and energy rapidly (your max health/energy, not your current amount). If you reach 0 max health, you will die without warning...so do keep an eye on yourself. You will also starve faster. Wind will make things worse for you. Resistance requires Radioactive Resistance.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Sulphuric^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Sulphuric effects can be nasty, rapidly eating your armor and then doing health damage. Worse, on sulphuric worlds you have storms to contend with that make this effect even more dangerous, acid rain and pools of caustic acid! To resist this effect you'll need ^orange;Physical resistance^reset; or an ^orange;acid immunity^reset; effect.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Proto-Poison^reset;
+   ^#555555;-----------------------------------^reset;
+
+   This nasty effect is a threat on Proto Worlds. It will slowly sap your maximum health and *will* eventually kill you. Furthermore, it will reduce your critChance and apply damage over time. Seek out ^orange;proto-poison protection^reset; from various gears in your lab stations, ^orange;poison resistance^reset;.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Insanity^reset;
+   ^#555555;-----------------------------------^reset;
+
+   A constant degradation of your mental state, insanity saps your ability to protect yourself over a sustained period by draining your Protection. Additionally, it gives a mild bit of damage per tick. Your brain will become muddled and you will hallucinate, and go hungry faster. Augments and armor exist to combat this nasty effect, or you could have decent resistance to ^orange;both Shadow and Cosmic^reset; and you'll be okay.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Pressure^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Perhaps the deadliest of all the status effects, extreme pressure will ^red;definitely kill you in seconds^reset; if you do not have protection. Thankfully, it is found in few places (primarily on Gas Ball biomes). ^orange;Do not risk this environment effect without a protective suit^reset;. You *will* die.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Poison^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Fairly self explanatory. You don't want to be poisoned, but some are worse than others. You've got basic poisoned, mercury poison (which is especially nasty), contaminated water, food poisoning and darkwater poison to name a few. ^orange;Poisoned immunity or resistance^reset; will do the trick in avoiding this particular set of hazards. Potent poisons require higher amounts of resistance.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Pus^reset;
+   ^#555555;-----------------------------------^reset;
+
+   This fluid is absolutely repulsive, and even having the stuff on you causes retching and nausea. To traverse it, you will need some sort of ^orange;physical protection^reset;. This acidic bile is not your friend. I recommend against ingesting it.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Black Tar^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Black tar slows you down ^red;a lot^reset; and makes jumping a decent height nearly impossible. It hampers, but does not directly cause damage. You can block it with various armors or produce.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Gas^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Gas can be both positive (Helium 3) or negative (Caliginous Gas, Hydrogen etc) to immerse yourself in. Blocking gas is generally straightforward...^orange;wear something that protects from gas^reset;. However, Some are more specialized. ^orange;Caliginous Gas requires Shadow Resistance^reset; and ^orange;Poison Gas is non-functional with high poison resistance^reset;.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Organic Soup^reset;
+   ^#555555;-----------------------------------^reset;
+
+   One of the few effects that is actually something you *want*. Organic soup will increase your health total as well as remove the effects of hunger (and even fill you up!). Take a bath in it when you can!
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Bio Ooze^reset;
+   ^#555555;-----------------------------------^reset;
+
+   This fluid will stick to you, make you ill and affect your movement and survival chances while active. Wearing protection is recommended. Most common on Proto Worlds and a few other select biomes. Can be ^orange;blocked or mitigated with Poison Resistance or Immunity^reset;.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Liquid Nitrogen^reset;
+   ^#555555;-----------------------------------^reset;
+
+   I hear its a bit cold, so stepping in this might just be a crappy idea for fun times. However, you can make it a joyously fun event by simply wearing adequate ^orange;Ice Resistance^reset;.
+
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Darkness^reset;
+   ^#555555;-----------------------------------^reset;
+
+   There is darkness capable of permeating your vision centers and turning the world around you into a lightless expanse. Be wary of these effects. Thankfully, it is most common in places that are already dark.
+
+
+   ^blue;------------------------^reset;
+
+   Note that there are many other effects you can be affected by in your exploration of the universe. Not all of them can be resisted, and some might be resisted by surprising things. Just stay aware...and stay safe.
+
+^blue;--------------------------------------------------^reset;
+^yellow;The Frackin Wiki
+^blue;--------------------------------------------------^reset;
+If you need the help of a Wiki, use our ^cyan;official wiki^reset; here:
+^green;frackinuniverse.miraheze.org^reset;
+
+^red;Do not^reset; use the Fandom wiki. It is horribly outdated.
+65415	[1x longcontentpages]	FrackinUniverse adds a large amount of armors (and foods) and enhances some older ones, allowing for a greater variety of playstyles. These can be very useful through gameplay and provide exceptionally useful benefits!
+
+^yellow;Set Bonus Inheritance^reset;: As an important note, armors that are used to craft other armors can still be used to complete armor set bonuses for sets that were used in the crafting chain, so partially upgrading your set is still viable.
+
+^orange;Stats^reset; : Vanilla players may notice there are more than they are used to, and even the ones they are used to have different ranges. FU presents a wider variety of armor classes to spice up your play, and does the same with food.
+
+If you are more interested in damage, pick up Power Armor or Hyper Power Armor to trade defensive stats for offensive ones. Alternatively, pick up Tank or Hyper Tank sets to outlast your enemy. They come in melee OR ranged! Fighting not quite your thing? Pick up an Exploration oriented set, and be at home in your environment! You're guaranteed to locate a set that suits your playstyle somewhere out there!
+
+^orange;Resistances^reset; : Many armors in FU come with inherent resistances. Many biome weather effects will simply stop affecting you once you hit an appropriate amount, and various enemy attacks will do less damage. Nifty, right? It gets better; upgrade your armor, and those resistances will increase!
+
+^orange;Bonuses^reset; : Most are increases to your stats, plenty are conditional.
+Any that say ^green;+value^reset; are typically additive increases. It can be a little confusing, however. As example: if it gives +^green;3^reset;% Crit Chance it increases your crit chance by a flat 3%, but if it says +^green;3^reset;% Energy Regen, that's 3% of your base. The easiest way to remember is to ask yourself...does it have a base of 0? If so, it likely is like Crit Chance! If a bonus says x^green;1.3^reset;, or ^green;More^reset;, that's a multiplier on the value you currently have. Have 1000% Damage somehow? 100% More (or 2x) would make it 2000%! Small note: Regen is usually per second.
+
+Of course, some bonuses have hidden components we couldn't easily include, for tooltip space.
+ Additionally, there are some other phrase uses to note. If a set bonus states that it grants immunity to ^green;ALL^reset; of a related effect, that typically means all biome weather ^orange;as well as^reset; specific status effects related to that element. For heat, that includes burning and even lava! For radiation, that includes rad-burn.
+As a small side-note, some terms or symbols are used loosely. If you see a bonus with x/y, that means the bonuses are different based on how their conditions are met. For weapons, this means how many of that type. If you see something like (Machine) Pistols, that means the bonus applies to Machine Pistols OR Pistols. This is typically done for tooltip space.
+
+^cyan;Mining Sets^reset; :
+ Mining laser sets grant a lot more mining laser damage...but that bonus is reduced significantly if you are pairing them with something else. Using a mining laser with a pistol, as example: 2x Mining Laser Damage becomes 1.25x.
+^orange;Colors^reset;: Colors are important in identifying and understanding bonuses. To start with, set bonuses are identified by a ^yellow;⟦E024⟧^reset;, while a ^green;⟦E024⟧^reset; is only visible in crafting interfaces to display resistances. If a bonus stat is ^green;GREEN^reset;, that means it is a good thing. ^red;RED^reset; means it is a bad thing. ^cyan;Cyan^reset; is for bonuses that are binary. They typically do not stack with similar effects. This will be especially apparent with various foods...so choose carefully. It is worth noticing that there is ONE exception to the rules regarding colors: Glow. If you see Glow in a color, that is usually the color of the glow effect.
+
+^orange;Special Bonuses^reset; : Some sets have special bonuses that don't really display much information due to lack of space, an unfortunate limitation of the game. Here, some bonuses will be explained.
+
+^cyan;Adaptive Armor^reset;: Multiplies the wearer's total defense based on current health percentage, scaling between the left value at 20% health and the right value at 100% health.
+
+^cyan;Auto-Medic^reset;: More complicated than ordinary regeneration, this effect will restore more health per second at the cost of an equal percentage of energy. It will also decrease energy regen and increase energy regen lock-out multiplicatively at 2x the heal percent.
+
+^cyan;Thorns^reset;: a nova of thorns when hit, ^cyan;Fire Burst^reset; makes a nova of fire instead.
+
+^cyan;Summons Minions^reset;: summons short-lived allies to fight alongside you or distract enemies. These minions scale based on the lowest armor's tier, so upgrading it is essential! Upgrade ALL of the pieces.
+
+^cyan;Life/Energy Shell^reset;: Gain damage absorption (shell) which scales based on a resource (health, energy) to protect your health, comes with a matching overhead bar to indicate its state. Regenerates quickly if you haven't taken damage recently. ^cyan;Shell Immunities^reset; are granted only while the shell holds. The numbers on the effect's label indicate the conversion rate relative to the resource's stats. In order: capacity, regeneration rate, and the delay upon taking damage before it begins regenerating.
+
+^cyan;Life Shell^reset; specific: Regeneration rate is a direct percentage of health per second, lockout is in specified seconds.
+
+^cyan;Energy Shell^reset; specific: Regeneration rate is a percentage of the energy regeneration stat, base vanilla regeneration is 58.5% per second. Special note due to balance: Minimum lockout time of 0.5 seconds, and a maximum regen rate of 50% per second.
+
+^cyan;Gravity Normalization^reset;: Personal gravity too low? Up it goes. Too high? Down instead. Exception: Zero-gravity.
+
+^cyan;Vital Power^reset; and ^cyan;Juggernaut^reset;: these effects are set bonus exclusive, and quite powerful; they grant one stat based on a percent of another. Vital power grants power as life, Juggernaut grants life as power.
+
+^cyan;Undying Resolve^reset;: increases Protection as your life gets lower, up to the stated amount, while ^cyan;Immortal Resolve^reset; grants HP Regen instead. If a set grants either, it will grant ^cyan;Immortal Resolve^reset; to your pet.
+
+^cyan;Dark Commander^reset;/^cyan;Beast Master^reset;: Increases Damage, Protection, HP and Speed of your pets (both) and crew (Dark Commander) by the listed percent, increases their jump ability by half of that, and regenerates HP at a sixth of that amount per second.
+
+^cyan;Capturenaut^reset;: Increases pet count by 1, plus an additional 1 per 2 tiers (up to +2) of the lowest equipped set piece. Grants an additional +1 if using alongside the back item. This means a fully upgraded set will allow up to 5 additional pets!
+
+^red;Wretchel Toxicity^reset;: Ingesting Wretchel reduces core stats and healing received, and drains health over time. These effects increase in severity the more you consume in a short time frame, as well as while your health is critically low. It will ^red;KILL^reset; you, if you are careless.
+
+^cyan;Charisma^reset;: Your ability to bargain with Traders at space stations. The higher your charisma, the better the deal (and fatter your bank balance!)
+
+
+
+^cyan;Pet/Crew Stat Inheritance^reset;:
+Overall scaling is as follows: HP, directly from your character, rather than just equipped armor. Protection: applied as a multiplier to HP via a specific formula. Damage: directly from character sheet. Health Regen: Inherits as a flat amount, except in special cases (^cyan;Immortal Resolve^reset;, effects not covered by FU, etc.). If you have 100 health and 10% HP Regen, it will grant your pet 10 HP per second. If a stat isn't here, a pet most likely does not inherit it.
+^yellow;Special notes^reset;: Be mindful when taking powerful buffs like ^cyan;Glass Cannon^reset;, as it will reduce their health noticeably.
+65627	[1x children]	From the smoFrom the smoke, the Huslender body.nter emerged, blood spattered althe Hunter emerged, bloong her slender body. ^#ffaafa;No. No. This isn't right. Something isSomething is wrong. Don't go, Soliste. DonNo. No.'t go.^reset;
+
+^#75ff75;You can't bring back the dead. Heh... Or so we thought, but that was clearly incorrect: Necromancer, he says. Uncanny. But Egoen, if such a feat is possible, then please, BRING HER BACK.
+
+I see. You can't. You can't bring her back. Egoen, what happened down there? Why can you not remember? Why didn't you protect them? Why?
+
+I tend to her garden now. It pains me to do so, seeing the flowers bloom, a reminder of who she was. But if she were to come back, I'd want her to have something to return to. Her garden. Her teammates. Me. Perhaps one day.
+
+Egoen always says the same thing when asked: ^#6d577c;"Her spirit, soul, tether, and so on, does not exist. There is no possibility to ressurect her as I did Zia, for there is no intersection between that plane and ours that points to her. There is a fundamental truth that I am unable to comprehend, but when enough research is developed, and enough time has come to pass, perhaps then."
+
+^#75ff75;All I can do is laugh now. Laugh at the absurdity. Laugh at the pointlessess of it all. Heh, to think my laughter would be strained and hollow: as if I never was a Fae at all.
+65777	[1x description]	Fully automatic this time.
+65778	[1x description]	Fully filling her will fulfill a purpose.
+65779	[1x description]	Fully grown Mooshi will produce ^orange;Milk^reset; every so often.
+65780	[1x shortdescription]	Fume Balloon
+65781	[1x shortdescription]	Fumo Ciaphas Cain
+65782	[1x shortdescription]	Fumo Cirno
+65783	[1x shortdescription]	Fumo Cirno(Hero Of Ice Fairy ver.)
+65784	[1x shortdescription]	Fumo Commander
+65785	[1x shortdescription]	Fumo Crewman
+65786	[1x shortdescription]	Fumo Momiji(Shock Trooper ver.)
+65787	[1x shortdescription]	Fumo Nitori
+65788	[1x shortdescription]	Fumo Nitori(N.I.C Founder ver.)
+65789	[1x shortdescription]	Fumo Yamashiro (Lady Yamashiro ver.)
+65790	[1x shortdescription]	Fun Bed
+65791	[1x -]	Fun Dreadwing fact: Dreadwing's early UFO design did not allow him to destroy terrain, thus leaving him vulnerable to adventurers who hid themselves below ground.
+65792	[1x description]	Fun Fact, Avali are less than a meter tall. So what gives? are the rest of those Avali using some growth tech to become larger? are they ashamed of their true size? either way you know you're smol, and you're proud of it.
+    ^#00A9FF;Attributes^reset;
+^white;Max Health^reset;: ^red;-5%^reset;
+^white;Max Energy^reset;: ^green;+10%^reset;
+^white;Energy Regen^reset;: ^green;+25%^reset;
+^darkgray;Attack Multiplier: -^reset;
+^white;Defense^reset;: ^red;-5%^reset;
+    ^#00A9FF;Resistances^reset;
+^white;Fire Resistance^reset;: ^red;-40%^reset;
+^darkgray;Electric Resistance: -^reset;
+^darkgray;Poison Resistance: -^reset;
+^white;Ice Resistance^reset;: ^green;+40%^reset;
+^darkgray;Physical Resistance: -^reset;
+    ^#00A9FF;Immunities^reset;: ^green;Frost
+    ^#00A9FF;Racial Traits^reset;: -
+^white;Fall Damage^reset;: ^green;-15%^reset;
+65793	[1x shortdescription]	Fun Juice
+65796	[1x default]	Fun stuff to buy!
+65798	[1x description]	Functions as a central unit providing a recognizable of consciousness for humans.
+65799	[1x shortdescription]	Funerary Offerings
+65800	[1x shortdescription]	Fungal Door
+65801	[1x shortdescription]	Fungal Grown Pod
+65802	[1x shortdescription]	Fungal Gun
+65803	[1x shortdescription]	Fungal Hatch
+65804	[1x shortdescription]	Fungal Laboratory Sign
+65805	[1x shortdescription]	Fungal Lord Plushie
+65806	[1x shortdescription]	Fungal Plush
+65807	[1x shortdescription]	Fungal Roots
+65808	[1x shortdescription]	Fungal Sample
+65809	[1x shortdescription]	Fungal Spiked Pod
+65810	[1x shortdescription]	Fungal Stem
+65811	[1x shortdescription]	Fungal Tangled Pod
+65812	[1x shortdescription]	Fungal Toxin
+65813	[1x fungalden]	Fungal den
+65817	[1x shortdescription]	Fungus Stalk
+65818	[1x shortdescription]	Fungus Stim Pack
+65819	[1x description]	Fungus, somehow turned into a weapon.
+^cyan;Floran^reset;
+65820	[1x shortdescription]	Funny Present
+65827	[1x text]	Funny, thinking you can try to hide from US. This is OUR domain. We see everything, including you.
+Ah, what a shame how you hide behind that screen..
+65829	[1x akkimari]	Funny-looking alien makesss Floran laugh.
+65831	[1x chargentextlabels]	Fur Color & Ear Style
+65833	[1x default]	Fur is very useful up in these high altitudes, perfect for me.
+65834	[1x chargentextlabels]	Fur style
+65836	[1x neki]	Furbutt hoom! Enjoy house choka smashroom?
+65838	[1x -]	Furious about how the Ruin is corrupting Angels
+65839	[1x description]	Furious blade of the Fiery Keeper.
+65840	[1x fenerox]	Furious. Die, you filthy Fenerox!
+65841	[1x nostos]	Furious. I shall slay you, outcast!
+65842	[1x neki]	Furious. Is EVERYONE a social fiend around here?!
+65843	[1x precursor]	Furious. This is not YOUR galaxy to take!
+65846	[1x shortdescription]	Furniture Poster
+65847	[1x shortdescription]	Furniture Shop Counter
+65854	[1x description]	Furry RP gone feral
+
+    ^orange;Diet^reset;: Omnivore
+
+    ^orange;Perks^reset;:
+      Fall Damage x^green;0.5^reset;
+      ^green;Resist^reset;: +^cyan;30^reset;% Poison, +^cyan;10^reset;% Radioactive, +^cyan;4^reset;% Electric, +^cyan;3^reset;% Cosmic
+      +^green;1^reset;% Health Regen (Constant)
+      Tech: ^green;Sticky ball, Wall Grab^reset;
+      ^cyan;Immune^reset;: Slime Bounce, Slime Stick, Poison, Webs
+
+    ^orange;Environment^reset;:
+      Gelatinous, Bog and Swamp biomes: Health x^green;1.25^reset; and +^green;15^reset;% Speed
+      Cold biomes: Health x^red;0.75^reset;
+      Can breathe in liquid slime
+
+    ^orange;Weapons^reset;:
+      Whip Mastery:  x^green;15^reset;%
+      Bioweapon: Damage x^green;1.15^reset;, +^green;20^reset;%^reset; Crit Damage
+
+    ^red;Weaknesses^reset;:
+      ^red;Resist^reset;: -^red;20^reset;% Fire & Ice
+      +^red;25^reset;% Hunger Drain
+65855	[1x contentpages]	Further examination of the robot has allowed me to tear out the best bits for a headstart on my new machine - Project Shockhopper, as I'm now calling it. The old bot features remains of rocket launchers, battle claws, and a flamethrower.
+
+The claws will have to go- I'm thinking a hydraulic fist instead. With a few fixes, the flamethrower could be a viable weapon. I also have an old electric coil lying about in my lab, which I converted into an offensive feature (I'm clever like that).
+65856	[1x description]	Further improvement of MK2, now more suited for hunters!
+65857	[1x description]	Further improvement of the AK-12, giving it better furniture.
+65858	[1x description]	Further improvement of the AK-15, giving it better furniture.
+65859	[1x description]	Further improvement of the AK-19, giving it better furniture.
+65860	[1x contentpages]	Further report:  
+A ^#b0e0fc;Neiteru^reset; research group got involved, and proceeded to collect samples for their recent ^#8080f0;"Neviona"^reset; project.
+
+They have also provided help in finding proper samples for our cause, including capturing a live anomaly using their experimental equipment.
+
+The sample should be held under the High Containment Protocol, according to their documentation. This should significantly boost our research.
+65861	[1x contentpages]	Further report:  
+An energy device found during scouting by an ^#f08f20;Arco^reset; scout, codename ^#202080;"Ion Fortress"^reset;, as well as a deprecated ^#2080f0;plasma chakram^reset;.  
+All findings went to the coordination center.  
+No anomalies detected during the scouting, as well as no ^#8080f0;viona^reset; energy this time.
+
+Last time an enchanted item was found, along with a small-size anomaly, which could be a potential threat to the core's stability.
+65862	[1x description]	Further upgrade of the AK family, this is what stands between the AK-74M and the AK-12.
+65863	[1x description]	Further upgrade of the AK-400 platform, this rifle and it's rechambers have improved accuracy and higher firerate.
+65864	[1x description]	Further upgrades over previous designs, designed for military groups.
+^red;Ammo: 5.45x39.^reset;
+65865	[1x description]	Further upgrades over previous designs, designed for military groups.
+^red;Ammo: 5.56x45 NATO.^reset;
+65866	[1x description]	Further upgrades over previous designs, designed for military groups.
+^red;Ammo: 7.62x39.^reset;
+65868	[1x description]	Fury shall split the fabric of reality.
+65869	[1x caption]	Fuse Dyes
+65870	[1x description]	Fusing this chakram with ^#ffa8e8;stardust^reset; has revealed its true form - one of the lost staris relics, scattered accross io.
+65871	[1x shortdescription]	Fusion Cannon
+65875	[1x extrainfo]	Fusion Globes can combine with Fusion Shots to create a big explosion.
+65876	[1x shortdescription]	Fusion Reactor Core
+65878	[1x description]	Fusion of psi and tech in Year 2257 AD, equipped with high-performance psionic missile and railgun.
+65879	[1x shortdescription]	Fuzzy Sweater
+65881	[1x death]	Fwahaha! You are really impressive, Protector!
+65882	[1x default]	Fwahaha! Your resistance suprissses me, Protector.
+65883	[1x default]	Fwahaha... what have we here?
+65884	[1x intro]	Fwahaha... what have we here? A Protector, with the Matter Manipulator...
+65885	[1x default]	G'day, fella! You wanna see some miracles o' good ol' steampunk engineering? We've got a lot of it, trust me.
+65886	[1x shortdescription]	G-58 Dian 45rnd Smart-Link SMG Magazine
+65888	[1x description]	G.I. standard issue military helmet. This one is designed for a medic.
+65889	[1x longdescription]	G12 marking of the model refers to the general energy source capability (and size), compared to G2 (^#b0e0fc;alta energy cell^reset;) and G4 (^#b0e0fc;alta energy block^reset;).
+65891	[1x description]	G36's stupid little civilian brother. It doesn't even take the same mags, somehow...
+^green;AP rounds loaded.^reset;
+65892	[1x shortdescription]	G3A3 (NPC)
+65894	[1x longdescription]	G4 marking of the model refers to the general energy source capability (and size), compared to G2 (^#b0e0fc;alta energy cell^reset;) and G12 (^#b0e0fc;alta energy source^reset;).
+65895	[1x shortdescription]	G4mE_bReÄK3r
+65901	[1x shortdescription]	GD Helmet
+65902	[1x shortdescription]	GD Pants
+65903	[1x shortdescription]	GD Vest
+65904	[1x shortdescription]	GDI 'Orca' Attacker
+65905	[1x shortdescription]	GDI 'Orca' Transport
+65906	[1x shortdescription]	GDI 'Predator' Main Battle Tank
+65907	[1x description]	GDI 'Predator', an advance main battle tank with stunning 150mm railgun... fantastic.
+65908	[1x shortdescription]	GDI 'Vulture' Rail Carbine
+65909	[1x sendername]	GDI APC Pilot
+65910	[1x shortdescription]	GDI Emblem
+65911	[1x shortdescription]	GDI MGS
+65912	[1x shortdescription]	GDI Standard Launching Module
+65919	[1x shortdescription]	GESTALT Class Plush
+65920	[1x default]	GET BACK HERE,U RASCAL!!
+65922	[1x text]	GEWWH! My belly ...! 
+Are these... eggs in my belly?! 
+It's breeding with me ...?!
+65923	[1x shortdescription]	GFY Controller
+65924	[1x shortdescription]	GFY Platform
+65925	[1x default]	GG!! Dinner Time EVERYONE!!
+65926	[1x shortdescription]	GIAT FAMAS G2
+65929	[1x -]	GIC:E Moonrabit Wanderer
+65931	[1x shortdescription]	GMC Logo Sticker
+65932	[1x shortdescription]	GMC Soldier Plushie
+65933	[1x default]	GO AWAY!
+65935	[1x text]	GOBUH- 
+^gray;*SPURT* *SPURT* 
+^white;OGUH...
+65936	[1x shortdescription]	GOC NV4
+65937	[1x description]	GOOBLAH STACK!!
+65938	[1x shortdescription]	GRA 12.7mm Pistol
+65939	[1x shortdescription]	GRA Hecate III ^#a451c4;+^reset;
+65940	[1x shortdescription]	GS8 Scout
+65941	[1x shortdescription]	GS8 Tech Chip
+65942	[1x shortdescription]	GSR Pod ^#8020f0;⟦E024⟧⟦E024⟧⟦E024⟧^reset;
+65943	[1x description]	GSW stand for Generic Space Weapon,this combat shougun designed for Protectorate and COPSC extravehicular operater.
+  
+  Uses 18.50x70mm Shotgun Shells.
+65945	[1x shortdescription]	Gabbro Block
+65947	[1x shortdescription]	Gad'hur
+65948	[1x shortdescription]	Gad'hur Controller
+65950	[1x shortdescription]	Gaea Stone Bed
+65951	[1x shortdescription]	Gaea Stone Stool
+65952	[1x neki]	Gah!
+You're a Neki!
+65953	[1x neki]	Gah! A Neki!
+65954	[1x neki]	Gah! Didn't expect to see one of YOU here!
+65955	[1x default]	Gah! Fight not end well.
+65956	[1x fragmentedruin]	Gah! Get away from me!
+65957	[1x default]	Gah, Akki was just about to fight back.
+65958	[1x generic]	Gah, what you want?
+65959	[1x default]	Gah, you surprised me. Akki no prepared for fight!
+65960	[1x text]	Gain +50% Energy with Pistols, +30% Health with Daggers, +20% Speed with Whips, and +15% Physical Resistance with Fists or Claws.
+65961	[1x text]	Gain Pixels and Experience upon killing most Outlaws, Bandits, and Cultists, or upon capturing monsters via Dead Or Alive.
+65962	[1x description]	Gain ^green;Invulnerable for 3 second^reset; after drinking, but ^red;your Damage is decreased by 15%^reset; for 20 seconds.
+65963	[1x text]	Gain a short period of Low-Gravity upon jumping. Staying airborne triggers Health Regeneration.
+65964	[1x weapontext]	Gain access to Ally Stance, a Tech that functions primarily as a Stat-boost for your team that comes at a downside as well.
+65965	[1x weapontext]	Gain access to Anne and Marie, a pair of unique and powerful pistols that syngerize well together.
+65966	[1x weapontext]	Gain access to Assassinate, a Tech that enables quick movement to attack enemy weak points.
+65967	[1x weapontext]	Gain access to Atlas' Burden, a Tech that increases the offensive and defensive capabilities of you and nearby allies.
+65968	[1x weapontext]	Gain access to Attune, a Tech that provides an amplitude of elemental abilities.
+65969	[1x weapontext]	Gain access to Bombs Away, a Tech that provides the ability to shoot cannonballs in multiple directions.
+65970	[1x weapontext]	Gain access to Chrysantha, a Vine Whip that can root enemies in place.
+65971	[1x weapontext]	Gain access to Colonize, a Tech that allows you to place down a Colony Flag on any planet.
+65972	[1x weapontext]	Gain access to Crushing Meteor, a Hammer that can crush even obsidian beneath its hefty weight.
+65973	[1x weapontext]	Gain access to Desperado, a Tech that grants infinite Energy and ramps up power when used.
+65974	[1x weapontext]	Gain access to Eclipse, a Wand that spawns seeking shards of Nova Energy.
+65975	[1x weapontext]	Gain access to Einherjar, a Tech that allows you to grant invulnerability to a nearby ally.
+65976	[1x weapontext]	Gain access to Epimetheus, a one-handed Submachine Gun with average stats that provides defensive bonuses upon killing enemies.
+65977	[1x weapontext]	Gain access to Ex-Mechina, a One-Handed Rocket Launcher that leaves behind arc energy pulses.
+65978	[1x weapontext]	Gain access to Fear, a Bow that can warp light in order to hide from enemies.
+65979	[1x weapontext]	Gain access to Flash Step, a Tech that replaces jumping with unstable, directional teleportation.
+65980	[1x weapontext]	Gain access to For Us All, a demonic Scythe that can unleash unstable Demonic Energy.
+65981	[1x weapontext]	Gain access to Gungnir, a Spear that turns enemies into a healing ray of light.
+65982	[1x weapontext]	Gain access to Heartbeat Sensor, a Tech that highlights nearby hostiles, friendlies, and ores.
+65983	[1x weapontext]	Gain access to Heartstring, a Dagger that deals fatal damage when certain conditions are met.
+65984	[1x weapontext]	Gain access to Iaijutsu, a Tech that allows you to use Energy to quickly slash forwards.
+65985	[1x weapontext]	Gain access to Ideal Shot, a Tech that upgrades Marksman to greatly increase Power.
+65986	[1x weapontext]	Gain access to Immaculate Shield, a Tech that provides team support but requires a skillful defense.
+65987	[1x weapontext]	Gain access to Limit Break, a Tech that makes you unstoppable for a short period.
+65988	[1x weapontext]	Gain access to Lotus, a Sniper Rifle that can create clouds of deadly gas upon defeating enemies.
+65989	[1x weapontext]	Gain access to Luxuria, a One-handed War Fan with phenomenal speed and graceful combos.
+65990	[1x weapontext]	Gain access to Mida, a Bow that can be cloaked in various elements using Multitool.
+65991	[1x weapontext]	Gain access to Multitool, a Tech that enables a variety of functions, such as dodging, throwing elemental grenades, and enhancing Mida.
+65992	[1x weapontext]	Gain access to Nanobot Overcharge, a Tech that acts as a rocket pack and also repairs damaged vehicles.
+65993	[1x weapontext]	Gain access to Nautilus, a One-handed Tool that can be used to nullify all environmental damage as well as ease movement in all liquids.
+65994	[1x weapontext]	Gain access to Nova Step, a Tech that allows you to walk midir by creating platforms of Nova energy.
+65995	[1x weapontext]	Gain access to Nymph's Blessing, a Tech that grants improved aerial mobility and pacifies nearby weakened monsters.
+65996	[1x weapontext]	Gain access to Oathkeeper, a Broadsword with a crazy combo and the ability to fire Holy Energy.
+65997	[1x weapontext]	Gain access to Oathkeeper, a Broadsword with a lengthy combo and the ability to fire Holy Energy.
+65998	[1x weapontext]	Gain access to Orbital, a Staff that can summon and fire Primed Nova Crystals.
+65999	[1x weapontext]	Gain access to Outburst and Stormhowl, a Grenade Launcher and Shortsword pair that devastates enemies up close.
+66000	[1x weapontext]	Gain access to Phase Shift, a One-Handed Wand with phenomenal AoE damage against enemies and fantastic AoE ally support.
+66001	[1x weapontext]	Gain access to Quasar, a Tech that utilizes Demonic Energy for camouflage.
+66002	[1x weapontext]	Gain access to Reap, a Tech that allows you to instantly kill low health enemies or spawn a friendly monster.
+66003	[1x weapontext]	Gain access to Samurai Heart, a Katana that can be used to deftly counter enemies.
+66004	[1x weapontext]	Gain access to Sarin, a Dagger that releases a special chemical substance that can cause poisonous explosions.
+66005	[1x weapontext]	Gain access to Shrapnel Mine, a tech that places mines that can vary in effect depending on weapon loadout.
+66006	[1x weapontext]	Gain access to Skynet, a Tech that can spawn multiple friendly drones, or a heavy, automatic turret.
+66007	[1x weapontext]	Gain access to Swirling Petal, a Tech that allows for quick backwards movement and provides great crowd control via dazing gas.
+66008	[1x weapontext]	Gain access to Third Eye, a Grappling Hook with increased range and a built-in weak-spot detector.
+66009	[1x weapontext]	Gain access to Transformer Matrix, a Vehicle Spawner that can spawn various types of vehicles.
+66010	[1x weapontext]	Gain access to True Aegis, a Two-Handed Shield with Holy Powers. True Aegis can channel Holy Energy outwards, dealing constant damage and debuffing all enemies it hits.
+66011	[1x weapontext]	Gain access to the Leader's Rally, a flag that is able to send a wave of inspiration out to your comrades.
+66013	[1x shortdescription]	Galactic Lagoon
+66015	[1x shortdescription]	Galaxy Armchair
+66016	[1x shortdescription]	Galaxy Bathtub
+66018	[1x shortdescription]	Galaxy Broadsword
+66019	[1x shortdescription]	Galaxy Cabinet
+66020	[1x shortdescription]	Galaxy Ceiling Lamp
+66021	[1x shortdescription]	Galaxy Chair
+66022	[1x shortdescription]	Galaxy Coffee Table
+66023	[1x altname]	Galaxy Collapse
+66024	[1x shortdescription]	Galaxy Couch
+66025	[1x shortdescription]	Galaxy Desk
+66026	[1x shortdescription]	Galaxy Display
+66027	[1x shortdescription]	Galaxy Door
+66028	[1x shortdescription]	Galaxy Dresser
+66029	[1x shortdescription]	Galaxy Earth Portrait
+66030	[1x shortdescription]	Galaxy End Table
+66031	[1x shortdescription]	Galaxy Holo Aquarium
+66032	[1x shortdescription]	Galaxy Holo Plant
+66033	[1x shortdescription]	Galaxy Jupiter Portrait
+66034	[1x shortdescription]	Galaxy Night Stand
+66035	[1x shortdescription]	Galaxy Saturn Portrait
+66036	[1x shortdescription]	Galaxy Shower Cabin
+66037	[1x shortdescription]	Galaxy Sliding Door
+66038	[1x shortdescription]	Galaxy Sofa
+66039	[1x shortdescription]	Galaxy Spotlight
+66040	[1x shortdescription]	Galaxy Star String Light
+66041	[1x shortdescription]	Galaxy TV Stand
+66042	[1x shortdescription]	Galaxy Table
+66043	[1x shortdescription]	Galaxy Table Lamp
+66044	[1x shortdescription]	Galaxy Towel Rack
+66045	[1x shortdescription]	Galaxy Wall Cabinet
+66046	[1x shortdescription]	Galaxy Wall Shelf
+66047	[1x shortdescription]	Galaxy Wardrobe
+66048	[1x fenerox]	Galaxy is large. Kirhos say dangerous. Us believe.
+66049	[1x nebulac]	Galaxy-skin, do you worship the Cultivator? The stars did not make you - It did.
+66050	[1x nebulac]	Galaxy-skin? Huh...
+66051	[1x shortdescription]	Galbana Lilies
+66052	[1x shortdescription]	Galbana Lily Flower Pot
+66053	[1x shortdescription]	Galil ARM
+66054	[1x shortdescription]	Galil ARM .308
+66055	[1x description]	Galil ARM, but it shoots .308 Winchester. World's most powerful bottle opener.
+66056	[1x description]	Galleon, the overseer of the training room and its equipment.
+66057	[1x shortdescription]	Gallica Column Tile
+66058	[1x shortdescription]	Gallica Roofing Tile
+66059	[1x shortdescription]	Gallica Smooth Stone
+66060	[1x shortdescription]	Gallica Stone Pillar
+66062	[1x mechineki]	Galvanised. Take the artifact, and take me too.
+66063	[1x neki]	Galvanised. You can have the artifact outright, but only if I come along with it.
+66064	[1x shortdescription]	Galvasteel Bar
+66065	[1x shortdescription]	Galvasteel Node
+66066	[1x shortdescription]	Galvasteel Node Top
+66067	[1x shortdescription]	Galvasteel Ore
+66068	[1x shortdescription]	Game Boy Nyan Plushie
+66069	[1x shortdescription]	Game Console
+66071	[1x shortdescription]	Gamemaster Plushie
+66072	[1x shortdescription]	Games Console
+66074	[1x systemnames]	Gamma Koric
+66076	[1x shortdescription]	Gamma-ray Sentry
+66077	[1x default]	Ganking time!
+66078	[1x shortdescription]	Ganransu Plushie
+66079	[1x shortdescription]	Garage Door
+66080	[1x #### [[ stems]	Garden Ayaka Stem
+66081	[1x gardencorelayer]	Garden Core Layer
+66082	[1x shortdescription]	Garden Tree Wind Chimes
+66083	[1x shortdescription]	Garden Wind Chimes
+66084	[1x generic]	Garden berries are so sweet! Perfect for desserts or just snacking.
+66087	[1x shortdescription]	Garnet Wall Lamp
+66088	[1x shortdescription]	Garter Chakram
+66089	[1x shortdescription]	Gas Cans
+66090	[1x shortdescription]	Gas Giant Sticker
+66091	[1x weapontype]	Gas Launcher
+66092	[1x description]	Gaseous Aetheium Fuel,.
+66093	[1x description]	Gassy Planet
+66094	[1x shortdescription]	Gastrolounge Sign
+66095	[1x description]	Gate of Glimmlecus Tower, reinforced by arcane.
+66097	[1x ancientgateway]	Gate-like structure
+66098	[1x description]	Gather Farm EMC:
+<current> / <required>
+66099	[1x description]	Gather Hunt EMC:
+<current> / <required>
+66100	[1x description]	Gather Mine EMC:
+<current> / <required>
+66101	[1x description]	Gather Universal EMC:
+<current> / <required>
+66102	[1x shortdescription]	Gatling Battery
+66103	[1x shortdescription]	Gatling Gear
+66104	[1x shortdescription]	Gatling Pea
+66108	[1x shortdescription]	Gauss Machinegun
+66110	[1x shortdescription]	Gauss Pistol
+66112	[1x shortdescription]	Gauss Shotgun
+66113	[1x shortdescription]	Gauss Sniper Rifle
+66114	[1x shortdescription]	Gauss Turret
+66115	[1x shortdescription]	Gauss Upgrade Kit
+66116	[1x default]	Gave up Ranching for this life, best decision I ever did make. Besides, can't graze any Mooshi 'round here.
+66117	[1x shortdescription]	Gaze of Kluex
+66118	[1x shortdescription]	Gealah Ghea
+66124	[1x chatoptions]	Geez, how many rooms are there even? Do they, like, keep going forever?
+66125	[1x default]	Geez. Couldn't you have come dressed in a flashier outfit?
+66126	[1x default]	Geez. This is embarrassing...
+66127	[1x shortdescription]	Gel Banana
+66128	[1x description]	Gelatin flavored with Hylotl blood.
+66129	[1x shortdescription]	Gelbvieh Rifle
+66131	[1x chargentextlabels]	Gem colour
+66132	[1x description]	Gems are made of a gemstone at their core, with the rest of their physical form being a hard light projection. While they are effectively genderless, the great majority presents as female.
+    ^#00A9FF;Attributes^reset;
+^darkgray;Max Health: -^reset;
+^darkgray;Max Energy: -^reset;
+^white;Energy Regen^reset;: ^green;+25%^reset;
+^white;Attack Multiplier^reset;: ^green;+5%^reset;
+^white;Defense^reset;: ^red;-5%^reset;
+    ^#00A9FF;Resistances^reset;
+^darkgray;Fire Resistance: -^reset;
+^white;Electric Resistance^reset;: ^red;-50%^reset;
+^darkgray;Poison Resistance: -^reset;
+^white;Ice Resistance^reset;: ^red;-50%^reset;
+^white;Physical Resistance^reset;: ^red;-5%^reset;
+    ^#00A9FF;Immunities^reset;: ^green;Starving, Food Poisoning, Suffocation, Hungry
+    ^#00A9FF;Racial Traits^reset;: ^#AA72FF;Regen (Out-of-Combat)
+^white;Fall Damage^reset;: ^green;-100%^reset;, ^white;Hunger Rate^reset;: ^green;-100%^reset;
+66135	[1x shortdescription]	Genbu Mmanufacture Emblem
+66136	[1x description]	Genderless digitigrade cats with horns! Felicorns with swirly horns create their own magic, while those with curved horns recycle used magic.
+    ^#00A9FF;Attributes^reset;
+^white;Max Health^reset;: ^red;-10%^reset;
+^white;Max Energy^reset;: ^green;+10%^reset;
+^darkgray;Energy Regen: -^reset;
+^white;Attack Multiplier^reset;: ^green;+10%^reset;
+^darkgray;Defense: -^reset;
+    ^#00A9FF;Resistances^reset;
+^darkgray;Fire Resistance: -^reset;
+^darkgray;Electric Resistance: -^reset;
+^darkgray;Poison Resistance: -^reset;
+^white;Ice Resistance^reset;: ^green;+15%^reset;
+^darkgray;Physical Resistance: -^reset;
+    ^#00A9FF;Immunities^reset;: -
+    ^#00A9FF;Racial Traits^reset;: ^#AA72FF;Head Light
+^white;Fall Damage^reset;: ^green;-45%^reset;, ^white;Jump Height^reset;: ^green;+10%^reset;, ^white;Movement Speed^reset;: ^green;+5%^reset;
+66137	[1x shortdescription]	Gene Whip
+66139	[1x shortdescription]	General Anaesthetic
+66146	[1x contentpages]	General Multi-use Steelblade Type XI Submachine Gun, or GMS T9 SMG in short, is developed by ^red;[UNDISTINGUISHABLE]^reset; Ltd. only for the greatest trailblazer in the galaxy like you!
+66150	[1x description]	General adjustments and improvements to the rifle's perfomance in this generation.
+66151	[1x notes]	General all rounding gear.
+66152	[1x longdescription]	General antidote protecting against poisons. Altas have their own netrima (antidote) variants like Hevikai Netrima for specific poisonous conditions.
+66153	[1x default]	General asked us to join you here.
+66154	[1x chatoptions]	General has told me about you many times before, but not until I've seen you in person do I know you're worthy of your reputation.
+66155	[1x contentpages]	General list:
+^#BC9262;-Saturnian Furniture: ^#8f8f8f;Nearly anything found in a Saturnian village or crafted with a Furniture Summoning Table. Almost all ebony/obsidian furniture.
+^#BC9262;-Waspmim Furniture: ^#8f8f8f;Banners/posters that the Waspmim put in their villages.
+^#BC9262;-Combat Objects: ^#8f8f8f;Does not need to be Saturnian made. Weapon chests, weapon displays. weapon racks, shield/armor displays.
+66156	[1x chatoptions]	General trusts you, so I'll trust you too.
+66157	[1x children]	General:
+    Updated the Patron list to include all Patrons who have not been added yet.
+Weapons:
+    Grimoires:
+        Can no longer be equipped by every Class that can use two-handed weapons.
+        Thoron image now properly loops.
+        Judgement now properly does Holy damage instead of Demonic.
+        Grimoires no longer consume Energy on discharge if no spell was cast.
+        Having Intelligence at 20 now properly enables Grimoires with 50% power.
+Specializations:
+    Adept:
+        Revamped Phase Shift: While holding Primary Fire, cursor movement is tracked. Upon releasing Primary Fire, unleash a rift of energy that follows those movements, dealing more damage the longer it travels.
+        Revamped Passive: Nearby allies gain a temporary Speed Boost once Energy recharges. When Energy depletes, nearby enemies are pushed away.
+66158	[1x description]	Generally a short cape. Arguably a long cape for penguins. +^green;15^reset;% Shadow Resist.
+66159	[1x longdescription]	Generally used by scientific alta groups, its design is secondary to its function.
+66160	[1x longdescription]	Generally viona anomalies are things to be cautious of, but even an energy miazma can become a source of a good drink sometimes.
+66161	[1x caption]	Generate Blueprint
+66162	[1x shortdescription]	Generated Beam Baton
+66164	[1x shortdescription]	Generated Spike Orb Baton
+66165	[1x description]	Generates a glowing ball of light that harms nearby foes.
+66166	[1x description]	Generates a kinetic reversal field that reflects the ground! ^green;[F]^reset;
+66167	[1x description]	Generates a sky hook, for attaching to skyrails! ^green;[F]^reset;
+66168	[1x description]	Generates and fires 8 needles of evolight.
+66169	[1x description]	Generates periodic bursts of condensed burning energy using the enhanced energen, model "VerMi-6".
+66170	[1x description]	Generates powerful blasts of plasma with accelerated ions.
+Firemodes: burst, semiauto.
+66171	[1x description]	Generates syncronized Twin Impulses with different power.
+Press - launch a Twin Impulse;
+Hold - shotgun burst of Twin Impulses.
+66172	[1x tips]	Generating stories...
+66175	[1x shortdescription]	Generic Aquarium
+66176	[1x shortdescription]	Generic Bed
+66177	[1x shortdescription]	Generic Bookcase
+66178	[1x shortdescription]	Generic Chair
+66179	[1x shortdescription]	Generic Chandelier
+66180	[1x shortdescription]	Generic Chest
+66181	[1x shortdescription]	Generic Dildo
+66182	[1x shortdescription]	Generic Door
+66183	[1x shortdescription]	Generic Door (1x BG)
+66184	[1x shortdescription]	Generic Doors (2x BG)
+66185	[1x shortdescription]	Generic Fleshlight
+66186	[1x shortdescription]	Generic Holographic Drive
+66187	[1x shortdescription]	Generic Lamp
+66188	[1x shortdescription]	Generic Shiplocker
+66189	[1x shortdescription]	Generic Shipping Container
+66190	[1x shortdescription]	Generic Small Teleporter
+66191	[1x shortdescription]	Generic Storage Locker
+66192	[1x shortdescription]	Generic Support
+66193	[1x shortdescription]	Generic Teleporter
+66194	[1x shortdescription]	Generic bondage bed
+66196	[1x longdescription]	Generic carbonated soda drink common across alien cultures. Alta researchers study carbonation techniques, though they prefer their own energy-infused beverages.
+66197	[1x longdescription]	Generic plant fibres like these are the foundation of many alta textiles. Altas often gather them from various botanical environments.
+66199	[1x default]	Generous host. Excellent domicile. Feeling grateful. Gift is given!
+66200	[1x default]	Generous. I found some ores you might be interested in.
+66201	[1x default]	Generous. I got a few extra catches to share with you, if you want them. Fresh, from this morning!
+66202	[1x radien]	Generous. Would you like to try some of our food?
+66203	[1x neki]	Generous. You've been a good friend. Here, have a reward for your good deeds.
+66204	[1x shortdescription]	Genesis Ray
+66206	[1x description]	Genetically engineered by the Founders, the Vorta are graceful and loyal clone-servants to the Dominion. They regard the Founders as god-like beings, and serve as diplomats, scientists, and admirals in the Dominion society.
+    ^#00A9FF;Attributes^reset;
+^darkgray;Max Health: -^reset;
+^darkgray;Max Energy: -^reset;
+^white;Energy Regen^reset;: ^green;+15%^reset;
+^white;Attack Multiplier^reset;: ^red;-15%^reset;
+^darkgray;Defense: -^reset;
+    ^#00A9FF;Resistances^reset;
+^white;Fire Resistance^reset;: ^red;-15%^reset;
+^white;Electric Resistance^reset;: ^green;+5%^reset;
+^white;Poison Resistance^reset;: ^green;+50%^reset;
+^white;Ice Resistance^reset;: ^green;+5%^reset;
+^darkgray;Physical Resistance: -^reset;
+    ^#00A9FF;Immunities^reset;: ^green;Poisoned
+    ^#00A9FF;Racial Traits^reset;: -
+^white;Movement Speed^reset;: ^green;+15%^reset;
+66207	[1x shortdescription]	Gengar (F) Pokéball
+66208	[1x shortdescription]	Gengar (M) Pokéball
+66209	[1x default]	Genial. Mining equipment sold here!
+66210	[1x default]	Genial. You know you want to buy everything!
+66211	[1x shortdescription]	Genie Plushie
+66214	[1x shortdescription]	Gentleman Skeleton
+66215	[1x shortdescription]	Geo Table
+66217	[1x shortdescription]	Geode Blueprint
+66218	[1x shortdescription]	Geode Microformer
+66219	[1x shortdescription]	Geode Sapling
+66220	[1x shortdescription]	Geode Stone Bricks
+66221	[1x geode]	Geode crystals are valuable for alta crystal research, and might attract an ^#b0e0fc;alta geologist^reset;.
+66222	[1x description]	Geodes.
+    ^#00A9FF;Attributes^reset;
+^white;Max Health^reset;: ^green;+25%^reset;
+^white;Max Energy^reset;: ^green;+25%^reset;
+^white;Energy Regen^reset;: ^green;+10%^reset;
+^white;Attack Multiplier^reset;: ^green;+5%^reset;
+^white;Defense^reset;: ^green;+5%^reset;
+    ^#00A9FF;Resistances^reset;
+^darkgray;Fire Resistance: -^reset;
+^white;Electric Resistance^reset;: ^green;+50%^reset;
+^white;Poison Resistance^reset;: ^green;+50%^reset;
+^white;Ice Resistance^reset;: ^green;+15%^reset;
+^white;Physical Resistance^reset;: ^green;+15%^reset;
+    ^#00A9FF;Immunities^reset;: ^green;Starving, Food Poisoning, Poisoned, Electrified, Suffocation, Frost, Hungry
+    ^#00A9FF;Racial Traits^reset;: ^#AA72FF;Underwater Breathing, Don't Starve, Glow, Liquid Immunity
+^white;Fall Damage^reset;: ^green;-20%^reset;, ^white;Knockback Resistance^reset;: ^green;+10%^reset;, ^white;Jump Height^reset;: ^green;+5%^reset;, ^white;Movement Speed^reset;: ^green;+5%^reset;, ^white;Breath Depletion Rate^reset;: ^green;-100%^reset;, ^white;Hunger Rate^reset;: ^green;-50%^reset;
+66223	[1x shortdescription]	Geoelectra Smooth Stone
+66224	[1x shortdescription]	Geoelectra Stone
+66225	[1x shortdescription]	Geological Trophy ^#f02080;⟦E024⟧⟦E024⟧⟦E024⟧⟦E024⟧^reset;
+66226	[1x description]	Geological information reveals a mining operation on this planet. Energy readings are uncertain.
+66227	[1x text]	Geological scans indicate a vast network of underground caverns connected to this hypodermic hatch.
+66229	[1x shortdescription]	Geomechanical Microformer
+66230	[1x shortdescription]	Geometric Ice Bed
+66231	[1x shortdescription]	Geometric Ice Blueprint
+66232	[1x shortdescription]	Geometric Ice Chair
+66233	[1x shortdescription]	Geometric Ice Chest
+66234	[1x shortdescription]	Geometric Ice Screen
+66235	[1x shortdescription]	Geometric Ice Table
+66236	[1x shortdescription]	Geometric Painting
+66237	[1x shortdescription]	Geometric Trim I
+66238	[1x shortdescription]	Geometric Trim II
+66239	[1x description]	Geometric art that somewhat looks like mountains.
+66240	[1x description]	Geometric carving on ochre mahogany.
+66241	[1x shortdescription]	Geomoa Chick
+66242	[1x shortdescription]	Geomoa Egg
+66244	[1x shortdescription]	Geomoa's Nest
+66245	[1x shortdescription]	Georidite Sample
+66248	[1x description]	Get 4 dyes of the current palette.
+66249	[1x default]	Get <item> out of face-Akki! Akki do what <questGiver> want!
+66250	[1x caption]	Get Dye
+66251	[1x caption]	Get Dye x4
+66252	[1x tooltip]	Get ^green;increased ATK and DEF^reset; after ^orange;exploring a planet for AT LEAST 3 minutes^reset;! Stat increase is based on the ^yellow;planet's tier level^reset;!
+66253	[1x description]	Get ^orange;a perfect thing
+66254	[1x description]	Get a dye of the current palette.
+66255	[1x default]	Get a load of this!
+66257	[1x description]	Get a randomized 24-fold fusion palette.
+66258	[1x description]	Get a randomized blend of two palettes as a palette.
+66259	[1x description]	Get a randomized gradient of two palette colours.
+66260	[1x neki]	Get a wiggle on, partner!
+66261	[1x text]	Get aboard. We're leaving！
+66262	[1x zombie]	Get away from here! In the name of the Cultivator!
+66263	[1x neki]	Get away from me or I'll peck you!
+66264	[1x default]	Get away from me!
+66265	[1x neki]	Get away from me, I'm allergic to traitors!
+66266	[1x zombie]	Get away from me, cursed-one!!
+66267	[1x om_harpy]	Get away from me, disgusting filthy creature...
+66268	[1x floran]	Get away from me, you filth!
+66269	[1x default]	Get away from me---Ruined freak!!!
+66270	[1x default]	Get away from me...
+66271	[1x default]	Get away from my racks!
+66272	[1x default]	Get back here and face death!
+66273	[1x default]	Get back here.
+66274	[1x default]	Get back in your cell!
+66275	[1x default]	Get back to full health with this Avian-endorsed medicine!
+66276	[1x droden]	Get back to scrubbing the floor, Droden.
+66277	[1x droden]	Get back to work, Droden.
+66278	[1x droden]	Get back to work, you.
+66279	[1x mindflayer]	Get back! Get back!!
+66280	[1x default]	Get back! You fight <selfname> now!
+66281	[1x unlocktext]	Get comfortable with your Mech!
+66282	[1x default]	Get down here! <selfname> wanna fight!
+66283	[1x mechineki]	Get down the tunnel access,
+find a way to lower their defenses for us - and we'll do the rest.
+66284	[1x neki]	Get down the tunnel access, find a way to lower their defenses for us - and we'll do the rest.
+66286	[1x chatoptions]	Get fresh flowersss here!
+66287	[1x default]	Get it off me!
+66288	[1x woofie]	Get lost, dumbass!
+66289	[1x neki]	Get lost, furball.
+66290	[1x novakid]	Get lost, mate!
+66291	[1x mechineki]	Get moving, <entityname>!
+Haven't you held
+everyone up for
+long enough?
+66292	[1x neki]	Get moving, <entityname>! Haven't you held everyone up for long enough?
+66293	[1x default]	Get off MY ship!
+66294	[1x default]	Get off, play with someone else
+66295	[1x chat4]	Get out of here stalker!
+66296	[1x mechineki]	Get out of here,
+you annoying creature!
+66297	[1x neki]	Get out of here, furball!
+66298	[1x mechineki]	Get out of here, furbot!
+66299	[1x neki]	Get out of here, you annoying creature!
+66300	[1x neki]	Get out of my sight before I stop being nice.
+66301	[1x neki]	Get out of the sun, you crazy little beast!
+66302	[1x default]	Get out or I will tear you apart with my bare hands!
+66303	[1x generic]	Get prepared for some Alta Day fun!
+66304	[1x generic]	Get prepared for some Ava Day fun!
+66306	[1x description]	Get ready for a show! Or well.. A good night's sleep.
+66307	[1x description]	Get ready for some pet play with extra details!
+66308	[1x description]	Get ready for some pet play!
+66309	[1x description]	Get ready to duel!
+66310	[1x default]	Get ready!
+66311	[1x default]	Get rekt.
+66312	[1x description]	Get rowdy! Go crazy! Injure yourself and others!
+66313	[1x default]	Get some!
+66314	[1x default]	Get some! C'mon, get some!
+66315	[1x description]	Get tangled in a naughty culinary adventure as tentacle spaghetti slithers its way onto your plate.
+66316	[1x description]	Get that into ya, ya c*nt!
+66317	[1x neki]	Get that pussy over there!
+66318	[1x neki]	Get that pussy!
+66320	[1x default]	Get the foe!
+66321	[1x default]	Get the prrey!
+66322	[1x default]	Get thee down a mine and make yer fortune. Don't ferget to buy me tools!
+66323	[1x default]	Get them
+66324	[1x default]	Get them good!
+66325	[1x text]	Get these vile tentacles away from me! I can't stand them!
+66326	[1x description]	Get those arms working!
+66327	[1x default]	Get those clankers!
+66328	[1x description]	Get those moo-moo's moo-ving.
+66329	[1x generic]	Get up on the floor, dancing all night long~~
+66330	[1x description]	Get your (industrial) green, man.
+66331	[1x radien]	Get your blade feet off of my floor! You'll tear it up!
+66332	[1x chatoptions]	Get your farm eggs here!
+66333	[1x neki]	Get your filthy paws off my things!
+66334	[1x description]	Get your five-eyed cutie paraphernalia here!
+66336	[1x description]	Get your popcorn kids! In 6 different flavors.
+66337	[1x default]	Get zapped, you fool!
+66341	[1x text]	Getting fucked by tentacles for days is really exciting, NOT!
+66342	[1x text]	Getting kills with Katanas grants a brief bout of Increased Speed
+and Jump Height, as well as Energy Regeneration.
+66343	[1x 0]	Getting peckish
+66344	[1x 0]	Getting peckish.
+66345	[1x text]	Getting pregnant again... and again...
+66346	[1x 0]	Getting pretty hungry
+66347	[1x 0]	Getting pretty hungry.
+66349	[1x -]	Getting this party started
+66350	[1x shortdescription]	Gharus Spice
+66351	[1x shortdescription]	Gharus Stew ^#2080f0;⟦E024⟧^reset;
+66352	[1x shortdescription]	Ghavorkan Figurine
+66353	[1x shortdescription]	Ghavorkan Power Cell
+66354	[1x default]	Ghbdtn!... Sorry, I vanted to say hello!
+66355	[1x shortdescription]	Ghea Candy
+66357	[1x shortdescription]	Gheacleaver ^#8020f0;⟦E024⟧^reset;
+66359	[1x shortdescription]	Gheamont ^#20f080;⟦E024⟧^reset;
+66360	[1x shortdescription]	Gheanade Max
+66362	[1x shortdescription]	Ghearun Brush
+66363	[1x shortdescription]	Ghearun Droid ^#8020f0;⟦E024⟧⟦E024⟧⟦E024⟧^reset;
+66364	[1x shortdescription]	Ghearun Drone
+66366	[1x shortdescription]	Ghearun M1 Set
+66369	[1x shortdescription]	Gheatorn Arc
+66370	[1x shortdescription]	Gheatorn Eye
+66371	[1x shortdescription]	Gheatorn Horns
+66372	[1x shortdescription]	Gheatorn Microformer ^#f02080;⟦E024⟧⟦E024⟧⟦E024⟧^reset;
+66373	[1x shortdescription]	Gheatorn Rod
+66374	[1x longdescription]	Gheatorn are caves full of special poisonous crystals called ^#a7e001;gheatsyn^reset;. They grow right from the ground, resulting in weird strain-like rock formations called ^gray;gheatorn monuments^reset;. Certain ^#a7e001;ghearun^reset; labs can be found here, built by ^#b0e0fc;alta^reset; geo-researchers.
+66376	[1x shortdescription]	Gheatsyn Bed
+66377	[1x shortdescription]	Gheatsyn Bud
+66378	[1x shortdescription]	Gheatsyn Chair
+66379	[1x shortdescription]	Gheatsyn Chest
+66381	[1x shortdescription]	Gheatsyn Console
+66382	[1x shortdescription]	Gheatsyn Crippit
+66383	[1x shortdescription]	Gheatsyn Crippit Egg
+66384	[1x shortdescription]	Gheatsyn Crippit Figurine ^#8020f0;⟦E024⟧^reset;
+66385	[1x shortdescription]	Gheatsyn Crystal
+66386	[1x shortdescription]	Gheatsyn Door
+66387	[1x shortdescription]	Gheatsyn Dripping Crystal
+66388	[1x shortdescription]	Gheatsyn Dripping Formation
+66389	[1x shortdescription]	Gheatsyn Dripping Source

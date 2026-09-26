@@ -111,3 +111,7 @@ Translation-related (kept in the translation layer, not here)
   localeko_black_armory_legacy.pak - legacy Korean overlays
 - -9998_trans_sbkor_0.98_structfix.pak - sbkor Korean patch, repacked to fix
   string-vs-array structure damage (translation pak, not an override)
+
+- interface/title/kyterranmale.png, kyterranfemale.png: supply the species-select
+  icons that satkyterran.species references but the Saturnians pak never shipped
+  (upstream bug left its char-creation button invisible).

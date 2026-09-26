@@ -54,10 +54,22 @@ Bundled in this pak
      deleted in Viera 1.3.22 (vieratailoringcenter, crystallanternstickback,
      extravagantcurtainmed2).
 
+4) splash screen restore (added 2026-09-27)
+   - cinematics/splash.cinematic.patch
+   - Galaxy_in_Conflict ships a full replacement /cinematics/splash.cinematic
+     that swaps the opening image for its gic_splash.png logo and a WATCHER
+     sound, which orphaned the "Cuter Chucklefish" mod's chuckles.png
+     (the two-girls intro animation) even though that pak wins the
+     chuckles.png file itself. This patch repoints /panels/1 back to
+     /cinematics/chuckles.png:<frame> with 14 animation frames and restores
+     /sfx/cinematics/fish_laugh.ogg (which Cuter Chucklefish overrides with
+     its own audio). Guarded by a test on the gic_splash.png path so it is
+     skipped entirely if GiC is ever removed.
+
 Kept separate on purpose
 ------------------------
 
-4) mods/gic_4_3_compat_fixes (directory mod, NOT merged)
+5) mods/gic_4_3_compat_fixes (directory mod, NOT merged)
    - Must load in the narrow slot right after Galaxy_in_Conflict core and
      before its addon paks (Weapons Pack, Escalate, Reskin): it creates the
      empty interactData.recipes arrays those addons append to, and restores

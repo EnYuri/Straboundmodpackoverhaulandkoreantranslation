@@ -1,0 +1,8 @@
+[
+	[
+		{ "op": "test", "path": "/panels/1/drawables/0/image", "value": "/cinematics/gic_splash.png" },
+		{ "op": "replace", "path": "/panels/1/drawables/0/image", "value": "/cinematics/chuckles.png:<frame>" },
+		{ "op": "add", "path": "/panels/1/animationFrames", "value": 14 },
+		{ "op": "replace", "path": "/audio/0/resource", "value": "/sfx/cinematics/fish_laugh.ogg" }
+	]
+]

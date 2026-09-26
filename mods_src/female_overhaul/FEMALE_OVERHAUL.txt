@@ -115,3 +115,8 @@ Translation-related (kept in the translation layer, not here)
 - interface/title/kyterranmale.png, kyterranfemale.png: supply the species-select
   icons that satkyterran.species references but the Saturnians pak never shipped
   (upstream bug left its char-creation button invisible).
+
+- interface/scripts/XGCS.lua: UTF-8-aware character iteration in
+  rainbowifyText/gradifyText. The upstream Green's Dye Suite split each
+  byte with a color tag, producing invalid UTF-8 on translated (Korean)
+  dye names -> UnicodeException in TextPainter -> client kicked to title.

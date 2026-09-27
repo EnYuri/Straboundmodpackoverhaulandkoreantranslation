@@ -43,13 +43,17 @@ HARD_EXT = ('.pdn','.psd','.xcf','.aseprite','.kra','.clip','.blend','.fbx','.ob
             '.editorconfig','.gitignore','.luacheckrc','.py','.sh','.yml','.yaml',
             '.rtf','.url','.html','.htm','.js','.flp','.ai','.dcproj','.backup','.old',
             '.txt~','.lua~','.wav~','.png~','.ogg~','.sublime-project','.sublime-workspace')
+# VCS/CI internals baked into paks: extensionless loose objects, pack files, hooks
+HARD_DIRS = ('/.git/', '/.github/', '/.svn/', '/.hg/')
 
 def repack(src, out):
     pk = Pak(src)
     meta_blob = b'INDEX' + vlq2(len(pk.meta)) + b''.join(wstr(k) + wval(v) for k, v in pk.meta.items())
     kept, dropped = [], []
     for n in pk.index:
-        if n.lower().endswith(HARD_EXT) or 'thumbs.db' in n.lower() or 'desktop.ini' in n.lower():
+        nl = n.lower()
+        if nl.endswith(HARD_EXT) or any(nl.startswith(d) for d in HARD_DIRS) \
+                or 'thumbs.db' in nl or 'desktop.ini' in nl:
             dropped.append(n)
         else:
             kept.append(n)

@@ -36,8 +36,11 @@ patch_groups = {}     # rel -> list of op groups (per exact-case rel)
 raw_bytes = {}        # rel -> source path (later layer wins)
 malformed = []        # verbatim patch files we could not parse
 
+EXCLUDE_DIRS = {".git", ".github", ".svn", ".hg", "__pycache__"}
+
 for d, tag in LAYERS:
-    for root, _, fs in os.walk(d):
+    for root, dirs, fs in os.walk(d):
+        dirs[:] = [x for x in dirs if x not in EXCLUDE_DIRS]
         for f in fs:
             rel = os.path.relpath(os.path.join(root, f), d).replace(os.sep, "/")
             if rel in SKIP:

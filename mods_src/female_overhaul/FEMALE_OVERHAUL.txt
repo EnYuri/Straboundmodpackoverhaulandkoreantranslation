@@ -120,3 +120,98 @@ Translation-related (kept in the translation layer, not here)
   rainbowifyText/gradifyText. The upstream Green's Dye Suite split each
   byte with a color tag, producing invalid UTF-8 on translated (Korean)
   dye names -> UnicodeException in TextPainter -> client kicked to title.
+
+- sys/stardust/navext.lua: the StardustLib cockpit bar's SAIL and Teleporter
+  buttons passed the nav console entity (or the player) as the pane's source
+  entity. FU's newSail then failed its returnData handshake
+  ("[FU] ERROR WHILE EXECUTING CUSTOM SAIL"), and the ship teleporter
+  dialog got a non-teleporter source. The override resolves the nearest
+  real techstation/teleporter object and binds the pane to it; with no
+  tech station in range it falls back to the native OpenAiInterface.
+
+- Starburst Rework (contents_3025139283) is listed as completely
+  incompatible with FU: it loads after FU and silently replaces shared
+  files. These restorations keep its content while returning the
+  mechanics FU expects:
+    stats/effects/{biomeairless,burning,electrified,tarslow,weakpoison,
+      wet}.lua            - FU versions (FU race/status mechanics)
+    stats/effects/{biomecold,biomeheat,biomeradiation,frostslow,glow,
+      timefreeze}.lua, biomeheat.statuseffect - vanilla versions
+    items/active/weapons/boomerang/boomerang.lua - FU version
+    items/active/weapons/bossdrop/miniknoglauncher/rocketstack.lua - vanilla
+    recipes/medicaltable1/healing/antidote.recipe - vanilla
+    recipes/inventorstable{1,2,3}/{breath,radiation,cold,heat}
+      protectionback.recipe.patch - FU-priced EPP inputs/groups; Starburst
+      had broken the upgrade chain and gated them behind T2-T6 materials
+    items/active/weapons/protectorate/*.png, bow/*full*.png,
+      generic/produce/orange.png - FU art
+  Left alone on purpose: universe_server requiredSystemWorlds - GiC
+  intentionally removes it and rewrites the starter world (Starburst's
+  own replace never applied anyway). Celestial/weather/biome tables are
+  Starburst's intended overhaul surface and only affect new content.
+
+  Second pass: 144 generated .patch files re-apply FU's values where a
+  same-path Starburst op overwrote them, including:
+    /builder on the 5 vanilla bows   - FU's neb-buildbow.lua
+    /tooltipKind on ~130 weapons     - FU's per-type tooltip kinds
+    /description on armor/backitems/food/materials - FU set-bonus and
+      stat annotations were being hidden by Starburst flavor text
+    /durability on 12 mining tools, /category on doomcannon, hylotl
+      guard katana tiers, FU SAIL radiomessage texts
+
+- interface/cockpit/{zoombutton,systeminfobutton}.frames.patch: undo
+  MorePlanetInfo's frame-grid resize. The cockpit UI reverter wins the
+  PNG (vanilla 13x26 / 99x42), so MPI's 26px/148px grid read frames
+  outside the image bounds.
+- music/Gario_EldritchSporeSpawn.ogg: alias for FU's
+  Gario_EldrichSporeSpawn.ogg (sic, upstream filename has no 't').
+  spicedMenuMusic_Frackin references the typo'd path in the title
+  track list, so every title screen logged a missing-audio error.
+- Repacked female_translation.pak, FU_KO_contents_3166424163.pak and
+  -9998_trans_sbkor_0.98_structfix.pak: added 'test' guards ahead of
+  each patch group so ops targeting keys removed by other mods
+  (StardustLib mmupgrade layout, GiC crafting pane, Stardust quickbar,
+  XRC's moved armor label, FU's renamed staff tier label, FU's
+  20-box stat window) skip silently instead of logging errors.
+  armor.itemdescription additionally mirrors the armor label into
+  XRC's moved /subTitle node.
+
+- ai/ai.config.patch: SAIL's upstream patch rewrites
+  /scanlineAnimation/frames to "<image>:<index>" so its Lua can
+  substitute the per-species portrait path, but OpenStarbound's native
+  AiInterface never performs that substitution and requests literal
+  /ai/<image>:0..13. Restore the concrete "scanlines.png:<index>" only
+  when the placeholder is in place, so a future upstream fix wins.
+
+- interface/configs/GDSuite.config.patch: Green's Dye Suite references
+  /interface/close.png:1-3 for its close and four clear buttons, but
+  that asset does not exist in the base game or the mod. Repoint all
+  five buttons to the mod's own /interface/images/all/{x,xhover,xpress}
+  .png (9x11, same size as vanilla /interface/x.png). Each button group
+  is guarded by a test on the close.png:1 base path.
+
+- weapons/crafted/tier1/xraiizy_scrapshotgun/
+  xraiizy_scrapshotgun.activeitem.patch: the animation defines a
+  middleFullbright part whose image is "<partImage>", but the item's
+  animationParts has no middleFullbright entry. OpenStarbound resolves
+  missing tags to the literal fallback "default", producing requests
+  for /weapons/crafted/tier1/xraiizy_scrapshotgun/default. Add an empty
+  middleFullbright part (same as the sibling xraiizy_scraprifle) only
+  when the key is absent.
+
+- terrestrial_worlds.config.patch: precursorracekrakoth_fupatch tries
+  to append atprk_krakothoceanruins to
+  /planetTypes/nitrogendeep/layers/subsurface/dungeons, but the
+  nitrogendeep planet type is added by a later source's patch and its
+  subsurface layer has no dungeons key, so the krakoth group silently
+  skips. This pak now carries priority 999999800 so its patches apply
+  after the nitrogendeep and krakoth patches; we create the missing
+  dungeons array already containing the intended entry. If a future
+  nitrogendeep/FU version ships the key itself, the inverse test skips
+  this op and krakoth's own append works normally.
+
+- _metadata priority 999999800: the pak name sorts mid-list
+  (detection position ~514), so patches were actually applied BEFORE
+  late-loading sources like the nitrogendeep and krakoth_fupatch paks.
+  The explicit priority makes the intended "zz_ late slot" real - it
+  lands just below female_translation (999999850).

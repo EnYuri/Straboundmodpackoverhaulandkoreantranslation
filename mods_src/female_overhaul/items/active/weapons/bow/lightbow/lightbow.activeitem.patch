@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "bow2"
+  },
+  {
+    "op": "replace",
+    "path": "/builder",
+    "value": "/items/buildscripts/neb-buildbow.lua"
+  }
+]

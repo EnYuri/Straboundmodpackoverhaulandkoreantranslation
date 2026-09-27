@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "baseAugment"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "추가 숨을 제공한다. 숨 +125초"
+  }
+]

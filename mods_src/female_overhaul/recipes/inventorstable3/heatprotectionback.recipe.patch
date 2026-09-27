@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/input",
+    "value": [
+      { "item": "fu_nitrogen", "count": 5 },
+      { "item": "fu_carbon", "count": 4 },
+      { "item": "battery", "count": 1 },
+      { "item": "cryonicextract", "count": 2 }
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/groups",
+    "value": ["craftinganvil2", "hazardgear", "all", "armory2"]
+  }
+]

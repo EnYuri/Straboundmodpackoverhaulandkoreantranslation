@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "+^green;10^reset;% 피해 (활)\r\n+^green;10^reset;% 당기기 속도 (활)\r\n+^green;2^reset;% 공중 피해 (활)\r\n-^green;2^reset; 발당 에너지 (활)"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "baseaugment"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "연구에 따르면 이 망토를 걸치고 있으면 불행해지는 게 불가능하다고 한다. +^green;15^reset;% 방사능 저항."
+  }
+]

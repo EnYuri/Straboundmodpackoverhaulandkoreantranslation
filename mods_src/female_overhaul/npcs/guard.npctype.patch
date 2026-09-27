@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/items/hylotl/0/1/0/primary/0",
+    "value": "ironkatana"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hylotl/1/1/0/primary/0",
+    "value": "tungstenkatana"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hylotl/2/1/0/primary/0",
+    "value": "coralkatana"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hylotl/3/1/0/primary/0",
+    "value": "coralkatana"
+  }
+]

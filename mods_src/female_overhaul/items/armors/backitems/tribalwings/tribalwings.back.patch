@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "baseaugment"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "금박을 입힌 박쥐 같은 날개를 장착하고 악몽의 화신이 되세요! 낙하 속도가 느려집니다."
+  }
+]

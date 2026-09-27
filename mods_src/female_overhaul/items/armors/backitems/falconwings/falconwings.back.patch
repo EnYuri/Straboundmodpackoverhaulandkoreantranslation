@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "baseaugment"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "위압적이고 불길해 보이는 검은 날개. 위력 +10%"
+  }
+]

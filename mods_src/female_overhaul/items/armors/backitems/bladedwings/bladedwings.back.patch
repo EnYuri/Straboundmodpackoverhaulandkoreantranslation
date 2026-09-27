@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "baseaugment"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "깃털 모양의 날카로운 칼날로 만든 위압적인 날개입니다. 치명타 확률 +5%."
+  }
+]

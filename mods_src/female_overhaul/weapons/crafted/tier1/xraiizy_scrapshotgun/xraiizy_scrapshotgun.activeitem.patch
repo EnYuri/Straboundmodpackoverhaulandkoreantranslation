@@ -1,0 +1,14 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/animationParts/middleFullbright",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/animationParts/middleFullbright",
+      "value": ""
+    }
+  ]
+]

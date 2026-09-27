@@ -1,0 +1,112 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/gui/close/base",
+      "value": "/interface/close.png:1"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/close/base",
+      "value": "/interface/images/all/x.png"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/close/hover",
+      "value": "/interface/images/all/xhover.png"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/close/pressed",
+      "value": "/interface/images/all/xpress.png"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearMM/base",
+      "value": "/interface/close.png:1"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearMM/base",
+      "value": "/interface/images/all/x.png"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearMM/hover",
+      "value": "/interface/images/all/xhover.png"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearMM/pressed",
+      "value": "/interface/images/all/xpress.png"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearWT/base",
+      "value": "/interface/close.png:1"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearWT/base",
+      "value": "/interface/images/all/x.png"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearWT/hover",
+      "value": "/interface/images/all/xhover.png"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearWT/pressed",
+      "value": "/interface/images/all/xpress.png"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearPT/base",
+      "value": "/interface/close.png:1"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearPT/base",
+      "value": "/interface/images/all/x.png"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearPT/hover",
+      "value": "/interface/images/all/xhover.png"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearPT/pressed",
+      "value": "/interface/images/all/xpress.png"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearSM/base",
+      "value": "/interface/close.png:1"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearSM/base",
+      "value": "/interface/images/all/x.png"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearSM/hover",
+      "value": "/interface/images/all/xhover.png"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/dyesPage_layout/children/MMDyeLayout/children/clearSM/pressed",
+      "value": "/interface/images/all/xpress.png"
+    }
+  ]
+]

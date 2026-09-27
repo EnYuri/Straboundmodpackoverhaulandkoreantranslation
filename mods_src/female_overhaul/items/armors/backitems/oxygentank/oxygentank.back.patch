@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "baseaugment"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "유용한 산소 공급원. 호흡 +62.5초"
+  }
+]

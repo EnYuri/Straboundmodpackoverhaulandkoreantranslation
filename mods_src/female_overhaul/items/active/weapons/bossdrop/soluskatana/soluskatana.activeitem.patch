@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "swordunique"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "아스라 녹스가 벼려낸, 솔라리움이 깃든 검. 카타나처럼 생긴 브로드소드다."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "baseaugment"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "움직임으로 작동하는 휴대용 보일러. 냉기 저항 +^green;12^reset;%."
+  }
+]

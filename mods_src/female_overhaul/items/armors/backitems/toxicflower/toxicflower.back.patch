@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "baseaugment"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "빛을 에너지로 바꾸는 커다란 독성 꽃입니다. 몸에 걸쳐보는 건 어떨까요? 에너지 재생 +30%"
+  }
+]

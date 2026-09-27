@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "baseaugment"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "이 날개가 얼마나 생생한지 놀랍다. 추가된 에너지와 체력도 좋다."
+  }
+]

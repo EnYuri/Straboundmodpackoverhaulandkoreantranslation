@@ -1,0 +1,14 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/scanlineAnimation/frames",
+      "value": "<image>:<index>"
+    },
+    {
+      "op": "replace",
+      "path": "/scanlineAnimation/frames",
+      "value": "scanlines.png:<index>"
+    }
+  ]
+]

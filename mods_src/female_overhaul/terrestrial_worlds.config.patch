@@ -1,0 +1,23 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/planetTypes/nitrogendeep/layers/subsurface"
+    },
+    {
+      "op": "test",
+      "path": "/planetTypes/nitrogendeep/layers/subsurface/dungeons",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/planetTypes/nitrogendeep/layers/subsurface/dungeons",
+      "value": [
+        [
+          1.0,
+          "atprk_krakothoceanruins"
+        ]
+      ]
+    }
+  ]
+]

@@ -557,7 +557,7 @@ function rainbowifyText(text)
 	local newtext = ""
 	local txt = clearTextEffects(text)
 	local i = 0
-	for ch in string.gmatch(txt, "[ -Â-ý][-¿]*") do
+	for ch in string.gmatch(txt, "[\0-\x7F\xC2-\xFD][\x80-\xBF]*") do
 		i = i + 1
 		newtext = newtext .. "^#" .. rainbowColours[(math.floor(os.time() + i - 1) % #rainbowColours) + 1] .. ";" .. ch
 	end
@@ -569,7 +569,7 @@ function gradifyText(text, col, col2)
 	local newtext = ""
 	local txt = clearTextEffects(text)
 	local chars = {}
-	for ch in string.gmatch(txt, "[ -Â-ý][-¿]*") do chars[#chars + 1] = ch end
+	for ch in string.gmatch(txt, "[\0-\x7F\xC2-\xFD][\x80-\xBF]*") do chars[#chars + 1] = ch end
 	for i, ch in ipairs(chars) do
 		newtext = newtext .. "^#" .. dyes.blendColours(col, col2, i / #chars) .. ";" .. ch
 	end

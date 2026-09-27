@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/frackinuniverse:research"
+    },
+    {
+      "op": "add",
+      "path": "/items/frackinuniverse:research/label",
+      "value": "연구"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/frackinuniverse:updates"
+    },
+    {
+      "op": "add",
+      "path": "/items/frackinuniverse:updates/label",
+      "value": "업데이트"
+    }
+  ]
+]

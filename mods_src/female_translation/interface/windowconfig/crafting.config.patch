@@ -1,0 +1,194 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/paneLayout/windowtitle"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/lblSchematics"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/lblProducttitle"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/lblProduct"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/windowtitle/title",
+      "value": "  수작업 제작"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/windowtitle/subtitle",
+      "value": "  손으로 직접 아이템을 만듭니다."
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/lblSchematics/value",
+      "value": "^#b9b5b2;레시피"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/lblProducttitle/value",
+      "value": "^#b9b5b2;출력"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/lblProduct/value",
+      "value": "사용 가능한 재료"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/paneLayout/windowtitle"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/lblSchematics"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/lblProducttitle"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/btnCraft"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/btnStopCraft"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/lblProduct"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/filter"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/windowtitle/title",
+      "value": " 기본 제작"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/windowtitle/subtitle",
+      "value": " ^#b9b5b2;당신과, 재료만이 있을 뿐 ^green;[C]"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/lblSchematics/value",
+      "value": "^#b9b5b2;설계도"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/lblProducttitle/value",
+      "value": "^#b9b5b2;제작품"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/btnCraft/caption",
+      "value": "만들기"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/btnStopCraft/caption",
+      "value": "중지"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/lblProduct/value",
+      "value": "재료가 있는 것만 보기"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/filter/hint",
+      "value": "검색"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/paneLayout/btnCraft"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/btnStopCraft"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/filter"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/lblProduct"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/lblProducttitle"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/lblSchematics"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName"
+    },
+    {
+      "op": "test",
+      "path": "/paneLayout/windowtitle"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/btnCraft/caption",
+      "value": "만들기"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/btnStopCraft/caption",
+      "value": "중지"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/filter/hint",
+      "value": "검색"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/lblProduct/value",
+      "value": "재료가 있는 것만 보기"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/lblProducttitle/value",
+      "value": "^#b9b5b2;제작품"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/lblSchematics/value",
+      "value": "^#b9b5b2;설계도"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value",
+      "value": "Replace Me"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/windowtitle/subtitle",
+      "value": "^#b9b5b2;당신과, 재료만이 있을 뿐 ^green;[C]"
+    },
+    {
+      "op": "add",
+      "path": "/paneLayout/windowtitle/title",
+      "value": "기본 제작"
+    }
+  ]
+]

@@ -1,139 +1,1384 @@
 ﻿id	file	englishTerm	preferredKorean	englishText	koreanText
-103561	rest_priority_0840.tsv	Ruin-Killer	루인킬러	The Ruin-Killer	루인 킬러
-125888	rest_priority_0876.tsv	Crafting Station	제작대	^noshadow;^#60c0fc;CRAFTING STATION	^noshadow;^#60c0fc;제작 스테이션
-122248	rest_priority_0852.tsv	Materials Available	재료가 있는 것만 보기	^#190700;MATERIALS AVAILABLE	^#190700;사용 가능 재료
-128726	rest_priority_0742.tsv	Codex	코덱스	"{ ""initialItems"" : [ { ""name"" : ""protectoratechest"", ""count"" : 1 }, { ""name"" : ""protectoratepants"", ""count"" : 1 },  { ""name"" : ""money"", ""count"" : 20 },  { ""name"" : ""lustlingView-codex"", ""count"" : 1 }, { ""name"" : ""protectorateflyer"", ""count"" : 1 } ] }"	"{ ""initialItems"" : [ { ""name"" : ""protectoratechest"", ""count"" : 1 }, { ""name"" : ""protectoratepants"", ""count"" : 1 },  { ""name"" : ""money"", ""count"" : 20 },  { ""name"" : ""lustlingView-codex"", ""count"" : 1 }, { ""name"" : ""protectorateflyer"", ""count"" : 1 } ] }"
-80744	rest_priority_0797.tsv	Thrust Damage	찌르기 피해	Knife Throw: Throws a combat knife at the closest enemy which deals 100 THRUST DAMAGE. | 20s Cooldown	단검 투척: 가장 가까운 적에게 전투용 단검을 던져 관통 피해 100. | 재사용 대기시간 20초
-80375	rest_priority_0796.tsv	Parry	패링	Katana Parry	카타나 패리
-112396	rest_priority_0843.tsv	Parry	패링	Toxic Parry	독성 패리
-89550	rest_priority_0812.tsv	Hit Shield	피격 방패	Orange Potion - IMMUNE to BLEED. Gain 1 Hit Shield. | 30s Cooldown. -50% General Weapon Proficiency.	주황 물약 - 출혈 면역. 타격 보호막 1 획득. | 재사용 대기시간 30초. 일반 무기 숙련 -50%.
-112132	rest_priority_0842.tsv	Broadsword	브로드소드	"To upgrade an existing weapon, place it in the Purple Slot.
-      ^gray;Otherwise, to create a new weapon, place an item in the Purple Slot. Accepts the following:^reset;
-      Exactly 2 Sharpened Claw (Spear), Exactly 2 Hardened Carapace (Hammer), Exactly 6 Steel Bar (Broadsword),
-      ^gray;Exactly 1 Sharpened Claw (Dagger), Exactly 1 Hardened Carapace (Axe), Exactly 3 Steel Bar (Shortsword)
-      ^red;More Weapon Types will be introduced at a later date; Mod Weapon Types, like Katanas, will be included as well."	"기존 무기를 업그레이드하려면 보라색 슬롯에 넣으세요.
-      ^gray;새 무기를 만들려면 보라색 슬롯에 아이템을 넣으세요. 다음 항목 허용:^reset;
-      날카로운 발톱 정확히 2개 (창), 단단한 갑각 정확히 2개 (해머), 강철 주괴 정확히 6개 (대검),
-      ^gray;날카로운 발톱 정확히 1개 (단검), 단단한 갑각 정확히 1개 (도끼), 강철 주괴 정확히 3개 (소검)
-      ^red;더 많은 무기 유형이 추후 도입될 예정입니다; 카타나 같은 모드 무기 유형도 포함됩니다."
-125690	rest_priority_0874.tsv	Assault Rifle	돌격소총	^green;Toxin Assault Rifle^reset;	^green;독소 어설트 라이플^reset;
-126110	rest_priority_0877.tsv	Assault Rifle	돌격소총	^orange;Assault Rifle.^reset;	^orange;어설트 소총.^reset;
-67995	rest_priority_0788.tsv	Grenade Launcher	유탄 발사기	Handheld or Multi Grenade Launcher	휴대용 또는 다연장 유탄발사기
-124142	rest_priority_0860.tsv	Grenade Launcher	유탄 발사기	^blue;Grenade Launcher^reset;	^blue;유탄발사기^reset;
-88904	rest_priority_0811.tsv	Aegisalt	에지솔트	Old Aegisalt	낡은 이지설트
-91117	rest_priority_0816.tsv	Aegisalt	에지솔트	"Place 5 Bars in Grey Slot to determine Weapon Level, from 1 to 6. Accepts the following:
-      ^gray;Iron, Tungsten, Titanium, Durasteel, Violium/Aegisalt/Ferozium, Solarium
-      ^red;A higher tier will be introduced at a later date.^reset;"	"무기 레벨을 1~6으로 결정하려면 회색 슬롯에 주괴 5개를 넣으세요. 다음을 허용:
-      ^gray;철, 텅스텐, 티타늄, 듀라스틸, 바이올륨/이지설트/페로지움, 솔라리움
-      ^red;더 높은 등급이 추후 추가될 예정입니다.^reset;"
-58364	rest_priority_0769.tsv	Erchius	에르키우스	"Defeat Erchius Herald.
-^orange;Threat Level: 8"	"에르치우스 사자 처치.
-^orange;위협 등급: 8"
-61688	rest_priority_0776.tsv	Erchius	에르키우스	Erchius Crystal Ore	에르치우스 수정 광석
-61712	rest_priority_0776.tsv	Erchius	에르키우스	Erchius: An Overview	에르치우스: 개요
-62311	rest_priority_0777.tsv	Erchius	에르키우스	Exploiting Erchius	에르치우스 착취
-80772	rest_priority_0797.tsv	Erchius	에르키우스	Know Your Risks: Erchius Rads	위험을 알아라: 에르치우스 방사능
-123270	rest_priority_0856.tsv	Erchius	에르키우스	^#b9b5b2;Erchius fuel, when you need it	^#b9b5b2;필요할 때 얼치어스 연료
-124948	rest_priority_0865.tsv	Erchius	에르키우스	"^green;+ Erchius Ghost
-  Immunity^reset;"	"^green;+ 얼치어스 유령
-  면역^reset;"
-125297	rest_priority_0870.tsv	Erchius	에르키우스	^green;Erchius Crystal Delivery	^green;얼치어스 수정 배달
-95132	rest_priority_0824.tsv	Saturnian	새터니안	SATURNIAN LOOM	새터니언 베틀
-95405	rest_priority_0825.tsv	Saturnian	새터니안	Saturnian Civilization	새터니언 문명
-95413	rest_priority_0825.tsv	Saturnian	새터니안	Saturnian Librarian	새터니언 사서
-95415	rest_priority_0825.tsv	Saturnian	새터니안	Saturnian Loom	새터니언 베틀
-103237	rest_priority_0839.tsv	Grand Protector	대보호자	The Grand Protector	대수호자
-94433	rest_priority_0289.tsv	Miniknog	미니크녹	Revisit the Miniknog Stronghold (6)	지식부 요새 재방문 (6)
-92926	rest_priority_0819.tsv	Quietus	콰이어투스	Quietus Gold	쿠에투스 골드
-92932	rest_priority_0819.tsv	Quietus	콰이어투스	Quietus Red	쿠에투스 레드
-92939	rest_priority_0819.tsv	Quietus	콰이어투스	Quietus Yellow	쿠에투스 옐로
-101923	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Blast	텔레브리움 폭발
-101924	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Bomb	텔레브리움 폭탄
-101925	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Bouncer	텔레브리움 바운서
-101926	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Burst	텔레브리움 버스트
-101930	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Glow	텔레브리움 광채
-101932	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Metal	텔레브리움 금속
-101933	rest_priority_0837.tsv	Telebrium	텔레브리엄	Telebrium Ore	텔레브리움 광석
-121634	rest_priority_0852.tsv	Zerchesium	제르세슘	Zerchesium II	제르케시움 II
-80296	rest_priority_0224.tsv	Kappa	캇파	K'Rakoth Codex Kappa	크라코스 코덱스 카파
-57342	rest_priority_0766.tsv	Kappa	캇파	Cucumber Addiction [CORPORATE KAPPA TRAIT] - The universe is a cruel and chaotic place. I can't see any potential profits or knowledge ahead. I really need some cucumbers. | ALL positive traits are disabled | Take any cucumber flavor foods to stave off withdrawal.	오이 중독 [CORPORATE KAPPA TRAIT] - 우주는 잔인하고 혼돈한 곳이야. 앞에 이익이나 지식의 가능성이 안 보여. 오이가 정말 필요해. | 모든 긍정 특성 비활성화 | 오이 맛 음식을 먹어 금단 억제.
-61413	rest_priority_0775.tsv	Kappa	캇파	Energetic Riptide [CORPORATE KAPPA TRAIT] - Fire to accumulate energy, bonuses applied based on energy level. | Clear all energy level after reload	활기찬 역류 [CORPORATE KAPPA TRAIT] - 발사해 에너지 축적, 에너지 수준에 따라 보너스 적용. | 재장전 후 모든 에너지 수준 초기화
-80368	rest_priority_0796.tsv	Kappa	캇파	Kappa Repair Kit - Ability Recharging.	카파 수리 키트 - 능력 재충전 중.
-80369	rest_priority_0796.tsv	Kappa	캇파	Kappa Repair Kit - Every 180 seconds, drop a special Kappa Repair Kit that can repair any firearm regardless of its design for 20% of its durability.	카파 수리 키트 - 180초마다 설계와 무관하게 모든 총기의 내구도 20%를 수리할 수 있는 특수 카파 수리 키트 투하.
-90724	rest_priority_0814.tsv	Kappa	캇파	Performance Evaluation [CORPORATE KAPPA TRAIT] - Achieve specific requirements to gain additional bonuses | Each bonus - +5% weapon proficiency and +5HP.	성과 평가 [CORPORATE KAPPA TRAIT] - 특정 조건 달성 시 추가 보너스 획득 | 보너스 하나당 - 무기 숙련 +5%, 체력 +5.
-101908	rest_priority_0837.tsv	Kappa	캇파	Technophile [CORPORATE KAPPA TRAIT] - +15% Tech and Energy Weapon Proficiency.	기술애호가 [CORPORATE KAPPA TRAIT] - 테크 및 에너지 무기 숙련 +15%.
-112260	rest_priority_0842.tsv	Kappa	캇파	Too Young To Die [CORPORATE KAPPA TRAIT] - Lower maximum HP. When HP below 10%, remove all positive traits for 15s.	죽기엔 너무 어림 [CORPORATE KAPPA TRAIT] - 최대 체력 감소. 체력 10% 미만 시 모든 긍정 특성을 15초간 제거.
-113459	rest_priority_0845.tsv	Kappa	캇파	Unconventional Tech - When used by [Corpo Kappa], Counts as TECH WEAPON.	비전통 기술 - [Corpo Kappa]가 사용할 때 테크 무기로 취급.
-83302	rest_priority_0803.tsv	Magilock	매지락	Magilock Workbench	마기록 작업대
-114241	rest_priority_0846.tsv	Magilock	매지락	Using a Magilock Weapon	마지록 무기 사용 중
-83257	rest_priority_0803.tsv	Magishot	매지샷	Magic Frenzy: Firing a [EWS] Weapon will also fire a magishot that deals 40 PSYCHIC damage. | 3s Cooldown	마법 광란: [EWS] 무기 발사 시 대상에게 정신 피해 40을 주는 마법탄도 함께 발사. | 재사용 대기시간 3초
-96773	rest_priority_0829.tsv	Magishot	매지샷	Shot Loaded - Next magic blast fires minie balls instead of magishot. 30s Duration.	탄 장전됨 - 다음 마법 폭발이 매직샷 대신 미니에 탄 발사. 지속시간 30초.
-113645	rest_priority_0845.tsv	United Systems	연합 시스템	United Systems Weapon	연합 체계 무기
-47501	rest_priority_0084.tsv	Trink	트링크	An old prototype for the MEGA-TRINK armour.	MEGA-TRINK 방어구의 낡은 시제품이다.
-60395	rest_priority_0771.tsv	Aegi	에지	"During the Harrowing, the Aegi remember the dead and celebrate the living. It's a time for candy, costumes and tricks! This event features:
-
-- A new event-themed ^cyan;vendor ^reset;who sells a variety of event items. You can find Ayala, the Harrowing event vendor, in the Creon Embassy
-
-- ^cyan;Collectible masks ^reset;and ^cyan;costumes ^reset;for all races
-
-- ^cyan;Sweet candy ^reset;that offers a variety of useful and fun status effects
-
-- New quests for obtaining event-themed ^orange;Unique-quality items^reset;
-
-- Event-themed ^cyan;decorative objects ^reset;to bring the Harrowing to your own home"	"하로윙 기간 동안, 아에기는 망자를 기리고 산 자를 축하합니다. 사탕과 의상, 장난의 시간이죠! 이 이벤트에는 다음이 포함됩니다:
-
-- 다양한 이벤트 아이템을 파는 새로운 이벤트 테마 ^cyan;상인^reset;. 하로윙 이벤트 상인 아얄라는 크레온 대사관에서 만날 수 있습니다
-
-- 모든 종족용 ^cyan;수집용 가면^reset;과 ^cyan;의상^reset;
-
-- 다양하고 유용한 재미있는 상태 효과를 주는 ^cyan;달콤한 사탕^reset;
-
-- 이벤트 테마 ^orange;고유 등급 아이템^reset;을 얻는 새 퀘스트
-
-- 하로윙을 집으로 가져올 이벤트 테마 ^cyan;장식 오브젝트^reset;"
-103333	rest_priority_0839.tsv	Aegi	에지	"The Landing Festival, a celebration of the Aegi's arrival on Elithia hundreds of years ago, has arrived! This event features:
-
-- A new location, the ^cyan;Festival Hall^reset;, accessible through a teleporter in the Creon Embassy
-
-- New event-themed ^cyan;decorative objects^reset;, ^cyan;armour pieces^reset;, ^cyan;weapons^reset; and ^cyan;consumables^reset;
-
-- New quests for obtaining event-themed ^orange;Unique-quality items^reset;
-
-- ^cyan;Fireworks^reset; available in various colours
-
-- ^cyan;Daily presents^reset; in the Festival Hall. Visit the large decorated tree in the Festival Hall for a free daily present
-
-- A second chance at obtaining ^cyan;items missed in previous events^reset;. These items drop randomly from Landing Festival Presents!"	"수백 년 전 아에기가 엘리시아에 도착한 것을 기념하는 착륙제가 찾아왔습니다! 이 이벤트에는:
-
-- 새로운 장소 ^cyan;축제 회관^reset; - 크레온 대사관의 텔레포터로 이동 가능
-
-- 새로운 이벤트 테마 ^cyan;장식 오브젝트^reset;, ^cyan;갑옷 부위^reset;, ^cyan;무기^reset;, ^cyan;소모품^reset;
-
-- 이벤트 테마 ^orange;고유 등급 아이템^reset; 획득 신규 퀘스트
-
-- 다양한 색상의 ^cyan;불꽃놀이^reset;
-
-- 축제 회관의 ^cyan;일일 선물^reset;. 회관의 큰 장식 나무를 찾아 매일 무료 선물을 받으세요
-
-- ^cyan;이전 이벤트에서 놓친 아이템^reset;을 얻을 두 번째 기회. 이 아이템들은 착륙제 선물에서 무작위로 드롭합니다!"
-53140	rest_priority_0111.tsv	The Ruined	루인드	"But not long till the Floran chomped and gobbled,
-and in her delight, her hunger concerns halted.
-
-And so the Floran journeyed though the ruined city,
-from pleasure to fear, Earth's victims moaned and screamed.
-
-The Floran feasted on her so called tentacled victims,
-with each bite after another, her appetite grows."	"하지만 얼마 지나지 않아 플로란은 우적우적 먹어치웠고,
-그 기쁨 속에서, 배고픔에 대한 걱정도 멎었다.
-
-그리하여 플로란은 폐허가 된 도시를 여행했고,
-쾌락에서 공포로, 지구의 희생자들은 신음하고 비명을 질렀다.
-
-플로란은 이른바 촉수 달린 희생자들을 포식했고,
-한 입 한 입 베어 물 때마다, 그녀의 식욕은 커져만 갔다."
-52400	rest_priority_0753.tsv	Boneworking Station	뼈 세공대	Boneworking Station	뼈 가공 스테이션
-81397	rest_priority_0798.tsv	Leatherworking Station	가죽 세공대	Leatherworking Station	가죽 작업대
-65872	rest_priority_0783.tsv	Fusion Chamber	핵융합로	Fusion Chamber	융합실
-66380	rest_priority_0784.tsv	gheatsyn	기트신	Gheatsyn Chi	게아신 치
-66399	rest_priority_0784.tsv	gheatsyn	기트신	Gheatsyn Pad	게아신 패드
-127202	rest_priority_0884.tsv	Spooked	겁먹음	^red;Spooked - You aren't alone. Something is following you.	^red;소름 - 혼자가 아니다. 무언가가 뒤따르고 있다.
+122	rest_0000_0150.tsv	Crafting Station	제작대	An Unbound crafting station, this one is for furniture & tiles.	<활성화 시 특정 소리를 냅니다.>
+123	rest_0000_0150.tsv	Crafting Station	제작대	An Unbound crafting station, this one is for weapons and armors	떠다니는 수정은 때때로 이것처럼 작은 구슬로 잘라낸다.
+1523	rest_1401_1750.tsv	Crafting Station	제작대	Delighted. This crafting station demonstrates that altas prioritize joy and play in their society.	그래, 내 자지를 받아, 이 흥분한 털뭉치야!
+3085	rest_2801_3150.tsv	Crafting Station	제작대	I can use this phospholion formation at a crafting station to extract all of its phospholion.	아름답게 제작된 책장.
+4585	rest_4551_4900.tsv	Crafting Station	제작대	It's interesting how someone can makeshift a tool so powerful, it ends up among craftable blueprints in a crafting station. This honestly looks like some kind of a ^#b0e0fc;neiteru-1^reset; development.	안에 새끼 거미가 있나?
+8748	rest_8401_8750.tsv	Crafting Station	제작대	This crafting station allows me to make Unbound themed equipement!	난 언제나 이런 걸 부숴 보고 싶었어.
+8749	rest_8401_8750.tsv	Crafting Station	제작대	This crafting station allows me to make Unbound themed furniture!	이 일을 몇 년째 해 왔다고. 넌 승산이 없어!
+8750	rest_8401_8750.tsv	Crafting Station	제작대	This crafting station allows me to make all kind of Unbound equipement.	암호를 잘 못 외워.
+8751	rest_8751_9100.tsv	Crafting Station	제작대	This crafting station allows me to make all kind of Unbound furniture.	뱅가드에서 수년간 복무했어. 이제 쉴 시간이야.
+8752	rest_8751_9100.tsv	Crafting Station	제작대	This crafting station contains blueprints for certain alta decorations and small structures.	난... 다시... 태어났다!
+1974	rest_1751_2100.tsv	Enterash	엔테라시	Finding a material with safely contained enternia was a pretty big discovery. And look at us now - ^#f02020;EDS^reset; can't stop shoving it in every piece of technology they have, and dreamers are hunting the empty barrens of ^#8020f0;enterash^reset;...	스캔 결과 빛나는 마디는 공기를 먹는 공생 박테리아로, 화학 반응으로 빛을 만든대. 과학은 대단해!
+3115	rest_2801_3150.tsv	Enterash	엔테라시	I can't believe someone would take this on purpose. But, thanks to it, we're able to travel to enterash prime... I guess it's true that there's medicine in every poison.	가득 찬 탄산음료 병.
+11114	rest_10851_11200.tsv	Solalei	솔라레이	Wow! The humans landed on their moon? I think if Solalei did that, Actias would declare war on us!	수정 패널이 달린 집안용 문.
+3105	rest_2801_3150.tsv	Solalei	솔라레이	I can use this to summon perfect replicas of Solalei's royal guards' armors, and the best types of rapiers and mauls.	밀집된 외계 바위.
+3566	rest_3501_3850.tsv	Solalei	솔라레이	I think this is just one of Solalei's banners, but dyed a different color.	이제 시작이야~!
+3837	rest_3501_3850.tsv	Solalei	솔라레이	I've heard the Roc slayers of Solalei use bows and armors similar to what this addon can conjure.	고무 링이 잔뜩이에.
+6002	rest_5951_6300.tsv	Solalei	솔라레이	Open torches like this are illegal in Solalei, for a good reason...	여기서 가죽 물건을 만들 수 있어.
+7588	rest_7351_7700.tsv	Solalei	솔라레이	The Solalei royal family crest is printed on this flag.	생크틸라이트로 만든 항아리! 깨기 딱 좋아!
+8468	rest_8401_8750.tsv	Solalei	솔라레이	This allows the replicator to summon the legendary bows and armors used by the Roc slayers of Solalei.	야, 고맙다...
+8759	rest_8751_9100.tsv	Solalei	솔라레이	This crate isn't too different from the transport crates used in Solalei. It's just made from offworld wood.	날개 있으면 이 난간을 쉽게 뛰어넘을 텐데.
+3380	rest_3151_3500.tsv	Tonna	톤나	I like the ones with the tonna strips in the middle.	씨-씨발, 내 걸 받아!
+8957	rest_8751_9100.tsv	Tonna	톤나	This goes well with heavier meals, like pies or pizza, or even sweet desserts like cakes, or the ^#b0e0fc;tonna split^reset;.	"위에서 온 사랑.
+               ^red;경고!
+ 피해자는 파괴 시 탈출!"
+270	rest_0151_0400.tsv	Tonnova	톤노바	An eco chamber with a spiraled tonnova spring inside.	욕정. 좋아! 네 유전자를 내게 옮겨줘!
+8862	rest_8751_9100.tsv	Tonnova	톤노바	This eco chamber contains a quickly growing tonnova.	큰 아이스박스 같은데 운송용이야.
+8863	rest_8751_9100.tsv	Tonnova	톤노바	This eco chamber contains a spring of a wide-type tonnova.	나무 울타리 같은데 나무도 울타리도 아냐.
+11250	rest_11201_11550.tsv	Tsay	차이	Yup, pretty energetic. Probably all of the tsay stuff, although this is exactly what I would expect from a nia drink, so maybe not.	슬라이딩 문 여러 개 미래적 하이로틀풍 TV 받침.
+589	rest_0401_0700.tsv	Alterash	알테라시	Another alien metal! Shiny, but we have plenty of better materials on alterash already.	위험이 가까이 있으면 냥냥할 수 없어.
+1030	rest_0701_1050.tsv	Alterash	알테라시	Bug-catchin' station! All sorts of critters from them alterash planets!	두루마리가 전부 백지다.
+1232	rest_1051_1400.tsv	Alterash	알테라시	Comparing their lunar approach to our alterash methods. Similar challenges!	치유를 도와줄 수 있어!
+1718	rest_1401_1750.tsv	Alterash	알테라시	Eco chambers like this one are used to safely grow trees on alterash planets, mainly ayakas.	격렬한 피스톤. 대-대단한 교미 구멍. 땀나!
+1719	rest_1401_1750.tsv	Alterash	알테라시	Eco pods like this one are used to safely grow trees on alterash planets, mainly ayakas.	헥 관목
+2621	rest_2451_2800.tsv	Alterash	알테라시	Green! Reminds me of alterash havens and yaara groves~	네, 선장!
+3666	rest_3501_3850.tsv	Alterash	알테라시	I wonder what planet this is from. Or what cave? This could be something found deep inside an alterash planet.	새 이방인. 자신 없어. 인사해!
+4889	rest_4551_4900.tsv	Alterash	알테라시	Like sssap. Comesss from alterash plantsss. Lotss of it.	쓸모없는 물건이에.
+5267	rest_5251_5600.tsv	Alterash	알테라시	Moon base intel! Just as relevant on alterash I'd say~	작은 변기. 그리 위생적으로 보이진 않아.
+8251	rest_8051_8400.tsv	Alterash	알테라시	These gardens are very similar to the regular alterash gardens... except for crystals. There's so many crystals here!	호기심. 이 높은 입구는 문으로 이어진다.
+8971	rest_8751_9100.tsv	Alterash	알테라시	This guide is very helpful for wrapping your head around the various crystal species and subspecies found around alterash...	즉석 엄폐물. 보호 제공.
+606	rest_priority_0646.tsv	Alterash	알테라시	Antorash plains seem like a more mysterious version of alterash gardens. Still just as pleasant.	우리의 현대적 깃발은 우리 행성 상공의 민간, 탐사 및 군 함대를 상징합니다.
+1105	rest_1051_1400.tsv	Ceternia	세터니아	Capturing ceternia on a semi-organic piece of matter sounds hard enough, keeping it on there seems impossible... But I guess here it is, proving me wrong. Another tiny secret of this mysterious universe.	요구. 씨발, 내 정액 받아!
+11160	rest_10851_11200.tsv	Ceternia	세터니아	Yaara is a ceternia plant, but an overflow of alternia energy makes it grow crystals like this.	푸호다!
+9156	rest_9101_9450.tsv	Ceternia	세터니아	This is one of the hearts of the surrounding yaara. I can gather ^#20f080;yaara roots^reset; and ^#20f080;ceternia cores^reset; from it.	식물 홀로그램
+10205	rest_10151_10500.tsv	Alternia	알테르니아	To some extent it's altas fault that these yaara roots are like this. Excessive alternia energy is to blame.	"^red;WIP^reset;. 3회의 가벼운 연속 공격. 길게 누르면 강력 베기를 사용한다.
+10초마다 충전 상태가 되어 다음 4회의 공격에 추가 ^#7733aa;전기^reset; 피해를 부여한다."
+1157	rest_1051_1400.tsv	Alternia	알테르니아	Charged crystals filled with pure alternia energy are divided into hevikal and altecal, this one is the former.	플로란은 인간이 왜 유령을 키우는지 모르겠다.
+11160	rest_10851_11200.tsv	Alternia	알테르니아	Yaara is a ceternia plant, but an overflow of alternia energy makes it grow crystals like this.	푸호다!
+1587	rest_1401_1750.tsv	Alternia	알테르니아	Discovering plasmic crystals was the first instance of altas being able to successfully extract alternia and transform it into a usable form of energy, like electricity. Nowadays quite a lot of ^#b0e0fc;alta energy sources^reset; and ^#b0e0fc;alta energy cells^reset; are created using pieces of these crystals.	저 멀리 소행성에서 누군가 본 것 같았는데...
+7909	rest_7701_8050.tsv	Alternia	알테르니아	The only and biggest reason we utilize regular alternia crystals for energy generation and not these overcharged cuties is that they are living breathing creatures and shouldn't be exploited.	고대 용기. 뭘 저장할까요?
+8337	rest_8051_8400.tsv	Alternia	알테르니아	These yaara roots are overflowing with alternia, hense the blueish tint and ionized crystals.	살로 된 알들.
+1775	rest_1751_2100.tsv	Enternia	에터니아	Enternia power unleashed!	보안 패스
+1974	rest_1751_2100.tsv	Enternia	에터니아	Finding a material with safely contained enternia was a pretty big discovery. And look at us now - ^#f02020;EDS^reset; can't stop shoving it in every piece of technology they have, and dreamers are hunting the empty barrens of ^#8020f0;enterash^reset;...	스캔 결과 빛나는 마디는 공기를 먹는 공생 박테리아로, 화학 반응으로 빛을 만든대. 과학은 대단해!
+3856	rest_3851_4200.tsv	Enternia	에터니아	I've never seen an enternia ^#b0e0fc;niaton^reset; before, but I guess this is it. Seems to be much heavier than usual, but I guess this is because of materials.	칼은 마음이 향하는 대로 움직인다-도움이 필요하면 말만 해라.
+5941	rest_5601_5950.tsv	Enternia	에터니아	One of a few enternia-filled things that isn't trying to get into your head. Still, better be cautious. I wonder how ^#8020f0;dreamers^reset; can have so many of these on them and stay conscious.	이봐, 나 네키여야 하는데!
+6253	rest_5951_6300.tsv	Enternia	에터니아	Purple! Reminds me of enternia and ionic energy~	안에 위험한 게 있는 것 같아.
+6388	rest_6301_6650.tsv	Enternia	에터니아	Remember when PDR200s where a breakthrough? And now, we are harnessing enternia... Look at us, and how far we've come, Io~	우리 동족은 별들에 흩어졌지만, 모두 영원히 연결돼 있다.
+6989	rest_6651_7000.tsv	Enternia	에터니아	Space-travelling altas say that this place can be pretty dangerous due to all the enternia. Scary.	색상이 이상하게 표시되기 시작하면 다섯 범주 모두에서 목록 맨 위의 'remove override'를 선택하세요. 모든 설정이 정상으로 돌아옵니다!
+3574	rest_3501_3850.tsv	Ceterai	세테라이	I think this set was designed by Ceterai herself. Interesting how these researchers got help from someone who seemingly went away. But then again, we're not the ones to blame her.	텍스트 삽입
+7405	rest_7351_7700.tsv	Ceterai	세테라이	Thank you for sharing, Ceterai.	수정 구슬.
+7667	rest_7351_7700.tsv	Ceterai	세테라이	The color of altas! I've heard that this is also Ceterai's favourite color too...	소박한 미닫이문.
+10083	rest_9801_10150.tsv	Ceterai	세테라이	This... Wasn't this drawn by... By Ceterai herself?..	^blue;에너지 장검^reset;
+1744	rest_1401_1750.tsv	Elithian	엘리시안	Elithian celebration with minimalist design.	비어 있어. 그게 무슨 뜻인지 알지! 부술 시간!
+5239	rest_4901_5250.tsv	Elithian	엘리시안	Minimalist approach shows elithian aesthetic philosophy.	무작위 고유 등급 아이템이 든 봉인된 보관함. ^green;[LMB] ^white;길게 눌러 열기!
+11315	rest_11201_11550.tsv	Codex	코덱스	"{ ""initialItems"" : [ { ""name"" : ""protectoratechest"", ""count"" : 1 }, { ""name"" : ""protectoratepants"", ""count"" : 1 },  { ""name"" : ""money"", ""count"" : 20 },  { ""name"" : ""lustlingView-codex"", ""count"" : 1 }, { ""name"" : ""protectorateflyer"", ""count"" : 1 } ] }"	작은 보석 달린 금 반지. 생각하는 사람 있어?
+1698	rest_1401_1750.tsv	Unexplored	미탐험 구역	Due to putrid air and disgusting monstrosities, these planets are mostly unexplored and forgotten.	최대한 빨리 먹을 것.
+10442	rest_10151_10500.tsv	Matter Manipulator	물질 조작기	Wait, this is Leda.. She is the one who gave me the Matter Manipulator before.........	<selfname> 네가 준비되면 준비됐어!
+1551	rest_1401_1750.tsv	Matter Manipulator	물질 조작기	Detected Matter Manipulator. Mission Objective confirmed.	^green;무기 업그레이드
+3489	rest_3151_3500.tsv	Matter Manipulator	물질 조작기	I should hurry and pick up this Matter Manipulator...	함부로 칼을 뽑지 않는다-하지만 전투가 요구하면 나서겠다.
+3503	rest_3501_3850.tsv	Matter Manipulator	물질 조작기	I should take the Matter Manipulator and get to safety. Perhaps the Union can send help to these people.	부상자들의 나지막한 신음과 지친 이들의 말 없는 간청이 들립니다. 제가 필요하다면 가까운 곳에 있겠습니다.
+4025	rest_3851_4200.tsv	Matter Manipulator	물질 조작기	In a moment I'll be among the first Avali to ever recieve a Matter Manipulator. The one piece of tech Humans have over us. This is a big moment in history...	그래, 내 자지 받아, 섹시한 암여우야!
+4026	rest_3851_4200.tsv	Matter Manipulator	물질 조작기	In a moment I'll be among the first lustling to ever recieve a Matter Manipulator..This is a big moment for me, I got here on my own merits, and not because I fucked my way to the top...	그래, 전부 받아, 깊이 받아!
+5146	rest_4901_5250.tsv	Matter Manipulator	물질 조작기	Matter manipulator upgrade! Protectorate's modular design is smart - easy to swap and improve.	무거운 금속 테이블.
+7572	rest_7351_7700.tsv	Matter Manipulator	물질 조작기	The Matter Manipulator! I feel bad for taking it this way, but it was always my mission to obtain this.	바삭함 애호가가 사랑하는 고소한 과일.
+7573	rest_7351_7700.tsv	Matter Manipulator	물질 조작기	The Matter Manipulator. Undeniably one of the greatest assets of the Protectorate.	접이식 침낭. 모험 중 잘 때 유용하군요.
+7872	rest_7701_8050.tsv	Matter Manipulator	물질 조작기	The mining laser is oddly shaped like a Matter Manipulator, interesting.	얼라이언스 서적
+8179	rest_8051_8400.tsv	Matter Manipulator	물질 조작기	There's no time to lose. I should pick up this Matter Manipulator and get out of here.	주의. 활성 인광구근, 조심해야겠다.
+8632	rest_8401_8750.tsv	Matter Manipulator	물질 조작기	This can't be happening. I need to get out of here. The Matter Manipulator will help.	이 상자가 단단한지 상관없어. 안의 걸 꺼낼 거야.
+10338	rest_10151_10500.tsv	Upgrade Module	업그레이드 모듈	Universal upgrade module! Modular design is smart - easy to swap and improve.	*꿀꺽* 음, 이건 안심되는 상황은 아니네...
+1530	rest_1401_1750.tsv	Upgrade Module	업그레이드 모듈	Deliver an ^orange;Upgrade Module^reset; to ^orange;Penguin Pete^reset; at the ^orange;outpost^reset;.	응, 박아줘, 이 사랑스러운 작은 여우야!
+10363	rest_10151_10500.tsv	Tech Card	테크 카드	Use a Tech Card to create a tech equip item	... (대답 없이 노려본다.)
+10364	rest_10151_10500.tsv	Tech Card	테크 카드	Use a Tech Card to create a tech unlock/crafting item	... 막혔어. 전화도 안 돼.
+2480	rest_2451_2800.tsv	Tech Card	테크 카드	Free tech card? Don't mind if I do!	날카로운 얼음 가시! 실수로 건드리지 않게 정말 조심해야겠군요..
+737	rest_0701_1050.tsv	Pixels	픽셀	Avali exclusive weapon printer. We pay in pixels, and get discounts.	많은 행성 표면에 저런 작은 유적이 있어... 대체 누가 지은 거지?
+10441	rest_10151_10500.tsv	Pixels	픽셀	"Wait, this appears to be a broken ""register"". Are there any Pixels inside?"	<selfname> 너랑 충분히 안 가까워!
+1238	rest_1051_1400.tsv	Pixels	픽셀	Compressed pixels! Smart way to carry large amounts without bulk~	최고의 물건을 가지고 있어!
+11021	rest_10851_11200.tsv	Pixels	픽셀	With how dangerous the universe is, it's probably best if I store my spare pixels.	귀여운 나무 상자로, 책과 장신구를 보관하기에 완벽하다.
+1806	rest_1751_2100.tsv	Pixels	픽셀	Even more compressed pixels! Efficient storage is always appreciated.	뭘 쳐다봐?
+2796	rest_2451_2800.tsv	Pixels	픽셀	Hope you got fifty pixels!	구블라 스택!! 구블라 스택!!
+3053	rest_2801_3150.tsv	Pixels	픽셀	I can put produce or meals into the create and fire it into space. I will get pixels for the items delivered.	^shadow;치명타 피해^reset;
+3055	rest_2801_3150.tsv	Pixels	픽셀	I can retrieve pixels here.	고통이 널 부른다
+4330	rest_4201_4550.tsv	Pixels	픽셀	It costs four hundred thousand pixels to fire this thing for twelve seconds.	지루. 영감 없는 엘리베이터.
+4435	rest_4201_4550.tsv	Pixels	픽셀	It transmutes ore into pixels?	화염 함정은 플로란 최악의 적이에!
+4826	rest_4551_4900.tsv	Pixels	픽셀	Lamp oil, rope, bombs... I want 'em, and they're mine if I have enough Pixels!	이 작은 꽃들은 어둠에서 빛나. 멋져!
+5293	rest_5251_5600.tsv	Pixels	픽셀	Most things I've analyzed can be magically created here from just pixels.	별빛으로 빛나는 풀의 무성한 관목.
+5703	rest_5601_5950.tsv	Pixels	픽셀	Observant. Gnome villagers will gather pixels here for my retrieval.	알? 우려.
+5794	rest_5601_5950.tsv	Pixels	픽셀	Observation. By using a mixture of prefabricated feedstock and pixels this printer is 900% more efficient.	플로란이 너한테 파란 탄 줄게엇!
+5859	rest_5601_5950.tsv	Pixels	픽셀	Oh!Take away my pixels! And shut up!	지오일렉트라 바위
+6268	rest_5951_6300.tsv	Pixels	픽셀	Put the goods in the crate, fire the crate into space, get pixels for the goods. Very handy.	임무: 회수
+6269	rest_5951_6300.tsv	Pixels	픽셀	Put the goods in the crate, teleport the crate to the Outpost, get pixels for the goods. Very handy.	기계 엉덩이. 아주 조여. 아주 기름져. 윤활제 필요 없어!
+6270	rest_5951_6300.tsv	Pixels	픽셀	Put the produce in the crate, teleport the crate to Terramart, get pixels for the produce. Very handy.	기계가 플로란한테 물건 만들어줘. 플로란이 만족해.
+7382	rest_7351_7700.tsv	Pixels	픽셀	Teleporting a my produce to Terramart, get pixels for it.	회로를 배선하는 컴퓨터 콘솔.
+7383	rest_7351_7700.tsv	Pixels	픽셀	Teleporting a my stuff to the Outpost, get pixels for it.	연결된 오브젝트 제어용 콘솔.
+8710	rest_8401_8750.tsv	Pixels	픽셀	This compresses pixels so they can be safely stored away.	안에서 뭘 찾을까?
+9060	rest_8751_9100.tsv	Pixels	픽셀	"This is a ""register"". I cannot take the Pixels, if there are any. That would be stealing."	노마다 토큰 교환
+9344	rest_9101_9450.tsv	Pixels	픽셀	This machine can turn pixels into almost any shape. I do not understand how it works, but it is quite useful.	우주여행 상인
+9373	rest_9101_9450.tsv	Pixels	픽셀	This machine takes ores and turns them into pixels.	천장에 매달린 끈적한 나무 수액이에.
+9375	rest_9101_9450.tsv	Pixels	픽셀	This magically creates things from pixels. I just have to scan them first.	지팡이 마법부여사
+9478	rest_9451_9800.tsv	Pixels	픽셀	This object looks empty, but maybe it contains pixels.	함장 의자. 수많은 모험으로 가는 관문이네요.
+9672	rest_9451_9800.tsv	Pixels	픽셀	This seems to transmute minerals into pixels.	이 근접 스캐너는 유기·합성 생물을 모두 스캔해.
+9688	rest_9451_9800.tsv	Pixels	픽셀	This shop is sellin' farm animal eggs! Ooh, hopefully I got a few pixels to share!	이 스테이션은 내가 잡은 어떤 생물도 치유해.
+9959	rest_9801_10150.tsv	Pixels	픽셀	This thing never has any lube or dildos in it, and it also took my pixels!	네가 아래를 엉망으로 만들수록 난 더 흥분돼~
+519	rest_0401_0700.tsv	Teleporter	텔레포터	Analytical. I believe this teleporter is connected to the Woof trading space.	잠깐, 네 정액도 빛나?!
+520	rest_0401_0700.tsv	Teleporter	텔레포터	Analytical. I believe this teleporter is connected to the entrance.	우리가 싼다!
+522	rest_0401_0700.tsv	Teleporter	텔레포터	"Analytical. If my data is correct, this teleporter is directly connected to ""Unustrello's Starry Café""."	예쁜 플래시라이트네. 끌리는데.
+556	rest_0401_0700.tsv	Teleporter	텔레포터	Angel flag makess good point to teleport back to ussing teleporter	네 털이 날 간지럽혀. 더 단단해지게 해.
+826	rest_0701_1050.tsv	Teleporter	텔레포터	Beacon makess good point to teleport back to ussing teleporter!	멋진 엘리베이터!
+901	rest_0701_1050.tsv	Teleporter	텔레포터	Big teleporter movesss big thingss.	새터니안 모행성에서 가져온 떠다니는 빛나는 수정 구슬. 공중에 놓을 수 있다.
+10527	rest_10501_10850.tsv	Teleporter	텔레포터	Weary. Where could this teleporter lead?	트링키안 안테나. 통신 신호를 증폭해.
+10717	rest_10501_10850.tsv	Teleporter	텔레포터	What is it..? some kind of the new Apex's teleporter??	발베리 주스 한 병.
+11281	rest_11201_11550.tsv	Teleporter	텔레포터	arcanian flag makess good point to teleport back to ussing teleporter	다행히 비유기 종류 거대 촉수.
+11286	rest_11201_11550.tsv	Teleporter	텔레포터	halfsea flag makess good point to teleport back to ussing teleporter	손상 시 몇 초 만에 단단한 외골격 재생하는 거대 절지동물.
+11288	rest_11201_11550.tsv	Teleporter	텔레포터	kitsune torii makess good point to teleport back to ussing teleporter	키링키다!
+11306	rest_11201_11550.tsv	Teleporter	텔레포터	spectwing flag makess good point to teleport back to ussing teleporter	어떤 수정으로 만든 빛나는 대형 망치.
+11310	rest_11201_11550.tsv	Teleporter	텔레포터	woofie flag makess good point to teleport back to ussing teleporter	글러토니다!
+1778	rest_1751_2100.tsv	Teleporter	텔레포터	Enticed. A very personal teleporter, with a very custom design.	천장에서 작은 뿌리가 삐져나와 있군요.
+2552	rest_2451_2800.tsv	Teleporter	텔레포터	Gilten flag makess good point to teleport back to ussing teleporter!	이 기계는 포획 포드를 파는 것 같네.
+2967	rest_2801_3150.tsv	Teleporter	텔레포터	I believe this teleporter might lead to the Woof HQ.	생명의 원소가 숲의 모든 영광 속에 살아 있다.
+2968	rest_2801_3150.tsv	Teleporter	텔레포터	I believe this teleporter might lead to the entrance.	ADF 지상군의 문장.
+3082	rest_2801_3150.tsv	Teleporter	텔레포터	I can use this here teleporter to visit past fights!	무장한 아비칸 세입자를 소환하는 신호기.
+3083	rest_2801_3150.tsv	Teleporter	텔레포터	I can use this here teleporter to visit past missions and mark the outposts location.	올바른 장소에서 쓰면 얼라이언스 경비를 소환할 수 있는 신호기.
+3084	rest_2801_3150.tsv	Teleporter	텔레포터	I can use this here teleporter to visit past missions!	올바른 장소에서 쓰면 아비칸 경비를 소환할 수 있는 신호기.
+3908	rest_3851_4200.tsv	Teleporter	텔레포터	If I mark this teleporter, I can return to here with a different teleporter at any time.	이 성장체가 뭔가 보호하는 것 같아. 사격 연습 시간!
+3924	rest_3851_4200.tsv	Teleporter	텔레포터	If I use this teleporter, it will take me back to the Ark.	이 식물은 사실상 식물성 눈인 눈 같은 물질을 만들어!
+4615	rest_4551_4900.tsv	Teleporter	텔레포터	It's like my ship, but smaller and without a teleporter.	레이저 스나이퍼
+4728	rest_4551_4900.tsv	Teleporter	텔레포터	Judging by the look of this teleporter, I'd guess it connects right to the entrance.	깊은 남색으로 빛나는 반짝이는 수정이네요.
+4729	rest_4551_4900.tsv	Teleporter	텔레포터	Judging by the look of this teleporter, I'd guess it connects to somewhere.	반짝이는 불빛이에.
+5083	rest_4901_5250.tsv	Teleporter	텔레포터	Lucario flag makess good point to teleport back to ussing teleporter!	죽은 셸가드 병사! 고기가 낭비되겠다.
+5087	rest_4901_5250.tsv	Teleporter	텔레포터	Lustling bust makess good point to teleport back to ussing teleporter	창문과 창 장식, 문을 꾸미는 장식용 포인트.
+5459	rest_5251_5600.tsv	Teleporter	텔레포터	Neutral. This teleporter will likely be turned on when the shop re-opens.	기본 드론과 드로이드는 보통 에너지 보호막이나 장갑 재생이 없고, 액체 너머 목표를 볼 수 없다.
+5780	rest_5601_5950.tsv	Teleporter	텔레포터	Observant. This teleporter appears to be designed for transporting large crates.	플로란이 사슴 남자 지배!!
+6078	rest_5951_6300.tsv	Teleporter	텔레포터	Perssonal teleporter is a toilet! Funny!!	솔직히 말하면. 여긴 가끔 지루해.
+6097	rest_5951_6300.tsv	Teleporter	텔레포터	Pioneer flag makess good point to teleport back to ussing teleporter!	저건 안 치울 거야...
+6579	rest_6301_6650.tsv	Teleporter	텔레포터	Shellguard bookmark makess good point to teleport back to ussing teleporter!	다람쥐는 새 모이를 훔치는 끔찍한 해충이야. 이건 길들여져서 다행이고.
+6727	rest_6651_7000.tsv	Teleporter	텔레포터	Smug. A mini teleporter. I am able to enter a sleep mode during the teleport process.	상원의원 놈들은 우리 가난뱅이 굶는데도 배 채울 줄밖에 몰라.
+7073	rest_7001_7350.tsv	Teleporter	텔레포터	Ssship teleporter..? Floran feels not good just looking at it.	와! 거의 분해됐어.
+7227	rest_7001_7350.tsv	Teleporter	텔레포터	Strange..pretty compact teleporter I ever seen, how does it work?	^red;경고! 방사선 감지 ^reset;! 적절한 보호 장비 없이 추가 탐험 금지!
+7381	rest_7351_7700.tsv	Teleporter	텔레포터	Teleporter. Floran feel confusssed during teleport.	여러 도구가 있는 소형 작업장. 공간과 재료 활용이 효율적이야.
+7502	rest_7351_7700.tsv	Teleporter	텔레포터	That's one fancy teleporter. Maiden says the City of Commence lies beyond it.	수정을 닮은 큰 꽃.
+7860	rest_7701_8050.tsv	Teleporter	텔레포터	The main teleporter of the Outpost. It has built in ventilation.	아키 여기서 펫 치료해.
+8402	rest_8401_8750.tsv	Teleporter	텔레포터	This Alta flag can act as a way point, enabling me to return to this point using a teleporter.	플로란이 ^orange;<cropList>을(를) 못 찾겠어엇. ^white;플로란은 ^green;좀 가져다주면 후하게 보상할게엇.
+8403	rest_8401_8750.tsv	Teleporter	텔레포터	This Alta flag can be bookmarked as a destination for my ship teleporter.	플로란이 여기 초대형 고기를 저장할 수 있다!
+8404	rest_8401_8750.tsv	Teleporter	텔레포터	This Alta flag can be saved as a location for my teleporter. Then I can return to it any time.	플로란이 낯선 이를 싫어해엇.
+8405	rest_8401_8750.tsv	Teleporter	텔레포터	This Angel flag can act as a way point, enabling me to return to this point using a teleporter.	플로란이 조명탄을 안 좋아한다.
+8406	rest_8401_8750.tsv	Teleporter	텔레포터	This Angel flag can be bookmarked as a destination for my ship teleporter.	플로란이 큰 금속 물건을 안 좋아한다.
+8407	rest_8401_8750.tsv	Teleporter	텔레포터	This Angel flag can be saved as a location for my teleporter. Then I can return to it at any time.	플로란이 주황 관을 안 좋아한다.
+8423	rest_8401_8750.tsv	Teleporter	텔레포터	This Gilten flag can act as a way point, enabling me to return to this point using a teleporter.	플로란이 스테이션에서 강한 무기 만든다.
+8424	rest_8401_8750.tsv	Teleporter	텔레포터	This Gilten flag can be bookmarked as a destination for my ship teleporter.	플로란이 여기서 뼈로 무기 만든다!
+8425	rest_8401_8750.tsv	Teleporter	텔레포터	This Gilten flag can be saved as a location for my teleporter. Then I can return to it any time.	플로란이 문 열려고 몬스터 찔러야 해엇.
+8432	rest_8401_8750.tsv	Teleporter	텔레포터	This Lucario flag can act as a way point, enabling me to return to this point using a teleporter.	플로란이 낯선 이 찔러엇. 너 조심해엇.
+8433	rest_8401_8750.tsv	Teleporter	텔레포터	This Lucario flag can be bookmarked as a destination for my ship teleporter.	플로란이 이걸로 모루에 물건 더해.
+8434	rest_8401_8750.tsv	Teleporter	텔레포터	This Lucario flag can be saved as a location for my teleporter. Then I can return to it any time.	플로란이 테이블로 더 많은 테이블 만든다.
+8435	rest_8401_8750.tsv	Teleporter	텔레포터	This Lustling bust can act as a way point, enabling me to return to this point using a teleporter.	플로란이 이걸로 리플리케이터보다 더 많은 물건 만든다.
+8436	rest_8401_8750.tsv	Teleporter	텔레포터	This Lustling bust can be bookmarked as a destination for my ship teleporter.	플로란이 상자 먹고 싶다.
+8437	rest_8401_8750.tsv	Teleporter	텔레포터	This Lustling bust can be saved as a location for my teleporter. Then I can return to it at any time.	플로란이 언젠가 물용한테 찌르기 비밀을 알려줄게엇.
+8446	rest_8401_8750.tsv	Teleporter	텔레포터	This Pioneer flag can act as a way point, enabling me to return to this point using a teleporter.	역장
+8447	rest_8401_8750.tsv	Teleporter	텔레포터	This Pioneer flag can be bookmarked as a destination for my ship teleporter.	용광로 불꽃이 치익, 타. 플로란이 견딘다.
+8448	rest_8401_8750.tsv	Teleporter	텔레포터	This Pioneer flag can be saved as a location for my teleporter. Then I can return to it at any time.	전방 정찰 [RADIOPACK]: 전개 명령 사용 시 웨스트 스타 패스파인더 1명 소환 | 120초 쿨다운.
+8450	rest_8401_8750.tsv	Teleporter	텔레포터	This Shellguard bookmark can act as a way point, enabling me to return to this point using a teleporter.	아이스네의 샘
+8451	rest_8401_8750.tsv	Teleporter	텔레포터	This Shellguard bookmark can be bookmarked as a destination for my ship teleporter.	신선한 물! 지금 마시고 싶어.
+8452	rest_8401_8750.tsv	Teleporter	텔레포터	This Shellguard bookmark can be saved as a location for my teleporter. Then I can return to it at any time.	친화 경비
+8490	rest_8401_8750.tsv	Teleporter	텔레포터	This ancient-looking teleporter does not appear to be functioning anymore.	저런 건 얼마든지 더 있으니 빨기 시작해~
+8504	rest_8401_8750.tsv	Teleporter	텔레포터	This arcanian flag can act as a way point, enabling me to return to this point using a teleporter.	안녕, 친구!
+8505	rest_8401_8750.tsv	Teleporter	텔레포터	This arcanian flag can be bookmarked as a destination for my ship teleporter.	안녕, 털북숭이.
+8506	rest_8401_8750.tsv	Teleporter	텔레포터	This arcanian flag can be saved as a location for my teleporter. Then I can return to it at any time.	안녕, 이방인!
+8523	rest_8401_8750.tsv	Teleporter	텔레포터	This beacon can act as a way point, enabling me to return to this point using a teleporter.	모자와 서클릿을 여기서 팔아.
+8524	rest_8401_8750.tsv	Teleporter	텔레포터	This beacon can be bookmarked as a destination for my ship teleporter.	너희 종족 예술은 요즘 좀 발전했어?
+8525	rest_8401_8750.tsv	Teleporter	텔레포터	This beacon can be saved as a location for my teleporter. Then I can return to it at any time.	최근 미라실에 다녀왔어
+8936	rest_8751_9100.tsv	Teleporter	텔레포터	This funky teleporter will allow me to return to the Peacekeeper HQ.	라인 캐논
+8978	rest_8751_9100.tsv	Teleporter	텔레포터	This halfsea flag can act as a way point, enabling me to return to this point using a teleporter.	마스터 책상
+8979	rest_8751_9100.tsv	Teleporter	텔레포터	This halfsea flag can be bookmarked as a destination for my ship teleporter.	최대 피해:
+8980	rest_8751_9100.tsv	Teleporter	텔레포터	This halfsea flag can be saved as a location for my teleporter. Then I can return to it at any time.	클루엑스가 널 강하게 하길.
+9023	rest_8751_9100.tsv	Teleporter	텔레포터	This here teleporter will take me back to a Shellguard outpost.	신비한 책
+9084	rest_8751_9100.tsv	Teleporter	텔레포터	This is a pretty large teleporter.	관찰. 이 상자는 의료품이 든 것 같다.
+9214	rest_9101_9450.tsv	Teleporter	텔레포터	This kitsune torii can act as a way point, enabling me to return to this point using a teleporter.	레일 캐논
+9215	rest_9101_9450.tsv	Teleporter	텔레포터	This kitsune torii can be bookmarked as a destination for my ship teleporter.	레일 권총
+9216	rest_9101_9450.tsv	Teleporter	텔레포터	This kitsune torii can be saved as a location for my teleporter. Then I can return to it at any time.	무지개 창
+9423	rest_9101_9450.tsv	Teleporter	텔레포터	This mini teleporter may bring me to the Woof HQ Trading Center.	해독제를 써도 되지만 이게 훨씬 고급지고 맛있어.
+9770	rest_9451_9800.tsv	Teleporter	텔레포터	This spectwing flag can act as a way point, enabling me to return to this point using a teleporter.	삼엽충 화석
+9771	rest_9451_9800.tsv	Teleporter	텔레포터	This spectwing flag can be bookmarked as a destination for my ship teleporter.	트링키안 걸이 전선
+9772	rest_9451_9800.tsv	Teleporter	텔레포터	This spectwing flag can be saved as a location for my teleporter. Then I can return to it at any time.	트링키안 모니터는 아주 특이한 방식으로 정보를 표시해.
+9791	rest_9451_9800.tsv	Teleporter	텔레포터	This star-stricken teleporter definitely must go to that one café place I keep hearing about...	도시형 높은 식물
+9927	rest_9801_10150.tsv	Teleporter	텔레포터	This teleporter appears to be offline. It should be switched on when the shop opens.	레테이아와 일하면 좋은 점도 있지만... 휴가를 낼 수 있다는 건 그중 하나가 아니야.
+9928	rest_9801_10150.tsv	Teleporter	텔레포터	This teleporter appears to be without power. Maybe it'll be on once the shop opens?	우리 건축에 대해 배워볼래?
+9929	rest_9801_10150.tsv	Teleporter	텔레포터	This teleporter doesn't seem to have power. Hopefully, it'll work when the shop opens.	XS R-03C 해적 로 메크
+9930	rest_9801_10150.tsv	Teleporter	텔레포터	This teleporter enables me to return to this facility easily.	자나피안 그림자
+9931	rest_9801_10150.tsv	Teleporter	텔레포터	This teleporter enables me to return to this stronghold easily.	좋은 나무는 다들 좋아하지.
+9932	rest_9801_10150.tsv	Teleporter	텔레포터	This teleporter isn't functioning, kupo.	여긴 네가 있을 곳이 아냐, 친구!
+9933	rest_9801_10150.tsv	Teleporter	텔레포터	This teleporter looks like it might provide a quick route to this stronghold's entrance.	응, 근데 이제 일하러 돌아가야겠어.
+9934	rest_9801_10150.tsv	Teleporter	텔레포터	This teleporter looks like it might provide a quick route to..hmm some place?	응, 계속 플로란 엉덩이 핥아아앗~!
+9935	rest_9801_10150.tsv	Teleporter	텔레포터	This teleporter will allow me to leave. I am thankful.	응, 계속 플로란 보지 핥아아앗~! 플로란 꿀 마셔엇!
+9936	rest_9801_10150.tsv	Teleporter	텔레포터	This teleporter will allow me to return to my ship. I am thankful.	응, 계속 내 엉덩이 핥아~! 빨아줘!
+9937	rest_9801_10150.tsv	Teleporter	텔레포터	This teleporter will allow me to return to the Outpost. I am thankful.	응, 계속 내 보지 핥아~! 빨아줘!
+9938	rest_9801_10150.tsv	Teleporter	텔레포터	"This teleporter will provide a quick route to ""Unustrello's Starry Café""."	응, 계속 거기 핥아~
+9939	rest_9801_10150.tsv	Teleporter	텔레포터	This teleporter's good for movin' big cargo.	응~! 나랑 같이 절정 가~!
+10061	rest_9801_10150.tsv	Teleporter	텔레포터	This woofie flag can act as a way point, enabling me to return to this point using a teleporter.	^#d2d2d2;T1^reset;
+10062	rest_9801_10150.tsv	Teleporter	텔레포터	This woofie flag can be bookmarked as a destination for my ship teleporter.	^#d2d2d2;T2^reset;
+10063	rest_9801_10150.tsv	Teleporter	텔레포터	This woofie flag can be saved as a location for my teleporter. Then I can return to it at any time.	^#dd6f52;블리스터링 ^white;은 사막 열기로 덮여 있다. 고대 불의 옛 폐허가 흩어져 있다.
+10126	rest_9801_10150.tsv	Teleporter	텔레포터	Thisss teleporter will take me to the Electrochem Facility.	^orange;드로덴 프레임 작업장^white;
+194	rest_priority_0644.tsv	Teleporter	텔레포터	An ancient capsule refashioned into a teleporter. Even now it retains a pitch black skeletal structure.	이 스테이션을 통해 SAIL과 대화할 수 있다.
+207	rest_0151_0400.tsv	Portal	포털	An ancient portal most likely built by Avians. Destabilization on use seems likely.	발 마사지는 발바닥에 좋다.
+10543	rest_10501_10850.tsv	Portal	포털	Weird.It's a portal that seems to be connected somewhere far away.	오디노다!
+1125	rest_1051_1400.tsv	Portal	포털	Cautious. A node designed to store excess portal energy.	지배. 그래, 내 자지를 받아, 물고기야!
+4318	rest_4201_4550.tsv	Portal	포털	It appears the architects of this portal constructed these to store excess energy.	몇 분이면 금방 돌아올게.
+4603	rest_4551_4900.tsv	Portal	포털	It's like a mini version of that portal above.	초조. 밤새 별을 보고 있었어.
+4690	rest_4551_4900.tsv	Portal	포털	It'ss a portal that ssseemss to be connected sssomewhere far away.	여기 오래 있지 마, 미니크녹이 찾아올 수 있어!
+2335	rest_2101_2450.tsv	Fuel Hatch	연료 해치	Floran ssshould not put head into fuel hatch.	하이퍼 디멘션 클라이언트
+2490	rest_2451_2800.tsv	Fuel Hatch	연료 해치	Frogman fuel hatch.	그럼 이걸로 내가 서큐버스가 되는 거야?
+2798	rest_2451_2800.tsv	Fuel Hatch	연료 해치	Hopefully other species will take cues from our practical fuel hatch designs.	거대한 구멍.
+3806	rest_3501_3850.tsv	Fuel Hatch	연료 해치	I'm surprised the Hylotl haven't adopted one of the numerous other fuel hatch designs. This is impractical.	멍청한 로봇.
+4045	rest_3851_4200.tsv	Fuel Hatch	연료 해치	Indifferent. A fuel hatch.	네가 조여서 너무 싸게 돼~
+7770	rest_7701_8050.tsv	Fuel Hatch	연료 해치	The fuel hatch.	포획 생물이 안 멀어지게 하는 테더.
+105	rest_priority_0644.tsv	Fuel Hatch	연료 해치	An Avian fuel hatch.	감탄. 이 묘목을 심으면 생명을 기를 수 있다.
+1883	rest_1751_2100.tsv	Knockback	넉백	"Experimental power armor to ensure protection for all.
+^orange;Set Bonuses^reset;:
+^yellow;^reset; Power Dash Tech. Partial knockback resist;
+^yellow;^reset; Protectorate Weaponry: Damage x^green;1.3^reset;
+^yellow;^reset; ^cyan;Immune^reset;: Deadly Rads, Deadly Heat/Cold, Poison, Oxygen, Gas"	기본 나무 판자.
+1577	rest_1401_1750.tsv	Regeneration	재생	Disables energy regeneration while active.	내 자궁을 채워줘~~!
+1774	rest_1751_2100.tsv	Immunity	면역	Enhancers feel nice and convient to drink. This one is a bit bland, but then again I assume it wasn't meant for altas, since we already have this level of immunity.	뿌리내린 촉수 식물
+8225	rest_8051_8400.tsv	Immunity	면역	"These boots march onwards to a brighter future.
+^orange;Set Bonuses^reset;:
+^yellow;^reset; Rocket Thruster. Fall Damage Immunity;
+^yellow;^reset; Protectorate Weaponry: Damage x^green;1.3^reset;
+^yellow;^reset; ^cyan;Immune^reset;: Deadly Rads, Deadly Heat/Cold, Poison, Oxygen, Gas"	코러스 병
+1917	rest_1751_2100.tsv	Broadsword	브로드소드	Fascinated. This is a beautiful Angel Shield. Though, you can't exactly hold a broadsword and a shield at the same time.	고궤도
+4102	rest_3851_4200.tsv	Broadsword	브로드소드	Interested. A sharp Angel shortsword display with an Angel shield. The Glitch weapon of choice is the broadsword.	'우주 최고 총잡이'는 무슨, 내 왼쪽 장화나 핥아라!
+288	rest_0151_0400.tsv	Shortsword	소검	An elegant Angel Shield! This would be great with a shortsword. With this--the dance of battle would be much more interesting!	장로 종족들이 얼마나 많은 걸 남겼는지 믿기지 않아. 마치 자기 물건에 관심이 없는 것처럼.
+11049	rest_10851_11200.tsv	Shortsword	소검	Woah! Ssshiny shortsword iss amazing to Floran! Although it hass weird ssshape...	장식용 가짜 테이블 식물.
+1496	rest_1401_1750.tsv	Shortsword	소검	Dazzled! The light coming off this Angel shortsword is too bright! It does look awesome, though.	멋진 요리의 기적이네요! 내 것이라고 할 수 있을까요?
+3561	rest_3501_3850.tsv	Shortsword	소검	I think this is a powerful Angel shortsword.. And of course, it's got a cross-like shape integrated into it.	빙빙 돌려 말할 생각 없어. 이 항아리를 부수고 싶어.
+3618	rest_3501_3850.tsv	Shortsword	소검	I wish the light coming off this Angel shortsword could be toned down..but other than that, this is truly a beautiful and powerful weapon.	페네록스 같아. 그런데 빛나. 아주 이상. 그래도 예뻐. 페네록스 교미!
+4102	rest_3851_4200.tsv	Shortsword	소검	Interested. A sharp Angel shortsword display with an Angel shield. The Glitch weapon of choice is the broadsword.	'우주 최고 총잡이'는 무슨, 내 왼쪽 장화나 핥아라!
+8603	rest_8401_8750.tsv	Shortsword	소검	This bright shortsword seems to be made of light and a type of fire at the same time.. It also looks like the Angel's religious symbol was transformed into a weapon.	여기서 농사 물건 잔뜩 살 수 있어, 좋아.
+9113	rest_9101_9450.tsv	Shortsword	소검	This is an Angelic Solarium Shortsword on display. It's one of the most powerful Angel weapons. It is the sacred amalgamation of Holy Fire and light itself!	"다리 하나 올리고 촉수 하나 넣고.
+               ^red;경고!
+ 피해자는 파괴 시 탈출!"
+5060	rest_4901_5250.tsv	Assault Rifle	돌격소총	Looks to be simple yet sleek looking designs for an assault rifle.	무거운 상자를 쉽게 옮기는 카트.
+5055	rest_4901_5250.tsv	Sniper Rifle	저격소총	Looks to be a high-tech looking sniper rifle.	근처 개체를 감지하면 신호를 보내는 카메라.
+3430	rest_3151_3500.tsv	Rocket Launcher	로켓 발사기	I need a rocket launcher to launch these.	더 넣을 공간 있어~?
+535	rest_0401_0700.tsv	Grenade Launcher	유탄 발사기	Analytical. This grenade launcher is quite powerful.	좋아... 네 큰 강아지 자지를 줘!
+5054	rest_4901_5250.tsv	Grenade Launcher	유탄 발사기	Looks to be a high-tech looking grenade launcher.	잎 달린 뿌리 한 다발이다냥.
+1702	rest_1401_1750.tsv	Durasteel	듀라스틸	Durasteel can be one of the base components for ^#f02020;EDS armor^reset; pieces. Or so I've heard.	플로란은 외계 문양이 뭔지 모른다.
+6351	rest_6301_6650.tsv	Ferozium	페로지움	Refined ferozium! Always exciting to work with these advanced materials.	진짜와 똑같진 않지만, 그래도 아무리 해도 질리지가 않아~!
+10424	rest_10151_10500.tsv	Violium	바이올륨	Violium! One of the rare materials we actually use in our best equipment~	<field> 병사
+6352	rest_6301_6650.tsv	Violium	바이올륨	Refined violium is so versatile! Great for all sorts of advanced projects.	기대하던 건 아니지만... 나쁘지도 않아!
+9112	rest_9101_9450.tsv	Solarium	솔라리움	This is an Angelic Solarium Axe on display. It's one of the most powerful Angel weapons. It is the sacred amalgamation of Holy Fire and light itself!	가장 어두운 시절에서 가장 큰 교훈을 배운다, 친구.
+9113	rest_9101_9450.tsv	Solarium	솔라리움	This is an Angelic Solarium Shortsword on display. It's one of the most powerful Angel weapons. It is the sacred amalgamation of Holy Fire and light itself!	"다리 하나 올리고 촉수 하나 넣고.
+               ^red;경고!
+ 피해자는 파괴 시 탈출!"
+9114	rest_9101_9450.tsv	Solarium	솔라리움	This is an Angelic Solarium Spear on display. It's one of the most powerful Angel weapons. It is the sacred amalgamation of Holy Fire and light itself!	말벌 미믹이 쓰는 한 쌍 중 하나, 근데 말벌족은 랜스 쌍수를 안 써?
+9115	rest_9101_9450.tsv	Solarium	솔라리움	This is an Angelic Solarium Sword on display. It's one of the most powerful Angel weapons. It is the sacred amalgamation of Holy Fire and light itself!	맛있는 아베스밍고와 달콤한 꿀만 들어간 기분 상승 술.
+1000	rest_0701_1050.tsv	Erchius	에르키우스	Bring the ^orange;Erchius Fuel^reset; to ^green;Rondin^reset;.	작은 키츠네 코타츠.
+1713	rest_1401_1750.tsv	Erchius	에르키우스	Earth's single natural satellite. Avos' own moon was considered a cursed place for some time thanks to the presence of Erchius on it.	착한 장난감, 플로란을 싸게 만들었어엇!
+1785	rest_1751_2100.tsv	Erchius	에르키우스	Erchius crystals! Essential for FTL travel, we have these on our planets too~	진술. 버섯.
+4721	rest_4551_4900.tsv	Erchius	에르키우스	John Prodman's Poster, He once beat a massive erchius-infestation back with just a PROVA baton!	잠금 안 된 저장고 치곤 충분히 안전해 보여.
+8150	rest_8051_8400.tsv	Erchius	에르키우스	There was a Letheia owned Erchius mining facility on Luna, it's been silent since the fall of Earth...	포획한 물개
+8285	rest_8051_8400.tsv	Erchius	에르키우스	These planets seem to channel lunar energies. Hopefully this doesn't attract erchius ghosts.	외계 수원 감지.
+505	rest_0401_0700.tsv	Floran	플로란	Analyse. This pod is of Floran origin, but... something is amiss	오, 네 깃털을 적시고 있어!
+543	rest_0401_0700.tsv	Floran	플로란	Ancient table. Floran can eassily cut meat on thisss table!	네 자지가 너무 좋아! 멈추지 마, 크고 귀엽고... 빛나는... 털복숭이!
+557	rest_0401_0700.tsv	Floran	플로란	Angel sstatue not ssscary to Floran.	네 도마뱀 자지가 이상해... 그래도 너무 좋아! 멈추지 마!
+561	rest_0401_0700.tsv	Floran	플로란	Angels make sssupport with fake wing? Floran thinkss this isss weird.	^gray;더 림^reset;
+571	rest_0401_0700.tsv	Floran	플로란	Angry fissshman allied with strong fissshlady, not good for Floran.	자동 기지 방어
+572	rest_0401_0700.tsv	Floran	플로란	Angry fissshman not angry anymore... Hehehe, Floran surprised.	꽃향기에.
+807	rest_0701_1050.tsv	Floran	플로란	Bamboo foressst gives Floran much cheap ssstuff to build homess with.	이건 고대 룬 같지 않아...
+813	rest_0701_1050.tsv	Floran	플로란	Barbaric Floran tales are carved onto this tall bone.	이 창문은 조선소의 멋진 전망을 보여준다.
+831	rest_0701_1050.tsv	Floran	플로란	Beautiful yaara flowerss. Floran likesss them. Yaara Floran grow these to ssee in the dark.	아키 목말라.
+835	rest_0701_1050.tsv	Floran	플로란	Bed iss cold. Floran might resst here anywaysss.	안젤리카 꽃.
+876	rest_0701_1050.tsv	Floran	플로란	Big bad ssspiky plant, warpy and evil. Hatess Floran.	이 램프는 빛나는 수정, 포션 병, 밧줄로 만들어졌다.
+878	rest_0701_1050.tsv	Floran	플로란	Big buzzy box! Makess Floran's leaves stand up!	이 배의 텔레포터. 이렇게 꺼져 있으면 아무데도 못 가.
+897	rest_0701_1050.tsv	Floran	플로란	Big sssphere of ice. Floran musst be careful.	...대화를 다시 시작해야 하나?
+902	rest_0701_1050.tsv	Floran	플로란	Big tree isss old and wise shroom. Floran wishess to grow as old and wise as shroom tree.	새터니안 모행성에서 가져온 떠다니는 빛나는 수정. 공중에 놓을 수 있다.
+908	rest_0701_1050.tsv	Floran	플로란	Bird men masstered flamesss. Floran iss afraid of them.	작은 화분에 심긴, 얌전해 보이는 식물.
+928	rest_0701_1050.tsv	Floran	플로란	Blue orb makess Floran dizzy.	여기서 잠깐 쉬어도 되겠다.
+10183	rest_10151_10500.tsv	Floran	플로란	Tiny fire isss not so sscary to Floran..!	"^orange;세트 보너스^reset;:
+^yellow;^reset; 완드/스태프: 피해량 x^green;1.13^reset;"
+10226	rest_10151_10500.tsv	Floran	플로란	Tough guy, talked about him with my Floran and Avian roommates. They seemed really impressed.	"""완벽한 금 광석 표본."""
+10256	rest_10151_10500.tsv	Floran	플로란	Trap dropsss floating creature on Floran'ss head.	"""돌아가라"" 낙서"
+10257	rest_10151_10500.tsv	Floran	플로란	Trap firess out lightning. Floran lovesss traps.	"""초록색 밀폐 용기에 든 샌드위치를 계속 먹는 자에게 경고한다. 반드시 찾아내 해고하겠다."" ...알겠어..."
+10283	rest_10151_10500.tsv	Floran	플로란	Two-in-one. Floran can grow a chest and don't even bother to decorate it for any celebration, cuz it's already lookin' cool.	"''OTRINCO는 다른 거대기업과 달리, 파는 무기가 실제로 R.S.O 내 여러 제조 공장에서 나온다. 그래서 무기마다 품질 차이가 클 수 있다.''
+9x19mm를 사용하는 OTRINCO QCQ171. 쿠르츠 마쉬넨피스톨레 5와 비슷한 외형이지만 내부 기구는 다르다. 35발을 장전한다.
+^green;[SHIFT]를 두 번 눌러 의심스러운 한손 자세로 전환한다.^reset;"
+10311	rest_10151_10500.tsv	Floran	플로란	Uncomfy chair made from ssstrange ore. Floran unhappy.	숲에서 자매와 마주치는 것은 좋은 징조야.
+10423	rest_10151_10500.tsv	Floran	플로란	Violet flower ssymbol of death and rebirth. Floran heard they are toxic.	<field> 밀수업자
+10458	rest_10151_10500.tsv	Floran	플로란	Warped plantss are viciousss. Even small oness. Not friendly to Floran.	'NAND' 논리 게이트. 두 입력이 동시에 '켜짐'이 아니어야 작동.
+10459	rest_10151_10500.tsv	Floran	플로란	Warpy chesst grew itssself on itss own. Floran Greenfinger hass to grow vine chesst by hand.	'NOR' 논리 게이트. 두 입력이 모두 '꺼짐'이어야 작동.
+10460	rest_10151_10500.tsv	Floran	플로란	Warpy hole plant sssuck water! But also poissson. Floran could use thisss.	'릴레이' 스위치에. '켜짐'은 켜짐이고 '꺼짐'은 꺼짐이에.
+10461	rest_10151_10500.tsv	Floran	플로란	Warpy plantss are evil, but plant lightss can't burn Floran. Floran win.	'XNOR' 논리 게이트. 두 입력이 같아야 작동.
+10462	rest_10151_10500.tsv	Floran	플로란	Warpy plantss ssoak in power from this ssmall geysser. Floran wantss to sssmash it.	..쿨러..? 음료와 간식으로 채워져 있으면 좋겠어.
+10463	rest_10151_10500.tsv	Floran	플로란	Warpy table growss, twisssts. Only electrogirlsss can stop. Floran don't like but need to trusst.	/'낫'/ 스위치. 회로 입력을 반전시켜.
+10474	rest_10151_10500.tsv	Floran	플로란	Wassste of good chocolate... Floran not ssssure if true.	센텐시안 텔레포터. 만들어진 관문이 널 빨아들이는 듯해...
+10475	rest_10151_10500.tsv	Floran	플로란	Wasste of good wood! Floran wantsss to steal thiss and make weaponsss.	센텐시안제 모놀리스. 용도가 뭘까?
+10497	rest_10151_10500.tsv	Floran	플로란	Way too fancy for Floran'sss tastess. But ssstill nice.	나이트폴 깃발. 로고가 위협적이야.
+10536	rest_10501_10850.tsv	Floran	플로란	Weird shape golds on wall? Floran confusssed..	고민 많은 용병
+10537	rest_10501_10850.tsv	Floran	플로란	Weird shape wood on wall? Floran confusssed..	유니언 깃발이군. 텔레포트 이동 지점으로 사용할 수 있겠어.
+10538	rest_10501_10850.tsv	Floran	플로란	Weird shape woods on wall? Floran confusssed..	VT7 고주파 블레이드. 피를 볼 거야.
+10733	rest_10501_10850.tsv	Floran	플로란	What iss the use of those flappy thingss? Floran don't get it...	벽 장식용 밝은 파란 태피스트리.
+10734	rest_10501_10850.tsv	Floran	플로란	What isss this ssilly colourful thing? The soundsss make Floran happy!	긴 기둥 꼭대기에 달린 밝은 조명이다.
+10764	rest_10501_10850.tsv	Floran	플로란	What wasss floran doing?	옷을 깔끔하게 정리하는 데 쓰는 커다란 서랍장인 것 같아.
+10776	rest_10501_10850.tsv	Floran	플로란	What's thisss? Permafrossst? Yet another place too cold for Floran...	'손잡이' 부분에 천을 감은 망가진 파이프.
+10817	rest_10501_10850.tsv	Floran	플로란	Where did the Floran find this tech, I wonder?	각종 기술 장비로 가득한 케이스다. 열어서 증강 장치를 얻거나 테크 부품을 회수하자!
+10825	rest_10501_10850.tsv	Floran	플로란	Where is comfy pillowsss? Floran not want to sssleep on thisss bed.	얼라이언스 규격에 맞춘 의자.
+10828	rest_10501_10850.tsv	Floran	플로란	Where isss meat? Floran want meat, not goo!	반짝이는 수정들로, 아니 큰 수정 하나로 만든 의자네요.
+1053	rest_1051_1400.tsv	Floran	플로란	Buzzy box makess Floran feel tingly.	빅 에이프는 아마 이걸 보지 않는 게 좋을 거야...
+1073	rest_1051_1400.tsv	Floran	플로란	Can Floran tear off sssome piecess of the cryssstal??	밝고, 휴대 가능하고, 깨지기 쉬워. 깨서 안에 뭐가 있는지 보자!
+1115	rest_1051_1400.tsv	Floran	플로란	Carvingsss pretty. Floran eat meatsss here.	요구. 좋아! 줘, 강아지야!
+1116	rest_1051_1400.tsv	Floran	플로란	Cat friends want peace. Floran confused.	요구. 좋아! 내 안에 쑤셔 넣어줘!
+1207	rest_1051_1400.tsv	Floran	플로란	Cold planet with magical ice! Floran findsss it interesssting.	좋아, 이제 널 다시 임신시킬 차례야~!
+1213	rest_1051_1400.tsv	Floran	플로란	Color of fire, yet Floran likess it.	기쁨. 이제 우린 쥐처럼 번식하는 거야!
+1252	rest_1051_1400.tsv	Floran	플로란	Concerned. The Floran selling these wares does not appear to be following regulation.	난 용감해. 부숴서 안에 뭐가 있는지 보자.
+1337	rest_1051_1400.tsv	Floran	플로란	Crate good enough for Floran to ssslice meatsss.	음~... 네 하이로틀 정자가 내 안에서 헤엄치는 게 느껴져~!
+1359	rest_1051_1400.tsv	Floran	플로란	Crystal makesss pretty light. Floran wantsss to free it.	헌납. 내 엉덩이 입력이 네 자지 전용으로 업데이트됐어!
+10907	rest_10851_11200.tsv	Floran	플로란	Whole planet isss on fire! Floran's worssst nightmare!	켜고 끌 수 있는 소형 스위치. 아주 작아.
+10936	rest_10851_11200.tsv	Floran	플로란	Why doesss Floran need a pass to go to sssurface? Floran can sssurvive anywhere!	솜 선인장. 이상하네.
+10995	rest_10851_11200.tsv	Floran	플로란	Will Floran hit head on flying bright circle while ssleeping?	바삭함 애호가가 사랑하는 결정질 식물.
+11048	rest_10851_11200.tsv	Floran	플로란	Woah! Ssshiny axe iss amazing to Floran! Although it hass weird ssshape...	장식용 점토 항아리군요. 부숴서 안에 무엇이 들었는지 확인해 보자!
+11049	rest_10851_11200.tsv	Floran	플로란	Woah! Ssshiny shortsword iss amazing to Floran! Although it hass weird ssshape...	장식용 가짜 테이블 식물.
+11050	rest_10851_11200.tsv	Floran	플로란	Woah! Ssshiny spear iss amazing to Floran! Although it hass weird ssshape...	장식용 선물 상자. 깔끔하게 포장됐어.
+11051	rest_10851_11200.tsv	Floran	플로란	Woah! Ssshiny sword iss amazing to Floran! Although it hass weird ssshape...	사다리 꼭대기를 마무리하는 장식품.
+11157	rest_10851_11200.tsv	Floran	플로란	Yaara Floran kill cryssstalss and other plantss, but big and evil. Make plant couch out of them.	빠르고 날렵한 유선형 차량. 갈리엇은 얼라이언스에서 인기가 많다.
+11158	rest_10851_11200.tsv	Floran	플로란	Yaara bed made by Yaara Floran. Floran feelss at home.	행성 핀을 파는 친구군. 우주를 오래 탐험하다 보면 핀을 더 얻을 수 있겠어.
+11159	rest_10851_11200.tsv	Floran	플로란	Yaara ill, root grew many crysstalss to bite Floran.	튼튼한 금속 울타리. 깔끔하게 촘촘히 연결돼.
+11162	rest_10851_11200.tsv	Floran	플로란	Yaara plant make sssafe glow, light way for Floran.	아비안처럼 보이는 사나운 가면. 아마.
+11244	rest_11201_11550.tsv	Floran	플로란	Yuck! Forgotten planetsss are too rotten for Floran!	금속과 다른 재료도 제련하는 용광로다.
+11256	rest_11201_11550.tsv	Floran	플로란	Zawan helped keep the Florans in Aurania under control. Without them, Floran fury isn't far from unlikely.	차고 문.
+11289	rest_11201_11550.tsv	Floran	플로란	light is harsh on Floran eyesss.	지구에 살던 시절 우리 무리의 한 소녀가 이런 별난 침대를 늘 갖고 싶어 했는데...
+1468	rest_1401_1750.tsv	Floran	플로란	Curiousss weapon ssshowcasssed behind the frame. Floran interesssted.	이걸 타면 셸가드 전초기지로 갈 수 있다.
+1485	rest_1401_1750.tsv	Floran	플로란	Dark and red. And metal. Floran can't even push it.	윽! 좋아! 네가 큰 개인 것처럼 날 쑤셔줘!
+1487	rest_1401_1750.tsv	Floran	플로란	Dark banner makes Floran feel anxioussss.	으읏. 좋아~!... 지구에서의 교미가 어떤지 보여줘~!
+1518	rest_1401_1750.tsv	Floran	플로란	Delicious meatsss. Floran wants top shelf!	그래, 내 자지를 받아, 이 큰 도마뱀아!
+1598	rest_1401_1750.tsv	Floran	플로란	Disgusting ssstone sscares Floran..!!	인챈팅 아치에서 힘을 주입해야 한다
+1678	rest_1401_1750.tsv	Floran	플로란	Door feelsss too cold for Floran	충전 시간:
+1693	rest_1401_1750.tsv	Floran	플로란	Dry ferocious placesss like these are not sssafe for Floran. Too little ssspots to hide from ssstronger hunterss.	너도 좋았어? 테헤~!
+1834	rest_1751_2100.tsv	Floran	플로란	Evil chair made from warpy plantsss. Floran should beware.	수족관.
+1835	rest_1751_2100.tsv	Floran	플로란	Evil warpy door. Floran ssstab it open.	기본 이층 침대.
+1890	rest_1751_2100.tsv	Floran	플로란	Extractsss Ssstorage Matter from old containerss for Floran.	채널: GDI
+1938	rest_1751_2100.tsv	Floran	플로란	Feels like Floran is making clothes from enemies.	클락스에서는 이런 건 본 적 없네.
+1943	rest_1751_2100.tsv	Floran	플로란	Fellow Floran sssells gunshipss!	놀라운 패션 감각이야, 선장!
+1944	rest_1751_2100.tsv	Floran	플로란	Fenerox take pride in hunting. Floran can appreciate that and thisss plushies' ssoft fur!	무관심. 물고기 사각형.
+1981	rest_1751_2100.tsv	Floran	플로란	Fire metal! Floran ssshould stay away!	칼리니 수녀
+1990	rest_1751_2100.tsv	Floran	플로란	Firssst Greenfinger. Ssspecial Floran. Sssmell funny.	가시 많은 나무 판자에.
+1998	rest_1751_2100.tsv	Floran	플로란	Flag hasss Nekismell, makes Floran happy!	그 룩이 이번 시즌 유행이야!
+2009	rest_1751_2100.tsv	Floran	플로란	Floran PET raccoon! Pet, pat, pot!	이 복잡한 기계로 테크를 장착할 수 있다.
+2011	rest_1751_2100.tsv	Floran	플로란	Floran approves of thisss one.	이 옷은 크루를 정말 돋보이게 해줄 거야. 좋은 선택이야, 선장!
+2012	rest_1751_2100.tsv	Floran	플로란	Floran are familiar with boness.	이 상어 인형은 인간 문화의 필수품이야.
+2013	rest_1751_2100.tsv	Floran	플로란	Floran beholds many sssticks.	이 항아리 엄청 오래됐어! 안에 뭐가 남아 있을지도.
+2014	rest_1751_2100.tsv	Floran	플로란	Floran bored. Ssstaring at light for too long.	이 태피스트리는 아비키안 군사 함대인 뱅가드의 문장을 보여준다.
+2015	rest_1751_2100.tsv	Floran	플로란	Floran bought crate. Floran wonder what's inside.	이 기술은 더 좋은 데 쓸 수 있을 텐데.
+2016	rest_1751_2100.tsv	Floran	플로란	Floran brain hurt looking at shiny devicess.	타인을 정복하는 것은 힘을 휘두르는 것. 자신을 정복하는 것은 도를 아는 것...
+2017	rest_1751_2100.tsv	Floran	플로란	Floran butt become shiny from ssitting on thisss!	이 가시를 만지면 쉽게 죽을 수 있어.
+2018	rest_1751_2100.tsv	Floran	플로란	Floran buy medicine and get ssstrong!	조심해서 걸어라. 비에라들 사이에서 외부인은 거의 환영받지 못한다.
+2019	rest_1751_2100.tsv	Floran	플로란	Floran buy ssspooky cossstume?	불확실. 이 식물의 화분은 식물 자체보다 더 큰 것 같다.
+2020	rest_1751_2100.tsv	Floran	플로란	Floran buy ssstuff to flex on rivals!	이걸로 열어서 내용물을 확인하세요. 두근두근!
+2021	rest_1751_2100.tsv	Floran	플로란	Floran buy tools to sssmash rivals!	비에라는 그동안 본 것들 때문에 흄의 속마음을 의심할 줄 안다.
+2022	rest_1751_2100.tsv	Floran	플로란	Floran can actually breathe, nice.	모방해서 미안해. 우리 생존이 예전엔 그것에 달렸거든. 요즘은 잘 모르겠어.
+2023	rest_1751_2100.tsv	Floran	플로란	Floran can become ssstronger here...	스타페어러의 피난처에 온 걸 환영해, 이방인!
+2024	rest_1751_2100.tsv	Floran	플로란	Floran can buy deadly weapons here!	이 세상 구역에 온 걸 환영해, 쿠포!
+2025	rest_1751_2100.tsv	Floran	플로란	Floran can buy eggsss from flessh bag and cultivate animalsss. Then, Floran hass dinner!!	환영해, 쿠포!
+2026	rest_1751_2100.tsv	Floran	플로란	Floran can buy furniture here.	뭐 때문에 여기 왔니, 쿠포?
+2027	rest_1751_2100.tsv	Floran	플로란	Floran can buy... junk here?	네 종족을 이끄는 건 무엇이니?
+2028	rest_1751_2100.tsv	Floran	플로란	Floran can collect honey from thesse beess. Floran make candied meatss with honey!	널 하나로 묶고 있는 건 뭐니, 빛나는 이여?
+2029	rest_1751_2100.tsv	Floran	플로란	Floran can create blueprintsss with stationsss like this.	네 빛을 움직이는 건 뭐니?
+2030	rest_1751_2100.tsv	Floran	플로란	Floran can easssily hop over Angel gate! Get to prey!	넌 어떤 존재니?
+2031	rest_1751_2100.tsv	Floran	플로란	Floran can finally have fun!	이 제단에서 어떤 성적 악행이 저질러졌을까?
+2032	rest_1751_2100.tsv	Floran	플로란	Floran can finally make a weapon!	네 종족을 만든 건 뭐니, 기계여?
+2033	rest_1751_2100.tsv	Floran	플로란	Floran can finally relax...	이 고대 항아리 안에 뭐가 있든 오래전에 잊혀졌겠지.
+2034	rest_1751_2100.tsv	Floran	플로란	Floran can finally ssshoot!	어디서 왔니, 빛나는 이여?
+2035	rest_1751_2100.tsv	Floran	플로란	Floran can find kin!	도대체 버튼이 어디 있는 거야?
+2036	rest_1751_2100.tsv	Floran	플로란	Floran can get a drink!	화이트우드 패널
+2038	rest_1751_2100.tsv	Floran	플로란	Floran can get better equipment for more sstabbing.	왜 여기 왔느냐, 흄?
+2039	rest_1751_2100.tsv	Floran	플로란	Floran can go ssshooting with flamesss!	약간의 노하우만 있으면 이 기계로 테크를 장착할 수 있어.
+2040	rest_1751_2100.tsv	Floran	플로란	Floran can go ssshooting!	판자로 가공된 나무.
+2041	rest_1751_2100.tsv	Floran	플로란	Floran can grow ssstronger here! ...Maybe. At leassst Floran can grow ssmaller thingsss.	너 꽤 멋진 기계구나.
+2042	rest_1751_2100.tsv	Floran	플로란	Floran can guard ssself! But more guard not hurt.	우리와 별로 다르지 않아 보이지만, 네 마음은 어떠냐?
+2043	rest_1751_2100.tsv	Floran	플로란	Floran can hear crankle from far away...	너도 우리만큼 나무 타기에 익숙해 보이는구나.
+2044	rest_1751_2100.tsv	Floran	플로란	Floran can learn about things with this.	해칠 뜻이 없다면 이 길을 지나도 좋다.
+2045	rest_1751_2100.tsv	Floran	플로란	Floran can make items here...	너 분명 일류 탐험가겠네. 네 불꽃이 마음에 들어!
+2046	rest_1751_2100.tsv	Floran	플로란	Floran can make object here...	들려줄 이야기가 많겠구나, 기계여.
+2047	rest_1751_2100.tsv	Floran	플로란	Floran can make old weaponsss and armor.	빛과 에너지를 그렇게 많이 내뿜다니. 너 별이니?
+2048	rest_1751_2100.tsv	Floran	플로란	Floran can modify containersss with thisss.	수정의 빛처럼 빛나면서 숨도 쉬는구나?
+2049	rest_1751_2100.tsv	Floran	플로란	Floran can modify gunsss here.	이런 건 보통 좀 더 뒷골목의 하이로틀 클럽에서 볼 수 있네요.
+2050	rest_1751_2100.tsv	Floran	플로란	Floran can put many thingss on shelf, like treasuresss and rewardss from hunting!	네 빛이 편안해, 빛나는 이여.
+2051	rest_1751_2100.tsv	Floran	플로란	Floran can put ssmall hunting trophiesss on little Angelic table!!	네 종족은 강력한 전사들이겠구나.
+2052	rest_1751_2100.tsv	Floran	플로란	Floran can recover...	네 종족은 아주 튼튼하겠구나.
+2053	rest_1751_2100.tsv	Floran	플로란	Floran can resst easy on thisss chair!	네 종족은 이 우주에 대해 많이 알겠구나.
+2054	rest_1751_2100.tsv	Floran	플로란	Floran can see sstains from meat and bonesss. Ssadly, meat is for monssters.	네 종족도 우리처럼 어두운 과거를 알고 있는 것 같구나.
+2055	rest_1751_2100.tsv	Floran	플로란	Floran can ssmash it!	네 종족은 깊은 바다를 헤엄치고 육지도 걷는구나? 아주 강인하겠네.
+2056	rest_1751_2100.tsv	Floran	플로란	Floran can sssee through the desssk...	^#b9b5b2;스타게이트 유니버스 모드
+2057	rest_1751_2100.tsv	Floran	플로란	Floran can sssee through... Stab time hehehehe...	^orange;변환 도구^reset;
+2058	rest_1751_2100.tsv	Floran	플로란	Floran can sssit on the floor here.	"^orange;세트 보너스^reset;:
+^yellow;^reset; +^green;10^reset;% 속도
+^yellow;^reset; +^green;1.15^reset;% 신성 피해
+^yellow;^reset; ^cyan;면역^reset;: 호흡"
+2059	rest_1751_2100.tsv	Floran	플로란	Floran can ssstare at how thiss hatch opensss all day.	"^orange;세트 보너스^reset;:
+^yellow;^reset; +^green;10^reset;% 속도
+^yellow;^reset; +^green;1.20^reset;% 신성 피해
+^yellow;^reset; ^cyan;면역^reset;: 호흡"
+2060	rest_1751_2100.tsv	Floran	플로란	Floran can take thisss big cute thing home.	"^orange;세트 보너스^reset;:
+^yellow;^reset; 돌격소총/소검: 숙련 +^green;22^reset;%
+^yellow;^reset; ^cyan;면역^reset;: 산소"
+2061	rest_1751_2100.tsv	Floran	플로란	Floran can use this to visit past missions and mark the outposts location.	"^orange;세트 보너스^reset;:
+^yellow;^reset; 돌격소총/소검: 숙련 +^green;25^reset;%
+^yellow;^reset; ^cyan;면역^reset;: 산소"
+2062	rest_1751_2100.tsv	Floran	플로란	Floran can use thisss to visit past fightsss!	"^orange;세트 보너스^reset;:
+^yellow;^reset; 카타나/육척봉: 숙련 +^green;22^reset;%
+^yellow;^reset; ^cyan;면역^reset;: 광기"
+2063	rest_1751_2100.tsv	Floran	플로란	Floran can use thisss to visit past missions and mark the outposts location.	"^orange;세트 보너스^reset;:
+^yellow;^reset; 카타나/육척봉: 숙련 +^green;25^reset;%
+^yellow;^reset; ^cyan;면역^reset;: 광기"
+2064	rest_1751_2100.tsv	Floran	플로란	Floran can use thissss to visssit passssst missionssss!	"^orange;세트 보너스^reset;:
+^yellow;^reset; 철퇴/망치/도끼/대형 도끼: 숙련 +^green;22^reset;%
+^yellow;^reset; ^cyan;면역^reset;: 감전"
+2065	rest_1751_2100.tsv	Floran	플로란	Floran can use thissss to visssit passssst missionssss.	"^orange;세트 보너스^reset;:
+^yellow;^reset; 철퇴/망치/도끼/대형 도끼: 숙련 +^green;25^reset;%
+^yellow;^reset; ^cyan;면역^reset;: 감전"
+2066	rest_1751_2100.tsv	Floran	플로란	Floran can ussually tell rain by looking at cloudsss.	"^orange;세트 보너스^reset;:
+^yellow;^reset; 마그놉: 숙련 +^green;22^reset;%
+^yellow;^reset; 투척: 피해량 x^green;1.22^reset;
+^yellow;^reset; ^cyan;면역^reset;: 방사선 화상"
+2067	rest_1751_2100.tsv	Floran	플로란	Floran can't drink it.	"^orange;세트 보너스^reset;:
+^yellow;^reset; 마그놉: 숙련 +^green;25^reset;%
+^yellow;^reset; 투척: 피해량 x^green;1.25^reset;
+^yellow;^reset; ^cyan;면역^reset;: 방사선 화상"
+2068	rest_1751_2100.tsv	Floran	플로란	Floran can't drink thisss...	"^orange;세트 보너스^reset;:
+^yellow;^reset; 산탄총,반자동 권총/소총, 저격소총: 숙련 +^green;22^reset;%
+^yellow;^reset; ^cyan;면역^reset;: 그림자 오염"
+2069	rest_1751_2100.tsv	Floran	플로란	Floran can't eat thisss... Boring...	"^orange;세트 보너스^reset;:
+^yellow;^reset; 산탄총,반자동 권총/소총, 저격소총: 숙련 +^green;25^reset;%
+^yellow;^reset; ^cyan;면역^reset;: 그림자 오염"
+2070	rest_1751_2100.tsv	Floran	플로란	Floran can't read text and can't undersstand what isss going on..	"^orange;세트 보너스^reset;:
+^yellow;^reset; 창/활: 숙련 +^green;22^reset;%
+^yellow;^reset; ^cyan;면역^reset;: 화상"
+2071	rest_1751_2100.tsv	Floran	플로란	Floran can't tell if lady or guy.	"^orange;세트 보너스^reset;:
+^yellow;^reset; 창/활: 숙련 +^green;25^reset;%
+^yellow;^reset; ^cyan;면역^reset;: 화상"
+2072	rest_1751_2100.tsv	Floran	플로란	Floran can't usse machine, but Floran sssees shiny orb.	"^orange;세트 보너스^reset;:
+^yellow;^reset; 완드/스태프: 숙련 +^green;22^reset;%
+^yellow;^reset; ^cyan;면역^reset;: 중독"
+2073	rest_1751_2100.tsv	Floran	플로란	Floran cannot carry thermometer. Usselesss!	"^orange;세트 보너스^reset;:
+^yellow;^reset; 완드/스태프: 숙련 +^green;25^reset;%
+^yellow;^reset; ^cyan;면역^reset;: 중독"
+2074	rest_1751_2100.tsv	Floran	플로란	Floran charmed by little ghosst.	<field> 조수
+2075	rest_1751_2100.tsv	Floran	플로란	Floran climb dangerous ladder.	<field> 애호가
+2076	rest_1751_2100.tsv	Floran	플로란	Floran comesss!	균형 잡힌 식사.
+2077	rest_1751_2100.tsv	Floran	플로란	Floran confused by big rock. Doesn't feel good near it.	기본 우주선 문. 하지만 이건 작동하지 않는군요.
+2078	rest_1751_2100.tsv	Floran	플로란	Floran confussed by ssstrange ssmall tree..	커다란 알루미늄 마스코트.
+2079	rest_1751_2100.tsv	Floran	플로란	Floran confusssed looking at metal box.	커다란 수정.
+2080	rest_1751_2100.tsv	Floran	플로란	Floran confusssed. How doesss cryssstal float? Why is wall crying??	크고 차가운 수정.
+2081	rest_1751_2100.tsv	Floran	플로란	Floran confusssed.. Can't make Angel home...?	책장.
+2082	rest_1751_2100.tsv	Floran	플로란	Floran confusssed... Why big forge here?	고장 난 FTL 연료 해치. 이래선 안 돼!
+2083	rest_1751_2100.tsv	Floran	플로란	Floran could make a well furnished outpossst with thissss.	부서진 벽 상자는 자기에 안전하지 않다냥.
+2084	rest_1751_2100.tsv	Floran	플로란	Floran could sstare at ssswinging vine forever.	거품 해치. 가운데를 누르면 거품이 터져.
+2085	rest_1751_2100.tsv	Floran	플로란	Floran could take ssssilly baywatch in a fight.	전선 다발. 지저분해 보여.
+2086	rest_1751_2100.tsv	Floran	플로란	Floran could use plusssh as weapon with those sspikes!	정해진 지연 후 신호를 중계하는 회로에.
+2087	rest_1751_2100.tsv	Floran	플로란	Floran could use ssstrong fabric for lot of things!	차가운 수정 조각.
+2088	rest_1751_2100.tsv	Floran	플로란	Floran create dangerousss magnetsss.	콘솔.
+2089	rest_1751_2100.tsv	Floran	플로란	Floran create gun partsss here.	벽 수납장 두 개. 공간 절약에 좋아.
+2090	rest_1751_2100.tsv	Floran	플로란	Floran crisss crosss thread, make clothes.	새 눌리스 그릇에 적합한 수정.
+2091	rest_1751_2100.tsv	Floran	플로란	Floran dislikesss ssmell of this tank.	마른 조개껍데기. 픽셀이 들었을 수도 있고 아닐 수도.
+2092	rest_1751_2100.tsv	Floran	플로란	Floran dislikessss staring eye, Floran hatessss thisss Apex...	내가 빠져나갈 바닥 문이다냥.
+2093	rest_1751_2100.tsv	Floran	플로란	Floran dissgussted by black liquid.	분명 깨지기 쉬워 보이는 껍데기야. 까보자!
+2094	rest_1751_2100.tsv	Floran	플로란	Floran disslike concrete.	끝이 빛나는 풀 같은 식물.
+2095	rest_1751_2100.tsv	Floran	플로란	Floran dissslikesss loud noissse...	정보를 표시하는 홀로그램.
+2096	rest_1751_2100.tsv	Floran	플로란	Floran do not know what barsss mean.	커다란 얼어붙은 수정.
+2097	rest_1751_2100.tsv	Floran	플로란	Floran do not know what thessseee buttons mean.	크고 차가운 수정.
+2098	rest_1751_2100.tsv	Floran	플로란	Floran do not know what thisss gauge mean.	사랑새의 둥지. 사랑새들은 아비안 성지에서 하기 좋아한다.
+2099	rest_1751_2100.tsv	Floran	플로란	Floran do not know what thisss planet.	어떤 것을 다른 것으로 변환할 수 있는 기계.
+2100	rest_1751_2100.tsv	Floran	플로란	Floran doesn't know who this cat isss.	고장 난 조명.
+2102	rest_2101_2450.tsv	Floran	플로란	Floran doesn't pick up my furry friend's stuff!	몬스터 걸 카드와 관련 아이템을 파는 상인.
+2103	rest_2101_2450.tsv	Floran	플로란	Floran doesn't think thisss milking machine iss for mooshi.	잡다한 성인용품을 파는 상인.
+2104	rest_2101_2450.tsv	Floran	플로란	Floran doesn't underssstand the interessst.. How do you eat in the Metaverssse?	섹스 가능 몬스터를 파는 상인.
+2105	rest_2101_2450.tsv	Floran	플로란	Floran doess not believe in ghostsss!	성인용품을 파는 상인.
+2106	rest_2101_2450.tsv	Floran	플로란	Floran doess not like ssitting on sssuch a hard bench!	야한 의상을 파는 상인.
+2107	rest_2101_2450.tsv	Floran	플로란	Floran doess not like ssurface, too ssquishy!	지저분한 전선 다발이네요.
+2108	rest_2101_2450.tsv	Floran	플로란	Floran doessn't care much for gunsss...	보물과 썩은 촉수가 가득한 창백한 조개껍데기.
+2109	rest_2101_2450.tsv	Floran	플로란	Floran doessn't like red sssmoke, it lookss like those warpy fumesss. They hurt Floran!	창백하고 차가운 수정.
+2110	rest_2101_2450.tsv	Floran	플로란	Floran doessn't like sstrange rock.	독특한 디자인의 개인용 텔레포터. 꽤 마음에 드는군요.
+2111	rest_2101_2450.tsv	Floran	플로란	Floran doessn't trussst stuffed creature pretending to be meat man...	차분한 파란빛을 내는 식물.
+2112	rest_2101_2450.tsv	Floran	플로란	Floran doessn't want to fight litle bag. Too cute to ssstab!	고요한 빛을 내는 식물이네요.
+2113	rest_2101_2450.tsv	Floran	플로란	Floran doesss not like bananana.	가시광선 파란 영역에서 생체발광하는 식물.
+2114	rest_2101_2450.tsv	Floran	플로란	Floran doesss not like thiss tablet.	이상한 사과 모양 숲의 정령 인형.
+2115	rest_2101_2450.tsv	Floran	플로란	Floran doesss not underssstand machinesss...	강력한 보호막 생성기.
+2116	rest_2101_2450.tsv	Floran	플로란	Floran doesss not want that to eat.	일반 보호막 생성기.
+2117	rest_2101_2450.tsv	Floran	플로란	Floran doesssn't know where entrance is...	조개껍데기! 안에 귀중품이 있을지도.. 안에 살던 생물이 오래전에 떠나서 다행이군요.
+2118	rest_2101_2450.tsv	Floran	플로란	Floran doesssn't like glowy water...	대형 포에서 발사하는 포탄이네요.
+2119	rest_2101_2450.tsv	Floran	플로란	Floran doesssn't like reading...	조게.. 조계.. 조개다냥!
+2120	rest_2101_2450.tsv	Floran	플로란	Floran doesssn't understand ssscience...	건설한 구조물을 피해로부터 보호할 수 있는 보호막 생성기.
+2121	rest_2101_2450.tsv	Floran	플로란	Floran doesssn't want to be fried...	식민지 보호용 보호막 생성기.
+2122	rest_2101_2450.tsv	Floran	플로란	Floran doesssss not understand.	조용하지만 강력한 보호막 생성기.
+2123	rest_2101_2450.tsv	Floran	플로란	Floran don't design tech; they consume it.	섹스용 간단한 침대네요. 역할은 다 해요!
+2124	rest_2101_2450.tsv	Floran	플로란	Floran don't know what circle thing isss.	침낭이네. 윽, 난 정말 싫어.
+2125	rest_2101_2450.tsv	Floran	플로란	Floran don't know what wing thing is.	약간 찝찝한 조개껍데기.
+2126	rest_2101_2450.tsv	Floran	플로란	Floran don't like bright lasers. Esspecially when they point at Floran.	작은 보급 상점. 뭘 파는지 봐야겠다.
+2127	rest_2101_2450.tsv	Floran	플로란	Floran don't like defenssse thing. Bladesss, and ssstab, ssstab, ssstab is better.	부술 수 있는 얼음 구체. 어떻게 만들어졌을까.
+2128	rest_2101_2450.tsv	Floran	플로란	Floran don't like pewpew thing. Bladesss, and ssstab, ssstab, ssstab is better.	매끄러운 수정이네요.
+2129	rest_2101_2450.tsv	Floran	플로란	Floran don't need thisss.	언젠가 몬스터 걸 카드와 관련 아이템을 팔게 될 노점.
+2130	rest_2101_2450.tsv	Floran	플로란	Floran don't sssleep on the toxic crystalsss.	수납 사물함. 편리하네!
+2131	rest_2101_2450.tsv	Floran	플로란	Floran don't want to come through the poison door.	에이트네 님의 상징. 숲의 보호가 여기서 뻗어 나가야 한다.
+2132	rest_2101_2450.tsv	Floran	플로란	Floran enjoy fuel tech. Floran explore many worldsss.	텔레포터구만. 한번 타 보자!
+2133	rest_2101_2450.tsv	Floran	플로란	Floran fearss giant rock flinger. But Floran likesss goodies from rockss.	벽걸이 흰 화살표.
+2134	rest_2101_2450.tsv	Floran	플로란	Floran fearsss flamess.	아-앗! 오, 그냥 필멸자였네.
+2135	rest_2101_2450.tsv	Floran	플로란	Floran feel funny watching thissss...	아-앗~!... 노바키드 정액이 이런 느낌이야~?... 너무 뜨거워~!
+2136	rest_2101_2450.tsv	Floran	플로란	Floran feel like centre of attention.	아아아, 진짜 남자가 이렇게 세게 싸게 해준 건 오랜만이야~!
+2137	rest_2101_2450.tsv	Floran	플로란	Floran feel like hunting criminalsss now!	절대 체력 강화
+2138	rest_2101_2450.tsv	Floran	플로란	Floran feels cool, nice.	아, 눈...
+2140	rest_2101_2450.tsv	Floran	플로란	Floran feels less warm, nice.	아, 날 싸게 만들고 있어~~!!!
+2141	rest_2101_2450.tsv	Floran	플로란	Floran feels lesss tingly, nice.	아. 우리 무기에 관심 있으면 언제든 대장장이 길드의 대장장이를 고용해.
+2142	rest_2101_2450.tsv	Floran	플로란	Floran feels warm, nice.	아~! 좋아~! 네 인간 DNA를 품게 해줘~!
+2143	rest_2101_2450.tsv	Floran	플로란	Floran finally can sssleep!	앙~ 못 참아~ 아앗~!
+2144	rest_2101_2450.tsv	Floran	플로란	Floran find thingsss here.	아~앙~ 정액이 너무 많아~!
+2145	rest_2101_2450.tsv	Floran	플로란	Floran found key... Where isss chessst?	아키 전선 안 만져.
+2146	rest_2101_2450.tsv	Floran	플로란	Floran found some buttonsss to sssmash!	아키 이거 몰라. 포스터 외계인 화려해 보여.
+2147	rest_2101_2450.tsv	Floran	플로란	Floran found sssome goodss.	경고. 드라코니스 DNA 확보!
+2148	rest_2101_2450.tsv	Floran	플로란	Floran found tech... Floran happy...	경고. 레나몬 DNA 확보!
+2149	rest_2101_2450.tsv	Floran	플로란	Floran get pollinated by beesss!	경고. 새터니안 DNA 확보!
+2150	rest_2101_2450.tsv	Floran	플로란	Floran go zoom!!	경고. 새터니안 DNA 확보~!
+2151	rest_2101_2450.tsv	Floran	플로란	Floran got ssssstinged once. Hurtssss floran.	경계. 내부 기름 화재 감지. 진화 중... 완료.
+2152	rest_2101_2450.tsv	Floran	플로란	Floran happy to see nature have some fun with us.	경계. 내부 기름 화재 감지. 진화 중... 완료.
+2153	rest_2101_2450.tsv	Floran	플로란	Floran has found food!	놀람: 기술이 정말 발전했다.
+2154	rest_2101_2450.tsv	Floran	플로란	Floran has found place to clean myself!	고대 휴대용 컴퓨터.
+2155	rest_2101_2450.tsv	Floran	플로란	Floran has found place to ssstore itemsss!	자동 토양 급수 장치.
+2156	rest_2101_2450.tsv	Floran	플로란	Floran hass to push on heavy ssstone Angel door to open it..!	빈 조개껍데기... 정말 비었나?
+2157	rest_2101_2450.tsv	Floran	플로란	Floran hasss no need for clunky machine to make comfy clothess.	오래된 도자기 단지 또는 항아리.
+2158	rest_2101_2450.tsv	Floran	플로란	Floran hasss no time to sssleep!	분석 완료. 외계 배선 감지. 파괴 권장.
+2159	rest_2101_2450.tsv	Floran	플로란	Floran hasss sslept on worsse.	분석. 버튼. 회로를 일시적으로 활성화하는 데 사용.
+2160	rest_2101_2450.tsv	Floran	플로란	Floran hasss sssent many to doctor.	불안. 오래되고 깨지기 쉬워 보인다.
+2162	rest_2101_2450.tsv	Floran	플로란	Floran hate plassstic plant!	에이펙스 커. 페네록스 받아. 안쪽 늘어나. 오 좋아!
+2163	rest_2101_2450.tsv	Floran	플로란	Floran hatess rootsss of mushroom. Mushroom is Floran's enemy.	안에 싸고 끝낼 거야?
+2164	rest_2101_2450.tsv	Floran	플로란	Floran hatesss poking weird ice.	괜찮아?
+2165	rest_2101_2450.tsv	Floran	플로란	Floran hide under hatch and ssscare people.	흥분. 제발! 더 박아줘! 훨씬 더!
+2166	rest_2101_2450.tsv	Floran	플로란	Floran hipss move on their own!	흥분. 내 다리 사이에 네 따뜻한 몸, 정액으로 채워... 너무해!
+2167	rest_2101_2450.tsv	Floran	플로란	Floran hunt like a bat!	아비칸 경비병
+2168	rest_2101_2450.tsv	Floran	플로란	Floran impresssed by pillow made from metalman flag!	아~앗~! 분출하고 있어~...!
+2169	rest_2101_2450.tsv	Floran	플로란	Floran instructions on how to build a fire.	저 전선에 너무 가까이 가지 않는 게 좋겠어. 감전되기 싫어.
+2170	rest_2101_2450.tsv	Floran	플로란	Floran is amazed...	큰 토끼. 너무 부드러워! 페네록스 교미! 하루 종일!
+2171	rest_2101_2450.tsv	Floran	플로란	Floran is coolesst hunter in whole galaxy!	큰 수정이에.
+2172	rest_2101_2450.tsv	Floran	플로란	Floran is curiousss about lost warriors..	큰 여우. 너무 아름다워. 페네록스랑 교미? 운 좋아! 너무 좋아!
+2173	rest_2101_2450.tsv	Floran	플로란	Floran is sssleepy, likesss comfy bed.	큰 늑대. 페네록스 복종. 먹지 마. 짝 만들어. 몸 가져. 짝 사랑해!
+2174	rest_2101_2450.tsv	Floran	플로란	Floran is ssslightly sscared by creepy man ssstaring...	땅에서 솟아난 것 같은 크고 날카로운 가시.
+2176	rest_2101_2450.tsv	Floran	플로란	Floran iss confused by oddly-ssshaped sofa..	신성모독. 오! 좋아! 넌 내 큰 유인원이야!
+2177	rest_2101_2450.tsv	Floran	플로란	Floran isss a pirate! Want pirate crew!	자랑. 그래, 내 자지를 받아, 이... 어두운... 괴물아!
+2178	rest_2101_2450.tsv	Floran	플로란	Floran isss confusssed. Leavesss not ssharp.	벽에 뼈대가 있다냥!
+2179	rest_2101_2450.tsv	Floran	플로란	Floran isss hungry now.	보너스 에너지
+2180	rest_2101_2450.tsv	Floran	플로란	Floran isss hungry.	보너스 체력
+2181	rest_2101_2450.tsv	Floran	플로란	Floran issss not afraid of anything. Floran will ssssstab them!	중折식 산탄총
+2182	rest_2101_2450.tsv	Floran	플로란	Floran jump in. Floran ssstab!	어둠 번식. 검은 새끼?
+2183	rest_2101_2450.tsv	Floran	플로란	Floran knowsss ssstrength ritual...	숲에 평화만 가져온다면 여기서 환영한다.
+2184	rest_2101_2450.tsv	Floran	플로란	Floran knowsss this sstyle. Made by other Floran.	벌레가 싼다! 알 만들어?
+2187	rest_2101_2450.tsv	Floran	플로란	Floran like colorful toy maker! Makesss fun thingsss to play with!	토끼 사람. 페네록스 박아! 너무 세게! 너무 빨리! 멈추지 마!
+2188	rest_2101_2450.tsv	Floran	플로란	Floran like flourishes.	점사
+2189	rest_2101_2450.tsv	Floran	플로란	Floran like gun that can ssstab.	만-만족. 아주 따뜻해. 안쪽 가득. 고마워.
+2190	rest_2101_2450.tsv	Floran	플로란	Floran like plant lightss. Even warpy evil onesss.	차분. 이 식물은 파란빛을 낸다.
+2191	rest_2101_2450.tsv	Floran	플로란	Floran like prickly cactuss blocksss.	고양이 지배. 개 야한 거? 이상해.
+2192	rest_2101_2450.tsv	Floran	플로란	Floran like sharp cryssstal bed.	고양이 거짓말. 페네록스 지배! 멍멍 많이!
+2193	rest_2101_2450.tsv	Floran	플로란	Floran like sssshiny bunny!	고양이 사람. 개 좋아해? 이상해. 페네록스 좋아해!
+2195	rest_2101_2450.tsv	Floran	플로란	Floran like sssun man. The light feelsssss nice.	벌 같은 곤충을 잡거나 야생 종을 모으세요. ^orange;트라이코더^reset;로 업그레이드.
+2196	rest_2101_2450.tsv	Floran	플로란	Floran like the Wildcats.	여기서 말썽 부리지 마.
+2197	rest_2101_2450.tsv	Floran	플로란	Floran like to ssmash with hammer.. No need for ssshield!	조심. 이 조개껍데기는 위험해 보인다.
+2198	rest_2101_2450.tsv	Floran	플로란	Floran like watching device ssspin.	절정. 좋아! 네 멋진 막대로 싸고 있어!
+2199	rest_2101_2450.tsv	Floran	플로란	Floran likes food wriggly.	절정. 흐읏~ 내 포트가 순수한 액체 광택으로 떨리고 있어!
+2200	rest_2101_2450.tsv	Floran	플로란	Floran likes glow.	커피 시간!
+2202	rest_2101_2450.tsv	Floran	플로란	Floran likes watching ssshuttlecraft.	전투 소총
+2203	rest_2101_2450.tsv	Floran	플로란	Floran likess Lumoth drawing.	더 가까이 와!
+2204	rest_2101_2450.tsv	Floran	플로란	Floran likess Poptop drawing.	명령조. 싸기 전에 허락을 구해. 네가 애원하는 걸 듣고 싶어.
+2205	rest_2101_2450.tsv	Floran	플로란	Floran likess big boom.	비교. 일반 글리치 자지는 이렇게 굵지 않아!
+2206	rest_2101_2450.tsv	Floran	플로란	Floran likess blue glowing rockss.	혼란. 좋아! 네... 네 새끼들이 뭐라고 부르든 그걸 줘!
+2207	rest_2101_2450.tsv	Floran	플로란	Floran likess green rockss.	재사용 대기 시간:
+2208	rest_2101_2450.tsv	Floran	플로란	Floran likess pink glowing rockss.	수정 구슬:
+2209	rest_2101_2450.tsv	Floran	플로란	Floran likess pretty drawingsss carved into ice.	정액이 너어어무 차가워엇!
+2210	rest_2101_2450.tsv	Floran	플로란	Floran likess pretty drawingsss carved into sstone.	정액! ... 정액 이상해. 너무 진해. 이건... 검어?
+2211	rest_2101_2450.tsv	Floran	플로란	Floran likess pretty lightsss. But Floran musst avoid them.	안에 싼다. 생쥐 만들어? 몇 마리?
+2212	rest_2101_2450.tsv	Floran	플로란	Floran likess silly brown rock.	호기심. 내 안에 싸고 끝낼 거야?
+2213	rest_2101_2450.tsv	Floran	플로란	Floran likess skull lamp.	호기심. 안에 뭐가 있을까?
+2214	rest_2101_2450.tsv	Floran	플로란	Floran likess soothing blue light that hangsss from above. Just do not touch the flamess..	호기심. 이 버튼을 누르면 무슨 일이 생길까?
+2215	rest_2101_2450.tsv	Floran	플로란	Floran likess ssshiny starry door!	초당 피해:
+2217	rest_2101_2450.tsv	Floran	플로란	Floran likess such a ssstrong table. Perfect for cutting and ssslicing!	죽은 WS 병사
+2218	rest_2101_2450.tsv	Floran	플로란	Floran likesss big meatsss.	죽은 요괴
+2219	rest_2101_2450.tsv	Floran	플로란	Floran likesss big pole.	죽었다! 끝났다!
+2220	rest_2101_2450.tsv	Floran	플로란	Floran likesss big thingsss!	결국 죽음이 올 거야, 편히 쉬기를...
+2223	rest_2101_2450.tsv	Floran	플로란	Floran likesss chocobo!	사슴 사람. 너무 강해! 그래도 부드러워. 너무 길어! 겨우 들어가! 멈추지 마!
+2224	rest_2101_2450.tsv	Floran	플로란	Floran likesss danger!	요구. 내 안에 싸줘!
+2225	rest_2101_2450.tsv	Floran	플로란	Floran likesss explosionsss!	요구. 좋아! 작은 토끼들로 가득 채워줘!
+2226	rest_2101_2450.tsv	Floran	플로란	Floran likesss fire better. But energy beamsss melt thingsss too!	요구. 좋아! 네 새끼들을 줘!
+2227	rest_2101_2450.tsv	Floran	플로란	Floran likesss flying in giant mech!	요구. 좋아! 네 털 많은 자지로 가득 채워줘!
+2228	rest_2101_2450.tsv	Floran	플로란	Floran likesss green bright lamp.	어디로 갔는지 봤어?
+2229	rest_2101_2450.tsv	Floran	플로란	Floran likesss green cryssstal gateway.	혐오. 고약한 냄새의 조개껍데기. 찌꺼기 말고 다른 게 들었길.
+2230	rest_2101_2450.tsv	Floran	플로란	Floran likesss hitting thingsss with ice axe.	우리 땅에 혼란을 가져오지 마.
+2231	rest_2101_2450.tsv	Floran	플로란	Floran likesss machinesss.	지배. 좋아! 계속 싸줘!
+2232	rest_2101_2450.tsv	Floran	플로란	Floran likesss making spearss out of heartwood.	날 두고 가지 마!
+2233	rest_2101_2450.tsv	Floran	플로란	Floran likesss moogle!	네가 끝났다고 생각하지 마!
+2234	rest_2101_2450.tsv	Floran	플로란	Floran likesss ssshiny sssquirrel!	아주 튼튼한 문이에.
+2235	rest_2101_2450.tsv	Floran	플로란	Floran likesss stumpss, thiss is sstump with extra bitss.	드래곤이 싼다! 알 만들어?
+2237	rest_2101_2450.tsv	Floran	플로란	Floran likesss the colours of thiss store, but not the sstrange wood puppet behind it...	드래곤 도마뱀? 복종적이야? 페네록스 교미. 드래곤 깔아!
+2238	rest_2101_2450.tsv	Floran	플로란	Floran likesss this floating green ssscreen!	드래곤 짝. 아주 강력해. 아주 강해. 페네록스 잡혀. 소유물이야. 거칠게 써!
+2239	rest_2101_2450.tsv	Floran	플로란	Floran likesss to push buttonsss.	당김 시간:
+2240	rest_2101_2450.tsv	Floran	플로란	Floran likesss yellow leavesss of golden foressstss. They look almossst like real gold.	천-천히~! 아기 탑승 중!
+2241	rest_2101_2450.tsv	Floran	플로란	Floran likessss ham! But prefers it rrrraw...	오류! 내 인큐베이터가 넘쳐!
+2242	rest_2101_2450.tsv	Floran	플로란	Floran likessss thingsss easssy.	오류! 쾌락이 내 몸에 과부하~~!
+2243	rest_2101_2450.tsv	Floran	플로란	Floran lookss at Angel door. Floran getsss bored. Floran movess on.	간절. 코스모스의 군주를 위하여!
+2244	rest_2101_2450.tsv	Floran	플로란	Floran looksss holy in Angelic glass.	환희. 정액 펌프 모듈까지 있어!
+2245	rest_2101_2450.tsv	Floran	플로란	Floran love destroying thingsss in blockman game!	초당 에너지:
+2246	rest_2101_2450.tsv	Floran	플로란	Floran love to bounccce on flower, feelssss niccce.	유지 에너지:
+2247	rest_2101_2450.tsv	Floran	플로란	Floran loves avali sssssstuff.	선망. 물에 해를 입지 않는 자가 되고 싶다.
+2248	rest_2101_2450.tsv	Floran	플로란	Floran lovess to climb high and ssstrike from above!	"이 스테이션에서 테크를 장착하고 강화하세요. 
+^red;부수면 파괴됩니다."
+2249	rest_2101_2450.tsv	Floran	플로란	Floran lovesss the water.	성적. 내 인큐베이터를 때리고 있어!
+2250	rest_2101_2450.tsv	Floran	플로란	Floran make armor ssstronger with lava forge.	황홀. 내 포트가 못 견뎌! 아앗!
+2251	rest_2101_2450.tsv	Floran	플로란	Floran makes blueprintsss with this thing.	흥분. 뭔가 만들어보자!
+2252	rest_2101_2450.tsv	Floran	플로란	Floran makesss dakka.	페린 항아리
+2253	rest_2101_2450.tsv	Floran	플로란	Floran makesss fabric with machine.	페네록스가 싼다! 엉덩이에 매듭!
+2254	rest_2101_2450.tsv	Floran	플로란	Floran might hit head on top of bed. Hmmm...	네 바나나 크림으로 채워줘!
+2276	rest_2101_2450.tsv	Floran	플로란	Floran not know what to think.	꽃이 이렇게 크면 안 되는데...
+2278	rest_2101_2450.tsv	Floran	플로란	Floran not like door that leads to sex.	과학을 위하여! ... '과학'이 뭐야?
+2279	rest_2101_2450.tsv	Floran	플로란	Floran not like smooth door like this.	여우가 싼다! 새끼 만들어?
+2280	rest_2101_2450.tsv	Floran	플로란	Floran not like them anymore, passst singer wass better.	여우가 싼다. 강아지 만들어. 아주 좋아!
+2281	rest_2101_2450.tsv	Floran	플로란	Floran not like thissss carrot cake.	여우-인간. 암컷이야. 그런데... 자지가 있어? 혼란스러워. 뭐 어때. 페네록스 박아!
+2284	rest_2101_2450.tsv	Floran	플로란	Floran not planning to die and find out.	여우남이 싼다! 강아지 만들어? 많이 바라!
+2285	rest_2101_2450.tsv	Floran	플로란	Floran not ready for a Lustling orgy!	푸시아가 야한 먹잇감을 잡았어~!
+2303	rest_2101_2450.tsv	Floran	플로란	Floran pick up chair. Ssset chair down. Good chair.	보지 박기. 아주 직설적이야. 나쁜 농담 만들어. 미안해.
+2304	rest_2101_2450.tsv	Floran	플로란	Floran pluck ssshiny feather!	털 색상
+2305	rest_2101_2450.tsv	Floran	플로란	Floran plug in thingsss. A green light glowsss.	털 고양이. 페네록스 복종. 교미 원해? 페네록스 교미!
+2306	rest_2101_2450.tsv	Floran	플로란	Floran poke plant, thingss happen.	가스 거인
+2307	rest_2101_2450.tsv	Floran	플로란	Floran pokesss purple glowing thing. Thing jiggless.	생성기-보호막, 구역을 파괴에서 보호.
+2308	rest_2101_2450.tsv	Floran	플로란	Floran prefersss thisss to bare metal.	길은 짠 음식에 최고야! 지금 하나 먹고 싶네.
+2310	rest_2101_2450.tsv	Floran	플로란	Floran prepare food with bare handsss. But table ussseful.	빙화산 수정
+2311	rest_2101_2450.tsv	Floran	플로란	Floran press button, Floran warpsss away.	빛나는 얼음 식물
+2313	rest_2101_2450.tsv	Floran	플로란	Floran pressss button, make magic thingsss.	탐욕. 좋아, 네 정액을 줘!
+2314	rest_2101_2450.tsv	Floran	플로란	Floran probably doessssn't want to touch that..	해봐. 부수게 만들어 봐. 더 있으니까.
+2315	rest_2101_2450.tsv	Floran	플로란	Floran put sssstuff in, sssell... Get money for food.	소리 내며 간다!
+2316	rest_2101_2450.tsv	Floran	플로란	Floran rather work with hunters than ssscholars.	터치스크린 인터페이스는 사랑이지.
+2317	rest_2101_2450.tsv	Floran	플로란	Floran read words good. Sssay 'ssstab a meatman'. Huh.	만나서 반가워!
+2318	rest_2101_2450.tsv	Floran	플로란	Floran really dislikesss voltage planetss. Lightning ssstrikes everywhere.	탐욕. 좋아! 새끼 한 쌍둥이를 줘!
+2319	rest_2101_2450.tsv	Floran	플로란	Floran ripss growth from the ground and usess it as a weapon.	탐욕. 좋아! 네 새끼 사슴들을 줘!
+2320	rest_2101_2450.tsv	Floran	플로란	Floran scared. Please don't eat Floran.	안녕, 친구.
+2321	rest_2101_2450.tsv	Floran	플로란	Floran see door. Floran come in.	마법서:
+2322	rest_2101_2450.tsv	Floran	플로란	Floran see weaponss inside.	좋은 하루 보내.
+2323	rest_2101_2450.tsv	Floran	플로란	Floran seesss many treatsss!	달아오름. 아! ...너 빅 에이프야?
+2324	rest_2101_2450.tsv	Floran	플로란	Floran smash glassss. Floran come through.	강력 난무
+2325	rest_2101_2450.tsv	Floran	플로란	Floran so confusssed.	안녕, 내 이름은 <selfname>야. 어떻게 지내?
+2326	rest_2101_2450.tsv	Floran	플로란	Floran sscared of big flamesss.	안녕.
+2327	rest_2101_2450.tsv	Floran	플로란	Floran sseeesss pretty hunting weapon. Floran requiresss.	흠. 이 금속은 닦아서 다른 용도로 쓸 수 있을 것 같아.
+2328	rest_2101_2450.tsv	Floran	플로란	Floran ssees funny ssspaceships on the screen.	희망. 아, 나중에 우리 아이들 조립하는 거 도와줄 거지?
+2329	rest_2101_2450.tsv	Floran	플로란	Floran sssad there isss no more meat...	욕정. 네가 축축한 걸 좋아할 줄 알았어!
+2330	rest_2101_2450.tsv	Floran	플로란	Floran sssee reflection easssily...	욕정. 내 포트가 널 위해 이렇게 젖었어, 인간!
+2331	rest_2101_2450.tsv	Floran	플로란	Floran sssee strange colors...	어떻게 네 안에 내 자지를 넣고 있는 거지?
+2332	rest_2101_2450.tsv	Floran	플로란	Floran sssees eminsssnow planet. Floran dissslikes cold but likess violet trees. Floran hasss mixed feelingsss about it.	어떻게 하는 거지?
+2333	rest_2101_2450.tsv	Floran	플로란	Floran sssees many pretty thingsss.	인-간. 페네록스랑 비슷해? 자지 딱딱해, 맞아!
+2335	rest_2101_2450.tsv	Floran	플로란	Floran ssshould not put head into fuel hatch.	하이퍼 디멘션 클라이언트
+2336	rest_2101_2450.tsv	Floran	플로란	Floran ssshould sssay, 'all you can eat.'	이게 좀 이상하다는 건 인정해... 하지만 안 멈출 거야!
+2338	rest_2101_2450.tsv	Floran	플로란	Floran sssit on chair and almossst get ssstuck!!	내 배 안에서 빛나는 게 보여~!
+2339	rest_2101_2450.tsv	Floran	플로란	Floran sssit on very big chair. Floran delighted.	이 기술로 충실한 세일과 대화할 수 있군요.
+2340	rest_2101_2450.tsv	Floran	플로란	Floran sssit under table and ssshare meat with eyes.	이 의자의 항법 장치를 사용하면 우주 탐험을 시작할 수 있군요. 우리가 본래 해야 할 일인 것처럼...
+2341	rest_2101_2450.tsv	Floran	플로란	Floran sssleep. Nice blanket.	지구를 파괴한 놈이랑 하고 있다니 믿기지 않아! 너무 좋아아!
+2342	rest_2101_2450.tsv	Floran	플로란	Floran ssslightly ssscared by sssilent penguin.	저기로 못 가!
+2343	rest_2101_2450.tsv	Floran	플로란	Floran ssslightly ssscared by this fluff.	이걸 부술 생각에 흥분이 밀려와.
+2344	rest_2101_2450.tsv	Floran	플로란	Floran sssmash boring machine.	이 식물 곁에 있으면 더 편안해져.
+2345	rest_2101_2450.tsv	Floran	플로란	Floran sssmash many bowl.	그게 아팠으면 좋겠다 쥐야!
+2346	rest_2101_2450.tsv	Floran	플로란	Floran sssmells a trap!	이 기술을 고쳐서 충실한 세일과 대화해야 하는군요.
+2347	rest_2101_2450.tsv	Floran	플로란	Floran sssniff odd pod. Sssmells familiar. Floran ssscared	이 구조물은 생명에 대한 깊은 경외를 예고하는 것 같네요.
+2348	rest_2101_2450.tsv	Floran	플로란	Floran ssspin furry wheel, work thread.	이 전선들을 정리해야겠다. 널브러져 있는 건 비효율적이야.
+2349	rest_2101_2450.tsv	Floran	플로란	Floran sssssssstabbed this ssssssilly flower!	이 문양이 무슨 뜻인지 궁금해.
+2350	rest_2101_2450.tsv	Floran	플로란	Floran ssstab cruel people.	이 장치가 고쳐지면 여기에 아이템을 보관할 수 있을 텐데..
+2351	rest_2101_2450.tsv	Floran	플로란	Floran ssstalk little morsels and find money.	이 별 같은 식물을 내 정원에 두고 싶어! 직접 키울 수 있을지도...
+2352	rest_2101_2450.tsv	Floran	플로란	Floran ssstare at ssscreen too long...	이건 안 건드리는 게 좋겠다.
+2353	rest_2101_2450.tsv	Floran	플로란	Floran ssstill doesn't know where it leadsss.	나쁜 놈들과 싸울 때 도움이 필요하면 내가 함께할게!
+2354	rest_2101_2450.tsv	Floran	플로란	Floran ssstore ssstab sssticksss here.	전투에 도움이 필요하면 여기 있을게.
+2355	rest_2101_2450.tsv	Floran	플로란	Floran ssstub toe on table. Angry!	지금은 여기 있을게, 선장.
+2356	rest_2101_2450.tsv	Floran	플로란	Floran sssurprised! Thisss sword isss made by Floranss!	여기 있을게. 필요하면 돌아와, 선장!
+2357	rest_2101_2450.tsv	Floran	플로란	Floran sstandss beneath hole and becomesss nice and clean.	나는 <selfname>, 정말 함선에 들어가고 싶어. 날 고용할래?
+2358	rest_2101_2450.tsv	Floran	플로란	Floran stand on table!	좀 바빠, 미안.
+2359	rest_2101_2450.tsv	Floran	플로란	Floran tassste tentacle. Tasstes of fabric.	곧 쌀 것 같아!
+2360	rest_2101_2450.tsv	Floran	플로란	Floran temped to usse helmet as drum.	돌아왔어, 멀쩡하게!
+2361	rest_2101_2450.tsv	Floran	플로란	Floran thinkss this is strange way to feed petss.	돌아왔어! 살아서!
+2362	rest_2101_2450.tsv	Floran	플로란	Floran thinkss this iss source of sssignal.	며칠이고 버티도록 만들어졌어! 준비됐길 바라~
+2363	rest_2101_2450.tsv	Floran	플로란	Floran thinksss food iss in here.	상징성이 궁금하다.
+2364	rest_2101_2450.tsv	Floran	플로란	Floran thinksss plantss are pretty..	내가 합류할 함선의 승무원을 찾고 있어. 관심 있나?
+2365	rest_2101_2450.tsv	Floran	플로란	Floran thinksss red bird is funny!	머리 위 비구름은 문자 그대로의 것만 책임져, 비유적인 건 아니야.
+2366	rest_2101_2450.tsv	Floran	플로란	Floran thinkssss pillowssss could use rocksss.	네 자지를 약탈하고 있어!
+2367	rest_2101_2450.tsv	Floran	플로란	Floran touch!!	지켜보고 있어.
+2368	rest_2101_2450.tsv	Floran	플로란	Floran tried a glitch once. Tasssted grossss.	여기서 이상한 눈빛을 받고 있어. 왜일까...
+2369	rest_2101_2450.tsv	Floran	플로란	Floran try to remove sstrange circle from below table, but it ssstays in place!	너무 야한 짓 했어! 더 세게 벌해줘~!
+2370	rest_2101_2450.tsv	Floran	플로란	Floran unssettled by chesst.	영구적인 집을 짓기로 한다면, 이 명패가 내 것임을 알려줄 거야.
+2371	rest_2101_2450.tsv	Floran	플로란	Floran use thisss magic panel to talk to S.A.I.L!	전투에 내가 필요하면 여기 있을게!
+2372	rest_2101_2450.tsv	Floran	플로란	Floran use thisss magic panel to talk to the ship!	보호가 필요하면 어디 있는지 알지!
+2373	rest_2101_2450.tsv	Floran	플로란	Floran ussse seedss. Floran like to farm cropsss!	영감. 이 테이블로 새로운 제작대를 전부 만들 수 있을 것 같다.
+2374	rest_2101_2450.tsv	Floran	플로란	Floran ussse table to cut meat...	흥미. 이 자판기는 포획 포드를 파는 것 같다.
+2375	rest_2101_2450.tsv	Floran	플로란	Floran ussse table. Make sparklyyy thingss.	위협. 비축하는 놈들에겐 자비 없다!
+2376	rest_2101_2450.tsv	Floran	플로란	Floran usually hassss no need for plates.	호기심. 이 가시들은 자연 형성물이다.
+2377	rest_2101_2450.tsv	Floran	플로란	Floran viness obey commandss. Even yaara onesss. Dumb electrogirls can't open.	"암컷이야. 그런데 수컷? 페네록스 혼란. 생각 말고 그냥 박아?"" 좋은 생각!"
+2378	rest_2101_2450.tsv	Floran	플로란	Floran wait in front of houssse. When sssee crab, try to ssstab, but crab ssstrong...	아직 안 끝났어?
+2379	rest_2101_2450.tsv	Floran	플로란	Floran wait under bed.. Prey sssleeps and closes bed curtainss... Floran comesss out and huntss! Fresssh meat!	얘가 싼다! 새끼 만들어?
+2380	rest_2101_2450.tsv	Floran	플로란	Floran want boom gun.	얘가 싼다. 끝났어? 아니?
+2381	rest_2101_2450.tsv	Floran	플로란	Floran want flying machine!	우주선 해치군요.
+2382	rest_2101_2450.tsv	Floran	플로란	Floran want giant metal man.	이 가시 같은 형성물이 자연산이라는 게 특이하네요.
+2383	rest_2101_2450.tsv	Floran	플로란	Floran want medicine man to fix ssstabs!	거품 문이야. 가운데를 누르면 거품이 터져.
+2384	rest_2101_2450.tsv	Floran	플로란	Floran want revenge on shiny people for not being ssssstabbable!	외계 식물 키우는 게 재밌어. 너도 해봐!
+2385	rest_2101_2450.tsv	Floran	플로란	Floran want to befriend chest.	수확 길드의 노력 덕분에 온갖 맛있는 음식이 있어! 그들의 재배술은 정말 유용해.
+2386	rest_2101_2450.tsv	Floran	플로란	Floran want to eat some snacksss.	악취는 고약하지만 그래도 까보고 싶어.
+2387	rest_2101_2450.tsv	Floran	플로란	Floran want to look inssside ssparkly chesst.	질투. 이렇게 튼튼한 재료라니.
+2388	rest_2101_2450.tsv	Floran	플로란	Floran want to ssslash white glowing ball!	그냥 전선 다발이네.
+2389	rest_2101_2450.tsv	Floran	플로란	Floran want to ssstab big birds...	그냥 전선들.
+2390	rest_2101_2450.tsv	Floran	플로란	Floran want to wake metalman!	압박을 유지해!
+2391	rest_2101_2450.tsv	Floran	플로란	Floran wants sssilky ssurprise!	매듭지어줘! 임신시켜줘! 새끼 한가득!
+2392	rest_2101_2450.tsv	Floran	플로란	Floran wants to eat thisss tassty smelling ssssap.	레이저 산탄총
+2393	rest_2101_2450.tsv	Floran	플로란	Floran wants to eat.	금방 힘 좀 북돋아 줄게!
+2394	rest_2101_2450.tsv	Floran	플로란	Floran wants to ssmash thingsss.	내보내줘냥! 오, 밖엔 뭐가 있지냥..? 다시 넣어줘냥! 이제 다시 내보내줘냥!
+2395	rest_2101_2450.tsv	Floran	플로란	Floran wantss big gun.	다시 거래하자.
+2396	rest_2101_2450.tsv	Floran	플로란	Floran wantss to desstroy robot.	가자, 선장!
+2397	rest_2101_2450.tsv	Floran	플로란	Floran wantss to hide in flowerss.. But too many flowerss!	여기에 보라냥 끈적이를 넣고 출발이다냥!
+2399	rest_2101_2450.tsv	Floran	플로란	Floran wantss to ride crane.	도마뱀이 싼다! 알 만들어?
+2400	rest_2101_2450.tsv	Floran	플로란	Floran wantss to sstab big fish.	도마뱀 남자. 너무 커! 너무 지배적! 이상한 자지. 페네록스 사랑!
+2401	rest_2101_2450.tsv	Floran	플로란	Floran wantss to sstab big robot.	늘어진 전선들. 누가 고쳐야 한다.
+2402	rest_2101_2450.tsv	Floran	플로란	Floran wantss to use giant metal rock as trap.	놓쳤다!
+2403	rest_2101_2450.tsv	Floran	플로란	Floran wantss to use rail as weapon.	애정. 글리치 가족을 만들자!
+2404	rest_2101_2450.tsv	Floran	플로란	Floran wantss to usse arrow.	음란. 네 매듭이 내 보지를 때리는 게 느껴져!
+2405	rest_2101_2450.tsv	Floran	플로란	Floran wantsss explosionsss!	음란. 오... 네가 날 너무 젖게 하고 있어!
+2406	rest_2101_2450.tsv	Floran	플로란	Floran wantsss glow in dark leavesss too.	기관총
+2411	rest_2101_2450.tsv	Floran	플로란	Floran wantsss to sssee weapon being made.	짝이 싼다! 깊은 곳에! 너무 가득, 너무 좋아!
+2412	rest_2101_2450.tsv	Floran	플로란	Floran wantsss to wear thiss shirt.	짝이 싼다! 새끼 사슴 만들어?
+2413	rest_2101_2450.tsv	Floran	플로란	Floran wantsss to wear thiss skirt.	크루세스가 네 영혼을 인도하길... 친구여...
+2414	rest_2101_2450.tsv	Floran	플로란	Floran wantsss to wear thiss sweater.	음.. 푸시아가 생각한 건 아니지만 그래도 재밌어!
+2415	rest_2101_2450.tsv	Floran	플로란	Floran wantsss to whack these annoying lights!	루인드가 더 나타날 수도 있어. 조심해.
+2417	rest_2101_2450.tsv	Floran	플로란	Floran will ambush sssomeone here.	생쥐 사람. 페네록스 잡아! 짝 만들어, 먹지 마!
+2418	rest_2101_2450.tsv	Floran	플로란	Floran will only ssit at this one certain starry desssk..	생쥐 사람. 먹지 마. 너무 커. 페네록스랑 교미? ... 왜 안 돼! 아주 기뻐.
+2419	rest_2101_2450.tsv	Floran	플로란	Floran will push them all!	스캐너가 이 작은 조개들에서 픽셀을 감지해.
+2420	rest_2101_2450.tsv	Floran	플로란	Floran will sssteal from brown bag.	명중!
+2421	rest_2101_2450.tsv	Floran	플로란	Floran will take sssilly thing.	갈망. 사랑의 샘플을 더 줘!
+2422	rest_2101_2450.tsv	Floran	플로란	Floran will touch it.	중립. 정해진 지연 후 신호를 중계하는 회로.
+2423	rest_2101_2450.tsv	Floran	플로란	Floran wishesss old gun would work... Ssad.	중립. 거대한 수정.
+2424	rest_2101_2450.tsv	Floran	플로란	Floran wisssh could make Angel wingsss with table..	이런 나무는 본 적 없네.
+2425	rest_2101_2450.tsv	Floran	플로란	Floran won't open it.	벌레가 이렇게 잘할 줄 몰랐어!
+2426	rest_2101_2450.tsv	Floran	플로란	Floran won't touch poisonouss thing.	알게 돼서 반가워!
+2427	rest_2101_2450.tsv	Floran	플로란	Floran wondersss what it can cut...	이름 없음
+2428	rest_2101_2450.tsv	Floran	플로란	Floran worried by moonshine's sssmell.	털 없어. 그래도 예뻐. 너무 뜨거워. 더 필요해!
+2429	rest_2101_2450.tsv	Floran	플로란	Floran would like to cook meat.	쉴 시간 없어!
+2430	rest_2101_2450.tsv	Floran	플로란	Floran would rather use for hunting.	우리가 못 움직이는 게 당연하다냥, 세일이 고장 났잖아냥!
+2431	rest_2101_2450.tsv	Floran	플로란	Floran would store sssstab sssticksss here.	이 테이블에 대해선 할 말이 별로 없어.
+2438	rest_2101_2450.tsv	Floran	플로란	Fluffy and sssssqueaky? Floran not know what to think...	오 세상에, 네 비늘이 딱 맞게 문질러!
+2439	rest_2101_2450.tsv	Floran	플로란	Fluffy toy is ssstaring at Floran. Floran better bring him back.	오 이런!
+2518	rest_2451_2800.tsv	Floran	플로란	Funny-sshaped ssstatue. Almost lookss like a weapon to Floran..	녹색 언어가 네 행적을 말할 것이다. 이 마을에서 실수하지 마라.
+2521	rest_2451_2800.tsv	Floran	플로란	Furnace hisss, ssspit, burn. Floran brave it.	뱅가드가 이 전선을 파괴하길 원할지도.
+2534	rest_2451_2800.tsv	Floran	플로란	Gemsss cannot be eaten! Unlesssss drawers are filled with meat, Floran not interessted.	폭포는 정말 멋진 광경이구만.
+2579	rest_2451_2800.tsv	Floran	플로란	Glowing ssspear tip ... Floran want one too.	뭐 때문에 왔어?
+2593	rest_2451_2800.tsv	Floran	플로란	Golden flower makess Floran think of bright ball in sssky.	늑대 강해. 페네록스 박아. 페네록스 지배. 아주 기뻐!
+2685	rest_2451_2800.tsv	Floran	플로란	Heavy Angel ssstone chest.. Floran can store goodiesss in here!	모험가의 개인 일지. 그의 이야기는 끝나지 않았다...
+2859	rest_2801_3150.tsv	Floran	플로란	Huge beacon callsss old horrorsss to protect Floran's colony.	제국군 병사
+2899	rest_2801_3150.tsv	Floran	플로란	Hylotl seemssss weak. Floran not interesssted, can't read.	나댜! 행운을 빌어줘!
+2905	rest_2801_3150.tsv	Floran	플로란	Hypothetical. I believe this statue depicts an important Floran.	이즈야티 아스-칼라단의 라데이스 노트.
+3229	rest_3151_3500.tsv	Floran	플로란	I don't think this is Floran tech.	기계에 연결된 폭발성 가열 탱크.
+3517	rest_3501_3850.tsv	Floran	플로란	I suppose that was made by some Floran.	강철처럼 날카롭게 준비됐다. 네가 가는 곳엔 내가 그림자처럼 따른다.
+3781	rest_3501_3850.tsv	Floran	플로란	I'm not sure about the Floran eyeing me up, but I could never pass up an opportunity to fly!	보안 단말기 같은데. 접근하려면 맞는 패스가 있어야 해.
+3976	rest_3851_4200.tsv	Floran	플로란	Illuminated planetsss are very boring. Everything isss pale and lookss the sssame to Floran.	나무 안에서 일어나는 모든 걸 듣는다, 널 찾을 것이다.
+4088	rest_3851_4200.tsv	Floran	플로란	Insects in sssac? Floran not sssure if tasty or boring.	^cyan;면역^reset;: 중간 냉기, 경미한 독, 사막/정글 열기
+4314	rest_4201_4550.tsv	Floran	플로란	Isss it a ssspear? Floran can hurt sssomeone with it?	군사 정거장으로서 우리의 특별 서비스는 새 크루원 고용입니다. 품질에 따라 가격이 오르듯, 이세계 괴물에게서 당신을 구해줄 때의 보답도 큽니다. 아쉽게도 선장당 한 명만 배정 가능합니다. 우리가 크루원이 필요한 처지가 되긴 싫으니까요...
+4316	rest_4201_4550.tsv	Floran	플로란	Issss not what floran have down there. But floran don't care.	이런, 잠깐 금인 줄 알았구만.
+4411	rest_4201_4550.tsv	Floran	플로란	It rainsss ash and fire on blissstering planetss. Floran wishesss to sstay away.	고대 잔해
+4801	rest_4551_4900.tsv	Floran	플로란	Kleptoadss ssteal and run away. But Floran heard they are a challenge to fight againsst.	이 신비한 빛나는 나무의 열매는 먹을 수 없을 거군요.
+4820	rest_4551_4900.tsv	Floran	플로란	Lab light is harsh on Floran eyesss.	이 바위들은 흙처럼 보이지만 구리로 됐어.
+4828	rest_4551_4900.tsv	Floran	플로란	Lantern hasss no flame. Floran sssafe.	돌아왔어!
+4835	rest_4551_4900.tsv	Floran	플로란	Large, ssstrong Angel chesst. Maybe there iss something inssside that Floran can ssilently take?	이 신호기는 무장한 트링키안 세입자를 끈다.
+4872	rest_4551_4900.tsv	Floran	플로란	Lichor iss good meat wine. Floran alsso likess Oculemoncello.	쓰레기 버릴 시간이야!
+5067	rest_4901_5250.tsv	Floran	플로란	Looksss like fire. Floran keepsss away.	언바운드 부대가 쓰는 통신 중계기네요.
+5069	rest_4901_5250.tsv	Floran	플로란	Lookssss like Floran can ussse this to get insssside!	SAIL과 통신하는 콘솔.
+5070	rest_4901_5250.tsv	Floran	플로란	Lookssss like Floran can ussse this to get insssside.	제어판, 인터페이스가 생소하네요.
+5094	rest_4901_5250.tsv	Floran	플로란	Machine makesss better weaponsss for Floran.	증서와 문, 조명만 있으면 세입자를 불러들일 수 있어.
+5097	rest_4901_5250.tsv	Floran	플로란	Machine sssew for Floran, work thread.	도킹 필드. 우주의 진공과 함선 내부 사이를 가로막는 장벽 역할을 한다.
+5114	rest_4901_5250.tsv	Floran	플로란	Makesss Floran hungry!	포스필드 해치.
+5115	rest_4901_5250.tsv	Floran	플로란	Makesss armor and shieldsss. Floran likesss offenssse more but defenssse good too.	구리 광석이 든 부서지기 쉬운 광맥. 깨서 열어보자.
+5116	rest_4901_5250.tsv	Floran	플로란	Makesss big metal thingsss. Big vechilesss, big robotsss. Floran impresssed.	은 광석이 든 부서지기 쉬운 광맥. 깨서 열어보자.
+5117	rest_4901_5250.tsv	Floran	플로란	Makesss energy weaponsss and wiring thingsss. Floran likesss sharp better but energy good.	악당들에게 공짜로 태워 준다고? 나도 끼지!
+5118	rest_4901_5250.tsv	Floran	플로란	Makesss healing thingsss. Floran prefersss own methodsss but thisss helpsss too.	친근한 이방인! 클루엑스에게 감사를.
+5119	rest_4901_5250.tsv	Floran	플로란	Makesss kitchen thingsss. Platesss, knivsss, cooking boxesss. Floran likesss sharp knivsss!	연료 패널. 고장 났지만 수리 가능해.
+5120	rest_4901_5250.tsv	Floran	플로란	Makesss metal friendsss. Floran not trussst them like plantss but they work good.	금속 작업용 용광로네요.
+5187	rest_4901_5250.tsv	Floran	플로란	Meow. A Floran running a farming shop? Strange, indeed!	사랑스러운 꽃 걸이 바구니.
+5197	rest_4901_5250.tsv	Floran	플로란	Meow. This mask vaguely resembles a Floran... Creepy!	아주 예쁜 식물.
+5202	rest_4901_5250.tsv	Floran	플로란	Meow... I think I might want to avoid these Floran...	면화를 만들 수 있는 신비한 식물... 흥미로워!
+5342	rest_5251_5600.tsv	Floran	플로란	Mushroom smellsss weird. Floran wantss to ssquish it.	우리가 본 모든 것 뒤에, 우리를 쫓는 어둠으로부터 안전하고 숨겨지길 기도한다.
+5473	rest_5251_5600.tsv	Floran	플로란	New weaponsss for Floran?	큰 여우. 너무 아름다워. 페네록스 교미! 행운이야! 너무 좋아!
+5529	rest_5251_5600.tsv	Floran	플로란	No, I'm sure even floran wouldn't like this.	조심. 어떤 행성은 위험하니 이 테이블을 쓰는 게 좋다.
+5530	rest_5251_5600.tsv	Floran	플로란	No, floran sssssure even hylotl wouldn't like this.	화물 운반기
+5896	rest_5601_5950.tsv	Floran	플로란	Ohh it's a mark! Can Floran take thiss home?	머리 스타일
+5902	rest_5601_5950.tsv	Floran	플로란	Old Floran ruinsss mussst be hidden sssomewhere on thiss green planet.	"상태 효과: ^#2080f0;민감 전자기기^reset;.
+접촉 시 물리 피해."
+5904	rest_5601_5950.tsv	Floran	플로란	Old caves on Avalon are often adorned with drawings like these. Floran hunters are depicted here.	이 일회용 조명을 가져!
+5909	rest_5601_5950.tsv	Floran	플로란	Old caves on Eros are often adorned with drawings like these. Floran hunters are depicted here.	발정. 아... 네가 큰 유인원이야?
+5916	rest_5601_5950.tsv	Floran	플로란	Old giant ssstone unlockss door. Floran musst use buttonss on floor.	안녕, 에이펙스.
+5925	rest_5601_5950.tsv	Floran	플로란	On nightmissst planetss, Floran hasss to kill thingss twice. Good for ssstabbing practice.	도움. 아드레날린 자극제 투여!
+5991	rest_5951_6300.tsv	Floran	플로란	Ooh, sssilky! Floran wantss!	안에 금속이 보여!
+5995	rest_5951_6300.tsv	Floran	플로란	Oooooooh... Floran like that!	여기서 찾은 재료로 위험 차단 아이템을 만들 수 있어.
+6005	rest_5951_6300.tsv	Floran	플로란	Orange fruit face! Floran thinksss it looksss funny.	이게 날 흥분시킬 줄 몰랐어!
+6010	rest_5951_6300.tsv	Floran	플로란	Orb lightss make good containersss. Floran put trophiesss in to hide from electrogirlss.	네가 싫어.
+6065	rest_5951_6300.tsv	Floran	플로란	Perfect place for Floran to hide.	이 청사진을 반란군용으로 다운로드할 수 있을까?
+6066	rest_5951_6300.tsv	Floran	플로란	Perhaps if you met a Floran.	물이 신선할까요?
+6107	rest_5951_6300.tsv	Floran	플로란	Plant leavesssss ussseful for Floran rituals and ssssssmoking.	네 보지를 갈망해왔어!
+6108	rest_5951_6300.tsv	Floran	플로란	Plant ssick with evil crysstal, Floran can't touch or getss hurt. Electrogirl fault.	이제 지긋지긋해!
+6179	rest_5951_6300.tsv	Floran	플로란	Poster wantsss to hire Floran?	자르고, 썰고, 건드리면 날 칠면조 저녁으로 만들 거야.
+6180	rest_5951_6300.tsv	Floran	플로란	Pot needss food. Floran hungry.	큰 금속 문장이야.
+6198	rest_5951_6300.tsv	Floran	플로란	Pretty box! Floran wondersss what inssside!	일종의 고대 자동인형.
+6199	rest_5951_6300.tsv	Floran	플로란	Pretty box! Floran wondersss what'ss inssside!	너무... 좋아~! 싸고 있어어~!
+6210	rest_5951_6300.tsv	Floran	플로란	Pretty red picture! Floran likesss warm colorsss.	계속 와! 아직 안 끝났어.
+6214	rest_5951_6300.tsv	Floran	플로란	Pretty ticketssss print pretty thingss for Floran.	켈 샤크 로!
+6398	rest_6301_6650.tsv	Floran	플로란	Remindsss Floran of Agaran nemesisssss.	패링 카운터
+6399	rest_6301_6650.tsv	Floran	플로란	Remindsss floran of times ssleeping in treess during hunt.	평화롭지?
+6412	rest_6301_6650.tsv	Floran	플로란	Ribsss. Floran approvessss.	식물 사람. 먹잇감이야. 입장 반전!
+6438	rest_6301_6650.tsv	Floran	플로란	Ruinousss world consssumed by ssome evil forces. Floran isss worried.	자랑. 우린 연금술의 최전선이야!
+6558	rest_6301_6650.tsv	Floran	플로란	Sharp Angel sswords with ssshield. Floran like hammerss!	일종의 장식 기둥인가?
+6592	rest_6301_6650.tsv	Floran	플로란	Shiny counter hurtss Floran's eyess.	이상한 고장 난 기계에.
+7005	rest_7001_7350.tsv	Floran	플로란	Speak to ^orange;the Floran hunter^reset; at the ^orange;outpost^reset;	최고급 고급 기능 범주에 온 것을 환영한다. 여기서는 아래의 'input override' 명령 상자를 사용해 NPC를 한층 더 세밀하게 꾸미는 방법을 알아본다!
+7007	rest_7001_7350.tsv	Floran	플로란	Speak to ^orange;the fashionable Floran^reset; at the ^orange;outpost^reset;	이 주둔지에 온 걸 환영해, 친구.
+7040	rest_7001_7350.tsv	Floran	플로란	"Ssign readsss ""Out of order."" Floran musst return later."	장난감 어디 있어?
+7042	rest_7001_7350.tsv	Floran	플로란	Ssilly stone architecture doesss not interest Floran.	어디 갔어, 더러운 존재?!
+7043	rest_7001_7350.tsv	Floran	플로란	Ssmall wood figure. Floran thinksss it's pointless.	어디 갔지?
+7046	rest_7001_7350.tsv	Floran	플로란	Ssome cake. Floran shell enjoy itsss sswetnesss!	누가 널 만들었어?
+7047	rest_7001_7350.tsv	Floran	플로란	Ssome fresh. Floran shell enjoy itsss sswetnesss!	누가 저 높은 나무 위에 살고 싶겠어?
+7048	rest_7001_7350.tsv	Floran	플로란	Ssome jam. Floran shell enjoy itsss sswetnesss!	이걸 쓴 사람은 이유가 있어 여기 뒀겠지.
+7050	rest_7001_7350.tsv	Floran	플로란	Ssome motsu. Floran shell enjoy itsss sswetnesss!	왜 일부러 플래시라이트에 음모를 달았어?!
+7051	rest_7001_7350.tsv	Floran	플로란	Ssome pie. Floran shell enjoy itsss sswetnesss!	왜 이렇게... 미끈거리지?
+7052	rest_7001_7350.tsv	Floran	플로란	Ssome punch. Floran shell enjoy itsss sswetnesss!	술도 안 팔면서 바를 왜 둬?
+7053	rest_7001_7350.tsv	Floran	플로란	Ssome salad. Floran shell enjoy itsss sswetnesss!	청사진 개발에 도움!
+7054	rest_7001_7350.tsv	Floran	플로란	Ssome soup. Floran shell enjoy itsss sswetnesss!	NPC의 몸, 다리, 팔을 색칠한다고 함.
+7056	rest_7001_7350.tsv	Floran	플로란	Sspecial Angel box iss ssstrange to Floran.	NPC의 얼굴 가면을 색칠한다고 함.. 아비안 부리 같은.
+7061	rest_7001_7350.tsv	Floran	플로란	Ssscary cat making floran feel like ssscaredy cat.	마녀의 걸이 식물
+7071	rest_7001_7350.tsv	Floran	플로란	Ssshiny ssymbols. Floran doesssn't really care as much.	걱정. 네가 하이브마인드에 재연결되기 전에 멈춰야 할지도. 다시 생각해보니... 아니.
+7073	rest_7001_7350.tsv	Floran	플로란	Ssship teleporter..? Floran feels not good just looking at it.	와! 거의 분해됐어.
+7076	rest_7001_7350.tsv	Floran	플로란	Sssign won't ssstop Floran, becaussse Floran can't read!	선물 포장은 다른 종족에게 번진 인간 전통이야. 이건 움직이는데...
+7090	rest_7001_7350.tsv	Floran	플로란	Sssilly light ball is sselling many sparkly foodsss... Hmm, maybe Floran will try one...	초록색... 그거... 좀 필요해 보이는구먼...
+7100	rest_7001_7350.tsv	Floran	플로란	Sssmall table sseems uselesss to Floran. But maybe there are sssmall itemss for Floran to take?	날 불렀어?
+7107	rest_7001_7350.tsv	Floran	플로란	Sssnake on door remind floran of pet.	머리에 뭔가를 얻어맞는 게 얼마나 안 좋은 일인지는 천재가 아니어도 알 수 있지.
+7113	rest_7001_7350.tsv	Floran	플로란	Ssso many wordsss! Too fast for Floran to read.	너희 기계들은 항상 일을 더 망쳐.
+7115	rest_7001_7350.tsv	Floran	플로란	Sssolarized worldss look interesssting but Floran doesn't like extreme heat.	내 자지를 정말 갈망하는가 봐!
+7117	rest_7001_7350.tsv	Floran	플로란	Sssomeone is in need of help. They need Floran's help to build ssomething.	정말 날 임신시키고 싶구나, 그치~?
+7121	rest_7001_7350.tsv	Floran	플로란	Sssplashy-sspinny thing. Too ssmall for Floran, sssadly.	나한테서 도망칠 수 있을 것 같아?!
+7123	rest_7001_7350.tsv	Floran	플로란	Ssspooky chesst! Will Floran be cursssed?	여기 온 걸 후회할 거야!
+7124	rest_7001_7350.tsv	Floran	플로란	Ssspooky colorful face! Floran likesss.	우주에서 살면 외로울 줄 알겠지만... 음, 사실 맞아.
+7131	rest_7001_7350.tsv	Floran	플로란	Ssssmells bad. Floran hungry now.	날 억누르면서 박고 있어~...
+7135	rest_7001_7350.tsv	Floran	플로란	Sssstrong beast! Floran like!	잘못 찾아왔어!
+7142	rest_7001_7350.tsv	Floran	플로란	Ssstarry bed iss so sssoft Floran might ssleep forever!	[ 지원 없음 | 보상 X2 ]
+7161	rest_7001_7350.tsv	Floran	플로란	Ssstupid dome is now soft chair! Thisss make Floran happy!	^#D87E80;전투 기술
+7162	rest_7001_7350.tsv	Floran	플로란	Ssstupid heavy door. Floran musst use a lot of ssstrength to pussh door!	^#DC143C;레이저 권총
+7163	rest_7001_7350.tsv	Floran	플로란	Sssuch tiny plant makess Floran happy!	^#b0e0fc;알타 가드너^reset;
+7178	rest_7001_7350.tsv	Floran	플로란	Sstrange bed feelsss nice to Floran.. Tired...	^blue;플라즈마 산탄총^reset;
+7179	rest_7001_7350.tsv	Floran	플로란	Sstrange sshape for light. Oh well, Floran doesssn't mind either way.	^gray;(오버라이드 활성)
+7209	rest_7001_7350.tsv	Floran	플로란	Statement. That Floran appears to be in trouble! Realization. Oh..	^orange;개별 메탈 스톰 시스템^reset;
+7212	rest_7001_7350.tsv	Floran	플로란	Statement. This is not a Floran design.	^orange;플라즈마 블래스터^reset;
+7216	rest_7001_7350.tsv	Floran	플로란	Station glow... shine... Floran stab crystals....	^orange;아르카나 스테이션과 재료의 주 제작대.^reset;
+7221	rest_7001_7350.tsv	Floran	플로란	Stone needss food. Floran hungry.	^red;위험: 개구리에게 먹이 주지 마시오.
+7235	rest_7001_7350.tsv	Floran	플로란	Studiesss old dead thingsss in rocksss. Floran prefersss living thingsss but rocksss pretty.	그루는 간식으로도 좋아.
+7236	rest_7001_7350.tsv	Floran	플로란	Studiesss star magic. Very bright, very powerful. Floran carefulsss around thisss.	대기 자세
+7237	rest_7001_7350.tsv	Floran	플로란	Studiesss water creaturesss. Floran likesss land better but water life isss interessting.	이름 >
+7346	rest_7001_7350.tsv	Floran	플로란	Table great for Floran to ssslice meatsss.	팰릿 위에 쌓인 소비재 한 무더기.
+7347	rest_7001_7350.tsv	Floran	플로란	Table isss very clean. Floran wantss to sstain it red!	축 늘어진 전선 한 묶음.
+7348	rest_7001_7350.tsv	Floran	플로란	Table too dangerous for Floran to use for chopping food. But color remindss Floran of meat.	웅웅거리고 깜빡이는 조명이다냥.
+7363	rest_7351_7700.tsv	Floran	플로란	Tall lady can't sssee floran. Easssy prey.	유기체 성질의 외계 재료로 만든 상자. 내용물 확인이 망설여져.
+7367	rest_7351_7700.tsv	Floran	플로란	Tasssty semen. Floran want a tassste.	점토 항아리. 안에 뭐가 있을까?
+7377	rest_7351_7700.tsv	Floran	플로란	Tea. Floran shell enjoy itsss sswetnesss!	화려한 천막 문.
+7380	rest_7351_7700.tsv	Floran	플로란	Teleport machine not on. Floran hope it work sssoon.	소형 돌 용광로, 저온 합금 제련용.
+7381	rest_7351_7700.tsv	Floran	플로란	Teleporter. Floran feel confusssed during teleport.	여러 도구가 있는 소형 작업장. 공간과 재료 활용이 효율적이야.
+7394	rest_7351_7700.tsv	Floran	플로란	Tentaclesss remind floran of bad experience.	멋진 책상.
+7559	rest_7351_7700.tsv	Floran	플로란	The Floran selling gunships here doesn't look to be the trustworthy sort...	다기능 스토브네요.
+7646	rest_7351_7700.tsv	Floran	플로란	The bright eyes on this mask are unsettling.. Is this..a Floran? Then that would make sense.	전차 포탄 선적분.
+8103	rest_8051_8400.tsv	Floran	플로란	There are lotsss and lotss of tasty creatures for Floran to hunt on grassland planetss!	평온. 파란 수정 표본.
+8338	rest_8051_8400.tsv	Floran	플로란	Thesse lamps are poisonousss. Floran puzzled.	먹는 알들이에?
+8352	rest_8051_8400.tsv	Floran	플로란	They look approachable. For a Floran.	즐기고 있어?
+8495	rest_8401_8750.tsv	Floran	플로란	This ape woman sellsss lots of pretty clothes for Floran to dissguise in!	감사. 장난감 모아줘서 고마워! 이제 내 고객들이 더 신날 거야.
+8801	rest_8751_9100.tsv	Floran	플로란	"This desk is most likely used by a ""greenfinger"" of a Floran tribe."	물질 분해율 475%로 증가
+8824	rest_8751_9100.tsv	Floran	플로란	This dirt doess not look ssso filthy to Floran..	저기 하늘에 로켓이 있는 거야, 아니면 날 봐서 좋은 거야?
+8935	rest_8751_9100.tsv	Floran	플로란	This fuel system doesn't appear to be Floran in origin.	주변 마음에 들어?
+9499	rest_9451_9800.tsv	Floran	플로란	This organic Floran bed looks like it belongs in a prison.. Is that what this is?	비에라는 숲의 일부로 시작하지만 그게 우리가 고를 유일한 끝은 아니다.
+9808	rest_9801_10150.tsv	Floran	플로란	This statue depicts a grand Floran hunter.	일제 발사기
+9865	rest_9801_10150.tsv	Floran	플로란	This table is binded together with rope. This was most likely made by a Floran.	오늘 무슨 날이야!
+10092	rest_9801_10150.tsv	Floran	플로란	Thiss chesst want to eat Floran. Floran ssscared.	^cyan;신성^reset;
+10096	rest_9801_10150.tsv	Floran	플로란	Thiss table looksss perfect for Floran. Warm glow and shiny crysstals. Floran made thisss.	^gray;폭발성 플라즈마탄을 쏘는 텔레도스 소총.^reset;
+10097	rest_9801_10150.tsv	Floran	플로란	Thisss big flower isss the heart of this place. Connected to everything. Floran show ressspect.	^gray;기본 소검.
+10098	rest_9801_10150.tsv	Floran	플로란	Thisss bird is green like Floran!	^gray;켈라아키 현상금 사냥꾼이 쓰는 가열 검.
+10099	rest_9801_10150.tsv	Floran	플로란	Thisss blue light iss pretty to Floran.. But why weird ssshape?	^gray;지속 사격에 완벽한 기관총.^reset;
+10100	rest_9801_10150.tsv	Floran	플로란	Thisss box is right size to hide in. Floran could ussse it for ambushesss...	^gray;드로덴 병사 지급 미니멀 에너지 무기.
+10106	rest_9801_10150.tsv	Floran	플로란	Thisss make floran hungry.	^gray;몬스터에서 고기와 기타 물품 수확.
+10107	rest_9801_10150.tsv	Floran	플로란	Thisss might take Floran ssstraight to the dog den.	^gray;다음 상호작용 시 폴백 인터페이스가 로드됨.
+10108	rest_9801_10150.tsv	Floran	플로란	Thisss might take Floran ssstraight to the entranccce.	^gray;몬스터 뼈와 가죽 수확용.
+10109	rest_9801_10150.tsv	Floran	플로란	Thisss not food. Floran unimpresssed.	^green;+ 20% 우주 저항.^reset;
+10110	rest_9801_10150.tsv	Floran	플로란	Thisss not make sssense to floran.	^green;+ 20% 달리기 부스트^reset;
+10128	rest_9801_10150.tsv	Floran	플로란	Thisss where Floran's couch went?!	^orange;추가 자원용
+10129	rest_9801_10150.tsv	Floran	플로란	"Thisss would take Floran directly to ssssome ssilly café place...
+Floran isss a little hungry..."	^orange;HYLas 소총^reset;
+10132	rest_9801_10150.tsv	Floran	플로란	Thissss bench is ssssoft. Floran like ssssoft.	^orange;우리 조사를 도와줘 !
+10134	rest_9801_10150.tsv	Floran	플로란	Thissss is Atmos. Floran can buy Lockjawsss from him.	^orange;즉석 작업대^white;
+10135	rest_9801_10150.tsv	Floran	플로란	Thissss is Atmos. Floran can buy Lockjawsss from it.	^orange;개인
+10136	rest_9801_10150.tsv	Floran	플로란	Thissss is Engineer Peter Atmos. Floran can buy Lockjawsss and vehiclessss from him.	^orange;계획 테이블^white;
+442	rest_priority_0645.tsv	Floran	플로란	An organic chest made by some Floran.	산업적인 느낌의 보관함입니다.
+798	rest_priority_0647.tsv	Floran	플로란	Bad plant want to deceive Floran! To get to ssleep and then eat Floran up!! Floran should ssstay away.	문과 광원이 하나 이상 있는 밀폐된 건물에 놓으면 누군가 들어올 것입니다!
+861	rest_priority_0647.tsv	Floran	플로란	Better desstroy it while ssmall. Evil plant hurtss even Floran.	이 스테이션을 재부팅 하면 SAIL과 대화할 수 있을 것이다.
+1120	rest_priority_0647.tsv	Floran	플로란	Catchesss beastsss, makesss them friendsss. Floran likesss thiss! Also makesss trophiesss from huntss.	실망. 문이다. 현재는 비활성화된 것 같다.
+2101	rest_priority_0647.tsv	Floran	플로란	Floran doesn't like ssscience.	대량 생산형 자동 방어 터렛입니다. 빗나가지 않으려고 엄청 노력합니다.
+457	rest_0401_0700.tsv	Hylotl	하이로틀	An overly dramatic door covered in eyes. Hylotl prefer stark beauty to convey importance.	흉한 뿌리 덩어리.
+462	rest_0401_0700.tsv	Hylotl	하이로틀	An protectorate enlistment poster, It was targed to Lustlings, Showing how open they are to our sexual needs. Don't know how they got a Hylotl to pose naked for the photo.	보관하기 쉽게 함께 포장된 탄환.
+695	rest_0401_0700.tsv	Hylotl	하이로틀	Art and philosophy everywhere! Very Hylotl. Very beautiful~	고양이가 플로란을 지배해엇!
+10334	rest_10151_10500.tsv	Hylotl	하이로틀	Uninspiring to all but the Hylotl... and Felin, I guess?	* 복슬복슬한 엉덩이의 힘이 네 안에서 빛나.
+10631	rest_10501_10850.tsv	Hylotl	하이로틀	What a nerdy looking Hylotl.	정교하게 짠 비단 이불 침대.
+1214	rest_1051_1400.tsv	Hylotl	하이로틀	Colorful and with many installed at once. Hylotl really seem to like this collectable game.	기쁨. 오~ 그 모듈이 있구나!
+1343	rest_1051_1400.tsv	Hylotl	하이로틀	Critical. Not sure if actually in the Hylotl language.	야한. 네 노예처럼 대해줘! 아아앗!
+1345	rest_1051_1400.tsv	Hylotl	하이로틀	Critical. The Hylotl even manage to make their fuel hatches cumbersome and awkward. It's almost impressive.	응, 이게 너무 필요했어어~
+1375	rest_1051_1400.tsv	Hylotl	하이로틀	Curious. An old Yukai Hylotl. They seem to be a fine craftsman	식물 사람. 아름다움 많아. 매력 많아. 교미 많이!
+10851	rest_10851_11200.tsv	Hylotl	하이로틀	While too chill for most Hylotl, arcane tundras are definitely worth seeing.	상자다! 잠깐... 뭔가 이상한 느낌이 든다.
+11239	rest_11201_11550.tsv	Hylotl	하이로틀	Young Hylotl on Earth went crazy for this stuff, it lives deep in their culture I guess.	작동하는 주황 벽등.
+1501	rest_1401_1750.tsv	Hylotl	하이로틀	Deadpan. These spears are either decorative or made by Hylotl.	이제 누가 사냥꾼이야?!
+1537	rest_1401_1750.tsv	Hylotl	하이로틀	Depictions of keys and locked doors are not uncommon in Hylotl stories.	좋아~! 네 소중한 정액으로 내 비늘을 하얗게 칠해줘~!
+1751	rest_1751_2100.tsv	Hylotl	하이로틀	Eminsnow planets are somewhat shrouded in myth. Many Hylotl tell tales of ruins guarded by ancient beings.	이걸로 안에 들어갈 수 있겠어!
+1842	rest_1751_2100.tsv	Hylotl	하이로틀	Excellent craftsmanship, but the books themselves give the impression that the Hylotl can be a little... self-indulgent.	장식용 함선 부스터.
+1887	rest_1751_2100.tsv	Hylotl	하이로틀	Exposed electrical wiring like this is an uncommon sight in Hylotl cities.	뭐, 동료 기계가 못 해낼 일은 없을 거야! 행운을 빌어!
+1901	rest_1751_2100.tsv	Hylotl	하이로틀	Falling objects were a common mishap when Hylotl started building underwater cities.	기분 좋다.
+2747	rest_2451_2800.tsv	Hylotl	하이로틀	Hm. I almost mistook this for a Hylotl creation.	대포 자동 재장전기.
+2898	rest_2801_3150.tsv	Hylotl	하이로틀	Hylotl have little need for such clothing, but I simply cannot pass up swim fashion.	내 임신한 자궁이 네 정자를 못 참아~!
+2899	rest_2801_3150.tsv	Hylotl	하이로틀	Hylotl seemssss weak. Floran not interesssted, can't read.	나댜! 행운을 빌어줘!
+2900	rest_2801_3150.tsv	Hylotl	하이로틀	Hylotl's old art is much more beautiful than that.	자연석 폭포
+2934	rest_2801_3150.tsv	Hylotl	하이로틀	I always imagined the Hylotl using tridents. Not these.	그녀가 네게 말한다. 너도 숲의 목소리가 들리느냐?
+2956	rest_2801_3150.tsv	Hylotl	하이로틀	I am very surprised to see a Yukai Hylotl not attacking me on sight. They seem at peace with themselves.	촉수 폭발
+3062	rest_2801_3150.tsv	Hylotl	하이로틀	I can sense the wisdom on this plushie's face for the man it represents. It has truly Hylotl spirit.	정보가 표시된 홀로그램 디스플레이.
+3138	rest_2801_3150.tsv	Hylotl	하이로틀	I can't tell if those are angry Hylotl eyes, or a trident head.	금속으로 코팅된 바위.
+3304	rest_3151_3500.tsv	Hylotl	하이로틀	I have heard of this from some Mortals.. This sign is for the Letheia Corporation. I have been told this wealthy company is run by Hylotl..	날 잡으러 왔구나? 순진하긴...
+3451	rest_3151_3500.tsv	Hylotl	하이로틀	I recall hearing talk of banning this movie among the Hylotl. As refined and advanced as they claim to be, they're traditionalist to a fault.	안녕하세요, 친구!
+3474	rest_3151_3500.tsv	Hylotl	하이로틀	I see the Hylotl have been thankful.	다시 파티를 따라가서 기뻐.
+3785	rest_3501_3850.tsv	Hylotl	하이로틀	I'm not sure if I would like to rest on a hybrid between a Hylotl and a bear.	이상한 모양을 한 흰 조각상이군요.
+3806	rest_3501_3850.tsv	Hylotl	하이로틀	I'm surprised the Hylotl haven't adopted one of the numerous other fuel hatch designs. This is impractical.	멍청한 로봇.
+4293	rest_4201_4550.tsv	Hylotl	하이로틀	Is this sign asking for the Hylotl to steal children from the surface...? No, that cannot be right..	"철로 만든 엘리베이터다!
+설마 부서지지는 않겠지?"
+4574	rest_4551_4900.tsv	Hylotl	하이로틀	It's funny how much the cats' clothing resembles that of humans and hylotl.	독립 <role>
+4618	rest_4551_4900.tsv	Hylotl	하이로틀	It's lit up like a Hylotl city!	떨어뜨려서 뭐가 되는지 보자냥!
+4629	rest_4551_4900.tsv	Hylotl	하이로틀	It's not in the Hylotl script, but well drawn.	군사 물자 제작.
+5076	rest_4901_5250.tsv	Hylotl	하이로틀	Love learning about Hylotl culture! Our knowledge exchange is so enriching~	석판에 새긴 투박한 그림이다. 이런 게 세 개 더 필요해.
+5132	rest_4901_5250.tsv	Hylotl	하이로틀	Many Hylotl scholars dream about being Envoys of the Protectorate, wondering what kind of sights they could discover.	좋은 가죽에 양털 충전재 조금.
+5399	rest_5251_5600.tsv	Hylotl	하이로틀	My translator's catching a lot of the Hylotl symbols for strength, and valor.	미완성 부조. 세 조각이 확실히 빠졌네요.
+5515	rest_5251_5600.tsv	Hylotl	하이로틀	No one could ever replicate the beauty of a Hylotl bed.	아보스의 성스러운 땅으로, 만나서 반가워!
+5530	rest_5251_5600.tsv	Hylotl	하이로틀	No, floran sssssure even hylotl wouldn't like this.	화물 운반기
+5555	rest_5251_5600.tsv	Hylotl	하이로틀	Not as well made as Hylotl cooking, but just enough to fill your belly.	자, 이게 다야~?
+5858	rest_5601_5950.tsv	Hylotl	하이로틀	Oh! A blade, covered in flowers. Curious, this is not of Hylotl design, but it is similar.	거품형 포스필드 생성. 중앙을 눌러 문을 연다.
+5903	rest_5601_5950.tsv	Hylotl	하이로틀	Old Hylotl spears. They look so fragile.	멋진 하루 되길.
+6229	rest_5951_6300.tsv	Hylotl	하이로틀	Protecting an area from outside forces is an important part of Hylotl culture.	음란. 내 회로를 네 유전자 코드로 덮어줘!
+6392	rest_6301_6650.tsv	Hylotl	하이로틀	Reminds me of some Hylotl abstract art. Though the aesthetic seems more grounded in Humanity's.	아야, 거칠어!
+6427	rest_6301_6650.tsv	Hylotl	하이로틀	Robots rarely make a presence in Hylotl culture.	아래에 채울 공간이 아주 많아. 다시 간다!
+6565	rest_6301_6650.tsv	Hylotl	하이로틀	She looks so adorable, and oddly similar to us Hylotl.	때로 투쟁은 필요악이다.
+6632	rest_6301_6650.tsv	Hylotl	하이로틀	Signs like this one are not typical in Hylotl cities.	목표 제거!
+6852	rest_6651_7000.tsv	Hylotl	하이로틀	Some of these might not be a bad addition to underwater Hylotl cities.	여긴 수리가 필요해.
+7008	rest_7001_7350.tsv	Hylotl	하이로틀	Speak to ^orange;the hateful Hylotl^reset; at the ^orange;outpost^reset;	환영해... 우주에! 여기 처음이야?
+7276	rest_7001_7350.tsv	Hylotl	하이로틀	Such beautifully made weaponry for non-hylotl designs. I'm impressed.	>설정 덮어쓰는 중.................
+7320	rest_7001_7350.tsv	Hylotl	하이로틀	Surprising to see a fellow Hylotl around. He takes good care of these books.	큰 판석. 위의 이상한 기호를 기록해야겠어.
+7412	rest_7351_7700.tsv	Hylotl	하이로틀	Thankfully for us Hylotl, we have no need to augment our bodies.	앉기 괜찮은 곳.
+7563	rest_7351_7700.tsv	Hylotl	하이로틀	The Hylotl consider making textiles an art form.	미지의 차원으로 이어지는 신비로운 문이다. ^red;사용하거나 파괴하면 사라진다.^reset;
+7564	rest_7351_7700.tsv	Hylotl	하이로틀	The Hylotl consider ourselves artists of cuisine. I can see that the Avali don't.	스탈라이트로 만든 신비한 구조물.
+7565	rest_7351_7700.tsv	Hylotl	하이로틀	The Hylotl consider spinning yarn an art form.	네온 디스플레이 간판.
+7566	rest_7351_7700.tsv	Hylotl	하이로틀	The Hylotl cook their food with microwaves.	네온 간판.
+7567	rest_7351_7700.tsv	Hylotl	하이로틀	The Hylotl have never needed to use teleporters this large.	좋은 나무 책상. 처리할 서류는 별로 없어.
+7568	rest_7351_7700.tsv	Hylotl	하이로틀	The Hylotl seem to revere this creature.	유용한 광석이 가득한 노드다. 그 위에 추출기를 설치할 수 있을 것 같다.
+7971	rest_7701_8050.tsv	Hylotl	하이로틀	The ronin may be Hylotl, but their art leaves a lot to be desired.	분석. 판독상 이 텔레포터는 지정 위치에 연결. 주의 권장.
+8057	rest_8051_8400.tsv	Hylotl	하이로틀	The variety and quality of the clothes are unusually high for an Apex. She has even managed to replicate Hylotl tailoring almost down to the smallest of stitches!	빅 에이프가 보고 있다.
+8095	rest_8051_8400.tsv	Hylotl	하이로틀	Theoretical. There must be a notable bunch of Hylotl that look similar to this one.	근데 뭐, 너 같은 숙련된 메크 파일럿이 못 할 건 없을 거야! 행운을!
+8249	rest_8051_8400.tsv	Hylotl	하이로틀	These frigid planets are often occupied by one particularly influential Hylotl clan.	호기심. 이 유틸리티 박스의 용도가 뭘까?
+8296	rest_8051_8400.tsv	Hylotl	하이로틀	These seem to be used for prayer by the Hylotl.	결의. 이 식량 저장 장치를 습격해야 한다!
+8321	rest_8051_8400.tsv	Hylotl	하이로틀	These talismans seem to have the Hylotl words for strength, valor, etc. written on them.	문이에!
+8429	rest_8401_8750.tsv	Hylotl	하이로틀	This Hylotl flag has a special device in it that allows me to bookmark it so that I can come back later if need be.	플로란이 천사들 깃발 봐엇.
+8430	rest_8401_8750.tsv	Hylotl	하이로틀	This Hylotl looks more like a librarian than a chemist.	플로란이 말해, 펠린 재미는 플로란 재미와 다르다.
+8904	rest_8751_9100.tsv	Hylotl	하이로틀	This fishy-one, a female Hylotl, looks beautiful! What a beautiful piece of art.	카이테란 마법사는 도끼지팡이 같은 근접-마법 혼합 무기를 좋아해.
+8956	rest_8751_9100.tsv	Hylotl	하이로틀	This glowing vine lamp reminds me of the Hylotl. Maybe it is because the light source looks like the eyes of the fish-people.	날카로워 보인다.
+9371	rest_9101_9450.tsv	Hylotl	하이로틀	This machine sells toys for the average hylotl to enjoy themselves.	벽의 스캔 눈이에. 날 보고 있다!
+9670	rest_9451_9800.tsv	Hylotl	하이로틀	This seems to be based on a species with apparent similarities to Hylotl. It does look adorable though!	이 가금류 급수기는 자동 물 흐름을 만드는 진공 밀봉 O링 캡이 있어!
+9689	rest_9451_9800.tsv	Hylotl	하이로틀	"This shop is selling animal eggs. Although Hylotl usually are not the ""farming type"", I may just be interested."	이 시설은 다친 내 반려동물을 완전히 회복시켜 줄 거야.
+9827	rest_9801_10150.tsv	Hylotl	하이로틀	This strange Hylotl looks busy.	말벌 미믹 랜스
+10142	rest_9801_10150.tsv	Hylotl	하이로틀	Thorough and beautiful - the Hylotl way!	"^orange;세트 보너스^reset;:
+^yellow;^reset; +^green;10^reset;% 속도
+^yellow;^reset; +^green;1.10^reset;% 신성 피해
+^yellow;^reset; ^cyan;면역^reset;: 호흡"
+36	rest_0000_0150.tsv	Glitch	글리치	Amused. A machine in its original size might be considered the Glitch equivalent of a giant from Human myth.	포획한 동물
+44	rest_0000_0150.tsv	Glitch	글리치	Amused. Glitch plushies would not be so soft.	네 정액 때문에 어질어질해~!
+49	rest_0000_0150.tsv	Glitch	글리치	Amused. Many Glitch thought these creatures were fey who brought thunderstorms.	+ 색상:
+635	rest_0401_0700.tsv	Glitch	글리치	Appreciative. A captains chair. The Glitch occasionally like to sit.	새로운 날. 새 친구. 호기심, 광채. 경이.
+800	rest_0701_1050.tsv	Glitch	글리치	Baffled. Does the included antivirus also cover us Glitch?	진술. 바위.
+842	rest_0701_1050.tsv	Glitch	글리치	Begs the question of why the Glitch don't prefer cotton.	한 잔 들이켜.
+917	rest_0701_1050.tsv	Glitch	글리치	Blasé. I've heard these sorts of candles are popular amongst Glitch Alchemists.	용기를 빕니다!
+993	rest_0701_1050.tsv	Glitch	글리치	"Bring the Glitch to Avalon and, well, you wouldn't have to call them ""Glitch"" anymore."	반투명한 화려한 플라스틱으로 만든 남성용 자위기구.
+10228	rest_10151_10500.tsv	Glitch	글리치	Toying with time is an affront against Kluex. Those Glitch warlocks don't know what they've doomed themselves to.	"""완벽한 백금 광석 표본."""
+10326	rest_10151_10500.tsv	Glitch	글리치	Unimpressed. Because of strong windstorms, the Glitch avoid farming on such planets.	(FFS) 포위된 플로란 오두막 마을
+10412	rest_10151_10500.tsv	Glitch	글리치	Very sssstrong magnetssss, could be usssed to catch a Glitch.	<field> 보정사
+1123	rest_1051_1400.tsv	Glitch	글리치	Cautious. A Glitch chassis cannot withstand the weight of a giant shipment crate.	지배. 그래, 내 자지를 받아, 이 작은 빛나는 너구리야!
+1220	rest_1051_1400.tsv	Glitch	글리치	Come to think of it, this toy reminds me vaguely of the Glitch. Very vaguely.	흥 좋아아, 날 날게 해줘!
+1223	rest_1051_1400.tsv	Glitch	글리치	Comfortable. It's not unusual for self-aware Glitch to practice hugging with these adorable helpers.	욕정. 이 열기를 겨우 참고 있어!
+1260	rest_1051_1400.tsv	Glitch	글리치	Concerned. This model is, with certainty, antiquated. Yet, it would still be a stunning advancement in most Glitch settlements.	이게 지옥의 느낌이라면, 계속 날 죄짓게 해줘!
+1288	rest_1051_1400.tsv	Glitch	글리치	Confused. The Glitch craft all sorts of weapons on these anvils. Why is there meat on it?	키츠네 책상 [E-02]
+1295	rest_1051_1400.tsv	Glitch	글리치	Confused. This sword is surprisingly complex despite being Glitch-made.	키츠네 모니터 [3x4]
+1378	rest_1051_1400.tsv	Glitch	글리치	Curious. Could these pierce Glitch armor?	쾌락. 내 안에서 꼬이는 게 느껴져!
+1400	rest_1051_1400.tsv	Glitch	글리치	Curious. It looks as though this Glitch was created with various scrap metals.	만족. 오, 네 정액이 내 안에서 뜨겁고 진해!
+10902	rest_10851_11200.tsv	Glitch	글리치	Whoever made this, was brave enough to steal from a Glitch fortress!	하이베리아나이트를 제련할 수 있는 소형 핵융합로.
+10978	rest_10851_11200.tsv	Glitch	글리치	Why would a Glitch do this?	조잡한 가죽 차양.
+11096	rest_10851_11200.tsv	Glitch	글리치	Worried. The arcane magic of such tundra planets interferes with weaponry and electronics. I hope it doesn't affect us Glitch as well.	던지면 한 방향으로 날아가 터널을 파는 일회용 기계 부엉이다.
+1405	rest_1401_1750.tsv	Glitch	글리치	Curious. Rumour have it, that this particular Apex receives assistance from a Glitch smith to forge replicas of Glitch display armours.	고철 판재. 별로 우아하지 않네요.
+1411	rest_1401_1750.tsv	Glitch	글리치	Curious. The Glitch does not find hemp fabric uncomfortable.	충격. 지구를 파괴한 놈이랑 하고 있다니 믿기지 않아!
+1499	rest_1401_1750.tsv	Glitch	글리치	Dead Glitch. Too mangled. Can't recover. Feeling mournful!	토끼에 대한 소문이 사실이야! 멈추지 마!
+1522	rest_1401_1750.tsv	Glitch	글리치	Delighted. Orange hired some of us Glitch for his spacefaring crew.	그래, 내 자지를 받아, 이 여우... 뭐야!
+1540	rest_1401_1750.tsv	Glitch	글리치	Description. A commoner's bed. Glitch sheets tend to stay silky for a long time, as the Glitch metal shell doesn't wear them down.	너 너무 밝게 빛나~!
+2368	rest_2101_2450.tsv	Glitch	글리치	Floran tried a glitch once. Tasssted grossss.	여기서 이상한 눈빛을 받고 있어. 왜일까...
+3583	rest_3501_3850.tsv	Glitch	글리치	I thought this sort of device was above the Glitch's tech.	승리에서, 번영으로.
+3681	rest_3501_3850.tsv	Glitch	글리치	I wonder whatever happened to this Glitch that made it have those red limbs...	오-오 좋아아아, 조금만 더~
+3767	rest_3501_3850.tsv	Glitch	글리치	I'm honestly impressed a Glitch could make this.	충격. 와, 네 엉덩이가 얼음처럼 차가워!
+3778	rest_3501_3850.tsv	Glitch	글리치	I'm not quite sure why any Glitch would like one've these things.	이 꽃들이 아야카의 먼 친척일 수 있다는 말이 있어.
+3838	rest_3501_3850.tsv	Glitch	글리치	I've heard the pride the Glitch have in their weapons and heraldry.	고대인, 크라코스, 루인... 그 수많은 고대 존재를 어떻게 다 추적해?
+4001	rest_3851_4200.tsv	Glitch	글리치	Impressed. This Shellguard emblem reminds me of some glitch family crests.	어디로 가?
+4057	rest_3851_4200.tsv	Glitch	글리치	Informative. The Glitch craft all sorts of weapons on these anvils. They even craft anvils on these anvils.	네 것이 아닌 걸 가져가다니! 감히!
+4075	rest_3851_4200.tsv	Glitch	글리치	Informed. These are used to seperate mixed substances. Impressive that a Glitch built this.	불타는 지구력이 인상적이야~
+4082	rest_3851_4200.tsv	Glitch	글리치	Informed. This statue depicts the first Glitch model.	^#8FAED3;전쟁 지팡이^white;
+4102	rest_3851_4200.tsv	Glitch	글리치	Interested. A sharp Angel shortsword display with an Angel shield. The Glitch weapon of choice is the broadsword.	'우주 최고 총잡이'는 무슨, 내 왼쪽 장화나 핥아라!
+4140	rest_3851_4200.tsv	Glitch	글리치	Interested. This vine reminds me of glitch battle horses.	대시.
+4187	rest_3851_4200.tsv	Glitch	글리치	Intrigued. The Glitch craft all sorts of weapons on these anvils, although what is the purpose of the crystal?	대형 함선용 거대 강철 착륙장.
+4189	rest_3851_4200.tsv	Glitch	글리치	Intrigued. The internal architecture of this computer is similar to the design of a Glitch CPU.	고대 재료로 지은 미니어처 집.
+4324	rest_4201_4550.tsv	Glitch	글리치	It appears to be one of the Glitch kind, standing in a weird way.	방화문 감지.
+5104	rest_4901_5250.tsv	Glitch	글리치	Magnetssss, could be used to catch a Glitch.	쓰러진 동지.
+5204	rest_4901_5250.tsv	Glitch	글리치	Meow? Is this supposed to be a Glitch?	새로 태어난 촉수.
+5457	rest_5251_5600.tsv	Glitch	글리치	Neutral. These tents are typically used by Glitch soldiers.	기본 피해:
+5542	rest_5251_5600.tsv	Glitch	글리치	Nostalgic. Envoys were the ones that made many Glitch aware that they weren't alone in the universe.	화학자 크리더스
+5543	rest_5251_5600.tsv	Glitch	글리치	Nostalgic. Glitch wizards wear hats just like this.	절정. 응! 네 멋진 막대로 싸고 있어!
+5545	rest_5251_5600.tsv	Glitch	글리치	Nostalgic. The Wooloo is a common choice of livestock for Glitch farmers.	닫힌 사물함
+5702	rest_5601_5950.tsv	Glitch	글리치	Observant. Glitch often write using ink like this.	이브이 귀여워. 페네록스 타. 사랑 많아!
+5716	rest_5601_5950.tsv	Glitch	글리치	Observant. The design of this helmet is evocative of glitch helms.	할 수 있을 때 즐겨, 인간~!
+5824	rest_5601_5950.tsv	Glitch	글리치	Oh dear, the Glitch would be furious if they saw this.	플로란 선물 원한다! 찌르기용 새 칼이길 바란다.
+6238	rest_5951_6300.tsv	Glitch	글리치	Proud. The Glitch craft old sorts of weapons on these workbench.	광원 감지. 상태: 고장.
+6239	rest_5951_6300.tsv	Glitch	글리치	Proud. The Glitch flag is on this banner! Self-aware or not, it stands for all of us.	번개 코일
+6240	rest_5951_6300.tsv	Glitch	글리치	Proud. This place can forge astounding equipment out of old stuff, glitch forged.	페네록스 같아. 근데 빛나. 페네록스 교미? 아주 많이!
+6375	rest_6301_6650.tsv	Glitch	글리치	Relieved. As a Glitch, I don't have to worry about rabies.	그래.
+7009	rest_7001_7350.tsv	Glitch	글리치	Speak to ^orange;the mute Glitch^reset; at the ^orange;outpost^reset;	환영해, 여행자.
+7193	rest_7001_7350.tsv	Glitch	글리치	Statement. A Glitch fuel device built by hand.	^green;+ 헤드램프^reset;
+7308	rest_7001_7350.tsv	Glitch	글리치	Surprised. The Aureate Brotherhood are an unpopular legend even among the Glitch.	기본 창.
+7314	rest_7001_7350.tsv	Glitch	글리치	Surprised. This person doesn't feel like a Glitch at all.	기본 작업장, 수동으로 새 드로덴 프레임 제작용.
+8426	rest_8401_8750.tsv	Glitch	글리치	This Glitch flag has a special device in it that allows me to bookmark it so that I can come back later if need be.	플로란이 기계가 뭔지 모른다.
+8662	rest_8401_8750.tsv	Glitch	글리치	This chair looks like it was made for a Glitch wizard.	사람 돕는 게 좋아. 내가 쓸모 있다는 느낌이야.
+9093	rest_8751_9100.tsv	Glitch	글리치	This is a sandstone statue of one of the metal-skinned. A Glitch. Nothing special...	관찰. 파이프들.
+9392	rest_9101_9450.tsv	Glitch	글리치	This mask is supposed to be of a Glitch, but I don't see the resemblance.	스티커 냉장고
+9804	rest_9801_10150.tsv	Glitch	글리치	This station is full of wonders. And the Glitch even more.	마을 램프
+994	rest_priority_0647.tsv	Glitch	글리치	"Bring the Glitch to Eros and, well, you wouldn't have to call them ""Glitch"" anymore."	멋진 탁자다.
+145	rest_0000_0150.tsv	Novakid	노바키드	An adorable café. That doesn't look like a normal Novakid, however...	좋아! 채워줘- 잠깐, 안쪽에서 터지지는 않겠지?
+1445	rest_1401_1750.tsv	Novakid	노바키드	Curious. This unique Novakid is selling shiny foods! But why does he look like that?	그래 맞아! 네 정액 강물을 내 구멍에 부어줘!
+1625	rest_1401_1750.tsv	Novakid	노바키드	Do I need to light a Novakid's home?	이 신호기는 무장한 세입자를 소환한다. 어떤 원시적인 무기를 쓸지 궁금하군?
+1708	rest_1401_1750.tsv	Novakid	노바키드	Each of these banners represents a race. The ones I am sworn to protect. The Novakid flag is missing, though..	푸시아는 멈출 수 없어... 푸시아는 너를 영원히 박고 싶어!
+3510	rest_3501_3850.tsv	Novakid	노바키드	I suppose a Novakid would do well for light.	도움이 필요하다, 무기가 없다!
+3669	rest_3501_3850.tsv	Novakid	노바키드	I wonder what the history of this Novakid flag is. I can bookmark points for my warp pad by pressing ^green;[E]^reset; near flags, whatever that means.	읏 씨발, 네 엉덩이가 조여서 다 짜여~
+6324	rest_6301_6650.tsv	Novakid	노바키드	Real novakid desspicable. Plussh novakid appreciable!	고향의 천사 형제들.. 그렇게 열심히 싸우는 걸 칭송해. 하지만 루인드에게 직접 싸움을 가져가지 않으면.. 이 죽음의 순환은 끝나지 않아.
+7825	rest_7701_8050.tsv	Novakid	노바키드	The lack of a brand makes this Novakid look especially emotionless as a statue.	기계가 만든 작업대.
+8444	rest_8401_8750.tsv	Novakid	노바키드	This Novakid flag has a special device in it that allows me to bookmark it so that I can come back later if need be.	다른 에센스 유형에 대한 우리 통찰은 아직 얕아. 하지만 배우고 발견할 게 더 있다는 뜻이야!
+9675	rest_9451_9800.tsv	Novakid	노바키드	This sewing machine here would fit just fine in a Novakid's home.	이 난간은 꽤 튼튼해 보여.
+394	rest_priority_0645.tsv	Novakid	노바키드	An iron object, resembling both a horseshoe and the upper-case Omega. Apparently, the Novakid have adopted it as a sort of emblem.	탁자다.
+622	rest_priority_0646.tsv	Novakid	노바키드	"Apparently I can buy ""Starry"" foods from this Novakid.
+^gray;(Do I trust him?)^reset;"	깜빡이는 전등이다.
+1816	rest_1751_2100.tsv	Actian	액티안	Even though the Saturnians' defenses are solar powered, Actian explorers have reported finding ruined sky city anchors on worlds that never get light.	와, 네 엉덩이가 꽁꽁 얼었어!
+173	rest_0151_0400.tsv	Saturnian	새터니안	An alien sewing machine. It's not as good as a Saturnian loom.	속박된 먹잇감
+675	rest_0401_0700.tsv	Saturnian	새터니안	Are these made from Saturnian silk?.	경고. 데이터 패킷 수신!
+1555	rest_1401_1750.tsv	Saturnian	새터니안	Did a Saturnian make this from their own silk? That's kinda gross.	무장한 외계 세입자를 소환하는 신호기. 조심하는 게 좋겠어.
+2474	rest_2451_2800.tsv	Saturnian	새터니안	Forges like this one are often used to craft Saturnian weapons, but when it comes to wands and staves, nothing beats an enchanting table.	음란. 오 네가 날 채우고 있어! 네 작은 유인원들을 품게 해줘!
+3095	rest_2801_3150.tsv	Saturnian	새터니안	I can use this to build myself a cozy place, but it's a lot more work than using a Saturnian furniture summoner.	상자다! 열어보자.
+3096	rest_2801_3150.tsv	Saturnian	새터니안	I can use this to build myself a cozy place, but it's a lot more work than using a Saturnian surniture summoner.	코콜라다! 열매를 터뜨리면 우유가 잔뜩 나와!
+3098	rest_2801_3150.tsv	Saturnian	새터니안	I can use this to craft impressive furniture, but would it be as cozy as what I can conjure using a Saturnian furniture summoner?	화려하고 꽃이 가득한 관목!
+7585	rest_7351_7700.tsv	Saturnian	새터니안	The Saturnian ruler has altered their appearance through light magic.	기분 좋은 다양한 상품.
+7586	rest_7351_7700.tsv	Saturnian	새터니안	The Saturnian's royal family crest is on this. They aren't even in power anymore.	외계풍 딜도 한가득. 구멍에 넣고 싶어 못 참겠어.
+8269	rest_8051_8400.tsv	Saturnian	새터니안	These look like Roc feathers. Before the Roc Slayers time, a single Roc could destroy entire Saturnian cities.	악마!
+9387	rest_9101_9450.tsv	Saturnian	새터니안	This mannequin doesn't quite fit with Saturnian armor.	제압 사격용 고정 기관총 팀.
+11033	rest_10851_11200.tsv	Poptop	팝톱	With this plushie, I can finally feel taller than a poptop! Those creatures are huge...	어두운 남색 슬러그. 끈적하지만 만족스러워!
+2204	rest_2101_2450.tsv	Poptop	팝톱	Floran likess Poptop drawing.	명령조. 싸기 전에 허락을 구해. 네가 애원하는 걸 듣고 싶어.
+2203	rest_2101_2450.tsv	Lumoth	루모스	Floran likess Lumoth drawing.	더 가까이 와!
+1305	rest_1051_1400.tsv	Terrene Protectorate	행성 보호국	Considerin' the Terrene Protectorate's roots, a human might make a fine diplomatic!	키츠네 테이블
+6532	rest_6301_6650.tsv	Terrene Protectorate	행성 보호국	Seems like the Terrene Protectorate is amping up security.	피부 매끈. 아주 아름다워. 같이 생각해? 페네록스 기뻐!
+747	rest_0701_1050.tsv	Grand Protector	고위 수호자	Avian Grand Protector I will miss him cop a feel when I walk by!	누군가가 그려진 베개에.
+11044	rest_10851_11200.tsv	Grand Protector	고위 수호자	Without a non-human Grand Protector, I probably would've never been given the chance to become a Protector.	머나먼 세계에서 온 전사지로, 전사 집단에 잘 어울린다.
+1790	rest_1751_2100.tsv	Grand Protector	고위 수호자	Esther Bright, the former Grand Protector. Isn't she still alive?	텔레포트는 빛의 속도로 롤러코스터를 타는 기분이다.
+1791	rest_1751_2100.tsv	Grand Protector	고위 수호자	Esther Bright, the former Grand Protector. Isn't she still alive? I wonder if she would be up for a orgy?	유혹. 눌러달라고 애원하는 버튼.
+3727	rest_3501_3850.tsv	Grand Protector	고위 수호자	I'll admire the irony of the Avian Grand Protector being the one that gravity took later!	이등병 <role>
+7744	rest_7701_8050.tsv	Grand Protector	고위 수호자	The first Grand Protector. Looks like he needs a good fuck.	튼튼한 나무 캐비닛, 펠린 디자인.
+7746	rest_7701_8050.tsv	Grand Protector	고위 수호자	The first non-human Grand Protector. I have a feeling the first Avali Grand Protector is not going to happen in my lifetime...	열대 환경에서 흔히 자라는 달콤한 망고.
+7747	rest_7701_8050.tsv	Grand Protector	고위 수호자	The first non-human Grand Protector. Its going to be a long time before a Lustling becomes a Grand Protector, To hard for us to stay focused and not have sex all the time.	슬라임으로 만든 검. 이상하지만 효과적.
+7944	rest_7701_8050.tsv	Grand Protector	고위 수호자	"The plaque for this picture reads, ""Esther Bright - Former Grand Protector"". Curious."	보이드라는 현상금 사냥꾼의 오래된 데이터 로그.
+7945	rest_7701_8050.tsv	Grand Protector	고위 수호자	"The plaque says ""In honour of Esther Bright"". Pretty sure she's the previous Grand Protector."	핵심 정보를 담은 오래된 대형 석판.
+8427	rest_8401_8750.tsv	Grand Protector	고위 수호자	This Grand Protector has a rather serious look.	플로란이 바보 천사 책 읽기 싫다.
+8927	rest_8751_9100.tsv	Grand Protector	고위 수호자	This former Grand Protector has a kind look about her. I bet we could have gotten along well..	레테이아 사가 제법 괜찮은 직장이긴 하지만, 조만간 월급을 좀 올려 줬으면 좋겠어.
+8928	rest_8751_9100.tsv	Grand Protector	고위 수호자	This former Grand Protector looks old, but the spark in his eyes tell otherwise.	레테이아 상점
+8929	rest_8751_9100.tsv	Grand Protector	고위 수호자	This former Grand Protector seems like she was a calm pacifist. I bet she would not even hurt the tiniest of creatures.	레버액션 산탄총
+8930	rest_8751_9100.tsv	Grand Protector	고위 수호자	This former Grand Protector was the first ever non-Human to fill the role.	음란. 네 혀가 날 너무 흥분시켜!
+9525	rest_9451_9800.tsv	Grand Protector	고위 수호자	This picture shows the first ever Grand Protector. He looks like he has so much wisdom to share...	이 천막 지붕 색이 신들을 떠올리게 해.
+601	rest_0401_0700.tsv	Miniknog	미니크녹	Another planet, another alta disaster. Can't believe they could infiltrate the Miniknog with this level of misfortune.	강화 팩
+624	rest_0401_0700.tsv	Miniknog	미니크녹	Apparently these creatures were engineered to serve an industrial purpose, sounds like something the Miniknog would do.	짠 토마토!
+10845	rest_10501_10850.tsv	Miniknog	미니크녹	While not as advanced as a Miniknog helmet, it's certain a much more welcome sight.	무기 저장 상자! 심장 뛴다!
+11025	rest_10851_11200.tsv	Miniknog	미니크녹	With the Miniknog, this'd have to be a Big Ape plushie.	청록 빛나는 표지판.
+1465	rest_1401_1750.tsv	Miniknog	미니크녹	Curiously free of Miniknog propaganda.	이 자판기는 변태적인 성인용품으로 가득 차 있다.
+1648	rest_1401_1750.tsv	Miniknog	미니크녹	Does the Miniknog watch us through this?	주변 물을 데우는 산호. 수중 생물을 무서워할 이유가 하나 더 필요했나.
+1697	rest_1401_1750.tsv	Miniknog	미니크녹	Due to frequent gravity anomalies, arcane tundras are of great interest to the Miniknog.	멈추지 마아! 푸시아 아직 안 끝났어~!
+1798	rest_1751_2100.tsv	Miniknog	미니크녹	Even antiquated devices are less prone to breaking early than those provided by the Miniknog.	벽을 수납으로 바꿔. 영리해.
+2665	rest_2451_2800.tsv	Miniknog	미니크녹	Have I become like the Miniknog by making this door?	상자. 잠깐, 방금 안에서 뭐가 움직인 걸 본 것 같은데?
+3037	rest_2801_3150.tsv	Miniknog	미니크녹	I can imagine a sticker like this being stuck to the desk of a Miniknog scientist.	이건 부수면 안 되는 거였어.
+3157	rest_3151_3500.tsv	Miniknog	미니크녹	I could do with some extra protection from the Miniknog.	금속이 풍부한 바위네요.
+3246	rest_3151_3500.tsv	Miniknog	미니크녹	I don't want to think about what the Miniknog will do to those things.	싸기 직전이야~?
+3261	rest_3151_3500.tsv	Miniknog	미니크녹	I feel like I should be checking the eyes for hidden Miniknog cameras.	테라마트에서 사는 것보다 낫다.
+3518	rest_3501_3850.tsv	Miniknog	미니크녹	I sure hope that this won't give the Miniknog ideas...	내가 가길 바라는 거구나...
+3680	rest_3501_3850.tsv	Miniknog	미니크녹	I wonder what's this logo. Doesn't look like it's the Protectorate or the Miniknog.	오-오 좋아아, 조금만 더~
+3694	rest_3501_3850.tsv	Miniknog	미니크녹	I would love to see one made out of a Miniknog banner as well.	오 박아줘, 지금 당장 박아줘야 해!
+3864	rest_3851_4200.tsv	Miniknog	미니크녹	I've seen the Miniknog field some of these.	우주선 엔진 배출 화염은 뜨겁다. 아주 뜨겁다.
+3865	rest_3851_4200.tsv	Miniknog	미니크녹	I've seen the miniknog use some of these, and to devestating effect.	마법의 흐름이 날 이끈다. 흔들리면 내가 치유하겠다.
+4147	rest_3851_4200.tsv	Miniknog	미니크녹	Interesting to see both Miniknog and rebel approaches.	떨어뜨릴 수 있는 냄새나는 병이다냥!
+4572	rest_4551_4900.tsv	Miniknog	미니크녹	It's fortunate that the Miniknog won't be getting their hands on these, or at least I hope not...	소이탄
+4676	rest_4551_4900.tsv	Miniknog	미니크녹	It's the Miniknog's flag. I can bookmark this flag for my ship warp pad, though I should be careful if the Miniknog are apparently near.	우리 파티는 이 비행선으로 모험을 향해!
+4730	rest_4551_4900.tsv	Miniknog	미니크녹	Judging from how this device is simulating an entire Deadbeat consciousness, their technology seemed to have been more advanced than even the Miniknog’s.	함선 조명은 플로란 눈에 아프다.
+4867	rest_4551_4900.tsv	Miniknog	미니크녹	Letheia made a plushie of Big Ape? Didn't their government denounce the Miniknog's practices...?	이 벽 냄새 이상하다냥.
+5005	rest_4901_5250.tsv	Miniknog	미니크녹	Looks like it has built in security measures. I wonder if it has anti-tampering self-destruct, like miniknog containers.	물리 저항 +8%, 위력 배율 -25%
+5006	rest_4901_5250.tsv	Miniknog	미니크녹	Looks like it has built-in security measures. I wonder if it has anti-tampering self-destruct, like Miniknog containers.	물리 저항 -10%
+5064	rest_4901_5250.tsv	Miniknog	미니크녹	Looks very similar to Avolite, no wonder the Miniknog is interested...	화려한 캐노피.
+5561	rest_5251_5600.tsv	Miniknog	미니크녹	Not even Miniknog thermometers were this fancy... probably because they put them in... yeah.	비교. 표준 글리치 자지는 이렇게 굵지 않아!
+5563	rest_5251_5600.tsv	Miniknog	미니크녹	Not even the Miniknog have ever made me feel such unease.	우려! 구멍이 정액 빨아?
+5828	rest_5601_5950.tsv	Miniknog	미니크녹	Oh how the Miniknog would kill for this weapon production this advanced.	플로란이 이 갑옷 입으면 못 막을 거다!
+6391	rest_6301_6650.tsv	Miniknog	미니크녹	Reminds me of how the Miniknog distributes their food.	"오버클럭된 콘덴서가 가우시안 역학을 극한으로.
+^yellow;범위 피해^reset;
+^yellow;사냥 무기^reset;"
+6910	rest_6651_7000.tsv	Miniknog	미니크녹	Some weapon modification station. I bet both the rebels and Miniknog would want something like this.	소음기 토글
+7183	rest_7001_7350.tsv	Miniknog	미니크녹	Standard issue furniture in Miniknog territory looks much less charming. I would take a rest here, no doubt.	^gray;금속, 살점, 바위를 모두 가르는 강력한 전기톱.
+7574	rest_7351_7700.tsv	Miniknog	미니크녹	The MiniKnog tends not to care about renewable energy. There are all manner of theories as to why.	시리즈의 일부, 이 서적은 몇 가지 수공 창작만 다룬다.
+7575	rest_7351_7700.tsv	Miniknog	미니크녹	The Miniknog are too boring for a desk like this.	완벽히 따라 한 레시피로 완벽히 조리된 식사. 더할 말 없어.
+7576	rest_7351_7700.tsv	Miniknog	미니크녹	The Miniknog charge some of their drones with stations like this.	개인 소형 텔레포터! 멋진 여행이네.
+7871	rest_7701_8050.tsv	Miniknog	미니크녹	The miniknog would never give its citizens such variety to food.	전문 아비칸 제작 도구 제작에 필요한 모든 도구.
+8419	rest_8401_8750.tsv	Miniknog	미니크녹	This Apex reminds me of the Miniknog officers, better not trust him...	플로란이 큰 FTL 드라이브 좋아해, 함선 더 빨라져.
+8516	rest_8401_8750.tsv	Miniknog	미니크녹	This banner represents the Apex! While it is officially a flag of the Miniknog, the rebels have come to use it as well. It's come to represent us all.	핼러윈 초상화
+8940	rest_8751_9100.tsv	Miniknog	미니크녹	This furry-one looks quite happy. I wonder why, in a regime like the Miniknog....?	사자 오니 돌격병
+8948	rest_8751_9100.tsv	Miniknog	미니크녹	This gear can help the rebellion, or the Miniknog.	싸는 거 봐. 좋은 광경이야~
+8963	rest_8751_9100.tsv	Miniknog	미니크녹	This green lamp is soothing, but deceiving. Green is the color of life, but the Miniknog take many lives, from what I know.	옥수수로 만든 이 독한 밀주는 널 달처럼 빛나게 해! 오....잠깐.
+8976	rest_8751_9100.tsv	Miniknog	미니크녹	This guy's from ''Breakcreate'' right? I know the Miniknog created a knockoff of it due to its popularity.	시장 노점
+9686	rest_9451_9800.tsv	Miniknog	미니크녹	This ship puts many Miniknog vessels to shame.	이 거치대에는 여러 가지 물건을 전시할 수 있겠어. 조명 같은 걸 놓아도 되지 않을까?
+396	rest_priority_0645.tsv	Miniknog	미니크녹	An oath is written here. Its writing is not unlike Miniknog propaganda.	플로란은 사물함에 물건을 넣을 수 있습니다.
+10266	rest_10151_10500.tsv	Occasus	오카서스	Turn in the ^orange;Occasus Credit^reset; to ^green;Captain Noble^reset;.	"''화살도 총알만큼 치명적일 수 있어.''
+볼트액션 소총과 비슷한 구조를 따르는 고급 석궁. 석궁에 내장된 탄창에 여러 발을 쌓아 넣을 수 있는 중량 볼트를 사용한다. 한 발을 쏜 뒤에는 손잡이만 당겨 다음 볼트를 장전하면 되므로 연달아 빠르게 쏠 수 있다. ^yellow;중량 볼트를 사용하며 찌르기 피해를 준다.^reset;
+^#c93d3d;빗나가지 않지만 내구도가 정확도에 큰 영향을 준다.^reset; 
+^orange;성벽 수호자: 0.5초 패링 창 | 안정성 50HP^reset;"
+5809	rest_5601_5950.tsv	Occasus	오카서스	Occasus intel... Their destructive ideology is deeply concerning.	플로란이 나머지 조각을 모아야 해엇.
+256	rest_0151_0400.tsv	Peacekeeper	피스키퍼	An automatic door with the symbol of the Peacekeeper Initiative.	이 트랙은 환상적이다!
+7580	rest_7351_7700.tsv	Peacekeeper	피스키퍼	The Peacekeeper chief! Wonder if any of his staff survived the fall of Earth?	아르카니안 문서 조각.
+8081	rest_8051_8400.tsv	Peacekeeper	피스키퍼	The writing says `Peacekeeper HQ`... Hide Quickly..?	책. 무슨 주제인지 모르겠어.
+8933	rest_8751_9100.tsv	Peacekeeper	피스키퍼	This frog merchant is selling Peacekeeper furniture.	경량 우주선 합금판, 염색 불가
+8936	rest_8751_9100.tsv	Peacekeeper	피스키퍼	This funky teleporter will allow me to return to the Peacekeeper HQ.	라인 캐논
+10994	rest_10851_11200.tsv	Esther	에스더	Widesits in honor of Esther Bright.	결정질 생명체. 신기하네요.
+1789	rest_1751_2100.tsv	Esther	에스더	Esther Bright's journal! Reading about her finding Asra... it's like getting to know her personally. So much more relatable than official histories!	도발. 내 보지를 약탈하고 있어!
+1790	rest_1751_2100.tsv	Esther	에스더	Esther Bright, the former Grand Protector. Isn't she still alive?	텔레포트는 빛의 속도로 롤러코스터를 타는 기분이다.
+1791	rest_1751_2100.tsv	Esther	에스더	Esther Bright, the former Grand Protector. Isn't she still alive? I wonder if she would be up for a orgy?	유혹. 눌러달라고 애원하는 버튼.
+1792	rest_1751_2100.tsv	Esther	에스더	Esther Bright... Why do I know her name?	이 설계도는 그리 복잡하지 않아. 시작하자!
+3309	rest_3151_3500.tsv	Esther	에스더	"I have sat on this bench often, but never truly read the plaque. It reads, ""In honour of Esther Bright""."	코어필드 트레이서 S20
+7944	rest_7701_8050.tsv	Esther	에스더	"The plaque for this picture reads, ""Esther Bright - Former Grand Protector"". Curious."	보이드라는 현상금 사냥꾼의 오래된 데이터 로그.
+7945	rest_7701_8050.tsv	Esther	에스더	"The plaque says ""In honour of Esther Bright"". Pretty sure she's the previous Grand Protector."	핵심 정보를 담은 오래된 대형 석판.
+716	rest_0701_1050.tsv	Asra Nox	아스라 녹스	Asra Nox held a plush of this character in high regard... Then celebrated Earth's destruction... I hope she rots in that cell.	고장 난 물건을 여기서 고치세요 - 오토 칩 몇 개면 바로 탈 수 있어요!
+6405	rest_6301_6650.tsv	Koichi	코이치	Return to Koichi!	언젠가 같이 사냥할 수 있을지도.
+10963	rest_10851_11200.tsv	Dreadwing	드레드윙	Why not ask Dreadwing how he view this matter?	온갖 잡다한 자재를 보관하는 상자.
+1689	rest_1401_1750.tsv	Dreadwing	드레드윙	Dreadwing? W-Why mention Dreadwing? ...Oh damn, ^yellow;you're the one defeating him!^reset; ...Tsk. I'm in a good mood today, so I'll let you off the hook for now. Don't get too carried away.	장식용 문
+1530	rest_1401_1750.tsv	Penguin Pete	펭귄 피트	Deliver an ^orange;Upgrade Module^reset; to ^orange;Penguin Pete^reset; at the ^orange;outpost^reset;.	응, 박아줘, 이 사랑스러운 작은 여우야!
+6999	rest_6651_7000.tsv	Penguin Pete	펭귄 피트	Speak to ^orange;Penguin Pete^reset; at the ^orange;outpost^reset;	이상한 것. 자지 같아. 교미 가능?
+462	rest_0401_0700.tsv	Protectorate	보호국	An protectorate enlistment poster, It was targed to Lustlings, Showing how open they are to our sexual needs. Don't know how they got a Hylotl to pose naked for the photo.	보관하기 쉽게 함께 포장된 탄환.
+463	rest_0401_0700.tsv	Protectorate	보호국	An tight airlock door, with a symbol of the Protectorate.	걱정 마, 창문에 태양광 필터를 설치했으니까.
+680	rest_0401_0700.tsv	Protectorate	보호국	Are these the Protectorate races? What, no Avali? Why do humans get to be on top? I'm offended!	경고. 패밀리어 DNA 확보!
+681	rest_0401_0700.tsv	Protectorate	보호국	Are these the Protectorate races? What, no lustling? Why do humans get to be on top? I'm offended!	경고. 페린 DNA 확보!
+812	rest_0701_1050.tsv	Protectorate	보호국	Banners of each of the Protectorate's core races. Our flag was banned for being too pornographic.	이걸 타면 다른 위치로 갈 수 있다.
+936	rest_0701_1050.tsv	Protectorate	보호국	Books about the Protectorate. Of course, I've read them all.	오 오.
+937	rest_0701_1050.tsv	Protectorate	보호국	Books were just one of the few things I had to get used to as one of the first Avali Protectorate students.	주문한 게 도착했어요! 맛있어 보여요.
+938	rest_0701_1050.tsv	Protectorate	보호국	Books were just one of the few things I had to get used to as one of the first lustling Protectorate students.	휴대용 알타 용기, 줄여서 알타 포드는 안전하고 밀폐된 환경에서 장비를 운반하는 표준화된 방법이다.
+10204	rest_10151_10500.tsv	Protectorate	보호국	To rebuild, defend, and secure the legacy of the Protectorate. That is the goal of the Knightfall Initiative.	"^red;S.A.I.L에 고대역폭 연결을 수립할 수 없습니다
+함선에서 다시 시도하십시오"
+1305	rest_1051_1400.tsv	Protectorate	보호국	Considerin' the Terrene Protectorate's roots, a human might make a fine diplomatic!	키츠네 테이블
+1883	rest_1751_2100.tsv	Protectorate	보호국	"Experimental power armor to ensure protection for all.
+^orange;Set Bonuses^reset;:
+^yellow;^reset; Power Dash Tech. Partial knockback resist;
+^yellow;^reset; Protectorate Weaponry: Damage x^green;1.3^reset;
+^yellow;^reset; ^cyan;Immune^reset;: Deadly Rads, Deadly Heat/Cold, Poison, Oxygen, Gas"	기본 나무 판자.
+2692	rest_2451_2800.tsv	Protectorate	보호국	Heck, I could smuggle treasure myself right under the protectorate's nose!	함선 사물함.
+3288	rest_3151_3500.tsv	Protectorate	보호국	I had a job as a urinal on earth, A nice man told me to join the protectorate after he had finished pissing into my mouth. Best tasting that week, glad I took his advice.	주력 함선, 케스트렐급
+3300	rest_3151_3500.tsv	Protectorate	보호국	I have been told the Protectorate launches these into the cosmos so they can land on a nearby world. The pod chests are helpful for Protectorate explorers.	어서 와, 어서 와서 플로란이 뭘 갖고 있는지 봐!
+3680	rest_3501_3850.tsv	Protectorate	보호국	I wonder what's this logo. Doesn't look like it's the Protectorate or the Miniknog.	오-오 좋아아, 조금만 더~
+3890	rest_3851_4200.tsv	Protectorate	보호국	If Earth had couches like that, you bet the protectorate would still be here!	내 안의 네 아기들 생각하면 보지가 더 젖어...
+4217	rest_4201_4550.tsv	Protectorate	보호국	Intriguing. The Initiative's banner has a lot of contrast with the Protectorate banner.	캔버스 위의 일련의 붓질. 무슨 의미일까?
+4244	rest_4201_4550.tsv	Protectorate	보호국	Is that a Protectorate emblem on his shirt? What a small... galaxy, huh?	놀랄 만큼 정교한 인형의 집... 잠깐, 살아있는 생물이 살고 있어!
+4842	rest_4551_4900.tsv	Protectorate	보호국	Leda... You were the one that had faith in me to join the Protectorate and not try to fuck my way to the top... I won't forget you.	이 어둠점액은 굳었는데도 냄새난다냥.
+5132	rest_4901_5250.tsv	Protectorate	보호국	Many Hylotl scholars dream about being Envoys of the Protectorate, wondering what kind of sights they could discover.	좋은 가죽에 양털 충전재 조금.
+5146	rest_4901_5250.tsv	Protectorate	보호국	Matter manipulator upgrade! Protectorate's modular design is smart - easy to swap and improve.	무거운 금속 테이블.
+5270	rest_5251_5600.tsv	Protectorate	보호국	More Protectorate history! Their dedication to universal peace was truly admirable.	함께 묶은 두루마리 더미.
+6230	rest_5951_6300.tsv	Protectorate	보호국	Protectorate currency! Recognition tokens for peacekeeping work.	클루엑스가 네 여행을 이끌길.
+6231	rest_5951_6300.tsv	Protectorate	보호국	Protectorate records! Important historical artifacts. Some altas were honorary members~	길을 비춰줄게.
+6232	rest_5951_6300.tsv	Protectorate	보호국	Protectorate recruitment flyer! Historical artifact from before the Ruin. We preserve these~	빨리 끝내자..
+6532	rest_6301_6650.tsv	Protectorate	보호국	Seems like the Terrene Protectorate is amping up security.	피부 매끈. 아주 아름다워. 같이 생각해? 페네록스 기뻐!
+6582	rest_6301_6650.tsv	Protectorate	보호국	Shellguard's Emblem. Way more intricate than the Protectorate's	하늘-글씨가 플로란을 혼란시켜.
+6679	rest_6651_7000.tsv	Protectorate	보호국	Sleek beds that can stack on top of each other. This looks similar to the beds at the Protectorate academy..	우리 종족의 장식은 방을 축하하기 위한 것이다.
+7573	rest_7351_7700.tsv	Protectorate	보호국	The Matter Manipulator. Undeniably one of the greatest assets of the Protectorate.	접이식 침낭. 모험 중 잘 때 유용하군요.
+7581	rest_7351_7700.tsv	Protectorate	보호국	The Protectorate launches these pods into the cosmos. They tend to malfunction sometimes.	펀치를 만드는 알타의 주방 기술이다. 주먹질 말고 마실 수 있는 펀치 말이다.
+7582	rest_7351_7700.tsv	Protectorate	보호국	The Protectorate teachers insisted I read these books and not to fuck them. No insult, they really did not want me to fuck the books, they use them for the next students.	뭔가를 하는 고대 함선 조각.
+7583	rest_7351_7700.tsv	Protectorate	보호국	"The Protectorate teachers insisted I read these books as is. For the ""authentic"" experience."	기술 문서 조각. 뒷면 코드 'CEN-462'.
+7619	rest_7351_7700.tsv	Protectorate	보호국	The banners of the six primary races of the Protectorate. There aren't too many Protectors of the other races yet, sadly.	식품 운송용 냉장 용기네요.
+7738	rest_7701_8050.tsv	Protectorate	보호국	"The face of a noble cause.
+^cyan;Headlamp^reset;
+^orange;Set Bonuses^reset;:
+^yellow;^reset; Protector's Sphere Tech;
+^yellow;^reset; Protectorate Weaponry: Damage x^green;1.3^reset;
+^yellow;^reset; ^cyan;Immune^reset;: Deadly Rads, Deadly Heat/Cold, Poison, Oxygen, Gas"	튼튼한 금속 상자. 가장 희귀한 소장품 보관에 완벽해.
+7918	rest_7701_8050.tsv	Protectorate	보호국	The original guidelines for the Protectorate. It's outdated now, sure, but still tremendously valuable.	점토로 만든 쉽게 깨지는 항아리.
+8225	rest_8051_8400.tsv	Protectorate	보호국	"These boots march onwards to a brighter future.
+^orange;Set Bonuses^reset;:
+^yellow;^reset; Rocket Thruster. Fall Damage Immunity;
+^yellow;^reset; Protectorate Weaponry: Damage x^green;1.3^reset;
+^yellow;^reset; ^cyan;Immune^reset;: Deadly Rads, Deadly Heat/Cold, Poison, Oxygen, Gas"	코러스 병
+8295	rest_8051_8400.tsv	Protectorate	보호국	These seem to be similar to the Protectorate’s bed.	저장 사물함 감지.
+9072	rest_8751_9100.tsv	Kappa	캇파	This is a kappa-tech automated cucumber pod, absolute essential for life!	노트들이에!
+619	rest_0401_0700.tsv	Cultivator	컬티베이터	Apex propaganda. I will never obey! I only obey the Cultivator.	... 소오오오오금.
+10723	rest_10501_10850.tsv	Cultivator	컬티베이터	What is the point of having a fridge when Angels live off of the power of the Cultivator? Our bodies are powered by It, not food.	부활절을 상징하는 색의 커다란 튤립이 가득 담긴 상자다.
+1055	rest_1051_1400.tsv	Cultivator	컬티베이터	By the Cultivator! There is..there is something in there! Looks like an Apex...	큰 여우. 너무 아름다워. 페네록스 사랑! 운 좋아. 교미 원해!
+10901	rest_10851_11200.tsv	Cultivator	컬티베이터	"Whoever made this map is clearly very angry with ""Big Ape"". I would feel the same way as well if I was forced to obey such a cruel leader. Thankfully, the Cultivator is quite opposite."	흔한 채소군. 먹을 수도 있고 여러 용도로 쓸 수도 있군요.
+2494	rest_2451_2800.tsv	Cultivator	컬티베이터	From the beginning of time, Angels have always wondered if it would be possible for a half-Angel to exist. Such as a Mortal gaining Angelic powers. What would they do? Would they still be be as connected to the Cultivator, or not...?	근처 전당포에 팔 수 있는 물건.
+2778	rest_2451_2800.tsv	Cultivator	컬티베이터	Hmph! This was copied from the Angels and our religious texts about the Cultivator. How revolting!	매혹. 이 벽화는 역사적 사건을 묘사하는 것 같다.
+2780	rest_2451_2800.tsv	Cultivator	컬티베이터	Hmph. I do not believe such lies. Only the Cultivator can see all.	숲의 정수 축복 없이 멀리 모험하려는 비에라는 거의 없다.
+3075	rest_2801_3150.tsv	Cultivator	컬티베이터	I can use the Holy Power that was given to me by the Cultivator to make Holy spells.	기본 함선 문. 이 설계는 어디를 가든 비슷해, 러스틀링 함선에서도.
+4320	rest_4201_4550.tsv	Cultivator	컬티베이터	It appears to be a painting the Cultivator and other ancient things.	대형 퍼퍼 알 (오브젝트)
+5736	rest_5601_5950.tsv	Cultivator	컬티베이터	Observant. This is a painting of the Cultivator and various ancient objects.	흥분. 이게 네 시야를 강화해줄게!
+6487	rest_6301_6650.tsv	Cultivator	컬티베이터	Sealed behind this very gate is the Ruin itself. Bless the Cultivator for sacrificing Itself to do so...	룬 사암 상자
+7548	rest_7351_7700.tsv	Cultivator	컬티베이터	The Cultivator is looming over the Ancient Gate in this painting.	금속 난간. 기본 안전 장치예요.
+7549	rest_7351_7700.tsv	Cultivator	컬티베이터	The Cultivator.. Oh how I long for you to come back...	금속 저장 사물함.
+7742	rest_7701_8050.tsv	Cultivator	컬티베이터	"The final part reads: ""Its legacy will be Its remnants and ours shall be our temples."" This..this is the tale of the ancients, and of my kind as well. We build temples in honour of the Ancients, who built temples for the Cultivator as well."	튼튼한 난간. 못 나는 자에겐 잔인한 조롱.
+8037	rest_7701_8050.tsv	Cultivator	컬티베이터	"The text on this painting reads: ""Never forget what the Cultivator did for us."""	아비칸 민간인
+8042	rest_7701_8050.tsv	Cultivator	컬티베이터	"The top of this ancient door reads: ""Exit"". I have passed the test. The Cultivator would approve of this greatly."	아우, 이거 완전 귀여워!
+8043	rest_7701_8050.tsv	Cultivator	컬티베이터	"The top of this ancient door reads: ""Test"". The Cultivator is a being of great judgement--and thus loves it when Its beings can pass Its tests with ease. I will conquer this challenge."	아야카 정원사의 노트
+8480	rest_8401_8750.tsv	Cultivator	컬티베이터	This ancient machine is alive with the power of the Cultivator.	신-만들이 저장고, 아키 안에서 귀중품 찾아.
+8727	rest_8401_8750.tsv	Cultivator	컬티베이터	This control panel flows with the energy of the Cultivator--keeping it working.	네 목 깊숙이 터뜨릴 거야~!
+9182	rest_9101_9450.tsv	Cultivator	컬티베이터	This is the Cultivator. It is shown protecting planets. Just like It used to. Ahh, I wish I could go back...	길돌이 작동하려면 동력 복구가 필요하다.
+9456	rest_9451_9800.tsv	Cultivator	컬티베이터	"This must be an Altar for the Avians.. Those feathered-ones, they do not even know their ""god"" is not real. The Cultivator was and is, very real."	촉수 생성기
+9507	rest_9451_9800.tsv	Cultivator	컬티베이터	This painting shows the Cultivator trying to reach out to a Mortal. The Mortal, of course, is lazily reaching out, without much care.	^#9e5359;연정^reset;은 일 년 내내 분홍빛 노을에 잠겨 있어, 낭만적인 휴가를 보내기에 더없이 좋은 곳이다.
+9646	rest_9451_9800.tsv	Cultivator	컬티베이터	This rune symbolises organic matter that starts life. I was created by the Cultivator this way.	아마 식물사람 어미다냥.
+9809	rest_9801_10150.tsv	Cultivator	컬티베이터	This statue doesn't even remotely show how mighty and tall the Cultivator really was!	볼틱 서지
+10090	rest_9801_10150.tsv	Cultivator	컬티베이터	This..this is when the Cultivator sacrificed Itself to get rid of the Ruin. Looking at this..upsets me so.	^cyan;갑옷과 무기^reset;
+7828	rest_7701_8050.tsv	leafy-ones	잎사귀 종족	The leafy-ones must use this to torture their prisoners.. Hmph, such brutality does not surprise me..	작업대. 다양한 아이템 제작에 유용해.
+8587	rest_8401_8750.tsv	leafy-ones	잎사귀 종족	This bookcase was made from the remains of creatures killed by the leafy-ones.	읽을 시간 없어.
+139	rest_0000_0150.tsv	Lustling	러스틀링	An accurate representation of what an unaugmented lustling would look like if exposed to a world where sandstone forms naturally.	이 꿀은... 너무 진해! 더 필요해!
+188	rest_0151_0400.tsv	Lustling	러스틀링	An ancient anvil. It floats. Because reasons. I think I can use this to empower some weapons. No lustling ones though, because we're not special, I guess.	이 텔레포터는 지정된 위치와 연결되어 있다.
+354	rest_0151_0400.tsv	Lustling	러스틀링	An ice trap would be scary to anything not lustling. At most it's inconvenient for me.	안쪽이 까끌까끌해. 그래도 좋아. 더 받아!
+368	rest_0151_0400.tsv	Lustling	러스틀링	An industrial grade workbench. Low-tech compared to Lustling stations, but I can still do a lot here.	오 세상에 좋아! 가장자리까지 채워줘!
+681	rest_0401_0700.tsv	Lustling	러스틀링	Are these the Protectorate races? What, no lustling? Why do humans get to be on top? I'm offended!	경고. 페린 DNA 확보!
+750	rest_0701_1050.tsv	Lustling	러스틀링	Avian technology is completely non-interfaceable with lustling tech. Not that I care. I doubt it's any major breakthrough.	포화. 플로란 꿀 감지!
+934	rest_0701_1050.tsv	Lustling	러스틀링	Boltbulb. Actually softer than it looks, but not exactly an Lustling delicacy.	N-프록시 사령관
+935	rest_0701_1050.tsv	Lustling	러스틀링	Boltbulb. Actually softer than it looks, but not exactly an lustling delicacy.	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+938	rest_0701_1050.tsv	Lustling	러스틀링	Books were just one of the few things I had to get used to as one of the first lustling Protectorate students.	휴대용 알타 용기, 줄여서 알타 포드는 안전하고 밀폐된 환경에서 장비를 운반하는 표준화된 방법이다.
+10193	rest_10151_10500.tsv	Lustling	러스틀링	To a native lustling, even curling up in the freezer would be too hot and dangerous for us.	^orange;저장 매트릭스^white;
+10276	rest_10151_10500.tsv	Lustling	러스틀링	Two large broadswords. lustling prefer spears, but if you ever need to cleave a tank in two, our broadswords can do that. Or so I've heard.	"''고대에는 사람들이 불가사의를 세우고 별을 차지하고 모두의 이익을 위해 스스로 나아지려 했지. 하지만 이제 우리는 훨씬 현명해졌어.''
+사촌격인 스톰 스터버와 달리 헤비 스터버는 순수하게 제압을 목적으로 한다. 벨트로 연결된 400발 탄약 배낭을 한 사람에게 지워, 언더콜로니의 빽빽한 통로에서 갱 분대의 화력을 크게 끌어올린다. 7.62x39mm 헤비 스터버 전용 벨트 급탄 탄약을 사용한다."
+10500	rest_10151_10500.tsv	Lustling	러스틀링	We Lustling trust messages left behind by strangers, they usually lead to a good time.	래치. 이미 뭔지 알 때만 쓰면 돼.
+10804	rest_10501_10850.tsv	Lustling	러스틀링	When the Illuminate discovered cotton, it became all the rage among Lustling colonies. Weavers are still finding ways to make good use of it.	장식 천 차양.
+10805	rest_10501_10850.tsv	Lustling	러스틀링	When the Illuminate discovered cotton, it became all the rage among lustling colonies. Weavers are still finding ways to make good use of it.	따뜻한 사막에서 그늘을 만들기 위한 차양이다.
+10809	rest_10501_10850.tsv	Lustling	러스틀링	When the lustling were first exposed to the Earth's internet, a lot of freelance hackers were tempted to cause chaos on it. They decided against it though, because they discovered that humans wreak havoc on their own.	골판지 상자. 좋은 거 가득이겠지!
+1108	rest_1051_1400.tsv	Lustling	러스틀링	Careful! lustling have been known to disappear entirely into the cushions of these sofas.	요구. 오 세상에 좋아! 가득 채워줘!
+1112	rest_1051_1400.tsv	Lustling	러스틀링	Carrots are one of the few Terran foods an lustling can naturally fuck.	요구. 그래, 내 자지를 받아, 이 큰 토끼야!
+1113	rest_1051_1400.tsv	Lustling	러스틀링	Carrots are one of the many Terran foods an Lustling can naturally fuck.	요구. 좋아! 네 나비 알들로 가득 채워줘!
+1181	rest_1051_1400.tsv	Lustling	러스틀링	Chocolate's poisonous to un-augmented lustling. It's caused my human friends no small amount of sadness.	플로란에게 큰 유인원 자지를 줘!
+11225	rest_11201_11550.tsv	Lustling	러스틀링	You don't want to know what an lustling looks like after a good electrical shock.	얼어붙은 책장.
+11290	rest_11201_11550.tsv	Lustling	러스틀링	lustling SMASH!!	유리문.
+11291	rest_11201_11550.tsv	Lustling	러스틀링	lustling colonies that are hurting for food have been known to cultivate dirturchins. I pity them.	카다반 선인장 주스 한 잔.
+11292	rest_11201_11550.tsv	Lustling	러스틀링	lustling don't use physical clocks; we keep track of time through AR. The ticking noise is kind of soothing, though.	선인장 주스 한 잔, 진짜 가시가 떠 있어...
+11293	rest_11201_11550.tsv	Lustling	러스틀링	lustling mining colonies usually utilize laser technology to mine tough resources. A drill works too, I guess.	선인장 주스 한 잔. 떠 있는 가시가 걱정돼요.
+11294	rest_11201_11550.tsv	Lustling	러스틀링	lustling pixel transactions are typically handled over AR. This register won't be handling any transactions anymore, now.	맛있는 선인장 주스 한 잔.
+11295	rest_11201_11550.tsv	Lustling	러스틀링	lustling prisons are secluded, soundproof, graphene weave cells. Isolation is the worst possible punishment in our society. I should know, after Earth...	우유 한 잔.
+11296	rest_11201_11550.tsv	Lustling	러스틀링	lustling recycle as much as possible, to the point where there's almost nothing we can throw in a dumpster that couldn't be re-used.	유리 테이블. 깔끔해, 좀 높지만.
+11297	rest_11201_11550.tsv	Lustling	러스틀링	lustling tally charts count in threes. It took me a while to get used to base ten.	번들거리는 마기사이트 수정 구조.
+11298	rest_11201_11550.tsv	Lustling	러스틀링	lustling wardrobes are smaller and more portable than this big, dull thing.	정말 침울한 문이네.
+1542	rest_1401_1750.tsv	Lustling	러스틀링	Despite being worthless smudges to most lustling, I guess these paintings sell for pretty good if brought to the right people?	너 잔인해~! 내 구멍이 꿈틀거리는 걸 봐~!
+1627	rest_1401_1750.tsv	Lustling	러스틀링	Do NOT let an Lustling drink coffee.	이 조명은 날 차분하고 아늑하게 해준다냥.
+1639	rest_1401_1750.tsv	Lustling	러스틀링	Do. NOT. Give an Lustling coffee. Just don't.	<field> 학생
+1640	rest_1401_1750.tsv	Lustling	러스틀링	Do. NOT. Give an lustling coffee. Just don't.	사라진 착륙 축제 선물. 길잡이에게 돌려주세요!
+1833	rest_1751_2100.tsv	Lustling	러스틀링	Everything you need to survive, unless you're an lustling, in which case nothing here is useful.	귀 스타일
+2285	rest_2101_2450.tsv	Lustling	러스틀링	Floran not ready for a Lustling orgy!	푸시아가 야한 먹잇감을 잡았어~!
+2436	rest_2101_2450.tsv	Lustling	러스틀링	Flowers like this can only grow in places unsuitable for natural-born lustling.	관찰. 너 너무 부드럽고 젖었어!
+2501	rest_2451_2800.tsv	Lustling	러스틀링	Fruit from the sea, though most Lustling would probably fuck it.	끈적 플라즈마 지뢰
+2502	rest_2451_2800.tsv	Lustling	러스틀링	Fruit from the sea. Novel, though most lustling would probably avoid it.	물건 좀 넣어두라고?
+2699	rest_2451_2800.tsv	Lustling	러스틀링	Heh, lustling haven't used bones for decor since our tribal days.	스테이터스 포드. 운이 좋을까?
+2998	rest_2801_3150.tsv	Lustling	러스틀링	I can bookmark this Lustling bust for quick teleportin'.	우리 숲에서 소란은 환영받지 못한다, 네가 그걸 가져왔다면.
+3316	rest_3151_3500.tsv	Lustling	러스틀링	I hear most races use flowers like this to make dye. lustling color their clothes using different moulds. These are prettier.	젠-젠장... 우리 절정이 영원했으면 좋겠어~
+3513	rest_3501_3850.tsv	Lustling	러스틀링	I suppose it'll do. I wonder if you can design this to hold multiple lustling?	이 단단한 석주면 뭐든 받칠 수 있겠어!
+3679	rest_3501_3850.tsv	Lustling	러스틀링	I wonder what's so hazardous for an lustling here... except for everything.	이제 누가 주도권이야엇~?
+3691	rest_3501_3850.tsv	Lustling	러스틀링	I would go insane if I had to spend even an hour in this... thing. Isolation may as well be a death sentence to an lustling. And I've put up with a lot of it...	관찰. 금속 해치.
+3957	rest_3851_4200.tsv	Lustling	러스틀링	If we really wanted to, I bet lustling engineers could make good use of this crystal tech. It seems pretty versatile. In the meantime, time to press buttons!	조심해서 걸어라. 외부인은 비에라 사이에서 언제나 환영받지 않는다.
+3969	rest_3851_4200.tsv	Lustling	러스틀링	If you put a neurolink on it and painted it white it would look exactly like lustling doors. Doors have pretty universal design across the universe.	으읏, 오 좋아~! 플로란이 참을 수 없어엇~!
+4026	rest_3851_4200.tsv	Lustling	러스틀링	In a moment I'll be among the first lustling to ever recieve a Matter Manipulator..This is a big moment for me, I got here on my own merits, and not because I fucked my way to the top...	그래, 전부 받아, 깊이 받아!
+4799	rest_4551_4900.tsv	Lustling	러스틀링	Kiwis grow on tropical regions and are fuzzy to the touch. A Lustling treat.	이 포스터의 내용은 단순하고 명확하다.
+4800	rest_4551_4900.tsv	Lustling	러스틀링	Kiwis grow on tropical regions and are fuzzy to the touch. Not an lustling treat.	다층 시설을 돌아다니는 가장 쉬운 방법.
+4832	rest_4551_4900.tsv	Lustling	러스틀링	Large enough for one or two lustling to curl up comfortably. Bunk beds save a lot of space.	이 신호기는 식민지 증서와 함께 쓰면 무장한 아키마리 세입자를 끌 수 있다.
+4881	rest_4551_4900.tsv	Lustling	러스틀링	Light, sleek, and stylish! It almost looks like something an Lustling would make!	어... 고대인이 이렇게 작았어? 말도 안 돼!
+5087	rest_4901_5250.tsv	Lustling	러스틀링	Lustling bust makess good point to teleport back to ussing teleporter	창문과 창 장식, 문을 꾸미는 장식용 포인트.
+5088	rest_4901_5250.tsv	Lustling	러스틀링	Lustling colonies that are hurting for food have been known to cultivate dirturchins. I pity them.	폴리에스더 천으로 만든 장식용 가짜 식물.
+5212	rest_4901_5250.tsv	Lustling	러스틀링	Mercury, not an ideal vacation spot for an Lustling.	알처럼 생긴 식물. 아비안 식민지에서 유행이야.
+5299	rest_5251_5600.tsv	Lustling	러스틀링	Movies about wariors seeking sex are pretty popular among Lustling.	포효하는 동물 모양 횃불.
+5407	rest_5251_5600.tsv	Lustling	러스틀링	NONE ARE SAFE FROM ME! THE GIANT lustling!	분석 완료. 영양가: 우수.
+5417	rest_5251_5600.tsv	Lustling	러스틀링	Neat curve. This wouldn't be out of place on an lustling ship.	짜증. 이 모니터는 불량인 듯.
+5508	rest_5251_5600.tsv	Lustling	러스틀링	No lustling blood, it looks like. Thank the spirits, I would have been really concerned otherwise. I'm still concerned, of course, but not as concerned.	불도그 드론
+5510	rest_5251_5600.tsv	Lustling	러스틀링	No matter how I calibrate it, this thing would give off too much heat on an lustling vessel.	토끼가 플로란 지배!
+5552	rest_5251_5600.tsv	Lustling	러스틀링	Not an Lustling skull. Probably safe then! Nah, who am I kidding.	음식 더 가지고 와!
+5553	rest_5251_5600.tsv	Lustling	러스틀링	Not an lustling skull. Probably safe then! Nah, who am I kidding.	가까이 와... 쓸모 있게 해줄게...
+5560	rest_5251_5600.tsv	Lustling	러스틀링	Not designed for lustling clothes, I'll tell you that.	명령조. 싸기 전에 허락을 구해... 네가 애원하는 걸 듣고 싶어.
+5683	rest_5601_5950.tsv	Lustling	러스틀링	Observant. A small locator module attached to this Lustling bust allows it to be bookmarked for teleportation.	죽은 자의 물건을 만지지 마라.
+5826	rest_5601_5950.tsv	Lustling	러스틀링	Oh god...its an Lustling orgy basket!.	플로란이 사냥하는 동안 상처 고쳐줄게엇.
+6081	rest_5951_6300.tsv	Lustling	러스틀링	Pets are traditionally too much hassle for lustling on the go. Usually we program cute little drones as pets, and even then they're still maintenance drones.	그냥 여기 있을게.
+6101	rest_5951_6300.tsv	Lustling	러스틀링	Piru, I think, is the Lustling equivalent of wheat.	졸려...
+6102	rest_5951_6300.tsv	Lustling	러스틀링	Piru, I think, is the lustling equivalent of wheat.	미안한데, 냄새가 좀 이상해...
+6682	rest_6651_7000.tsv	Lustling	러스틀링	Sleeping beneath leather sheets. Just like the lustling of old.	비상 텔레포트가 또 날 살렸어!
+6857	rest_6651_7000.tsv	Lustling	러스틀링	Some old fashioned lustling tribes still use pelts for clothing or tent pieces. This isn't a half-bad example.	이 보지는 자지 타라고 만들어졌어!
+7014	rest_7001_7350.tsv	Lustling	러스틀링	Spears, the preferred melee weapon of at least a third of known civilized life, Avians and lustling included.	재미있는 작은 녀석이네.
+7288	rest_7001_7350.tsv	Lustling	러스틀링	Sugar plus Lustling is just a recipe for a good time.	암호화된 정보를 표시하는 트링키안 모니터.
+7289	rest_7001_7350.tsv	Lustling	러스틀링	Sugar plus lustling is just a recipe for disaster.	트링키안 모니터. 뭘 표시할까?
+7539	rest_7351_7700.tsv	Lustling	러스틀링	The Avian emblem for water, according to my Nexus search. Toxic to native lustling, essential for life to everyone else.	금속 캐비닛이다. 딱히 특이할 건 없으며 벽에 부착할 수 있다.
+7570	rest_7351_7700.tsv	Lustling	러스틀링	The Lustling skipped this particular part of space travel.	피에 얼룩진 쪽지
+7745	rest_7701_8050.tsv	Lustling	러스틀링	The first anvil discovered on Eros by a Lustling, used it to make a metal bikini with dildos for your ass and pussy, Best seller that year.	의외로 편한 가죽 쿠션이네요.
+7747	rest_7701_8050.tsv	Lustling	러스틀링	The first non-human Grand Protector. Its going to be a long time before a Lustling becomes a Grand Protector, To hard for us to stay focused and not have sex all the time.	슬라임으로 만든 검. 이상하지만 효과적.
+7850	rest_7701_8050.tsv	Lustling	러스틀링	The lustling and Kluex don't exactly get along. Something, something, heresy.	아, 천사 문학이네요.
+8435	rest_8401_8750.tsv	Lustling	러스틀링	This Lustling bust can act as a way point, enabling me to return to this point using a teleporter.	플로란이 이걸로 리플리케이터보다 더 많은 물건 만든다.
+8436	rest_8401_8750.tsv	Lustling	러스틀링	This Lustling bust can be bookmarked as a destination for my ship teleporter.	플로란이 상자 먹고 싶다.
+8437	rest_8401_8750.tsv	Lustling	러스틀링	This Lustling bust can be saved as a location for my teleporter. Then I can return to it at any time.	플로란이 언젠가 물용한테 찌르기 비밀을 알려줄게엇.
+8548	rest_8401_8750.tsv	Lustling	러스틀링	This bed looks like it could soak up lots of Lustling love juice.	사람 돕는 게 늘 내 소명이었어.
+8836	rest_8751_9100.tsv	Lustling	러스틀링	This door completely fails to serve its purpose. At least lustling tent flaps can keep the weather out.	맛에 비하면 이름이 영 별로다
+8856	rest_8751_9100.tsv	Lustling	러스틀링	This door was produced by a lustling.	시로 가득해! 손글씨야?
+9174	rest_9101_9450.tsv	Lustling	러스틀링	This is really heavy. I can't imagine any lustling taking this with them.	독 저항
+580	rest_0401_0700.tsv	sanctilite	생크틸라이트	Annoyed. Although the design of this sanctilite door is pretty, it must be pushed open!	흥미. 호기심. 우주. 별들. 최종 목적지?
+1330	rest_1051_1400.tsv	sanctilite	생크틸라이트	Cozy. This sanctilite bed looks like the perfect place to sleep. I could get comfortable...	플로란의 쾌락을 위해 만들어진 기계에엇!
+1740	rest_1401_1750.tsv	sanctilite	생크틸라이트	Elegant symbolism is decorated on this sanctilite bed.	취함. 네 목구멍 깊이 싸고 있어!
+2442	rest_2101_2450.tsv	sanctilite	생크틸라이트	Focused. From the readings I'm getting from this chair, I can tell it is made from sanctilite, but I know nothing more.	여기에 연료만 채우면 온 우주를 탐험할 수 있겠군요...
+2768	rest_2451_2800.tsv	sanctilite	생크틸라이트	Hmm. A solid bed frame made from sanctilite.	오류 :: 오류 :: 오류 :: 오류
+3165	rest_3151_3500.tsv	sanctilite	생크틸라이트	I could get some good ol' rest in this here sanctilite bed!	스노포프.
+3744	rest_3501_3850.tsv	sanctilite	생크틸라이트	I'm about to get some real big muscles from pushin' this sanctilite door!	보고합니다, 보스!
+4164	rest_3851_4200.tsv	sanctilite	생크틸라이트	Intricate design covers this sanctilite door, yet it is heavy and grainy.	포획한 생물이 돌아다니지 못하게 묶는 편리한 기둥.
+5694	rest_5601_5950.tsv	sanctilite	생크틸라이트	Observant. Almost nothing can break this sanctilite table.	엔진 과열.
+9655	rest_9451_9800.tsv	sanctilite	생크틸라이트	This sanctilite table is very unremarkable.	이 자기 스테이션으로 자기 기반 무기 제작 가능.
+4941	rest_4901_5250.tsv	anglure	앵글루어	Looks just like a real anglure's lure! Better not use this as a night light...	네가 있을 곳이 아냐!
+200	rest_0151_0400.tsv	Viera	비에라	An ancient embroidered pattern of the Viera.	출처 불명, 발견하면 모드 개발자에게 메시지를 보내주세요!
+10418	rest_10151_10500.tsv	Viera	비에라	Viera archers use this as a minor shield through which one may fire arrows.	<field> 마스터 <role>
+10419	rest_10151_10500.tsv	Viera	비에라	Viera foods taste best when cooked here.	<field> 수뇌
+10420	rest_10151_10500.tsv	Viera	비에라	Viera use leathers for making swift moving gear.	<field> 초보
+10421	rest_10151_10500.tsv	Viera	비에라	Viera wood carvers take much pride in building strong structures.	<field> 조작원
+3009	rest_2801_3150.tsv	Viera	비에라	I can build a splendid Viera home of the Wood Herself.	숲을 위해 네 종족을 경계해야 한다.
+7600	rest_7351_7700.tsv	Viera	비에라	The Viera appear to enjoy natural colours.	꽤 끔찍한 상자.
+7604	rest_7351_7700.tsv	Viera	비에라	The Wood Herself powers this Viera technology.	원시적 돌 용광로. 기본 재료를 제련할 수 있어.
+7816	rest_7701_8050.tsv	Viera	비에라	The intricate carpentry skills of the Viera are unsurpassed.	여러 도구와 장치로 가득한 작업장.
+257	rest_0151_0400.tsv	Thaumoth	타우모스	An automatic sewing machine. It can handle Thaumoth silk, but lacks the finess to craft wings or traditional Thaumoth clothes.	이걸 타면 디지털 전투 구역으로 갈 수 있다.
+3097	rest_2801_3150.tsv	Thaumoth	타우모스	I can use this to craft impressive furnishings, but conjured Thaumoth furniture is usually cozier.	차가운 빛.
+3630	rest_3501_3850.tsv	Thaumoth	타우모스	I wonder how many Thaumoth have turned themselves into chitin bars by succumbing to the temptation...	한 방울도 흘리지 마!
+4683	rest_4551_4900.tsv	Thaumoth	타우모스	It's very soft, but not as much as Thaumoth silk.	피터 아트모스
+8290	rest_8051_8400.tsv	Thaumoth	타우모스	These remind me of a Roc's feathers. A single one of those monstrous birds could devour entire Thaumoth cities.	근접 스캐너 감지. 본 유닛 접근 시 작동.
+8631	rest_8401_8750.tsv	Thaumoth	타우모스	This can transmute any kind of ore, and it's much safer to use than a smelter thanks to the Thaumoth-proof glass protecting the glowy parts.	너희 종족이 마음에 안 들어. 둘 다 수생 종족인 게 유감이야.
+9388	rest_9101_9450.tsv	Thaumoth	타우모스	This mannequin doesn't quite fit with Thaumoth armor.	경계해!
+111	rest_priority_0644.tsv	Tserera	체레라	An EDS version of Tserera healing stations, the ones used mainly in labs. This one's a real deal.	부스터입니다. 오작동하여 폭발하는 것으로 알려져 있습니다.
+440	rest_0401_0700.tsv	gheatsyn	기트신	An ordinary gheatsyn chair.	풀어줘야 해!
+804	rest_0701_1050.tsv	gheatsyn	기트신	Baked with friendship and a little bit of gheatsyn for that special sparkle~	이걸 지원해준 모든 분들께 감사!
+10151	rest_10151_10500.tsv	gheatsyn	기트신	Those driplets are gheatsyn bits. Though acidic, it's not enough to cause actual harm.	"^orange;세트 보너스^reset;:
+^yellow;^reset; 단검/권총/로켓 발사기: 피해량 x^green;1.25^reset;
+^yellow;^reset; ^cyan;면역^reset;: 산소, 가스, 기절, 감전, 독"
+10771	rest_10501_10850.tsv	gheatsyn	기트신	What's left from a gheatsyn crystal growing inside of moonrock. I can break it to harvest some gheatsyn.	녹슨 강판 한 무더기.
+10801	rest_10501_10850.tsv	gheatsyn	기트신	When rocks form gheatsyn on the inside, it continues growing slowly forcing the rock to burst or expand, resulting in gheatorn.	일종의 시간 정지 기술로 만든 캐니스터.
+1567	rest_1401_1750.tsv	gheatsyn	기트신	Didn't know you could just grow gheatsyn in an eco pod, even if this slowly.	갑옷 팩
+2544	rest_2451_2800.tsv	gheatsyn	기트신	Gheatorn promises lots of digsites, huge droids and lots and lots of... well, gheatsyn.	이 게는 수정 조각을 껍데기이자 위장으로 사용한다. 어둠에 적응했으며 멀리서도 냄새를 맡아낸다.
+2545	rest_2451_2800.tsv	gheatsyn	기트신	Gheatsyn became an important part of alta tech due to its amazing abilities, so its nature and origins are definitely worth studying.	이 장치는 식민지를 피해로부터 지키는 보호막을 만든다.
+2546	rest_2451_2800.tsv	gheatsyn	기트신	Gheatsyn crystals can liquify or crystallize when charged depending on the charge polarity. The one in this tank does the former.	이건 온통 잘못된 거야... 하지만 날 못 멈춰!
+3646	rest_3501_3850.tsv	gheatsyn	기트신	I wonder if gheatsyn crippits can feel when their shell shape changes.	음~! 내 임신한 보지를 채워줘~!
+3946	rest_3851_4200.tsv	gheatsyn	기트신	If properly treated, gheatsyn can be used in cooking and is most popular in the calin cuisine.	사색. 내 안의 네 유기체 아기들 생각하면 보지가 너무 젖어...
+3974	rest_3851_4200.tsv	gheatsyn	기트신	If you're into nia cuisine and are at a party, this choice is definitely for you. Don't forget to cover it in some jam! Gheatsyn one will work quite well.	조심해!
+4895	rest_4551_4900.tsv	gheatsyn	기트신	Liquifying and re-crystallizing gheatsyn allows to create sturdy, yet thin and still mostly transparent crystal panels. Neat.	경고. 쾌락 과부하 임박!
+6650	rest_6301_6650.tsv	gheatsyn	기트신	Similar to other calin chairs, this one is not that comfortable, even if made from gheatsyn.	좋은 몸풀이였어~
+7370	rest_7351_7700.tsv	gheatsyn	기트신	Tastes very similar to gheatsyn jam, just glows much brighter. Which is still pretty nice.	시계다. 밤이 반년씩 이어지는 곳에서는 별로 쓸모가 없겠지만.
+7796	rest_7701_8050.tsv	gheatsyn	기트신	The handle is so smooth, yet it grips quite nicely too, that's very cool! Not a lot of uses to it though. I know that these are sometimes used to manually carve different weaker crystals, like gheatsyn, but I don't think I plan on doing anything like that.	벽 패널. 고내구성 같아.
+8575	rest_8401_8750.tsv	gheatsyn	기트신	This blast resistant storage unit uses crystals as a lock mechanism. Electrifiyng gheatsyn forces it to liquify, unlocking it.	인간이 실제로 얼마나 위험할까? 보기만 해도 심장이 뛰는 게 맞는 걸지도.
+9122	rest_9101_9450.tsv	gheatsyn	기트신	This is big enough to drop some neat gheatsyn shards.	우리 토템은 아주 중요해, 고향, 부족이나 무리, 공동 목표를 나타내니까!
+9626	rest_9451_9800.tsv	gheatsyn	기트신	This rock can be destroyed to extract some gheatsyn, though the preferable way is to slowly catch the drops.	이 문은 열면 벽 속으로 들어가.
+9799	rest_9451_9800.tsv	gheatsyn	기트신	This station allows to upgrade equipment using gheatsyn shards.	충분히 값어치가 있어. 더 달게 만들어 달라고 할 수 있다면 특히 그렇지. 아니면 우스운 표정을 짓고 싶을 때도 좋고.
+11094	rest_10851_11200.tsv	Voltage	볼티지	Worried. If I land on a voltage planet, I'll probably get overcharged in seconds.	각종 전시 총기 전시.
+2318	rest_2101_2450.tsv	Voltage	볼티지	Floran really dislikesss voltage planetss. Lightning ssstrikes everywhere.	탐욕. 좋아! 새끼 한 쌍둥이를 줘!
+4590	rest_4551_4900.tsv	Voltage	볼티지	It's just a pin of a voltage planet. Thankfully, unlike the real deal, it's not electrified.	이 이상한 수생 식물들에게 눈이 있는 것 같아.
+4640	rest_4551_4900.tsv	Voltage	볼티지	It's only a matter of time before someone tries to capitalize on voltage planets' infinite energy.	금속 해치이잇 안에 발판이 있다.
+503	rest_0401_0700.tsv	Figurine	피규어	An... alta... figurine?.. I'll take twelve.	오! 좋아! 넌 내 큰 유인원이야!
+2729	rest_2451_2800.tsv	Figurine	피규어	Hey, it's the cake figurine! My favorite!	탐험 길드에서 왔어?
+5582	rest_5251_5600.tsv	Figurine	피규어	Not sure if anyone ever saw one of these in real life, and yet... here it is, I guess. Or, at least, its figurine. Neat.	안에 새 리볼버가 있을까?
+5819	rest_5601_5950.tsv	Figurine	피규어	Oh Io, is this a Kira figurine? That's awesome! I wonder if it can bend, just like Kira in her original form!	플로란이 지금 널 높이 보내줘엇!
+5857	rest_5601_5950.tsv	Figurine	피규어	Oh wow, that's a pretty rare figurine! I wonder if it has any secret powers.	해치로 쓰는 거품형 포스필드 생성. 안전성은 의문.

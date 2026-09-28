@@ -44,14 +44,10 @@ OVERLAY_DIRS = {
 def load_korean():
     ko = {}
     for f in glob.glob(str(HERE / "translations" / "batch_*.tsv")):
-        cur = None
-        for line in open(f, encoding="utf-8"):
-            line = line.rstrip("\n")
-            m = re.match(r"^(\d+)\t(.*)$", line)
-            if m:
-                cur = int(m.group(1)); ko[cur] = m.group(2)
-            elif cur is not None:
-                ko[cur] += "\n" + line
+        with open(f, encoding="utf-8-sig", newline="") as fh:
+            for row in csv.reader(fh, delimiter="\t"):
+                if row and row[0].isdigit():
+                    ko[int(row[0])] = row[1] if len(row) > 1 else ""
     rows = list(csv.DictReader(open(WORKLIST, encoding="utf-8-sig"), delimiter="\t"))
     en2ko = {}
     for i, r in enumerate(rows):
@@ -107,7 +103,8 @@ def main():
             if actual.replace("\r\n", "\n") != row["englishText"].replace("\r\n", "\n"):
                 counts[f"{mod}:text-changed"] += 1
                 continue
-            value = kor.replace("\n", "\r\n") if "\r\n" in actual else kor
+            kor_n = kor.replace("\r\n", "\n")
+            value = kor_n.replace("\n", "\r\n") if "\r\n" in actual else kor_n
             grouped[mod][asset].append(
                 {"op": "replace", "path": pointer, "value": value})
             counts[f"{mod}:merged"] += 1
@@ -147,7 +144,8 @@ def main():
                     actual.replace("\r\n", "\n") != row["englishText"].replace("\r\n", "\n"):
                 counts[f"{mod}:final-text-mismatch"] += 1
                 continue
-            value = kor.replace("\n", "\r\n") if "\r\n" in actual else kor
+            kor_n = kor.replace("\r\n", "\n")
+            value = kor_n.replace("\n", "\r\n") if "\r\n" in actual else kor_n
             grouped[mod][asset].append(
                 {"op": "replace", "path": final_pointer, "value": value})
             counts[f"{mod}:merged-patch"] += 1

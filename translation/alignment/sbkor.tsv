@@ -292,9 +292,9 @@
 /interface/chests/chest56.config.patch	/interface/chests/chest56.config	/gui/clear/caption	aligned-string	base	Take all	모두 가지기
 /interface/chests/chest56.config.patch	/interface/chests/chest56.config	/gui/count/value	aligned-string	base	56 SLOTS	슬롯 56칸
 /interface/chests/chest60.config.patch	/interface/chests/chest60.config	/gui/clear/caption	aligned-string	base	Take all	모두 가지기
-/interface/chests/chest60.config.patch	/interface/chests/chest60.config	/gui/count/value	aligned-string	base	<slots> SLOTS	슬롯 60칸
+/interface/chests/chest60.config.patch	/interface/chests/chest60.config	/gui/count/value	aligned-string	base	<slots> SLOTS	슬롯 <slots>칸
 /interface/chests/chest64.config.patch	/interface/chests/chest64.config	/gui/clear/caption	aligned-string	base	Take all	모두 가지기
-/interface/chests/chest64.config.patch	/interface/chests/chest64.config	/gui/count/value	aligned-string	base	<slots> SLOTS	슬롯 64칸
+/interface/chests/chest64.config.patch	/interface/chests/chest64.config	/gui/count/value	aligned-string	base	<slots> SLOTS	슬롯 <slots>칸
 /interface/chests/chest9.config.patch	/interface/chests/chest9.config	/gui/clear/caption	aligned-string	base	Take all	모두 가지기
 /interface/chests/chest9.config.patch	/interface/chests/chest9.config	/gui/count/value	aligned-string	base	9 SLOTS	슬롯 9칸
 /interface/chests/pettether.config.patch	/interface/chests/pettether.config	/gui/insertPod/value	aligned-string	base	Insert Pod	포드 넣기

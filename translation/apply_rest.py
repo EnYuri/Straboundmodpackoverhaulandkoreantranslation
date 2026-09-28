@@ -284,7 +284,7 @@ def span_edit_text(text, edits):
             counts["text-mismatch"] += 1
             continue
         if "\r\n" in plain:
-            kor = kor.replace("\n", "\r\n")
+            kor = kor.replace("\r\n", "\n").replace("\n", "\r\n")
         spans.append((node.start, node.end, kor))
     for start, end, kor in sorted(spans, key=lambda s: -s[0]):
         text = text[:start] + json.dumps(kor, ensure_ascii=False) + text[end:]

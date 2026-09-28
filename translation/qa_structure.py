@@ -10,7 +10,8 @@ PH=re.compile(r'%s|%\d+|\{[^}]{1,20}\}|<[A-Za-z_][A-Za-z0-9_]*>|\$\{[^}]+\}')
 PUA=re.compile(r'[\ue000-\uf8ff]')
 INPUT=re.compile(r'\[(?:FIRE|ALT-FIRE|Alt-Fire|ALT|CRIT|SHIFT|UP|Down|DOWN|Jump|LEFT-MOUSE|RIGHT-MOUSE|A|D)\]')
 # 의도적 예외: 25930은 영문 원문의 깨진 ^reset. 대신 올바른 ^reset;를 넣어 색 번짐을 막는다
-KNOWN_OK={'25930'}
+# 63264도 원문 끝의 ^reset; 누락을 동일하게 복구했다
+KNOWN_OK={'25930','63264'}
 rows=[]
 for k in sorted(ko,key=int):
     e=wl.get(k,{}).get('englishText'); t=ko[k]

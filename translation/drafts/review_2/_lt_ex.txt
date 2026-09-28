@@ -1,0 +1,195 @@
+=== 58
+EN: <slots> SLOTS
+KO: 슬롯 <slots>칸
+
+=== 1902
+EN: Find ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;
+KO: ^orange;<itemName>^reset; 찾기: ^green;<current> / <required>^reset;
+
+=== 1637
+EN: <field> Forum Moderator
+KO: <field> 포럼 관리자
+
+=== 1753
+EN: Loose Cannon <role>
+KO: 제멋대로 <role>
+
+=== 602
+EN: Howdy, my name is <selfname>. Pleased to meet yet another curious spacefarer!
+KO: 안녕, 내 이름은 <selfname>야. 또 다른 호기심 많은 우주 여행자를 만나서 반가워!
+
+=== 457
+EN: An ugly clump of roots.
+KO: 흉한 뿌리 덩어리.
+
+NUM 2241
+EN: ERR0R! My incubator is overflowing!
+KO: 오류! 내 인큐베이터가 넘쳐!
+ENnums:['0']
+KOnums:[]
+
+NUM 2242
+EN: ERR0R! Pleasure is overloading my body~~!
+KO: 오류! 쾌락이 내 몸에 과부하~~!
+ENnums:['0']
+KOnums:[]
+
+NUM 3067
+EN: ''In forty minutes, people will be shooting at these 19 year old boys. And they will shoot back, and they will kill. That is the law of war: if you don't kill f
+KO: ''40분 후면, 사람들이 이 19살 소년들에게 총을 쏠 거야. 그리고 그들도 쏠 거고, 죽일 거야. 그게 전쟁의 법칙이야: 먼저 안 죽이면, 네가 죽어. 우리가 이 법을 만든 게 아니야.''
+
+STANAG-USM 5.45x39mm 탄창을 사용한다.
+
+^green;"보조 발사"를
+ENnums:['19', '39', '5.45']
+KOnums:['19', '39', '40', '5.45']
+
+NUM 3287
+EN: Can't wait a second longer~?
+KO: 1초도 못 기다려~?
+ENnums:[]
+KOnums:['1']
+
+NUM 4793
+EN: The 3-feathered emblem of the Avali.. in a bowl?
+KO: 아발리의 세 깃 문장이.. 그릇 안에?
+ENnums:['3']
+KOnums:[]
+
+NUM 5695
+EN: ERR0R! Pleasure is overloading my body!
+KO: 오류! 쾌락이 내 몸에 과부하!
+ENnums:['0']
+KOnums:[]
+
+NUM 7250
+EN: ''In forty minutes, people will be shooting at these 19 year old boys. And they will shoot back, and they will kill. That is the law of war: if you don't kill f
+KO: ''40분 후면, 사람들이 이 19살 소년들에게 총을 쏠 거야. 그리고 그들도 쏠 거고, 죽일 거야. 그게 전쟁의 법칙이야: 먼저 안 죽이면, 네가 죽어. 우리가 이 법을 만든 게 아니야.''
+
+STANAG-FEDERATSIYA 5.56x45mm 탄창을 사용한다.
+
+^green;
+ENnums:['19', '45', '5.56']
+KOnums:['19', '40', '45', '5.56']
+
+NUM 7251
+EN: ''We told them what we needed: a light weapon, more firepower, more rugged, easier to clean, less parts. Year later - no new guns, just new manuals. Told us to 
+KO: ''우리가 필요한 걸 말했어: 가벼운 무기, 더 많은 화력, 더 튼튼, 청소 쉽게, 부품 적게. 1년 후 - 새 총 없이 새 설명서만. T24를 테이프로 감으라더라...''
+
+이와시타는 복잡성과 전투 중 부품 분실로 악명 높았다. 공식 설명서는 핀과 나사가 빠지지 않게 절연 테이프 
+ENnums:['0.6', '100', '24', '24']
+KOnums:['0.6', '1', '100', '24', '24']
+
+NUM 10267
+EN: ''Can't hit me, won't hurt me.''
+
+^#96CBE7;[Double-Tap A or D, holding down on 2nd tap] | ^green;Press [UP] to boost your jump^reset; | Consumes 20 Ability Mana
+KO: ''못 맞히면 아프지도 않지.''
+
+^#96CBE7;[A 또는 D 두 번 누르고, 두 번째에 계속 누르기] | ^green;[UP]을 눌러 점프를 강화^reset; | 초당 능력 마나 20 소모.
+ENnums:['2', '20', '7', '96']
+KOnums:['20', '7', '96']
+
+NUM 10291
+EN: ''The dead know only one thing: it is better to be alive.''
+ 
+ Second Sino-Japanese War of 1937-1945 took lives of about 22 million people. It is now a mere foo
+KO: ''죽은 자는 한 가지만 안다. 살아 있는 것이 낫다는 것.''
+ 
+ 1937~1945년의 중일 전쟁은 약 2,200만 명의 목숨을 앗아갔다. 이제는 인류 역사의 
+ 각주 한 줄에 불과하다. 그 전쟁을 기억하거나 마음에 두는 인간은 아무도 남지 않았다.
+ 
+ 그러나 이제 현실의
+ENnums:['1937', '1945', '22']
+KOnums:['1937', '1945', '2', '200']
+
+NUM 10396
+EN: 24/7 Convenience Store
+KO: 24시 편의점
+ENnums:['24', '7']
+KOnums:['24']
+
+NUM 10574
+EN: A base ten series of tally marks. We make similar marks but in sets of three.
+KO: 10진법으로 묶은 계수 표시야. 우리도 비슷한 표시를 쓰지만 세 개씩 묶지.
+ENnums:[]
+KOnums:['10']
+
+NUM 10622
+EN: A bed designed for single individuals. I miss my pack.
+KO: 1인용으로 설계된 침대. 내 무리가 그리워.
+ENnums:[]
+KOnums:['1']
+
+NUM 10761
+EN: A budding crystal growing through a rock. Requires to be at least 50% in a liquid.
+KO: 바위를 뚫고 자라나는 수정 싹이다. 적어도 절반은 액체에 잠겨 있어야 한다.
+ENnums:['50']
+KOnums:[]
+
+NUM 10894
+EN: A comfortable two-seater.
+KO: 편안한 2인석.
+ENnums:[]
+KOnums:['2']
+
+NUM 11193
+EN: A fluffy three-seater couch.
+KO: 복슬복슬 3인 소파.
+ENnums:[]
+KOnums:['3']
+
+NUM 11215
+EN: A frame of a four-dimensional space generator.
+KO: 4차원 공간 생성기 프레임.
+ENnums:[]
+KOnums:['4']
+
+NUM 11488
+EN: A keypad, numbered zero to nine. It appears to be a security measure.
+KO: 키패드, 0~9. 보안 조치인 듯.
+ENnums:[]
+KOnums:['0', '9']
+
+NUM 12121
+EN: A second generation of the Bozar AM rifle, now even bigger and even badder!
+KO: 보자르 AM 소총의 2세대 모델로, 전보다 훨씬 크고 더욱 강력해졌다!
+ENnums:[]
+KOnums:['2']
+
+NUM 12271
+EN: A single stool with a little padding. It's serviceable.
+KO: 쿠션이 조금 들어간 1인용 스툴. 쓸 만해.
+ENnums:[]
+KOnums:['1']
+
+NUM 13286
+EN: An avali number eight.
+KO: 아발리 숫자 8.
+ENnums:[]
+KOnums:['8']
+
+NUM 13287
+EN: An avali number five.
+KO: 아발리 숫자 5.
+ENnums:[]
+KOnums:['5']
+
+NUM 13288
+EN: An avali number four.
+KO: 아발리 숫자 4.
+ENnums:[]
+KOnums:['4']
+
+NUM 13289
+EN: An avali number nine.
+KO: 아발리 숫자 9.
+ENnums:[]
+KOnums:['9']
+
+NUM 13290
+EN: An avali number one.
+KO: 아발리 숫자 1.
+ENnums:[]
+KOnums:['1']
+

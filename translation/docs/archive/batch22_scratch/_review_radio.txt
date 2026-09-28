@@ -1,0 +1,2250 @@
+
+===== /radiomessages/alliancestory.radiomessages.patch =====
+/alliancestory-intro1/senderName
+  EN: Admiral Lyiin
+  KO: 리인 제독
+/alliancestory-intro1/text
+  EN: It is good to see that you are well, ambassador. I learned about the destruction of Earth and the Protectorate through some of the other ambassadors who escaped, and I had feared you might have perished in the chaos.
+  KO: 무사하신 걸 보니 다행입니다, 대사님. 탈출한 다른 대사들을 통해 지구와 보호국의 파괴 소식을 들었고, 혼란 속에서 돌아가셨을까 봐 두려웠습니다.
+/alliancestory-intro2/senderName
+  EN: Admiral Lyiin
+  KO: 리인 제독
+/alliancestory-intro2/text
+  EN: I will meet with the other leaders of the Alliance soon, so we can discuss this tragedy in full. We will also discuss what your next assignment will be.
+  KO: 곧 얼라이언스의 다른 지도자들과 만나서, 이 비극에 대해 충분히 논의할게. 네 다음 임무가 뭐가 될지도 논의할 거야.
+/alliancestory-intro3/senderName
+  EN: Admiral Lyiin
+  KO: 리인 제독
+/alliancestory-intro3/text
+  EN: For now, you are free to roam the galaxy as you will. Once I have more details to share with you, I will contact you again. Good luck out there, ambassador, and be careful.
+  KO: 지금은 원하는 대로 은하를 돌아다녀도 좋습니다. 더 알려 드릴 내용이 생기면 다시 연락하겠습니다. 행운을 빕니다, 대사님. 부디 조심하십시오.
+
+===== /radiomessages/arcana_bags.radiomessages.patch =====
+/arcana_bag1/text
+  EN: The ^green;Velvet Pouch^reset; is able to store many ^orange;small items^reset; in it, such as crafting materials, cooking ingredients, seeds, and dye bottles.
+  KO: ^green;벨벳 파우치^reset;에는 제작 재료, 조리 재료, 씨앗, 염료 병 같은 ^orange;소형 물품^reset;을 많이 담아 둘 수 있다.
+/arcana_bag2/text
+  EN: The ^green;Essence Storage^reset; is used for storing various different types of essence, such as Arcane Essence and Illuminated Essence.
+  KO: ^green;정수 보관함^reset;은 아케인 정수, 빛나는 정수 같은 다양한 종류의 정수를 보관하는 데 사용됩니다.
+
+===== /radiomessages/arcana_mission_desertstart.radiomessages.patch =====
+/arcana_mission_desertstart_1_1/text
+  EN: Ah, you're here! Feel free to get some rest before journeying ahead, you'll have to walk a bit to your destination.
+  KO: 아, 오셨군요! 여정을 떠나기 전에 편하게 쉬세요, 목적지까지 좀 걸어야 할 테니까요.
+/arcana_mission_desertstart_1_2/text
+  EN: Our... erm, most of our Guildmasters have agreed to transfer the artifact to the Seekers for safekeeping, after consideration for foreign threats.
+  KO: 저희... 음, 저희 길드마스터 대부분이 외부의 위협을 고려한 끝에 아티팩트를 안전하게 보관하도록 탐구자들에게 넘기기로 합의했습니다.
+/arcana_mission_desertstart_1_3/text
+  EN: You will be able to locate the artifact in the topmost chamber within the ^orange;Lodestar Temple^reset;, most likely. The temple is likely filled with traps, so remain cautious when you head in.
+  KO: 유물은 아마도 ^orange;로드스타 신전^reset; 내 최상층 방에서 찾을 수 있을 거야. 신전에는 함정이 가득할 테니 들어갈 때 주의해.
+/arcana_mission_desertstart_1_4/text
+  EN: Follow the road ahead, and you should reach the Lodestar Temple after a short time. I'll contact you again through your communication system when you are there.
+  KO: 앞에 난 길을 따라가면, 얼마 지나지 않아 로드스타 사원에 도착할 겁니다. 거기 도착하면 통신 시스템으로 다시 연락드릴게요.
+/arcana_mission_desertstart_1_5/text
+  EN: Oh! You must be near the entrance. The front gate is locked by a barrier normally only accessible by the Guildmasters, but we've granted access to you as well. Go ahead and use the console by the gate.
+  KO: 오! 입구 근처에 있는 게 틀림없군. 정문은 평소 길드마스터들만 드나들 수 있는 장벽으로 잠겨 있지만, 당신에게도 접근 권한을 허가했어. 가서 문 옆의 콘솔을 사용해.
+/arcana_mission_desertstart_2_1/text
+  EN: Be careful as you proceed deeper, Seeker.
+  KO: 더 깊이 나아갈수록 조심하세요, 시커.
+/arcana_mission_desertstart_2_2/text
+  EN: Ah. It looks like you'll have to find a way to open the gate ahead... you might have to try other paths first.
+  KO: 아. 앞으로 나아가려면 문을 여는 방법을 찾아야 할 것 같네요... 먼저 다른 길을 시도해봐야 할지도 몰라요.
+/arcana_mission_desertstart_2_3/text
+  EN: Hmm... you must be nearly at the room containing the artifact. Remain sharp for dangers, there are bound to be more.
+  KO: 흠... 유물이 있는 방 근처에 거의 다 온 게 틀림없어. 위험이 더 있을 테니 경계를 늦추지 마.
+/arcana_mission_desertstart_3_1/text
+  EN: That... that was ^#893EC5;Guildmaster Ramses^reset;...
+  KO: 저건... 저건 ^#893EC5;길드마스터 람세스^reset;였어...
+/arcana_mission_desertstart_3_2/text
+  EN: You'd best head back for now... I'll meet you back at the ^orange;Astral Observatory^reset;!
+  KO: 일단 돌아가는 게 좋겠어... ^orange;아스트랄 천문대^reset;에서 만나자!
+
+===== /radiomessages/arcana_mission_seekerIntro.radiomessages.patch =====
+/arcana_mission_seekerIntro_1_1/text
+  EN: Welcome to the ^orange;Seeker Trial^reset;! I will guide you through the challenges, as you progress.
+  KO: ^orange;탐구자 시련^reset;에 온 걸 환영합니다! 진행하면서 도전 과제를 안내해 드리겠습니다.
+/arcana_mission_seekerIntro_1_2/text
+  EN: This course will test your physical skills in the Mobility Course, and provide you with basic Seeker training in the Combat Course. Once you are ready, you can proceed to the next room to start!
+  KO: 이 코스는 기동 코스에서 네 신체 능력을 시험하고, 전투 코스에서 기본 시커 훈련을 제공한다. 준비되면 다음 방으로 가서 시작해라!
+/arcana_mission_seekerIntro_2_1/text
+  EN: Let's begin with a simple warmup parkour course - this should be no problem for you.
+  KO: 간단한 준비운동용 파쿠르 코스로 시작해 볼게 - 너한테는 별거 아닐 거야.
+/arcana_mission_seekerIntro_2_2/text
+  EN: Not bad. Now let's see how you deal with some lasers and turrets!
+  KO: 나쁘지 않아. 이제 레이저랑 포탑들은 어떻게 상대하는지 한번 볼까!
+/arcana_mission_seekerIntro_2_3/text
+  EN: Well done! Now for something different - go ahead and grab the ^orange;Air Dash^reset; tech in front of you, and use the tech console to equip it.
+  KO: 잘했어! 이제 다른 걸 해보자 - 앞에 있는 ^orange;에어 대시^reset; 테크를 집어 들고, 테크 콘솔로 장착해 봐.
+/arcana_mission_seekerIntro_2_4/text
+  EN: Go ahead and try out the tech in the next room. This should complete the Mobility Course, should you manage to finish it.
+  KO: 다음 방에서 테크를 시험해 보세요. 끝까지 마치면 이동 훈련 과정을 완료하게 됩니다.
+/arcana_mission_seekerIntro_3_1/text
+  EN: That marks the end of the Mobility Course! Enjoying the tech? I have something else for you - the ^orange;Seeker Pistol^reset;! I've prepared some targets for you as well: go ahead and test it out in the next room.
+  KO: 이걸로 기동성 코스는 끝입니다! 기술이 마음에 드나요? 준비한 게 하나 더 있어요 - ^orange;시커 권총^reset;이에요! 표적도 몇 개 준비해뒀어요: 다음 방에서 시험해보세요.
+/arcana_mission_seekerIntro_3_2/text
+  EN: While the pistol doesn't do much damage compared to our standard combat equipment, ^orange;it fires a bouncy projectile when you hold down the fire button.^reset; See the target behind the wall there? Use the gun's bouncy bullets to hit it!
+  KO: 이 권총은 우리 표준 전투 장비에 비해 피해가 크지 않지만, ^orange;발사 버튼을 누르고 있으면 튀는 탄환을 쏜다.^reset; 저기 벽 뒤의 표적 보여? 총의 튀는 탄환으로 맞혀봐!
+/arcana_mission_seekerIntro_3_3/text
+  EN: Looks like you're handling this well! I've prepared a final challenge for you ahead, be ready for a tough combat.
+  KO: 이거 잘 해내고 있는 것 같아! 앞에 마지막 도전 과제를 준비해 뒀어, 힘든 전투에 대비해.
+/arcana_mission_seekerIntro_4_1/text
+  EN: Congratulations! I look forward to working with you already, judging by how you handled that boss.
+  KO: 축하합니다! 그 보스를 처리한 방식을 보니, 벌써 함께 일할 날이 기대됩니다.
+/arcana_mission_seekerIntro_4_2/text
+  EN: The exit teleporter is waiting for you in the next room. I'll hand you the ^orange;Seeker Atlas^reset; when you return, and you will officially be a Seeker of the Aurea Collective.
+  KO: 출구 텔레포터는 다음 방에서 기다리고 있다. 돌아오면 ^orange;시커 아틀라스^reset;를 건네주겠다. 그러면 정식으로 아우레아 콜렉티브의 시커가 될 거다.
+/arcana_mission_seekerIntro_4_3/text
+  EN: The teleporter is offline? Strange, it was still operational when I reviewed it earlier.
+  KO: 텔레포터가 꺼져 있나요? 이상하군요. 아까 확인했을 때만 해도 작동했는데.
+/arcana_mission_seekerIntro_4_4/text
+  EN: I'll remotely open up the maintenance door for you. There should be another teleporter in that sector - go ahead and use that one instead.
+  KO: 원격으로 정비용 문을 열어줄게. 그 구역에 다른 텔레포터가 있을 거야 - 대신 그걸 사용해.
+/arcana_mission_seekerIntro_5_1/text
+  EN: What!? Take cover now! I'm detecting hostile warp signatures near your location!
+  KO: 뭐!? 지금 엄폐해! 네 위치 근처에서 적대적 워프 신호가 감지돼!
+/arcana_mission_seekerIntro_5_2/text
+  EN: Impossible... they must have breached the system without us noticing. I have to head to the Vault. Protector, find a way out and evacuate if you can!
+  KO: 말도 안 돼... 우리도 모르는 사이에 시스템을 뚫은 게 틀림없어. 금고로 가야겠어. 수호자님, 나갈 방법을 찾아서 가능하면 대피해요!
+/arcana_mission_seekerIntro_5_3/text
+  EN: The sector's main exits appear to be under emergency lockdown. I sense a possible alternate route above, however.
+  KO: 구역의 주요 출구는 긴급 봉쇄된 듯하다. 하지만 위쪽에서 우회로가 감지된다.
+/arcana_mission_seekerIntro_5_4/text
+  EN: Please proceed with caution. I sense multiple hostile signatures in the following corridors.
+  KO: 주의하여 진행하십시오. 다음 복도들에서 다수의 적대적 신호가 감지됩니다.
+/arcana_mission_seekerIntro_6_1/text
+  EN: Protector! I'm glad to hear you're alright.
+  KO: 수호자! 무사하다니 다행이에요.
+/arcana_mission_seekerIntro_6_2/text
+  EN: The intruders have left the area... meet me as soon as you can.
+  KO: 침입자들이 이 구역을 떠났어... 가능한 한 빨리 나를 만나러 와.
+
+===== /radiomessages/arcana_radiomessage_biome.radiomessages.patch =====
+/arcana_status_cataclysm/text
+  EN: ^red;WARNING!^reset; YOU ARE REPELLED BY UNFATHOMABLE COSMIC POWER. | Do not venture further without proper EPP, or you risk certain death.
+  KO: ^red;경고!^reset; 헤아릴 수 없는 우주의 힘이 당신을 밀어낸다. | 적절한 EPP 없이 더 나아가면 확실한 죽음을 각오하라.
+/arcana_status_energyDrain/text
+  EN: ^red;WARNING!^reset; ENERGY REGENERATION IS DIMINISHED! | The Arcane powers on this planet have interfered with your ability to regenerate energy.
+  KO: ^red;경고!^reset; 에너지 재생이 저하됨! | 이 행성의 아케인 힘이 당신의 에너지 재생 능력을 방해하고 있다.
+/arcana_status_radiance/text
+  EN: ^red;WARNING!^reset; OVERFLOWING RADIANCE DETECTED! | Lumen lights have flooded this planet and will start to drain your health continuously.
+  KO: ^red;경고!^reset; 넘쳐흐르는 광채 감지됨! | 루멘 빛이 이 행성을 뒤덮었고 체력을 계속 갉아먹기 시작할 것이다.
+/arcana_status_supercharged/text
+  EN: ^red;WARNING!^reset; ENERGY ACCUMULATION EXCEEDS SAFE LIMIT! | Dangerous Electric energy has engulfed this planet, you should equip an EPP before venturing further.
+  KO: ^red;경고!^reset; 에너지 축적이 안전 한계 초과! | 위험한 전기 에너지가 이 행성을 휘감고 있다. 더 나아가기 전에 EPP를 장착하라.
+
+===== /radiomessages/arcana_radiomessage_dungeon_khnemnnIsland.radiomessages.patch =====
+/arcana_radiomessage_dungeon_khnemnnIsland_1/text
+  EN: I've detected only a small quantity of bandits located on this island, this should be a breeze for you.
+  KO: 이 섬에는 소수의 산적만 감지됐어, 너한텐 식은 죽 먹기일 거야.
+/arcana_radiomessage_dungeon_khnemnnIsland_2/text
+  EN: That gate appears to be locked, ^orange;perhaps look for another way in?^reset;
+  KO: 저 문은 잠긴 것 같다, ^orange;다른 입구를 찾아봐야 할까?^reset;
+/arcana_radiomessage_dungeon_khnemnnIsland_3/text
+  EN: The bandit camp should be ahead, get ready to engage with hostiles.
+  KO: 산적 야영지가 앞에 있을 거야, 적과 교전할 준비를 해.
+/arcana_radiomessage_dungeon_khnemnnIsland_4/text
+  EN: Good job, this appears to be the end of the island. I've located a ^orange;teleporter up ahead^reset;, you can leave whenever you're ready.
+  KO: 잘했어요! 여기가 섬의 끝인 것 같군요. ^orange;앞쪽에서 텔레포터^reset;를 찾았으니 준비되면 언제든 떠나세요.
+
+===== /radiomessages/arcana_radiomessage_pickup.radiomessages.patch =====
+/arcana_radiomessage_pickup_arcaneWater/text
+  EN: With an ^orange;Essence Extractor^reset;, you can extract useful materials from these ^green;Arcane Water^reset;.
+  KO: ^orange;정수 추출기^reset;로 이 ^green;아케인 물^reset;에서 유용한 재료를 추출할 수 있어.
+/arcana_radiomessage_pickup_arcaniumOre/text
+  EN: I see that you have found some ^green;Arcanium Ore!^reset; You can smelt them into bars in an ^orange;Arcanium Furnace^reset; once you have built one.
+  KO: ^green;아르카니움 광석^reset;을 좀 찾았구나! 만들고 나면 ^orange;아르카니움 용광로^reset;에서 주괴로 제련할 수 있어.
+/arcana_radiomessage_pickup_aureolaBar/text
+  EN: That material you've just crafted... it appears to be crucial to many of our crafting advancements.
+  KO: 방금 제작한 그 재료... 우리의 많은 제작 발전에 핵심적인 것 같다.
+/arcana_radiomessage_pickup_empyreanKey/text
+  EN: You've obtained a Gilten access card! This should allow you to visit the surface of Empyrean planets.
+  KO: 길텐 출입 카드를 얻었다! 엠피리언 행성 표면을 방문할 수 있을 거야.
+/arcana_radiomessage_pickup_enartzFragment/text
+  EN: Fascinating. This crystal resembles and is perhaps a variation of quartz, solified from chemical reactions after volcanic activities.
+  KO: 매혹적이야. 이 결정은 화산 활동 이후 화학 반응으로 고체화된 석영과 닮았고, 어쩌면 그 변종일지도 몰라.
+/arcana_radiomessage_pickup_factoryBook/text
+  EN: Looks like you've found a basic guide for factory machines. You should read more about it if you want to properly manage a fully automated factory.
+  KO: 공장 기계에 대한 기본 안내서를 찾은 것 같다. 완전 자동화 공장을 제대로 관리하고 싶다면 더 읽어봐야 할 것이다.
+/arcana_radiomessage_pickup_galacticAtlas/text
+  EN: With the ^orange;Galactic Atlas^reset;, you can now travel to a number of unique locations across the universe in an instant.
+  KO: ^orange;은하 지도^reset;로, 이제 우주 곳곳의 독특한 장소들로 순식간에 이동할 수 있어.
+/arcana_radiomessage_pickup_horizonDiscipleBadge/text
+  EN: That appears to be a badge worn by the Horizon troopers. Collecting trophies now, are you?
+  KO: 그건 호라이즌 병사들이 착용하는 배지인 것 같군. 이제 전리품을 모으는 건가?
+/arcana_radiomessage_pickup_illuminatedEPP/text
+  EN: It appears that you're prepared to travel to harsher environments. Should you require further upgrade to your EPP, data suggests that you should summon one of the monstrocities related to the ^orange;Evoaquatic^reset; or the ^orange;Animus^reset;, found in Illuminated Stars.
+  KO: 더 가혹한 환경으로 이동할 준비가 된 것 같군. EPP를 추가로 업그레이드해야 한다면, 일루미네이티드 스타에서 발견되는 ^orange;에보아쿠아틱^reset; 또는 ^orange;애니머스^reset;와 관련된 괴물 중 하나를 소환해야 한다는 데이터가 있다.
+/arcana_radiomessage_pickup_map/text
+  EN: You've found some valuable coordinates. The ^orange;Lighthaven^reset; outpost appears to be one of the Aurea Collective's facilities, I suggest visiting this location before the others to gain more intel.
+  KO: 귀중한 좌표를 찾았다. ^orange;라이트헤이븐^reset; 전초지는 아우레아 컬렉티브의 시설 중 하나로 보인다. 더 많은 정보를 얻으려면 다른 곳보다 여길 먼저 방문하길 권한다.
+/arcana_radiomessage_pickup_nullatusBar/text
+  EN: I'm unable to analyze the exact strength of ^orange;Nullatus^reset;, but relevant data suggests that it's nearly indestructible. Should you use it to construct an armor or weapon, it will be a great feat indeed.
+  KO: ^orange;눌라투스^reset;의 정확한 강도는 분석할 수 없지만, 관련 데이터에 따르면 거의 파괴 불가능한 것으로 보입니다. 이걸로 갑옷이나 무기를 만든다면, 정말 대단한 업적이 될 겁니다.
+/arcana_radiomessage_pickup_superstormEPP/text
+  EN: Congratulations on enhancing your equipment. Should you require even further upgrade to your EPP, you're likely to find the proper upgrade material on ^orange;Timeless Planets^reset;, found in Superstorm Stars.
+  KO: 장비 강화 축하합니다. EPP를 더 업그레이드해야 한다면 슈퍼스톰 별에서 찾을 수 있는 ^orange;시간 없는 행성^reset;에서 적절한 업그레이드 재료를 찾을 수 있을 겁니다.
+/arcana_radiomessage_pickup_workbench_3_portable/text
+  EN: A portable furnishing station! What a marvelous piece of technology.
+  KO: 휴대용 가구 제작기라니! 정말 놀라운 기술이군!
+
+===== /radiomessages/arcana_radiomessage_tech.radiomessages.patch =====
+/arcana_radiomessage_tech_duplicate/text
+  EN: You already have access to this tech.
+  KO: 이 테크에는 이미 접근 권한이 있어.
+/arcana_radiomessage_tech_new/text
+  EN: ^orange;A new tech has been aquired!^reset; You can equip it at any Tech Console.
+  KO: ^orange;새 기술을 획득했다!^reset; 어느 기술 콘솔에서나 장착할 수 있다.
+
+===== /radiomessages/atprk_planetpincomments.radiomessages.patch =====
+/atprk_planetpincomment_alien1/text
+  EN: Curious. I see you have visited one of those crazy pink planets. Everyone I've ever met calls them ^#7800ff;alien^white; for some reason.
+  KO: 궁금함. 저 미친 분홍색 행성 중 하나를 다녀왔나 보네요. 제가 만나본 사람들은 다들 이유는 모르겠지만 저걸 ^#7800ff;에일리언^white;이라고 부르더라고요.
+/atprk_planetpincomment_alien2/text
+  EN: Informed. I mean... All exoplanets are technically alien. Whoever came up with this classification didn't think it through.
+  KO: 정통. 그러니까... 모든 외계 행성은 기술적으로 다 외계잖아. 이 분류를 만든 사람은 별생각이 없었나 봐.
+/atprk_planetpincomment_alien3/senderName
+  EN: Libra Eclipse
+  KO: 리브라 이클립스
+/atprk_planetpincomment_alien3/text
+  EN: Aw c'mon Starklance, don't be a bore! They do look alien!
+  KO: 아 왜 그래 스타크랜스, 재미없게 굴지 마! 걔네 진짜 외계인처럼 생겼잖아!
+/atprk_planetpincomment_alien4/text
+  EN: Unfazed. I guess? My point still stands though.
+  KO: 동요 없음. 내 말인데? 어쨌든 내 요점은 변하지 않아.
+/atprk_planetpincomment_arctic1/text
+  EN: Dismissive. There is a good reason not even the Hylotl bother settling on ^#00ffe4;arctic^white; planets.
+  KO: 무시. 하이로틀조차 ^#00ffe4;극지^white; 행성에 정착하지 않는 데는 다 그럴 만한 이유가 있어요.
+/atprk_planetpincomment_arctic2/senderName
+  EN: Libra Eclipse
+  KO: 리브라 이클립스
+/atprk_planetpincomment_arctic2/text
+  EN: Sigh... Lemme guess. Havin' to deal with little land n' frigid climate?
+  KO: 휴... 맞혀볼게. 좁은 땅이랑 혹한 기후 때문에 고생 중이지?
+/atprk_planetpincomment_arctic3/text
+  EN: Indignant. Exactly! On top of that, have you ever seen a Muckfang? They make an already awful planet type much worse.
+  KO: 분개. 맞아! 게다가, 머크팽 본 적 있어? 그것들 때문에 안 그래도 끔찍한 행성 종류가 훨씬 더 나빠져.
+/atprk_planetpincomment_arid1/text
+  EN: Analytical. The first planet found in the Sector X is... Confused. Barren again? I'm sure it was labelled as ^#d0b469;arid^white; instead! Let me check once more.
+  KO: 분석적. X 구역에서 발견된 첫 번째 행성은... 혼란스럽다. 또 불모지라고? 분명 ^#d0b469;건조지대^white;로 표기되어 있었는데! 다시 한번 확인해보겠다.
+/atprk_planetpincomment_arid2/text
+  EN: Unimpressed. Oh well. It seems that arid planets are slightly more habitable than barren ones but otherwise they're identical.
+  KO: 별 감흥 없음. 뭐 그래. 건조 행성이 황무지보다 조금 더 살기 좋은 것 같지만 그 외엔 똑같다.
+/atprk_planetpincomment_ashy1/text
+  EN: Curious. So how is it on ^#ffc053;ashy^white; planets these days? Still overrun by the Glitch Devouts, I suppose?
+  KO: 궁금함. 요즘 ^#ffc053;재로 뒤덮인^white; 행성들은 어때? 아직도 글리치 신도들이 들끓겠지?
+/atprk_planetpincomment_ashy2/text
+  EN: Pensive. There was a time in my life when I believed them not to be militant but misunderstood. I even attempted to reach out once.
+  KO: 생각에 잠김. 내 인생에서 그들이 호전적인 게 아니라 그저 오해받고 있다고 믿었던 시절이 있었어. 한번은 손을 내밀어보려고도 했지.
+/atprk_planetpincomment_ashy3/text
+  EN: Ominous. I know better now.
+  KO: 불길하네. 이제 좀 알겠어.
+/atprk_planetpincomment_asteroid1/text
+  EN: Baffled. I've found a strange ^#d7711e;asteroid^white; formation in Sector X. They are not aligned in a belt but rather a sphere. Are they orbiting something massive?
+  KO: 당혹함. 섹터 X에서 이상한 ^#d7711e;소행성^white; 배열을 발견했다. 띠 형태가 아니라 구 형태로 정렬되어 있다. 거대한 무언가를 공전하고 있는 건가?
+/atprk_planetpincomment_barren1/text
+  EN: Aloof. There is nothing notable about ^#999966;barren^white; planets. No natural resources, no water, no flora. It's not even populated by robots.
+  KO: 무관심. ^#999966;불모^white; 행성에는 특별할 게 없다. 천연자원도, 물도, 식물도 없다. 로봇조차 살지 않는다.
+/atprk_planetpincomment_boiling1/text
+  EN: Impressed. So you have explored a ^#837ad7;boiling^white; planet after all. I keep hearing about such places yet I've never set foot there before.
+  KO: 감명. 그러니까 ^#837ad7;끓어오르는^white; 행성도 탐사해본 거네. 그런 곳 얘긴 많이 들었지만 나는 한 번도 가본 적이 없어.
+/atprk_planetpincomment_boiling2/text
+  EN: Sneering. I hope you're ready to get bombarded with questions about your journey. Libra sure will ask a lot of them.
+  KO: 비웃음. 네 여정에 대한 질문 세례를 받을 준비가 됐길 바라. 리브라가 확실히 많이 물어볼 테니까.
+/atprk_planetpincomment_boiling3/senderName
+  EN: Libra Eclipse
+  KO: 리브라 이클립스
+/atprk_planetpincomment_boiling3/text
+  EN: No, I won't! |   | Well, just a little bit if you don't mind.
+  KO: 아니, 안 할 거야! |  | 음, 네가 괜찮다면 아주 조금은.
+/atprk_planetpincomment_chthonianmoon1/text
+  EN: Knowledgeable. Sometimes a misplaced gas giant core and a little bit of asteroids make a ^#68878e;chthonian^white; moon.
+  KO: 박식함. 때로는 제자리를 벗어난 가스 행성의 핵과 약간의 소행성이 모이면 ^#68878e;크토니안^white; 위성이 만들어지지.
+/atprk_planetpincomment_chthonianmoon2/text
+  EN: Thoughtful. You don't see those very often but they do give you an insight into what gas giants are like beneath the dense clouds.
+  KO: 곰곰이. 이런 건 자주 보기 힘들지만, 짙은 구름 아래 가스 거성이 어떤지 통찰을 주지.
+/atprk_planetpincomment_desert1/text
+  EN: Knowledgeable. Just so you know, not all ^#e6c801;deserts^white; are hot. You can also find cold ones out there.
+  KO: 박식함. 참고로, 모든 ^#e6c801;사막^white;이 다 더운 건 아니야. 추운 사막도 있거든.
+/atprk_planetpincomment_desert2/senderName
+  EN: Libra Eclipse
+  KO: 리브라 이클립스
+/atprk_planetpincomment_desert2/text
+  EN: Not sure what you're talkin' about. Every desert planet I've seen so far was quite hot and full of sand.
+  KO: 무슨 얘긴지 잘 모르겠어. 지금까지 내가 본 사막 행성은 죄다 꽤 덥고 모래투성이였는데.
+/atprk_planetpincomment_desert3/text
+  EN: Witty. Just because your SAIL chooses to call only one planet type a desert doesn't mean there aren't more. Some of them are hidden in plain sight.
+  KO: 재치. 네 세일이 사막이라고 부르는 행성 유형이 하나뿐이라고 해서 더 없는 건 아니야. 어떤 건 눈앞에 숨어 있어.
+/atprk_planetpincomment_forest1/text
+  EN: Neutral. ^#15ce02;Forest^white; planets are pretty common around gentle stars. I suppose a star of any other type would either overheat or freeze them.
+  KO: 중립적. ^#15ce02;숲^white; 행성은 온화한 항성 주변에서 꽤 흔하다. 다른 종류의 항성이라면 그걸 과열시키거나 얼려버릴 것 같다.
+/atprk_planetpincomment_forest2/text
+  EN: Cordial. As a side note, those planets are perfect for hiking. Peeved. Well, as long as you don't run into rabid hunters, that is.
+  KO: 친절. 덧붙이면 그 행성들은 하이킹에 완벽합니다. 짜증. 뭐, 광포한 사냥꾼과 마주치지만 않는다면요.
+/atprk_planetpincomment_garden1/text
+  EN: Cordial. ^#76fe68;Lush^white; planets may not be particularly impressive, I know. But you can't deny they're quite peaceful.
+  KO: 친절. ^#76fe68;무성한^white; 행성이 특별히 인상적이지 않을 수는 있죠. 하지만 꽤 평화롭다는 건 부정할 수 없습니다.
+/atprk_planetpincomment_garden2/text
+  EN: Thoughtful. In fact, the Ancients choosing them over any other planets to build their mysterious gates on is quite telling.
+  KO: 곰곰이. 사실 고대인이 다른 어떤 행성보다 그들을 골라 신비한 관문을 지었다는 건 꽤 시사하는 바가 있다.
+/atprk_planetpincomment_jungle1/senderName
+  EN: Libra Eclipse
+  KO: 리브라 이클립스
+/atprk_planetpincomment_jungle1/text
+  EN: What I absolutely love about ^#12a003;jungles^white; is how they're teemin' with diverse plant life.
+  KO: ^#12a003;정글^white;에서 내가 가장 좋아하는 건 다양한 식물들이 우글우글 넘쳐난다는 거야.
+/atprk_planetpincomment_jungle2/text
+  EN: Irked. And overgrown Poptops out for your blood.
+  KO: 짜증. 그리고 웃자란 팝톱들이 네 피를 노리고 있고.
+/atprk_planetpincomment_jungle3/senderName
+  EN: Libra Eclipse
+  KO: 리브라 이클립스
+/atprk_planetpincomment_jungle3/text
+  EN: Well, it's not like they can run very fast, y'know. Remember their stubby legs?
+  KO: 글쎄, 그들이 빨리 달릴 수 있는 것도 아니잖아, 알지? 그 뭉툭한 다리들 기억하지?
+/atprk_planetpincomment_magma1/text
+  EN: Informed. For ages it was believed that ^#ff1818;lava^white; planets were nests for cosmic dragons... Until it was proven that cosmic dragons were just a myth.
+  KO: 정통. 오랫동안 ^#ff1818;용암^white; 행성은 우주 드래곤의 둥지라고 믿어져 왔어... 우주 드래곤이 그저 신화에 불과하다는 게 증명되기 전까지는.
+/atprk_planetpincomment_magma2/text
+  EN: Informed. Nowadays people only ever go there to catch fireproof fish. Some fools still hope to discover dragons though.
+  KO: 정통. 요즘은 다들 그저 불연성 물고기를 잡으러 그곳에 가. 그래도 몇몇 바보들은 아직도 드래곤을 발견하길 바라지.
+/atprk_planetpincomment_midnight1/text
+  EN: Uneasy. The lands of eternal ^#e11212;midnight^white; have always rubbed me the wrong way. I'm not superstitious but there is just something... wrong with them.
+  KO: 불안하다. 영원한 ^#e11212;한밤중^white;의 땅은 언제나 나를 거슬리게 했다. 미신을 믿는 건 아니지만 뭔가가... 잘못됐어.
+/atprk_planetpincomment_midnight2/text
+  EN: You ain't the first one t' notice this, my friend. Midnight planets have always had a special place in many religions.
+  KO: 이걸 처음 알아차린 게 아니야, 친구. 한밤 행성들은 항상 많은 종교에서 특별한 자리를 차지해왔어.
+/atprk_planetpincomment_midnight3/text
+  EN: Disturbed. Yes, I'm aware. And that fact doesn't help my feelings, really.
+  KO: 동요. 그래, 나도 알아. 그리고 그 사실이 딱히 내 기분을 나아지게 하진 않아, 정말로.
+/atprk_planetpincomment_moon1/text
+  EN: Uneasy. One shudders to imagine what ^#949493;lunar^white; miners have to go through just to let us chart the stars...
+  KO: 불안하다. ^#949493;루나^white; 광부들이 우리가 별을 측량할 수 있게 겪어야 하는 일을 상상하니 소름이 끼친다...
+/atprk_planetpincomment_moon2/text
+  EN: Dumbfounded. Wait, what do you mean you have to put up with this on daily basis?
+  KO: 어안이 벙벙하다. 잠깐, 매일 이런 걸 감당해야 한다는 게 무슨 소리야?
+/atprk_planetpincomment_ocean1/text
+  EN: Annoyed. The ^#008aff;oceanic^white; worlds are always tricky to land on. The small islands are too far apart from each other.
+  KO: 짜증남. ^#008aff;해양^white; 세계는 항상 착륙하기가 까다로워. 작은 섬들이 서로 너무 멀리 떨어져 있거든.
+/atprk_planetpincomment_ocean2/senderName
+  EN: Libra Eclipse
+  KO: 리브라 이클립스
+/atprk_planetpincomment_ocean2/text
+  EN: You gotta admit they are quite romantic though, especially in the evening!
+  KO: 그래도 꽤 로맨틱하다는 건 인정해야지, 특히 저녁엔!
+/atprk_planetpincomment_ocean3/text
+  EN: Unimpressed. Well yes, they are. It doesn't negate the fact that they are also painfully inconvenient in many ways.
+  KO: 별 감흥 없음. 글쎄, 그렇긴 하지. 하지만 여러모로 따분하게 불편하다는 사실이 달라지진 않아.
+/atprk_planetpincomment_ocean4/senderName
+  EN: Libra Eclipse
+  KO: 리브라 이클립스
+/atprk_planetpincomment_ocean4/text
+  EN: Sorry about that, he's only angry 'cause he can't swim well.
+  KO: 그건 미안해, 쟤는 수영을 잘 못해서 화난 것뿐이야.
+/atprk_planetpincomment_ruin1/text
+  EN: Shocked. Hold on, what?! I swear this planet wasn't ^#641929;ruined^white; before!
+  KO: 충격받음. 잠깐, 뭐라고?! 분명 이 행성은 전에 ^#641929;폐허^white;가 아니었는데!
+/atprk_planetpincomment_ruin2/text
+  EN: Suspicious. This can't be right.
+  KO: 수상하다. 이럴 리가 없어.
+/atprk_planetpincomment_savannah1/text
+  EN: Disinterested. ^#ffe21d;Savannah^white; planets are not exactly my favorite. They are dry and dusty most of the year, and there's hardly any rain.
+  KO: 무관심. ^#ffe21d;사바나^white; 행성은 딱히 제 취향이 아니에요. 일 년 대부분 건조하고 먼지투성이인 데다, 비도 거의 안 오죠.
+/atprk_planetpincomment_savannah2/text
+  EN: Insightful. On the other hand, Currentcorn grows best in those conditions.
+  KO: 통찰력 있긴. 반면, 커런트콘은 그런 조건에서 가장 잘 자라.
+/atprk_planetpincomment_scorched1/text
+  EN: Thoughtful. Given all their former glory, it's a mystery how the denizens of ^#b24301;scorched^white; planets can't make a comeback to the galactic stage.
+  KO: 곰곰이. 저 영광에 비추어 보면, ^#b24301;불탄^white; 행성의 주민들이 왜 은하 무대로 복귀하지 못하는지 미스터리다.
+/atprk_planetpincomment_scorched2/text
+  EN: Says the dude whose people can't get over shields, swords and literal witch-hunting.
+  KO: 방패랑 검, 그리고 진짜 마녀사냥에서 못 벗어나는 종족 주제에 할 말은 아니지.
+/atprk_planetpincomment_scorched3/text
+  EN: Peeved. Touche, Jade.
+  KO: 짜증남. 인정한다, 제이드.
+/atprk_planetpincomment_snow1/text
+  EN: Nostalgic. My hometown is on one of those ^#69f1fd;snowy^white; planets. I haven't been there in ages...
+  KO: 향수에 잠김. 내 고향은 저 ^#69f1fd;눈 덮인^white; 행성 중 하나에 있어. 거기 안 가본 지 한참 됐네...
+/atprk_planetpincomment_snow2/text
+  EN: Resentful. However, I definitely don't miss explaining to the countryfolk why planets are not just flat circles in the sky. Every. Single. Time.
+  KO: 분개함. 하지만 시골 사람들한테 행성이 그냥 하늘에 떠 있는 납작한 원반이 아니라고 설명해줘야 하는 건 하나도 그립지 않아. 매. 번. 마다.
+/atprk_planetpincomment_snow3/text
+  EN: Irked. And I know that not all Glitch are well-educated but this really gets ridiculous at times! Who in their right mind believes in giant space turtles?
+  KO: 짜증. 모든 글리치가 다 배운 건 아니라는 건 알지만 이건 가끔 너무 어이없다니까! 대체 어떤 정신 나간 놈이 우주 거북이를 믿는 거야?
+/atprk_planetpincomment_tentacle1/text
+  EN: Puzzled. Now this is something unusual. The surface of ^#c555c1;tentacle^white; planets are comprised entirely of corrupted soil and - you guessed it - living tentacles.
+  KO: 당황함. 이건 좀 특이하네요. ^#c555c1;촉수^white; 행성의 표면은 전부 오염된 토양과 - 짐작하셨겠지만 - 살아있는 촉수로 이루어져 있어요.
+/atprk_planetpincomment_tentacle2/text
+  EN: Disturbed. Come to think of it, this sounds alarmingly familiar...
+  KO: 동요. 생각해보니, 이거 소름 끼치도록 익숙한 이야기인데...
+/atprk_planetpincomment_toxic1/text
+  EN: Uncertain. I have no idea whether ^#06ff00;toxic^white; planets are like this naturally or if they were polluted by greedy industrialists.
+  KO: 불확실. ^#06ff00;독성^white; 행성이 원래 이런 건지, 아니면 욕심 많은 산업가들에 의해 오염된 건지 모르겠다.
+/atprk_planetpincomment_toxic2/text
+  EN: Thoughtful. The better question is why any sane person would willingly land there, let alone go fishing.
+  KO: 곰곰이. 더 나은 질문은 제정신인 사람이 왜 굳이 거기에 착륙하는가 — 낚시는커녕 말이다.
+/atprk_planetpincomment_tundra1/text
+  EN: Wary. Cold and unforgiving, ^#61ffe3;tundras^white; are not exactly welcoming. Great care should be taken when one ventures there.
+  KO: 경계. 차갑고 매정한 ^#61ffe3;툰드라^white;는 그다지 반갑지 않은 곳이다. 그곳에 모험을 가는 이는 각별한 주의가 필요하다.
+/atprk_planetpincomment_tundra2/text
+  EN: Wary. On top of that, many tundra planets are occupied by Miniknog forces which is unfortunate, to put it mildly.
+  KO: 경계. 게다가 많은 툰드라 행성은 미니크녹 군대가 점령하고 있는데, 완곡하게 말해 유감스러운 일이다.
+/atprk_planetpincomment_volcanic1/text
+  EN: Proud. As harsh as ^#e11212;volcanic^white; planets are, they are also home to many charismatic kings, noble knights and poets of great renown.
+  KO: 자부심 넘침. ^#e11212;화산^white; 행성들은 가혹하지만, 카리스마 넘치는 왕들과 고귀한 기사들, 명성 높은 시인들의 고향이기도 합니다.
+/atprk_planetpincomment_volcanic2/senderName
+  EN: Libra Eclipse
+  KO: 리브라 이클립스
+/atprk_planetpincomment_volcanic2/text
+  EN: So, any particular reason the Glitch are so obsessed with hot places?
+  KO: 그래서, 글리치가 더운 곳에 그렇게 집착하는 특별한 이유라도 있어?
+/atprk_planetpincomment_volcanic3/text
+  EN: Humorous. How would I know? For your information, I was born on a cold planet!
+  KO: 재밌음. 내가 어떻게 알아? 참고로, 나는 추운 행성에서 태어났다고!
+
+===== /radiomessages/ffs_radiomessages.radiomessages.patch =====
+/ffs0_0_0/text
+  EN: ^red;Welcome to Feast of Fire and Smoke.  | ^white;I am 1-Y3TZ1, survival system A.I. of drop pod. | Checking vital sign.. Clear.  | Checking equipments.. Insufficient. | ^green;Move to downstairs.
+  KO: ^red;불과 연기의 연회에 온 것을 환영한다.  | ^white;나는 1-Y3TZ1, 탈출 포드의 생존 시스템 A.I.다. | 생체 신호 확인 중.. 정상.  | 장비 확인 중.. 불충분. | ^green;아래층으로 이동하라.
+/ffs0_0_1/text
+  EN: ^green;Check cabinet for finding equipments. | ^white;Finding life sign of this area.. | Objective is renewed. | Search and rescue the survivors. | ^green;When you finish armed, go east from here.
+  KO: ^green;장비를 찾으려면 사물함을 확인하세요. | ^white;이 구역의 생명 반응 탐색 중.. | 목표가 갱신됐다. | 생존자를 수색하고 구출하라. | ^green;무장이 끝나면 여기서 동쪽으로 이동하라.
+/ffs0_0_2/text
+  EN: Good luck out there.
+  KO: 밖에서 행운을 빌어.
+/ffs0_0_3/text
+  EN: Scanning. This child appears to be a survivor.  | Tactical Assessment: Talk to the child.
+  KO: 스캔 중. 이 아이는 생존자로 보인다.  | 전술 평가: 아이에게 말을 건다.
+/ffs0_0_4/text
+  EN: I suggest you investigate this area. | ^green;Hint : Use your interact key (default 'E') to interact objects.
+  KO: 이 지역을 조사하는 게 좋을 것 같아. | ^green;힌트: 상호작용 키(기본값 'E')로 물체와 상호작용하세요.
+/ffs0_0_5/text
+  EN: When you are done inspecting the scene, you should continue forward. | ^green;Tactical Assessment: Use interact key to interact the blue arrow and proceed to the next area.
+  KO: 현장 조사가 끝나면, 앞으로 계속 진행하면 돼. | ^green;전술 평가: 상호작용 키로 푸른 화살표를 작동시키고 다음 구역으로 진행하세요.
+/ffs0_1_1/text
+  EN: ^green;+Hint. When you're using F.F.S weapons, | ^white;Energy = ^green;Magazine | ^white;Left mouse button : ^green;Fire | ^white;Right mouse button : ^green;Reload | ^red;Regenerating energy ^white;will cause ^red;malfunction.
+  KO: ^green;+힌트. F.F.S 무기를 쓸 때는, | ^white;에너지 = ^green;탄창 | ^white;왼쪽 마우스 버튼 : ^green;발사 | ^white;오른쪽 마우스 버튼 : ^green;재장전 | ^red;에너지를 재생^white;하면 ^red;오작동이 발생한다.
+/ffs0_1_1a/text
+  EN: ^red;Be especially weary of mod item energy effects, | ^red;such as but not limited to: | ^red;Technomancer/wizard's shield. Certain Frackin items. 
+  KO: ^red;모드 아이템의 에너지 효과에 특히 주의할 것, | ^red;예를 들면(이에 한정되지 않음): | ^red;테크노맨서/마법사의 방패. 일부 프랙킨 아이템.
+/ffs0_1_2/text
+  EN: This way! I can help you. You can count on me! | If you are unable to fight, I'll bring you here to heal your wound. | ^green;Hint. This kid supports you at checkpoints.
+  KO: 이쪽이야! 내가 도와줄 수 있어. 나를 믿어도 돼! | 싸울 수 없게 되면 여기로 데려와 상처를 치료해 주마. | ^green;힌트. 이 아이는 체크포인트에서 너를 지원한다.
+/ffs0_1_3/text
+  EN: ''Enemies ahead.'' | ^red;''Watch out, sniper!'' | ^green;Hint.The sniper's shot delay is long. | Move and cover yourself with two or more stacked blocks.
+  KO: ''전방에 적.'' | ^red;''조심해, 저격수다!'' | ^green;힌트. 저격수는 사격 지연이 길다. | 이동하면서 두 칸 이상 쌓은 블록 뒤에 몸을 숨기자.
+/ffs0_1_4/text
+  EN: ^green;Hint.Pirates don't have touch damage. | You can pass through them, but becareful.  | ^red;They have melee weapon. | ^green;Use your sidearm wisely.
+  KO: ^green;힌트. 해적은 접촉 피해가 없다. | 해적을 통과해 지나갈 수 있지만 조심해.  | ^red;근접 무기를 들고 있으니까. | ^green;권총을 현명하게 써라.
+/ffs0_1_6/text
+  EN: Analysis indicates that this elevator connects to the basement.
+  KO: 분석 결과 이 엘리베이터는 지하실로 연결됩니다.
+/ffs0_2_1/text
+  EN: So, where is next?
+  KO: 그래서, 다음은 어디야?
+/ffs0_2_2/text
+  EN: Alert: This passage does not show up on scanners. Proceed with caution..
+  KO: 경보: 이 통로는 스캐너에 나타나지 않습니다. 주의하며 진행하세요..
+/ffs0_2_3/text
+  EN: Scans indicate a fake wall here. | ^green;Suggestion: use 'E' key to open it.
+  KO: 스캔 결과 이곳에 가짜 벽이 있는 것으로 나타났다. | ^green;제안: 'E' 키를 사용해 열어라.
+/ffs0_2_4/text
+  EN: (I will shorten this segment)
+  KO: (이 부분은 줄일 예정)
+/ffs0_2_5/text
+  EN: Unknown auditory signature detected.
+  KO: 알 수 없는 청각 신호 감지.
+/ffs0_2_6/text
+  EN: Warning: We are now out of auditory range of Chicha. Proceed with caution.
+  KO: 경고: 이제 치차의 청각 범위를 벗어났다. 주의해서 진행하라.
+/ffs0_2_7/text
+  EN: Warning Agent, this door does not conform to the laws of physics. | High probablilty that its destination will take you somewhere dangerous. | ^green;Hint. You can't retreat or use checkpoints in hidden dungeon. | ^red;Challenge it carefully.
+  KO: 경고, 요원. 이 문은 물리 법칙을 따르지 않는다. | 목적지가 위험한 곳일 확률이 높다. | ^green;힌트. 숨겨진 던전에서는 후퇴나 체크포인트를 쓸 수 없다. | ^red;신중하게 도전하라.
+/ffs0_3_1/text
+  EN: Here is 1st basement of the abandoned mine. | We have to check sector 01 first. | You can find it from deepest area of the west. | As far as i know, pirates are using it as a barracks. | Please be careful.
+  KO: 여기가 버려진 광산의 1층 지하실입니다. | 먼저 01구역을 확인해야 합니다. | 서쪽 가장 깊은 구역에서 찾을 수 있습니다. | 제가 아는 한, 해적들이 이곳을 막사로 쓰고 있습니다. | 부디 조심하세요.
+/ffs0_3_12/text
+  EN: Scan complete. SRS member wallace. Status: Deceased. Caution: One signature detected in the room. 
+  KO: 스캔 완료. SRS 소속 월리스. 상태: 사망. 주의: 방 안에서 신호 1개 감지됨.
+/ffs0_3_13/text
+  EN: Reminder: pick up Wallace's ID card. You will require it as proof of his demise.
+  KO: 주의: 월레스의 신분증을 챙기세요. 그의 죽음을 증명하는 데 필요합니다.
+/ffs0_3_2/text
+  EN: Current objective: Find any survivors.
+  KO: 현재 목표: 생존자를 찾아라.
+/ffs0_3_3/text
+  EN: Scans indicate no other lifeforms in this room. Suggest you depart immediately. | Be advised: the lever in this room has a high probabilty of opening an exit.
+  KO: 스캔 결과 이 방에는 다른 생명체가 없는 것으로 나타났다. 즉시 떠날 것을 제안한다. | 참고: 이 방의 레버는 출구를 열 가능성이 높다.
+/ffs0_3_4/text
+  EN: This small passage seems to have opened with the lever. Scans indicate another passage has opened.  | Advise you continue your search there.
+  KO: 이 작은 통로는 레버로 열린 듯하다. 스캔상 다른 통로도 열렸다고 한다.  | 그쪽에서 수색을 계속하는 걸 권한다.
+/ffs0_3_5/text
+  EN: Detecting multiple human lifeforms in the passage below. Proceed with caution.
+  KO: 아래 통로에서 다수의 인간 생명체 감지. 주의해서 진행하십시오.
+/ffs0_3_6/text
+  EN: Nobody..?  | Ok, next is 02 sector. | I've never been here before. | But I overheard the pirates say they dumped some bodies here. | Let's hope that's not true...
+  KO: 아무도 없나..? | 좋아, 다음은 02구역이다. | 여긴 한 번도 와본 적 없어. | 근데 해적들이 시체를 여기다 버렸다고 하는 걸 들었어. | 그게 사실이 아니길 바라야지...
+/ffs0_3_7/text
+  EN: Be careful! | I saw something in the dark!
+  KO: 조심하세요! | 어둠 속에서 뭔가를 봤어요!
+/ffs0_3_8/text
+  EN: Be advised: Sector 03 access has been opened. Detecting one human signature. Unable to accertain identity...
+  KO: 알림: 섹터 03 접근이 개방되었습니다. 인간 신호 하나 감지. 신원을 확인할 수 없습니다...
+/ffs0_3_9/text
+  EN: Uh... I found a hidden passage, but I'm getting a bad vibe from this place. | Wait, did you hear that? I heard a scream... | I'll use the vent. Meet me upper stairs.
+  KO: 음... 숨겨진 통로를 찾았는데, 이곳에서 좋지 않은 기운이 느껴져. | 잠깐, 지금 소리 들었어? 비명 소리가 들렸는데... | 난 환풍구로 갈게. 위층 계단에서 만나자.
+/ffs0_3_boss/senderName
+  EN: Big eye
+  KO: 큰 눈
+/ffs0_3_boss/text
+  EN: ^#7c7c7c;So do not fear for i am with you. | do not be dismayed, for I am your God. | I will strengthen you and help you. | ^white;I will uphold you with my righteous right hand! | ^red;GET BEHIND ME, SATAN!
+  KO: ^#7c7c7c;그러니 두려워하지 마라, 내가 너와 함께한다. | 낙심하지 마라, 내가 너의 신이니. | 내가 너를 강하게 하고 도우리라. | ^white;내 의로운 오른손으로 너를 붙들리라! | ^red;내 뒤로 물러가라, 사탄아!
+/ffs0_4_1/text
+  EN: Psst, I'm here, in the vent. Listen, I won't go out of here. | Let's split up and gather some information. | This sector is close to pirate's HQ. | So, try to avoid the enemy please. | ^red;Warning. ^red;Checkpoint unavailable.
+  KO: 쉿, 나 여기 있어, 통풍구 안에. 잘 들어, 난 여기서 안 나갈 거야. | 흩어져서 정보를 좀 모으자. | 이 구역은 해적 본부와 가까워. | 그러니까 부디 적을 피하도록 해. | ^red;경고. ^red;체크포인트를 사용할 수 없음.
+/ffs0_4_10/text
+  EN: Warning, Agent: You appear to have triggered an Alarm. | Detecting multiple hostile pirate signatures. | You must escape the hallway before they find you.
+  KO: 경고, 요원: 경보를 울린 것 같다. | 복수의 적대 해적 신호 감지. | 그들이 찾기 전에 복도를 탈출해야 한다.
+/ffs0_4_11/text
+  EN: Hey! Are you ok? | I'm here! over at the left door!
+  KO: 이봐! 괜찮아? | 나 여기 있어! 왼쪽 문 쪽이야!
+/ffs0_4_12/text
+  EN: The refrigerated storage for the restaurant is here. | I don't think survivors are here, but... | ..Anyway, good luck. | I have to move to another vent. It's so cold here.
+  KO: 식당의 냉장 창고가 여기 있어. | 생존자는 없을 것 같지만... | ..어쨌든 행운을 빌어. | 다른 환기구로 이동해야겠어. 여기는 너무 추워.
+/ffs0_4_13/text
+  EN: Mission update: No survivors in this location. | Misson accolate protocol: I am sorry you had to see this, Agent.  | Mission update: take the card. Chicia can take it to their next of kin.
+  KO: 임무 업데이트: 이 위치에는 생존자가 없다. | 임무 관례 안내: 이런 걸 보게 해서 유감이다, 요원. | 임무 업데이트: 카드를 챙겨라. 치시아가 그것을 유족에게 전달할 수 있다.
+/ffs0_4_2/text
+  EN: Warning Agent: Overhwelming human signatures detected. | ^red;Tactical Advice: Go the other way. | ^green;There should be another way west of your location.
+  KO: 경고, 요원: 압도적인 인간 신호 감지. | ^red;전술 조언: 다른 쪽으로 가라. | ^green;현재 위치 서쪽에 다른 길이 있을 것이다.
+/ffs0_4_3/text
+  EN: Mission update: this door is locked. | Chance of successful breaching via current armament: ^red;zero percent.
+  KO: 임무 업데이트: 이 문은 잠겨 있다. | 현재 무장으로 성공적으로 돌파할 확률: ^red;0퍼센트.
+/ffs0_4_4/text
+  EN: (I took this out because it's dumb).
+  KO: (바보 같아서 뺐다).
+/ffs0_4_5/text
+  EN: ^green;(no).
+  KO: ^green;(안 돼).
+/ffs0_4_6/text
+  EN: Caution: lifesigns detected ahead. Luckily, they have no way of detecting you. | Tactical advice: You may listen in on their conversations.
+  KO: 주의: 전방에서 생명 반응 감지됨. 다행히 그들에겐 당신을 감지할 방법이 없다. | 전술 조언: 그들의 대화를 도청해도 좋다.
+/ffs0_4_7/text
+  EN: ..Did you see that? | The chef went crazy! Chopped up the hostages we had! | Ugh... not eatting that. | At least we have a good supply of MRES.  | They suck, but it's better than than... that.
+  KO: ..그거 봤어? | 요리사가 미쳐 버렸어! 우리가 잡아 둔 인질들을 토막 냈다고! | 으... 그건 안 먹을래. | 그래도 전투식량은 넉넉하니까. | 맛은 없지만, 그... 그거보단 낫지.
+/ffs0_4_8/text
+  EN: We lost control of the Elevators. | Worse, there's no stairs in this goddamn tunnel! | How the hell are we supposed to get out now?! | Why are we even down here in the first place?!
+  KO: 우리는 엘리베이터 제어권을 잃었어. | 더 나쁜 건, 이 빌어먹을 터널엔 계단도 없다고! | 이제 어떻게 나가라는 거야?! | 애초에 우리가 왜 여기 밑에 있는 거야?!
+/ffs0_4_9/text
+  EN: Did you hear what Big Eye said yesterday? | He thinks that somewhere in this mine, | There's an evil demon lurking! | HAHAHA...ha...You got to be kidding me. | What a lunatic.
+  KO: 어제 빅 아이가 한 말 들었어? | 이 광산 어딘가에 | 사악한 악마가 숨어있다고 생각하더라고! | 하하하...하...말도 안 되는 소리지. | 완전 미친놈이라니까.
+/ffs0_4_9_2/text
+  EN: These two pirates block the way. | Tactical advice: Kill them.
+  KO: 이 해적 둘이 길을 막고 있다. | 전술 조언: 처치할 것.
+/ffs0_4_boss/text
+  EN: ^#7c7c7c;Ah.. There you are. | You are an evil person, you know that? | ... I wonder how evil tastes? | Can you cook it in a dish? | ^red;Let's find out!!
+  KO: ^#7c7c7c;아.. 거기 있었구나. | 넌 악한 사람이야, 알고 있지? | ... 악은 무슨 맛일까 궁금하네? | 요리로 만들 수 있을까? | ^red;확인해 보자!!
+/ffs0_5_1/text
+  EN: Psst, Hey! | I found a survivor that isn't part of the crew, but he is badly injured. | I have to go for him, so... I can't follow you. | Here, Take this. I hope this will help you.  | ^red;Warning. ^red;Checkpoint unavailable.
+  KO: 쉿, 이봐! | 승무원이 아닌 생존자를 발견했는데, 심하게 다쳤어. | 그를 구하러 가야 해서... 널 따라갈 수가 없어. | 자, 이거 받아. 도움이 됐으면 좋겠어.  | ^red;경고. ^red;체크포인트를 사용할 수 없음.
+/ffs0_5_10/text
+  EN: Aaaaaaaaaaaaargh!! | YOU ARE A DEAD MAN! | ARE YOU HEAR ME?! | I'M GONNA RIP YOU TO SHREDS!!! | SEND IN THE ARMORED TROOPS!!
+  KO: 아아아아아아아악!! | 넌 죽은 목숨이야! | 내 말 들려?! | 갈기갈기 찢어버리겠어!! | 무장 부대를 투입하라!!
+/ffs0_5_11/text
+  EN: New signatures detected.  | ^green;Hint. | Armored troopers have bullet proof armor. | Throw molotovs at troopers.
+  KO: 새로운 신호 감지됨. | ^green;힌트. | 중무장 병사는 방탄 갑옷을 착용하고 있다. | 병사들에게 몰로토프 칵테일을 던져라.
+/ffs0_5_12/text
+  EN: Armored troops have arrived, sir! | Engaging the hostile!
+  KO: 장갑 부대가 도착했습니다, 대장님! | 적과 교전합니다!
+/ffs0_5_13/text
+  EN: Hey! You got here. | Don't worry about him. | I can handle it. | Go ahead, I'll follow you later. | HEY! Don't move, papa!
+  KO: 이봐! 여기 왔구나. | 저 사람 걱정 마. | 내가 처리할 수 있어. | 먼저 가, 나중에 따라갈게. | 이봐! 움직이지 마, 아빠!
+/ffs0_5_14/text
+  EN: Chiquita, Non sono tuo padre! | Arrrgh!  | Maledizione! | Fa male! Smettila!
+  KO: 치키타, 나는 네 아버지가 아니야! | 으아아악!  | 젠장! | 아파! 그만해!
+/ffs0_5_15/text
+  EN: Oh quiet you. Stop acting like a big baby. | Or else I'll jab this needle into your arm. | (*Screaming*) | Anyway, head to the 4th basement. | Papa says there is an armory there.
+  KO: 오 조용히 해. 어린애처럼 굴지 마. | 안 그러면 이 바늘을 네 팔에 꽂아버릴 거야. | (*비명*) | 아무튼, 4층 지하로 가. | 아빠가 거기 무기고가 있다고 했어.
+/ffs0_5_2/text
+  EN: Analyzing. This lever seems to be connected to something.
+  KO: 분석 중. 이 레버는 무언가에 연결된 것 같습니다.
+/ffs0_5_3/text
+  EN: No lifesigns detected in jail cells. Continue mission.
+  KO: 감방에서 생명 반응 감지되지 않음. 임무를 계속하라.
+/ffs0_5_4/text
+  EN: No lifesigns detected in- | ... | Danger close, Agent! Multiple human lifesigns detected!
+  KO: 생명 반응이 감지되지 않- | ... | 위험 근접, 요원! 다수의 인간 생명 반응 감지!
+/ffs0_5_5/text
+  EN: More lifesigns detected. Probability of ambush: 100%
+  KO: 생명 반응이 더 감지됨. 매복 확률: 100%
+/ffs0_5_6/text
+  EN: Liquid analyzed. Human blood: 100% match. | Anomaly detected: the pool contains more blood than two human bodies are capable of holding. | Further details pending.
+  KO: 액체 분석 완료. 인간 혈액: 100% 일치. | 이상 감지: 이 웅덩이에 인간 두 명분보다 더 많은 피가 들어 있다. | 추가 세부사항 대기 중.
+/ffs0_5_7/text
+  EN: Intruder!!! | Kill them!
+  KO: 침입자다!!! | 죽여!
+/ffs0_5_8/text
+  EN: Alarm! Alarm! | All units, catch that rat! | I don't care if they're dead or alive.  | Bring them to me!!
+  KO: 경보! 경보! | 전 부대, 그 쥐새끼를 잡아라! | 죽었든 살았든 상관없다. | 나한테 데려와!!
+/ffs0_5_9/text
+  EN: Warning Agent: Overwhelming human life signs detected ahead. | Calculating way out... | Danger: None found. | Mission assessment: You will have to fight your way out to survive.
+  KO: 경고, 요원: 전방에 압도적인 인간 생명 신호 감지. | 탈출로 계산 중... | 위험: 없음. | 임무 평가: 살려면 싸워서 뚫고 나가야 한다.
+/ffs0_6_1/text
+  EN: New tertiary objective added: access 4th floor Armory. | Multiple hostile contacts detected. Excercise caution.
+  KO: 새로운 3차 목표 추가됨: 4층 무기고에 접근하라. | 다수의 적대 세력 감지됨. 주의하십시오.
+/ffs0_6_2/text
+  EN: Analysis indicates that this control panel controls a lock on the armory.  | Scans confirm that there are 2 others like it. | ^green;You must activate all three to gain access to the armory.
+  KO: 분석 결과 이 제어판이 무기고의 잠금장치를 제어하고 있습니다.  | 스캔 결과 같은 장치가 2개 더 있음이 확인됩니다. | ^green;무기고에 접근하려면 세 개를 모두 활성화해야 합니다.
+/ffs0_6_3/text
+  EN: This looks like some sort of hidden passage. It would appear the pirates do not want you to access the armory.
+  KO: 일종의 숨겨진 통로로 보인다. 해적들이 무기고에 접근하지 못하게 하려는 모양이다.
+/ffs0_6_4/text
+  EN: Control panel 2 of three found. Activate it to unlock the armory.
+  KO: 제어 패널 3개 중 2개를 찾았습니다. 활성화하면 무기고가 잠금 해제됩니다.
+/ffs0_6_5/text
+  EN: Control panel 3 of 3 found. If you have activated the others, this one should grant full access to the armory. | ... You did remember to activate the other control panels, right? | If not, I suggest you take the elevator back. You will have to start from the beginning again. | Be advised however that the pirates are now alerted to your presence. | Should you return, they will likely have reinforced their position once more.
+  KO: 제어 패널 3개 중 3개를 찾았습니다. 다른 패널도 활성화했다면, 이 패널로 무기고에 완전히 접근할 수 있습니다. | ...다른 제어 패널을 활성화한 건 기억하죠? | 그렇지 않다면 엘리베이터를 타고 돌아가길 권합니다. 처음부터 다시 시작해야 합니다. | 다만 해적들이 이제 당신의 존재를 알아챘음을 유의하세요. | 돌아가면 아마 다시 방어를 강화했을 겁니다.
+/ffs0_6_6/text
+  EN: Tertiary objective: Raid Armory, accomplished. | When you are done here, return to the elevator and head to sector 5.
+  KO: 3차 목표: 병기고 급습, 완료. | 여기서 끝나면, 엘리베이터로 돌아가 5구역으로 향하라.
+/ffs0_6_hind/text
+  EN: That elevator leads back to the main hall. I advise you search for a hidden alternate route. | ^green;Hint. Use the 'E'key to find the secret passage.
+  KO: 그 엘리베이터는 메인 홀로 돌아간다. 숨겨진 대체 경로를 찾아보길 권한다. | ^green;힌트. 'E' 키를 사용해 비밀 통로를 찾아라.
+/ffs0_7_1/text
+  EN: ^red;WARNING. The door ahead only opens one way.. | ^white;If you didn't clear other floors yet, go back to the elevator. | ^green;And if you are ready, the door on your right will be open in 15 seconds.  | ^yellow;Good luck.
+  KO: ^red;경고. 앞의 문은 한 방향으로만 열린다.. | ^white;아직 다른 층을 클리어하지 않았다면 엘리베이터로 돌아가라. | ^green;준비가 됐다면, 오른쪽 문이 15초 후에 열린다.  | ^yellow;행운을 빈다.
+/ffs0_7_2/text
+  EN: Mission objective: Find the Pilot. | Good luck, Agent!
+  KO: 임무 목표: 조종사를 찾아라. | 행운을 빈다, 요원!
+/ffs0_7_3/text
+  EN: I'm here in front of vents! | My fingers are crossed for you.
+  KO: 환풍구 앞에 있어! | 행운을 빌어줄게.
+/ffs0_7_4/text
+  EN: Be careful. | There are many enemies beyond the gate.
+  KO: 조심하세요. | 문 너머에는 적이 많습니다.
+/ffs0_7_5/text
+  EN: Over here! | ..Can you smell something around here? | It's disgusting.
+  KO: 이쪽이야! | ..여기서 뭔가 냄새 안 나? | 역겨워.
+/ffs0_7_6/text
+  EN: No way! | The pirates were infected by The Ruin's parasites! | We have to stop their crazy ritual and rescue the pilot!
+  KO: 말도 안 돼! | 해적들이 루인의 기생충에 감염됐어! | 저 미친 의식을 막고 조종사를 구해야 해!
+/ffs0_7_7/text
+  EN: Ok, she's still alive. Leave her to me! | Break the handcuffs and escape through the Ruin larva's carcass! | Let's meet outside!
+  KO: 좋아, 그녀는 아직 살아있어. 나한테 맡겨! | 수갑을 부수고 루인 유충의 사체를 통해 탈출해! | 밖에서 만나자!
+/ffs0_8_1/text
+  EN: Analysis indicates the blood clot in front of you is of poor consistency.  | ^green; Tactical Advice: Shoot at it.
+  KO: 분석 결과 눈앞의 혈전은 상태가 좋지 않습니다.  | ^green; 전술 조언: 쏘십시오.
+/ffs0_8_2/text
+  EN: It appears that there are more infected pirates ahead and behind.  | I do not recommend you stay behind to fight them. | Mission Advice: you must push on to escape. Engage the enemy as you move.
+  KO: 앞뒤로 감염된 해적들이 더 있는 것 같다. | 남아서 싸우는 건 추천하지 않는다. | 임무 조언: 탈출하려면 계속 나아가야 한다. 이동하면서 적과 교전하라.
+/ffs0_8_3/text
+  EN: Warning Agent, the pirates are attempting another ambush ahead. Be prepared.
+  KO: 경고, 요원. 해적들이 앞에서 또 매복을 시도한다. 대비하라.
+/ffs0_f_1/text
+  EN: Warning, Agent. You will have to fight your way through to the dropship. | The pirates will likely throw what they have left at you to prevent your escape.
+  KO: 경고, 요원. 강하선까지 싸워서 뚫고 나가야 한다. | 해적들은 도주를 막으려 남은 걸 전부 던질 것이다.
+/ffs0_f_2/text
+  EN: Enemy in sight. | Engaging hostile!
+  KO: 적 발견. | 적과 교전 개시!
+/ffs0_f_3/text
+  EN: Armored troopers have arrived. | Defend the line!
+  KO: 무장 병력이 도착했다. | 전선을 사수하라!
+/ffs0_f_4/text
+  EN: Air support has arrived! | Wipe them out. All of them!
+  KO: 공중 지원이 도착했다! | 전부 쓸어버려라. 하나도 남김없이!
+/ffs0_lastboss_0_1/text
+  EN: Ehi, tu! | Prendi questo! | .....? | Ah. | I mean, use this!
+  KO: 야, 너! | 이거 받아! | .....? | 아. | 아니, 이거 써!
+/ffs0_lastboss_0_2/text
+  EN: We can't run away without disabling the pirate ship's air defense system. | .. | We have to shoot them down. | ^green;Ready for battle!
+  KO: 해적선의 대공 방어 체계를 무력화하지 않으면 도망칠 수 없어. | .. | 그것들을 격추해야 해. | ^green;전투 준비 완료!
+/ffs0_lastboss_1_1/senderName
+  EN: Captain Pirate
+  KO: 해적 선장
+/ffs0_lastboss_1_1/text
+  EN: How foolish mortals! | Become a glorious foundation for my master's integration! |  | ^red;GLORY FOR THE INTEGRATED EARTH AND MASTER RUIN!!
+  KO: 이 어리석은 필멸자들! | 내 주인의 통합을 위한 영광스러운 초석이 되어라! |  | ^red;통합된 지구와 위대한 루인 님께 영광을!!
+/ffs_breadnut1_0_0/text
+  EN: ^white;I am 1-Y3TZ1, survival system A.I. of drop pod.  | Checking vital sign.. Clear. Checking equipment.. Clear.  | ^green;Please use the door on the right.
+  KO: ^white;나는 1-Y3TZ1, 드롭 포드의 생존 시스템 A.I.다.  | 생체 신호 확인 중.. 정상. 장비 확인 중.. 정상.  | ^green;오른쪽 문을 사용해라.
+/ffs_breadnut1_0_1/text
+  EN: Mission objective: ^red;Locate the VIP and Alpha team members are.
+  KO: 임무 목표: ^red;VIP와 알파 팀원들의 위치를 찾아라.
+/ffs_breadnut1_0_2/text
+  EN: Analysis detects signs of a previous engagement. It appears the SRS lost the battle. | Multiple hostile signatures detected ahead. They are still here.
+  KO: 분석 결과 이전 교전의 흔적이 감지되었습니다. SRS가 전투에서 패배한 것으로 보입니다. | 전방에서 다수의 적대 신호가 감지됩니다. 그들은 아직 이곳에 있습니다.
+/ffs_breadnut1_1_0/text
+  EN: ^white;These pirates appear to be of the same group that we fought before. | Tactical Advice: ^red;Find the leader, kill him, and gather information about our objectives.
+  KO: ^white;이 해적들은 전에 싸운 같은 무리로 보여. | 전술적 조언: ^red;두목을 찾아 죽이고 목표에 대한 정보를 수집해.
+/ffs_breadnut1_2_0/text
+  EN: Data uploaded. According to the documents obtained, the VIP is here.  | ^red;Mission objectives updated: Rescue the Vip.
+  KO: 데이터 업로드 완료. 확보한 문서에 따르면, VIP가 이곳에 있습니다.  | ^red;임무 목표 갱신됨: VIP를 구출하라.
+/ffs_breadnut1_2_1/text
+  EN: ^green;'Hint! : You can find something useful in the box.' 
+  KO: ^green;'힌트! : 상자 안에 쓸 만한 것을 찾을 수 있다.'
+/ffs_breadnut1_2_2/text
+  EN: Data is required. ^red;Secondary objective: Gain information about this place to increase odds of mission success.
+  KO: 데이터가 필요합니다. ^red;2차 목표: 임무 성공률을 높이기 위해 이곳에 대한 정보를 수집하십시오.
+/ffs_breadnut1_2_3/text
+  EN: Blueprints analyzed^red;Find and destroy the generator to gain further access to the facility.
+  KO: 설계도 분석 완료^red;발전기를 찾아 파괴하면 시설에 더 깊이 접근할 수 있다.
+/ffs_breadnut1_2_4/text
+  EN: Analysis indicates the generator below is unstable. ^green;Tactical Advice: Wait for the pirates to be next to the generator before blowing it up.
+  KO: 분석 결과 아래에 있는 발전기가 불안정합니다. ^green;전술 조언: 해적들이 발전기 옆에 올 때까지 기다렸다가 폭파하십시오.
+/ffs_breadnut1_2_5/text
+  EN: Scan complete. To proceed, you must ^red;find and activate the valve. 
+  KO: 스캔 완료. 진행하려면 ^red;밸브를 찾아 작동시켜야 합니다.
+/ffs_breadnut1_2_6/text
+  EN: This elevator should take you deeper into the facility. Kill any remaining targets and proceed further into the base.
+  KO: 이 엘리베이터가 너를 시설 더 깊은 곳으로 데려다줄 거다. 남은 목표물을 처치하고 기지 안으로 더 진행해라.
+/ffs_breadnut1_3_0/text
+  EN: ^red;Step into the lab 
+  KO: ^red;실험실로 들어와라
+/ffs_breadnut1_3_1/text
+  EN: Strategic Reminder: ^green;If you don't have a good view, use a light-emitting item! 
+  KO: 전략적 알림: ^green;시야가 좋지 않다면, 발광 아이템을 사용하라!
+/ffs_breadnut1_3_2/text
+  EN: Be advised: there is something in the safe. 
+  KO: 알림: 금고 안에 뭔가가 있습니다.
+/ffs_breadnut1_3_3/text
+  EN: Danger Close! Those zombies are infectious and poisonous!
+  KO: 위험 근접! 저 좀비들은 감염성에다 독성까지 있다!
+/ffs_breadnut1_3_4/text
+  EN: Unknown organics detected. It appears the infected have commondeered this sewer for thier own purposes. Tread lightly.
+  KO: 알 수 없는 유기체 감지. 감염자들이 이 하수구를 제멋대로 점거한 모양이다. 조심해서 진행하라.
+/ffs_breadnut1_3_5/text
+  EN: I am detecting a glitch radio signal within the cave. It is very likely that it belongs to our VIP.
+  KO: 동굴 안에서 글리치 무선 신호가 감지됩니다. 우리 VIP의 신호일 가능성이 매우 높습니다.
+/ffs_breadnut1_4_0/text
+  EN: The signal is getting closer. You are headed in the right direction.
+  KO: 신호가 가까워지고 있다. 제대로 가고 있어.
+/ffs_breadnut1_4_1/text
+  EN: ^red;Warning Agent, I am detecting a large unknown organic signature head. Be prepared for a combat.
+  KO: ^red;경고 요원, 머리 앞쪽에 대형 미지의 유기체 신호를 감지했다. 전투에 대비하라.
+/ffs_breadnut1_5_0/text
+  EN: Tactical advice: check the box for useful items.  | Probability of this being already known advice: 98.37123855%
+  KO: 전술 조언: 상자를 확인해 유용한 아이템을 찾아라.  | 이미 알려진 조언일 확률: 98.37123855%
+/ffs_breadnut1_5_1/text
+  EN: ^white;Warning Agent, unknown hostile entity beyond this door. | Tactical Advice: ^red;Shoot at it until it dies.
+  KO: ^white;경고 요원, 이 문 너머에 미지의 적대 개체 있음. | 전술적 조언: ^red;죽을 때까지 쏴.
+/ffs_breadnut1_5_2/text
+  EN: ^white;I have picked up the glitch signal following the creature's suicide. We are very close to the VIP now.
+  KO: ^white;그 생명체가 자살한 뒤로 글리치 신호를 추적해왔다. 이제 VIP가 아주 가까이 있다.
+/ffs_breadnut1_5_3/text
+  EN: ^white;Objective complete: Locate and Secure VIP: Dr. Breadnut. | Mission analysis: returning the way you came is not possible. Scanning for alternate route. | Alternate route found through the sewers.^red;Use the arrow. | ^orange;Possibility of hostile remnants: probable.
+  KO: ^white;목표 완료: VIP 확보: 브레드넛 박사. | 임무 분석: 온 길로 돌아가는 것은 불가능. 대체 경로 스캔 중. | 하수도를 통한 대체 경로 발견.^red;화살표를 따라가. | ^orange;적 잔존 세력 존재 가능성: 높음.
+
+===== /radiomessages/ffs_radiomessages_hc.radiomessages.patch =====
+/ffs0_0_0_hc/text
+  EN: ^red;Welcome to Feast of Fire and Smoke: Hardcore Levels  | ^white; I am 1-Y3TZ1, survival system A.I. of drop pod. | Checking vital si.. | Oh screw it, you know how this goes. | ^green; Move to downstairs.
+  KO: ^red;불과 연기의 연회: 하드코어 레벨에 온 것을 환영한다  | ^white; 나는 1-Y3TZ1, 탈출 포드의 생존 시스템 A.I.다. | 생체 신호 확인 중.. | 아 젠장, 너도 이 순서는 알잖아. | ^green; 아래층으로 이동하라.
+/ffs0_0_1_hc/text
+  EN: ^green;We forgot to pack equipment this time around. Oh well. | ^white;I'll just open the door for you then. | ^white;By the way, you did ^orange;compress your pixels ^white;before you came, right? | ... No reason why I'm asking... ^red; :)
+  KO: ^green;이번엔 장비 챙기는 걸 잊었네. 뭐 어쩌겠어. | ^white;그냥 문을 열어 주지. | ^white;그건 그렇고, 오기 전에 ^orange;픽셀을 압축^white;해 뒀지? | ... 왜 묻냐면 별 이유는 없어... ^red; :)
+/ffs0_0_2_hc/text
+  EN: Good luck out there. | ^red;(...You're gonna need it)
+  KO: 밖에서 행운을 빌어. | ^red;(...정말 필요할 테니까)
+/ffs0_0_3_hc/text
+  EN: ... No little girls with medibags. Or huge monkeys, or tied up chicks. Just you, checkpoint radios, and lots of hardcore enemies.
+  KO: ... 구급 가방 든 꼬마 여자애도 없어. 거대한 원숭이도, 묶인 아가씨도 없어. 오직 너와 체크포인트 무전기, 그리고 잔뜩 있는 하드코어한 적들뿐이야.
+/ffs0_0_4_hc/text
+  EN: I think you know how interaction works by now.
+  KO: 이제쯤이면 상호작용이 어떻게 되는지 알 것 같은데.
+/ffs0_0_5_hc/text
+  EN: Just in case you forgot how interaction works. | ^green;Hint : Use 'E'key to interact the blue arrow. | ^white;...Unless you altered your controls. In that case, figure it out yourself.
+  KO: 혹시 상호작용 방법을 잊어버렸을까 봐. | ^green;힌트: 'E' 키로 파란 화살표와 상호작용하세요. | ^white;...조작키를 바꾸지 않았다면 말이지. 바꿨다면 알아서 해.
+/ffs0_1_1_hc/text
+  EN: You already know how FFS weapons work, or at least let's hope so.
+  KO: FFS 무기가 어떻게 작동하는지 이미 알겠지, 적어도 그러길 바라고.
+/ffs0_1_2_hc/text
+  EN: Yes I left the checkpoints in. You will need them.
+  KO: 그래, 체크포인트는 남겨뒀어. 필요할 거야.
+/ffs0_1_3_hc/text
+  EN: Enemies ahead. | ^red; Watch out, sniper! And... aircraft. | ^green;Hint: Snipers take less time to aim and shoot now. | Aircraft now shoot four frag rockets in a row instead of just one non-frag one.
+  KO: 전방에 적. | ^red; 조심해, 저격수다! 그리고... 항공기도. | ^green;힌트: 저격수는 이제 조준하고 발사하는 데 걸리는 시간이 줄었습니다. | 항공기는 이제 비폭발형 로켓 하나 대신 폭발형 로켓 네 발을 연속으로 발사합니다.
+/ffs0_1_4_hc/text
+  EN: ^green; Hint: ^red;Pirates act differently now, | ^orange;and their bullets are the faster regular kind now too. | ^green: they are still glass cannons though. Mostly. Except for the troopers. | ^white: Good luck with those.
+  KO: ^green; 힌트: ^red;해적들은 이제 다르게 행동한다, | ^orange;해적의 탄환도 이제는 더 빠른 일반탄이다. | ^green: 그래도 여전히 유리대포다. 대체로. 트루퍼 제외하고는. | ^white: 행운을 빈다.
+/ffs0_2_21_hc/text
+  EN: No, but really, Rylasasin was just too lazy to make a hardcore version of the 666 level. Sorry about that.
+  KO: 아니, 근데 진짜로, Rylasasin은 그냥 666레벨의 하드코어 버전을 만들기 너무 귀찮았던 것뿐이야. 미안해.
+/ffs0_2_2_hc/text
+  EN: Uh oh. Looks like the secret level caved in, so you can't get down there anymore. | ... | ... | ...
+  KO: 오 이런. 비밀 구역이 무너져서 이제 아래로 못 내려가겠네. | ... | ... | ...
+/ffs0_3_boss_hc/senderName
+  EN: Big eye
+  KO: 큰 눈
+/ffs0_3_boss_hc/text
+  EN: ^#7c7c7c;Something something Fear something God blah blah. | ^white;Something right hand something. | Enough talk, ^red;TIME TO FIGHT!
+  KO: ^#7c7c7c;뭐라뭐라 두려움 어쩌고 신 블라블라. | ^white;뭐라 오른손 어쩌고. | 말은 됐다, ^red;싸울 시간이다!
+/ffs0_4_7_hc/text
+  EN: ..Hey man. | You look different. | I can't put my finger on it. | Is it the new clothes? | No, that's not it...
+  KO: ..이봐. | 너 좀 달라 보이는데. | 뭔지 딱 꼬집어 말을 못 하겠네. | 새 옷인가? | 아니, 그건 아닌데...
+/ffs0_4_8_hc/text
+  EN: You know, I don't get it. | Whenever I'm down here... | I just find that I can't run! | I don't know why. It's like... | My body just can't go fast!
+  KO: 있잖아, 이해가 안 돼. | 여기 아래 있을 때마다... | 그냥 달릴 수가 없어! | 왜인지 몰라. 마치... | 몸이 빨리 못 가는 것 같아!
+/ffs0_4_9_hc/text
+  EN: You know, this gig is pretty sweet. | Free food. Acceptable conditions. | Only one thing missing: some pussy. | ... What? I like cats.
+  KO: 있잖아, 이 일은 꽤 괜찮아. | 공짜 밥. 괜찮은 조건. | 딱 하나 빠진 것: 보지. | ... 뭐? 고양이 좋아하거든.
+/ffs0_4_boss_hc/text
+  EN: ^#7c7c7c;Ah.. There you are. | I bet you really wish you could run. | Too bad you can't. | Now for my arbitrary Gordon Ramsay joke. | ^red;WHERE'S THE LAMB SAAAUUCCEE?!
+  KO: ^#7c7c7c;아.. 거기 있었구나. | 정말 도망치고 싶겠지. | 안 됐지만 그럴 수 없어. | 이제 아무렇게나 끼워넣은 고든 램지 농담 시간. | ^red;양고기 소오오오스는 어디 있어?!
+/ffs1_0_0_hc/text
+  EN: ^white;Wow. I can't believe someone was actually dumb enough to fall for this really obvious trap!
+  KO: ^white;와우. 이렇게 뻔한 함정에 진짜 걸리는 멍청이가 있었다니 믿기지 않아!
+
+===== /radiomessages/gicexp_missions.radiomessages.patch =====
+/esc_MW_chat_COPSC_1/senderName
+  EN: Channel: GDI
+  KO: 채널: GDI
+/esc_MW_chat_COPSC_1/text
+  EN: Cooperate? alright, Those orcs are soon to attack and take our precious cargo, we'll forget about the previous incident and consider your request.
+  KO: 협력? 좋아, 저 오크들이 곧 공격해 소중한 화물을 빼앗을 테니 이전 일은 잊고 네 요청을 고려하지.
+/esc_MW_chat_COPSC_10/senderName
+  EN: Channel: PMC 'KYUUTEN' GROUP
+  KO: 채널: PMC 'KYUUTEN' 그룹
+/esc_MW_chat_COPSC_11/senderName
+  EN: Channel: GDI
+  KO: 채널: GDI
+/esc_MW_chat_COPSC_11/text
+  EN: That's a hell of a job, rookie! You're really the toughest soldier I've ever seen. I'll see you on board!
+  KO: 정말 대단한 일 해냈군, 신참! 넌 내가 본 것 중 가장 강인한 군인이야. 함선에서 보자!
+/esc_MW_chat_COPSC_2/senderName
+  EN: Channel: GDI
+  KO: 채널: GDI
+/esc_MW_chat_COPSC_2/text
+  EN: You're really in? Well, you're a real tough guy! Report to Perimeter III immediately.
+  KO: 정말 하는 거야? 음, 진짜 강한 녀석이네! 즉시 페리미터 III에 보고해.
+/esc_MW_chat_COPSC_3/senderName
+  EN: GDI Rifleman
+  KO: GDI 소총수
+/esc_MW_chat_COPSC_3/text
+  EN: The enemy are coming, prepare for engagement!
+  KO: 적이 오고 있다. 교전을 준비하라!
+/esc_MW_chat_COPSC_4/senderName
+  EN: GDI Rifleman
+  KO: GDI 소총수
+/esc_MW_chat_COPSC_4/text
+  EN: Incoming! 
+  KO: 온다!
+/esc_MW_chat_COPSC_5/senderName
+  EN: GDI Rifleman
+  KO: GDI 소총수
+/esc_MW_chat_COPSC_5/text
+  EN: More enemies are coming! 
+  KO: 적들이 더 몰려온다!
+/esc_MW_chat_COPSC_6/senderName
+  EN: Channel: GDI
+  KO: 채널: GDI
+/esc_MW_chat_COPSC_6/text
+  EN: Mayday, Mayday, This is Perimeter I, The enemy has broken through our defenses, they're entering the factory, cargo is in danger. We need backup！
+  KO: 메이데이, 메이데이, 여기는 경계선 I, 적이 우리 방어선을 뚫었다, 놈들이 공장에 진입 중이다, 화물이 위험하다. 지원이 필요하다！
+/esc_MW_chat_COPSC_7/senderName
+  EN: Channel: GDI
+  KO: 채널: GDI
+/esc_MW_chat_COPSC_7/text
+  EN: All COPSC personnel, support Perimeter I immediately, The cargo must not fall into enemy hands!
+  KO: COPSC 전 요원에게 알린다, 즉시 경계선 I을 지원하라, 화물이 적의 손에 넘어가서는 안 된다!
+/esc_MW_chat_COPSC_8/senderName
+  EN: GDI APC Pilot
+  KO: GDI 장갑차 조종사
+/esc_MW_chat_COPSC_8/text
+  EN: Get aboard. We're leaving！
+  KO: 어서 타. 떠난다!
+/esc_MW_chat_COPSC_9/senderName
+  EN: Channel: PMC 'KYUUTEN' GROUP
+  KO: 채널: PMC 'KYUUTEN' 그룹
+/esc_MW_chat_COPSC_9_1/senderName
+  EN: Channel: PMC 'KYUUTEN' GROUP
+  KO: 채널: PMC 'KYUUTEN' 그룹
+/esc_MW_chat_COPSC_exterminate/senderName
+  EN: Channel: GDI
+  KO: 채널: GDI
+/esc_MW_chat_COPSC_exterminate/text
+  EN: The enemy is gathering. Destroy them before they become a real threat to our operations.
+  KO: 적이 집결하고 있다. 작전에 실질적인 위협이 되기 전에 파괴하라.
+/esc_MW_chat_COPSC_recovery/senderName
+  EN: Channel: GDI
+  KO: 채널: GDI
+/esc_MW_chat_COPSC_recovery/text
+  EN: An important convoy of our cargo has been intercepted by the Coalition. Search the area and recover the cargo immediately.
+  KO: 우리 측의 중요한 화물 수송대가 연합에 가로막혔다. 해당 지역을 수색해 화물을 즉시 회수하라.
+/esc_MW_chat_COPSC_sabotage/senderName
+  EN: Channel: GDI
+  KO: 채널: GDI
+/esc_MW_chat_PMC_1/text
+  EN: Cooperate? into the deathzone? You murdered dozens of our comrades! You dare to talk about deals with us? You're more shameless than those KAPPAS!
+  KO: 협력? 죽음 지대로? 네가 우리 동료 수십 명을 죽였어! 감히 우리와 거래를 말해? 넌 그 캇파들보다 뻔뻔하군!
+/esc_MW_chat_PMC_2/text
+  EN: Unless, you can take the cargo we need from those Cherez-Ormond PSC alone - with no support!
+  KO: 그게 아니라면, 지원 없이 우리가 필요한 화물을 저 체레즈 오르망드 PSC한테서 빼앗아 올 수도 있고!
+/esc_MW_chat_PMC_3/text
+  EN: Commander, an unidentified intruder has breached our defenses on the suburbs and now enters the factory. His target is the cargo!
+  KO: 사령관님, 신원 불명의 침입자가 교외 방어선을 뚫고 이제 공장에 들어섰습니다. 목표는 화물입니다!
+/esc_MW_chat_PMC_4/text
+  EN: Okay, I got it. All Zone Troopers: Prepare for assault！Let's meet this little bastard!
+  KO: 알았어, 접수했다. 전 존 트루퍼: 돌격 준비！이 조그만 자식 좀 만나보자!
+/esc_MW_chat_PMC_5/senderName
+  EN: Channel: GDI
+  KO: 채널: GDI
+/esc_MW_chat_PMC_5/text
+  EN: You know? You're tougher than all of those damn orcs! It's time to say good night!
+  KO: 알아? 넌 저 빌어먹을 오크들보다 다 강해! 작별 인사할 시간이야!
+/esc_MW_chat_PMC_6/senderName
+  EN: Channel: PMC 'KYUUTEN' GROUP
+  KO: 채널: PMC 'KYUUTEN' 그룹
+/esc_MW_chat_PMC_6/text
+  EN: What? You actually made it? Is there anyone in your ancestry who was some kind of shrine maiden?
+  KO: 뭐? 정말 해낸 거야? 네 조상 중에 무녀 같은 사람이 있었어?
+/esc_MW_chat_PMC_7/senderName
+  EN: Channel: PMC 'KYUUTEN' GROUP
+  KO: 채널: PMC 'KYUUTEN' 그룹
+/esc_MW_chat_PMC_7/text
+  EN: Okay, I'll lead you to our hideout
+  KO: 좋아, 우리 은신처로 안내할게
+/esc_MW_chat_PMC_exterminate/senderName
+  EN: Channel: PMC 'KYUUTEN' GROUP
+  KO: 채널: PMC 'KYUUTEN' 그룹
+/esc_MW_chat_PMC_exterminate/text
+  EN: Multiple hostile activities in this area, eliminate them
+  KO: 이 구역에 다수의 적대적 활동, 이를 제거하라
+/esc_MW_chat_PMC_recovery/senderName
+  EN: Channel: PMC 'KYUUTEN' GROUP
+  KO: 채널: PMC 'KYUUTEN' 그룹
+/esc_MW_chat_PMC_recovery/text
+  EN: A transport team with critical supplies has been attacked by the enemy, Entering the combat zone, searching and locating the transport team.
+  KO: 중요 보급품을 운반하던 수송팀이 적의 공격을 받았습니다. 전투 지역으로 진입하여 수송팀을 수색 및 확인합니다.
+/esc_MW_chat_PMC_recovery_2/senderName
+  EN: Channel: PMC 'KYUUTEN' GROUP
+  KO: 채널: PMC 'KYUUTEN' 그룹
+/esc_MW_chat_PMC_sabotage/senderName
+  EN: Channel: PMC 'KYUUTEN' GROUP
+  KO: 채널: PMC 'KYUUTEN' 그룹
+/esc_exp_missions_rebel_exterminate/senderName
+  EN: Resistance Leader
+  KO: 저항군 지도자
+/esc_exp_missions_rebel_exterminate/text
+  EN: YFFS is establishing checkpoints along our covert routes. Immediately sabotage their plans.
+  KO: YFFS가 우리 은밀 경로를 따라 검문소를 세우고 있다. 즉시 그들의 계획을 교란하라.
+/esc_exp_missions_rebel_spy/text
+  EN: This is an infiltration operation into a base. This YFFS garrison contains a vital data-disk. While executing the mission, pay extra attention to the hidden datavault.
+  KO: 기지 침투 작전이다. 이 YFFS 주둔지에는 핵심 데이터 디스크가 있다. 임무 수행 중 숨겨진 데이터 볼트에 각별히 주의해라.
+/esc_exp_missions_rebel_spy0/text
+  EN: You're nearing the datavault. If you trigger the alarm now, the enemy will start to destroy the data.
+  KO: 데이터볼트에 다가가고 있다. 지금 경보를 울리면 적이 데이터 파괴를 시작할 거야.
+/esc_exp_missions_rebel_spy4/text
+  EN: You literally finished every enemy who stood in your way... YFFS never taught me to infiltrate like that.
+  KO: 말 그대로 길 막는 적을 다 처리했네... YFFS는 나한테 그렇게 침투하라고 가르친 적 없어.
+/esc_exp_missions_yffs_blitz/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/esc_exp_missions_yffs_blitz/text
+  EN: Our intelligence has confirmed the existence of the Resistance safe house. We need to launch a blitz attack before they relocate.
+  KO: 우리 정보부가 저항군 안전 가옥의 존재를 확인했다. 그들이 이동하기 전에 기습 공격을 개시해야 한다.
+/esc_exp_missions_yffs_blitz1/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/esc_exp_missions_yffs_blitz1/text
+  EN: Once you enter the area, they will immediately start evacuating. You must breach the safe house within the limited time.
+  KO: 이 구역에 들어가면, 그들은 즉시 대피를 시작할 것이다. 제한된 시간 안에 안전 가옥을 돌파해야 한다.
+/esc_exp_missions_yffs_blitz2/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/esc_exp_missions_yffs_blitz3/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/esc_exp_missions_yffs_blitz3/text
+  EN: Well done! Now begin sweeping the safe house immediately.
+  KO: 잘했어! 이제 곧장 아지트를 쓸어라.
+/esc_exp_missions_yffs_blitz_aihelp/text
+  EN: You must reach the safe house within 600 seconds. Death or time-out will result a failure.
+  KO: 600초 안에 안전가옥에 도달해야 한다. 사망하거나 시간 초과면 실패다.
+/esc_exp_missions_yffs_exterminate/senderName
+  EN: Y.F.F.S Quartermaster
+  KO: Y.F.F.S 보급관
+/esc_exp_missions_yffs_exterminate/text
+  EN: We need to establish a checkpoint here, but the enemy has started gathering. We must solve this problem immediately.
+  KO: 여기 검문소를 세워야 하는데, 적이 모이기 시작했어. 이 문제를 즉시 해결해야 한다.
+/esc_exp_story_1/text
+  EN: You're here for the ‘ device ’ like YFFS- turn back. You're not one of them. I don't want to be your enemy.
+  KO: YFFS처럼 '장치' 때문에 온 거지 - 돌아가. 넌 그들과 달라. 적이 되고 싶지 않아.
+/esc_exp_story_2/text
+  EN: If YFFS obtains the 'Device', the future of this colony will descend into hopelessness.
+  KO: YFFS가 '장치'를 손에 넣으면, 이 식민지의 미래는 절망으로 치닫게 될 거야.
+/esc_exp_story_3/text
+  EN: If you still have your conscience, let me safely transfer the 'Device' to the resistance.
+  KO: 아직 양심이 남아있다면, '장치'를 안전하게 저항군에 넘길 수 있게 해줘.
+/esc_exp_story_rebel/text
+  EN: You want to give us a helping hand? Then listen up: YFFS is madly trying to get the 'Device' back. If you can successfully distract them, the Resistance will be able to safely retrieve and destroy the 'Device'.
+  KO: 우릴 도와주고 싶어? 그럼 잘 들어: YFFS가 '장치'를 되찾으려고 미치게 노력 중이야. 성공적으로 주의를 돌리면, 레지스탕스가 '장치'를 안전하게 회수해 파괴할 수 있어.
+/esc_exp_story_rebel_1/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/esc_exp_story_rebel_1/text
+  EN: YOUR STINKY DITCH-GROWN IDIOT, SURRENDER NOW AND HAND OVER THAT DAMNED 'DEVICE' NOW! Who did you think you were? Raiding our ship and assisting traitors and terrorists?
+  KO: 이 냄새나는 도랑에서 자란 멍청이야, 지금 당장 항복하고 그 빌어먹을 '장치'를 내놔! 네가 누군 줄 알았어? 우리 함선을 습격하고 배신자와 테러리스트를 도운 게?
+/esc_exp_story_rebel_2/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/esc_exp_story_rebel_2/text
+  EN: We should rip your brain off and turn it into a wetware, then sell your body off to the body market services!
+  KO: 네 뇌를 뜯어내서 웨트웨어로 만들고, 네 몸은 몸 장터 서비스에 팔아버려야겠어!
+/esc_exp_story_rebel_3/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/esc_exp_story_rebel_3/text
+  EN: Kaly, Get your men over here quick- I'm gonna shoot this terrorist down now!
+  KO: 케일리, 부하들 빨리 이리 데려와- 지금 이 테러리스트 쏴버릴 거야!
+/esc_exp_story_rebel_4/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/esc_exp_story_rebel_4/text
+  EN: Damn to you and your ancestors!  I'm gonna rip your guts out and...- All units continue enforcement actions. Today we all need to repent.
+  KO: 네놈과 네놈 조상들에게 저주를! 내가 네놈 내장을 다 뽑아서...- 전 부대는 진압 작전을 계속한다. 오늘 우리 모두 회개해야 한다.
+/esc_exp_story_rebel_5/text
+  EN: Hey, stranger, come over here- through that vents
+  KO: 이봐, 낯선 이, 이리 와봐- 저 통풍구로
+/esc_exp_story_rebel_6/senderName
+  EN: Resistance Leader
+  KO: 저항군 지도자
+/esc_exp_story_rebel_6/text
+  EN: Damn, what a ruthless way. You literally kill your way through.
+  KO: 젠장, 정말 잔인한 방식이군. 말 그대로 죽이면서 길을 뚫는군.
+/esc_exp_story_rebel_7/senderName
+  EN: Resistance Leader
+  KO: 저항군 지도자
+/esc_exp_story_rebel_7/text
+  EN: I am the leader of the resistance forces in this region. I wonder if you might be interested in helping the people of this colony defend their rights- we know you're not one of those corpo bastards.
+  KO: 나는 이 지역 저항군의 지도자다. 혹시 이 식민지 사람들이 자기 권리를 지키도록 도와줄 생각 없나- 네가 그 기업놈들 편이 아니라는 건 알고 있으니까.
+/esc_exp_story_yffs_1/text
+  EN: So you refuse to turn back- it seems I'll have to stop you.
+  KO: 그러니까 돌아가길 거부한다는 거군- 내가 널 막아야겠어.
+/esc_exp_story_yffs_2/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/esc_exp_story_yffs_2/text
+  EN: Eh, isn't this... um... Hello. I don't know your purpose, but- eliminating the traitor and taking back the 'Device' that terrorists were supposed to steal? That was a damn good work.
+  KO: 어, 이건... 음... 안녕하세요. 목적이 뭔지는 모르겠지만- 배신자를 제거하고 테러리스트들이 훔치려던 '장치'를 되찾은 거? 정말 훌륭한 일이었습니다.
+/esc_exp_story_yffs_3/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/esc_exp_story_yffs_3/text
+  EN: Ah, you came here to investigate for those damn boxheads? That was...
+  KO: 아, 그 빌어먹을 네모대가리들 때문에 조사하러 온 거야? 그건....
+/esc_exp_story_yffs_4/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/esc_exp_story_yffs_4/text
+  EN: In short, I'm wondering if you'd be interested in a mutually beneficial partnership with us in this shithole- you're no ordinary soldier, not just some generic training or purchasable commodities can be compared to.
+  KO: 간단히 말해서, 이 거지 같은 곳에서 너랑 우리가 서로 이득이 되는 파트너십을 맺는 데 관심이 있는지 궁금해서- 넌 평범한 군인이 아니잖아, 그저 흔한 훈련이나 살 수 있는 물건 따위와는 비교할 수 없지.
+/esc_exp_story_yffs_5/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/esc_exp_story_yffs_5/text
+  EN: Also, helping you complete the investigation into the missing 'Device'...
+  KO: 그리고, 사라진 '장치'에 대한 조사를 완수하는 데도 도움을 주는데...
+/esc_intromission_1/text
+  EN: Attention: This facility has been attacked by unauthorized armed personnel. All employees are advised to take shelter in their workplaces. We will soon deploy security forces to neutralize the threat.
+  KO: 주의: 본 시설이 무허가 무장 인원의 공격을 받았습니다. 전 직원은 각자의 근무지에서 대피하시기 바랍니다. 곧 경비 병력을 투입해 위협을 제거하겠습니다.
+/esc_intromission_2/text
+  EN: Damn, looks like the security forces didn't stand a chance against them... Better head to my ship for shelter...
+  KO: 젠장, 보안군이 저들 상대로는 승산이 없었나 보네... 내 우주선으로 피신하는 게 낫겠어...
+/esc_intromission_3/text
+  EN: Attention: Certain experimental samples have breached containment. All uninvolved personnel are advised to avoid close to any unidentifiable entities or objects. Thank you for your cooperation. The temporal manipulation system will activate shortly. The facility will be reset to today's morning hours within an hour. All units remain at your stations. Do not panic.
+  KO: 주의: 특정 실험 샘플이 격리를 이탈했습니다. 관계없는 인원은 미확인 개체나 물체에 가까이 가지 않도록 권고합니다. 협조에 감사드립니다. 시간 조작 시스템이 곧 가동됩니다. 시설은 한 시간 이내에 오늘 아침 시간대로 재설정됩니다. 전 인원은 각자 위치를 지키십시오. 당황하지 마십시오.
+/esc_intromission_4/text
+  EN: Sweet profits, what is that? What the hell are those core experimental group researching for?
+  KO: 맙소사 수익이라니, 저게 뭐야? 저 핵심 실험단은 대체 뭘 연구하는 거야?
+/esc_intromission_5/text
+  EN: To all personnel: This facility is now under Terrence League control. Request your cooperation with our inspections, hand over all relevant documents, and assist us to eliminate hazardous anomalous elements.
+  KO: 전원에게: 이 시설은 이제 테렌스 리그 관리 하에 있다. 우리의 조사에 협조하고 관련 문서를 전부 넘기며, 위험한 변칙 요소 제거를 도와주기 바란다.
+/esc_intromission_6/text
+  EN: League? When did they have this kind of intervention ability? I have a bad feeling about this. I better be hurry...
+  KO: 리그? 언제 이런 개입 능력을 갖췄지? 뭔가 불길한 예감이 든다. 서두르는 게 좋겠어...
+/esc_intromission_pre_1/text
+  EN: Another day. How many years has it been since I came here? Twenty? Thirty?
+  KO: 또 하루. 여기 온 지 몇 년이나 됐더라? 20년? 30년?
+/esc_intromission_pre_2/text
+  EN: At 14:00 today, the core experimental group will announce its largest experimental achievement in 50 years. All employees are requested to attend the launch on time.
+  KO: 오늘 14시, 핵심 실험단이 50년 만의 최대 실험 성과를 발표합니다. 전 직원은 정시에 발표회에 참석해 주시기 바랍니다.
+/esc_intromission_pre_3/text
+  EN: Day after day... I wish something unusual could happen now.
+  KO: 하루하루가... 지금 뭔가 특별한 일이 일어났으면 좋겠어.
+/esc_nt_0_0_mission/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/esc_nt_0_0_mission/text
+  EN: I don't know who you are, outsider, but we now need the assistance of everyone with enough wisdom and ability.
+  KO: 네가 누군지 모르겠어, 외부인, 하지만 이제 우리는 충분한 지혜와 능력을 가진 모두의 도움이 필요해.
+/esc_nt_0_1_mission/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/esc_nt_0_1_mission/text
+  EN: We are currently under assault. If you can solve our urgent crisis, I am confident we can build a genuine, long-term partnership.
+  KO: 우리는 현재 공격받고 있다. 이 급박한 위기를 해결해 준다면 진정한 장기적 동반자 관계를 맺을 수 있을 것으로 확신한다.
+/esc_nt_1_2_mission_1/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_1/text
+  EN: Sensors indicate unauthorized signals are accessing our interior facilities. Security crew, execute the sweep protocol.
+  KO: 센서에 따르면 승인되지 않은 신호가 내부 시설에 접근하고 있다. 보안 승무원, 소탕 프로토콜을 실행하라.
+/esc_nt_1_2_mission_10/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_11/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_11/text
+  EN: What happened? The engine system entered an unstoppable self-defeating cycle?
+  KO: 무슨 일이야? 엔진 시스템이 멈출 수 없는 자멸 순환에 들어갔다고?
+/esc_nt_1_2_mission_12/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_12/text
+  EN: Launch the escape vessel n-
+  KO: 탈출선을 발진시켜 n-
+/esc_nt_1_2_mission_13/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/esc_nt_1_2_mission_13/text
+  EN: Great job! You obtained their Proto Control Module and destroyed any potential evidence.
+  KO: 잘했어! 그들의 프로토 제어 모듈을 확보하고 남아 있을 만한 증거도 전부 파괴했어.
+/esc_nt_1_2_mission_1_1/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/esc_nt_1_2_mission_1_1/text
+  EN: First, heading to this cargo ship's FTL engine. According to the blueprints for this model, it shouldn't be long.
+  KO: 먼저, 이 화물선의 FTL 엔진으로 향한다. 이 기종의 설계도에 따르면, 그리 오래 걸리지 않을 것이다.
+/esc_nt_1_2_mission_1_2/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/esc_nt_1_2_mission_1_2/text
+  EN: After it's all over, we'll need a FTL engine failure to destroy all of your evidence.
+  KO: 모든 게 끝난 후, 우리는 당신의 모든 증거를 없애기 위해 FTL 엔진 고장을 일으켜야 할 거예요.
+/esc_nt_1_2_mission_1_3/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/esc_nt_1_2_mission_1_3/text
+  EN: Great, now upload the virus into the control system.
+  KO: 좋아, 이제 바이러스를 제어 시스템에 업로드해.
+/esc_nt_1_2_mission_1_4/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/esc_nt_1_2_mission_1_4/text
+  EN: Well done. Once you acquire the Proto Control Module, we'll activate the failure program.
+  KO: 잘했네. 프로토 제어 모듈을 확보하면, 우리가 고장 프로그램을 가동할 걸세.
+/esc_nt_1_2_mission_2/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_2/text
+  EN: The intruder is headed toward Deck 13. Security crew, execute the nullification protocol immediately. It's your job.
+  KO: 침입자가 13번 갑판으로 향하고 있다. 보안 요원들은 즉시 무력화 절차를 실행하라. 너희 임무다.
+/esc_nt_1_2_mission_3/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_3_0/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_3_alt0/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_3_alt0/text
+  EN: They're coming? Great. Let them deal with that intruder immediately.
+  KO: 저들이 온다고? 잘됐군. 당장 그 침입자를 처리하게 해.
+/esc_nt_1_2_mission_3_alt00/senderName
+  EN: Mito-Corp Mercenary
+  KO: 미토-코프 용병
+/esc_nt_1_2_mission_3_alt00/text
+  EN: Captain. We are the reinforced security team you hired. We will immediately begin executing the safety protocol. Don't worry.
+  KO: 함장님. 저희는 고용하신 증강 보안팀입니다. 즉시 안전 프로토콜을 실행하겠습니다. 걱정 마십시오.
+/esc_nt_1_2_mission_3_alt000/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_3_alt000/text
+  EN: Great, let's get it started. Once it's done, you'll receive your final payment.
+  KO: 좋아, 시작하자. 끝나면 최종 보수를 받게 될 거야.
+/esc_nt_1_2_mission_5/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_6/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_8/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_alt10/senderName
+  EN: N-Proxy Commander
+  KO: N-프록시 사령관
+/esc_nt_1_2_mission_alt10/text
+  EN: Why isn't this over?Are you really professionals from hell? Respond now!
+  KO: 왜 아직 안 끝난 거야? 너네 정말 지옥에서 온 전문가 맞아? 지금 대답해!
+/esc_spacehulk_warn/text
+  EN: If you proceed deeper into the Space Hulk, I will not be able to locate your coordinates, which means you will have to locate and activate the ''Signal Station'' in this area to leave the Space Hulk.
+  KO: 스페이스 헐크 더 깊숙이 들어가면, 네 좌표를 찾을 수 없을 거야, 그 말은 이 구역에서 '''신호국'''을 찾아 작동시켜야 스페이스 헐크를 나갈 수 있다는 뜻이야.
+/gicexp_gicexp_invasion_nt_sergeant_radio1/senderName
+  EN: The Sergeant
+  KO: 하사관
+/gicexp_gicexp_invasion_nt_sergeant_radio1/text
+  EN: Is this a gathering of the freaks?
+  KO: 이거 괴짜들 모임인가?
+/gicexp_gicexp_invasion_nt_sergeant_radio2/senderName
+  EN: The Sergeant
+  KO: 하사관
+/gicexp_gicexp_invasion_nt_sergeant_radio2/text
+  EN: I'm only just warming up.
+  KO: 이제 막 몸 풀고 있는 중이야.
+/gicexp_gicexp_invasion_nt_sergeant_radio3/senderName
+  EN: The Sergeant
+  KO: 하사관
+/gicexp_gicexp_invasion_nt_sergeant_radio3/text
+  EN: This is your final warning. Leave this system at once.
+  KO: 이게 마지막 경고다. 즉시 이 시스템을 떠나라.
+/gicexp_gicexp_invasion_nt_sergeant_radio4/senderName
+  EN: The Sergeant
+  KO: 하사관
+/gicexp_gicexp_invasion_nt_sergeant_radio4/text
+  EN: You call that technology? you should be ashamed!
+  KO: 그걸 기술이라고 불러? 부끄러운 줄 알아야지!
+/gicexp_gicexp_invasion_nt_sergeant_radio5/senderName
+  EN: The Sergeant
+  KO: 하사관
+/gicexp_gicexp_invasion_nt_sergeant_radio5/text
+  EN: I grow tired of waiting. Will you face me?
+  KO: 기다리는 것도 지쳤어. 나와 맞서겠어?
+/gicexp_gicexp_invasion_nt_sergeant_radio6/senderName
+  EN: The Sergeant
+  KO: 하사관
+/gicexp_gicexp_invasion_nt_sergeant_radio6/text
+  EN: Fashion victims about to become murder victims
+  KO: 패션 희생자가 곧 살인 희생자가 되려 한다
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio1/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio1/text
+  EN: Intruder alert! Air squadron, STOP IT!
+  KO: 침입자 경보! 항공 편대, 막아!
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio2/text
+  EN: In order to access the Y.F.F.S ship, you need to shutdown security console in the gunboat
+  KO: Y.F.F.S 함선에 접근하려면, 건보트의 보안 콘솔을 정지시켜야 해
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio3a/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio3a/text
+  EN: What a...... Impressive performance, outsider. If only our employees were......
+  KO: 정말...... 대단한 공연이야, 이방인. 우리 직원들도 네 반이라도......
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio3b/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio3b/text
+  EN: Or, maybe there's an opportunity for us to become partners. You solve our problems, we support the profits and technology you need.
+  KO: 아니면, 우리가 파트너가 될 기회가 있을지도 몰라. 네가 우리 문제를 해결해주면, 우리는 네가 필요한 수익과 기술을 지원할게.
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio3c/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio3c/text
+  EN: It's a win-win for both of our sides. So, will you agree?
+  KO: 우리 양측 모두에게 이득이야. 그러니, 동의하겠어?
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio4/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio4/text
+  EN: What do you mean they're on deck? Marines, destroy them!
+  KO: 그들이 갑판에 있다는 게 무슨 소리야? 해병들, 처치해!
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio5/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio5/text
+  EN: Outsider are trying to destroy the reactor. Do something, damn it!
+  KO: 이방인들이 원자로를 파괴하려 하고 있어. 뭐라도 좀 해, 젠장!
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio6/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio6/text
+  EN: Your mission is to search and disable this ship's reactor, good luck.
+  KO: 네 임무는 이 함선의 원자로를 찾아 무력화하는 거다, 행운을 빈다.
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio7/senderName
+  EN: Y.F.F.S Squad Leader
+  KO: Y.F.F.S 분대장
+/gicexp_gicexp_invasion_nt_vs_yf_support_nt_radio7/text
+  EN: Hold them back, HOLD THEM BACK!
+  KO: 막아, 막으라고!
+/gicexp_gicexp_invasion_nt_vs_yf_support_yf_radio1/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/gicexp_gicexp_invasion_nt_vs_yf_support_yf_radio1/text
+  EN: Unidentified void vehicle approaching, sending out the interceptors.
+  KO: 미확인 공허 탈것 접근 중, 요격기 발진.
+/gicexp_gicexp_invasion_nt_vs_yf_support_yf_radio2/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/gicexp_gicexp_invasion_nt_vs_yf_support_yf_radio2/text
+  EN: Interceptors?! They're flying right past you. Why do they call you Interceptors if you don't intercept?
+  KO: 인터셉터라고?! 네 옆을 그냥 날아서 지나가고 있잖아. 요격도 안 할 거면서 왜 인터셉터라고 부르는 거야?
+/gicexp_gicexp_invasion_nt_vs_yf_support_yf_radio3/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/gicexp_gicexp_invasion_nt_vs_yf_support_yf_radio3/text
+  EN: Unknown hostile activity on board. Security crew, we have a problem.
+  KO: 함선 내 알 수 없는 적대 활동 감지. 보안 요원, 문제가 발생했다.
+/gicexp_gicexp_invasion_nt_vs_yf_support_yf_radio4/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/gicexp_gicexp_invasion_nt_vs_yf_support_yf_radio4/text
+  EN: They're close to the bridge. Security crew, protect our profits, this is not a drill.
+  KO: 저들이 다리 근처에 있다. 보안팀, 수익을 지켜라, 이건 훈련이 아니다.
+/gicexp_gicexp_invasion_nt_vs_yf_support_yf_radio5/senderName
+  EN: K-TKENG Commander
+  KO: K-TKENG 사령관
+/gicexp_gicexp_invasion_nt_vs_yf_support_yf_radio5/text
+  EN: Transports, initiate emergency departure. Get us out of here, now!
+  KO: 수송기들, 비상 출발을 개시한다. 지금 당장 여기서 나가자!
+/gicexp_gicexp_invasion_nt_vs_yf_support_yf_radio6/senderName
+  EN: Y.F.F.S Officer
+  KO: Y.F.F.S 장교
+/gicexp_gicexp_invasion_nt_vs_yf_support_yf_radio6/text
+  EN: Damn great job outsider! you surely show these bastard how to fight like a real solider. Here, take your rewards.
+  KO: 정말 잘했어, 이방인! 저 자식들한테 진짜 전사가 어떻게 싸우는지 확실히 보여줬군. 자, 네 보상을 받아.
+/gicexp_nt_chapter_1_1_1/senderName
+  EN: Y.F.F.S Commander
+  KO: Y.F.F.S 지휘관
+/gicexp_nt_station_engi/senderName
+  EN: N.I Engineer
+  KO: N.I 엔지니어
+/gicexp_nt_station_rnd/senderName
+  EN: N.I RnD
+  KO: N.I 연구개발부
+/gicexp_nt_station_rnd/text
+  EN: Wel......welcome to the RnD, outsider
+  KO: 어... 어서 와요, 연구개발부에, 외부인
+
+===== /radiomessages/gico_messages.radiomessages.patch =====
+/gico_lion_village_arena_evac/text
+  EN: New orders from command! We're falling back! I repeat, we're falling back!
+  KO: 지휘부에서 새 명령! 우리는 후퇴한다! 다시 말한다, 우리는 후퇴한다!
+/gico_lion_village_arena_meetup/text
+  EN: So you're the one responsible for tearing through those humans and traitorous youkai. The chief would like to talk with you. She believes you may be of use to her.
+  KO: 네가 바로 그 인간들과 반역한 요괴들을 찢어발긴 장본인이구나. 족장님이 너와 얘기하고 싶어하셔. 네가 자신에게 쓸모 있을 거라 믿고 계셔.
+/gico_lion_village_building1_response/text
+  EN: *You hear footsteps coming from the locked rooms.*
+  KO: *잠긴 방들에서 발소리가 들려온다.*
+/gico_lion_village_building4_response/text
+  EN: Engage the target from the windows!
+  KO: 창문에서 목표물과 교전하라!
+/gico_lion_village_intro_response/text
+  EN: Faint shouts and the sounds of engines can be heard in the distance. They know you're here. Expect heavy resistance and armor.
+  KO: 멀리서 희미한 고함과 엔진 소리가 들린다. 그들은 당신이 여기 있다는 걸 안다. 강력한 저항과 장갑을 예상하라.
+/gico_lion_village_mainstreet1_response/text
+  EN: Move to flank! Move to flank!
+  KO: 측면으로 이동! 측면으로 이동!
+/gico_tengu_meeting_intro/text
+  EN: Don't do anything stupid if you know what's good for you. The chief is in the building ahead.
+  KO: 몸을 위한다면 어리석은 짓 하지 마. 대장은 저 앞 건물 안에 있다.
+/gico_tengu_waterfall_battle/text
+  EN: Send those demons back into the ground they came from! Forward!!!
+  KO: 저 악마들을 원래 있던 땅속으로 돌려보내라! 전진!!!
+/gico_tengu_waterfall_bridge_out/text
+  EN: Bridge is out. Engineers were trying to take out that fucking train, but missed it. You can try crossing it, or go up.
+  KO: 다리가 끊어졌다. 엔지니어들이 그 빌어먹을 열차를 폭파하려고 했지만 빗나갔다. 건너보든가, 위로 올라가든가 해.
+/gico_tengu_waterfall_intro1/text
+  EN: Glad to see you're with us. I already contacted command so they won't shoot you on sight, but don't expect their direct support. They have their own objectives.
+  KO: 우리 편이 되어 줘서 다행이야. 지휘부에는 이미 연락해서 너를 보자마자 쏘지는 않겠지만, 직접 지원해 줄 거라 기대하지는 마. 그들에게도 목표가 있어.
+/gico_tengu_waterfall_intro2/text
+  EN: Be prepared for heavy resistance ahead. We don't know how many youkai are in these tunnels so expect the worse.
+  KO: 앞으로 강력한 저항을 예상하십시오. 이 터널 안에 요괴가 얼마나 있는지 모르니 최악의 상황을 각오하십시오.
+/gico_tengu_waterfall_intro3/text
+  EN: Current objective is get to the top of the mountain and eliminate their chain of command. I'll try to see if I can redirect some help your way, but no promises. Good luck, outsider.
+  KO: 현재 목표는 산 정상에 올라 그들의 지휘 계통을 제거하는 것이다. 도움을 좀 보낼 수 있을지 알아보겠지만, 장담은 못 한다. 행운을 빈다, 이방인.
+/gico_tengu_waterfall_paratroopers/text
+  EN: Outsider. Some friendly boots are coming from above. Watch your fire and stay alive.
+  KO: 이방인. 위에서 아군 보병이 내려오고 있다. 오인 사격 조심하고 살아남아라.
+/gico_trial_kingdom/text
+  EN: As expected, the devils have finally come for me. Come then. Show me your claws. I will strike you down like all the others.
+  KO: 예상대로, 악마들이 마침내 나를 찾아왔군. 그럼 오너라. 발톱을 보여봐라. 다른 놈들처럼 널 쓰러뜨려 주마.
+/gico_wst_vanguard_air_assault/text
+  EN: *You can hear nearby chatter from a dead soldier's radio.* Carpet bombing and reinforcements are enroute. Danger close! ETA, ten seconds!
+  KO: *근처의 죽은 병사 무전기에서 교신 소리가 들린다.* 융단 폭격과 증원군이 이동 중이다. 근접 위험! 도착까지 10초!
+/gico_wst_vanguard_alarm/text
+  EN: They're at the supply checkpoint in the tunnel! Stop them! Somebody contact the company commander!
+  KO: 저들이 터널의 보급 검문소에 있다! 저지해! 누군가 중대장에게 연락해!
+/gico_wst_vanguard_boss_aftermath/text
+  EN: *You barely manage to make out the faint shadow of the tank speeding away into the forest, leaving you in the dust after it had launched all of its smoke canisters.*
+  KO: *전차가 연막탄을 전부 쏘아 댄 뒤 숲속으로 질주하며 사라지는 희미한 그림자만 간신히 알아볼 수 있을 뿐, 당신은 먼지 속에 남겨진다.*
+/gico_wst_vanguard_boss_warning/text
+  EN: All troops, fall back and regroup. I'll take care of this troublemaker.
+  KO: 전 부대, 후퇴해서 재정비하라. 이 말썽꾼은 내가 처리하겠다.
+/gico_wst_vanguard_pathentrance/text
+  EN: While the Lion is recuperating their losses, it looks like one of the Federation Armies are coming in to cover their retreat. The youkai armies are already engaging with them from what you can tell.
+  KO: 사자가 손실을 회복하는 동안, 연합군 하나가 그들의 후퇴를 엄호하러 오는 것 같다. 네가 보기에 요괴 군대가 이미 그들과 교전 중이다.
+/gico_wst_vanguard_tunnelcheckpoint/text
+  EN: Die you youkie fucks!
+  KO: 죽어라, 이 요괴 새끼들아!
+/gico_wst_vanguard_tunnels/text
+  EN: Shit! Everyone! We got youkies here!
+  KO: 젠장! 다들! 여기 요괴 있다!
+
+===== /radiomessages/hellishdemon.radiomessages.patch =====
+/hellishdemon1/text
+  EN: Ah, a sentient creature has come to visit Hell Itself.. How stupid are you?
+  KO: 아, 지각을 가진 생명체가 지옥 그 자체를 방문했군.. 얼마나 어리석은 짓인지.
+/hellishdemon10/text
+  EN: I can see you.
+  KO: 네가 보여.
+/hellishdemon11/text
+  EN: You cannot hide from US.
+  KO: 우리에게서 숨을 수 없다.
+/hellishdemon12/text
+  EN: Every eye is on you. The flesh you step on is alive. | WE know where you are.
+  KO: 모든 눈이 널 향해 있다. 네가 밟고 있는 살은 살아 있다. | 우리는 네가 어디 있는지 안다.
+/hellishdemon13/text
+  EN: There is no place that you can hide. Not even from behind that screen.
+  KO: 숨을 곳은 없어. 그 화면 뒤에 숨어도 소용없어.
+/hellishdemon14/text
+  EN: You will never be safe within OUR domain. | WE are always watching.
+  KO: 우리의 영역 안에서 넌 결코 안전하지 않다. | 우리는 항상 지켜보고 있다.
+/hellishdemon15/text
+  EN: Hiding from behind that screen, hmm..? | What a pitiful creature.
+  KO: 그 화면 뒤에 숨어 있다니, 흠..? | 정말 딱한 존재로군.
+/hellishdemon16/text
+  EN: I'm right behind you, now.. | Go ahead, look away from your screen.
+  KO: 나 바로 네 뒤에 있어, 지금.. | 어서, 화면에서 눈 좀 돌려봐.
+/hellishdemon17/text
+  EN: Funny, thinking you can try to hide from US. This is OUR domain. We see everything, including you. | Ah, what a shame how you hide behind that screen..
+  KO: 우리에게서 숨을 수 있다고 생각하다니 우습군. 여기는 우리의 영역이다. 우리는 너까지 전부 보고 있다. | 아, 화면 뒤에 숨다니 참 딱하군...
+/hellishdemon18/text
+  EN: Heheheh.. Hahahahaa! Look at the way you maneuver this hellscape. You pathetic being.
+  KO: 헤헤헤.. 하하하하하! 이 지옥 같은 풍경 속을 움직이는 꼴을 봐. 한심한 존재로군.
+/hellishdemon19/text
+  EN: Why do you still remain here?
+  KO: 왜 아직도 여기 남아 있는 거야?
+/hellishdemon2/text
+  EN: You cannot stop me. You cannot stop my voice from reaching you. This is OUR domain. A weakling like you doesn't belong here.
+  KO: 날 멈출 수 없어. 내 목소리가 네게 닿는 걸 멈출 수 없어. 여긴 우리의 영역이다. 너 같은 약골은 여길 자격이 없어.
+/hellishdemon20/text
+  EN: Staying in OUR realm is not courage, it is stupidity.
+  KO: 우리 영역에 머무는 건 용기가 아니라, 어리석음이다.
+/hellishdemon21/text
+  EN: So you think you can best US.. Heheheh...
+  KO: 우리를 이길 수 있다고 생각하는군.. 헤헤헤...
+/hellishdemon22/text
+  EN: ^#e5004c;If I wasn't stuck in this plane of existence, I'd come out of your screen and tear your throat apart.^white;
+  KO: ^#e5004c;내가 이 존재의 평면에 갇혀 있지만 않았다면, 네 화면 밖으로 나가서 네 목구멍을 찢어발겼을 거야.^white;
+/hellishdemon23/text
+  EN: ^#e5004c;Do you enjoy these fires? Do you enjoy these fiery burns? DO YOU?! | Suffer more..more, MORE!!^white;
+  KO: ^#e5004c;이 불길들이 즐겁니? 이 화염의 화상이 즐겁니? 즐겁냐고?! | 더 고통받아..더, 더엇!!^white;
+/hellishdemon24/text
+  EN: ^#e5004c;Heheheh... Haha..hahahahaa!! Look at you go! You absolute moron! Hahahaa!^white;
+  KO: ^#e5004c;히히히... 하하..하하하하아!! 네 꼴 좀 봐! 이 완전 멍청이! 하하하아!^white;
+/hellishdemon25/text
+  EN: ^#e5004c;I just want to tear you apart and shred your skin.. You annoy me, you pest.^white;
+  KO: ^#e5004c;그냥 널 찢어발기고 네 가죽을 갈기갈기 찢고 싶어.. 성가시게 굴어, 이 해충아.^white;
+/hellishdemon26/text
+  EN: ^#e5004c;You think you are soo safe behind that screen, don't you? Huh? Hahahahaa!! | Nothing can save you from me.^white;
+  KO: ^#e5004c;그 화면 뒤에 있으면 엄청나게 안전하다고 생각하겠지, 응? 흐음? 하하하하아!! | 아무것도 널 나한테서 구해주지 못해.^white;
+/hellishdemon27/text
+  EN: ^#e5004c;Do you feel safe behind that screen? Does it make you feel at ease? Well, just know..there is something in the walls, watching. Hehehe-hahahahaa!!^white;
+  KO: ^#e5004c;그 화면 뒤에 있다고 안전하다고 느끼니? 마음이 편안해지니? 글쎄, 알아둬..벽 속에 뭔가가 있어, 지켜보고 있어. 히히히-하하하하아!!^white;
+/hellishdemon28/text
+  EN: No, I will not leave you be. This is OUR domain.. | I will nag you until your very inevitable death.
+  KO: 아니, 널 가만두지 않을 거야. 여긴 우리의 영역이야.. | 네 필연적인 죽음이 올 때까지 계속 널 괴롭힐 거다.
+/hellishdemon29/text
+  EN: I can't wait to see you die!
+  KO: 네가 죽는 걸 어서 보고 싶어!
+/hellishdemon30/text
+  EN: ^#e5004c;The funny part about this atmosphere is that it drives weaklings like you mad.. | So, am I real, or a mere figment of your twisted imagination? Hahahahaa!^white;
+  KO: ^#e5004c;이 대기의 재미있는 점은 너 같은 나약한 것들을 미치게 만든다는 거지.. | 그래서, 나는 진짜일까, 아니면 네 뒤틀린 상상력의 산물일까? 하하하하아!^white;
+/hellishdemon31/text
+  EN: The atmosphere here is making you go mad.. And yet you still stay?
+  KO: 이곳의 대기가 당신을 미치게 만들고 있습니다.. 그런데도 계속 머무르시겠습니까?
+/hellishdemon32/text
+  EN: Coming here serves no purpose for you.
+  KO: 당신이 여기 올 이유는 없습니다.
+/hellishdemon33/text
+  EN: There is no other creature like you here. You are the only one. | Are you sure you are still being 'brave'?
+  KO: 이곳에는 너 같은 생물이 또 없어. 너는 단 하나뿐이야. | 그래도 아직 네가 '용감하다'고 자신할 수 있어?
+/hellishdemon34/text
+  EN: ^#e5004c;Ah, the atmosphere here is so sickening.. Isn't it perfect? I can feel you losing control of yourself.. Heheheheh.. You will die a lonely death.^white;
+  KO: ^#e5004c;아, 여기 대기는 정말 메스꺼워.. 완벽하지 않아? 네가 자제력을 잃어가는 게 느껴져.. 히히히힛.. 넌 외롭게 죽을 거야.^white;
+/hellishdemon5/text
+  EN: This place rejects you. These burning Hells rip and tear at your skin.
+  KO: 이곳은 너를 거부한다. 이 불타는 지옥들이 네 가죽을 찢고 갈라댄다.
+/hellishdemon6/text
+  EN: I hope you fall into a pit of lava and die a slow death.. | Oh, that would be wondrous to watch!
+  KO: 네가 용암 구덩이에 빠져서 천천히 죽었으면 좋겠어.. | 오, 그거 정말 구경할 만하겠는걸!
+/hellishdemon7/text
+  EN: You will witness blood, destruction and death.. | Be afraid.
+  KO: 피와 파괴와 죽음을 목격할 것이다.. | 두려워하라.
+/hellishdemon8/text
+  EN: Don't look behind you.
+  KO: 뒤돌아보지 마.
+/hellishdemon9/text
+  EN: Heheheh.. Look at what is behind you. It is watching your every move.
+  KO: 헤헤헤.. 네 뒤에 있는 걸 봐. 그것이 네 모든 움직임을 지켜보고 있다.
+
+===== /radiomessages/lawHQmissions_M03.radiomessages.patch =====
+/hqmission03_mess01/senderName
+  EN: Faly Kintana
+  KO: 팔리 킨타나
+/hqmission03_mess01/text
+  EN: Officer, be careful, we've had some new information. ^orange;Hijacked P1078 police^reset; drones have been detected inside the ship, be careful. I'm breaking contact with you to avoid detection.
+  KO: 경관님, 조심하세요, 새로운 정보가 들어왔습니다. ^orange;탈취된 P1078 경찰^reset; 드론이 함선 내부에서 감지됐습니다, 조심하세요. 발각을 피하기 위해 교신을 끊겠습니다.
+/hqmission03_mess02/text
+  EN: The police found me out and finally decided to arrest me. I knew that I would soon be discovered, but I didn't think my former teammate would come out himself for my arrest.
+  KO: 경찰이 나를 찾아내고 결국 체포하기로 했다. 곧 들킬 줄은 알았지만, 옛 동료가 직접 나를 체포하러 올 줄은 몰랐다.
+/hqmission03_mess03/text
+  EN: Hmm... From what I can see, there are cameras in every nook and cranny. It's gonna be hard to go unnoticed. Then we might as well go all the way!
+  KO: 흠... 보이는 걸로는, 구석구석마다 카메라가 있어. 들키지 않고 지나가긴 힘들겠어. 그럼 그냥 끝까지 가보는 수밖에!
+/hqmission03_mess04/text
+  EN: Officer, this is no time for food and drink. Come on, move your asses, I'm waiting for you!
+  KO: 경관님, 지금은 먹고 마실 때가 아닙니다. 자, 얼른 움직이세요, 기다리고 있습니다!
+/hqmission03_mess05/text
+  EN: Be careful, don't make a mistake, don't press the button where it says '^red;Danger, do not press this button^reset;'... Finally, press it, you'll see, it's magic.
+  KO: 조심하세요, 실수하지 마세요, '^red;위험, 이 버튼을 누르지 마시오^reset;'라고 적힌 버튼은 누르지 마세요... 마지막으로, 눌러보세요, 마법 같을 거예요.
+/hqmission03_mess06/text
+  EN: Officer, remember my programming skills. Do you really think I didn't secure the servers so some smartass wouldn't tamper with them? I'm disappointed in you!
+  KO: 경관님, 제 프로그래밍 실력을 기억하세요. 제가 서버를 확실히 지키지 않았을 거라고 정말 생각하시나요, 어떤 잘난 척쟁이가 손대지 못하도록? 실망스럽네요!
+/hqmission03_mess07/text
+  EN: You won't find anything you can use to stop me, so why don't you come up here and see me, officer? For old times' sake!
+  KO: 날 막을 수단은 못 찾을 거야. 그러니 올라와서 만나면 어때, 경관? 옛 정을 생각해서!
+/hqmission03_mess08/text
+  EN: This is no time to go to the bathroom. Still, it's better than shitting yourself... But maybe you should've thought about that before taking this mission, don't you think?
+  KO: 화장실 갈 때가 아니다. 그래도 바지에 싸는 것보단 낫지... 하지만 이 임무를 받기 전에 생각해 뒀어야 하지 않나?
+/hqmission03_mess09/text
+  EN: I see you, don't be shy... Would you think I'd be credible if I said, ^orange;Nothing bad would happen to you?^reset;
+  KO: 네가 보여, 부끄러워하지 마... 내가 ^orange;"너한테 나쁜 일은 안 생길 거야"^reset;라고 하면 믿을 만하다고 생각할까?
+
+===== /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch =====
+/mwhaddon_mission_mainStory_chapter1_1_1/text
+  EN: Your current coordinate information appears to be contaminated. I cannot identify your current location accurately. Please proceed with caution.
+  KO: 현재 좌표 정보가 오염된 것 같다. 현재 위치를 정확히 식별할 수 없다. 주의해서 진행해.
+/mwhaddon_mission_mainStory_chapter1_1_2/text
+  EN: If you find some places difficult to reach, ^green;you can equip techs from your ^orange;Atlas^reset;.
+  KO: 일부 장소에 도달하기 어렵다면, ^green;^orange;아틀라스^reset;에서 테크를 장착할 수 있어.
+/mwhaddon_mission_mainStory_chapter1_1_3/text
+  EN: I have detected footprints and battle marks of a suspected Aurea Seeker in the vicinity extending all the way inside that cave.
+  KO: 주변에서 아우레아 탐구자로 추정되는 발자국과 전투 흔적을 감지했는데, 저 동굴 안까지 이어져 있어.
+/mwhaddon_mission_mainStory_chapter1_1_4/text
+  EN: It's dangerous to move forward rashly. Ensuring the safe return of the majority, and get back to report the situation and resupply first is recommended.
+  KO: 무모하게 전진하는 건 위험하다. 대다수의 안전한 귀환을 확보하고, 먼저 돌아가 상황을 보고하고 보급을 받는 것을 권장한다.
+/mwhaddon_mission_mainStory_chapter1_3_1/text
+  EN: ^yellow;Warning: SAIL connection is lost. Reconnecting...
+  KO: ^yellow;경고: SAIL 연결 끊김. 재연결 중...
+/mwhaddon_mission_mainStory_chapter1_3_10/text
+  EN: That monster ahead... I've seen them before! ^yellow;They are very sensitive to basic four elementals - fire, ice, electrics and poison!^reset;
+  KO: 저 앞의 몬스터... 전에 본 적 있어! ^yellow;기본 4원소 - 화염, 냉기, 전기, 독에 아주 민감해!^reset;
+/mwhaddon_mission_mainStory_chapter1_3_11/text
+  EN: This chamber... Senpai! There's a staff on that shelf!
+  KO: 이 방은... 선배! 저 선반에 지팡이가 있어요!
+/mwhaddon_mission_mainStory_chapter1_3_12/text
+  EN: This staff can cast both ^orange;fire^reset; and ^cyan;ice^reset; magic... Let's try it on that monster!
+  KO: 이 지팡이는 ^orange;화염^reset;과 ^cyan;얼음^reset; 마법을 둘 다 시전할 수 있다... 저 괴물에게 써 보자!
+/mwhaddon_mission_mainStory_chapter1_3_13/text
+  EN: Wait... Didn't we kill these monsters or, did they just ^yellow;somehow revived^reset;?
+  KO: 잠깐... 이 괴물들 죽인 적 있지 않나, 아니면 그냥 ^yellow;어쩌다 부활했나^reset;?
+/mwhaddon_mission_mainStory_chapter1_3_14/text
+  EN: Senpai! It must be that ^green;odd statue resurrecting those monsters^reset;! ^yellow;We need to destory it!
+  KO: 선배! 저 ^green;괴상한 조각상이 몬스터들을 되살리고 있는^reset; 게 틀림없어! ^yellow;저걸 파괴해야 해!
+/mwhaddon_mission_mainStory_chapter1_3_15/text
+  EN: Senpai! I was right! Give me a compliment! Let's gooooo~
+  KO: 선배! 내가 맞았지! 칭찬해줘! 가보자고오오~
+/mwhaddon_mission_mainStory_chapter1_3_16/text
+  EN: This switch isn't activating anything... confusing...
+  KO: 이 스위치는 아무것도 작동시키지 않는다... 혼란스럽네...
+/mwhaddon_mission_mainStory_chapter1_3_17/text
+  EN: You are a real explorer, Senpai!
+  KO: 진짜 탐험가네요, 선배!
+/mwhaddon_mission_mainStory_chapter1_3_18/text
+  EN: So many treasures here! Senpai won't mind if I get a little share, right?
+  KO: 여기 보물이 정말 많네! 선배도 내가 조금 챙겨가는 거 신경 안 쓰겠지, 그렇지?
+/mwhaddon_mission_mainStory_chapter1_3_19/text
+  EN: Senpai! The path here looks a bit strange ...... ugh? Here is where you came from?
+  KO: 선배! 여기 길이 좀 이상해 보이는데...... 어? 여기가 선배가 왔던 곳이야?
+/mwhaddon_mission_mainStory_chapter1_3_2/text
+  EN: Connection has been re-established. You are now in Almond Epsilon IV, approximately 47.62 parsec away from Emerald's Glimpse. It seems that the ruin's entrance just dropped you here.
+  KO: 연결이 복구되었습니다. 현재 에메랄드 글림프스에서 약 47.62파섹 떨어진 아몬드 엡실론 IV에 있습니다. 유적 입구가 당신을 여기로 떨어뜨린 모양입니다.
+/mwhaddon_mission_mainStory_chapter1_3_3/text
+  EN: Planet Type: Illuminated, same as Emerald's Glimpse. ^orange;Identical energy readings detected as in the cave ruins^reset;. Staying cautious is highly adviced before you find the way back.
+  KO: 행성 유형: 발광, 에메랄드의 섬광과 동일함. ^orange;동굴 유적에서와 동일한 에너지 반응이 감지됨^reset;. 돌아갈 길을 찾기 전까지는 각별한 주의가 권장된다.
+/mwhaddon_mission_mainStory_chapter1_3_4/senderName
+  EN: Avian Girl
+  KO: 아비안 소녀
+/mwhaddon_mission_mainStory_chapter1_3_4/text
+  EN: That's how a manipulator works! Amazing! Like a miracle! Oh, just realized I haven't introduced myself.
+  KO: 그게 바로 조작기가 작동하는 방식이야! 놀랍다! 기적 같아! 아, 방금 내 소개를 안 했다는 걸 깨달았어.
+/mwhaddon_mission_mainStory_chapter1_3_5/text
+  EN: My name's ^green;Sally^reset;. A Grounded. Currently attending ^cyan;Supreinter Imperial University, Department of Interstellar History^reset;. I'm here to do my project, and what brings you here? Ohh hold on, just let me have a guess...
+  KO: 제 이름은 ^green;샐리^reset;예요. 그라운디드죠. 지금은 ^cyan;수프린터 제국대학교 성간사학과^reset;에 다니고 있어요. 여기 프로젝트 하러 왔는데, 당신은 여긴 무슨 일로? 아 잠깐만요, 한번 맞혀볼게요...
+/mwhaddon_mission_mainStory_chapter1_3_6/text
+  EN: Must be expedition, that's the thing all great protectors like you would do! Please, may I join you? My exploration knowledge can help!
+  KO: 탐험이 틀림없어, 당신 같은 위대한 수호자라면 다들 그렇게 하겠지! 부디, 저도 함께해도 될까요? 제 탐사 지식이 도움이 될 거예요!
+/mwhaddon_mission_mainStory_chapter1_3_7/text
+  EN: I've faced monsters while exploring on my own, but you - Gosh, your stance is better than any teacher I've ever seen in Wilderness Self-defence courses!
+  KO: 혼자 탐험하면서 괴물들을 마주쳐 왔지만, 너는 - 세상에, 네 자세는 야생 호신술 수업에서 본 그 어떤 강사보다도 훌륭해!
+/mwhaddon_mission_mainStory_chapter1_3_8/text
+  EN: Can - can I call you ^green;Senpai^reset;? One of my Hyltol classmates taught me this word, and it refers exclusively to those who are more senior and worthy of respect than myself.
+  KO: 저... 저 ^green;선배님^reset;이라고 불러도 될까요? 제 하이로틀 반 친구가 이 단어를 알려줬는데, 저보다 선배이면서 존경할 만한 사람한테만 쓰는 말이래요.
+/mwhaddon_mission_mainStory_chapter1_3_9/text
+  EN: Senpai won't mind if I call you that, right? It's really my long-awaited lucky day to meet Senpai!
+  KO: 선배라고 불러도 괜찮지, 그렇지? 오늘은 정말 오래 기다려온 행운의 날이야, 선배를 만나다니!
+/mwhaddon_mission_mainStory_chapter2_1_1/text
+  EN: We are now in the sewer, Senpai! How exciting! It just stinks!
+  KO: 우리 지금 하수도에 있어요, 선배님! 신나네요! 냄새만 빼면요!
+/mwhaddon_mission_mainStory_chapter2_1_10/text
+  EN: Check this statue, Senpai! How lifelike it is! Well, a bit too lifelike I guess...
+  KO: 이 조각상 좀 보세요, 선배님! 정말 살아있는 것 같지 않나요! 뭐, 좀 지나치게 살아있는 것 같기도 하지만...
+/mwhaddon_mission_mainStory_chapter2_1_11/text
+  EN: S-Senpai, I don't think that thing is welcoming us...
+  KO: 서, 선배님, 저건 우리를 환영하는 것 같지 않아요...
+/mwhaddon_mission_mainStory_chapter2_1_12/text
+  EN: Woa! Senpai! Watch out!
+  KO: 헉! 선배! 조심해!
+/mwhaddon_mission_mainStory_chapter2_1_13/text
+  EN: Seems that the way we just passed is no longer viable. ^green;Let's see if there's another route^reset;, Senpai!
+  KO: 방금 지나온 길은 더 이상 갈 수 없는 것 같아. ^green;다른 길이 있는지 보자^reset;, 선배!
+/mwhaddon_mission_mainStory_chapter2_1_14/text
+  EN: ...and speaking of the Omniversal Arcane Covenant, it's actually quite popular among Avians. They had long since established a partnership with Stargazers.
+  KO: ...옴니버설 비전 서약 얘기가 나와서 말인데, 사실 아비안들 사이에서 꽤 인기가 있어. 오래전부터 스타게이저와 협력 관계를 맺어 왔거든.
+/mwhaddon_mission_mainStory_chapter2_1_15/text
+  EN: They even granted Kluex as a High Magus, a honorary title from the Covenant. How absurd! What's worse is that most of those wizards are just like that.
+  KO: 저들은 클루엑스에게조차 코버넌트의 명예 직위인 대마법사를 올려주었지. 말도 안 돼! 더 나쁜 건 그 마법사들 대부분이 딱 그런 자들이라는 거야.
+/mwhaddon_mission_mainStory_chapter2_1_16/text
+  EN: Another room. Guess it's some kind of ^orange;maze^reset;. ^green;Is there any clue nearby that we can use to find the way out?
+  KO: 또 다른 방이다. 일종의 ^orange;미로^reset;인 것 같다. ^green;근처에 나가는 길을 찾는 데 쓸 만한 단서가 있을까?
+/mwhaddon_mission_mainStory_chapter2_1_17/text
+  EN: But this Vindermill... I'm quite certain I've heard her name somewhere before, but I don't really remember.
+  KO: 근데 이 빈더밀이라는 사람... 어디선가 이름을 들어본 것 같은데, 잘 기억이 안 나네요.
+/mwhaddon_mission_mainStory_chapter2_1_18/text
+  EN: Guess we've made it, Senpai! Let's move on!
+  KO: 해낸 것 같아요, 선배님! 이제 넘어가죠!
+/mwhaddon_mission_mainStory_chapter2_1_19/text
+  EN: ...How on earth did you manage to escape from my labyrinth? Never before have I encountered such tenacious intruders as you.
+  KO: ...대체 어떻게 내 미궁을 빠져나온 거지? 너만큼 끈질긴 침입자는 지금껏 본 적이 없다.
+/mwhaddon_mission_mainStory_chapter2_1_2/text
+  EN: Senpai, the pipework here is a little cramped! I can get through here though... ^green;do you have a way to get over?
+  KO: 선배, 여기 배관이 좀 비좁아! 그래도 난 지나갈 수 있는데... ^green;선배는 넘어올 방법 있어?
+/mwhaddon_mission_mainStory_chapter2_1_20/text
+  EN: Wait, is that you, Miss Vindermill? We'd like to have a word with you, about the Seeker of Dust, you know it, right?
+  KO: 잠깐, 거기 빈더밀 씨 맞나요? 잠시 이야기를 나누고 싶습니다. '먼지의 탐구자'에 대해서요, 알고 계시죠?
+/mwhaddon_mission_mainStory_chapter2_1_21/text
+  EN: Yes, yes, yes, Seeker of Dust. You've seen it too just like many visitors here, welcomed or not, I already knew that.
+  KO: 그래, 그래, 그래, 먼지 탐구자여. 너도 이곳의 많은 방문자처럼 봤겠지, 환영받든 아니든, 나는 이미 알고 있었다.
+/mwhaddon_mission_mainStory_chapter2_1_22/text
+  EN: Save your words to my guardians.
+  KO: 내 수호자들에게나 그 말을 전해라.
+/mwhaddon_mission_mainStory_chapter2_1_23/text
+  EN: Watch out, Senpai!
+  KO: 조심하세요, 선배님!
+/mwhaddon_mission_mainStory_chapter2_1_24/text
+  EN: Well, guess we should try harder, Senpai.
+  KO: 글쎄, 좀 더 노력해야겠네, 선배.
+/mwhaddon_mission_mainStory_chapter2_1_25/text
+  EN: We've really encountered Seeker of Dust, Miss Vindermill! We have samples of fragments from it! As well as this recommendation letter from Dr. Nereus! You know him right?
+  KO: 우리가 정말 먼지 탐구자를 만났어요, 빈더밀 님! 그것의 파편 표본도 있어요! 그리고 네레우스 박사님의 이 추천서도요! 아시잖아요?
+/mwhaddon_mission_mainStory_chapter2_1_26/text
+  EN: So just like I said - Nereus? Oh... recall now. I owe him a favour. That's interesting...
+  KO: 그러니까 내가 말했던 것처럼 - 네레우스? 오... 이제 기억나네. 그 사람한테 신세를 졌었지. 흥미롭군...
+/mwhaddon_mission_mainStory_chapter2_1_27/text
+  EN: ^green;Come up the stairs from the room ahead^reset;, and I'll have a proper chat with you all.
+  KO: ^green;앞쪽 방에서 계단으로 올라와^reset;, 모두와 제대로 이야기해 주지.
+/mwhaddon_mission_mainStory_chapter2_1_3/text
+  EN: Senpai! The lantern here is still functional! ^green;We can use it to light this place up!
+  KO: 선배! 여기 등불이 아직 작동해! ^green;이걸로 여길 밝힐 수 있어!
+/mwhaddon_mission_mainStory_chapter2_1_4/text
+  EN: It looks like we can go up here, Senpai! Perhaps that's where Glimmlecus Tower is.
+  KO: 여기 위로 올라갈 수 있는 것 같아요, 선배님! 아마 저기가 글림레쿠스 탑이 있는 곳일 거예요.
+/mwhaddon_mission_mainStory_chapter2_1_5/text
+  EN: The decor... we really have entered the Glimmlecus Tower, Senpai!
+  KO: 장식이... 정말 글림레쿠스 탑에 들어왔군요, 선배!
+/mwhaddon_mission_mainStory_chapter2_1_6/text
+  EN: Woa! The tower is much bigger than I expected!
+  KO: 헉! 탑이 생각보다 훨씬 커!
+/mwhaddon_mission_mainStory_chapter2_1_7/text
+  EN: But I'm a bit puzzled - ^green;I didn't notice these corridors when I looked up from below earlier.^reset;
+  KO: 그런데 좀 당황스럽네요 - ^green;아까 아래에서 올려다봤을 때는 이 복도들이 안 보였거든요.^reset;
+/mwhaddon_mission_mainStory_chapter2_1_8/text
+  EN: So ^orange;Vindermill^reset;... owner of Glimmlecus Tower that we are looking for. ^green;She's one of those High Magus from the Omniversal Arcane Covenant.
+  KO: 그러니까 ^orange;빈더밀^reset;... 우리가 찾는 글림레쿠스 탑의 주인. ^green;그녀는 옴니버설 아케인 코버넌트 소속 하이 마구스 중 한 명이야.
+/mwhaddon_mission_mainStory_chapter2_1_9/text
+  EN: I'm not particularly familiar with all the magical stuff, but I did hear about this organization in college.
+  KO: 마법 관련 일에는 그다지 익숙하지 않지만, 대학에서 이 조직에 대해 들어본 적은 있어.
+/mwhaddon_mission_mainStory_chapter2_2_1/text
+  EN: Senpai! I found that whenever the talisman points in a certain direction, it emits a glow!
+  KO: 선배! 부적이 특정 방향을 가리킬 때마다 빛을 낸다는 걸 알아냈어!
+/mwhaddon_mission_mainStory_chapter2_2_10/text
+  EN: Until one day I attended one of Miss Anemosia's history lectures... Tweet! She is so erudite and yet so modest!
+  KO: 그러던 어느 날 아네모시아 양의 역사 강의를 들었지... 찡! 그분은 정말 박학하면서도 겸손하셔!
+/mwhaddon_mission_mainStory_chapter2_2_11/text
+  EN: It was she who made me fall in love with Interstellar History from then. If it wasn't for her, I probably wouldn't have met Senpai at all!
+  KO: 그때부터 나를 성간 역사학과 사랑에 빠지게 만든 건 바로 그녀였어요. 그녀가 아니었다면 아마 선배님을 만나지도 못했을 거예요!
+/mwhaddon_mission_mainStory_chapter2_2_12/text
+  EN: Oh! My apologies, Senpai! Though you are willing to listen to me, I ought not to talk about others! J-just forget it!
+  KO: 오! 죄송해요, 선배님! 제 말을 들어주시려는 건 감사하지만, 다른 사람 얘기는 하면 안 되죠! ㄱ-그냥 잊어주세요!
+/mwhaddon_mission_mainStory_chapter2_2_13/text
+  EN: The light from the talisman grows ever brighter — I feel we are very close now!
+  KO: 부적의 빛이 점점 밝아져요. 이제 정말 가까운 것 같아요!
+/mwhaddon_mission_mainStory_chapter2_2_2/text
+  EN: I think we need to ^orange;follow the direction it points^reset;, and we should be able to find what the Seeker of Dust was looking for here!
+  KO: ^orange;그것이 가리키는 방향을 따라가야^reset; 할 것 같아, 그러면 먼지 탐구자가 여기서 찾던 걸 발견할 수 있을 거야!
+/mwhaddon_mission_mainStory_chapter2_2_3/text
+  EN: I suddenly recalled something ^orange;Miss Anemosia^reset; once said, "the most important thing about exploration is not what you gain, but what you encounter."
+  KO: 갑자기 ^orange;아네모시아 양^reset;이 예전에 한 말이 떠올랐어, "탐험에서 가장 중요한 건 무엇을 얻느냐가 아니라 무엇을 마주치느냐다."
+/mwhaddon_mission_mainStory_chapter2_2_4/text
+  EN: This journey turned out quite differently from what I had initially imagined, but I never regret it... as I met Senpai here!
+  KO: 이 여정은 처음에 상상한 것과 완전히 다르게 흘러갔지만, 전혀 후회하지 않아... 여기서 선배를 만났으니까!
+/mwhaddon_mission_mainStory_chapter2_2_5/text
+  EN: Oh, Miss Anemosia is my favourite teacher back in the university. If you're interested in her, I could tell you lots about her!
+  KO: 오, 아네모시아 선생님은 대학 시절 내가 제일 좋아했던 선생님이야. 그분에 관심 있으면 이것저것 많이 말해줄 수 있어!
+/mwhaddon_mission_mainStory_chapter2_2_6/text
+  EN: Look, Senpai! Is is... an emitter? Wondering what it was meant for, and why it ended up like this.
+  KO: 봐, 선배! 저거... 방출기야? 뭐에 쓰려던 건지, 왜 저런 꼴이 됐는지 궁금하네.
+/mwhaddon_mission_mainStory_chapter2_2_7/text
+  EN: Woa! Senpai! Watch those lasers!
+  KO: 헉! 선배! 레이저 조심해!
+/mwhaddon_mission_mainStory_chapter2_2_8/text
+  EN: ...and now we know what that emitter was meant for. ^yellow;It must hurt if we are hit by those lasers!^reset;
+  KO: ...이제 그 방사기가 무엇을 위한 건지 알았어. ^yellow;저 레이저에 맞으면 아프겠는데!^reset;
+/mwhaddon_mission_mainStory_chapter2_2_9/text
+  EN: Actually, to attend ^cyan;Supreinter Imperial University in Exousia^reset; was my parents idea, I wasn't particularly keen on studying there at first.
+  KO: 사실, ^cyan;엑수시아의 슈프레인터 제국대학교^reset;에 진학한 건 부모님 뜻이었어요, 처음엔 그다지 그곳에서 공부하고 싶지 않았거든요.
+/mwhaddon_mission_mainStory_chapter2_3_1/text
+  EN: Senpai! From what I sense, we should move east to reach the crystal!
+  KO: 선배! 느낌상, 수정에 도달하려면 동쪽으로 가야 할 것 같아!
+/mwhaddon_mission_mainStory_chapter2_3_10/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter2_3_10/text
+  EN: It's me, Nereus! ^orange;Sally absorbed crystal again?^reset; And more, we've got something worse than that now!
+  KO: 나야, 네레우스! ^orange;샐리가 또 결정을 흡수했다고?^reset; 게다가, 지금 그보다 더 나쁜 게 생겼어!
+/mwhaddon_mission_mainStory_chapter2_3_11/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter2_3_11/text
+  EN: These intruders! They must have taken Sally! Bring her back! We can take care of ourselves!
+  KO: 이 침입자들! 샐리를 데려간 게 분명해! 되찾아 와! 우리는 스스로를 지킬 수 있어!
+/mwhaddon_mission_mainStory_chapter2_3_12/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter2_3_12/text
+  EN: They leave... They've taken Sally. They were well prepard. Come back. We should have a talk.
+  KO: 떠나갔어... 샐리를 데려갔다고. 제대로 준비하고 온 놈들이었어. 돌아와. 할 얘기가 있어.
+/mwhaddon_mission_mainStory_chapter2_3_2/text
+  EN: Laser again, Senpai! Guess we should find another route!
+  KO: 또 레이저야, 선배! 다른 길을 찾아봐야겠어요!
+/mwhaddon_mission_mainStory_chapter2_3_3/text
+  EN: ^orange;A lever^reset;! Not sure what it does...
+  KO: ^orange;레버다^reset;! 뭘 하는 건지는 모르겠지만...
+/mwhaddon_mission_mainStory_chapter2_3_4/text
+  EN: The configuration of laser changes, Senpai! Perhaps we can pass through now.
+  KO: 레이저 구성이 바뀌었어요, 선배님! 이제 통과할 수 있을 것 같아요.
+/mwhaddon_mission_mainStory_chapter2_3_5/text
+  EN: Clear the path!
+  KO: 길을 비켜라!
+/mwhaddon_mission_mainStory_chapter2_3_6/text
+  EN: OK, that's unexpected...
+  KO: 그래, 이건 예상 못 했는데...
+/mwhaddon_mission_mainStory_chapter2_3_7/text
+  EN: Senpai! We did it! Yes! Oh, a door has opened here, so I'll be on my way. ^green;See you there, Senpai!^reset;
+  KO: 선배! 해냈어! 좋았어! 오, 여기 문이 열렸네, 그럼 나 먼저 갈게. ^green;저기서 보자, 선배!^reset;
+/mwhaddon_mission_mainStory_chapter2_3_8/text
+  EN: Senpai... I think I've found the crystal but... I... ^red;can't help... it's calling...
+  KO: 선배... 수정을 찾은 것 같은데... 나... ^red;어쩔 수가 없어... 부르고 있어...
+/mwhaddon_mission_mainStory_chapter2_3_9/text
+  EN: Senpai! I-
+  KO: 선배! 나-
+/mwhaddon_mission_mainStory_chapter3_1_1/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_1_1/text
+  EN: Accurate coordinate information... It's me, Nereus. You are currently at a Scavenger's camp, and ^orange;Sally's signal is just up ahead^reset;.
+  KO: 정확한 좌표 정보... 나야, 네레우스. 지금 당신은 스캐빈저 야영지에 있고, ^orange;샐리의 신호는 바로 앞쪽^reset;에 있어.
+/mwhaddon_mission_mainStory_chapter3_1_10/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_1_10/text
+  EN: The tram track breaks off here. Looks like we'll have to run the rest of the way.
+  KO: 전차 선로가 여기서 끊겼어. 나머지 길은 뛰어야겠는데.
+/mwhaddon_mission_mainStory_chapter3_1_11/text
+  EN: ^red;Warning! Enemy missile barrages approaching!^reset;
+  KO: ^red;경고! 적 미사일 집중 사격 접근 중!^reset;
+/mwhaddon_mission_mainStory_chapter3_1_12/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_1_12/text
+  EN: With this level of indiscriminate firepower suppression, shouldn't it be...
+  KO: 이 정도 무차별 화력 제압이면, 설마...
+/mwhaddon_mission_mainStory_chapter3_1_13/text
+  EN: ^red;Warning! Next missile barrages will arrive in ^orange;3 seconds^red;! Take cover as soon as possible!^reset;
+  KO: ^red;경고! 다음 미사일 집중 사격이 ^orange;3초^red; 후 도착한다! 최대한 빨리 엄폐하라!^reset;
+/mwhaddon_mission_mainStory_chapter3_1_14/text
+  EN: ^red;Warning! More missile barrages will arrive in ^orange;3 seconds^red;! Take cover as soon as possible!^reset;
+  KO: ^red;경고! 추가 미사일 집중 사격이 ^orange;3초^red; 후 도착한다! 최대한 빨리 엄폐하라!^reset;
+/mwhaddon_mission_mainStory_chapter3_1_15/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_1_15/text
+  EN: No way... That's... ^orange;Brutol^reset;, after all this time? Come back, Seeker. We've got real problem this time.
+  KO: 말도 안 돼... 그게... ^orange;브루톨^reset;이라고, 이렇게 오랜 시간이 지나서? 돌아와, 시커. 이번엔 진짜 문제가 생겼어.
+/mwhaddon_mission_mainStory_chapter3_1_2/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_1_2/text
+  EN: They wonn't expect us to find this place so quickly. Now is undoubtedly the best time to rescue her.
+  KO: 저들은 우리가 이렇게 빨리 이곳을 찾을 줄 예상 못할 거다. 지금이 그녀를 구할 최적의 타이밍이다.
+/mwhaddon_mission_mainStory_chapter3_1_3/text
+  EN: The switch to open this door seems to be elsewhere. You may need to ^yellow;search for it on the surface^reset;.
+  KO: 이 문을 여는 스위치는 다른 곳에 있는 듯하다. ^yellow;지상에서 찾아봐야^reset; 할지도 모른다.
+/mwhaddon_mission_mainStory_chapter3_1_4/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_1_4/text
+  EN: That's... ^green;Phillippe VII^reset;? So it was he who orchestrated Sally's kidnapping? No wonder he's been hounding us relentlessly.
+  KO: 저건... ^green;필리프 7세^reset;? 그러니까 샐리의 납치를 계획한 게 그였다고? 그가 그렇게 집요하게 우릴 쫓아다닌 것도 당연하네.
+/mwhaddon_mission_mainStory_chapter3_1_5/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_1_5/text
+  EN: This does explain a lot, ^cyan;but I still feel something's fishy...^reset; Now let's figure out how to rescue Sally first.
+  KO: 이건 많은 걸 설명해 주네. ^cyan;그래도 아직 뭔가 수상한 느낌이야...^reset; 자, 일단 샐리를 구출할 방법부터 찾아보자.
+/mwhaddon_mission_mainStory_chapter3_1_6/text
+  EN: Warning. A non-Scavenger fleet is approaching this planet. Their fleet identification code is...
+  KO: 경고. 스캐빈저가 아닌 함대가 이 행성에 접근 중이다. 함대 식별 코드는...
+/mwhaddon_mission_mainStory_chapter3_1_7/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_1_7/text
+  EN: ^#ba22b0;Horizons^reset;!
+  KO: ^#ba22b0;호라이즌^reset;!
+/mwhaddon_mission_mainStory_chapter3_1_8/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_1_8/text
+  EN: Looks like things are a lot messier than we thought. Horizons can only have one goal here, so we must find Sally before they do.
+  KO: 생각보다 훨씬 더 엉망인 것 같아. 호라이즌의 목표는 여기서 오직 하나뿐일 테니, 우리가 그들보다 먼저 샐리를 찾아야 해.
+/mwhaddon_mission_mainStory_chapter3_1_9/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_1_9/text
+  EN: They must have taken the tram on the right. Let's board the one on the left.
+  KO: 저들은 오른쪽 트램을 탔을 거다. 우리는 왼쪽 것을 타자.
+/mwhaddon_mission_mainStory_chapter3_2_1/text
+  EN: I'm waiting for you right ahead, and I'll tell you about the test there.
+  KO: 바로 앞에서 널 기다리고 있을게, 거기서 시험에 대해 얘기해줄게.
+/mwhaddon_mission_mainStory_chapter3_2_10/text
+  EN: Congratulations! You've completed all test levels! ^green;You can get back from the teleporter ahead.
+  KO: 축하합니다! 모든 시험 레벨을 완료했습니다! ^green;앞의 텔레포터로 돌아갈 수 있습니다.
+/mwhaddon_mission_mainStory_chapter3_2_11/text
+  EN: There is an unused test level further ahead, because it's... ^green;too difficult^reset;. You can try if you want.
+  KO: 더 앞에는 사용되지 않는 시험 단계가 있어. 너무... ^green;어려워서^reset; 말이야. 원한다면 도전해 봐.
+/mwhaddon_mission_mainStory_chapter3_2_2/text
+  EN: ^orange;Breach Sphere^reset; is a branch of the ^green;Distortion Sphere tech^reset; you probably know. ^cyan;Press ^yellow;[F]^cyan; to activate or deactivate it.^reset;
+  KO: ^orange;브리치 스피어^reset;는 아마 알고 있을 ^green;디스토션 스피어 기술^reset;의 한 갈래다. ^cyan;^yellow;[F]^cyan;를 눌러 켜거나 끌 수 있다.^reset;
+/mwhaddon_mission_mainStory_chapter3_2_3/text
+  EN: You can climb walls in ^orange;Breach Sphere^reset; form, just like a ^green;Spike Sphere^reset;.
+  KO: ^orange;브리치 구체^reset; 형태로 벽을 탈 수 있어, ^green;스파이크 스피어^reset;처럼.
+/mwhaddon_mission_mainStory_chapter3_2_4/text
+  EN: ^cyan;Activate the tech ^orange;against a wall^reset;, and you'll automatically adhere to it.
+  KO: ^cyan;기술을 ^orange;벽에 대고^reset; 발동하면, 자동으로 벽에 달라붙는다.
+/mwhaddon_mission_mainStory_chapter3_2_5/text
+  EN: Good! You have passed the basic test part! Take a short break, the main challenge lies ahead.
+  KO: 좋아! 기본 시험을 통과했어! 잠깐 쉬어. 진짜 도전은 이제부터야.
+/mwhaddon_mission_mainStory_chapter3_2_6/text
+  EN: ^cyan;Holding ^yellow;[LMB]^cyan; to charge the sphere^reset;, and you'll ^orange;launch a catapult^reset; in the direction indicated by ^yellow;the yellow arrow^reset; when you release after a period of time.
+  KO: ^cyan;^yellow;[LMB]^cyan;를 누르고 있어 구체를 차징하고^reset;, 일정 시간 후 놓으면 ^yellow;노란 화살표^reset;가 가리키는 방향으로 ^orange;투석기를 발사^reset;한다.
+/mwhaddon_mission_mainStory_chapter3_2_7/text
+  EN: The catapult will not launch ^orange;if your cursor is close to the sphere^reset;. You can cancel a catapult in this manner.
+  KO: 투석기는 ^orange;커서가 구체 가까이에 있으면^reset; 발사되지 않습니다. 이 방법으로 투석을 취소할 수 있습니다.
+/mwhaddon_mission_mainStory_chapter3_2_8/text
+  EN: You can also perform the charge ^orange;in mid-air^reset;! Charging in mid-air will halt your launch and suspend yourself.
+  KO: ^orange;공중에서도^reset; 차지를 쓸 수 있어! 공중 차지는 발사를 멈추고 널 공중에 멈추게 해.
+/mwhaddon_mission_mainStory_chapter3_2_9/text
+  EN: If you are holding ^yellow;[Shift]^reset; when you launch a catapult, your catapult speed will be slowed down to allow more precise controls.
+  KO: 캐터펄트를 발사할 때 ^yellow;[Shift]^reset;를 누르고 있으면, 캐터펄트 속도가 느려져서 더 정밀한 조작이 가능해집니다.
+/mwhaddon_mission_mainStory_chapter3_3_1/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_3_1/text
+  EN: It's me, ^green;Nereus^reset;. This is a pre-recorded voice message. If you hearing this, it means Miss Vindermill has successfully delivered you to the Horizon weapon testing ground.
+  KO: 나야, ^green;네레우스^reset;. 이건 사전 녹음된 음성 메시지야. 이걸 듣고 있다면, 빈더밀 양이 널 호라이즌 무기 시험장까지 무사히 데려다줬다는 뜻이지.
+/mwhaddon_mission_mainStory_chapter3_3_10/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_3_10/text
+  EN: ...Sorry. Just take a breath first. ^green;The hangar ahead is a suitable location for setting up the returning beacon.^reset; I'll hear your detailed report when you decide to return.
+  KO: ...미안. 일단 숨부터 돌려. ^green;앞에 있는 격납고가 귀환 신호기를 설치하기에 적당한 장소야.^reset; 돌아오기로 하면 그때 자세한 보고를 들을게.
+/mwhaddon_mission_mainStory_chapter3_3_2/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_3_2/text
+  EN: To minimize the risk of exposure, ^cyan;we will maintain silence in the communication channel while we still keep monitoring.^reset; Should situation changes, we will proactively restore the communication.
+  KO: 노출 위험을 최소화하기 위해, ^cyan;감시를 유지하면서도 통신 채널의 침묵을 유지할 것이다.^reset; 상황이 바뀌면 통신을 선제적으로 복구하겠다.
+/mwhaddon_mission_mainStory_chapter3_3_3/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_3_3/text
+  EN: Your objective is to locate and rescue Sally. Afterward, we'll use the same method to get you out. ^green;Remember, don't linger in battle! ^red;Brutol is no enemy you can easily handle.
+  KO: 네 목표는 샐리를 찾아 구출하는 것이다. 그다음 같은 방법으로 널 빼낼 거다. ^green;기억해, 전투에 질질 끌리지 마! ^red;브루톨은 네가 쉽게 상대할 적이 아니야.
+/mwhaddon_mission_mainStory_chapter3_3_4/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_3_4/text
+  EN: Remember, the key to this operation should be ^green;stealth^reset;. Rather than taking paths with more enemies, you should ^orange;seek out those unexpected alternative routes instead^reset;.
+  KO: 기억해, 이번 작전의 핵심은 ^green;은신^reset;이어야 해. 적이 많은 경로를 택하기보다는, ^orange;예상치 못한 대체 경로를 찾아야 해^reset;.
+/mwhaddon_mission_mainStory_chapter3_3_5/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_3_5/text
+  EN: What happened? Is the operation exposed? ^orange;We just observed a viol-
+  KO: 무슨 일이야? 작전이 노출됐어? ^orange;우리는 방금 폭력을 관-
+/mwhaddon_mission_mainStory_chapter3_3_6/text
+  EN: ^yellow;Warning: SAIL connection is lost. Reconnecting...
+  KO: ^yellow;경고: SAIL 연결 끊김. 재연결 중...
+/mwhaddon_mission_mainStory_chapter3_3_7/text
+  EN: ^red;Warning: SAIL connection cannot be reestablished. Please wait patiently in place until the connection is reestablished.
+  KO: ^red;경고: SAIL 연결을 재설정할 수 없다. 연결이 재설정될 때까지 자리에서 참을성 있게 기다려라.
+/mwhaddon_mission_mainStory_chapter3_3_8/text
+  EN: ...^yellow;Interception Territory^reset; is gone?! This is me, ^green;Protector^reset;. I know what you're concerning about. ^green;I'm waiting right up ahead.^reset;
+  KO: ...^yellow;요격 영역^reset;이 사라졌다고?! 나야, ^green;수호자^reset;. 무엇을 걱정하는지 알아. ^green;바로 앞에서 기다리고 있을게.^reset;
+/mwhaddon_mission_mainStory_chapter3_3_9/senderName
+  EN: Dr. Nereus
+  KO: 네레우스 박사
+/mwhaddon_mission_mainStory_chapter3_3_9/text
+  EN: You're okay, Seeker? What in the world just happened? We just lost contact with you... Where's Sally and Brutol?
+  KO: 괜찮아, 시커? 도대체 무슨 일이 있었던 거야? 방금 연락이 끊겼어... 샐리랑 브루톨은 어디 있어?
+
+===== /radiomessages/om_harpyIntro.radiomessages.patch =====
+/om_harpyCantSave/text
+  EN: By the way, once I open your cell door, you won't have enough time to save any of the other captives here. You'll need to follow my instructions carefully.
+  KO: 그나저나, 제가 당신 감방 문을 열면, 여기 있는 다른 포로들을 구할 시간이 충분하지 않을 거예요. 제 지시를 신중히 따라주셔야 해요.
+/om_harpyIntroChestTutorial/text
+  EN: You're quite lucky that nobody is monitoring you right now. Quickly - there is a ^green;storage room ^orange;northeast of your current location^reset;. You need to grab some weapons to defend yourself.
+  KO: 지금 아무도 널 감시하지 않으니 운이 좋네. 빨리 - ^green;현재 위치의 북동쪽에 ^orange;저장고^reset;가 있어. 몸을 지킬 무기를 좀 챙겨야 해.
+/om_harpyIntroDig/text
+  EN: Their sewer system here is plugged... The Matter Manipulator can be used to clear this waste. ^#71f2f6;Press the R key to equip it^white;, then click and hold on the pile of waste to dig through it.
+  KO: 이곳의 하수도가 막혔어... 물질 조작기로 오물을 치울 수 있어. ^#71f2f6;R 키를 눌러 장착한 뒤^white;, 오물 더미를 클릭한 채 유지해 파내.
+/om_harpyIntroExitBedPester/text
+  EN: You need to get up. ^#71f2f6;Press A or D to stand up^white;.
+  KO: 일어나야 한다. ^#71f2f6;A나 D를 눌러 일어난다^white;.
+/om_harpyIntroExplain/text
+  EN: You're probably confused and maybe even frightened. Let me explain.
+  KO: 혼란스럽고 어쩌면 두려울 거야. 설명해줄게.
+/om_harpyIntroExplain2/text
+  EN: You were recently ^orange;kidnapped by Miniknog scientists^reset; because of your condition, "^green;Harpy Disease^reset;". | I suspect they want to use you for testing.
+  KO: 너의 상태인 '^green;하피 병^reset;' 때문에 최근 ^orange;미니크녹 과학자들에게 납치됐다^reset;. | 그들이 널 실험에 쓰려는 것 같아.
+/om_harpyIntroFightTutorial/text
+  EN: I believe your captors have finally realized that you escaped. ^orange;Prepare for battle!^reset;
+  KO: 네 포획자들이 마침내 네가 탈출했다는 걸 눈치챈 것 같아. ^orange;전투를 준비해!^reset;
+/om_harpyIntroHacked/text
+  EN: I have bypassed the security checks here and opened as many doors as I could manage.
+  KO: 여기 보안 검사를 우회하고 가능한 한 많은 문을 열어놨어.
+/om_harpyIntroHacking/text
+  EN: I am going to help you escape before that happens. | ^orange;Please wait a moment^reset; while I try to hack into this facility's security systems.
+  KO: 저게 벌어지기 전에 네가 탈출하도록 도와줄게. | ^orange;잠시만 기다려^reset;, 이 시설의 보안 시스템을 해킹해볼게.
+/om_harpyIntroHasMatter/text
+  EN: Excellent! | Quickly, we need to ^orange;head further upwards^reset;. We're close to the surface.
+  KO: 훌륭해! | 서둘러, ^orange;더 위로 올라가야 해^reset;. 지표면 가까이 왔어.
+/om_harpyIntroJumpRoom/text
+  EN: There's a weapon chest in the room beyond this one. You will have to time your jumps and land carefully onto each platform.
+  KO: 이 방 너머에 무기 상자가 있어요. 점프 타이밍을 맞춰 각 발판에 조심스럽게 착지해야 합니다.
+/om_harpyIntroJumpTutorial/text
+  EN: You need to ascend through this section. | ^#71f2f6;Use the spacebar to jump^white; up to higher platforms.
+  KO: 이 구역을 위로 올라가야 한다. | ^#71f2f6;스페이스바로 점프해^white; 더 높은 발판으로 올라간다.
+/om_harpyIntroLabComment/text
+  EN: The Miniknog are trying to make this facility appear "friendly" and "safe" on the surface while doing horrific things down below...
+  KO: 미니크녹은 이 시설을 표면적으로는 '친절하고' '안전해' 보이게 만들려 하면서, 아래쪽에서는 끔찍한 짓을 벌이고 있어...
+/om_harpyIntroLabComment2/text
+  EN: If you ^#orange;interact with this ^green;fake "floor"^reset;, it should ^orange;open^reset;.
+  KO: ^#orange;이 가짜 "바닥"과 ^green;상호작용하면^reset;, ^orange;열릴^reset; 거야.
+/om_harpyIntroLabRoomTutorial/text
+  EN: In the meantime, why don't you try interacting with that suspicious chain? To interact with a nearby person, door, or other object, you should ^#71f2f6;hover over it with your cursor and press E^white;.
+  KO: 그동안, 저 수상한 사슬과 상호작용해보는 건 어때? 근처의 사람, 문, 다른 물체와 상호작용하려면, ^#71f2f6;커서를 올리고 E를 누르면^white; 돼.
+/om_harpyIntroMatter/text
+  EN: This facility has a ^green;Matter Manipulator^reset;?! | ..No matter, you will need that! You must ^orange;figure out a way to open that ^green;extra storage room^reset;.
+  KO: 이 시설에 ^green;물질 조작기^reset;가 있다고?! | ..상관없다, 그게 필요할 거다! 너는 ^orange;저 ^green;추가 저장실^reset;을 여는 방법을 알아내야 한다.
+/om_harpyIntroShip/text
+  EN: There! ^orange;Above you!^reset; | I have bypassed the ship's security and preflight checks. ^#71f2f6;Get aboard^reset;!
+  KO: 저기! ^orange;머리 위야!^reset; | 함선의 보안과 비행 전 점검을 우회했어. ^#71f2f6;어서 타^reset;!
+/om_harpyIntroShipAbove/text
+  EN: Fortunately, I am ^green;detecting a docked ship ^orange;above^reset; this facility. If you can ^orange;make it to the top, you can escape^reset;.
+  KO: 다행히 이 시설 ^green;위쪽^orange;에 정박한 우주선을 감지하고 있습니다^reset;. ^orange;꼭대기까지 올라갈 수 있다면 탈출할 수 있습니다^reset;.
+
+===== /radiomessages/pf_newtutorial.radiomessages.patch =====
+/pf_deadlyhazardtutorial_a/text
+  EN: The atmospheric conditions on this planet are particularly harsh, putting you in extreme danger. You can ^green;mitigate these effects with ^orange;mild protection^green;, but won't hold the effects back completely.
+  KO: 이 행성의 대기 조건은 특히 가혹해, 당신을 극도의 위험에 빠뜨립니다. ^green;약한 보호구로 이 효과를 완화^orange;할 수 있지만^green;, 효과를 완전히 막지는 못합니다.
+/pf_deadlyhazardtutorial_b/text
+  EN: An ^orange;upgraded Hazard Lab Table^reset; would allow you to create ^green;much stronger climate protection options, allowing complete immunity.^reset; I would highly recommend this approach.
+  KO: ^orange;개량형 위험 연구소 탁자^reset;가 있다면 ^green;완전 면역을 제공하는 훨씬 강력한 기후 보호 장비^reset;를 제작할 수 있습니다. 이 방법을 강력히 추천합니다.
+/pf_mildhazardtutorial_a/text
+  EN: You are currently in a hazardous environment caused by planetary climate or weather, putting yourself in peril. You might be able to survive with enough planning, but your survival rate will be lower.
+  KO: 현재 행성 기후나 날씨로 인한 위험 환경에 있으며, 위험에 처해 있다. 충분한 계획으로 생존할 수 있지만, 생존율은 낮아질 것이다.
+/pf_mildhazardtutorial_b/text
+  EN: I'd recommend making a ^orange;Hazard Lab Table^reset; at an ^green;Inventor's Table^reset; to make protective gear for these conditions whenever they arise.
+  KO: 그런 상황이 생길 때마다 보호 장비를 만들려면 ^green;발명가 테이블^reset;에서 ^orange;위험 실험 탁자^reset;를 만드는 걸 추천해.
+/pf_pickupenhancementpack/text
+  EN: You obtained an Enhancement Pack. These pieces of equipment will give you a variety of effects to boost your effectiveness in certain ways. You can also enhance these packs with augments.
+  KO: 강화 팩을 얻었다. 이 장비는 특정 방식으로 효율을 높여주는 다양한 효과를 준다. 증강 부품으로 팩을 강화할 수도 있다.
+/pf_pickuphazardtable/text
+  EN: I see you have made a Hazard Lab Table. This station will allow you to craft planet hazard blocking consumables, augments, EPPs, and even regulators. A must-have for any adventurer.
+  KO: 위험 실험 탁자를 만들었구나. 이 제작대로 행성 위험 차단용 소모품, 증강 장치, EPP, 심지어 레귤레이터까지 제작할 수 있어. 모험가라면 필수품이야.
+/pf_pickupregulator/text
+  EN: You've created a regulator! These objects allow you to protect a large area around it from certain planetary hazards. A perfect addition to any base found on a hazardous planet.
+  KO: 조절기를 만들었다! 이 물체는 주변 넓은 지역을 특정 행성 위험으로부터 보호한다. 위험한 행성의 기지에 완벽한 추가물이다.
+
+===== /radiomessages/sb_tutorial.radiomessages.patch =====
+/sb_pickupammo/text
+  EN: I see you've acquired some ammunition! Certain firearms gain a ^green;20%^reset; damage boost when using any type of ammo. If your ammo reserves are depleted or ^#71f2f6;SHIFT^reset; is held, the gun will instead use energy.
+  KO: 탄약을 좀 얻었구나! 특정 화기는 어떤 종류든 탄약을 사용하면 ^green;20%^reset; 피해 증가를 받아. 탄약이 떨어지거나 ^#71f2f6;SHIFT^reset;를 누르고 있으면, 총이 대신 에너지를 사용해.
+/sb_pickupcustomcodex/text
+  EN: You have discovered a blank book. It may be worthwhile to write notes, messages to friends, my advice, or notable locations you've discovered on your travels.
+  KO: 빈 책을 발견했다. 여행 중 발견한 주목할 장소, 친구에게 보낼 메시지, 내 조언을 적어둘 만하다.
+/sb_pickupinventorstable/text
+  EN: Note that many vanilla crafting stations allow de-selecting the currently selected tab to view all tabs at once. This may prove helpful if a modded item erroneously does not appear in any tabs.
+  KO: 많은 바닐라 제작대는 현재 선택된 탭을 다시 클릭해 선택 해제하면 모든 탭을 한 번에 볼 수 있게 해준다는 점을 참고하세요. 모드로 추가된 아이템이 어느 탭에도 나타나지 않는 오류가 있을 때 유용할 수 있습니다.
+/sb_pickupladder/text
+  EN: I see you've encountered a ladder! While on a ladder, hold ^#71f2f6;[SPACE]^reset; to quickly ascend. A ^green;ladder deployer^reset; can be crafted at a ^orange;wooden tool table^reset; to facilitate placing multiple ladders at once.
+  KO: 사다리를 만났구나! 사다리 위에서 ^#71f2f6;[SPACE]^reset;를 누르고 있으면 빠르게 올라갈 수 있어. ^orange;나무 도구 작업대^reset;에서 ^green;사다리 설치기^reset;를 제작하면 사다리 여러 개를 한 번에 설치할 수 있어.
+/sb_pickuplibrary/text
+  EN: I see that you've acquired a lectern! Any item placed on a lectern will stay with it, even if the lectern is relocated.
+  KO: 독서대를 얻었구나! 독서대에 올려놓은 물건은, 독서대를 옮겨도 그대로 남아 있어.
+/sb_pickupminingtool/text
+  EN: You've obtained a mining tool. Although you can access it after placing it in the action bar, you can also place it in your Matter Manipulator slot from the access panel on the right-hand toolbar.
+  KO: 채굴 도구를 얻었다. 액션 바에 놓으면 사용할 수 있고, 오른쪽 도구 모음의 접근 패널에서 물질 조작기 슬롯에 넣을 수도 있다.
+/sb_pickupmoonstoneore/text
+  EN: You have discovered moonstone ore. It can be used at a ^orange;robotic tool table^reset; to create stat upgrades for your ship.
+  KO: 문스톤 광석을 발견했다. ^orange;로봇 도구 탁자^reset;에서 함선 스탯 강화를 만드는 데 쓸 수 있다.
+/sb_pickupmusicsheet/text
+  EN: I see you've acquired a music sheet! You can craft a radio at a ^orange;wooden tool table^reset; to listen to the music.
+  KO: 악보를 얻었구나! ^orange;나무 도구 작업대^reset;에서 라디오를 제작하면 음악을 들을 수 있어.
+/sb_pickuppaint/text
+  EN: You discovered paint! You can paint blocks and platforms into various different colors. Please note that the colour of the paint may change depending on the material being painted.
+  KO: 페인트를 발견했다! 블록과 플랫폼을 다양한 색으로 칠할 수 있다. 칠해지는 재료에 따라 페인트 색이 달라질 수 있으니 참고해라.
+/sb_pickuptechconsole1/text
+  EN: To obtain copies of tech for the ^orange;tech development console, ^green;select a tech in the ^orange;tech equip menu^green; and press the 'download' button^reset;. It should be noted that this requires a tech card.
+  KO: 기술 사본을 얻으려면, ^orange;기술 개발 콘솔^green;에서 ^orange;기술 장착 메뉴^green;의 기술을 선택하고 '다운로드' 버튼을 눌러라^reset;. 참고로 테크 카드가 필요하다.
+/sb_pickuptechconsole2/text
+  EN: Additionally, excess copies of tech can be processed through a ^orange;refinery^reset; to gain a tech card.
+  KO: 추가로, 기술 사본이 남으면 ^orange;정제소^reset;를 통해 처리해 테크 카드를 얻을 수 있다.
+/sb_unlocktech/text
+  EN: The following tech has been made available: ^green;%s^reset; You can purchase tech at a tech console using tech cards.
+  KO: 다음 테크를 사용할 수 있게 되었습니다: ^green;%s^reset; 테크 카드를 사용해 테크 콘솔에서 테크를 구매할 수 있습니다.
+/sb_unlocktechs/text
+  EN: The following techs have been made available: ^green;%s^reset; You can purchase tech at a tech console using tech cards.
+  KO: 다음 테크들을 사용할 수 있게 되었습니다: ^green;%s^reset; 테크 카드를 사용해 테크 콘솔에서 테크를 구매할 수 있습니다.
+
+===== /radiomessages/thea-instances.radiomessages.patch =====
+/akkimaridronebattle1/text
+  EN: You'll find a group of Akkimari scavengers beyond the cliffs ahead. Be careful: they appear to be heavily armed, and are assisted by drones and a Chaseflight.
+  KO: 앞 절벽 너머에 아키마리 약탈자 무리가 있을 거야. 조심해: 중무장한 데다 드론과 체이스플라이트의 지원을 받아.
+/akkimaridronebattle2/text
+  EN: The target you are after is the large Akkimari Justicar just up ahead. Take it out, then find a return teleporter further to the east.
+  KO: 찾는 목표는 바로 앞에 있는 거대한 아키마리 저스티카다. 처치한 다음 동쪽으로 더 가서 귀환용 텔레포터를 찾아라.
+/akkimaridronebattle3/text
+  EN: I have decrypted the security code for the door ahead. The passcode to unlock the door is 55512.
+  KO: 앞에 있는 문의 보안 코드를 해독했어. 문을 여는 암호는 55512야.
+/avikanroguehunt1/text
+  EN: You can enter the thieves' hideout through this crack in the rocks.
+  KO: 이 바위 틈새로 도둑들의 은신처에 들어갈 수 있어.
+/avikanroguehunt2/text
+  EN: Be careful: there's a lot of bandits in the area ahead.
+  KO: 조심하세요: 앞쪽 지역에 도적이 많습니다.
+/avikanroguehunt3/text
+  EN: The leader of the bandits waits just beyond. Be careful.
+  KO: 산적 두목이 바로 앞에서 기다리고 있다. 조심해.
+/remnantfragmentblockade-missingitems/text
+  EN: This rock seems to respond to Blighted Stone Fragments. Perhaps if you collect a few more, you can open the way ahead?
+  KO: 이 바위는 황폐해진 돌 파편에 반응하는 듯하다. 파편을 좀 더 모으면 앞길을 열 수 있을지도?
+/remnantsplinter-foundgoal/text
+  EN: This seems to be the source of the strange energies here. You'd better tell Ayala what you've found.
+  KO: 이곳의 이상한 에너지들의 근원인 듯하다. 발견한 걸 아얄라에게 알리는 게 좋겠다.
+/vanguarddronebattle1/text
+  EN: Your target is the Violated Elite Drahl located in this area. Take it out, then find the return teleporter in a small storage room to the east.
+  KO: 목표는 이 지역의 침해된 엘리트 드랄이다. 처치한 뒤 동쪽 작은 창고의 귀환 텔레포터를 찾아라.
+/vanguardmechunlock1/text
+  EN: I am detecting multiple Vanguard Krahls in the room ahead. You should enter one.
+  KO: 앞쪽 방에서 다수의 뱅가드 크랄이 감지됩니다. 그중 하나에 탑승하시는 걸 추천합니다.
+/vanguardmechunlock10/text
+  EN: The Krahl will not fit through this small door. Jump out to proceed to the teleporter.
+  KO: 크랄은 이 작은 문을 통과할 수 없습니다. 뛰어나가서 텔레포터로 이동하세요.
+/vanguardmechunlock11/text
+  EN: This teleporter marks the end of the testing course. You should return to Rokhan.
+  KO: 이 텔레포터는 시험 코스의 끝을 표시한다. 로칸에게 돌아가야 한다.
+/vanguardmechunlock2/text
+  EN: Your first assigned goal is to destroy all targets in this room. Your Krahl's primary explosive cannon should suffice here.
+  KO: 첫 번째 지정 목표는 이 방의 모든 표적을 파괴하는 것이다. 크랄의 주 폭발포면 충분할 거다.
+/vanguardmechunlock3/text
+  EN: Rokhan is pleased with your progress so far, but there are a few more tests for you to run.
+  KO: 로칸이 지금까지의 진행 상황에 만족하지만, 아직 치러야 할 시험이 몇 가지 더 남았다.
+/vanguardmechunlock4/text
+  EN: Your Krahl is equipped with powerful jumpjets. You can activate them by jumping while in the air.
+  KO: 네 크랄에는 강력한 점프제트가 달렸다. 공중에서 점프하면 발동된다.
+/vanguardmechunlock5/text
+  EN: Your Krahl's jumpjets have good range, but they cannot be used indefinitely. Always mind the amount of time you spend in the air.
+  KO: 네 크랄의 점프제트는 사거리가 좋지만 무한히 쓸 수는 없다. 공중에 머무는 시간을 항상 살펴라.
+/vanguardmechunlock6/text
+  EN: The Krahl is fully capable of underwater operation. Do not hesitate to jump in.
+  KO: 크랄은 수중 운용이 완전히 가능합니다. 망설이지 말고 뛰어드세요.
+/vanguardmechunlock7/text
+  EN: I am detecting low levels of light. You can use the ^green;[F] ^reset;button to activate the Krahl's headlights.
+  KO: 낮은 조도가 감지됩니다. ^green;[F]^reset; 버튼으로 크랄의 헤드라이트를 켤 수 있습니다.
+/vanguardmechunlock8/text
+  EN: The Krahl's jumpjets can also be used for horizontal flight. Try to fly to the other side.
+  KO: 크랄의 점프젯은 수평 비행에도 사용할 수 있습니다. 반대편으로 날아가 보세요.
+/vanguardmechunlock9/text
+  EN: Your final challenge is to reach the room on the other side of this valley. I am detecting multiple hostiles on your path.
+  KO: 네 마지막 과제는 이 계곡 건너편의 방에 도달하는 것이다. 경로에 적 다수가 감지된다.
+
+===== /radiomessages/viera.radiomessages.patch =====
+/magicitediscovery01-refineMagicite-cleared-a/senderName
+  EN: Captain Seonha
+  KO: 선하 선장
+/magicitediscovery01-refineMagicite-cleared-a/text
+  EN: I registered a burst of energy from your location that matches with the ^orange;magicite refinement process^reset;, great job! While you were doing that, I managed to contact ^orange;someone from Ivalice^reset; who can help our exploration efforts!
+  KO: 네 위치에서 ^orange;마기석 정제 과정^reset;과 일치하는 에너지 폭발이 감지됐어, 잘했어! 네가 그러는 동안, ^orange;이발리스 출신의 누군가^reset;와 연락이 닿았는데 우리 탐사에 도움을 줄 수 있을 거야!
+/magicitediscovery01-refineMagicite-cleared-b/senderName
+  EN: Captain Seonha
+  KO: 선하 선장
+/magicitediscovery01-refineMagicite-cleared-b/text
+  EN: They've agreed to help, but we'll need to craft a station for them to work from - it will serve as a beacon to help them locate us as well.
+  KO: 돕기로 했지만, 작업할 수 있는 제작대를 만들어 줘야 한다 - 그게 우리 위치를 찾는 데 도움이 되는 신호기 역할도 한다.
+/magicitediscovery01-refineMagicite-cleared-c/senderName
+  EN: Captain Seonha
+  KO: 선하 선장
+/magicitediscovery01-refineMagicite-cleared-c/text
+  EN: ^green;Gather^reset; ^orange;40 Timber, 20 Cobblestone Brick, and 6 Woven Fabric^reset; in addition to ^orange;the magicite you refined^reset;.
+  KO: ^green;모아와라^reset; - ^orange;제련한 매지사이트^reset;에 더해 ^orange;목재 40개, 조약돌 벽돌 20개, 직물 6개^reset;를.
+/magicitediscovery01-refineMagicite-initial/senderName
+  EN: Captain Seonha
+  KO: 선하 선장
+/magicitediscovery01-refineMagicite-initial/text
+  EN: Can you hear me? That's definitely ^orange;magicite crystal ore^reset; you've found - only problem is you'll ^green;need to refine it^reset; before it's of any use to us. You should be able to do so at any ^orange;Stone Hearth^reset;.
+  KO: 제 말 들려요? 당신이 찾은 건 분명 ^orange;마기사이트 수정 광석^reset;이에요 - 문제는 우리한테 쓸모가 있으려면 ^green;정제해야 한다^reset;는 거죠. 아무 ^orange;스톤 헤스^reset;에서나 정제할 수 있을 거예요.
+/magicitediscovery01-refineMagicite-interim/senderName
+  EN: Captain Seonha
+  KO: 선하 선장
+/magicitediscovery01-refineMagicite-interim/text
+  EN: Just checking in! Remember, you'll to ^green;need to refine^reset; that ^orange;magicite crystal ore^reset; you've found. You should be able to do so at any ^orange;Stone Hearth^reset;!
+  KO: 잘 지내고 있어! 기억해, 찾은 ^orange;마기사이트 수정 광석^reset;을 ^green;정제해야 해^reset;. 아무 ^orange;돌 화로^reset;에서든 할 수 있을 거야!
+/magicitediscovery01-returnToSeonha-initial-a/text
+  EN: [ With the requested materials gathered, you figure you ought to check in with Captain Seonha... ]
+  KO: [ 요청된 재료를 모았으니, 선하 대장에게 보고하러 가야겠다. ]
+/magicitediscovery01-returnToSeonha-initial-b/senderName
+  EN: Captain Seonha
+  KO: 선하 선장
+/magicitediscovery01-returnToSeonha-initial-b/text
+  EN: Hello? Oh good, I was just about to check in with you. If you've ^orange;gathered those materials^reset; ^green;come back to me^reset; and I'll show you what we need to make.
+  KO: 여보세요? 오 잘됐네요, 마침 확인해보려던 참이었어요. ^orange;재료를 모으셨다면^reset; ^green;저에게 돌아와 주세요^reset;, 우리가 뭘 만들어야 할지 보여드릴게요.
+/magicitediscovery01-returnToSeonha-interim/senderName
+  EN: Captain Seonha
+  KO: 선하 선장
+/magicitediscovery01-returnToSeonha-interim/text
+  EN: Just checking in! Remember, if you've ^orange;gathered those materials^reset; ^green;come back to me^reset; and I'll show you what we need to make.
+  KO: 잘 지내고 있어! 기억해, ^orange;재료를 모았으면^reset; ^green;나한테 다시 와^reset;, 뭘 만들어야 할지 보여줄게.
+
+===== /radiomessages/voideddungeon.radiomessages.patch =====
+/v-electrotoxicfacility/text
+  EN: I am detecting a massive automaton containing both ^orange;electrical^reset; and ^orange;toxic^reset; energy. ^green;Equipment to counter against both elements^reset; is recommended.
+  KO: ^orange;전기^reset;와 ^orange;독^reset; 에너지를 모두 지닌 거대한 자동인형이 감지됩니다. ^green;두 속성 모두에 대응할 수 있는 장비^reset;를 추천합니다.
+/v-solarspire/text
+  EN: Data suggests that this structure dates back to approximately 100 years ago. It contains large concentations of portal technology.
+  KO: 데이터에 따르면 이 구조물은 대략 100년 전으로 거슬러 올라갑니다. 포털 기술이 대량으로 집중되어 있습니다.
+/v-solarspire2/text
+  EN: Analysis shows that the portal is usable, but only barely. I advise that you open it with caution.
+  KO: 분석 결과 포털은 사용 가능하지만 간신히 작동하는 수준입니다. 신중하게 여는 것을 권장합니다.
+/v-toxiclaboratory/text
+  EN: Integrity analysis of this structure shows that although heavily damaged, it is unlikely to completely fail.
+  KO: 이 구조물의 무결성 분석 결과, 심하게 손상되었지만 완전히 붕괴할 가능성은 낮은 것으로 나타났습니다.
+/v-toxiclaboratory2/text
+  EN: Analysis indicates that the massive damage afflicted onto this laboratory is of an unusual nature. No known causes have been found.
+  KO: 분석 결과 이 연구실이 입은 막대한 피해는 이례적인 성질을 띠고 있습니다. 알려진 원인은 발견되지 않았습니다.
+/v-toxiclaboratory3/text
+  EN: There is a 92% chance that the source could be far more threatening than any organism on this planet. I applaud your bravery.
+  KO: 그 원인이 이 행성의 어떤 생명체보다 훨씬 위험할 가능성은 92%입니다. 당신의 용기에 박수를 보냅니다.
+
+===== /radiomessages/voidedexploration.radiomessages.patch =====
+/v-biomeelectric/text
+  EN: Caution! This planet's atmosphere has hazardously high electric conductivity. Electrically-insulating equipment is recommended.
+  KO: 주의! 이 행성의 대기는 위험할 정도로 전기 전도율이 높다. 전기 절연 장비를 권장한다.
+/v-biomefrostbite/text
+  EN: Warning! Body temperature is rapidly dropping. Further exposure will lead to frostbite within minutes. Proper protective equipment is strongly recommended.
+  KO: 경고! 체온이 급격히 떨어지고 있다. 추가 노출 시 수 분 내 동상에 걸린다. 적절한 보호 장비를 강력히 권장한다.
+/v-biomepoison/text
+  EN: For your own safety, please equip an EPP to filter out atmospheric mycotoxins! Even partial protection will lower your risk of death by 200%!
+  KO: 안전을 위해 대기 중 마이코톡신을 걸러 낼 EPP를 반드시 장착하십시오! 부분적인 보호만으로도 사망 위험을 200% 낮출 수 있습니다!
+/v-biomesun/text
+  EN: It should be noted that this planet's atmospheric temperature exceeds 2500 *C. Proper protective equipment is strongly recommended.
+  KO: 이 행성의 대기 온도가 섭씨 2500도를 넘는다는 점에 유의해야 한다. 적절한 보호 장비를 강력히 권장한다.
+/v-chargedgroundwarning/text
+  EN: Warning: Rising ground electrical charge detected. Please ^green;minimize contact^reset; with ^orange;conductive material^reset;.
+  KO: 경고: 지면 전하 상승 감지. ^orange;전도성 물질^reset;과의 ^green;접촉을 최소화^reset;하라.
+/v-extradimensionalstar/text
+  EN: I am detecting celestial bodies of varying threat levels orbiting this star. The least dangerous one appears to be the ^#571cff;Strange Asteroid^reset;--threat level ^orange;7 (Unreal)^reset;. It is the most distant body in the system, and I advise navigating to it first.
+  KO: 이 항성 주위를 공전하는 다양한 위협 등급의 천체가 감지됩니다. 가장 덜 위험한 것은 ^#571cff;이상 소행성^reset;으로 보입니다-위협 등급 ^orange;7 (비현실적)^reset;. 이 항성계에서 가장 먼 천체이니, 먼저 그곳으로 이동하시길 권장합니다.
+/v-titanencounter1/text
+  EN: Scans show that you are entrapped in a massive electromagnetic anomaly. The potential source cannot be matched with any known entities in my database. Please stand by while I perform further analysis.
+  KO: 스캔 결과 당신은 거대한 전자기 이상 현상에 갇혀 있는 것으로 나타났다. 잠재적 원인은 내 데이터베이스의 어떤 알려진 개체와도 일치하지 않는다. 추가 분석을 수행하는 동안 대기해 달라.
+/v-titanencounter2/text
+  EN: Danger: Unknown entity detected. Entity has low visual acuity but is incredibly powerful. ^red;Avoid entering its vision^reset;.
+  KO: 위험: 미확인 개체 감지. 이 개체는 시력은 낮지만 엄청나게 강력함. ^red;시야에 들어가지 마시오^reset;.
+/v-titanpassive1/text
+  EN: I am detecting a massive electromagnetic anomaly located within your vicinity. Scans show that all light within this region is absent, including from the night sky.
+  KO: 당신 주변에서 거대한 전자기 이상이 감지됩니다. 스캔 결과 이 구역의 모든 빛이 사라졌습니다, 밤하늘의 빛조차도요.
+/v-titanpassive2/text
+  EN: Aside from potential interference with radio communications, this effect is harmless.
+  KO: 무선 통신에 간섭을 일으킬 가능성이 있다는 점을 제외하면, 이 효과는 무해하다.
+/v-toxiclaboratorysigns/text
+  EN: Ground-penetrating scans complete. Results show ^green;unusually high concentrations of metal^reset;, most likely human-made in nature, located ^orange;deep underground^reset;.
+  KO: 지표 투과 스캔이 완료되었습니다. 결과에 따르면 ^green;비정상적으로 높은 금속 농도^reset;가 감지되었으며, 인공적인 것으로 추정되고 ^orange;지하 깊은 곳^reset;에 위치해 있습니다.
+/v-turnontutorialmessages/text
+  EN: I recommend turning on ^orange;Tutorial Messages^reset; in your options menu for further guidance.
+  KO: 더 자세한 안내가 필요하면 옵션 메뉴에서 ^orange;튜토리얼 메시지^reset;를 켜는 걸 추천해.
+/v-voltagecitysigns/text
+  EN: My radio receptors are picking up a ^green;strong electromagnetic signal^reset; that originates from ^orange;deep within this planet^reset;.
+  KO: 내 무선 수신기가 ^orange;이 행성 깊은 곳^reset;에서 나오는 ^green;강한 전자기 신호^reset;를 감지하고 있다.
+
+===== /radiomessages/voidedtutorial.radiomessages.patch =====
+/v-aurorite/text
+  EN: Scans show that some of the ore within this biome is ^red;extremely heat-absorbant^reset;. ^green;Don't stay too close to it for too long.^reset;
+  KO: 스캔 결과 이 생물군계 내 일부 광석은 ^red;극도로 열을 잘 흡수하는^reset; 것으로 나타났다. ^green;너무 가까이 오래 머물지 말 것.^reset;
+/v-cityspawnertutorial/text
+  EN: The ^orange;spawner^reset; near the center of the room appears to have ^yellow;entered a grace period^reset;. I advise that you take advantage of this down time to ^green;gather any lost belongings before it ends^reset;.
+  KO: 방 한가운데 있는 ^orange;생성기^reset;가 ^yellow;유예 시간에 들어간^reset; 것 같습니다. 이 틈을 이용해 ^green;유예가 끝나기 전에 잃어버린 소지품을 회수^reset;하시길 권합니다.
+/v-cityspawnertutorial2/text
+  EN: If you are daring enough, you may ^green;interact^reset; with it to release its backups.
+  KO: 용기가 있다면 이것과 ^green;상호작용^reset;하여 예비 개체를 방출할 수 있습니다.
+/v-depthpoison/text
+  EN: I am picking up signatures of an ^orange;unknown mycotoxin^reset; in the atmosphere of this planet. Biological analysis suggests that although harmless at first, it becomes ^red;deadly^reset; if you accumulate too much of it. Please be careful.
+  KO: 이 행성 대기에서 ^orange;미확인 균류 독소^reset;의 신호가 감지됩니다. 생물학적 분석에 따르면 처음엔 무해하지만, 너무 많이 축적되면 ^red;치명적^reset;으로 변합니다. 조심하세요.
+/v-healingnerf/text
+  EN: Analysis suggests that this star's radiation ^red;impairs your ability to heal^reset;; when consuming ^green;Nanowrap Bandages^reset; or ^green;Medical Kits^reset;, you must wait to use them again.
+  KO: 분석 결과 이 항성의 방사선은 ^red;회복 능력을 저하시킵니다^reset;. ^green;나노랩 붕대^reset;나 ^green;의료 키트^reset;를 사용한 뒤에는 다시 사용할 때까지 대기해야 합니다.
+/v-infernite/text
+  EN: Scans show that some of the ore within this biome is ^red;highly volatile^reset;. ^green;Hide behind cover^reset; while mining it.
+  KO: 스캔 결과 이 생물군계 내 일부 광석은 ^red;매우 불안정한^reset; 것으로 나타났다. 채굴할 때는 ^green;엄폐물 뒤에 숨을 것^reset;.
+/v-labspawnertutorial/text
+  EN: The ^orange;spawner^reset; near the center of the room appears to have ^yellow;entered a grace period^reset;. I advise that you take advantage of this down time to ^green;gather any lost belongings before it ends^reset;.
+  KO: 방 한가운데 있는 ^orange;생성기^reset;가 ^yellow;유예 시간에 들어간^reset; 것 같습니다. 이 틈을 이용해 ^green;유예가 끝나기 전에 잃어버린 소지품을 회수^reset;하시길 권합니다.
+/v-labspawnertutorial2/text
+  EN: If you are daring enough, you may ^green;interact^reset; with it to release its backups.
+  KO: 용기가 있다면 이것과 ^green;상호작용^reset;하여 예비 개체를 방출할 수 있습니다.
+/v-monsterresistance/text
+  EN: Historical data suggests that creatures in this type of environment would develop a ^orange;resistance^reset; to the element commonly present in this biome. I advise using a weapon with a ^orange;different element^reset;.
+  KO: 역사적 데이터에 따르면 이런 유형의 환경에 사는 생물은 이 생물군계에 흔히 존재하는 원소에 ^orange;저항^reset;을 갖게 된다고 합니다. ^orange;다른 원소^reset;의 무기를 쓰는 걸 권장합니다.
+/v-monsterwavespawnertutorial/text
+  EN: The wave spawner is currently in a grace period of 30 seconds. Spend this time to gather whatever you lost while in the arena.
+  KO: 파상 공격 생성 장치는 현재 30초의 유예 기간에 들어갔다. 그동안 경기장에서 잃어버린 물건을 되찾아라.
+/v-nullium/text
+  EN: I am detecting unstable ore coated in a ^red;life-seeking substance^reset;. Please be careful while mining it.
+  KO: ^red;생명체를 추적하는 물질^reset;로 뒤덮인 불안정한 광석이 감지됩니다. 채굴하실 때 주의하세요.
+/v-solarspiretutorial/text
+  EN: It appears that the blast of portal energy that struck you has relocated you to the bottom of this tower. I advise that you ^green;bookmark^reset; the ^orange;teleporter^reset;.
+  KO: 당신을 강타한 포털 에너지의 폭발이 이 탑 밑바닥으로 당신을 옮겨놓은 것 같다. ^orange;텔레포터^reset;를 ^green;즐겨찾기^reset;해 두는 것을 권한다.
+/v-toxiclaboratorytutorial/text
+  EN: Nonetheless, I advise that you ^green;bookmark^reset; the ^orange;teleporter^reset; near its entrance for your convenience.
+  KO: 그럼에도, 편의를 위해 입구 근처의 ^orange;텔레포터^reset;를 ^green;즐겨찾기^reset;해두길 권한다.
+/v-toxikite/text
+  EN: Scans show that some of the ore within this biome contains ^red;dense amounts of mycotoxins^reset;. Close proximity to the ore while mining it is ^red;ill-advised^reset;.
+  KO: 스캔 결과 이 생물군계 내 일부 광석에는 ^red;고농도의 곰팡이독소^reset;가 들어있는 것으로 나타났다. 채굴 중 광석에 가까이 가는 것은 ^red;권장되지 않는다^reset;.
+/v-voltagecity/text
+  EN: I am detecting traces of dangerous machines and lifeforms in this city. I advise that you ^green;bookmark^reset; the ^orange;teleporter^reset; near its entrance for your convenience.
+  KO: 이 도시에서 위험한 기계와 생명체의 흔적이 감지됩니다. 편의를 위해 입구 근처의 ^orange;텔레포터^reset;를 ^green;책갈피 등록^reset;하시길 권장합니다.
+/v-voltite/text
+  EN: Scans show that some of the ore within this biome contains ^red;dangerously high amounts of electric charge^reset;. I advise that you ^green;avoid contact with conductive material^reset; when mining it.
+  KO: 스캔 결과 이 생물군계 내 일부 광석에는 ^red;위험할 정도로 높은 전하량^reset;이 들어있는 것으로 나타났다. 채굴할 때는 ^green;전도성 물질과의 접촉을 피할 것^reset;을 권고한다.

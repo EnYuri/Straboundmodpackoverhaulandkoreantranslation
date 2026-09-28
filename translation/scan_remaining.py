@@ -59,10 +59,19 @@ CODE_LIKE = re.compile(
     r"|\w+\s*\([^)]*\)\s*\{")
 PATH_LIKE = re.compile(r"^[A-Za-z0-9_\-]+[/\\][A-Za-z0-9_\-./\\]+$")
 SCHEMA_POINTER = re.compile(r"/(?:listTemplate|schema|itemSchema|buttonTemplate)\b", re.I)
+PUA = re.compile(r"[-]")
 
 
 def norm(s):
     return " ".join(MARKUP.sub("", s).lower().split())
+
+
+def text_only(s):
+    """strip color/markup tags and private-use glyph icons before checking
+    whether a string actually contains real English words - a bare
+    ``^#09ff00;`` color tag or glyph-only bark line otherwise reads as
+    "contains letters" purely from its hex digits (2026-09-27 fix)."""
+    return PUA.sub("", MARKUP.sub("", s))
 
 
 def norm_key(s):
@@ -71,7 +80,7 @@ def norm_key(s):
 
 def cand_visible(v):
     """inventory candidate() rules for strings at known-visible keys"""
-    if not isinstance(v, str) or HANGUL.search(v) or not ASCII_WORD.search(v):
+    if not isinstance(v, str) or HANGUL.search(v) or not ASCII_WORD.search(text_only(v)):
         return False
     s = v.strip()
     if not s or s.startswith(("/", "?", "$", "scripts/")):
@@ -86,7 +95,7 @@ def cand_loose(v):
     t = v.strip() if isinstance(v, str) else ""
     if len(t) < 4 or HANGUL.search(t) or " " not in t:
         return False
-    if not ASCII_WORD.search(t) or t.startswith(("/", "~", "?")):
+    if not ASCII_WORD.search(text_only(t)) or t.startswith(("/", "~", "?")):
         return False
     return True
 
@@ -232,10 +241,28 @@ def load_coverage():
         with open(HERE / "alignment" / fn, encoding="utf-8-sig", newline="") as fh:
             for r in csv.DictReader(fh, delimiter="\t"):
                 if r["status"].startswith("aligned") and r["targetAsset"]:
-                    covered.add((r["targetAsset"], r["jsonPointer"]))
+                    covered.add((r["targetAsset"].lower(), r["jsonPointer"]))
     # installed overlay paks: their patch ops cover (base, op.path)
-    for pakname in ("localeko_gic_legacy.pak", "localeko_extended_story_legacy.pak",
-                    "localeko_black_armory_legacy.pak", "zz_localeko_postload.pak"):
+    # NOTE (2026-09-27): localeko_gic_legacy/localeko_extended_story_legacy/
+    # localeko_black_armory_legacy were merged into female_translation.pak and no
+    # longer exist standalone; female_translation.pak is now the real active
+    # coverage source and must be checked instead, or every asset it already
+    # translated is misreported as untranslated.
+    # NOTE (2026-09-28, 4차): zz_localeko_elithian_low_20260927/krakoth_low_20260927/
+    # nuggubs_low_20260927/plushbound_low_20260927 were likewise merged into
+    # female_translation.pak (see docs/batch_log.md "2026-09-28 (4차)") and moved out
+    # of mods/ to translation/replaced-installed-20260922/low_paks_merged_20260928/;
+    # kept in this list (harmless, `if not p.exists(): continue` below skips them)
+    # only so the list still documents which paks were folded in, not because they
+    # are still expected to exist standalone.
+    for pakname in ("female_translation.pak", "zz_localeko_postload.pak",
+                    "zz_localeko_highpriority_20260927.pak",
+                    "zz_localeko_elithian_low_20260927.pak",
+                    "zz_localeko_krakoth_low_20260927.pak",
+                    "zz_localeko_nuggubs_low_20260927.pak",
+                    "zz_localeko_plushbound_low_20260927.pak",
+                    "localeko_gic_legacy.pak", "localeko_extended_story_legacy.pak",
+                    "localeko_black_armory_legacy.pak"):
         p = MODS / pakname
         if not p.exists():
             continue
@@ -243,14 +270,23 @@ def load_coverage():
         for a in pak.index:
             if not a.endswith(".patch"):
                 continue
-            base = a[:-len(".patch")]
+            # asset paths are case-insensitive on Starbound's filesystem, but
+            # a mod's own folder casing ("MATERIALS" vs "materials") often
+            # differs from what the translation overlay recorded, so an exact
+            # string match silently drops real coverage (2026-09-27 fix).
+            base = a[:-len(".patch")].lower()
             try:
                 ops = parse_json(pak.read(a))
             except Exception:
                 continue
-            for o in ops if isinstance(ops, list) else []:
-                if isinstance(o, dict) and o.get("path"):
-                    covered.add((base, o["path"]))
+            # patch docs are either a flat list of op-dicts, or a list of
+            # sub-lists grouping a test+replace pair per element (the format
+            # female_translation.pak's custom writer uses) - flatten both.
+            for el in ops if isinstance(ops, list) else []:
+                group = el if isinstance(el, list) else [el]
+                for o in group:
+                    if isinstance(o, dict) and o.get("path"):
+                        covered.add((base, o["path"]))
     return covered
 
 
@@ -333,7 +369,7 @@ def main():
                     excluded.append((name, cat, asset, pointer, text, reason))
                     continue
                 # coverage: regular assets exact; patch docs only for replace ops
-                if not is_patch and (asset, pointer) in covered:
+                if not is_patch and (asset.lower(), pointer) in covered:
                     excluded.append((name, cat, asset, pointer, text, "already-translated"))
                     continue
                 variants = tm.get(norm_key(text))

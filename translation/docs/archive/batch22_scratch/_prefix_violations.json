@@ -1,0 +1,1418 @@
+[
+{
+"asset": "/dialog/atprk_devouttenant.config.patch",
+"pointer": "/converse/default/default/2",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. Our kingdom shall become great once again!",
+"ko": "위협적이긴. 우리 왕국은 다시 한번 위대해질 것이다!"
+},
+{
+"asset": "/dialog/atprk_devouttenant.config.patch",
+"pointer": "/converse/default/default/6",
+"en_word": "Determined",
+"kop": "단호하게",
+"en": "Determined. The K'Rakoth fell before our kingdom did. One day, we'll restore everything.",
+"ko": "단호하게. K'Rakoth는 우리 왕국이 무너지기 전에 먼저 쓰러졌다. 언젠가, 우리는 모든 것을 되찾을 것이다."
+},
+{
+"asset": "/dialog/atprk_devouttenant.config.patch",
+"pointer": "/severe/default/default/0",
+"en_word": "Indignant",
+"kop": "분개했긴",
+"en": "Indignant. This is outrageous! I demand reparations!",
+"ko": "분개했긴. 말도 안 돼! 배상을 요구해!"
+},
+{
+"asset": "/dialog/atprk_devouttenant.config.patch",
+"pointer": "/final/default/default/0",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. The servants of the K'Rakoth shall remember you!",
+"ko": "위협적이긴. 크라코스의 종들이 너를 기억할 것이다!"
+},
+{
+"asset": "/dialog/atprk_devouttenant.config.patch",
+"pointer": "/beacon/default/default/1",
+"en_word": "Informed",
+"kop": "정통하긴",
+"en": "Informed. I've received your call.",
+"ko": "정통하긴. 네 연락 받았어."
+},
+{
+"asset": "/dialog/atprk_devouttenant.config.patch",
+"pointer": "/reattack/default/default/3",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. Return where you came from, you fiend!",
+"ko": "위협적이긴. 왔던 곳으로 돌아가, 이 악당아!"
+},
+{
+"asset": "/dialog/atprk_devouttenant.config.patch",
+"pointer": "/attack/default/default/3",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. You shall not pass!",
+"ko": "위협적이긴. 넌 못 지나간다!"
+},
+{
+"asset": "/dialog/atprk_devouttenant.config.patch",
+"pointer": "/lostTarget/default/default/2",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. Get back there, you coward!",
+"ko": "위협적이긴. 거기 물러서, 이 겁쟁이야!"
+},
+{
+"asset": "/dialog/bartenderwoofie.config.patch",
+"pointer": "/merchantEnd/glitch/default/0",
+"en_word": "Insistent",
+"kop": "끈질기긴",
+"en": "Insistent. Return soon!",
+"ko": "끈질기긴. 곧 다시 와!"
+},
+{
+"asset": "/dialog/bartenderwoofie.config.patch",
+"pointer": "/merchantEnd/glitch/default/2",
+"en_word": "Disappointed",
+"kop": "실망했다",
+"en": "Disappointed. You're not going to buy more?",
+"ko": "실망했다. 더 안 살 거야?"
+},
+{
+"asset": "/dialog/bartenderwoofie.config.patch",
+"pointer": "/tout/glitch/default/2",
+"en_word": "Welcoming",
+"kop": "환영해",
+"en": "Welcoming. Come and view the menu!",
+"ko": "환영해. 와서 메뉴 좀 봐!"
+},
+{
+"asset": "/dialog/bartenderwoofie.config.patch",
+"pointer": "/tagCriteria/glitch/default/1",
+"en_word": "Discontent",
+"kop": "불만족스럽다",
+"en": "Discontent. I dislike the changes you have made, restore my bar.",
+"ko": "불만족스럽다. 네가 바꾼 게 마음에 안 든다, 내 술집을 원래대로 되돌려놔."
+},
+{
+"asset": "/dialog/bartenderwoofie.config.patch",
+"pointer": "/enclosedArea/glitch/default/0",
+"en_word": "Despondent",
+"kop": "낙담했다",
+"en": "Despondent. The walls are damaged and custom is down. Could you fix up the bar?",
+"ko": "낙담했다. 벽이 손상되었고 손님도 끊겼다. 술집 좀 고쳐줄 수 있어?"
+},
+{
+"asset": "/dialog/bartenderwoofie.config.patch",
+"pointer": "/final/glitch/default/2",
+"en_word": "Upset",
+"kop": "속상하네",
+"en": "Upset. I didn't want it to come to this, but I can't stay here any longer.",
+"ko": "속상하네. 이렇게까지 되길 바라진 않았지만, 더는 여기 있을 수 없어."
+},
+{
+"asset": "/dialog/commands.config.patch",
+"pointer": "/setTarget/glitch/default/3",
+"en_word": "Indifferent",
+"kop": "무관심하긴",
+"en": "Indifferent. We shall carry on.",
+"ko": "무관심하긴. 계속하자."
+},
+{
+"asset": "/dialog/commands.config.patch",
+"pointer": "/operate/glitch/default/1",
+"en_word": "Intrigued",
+"kop": "흥미롭긴",
+"en": "Intrigued. Activating device.",
+"ko": "흥미롭긴. 장치 활성화 중."
+},
+{
+"asset": "/dialog/commands.config.patch",
+"pointer": "/operate/glitch/default/4",
+"en_word": "Intrigued",
+"kop": "흥미롭긴",
+"en": "Intrigued. We shall see.",
+"ko": "흥미롭긴. 두고 보자고."
+},
+{
+"asset": "/dialog/ffs_prisoner_cultist_converse.config.patch",
+"pointer": "/converse/glitch/default/2",
+"en_word": "Worried",
+"kop": "걱정돼",
+"en": "Worried. I had a friend here, but they took them away. I haven't seen them since.",
+"ko": "걱정돼. 여기 친구가 있었는데, 사람들이 데려갔어. 그 뒤로는 한 번도 못 봤어."
+},
+{
+"asset": "/dialog/ffs_prisoner_pirate_converse.config.patch",
+"pointer": "/converse/glitch/default/2",
+"en_word": "Worried",
+"kop": "걱정돼",
+"en": "Worried. I had a friend here, but they took them away. I haven't seen them since.",
+"ko": "걱정돼. 여기 친구가 있었는데, 사람들이 데려갔어. 그 뒤로는 한 번도 못 봤어."
+},
+{
+"asset": "/dialog/lawenforcementconverse.config.patch",
+"pointer": "/converse/glitch/default/4",
+"en_word": "Impressed",
+"kop": "감명받았긴",
+"en": "Impressed. The Captain has informed me of your prowess, Officer <entityname>.",
+"ko": "감명받았긴. 함장님이 네 실력에 대해 얘기해주셨어, <entityname> 경관."
+},
+{
+"asset": "/dialog/lawenforcementconverse.config.patch",
+"pointer": "/converse/glitch/default/8",
+"en_word": "Determined",
+"kop": "단호하게",
+"en": "Determined. I've been investigating a criminal gang and close to a breakthrough.",
+"ko": "단호하게. 범죄 조직을 조사해왔고 돌파구에 가까워졌어."
+},
+{
+"asset": "/dialog/r-peacekeeperconverse.config.patch",
+"pointer": "/converse/glitch/default/6",
+"en_word": "Determined",
+"kop": "단호하게",
+"en": "Determined. I've been investigating a criminal gang and am close to a breakthrough.",
+"ko": "단호하게. 범죄 조직을 조사해왔고 이제 돌파구에 가까워졌어."
+},
+{
+"asset": "/dialog/r-refugeeconverse.config.patch",
+"pointer": "/converse/glitch/default/4",
+"en_word": "Disappointed",
+"kop": "실망했다",
+"en": "Disappointed. Few of the Humans here show an interest in joining a freethinking Glitch enclave with me.",
+"ko": "실망했다. 여기 있는 인간들 중 나와 함께 자유사상적인 글리치 공동체에 합류하는 데 관심을 보이는 이가 거의 없다."
+},
+{
+"asset": "/dialog/r-refugeeconverse.config.patch",
+"pointer": "/converse/glitch/default/6",
+"en_word": "Disturbed",
+"kop": "동요하며",
+"en": "Disturbed. What if Earth is only the beginning? Who knows what planet will fall next...",
+"ko": "동요하며. 지구가 그저 시작일 뿐이라면 어떡하지? 다음엔 어떤 행성이 무너질지 누가 알겠어..."
+},
+{
+"asset": "/dialog/sexbound/en/notifications.config.patch",
+"pointer": "/plugins/pregnant/remoteAbortion/0/glitch",
+"en_word": "Curious",
+"kop": "궁금하네",
+"en": "Curious. What happens when you combine pregnant womb with glitch oil? Infertilization chance is high.",
+"ko": "궁금하네. 임신한 자궁과 글리치 오일을 섞으면 무슨 일이 일어날까? 불임 확률이 높음."
+},
+{
+"asset": "/dialog/sexbound/en/notifications.config.patch",
+"pointer": "/plugins/pregnant/remoteAbortion/1/glitch",
+"en_word": "Curious",
+"kop": "궁금하네",
+"en": "Curious. What happens when you combine pregnant womb with glitch oil?",
+"ko": "궁금하네. 임신한 자궁과 글리치 오일을 섞으면 무슨 일이 일어날까?"
+},
+{
+"asset": "/dialog/shuttlepilot.config.patch",
+"pointer": "/reattack/glitch/default/1",
+"en_word": "Decisive",
+"kop": "단호하게",
+"en": "Decisive. Target reacquired!",
+"ko": "단호하게. 표적 재포착!"
+},
+{
+"asset": "/dialog/shuttlepilot.config.patch",
+"pointer": "/attack/glitch/default/1",
+"en_word": "Decisive",
+"kop": "단호하게",
+"en": "Decisive. Engaging target!",
+"ko": "단호하게. 표적과 교전한다!"
+},
+{
+"asset": "/dialog/tentacles/glitch-exhausted.config.patch",
+"pointer": "/12/text",
+"en_word": "Dreamy",
+"kop": "몽롱해",
+"en": "Dreamy. Perhaps I’ll imagine a grand adventure while I get used...",
+"ko": "몽롱해. 익숙해지는 동안 웅장한 모험이나 상상해볼까..."
+},
+{
+"asset": "/dialog/tentacles/glitch-exhausted.config.patch",
+"pointer": "/15/text",
+"en_word": "Intrigued",
+"kop": "흥미롭긴",
+"en": "Intrigued. Their secretions coat me like a second skin.",
+"ko": "흥미롭긴. 그들의 분비물이 마치 제2의 피부처럼 날 뒤덮어."
+},
+{
+"asset": "/dialog/tentacles/glitch-pregnant.config.patch",
+"pointer": "/13/text",
+"en_word": "Curious",
+"kop": "궁금하네",
+"en": "Curious. When will they emerge? ^red;",
+"ko": "궁금하네. 언제 나오려나? ^red;"
+},
+{
+"asset": "/dialog/tentacles/glitch-pregnant.config.patch",
+"pointer": "/25/text",
+"en_word": "Tender",
+"kop": "다정하게",
+"en": "Tender. I cradle my swollen belly... \nfeeling the warmth of the life within.",
+"ko": "다정하게. 부풀어 오른 배를 감싸 안는다... \n그 안의 생명이 지닌 따스함을 느끼며."
+},
+{
+"asset": "/dialog/tentacles/glitch-pregnant.config.patch",
+"pointer": "/32/text",
+"en_word": "Understanding",
+"kop": "이해한다",
+"en": "Understanding. I am but a mere incubation chamber for tentacles...",
+"ko": "이해한다. 나는 촉수들의 보잘것없는 부화기일 뿐..."
+},
+{
+"asset": "/dialog/z4siegesoldier.config.patch",
+"pointer": "/converse/default/default/2",
+"en_word": "Curious",
+"kop": "궁금해",
+"en": "Curious. Are you here to help us in the war?",
+"ko": "궁금해. 너는 우리 전쟁을 도우러 온 거야?"
+},
+{
+"asset": "/dialog/z4siegesoldier.config.patch",
+"pointer": "/converse/default/default/4",
+"en_word": "Impressed",
+"kop": "감명받았긴",
+"en": "Impressed. You look like a mighty warrior.",
+"ko": "감명받았긴. 강력한 전사처럼 보이는걸."
+},
+{
+"asset": "/dialog/z4siegesoldier.config.patch",
+"pointer": "/hail/default/default/4",
+"en_word": "Imperious",
+"kop": "거만하긴",
+"en": "Imperious. Outsiders are welcome, as long as you don't take anything.",
+"ko": "거만하긴. 외부인은 환영하지, 아무것도 안 가져가는 한."
+},
+{
+"asset": "/interface/scripted/spaceStation/texts.config.patch",
+"pointer": "/glitch/chat1",
+"en_word": "Welcoming",
+"kop": "환영해",
+"en": "Welcoming. We rarely receive visitors.",
+"ko": "환영해. 우리는 손님이 드물거든."
+},
+{
+"asset": "/interface/scripted/spaceStation/texts.config.patch",
+"pointer": "/glitch/chat5",
+"en_word": "Inquisitive",
+"kop": "궁금하긴",
+"en": "Inquisitive. Do you come here often?",
+"ko": "궁금하긴. 여기 자주 와?"
+},
+{
+"asset": "/interface/scripted/spaceStation/texts.config.patch",
+"pointer": "/glitch/cantAfford1",
+"en_word": "Disappointed",
+"kop": "실망했다",
+"en": "Disappointed. You lack economical possessions.",
+"ko": "실망했다. 넌 경제적 재산이 부족하다."
+},
+{
+"asset": "/npcs/angel misc/grandtempledweller.npctype.patch",
+"pointer": "/scriptConfig/dialog/greeting/glitch/default/5",
+"en_word": "Thrilled",
+"kop": "신나요",
+"en": "Thrilled. Welcome to the Temple!",
+"ko": "신나요. 사원에 오신 걸 환영합니다!"
+},
+{
+"asset": "/npcs/angel rebels/angelrebel2.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/7",
+"en_word": "Interested",
+"kop": "흥미롭긴",
+"en": "Interested. The Ruined are quite crazed. Have you ever encountered one before?",
+"ko": "흥미롭긴. 루인드는 꽤 미쳐 있지. 전에 만나본 적 있어?"
+},
+{
+"asset": "/npcs/atprk_hostiledevout.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/3",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. You dare sneak into this sacred place?!",
+"ko": "위협적이긴. 감히 이 신성한 곳에 몰래 들어와?!"
+},
+{
+"asset": "/npcs/atprk_hostiledevoutscout.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/6",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. Stop right there!",
+"ko": "위협적이긴. 거기 멈춰!"
+},
+{
+"asset": "/npcs/atprk_hostileeldritchcultist.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/3",
+"en_word": "Indignant",
+"kop": "분개했긴",
+"en": "Indignant. This is a sacred place, outsider!",
+"ko": "분개했긴. 여긴 신성한 곳이야, 외부인!"
+},
+{
+"asset": "/npcs/atprk_hostileeldritchcultist.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/5",
+"en_word": "Imposing",
+"kop": "위압적이긴",
+"en": "Imposing. Ri'shaan must grow!",
+"ko": "위압적이긴. 리샨은 자라나야 해!"
+},
+{
+"asset": "/npcs/biome/ocean/om_starrycultistsailor.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/6",
+"en_word": "Welcoming",
+"kop": "환영해",
+"en": "Welcoming. Another sailor?! How are you?",
+"ko": "환영해. 또 다른 뱃사람이잖아?! 잘 지냈어?"
+},
+{
+"asset": "/npcs/biome/ocean/om_starrycultistsailor.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/7",
+"en_word": "Curious",
+"kop": "궁금하네",
+"en": "Curious. What's your reason for sailing on these cursed seas, traveler?",
+"ko": "궁금하네. 이 저주받은 바다를 항해하는 이유가 뭐야, 여행자?"
+},
+{
+"asset": "/npcs/biome/om_starrycultist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/13",
+"en_word": "Curious",
+"kop": "궁금해",
+"en": "Curious. Did you know that we exchange ^yellow;stars^reset; instead of actual currency?",
+"ko": "궁금해. 우리가 진짜 화폐 대신 ^yellow;별^reset;을 교환한다는 걸 알고 있었어?"
+},
+{
+"asset": "/npcs/biome/om_starrycultist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/23",
+"en_word": "Ignorant",
+"kop": "무지하긴",
+"en": "Ignorant. Severe radiation? Radiation sickness? Cancer? Ha! This glorious planet wouldn't hurt us.",
+"ko": "무지하긴. 심각한 방사능? 방사능병? 암? 하! 이 영광스러운 행성은 우릴 해치지 않을 거야."
+},
+{
+"asset": "/npcs/biome/om_starrycultist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/25",
+"en_word": "Disappointed",
+"kop": "실망했다",
+"en": "Disappointed. I personally think it's okay to eat starfruit or harvest stars from various plants or animals...",
+"ko": "실망했다. 개인적으로 나는 별과일을 먹거나 여러 식물이나 동물에게서 별을 수확하는 게 괜찮다고 생각한다..."
+},
+{
+"asset": "/npcs/biome/om_starrycultist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/30",
+"en_word": "Interested",
+"kop": "흥미롭긴",
+"en": "Interested. Ooh, a non-Cultist? Hard to see people like you around here anymore...",
+"ko": "흥미롭긴. 오, 광신도가 아니라고? 요즘 이 근처에서 너 같은 사람 보기 힘든데..."
+},
+{
+"asset": "/npcs/biome/om_starrycultist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/31",
+"en_word": "Curious",
+"kop": "궁금해",
+"en": "Curious. Have you heard of \"Unustrello's Starry Café\"?\nHmm, I guess not...",
+"ko": "궁금해. \"우누스트렐로의 스타리 카페\"에 대해 들어봤어?\n음, 못 들어본 것 같네..."
+},
+{
+"asset": "/npcs/biome/om_starrycultist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/36",
+"en_word": "Disappointed",
+"kop": "실망했다",
+"en": "Disappointed. I would invite you to get food at Unustrello's, but you're not a ^green;Cultist^reset;.",
+"ko": "실망했다. 우누스트렐로네 가서 밥이나 먹자고 하고 싶지만, 넌 ^green;컬티스트^reset;가 아니잖아."
+},
+{
+"asset": "/npcs/biome/om_starrycultistguard.npctype.patch",
+"pointer": "/scriptConfig/dialog/hail/glitch/default/4",
+"en_word": "Curious",
+"kop": "궁금해",
+"en": "Curious. Have you come to protect this Starry planet as well?",
+"ko": "궁금해. 당신도 이 스타리 행성을 지키러 온 거야?"
+},
+{
+"asset": "/npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/1",
+"en_word": "Interested",
+"kop": "흥미롭긴",
+"en": "Interested. Are you here to try the extraordinary star-based foods and beverages?\nThought so!",
+"ko": "흥미롭긴. 여기 별을 재료로 한 특별한 음식과 음료를 맛보러 온 거야?\n그럴 줄 알았지!"
+},
+{
+"asset": "/npcs/biome/tenants/om_starrycultisttenant.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/0",
+"en_word": "Curious",
+"kop": "궁금해",
+"en": "Curious. Have you heard of the ^green;Starry Cultists^reset;?",
+"ko": "궁금해. ^green;스타리 컬티스트^reset;에 대해 들어봤어?"
+},
+{
+"asset": "/npcs/crew/arcana_crewmember_king.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+"en_word": "Decisive",
+"kop": "단호하게",
+"en": "Decisive. I will lead you to victory.",
+"ko": "단호하게. 내가 널 승리로 이끌겠다."
+},
+{
+"asset": "/npcs/crew/arcana_crewmember_riftwalker.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+"en_word": "Impassive",
+"kop": "무표정하긴",
+"en": "Impassive. Embrace your final moments.",
+"ko": "무표정하긴. 네 마지막 순간을 받아들여."
+},
+{
+"asset": "/npcs/crew/arcana_crewmember_sunscalewarrior.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+"en_word": "Zealous",
+"kop": "열렬하네",
+"en": "Zealous. Let the sun's favor be bestowed upon you.",
+"ko": "열렬하네. 태양의 은총이 너에게 내리길."
+},
+{
+"asset": "/npcs/crew/crewmemberpacifist.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0",
+"en_word": "Concerned",
+"kop": "걱정되네",
+"en": "Concerned. You look like you could do with some healing!",
+"ko": "걱정되네. 치료가 필요해 보여요!"
+},
+{
+"asset": "/npcs/crew/crewmembersobff.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0",
+"en_word": "Concerned",
+"kop": "걱정되네",
+"en": "Concerned. You look like you could do with some healing!",
+"ko": "걱정되네. 치료가 필요해 보여요!"
+},
+{
+"asset": "/npcs/crew/crewmembersobff.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+"en_word": "Concerned",
+"kop": "걱정되네",
+"en": "Concerned. You look like you could do with some healing!",
+"ko": "걱정되네. 치료가 필요해 보여요!"
+},
+{
+"asset": "/npcs/crew/ffs_whitecrow_crewmemberchemist.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+"en_word": "Friendly",
+"kop": "친절하네",
+"en": "Friendly. I'll give you a boost whenever we're on the ship!",
+"ko": "친절하네. 배에 있을 때마다 부스트를 줄게요!"
+},
+{
+"asset": "/npcs/crew/ffs_whitecrow_crewmemberchemist.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+"en_word": "Intrigued",
+"kop": "흥미롭군",
+"en": "Intrigued. I wonder if this will help you?",
+"ko": "흥미롭군. 이게 도움이 될까요?"
+},
+{
+"asset": "/npcs/crew/ffs_whitecrow_crewmemberjanitor.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+"en_word": "Bored",
+"kop": "지루해",
+"en": "Bored. I'm <selfname>... The janitor.",
+"ko": "지루해. 난 <selfname>... 청소부."
+},
+{
+"asset": "/npcs/crew/ffs_whitecrow_crewmemberoutlaw.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
+"en_word": "Desperate",
+"kop": "절박해",
+"en": "Desperate. I need to lay low! Please don't turn me in, can I join your crew instead?",
+"ko": "절박해. 몸을 숨겨야 해! 제발 날 신고하지 말고, 대신 승무원으로 받아줄 수 있어?"
+},
+{
+"asset": "/npcs/crew/ffs_whitecrow_crewmemberoutlaw.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
+"en_word": "Desperate",
+"kop": "절박해",
+"en": "Desperate. I'm a good person really! Please, let me stow away on your ship with you!",
+"ko": "절박해. 나 정말 좋은 사람이야! 제발, 너랑 같이 밀항하게 해줘!"
+},
+{
+"asset": "/npcs/crew/ffs_whitecrow_crewmemberoutlaw.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/offer/glitch/default/3",
+"en_word": "Desperate",
+"kop": "절박해",
+"en": "Desperate. I don't want to hurt you, I just need to lay low! Can I stow away with you?",
+"ko": "절박해. 널 다치게 하고 싶지는 않지만, 몸을 숨겨야 해! 너랑 같이 숨어 지내도 될까?"
+},
+{
+"asset": "/npcs/crew/ffs_whitecrow_crewmemberoutlaw.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/offer/glitch/default/4",
+"en_word": "Desperate",
+"kop": "절박해",
+"en": "Desperate. I need to lay low! I'll fight with you if you let me stay on your ship.",
+"ko": "절박해. 몸을 숨겨야 해! 너희 배에 남게 해주면 함께 싸울게."
+},
+{
+"asset": "/npcs/crew/ffs_whitecrow_crewmemberoutlaw.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/offer/glitch/default/5",
+"en_word": "Desperate",
+"kop": "절박해",
+"en": "Desperate. Please, let me hide on your ship! I'll fight for you! There are people I need to avoid...",
+"ko": "절박해. 제발, 너희 배에 숨게 해줘! 널 위해 싸울게! 피해야 할 사람들이 있어서..."
+},
+{
+"asset": "/npcs/crew/ffs_whitecrow_crewmemberoutlaw.npctype.patch",
+"pointer": "/scriptConfig/dialog/crewmember/offer/glitch/default/6",
+"en_word": "Desperate",
+"kop": "절박해",
+"en": "Desperate. I really need to hide. Do you have a ship? I'll fight for you!",
+"ko": "절박해. 정말 숨어야 해. 배 있어? 널 위해 싸울게!"
+},
+{
+"asset": "/npcs/crew/ffs_whitecrow_crewmembertailor.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/0",
+"en_word": "Impressed",
+"kop": "감명받았긴",
+"en": "Impressed. This is a promising uniform choice, captain!",
+"ko": "감명받았긴. 유망한 유니폼 선택이야, 함장!"
+},
+{
+"asset": "/npcs/dungeon/evilfortress/dupe_evilknight.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/6",
+"en_word": "Irate",
+"kop": "격분했긴",
+"en": "Irate. You have messed with the wrong knight!",
+"ko": "격분했긴. 잘못된 기사를 건드렸구나!"
+},
+{
+"asset": "/npcs/dungeon/saturndarkmage/saturnvampirelord.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/saturn2/default/2",
+"en_word": "Incensed",
+"kop": "격분했긴",
+"en": "Incensed. Do you think you can just come here and take what you please!?",
+"ko": "격분했긴. 여기 와서 마음대로 가져갈 수 있다고 생각해!?"
+},
+{
+"asset": "/npcs/events/sb_rivalbountyhunter.npctype.patch",
+"pointer": "/scriptConfig/dialog/bountyRival/warn/glitch/default/0",
+"en_word": "Informative",
+"kop": "유익하긴",
+"en": "Informative. I'm also on the hunt for ^green;<bountyName>^reset;.",
+"ko": "유익하긴. 나도 ^green;<bountyName>^reset;을 쫓고 있어."
+},
+{
+"asset": "/npcs/furniture/farmerrmerchant.npctype.patch",
+"pointer": "/scriptConfig/dialog/merchant/glitch/default/1",
+"en_word": "Inticing",
+"kop": "유혹적이긴",
+"en": "Inticing. All my produce is locally grow, and guaranteed fresh!",
+"ko": "유혹적이긴. 제 농산물은 전부 현지에서 재배됐고, 신선도를 보장해요!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackengineer.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/7",
+"en_word": "Imposing",
+"kop": "위압적이긴",
+"en": "Imposing. Get off our spaceship, hoarder!",
+"ko": "위압적이긴. 우리 우주선에서 내려, 이 도둑아!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackmelter.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/0",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. Stop right there, or else!",
+"ko": "위협적이긴. 거기 멈춰, 안 그러면 각오해!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/apex/0",
+"en_word": "Indignant",
+"kop": "분개했긴",
+"en": "Indignant. The Miniknog should have stayed away from us!",
+"ko": "분개했긴. 미니크녹은 우리한테서 멀리 떨어져 있었어야 했어!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/floran/2",
+"en_word": "Indignant",
+"kop": "분개했긴",
+"en": "Indignant. I knew Florans are not to be trusted!",
+"ko": "분개했긴. 플로란을 믿으면 안 된다는 걸 알고 있었지!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/human/2",
+"en_word": "Imposing",
+"kop": "위압적이긴",
+"en": "Imposing. You have no idea who you deal with!",
+"ko": "위압적이긴. 네가 누구를 상대하는지 전혀 모르는구나!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/novakid/2",
+"en_word": "Imposing",
+"kop": "위압적이긴",
+"en": "Imposing. Begone, star person!",
+"ko": "위압적이긴. 꺼져, 별 인간아!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/fenerox/0",
+"en_word": "Disgusted",
+"kop": "역겹네요",
+"en": "Disgusted. Who let this brute in?",
+"ko": "역겹네요. 누가 이 짐승을 들여보낸 거야?"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/avali/2",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. Our masters shall eradicate you one day!",
+"ko": "위협적이긴. 우리 주인님들이 언젠가 널 몰살시킬 거야!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/avikan/2",
+"en_word": "Indignant",
+"kop": "분개했긴",
+"en": "Indignant. Rhadeis shall not save you from my wrath!",
+"ko": "분개했긴. 라데이스는 내 분노로부터 널 구해주지 않을 거야!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/trink/0",
+"en_word": "Imposing",
+"kop": "위압적이긴",
+"en": "Imposing. You have greatly miscalculated your chances here!",
+"ko": "위압적이긴. 여기서 네 승산을 크게 잘못 계산했구나!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/akkimari/1",
+"en_word": "Imperious",
+"kop": "거만하긴",
+"en": "Imperious. You scavengers shall pay for your crimes!",
+"ko": "거만하긴. 너희 약탈자들은 죗값을 치를 거야!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/elunite/0",
+"en_word": "Arrogant",
+"kop": "오만하군요",
+"en": "Arrogant. You are but a mere puppet!",
+"ko": "오만하군요. 당신은 그저 하찮은 꼭두각시일 뿐입니다!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/elunite/1",
+"en_word": "Irked",
+"kop": "짜증 났긴",
+"en": "Irked. Enough of your games, Elunite!",
+"ko": "짜증 났긴. 그 놀음은 이제 그만해, 엘루나이트!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/radien/0",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. Freaks like you are not welcome here!",
+"ko": "위협적이긴. 너 같은 괴물은 여기서 환영받지 못해!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/lostTarget/glitch/default/0",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. Show yourself, or else!",
+"ko": "위협적이긴. 모습을 드러내, 안 그러면 각오해!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/outOfSight/glitch/default/0",
+"en_word": "Irked",
+"kop": "짜증 났긴",
+"en": "Irked. Where did they go?!",
+"ko": "짜증 났긴. 어디로 간 거야?!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackminiboss.npctype.patch",
+"pointer": "/scriptConfig/dialog/cantReach/glitch/default/1",
+"en_word": "Indignant",
+"kop": "분개했긴",
+"en": "Indignant. Fight me like a man, you coward!",
+"ko": "분개했긴. 남자답게 싸워, 이 겁쟁이야!"
+},
+{
+"asset": "/npcs/mission/atprk_devoutattackpetraider.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/5",
+"en_word": "Imperious",
+"kop": "거만하긴",
+"en": "Imperious. Surrender now, hoarder!",
+"ko": "거만하긴. 이제 항복해, 이 도둑아!"
+},
+{
+"asset": "/npcs/om_grasslandplanet/om_grasslandfarmer.npctype.patch",
+"pointer": "/scriptConfig/dialog/greeting/glitch/default/2",
+"en_word": "Welcoming",
+"kop": "환영해",
+"en": "Welcoming. Greetings, stranger!",
+"ko": "환영해. 안녕, 이방인!"
+},
+{
+"asset": "/npcs/om_grasslandplanet/om_grasslandfarmer.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/7",
+"en_word": "Welcoming",
+"kop": "환영해",
+"en": "Welcoming. Hello! Here to check out the farm?",
+"ko": "환영해. 안녕! 농장 구경하러 왔어?"
+},
+{
+"asset": "/npcs/om_grasslandplanet/om_grasslandfarmer.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/13",
+"en_word": "Disappointed",
+"kop": "실망했다",
+"en": "Disappointed. ...Have you ever held a pitchfork in your life? No?",
+"ko": "실망했다. ...너 살면서 쇠스랑 한 번이라도 들어본 적 있어? 없어?"
+},
+{
+"asset": "/npcs/omech_lucyfarm/omech_glitchfriend.npctype.patch",
+"pointer": "/scriptConfig/dialog/merchant/tout/default/default/1",
+"en_word": "Welcoming",
+"kop": "환영해",
+"en": "Welcoming. Come and view these special eggs for sale!",
+"ko": "환영해. 와서 이 특별한 알들을 구경해 봐, 판매 중이야!"
+},
+{
+"asset": "/npcs/other/arcana_npc_glitchChampion/arcana_npc_glitchChampion.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/2",
+"en_word": "Incensed",
+"kop": "격분했긴",
+"en": "Incensed. Do you think you can just come here and take what you please?",
+"ko": "격분했긴. 여기 와서 마음대로 가져갈 수 있다고 생각해?"
+},
+{
+"asset": "/npcs/r-glitchnecromancer.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/1",
+"en_word": "Desperate",
+"kop": "절박해",
+"en": "Desperate. Just leave me alone!",
+"ko": "절박해. 그냥 날 좀 내버려 둬!"
+},
+{
+"asset": "/npcs/races/gilten/mwhaddon_npc_gilten_seekerEG.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/3",
+"en_word": "Dismissive",
+"kop": "무시하며",
+"en": "Dismissive. I'd rather dedicate my life for the Aurea than fight for those primitive warlords.",
+"ko": "무시하며. 나는 저런 원시적인 군벌들을 위해 싸우느니 차라리 아우레아에 내 삶을 바치겠다."
+},
+{
+"asset": "/npcs/stationshipcrewmate.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/1",
+"en_word": "Excited",
+"kop": "흥분된다",
+"en": "Excited. I spend much of my life not knowing space even existed, and now I am here!",
+"ko": "흥분된다. 평생 우주가 존재하는지도 모르고 살았는데, 지금 여기 있다!"
+},
+{
+"asset": "/npcs/stationshipcrewmate.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/2",
+"en_word": "Determined",
+"kop": "결의에 찬다",
+"en": "Determined. I have come to space to find a professional trade. One day I shall be <selfname>, master engineer!",
+"ko": "결의에 찬다. 전문 기술을 찾으러 우주에 왔다. 언젠가 나는 <selfname>, 마스터 엔지니어가 될 것이다!"
+},
+{
+"asset": "/npcs/stationshipcrewmate.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/5",
+"en_word": "Worried",
+"kop": "걱정된다",
+"en": "Worried. Now I am in space, I feel so miniscule. How will I make my mark when I matter so little?",
+"ko": "걱정된다. 우주에 오니 너무 작게 느껴져. 이렇게 보잘것없는데 어떻게 족적을 남기지?"
+},
+{
+"asset": "/npcs/steamspringfan1.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/9",
+"en_word": "Inspired",
+"kop": "영감이 넘치긴",
+"en": "Inspired. There are so many people out there whom we can show our brass technology. Maybe we should start with Florans?",
+"ko": "영감이 넘치긴. 우리 청동 기술을 보여줄 수 있는 사람들이 저 밖에 정말 많아. 플로란부터 시작해볼까?"
+},
+{
+"asset": "/npcs/subbiometenants/atprk_forgottenmage.npctype.patch",
+"pointer": "/scriptConfig/dialog/merchant/start/default/default/1",
+"en_word": "Inspired",
+"kop": "영감이 넘치긴",
+"en": "Inspired. Do you want to see a magic trick?",
+"ko": "영감이 넘치긴. 마술 보고 싶어?"
+},
+{
+"asset": "/npcs/subbiometenants/atprk_forgottenmage.npctype.patch",
+"pointer": "/scriptConfig/dialog/merchant/welcome/default/default/4",
+"en_word": "Curious",
+"kop": "궁금해",
+"en": "Curious. So what do you think? Do you want to buy something?",
+"ko": "궁금해. 그래서 어떻게 생각해? 뭐 좀 사고 싶어?"
+},
+{
+"asset": "/npcs/tenants/atprk_eldritchcultist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/0",
+"en_word": "Imposing",
+"kop": "위압적이긴",
+"en": "Imposing. Ri'shaan the Growing one is our lord and savior. Glory to Ri'shaan.",
+"ko": "위압적이긴. 자라나는 자 리샨이 우리의 주인이자 구원자야. 리샨에게 영광을."
+},
+{
+"asset": "/npcs/tenants/atprk_eldritchcultist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/1",
+"en_word": "Indignant",
+"kop": "분개했긴",
+"en": "Indignant. Back in my village people tried to burn me for heresy. Am I safe here?",
+"ko": "분개했긴. 내 고향 마을에선 사람들이 날 이단이라며 불태우려 했어. 여긴 안전할까?"
+},
+{
+"asset": "/npcs/tenants/blacksmithtenant.npctype.patch",
+"pointer": "/scriptConfig/dialog/merchant/welcome/glitch/default/1",
+"en_word": "Informative",
+"kop": "유익하긴",
+"en": "Informative. Crush, clobber, slash or slice. I've got a weapon for any occasion",
+"ko": "유익하긴. 부수기, 후려치기, 베기, 자르기. 어떤 상황에나 맞는 무기가 있어"
+},
+{
+"asset": "/npcs/tenants/minermerchant.npctype.patch",
+"pointer": "/scriptConfig/dialog/merchant/end/glitch/default/0",
+"en_word": "Insistent",
+"kop": "끈질기긴",
+"en": "Insistent. If you need some ores, you know exactly where to get them!",
+"ko": "끈질기긴. 광물이 필요하면 어디서 구할 수 있는지 정확히 알잖아!"
+},
+{
+"asset": "/npcs/tenants/minermerchant.npctype.patch",
+"pointer": "/scriptConfig/dialog/merchant/end/glitch/default/1",
+"en_word": "Insistent",
+"kop": "끈질기긴",
+"en": "Insistent. Come back anytime you need some more ore!",
+"ko": "끈질기긴. 광물이 더 필요하면 언제든 다시 와!"
+},
+{
+"asset": "/npcs/tenants/paintermerchant.npctype.patch",
+"pointer": "/scriptConfig/dialog/merchant/welcome/glitch/default/1",
+"en_word": "Inticing",
+"kop": "유혹적이긴",
+"en": "Inticing. Pick one out that really speaks to you.",
+"ko": "유혹적이긴. 정말 마음에 드는 걸로 하나 골라보세요."
+},
+{
+"asset": "/npcs/tenants/paintermerchant.npctype.patch",
+"pointer": "/scriptConfig/dialog/merchant/end/glitch/default/0",
+"en_word": "Desperate",
+"kop": "절박해",
+"en": "Desperate. Please come back soon. I can almost afford my rent this month!",
+"ko": "절박해. 빨리 돌아와 줘. 이번 달 월세는 거의 낼 수 있을 것 같아!"
+},
+{
+"asset": "/npcs/tenants/space/bountyhuntertenant.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/glitch/default/3",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. Need someone terminated?",
+"ko": "위협적이긴. 누구 처리할 사람 필요해?"
+},
+{
+"asset": "/npcs/threats/atprk_devoutdiverthreat.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/0",
+"en_word": "Courageous",
+"kop": "용감하게",
+"en": "Courageous. For the Lords of the Cosmos!",
+"ko": "용감하게. 코스모스의 군주들을 위해!"
+},
+{
+"asset": "/npcs/threats/atprk_devoutdiverthreat.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/2",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. You will only find your demise beneath the waves!",
+"ko": "위협적이긴. 넌 파도 아래서 최후를 맞이할 것이다!"
+},
+{
+"asset": "/npcs/threats/atprk_devoutthreat.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/0",
+"en_word": "Intimidating",
+"kop": "위협적이긴",
+"en": "Intimidating. Do you even know whom you approach?",
+"ko": "위협적이긴. 네가 지금 누구한테 다가가고 있는지는 알아?"
+},
+{
+"asset": "/npcs/threats/atprk_eldritchcultistthreat.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/0",
+"en_word": "Courageous",
+"kop": "용감하게",
+"en": "Courageous. Glory to Ri'Shaan!",
+"ko": "용감하게. 리샨의 영광을 위해!"
+},
+{
+"asset": "/npcs/threats/atprk_eldritchcultistthreat.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/1",
+"en_word": "Imposing",
+"kop": "위압적이긴",
+"en": "Imposing. The Growing One demands sacrifice!",
+"ko": "위압적이긴. 자라나는 자가 제물을 요구해!"
+},
+{
+"asset": "/npcs/threats/atprk_eldritchcultistthreat.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/3",
+"en_word": "Courageous",
+"kop": "용감하게",
+"en": "Courageous. Ri'shaan must grow!",
+"ko": "용감하게. 리샨은 성장해야 한다!"
+},
+{
+"asset": "/npcs/threats/atprk_outlaweldritchcultist.npctype.patch",
+"pointer": "/scriptConfig/dialog/attack/glitch/default/0",
+"en_word": "Imposing",
+"kop": "위압적이긴",
+"en": "Imposing. You will be fed to the Growing One!",
+"ko": "위압적이긴. 넌 자라나는 자에게 먹이로 바쳐질 거야!"
+},
+{
+"asset": "/npcs/z4glitchalchemist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/default/floran/19",
+"en_word": "Curious",
+"kop": "궁금하네요",
+"en": "Curious. Perhaps you can spare us a tooth or two?",
+"ko": "궁금하네요. 혹시 이빨 한두 개쯤 나눠주실 수 있나요?"
+},
+{
+"asset": "/npcs/z4glitchalchemist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/default/floran/20",
+"en_word": "Inquisitive",
+"kop": "궁금하긴",
+"en": "Inquisitive. Mayhaps your pollen has healing qualities...",
+"ko": "궁금하긴. 혹시 네 꽃가루에 치유 효능이 있으려나..."
+},
+{
+"asset": "/npcs/z4glitchalchemist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/default/floran/22",
+"en_word": "Dismissive",
+"kop": "무시하듯이",
+"en": "Dismissive. Please behave while you're here.",
+"ko": "무시하듯이. 여기 있는 동안 얌전히 굴어라."
+},
+{
+"asset": "/npcs/z4glitchalchemist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/default/glitch/21",
+"en_word": "Infatuated",
+"kop": "반했긴",
+"en": "Infatuated. I've always wanted to see a Glitch from outside the towers.",
+"ko": "반했긴. 탑 밖에서 온 글리치를 보고 싶었어."
+},
+{
+"asset": "/npcs/z4glitchalchemist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/default/novakid/19",
+"en_word": "Curious",
+"kop": "궁금하네",
+"en": "Curious. Would you mind sticking around for an... anatomical study?",
+"ko": "궁금하네. 잠깐 남아서... 해부학적 연구 좀 해봐도 될까?"
+},
+{
+"asset": "/npcs/z4glitchalchemist.npctype.patch",
+"pointer": "/scriptConfig/dialog/converse/default/novakid/21",
+"en_word": "Inquisitive",
+"kop": "궁금하긴",
+"en": "Inquisitive. How do you eat? How can you sleep?",
+"ko": "궁금하긴. 어떻게 먹어? 어떻게 자?"
+},
+{
+"asset": "/objects/CRAFTING/atprk_esupgradestationsmall/atprk_esupgradestationsmall.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Excited",
+"kop": "신나요",
+"en": "Excited. I can upgrade my already powerful weapons here!",
+"ko": "신나요. 이미 강력한 무기를 여기서 업그레이드할 수 있어요!"
+},
+{
+"asset": "/objects/alliance/furniture/alliancecabinet/alliancecabinet.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Bored",
+"kop": "지루해",
+"en": "Bored. Simply a cabinet.",
+"ko": "지루해. 그냥 캐비닛입니다."
+},
+{
+"asset": "/objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Bored",
+"kop": "지루해",
+"en": "Bored. Simply a cabinet.",
+"ko": "지루해. 그냥 캐비닛입니다."
+},
+{
+"asset": "/objects/alta/basic/cabinet/ct_alta_cabinet.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Excited",
+"kop": "기대되네요",
+"en": "Excited. Any items of interest inside?",
+"ko": "기대되네요. 안에 관심 있는 물건은?"
+},
+{
+"asset": "/objects/alta/security/rack/ct_alta_security_rack.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Excited",
+"kop": "기대되네요",
+"en": "Excited. Any items of interest inside?",
+"ko": "기대되네요. 안에 관심 있는 물건은?"
+},
+{
+"asset": "/objects/alta/wired/vent/ct_alta_vent.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Impressed",
+"kop": "인상적이군",
+"en": "Impressed. This drains away water with ease.",
+"ko": "인상적이군. 물이 쉽게 빠지네요."
+},
+{
+"asset": "/objects/arcana/misc/cafeVendor/arcana_misc_cafeVendor.object.patch",
+"pointer": "/chatOptions/0",
+"en_word": "Welcoming",
+"kop": "환영해",
+"en": "Welcoming. Hi! What can I get you today?",
+"ko": "환영해. 안녕! 오늘은 뭘로 해드릴까?"
+},
+{
+"asset": "/objects/arcana/npcs/arcana_dungeon_novaStation/arcana_dungeon_novaStation_npc_jezper/arcana_dungeon_novaStation_npc_jezper.object.patch",
+"pointer": "/chatOptions/0",
+"en_word": "Welcoming",
+"kop": "환영해",
+"en": "Welcoming. Hello! I'm ^orange;Jezper^reset;, how are you?",
+"ko": "환영해. 안녕! 나는 ^orange;제즈퍼^reset;야, 잘 지내?"
+},
+{
+"asset": "/objects/avaliextras/sideinterlockingdoor/avalisideinterlockingdoor.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Bored",
+"kop": "지루해",
+"en": "Bored. It is a door, how bored I must be examining this.",
+"ko": "지루해. 문이라니, 이걸 조사하는 게 얼마나 지루할까?"
+},
+{
+"asset": "/objects/biome/om_divineplanet/om_divineplanetlamp1/om_divineplanetlamp1.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Curious",
+"kop": "흥미롭군",
+"en": "Curious. A small light source in the shape of a strange lamp. It's made from sanctilite, but how does it glow?",
+"ko": "흥미롭군. 기묘한 램프 모양을 한 작은 광원이다. 생크틸라이트로 만들어졌는데, 대체 어떻게 빛을 내는 걸까?"
+},
+{
+"asset": "/objects/biome/om_divineplanet/om_divineplanetlamp2/om_divineplanetlamp2.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Curious",
+"kop": "흥미롭군",
+"en": "Curious. A small light source in the shape of a strange lamp. It's made from sanctilite, but how does it glow?",
+"ko": "흥미롭군. 기묘한 램프 모양을 한 작은 광원이다. 생크틸라이트로 만들어졌는데, 대체 어떻게 빛을 내는 걸까?"
+},
+{
+"asset": "/objects/biome/sb_heck/heckaltar/heckaltar.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Anxious",
+"kop": "불안해",
+"en": "Anxious. This altar is stained with the blood of innocents, or maybe just birds.",
+"ko": "불안해. 이 제단은 무고한 사람들의 피, 아니 어쩌면 새들의 피로 얼룩져 있습니다."
+},
+{
+"asset": "/objects/boss/sb_decoyprincess.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Proud",
+"kop": "자랑스럽군",
+"en": "Proud. A cunning plan, this decoy.",
+"ko": "자랑스럽군. 교활한 계획이군, 이 미끼."
+},
+{
+"asset": "/objects/cultist/cultistaltar/armok-cultistaltar.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Concerned",
+"kop": "걱정된다",
+"en": "Concerned. This altar appears to have been used for some sinister ritual.",
+"ko": "걱정된다. 이 제단은 어떤 불길한 의식에 사용된 것 같아."
+},
+{
+"asset": "/objects/felin/felinfridge/felinfridge.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Determined",
+"kop": "결심했다",
+"en": "Determined. I must raid this food storage device!",
+"ko": "결심했다. 이 식품 저장 장치를 습격해야겠어!"
+},
+{
+"asset": "/objects/nmm_mvg/other/panasonic/vieratx32lxd600.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Appreciative",
+"kop": "고마워요",
+"en": "Appreciative. The television is truly one of humanity's greatest achievements.",
+"ko": "고마워요. 텔레비전은 진정 인류의 가장 위대한 업적 중 하나입니다."
+},
+{
+"asset": "/objects/nmm_starbound/unofficial/wasteland_debris/wastelandscreen1.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Sad",
+"kop": "안타깝네요",
+"en": "Sad. What a sorry fate for a machine.",
+"ko": "안타깝네요. 기계의 운명이 안타깝네요."
+},
+{
+"asset": "/objects/nmm_starbound/unofficial/wasteland_debris/wastelandscreen2.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Uneasy",
+"kop": "불안해",
+"en": "Uneasy. This is no way for a machine to wind up.",
+"ko": "불안해. 이건 기계가 감을 수 있는 방법이 아니야."
+},
+{
+"asset": "/objects/nonEKItechstation/nonEKItechstation.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Happy",
+"kop": "행복해",
+"en": "Happy. This station allows me to talk to Chay.",
+"ko": "행복해. 이 스테이션 덕분에 챠이랑 얘기할 수 있어."
+},
+{
+"asset": "/objects/saturn/saturnicebox/saturnicebox.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Determined",
+"kop": "결심했다",
+"en": "Determined. I must raid this food storage device!",
+"ko": "결심했다. 이 식품 저장 장치를 습격해야겠어!"
+},
+{
+"asset": "/objects/saturn/saturnicebox/saturnicebox2.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Determined",
+"kop": "결심했다",
+"en": "Determined. I must raid this food storage device!",
+"ko": "결심했다. 이 식품 저장 장치를 습격해야겠어!"
+},
+{
+"asset": "/objects/ship/arcanianshiplocker/arcanianshiplocker.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Excited",
+"kop": "기대되네요",
+"en": "Excited. Any items of interest inside I wonder?",
+"ko": "기대되네요. 그 안에 뭐가 있을까?"
+},
+{
+"asset": "/objects/ship/lamiashiplocker/lamiashiplocker.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Excited",
+"kop": "기대되네요",
+"en": "Excited. Any items of interest inside I wonder?",
+"ko": "기대되네요. 그 안에 뭐가 있을까?"
+},
+{
+"asset": "/objects/ship/lucarioshiplocker/lucarioshiplocker.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Excited",
+"kop": "기대되네요",
+"en": "Excited. Any items of interest inside I wonder?",
+"ko": "기대되네요. 그 안에 뭐가 있을까?"
+},
+{
+"asset": "/objects/ship/lustlingshiplocker/lustlingshiplocker.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Excited",
+"kop": "기대되네요",
+"en": "Excited. Any items of interest inside I wonder?",
+"ko": "기대되네요. 그 안에 뭐가 있을까?"
+},
+{
+"asset": "/objects/ship/spectwingshiplocker/spectwingshiplocker.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Excited",
+"kop": "기대되네요",
+"en": "Excited. Any items of interest inside I wonder?",
+"ko": "기대되네요. 그 안에 뭐가 있을까?"
+},
+{
+"asset": "/objects/ship/woofieshiplocker/woofieshiplocker.object.patch",
+"pointer": "/glitchDescription",
+"en_word": "Excited",
+"kop": "기대되네요",
+"en": "Excited. Any items of interest inside I wonder?",
+"ko": "기대되네요. 그 안에 뭐가 있을까?"
+},
+{
+"asset": "/quests/atprk_relicseekerhq/atprk_arcanastarmapquest.questtemplate.patch",
+"pointer": "/text",
+"en_word": "Interested",
+"kop": "흥미롭긴",
+"en": "Interested. Have you found another ^green;Outdated Starmap Upgrade^white;? This one seems to have originated from places far beyond arcane stars. I'll need something like an ^orange;Archaic Circuit^white; to decipher it properly.",
+"ko": "흥미롭긴. ^green;구형 성도 업그레이드^white;를 또 발견했어? 이건 비전 항성계 훨씬 너머에서 온 것 같아. 제대로 해독하려면 ^orange;고대 회로^white; 같은 게 필요할 거야."
+},
+{
+"asset": "/quests/atprk_relicseekerhq/atprk_betastarmapquest.questtemplate.patch",
+"pointer": "/text",
+"en_word": "Intrigued",
+"kop": "흥미롭긴",
+"en": "Intrigued. I see you have an ^green;Outdated Starmap Upgrade^white; in your pocket. If only you knew how tricky these things are to come across nowadays! Could you ^orange;give it to me^white; so I can extract some navigation data?",
+"ko": "흥미롭긴. 주머니에 ^green;구형 성도 업그레이드^white;가 있는 걸 봤어. 요즘 이런 걸 구하기가 얼마나 까다로운지 알기나 해! ^orange;나한테 줄 수 있어^white;? 항법 데이터를 좀 추출하고 싶어서."
+},
+{
+"asset": "/quests/ees/EES_farmtransmutationtablet_1.questtemplate.patch",
+"pointer": "/completionText",
+"en_word": "Impressed",
+"kop": "감명받았긴",
+"en": "Impressed. You look like a wise person, especially in the long forgotten craft of ^green;Farm alchemy^reset;, talk with me if you are interested in learning more.",
+"ko": "감명받았긴. 오랫동안 잊혔던 ^green;농업 연금술^reset;에 특히 조예가 깊은 현자처럼 보이는걸, 더 배우는 데 관심 있으면 나한테 말 걸어."
+},
+{
+"asset": "/quests/ees/EES_hunttransmutationtablet_1.questtemplate.patch",
+"pointer": "/completionText",
+"en_word": "Impressed",
+"kop": "감명받았긴",
+"en": "Impressed. You look like a wise person, especially in the long forgotten craft of ^red;Hunt alchemy^reset;, talk with me if you are interested in learning more.",
+"ko": "감명받았긴. 오랫동안 잊혔던 ^red;사냥 연금술^reset;에 특히 조예가 깊은 현자처럼 보이는걸, 더 배우는 데 관심 있으면 나한테 말 걸어."
+},
+{
+"asset": "/quests/ees/EES_minetransmutationtablet_1.questtemplate.patch",
+"pointer": "/completionText",
+"en_word": "Impressed",
+"kop": "감명받았긴",
+"en": "Impressed. You look like a wise person, especially in the long forgotten craft of ^orange;Mine alchemy^reset;, talk with me if you are interested in learning more.",
+"ko": "감명받았긴. 오랫동안 잊혔던 ^orange;채굴 연금술^reset;에 특히 조예가 깊은 현자처럼 보이는걸, 더 배우는 데 관심 있으면 나한테 말 걸어."
+},
+{
+"asset": "/quests/outpost/protectoratepistol.questtemplate.patch",
+"pointer": "/text",
+"en_word": "Curious",
+"kop": "궁금하네",
+"en": "Curious. Is that a ^orange;Protectorate issued emergency handgun^reset; I see on you? ^white;I believe I can repair it like I had with the broadsword! ^green;Bring me ^orange;10 Tech Cards^reset; ^green;and it shall be done^reset;.",
+"ko": "궁금하네. 그거 ^orange;보호국 지급 비상용 권총^reset; 아니야? ^white;브로드소드 때처럼 고쳐줄 수 있을 것 같은데! ^green;^orange;테크 카드 10개^reset; 가져와^green;, 그럼 해줄게^reset;."
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_savannah1/text",
+"en_word": "Disinterested",
+"kop": "무관심하게",
+"en": "Disinterested. ^#ffe21d;Savannah^white; planets are not exactly my favorite. They are dry and dusty most of the year, and there's hardly any rain.",
+"ko": "무관심하게. ^#ffe21d;사바나^white; 행성은 딱히 제 취향이 아니에요. 일 년 대부분 건조하고 먼지투성이인 데다, 비도 거의 안 오죠."
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_snow3/text",
+"en_word": "Irked",
+"kop": "짜증 났긴",
+"en": "Irked. And I know that not all Glitch are well-educated but this really gets ridiculous at times! Who in their right mind believes in giant space turtles?",
+"ko": "짜증 났긴. 모든 글리치가 다 배운 건 아니라는 건 알지만 이건 가끔 너무 어이없다니까! 대체 어떤 정신 나간 놈이 우주 거북이를 믿는 거야?"
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_ashy1/text",
+"en_word": "Curious",
+"kop": "궁금하네",
+"en": "Curious. So how is it on ^#ffc053;ashy^white; planets these days? Still overrun by the Glitch Devouts, I suppose?",
+"ko": "궁금하네. 요즘 ^#ffc053;재로 뒤덮인^white; 행성들은 어때? 아직도 글리치 신도들이 들끓겠지?"
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_alien1/text",
+"en_word": "Curious",
+"kop": "궁금하네",
+"en": "Curious. I see you have visited one of those crazy pink planets. Everyone I've ever met calls them ^#7800ff;alien^white; for some reason.",
+"ko": "궁금하네. 저 미친 분홍색 행성 중 하나를 다녀왔나 보네요. 제가 만나본 사람들은 다들 이유는 모르겠지만 저걸 ^#7800ff;에일리언^white;이라고 부르더라고요."
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_alien2/text",
+"en_word": "Informed",
+"kop": "정통하긴",
+"en": "Informed. I mean... All exoplanets are technically alien. Whoever came up with this classification didn't think it through.",
+"ko": "정통하긴. 그러니까... 모든 외계 행성은 기술적으로 다 외계잖아. 이 분류를 만든 사람은 별생각이 없었나 봐."
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_jungle2/text",
+"en_word": "Irked",
+"kop": "짜증 났긴",
+"en": "Irked. And overgrown Poptops out for your blood.",
+"ko": "짜증 났긴. 그리고 웃자란 팝톱들이 네 피를 노리고 있고."
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_arctic1/text",
+"en_word": "Dismissive",
+"kop": "무시하듯이",
+"en": "Dismissive. There is a good reason not even the Hylotl bother settling on ^#00ffe4;arctic^white; planets.",
+"ko": "무시하듯이. 하이로틀조차 ^#00ffe4;극지^white; 행성에 정착하지 않는 데는 다 그럴 만한 이유가 있어요."
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_arctic3/text",
+"en_word": "Indignant",
+"kop": "분개했긴",
+"en": "Indignant. Exactly! On top of that, have you ever seen a Muckfang? They make an already awful planet type much worse.",
+"ko": "분개했긴. 맞아! 게다가, 머크팽 본 적 있어? 그것들 때문에 안 그래도 끔찍한 행성 종류가 훨씬 더 나빠져."
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_midnight3/text",
+"en_word": "Disturbed",
+"kop": "동요하며",
+"en": "Disturbed. Yes, I'm aware. And that fact doesn't help my feelings, really.",
+"ko": "동요하며. 그래, 나도 알아. 그리고 그 사실이 딱히 내 기분을 나아지게 하진 않아, 정말로."
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_magma1/text",
+"en_word": "Informed",
+"kop": "정통하긴",
+"en": "Informed. For ages it was believed that ^#ff1818;lava^white; planets were nests for cosmic dragons... Until it was proven that cosmic dragons were just a myth.",
+"ko": "정통하긴. 오랫동안 ^#ff1818;용암^white; 행성은 우주 드래곤의 둥지라고 믿어져 왔어... 우주 드래곤이 그저 신화에 불과하다는 게 증명되기 전까지는."
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_magma2/text",
+"en_word": "Informed",
+"kop": "정통하긴",
+"en": "Informed. Nowadays people only ever go there to catch fireproof fish. Some fools still hope to discover dragons though.",
+"ko": "정통하긴. 요즘은 다들 그저 불연성 물고기를 잡으러 그곳에 가. 그래도 몇몇 바보들은 아직도 드래곤을 발견하길 바라지."
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_boiling1/text",
+"en_word": "Impressed",
+"kop": "감명받았긴",
+"en": "Impressed. So you have explored a ^#837ad7;boiling^white; planet after all. I keep hearing about such places yet I've never set foot there before.",
+"ko": "감명받았긴. 그러니까 ^#837ad7;끓어오르는^white; 행성도 탐사해본 거네. 그런 곳 얘긴 많이 들었지만 나는 한 번도 가본 적이 없어."
+},
+{
+"asset": "/radiomessages/atprk_planetpincomments.radiomessages.patch",
+"pointer": "/atprk_planetpincomment_tentacle2/text",
+"en_word": "Disturbed",
+"kop": "동요하며",
+"en": "Disturbed. Come to think of it, this sounds alarmingly familiar...",
+"ko": "동요하며. 생각해보니, 이거 소름 끼치도록 익숙한 이야기인데..."
+},
+{
+"asset": "/radiomessages/sb_missions.radiomessages.patch",
+"pointer": "/sb_tentaclemission-brain/text",
+"en_word": "Impressed",
+"kop": "감명받았긴",
+"en": "Impressed. A novel descent!",
+"ko": "감명받았긴. 참신한 강하로군!"
+},
+{
+"asset": "/stagehands/mission/glitchmissionmanager_ffs.stagehand.patch",
+"pointer": "/radioMessages/finalWaveComplete/0",
+"en_word": "Jubilant",
+"kop": "기뻐라",
+"en": "Jubilant. Ha ha! That's done for them! We got every last one of those wretched maggots! I could sing! Come here, I want to speak to you...",
+"ko": "기뻐라. 하하! 다 끝났어요! 그 비참한 구더기들을 모두 잡았어요! 노래할 수 있게 됐어! 이리 와, 할 말이 있어..."
+},
+{
+"asset": "/stagehands/mission/glitchmissionmanager_ffs.stagehand.patch",
+"pointer": "/radioMessages/bossDefeated/0",
+"en_word": "Cautious",
+"kop": "조심해",
+"en": "Cautious. Is it gone? Are you intact? If it's gone I need to talk to you.",
+"ko": "조심해. 사라졌나? 온전한가? 사라졌다면 얘기 좀 하자."
+}
+]

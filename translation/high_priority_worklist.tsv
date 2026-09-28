@@ -1,0 +1,164 @@
+﻿id	sourceMod	tmCategory	suggestedKorean	keyHint	assetPath	jsonPointer	englishText
+0	contents_2010607826.pak	new-translation		-	/celestial/names.config.patch	/0/7/value/1	RFC 6902
+1	Felin_contents_729429063.pak	new-translation		default	/dialog/arrivedhome.config.patch	/0/value/default/0	Shigriaw, raiwum prilw~
+2	Starry_Planets_contents_2157200368.pak	new-translation		regex	/interface/windowconfig/editbookmark.config.patch	/0/1/value	[a-zA-Z0-9 '-?!(é)]{0,28}
+3	999990101_Ruincalboss_contents_2912289180.pak	new-translation		parameters	/dungeons/missions/tentaclemissions/bossroomtest.json.patch	/2/3/value	"{ ""music"": [""/music/high_suprem_band_ruin.ogg""], ""uniqueId"": ""bossmusicleft""}"
+4	999990101_Ruincalboss_contents_2912289180.pak	new-translation		parameters	/dungeons/missions/tentaclemissions/bossroomtest.json.patch	/2/4/value	"{ ""music"": [""/music/high_suprem_band_ruin.ogg""], ""uniqueId"": ""bossmusicright""}"
+5	999990101_Ruincalboss_contents_2912289180.pak	new-translation		parameters	/dungeons/missions/tentaclemissions/bossroomtest.json.patch	/3/1/value/properties/parameters	"{""uniqueId"" : ""tentacleright2""}"
+6	999990101_Ruincalboss_contents_2912289180.pak	new-translation		parameters	/dungeons/missions/tentaclemissions/bossroomtest.json.patch	/3/2/value/properties/parameters	"{""uniqueId"" : ""tentacleleft2""}"
+7	999990101_Ruincalboss_contents_2912289180.pak	new-translation		parameters	/dungeons/missions/tentaclemissions/bossroomtest.json.patch	/4/1/value/properties/parameters	"{""uniqueId"" : ""tentacleright2""}"
+8	999990101_Ruincalboss_contents_2912289180.pak	new-translation		parameters	/dungeons/missions/tentaclemissions/bossroomtest.json.patch	/4/2/value/properties/parameters	"{""uniqueId"" : ""tentacleleft2""}"
+9	contents_2661670128.pak	new-translation		message	/interface/confirmation/teleportconfirmation.config.patch	/0/value/message	"
+
+Are you ready for me to send you to the Scorched Planet?
+^red;You'll want to have good equipment for this."
+10	997_sxb_Lustlings_1.2.9_clean.pak	new-translation		parameters	/dungeons/missions/protectorate/protectorate.json.patch	/0/value	"{ ""initialItems"" : [ { ""name"" : ""protectoratechest"", ""count"" : 1 }, { ""name"" : ""protectoratepants"", ""count"" : 1 },  { ""name"" : ""money"", ""count"" : 20 },  { ""name"" : ""lustlingView-codex"", ""count"" : 1 }, { ""name"" : ""protectorateflyer"", ""count"" : 1 } ] }"
+11	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_archright1.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+12	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_pitchest4.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+13	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_hidenpitchest3.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+14	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_monsterchest1.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+15	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_cave1.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+16	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_pitchest3.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+17	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_arch2.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+18	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_hidenpitchest2.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+19	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_pitchest2.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+20	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_archleft2.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+21	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_arch1.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+22	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_hidenpitchest1.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+23	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcanotalltreasure.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+24	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano1.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+25	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_flametrap1.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+26	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcanopass.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+27	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcanodeep2.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+28	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_pitchest1.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+29	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_archleft1.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+30	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcanodeepslates.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+31	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcano_hidenpitchest4.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+32	Patch_Project_contents_1543219534.pak	new-translation		parameters	/dungeons/microdungeons/biomes/volcanic/volcanodeeptreasure.json.patch	/1/value	"{""treasurePools"" :[""volcanicChestTreasure""]}"
+33	contents_2212179822.pak	new-translation		shortdescription	/items/active/weapons/ranged/dem_m3f/dem_m3f.activeitem.patch	/0/value	"SMG ""M3F"""
+34	contents_2212179822.pak	new-translation		shortdescription	/items/active/weapons/ranged/dem_hvr/dem_hvr.activeitem.patch	/0/value	HVR T-4
+35	contents_2212179822.pak	new-translation		shortdescription	/items/active/weapons/ranged/dem_hvr_poison/dem_hvr_poison.activeitem.patch	/0/value	HVR T-4P
+36	contents_2212179822.pak	new-translation		shortdescription	/items/active/weapons/ranged/dem_hvm/dem_hvm.activeitem.patch	/0/value	HVM L-6
+37	contents_2212179822.pak	new-translation		shortdescription	/items/active/weapons/ranged/dem_m202/dem_m202.activeitem.patch	/0/value	M202A1 FLASH
+38	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/161/value/parameters/shortdescription	Bamboo Shoot Sapling
+39	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/162/value/parameters/shortdescription	Banana Sapling
+40	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/163/value/parameters/shortdescription	Bio Spore Sapling
+41	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/164/value/parameters/shortdescription	Bio Spore Sapling
+42	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/165/value/parameters/shortdescription	Coconut Sapling
+43	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/166/value/parameters/shortdescription	Flower Petal Sapling
+44	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/167/value/parameters/shortdescription	Flower Petal Sapling
+45	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/168/value/parameters/shortdescription	Bio Sample Sapling
+46	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/169/value/parameters/shortdescription	Nyani String Sapling
+47	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/170/value/parameters/shortdescription	Peach Sapling
+48	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/171/value/parameters/shortdescription	Pearlfruit Sapling
+49	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/172/value/parameters/shortdescription	Pear Sapling
+50	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/173/value/parameters/shortdescription	Putrid Slime Sapling
+51	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/174/value/parameters/shortdescription	Red Apple Sapling
+52	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/175/value/parameters/shortdescription	Shiny Crystal Sapling
+53	Craftable_Seeds_FU_1.1_compat.pak	new-translation		shortdescription	/player.config.patch	/176/value/parameters/shortdescription	Shiny Crystal Sapling
+54	FU_RedemptionPatch_contents_2185949973.pak	new-translation		description	/items/armors/other/r-prismatic/r-prismatic.chest.patch	/2/value	"^orange;Set Bonuses^reset;: 
+^yellow;^reset; +^green;30^reset;% Shield Stamina, Block, Shield Regen
+^yellow;^reset; ^cyan;Immune^reset;: All Cold, Oxygen"
+55	FU_RedemptionPatch_contents_2185949973.pak	new-translation		description	/items/armors/other/r-prismatic/r-prismatic.head.patch	/2/value	"^orange;Set Bonuses^reset;: 
+^yellow;^reset; +^green;30^reset;% Shield Stamina, Block, Shield Regen
+^yellow;^reset; ^cyan;Immune^reset;: All Cold, Oxygen"
+56	FU_RedemptionPatch_contents_2185949973.pak	new-translation		description	/items/armors/other/r-prismatic/r-prismatic.legs.patch	/2/value	"^orange;Set Bonuses^reset;: 
+^yellow;^reset; +^green;30^reset;% Shield Stamina, Block, Shield Regen
+^yellow;^reset; ^cyan;Immune^reset;: All Cold, Oxygen"
+57	FU_RedemptionPatch_contents_2185949973.pak	new-translation		description	/items/armors/other/r_impervious/r_impervious.chest.patch	/2/value	"^orange;Set Bonuses^reset;: 
+^yellow;^reset; +^green;35^reset;% Shield Stamina, Block, Shield Regen
+^yellow;^reset; ^cyan;Immune^reset;: Deadly Heat, Acid, Burning, Oxygen, Gas, Pressure"
+58	FU_RedemptionPatch_contents_2185949973.pak	new-translation		description	/items/armors/other/r_impervious/r_impervious.head.patch	/2/value	"^orange;Set Bonuses^reset;: 
+^yellow;^reset; +^green;35^reset;% Shield Stamina, Block, Shield Regen
+^yellow;^reset; ^cyan;Immune^reset;: Deadly Heat, Acid, Burning, Oxygen, Gas, Pressure"
+59	FU_RedemptionPatch_contents_2185949973.pak	new-translation		description	/items/armors/other/r_impervious/r_impervious.legs.patch	/2/value	"^orange;Set Bonuses^reset;: 
+^yellow;^reset; +^green;35^reset;% Shield Stamina, Block, Shield Regen
+^yellow;^reset; ^cyan;Immune^reset;: Deadly Heat, Acid, Burning, Oxygen, Gas, Pressure"
+60	FU_RedemptionPatch_contents_2185949973.pak	new-translation		description	/items/armors/protectorate/protectoratearmor/protectoratearmor.chest.patch	/3/value	"Experimental power armor to ensure protection for all.
+^orange;Set Bonuses^reset;:
+^yellow;^reset; Power Dash Tech. Partial knockback resist;
+^yellow;^reset; Protectorate Weaponry: Damage x^green;1.3^reset;
+^yellow;^reset; ^cyan;Immune^reset;: Deadly Rads, Deadly Heat/Cold, Poison, Oxygen, Gas"
+61	FU_RedemptionPatch_contents_2185949973.pak	new-translation		description	/items/armors/protectorate/protectoratearmor/protectoratearmor.head.patch	/3/value	"The face of a noble cause.
+^cyan;Headlamp^reset;
+^orange;Set Bonuses^reset;:
+^yellow;^reset; Protector's Sphere Tech;
+^yellow;^reset; Protectorate Weaponry: Damage x^green;1.3^reset;
+^yellow;^reset; ^cyan;Immune^reset;: Deadly Rads, Deadly Heat/Cold, Poison, Oxygen, Gas"
+62	FU_RedemptionPatch_contents_2185949973.pak	new-translation		description	/items/armors/protectorate/protectoratearmor/protectoratearmor.legs.patch	/3/value	"These boots march onwards to a brighter future.
+^orange;Set Bonuses^reset;:
+^yellow;^reset; Rocket Thruster. Fall Damage Immunity;
+^yellow;^reset; Protectorate Weaponry: Damage x^green;1.3^reset;
+^yellow;^reset; ^cyan;Immune^reset;: Deadly Rads, Deadly Heat/Cold, Poison, Oxygen, Gas"
+63	contents_3008930556.pak	new-translation		cworks_storage01	/supportedcontainers.config.patch	/190/value	objects/09 Storage/01 Micro Dimensional Locker/cworks_storage01.object
+64	contents_3008930556.pak	new-translation		cworks_storage02	/supportedcontainers.config.patch	/191/value	objects/09 Storage/02 Perfectly Generic Crate/cworks_storage02.object
+65	contents_3008930556.pak	new-translation		cworks_storage03	/supportedcontainers.config.patch	/192/value	objects/09 Storage/03 Upgrade Crate/cworks_storage03.object
+66	contents_3008930556.pak	new-translation		cworks_storage04	/supportedcontainers.config.patch	/193/value	objects/09 Storage/04 Thing Chest/cworks_storage04.object
+67	contents_3008930556.pak	new-translation		cworks_storage05	/supportedcontainers.config.patch	/194/value	objects/09 Storage/05 Vault Chest/cworks_storage05.object
+68	trans+dmgfix_starforge_contents_2431875552.pak	new-translation		friendlyword	/interface/cockpit/cockpit.config.patch	/3/1/value/starforge-tidefragment/friendlyWord	Tidal Remnants
+69	trans+Stargate_Invasion_contents_1195446899.pak	new-translation		stargate_goadesert	/interface/cockpit/cockpit.config.patch	/4/value/0	This ^yellow;desert^reset; planet has been annexed by a belligerent race called ^red;Goa'uld.^reset;
+70	trans+Stargate_Invasion_contents_1195446899.pak	new-translation		stargate_goadesert	/interface/cockpit/cockpit.config.patch	/5/value	^red;Annexed^reset; ^yellow;Desert^reset;
+71	trans+Stargate_Invasion_contents_1195446899.pak	new-translation		stargate_goaforest	/interface/cockpit/cockpit.config.patch	/7/value/0	This ^#15ce02;forest^reset; planet has been annexed by a belligerent race called ^red;Goa'uld.^reset;
+72	trans+Stargate_Invasion_contents_1195446899.pak	new-translation		stargate_goaforest	/interface/cockpit/cockpit.config.patch	/8/value	^red;Annexed^reset; ^#15ce02;Forest^reset;
+73	trans+Stargate_Invasion_contents_1195446899.pak	new-translation		stargate_goavolcanic	/interface/cockpit/cockpit.config.patch	/10/value/0	This ^#e11212;Volcanic^reset; planet has been annexed by a belligerent race called ^red;Goa'uld.^reset;
+74	trans+Stargate_Invasion_contents_1195446899.pak	new-translation		stargate_goavolcanic	/interface/cockpit/cockpit.config.patch	/11/value	^red;Annexed^reset; ^#e11212;Volcanic^reset;
+75	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/apexintro/apexintro.json.patch	/1/0/value/objects/2/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""hallway""}"
+76	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/apexintro/apexintro.json.patch	/1/0/value/objects/35/properties/parameters	"{ ""initialItems"" : [ { ""name"" : ""bandage"", ""count"" : 2 }, { ""name"" : ""salve"", ""count"" : 4 } ] }"
+77	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/apexintro/apexintro.json.patch	/1/0/value/objects/36/properties/parameters	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 }, { ""name"" : ""brokensidearm"", ""count"" : 1 } ] }"
+78	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/apexintro/apexintro.json.patch	/1/0/value/objects/40/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""human""}"
+79	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/apexintro/apexintro.json.patch	/1/0/value/objects/59/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""alarm""}"
+80	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/apexintro/apexintro.json.patch	/1/0/value/objects/71/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""lab""}"
+81	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/apexintro/apexintro.json.patch	/1/0/value/objects/72/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""crash""}"
+82	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/apexintro/apexintro.json.patch	/1/0/value/objects/104/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""ship""}"
+83	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/apexintro/apexintro.json.patch	/1/0/value/objects/105/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""go""}"
+84	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/apexorigin/apexorigin.json.patch	/0/1/value	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 }, { ""name"" : ""brokensidearm"", ""count"" : 1 }, {""name"" : ""money"", ""count"" : 150} ], ""uniqueId"" : ""weaponchest"" }"
+85	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianintro/avianintro.json.patch	/1/0/value/objects/11/properties/parameters	"{ ""initialItems"" : [ { ""name"" : ""tribalwingsback"", ""count"" : 1 }, { ""name"" : ""salve"", ""count"" : 8 } ] }"
+86	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianintro/avianintro.json.patch	/1/0/value/objects/12/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""wings""}"
+87	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianintro/avianintro.json.patch	/1/0/value/objects/13/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""steps""}"
+88	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianintro/avianintro.json.patch	/1/0/value/objects/14/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""midtower""}"
+89	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianintro/avianintro.json.patch	/1/0/value/objects/15/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""toptower""}"
+90	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianintro/avianintro.json.patch	/1/0/value/objects/25/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""jumped""}"
+91	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianintro/avianintro.json.patch	/1/0/value/objects/40/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""findbeamaxe""}"
+92	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianintro/avianintro.json.patch	/1/0/value/objects/43/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""beamaxe""}"
+93	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianintro/avianintro.json.patch	/1/0/value/objects/44/properties/parameters	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 }, { ""name"" : ""money"", ""count"" : 150 }, { ""name"" : ""brokensidearm"", ""count"" : 1 } ] }"
+94	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianintro/avianintro.json.patch	/1/0/value/objects/45/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""weapon""}"
+95	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianintro/avianintro.json.patch	/1/0/value/objects/46/properties/parameters	"{""species"": ""avian""}"
+96	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianintro/avianintro.json.patch	/1/0/value/objects/47/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""ship""}"
+97	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/avianorigin/avianorigin.json.patch	/0/1/value	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 }, { ""name"" : ""brokensidearm"", ""count"" : 1 } ], ""uniqueId"" : ""weaponchest"" }"
+98	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/floranintro/floranintro.json.patch	/1/0/value/objects/21/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""door""}"
+99	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/floranintro/floranintro.json.patch	/1/0/value/objects/68/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""beamaxe""}"
+100	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/floranintro/floranintro.json.patch	/1/0/value/objects/79/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""reason""}"
+101	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/floranintro/floranintro.json.patch	/1/0/value/objects/80/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""tree""}"
+102	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/floranintro/floranintro.json.patch	/1/0/value/objects/83/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""findbeamaxe""}"
+103	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/floranintro/floranintro.json.patch	/1/0/value/objects/92/properties/parameters	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 }, { ""name"" : ""money"", ""count"" : 150 }, { ""name"" : ""brokensidearm"", ""count"" : 1 } ] }"
+104	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/floranintro/floranintro.json.patch	/1/0/value/objects/96/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""cliff""}"
+105	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/floranintro/floranintro.json.patch	/1/0/value/objects/97/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""ship""}"
+106	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/floranintro/floranintro.json.patch	/1/0/value/objects/106/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""checks""}"
+107	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/floranintro/floranintro.json.patch	/1/0/value/objects/108/properties/parameters	"{ ""initialItems"" : [ { ""name"" : ""salve"", ""count"" : 4 }, { ""name"" : ""bandage"", ""count"" : 2 } ] }"
+108	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/floranorigin/floranorigin.json.patch	/0/1/value	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 }, { ""name"" : ""brokensidearm"", ""count"" : 1 }, {""name"" : ""money"", ""count"" : 150} ], ""uniqueId"" : ""weaponchest"" }"
+109	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/glitchintro/glitchintro.json.patch	/0/1/value	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 },  { ""name"" : ""brokensidearm"", ""count"" : 1 } ] }"
+110	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/glitchorigin/glitchorigin.json.patch	/0/1/value	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 }, { ""name"" : ""brokensidearm"", ""count"" : 1 }, {""name"" : ""money"", ""count"" : 150} ], ""uniqueId"" : ""weaponchest"" }"
+111	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/hylotlintro/hylotlintro.json.patch	/0/1/value	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 },  { ""name"" : ""brokensidearm"", ""count"" : 1 } ] }"
+112	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/hylotlorigin/hylotlorigin.json.patch	/0/1/value	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 }, { ""name"" : ""brokensidearm"", ""count"" : 1 }, {""name"" : ""money"", ""count"" : 150} ], ""uniqueId"" : ""weaponchest"" }"
+113	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/novakidintro/novakidintro.json.patch	/0/1/value	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 },  { ""name"" : ""brokensidearm"", ""count"" : 1 }, { ""name"" : ""protectorateflowerhead"", ""count"" : 1 }, { ""name"" : ""bandage"", ""count"" : 2 }, { ""name"" : ""salve"", ""count"" : 4 } ] }"
+114	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/novakidorigin/novakidorigin.json.patch	/0/1/value	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 }, { ""name"" : ""brokensidearm"", ""count"" : 1 } ], ""uniqueId"" : ""weaponchest"" }"
+115	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/0/properties/parameters	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 }, { ""name"" : ""money"", ""count"" : 150 }, { ""name"" : ""brokensidearm"", ""count"" : 1 } ] }"
+116	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/1/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""epvoice"" }"
+117	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/2/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""epwatch""}"
+118	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/3/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""epbottom""}"
+119	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/4/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""findbeamaxe""}"
+120	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/5/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""epsurface""}"
+121	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/6/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""epashes""}"
+122	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/7/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""epashes2""}"
+123	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/8/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""eptunnel"" }"
+124	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/9/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""epbunker""}"
+125	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/10/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""invisiblewall""}"
+126	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/11/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""epweapon""}"
+127	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/12/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""epgettothechopper""}"
+128	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/13/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""epruines""}"
+129	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/14/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""ship""}"
+130	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/epprotectorate1.json.patch	/1/0/value/objects/16/properties/parameters	"{ ""messageType"" : ""enterMissionArea"", ""messageArgs"" : ""epwake""}"
+131	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		parameters	/dungeons/missions/protectorate/protectorate.json.patch	/0/value	"{ ""initialItems"" : [ { ""name"" : ""brokenprotectoratebroadsword"", ""count"" : 1 }, { ""name"" : ""brokensidearm"", ""count"" : 1 }, { ""name"" : ""money"", ""count"" : 150 } ] }"
+132	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		shortdescription	/items/active/weapons/fist/brassknuckles.activeitem.patch	/2/value/shortdescription	Brass Knuckles ^yellow;^reset;
+133	Project_Redemption_12.3_FU_SBKor_compat.pak	new-translation		shortdescription	/items/active/weapons/melee/axe/fryingpan.activeitem.patch	/5/value/shortdescription	Frying Pan ^yellow;^reset;
+134	FrackinUniverse_contents_729480149.pak	new-translation		text	/ai/ai.config.patch	/7/value/text	^#6f6f6f;$ status

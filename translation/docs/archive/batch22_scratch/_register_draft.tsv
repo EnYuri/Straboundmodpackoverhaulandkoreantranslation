@@ -1,0 +1,184 @@
+asset	path	old	new	en
+/dialog/alta.config.patch	/converse/alta/generic/12	우주 방랑자의 열렬한 팬으로서, 언젠가 꼭 그들에게 합류해 제 가치를 증명하고 싶어요...	우주 방랑자의 열렬한 팬으로서, 언젠가 꼭 그들에게 합류해 내 가치를 증명하고 싶어...	As a big spacedrifter fan, I really wish I could one day joi
+/dialog/alta.config.patch	/converse/alta/generic/13	아크나이트의 열렬한 팬으로서, 언젠가 꼭 그들에게 합류해 제 가치를 증명하고 싶어요...	아크나이트의 열렬한 팬으로서, 언젠가 꼭 그들에게 합류해 내 가치를 증명하고 싶어...	As a big arknight fan, I really wish I could one day join th
+/dialog/alta.config.patch	/converse/alta/generic/14	파라데아의 열렬한 팬으로서, 언젠가 꼭 그들에게 합류해 제 가치를 증명하고 싶어요...	파라데아의 열렬한 팬으로서, 언젠가 꼭 그들에게 합류해 내 가치를 증명하고 싶어...	As a big Faradea fan, I really wish I could one day join the
+/dialog/alta.config.patch	/converse/alta/generic/15	EDS의 열렬한 팬으로서, 언젠가 꼭 그들에게 합류해 제 가치를 증명하고 싶어요...	EDS의 열렬한 팬으로서, 언젠가 꼭 그들에게 합류해 내 가치를 증명하고 싶어...	As a big EDS fan, I really wish I could one day join them an
+/dialog/alta.config.patch	/converse/alta/generic/16	장차 관리인이 되고 싶은 사람으로서, 언젠가 꼭 그들에게 합류해 제 가치를 증명하고 싶어요...	장차 관리인이 되고 싶은 사람으로서, 언젠가 꼭 그들에게 합류해 내 가치를 증명하고 싶어...	As an aspiring caretaker, I really wish I could one day join
+/dialog/alta.config.patch	/converse/alta/generic/17	장차 정찰병이 되고 싶은 사람으로서, 언젠가 꼭 그들에게 합류해 제 가치를 증명하고 싶어요...	장차 정찰병이 되고 싶은 사람으로서, 언젠가 꼭 그들에게 합류해 내 가치를 증명하고 싶어...	As an aspiring scout, I really wish I could one day join the
+/dialog/alta.config.patch	/converse/alta/generic/18	장차 수호자가 되고 싶은 사람으로서, 언젠가 꼭 그들에게 합류해 제 가치를 증명하고 싶어요...	장차 수호자가 되고 싶은 사람으로서, 언젠가 꼭 그들에게 합류해 내 가치를 증명하고 싶어...	As an aspiring guardian, I really wish I could one day join 
+/dialog/alta.config.patch	/converse/alta/generic/19	장차 병사가 되고 싶은 사람으로서, 언젠가 꼭 그들에게 합류해 제 가치를 증명하고 싶어요...	장차 병사가 되고 싶은 사람으로서, 언젠가 꼭 그들에게 합류해 내 가치를 증명하고 싶어...	As an aspiring soldier, I really wish I could one day join t
+/dialog/alta.config.patch	/converse/alta/generic/26	칼린 쿠키는 언제나 제 소울푸드예요. 힘든 하루를 보낸 뒤엔 전통 빵집만한 게 없죠.	칼린 쿠키는 언제나 내 소울푸드야. 힘든 하루를 보낸 뒤엔 전통 빵집만한 게 없지.	Calin cookies will always be my comfort food. Nothing beats 
+/dialog/alta.config.patch	/converse/alta/generic/27	지금 길이 제철이에요! 후식을 너무 많이 만들어서 저까지 길로 변할 것 같네요~	지금 길이 제철이야! 후식을 너무 많이 만들어서 저까지 길로 변할 것 같네~	Gils are in season! I've been making so many desserts, I mig
+/dialog/alta.config.patch	/converse/alta/generic/36	언젠가 관리인이 되려고 지원할까 생각 중이에요. 어린 알타를 돌보는 건 정말 의미 있는 일 같아서요.	언젠가 관리인이 되려고 지원할까 생각 중이야. 어린 알타를 돌보는 건 정말 의미 있는 일 같아서.	Been thinking about applying to become a caretaker someday. 
+/dialog/alta.config.patch	/accuse/alta/generic/3	그만해주세요!!	그만해줘!!	Please stop!!
+/dialog/alta.config.patch	/accuse/alta/default/0	당신 것이 아닌 걸 가져가지 말아주세요.	네 것이 아닌 걸 가져가지 마.	Please don't take what's not yours.
+/dialog/alta.config.patch	/accuse/alta/default/1	아무것도 만지지 마세요...	아무것도 만지지 마...	Don't touch anything please...
+/dialog/alta.config.patch	/alert/alta/alta/3	도와줘!! 누구 없어요!	도와줘!! 누구 없어!	Help!! Someone!
+/dialog/alta.config.patch	/hail/alta/default/4	아샬, 이방인이여. 규칙을 지키며 즐거운 체류 되세요!	아샬, 이방인. 규칙을 지키며 즐거운 체류 돼!	Ashal', stranger. Please follow the rules and have a nice st
+/dialog/alta.config.patch	/hail/alta/default/7	계속하시기 전에 에너지 도구를 모두 반납해주세요.	계속하시기 전에 에너지 도구를 모두 반납해줘.	Please deposit any energy tools before continuing.
+/dialog/alta.config.patch	/start/alta/default/1	제 물건들이에요, 친구!	내 물건들이야, 친구!	Here's my assortment, friend!
+/dialog/alta.config.patch	/end/alta/generic/2	더 거래하고 싶으면 돌아오세요!	더 거래하고 싶으면 돌아와!	Come back if you want to trade more!
+/dialog/alta.config.patch	/follow/alta/generic/1	제 물건은 전부 저쪽에 있어요!	내 물건은 전부 저쪽에 있어!	All my stuff is that way!
+/dialog/alta.config.patch	/tout/alta/generic/2	저, 저기... 저... 저 물건 팔아요... 과, 관심 있으시면...	저, 저기... 저... 저 물건 팔아... 과, 관심 있으면...	H-hey... I... I'm selling stuff... I-if you're interested...
+/dialog/alta.config.patch	/tout/alta/generic/3	혹시 거래하고 싶으세요?	혹시 거래하고 싶으어?	Would you want to trade by any chance?
+/dialog/alta.config.patch	/warped/alta/generic/1	조심해요! 뒤틀린 성장체예요! 뭐, 관심 있으시다면 얘기가 다르지만요...	조심해! 뒤틀린 성장체야! 뭐, 관심 있으시다면 얘기가 다르지만...	Careful! Warped growth! Unless you're interested of course..
+/dialog/alta.config.patch	/chef/alta/generic/1	갓 구운 빵은 어떠세요?	갓 구운 빵은 어떠어?	Would you like some freshly baked goods?
+/dialog/alta.config.patch	/bartender/alta/generic/1	갓 만든 음료는 어떠세요?	갓 만든 음료는 어떠어?	Would you like some freshly prepared drinks?
+/dialog/alta.config.patch	/gardener/alta/generic/1	희귀한 식물은 어떠세요?	희귀한 식물은 어떠어?	Would you like some rare plants?
+/dialog/alta.config.patch	/engineer/alta/generic/1	혹시 배선 부품을 찾고 계신가요?	혹시 배선 부품을 찾고 있어?	Are you looking for any wiring components by any chance?
+/dialog/alta.config.patch	/mechanic/alta/generic/1	혹시 기계 부품을 찾고 계신가요?	혹시 기계 부품을 찾고 있어?	Are you looking for any mechanical components by any chance?
+/dialog/alta.config.patch	/servicer/alta/generic/0	간단한 거라도 드릴까요?	간단한 거라도 줄까?	Would you like anything simple?
+/dialog/alta.config.patch	/servicer/alta/generic/1	기본 필수품 대령이요!	기본 필수품 대령이!	Basic essentials at your service!
+/dialog/alta.config.patch	/dancer/alta/generic/1	춤을 추면 편안해지고, 가끔은 숨통이 트여요.	춤을 추면 편안해지고, 가끔은 숨통이 트여.	Dancing makes me feel relaxed and helps me air from time to 
+/dialog/alta.config.patch	/dancer/alta/default/3	당신네 종족에는 기억할 만한 춤이 있나요? 배워보고 싶어요!	너네 종족에는 기억할 만한 춤이 있나? 배워보고 싶어!	Do your species have any memorable dances? I'd love to learn
+/dialog/alta.config.patch	/official/alta/generic/7	밖에서 조심해요, 알겠죠?	밖에서 조심해, 알겠지?	Be careful out there, okay?
+/dialog/alta.config.patch	/official/alta/default/5	조심해 주세요. 대부분의 알타는 당신 종족에 익숙하지 않습니다. 이해해 주셔서 감사합니다.	조심해 줘. 대부분의 알타는 너 종족에 익숙하지 않아. 이해해 줘서 감사해.	Please be careful - most altas are not used to your species.
+/dialog/alta.config.patch	/official/alta/default/7	공식 알타 인사가 된다는 건 다른 언어를 아는 것이나 우리 종족에 대해 남들을 교육하는 것 같은 일련의 책임을 뜻해요.	공식 알타 인사가 된다는 건 다른 언어를 아는 것이나 우리 종족에 대해 남들을 교육하는 것 같은 일련의 책임을 뜻해.	Being an official alta figure implies a set of responsibilit
+/dialog/alta.config.patch	/science/alta/default/1	이런 주제가 비알타인의 관심을 끌 줄은 몰랐어요.	이런 주내가 비알타인의 관심을 끌 줄은 몰랐어.	Didn't know these topics would interest a non-alta.
+/dialog/alta.config.patch	/science/alta/default/5	조심해 주세요. 대부분의 알타는 당신 종족에 익숙하지 않습니다. 이해해 주셔서 감사합니다.	조심해 줘. 대부분의 알타는 너 종족에 익숙하지 않아. 이해해 줘서 감사해.	Please be careful - most altas are not used to your species.
+/dialog/alta.config.patch	/social/alta/default/0	도움이 필요하세요, 친구?	도움이 필요해, 친구?	Do you need any help, friend?
+/dialog/alta.config.patch	/social/alta/default/2	청소, 남을 돕는 일, 사람 구조하는 일에 관심 있으신가요?	청소, 남을 돕는 일, 사람 구조하는 일에 관심 있어?	Are you interested in cleaning, helping others, rescuing peo
+/dialog/alta.config.patch	/social/alta/alta/1	도와드릴까요, 언니? 제바아알~~	도와줄까, 언니? 제바아알~~	Can I help you, sis? Pleeeease~~
+/dialog/alta.config.patch	/social/alta/alta/3	조심해요, 언니, 얼굴에 뭐 묻었어요!	조심해, 언니, 얼굴에 뭐 묻었어!	Careful, sis, you've got something on your face!
+/dialog/alta.config.patch	/botanist/alta/generic/1	식물을 생명공학적으로 조작하는 건 매혹적이에요. 루카 14-2가 표적 생체 시료를 생산한다는 거 알고 있었어요?	식물을 생명공학적으로 조작하는 건 매혹적이야. 루카 14-2가 표적 생체 시료를 생산한다는 거 알고 있었어?	Bio-engineering plants is fascinating. Did you know ruka 14-
+/dialog/alta.config.patch	/barista/alta/generic/5	좋은 음료 한 잔은 누군가의 하루를 밝혀줄 수 있습니다.	좋은 음료 한 잔은 누군가의 하루를 밝혀줄 수 있어.	A good drink can really brighten someone's day.
+/dialog/alta.config.patch	/cosplayer/alta/default/2	코스프레는 다양한 문화와 종족을 배우는 데 도움이 돼요!	코스프레는 다양한 문화와 종족을 배우는 데 도움이 돼!	Cosplay helps me learn about different cultures and species!
+/dialog/alta.config.patch	/ceternity/alta/generic/3	우와! 놀랐어요? 헤헤~	우와! 놀랐어? 헤헤~	Boo! Did I scare you? Hehe~
+/dialog/alta.config.patch	/ceternity/alta/default/3	친구, 으스스한 재미를 즐길 준비 됐나요?	친구, 으스스한 재미를 즐길 준비 됐어?	Are you ready for some spooky fun, friend?
+/dialog/alta.config.patch	/national/alta/generic/3	즐거운 알타의 날을 맞을 준비를 하세요!	즐거운 알타의 날을 맞을 준비를 해!	Get prepared for some Alta Day fun!
+/dialog/alta.config.patch	/ava_day/alta/generic/3	즐거운 아바의 날을 맞을 준비를 하세요!	즐거운 아바의 날을 맞을 준비를 해!	Get prepared for some Ava Day fun!
+/dialog/alta.config.patch	/medic/alta/generic/3	색색의 붕대? 누구 있어요?	색색의 붕대? 누구 있어?	Colorful bandages? Anyone?
+/dialog/alta.config.patch	/faradea/alta/default/1	조심하세요, 이방인.	조심해, 이방인.	Be careful, stranger.
+/dialog/alta.config.patch	/tagCriteria/alta/alta/0	그거 다시 갖다놔 주실래요, 언니?...	그거 다시 갖다놔 줄래, 언니?...	Can you please put that back, sis?...
+/dialog/alta.config.patch	/beacon/alta/generic/0	저 부르셨어요?	저 불렀어?	Did you call me?
+/dialog/alta.config.patch	/beacon/alta/generic/1	바로 갈게요!	바로 갈게!	Be right there!
+/dialog/alta.config.patch	/rent/alta/generic/1	친절을 베풀어주신 데 대한 선물이에요!	친절을 베풀어준 데 대한 선물이야!	Here's a gift for your kindness!
+/dialog/alta.config.patch	/cantReach/alta/default/1	가까이 오세요, 낯선 이여.	가까이 와, 낯선 이.	Come closer, stranger.
+/dialog/alta.config.patch	/helpme/alta/default/1	도와주세요!	도와줘!	Please help me!
+/dialog/alta.config.patch	/offer/alta/generic/0	저... 저도 선원으로 받아주실 수 있나요?..	저... 나도 선원으로 받아줄 수 있어?..	C-can I join your crew?..
+/dialog/alta.config.patch	/offer/alta/generic/1	당신 팀에 합류해도 될까요? 모험도 하고 나쁜 놈들이랑 싸우게요! 제바아알!	네 팀에 합류해도 돼? 모험도 하고 나쁜 놈들이랑 싸우게! 제바아알!	Is it okay if I join your team? To go on adventures and figh
+/dialog/alta.config.patch	/offer/alta/generic/3	저도 팀에 넣어주실 수 있어요? 저는 <selfname>이고 얌전히 굴게요!	나도 팀에 넣어줄 수 있어? 난 <selfname>이고 얌전히 굴게!	Can I be on your team? My name is <selfname> and I promise t
+/dialog/alta.config.patch	/offer/alta/alta/1	언니랑 같이 다녀도 돼요? 착하게 굴게요, 약속해요!!	언니랑 같이 다녀도 돼? 착하게 굴게, 약속해!!	Can I join you, sis? I'll be a good girl, promise!!
+/dialog/alta.config.patch	/cantreach/alta/generic/0	너무 멀어요!	너무 멀어!	You're too far!
+/dialog/alta.config.patch	/cantreach/alta/generic/1	기다려주세요!	기다려줘!	Please wait!
+/dialog/alta.config.patch	/cantreach/alta/default/0	저를 기다려주세요, 선장님...	날 기다려줘, 선장...	Please wait for me, captain...
+/dialog/alta.config.patch	/wiki/alta/generic/5	칼 수정은 꽤 흔하지만, 그래도 나름대로 아름다워요. 가끔은 단순한 게 최고죠!	칼 수정은 꽤 흔하지만, 그래도 나름대로 아름다워. 가끔은 단순한 게 최고지!	Cal crystals are pretty common, but they're still beautiful 
+/dialog/alta.config.patch	/wiki/alta/generic/7	바이오닉 생물로 산다는 건 흥미로워요. 가끔 유기 생명체라면 어떨까 궁금해지지만, 그러다가 제가 병에 걸리지 않는다는 걸 떠올리죠!	바이오닉 생물로 산다는 건 흥미로워. 가끔 유기 생명체라면 어떨까 궁금해지지만, 그러다가 내가 병에 걸리지 않는다는 걸 떠올리지!	Being a bionical creature is interesting. Sometimes I wonder
+/dialog/alta.config.patch	/wiki/alta/generic/18	EDS의 보안 방식은... 강도가 좀 셀 수 있죠. 하지만 누군가는 해야 하는 일이겠죠?	EDS의 보안 방식은... 강도가 좀 셀 수 있지. 하지만 누군가는 해야 하는 일이겠지?	EDS's approach to security can be... intense. But I guess so
+/dialog/alta.config.patch	/wiki/alta/generic/23	관리인들은 정말 중요한 일을 해요. 어릴 때 제 관리인이 없었다면 어떻게 됐을지 모르겠어요.	관리인들은 정말 중요한 일을 해. 어릴 때 내 관리인이 없었다면 어떻게 됐을지 모르겠어.	Caretakers do such important work. I don't know where I'd be
+/dialog/alta.config.patch	/wiki/alta/generic/27	칼린 요리는 제 소울푸드예요. 그 전통적인 맛에는 왠지 집 같은 느낌이 있어요.	칼린 요리는 내 소울푸드야. 그 전통적인 맛에는 왠지 집 같은 느낌이 있어.	Calin cuisine is my comfort food. There's something about th
+/dialog/alta.config.patch	/wiki/alta/generic/29	정원 열매는 정말 달콤해요! 후식으로도, 간식으로도 딱입니다.	정원 열매는 정말 달콤해! 후식으로도, 간식으로도 딱입니다.	Garden berries are so sweet! Perfect for desserts or just sn
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/nostos/1	아, 동료 유물 애호가시군요! 편하게 계세요!	아, 동료 유물 애호가시군! 편하게 계셔!	Ah, a fellow relic enthusiast! Feel at home!
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/nostos/4	우리 우주 열차에 친절한 노스토스가 타고 있다니 정말 운이 좋네요! 질문 좀 해도 될까요?	우리 우주 열차에 친절한 노스토스가 타고 있다니 정말 운이 좋네! 질문 좀 해도 돼?	How lucky we are to have a friendly NostOS aboard our space 
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/angel/0	성스러운 컬티베이터시여, 진짜 천사잖아! 우리 소박한 우주 열차에 오신 걸 환영해요! 만나뵙게 되어 영광이에요!	성스러운 컬티베이터여, 진짜 천사잖아! 우리 소박한 우주 열차에 오신 걸 환영해! 만나서 영광이야!	Holy Cultivator, a real Angel! Welcome aboard our humble spa
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/nebulite/2	대담하게 들릴지도 모르지만... 당신도 고대인 중 하나인가요? 우리가 그들에 대해 발견한 것과 매우 비슷하게 생겼네요.	대담하게 들릴지도 모르지만... 너도 고대인 중 하나이야? 우리가 그들에 대해 발견한 것과 매우 비슷하게 생겼네.	It may sound bold but... Are you one of the Ancients? You lo
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/nebulite/4	안녕하세요, 네뷸라이트를 만나게 되어 기쁩니다. 당신네 종족은 오래전에 멸종한 줄로만 알았는데, 저희가 틀렸다니 다행이네요.	안녕해, 네뷸라이트를 만나게 되어 기뻐. 너네 종족은 오래전에 멸종한 줄로만 알았는데, 저희가 틀렸다니 다행이네.	Greetings, we're pleased to meet a Nebulite. We thought your
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/pandorasboxsheye/7	오 안녕하세요! 이 근방에서는 셰이를 자주 못 봐요! 무엇을 도와드릴까요?	오 안녕해! 이 근방에서는 셰이를 자주 못 봐! 무엇을 도와줄까?	Oh hello there! We don't see many Sheyes 'round these parts!
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/peglaci/3	거인과 크라코스 사이에는 비슷한 점이 있지만, 서로 관련이 있다고 보지는 않습니다. 서로의 존재를 알았는지도 확실하지 않습니다.	거인과 크라코스 사이에는 비슷한 점이 있지만, 서로 관련이 있다고 보지는 않아. 서로의 존재를 알았는지도 확실하지 않아.	There're some similarities between the Giants and K'Rakoths,
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/saturn/4	새터니안을 만나서 반갑습니다! 찾고 계신 지식을 꼭 찾으시길 바랍니다.	새터니안을 만나서 반가워! 찾고 계신 지식을 꼭 찾으시길 바랍니다.	Pleased to meet a Saturnian! I hope you'll find whatever kno
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/saturn/6	당신은 솔랄레이 출신인가요, 액티아스 출신인가요? 아니면 루비쿤다 출신일 수도 있고요?	너는 솔랄레이 출신이야, 액티아스 출신이야? 아니면 루비쿤다 출신일 수도 있고?	Are you from Solalei or Actias? Or maybe even from Rubicunda
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/saturn2/4	타우모스를 만나서 반갑습니다! 찾고 계신 지식을 꼭 찾으시길 바랍니다.	타우모스를 만나서 반가워! 찾고 계신 지식을 꼭 찾으시길 바랍니다.	Pleased to meet a Thaumoth! I hope you'll find whatever know
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/saturn2/6	당신은 액티아스 출신인가요, 솔랄레이 출신인가요? 아니면 루비쿤다 출신일 수도 있고요?	너는 액티아스 출신이야, 솔랄레이 출신이야? 아니면 루비쿤다 출신일 수도 있고?	Are you from Actias or Solalei? Or maybe even from Rubicunda
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/FutaraDragon/10	아!... 흠. 실례했어요, 이렇게 큰 파충류가 돌아다니는 데 익숙하지 않아서요.	아!... 흠. 실례했어, 이렇게 큰 파충류가 돌아다니는 데 익숙하지 않아서.	Ah!... Ahem. Pardon me, I'm not used to large reptiles walki
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/craterace1/10	거기 누구 없나요? 나와요, 뭘 숨는 거예요? 여긴 안전한 곳이라고요!	거기 누구 없나? 나와, 뭘 숨는 거야? 여긴 안전한 곳이라고!	Hello? Anyone in there? Come out, what are you hidin' from? 
+/dialog/viera.config.patch	/smwayfarergreeting/default/default/6	그대가 이 숲에 해를 끼치러 온 것이 아니기를 빕니다. 이곳은 숲께서 친히 다스리는 영역입니다.	네가 이 숲에 해를 끼치러 온 것이 아니기를 빌어. 이곳은 숲께서 친히 다스리는 영역이야.	I pray you bring no ill to this thicket. This is the domain 
+/dialog/viera.config.patch	/smwayfarergreeting/default/default/10	숲의 장엄함을 경외하는 마음만을 품고 들어오십시오.	숲의 장엄함을 경외하는 마음만을 품고 들어와.	Bring only an air of reverence for the splendor of the Wood.
+/dialog/viera.config.patch	/smwayfarergreeting/default/viera/6	자매와 길이 엇갈리는 건 좋은 징조예요.	자매와 길이 엇갈리는 건 좋은 징조야.	'Tis a good omen to cross paths with a sister.
+/dialog/viera.config.patch	/smwayfarergreeting/default/viera/8	조심하세요. 숲 바닥 근처를 걷는 것은 위험할 수 있어요.	조심해. 숲 바닥 근처를 걷는 것은 위험할 수 있어.	Be careful. Treading near the forest floor can be treacherou
+/dialog/viera.config.patch	/smwayfarergreeting/default/viera/10	우리와 함께하시겠어요, 자매님? 숲 바닥에서 희귀 재료를 찾고 있어요.	우리와 함께할래, 자매? 숲 바닥에서 희귀 재료를 찾고 있어.	Care to join us, sister? We seek rare materials on the fores
+/dialog/viera.config.patch	/smwayfarergreeting/default/viera/11	안녕하세요. 방랑하는 비에라와는 자주 마주치지 않네요.	안녕해. 방랑하는 비에라와는 자주 마주치지 않네.	Greetings. I do not cross paths much with wayfaring Viera.
+/dialog/viera.config.patch	/smwayfarergreeting/default/viera/17	숲이 나무들 사이의 다정한 술렁임에 대해 말했습니다. 당신을 만나 반갑습니다.	숲이 나무들 사이의 다정한 술렁임에 대해 말했어. 너를 만나 반가워.	The Wood spoke of a friendly stir in the trees. It is good t
+/dialog/viera.config.patch	/smwayfarergreeting/default/viera/20	치유가 필요하신가요?	치유가 필요해?	Are you in need of healing?
+/dialog/viera.config.patch	/smvillagergreeting/default/default/6	그대가 이 숲에 해를 끼치러 온 것이 아니기를 빕니다. 이곳은 숲께서 친히 다스리는 영역입니다.	네가 이 숲에 해를 끼치러 온 것이 아니기를 빌어. 이곳은 숲께서 친히 다스리는 영역이야.	I pray you bring no ill to this thicket. This is the domain 
+/dialog/viera.config.patch	/smvillagergreeting/default/default/10	숲의 장엄함을 경외하는 마음만을 품고 들어오십시오.	숲의 장엄함을 경외하는 마음만을 품고 들어와.	Bring only an air of reverence for the splendor of the Wood.
+/dialog/viera.config.patch	/smvillagergreeting/default/viera/2	지치셨나요, 길 잃은 분? 저희 마을에서 편히 쉬셔도 됩니다.	지쳤어, 길 잃은 나그네? 우리 마을에서 편히 쉬셔도 됩니다.	Are you weary, wayward one? Feel free to rest in our village
+/dialog/viera.config.patch	/smvillagergreeting/default/viera/3	연고 제작자의 길에 관심이 있으신가요? 저희 족장님이 그 길로 이끌어 주실 수도 있어요.	연고 제작자의 길에 관심이 있어? 우리 족장이 그 길로 이끌어 주실 수도 있어.	Are you interested in the path of salve-maker? Our chief may
+/dialog/viera.config.patch	/smvillagergreeting/default/viera/8	마을 원로를 만나봤어요? 그녀는 방문하는 모두를 만나고 싶어해요.	마을 원로를 만나봤어? 그녀는 방문하는 모두를 만나고 싶어해.	Have you met the village elder? She wishes to see all who vi
+/dialog/viera.config.patch	/smvillagergreeting/default/viera/11	안녕하세요, 여행자님. 이 덤불 속 숲의 목소리에 잘 귀 기울이셨나요?	안녕해, 여행자. 이 덤불 속 숲의 목소리에 잘 귀 기울였어?	Greetings, traveller. Have you attuned well to the voice of 
+/dialog/viera.config.patch	/smvillagergreeting/default/viera/14	숲의 목소리는 그녀의 정수와 함께 별들 너머까지 뻗어 나갑니다. 그녀를 통해, 우리는 우리 자매들의 메아리를, 우주를 가로지르는 파문을 들을 수 있습니다.	숲의 목소리는 그녀의 정수와 함께 별들 너머까지 뻗어 나가. 그녀를 통해, 우리는 우리 자매들의 메아리를, 우주를 가로지르는 파문을 들을 수 있어.	The Wood's voice stretches across the stars with her essence
+/dialog/viera.config.patch	/smvillagergreeting/default/viera/17	이곳에서 여행하는 비에라를 맞이하게 되어 좋습니다. 우리는 다른 마을들과 계속 연락을 유지해야 합니다.	이곳에서 여행하는 비에라를 맞이하게 되어 좋아. 우리는 다른 마을들과 계속 연락을 유지해야 해.	It is good to welcome travelling Viera here. We must remain 
+/dialog/viera.config.patch	/smvillagergreeting/default/viera/18	해독제나 물약 필요하신가요?	해독제나 물약 필요해?	Do you have need of any antidotes or potions?
+/dialog/viera.config.patch	/smvillagergreeting/default/viera/20	언제든 사색에 함께해 주세요.	언제든 사색에 함께해 줘.	Feel free to join me in contemplation.
+/dialog/viera.config.patch	/wwvillagergreeting/default/viera/5	여기서 쉬며, 상처를 치유하세요.	여기서 쉬며, 상처를 치유해.	Rest here, and heal your wounds.
+/dialog/viera.config.patch	/wwvillagergreeting/default/viera/11	여행길 조심하세요.	여행길 조심해.	Be careful on your journey.
+/dialog/viera.config.patch	/wwwayfarergreeting/default/viera/1	마을까지 호위가 필요하신가요?	마을까지 호위가 필요해?	Do you need an escort to the village?
+/dialog/viera.config.patch	/wayfaringvieragreeting/default/viera/0	다른 방랑자와 마주치는 일은 흔치 않습니다.	다른 방랑자와 마주치는 일은 흔치 않아.	It isn't often I cross paths with another wayfarer.
+/dialog/viera.config.patch	/wayfaringvieragreeting/default/viera/3	여기서 혼자 사는 게 쉽지는 않지만, 보람이 있습니다.	여기서 혼자 사는 게 쉽지는 않지만, 보람이 있어.	It is not easy to live out here on my own, but it is rewardi
+/dialog/viera.config.patch	/wayfaringvieragreeting/default/viera/12	동족 비에라를 만나서 반갑습니다.	동족 비에라를 만나서 반가워.	It is good to see a fellow Viera.
+/dialog/viera.config.patch	/wayfaringvieragreeting/default/viera/15	여기서 자유롭게 쉬고, 회복하세요.	여기서 자유롭게 쉬고, 회복해.	Feel free to rest here, and recover.
+/dialog/viera.config.patch	/eldergreeting/default/viera/2	여기까지 먼 길을 오셨나요?	여기까지 먼 길을 왔어?	Did you travel far to reach here?
+/dialog/viera.config.patch	/eldergreeting/default/viera/3	모든 비에라에게 조언을 제공하는 것은 영광입니다.	모든 비에라에게 조언을 제공하는 것은 영광이야.	It is a privilege to provide council to all Viera .
+/dialog/viera.config.patch	/eldergreeting/default/viera/4	모든 비에라 여행자를 맞이하는 것이 제 의무입니다.	모든 비에라 여행자를 맞이하는 것이 내 의무야.	It is my duty to welcome each Viera traveller.
+/dialog/viera.config.patch	/eldergreeting/default/viera/7	숲이 당신이 먼 길을 왔다고 속삭입니다.	숲이 네가 먼 길을 왔다고 속삭여.	The Wood whispers that you've traveled far.
+/dialog/viera.config.patch	/eldergreeting/default/viera/10	숲이 당신의 길에 미소 짓습니다, 여행자여.	숲이 네 길에 미소 지어, 여행자.	The Wood smiles upon your path, traveller.
+/dialog/viera.config.patch	/eldergreeting/default/viera/11	여행하시며 다른 마을들과 많이 교류하셨나요?	여행하며 다른 마을들과 많이 교류했어?	Have you met with many other villages on your travels?
+/dialog/viera.config.patch	/eldergreeting/default/viera/17	여기 저희와 함께 자유롭게 머무세요. 모든 여행자에게는 휴식이 필요하니까요.	여기 우리와 함께 자유롭게 머무어. 모든 여행자에게는 휴식이 필요하니까.	Feel free to stay on with us here. All travellers need their
+/dialog/viera.config.patch	/eldergreeting/default/viera/20	당신이 여기 있어서 다행입니다.	네가 여기 있어서 다행이야.	It is good that you are here.
+/dialog/viera.config.patch	/converse/default/default/36	나는 순간의 미로를 걷습니다. 하지만 어느 길로 접어들든 또 다른 시작만 나타날 뿐, 끝에는 결코 닿지 못합니다.	나는 순간의 미로를 걸어. 하지만 어느 길로 접어들든 또 다른 시작만 나타날 뿐, 끝에는 결코 닿지 못해.	I walk the maze of moments, but everywhere I turn to begins 
+/dialog/viera.config.patch	/converse/default/glitch/1	어떤 존재이며, 왜 우리 숲에 침입합니까?	어떤 존재이며, 왜 우리 숲에 침입했어?	What manner of being are you, and why do you trespass in our
+/dialog/viera.config.patch	/converse/default/glitch/8	당신 같은 분께 뭘 드릴 수 있을까요?	너 같은 이에게 뭘 줄 수 있을까?	Is there anything I can offer one such as yourself?
+/dialog/viera.config.patch	/converse/default/hylotl/0	어떤 존재이며, 왜 우리 숲에 침입합니까?	어떤 존재이며, 왜 우리 숲에 침입했어?	What manner of being are you, and why do you trespass in our
+/dialog/viera.config.patch	/converse/default/hylotl/1	네 종족은 처음 봐요.	네 종족은 처음 봐.	I've never seen one of your kind before.
+/dialog/viera.config.patch	/converse/default/hylotl/8	친구여, 그대는 어두운 시절을 겪은 듯하군요. 평화로운 뜻으로 왔다면 이곳에서 오직 위안만을 찾을 것입니다.	친구, 너는 어두운 시절을 겪은 듯하구나. 평화로운 뜻으로 왔다면 이곳에서 오직 위안만을 찾을 거야.	You seem as though you've seen dark days, friend. You will o
+/dialog/viera.config.patch	/converse/default/hylotl/9	앉아서 네 종족에 대해 말해주시오. 어디서 다스리는지 알고 싶네요.	앉아서 네 종족에 대해 말해줘. 어디서 다스리는지 알고 싶네.	Do sit and tell me of your people. I long to know where you 
+/dialog/viera.config.patch	/smwayfarerconverse/default/glitch/1	어떤 존재이며, 왜 우리 숲에 침입합니까?	어떤 존재이며, 왜 우리 숲에 침입했어?	What manner of being are you, and why do you trespass in our
+/dialog/viera.config.patch	/smwayfarerconverse/default/glitch/8	당신 같은 분께 뭘 드릴 수 있을까요?	너 같은 이에게 뭘 줄 수 있을까?	Is there anything I can offer one such as yourself?
+/dialog/viera.config.patch	/smwayfarerconverse/default/hylotl/0	어떤 존재이며, 왜 우리 숲에 침입합니까?	어떤 존재이며, 왜 우리 숲에 침입했어?	What manner of being are you, and why do you trespass in our
+/dialog/viera.config.patch	/smwayfarerconverse/default/hylotl/1	네 종족은 처음 봐요.	네 종족은 처음 봐.	I've never seen one of your kind before.
+/dialog/viera.config.patch	/smwayfarerconverse/default/hylotl/6	영적이고 마음씨 좋은 민족 같네요. 믿어도 될지도요.	영적이고 마음씨 좋은 민족 같네. 믿어도 될지도.	You seem a spiritual, kind-hearted people. Perhaps we may tr
+/dialog/viera.config.patch	/smwayfarerconverse/default/hylotl/8	친구여, 그대는 어두운 시절을 겪은 듯하군요. 평화로운 뜻으로 왔다면 이곳에서 오직 위안만을 찾을 것입니다.	친구, 너는 어두운 시절을 겪은 듯하구나. 평화로운 뜻으로 왔다면 이곳에서 오직 위안만을 찾을 거야.	You seem as though you've seen dark days, friend. You will o
+/dialog/viera.config.patch	/smwayfarerconverse/default/hylotl/9	앉아서 네 종족에 대해 말해주시오. 어디서 다스리는지 알고 싶네요.	앉아서 네 종족에 대해 말해줘. 어디서 다스리는지 알고 싶네.	Do sit and tell me of your people. I long to know where you 
+/dialog/viera.config.patch	/smwayfarerconverse/default/viera/9	수석 연고 제작자가 우리를 숲을 수색할 정찰대로 내보냈습니다.	수석 연고 제작자가 우리를 숲을 수색할 정찰대로 내보냈어.	The chief salve-maker sent us out on a scouting party to sea
+/dialog/viera.config.patch	/smwayfarerconverse/default/viera/20	연고 제작자 홀로 땅을 정찰하기엔 너무 위험합니다. 숲의 파수꾼이 우리를 호위하고 지켜줍니다.	연고 제작자 홀로 땅을 정찰하기엔 너무 위험해. 숲의 파수꾼이 우리를 호위하고 지켜줘.	It is too dangerous for salve-maker alone to scout the land.
+/dialog/viera.config.patch	/smwayfarerconverse/default/viera/21	오는 길에 위험한 건 없었나요? 공허의 손아귀와 우리를 해치려는 자들을 피하려면 신중해야 해요.	오는 길에 위험한 건 없었나? 공허의 손아귀와 우리를 해치려는 자들을 피하려면 신중해야 해.	Did you see any dangers along the way? We must be cautious t
+/dialog/viera.config.patch	/smwayfarerconverse/default/viera/22	숲의 메아리는 하루 중 이 시간에 편안함을 줍니다.	숲의 메아리는 하루 중 이 시간에 편안함을 줘.	The Wood's echoes are soothing at this time of day.
+/dialog/viera.config.patch	/smvillagerconverse/default/glitch/1	어떤 존재이며, 왜 우리 숲에 침입합니까?	어떤 존재이며, 왜 우리 숲에 침입했어?	What manner of being are you, and why do you trespass in our
+/dialog/viera.config.patch	/smvillagerconverse/default/glitch/8	당신 같은 분께 뭘 드릴 수 있을까요?	너 같은 이에게 뭘 줄 수 있을까?	Is there anything I can offer one such as yourself?
+/dialog/viera.config.patch	/smvillagerconverse/default/hylotl/0	어떤 존재이며, 왜 우리 숲에 침입합니까?	어떤 존재이며, 왜 우리 숲에 침입했어?	What manner of being are you, and why do you trespass in our
+/dialog/viera.config.patch	/smvillagerconverse/default/hylotl/1	네 종족은 처음 봐요.	네 종족은 처음 봐.	I've never seen one of your kind before.
+/dialog/viera.config.patch	/smvillagerconverse/default/hylotl/6	영적이고 마음씨 좋은 민족 같네요. 믿어도 될지도요.	영적이고 마음씨 좋은 민족 같네. 믿어도 될지도.	You seem a spiritual, kind-hearted people. Perhaps we may tr
+/dialog/viera.config.patch	/smvillagerconverse/default/hylotl/8	친구여, 그대는 어두운 시절을 겪은 듯하군요. 평화로운 뜻으로 왔다면 이곳에서 오직 위안만을 찾을 것입니다.	친구, 너는 어두운 시절을 겪은 듯하구나. 평화로운 뜻으로 왔다면 이곳에서 오직 위안만을 찾을 거야.	You seem as though you've seen dark days, friend. You will o
+/dialog/viera.config.patch	/smvillagerconverse/default/hylotl/9	앉아서 네 종족에 대해 말해주시오. 어디서 다스리는지 알고 싶네요.	앉아서 네 종족에 대해 말해줘. 어디서 다스리는지 알고 싶네.	Do sit and tell me of your people. I long to know where you 
+/dialog/viera.config.patch	/smvillagerconverse/default/viera/9	수석 연고 제작자가 당신과 이야기하고 싶어 할지도 모릅니다. 보면 그녀를 알아볼 수 있을 거예요.	수석 연고 제작자가 너와 이야기하고 싶어 할지도 몰라. 보면 그녀를 알아볼 수 있을 거야.	The chief salve-maker may be interested in speaking with you
+/dialog/viera.config.patch	/wwwayfarerconverse/default/glitch/1	어떤 존재이며, 왜 우리 숲에 침입합니까?	어떤 존재이며, 왜 우리 숲에 침입했어?	What manner of being are you, and why do you trespass in our
+/dialog/viera.config.patch	/wwwayfarerconverse/default/glitch/8	당신 같은 분께 뭘 드릴 수 있을까요?	너 같은 이에게 뭘 줄 수 있을까?	Is there anything I can offer one such as yourself?
+/dialog/viera.config.patch	/wwwayfarerconverse/default/hylotl/0	어떤 존재이며, 왜 우리 숲에 침입합니까?	어떤 존재이며, 왜 우리 숲에 침입했어?	What manner of being are you, and why do you trespass in our
+/dialog/viera.config.patch	/wwwayfarerconverse/default/hylotl/1	네 종족은 처음 봐요.	네 종족은 처음 봐.	I've never seen one of your kind before.
+/dialog/viera.config.patch	/wwwayfarerconverse/default/hylotl/6	영적이고 마음씨 좋은 민족 같네요. 믿어도 될지도요.	영적이고 마음씨 좋은 민족 같네. 믿어도 될지도.	You seem a spiritual, kind-hearted people. Perhaps we may tr
+/dialog/viera.config.patch	/wwwayfarerconverse/default/hylotl/8	친구여, 그대는 어두운 시절을 겪은 듯하군요. 평화로운 뜻으로 왔다면 이곳에서 오직 위안만을 찾을 것입니다.	친구, 너는 어두운 시절을 겪은 듯하구나. 평화로운 뜻으로 왔다면 이곳에서 오직 위안만을 찾을 거야.	You seem as though you've seen dark days, friend. You will o
+/dialog/viera.config.patch	/wwwayfarerconverse/default/hylotl/9	앉아서 네 종족에 대해 말해주시오. 어디서 다스리는지 알고 싶네요.	앉아서 네 종족에 대해 말해줘. 어디서 다스리는지 알고 싶네.	Do sit and tell me of your people. I long to know where you 
+/dialog/viera.config.patch	/wwwayfarerconverse/default/viera/6	숲의 파수꾼의 시련에는 위험이 가득하지만, 굳은 결의와 순수한 마음이 있다면 이겨낼 수 있습니다.	숲의 파수꾼의 시련에는 위험이 가득하지만, 굳은 결의와 순수한 마음이 있다면 이겨낼 수 있어.	The trials of the wood-warder are fraught with danger, but c
+/dialog/viera.config.patch	/wwwayfarerconverse/default/viera/9	숲의 파수꾼 대장이 연고 제조자들의 여정에 동행하도록 우리 분견대를 보냈습니다.	숲의 파수꾼 대장이 연고 제조자들의 여정에 동행하도록 우리 분견대를 보냈어.	The wood-warder chief has sent our detachment to accompany t
+/dialog/viera.config.patch	/wwwayfarerconverse/default/viera/11	언제나 현재에 마음을 두세요. 지금 여기에 마음을 집중하세요.	언제나 현재에 마음을 두어. 지금 여기에 마음을 집중해.	Be ever mindful of the present. Keep your mind on here and n
+/dialog/viera.config.patch	/wwwayfarerconverse/default/viera/15	우리 전투 집중하지만 숲의 파수꾼 건전 정신도 필요.	우리 전투 집중하지만 숲의 파수꾼 건전 정신도 필.	We focus on combat, but the wood-warder must also be of soun
+/dialog/viera.config.patch	/wwwayfarerconverse/default/viera/25	여기까지 먼 길을 오셨나요, 자매님?	여기까지 먼 길을 왔어, 자매?	Did you travel far to get here, sister?
+/dialog/viera.config.patch	/wwvillagerconverse/default/glitch/1	어떤 존재이며, 왜 우리 숲에 침입합니까?	어떤 존재이며, 왜 우리 숲에 침입했어?	What manner of being are you, and why do you trespass in our
+/dialog/viera.config.patch	/wwvillagerconverse/default/glitch/8	당신 같은 분께 뭘 드릴 수 있을까요?	너 같은 이에게 뭘 줄 수 있을까?	Is there anything I can offer one such as yourself?
+/dialog/viera.config.patch	/wwvillagerconverse/default/hylotl/0	어떤 존재이며, 왜 우리 숲에 침입합니까?	어떤 존재이며, 왜 우리 숲에 침입했어?	What manner of being are you, and why do you trespass in our
+/dialog/viera.config.patch	/wwvillagerconverse/default/hylotl/1	네 종족은 처음 봐요.	네 종족은 처음 봐.	I've never seen one of your kind before.
+/dialog/viera.config.patch	/wwvillagerconverse/default/hylotl/6	영적이고 마음씨 좋은 민족 같네요. 믿어도 될지도요.	영적이고 마음씨 좋은 민족 같네. 믿어도 될지도.	You seem a spiritual, kind-hearted people. Perhaps we may tr
+/dialog/viera.config.patch	/wwvillagerconverse/default/hylotl/8	친구여, 그대는 어두운 시절을 겪은 듯하군요. 평화로운 뜻으로 왔다면 이곳에서 오직 위안만을 찾을 것입니다.	친구, 너는 어두운 시절을 겪은 듯하구나. 평화로운 뜻으로 왔다면 이곳에서 오직 위안만을 찾을 거야.	You seem as though you've seen dark days, friend. You will o
+/dialog/viera.config.patch	/wwvillagerconverse/default/hylotl/9	앉아서 네 종족에 대해 말해주시오. 어디서 다스리는지 알고 싶네요.	앉아서 네 종족에 대해 말해줘. 어디서 다스리는지 알고 싶네.	Do sit and tell me of your people. I long to know where you 
+/dialog/viera.config.patch	/wwvillagerconverse/default/viera/6	숲의 파수꾼의 시련에는 위험이 가득하지만, 굳은 결의와 순수한 마음이 있다면 이겨낼 수 있습니다.	숲의 파수꾼의 시련에는 위험이 가득하지만, 굳은 결의와 순수한 마음이 있다면 이겨낼 수 있어.	The trials of the wood-warder are fraught with danger, but c
+/dialog/viera.config.patch	/wwvillagerconverse/default/viera/15	우리 전투 집중하지만 숲의 파수꾼 건전 정신도 필요.	우리 전투 집중하지만 숲의 파수꾼 건전 정신도 필.	We focus on combat, but the wood-warder must also be of soun
+/dialog/viera.config.patch	/wwvillagerconverse/default/viera/20	그 길을 따르는 데는 엄청난 수양이 필요합니다. 무엇이든 가능하다는 걸 기억하십시오.	그 길을 따르는 데는 엄청난 수양이 필요해. 무엇이든 가능하다는 걸 기억해.	It takes great discipline to follow the Way. Remember that a
+/dialog/viera.config.patch	/wayfaringvieraconverse/default/default/11	당신이 가까이 다가올 때 흙을 밟는 발소리가 들렸습니다.	네가 가까이 다가올 때 흙을 밟는 발소리가 들렸습니다.	I could hear your footsteps upon the soil as you got closer.
+/dialog/viera.config.patch	/wayfaringvieraconverse/default/apex/9	당신 같은 종족은 처음 봅니다. 이 행성 출신인가요?	너 같은 종족은 처음 봐. 이 행성 출신이야?	I have not run into your kind before. Are you from this plan
+/dialog/viera.config.patch	/wayfaringvieraconverse/default/glitch/8	당신 같은 분께 뭘 드릴 수 있을까요?	너 같은 이에게 뭘 줄 수 있을까?	Is there anything I can offer one such as yourself?
+/dialog/viera.config.patch	/wayfaringvieraconverse/default/hylotl/0	저는 깊은 바다의 신비를 배우고 싶어요. 저 파도 아래에는 분명 찾아낼 것이 많을 거예요.	난 깊은 바다의 신비를 배우고 싶어. 저 파도 아래에는 분명 찾아낼 것이 많을 거야.	I long to learn the mysteries of the deep seas. There must b
+/dialog/viera.config.patch	/wayfaringvieraconverse/default/hylotl/1	네 종족은 처음 봐요.	네 종족은 처음 봐.	I've never seen one of your kind before.
+/dialog/viera.config.patch	/wayfaringvieraconverse/default/hylotl/6	영적이고 마음씨 좋은 민족 같네요. 믿어도 될지도요.	영적이고 마음씨 좋은 민족 같네. 믿어도 될지도.	You seem a spiritual, kind-hearted people. Perhaps we may tr
+/dialog/viera.config.patch	/wayfaringvieraconverse/default/hylotl/11	당신들의 종족은 무척 사려 깊고 절제력이 강해 보입니다. 비에라도 그런 이상을 소중히 여기죠.	너희 종족은 무척 사려 깊고 절제력이 강해 보입니다. 비에라도 그런 이상을 소중히 여기지.	Your kind seems very contemplative and disciplined. Viera up
+/dialog/viera.config.patch	/wayfaringvieraconverse/default/viera/7	떠돌이 비에라로서, 저는 많은 마을을 여행하고 많은 문화를 보아왔지만, 여전히 신중함을 잃지 않았어요.	떠돌이 비에라로서, 난 많은 마을을 여행하고 많은 문화를 보아왔지만, 여전히 신중함을 잃지 않았어.	As a wayfaring Viera, I have travelled to many villages and 
+/dialog/viera.config.patch	/wayfaringvieraconverse/default/viera/15	이곳에서 비에라를 만나게 되어 반갑습니다. 어디서 왔는지 말씀해 주세요.	이곳에서 비에라를 만나게 되어 반가워. 어디서 왔는지 말해 줘.	It is good to come across Viera out here. Tell me of where y
+/dialog/viera.config.patch	/wayfaringvieraconverse/default/viera/20	우주 어디에나 볼거리가 많습니다. 숲 안에만 갇혀 지내기에는 아깝다는 생각이 드는군요.	우주 어디에나 볼거리가 많아. 숲 안에만 갇혀 지내기에는 아깝다는 생각이 드네.	There is much to see everywhere in the universe. It seems a 
+/dialog/viera.config.patch	/elderconverse/default/default/11	당신이 가까이 다가올 때 흙을 밟는 발소리가 들렸습니다.	네가 가까이 다가올 때 흙을 밟는 발소리가 들렸습니다.	I could hear your footsteps upon the soil as you got closer.
+/dialog/viera.config.patch	/elderconverse/default/apex/9	당신 같은 종족은 처음 봅니다. 이 행성 출신인가요?	너 같은 종족은 처음 봐. 이 행성 출신이야?	I have not run into your kind before. Are you from this plan
+/dialog/viera.config.patch	/elderconverse/default/glitch/8	당신 같은 분께 뭘 드릴 수 있을까요?	너 같은 이에게 뭘 줄 수 있을까?	Is there anything I can offer one such as yourself?
+/dialog/viera.config.patch	/elderconverse/default/hylotl/0	저는 깊은 바다의 신비를 배우고 싶어요. 저 파도 아래에는 분명 찾아낼 것이 많을 거예요.	난 깊은 바다의 신비를 배우고 싶어. 저 파도 아래에는 분명 찾아낼 것이 많을 거야.	I long to learn the mysteries of the deep seas. There must b
+/dialog/viera.config.patch	/elderconverse/default/hylotl/1	네 종족은 처음 봐요.	네 종족은 처음 봐.	I've never seen one of your kind before.
+/dialog/viera.config.patch	/elderconverse/default/hylotl/6	영적이고 마음씨 좋은 민족 같네요. 믿어도 될지도요.	영적이고 마음씨 좋은 민족 같네. 믿어도 될지도.	You seem a spiritual, kind-hearted people. Perhaps we may tr
+/dialog/viera.config.patch	/elderconverse/default/hylotl/11	당신들의 종족은 무척 사려 깊고 절제력이 강해 보입니다. 비에라도 그런 이상을 소중히 여기죠.	너희 종족은 무척 사려 깊고 절제력이 강해 보입니다. 비에라도 그런 이상을 소중히 여기지.	Your kind seems very contemplative and disciplined. Viera up
+/dialog/viera.config.patch	/elderconverse/default/viera/13	당신 존재의 중심에 이미 답이 있어요; 당신은 자신이 누구인지 알고, 무엇을 원하는지 알고 있어요.	너 존재의 중심에 이미 답이 있어; 너는 자신이 누구인지 알고, 무엇을 원하는지 알고 있어.	At the center of your being you have the answer; you know wh
+/dialog/viera.config.patch	/alert/default/default/2	도와줘! 내 물건을 가져가요!	도와줘! 내 물건을 가져가!	Someone help! They're taking my things!
+/dialog/viera.config.patch	/beacon/default/default/1	도와드릴까요?	도와줄까?	May I be of help to you?

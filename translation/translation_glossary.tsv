@@ -20,7 +20,22 @@ Craft	제작	UI	context	만들기	버튼과 시스템 용어는 제작
 Crafting	제작	UI	context	공예	시스템·UI 용어는 제작
 Crafting Station	제작대	UI	fixed		
 Recipe	레시피	UI	context	제조법 | 조리법	제작 UI는 레시피, 서술문은 문맥에 맞춤
-Materials Available	재료가 있는 것만 보기	UI	fixed		필터 문구
+Materials Available	재료가 있는 것만 보기	UI	context	사용 가능한 재료|사용 가능 재료|사용 가능한 자원	필터 문구는 재료가 있는 것만 보기, lblProduct·craftingMatAvailTxt 제목은 사용 가능한 재료
+Enterash	엔테라시	Alta	fixed	엔터라시|엔터래시	Alta 행성명
+Solalei	솔라레이	Saturnian	fixed	솔랄레이	국가·도시명
+Tonna	톤나	Alta	fixed	토나	Alta 과일명
+Tonnova	톤노바	Alta	fixed	토노바	Alta 식물명
+Tsay	차이	Alta	fixed	짜이|사이	Alta 과일명
+Koywa	코이와	Alta	fixed	코이바|코야	Alta 식물명
+Alterash	알테라시	Alta	fixed	알터래시|얼터래시|알테라쉬|알테라시스	Alta 행성명
+Faacain	파아케인	Alta	fixed	파케인|파아카인	Alta 식물·수정명
+Ceternia	세터니아	Alta	fixed	케테르니아|세테르니아	Alta 수정·코어명
+Enterite	엔테라이트	Alta	fixed	엔터라이트	Enterash 계열 자원명
+Alternia	알테르니아	Alta	fixed	알터니아|얼터니아	수정·자원명
+Enternia	에터니아	Alta	fixed	엔테르니아|엔터니아	에너지·행성명
+Ceterai	세테라이	Alta	fixed	케테라이|세터라이	프로젝트·개념 고유명
+Stardust	스타더스트	resource	context	별가루|성진|우주 먼지|Stardust Core/Lite	Alta 에너지·자원은 스타더스트. 번역 금지 제품·모드명은 원문 유지
+Elithian	엘리시안	Elithian	fixed	엘리시아	형용사·종족권 명칭. 행성명 Elithia=엘리시아와 구분
 Have Material	재료가 있는 것만 보기	UI	fixed		필터 문구
 Take All	모두 가져오기	UI	context	모두 가지기	UI 동작명일 때만 적용
 Buy	구매	UI	context	사기	UI 동작명은 구매
@@ -153,8 +168,8 @@ Lumoth	루모스	creature	fixed		기존 스타바운드 번역
 King Nutmidgeling	킹 넛밋지링	creature	fixed		기존 스타바운드 번역
 Scandroid	스캔드로이드	creature	fixed		기존 스타바운드 번역
 Terrene Protectorate	행성 보호국	faction	fixed	테레네 프로텍터레이트	기존 바닐라 번역 우선, 음역은 NonEKI 일부 대사에만 존재
-Protector	보호자	faction	context	수호자	보호국 직책명은 보호자
-Grand Protector	대보호자	faction	fixed		
+Protector	수호자	faction	context	보호자	2026-09-28 사용자 지시로 보호자→수호자 변경(부자연스러움 지적). Autoprotector/EDS Protector 등 브랜드성 합성어는 예외
+Grand Protector	고위 수호자	faction	fixed		2026-09-28 사용자 지시로 대보호자→고위 수호자 변경(부자연스러움 지적)
 Miniknog	미니크녹	faction	fixed		
 Occasus	오카서스	faction	fixed		
 Cultist	광신도	faction	context		Starry Planets 세력원은 컬티스트/스타리 컬티스트
@@ -202,7 +217,7 @@ Cultivator	컬티베이터	고유명	fixed		경작자/재배자 금지
 leafy-ones	잎사귀 종족	호칭	fixed		천사가 플로란을 부르는 말
 metal-ones	금속 종족	호칭	fixed		천사가 글리치를 부르는 말
 Relic Seeker	유물 탐구자	조직	fixed		렐릭 시커 금지
-Union flag	유니언 깃발	아이템	fixed		Elithian Union - 연합 깃발 금지
+Union flag	유니언 깃발	아이템	context	연방 연합 깃발	독립 명칭은 유니언 깃발. Aeginian Federal Union 전체 명칭에서는 연방 연합 깃발
 Alliance	얼라이언스	조직	context	연합	Elithian Alliance는 얼라이언스
 Lustling	러스틀링	종족	fixed		러스트링 금지
 sanctilite	생크틸라이트	재료	fixed		생틸라이트 금지
@@ -212,7 +227,7 @@ salve-maker	연고 제작자	직책	fixed		FFXIV Viera
 Grounded	땅에 사는 자들	호칭	context	지상의 사람들	아비안 용어
 Aurea Seekers	아우레아 탐구자	조직	fixed		
 anglure	앵글루어	몬스터	fixed		앵글러 금지
-Trink	트링크	종족	fixed		
+Trink	트링크	종족	context	MEGA-TRINK	종족명은 트링크. 번역 금지 모델명 안에서는 원문 유지
 Avikan	아비칸	종족	fixed		
 Avali	아발리	종족	context	avali	종족명은 아발리, 내부 ID·명령 인수는 보존
 Viera	비에라	종족	fixed	비에란	관형형 비에란 허용
@@ -221,7 +236,7 @@ Aegi	에지	종족	fixed
 Thaumoth	타우모스	종족	fixed		
 Kadavan	카다반	장소	fixed		Elithian Alliance의 아비칸 모행성. 카데반 금지
 Rhaiod	라이오드	조직	fixed		Elithian Alliance의 아비칸 종교·기관
-The Ruined	루인드	종족	fixed		Angel 종족의 타락한 집단. 일반 형용사 ruined에는 적용하지 않음
+The Ruined	루인드	종족	context	폐허가 된	Angel 종족의 타락한 집단만 루인드. 일반 형용사 ruined에는 적용하지 않음
 Tserera	체레라	조직	fixed		My Enternia의 알타 연구 조직
 Aeroponics	에어로포닉스	기술	fixed		Avali의 분무 재배 기술. hydroponics의 수경 재배와 구분
 Aeroponic Tubing	에어로포닉 튜빙	아이템	fixed		
@@ -238,7 +253,51 @@ gheatsyn	기트신	고유명	fixed		선례 없어 2026-09-23 신규 음역 결�
 Faryth	파리스	고유명	fixed		선례 없어 2026-09-23 신규 음역 결정 (배치 31601-31950)
 Akkimari	아키마리	종족	fixed		아끼마리 금지 (사용자 확정 2026-09-25)
 Akki	아키	고유명	fixed		아끼 금지. 한국어 동사 아끼다 용법은 예외 (사용자 확정 2026-09-25)
-Spooked	겁먹음	상태이상	fixed		추격당함 금지 (사용자 확정 2026-09-25)
+Spooked	겁먹음	상태이상	context	놀람|겁먹었다	상태이상명은 겁먹음. 일반 형용사·동사는 문맥에 맞게 번역
 opposite gender	이성	표현	fixed		반대 성별 금지 (사용자 확정 2026-09-25)
 Union Pride flag	유니언 프라이드 깃발	아이템	fixed		Union flag와 동일 규칙 - 연합 프라이드 깃발 금지
 Voltage	볼티지	바이옴/아이템명	fixed	전압	일반 명사 voltage(전압)는 예외 (사용자 확정 2026-09-25)
+Vaash	바쉬	Elithian	fixed		Akkimari 관련 위험 물질/액체 고유명사
+Drahl	드랄	Elithian	fixed		Akkimari 드론 비교 대상 고유명사
+Akris	아크리스	Elithian	fixed		Akkimari 안테나 신호 목적지 고유명사(고향 관련)
+Kel'chis	켈치스	Elithian	fixed		Akkimari 현상금 관련 고유명사
+Thelean	텔레안	Elithian	fixed		Elithian 종족명(Droden 묘사에 등장)
+Akkimari	아키마리	Elithian	fixed	아키	Akkimari 종족명. 원문이 축약형 Akki를 쓰면 "아키"로 축약 유지
+Jorgasian	조가시안	Elithian	fixed		Elithian 종족명
+Draunaar	드라우나르	Elithian	fixed		Elithian 종족명
+Hymid	하이미드	Elithian	fixed		Elithian 종족명
+Notix	노틱스	Elithian	fixed		Elithian 종족명
+Droden	드로덴	Elithian	fixed		Elithian 종족명(로봇/스캐너식 어투)
+Trink	트링크	Elithian	context	MEGA-TRINK	Elithian 종족명. 번역 금지 모델명 안에서는 원문 유지
+Trinkian	트링키안	Elithian	context	트링크제|트링크식|트링크의|트링크 종족	고유 명칭은 트링키안. 서술형 형용사는 문맥에 따라 트링크제·트링크식 허용
+Figurine	피규어	item	fixed	피겨린	액션 피규어 아이템명
+Avikan	아비칸	Elithian	fixed		Elithian 종족명
+Aegi	에지	Elithian	fixed	아에기/에기/에이기(구형, 사용 금지)	Elithian 종족명
+Dremeton	드레메톤	Elithian	fixed		Elithian 종족명
+Centens	센텐스	Elithian	fixed		Elithian 종족명
+Nomada	노마다	Elithian	fixed		Elithian 심미적 양식 관련 고유명사(Droden 묘사에 등장)
+Alliance	얼라이언스	Elithian	context	동맹|연합	Elithian 진영/세력명은 얼라이언스. 일반명사 alliance와 다른 고유명은 문맥에 따라 동맹·연합
+Enerth Engineering	에너스 엔지니어링	Elithian	fixed		Elithian 세계관 기업명
+Elithia	엘리시아	Elithian	fixed		Elithian 종족들의 모행성. Elithian(형용사)=엘리시안과 구분
+Elithian Alliance	엘리시안 얼라이언스	Elithian	fixed		Elithian 세계관 진영명
+Lyiin Atmaera	리인 아트마에라	Elithian	fixed		Elithian 세계관 고유 인명
+Creon Embassy	크레온 대사관	Elithian	fixed		Elithian 세계관 지명
+Hydroverium	하이드로베리움	Elithian	fixed		Elithian 세계관 자원명(-ium 계열 표기 규칙)
+Hotbröd	핫브뢰드	Elithian	fixed		Aegi족 음식 고유명사, 음역 유지
+Infospire	인포스파이어	Elithian	fixed		Elithian 세계관 장치명, 음역
+dunebuns	사구빵	Elithian	fixed		Elithian 세계관 음식명
+Aeginian Federal Union	에지족 연방 연합	Elithian	fixed		Elithian 진영명(배너 계열)
+Dremeton Union of Cities	드레메톤 도시 연합	Elithian	fixed		Elithian 진영명(배너 계열)
+Erixian Republic	에릭시안 공화국	Elithian	fixed		Elithian 진영명(배너 계열)
+Hymidian Republic of Hyzolia	하이졸리아 하이미드 공화국	Elithian	fixed		Elithian 진영명(배너 계열)
+Triple Monarchy	삼중 군주국	Elithian	fixed		Elithian 진영명(배너 계열, Jorgasian 소속)
+Notician Federation	노틱스 연방	Elithian	fixed		Elithian 진영명(배너 계열)
+Trink Circuit	트링크 서킷	Elithian	fixed		Elithian 진영명(배너 계열)
+Old One	옛 존재	Elithian	context	나이 든 존재|옛 것	Centens 관련 신격 존재만 옛 존재. 일반 표현은 문맥에 따라 조정
+Trangii	트랑기	Elithian	fixed		Aeginian 반려동물 종
+AAE	AAE	Elithian	fixed		Advanced Aeginian Engineering 약자, 원문 그대로 유지
+Advanced Aeginian Engineering	첨단 에지족 공학	Elithian	fixed	AAE	AAE 전체 명칭 풀어쓴 것
+Mehros Avan	메로스 아반	Elithian	fixed		Elithian 세계관 예술가 인명
+Aventor	아벤토르	Elithian	fixed		Elithian 세계관 조선 기업명
+Briggs Shipbuilding	브릭스 조선	Elithian	fixed		Elithian 세계관 기업명
+Froza	프로자	Elithian	fixed		Elithian 세계관 음료 브랜드명

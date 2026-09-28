@@ -1,0 +1,257 @@
+103561	Ruin-Killer->루인킬러	rest_priority_0840.tsv
+  EN: The Ruin-Killer
+  KO: 루인 킬러
+
+125888	Crafting Station->제작대	rest_priority_0876.tsv
+  EN: ^noshadow;^#60c0fc;CRAFTING STATION
+  KO: ^noshadow;^#60c0fc;제작 스테이션
+
+122248	Materials Available->재료가 있는 것만 보기	rest_priority_0852.tsv
+  EN: ^#190700;MATERIALS AVAILABLE
+  KO: ^#190700;사용 가능 재료
+
+128726	Codex->코덱스	rest_priority_0742.tsv
+  EN: { "initialItems" : [ { "name" : "protectoratechest", "count" : 1 }, { "name" : "protectoratepants", "count" : 
+  KO: { "initialItems" : [ { "name" : "protectoratechest", "count" : 1 }, { "name" : "protectoratepants", "count" : 
+
+60335	Unexplored->미탐험 구역	rest_priority_0922.tsv
+  EN: Due to putrid air and disgusting monstrosities, these planets are mostly unexplored and forgotten.
+  KO: 고약한 공기와 혐오스러운 괴물 때문에, 이 행성들은 대부분 미개척이고 잊혔다.
+
+101956	Teleporter->텔레포터	rest_priority_1025.tsv
+  EN: Teleporter sshop offersss many choicesss...
+  KO: 순간이동 가게는 많은 선택지를 줘애...
+
+80744	Thrust Damage->찌르기 피해	rest_priority_0797.tsv
+  EN: Knife Throw: Throws a combat knife at the closest enemy which deals 100 THRUST DAMAGE. | 20s Cooldown
+  KO: 단검 투척: 가장 가까운 적에게 전투용 단검을 던져 관통 피해 100. | 재사용 대기시간 20초
+
+80375	Parry->패링	rest_priority_0796.tsv
+  EN: Katana Parry
+  KO: 카타나 패리
+
+112396	Parry->패링	rest_priority_0843.tsv
+  EN: Toxic Parry
+  KO: 독성 패리
+
+89550	Hit Shield->피격 방패	rest_priority_0812.tsv
+  EN: Orange Potion - IMMUNE to BLEED. Gain 1 Hit Shield. | 30s Cooldown. -50% General Weapon Proficiency.
+  KO: 주황 물약 - 출혈 면역. 타격 보호막 1 획득. | 재사용 대기시간 30초. 일반 무기 숙련 -50%.
+
+112132	Broadsword->브로드소드	rest_priority_0842.tsv
+  EN: To upgrade an existing weapon, place it in the Purple Slot.
+      ^gray;Otherwise, to create a new weapon, pla
+  KO: 기존 무기를 업그레이드하려면 보라색 슬롯에 넣으세요.
+      ^gray;새 무기를 만들려면 보라색 슬롯에 아이템을 넣으세요. 다음 항목 허용:^reset;
+      날카로운 발톱 정확히 2개 
+
+125690	Assault Rifle->돌격소총	rest_priority_0874.tsv
+  EN: ^green;Toxin Assault Rifle^reset;
+  KO: ^green;독소 어설트 라이플^reset;
+
+126110	Assault Rifle->돌격소총	rest_priority_0877.tsv
+  EN: ^orange;Assault Rifle.^reset;
+  KO: ^orange;어설트 소총.^reset;
+
+88904	Aegisalt->에지솔트	rest_priority_0811.tsv
+  EN: Old Aegisalt
+  KO: 낡은 이지설트
+
+91117	Aegisalt->에지솔트	rest_priority_0816.tsv
+  EN: Place 5 Bars in Grey Slot to determine Weapon Level, from 1 to 6. Accepts the following:
+      ^gray;Iron, Tun
+  KO: 무기 레벨을 1~6으로 결정하려면 회색 슬롯에 주괴 5개를 넣으세요. 다음을 허용:
+      ^gray;철, 텅스텐, 티타늄, 듀라스틸, 바이올륨/이지설트/페로지움, 솔라리움
+      ^red;
+
+58364	Erchius->에르키우스	rest_priority_0769.tsv
+  EN: Defeat Erchius Herald.
+^orange;Threat Level: 8
+  KO: 에르치우스 사자 처치.
+^orange;위협 등급: 8
+
+61688	Erchius->에르키우스	rest_priority_0776.tsv
+  EN: Erchius Crystal Ore
+  KO: 에르치우스 수정 광석
+
+61712	Erchius->에르키우스	rest_priority_0776.tsv
+  EN: Erchius: An Overview
+  KO: 에르치우스: 개요
+
+62311	Erchius->에르키우스	rest_priority_0777.tsv
+  EN: Exploiting Erchius
+  KO: 에르치우스 착취
+
+80772	Erchius->에르키우스	rest_priority_0797.tsv
+  EN: Know Your Risks: Erchius Rads
+  KO: 위험을 알아라: 에르치우스 방사능
+
+123270	Erchius->에르키우스	rest_priority_0856.tsv
+  EN: ^#b9b5b2;Erchius fuel, when you need it
+  KO: ^#b9b5b2;필요할 때 얼치어스 연료
+
+124948	Erchius->에르키우스	rest_priority_0865.tsv
+  EN: ^green;+ Erchius Ghost
+  Immunity^reset;
+  KO: ^green;+ 얼치어스 유령
+  면역^reset;
+
+125297	Erchius->에르키우스	rest_priority_0870.tsv
+  EN: ^green;Erchius Crystal Delivery
+  KO: ^green;얼치어스 수정 배달
+
+95132	Saturnian->새터니안	rest_priority_0824.tsv
+  EN: SATURNIAN LOOM
+  KO: 새터니언 베틀
+
+95405	Saturnian->새터니안	rest_priority_0825.tsv
+  EN: Saturnian Civilization
+  KO: 새터니언 문명
+
+95413	Saturnian->새터니안	rest_priority_0825.tsv
+  EN: Saturnian Librarian
+  KO: 새터니언 사서
+
+95415	Saturnian->새터니안	rest_priority_0825.tsv
+  EN: Saturnian Loom
+  KO: 새터니언 베틀
+
+94433	Miniknog->미니크녹	rest_priority_0289.tsv
+  EN: Revisit the Miniknog Stronghold (6)
+  KO: 지식부 요새 재방문 (6)
+
+92926	Quietus->콰이어투스	rest_priority_0819.tsv
+  EN: Quietus Gold
+  KO: 쿠에투스 골드
+
+92932	Quietus->콰이어투스	rest_priority_0819.tsv
+  EN: Quietus Red
+  KO: 쿠에투스 레드
+
+92939	Quietus->콰이어투스	rest_priority_0819.tsv
+  EN: Quietus Yellow
+  KO: 쿠에투스 옐로
+
+101923	Telebrium->텔레브리엄	rest_priority_0837.tsv
+  EN: Telebrium Blast
+  KO: 텔레브리움 폭발
+
+101924	Telebrium->텔레브리엄	rest_priority_0837.tsv
+  EN: Telebrium Bomb
+  KO: 텔레브리움 폭탄
+
+101925	Telebrium->텔레브리엄	rest_priority_0837.tsv
+  EN: Telebrium Bouncer
+  KO: 텔레브리움 바운서
+
+101926	Telebrium->텔레브리엄	rest_priority_0837.tsv
+  EN: Telebrium Burst
+  KO: 텔레브리움 버스트
+
+101930	Telebrium->텔레브리엄	rest_priority_0837.tsv
+  EN: Telebrium Glow
+  KO: 텔레브리움 광채
+
+101932	Telebrium->텔레브리엄	rest_priority_0837.tsv
+  EN: Telebrium Metal
+  KO: 텔레브리움 금속
+
+101933	Telebrium->텔레브리엄	rest_priority_0837.tsv
+  EN: Telebrium Ore
+  KO: 텔레브리움 광석
+
+121634	Zerchesium->제르세슘	rest_priority_0852.tsv
+  EN: Zerchesium II
+  KO: 제르케시움 II
+
+57342	Kappa->캇파	rest_priority_0766.tsv
+  EN: Cucumber Addiction [CORPORATE KAPPA TRAIT] - The universe is a cruel and chaotic place. I can't see any potent
+  KO: 오이 중독 [CORPORATE KAPPA TRAIT] - 우주는 잔인하고 혼돈한 곳이야. 앞에 이익이나 지식의 가능성이 안 보여. 오이가 정말 필요해. | 모든 긍정 특성 비활성화 | 오이 맛 음식
+
+61413	Kappa->캇파	rest_priority_0775.tsv
+  EN: Energetic Riptide [CORPORATE KAPPA TRAIT] - Fire to accumulate energy, bonuses applied based on energy level. 
+  KO: 활기찬 역류 [CORPORATE KAPPA TRAIT] - 발사해 에너지 축적, 에너지 수준에 따라 보너스 적용. | 재장전 후 모든 에너지 수준 초기화
+
+90724	Kappa->캇파	rest_priority_0814.tsv
+  EN: Performance Evaluation [CORPORATE KAPPA TRAIT] - Achieve specific requirements to gain additional bonuses | Ea
+  KO: 성과 평가 [CORPORATE KAPPA TRAIT] - 특정 조건 달성 시 추가 보너스 획득 | 보너스 하나당 - 무기 숙련 +5%, 체력 +5.
+
+101908	Kappa->캇파	rest_priority_0837.tsv
+  EN: Technophile [CORPORATE KAPPA TRAIT] - +15% Tech and Energy Weapon Proficiency.
+  KO: 기술애호가 [CORPORATE KAPPA TRAIT] - 테크 및 에너지 무기 숙련 +15%.
+
+112260	Kappa->캇파	rest_priority_0842.tsv
+  EN: Too Young To Die [CORPORATE KAPPA TRAIT] - Lower maximum HP. When HP below 10%, remove all positive traits for
+  KO: 죽기엔 너무 어림 [CORPORATE KAPPA TRAIT] - 최대 체력 감소. 체력 10% 미만 시 모든 긍정 특성을 15초간 제거.
+
+113459	Kappa->캇파	rest_priority_0845.tsv
+  EN: Unconventional Tech - When used by [Corpo Kappa], Counts as TECH WEAPON.
+  KO: 비전통 기술 - [Corpo Kappa]가 사용할 때 테크 무기로 취급.
+
+83302	Magilock->매지락	rest_priority_0803.tsv
+  EN: Magilock Workbench
+  KO: 마기록 작업대
+
+114241	Magilock->매지락	rest_priority_0846.tsv
+  EN: Using a Magilock Weapon
+  KO: 마지록 무기 사용 중
+
+83257	Magishot->매지샷	rest_priority_0803.tsv
+  EN: Magic Frenzy: Firing a [EWS] Weapon will also fire a magishot that deals 40 PSYCHIC damage. | 3s Cooldown
+  KO: 마법 광란: [EWS] 무기 발사 시 대상에게 정신 피해 40을 주는 마법탄도 함께 발사. | 재사용 대기시간 3초
+
+96773	Magishot->매지샷	rest_priority_0829.tsv
+  EN: Shot Loaded - Next magic blast fires minie balls instead of magishot. 30s Duration.
+  KO: 탄 장전됨 - 다음 마법 폭발이 매직샷 대신 미니에 탄 발사. 지속시간 30초.
+
+113645	United Systems->연합 시스템	rest_priority_0845.tsv
+  EN: United Systems Weapon
+  KO: 연합 체계 무기
+
+47501	Trink->트링크	rest_priority_0084.tsv
+  EN: An old prototype for the MEGA-TRINK armour.
+  KO: MEGA-TRINK 방어구의 낡은 시제품이다.
+
+53140	The Ruined->루인드	rest_priority_0111.tsv
+  EN: But not long till the Floran chomped and gobbled,
+and in her delight, her hunger concerns halted.
+
+And so the 
+  KO: 하지만 얼마 지나지 않아 플로란은 우적우적 먹어치웠고,
+그 기쁨 속에서, 배고픔에 대한 걱정도 멎었다.
+
+그리하여 플로란은 폐허가 된 도시를 여행했고,
+쾌락에서 공포로, 지구의 희생자들은 신음하고 
+
+52400	Boneworking Station->뼈 세공대	rest_priority_0753.tsv
+  EN: Boneworking Station
+  KO: 뼈 가공 스테이션
+
+81397	Leatherworking Station->가죽 세공대	rest_priority_0798.tsv
+  EN: Leatherworking Station
+  KO: 가죽 작업대
+
+65872	Fusion Chamber->핵융합로	rest_priority_0783.tsv
+  EN: Fusion Chamber
+  KO: 융합실
+
+66380	gheatsyn->기트신	rest_priority_0784.tsv
+  EN: Gheatsyn Chi
+  KO: 게아신 치
+
+66399	gheatsyn->기트신	rest_priority_0784.tsv
+  EN: Gheatsyn Pad
+  KO: 게아신 패드
+
+127202	Spooked->겁먹음	rest_priority_0884.tsv
+  EN: ^red;Spooked - You aren't alone. Something is following you.
+  KO: ^red;소름 - 혼자가 아니다. 무언가가 뒤따르고 있다.
+
+61820	Spooked->겁먹음	rest_priority_0924.tsv
+  EN: Even Floran iss spooked by thiss creature!
+  KO: 플로란도 이 생물에 겁먹었다!
+
+75249	Spooked->겁먹음	rest_priority_0960.tsv
+  EN: I'm not spooked by this pumpkin!
+  KO: 난 이 호박에 겁먹지 않는다!
+

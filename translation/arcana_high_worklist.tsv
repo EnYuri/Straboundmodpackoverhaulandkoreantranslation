@@ -1,0 +1,851 @@
+﻿id	tmCategory	suggestedKorean	keyHint	assetPath	jsonPointer	englishText
+0	new-translation		description	/items/materials/aeolus_tile1.matitem	/description	Bricks made from ariostone.
+1	new-translation		shortdescription	/items/materials/aeolus_tile1.matitem	/shortdescription	Ariostone Bricks
+2	new-translation		shortdescription	/items/materials/aeolus_tile2.matitem	/shortdescription	Heavy Ariostone Bricks
+3	new-translation		description	/items/materials/aeolus_tile3.matitem	/description	A brick flooring made from ariostone.
+4	new-translation		shortdescription	/items/materials/aeolus_tile3.matitem	/shortdescription	Ariostone Flooring
+5	new-translation		description	/items/materials/aeolus_tile4.matitem	/description	A beam coated with anemone wood.
+6	new-translation		shortdescription	/items/materials/aeolus_tile4.matitem	/shortdescription	Arius Construct Beam
+7	new-translation		description	/items/materials/aeolus_tile5.matitem	/description	A beam of anemone wood.
+8	new-translation		shortdescription	/items/materials/aeolus_tile5.matitem	/shortdescription	Anemone Wood Beam
+9	new-translation		description	/items/materials/aeolus_tile6.matitem	/description	A wall made from ariostone.
+10	new-translation		shortdescription	/items/materials/aeolus_tile6.matitem	/shortdescription	Ariostone Wall
+11	new-translation		description	/items/materials/aeolus_tile7.matitem	/description	A durable sail made from paper and texiles.
+12	new-translation		shortdescription	/items/materials/aeolus_tile7.matitem	/shortdescription	Sail Block
+13	new-translation		description	/items/materials/aeon_tile1.matitem	/description	A timeless flooring tile, slightly weathered.
+14	new-translation		shortdescription	/items/materials/aeon_tile1.matitem	/shortdescription	Aeon Flooring
+15	new-translation		description	/items/materials/aeon_tile2.matitem	/description	A timeless wall tile with gear patterns and golden cornerstones.
+16	new-translation		shortdescription	/items/materials/aeon_tile2.matitem	/shortdescription	Aeon Gear Wall
+17	new-translation		description	/items/materials/aeon_tile3.matitem	/description	A sloped panel made from dark brass.
+18	new-translation		shortdescription	/items/materials/aeon_tile3.matitem	/shortdescription	Aeon Dark Brass Panel
+19	new-translation		description	/items/materials/aeon_tile4.matitem	/description	A sloped panel made from rusting brass.
+20	new-translation		shortdescription	/items/materials/aeon_tile4.matitem	/shortdescription	Aeon Brass Panel
+21	new-translation		description	/items/materials/aeon_tile5.matitem	/description	A durable material found only in Timeless structures.
+22	new-translation		shortdescription	/items/materials/aeon_tile5.matitem	/shortdescription	Chrono Panel
+23	new-translation		description	/items/materials/ambersoil_tile1.matitem	/description	A yellowish soil found in Ambersoil biomes.
+24	new-translation		shortdescription	/items/materials/ambersoil_tile1.matitem	/shortdescription	Ambersoil Dirt
+25	new-translation		description	/items/materials/animus_tile1.matitem	/description	A blood colored rock.
+26	new-translation		shortdescription	/items/materials/animus_tile1.matitem	/shortdescription	Ketsueki Rock
+27	new-translation		description	/items/materials/animus_tile2.matitem	/description	Dark, shadowy colored bricks.
+28	new-translation		shortdescription	/items/materials/animus_tile2.matitem	/shortdescription	Animus Bricks
+29	new-translation		description	/items/materials/animus_tile3.matitem	/description	A dark, shadowy colored wood chunk.
+30	new-translation		shortdescription	/items/materials/animus_tile3.matitem	/shortdescription	Animus Wood
+31	new-translation		description	/items/materials/animus_tile4.matitem	/description	Strange blue crystals that emit a faint light.
+32	new-translation		shortdescription	/items/materials/animus_tile4.matitem	/shortdescription	Animus Crystals
+33	new-translation		description	/items/materials/animus_tile5.matitem	/description	A dark smooth stone brick.
+34	new-translation		shortdescription	/items/materials/animus_tile5.matitem	/shortdescription	Animus Smooth Stone
+35	new-translation		description	/items/materials/animus_tile6.matitem	/description	A blood red flooring block.
+36	new-translation		shortdescription	/items/materials/animus_tile6.matitem	/shortdescription	Animus Flooring
+37	new-translation		description	/items/materials/arcana_platform_aeonPlatform.matitem	/description	A timeless platform.
+38	new-translation		shortdescription	/items/materials/arcana_platform_aeonPlatform.matitem	/shortdescription	Aeon Platform
+39	new-translation		description	/items/materials/arcana_platform_arkPlatform.matitem	/description	A heavenly, pale platform.
+40	new-translation		shortdescription	/items/materials/arcana_platform_arkPlatform.matitem	/shortdescription	Ark Platform
+41	new-translation		description	/items/materials/arcana_platform_astralPlatform.matitem	/description	A platform carefully crafted with sandstone and composite materials.
+42	new-translation		shortdescription	/items/materials/arcana_platform_astralPlatform.matitem	/shortdescription	Astral Platform
+43	new-translation		description	/items/materials/arcana_platform_atlantisPlatform.matitem	/description	A golden platform found in the ocean ruins.
+44	new-translation		shortdescription	/items/materials/arcana_platform_atlantisPlatform.matitem	/shortdescription	Atlantis Platform
+45	new-translation		shortdescription	/items/materials/arcana_platform_auricPlatform.matitem	/shortdescription	Sanctus Platform
+46	new-translation		description	/items/materials/arcana_platform_auricPlatform.matitem	/description	A solid metal platform.
+47	new-translation		description	/items/materials/arcana_platform_exoslatePlatform.matitem	/description	A dark platform made with exoslate.
+48	new-translation		shortdescription	/items/materials/arcana_platform_exoslatePlatform.matitem	/shortdescription	Exoslate Platform
+49	tm-single	얼음 플랫폼	shortdescription	/items/materials/arcana_platform_icePlatform.matitem	/shortdescription	Ice Platform
+50	new-translation		description	/items/materials/arcana_platform_icePlatform.matitem	/description	A platform of solid ice.
+51	new-translation		shortdescription	/items/materials/arcana_platform_ingendepthPlatform.matitem	/shortdescription	Ingendepth Platform
+52	new-translation		description	/items/materials/arcana_platform_ingendepthPlatform.matitem	/description	An alien stone platform.
+53	tm-multi	멋지게 마감된 나무 플랫폼입니다. || 멋지게 장식된 나무 플랫폼이다.	description	/items/materials/arcana_platform_kuromatsuPlatform.matitem	/description	Nicely finished wooden platforms.
+54	new-translation		shortdescription	/items/materials/arcana_platform_kuromatsuPlatform.matitem	/shortdescription	Kuromatsu Platform
+55	new-translation		description	/items/materials/arcana_platform_magiwoodPlatform.matitem	/description	A polished platform, made from magiwood found in Arcane Wealds.
+56	new-translation		shortdescription	/items/materials/arcana_platform_magiwoodPlatform.matitem	/shortdescription	Magiwood Platform
+57	new-translation		description	/items/materials/arcana_platform_necroiumPlatform.matitem	/description	A crude platform crafted from necroium.
+58	new-translation		shortdescription	/items/materials/arcana_platform_necroiumPlatform.matitem	/shortdescription	Necroium Platform
+59	new-translation		description	/items/materials/arcana_platform_netherPlatform.matitem	/description	A gleaming platform, made from crystals.
+60	new-translation		shortdescription	/items/materials/arcana_platform_netherPlatform.matitem	/shortdescription	Crystal Platform
+61	new-translation		description	/items/materials/arcana_platform_nullaPlatform.matitem	/description	A pale platform.
+62	new-translation		shortdescription	/items/materials/arcana_platform_nullaPlatform.matitem	/shortdescription	Nulla Platform
+63	new-translation		shortdescription	/items/materials/arcana_platform_orionPlatform.matitem	/shortdescription	Orion Platform
+64	new-translation		description	/items/materials/arcana_platform_orionPlatform.matitem	/description	A sleek high-tech platform.
+65	new-translation		shortdescription	/items/materials/arcana_platform_robustaPlatform.matitem	/shortdescription	Robusta Platform
+66	new-translation		description	/items/materials/arcana_platform_robustaPlatform.matitem	/description	A dark wooden platform.
+67	new-translation		description	/items/materials/arcana_platform_runicPlatform.matitem	/description	A polished sandstone platform.
+68	new-translation		shortdescription	/items/materials/arcana_platform_runicPlatform.matitem	/shortdescription	Runic Platform
+69	new-translation		description	/items/materials/arcana_platform_sacredPlatform.matitem	/description	An ornate stone platform that has embraced the Sacred Wind's touch for eons.
+70	new-translation		shortdescription	/items/materials/arcana_platform_sacredPlatform.matitem	/shortdescription	Sacred Platform
+71	new-translation		description	/items/materials/arcana_platform_stonePlatform.matitem	/description	A smooth stone platform.
+72	tm-single	돌 플랫폼	shortdescription	/items/materials/arcana_platform_stonePlatform.matitem	/shortdescription	Stone Platform
+73	new-translation		description	/items/materials/arcana_platform_verrostinPlatform.matitem	/description	A durable platform made from verrostin.
+74	new-translation		shortdescription	/items/materials/arcana_platform_verrostinPlatform.matitem	/shortdescription	Verrostin Platform
+75	new-translation		shortdescription	/items/materials/arcana_rail_lightrail.matitem	/shortdescription	Light Rail
+76	new-translation		description	/items/materials/arcana_rail_lightrail.matitem	/description	A glowing rail track.
+77	new-translation		description	/items/materials/arcana_runicdesert_tile_1.matitem	/description	A block of sand. A faint blue rune glows through its form.
+78	new-translation		shortdescription	/items/materials/arcana_runicdesert_tile_1.matitem	/shortdescription	Runic Orange Sand
+79	new-translation		description	/items/materials/arcana_spectwing_tile1.matitem	/description	A brightly colored inset panel.
+80	new-translation		shortdescription	/items/materials/arcana_spectwing_tile1.matitem	/shortdescription	Pale Nether Panel
+81	new-translation		description	/items/materials/arcana_spectwing_tile10.matitem	/description	A sloped wooden beam for building support.
+82	new-translation		shortdescription	/items/materials/arcana_spectwing_tile10.matitem	/shortdescription	Nether Sloped Wood
+83	new-translation		description	/items/materials/arcana_spectwing_tile11.matitem	/description	A smooth set of planks in dark, nether colors.
+84	new-translation		shortdescription	/items/materials/arcana_spectwing_tile11.matitem	/shortdescription	Nether Smooth Planks
+85	new-translation		description	/items/materials/arcana_spectwing_tile12.matitem	/description	A smooth flooring made from durable wood.
+86	new-translation		shortdescription	/items/materials/arcana_spectwing_tile12.matitem	/shortdescription	Dark Wood Flooring
+87	new-translation		description	/items/materials/arcana_spectwing_tile13.matitem	/description	A patterned window tile, for pretty buildings.
+88	new-translation		shortdescription	/items/materials/arcana_spectwing_tile13.matitem	/shortdescription	Nether Window Tile
+89	new-translation		description	/items/materials/arcana_spectwing_tile14.matitem	/description	A bush of vibrant, colorful leaves.
+90	new-translation		shortdescription	/items/materials/arcana_spectwing_tile14.matitem	/shortdescription	Fairy Blossom Block
+91	new-translation		description	/items/materials/arcana_spectwing_tile15 - Copy.matitem	/description	A block of twisted wood.
+92	new-translation		shortdescription	/items/materials/arcana_spectwing_tile15 - Copy.matitem	/shortdescription	Twisted Wood
+93	new-translation		description	/items/materials/arcana_spectwing_tile15.matitem	/description	A block of amethyst crystal formation.
+94	new-translation		shortdescription	/items/materials/arcana_spectwing_tile15.matitem	/shortdescription	Amethyst Crystal Block
+95	new-translation		shortdescription	/items/materials/arcana_spectwing_tile2.matitem	/shortdescription	Plum Nether Panel
+96	new-translation		description	/items/materials/arcana_spectwing_tile3.matitem	/description	A strudy pillar made from a dark colored wood.
+97	new-translation		shortdescription	/items/materials/arcana_spectwing_tile3.matitem	/shortdescription	Nether Wood Pillar
+98	new-translation		description	/items/materials/arcana_spectwing_tile4.matitem	/description	A strudy wooden beam, adorned with patterns.
+99	new-translation		shortdescription	/items/materials/arcana_spectwing_tile4.matitem	/shortdescription	Nether Adorned Beam
+100	new-translation		description	/items/materials/arcana_spectwing_tile5.matitem	/description	A reinforced plating for building, in nether colors.
+101	new-translation		shortdescription	/items/materials/arcana_spectwing_tile5.matitem	/shortdescription	Nether Wall Plate
+102	new-translation		description	/items/materials/arcana_spectwing_tile6.matitem	/description	A simple set of planks in dark, nether colors.
+103	new-translation		shortdescription	/items/materials/arcana_spectwing_tile6.matitem	/shortdescription	Nether Wood Planks
+104	new-translation		description	/items/materials/arcana_spectwing_tile7.matitem	/description	A fence for separating different areas.
+105	new-translation		shortdescription	/items/materials/arcana_spectwing_tile7.matitem	/shortdescription	Nether Fence
+106	new-translation		description	/items/materials/arcana_spectwing_tile8.matitem	/description	A ridge tile for use as flooring or roofing.
+107	new-translation		shortdescription	/items/materials/arcana_spectwing_tile8.matitem	/shortdescription	Nether Stone Ridge
+108	new-translation		description	/items/materials/arcana_spectwing_tile9.matitem	/description	A light roofing tile.
+109	new-translation		shortdescription	/items/materials/arcana_spectwing_tile9.matitem	/shortdescription	Nether Roofing
+110	new-translation		shortdescription	/items/materials/arcana_statustile_1.matitem	/shortdescription	Blue Death Block
+111	new-translation		description	/items/materials/arcana_tile1.matitem	/description	A wooden window.
+112	new-translation		shortdescription	/items/materials/arcana_tile1.matitem	/shortdescription	Magiwood Window
+113	new-translation		description	/items/materials/arcana_tile10.matitem	/description	A magiwood beam. Good for building simple structures.
+114	new-translation		shortdescription	/items/materials/arcana_tile10.matitem	/shortdescription	Magiwood Beam
+115	new-translation		description	/items/materials/arcana_tile11.matitem	/description	A magiwood log. Good for building simple structures.
+116	new-translation		shortdescription	/items/materials/arcana_tile11.matitem	/shortdescription	^#fffffe;Magiwood Log^reset;
+117	new-translation		description	/items/materials/arcana_tile12.matitem	/description	A solid roofing tile.
+118	new-translation		shortdescription	/items/materials/arcana_tile12.matitem	/shortdescription	Arcane Roofing
+119	new-translation		description	/items/materials/arcana_tile13.matitem	/description	A composition of plants.
+120	new-translation		shortdescription	/items/materials/arcana_tile13.matitem	/shortdescription	Arcane Leaf Block
+121	new-translation		description	/items/materials/arcana_tile14.matitem	/description	A composition of flowers.
+122	new-translation		shortdescription	/items/materials/arcana_tile14.matitem	/shortdescription	Arcane Flower Block
+123	new-translation		shortdescription	/items/materials/arcana_tile15.matitem	/shortdescription	Filled Magiwood Window
+124	new-translation		description	/items/materials/arcana_tile16.matitem	/description	A brightly colored roofing tile.
+125	new-translation		shortdescription	/items/materials/arcana_tile16.matitem	/shortdescription	Cathaya Tile
+126	new-translation		shortdescription	/items/materials/arcana_tile17.matitem	/shortdescription	Cathaya Roofing
+127	new-translation		shortdescription	/items/materials/arcana_tile18.matitem	/shortdescription	Gingko Tile
+128	new-translation		shortdescription	/items/materials/arcana_tile19.matitem	/shortdescription	Gingko Roofing
+129	new-translation		description	/items/materials/arcana_tile2.matitem	/description	A wooden fence made of magiwood.
+130	new-translation		shortdescription	/items/materials/arcana_tile2.matitem	/shortdescription	Magiwood Fence
+131	new-translation		shortdescription	/items/materials/arcana_tile20.matitem	/shortdescription	Maple Flower Block
+132	new-translation		description	/items/materials/arcana_tile21.matitem	/description	A wooden wall panel.
+133	new-translation		shortdescription	/items/materials/arcana_tile21.matitem	/shortdescription	Cathaya Panel
+134	new-translation		description	/items/materials/arcana_tile22.matitem	/description	A block of tree branches.
+135	new-translation		shortdescription	/items/materials/arcana_tile22.matitem	/shortdescription	Tree Branch Block
+136	new-translation		description	/items/materials/arcana_tile23.matitem	/description	A crude barricade made out of wood.
+137	new-translation		shortdescription	/items/materials/arcana_tile23.matitem	/shortdescription	Wooden Barricade
+138	new-translation		description	/items/materials/arcana_tile24.matitem	/description	A sloped concrete tile.
+139	new-translation		shortdescription	/items/materials/arcana_tile24.matitem	/shortdescription	Sloped Concrete Block
+140	new-translation		description	/items/materials/arcana_tile25.matitem	/description	A sloped rusty copper tile.
+141	new-translation		shortdescription	/items/materials/arcana_tile25.matitem	/shortdescription	Sloped Rusty Block
+142	new-translation		description	/items/materials/arcana_tile26.matitem	/description	An old asphalt path, nearly made obsolete by hoverbike advancements.
+143	new-translation		shortdescription	/items/materials/arcana_tile26.matitem	/shortdescription	Thin Asphalt
+144	new-translation		description	/items/materials/arcana_tile27.matitem	/description	A glass window.
+145	new-translation		shortdescription	/items/materials/arcana_tile27.matitem	/shortdescription	Lit Glass Window
+146	new-translation		shortdescription	/items/materials/arcana_tile28.matitem	/shortdescription	Unlit Glass Window
+147	new-translation		description	/items/materials/arcana_tile29.matitem	/description	Blinds for covering windows.
+148	new-translation		shortdescription	/items/materials/arcana_tile29.matitem	/shortdescription	Window Blinds
+149	new-translation		description	/items/materials/arcana_tile3.matitem	/description	A wooden bridge made of magiwood.
+150	new-translation		shortdescription	/items/materials/arcana_tile3.matitem	/shortdescription	Magiwood Bridge
+151	new-translation		description	/items/materials/arcana_tile30.matitem	/description	A solid building panel.
+152	new-translation		shortdescription	/items/materials/arcana_tile30.matitem	/shortdescription	Neonwave Panel
+153	new-translation		description	/items/materials/arcana_tile31.matitem	/description	A solid wall painted to indicate a hazardous area.
+154	new-translation		shortdescription	/items/materials/arcana_tile31.matitem	/shortdescription	Hazard Wall
+155	new-translation		description	/items/materials/arcana_tile32.matitem	/description	A sloped rusty copper panel.
+156	tm-single	기울어진 녹슨 패널	shortdescription	/items/materials/arcana_tile32.matitem	/shortdescription	Sloped Rusty Panel
+157	new-translation		description	/items/materials/arcana_tile34.matitem	/description	A palm leaf block.
+158	new-translation		shortdescription	/items/materials/arcana_tile34.matitem	/shortdescription	Palm Leaf Block
+159	new-translation		description	/items/materials/arcana_tile35.matitem	/description	A leafy vine block.
+160	new-translation		shortdescription	/items/materials/arcana_tile35.matitem	/shortdescription	Leafy Vine Block
+161	new-translation		description	/items/materials/arcana_tile36.matitem	/description	A twisted wood block.
+162	new-translation		description	/items/materials/arcana_tile4.matitem	/description	An ornate flooring block.
+163	new-translation		shortdescription	/items/materials/arcana_tile4.matitem	/shortdescription	Magiwood Ornate Flooring
+164	tm-multi	이 나무 판넬은 먼 시대에 유행했습니다. || 이 나무 패널은 먼 시대에 유행한 적이 있다. || 이 나무 패널은 먼 시대에 유행한 적이 있습니다. || 이 목재 패널은 먼 시대에 유행했습니다.	description	/items/materials/arcana_tile5.matitem	/description	This wood panelling was fashionable in a distant era.
+165	new-translation		shortdescription	/items/materials/arcana_tile5.matitem	/shortdescription	Magiwood Panelling
+166	tm-multi	"건설 및 제작 용도로 사용할 수 있는 나무다. || 건설 및 제작 용도로 사용할 수 있는 나무입니다. || 건축 및 제작을 위해 준비된 목재입니다. || 건축 및 제작을 위해 준비된 목재입니다.
+^green;추출 가능^reset;."	description	/items/materials/arcana_tile6.matitem	/description	Wood that has been prepared for building and crafting.
+167	new-translation		shortdescription	/items/materials/arcana_tile6.matitem	/shortdescription	Magiwood Planks
+168	new-translation		description	/items/materials/arcana_tile7.matitem	/description	A simple flooring built on cobblestone.
+169	new-translation		shortdescription	/items/materials/arcana_tile7.matitem	/shortdescription	Magiwood Flooring
+170	tm-multi	전문적으로 손질된 화려한 나무다. || 전문적으로 손질된 화려한 나무입니다. || 전문적으로 처리된 화려한 목재.	description	/items/materials/arcana_tile8.matitem	/description	Expertly treated ornate wood.
+171	new-translation		shortdescription	/items/materials/arcana_tile8.matitem	/shortdescription	Ornate Magiwood
+172	tm-multi	방금 막 벤 것처럼 보이는 거칠고 가공되지 않은 나무다. || 방금 막 벤 것처럼 보이는 거칠고 가공되지 않은 나무입니다.	description	/items/materials/arcana_tile9.matitem	/description	Rough and unrefined, this wood looks freshly chopped.
+173	new-translation		shortdescription	/items/materials/arcana_tile9.matitem	/shortdescription	Unrefined Magiwood
+174	new-translation		description	/items/materials/arcaneDesert_tile1.matitem	/description	A reddish sand block.
+175	new-translation		shortdescription	/items/materials/arcaneDesert_tile1.matitem	/shortdescription	Arcane Sand
+176	tm-multi	부드럽고 따뜻한 모래. || 부드럽고 따뜻한 모래다.	description	/items/materials/arcaneDesert_tile2.matitem	/description	Soft and warm sand.
+177	new-translation		description	/items/materials/arcaneDesert_tile3.matitem	/description	A blaststone block, looks tough.
+178	new-translation		shortdescription	/items/materials/arcaneDesert_tile3.matitem	/shortdescription	Arcane Blaststone
+179	new-translation		description	/items/materials/arcaneForest_tile1.matitem	/description	A blueish dirt block sprinkled with arcane magic.
+180	new-translation		shortdescription	/items/materials/arcaneForest_tile1.matitem	/shortdescription	Arcane Dirt
+181	new-translation		description	/items/materials/arcaneForest_tile2.matitem	/description	A blueish stone block sprinkled with arcane magic.
+182	new-translation		shortdescription	/items/materials/arcaneForest_tile2.matitem	/shortdescription	Arcane Cobblestone
+183	new-translation		description	/items/materials/arcaneTundra_tile1.matitem	/description	A frozen dirt block.
+184	tm-single	얼어붙은 흙	shortdescription	/items/materials/arcaneTundra_tile1.matitem	/shortdescription	Frozen Dirt
+185	new-translation		description	/items/materials/arcaneTundra_tile2.matitem	/description	A solid ice block sprinkled with arcane magic. Emits a faint light.
+186	new-translation		shortdescription	/items/materials/arcaneTundra_tile2.matitem	/shortdescription	Arcane Ice
+187	new-translation		description	/items/materials/arcaneTundra_tile3.matitem	/description	An alien ice material, tingly to the touch.
+188	new-translation		shortdescription	/items/materials/arcaneTundra_tile3.matitem	/shortdescription	Glacial Ice
+189	new-translation		description	/items/materials/arcaneTundra_tile4.matitem	/description	A chiseled ice brick.
+190	new-translation		shortdescription	/items/materials/arcaneTundra_tile4.matitem	/shortdescription	Glacial Ice Bricks
+191	new-translation		description	/items/materials/arcaneTundra_tile5.matitem	/description	A chiseled ice pillar.
+192	new-translation		shortdescription	/items/materials/arcaneTundra_tile5.matitem	/shortdescription	Glacial Ice Pillar
+193	new-translation		description	/items/materials/ardentTaiga_tile1.matitem	/description	An orangeish rock.
+194	new-translation		shortdescription	/items/materials/ardentTaiga_tile1.matitem	/shortdescription	Ardent Rock
+195	new-translation		description	/items/materials/ardentTaiga_tile2.matitem	/description	A worn, orangeish stone.
+196	new-translation		shortdescription	/items/materials/ardentTaiga_tile2.matitem	/shortdescription	Ardent Stone
+197	new-translation		description	/items/materials/ardentTaiga_tile3.matitem	/description	A deep blue ice block.
+198	new-translation		shortdescription	/items/materials/ardentTaiga_tile3.matitem	/shortdescription	Ardent Ice
+199	new-translation		description	/items/materials/ardentTaiga_tile4.matitem	/description	A deep blue chunk of wood.
+200	new-translation		shortdescription	/items/materials/ardentTaiga_tile4.matitem	/shortdescription	Ardent Wood
+201	new-translation		description	/items/materials/ashen_tile1.matitem	/description	An ash-colored stony material. Its surface is unexpectedly smooth.
+202	new-translation		description	/items/materials/astral_tile1.matitem	/description	An Arcanian flooring material made from sandstone.
+203	new-translation		shortdescription	/items/materials/astral_tile1.matitem	/shortdescription	Astral Flooring
+204	new-translation		description	/items/materials/astral_tile10.matitem	/description	An gray material made from a flexible metallic texile.
+205	new-translation		shortdescription	/items/materials/astral_tile10.matitem	/shortdescription	Metallic Fabric ^#626262;Ashen^reset;
+206	new-translation		description	/items/materials/astral_tile11.matitem	/description	An ancient temple wall.
+207	new-translation		shortdescription	/items/materials/astral_tile11.matitem	/shortdescription	Arcane Temple Panel
+208	new-translation		description	/items/materials/astral_tile12.matitem	/description	A sandstone brick tile with different carved patterns.
+209	new-translation		shortdescription	/items/materials/astral_tile12.matitem	/shortdescription	Arcane Temple Brick
+210	new-translation		description	/items/materials/astral_tile13.matitem	/description	A smooth sandstone brick tile.
+211	new-translation		shortdescription	/items/materials/astral_tile13.matitem	/shortdescription	Smooth Arcane Temple Brick
+212	new-translation		shortdescription	/items/materials/astral_tile14.matitem	/shortdescription	Red Arcane Temple Brick
+213	new-translation		description	/items/materials/astral_tile15.matitem	/description	An Arcanian fabric tile used for decorating purposes.
+214	new-translation		shortdescription	/items/materials/astral_tile15.matitem	/shortdescription	Fabric Block ^#d17a40;Dunes^reset;
+215	new-translation		description	/items/materials/astral_tile16.matitem	/description	A solid metallic block used for end-points.
+216	new-translation		shortdescription	/items/materials/astral_tile16.matitem	/shortdescription	Astral Metal Block
+217	new-translation		description	/items/materials/astral_tile2.matitem	/description	An Arcanian flooring material, covered with blue carpet.
+218	new-translation		shortdescription	/items/materials/astral_tile2.matitem	/shortdescription	Astral Carpet Flooring
+219	new-translation		description	/items/materials/astral_tile3.matitem	/description	An Arcanian sandstone building material.
+220	new-translation		shortdescription	/items/materials/astral_tile3.matitem	/shortdescription	Astral Bricks
+221	new-translation		description	/items/materials/astral_tile4.matitem	/description	An Arcanian sandstone support material.
+222	new-translation		shortdescription	/items/materials/astral_tile4.matitem	/shortdescription	Astral Sandstone Beam
+223	new-translation		shortdescription	/items/materials/astral_tile5.matitem	/shortdescription	Astral Fabric ^#588caa;Ocean^reset;
+224	new-translation		shortdescription	/items/materials/astral_tile6.matitem	/shortdescription	Astral Fabric ^#bc9e5c;Desert^reset;
+225	new-translation		description	/items/materials/astral_tile7.matitem	/description	An Arcanian composite material used to build complex structures.
+226	new-translation		shortdescription	/items/materials/astral_tile7.matitem	/shortdescription	Astral Sloped Panel ^blue;Ocean^reset;
+227	new-translation		shortdescription	/items/materials/astral_tile8.matitem	/shortdescription	Astral Sloped Panel ^yellow;Desert^reset;
+228	new-translation		description	/items/materials/astral_tile9.matitem	/description	An ancient constructing material made from azurium. Highly durable.
+229	new-translation		shortdescription	/items/materials/astral_tile9.matitem	/shortdescription	Azurium Flooring
+230	new-translation		description	/items/materials/aurea_tile1.matitem	/description	A durable sloped panel tile, used to construct complex buildings.
+231	new-translation		shortdescription	/items/materials/aurea_tile1.matitem	/shortdescription	Complex Ark Panel
+232	new-translation		description	/items/materials/aurea_tile10.matitem	/description	A durable metal wall.
+233	new-translation		shortdescription	/items/materials/aurea_tile10.matitem	/shortdescription	Aurea Complex Wall
+234	new-translation		shortdescription	/items/materials/aurea_tile11.matitem	/shortdescription	Aurea Hazard Wall
+235	new-translation		description	/items/materials/aurea_tile12.matitem	/description	A Gilten glass barrier.
+236	new-translation		shortdescription	/items/materials/aurea_tile12.matitem	/shortdescription	Solid Ark Barrier
+237	new-translation		shortdescription	/items/materials/aurea_tile13.matitem	/shortdescription	Aurea Segmented Wall
+238	new-translation		description	/items/materials/aurea_tile14.matitem	/description	A light strip.
+239	new-translation		shortdescription	/items/materials/aurea_tile14.matitem	/shortdescription	Aurea Light Strip
+240	new-translation		description	/items/materials/aurea_tile15.matitem	/description	A metal support beam.
+241	new-translation		shortdescription	/items/materials/aurea_tile15.matitem	/shortdescription	Aurea Prefab Support
+242	new-translation		shortdescription	/items/materials/aurea_tile16.matitem	/shortdescription	Aurea Prefab Wall
+243	new-translation		description	/items/materials/aurea_tile2.matitem	/description	A durable white smooth panel tile, used to construct complex buildings.
+244	new-translation		shortdescription	/items/materials/aurea_tile2.matitem	/shortdescription	Minimal Ark Panel
+245	new-translation		description	/items/materials/aurea_tile3.matitem	/description	A patterned ark panel.
+246	new-translation		shortdescription	/items/materials/aurea_tile3.matitem	/shortdescription	Ornate Ark Panel
+247	new-translation		shortdescription	/items/materials/aurea_tile4.matitem	/shortdescription	Ark Barrier
+248	new-translation		description	/items/materials/aurea_tile5.matitem	/description	An ark panel in the back layer.
+249	new-translation		shortdescription	/items/materials/aurea_tile5.matitem	/shortdescription	Minimal Ark Panel B
+250	new-translation		description	/items/materials/aurea_tile6.matitem	/description	An ancient material.
+251	new-translation		shortdescription	/items/materials/aurea_tile6.matitem	/shortdescription	Ancient Panel
+252	new-translation		description	/items/materials/aurea_tile7.matitem	/description	A ship wall.
+253	new-translation		shortdescription	/items/materials/aurea_tile7.matitem	/shortdescription	Aurea Ship Wall
+254	new-translation		description	/items/materials/aurea_tile8.matitem	/description	A ship floor.
+255	new-translation		shortdescription	/items/materials/aurea_tile8.matitem	/shortdescription	Aurea Ship Floor
+256	new-translation		description	/items/materials/aurea_tile9.matitem	/description	A metal plating material for space-faring ships.
+257	new-translation		shortdescription	/items/materials/aurea_tile9.matitem	/shortdescription	Aurea Ship Plating
+258	new-translation		description	/items/materials/automated_tile1.matitem	/description	A panel made from scraps.
+259	new-translation		shortdescription	/items/materials/automated_tile1.matitem	/shortdescription	S01 Panel A
+260	new-translation		shortdescription	/items/materials/automated_tile2.matitem	/shortdescription	S01 Panel B
+261	new-translation		description	/items/materials/azureDesert_tile1.matitem	/description	A dry sand block that has been hardened with time.
+262	new-translation		shortdescription	/items/materials/azureDesert_tile1.matitem	/shortdescription	Hardened Sand
+263	new-translation		description	/items/materials/azureDesert_tile2.matitem	/description	Sand that has been sprinkled with the element of Azure.
+264	new-translation		shortdescription	/items/materials/azureDesert_tile2.matitem	/shortdescription	Azure Sand
+265	new-translation		description	/items/materials/bleuark_tile1.matitem	/description	A dark blue stone block.
+266	new-translation		shortdescription	/items/materials/bleuark_tile1.matitem	/shortdescription	Seastone Block
+267	new-translation		description	/items/materials/bleuark_tile10.matitem	/description	A smooth sea crystal block.
+268	new-translation		shortdescription	/items/materials/bleuark_tile10.matitem	/shortdescription	Smooth Sea Crystal
+269	new-translation		description	/items/materials/bleuark_tile11.matitem	/description	A sea crystal block with a golden frame.
+270	new-translation		shortdescription	/items/materials/bleuark_tile11.matitem	/shortdescription	Sea Crystal Wall
+271	new-translation		description	/items/materials/bleuark_tile12.matitem	/description	An ancient wall, still withstanding the deep waters.
+272	new-translation		shortdescription	/items/materials/bleuark_tile12.matitem	/shortdescription	Undersea Panel
+273	new-translation		description	/items/materials/bleuark_tile2.matitem	/description	Gold-colored sand.
+274	new-translation		shortdescription	/items/materials/bleuark_tile2.matitem	/shortdescription	Golden Sand Block
+275	new-translation		description	/items/materials/bleuark_tile3.matitem	/description	A seastone flooring surfaced with Atla gold.
+276	new-translation		shortdescription	/items/materials/bleuark_tile3.matitem	/shortdescription	Seastone Flooring
+277	new-translation		description	/items/materials/bleuark_tile4.matitem	/description	A smoothed seastone brick tile.
+278	new-translation		shortdescription	/items/materials/bleuark_tile4.matitem	/shortdescription	Seastone Brick
+279	new-translation		description	/items/materials/bleuark_tile5.matitem	/description	A wall tile crafted with Atla gold.
+280	new-translation		shortdescription	/items/materials/bleuark_tile5.matitem	/shortdescription	Atlantis Wall
+281	new-translation		description	/items/materials/bleuark_tile6.matitem	/description	A support beam crafted with Atla gold and seastone.
+282	new-translation		shortdescription	/items/materials/bleuark_tile6.matitem	/shortdescription	Atlantis Support Beam
+283	new-translation		description	/items/materials/bleuark_tile7.matitem	/description	A smooth pillar crafted from seastone.
+284	new-translation		shortdescription	/items/materials/bleuark_tile7.matitem	/shortdescription	Seastone Pillar
+285	new-translation		description	/items/materials/bleuark_tile8.matitem	/description	An Atla gold block.
+286	new-translation		shortdescription	/items/materials/bleuark_tile8.matitem	/shortdescription	Atlantis Gold Block
+287	new-translation		description	/items/materials/bleuark_tile9.matitem	/description	A blue sea crystal block.
+288	new-translation		shortdescription	/items/materials/bleuark_tile9.matitem	/shortdescription	Sea Crystal Block
+289	new-translation		description	/items/materials/blistering_tile1.matitem	/description	A reddish cobblestone block.
+290	new-translation		shortdescription	/items/materials/blistering_tile1.matitem	/shortdescription	Blistering Cobblestone
+291	new-translation		description	/items/materials/blistering_tile2.matitem	/description	A stone brick that originated from deep ruins.
+292	new-translation		shortdescription	/items/materials/blistering_tile2.matitem	/shortdescription	Cindered Bricks
+293	new-translation		description	/items/materials/borealite_tile1.matitem	/description	A borealite wall.
+294	new-translation		shortdescription	/items/materials/borealite_tile1.matitem	/shortdescription	Borealite Wall
+295	new-translation		shortdescription	/items/materials/borealite_tile2.matitem	/shortdescription	Borealite Plating
+296	new-translation		description	/items/materials/borealite_tile3.matitem	/description	A borealite pillar.
+297	new-translation		shortdescription	/items/materials/borealite_tile3.matitem	/shortdescription	Borealite Pillar
+298	new-translation		description	/items/materials/borealite_tile4.matitem	/description	A borealite beam.
+299	new-translation		shortdescription	/items/materials/borealite_tile4.matitem	/shortdescription	Borealite Beam
+300	new-translation		shortdescription	/items/materials/borealite_tile5.matitem	/shortdescription	Opus Deca
+301	new-translation		shortdescription	/items/materials/borealite_tile6.matitem	/shortdescription	Opus Hecto
+302	new-translation		shortdescription	/items/materials/borealite_tile7.matitem	/shortdescription	Opus Kilo
+303	new-translation		shortdescription	/items/materials/borealite_tile8.matitem	/shortdescription	Opus Mega
+304	new-translation		description	/items/materials/cerueon_tile1.matitem	/description	A blueish dirt tile, looks enchanted.
+305	new-translation		shortdescription	/items/materials/cerueon_tile1.matitem	/shortdescription	Cerueon Dirt
+306	new-translation		description	/items/materials/cerueon_tile2.matitem	/description	A blue flower tile, looks enchanted.
+307	new-translation		shortdescription	/items/materials/cerueon_tile2.matitem	/shortdescription	Cerueon Flower Block
+308	new-translation		description	/items/materials/desolate_tile1.matitem	/description	A dark, smoldering rock.
+309	new-translation		shortdescription	/items/materials/desolate_tile1.matitem	/shortdescription	Ruinous Stone
+310	new-translation		description	/items/materials/desolate_tile2.matitem	/description	A black cobblestone block.
+311	new-translation		shortdescription	/items/materials/desolate_tile2.matitem	/shortdescription	Desolate Cobblestone
+312	new-translation		description	/items/materials/elysia_tile1.matitem	/description	A carpeted wooden tile.
+313	new-translation		shortdescription	/items/materials/elysia_tile1.matitem	/shortdescription	Resort Carpeted Timber
+314	new-translation		description	/items/materials/elysia_tile2.matitem	/description	A carpeted green flooring, somewhat resembles the texture of bamboos.
+315	new-translation		shortdescription	/items/materials/elysia_tile2.matitem	/shortdescription	Resort Carpeted Flooring
+316	new-translation		description	/items/materials/elysia_tile3.matitem	/description	An emerald-colored wall support.
+317	new-translation		shortdescription	/items/materials/elysia_tile3.matitem	/shortdescription	Resort Green Support
+318	new-translation		description	/items/materials/elysia_tile4.matitem	/description	A pale-colored wall support.
+319	new-translation		shortdescription	/items/materials/elysia_tile4.matitem	/shortdescription	Resort White Support
+320	new-translation		description	/items/materials/eminsnow_tile1.matitem	/description	Soft and fluffy snowy dirt.
+321	new-translation		shortdescription	/items/materials/eminsnow_tile1.matitem	/shortdescription	Eminsnow Dirt
+322	new-translation		description	/items/materials/empress_tile1.matitem	/description	A golden patterned tile.
+323	new-translation		shortdescription	/items/materials/empress_tile1.matitem	/shortdescription	Empress Gold Block
+324	new-translation		description	/items/materials/empress_tile2.matitem	/description	A golden patterned flooring.
+325	new-translation		shortdescription	/items/materials/empress_tile2.matitem	/shortdescription	Empress Gold Flooring
+326	new-translation		description	/items/materials/empress_tile3.matitem	/description	A gold plated flooring.
+327	new-translation		shortdescription	/items/materials/empress_tile3.matitem	/shortdescription	Empress Flooring
+328	new-translation		description	/items/materials/empress_tile4.matitem	/description	A gold plated roofing.
+329	new-translation		shortdescription	/items/materials/empress_tile4.matitem	/shortdescription	Empress Roofing
+330	new-translation		description	/items/materials/empress_tile5.matitem	/description	A dark wall panel.
+331	new-translation		shortdescription	/items/materials/empress_tile5.matitem	/shortdescription	Empress Wall
+332	new-translation		description	/items/materials/empress_tile6.matitem	/description	A sleek dark wall panel.
+333	new-translation		shortdescription	/items/materials/empress_tile6.matitem	/shortdescription	Empress Sleek Panel
+334	tm-multi	"단단한 조약돌, 촉감이 매끄러움.
+^green;추출 가능^reset;, ^orange;분쇄 가능^reset;, ^red;제련 가능^reset;. || 단단한 조약돌. 만져보면 부드럽다. || 단단한 조약돌. 만져보면 부드럽습니다."	description	/items/materials/empyrean_tile1.matitem	/description	Hard cobblestones, smooth to the touch.
+335	new-translation		description	/items/materials/empyrean_tile2.matitem	/description	A patterned brick wall.
+336	new-translation		shortdescription	/items/materials/empyrean_tile2.matitem	/shortdescription	Sky Ark Bricks
+337	new-translation		shortdescription	/items/materials/empyrean_tile3.matitem	/shortdescription	Sky Ark Revere Bricks
+338	new-translation		description	/items/materials/empyrean_tile4.matitem	/description	A polished roofing tile.
+339	new-translation		shortdescription	/items/materials/empyrean_tile4.matitem	/shortdescription	Ark Roof Tile
+340	new-translation		description	/items/materials/empyrean_tile5.matitem	/description	A polished pillar tile.
+341	new-translation		shortdescription	/items/materials/empyrean_tile5.matitem	/shortdescription	Ark Pillar Tile
+342	new-translation		description	/items/materials/empyrean_tile6.matitem	/description	A block of leaves.
+343	new-translation		shortdescription	/items/materials/empyrean_tile6.matitem	/shortdescription	Empyrean Leaf Block
+344	new-translation		description	/items/materials/evoaquatic_tile1.matitem	/description	A greenish mud tile.
+345	new-translation		shortdescription	/items/materials/evoaquatic_tile1.matitem	/shortdescription	Evoaquatic Mud
+346	new-translation		description	/items/materials/evoaquatic_tile2.matitem	/description	A strange alien block of dirt.
+347	new-translation		shortdescription	/items/materials/evoaquatic_tile2.matitem	/shortdescription	Evoaquatic Dirt
+348	new-translation		description	/items/materials/evoaquatic_tile3.matitem	/description	A yellowish rock tile.
+349	new-translation		shortdescription	/items/materials/evoaquatic_tile3.matitem	/shortdescription	Evoaquatic Rock
+350	new-translation		description	/items/materials/evoaquatic_tile4.matitem	/description	A block of green crystals, emitting faint light.
+351	new-translation		shortdescription	/items/materials/evoaquatic_tile4.matitem	/shortdescription	Evoaquatic Crystals
+352	new-translation		description	/items/materials/exousia_tile1.matitem	/description	A minimalistic while tile, often used in Exousian modern structures.
+353	new-translation		shortdescription	/items/materials/exousia_tile1.matitem	/shortdescription	Exousian White Tile
+354	new-translation		description	/items/materials/exousia_tile10.matitem	/description	A durable white machinary crafted from Enartz composites.
+355	new-translation		shortdescription	/items/materials/exousia_tile10.matitem	/shortdescription	Enartz Machinery Tile
+356	new-translation		description	/items/materials/exousia_tile11.matitem	/description	A patterned smooth wall crafted from Enartz composites.
+357	new-translation		shortdescription	/items/materials/exousia_tile11.matitem	/shortdescription	Enartz Smooth Wall
+358	new-translation		description	/items/materials/exousia_tile12.matitem	/description	A plated wall panel crafted from Exoslate composites.
+359	new-translation		shortdescription	/items/materials/exousia_tile12.matitem	/shortdescription	Exoslate Plated Wall
+360	new-translation		description	/items/materials/exousia_tile13.matitem	/description	A wall panel crafted from Exoslate composites. ^orange;(Paint changes pattern.)^reset;
+361	new-translation		shortdescription	/items/materials/exousia_tile13.matitem	/shortdescription	Exoslate Industrial Wall
+362	new-translation		description	/items/materials/exousia_tile14.matitem	/description	A durable plating tile crafted from Exoslate composites.
+363	new-translation		shortdescription	/items/materials/exousia_tile14.matitem	/shortdescription	Exoslate Plating
+364	new-translation		shortdescription	/items/materials/exousia_tile15.matitem	/shortdescription	Composite Enartz Panel
+365	new-translation		description	/items/materials/exousia_tile16.matitem	/description	A durable red sloped panel tile, used to construct complex buildings.
+366	new-translation		shortdescription	/items/materials/exousia_tile16.matitem	/shortdescription	Composite Rufescite Panel
+367	new-translation		description	/items/materials/exousia_tile17.matitem	/description	A durable black sloped panel tile, used to construct complex buildings.
+368	new-translation		shortdescription	/items/materials/exousia_tile17.matitem	/shortdescription	Composite Exoslate Panel
+369	new-translation		description	/items/materials/exousia_tile18.matitem	/description	A durable dark black sloped panel tile, used to construct complex buildings.
+370	new-translation		shortdescription	/items/materials/exousia_tile18.matitem	/shortdescription	Composite Endoslate Panel
+371	new-translation		shortdescription	/items/materials/exousia_tile19.matitem	/shortdescription	Smooth Enartz Panel
+372	new-translation		description	/items/materials/exousia_tile2.matitem	/description	A minimalistic while flooring tile used to construct composite structures.
+373	new-translation		shortdescription	/items/materials/exousia_tile2.matitem	/shortdescription	Exousian Flooring W^#a0a0a0;RB^reset;
+374	new-translation		description	/items/materials/exousia_tile20.matitem	/description	A durable red smooth panel tile, used to construct complex buildings.
+375	new-translation		shortdescription	/items/materials/exousia_tile20.matitem	/shortdescription	Smooth Rufescite Panel
+376	new-translation		description	/items/materials/exousia_tile21.matitem	/description	A durable black smooth panel tile, used to construct complex buildings.
+377	new-translation		shortdescription	/items/materials/exousia_tile21.matitem	/shortdescription	Smooth Exoslate Panel
+378	new-translation		description	/items/materials/exousia_tile22.matitem	/description	A durable dark black smooth panel tile, used to construct complex buildings.
+379	new-translation		shortdescription	/items/materials/exousia_tile22.matitem	/shortdescription	Smooth Endoslate Panel
+380	new-translation		description	/items/materials/exousia_tile23.matitem	/description	A sloped red glass tile.
+381	new-translation		shortdescription	/items/materials/exousia_tile23.matitem	/shortdescription	Exousian Red Glass
+382	new-translation		description	/items/materials/exousia_tile24.matitem	/description	A sloped gray glass tile.
+383	new-translation		shortdescription	/items/materials/exousia_tile24.matitem	/shortdescription	Exousian Gray Glass
+384	new-translation		description	/items/materials/exousia_tile25.matitem	/description	A sloped white metal frame.
+385	new-translation		shortdescription	/items/materials/exousia_tile25.matitem	/shortdescription	Enartz Frame
+386	new-translation		description	/items/materials/exousia_tile26.matitem	/description	A sloped black metal frame.
+387	new-translation		shortdescription	/items/materials/exousia_tile26.matitem	/shortdescription	Exoslate Frame
+388	new-translation		shortdescription	/items/materials/exousia_tile27.matitem	/shortdescription	Unlit Window
+389	new-translation		shortdescription	/items/materials/exousia_tile28.matitem	/shortdescription	Lit Window
+390	tm-single	커다란 금속 파이프입니다.	description	/items/materials/exousia_tile29.matitem	/description	A large metal pipe.
+391	new-translation		shortdescription	/items/materials/exousia_tile29.matitem	/shortdescription	Enartz Pipe H
+392	new-translation		description	/items/materials/exousia_tile3.matitem	/description	A minimalistic red and white flooring tile used to construct composite structures.
+393	new-translation		shortdescription	/items/materials/exousia_tile3.matitem	/shortdescription	Exousian Flooring W^#c3483a;R^reset;^#a0a0a0;B^reset;
+394	new-translation		shortdescription	/items/materials/exousia_tile30.matitem	/shortdescription	Enartz Pipe V
+395	new-translation		description	/items/materials/exousia_tile31.matitem	/description	A chainlink fence.
+396	new-translation		shortdescription	/items/materials/exousia_tile31.matitem	/shortdescription	Chainlink Fence
+397	new-translation		description	/items/materials/exousia_tile32.matitem	/description	A durable material found in Vermilion ruins.
+398	new-translation		shortdescription	/items/materials/exousia_tile32.matitem	/shortdescription	Vermilion Panel
+399	new-translation		description	/items/materials/exousia_tile33.matitem	/description	An exoslate panel in the back layer.
+400	new-translation		description	/items/materials/exousia_tile34.matitem	/description	A durable plating crafted from Enartz composites.
+401	new-translation		shortdescription	/items/materials/exousia_tile34.matitem	/shortdescription	Gray Industrial Plating
+402	new-translation		description	/items/materials/exousia_tile4.matitem	/description	A minimalistic black and white flooring tile used to construct composite structures.
+403	new-translation		shortdescription	/items/materials/exousia_tile4.matitem	/shortdescription	Exousian Flooring W^#a0a0a0;R^reset;^#373737;B^reset;
+404	new-translation		description	/items/materials/exousia_tile5.matitem	/description	A light slate tile used to construct Exousian modern structures.
+405	new-translation		shortdescription	/items/materials/exousia_tile5.matitem	/shortdescription	Light Exoslate Tile
+406	new-translation		description	/items/materials/exousia_tile6.matitem	/description	A dark slate tile used to construct Exousian modern structures.
+407	new-translation		shortdescription	/items/materials/exousia_tile6.matitem	/shortdescription	Dark Exoslate Tile
+408	new-translation		description	/items/materials/exousia_tile7.matitem	/description	A red slate flooring tile used to construct Exousian modern structures.
+409	new-translation		shortdescription	/items/materials/exousia_tile7.matitem	/shortdescription	Red Exoslate Flooring
+410	new-translation		description	/items/materials/exousia_tile8.matitem	/description	A black slate flooring tile used to construct Exousian modern structures.
+411	new-translation		shortdescription	/items/materials/exousia_tile8.matitem	/shortdescription	Black Exoslate Flooring
+412	new-translation		description	/items/materials/exousia_tile9.matitem	/description	A durable plating tile crafted from Enartz composites.
+413	new-translation		shortdescription	/items/materials/exousia_tile9.matitem	/shortdescription	Enartz Plating
+414	new-translation		description	/items/materials/ferocious_tile1.matitem	/description	A soil mixed with wastes.
+415	new-translation		shortdescription	/items/materials/ferocious_tile1.matitem	/shortdescription	Ferocious Soil
+416	new-translation		description	/items/materials/ferocious_tile2.matitem	/description	A sturdy dirt block filled with rusted materials.
+417	new-translation		shortdescription	/items/materials/ferocious_tile2.matitem	/shortdescription	Ferocious Dirt
+418	new-translation		description	/items/materials/gaea_tile1.matitem	/description	An ancient stone brick block made of florastone.
+419	new-translation		shortdescription	/items/materials/gaea_tile1.matitem	/shortdescription	Florastone Bricks
+420	new-translation		description	/items/materials/gaea_tile2.matitem	/description	An ancient stone pillar made of florastone.
+421	new-translation		shortdescription	/items/materials/gaea_tile2.matitem	/shortdescription	Florastone Pillar
+422	new-translation		description	/items/materials/gaea_tile3.matitem	/description	A decorative florastone wall.
+423	new-translation		shortdescription	/items/materials/gaea_tile3.matitem	/shortdescription	Florastone Wall
+424	new-translation		description	/items/materials/gaea_tile4.matitem	/description	A florastone roofing tile.
+425	new-translation		shortdescription	/items/materials/gaea_tile4.matitem	/shortdescription	Florastone Roofing
+426	new-translation		description	/items/materials/geoelectra_tile1.matitem	/description	A stone pulsating with electric energy, harnessed from the depths of a subterranean biome.
+427	new-translation		shortdescription	/items/materials/geoelectra_tile1.matitem	/shortdescription	Geoelectra Stone
+428	new-translation		description	/items/materials/geoelectra_tile2.matitem	/description	A smooth cave stone.
+429	new-translation		shortdescription	/items/materials/geoelectra_tile2.matitem	/shortdescription	Geoelectra Smooth Stone
+430	new-translation		description	/items/materials/geoelectra_tile3.matitem	/description	A reinforced wall forged from synthite.
+431	new-translation		shortdescription	/items/materials/geoelectra_tile3.matitem	/shortdescription	Neo Synthite Wall
+432	new-translation		description	/items/materials/geoelectra_tile4.matitem	/description	A reinforced wall forged from galvasteel.
+433	new-translation		shortdescription	/items/materials/geoelectra_tile4.matitem	/shortdescription	Neo Machinery Wall
+434	new-translation		description	/items/materials/geoelectra_tile5.matitem	/description	A reinforced glass floor.
+435	new-translation		shortdescription	/items/materials/geoelectra_tile5.matitem	/shortdescription	Neo Synthite Flooring
+436	new-translation		description	/items/materials/glowtearUnderground_tile1.matitem	/description	A large glowing rock found in Gleaming Basin.
+437	new-translation		description	/items/materials/glowtearUnderground_tile2.matitem	/description	A solid soil found in Glowtear Undergrounds.
+438	new-translation		shortdescription	/items/materials/glowtearUnderground_tile2.matitem	/shortdescription	Glowspectral Soil
+439	new-translation		description	/items/materials/glowtear_tile1.matitem	/description	A dark blue stone tile.
+440	new-translation		description	/items/materials/glowtear_tile2.matitem	/description	A glowing cyan crystal block, emits light.
+441	new-translation		shortdescription	/items/materials/glowtear_tile2.matitem	/shortdescription	Glowtear Crystal
+442	new-translation		description	/items/materials/goldenForest_tile1.matitem	/description	A block of dirt found in the ancient grounds.
+443	tm-single	흙 블록	shortdescription	/items/materials/goldenForest_tile1.matitem	/shortdescription	Dirt Block
+444	new-translation		description	/items/materials/goldenForest_tile2.matitem	/description	A pile of golden leaves.
+445	tm-single	황금 나뭇잎	shortdescription	/items/materials/goldenForest_tile2.matitem	/shortdescription	Golden Leaves
+446	new-translation		description	/items/materials/havencrest_tile1.matitem	/description	A sandstone block.
+447	new-translation		shortdescription	/items/materials/havencrest_tile1.matitem	/shortdescription	Arcane Sandstone
+448	new-translation		description	/items/materials/havencrest_tile2.matitem	/description	A sandstone flooring tile.
+449	new-translation		shortdescription	/items/materials/havencrest_tile2.matitem	/shortdescription	Havencrest Flooring
+450	new-translation		description	/items/materials/havencrest_tile3.matitem	/description	A decorative sandstone tile.
+451	new-translation		shortdescription	/items/materials/havencrest_tile3.matitem	/shortdescription	Decorative Sandstone
+452	new-translation		description	/items/materials/havencrest_tile4.matitem	/description	A solid sandstone fence.
+453	new-translation		shortdescription	/items/materials/havencrest_tile4.matitem	/shortdescription	Sandstone Fence
+454	new-translation		description	/items/materials/havencrest_tile5.matitem	/description	A painted white wall panel.
+455	new-translation		shortdescription	/items/materials/havencrest_tile5.matitem	/shortdescription	White Wall Panel
+456	new-translation		description	/items/materials/havencrest_tile6.matitem	/description	A sandstone bridge tile.
+457	new-translation		shortdescription	/items/materials/havencrest_tile6.matitem	/shortdescription	Havencrest Bridge Block
+458	new-translation		description	/items/materials/havencrest_tile7.matitem	/description	A solid brick tile.
+459	new-translation		shortdescription	/items/materials/havencrest_tile7.matitem	/shortdescription	Stone Support Block
+460	new-translation		description	/items/materials/havencrest_tile8.matitem	/description	A silver colored roofing tile.
+461	new-translation		shortdescription	/items/materials/havencrest_tile8.matitem	/shortdescription	Havencrest Roofing
+462	new-translation		description	/items/materials/havencrest_tile9.matitem	/description	A white wall panel in the back layer.
+463	new-translation		shortdescription	/items/materials/havencrest_tile9.matitem	/shortdescription	White Wall Panel B
+464	new-translation		description	/items/materials/hephaestus_tile1.matitem	/description	An ancient flooring made with magistone.
+465	new-translation		shortdescription	/items/materials/hephaestus_tile1.matitem	/shortdescription	Magistone Flooring
+466	new-translation		description	/items/materials/hephaestus_tile2.matitem	/description	An ancient building material fused with magifire.
+467	new-translation		shortdescription	/items/materials/hephaestus_tile2.matitem	/shortdescription	Magistone Block
+468	new-translation		description	/items/materials/hephaestus_tile3.matitem	/description	A dry stone bridge tile.
+469	new-translation		shortdescription	/items/materials/hephaestus_tile3.matitem	/shortdescription	Dry Stone Bridge
+470	new-translation		description	/items/materials/hephaestus_tile4.matitem	/description	An ancient building material carrying the desert heat.
+471	new-translation		shortdescription	/items/materials/hephaestus_tile4.matitem	/shortdescription	Dry Stone Block
+472	new-translation		description	/items/materials/hephaestus_tile5.matitem	/description	A decorative magistone wall tile.
+473	new-translation		shortdescription	/items/materials/hephaestus_tile5.matitem	/shortdescription	Magistone Wall
+474	new-translation		description	/items/materials/hephaestus_tile6.matitem	/description	A decorative magistone pillar.
+475	new-translation		shortdescription	/items/materials/hephaestus_tile6.matitem	/shortdescription	Magistone Pillar
+476	new-translation		description	/items/materials/horizon_tile1.matitem	/description	A simple iron support tile.
+477	new-translation		shortdescription	/items/materials/horizon_tile1.matitem	/shortdescription	Horizon Iron Support
+478	new-translation		description	/items/materials/horizon_tile10.matitem	/description	A durable black smooth panel tile, made from a smelted compound.
+479	new-translation		shortdescription	/items/materials/horizon_tile10.matitem	/shortdescription	Viotech Clean Panel
+480	new-translation		description	/items/materials/horizon_tile11.matitem	/description	A durable black composite panel tile, made from a smelted compound.
+481	new-translation		shortdescription	/items/materials/horizon_tile11.matitem	/shortdescription	Viotech Composite Panel
+482	new-translation		shortdescription	/items/materials/horizon_tile12.matitem	/shortdescription	Viotech Ship Wall
+483	new-translation		description	/items/materials/horizon_tile13.matitem	/description	A piece of pipe for transporting liquids and gasses.
+484	new-translation		shortdescription	/items/materials/horizon_tile13.matitem	/shortdescription	Viotech Lab Pipe
+485	new-translation		description	/items/materials/horizon_tile2.matitem	/description	A weathered dark iron block.
+486	new-translation		shortdescription	/items/materials/horizon_tile2.matitem	/shortdescription	Dark Iron Block
+487	new-translation		description	/items/materials/horizon_tile3.matitem	/description	A solid flooring tile.
+488	new-translation		shortdescription	/items/materials/horizon_tile3.matitem	/shortdescription	Horizon Flooring
+489	new-translation		description	/items/materials/horizon_tile4.matitem	/description	A metal hazard beam, painted black.
+490	new-translation		shortdescription	/items/materials/horizon_tile4.matitem	/shortdescription	Dark Hazard Beam
+491	new-translation		description	/items/materials/horizon_tile5.matitem	/description	A metal beam crafted from necroium.
+492	new-translation		shortdescription	/items/materials/horizon_tile5.matitem	/shortdescription	Necroium Dark Beam
+493	new-translation		description	/items/materials/horizon_tile6.matitem	/description	A solid sloped wall crafted from necroium.
+494	new-translation		shortdescription	/items/materials/horizon_tile6.matitem	/shortdescription	Necroium Sloped Wall
+495	new-translation		description	/items/materials/horizon_tile7.matitem	/description	An enhanced purple glass panel.
+496	new-translation		shortdescription	/items/materials/horizon_tile7.matitem	/shortdescription	Purple Sloped Glass
+497	new-translation		description	/items/materials/horizon_tile8.matitem	/description	A reinforced solid defense wall.
+498	new-translation		shortdescription	/items/materials/horizon_tile8.matitem	/shortdescription	Reinforced Wall
+499	new-translation		description	/items/materials/horizon_tile9.matitem	/description	A solid iron sheet for protecting walls.
+500	new-translation		shortdescription	/items/materials/horizon_tile9.matitem	/shortdescription	Dark Iron Sheet
+501	new-translation		description	/items/materials/jadeMorass_tile1.matitem	/description	Green flowers found in Jade Morass biomes.
+502	new-translation		shortdescription	/items/materials/jadeMorass_tile1.matitem	/shortdescription	Jade Flower Block
+503	new-translation		description	/items/materials/jadeMorass_tile2.matitem	/description	Glowing green crystals found in Jade Morass biomes.
+504	new-translation		shortdescription	/items/materials/jadeMorass_tile2.matitem	/shortdescription	Jade Crystal Block
+505	new-translation		description	/items/materials/lunar_tile1.matitem	/description	A dark ornate wooden fence, crafted by the Tsukuyomi clan.
+506	new-translation		shortdescription	/items/materials/lunar_tile1.matitem	/shortdescription	Kuromatsu Fence
+507	new-translation		description	/items/materials/lunar_tile10.matitem	/description	An ornate flooring tile.
+508	new-translation		shortdescription	/items/materials/lunar_tile10.matitem	/shortdescription	Kuromatsu Ornate Flooring
+509	new-translation		description	/items/materials/lunar_tile11.matitem	/description	A dark ornate roofing tile.
+510	new-translation		shortdescription	/items/materials/lunar_tile11.matitem	/shortdescription	Kuromatsu Ornate Roofing
+511	new-translation		description	/items/materials/lunar_tile12.matitem	/description	An ornate roof tile commonly found in buildings of Lunar villages.
+512	new-translation		shortdescription	/items/materials/lunar_tile12.matitem	/shortdescription	Kuromatsu Ornate Tile
+513	new-translation		description	/items/materials/lunar_tile13.matitem	/description	An ornate ceiling tile commonly found in buildings of Lunar villages.
+514	new-translation		shortdescription	/items/materials/lunar_tile13.matitem	/shortdescription	Kuromatsu Ceiling Tile
+515	new-translation		description	/items/materials/lunar_tile14.matitem	/description	A block of sakura petals.
+516	new-translation		shortdescription	/items/materials/lunar_tile14.matitem	/shortdescription	Sakura Block
+517	new-translation		description	/items/materials/lunar_tile15.matitem	/description	Eh?... What is this alien material? Horizontal ornate wood? Impossible!
+518	new-translation		shortdescription	/items/materials/lunar_tile15.matitem	/shortdescription	Kuromatsu Ornate Wood ^green;H^reset;
+519	new-translation		description	/items/materials/lunar_tile16.matitem	/description	A block of pink leaves.
+520	new-translation		shortdescription	/items/materials/lunar_tile16.matitem	/shortdescription	Sakura Leaf Block
+521	new-translation		description	/items/materials/lunar_tile17.matitem	/description	An ancient constructing material made from luminarium. Highly durable.
+522	new-translation		shortdescription	/items/materials/lunar_tile17.matitem	/shortdescription	Luinarium Flooring
+523	new-translation		description	/items/materials/lunar_tile2.matitem	/description	A dark ornate wooden window tile, crafted by the Tsukuyomi clan.
+524	new-translation		shortdescription	/items/materials/lunar_tile2.matitem	/shortdescription	Kuromatsu Window
+525	new-translation		description	/items/materials/lunar_tile3.matitem	/description	A dark wooden bridge tile, made from kuromatsu wood.
+526	new-translation		shortdescription	/items/materials/lunar_tile3.matitem	/shortdescription	Kuromatsu Bridge Tile
+527	new-translation		description	/items/materials/lunar_tile4.matitem	/description	A dark timber, prepared with kuromatsu wood.
+528	new-translation		shortdescription	/items/materials/lunar_tile4.matitem	/shortdescription	Kuromatsu Timber
+529	new-translation		description	/items/materials/lunar_tile5.matitem	/description	A sturdy metal beam, often used in city buildings.
+530	new-translation		shortdescription	/items/materials/lunar_tile5.matitem	/shortdescription	Dark Support Beam
+531	new-translation		description	/items/materials/lunar_tile6.matitem	/description	A carpet tile dyed with the signature Lunar purple.
+532	new-translation		shortdescription	/items/materials/lunar_tile6.matitem	/shortdescription	Lunar Carpet Flooring
+533	new-translation		description	/items/materials/lunar_tile7.matitem	/description	An ornate wall decorated in a traditional pattern.
+534	new-translation		shortdescription	/items/materials/lunar_tile7.matitem	/shortdescription	Lunar Ornate Wall
+535	new-translation		description	/items/materials/lunar_tile8.matitem	/description	An ornate wooden beam, often used for critical construction parts.
+536	new-translation		shortdescription	/items/materials/lunar_tile8.matitem	/shortdescription	Kuromatsu Ornate Wood
+537	new-translation		description	/items/materials/lunar_tile9.matitem	/description	An thick wooden beam, often used for critical construction parts.
+538	new-translation		shortdescription	/items/materials/lunar_tile9.matitem	/shortdescription	Kuromatsu Thick Wood
+539	new-translation		description	/items/materials/luye_tile1.matitem	/description	A solid, metal beam.
+540	new-translation		shortdescription	/items/materials/luye_tile1.matitem	/shortdescription	Luye Support Beam
+541	new-translation		description	/items/materials/luye_tile2.matitem	/description	A metal plated wall, looks fairly durable.
+542	new-translation		shortdescription	/items/materials/luye_tile2.matitem	/shortdescription	Luye Mechanical Wall
+543	new-translation		description	/items/materials/luye_tile3.matitem	/description	A metal plated block filled with machinary.
+544	new-translation		shortdescription	/items/materials/luye_tile3.matitem	/shortdescription	Luye Tech Block
+545	new-translation		description	/items/materials/luye_tile4.matitem	/description	A rusty metal plating tile.
+546	new-translation		shortdescription	/items/materials/luye_tile4.matitem	/shortdescription	Luye Sloped Plating
+547	new-translation		description	/items/materials/luye_tile5.matitem	/description	A smooth wall panel for building interior walls.
+548	new-translation		shortdescription	/items/materials/luye_tile5.matitem	/shortdescription	Luye Smooth Wall
+549	new-translation		description	/items/materials/monarch_tile1.matitem	/description	A pale blaststone block.
+550	new-translation		shortdescription	/items/materials/monarch_tile1.matitem	/shortdescription	Palestone Block
+551	new-translation		description	/items/materials/monarch_tile10.matitem	/description	A pale stone wall.
+552	new-translation		shortdescription	/items/materials/monarch_tile10.matitem	/shortdescription	Holosium Wall
+553	new-translation		description	/items/materials/monarch_tile2.matitem	/description	A dark blaststone block.
+554	new-translation		shortdescription	/items/materials/monarch_tile2.matitem	/shortdescription	Voidstone Block
+555	new-translation		description	/items/materials/monarch_tile3.matitem	/description	A pale ash block.
+556	new-translation		shortdescription	/items/materials/monarch_tile3.matitem	/shortdescription	Pale Ash Block
+557	new-translation		description	/items/materials/monarch_tile4.matitem	/description	A dark ash block.
+558	new-translation		shortdescription	/items/materials/monarch_tile4.matitem	/shortdescription	Dark Ash Block
+559	new-translation		description	/items/materials/monarch_tile5.matitem	/description	A grey brick tile..
+560	new-translation		shortdescription	/items/materials/monarch_tile5.matitem	/shortdescription	Palace Stone Brick
+561	new-translation		description	/items/materials/monarch_tile6.matitem	/description	A heavy grey brick tile.
+562	new-translation		shortdescription	/items/materials/monarch_tile6.matitem	/shortdescription	Palace Heavy Brick
+563	new-translation		description	/items/materials/monarch_tile7.matitem	/description	A grey stone pillar.
+564	new-translation		shortdescription	/items/materials/monarch_tile7.matitem	/shortdescription	Palace Stone Pillar
+565	new-translation		description	/items/materials/monarch_tile8.matitem	/description	A grey brick wall tile.
+566	new-translation		shortdescription	/items/materials/monarch_tile8.matitem	/shortdescription	Palace Wall
+567	new-translation		description	/items/materials/monarch_tile9.matitem	/description	A black and white stone-made fence.
+568	new-translation		shortdescription	/items/materials/monarch_tile9.matitem	/shortdescription	Palace Stone Fence
+569	new-translation		description	/items/materials/nihil_tile1.matitem	/description	The black void manifested as the solid earth.
+570	new-translation		shortdescription	/items/materials/nihil_tile1.matitem	/shortdescription	Akyri Gi
+571	new-translation		description	/items/materials/nihil_tile2.matitem	/description	A distorted cobblestone tile.
+572	new-translation		description	/items/materials/nulla_tile1.matitem	/description	An ancient glass flooring tile.
+573	new-translation		shortdescription	/items/materials/nulla_tile1.matitem	/shortdescription	Nulla Glass Flooring
+574	new-translation		description	/items/materials/nulla_tile2.matitem	/description	A fancy white flooring tile.
+575	new-translation		shortdescription	/items/materials/nulla_tile2.matitem	/shortdescription	Nulla White Flooring
+576	new-translation		description	/items/materials/nulla_tile3.matitem	/description	A grey carpet tile.
+577	new-translation		shortdescription	/items/materials/nulla_tile3.matitem	/shortdescription	Nulla Grey Carpet
+578	new-translation		description	/items/materials/nulla_tile4.matitem	/description	A distorted brick tile.
+579	new-translation		shortdescription	/items/materials/nulla_tile4.matitem	/shortdescription	Nulla Bricks
+580	new-translation		description	/items/materials/nulla_tile5.matitem	/description	A black and white palace fence tile.
+581	new-translation		shortdescription	/items/materials/nulla_tile5.matitem	/shortdescription	Nulla Fence
+582	new-translation		description	/items/materials/nulla_tile6.matitem	/description	A composition of pale plants.
+583	new-translation		shortdescription	/items/materials/nulla_tile6.matitem	/shortdescription	Illuminated Leaf Block
+584	new-translation		description	/items/materials/orion_tile1.matitem	/description	A soft prefabricated wall panel.
+585	new-translation		shortdescription	/items/materials/orion_tile1.matitem	/shortdescription	Soft Prefab Wall
+586	new-translation		description	/items/materials/orion_tile10.matitem	/description	A sloped metal panel used by the Orion, painted white.
+587	new-translation		shortdescription	/items/materials/orion_tile10.matitem	/shortdescription	Orion Light Panel
+588	new-translation		description	/items/materials/orion_tile11.matitem	/description	A sloped metal panel composed of a mix of machinery, used by the Orion.
+589	new-translation		shortdescription	/items/materials/orion_tile11.matitem	/shortdescription	Orion Machinery Panel
+590	new-translation		description	/items/materials/orion_tile12.matitem	/description	A sloped inset panel.
+591	new-translation		shortdescription	/items/materials/orion_tile12.matitem	/shortdescription	Orion Inset Panel
+592	new-translation		description	/items/materials/orion_tile13.matitem	/description	A blue light display panel.
+593	new-translation		shortdescription	/items/materials/orion_tile13.matitem	/shortdescription	Blue LED Panel
+594	new-translation		description	/items/materials/orion_tile14.matitem	/description	A pink light display panel.
+595	new-translation		shortdescription	/items/materials/orion_tile14.matitem	/shortdescription	Pink LED Panel
+596	new-translation		description	/items/materials/orion_tile15.matitem	/description	A solid metal beam.
+597	new-translation		shortdescription	/items/materials/orion_tile15.matitem	/shortdescription	Sturdy Floor Beam
+598	tm-multi	시간이 지나면서 녹슬어버린 튼튼한 금속 패널이다. || 시간이 지나면서 녹슬어버린 튼튼한 금속 패널입니다.	description	/items/materials/orion_tile16.matitem	/description	Sturdy metal panelling that has been rusted with age.
+599	new-translation		shortdescription	/items/materials/orion_tile16.matitem	/shortdescription	Blue Rusty Panel
+600	new-translation		description	/items/materials/orion_tile17.matitem	/description	A soft prefab wall in the back layer.
+601	new-translation		shortdescription	/items/materials/orion_tile17.matitem	/shortdescription	Soft Prefab Wall B
+602	new-translation		description	/items/materials/orion_tile18.matitem	/description	A reinforced wall.
+603	new-translation		shortdescription	/items/materials/orion_tile18.matitem	/shortdescription	Orion Steel Wall
+604	new-translation		description	/items/materials/orion_tile19.matitem	/description	A metal panel used by the Orion, painted white.
+605	new-translation		shortdescription	/items/materials/orion_tile19.matitem	/shortdescription	Orion Large Panel
+606	new-translation		description	/items/materials/orion_tile2.matitem	/description	A white concrete flooring tile.
+607	new-translation		shortdescription	/items/materials/orion_tile2.matitem	/shortdescription	White Concrete Floor
+608	tm-multi	주로 폐기물 처리 시설에서 쓰이는 무거운 파이프다. || 주로 폐기물 처리 시설에서 쓰이는 무거운 파이프입니다. || 폐기물 시스템에 일반적으로 사용되는 무거운 파이프입니다.	description	/items/materials/orion_tile3.matitem	/description	A heavy pipe, commonly used in waste systems.
+609	new-translation		shortdescription	/items/materials/orion_tile3.matitem	/shortdescription	Industrial Heavy Pipe
+610	new-translation		description	/items/materials/orion_tile4.matitem	/description	An electrical panel block.
+611	new-translation		shortdescription	/items/materials/orion_tile4.matitem	/shortdescription	Electrical Panel
+612	new-translation		description	/items/materials/orion_tile5.matitem	/description	A reinforced steel wall.
+613	new-translation		shortdescription	/items/materials/orion_tile5.matitem	/shortdescription	Steel Wall
+614	new-translation		description	/items/materials/orion_tile6.matitem	/description	A mass produced industrial girder for construction.
+615	new-translation		shortdescription	/items/materials/orion_tile6.matitem	/shortdescription	Industrial Girder
+616	new-translation		description	/items/materials/orion_tile7.matitem	/description	A reinforced beam used by the Orion, painted white.
+617	new-translation		shortdescription	/items/materials/orion_tile7.matitem	/shortdescription	Orion Light Beam
+618	new-translation		description	/items/materials/orion_tile8.matitem	/description	A reinforced beam used by the Orion, painted black.
+619	new-translation		shortdescription	/items/materials/orion_tile8.matitem	/shortdescription	Orion Dark Beam
+620	new-translation		description	/items/materials/orion_tile9.matitem	/description	A sloped metal panel used by the Orion, painted dark-blue.
+621	new-translation		shortdescription	/items/materials/orion_tile9.matitem	/shortdescription	Orion Dark Panel
+622	new-translation		description	/items/materials/polar_tile1.matitem	/description	A red rock found in aspirite caves.
+623	new-translation		shortdescription	/items/materials/polar_tile1.matitem	/shortdescription	Aspirite Rock
+624	new-translation		description	/items/materials/polar_tile2.matitem	/description	A green rock found in noxion caves.
+625	new-translation		shortdescription	/items/materials/polar_tile2.matitem	/shortdescription	Noxion Rock
+626	new-translation		description	/items/materials/polar_tile3.matitem	/description	A blue rock found in immorite caves.
+627	new-translation		shortdescription	/items/materials/polar_tile3.matitem	/shortdescription	Immorite Rock
+628	new-translation		description	/items/materials/polar_tile4.matitem	/description	A bamboo tile.
+629	new-translation		shortdescription	/items/materials/polar_tile4.matitem	/shortdescription	Bamboo Stalk
+630	new-translation		description	/items/materials/polar_tile5.matitem	/description	A thin bamboo tile.
+631	new-translation		shortdescription	/items/materials/polar_tile5.matitem	/shortdescription	Thin Bamboo Stalk
+632	new-translation		description	/items/materials/redTerminus_tile1.matitem	/description	A block of nothingness.
+633	new-translation		shortdescription	/items/materials/redTerminus_tile1.matitem	/shortdescription	Red Void Block
+634	new-translation		description	/items/materials/redTerminus_tile2.matitem	/description	A dirt block native to the Terminus.
+635	new-translation		shortdescription	/items/materials/redTerminus_tile2.matitem	/shortdescription	Red Dirt Block
+636	new-translation		description	/items/materials/redTerminus_tile3.matitem	/description	A stone block native to the Terminus.
+637	new-translation		shortdescription	/items/materials/redTerminus_tile3.matitem	/shortdescription	Red Stone Block
+638	new-translation		description	/items/materials/redTerminus_tile4.matitem	/description	A hard crystal native to the Terminus.
+639	new-translation		shortdescription	/items/materials/redTerminus_tile4.matitem	/shortdescription	Red Crystal Block
+640	new-translation		description	/items/materials/redTerminus_tile5.matitem	/description	A bright, red tinted flower block.
+641	new-translation		shortdescription	/items/materials/redTerminus_tile5.matitem	/shortdescription	Lightborne Flower Block
+642	new-translation		shortdescription	/items/materials/redTerminus_tile6.matitem	/shortdescription	Blue Void Block
+643	new-translation		description	/items/materials/romantic_tile1.matitem	/description	A white smooth stone brick that is frequently used by Gilten architects and sculptors.
+644	new-translation		shortdescription	/items/materials/romantic_tile1.matitem	/shortdescription	Gallica Smooth Stone
+645	new-translation		description	/items/materials/romantic_tile2.matitem	/description	A white stone pillar that is frequently used by Gilten architects and sculptors.
+646	new-translation		shortdescription	/items/materials/romantic_tile2.matitem	/shortdescription	Gallica Stone Pillar
+647	new-translation		description	/items/materials/romantic_tile3.matitem	/description	A white stone roofing that is frequently used by Gilten architects and sculptors.
+648	new-translation		shortdescription	/items/materials/romantic_tile3.matitem	/shortdescription	Gallica Roofing Tile
+649	new-translation		description	/items/materials/romantic_tile4.matitem	/description	A white stone column that is frequently used by Gilten architects and sculptors.
+650	new-translation		shortdescription	/items/materials/romantic_tile4.matitem	/shortdescription	Gallica Column Tile
+651	new-translation		description	/items/materials/ruinous_tile1.matitem	/description	A soil that has been tainted by ruinous water.
+652	new-translation		shortdescription	/items/materials/ruinous_tile1.matitem	/shortdescription	Ruinous Soil
+653	new-translation		description	/items/materials/ruinous_tile2.matitem	/description	A stone brick block that has been tainted by ruinous water.
+654	new-translation		shortdescription	/items/materials/ruinous_tile2.matitem	/shortdescription	Ruinous Stone Bricks
+655	new-translation		description	/items/materials/sanguine_tile1.matitem	/description	A crimson grass block.
+656	new-translation		shortdescription	/items/materials/sanguine_tile1.matitem	/shortdescription	Sanguine Grass Block
+657	new-translation		description	/items/materials/sanguine_tile2.matitem	/description	A reddish mud block.
+658	new-translation		shortdescription	/items/materials/sanguine_tile2.matitem	/shortdescription	Sanguine Mud
+659	new-translation		description	/items/materials/solar_tile1.matitem	/description	An ancient construction material made from umberstone and solar crystal. Highly durable.
+660	new-translation		shortdescription	/items/materials/solar_tile1.matitem	/shortdescription	Umberstone Bricks
+661	new-translation		description	/items/materials/solar_tile2.matitem	/description	An ancient constructing material made from umberstone and solar crystal. Highly durable.
+662	new-translation		shortdescription	/items/materials/solar_tile2.matitem	/shortdescription	Umberstone Flooring
+663	new-translation		description	/items/materials/solar_tile3.matitem	/description	An ancient pillar made from umberstone and solar crystal. Highly durable.
+664	new-translation		shortdescription	/items/materials/solar_tile3.matitem	/shortdescription	Umberstone Pillar
+665	new-translation		shortdescription	/items/materials/solar_tile4.matitem	/shortdescription	Activated Umberstone Pillar
+666	new-translation		description	/items/materials/solar_tile5.matitem	/description	An ancient constructing material made from umberstone. Highly durable.
+667	new-translation		shortdescription	/items/materials/solar_tile5.matitem	/shortdescription	Umberstone Constructor
+668	new-translation		shortdescription	/items/materials/solar_tile6.matitem	/shortdescription	Activated Umberstone Constructor
+669	new-translation		description	/items/materials/solarized_tile1.matitem	/description	A piece of rock, covered with bright, burning grass.
+670	new-translation		shortdescription	/items/materials/solarized_tile1.matitem	/shortdescription	Solarized Rock
+671	new-translation		description	/items/materials/solarized_tile2.matitem	/description	A piece of rock. Highly durable.
+672	new-translation		shortdescription	/items/materials/solarized_tile2.matitem	/shortdescription	Umberstone Rock
+673	new-translation		description	/items/materials/solarized_tile3.matitem	/description	A deposite of burning crystals.
+674	new-translation		shortdescription	/items/materials/solarized_tile3.matitem	/shortdescription	Solite Crystal Block
+675	new-translation		description	/items/materials/solarized_tile4.matitem	/description	An ancient building material.
+676	new-translation		shortdescription	/items/materials/solarized_tile4.matitem	/shortdescription	Solar Ancient Material
+677	new-translation		description	/items/materials/stahlernBadlands_tile1.matitem	/description	A dirt block.
+678	new-translation		shortdescription	/items/materials/stahlernBadlands_tile1.matitem	/shortdescription	Stahlern Dirt
+679	new-translation		description	/items/materials/steelblades_tile1.matitem	/description	A durable stack of bricks.
+680	new-translation		shortdescription	/items/materials/steelblades_tile1.matitem	/shortdescription	Stahlern Brick Tile
+681	new-translation		description	/items/materials/steelblades_tile2.matitem	/description	A durable building material made from verrostin.
+682	new-translation		shortdescription	/items/materials/steelblades_tile2.matitem	/shortdescription	Verrostin Tile
+683	new-translation		description	/items/materials/steelblades_tile3.matitem	/description	A durable floor tile made from verrostin.
+684	new-translation		shortdescription	/items/materials/steelblades_tile3.matitem	/shortdescription	Verrostin Flooring
+685	new-translation		description	/items/materials/steelblades_tile4.matitem	/description	A durable support beam.
+686	new-translation		shortdescription	/items/materials/steelblades_tile4.matitem	/shortdescription	Stahlern Beam
+687	new-translation		description	/items/materials/steelblades_tile5.matitem	/description	A durable support beam, emits a faint yellow light.
+688	new-translation		shortdescription	/items/materials/steelblades_tile5.matitem	/shortdescription	Verrostin Beam
+689	new-translation		description	/items/materials/steelblades_tile6.matitem	/description	A wall panel. Looks highly durable.
+690	new-translation		shortdescription	/items/materials/steelblades_tile6.matitem	/shortdescription	Stahl-Verro Panel
+691	new-translation		shortdescription	/items/materials/steelblades_tile7.matitem	/shortdescription	Verrostin Panel
+692	new-translation		shortdescription	/items/materials/steelblades_tile8.matitem	/shortdescription	Stahlern Panel
+693	new-translation		description	/items/materials/studio_tile1.matitem	/description	An acacia wall made for modern homes.
+694	new-translation		shortdescription	/items/materials/studio_tile1.matitem	/shortdescription	Studio Acacia Panel
+695	new-translation		description	/items/materials/studio_tile10.matitem	/description	An ornate Robusta fence.
+696	new-translation		shortdescription	/items/materials/studio_tile10.matitem	/shortdescription	Studio Robusta Fence
+697	new-translation		description	/items/materials/studio_tile11.matitem	/description	A barely saturated blue roofing tile.
+698	new-translation		shortdescription	/items/materials/studio_tile11.matitem	/shortdescription	Morose Roof Tile
+699	new-translation		description	/items/materials/studio_tile12.matitem	/description	A solid iron fence.
+700	new-translation		shortdescription	/items/materials/studio_tile12.matitem	/shortdescription	Iron Fence
+701	new-translation		description	/items/materials/studio_tile13.matitem	/description	Slightly worn stone bricks, found in the catacombs.
+702	new-translation		shortdescription	/items/materials/studio_tile13.matitem	/shortdescription	Catacomb Stone Brick
+703	new-translation		shortdescription	/items/materials/studio_tile14.matitem	/shortdescription	Shrouded Ornate Brick
+704	new-translation		shortdescription	/items/materials/studio_tile15.matitem	/shortdescription	Shrouded Stone Brick
+705	new-translation		description	/items/materials/studio_tile16.matitem	/description	A ghostly smooth stone.
+706	new-translation		shortdescription	/items/materials/studio_tile16.matitem	/shortdescription	Soulsea Smooth Stone
+707	new-translation		description	/items/materials/studio_tile17.matitem	/description	Slightly worn stone bricks, now shrouded by the nightmist.
+708	new-translation		shortdescription	/items/materials/studio_tile17.matitem	/shortdescription	Nightmist Stone Flooring
+709	new-translation		description	/items/materials/studio_tile18.matitem	/description	A solid stone pillar.
+710	new-translation		shortdescription	/items/materials/studio_tile18.matitem	/shortdescription	Dark Stone Pillar
+711	new-translation		description	/items/materials/studio_tile2.matitem	/description	An acacia beam made for modern homes.
+712	new-translation		shortdescription	/items/materials/studio_tile2.matitem	/shortdescription	Studio Acacia Beam
+713	new-translation		description	/items/materials/studio_tile3.matitem	/description	A smooth wooden wall panel made for modern studios.
+714	new-translation		shortdescription	/items/materials/studio_tile3.matitem	/shortdescription	Studio Robusta Panel
+715	new-translation		description	/items/materials/studio_tile4.matitem	/description	A smooth wooden beam made for modern studios.
+716	new-translation		shortdescription	/items/materials/studio_tile4.matitem	/shortdescription	Studio Robusta Beam
+717	new-translation		description	/items/materials/studio_tile5.matitem	/description	A smooth Robusta panel.
+718	new-translation		shortdescription	/items/materials/studio_tile5.matitem	/shortdescription	Studio Smooth Wall
+719	new-translation		description	/items/materials/studio_tile6.matitem	/description	A textured Robusta panel.
+720	new-translation		shortdescription	/items/materials/studio_tile6.matitem	/shortdescription	Studio Textured Wall
+721	new-translation		description	/items/materials/studio_tile7.matitem	/description	A modern wooden flooring tile for studios.
+722	new-translation		shortdescription	/items/materials/studio_tile7.matitem	/shortdescription	Studio Robusta Flooring
+723	new-translation		description	/items/materials/studio_tile8.matitem	/description	A modern ornate wood for studios.
+724	new-translation		shortdescription	/items/materials/studio_tile8.matitem	/shortdescription	Studio Ornate Wood
+725	new-translation		description	/items/materials/studio_tile9.matitem	/description	A thick wooden support beam for studios.
+726	new-translation		shortdescription	/items/materials/studio_tile9.matitem	/shortdescription	Studio Thick Beam
+727	new-translation		description	/items/materials/superstormExpanse_tile1.matitem	/description	A piece of thunder struck rock.
+728	new-translation		shortdescription	/items/materials/superstormExpanse_tile1.matitem	/shortdescription	Superstorm Rock
+729	new-translation		description	/items/materials/superstormExpanse_tile2.matitem	/description	A piece of thunder stroke mud.
+730	new-translation		shortdescription	/items/materials/superstormExpanse_tile2.matitem	/shortdescription	Superstorm Mud
+731	new-translation		description	/items/materials/superstormExpanse_tile3.matitem	/description	A piece of lightning tased dirt.
+732	new-translation		shortdescription	/items/materials/superstormExpanse_tile3.matitem	/shortdescription	Superstorm Hardened Dirt
+733	new-translation		description	/items/materials/superstormExpanse_tile4.matitem	/description	A glowing stone.
+734	new-translation		description	/items/materials/thalassa_tile1.matitem	/description	A blue flooring surfaced with pink aquamarine.
+735	new-translation		shortdescription	/items/materials/thalassa_tile1.matitem	/shortdescription	Aquamarine Flooring
+736	new-translation		description	/items/materials/thalassa_tile2.matitem	/description	An alien stone building remnant.
+737	new-translation		shortdescription	/items/materials/thalassa_tile2.matitem	/shortdescription	Ingendepth Melodium Wall
+738	new-translation		shortdescription	/items/materials/thalassa_tile3.matitem	/shortdescription	Ingendepth Brick
+739	new-translation		description	/items/materials/thalassa_tile4.matitem	/description	A stone block made from pink aquamarine.
+740	new-translation		shortdescription	/items/materials/thalassa_tile4.matitem	/shortdescription	Celestia Fuscia Brick
+741	new-translation		description	/items/materials/thalassa_tile5.matitem	/description	Bricks made from aquamerine stone.
+742	new-translation		shortdescription	/items/materials/thalassa_tile5.matitem	/shortdescription	Heavy Aquamarine Brick
+743	new-translation		shortdescription	/items/materials/thalassa_tile6.matitem	/shortdescription	Ingendepth Beam
+744	new-translation		description	/items/materials/thalassa_tile7.matitem	/description	A worn metal wall panel.
+745	new-translation		shortdescription	/items/materials/thalassa_tile7.matitem	/shortdescription	Ingendepth Panel
+746	new-translation		description	/items/materials/timeless_tile1.matitem	/description	A yellowish stone brick tile.
+747	new-translation		shortdescription	/items/materials/timeless_tile1.matitem	/shortdescription	Timeless Stone Brick
+748	new-translation		description	/items/materials/timeless_tile2.matitem	/description	A yellowish wood tile.
+749	new-translation		shortdescription	/items/materials/timeless_tile2.matitem	/shortdescription	Timeless Wood
+750	new-translation		description	/items/materials/turbulent_tile1.matitem	/description	A sea stained rock block.
+751	new-translation		shortdescription	/items/materials/turbulent_tile1.matitem	/shortdescription	Turbulent Rock
+752	new-translation		shortdescription	/items/materials/turbulent_tile2.matitem	/shortdescription	Turbulent Deep Rock
+753	new-translation		shortdescription	/items/materials/verdant_tile1.matitem	/shortdescription	Verdant Dirt
+754	new-translation		description	/items/materials/verdant_tile2.matitem	/description	A brownish rock.
+755	new-translation		shortdescription	/items/materials/verdant_tile2.matitem	/shortdescription	Verdant Rock
+756	new-translation		description	/items/materials/viridescent_tile1.matitem	/description	A green wood block, laced with acid.
+757	new-translation		shortdescription	/items/materials/viridescent_tile1.matitem	/shortdescription	Viridescent Wood Block
+758	new-translation		description	/items/materials/viridescent_tile2.matitem	/description	A rusty scrap panel tile.
+759	new-translation		shortdescription	/items/materials/viridescent_tile2.matitem	/shortdescription	Viridescent Scrap Panel
+760	new-translation		description	/items/materials/viridescent_tile3.matitem	/description	A bright, green leaf block.
+761	new-translation		shortdescription	/items/materials/viridescent_tile3.matitem	/shortdescription	Viridescent Leaf Block
+762	new-translation		description	/items/materials/volcanicCave_tile1.matitem	/description	A reddish volcanic rock.
+763	tm-multi	화산 바위 || 화산석	shortdescription	/items/materials/volcanicCave_tile1.matitem	/shortdescription	Volcanic Rock
+764	new-translation		description	/items/materials/windswept_tile1.matitem	/description	A dirt block covered with lush grass.
+765	new-translation		shortdescription	/items/materials/windswept_tile1.matitem	/shortdescription	Highland Dirt
+766	new-translation		description	/items/materials/workshop_tile1.matitem	/description	A wall panel, painted in orange.
+767	new-translation		shortdescription	/items/materials/workshop_tile1.matitem	/shortdescription	Orange Sloped Panel
+768	new-translation		description	/items/materials/workshop_tile10.matitem	/description	A simple metal background wall for use in factories.
+769	new-translation		shortdescription	/items/materials/workshop_tile10.matitem	/shortdescription	Foundry Background Wall
+770	tm-multi	경 사진 거더 || 경사 대들보	shortdescription	/items/materials/workshop_tile11.matitem	/shortdescription	Sloped Girder
+771	new-translation		description	/items/materials/workshop_tile11.matitem	/description	A strong reinforced girder.
+772	new-translation		description	/items/materials/workshop_tile12.matitem	/description	An alternate pattern of the machinery panel.
+773	new-translation		shortdescription	/items/materials/workshop_tile12.matitem	/shortdescription	Alt Machinery Panel
+774	new-translation		description	/items/materials/workshop_tile13.matitem	/description	A orange light display panel.
+775	new-translation		shortdescription	/items/materials/workshop_tile13.matitem	/shortdescription	Orange LED Panel
+776	new-translation		description	/items/materials/workshop_tile2.matitem	/description	A wall panel, painted in black.
+777	new-translation		shortdescription	/items/materials/workshop_tile2.matitem	/shortdescription	Black Sloped Panel
+778	new-translation		description	/items/materials/workshop_tile3.matitem	/description	An orange wall tile used by the Workshop.
+779	new-translation		shortdescription	/items/materials/workshop_tile3.matitem	/shortdescription	Orange Workshop Wall
+780	new-translation		description	/items/materials/workshop_tile4.matitem	/description	An industrial beam.
+781	new-translation		shortdescription	/items/materials/workshop_tile4.matitem	/shortdescription	Industrial Vertical Beam
+782	new-translation		description	/items/materials/workshop_tile5.matitem	/description	A metal flooring tile used by the Workshop.
+783	new-translation		shortdescription	/items/materials/workshop_tile5.matitem	/shortdescription	Workshop Metal Flooring
+784	new-translation		description	/items/materials/workshop_tile6.matitem	/description	A dark support tile used by the Workshop.
+785	new-translation		shortdescription	/items/materials/workshop_tile6.matitem	/shortdescription	Workshop Metal Support
+786	new-translation		description	/items/materials/workshop_tile7.matitem	/description	A machinery block covered in orange.
+787	new-translation		shortdescription	/items/materials/workshop_tile7.matitem	/shortdescription	Orange Machinery Panel
+788	new-translation		description	/items/materials/workshop_tile8.matitem	/description	A machinery block covered in black.
+789	new-translation		shortdescription	/items/materials/workshop_tile8.matitem	/shortdescription	Black Machinery Panel
+790	new-translation		description	/items/materials/workshop_tile9.matitem	/description	A wall panel, painted in turquoise.
+791	new-translation		shortdescription	/items/materials/workshop_tile9.matitem	/shortdescription	Turquoise Sloped Panel
+792	new-translation		default	/npcs/story/arcana_ramses.npctype	/scriptConfig/dialog/ramses/start/default/default/0	Oh? How timely you are, arriving just as I'm about to wrap up.
+793	new-translation		default	/npcs/story/arcana_ramses.npctype	/scriptConfig/dialog/ramses/start/default/default/1	There's nothing left for you here but the dusts, Seeker.
+794	new-translation		default	/npcs/story/arcana_ramses.npctype	/scriptConfig/dialog/ramses/start/default/default/2	I'll be claiming the Codex... I won't let an outsider take what is rightfully mine.
+795	new-translation		default	/npcs/story/arcana_ramses.npctype	/scriptConfig/dialog/ramses/start/default/default/3	But since you're here... why don't you test out my latest creation?
+796	new-translation		description	/objects/crafting/arcana_crafting_anvil_1/arcana_crafting_anvil_1.object	/description	An anvil infused with basic elemental magic.
+797	new-translation		shortdescription	/objects/crafting/arcana_crafting_anvil_1/arcana_crafting_anvil_1.object	/shortdescription	^#9e6b55;Basic Anvil^reset;
+798	new-translation		description	/objects/crafting/arcana_crafting_anvil_1/arcana_crafting_anvil_1.object	/upgradeStages/0/itemSpawnParameters/description	An anvil for use alongside elemental magic, for crafting basic Arcana equipment.
+799	new-translation		description	/objects/crafting/arcana_crafting_anvil_1/arcana_crafting_anvil_1.object	/upgradeStages/1/itemSpawnParameters/description	An anvil infused with arcane magic.
+800	new-translation		shortdescription	/objects/crafting/arcana_crafting_anvil_1/arcana_crafting_anvil_1.object	/upgradeStages/1/itemSpawnParameters/shortdescription	^#3ec7dd;Arcanium Anvil^reset;
+801	new-translation		description	/objects/crafting/arcana_crafting_anvil_1/arcana_crafting_anvil_1.object	/upgradeStages/2/itemSpawnParameters/description	A modern fabricator that can produce enhanced arcane equipment.
+802	new-translation		shortdescription	/objects/crafting/arcana_crafting_anvil_1/arcana_crafting_anvil_1.object	/upgradeStages/2/itemSpawnParameters/shortdescription	^#bbbdce;Modern Fabricator^reset;
+803	new-translation		description	/objects/crafting/arcana_crafting_anvil_1/arcana_crafting_anvil_1.object	/upgradeStages/3/itemSpawnParameters/description	The highest tier of weapon and armor printing station imbued with gold.
+804	new-translation		shortdescription	/objects/crafting/arcana_crafting_anvil_1/arcana_crafting_anvil_1.object	/upgradeStages/3/itemSpawnParameters/shortdescription	^#dfcf4e;Aurea Armory^reset;
+805	new-translation		description	/objects/crafting/arcana_crafting_cookingStation_2/arcana_crafting_cookingStation_2.object	/description	A basic kitchen for cooking food.
+806	new-translation		shortdescription	/objects/crafting/arcana_crafting_cookingStation_2/arcana_crafting_cookingStation_2.object	/shortdescription	^#3ec7dd;Basic Cooking Station^reset;
+807	new-translation		description	/objects/crafting/arcana_crafting_cookingStation_2/arcana_crafting_cookingStation_2.object	/upgradeStages/0/itemSpawnParameters/description	A basic kitchen for cooking food and other consumeables.
+808	new-translation		description	/objects/crafting/arcana_crafting_cookingStation_2/arcana_crafting_cookingStation_2.object	/upgradeStages/1/itemSpawnParameters/description	An enhanced kitchen for preparing high quality food.
+809	new-translation		shortdescription	/objects/crafting/arcana_crafting_cookingStation_2/arcana_crafting_cookingStation_2.object	/upgradeStages/1/itemSpawnParameters/shortdescription	^#bbbdce;Powered Cooking Station^reset;
+810	new-translation		description	/objects/crafting/arcana_crafting_cookingStation_2/arcana_crafting_cookingStation_2.object	/upgradeStages/2/itemSpawnParameters/description	A modern kitchen, where you can produce top quality consumeables.
+811	new-translation		shortdescription	/objects/crafting/arcana_crafting_cookingStation_2/arcana_crafting_cookingStation_2.object	/upgradeStages/2/itemSpawnParameters/shortdescription	^#dfcf4e;Advanced Cooking Station^reset;
+812	new-translation		description	/objects/crafting/arcana_crafting_essenceExtractor_1/arcana_crafting_essenceExtractor_1.object	/description	A basic extractor for extracting arcane essence.
+813	new-translation		shortdescription	/objects/crafting/arcana_crafting_essenceExtractor_1/arcana_crafting_essenceExtractor_1.object	/shortdescription	^#9e6b55;Wooden Essence Extractor^reset;
+814	new-translation		description	/objects/crafting/arcana_crafting_essenceExtractor_1/arcana_crafting_essenceExtractor_1.object	/upgradeStages/1/itemSpawnParameters/description	An arcanium-reinforced essence extractor.
+815	new-translation		shortdescription	/objects/crafting/arcana_crafting_essenceExtractor_1/arcana_crafting_essenceExtractor_1.object	/upgradeStages/1/itemSpawnParameters/shortdescription	^#3ec7dd;Arcanium Essence Extractor^reset;
+816	new-translation		description	/objects/crafting/arcana_crafting_essenceExtractor_1/arcana_crafting_essenceExtractor_1.object	/upgradeStages/2/itemSpawnParameters/description	A modern essence extractor for extracting higher essence.
+817	new-translation		shortdescription	/objects/crafting/arcana_crafting_essenceExtractor_1/arcana_crafting_essenceExtractor_1.object	/upgradeStages/2/itemSpawnParameters/shortdescription	^#bbbdce;Modern Essence Extractor^reset;
+818	new-translation		description	/objects/crafting/arcana_crafting_essenceExtractor_1/arcana_crafting_essenceExtractor_1.object	/upgradeStages/3/itemSpawnParameters/description	The ultimate essence extractor that can extract most types of essence from materials.
+819	new-translation		shortdescription	/objects/crafting/arcana_crafting_essenceExtractor_1/arcana_crafting_essenceExtractor_1.object	/upgradeStages/3/itemSpawnParameters/shortdescription	^#dfcf4e;Gilded Essence Extractor^reset;
+820	new-translation		description	/objects/crafting/arcana_crafting_furnace_2/arcana_crafting_furnace_2.object	/description	A furnace infused with arcane magic.
+821	new-translation		shortdescription	/objects/crafting/arcana_crafting_furnace_2/arcana_crafting_furnace_2.object	/shortdescription	^#3ec7dd;Arcanium Furnace^reset;
+822	new-translation		description	/objects/crafting/arcana_crafting_furnace_2/arcana_crafting_furnace_2.object	/upgradeStages/1/itemSpawnParameters/description	A modern smelter, used to produce high tier materials.
+823	new-translation		shortdescription	/objects/crafting/arcana_crafting_furnace_2/arcana_crafting_furnace_2.object	/upgradeStages/1/itemSpawnParameters/shortdescription	^#bbbdce;Modern Smelter^reset;
+824	new-translation		description	/objects/crafting/arcana_crafting_furnace_2/arcana_crafting_furnace_2.object	/upgradeStages/2/itemSpawnParameters/description	A smelter that can process just about everything, made with Aureola bars.
+825	new-translation		shortdescription	/objects/crafting/arcana_crafting_furnace_2/arcana_crafting_furnace_2.object	/upgradeStages/2/itemSpawnParameters/shortdescription	^#dfcf4e;Auric Smelter^reset;
+826	new-translation		description	/objects/crafting/arcana_crafting_main_1/arcana_crafting_main_1.object	/description	A table that allows you to craft various useful arcane inventions.
+827	new-translation		shortdescription	/objects/crafting/arcana_crafting_main_1/arcana_crafting_main_1.object	/shortdescription	^#9e6b55;Magician's Table^reset;
+828	new-translation		description	/objects/crafting/arcana_crafting_main_1/arcana_crafting_main_1.object	/upgradeStages/1/itemSpawnParameters/description	An arcanium crafting table, lets you craft various useful arcane inventions.
+829	new-translation		shortdescription	/objects/crafting/arcana_crafting_main_1/arcana_crafting_main_1.object	/upgradeStages/1/itemSpawnParameters/shortdescription	^#3ec7dd;Academician's Table^reset;
+830	new-translation		description	/objects/crafting/arcana_crafting_main_1/arcana_crafting_main_1.object	/upgradeStages/2/itemSpawnParameters/description	An advanced crafting table, lets you craft various useful Orion inventions.
+831	new-translation		shortdescription	/objects/crafting/arcana_crafting_main_1/arcana_crafting_main_1.object	/upgradeStages/2/itemSpawnParameters/shortdescription	^#bbbdce;Cyberneticist's Table^reset;
+832	new-translation		description	/objects/crafting/arcana_crafting_main_1/arcana_crafting_main_1.object	/upgradeStages/3/itemSpawnParameters/description	The most capable inventing table of all, made from Aureola bars.
+833	new-translation		shortdescription	/objects/crafting/arcana_crafting_main_1/arcana_crafting_main_1.object	/upgradeStages/3/itemSpawnParameters/shortdescription	^#dfcf4e;Artificer's Table^reset;
+834	new-translation		description	/objects/crafting/arcana_crafting_techStation_3/arcana_crafting_techStation_3.object	/description	An assembly station for creating machines and tech materials.
+835	new-translation		shortdescription	/objects/crafting/arcana_crafting_techStation_3/arcana_crafting_techStation_3.object	/shortdescription	^#9e6b55;Basic Tech Station^reset;
+836	new-translation		description	/objects/crafting/arcana_crafting_techStation_3/arcana_crafting_techStation_3.object	/upgradeStages/0/itemSpawnParameters/description	An assembly station for creating machines tech materials.
+837	new-translation		shortdescription	/objects/crafting/arcana_crafting_techStation_3/arcana_crafting_techStation_3.object	/upgradeStages/0/itemSpawnParameters/shortdescription	^#bbbdce;Basic Tech Station^reset;
+838	new-translation		description	/objects/crafting/arcana_crafting_techStation_3/arcana_crafting_techStation_3.object	/upgradeStages/1/itemSpawnParameters/description	An advanced station for creating high-tech goods.
+839	new-translation		shortdescription	/objects/crafting/arcana_crafting_techStation_3/arcana_crafting_techStation_3.object	/upgradeStages/1/itemSpawnParameters/shortdescription	^#dfcf4e;Advanced Tech Station^reset;
+840	new-translation		description	/objects/crafting/arcana_crafting_workbench_2/arcana_crafting_workbench_2.object	/description	A magic infused workbench, allows you to create furniture and materials.
+841	new-translation		shortdescription	/objects/crafting/arcana_crafting_workbench_2/arcana_crafting_workbench_2.object	/shortdescription	^#3ec7dd;Arcanium Workstation^reset;
+842	new-translation		description	/objects/crafting/arcana_crafting_workbench_2/arcana_crafting_workbench_2.object	/upgradeStages/1/itemSpawnParameters/description	A modern crafting table, lets you craft furniture and materials.
+843	new-translation		shortdescription	/objects/crafting/arcana_crafting_workbench_2/arcana_crafting_workbench_2.object	/upgradeStages/1/itemSpawnParameters/shortdescription	^#bbbdce;Modern Workstation^reset;
+844	new-translation		description	/objects/crafting/arcana_crafting_workbench_2/arcana_crafting_workbench_2.object	/upgradeStages/2/itemSpawnParameters/description	An aureola reinforced crafting table, lets you craft furniture and materials.
+845	new-translation		shortdescription	/objects/crafting/arcana_crafting_workbench_2/arcana_crafting_workbench_2.object	/upgradeStages/2/itemSpawnParameters/shortdescription	^#dfcf4e;Aurelian Workstation^reset;
+846	new-translation		description	/objects/crafting/arcana_upgradeanvil/arcana_upgradeanvil.object	/description	An Ancient anvil for upgrading weapons, up to ^orange;Tier 10^reset;.
+847	new-translation		shortdescription	/objects/crafting/arcana_upgradeanvil/arcana_upgradeanvil.object	/shortdescription	^#ffffff;^orange;¤^reset; Upgrade Station^reset;

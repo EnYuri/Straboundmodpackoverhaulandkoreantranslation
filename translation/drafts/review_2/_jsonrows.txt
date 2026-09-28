@@ -1,0 +1,79 @@
+7691	missed_3751_3895.tsv	{ "radioMessages" : ["avianmission01", "black_avianmission01a", "black_avianmission01b"] }
+7692	missed_3751_3895.tsv	{ "radioMessages" : ["avianmission02", "black_avianmission02a"] }
+7693	missed_3751_3895.tsv	{ "radioMessages" : ["avianmission04", "black_avianmission04a", "avianmission05"] }
+7694	missed_3751_3895.tsv	{ "radioMessages" : ["avianmission06", "black_avianmission06a"] }
+7960	missed_3896_4040.tsv	{ "radioMessages" :["hylotlmission01", "black_hylotlmission01a"] }
+7961	missed_3896_4040.tsv	{ "radioMessages" : ["hylotlmission04", "black_hylotlmission04a"] }
+7962	missed_3896_4040.tsv	{ "radioMessages" : ["hylotlmission02", "black_hylotlmission02a"] }
+7963	missed_3896_4040.tsv	{ "radioMessages" : ["hylotlmission03", "hylotlmission03a", "hylotlmission03b", "black_hylotlmission03c"] }
+7969	missed_3896_4040.tsv	{ "radioMessages" : ["glitchmission01", "glitchmission01a", "black_glitchmission01b"] }
+7984	missed_3896_4040.tsv	{ "radioMessages" : ["apexmission01", "black_apexmission01a"] }
+7985	missed_3896_4040.tsv	{ "radioMessages" : ["apexmission02", "apexmission02a", "black_apexmission02b"] }
+7986	missed_3896_4040.tsv	{ "radioMessages" : ["apexmission06", "apexmission06a", "black_apexmission06b"] }
+8000	missed_3896_4040.tsv	{ "radioMessages" : ["lunarbase01", "black_lunarbase01a"] }
+8001	missed_3896_4040.tsv	{ "radioMessages" : ["lunarbase03", "black_lunarbase03a"] }
+8002	missed_3896_4040.tsv	{ "radioMessages" : ["lunarbase07", "lunarbase07_avian", "black_lunarbase07a"] }
+8003	missed_3896_4040.tsv	{ "radioMessages" : ["lunarbase08a", "lunarbase08a_neki", "black_lunarbase08b"] }
+8105	missed_3896_4040.tsv	{ "radioMessages" : ["avianmission02", "avianmission02_avian"] }
+8106	missed_3896_4040.tsv	{ "radioMessages" : ["avianmission03", "avianmission03_neki"] }
+8328	missed_4161_4231.tsv	{ "radioMessages" : ["apexmission05", "apexmission05_neki"] }
+8329	missed_4161_4231.tsv	{ "radioMessages" : ["hylotlmission02", "hylotlmission02_avian"] }
+8330	missed_4161_4231.tsv	{ "radioMessages" : ["hylotlmission03_avian", "hylotlmission03", "hylotlmission03a", "hylotlmission03b"] }
+430	rest_0401_0700.tsv	{"treasurePools" :["volcanicChestTreasure"]}
+10217	rest_10151_10500.tsv	{ "initialItems" : [ { "name" : "brokenprotectoratebroadsword", "count" : 1 }, { "name" : "money", "count" : 150 }, { "name" : "br
+10218	rest_10151_10500.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "findbeamaxe"}
+25364	rest_25201_25550.tsv	{ "initialItems" : [ { "name" : "brokenprotectoratebroadsword", "count" : 1 },  { "name" : "brokensidearm", "count" : 1 } ] }
+25365	rest_25201_25550.tsv	{ "initialItems" : [ { "name" : "brokenprotectoratebroadsword", "count" : 1 }, { "name" : "brokensidearm", "count" : 1 } ], "uniqu
+25366	rest_25201_25550.tsv	{ "initialItems" : [ { "name" : "brokenprotectoratebroadsword", "count" : 1 }, { "name" : "brokensidearm", "count" : 1 }, { "name"
+25367	rest_25201_25550.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "beamaxe"}
+25368	rest_25201_25550.tsv	{"uniqueId" : "tentacleleft2"}
+25369	rest_25201_25550.tsv	{"uniqueId" : "tentacleright2"}
+7243	rest_7001_7350.tsv	{ "initialItems" : [ { "name" : "brokenprotectoratebroadsword", "count" : 1 }, { "name" : "brokensidearm", "count" : 1 }, {"name" 
+7244	rest_7001_7350.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "ship"}
+116616	rest_priority_0486.tsv	{STATIONNAME} 스테이션에 온 걸 환영해, [(playername)]!
+116617	rest_priority_0486.tsv	{STATIONNAME} 스테이션에 온 걸 환영해, [(playername)], 클루엑스가 널 지켜보길!
+116618	rest_priority_0486.tsv	{STATIONNAME} 스테이션에 온 걸 환영해, [(playername)], 그리고 기억해, 빅 에이프가 지켜보고 있어.
+116619	rest_priority_0486.tsv	{STATIONNAME} 스테이션에 온 걸 환영해, [(playername)]. 즐거운 시간 보내!
+116620	rest_priority_0486.tsv	{STATIONNAME} 스테이션에 온 걸 환영해. 아무것도 부수지 마.
+128723	rest_priority_0742.tsv	{ "initialItems" : [ { "name" : "bandage", "count" : 2 }, { "name" : "salve", "count" : 4 } ] }
+128724	rest_priority_0742.tsv	{ "initialItems" : [ { "name" : "brokenprotectoratebroadsword", "count" : 1 },  { "name" : "brokensidearm", "count" : 1 }, { "name
+128725	rest_priority_0742.tsv	{ "initialItems" : [ { "name" : "brokenprotectoratebroadsword", "count" : 1 }, { "name" : "brokensidearm", "count" : 1 } ] }
+128726	rest_priority_0742.tsv	{ "initialItems" : [ { "name" : "protectoratechest", "count" : 1 }, { "name" : "protectoratepants", "count" : 1 },  { "name" : "mo
+128729	rest_priority_0742.tsv	{ "initialItems" : [ { "name" : "salve", "count" : 4 }, { "name" : "bandage", "count" : 2 } ] }
+128730	rest_priority_0742.tsv	{ "initialItems" : [ { "name" : "tribalwingsback", "count" : 1 }, { "name" : "salve", "count" : 8 } ] }
+128731	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "alarm"}
+128732	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "checks"}
+128733	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "cliff"}
+128734	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "crash"}
+128735	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "door"}
+128736	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "epashes"}
+128737	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "epashes2"}
+128738	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "epbottom"}
+128739	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "epbunker"}
+128740	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "epgettothechopper"}
+128741	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "epruines"}
+128742	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "epsurface"}
+128743	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "eptunnel" }
+128744	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "epvoice" }
+128745	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "epwake"}
+128746	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "epwatch"}
+128747	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "epweapon"}
+128748	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "go"}
+128749	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "hallway"}
+128750	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "human"}
+128751	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "invisiblewall"}
+128752	rest_priority_0742.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "jumped"}
+128753	rest_priority_0743.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "lab"}
+128754	rest_priority_0743.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "midtower"}
+128755	rest_priority_0743.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "reason"}
+128756	rest_priority_0743.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "steps"}
+128757	rest_priority_0743.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "toptower"}
+128758	rest_priority_0743.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "tree"}
+128759	rest_priority_0743.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "weapon"}
+128760	rest_priority_0743.tsv	{ "messageType" : "enterMissionArea", "messageArgs" : "wings"}
+128761	rest_priority_0743.tsv	{ "music": ["/music/high_suprem_band_ruin.ogg"], "uniqueId": "bossmusicleft"}
+128762	rest_priority_0743.tsv	{ "music": ["/music/high_suprem_band_ruin.ogg"], "uniqueId": "bossmusicright"}
+128763	rest_priority_0743.tsv	{"itemName":"syntheticmaterial","price":200,"rarity":"Uncommon","category":"craftingMaterial","inventoryIcon":"syntheticmaterial.p
+128764	rest_priority_0743.tsv	{"species": "avian"}
+128727	rest_priority_0887.tsv	{ "initialItems" : [ { "name" : "protectoratechest", "count" : 1 }, { "name" : "protectoratepants", "count" : 1 },  { "name" : "mo
+128728	rest_priority_0887.tsv	{ "initialItems" : [ { "name" : "salve", "count" : 3 }, { "name" : "bandage", "count" : 2 }] }

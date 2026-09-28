@@ -1,4 +1,4 @@
-occurrences	koreanVariants	currentOriginal	existingKorean	examples
+﻿occurrences	koreanVariants	currentOriginal	existingKorean	examples
 112	3	BACK	이전	/interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn/scenes/crawlingselectbeetoise/options/0/0 | /interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn/scenes/crawlingselectcrustoise/options/0/0 | /interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn/scenes/crawlingselectend/options/0/0
 112	1	NEXT	다음	/interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn/scenes/crawlingselectbeetoise/options/2/0 | /interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn/scenes/crawlingselectcrustoise/options/2/0 | /interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn/scenes/crawlingselectend/options/2/0
 108	1	[Loading Monster datafiles...]	[몬스터 데이터 파일 로드 중...]	/interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn/scenes/crawlingselectbeetoise/text | /interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn/scenes/crawlingselectcrustoise/text | /interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn/scenes/crawlingselecthivetoise/text
@@ -45369,8 +45369,6 @@ Just accept it, and forget about its existence."	"이 퀘스트는 Ztarbound가 
 1	1	LOG	로그	/interface/chat/chat.config/gui/filterGroup/buttons/2/text
 1	1	PARTY	파티	/interface/chat/chat.config/gui/filterGroup/buttons/3/text
 1	1	LOCAL	로컬	/interface/chat/chat.config/gui/filterGroup/buttons/4/text
-1	3	<slots> SLOTS	슬롯 60칸	/interface/chests/chest60.config/gui/count/value
-1	3	<slots> SLOTS	슬롯 64칸	/interface/chests/chest64.config/gui/count/value
 1	1	Insert Pod	포드 넣기	/interface/chests/pettether.config/gui/insertPod/value
 1	2	NAVIGATION OFFLINE	내비게이션 오프라인	/interface/cockpit/cockpit.config/gui/disabledLabel/value
 1	2	No orbiting bodies	위성 없음	/interface/cockpit/cockpit.config/clusterMoons/none

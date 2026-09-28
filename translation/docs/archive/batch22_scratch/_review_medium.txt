@@ -1,0 +1,2931 @@
+
+===== /dialog/USCMdisbanded.config.patch =====
+/attack/default/default/0
+  EN: Let's go marines!
+  KO: 가자 해병!
+/attack/default/default/1
+  EN: Come get some!
+  KO: 와서 받아!
+/attack/default/default/2
+  EN: Hostiles at the LZ!
+  KO: 착륙지점에 적이다!
+/attack/default/default/3
+  EN: We're Oscar-Mike!
+  KO: 우리 이동 중!
+/attack/default/default/4
+  EN: Lock and load!
+  KO: 록 앤 로드!
+/attack/default/default/5
+  EN: Go go go!
+  KO: 가자, 가자!
+/attack/default/default/6
+  EN: Enemy contact!
+  KO: 적 접촉!
+/converse/default/default/0
+  EN: Since the USCM disbanded we've been wandering around without orders.
+  KO: USCM이 해체된 이후로 우리는 명령도 없이 떠돌아다니고 있어.
+/converse/default/default/1
+  EN: We should have never trusted the Miniknog. Now we're all thats left of the USCM.
+  KO: 미니크녹을 믿은 게 잘못이었어. 이제 USCM의 남은 건 우리뿐이야.
+/converse/default/default/10
+  EN: Project Parasprite. Thats what got us in the end.
+  KO: 프로젝트 패러스프라이트. 결국 그게 우릴 끝장냈지.
+/converse/default/default/11
+  EN: I almost ended up in one of our penal colonies for insubordination once. Don't have to worry about that anymore.
+  KO: 예전에 명령 불복종으로 우리 형무소 행성행이 될 뻔한 적이 있어. 이제 그런 걱정은 안 해도 되지만.
+/converse/default/default/12
+  EN: Mutiny was a big problem in the USCM. Where do you think all the prisons came from?
+  KO: USCM에서는 반란이 큰 문제였다. 그 모든 감옥들이 다 어디서 왔다고 생각해?
+/converse/default/default/13
+  EN: You know what USCM really stands for? Universal Space Corporate Military.
+  KO: USCM이 진짜 뭐의 약자인지 알아? 범우주 우주 기업군.
+/converse/default/default/14
+  EN: When the USCM started to develop bioweapony with the aid of the Miniknog. Thats when I knew it was time to leave.
+  KO: USCM이 미니크녹의 도움으로 생물학적 무기 개발을 시작했을 때. 그때 떠날 때가 됐다는 걸 알았어.
+/converse/default/default/15
+  EN: Now that the USCM has disbanded, I wonder what we're going to do. Mercenary work... or piracy? Hmmm.
+  KO: USCM이 해체된 지금, 우리가 뭘 해야 할지 모르겠어. 용병 일... 아니면 해적질? 흠.
+/converse/default/default/16
+  EN: You can take the marine out of the USCM, but you can't take the USCM out of the marine. I have no clue what that means.
+  KO: 해병을 USCM에서 빼낼 수는 있어도, 해병에게서 USCM를 빼낼 순 없어. 무슨 뜻인지는 나도 몰라.
+/converse/default/default/17
+  EN: Many former USCM marines have taken up piracy. Where do you think all the human bandits come from?
+  KO: 많은 전직 USCM 해병들이 해적질에 나섰지. 인간 산적들이 대체 다 어디서 온다고 생각해?
+/converse/default/default/18
+  EN: I heard rumors that a group of former USCM is trying to revive the disbanded organisation. Good luck with that.
+  KO: 전직 USCM 무리가 해체된 조직을 부활시키려 한다는 소문을 들었어. 잘해보라지.
+/converse/default/default/19
+  EN: Disobedience wasn't tolerated within the USCM. That got you a one way ticked to one of the penal colonies.
+  KO: 불복종은 USCM 내에서 용납되지 않았다. 그러면 형벌 식민지행 편도 티켓을 받게 되었다.
+/converse/default/default/2
+  EN: If you ever come across an abandoned USCM ship, you'd better leave it alone. Bad things happened.
+  KO: 버려진 USCM 함선을 발견하면, 건드리지 않는 게 좋아. 안 좋은 일들이 있었거든.
+/converse/default/default/20
+  EN: Now that the USCM has disbanded I wonder what we're going to do. My only skills involve shooting things!
+  KO: USCM이 해체된 지금, 우리가 뭘 해야 할지 모르겠어. 내가 아는 기술이라곤 뭔가를 쏘는 것뿐인데!
+/converse/default/default/3
+  EN: Once a marine, always a marine. Even if the USCM disbanded.
+  KO: 한번 해병은 영원한 해병이지. USCM이 해체됐더라도 말이야.
+/converse/default/default/4
+  EN: We're all former marines, but we don't have a clue what to do now after the USCM disbanded.
+  KO: 우리는 다들 전직 해병인데, USCM이 해체된 이후 뭘 해야 할지 감이 안 와.
+/converse/default/default/5
+  EN: The Protectorate considered the USCM a rogue footnoot in human history. Now they are history.
+  KO: 보호국은 USCM을 인류 역사의 일탈적 각주로 여겼다. 이제는 그들도 역사가 되었다.
+/converse/default/default/6
+  EN: Many of our former comrades took up banditry after the downfall of the USCM.
+  KO: 우리 옛 동료 상당수가 USCM 몰락 이후 산적질에 나섰어.
+/converse/default/default/7
+  EN: The USCM may have disbanded, but there are still some of us left.
+  KO: USCM은 해체됐을지 몰라도, 우리 중 일부는 아직 남아 있어.
+/converse/default/default/8
+  EN: I'm glad the USCM disbanded. Too many of us ended up in their 'private prison project'.
+  KO: USCM이 해체돼서 다행이야. 우리 중 너무 많은 이들이 그놈들 '민영 감옥 프로젝트'에 갇혔었거든.
+/converse/default/default/9
+  EN: Can't say I'm sad to see the USCM gone. But I do wonder what happened to all the prisoners.
+  KO: USCM이 사라진 게 슬프다고는 말 못 하겠어요. 근데 포로들이 다 어떻게 됐는지는 궁금하네요.
+/killedTarget/default/default/0
+  EN: Enemy taken down!
+  KO: 적 처치 완료!
+/killedTarget/default/default/1
+  EN: Hostile elliminated!
+  KO: 적 처치!
+/killedTarget/default/default/2
+  EN: Scratch one!
+  KO: 한 놈 처치!
+/reattack/default/default/0
+  EN: We've got incoming hostiles!
+  KO: 적이 접근한다!
+/reattack/default/default/1
+  EN: Target reacquired!
+  KO: 목표 재획득!
+
+===== /dialog/allianceoutpost.config.patch =====
+/converse/aegi/default/0
+  EN: Hi there.
+  KO: 안녕.
+/converse/aegi/generic/0
+  EN: Isn't this place great? It's got everything I'd ever need!
+  KO: 여기 정말 괜찮지 않아? 내가 필요한 건 다 있어!
+/converse/aegi/generic/1
+  EN: The Creon Embassy is really something, huh? It's such a great place to visit.
+  KO: 크레온 대사관 정말 대단하지, 그렇지? 방문하기 정말 좋은 곳이야.
+/converse/aegi/generic/10
+  EN: I heard strange noises in the sewers below the town. Maybe I should report them to P-ASA...
+  KO: 마을 아래 하수도에서 이상한 소리를 들었어. P-ASA에 신고해야 할지도 모르겠네...
+/converse/aegi/generic/11
+  EN: I've seen some weird people here. I was kinda freaked out.
+  KO: 여기서 이상한 사람들을 좀 봤어. 좀 무서웠어.
+/converse/aegi/generic/12
+  EN: The gardens here are so pretty.
+  KO: 이곳 정원은 정말 아름답다.
+/converse/aegi/generic/13
+  EN: There's an awesome gift shop in the town.
+  KO: 마을에 멋진 선물 가게가 있어.
+/converse/aegi/generic/14
+  EN: There's a shop in the town that sells posters. I wanted the NSI poster, but it's kinda expensive.
+  KO: 마을에 포스터 파는 가게가 있어. NSI 포스터를 사고 싶었는데 좀 비싸더라.
+/converse/aegi/generic/15
+  EN: What brings you to the embassy today?
+  KO: 오늘 대사관에는 무슨 일이시죠?
+/converse/aegi/generic/16
+  EN: Do you visit here often?
+  KO: 여기 자주 오세요?
+/converse/aegi/generic/17
+  EN: You must have seen some incredible places.
+  KO: 놀라운 곳들을 봐왔겠네.
+/converse/aegi/generic/18
+  EN: I forgot where I parked my hovercar again. Hope I didn't leave it on a roof like last time...
+  KO: 내 호버카 주차한 곳을 또 까먹었어. 지난번처럼 지붕 위에 두고 온 건 아니었으면 좋겠는데...
+/converse/aegi/generic/19
+  EN: The Kelbet here are so peaceful.
+  KO: 여기 켈벳들은 참 평화롭네.
+/converse/aegi/generic/2
+  EN: There's people of all kinds of species here.
+  KO: 여기에는 온갖 종족의 사람들이 있어.
+/converse/aegi/generic/20
+  EN: I want a Trangii.
+  KO: 트랑기가 갖고 싶어.
+/converse/aegi/generic/21
+  EN: My pet Trangii should be around here somewhere.
+  KO: 내 반려동물 트랑기가 이 근처 어딘가에 있을 텐데.
+/converse/aegi/generic/22
+  EN: The vehicle dealership in the town has some great rides for sale.
+  KO: 마을의 자동차 판매점에는 멋진 탈것이 많이 나와 있어.
+/converse/aegi/generic/23
+  EN: The bookstore in town is small, but pretty good.
+  KO: 마을의 서점은 작지만, 꽤 좋아.
+/converse/aegi/generic/24
+  EN: I wonder why the sewers are off-limits?
+  KO: 왜 하수도가 출입 금지인지 궁금하네?
+/converse/aegi/generic/25
+  EN: Wanna go grab a drink?
+  KO: 한잔하러 갈래?
+/converse/aegi/generic/26
+  EN: I've got a home in the big city. You can actually see it from here.
+  KO: 대도시에 집이 있어. 여기서도 보일 정도야.
+/converse/aegi/generic/27
+  EN: I wish I lived in the big city.
+  KO: 대도시에 살았으면 좋겠어.
+/converse/aegi/generic/28
+  EN: Creon is a fascinating city.
+  KO: 크레온은 매력적인 도시입니다.
+/converse/aegi/generic/29
+  EN: The town is officially called the Embassy Village. It's not actually part of Creon, but it's right on the edge.
+  KO: 마을의 정식 명칭은 대사관 마을이야. 크레온에 속하지는 않지만 바로 가장자리에 있지.
+/converse/aegi/generic/3
+  EN: Have you been to the top level of the embassy? There's a locked door there. I wonder what's behind it?
+  KO: 대사관 꼭대기 층에 가본 적 있어? 거기 잠긴 문이 하나 있던데. 그 뒤에 뭐가 있을지 궁금하네.
+/converse/aegi/generic/30
+  EN: There's so many elevators in the embassy.
+  KO: 대사관에는 엘리베이터가 정말 많아.
+/converse/aegi/generic/31
+  EN: I want to go home and play some games.
+  KO: 집에 가서 게임이나 하고 싶어.
+/converse/aegi/generic/32
+  EN: I recently graduated!
+  KO: 최근에 졸업했어!
+/converse/aegi/generic/33
+  EN: Watching the hovercars in the distance is so soothing.
+  KO: 멀리 떠다니는 호버카들을 보고 있으면 마음이 편안해져요.
+/converse/aegi/generic/34
+  EN: I wonder how high that tower in the distance really is?
+  KO: 저 멀리 있는 탑이 실제로 얼마나 높은 걸까?
+/converse/aegi/generic/35
+  EN: The Creon Embassy is such a large building.
+  KO: 크레온 대사관은 정말 큰 건물이야.
+/converse/aegi/generic/36
+  EN: I want to visit the colonies one day.
+  KO: 언젠가 식민지들을 방문하고 싶어.
+/converse/aegi/generic/37
+  EN: Have you ever been to one of the Union colonies? What was it like?
+  KO: 연합 식민지에 가본 적 있어? 어땠어?
+/converse/aegi/generic/38
+  EN: The parks here are incredibly peaceful.
+  KO: 이곳 공원들은 믿기 어려울 만큼 평화롭다.
+/converse/aegi/generic/39
+  EN: My hayfever is acting up again.
+  KO: 또 꽃가루 알레르기가 도지고 있어.
+/converse/aegi/generic/4
+  EN: There's a mechanic in the embassy's hangars who fixes up broken vehicles.
+  KO: 대사관 격납고에는 고장 난 차량을 고치는 정비공이 있어.
+/converse/aegi/generic/40
+  EN: The climate here is really comfortable. Even the rain isn't too bad.
+  KO: 여기 기후는 정말 쾌적해. 비도 그렇게 나쁘지 않고.
+/converse/aegi/generic/41
+  EN: My cousin got a new Aventor Galliot the other day. I'm a bit jealous.
+  KO: 내 사촌이 얼마 전에 새 아벤토르 갤리엇을 샀어. 조금 부럽더라.
+/converse/aegi/generic/42
+  EN: I used to be a traveler like you, but I got bored of that life.
+  KO: 나도 예전엔 너처럼 여행자였는데, 그 삶이 지겨워졌어.
+/converse/aegi/generic/43
+  EN: I heard something awful happened to Earth.
+  KO: 지구에 끔찍한 일이 있었다고 들었어.
+/converse/aegi/generic/44
+  EN: I want to visit Scii some day.
+  KO: 언젠가 스치 가보고 싶어.
+/converse/aegi/generic/45
+  EN: The Creon Embassy may not be the largest embassy, but it is one of the best.
+  KO: 크레온 대사관이 가장 큰 대사관은 아닐지 몰라도, 최고의 대사관 중 하나야.
+/converse/aegi/generic/46
+  EN: I want to visit Scii some day.
+  KO: 언젠가 스치 가보고 싶어.
+/converse/aegi/generic/47
+  EN: I love those globes of Elithia. Makes me feel small.
+  KO: 엘리시아의 저 지구본들이 좋아. 내가 작아지는 기분이 들거든.
+/converse/aegi/generic/48
+  EN: The embassy actually has a gun range. You need a special pass to access it though.
+  KO: 대사관에는 실제로 사격장이 있다. 이용하려면 특별 통행증이 필요하지만.
+/converse/aegi/generic/49
+  EN: There's this one Avikan fellow in the embassy. I hope they join the Alliance at some point, too.
+  KO: 대사관에 아비칸 친구가 하나 있어. 언젠가는 그들도 얼라이언스에 가입하면 좋겠어.
+/converse/aegi/generic/5
+  EN: The lady at the embassy's reception desk was actually quite helpful to me.
+  KO: 대사관 접수대의 여성은 사실 내게 꽤 도움이 되었다.
+/converse/aegi/generic/50
+  EN: I saw this strange alien in the embassy, an Akkimari I think. Made me feel uneasy.
+  KO: 대사관에서 이상한 외계인을 봤어, 아키마리인 것 같은데. 왠지 불안하더라고.
+/converse/aegi/generic/51
+  EN: There's some great Trinkian engineers and mechanics in the embassy's hangar.
+  KO: 대사관 격납고에는 뛰어난 트링키안 기술자와 정비공이 여럿 있어.
+/converse/aegi/generic/52
+  EN: I love the fish in the embassy's pools.
+  KO: 대사관 연못의 물고기들이 좋아.
+/converse/aegi/generic/53
+  EN: Have you been to the recruitment office yet? You can easily find more crewmembers there.
+  KO: 모병소에 가본 적 있어? 거기서 승무원을 쉽게 더 구할 수 있어.
+/converse/aegi/generic/54
+  EN: I lost my keys somewhere. Perhaps the lost and found booth can help me.
+  KO: 열쇠를 어딘가에 잃어버렸어. 분실물 센터가 도와줄지도 몰라.
+/converse/aegi/generic/55
+  EN: I heard there's a Trink in the sewers by the name of 'the Bolter'. Sounds sketchy.
+  KO: 하수도에 '더 볼터'라는 이름의 트링크가 있다고 들었어. 수상쩍은데.
+/converse/aegi/generic/56
+  EN: I saw this chest way up on the tower. I wonder what's in it?
+  KO: 탑 저 위에서 이 상자를 봤어. 안에 뭐가 있을지 궁금하네?
+/converse/aegi/generic/57
+  EN: Want to come with me and visit the Hötbrod stand?
+  KO: 나랑 같이 회트브로트 가판대에 갈래?
+/converse/aegi/generic/58
+  EN: I'm glad the embassy has plenty of public toilets.
+  KO: 대사관에 공중화장실이 많아서 다행이야.
+/converse/aegi/generic/59
+  EN: I saw soldiers way up in the embassy tower. I wonder why they're there?
+  KO: 대사관 탑 저 위에서 병사들을 봤어. 왜 거기 있는 건지 궁금하네?
+/converse/aegi/generic/6
+  EN: I wish I was an ambassador too. The places I'd get to visit...
+  KO: 나도 대사였으면 좋겠어. 가볼 수 있는 곳들이 얼마나 많을까...
+/converse/aegi/generic/60
+  EN: Huh? Oh, hi there!
+  KO: 허? 오, 안녕!
+/converse/aegi/generic/61
+  EN: I love seeing the city lights turn on at night.
+  KO: 밤에 도시 불빛이 켜지는 걸 보는 게 좋아.
+/converse/aegi/generic/62
+  EN: I think I saw something up on those cliffs near the town.
+  KO: 마을 근처 저 절벽 위에서 뭔가 본 것 같아.
+/converse/aegi/generic/7
+  EN: Seeing the city in the distance always makes me feel happy.
+  KO: 멀리 보이는 도시를 보면 항상 행복해져.
+/converse/aegi/generic/8
+  EN: The banners in the embassy are so cool. Makes us all feel connected.
+  KO: 대사관의 깃발들 정말 멋져. 우리 모두가 연결된 느낌이 들게 해.
+/converse/aegi/generic/9
+  EN: I've been inside the sewers beneath the town once. It's kinda scary in there.
+  KO: 마을 아래 하수구에 들어가본 적이 있어. 거기 좀 무섭더라.
+/converse/default/default/0
+  EN: I have nothing to say to you.
+  KO: 할 말이 없어.
+/converse/trink/generic/0
+  EN: This place is quite fascinating.
+  KO: 이곳은 꽤 흥미로운 곳이다.
+/converse/trink/generic/1
+  EN: This embassy is a good representation of the Elithian Alliance.
+  KO: 이 대사관은 엘리시안 얼라이언스의 좋은 상징이다.
+/converse/trink/generic/10
+  EN: The P-ASA officers here are very vigilant.
+  KO: 여기 P-ASA 요원들은 정말 철저해.
+/converse/trink/generic/11
+  EN: Have you been to the Trinkian embassy yet?
+  KO: 트링키안 대사관에 가본 적 있어?
+/converse/trink/generic/12
+  EN: The elevators in the embassy run very efficiently.
+  KO: 대사관의 엘리베이터는 매우 효율적으로 운행된다.
+/converse/trink/generic/13
+  EN: It is fascinating to see the trees growing on top of Aeginian buildings. It's a very efficient use of space.
+  KO: 에지니안 건물 위에서 자라는 나무들을 보는 건 참 흥미롭다. 공간을 아주 효율적으로 활용하는 방식이다.
+/converse/trink/generic/14
+  EN: It is odd to see so much wildlife here. They are not exactly afraid of us.
+  KO: 여기 이렇게 많은 야생동물이 있다니 이상하다. 딱히 우리를 무서워하지도 않는군.
+/converse/trink/generic/15
+  EN: I heard there are plans to expand the embassy even further. I am curious to see what will be added next.
+  KO: 대사관을 더욱 확장할 계획이 있다고 들었어. 다음엔 뭐가 추가될지 궁금하네.
+/converse/trink/generic/16
+  EN: Greetings, traveler.
+  KO: 안녕하세요, 여행자님.
+/converse/trink/generic/17
+  EN: There is a Union Admiral in the embassy's upper levels. I haven't been allowed to speak to him yet.
+  KO: 대사관 위층에 연합 제독이 있어. 아직 그와 이야기할 허락을 받지 못했어.
+/converse/trink/generic/18
+  EN: I tried to enter an Aventor Galliot once. I didn't quite fit.
+  KO: 한번은 아벤토르 갈리옷에 타보려고 했는데. 잘 안 맞더라고.
+/converse/trink/generic/19
+  EN: It is good to see that the Aegi rely more on public transportation than personal transportation. It's quite efficient.
+  KO: 에지가 개인 교통수단보다 대중교통에 더 의존하는 걸 보니 좋다. 상당히 효율적이다.
+/converse/trink/generic/2
+  EN: I hope that Avikan in the embassy isn't here to hunt down machines...
+  KO: 대사관에 있는 저 아비칸이 기계들을 사냥하러 온 게 아니었으면 좋겠는데...
+/converse/trink/generic/20
+  EN: One of those Trangii barked at me earlier. I don't think it likes me.
+  KO: 아까 그 트랑기 중 하나가 나한테 짖었어. 날 안 좋아하는 것 같아.
+/converse/trink/generic/21
+  EN: I got head-butted by one of the Kelbet once. Poor thing hurt itself quite badly.
+  KO: 예전에 켈벳한테 박치기를 당한 적이 있어. 불쌍하게도 그 녀석이 오히려 심하게 다쳤지.
+/converse/trink/generic/22
+  EN: The town has some good shops in it, but most of it isn't very relevant to me.
+  KO: 마을에 괜찮은 가게가 몇 군데 있긴 하지만, 대부분은 내게 별 관계가 없어.
+/converse/trink/generic/23
+  EN: I have a pass to enter the embassy gun range. No, you can't have it.
+  KO: 대사관 사격장에 들어갈 수 있는 출입증이 있어. 아니, 너한테는 안 줄 거야.
+/converse/trink/generic/24
+  EN: I hitchhiked my way here.
+  KO: 여기까지 히치하이크해서 왔어.
+/converse/trink/generic/25
+  EN: Do you know the meaning of life?
+  KO: 삶의 의미를 아세요?
+/converse/trink/generic/26
+  EN: Have you ever tried hitchhiking? It's great fun.
+  KO: 히치하이킹 해본 적 있어? 정말 재밌거든.
+/converse/trink/generic/27
+  EN: Many of the embassy's lights only turn on at night. I like the efficiency of the system.
+  KO: 대사관 조명 중 상당수는 밤에만 켜져. 그 효율적인 시스템이 마음에 들어.
+/converse/trink/generic/3
+  EN: I helped design the embassy's power grid. It is very efficient.
+  KO: 대사관의 전력망 설계를 도왔어. 아주 효율적이지.
+/converse/trink/generic/4
+  EN: There are many Trinkian engineers in the embassy hangars. It's good to see more of my kind here.
+  KO: 대사관 격납고에는 트링키안 기술자가 많아. 이곳에서 동족을 더 보니 좋군.
+/converse/trink/generic/5
+  EN: Is this your first time visiting Elithia?
+  KO: 엘리시아 방문은 이번이 처음인가?
+/converse/trink/generic/6
+  EN: The embassy always offers exceptional connection to the Allied Interstellar Network.
+  KO: 대사관은 언제나 연합 성간 네트워크에 훌륭하게 연결된다.
+/converse/trink/generic/7
+  EN: I've heard of you! You are <entityname>, right?
+  KO: 네 소문 들었어! 네가 <entityname>이지, 맞지?
+/converse/trink/generic/8
+  EN: Do not go into the sewers. You can easily get lost in there.
+  KO: 하수도에는 들어가지 마세요. 그 안에서는 쉽게 길을 잃을 수 있어요.
+/converse/trink/generic/9
+  EN: The Aegi are big fans of Hötbrod, but I don't really get the fascination.
+  KO: 에지는 회트브로드의 열렬한 팬이지만, 난 그 매력을 잘 모르겠어.
+
+===== /dialog/atprk_devouttenant.config.patch =====
+/attack/default/default/0
+  EN: Observant. We're under attack!
+  KO: 관찰함. 우리가 공격받고 있다!
+/attack/default/default/1
+  EN: Hostile. Charge!
+  KO: 적대적. 돌격!
+/attack/default/default/2
+  EN: Alert. I see the enemy approahing!
+  KO: 경계. 적이 다가오는 게 보인다!
+/attack/default/default/3
+  EN: Intimidating. You shall not pass!
+  KO: 위협. 넌 못 지나간다!
+/attack/default/default/4
+  EN: Hostile. No escape for you!
+  KO: 적대적. 넌 도망 못 가!
+/attack/default/default/5
+  EN: Menacing. Do not make a servant of the K'Rakoth angry!
+  KO: 위협적임. 크라코스의 종을 화나게 하지 마라!
+/attack/default/default/6
+  EN: Aggressive. Begone, you heretic!
+  KO: 적대적. 물러가라, 이 이단자야!
+/beacon/default/default/0
+  EN: Respectful. Do you want to discuss something?
+  KO: 정중함. 뭔가 논의하고 싶은 게 있나요?
+/beacon/default/default/1
+  EN: Informed. I've received your call.
+  KO: 정통. 네 연락 받았어.
+/beacon/default/default/2
+  EN: Polite. How can I help you, landlord?
+  KO: 예의 바름. 무엇을 도와드릴까요, 영주님?
+/beacon/default/default/3
+  EN: Patient. Yes?
+  KO: 인내심 있음. 네?
+/cantReach/default/default/0
+  EN: Irritated. Don't make me go after you! Face me!
+  KO: 짜증. 쫓아가게 만들지 마! 나와 맞서라!
+/cantReach/default/default/1
+  EN: Combative. I know you are still there!
+  KO: 호전적. 아직 거기 있는 거 알아!
+/cantReach/default/default/2
+  EN: Angry. The enemy is out of my reach! I need help!
+  KO: 분노. 적이 내 손이 안 닿는 곳에 있어! 도움이 필요해!
+/cheerOn/default/default/0
+  EN: Alert. Watch out for their attacks!
+  KO: 경계. 저들의 공격을 조심해!
+/cheerOn/default/default/1
+  EN: Supportive. The servants of the K'Rakoth shall never fall!
+  KO: 지지함. K'Rakoth의 종들은 결코 쓰러지지 않을 것이다!
+/cheerOn/default/default/2
+  EN: Jeering. Is that all you've got?
+  KO: 조롱. 그게 다야?
+/cheerOn/default/default/3
+  EN: Aggressive. Slay the heretic!
+  KO: 적대적. 이단자를 처단하라!
+/cheerOn/default/default/4
+  EN: Supportive. Our foe must fall! We cannot fail our masters!
+  KO: 지지함. 우리 적은 반드시 쓰러져야 한다! 우리는 주인들을 실망시킬 수 없다!
+/converse/default/default/0
+  EN: Sinister. One day, our K'Rakoth masters shall return and reclaim the galaxy.
+  KO: 사악함. 언젠가, 우리의 크라코스 주인들이 돌아와 은하를 되찾으실 것이다.
+/converse/default/default/1
+  EN: Resentful. My people have waited for our masters to return for so long... Perhaps it's time to move on.
+  KO: 분개함. 내 동족은 주인님들이 돌아오시길 그토록 오래 기다렸건만... 이제는 그만 나아갈 때인지도 모르겠다.
+/converse/default/default/2
+  EN: Intimidating. Our kingdom shall become great once again!
+  KO: 위협. 우리 왕국은 다시 한번 위대해질 것이다!
+/converse/default/default/3
+  EN: Menacing. My armor may be ancient, but it is as mighty as before.
+  KO: 위협적임. 내 갑옷은 오래됐을지 몰라도, 예전만큼이나 강력하다.
+/converse/default/default/4
+  EN: Friendly. Do you wish to join the K'Rakoth servants? Our overlords were benevolent while their reign lasted.
+  KO: 다정함. 크라코스의 종이 되고 싶은가? 우리의 지배자들은 통치가 지속되는 동안 자비로우셨다.
+/converse/default/default/5
+  EN: Regretful. I've made many mistakes in the past. Can I still start everything over?
+  KO: 후회함. 과거에 많은 실수를 저질렀어. 그래도 다시 처음부터 시작할 수 있을까?
+/converse/default/default/6
+  EN: Determined. The K'Rakoth fell before our kingdom did. One day, we'll restore everything.
+  KO: 단호. K'Rakoth는 우리 왕국이 무너지기 전에 먼저 쓰러졌다. 언젠가, 우리는 모든 것을 되찾을 것이다.
+/converse/default/default/7
+  EN: Proud. Our masters left us behind centuries ago, but our kingdom still stands.
+  KO: 자랑. 우리 주인 수백 년 전 떠났지만 왕국 서있어.
+/converse/default/default/8
+  EN: Calm. You're not a K'Rakoth, but I acknowledge you as my landlord. For now.
+  KO: 침착함. 넌 크라코스는 아니지만, 내 집주인으로 인정한다. 지금은.
+/converse/default/default/9
+  EN: Menacing. Don't bother servants of the K'Rakoth too much, and they may spare you when the time comes.
+  KO: 위협적임. 크라코스의 종들을 너무 귀찮게 하지 마라, 그러면 때가 왔을 때 널 살려줄지도 모른다.
+/final/default/default/0
+  EN: Intimidating. The servants of the K'Rakoth shall remember you!
+  KO: 위협. 크라코스의 종들이 너를 기억할 것이다!
+/final/default/default/1
+  EN: Angry. That's it! You've just lost my trust!
+  KO: 분노. 이제 끝이야! 네가 방금 내 신뢰를 잃었어!
+/killedTarget/default/default/0
+  EN: Pleased. What an intense battle it was!
+  KO: 만족. 정말 치열한 전투였어!
+/killedTarget/default/default/1
+  EN: Angry. Stay down!
+  KO: 분노. 엎드려 있어!
+/killedTarget/default/default/2
+  EN: Proud. Once again, I am victorious.
+  KO: 자부심 넘침. 또다시, 나는 승리했다.
+/killedTarget/default/default/3
+  EN: Exhausted. They may have hit me, but I won't give up yet.
+  KO: 지침. 그들이 날 때렸을지도 모르지만, 난 아직 포기 안 해.
+/killedTarget/default/default/4
+  EN: Menacing. Tell your leader to stay away from us!
+  KO: 위협적임. 너희 지도자에게 우리 근처에 얼씬거리지 말라고 전해라!
+/lostTarget/default/default/0
+  EN: Confused. Where did they go?
+  KO: 혼란. 어디로 간 거지?
+/lostTarget/default/default/1
+  EN: Alert. The enemy is gone... for now...
+  KO: 경계. 적이 사라졌다... 일단은...
+/lostTarget/default/default/2
+  EN: Intimidating. Get back there, you coward!
+  KO: 위협. 거기 물러서, 이 겁쟁이야!
+/outOfSight/default/default/0
+  EN: Surprised. I cannot see our enemy!
+  KO: 놀람. 적이 안 보인다!
+/outOfSight/default/default/1
+  EN: Angry. Only a coward runs from battle!
+  KO: 분노. 겁쟁이만이 전투에서 도망친다!
+/outOfSight/default/default/2
+  EN: Enraged. Show yourself!
+  KO: 격노함. 모습을 드러내라!
+/reattack/default/default/0
+  EN: Observant. The enemy is still out there!
+  KO: 관찰함. 적이 아직 저기 있다!
+/reattack/default/default/1
+  EN: Cautious. Another enemy wave!
+  KO: 조심. 또 다른 적 물결이다!
+/reattack/default/default/2
+  EN: Menacing. You dare coming back!
+  KO: 위협적임. 감히 다시 돌아오다니!
+/reattack/default/default/3
+  EN: Intimidating. Return where you came from, you fiend!
+  KO: 위협. 왔던 곳으로 돌아가, 이 악당아!
+/reattack/default/default/4
+  EN: Alert. The enemy of the K'Rakoth is approaching!
+  KO: 경계. 크레이코스의 적이 다가오고 있다!
+/rent/default/default/0
+  EN: Satisfied. Much obliged. Here is my rent.
+  KO: 만족함. 정말 고마워. 여기 내 집세야.
+/rent/default/default/1
+  EN: Polite. Thank you for providing me a living space. I'll tell my kin about your help.
+  KO: 예의 바름. 거주 공간을 마련해주셔서 감사합니다. 제 동족에게 당신의 도움을 전하겠습니다.
+/rent/default/default/2
+  EN: Grateful. You seem to be a responsible landlord. Thank you for letting me stay here.
+  KO: 감사함. 책임감 있는 집주인인 것 같네요. 여기 머물게 해줘서 고마워요.
+/severe/default/default/0
+  EN: Indignant. This is outrageous! I demand reparations!
+  KO: 분개. 말도 안 돼! 배상을 요구해!
+/severe/default/default/1
+  EN: Frustrated. Don't try my patience!
+  KO: 짜증남. 내 인내심을 시험하지 마!
+
+===== /dialog/commands.config.patch =====
+/holdPosition/default/default/0
+  EN: I'll hold this position.
+  KO: 이 위치를 지키겠어.
+/holdPosition/default/default/1
+  EN: I'll secure this area, captain!
+  KO: 선장님, 이 구역을 확보하겠습니다!
+/holdPosition/default/default/2
+  EN: Standing guard, captain.
+  KO: 보초 중입니다, 선장님.
+/holdPosition/default/default/3
+  EN: Do you need me to stay here?
+  KO: 제가 여기 있어야 하나요?
+/holdPosition/default/default/4
+  EN: Guard duty it is, then.
+  KO: 그럼 경비 근무인가.
+/holdPosition/default/default/5
+  EN: Holding position!
+  KO: 위치 사수 중!
+/holdPosition/floran/default/0
+  EN: Floran should not move from thiss sspot?
+  KO: 플로란은 이 자리에서 움직이면 안 되나?
+/holdPosition/floran/default/1
+  EN: Floran ssecure area.
+  KO: 플로란은 지역 확보한다.
+/holdPosition/floran/default/2
+  EN: Floran will sstay, in case food comesss...
+  KO: 플로란은 머무를 거다, 혹시 먹을 게 올지도 모르니...
+/holdPosition/glitch/default/0
+  EN: Obliging. I will remain stationary, then.
+  KO: 고분고분함. 그럼 가만히 있을게.
+/holdPosition/glitch/default/1
+  EN: Patient. I can hold this position, captain.
+  KO: 인내심 있음. 이 위치를 지킬 수 있습니다, 선장님.
+/holdPosition/glitch/default/2
+  EN: Amicable. I will secure this area for you, captain.
+  KO: 우호적. 이 구역을 안전하게 확보하겠습니다, 대장.
+/holdPosition/glitch/default/3
+  EN: Agreeable. Scanning for threats.
+  KO: 동의. 위협 스캔 중.
+/holdPosition/novakid/default/0
+  EN: Alright, partner, I'll jus' stand my ground here.
+  KO: 알았어, 파트너, 난 여기서 버틸게.
+/holdPosition/novakid/default/1
+  EN: I can hold up here, lookin' for trouble.
+  KO: 여기서 버티면서, 말썽거리 찾아볼게.
+/holdPosition/novakid/default/2
+  EN: I'll jus' stay right here in case rascals show up.
+  KO: 악당들이 나타날지 모르니까 그냥 여기 있을게.
+/holdPosition/penguin/default/0
+  EN: I'll just be here... Standing...
+  KO: 그냥 여기 있을게... 서서...
+/holdPosition/penguin/default/1
+  EN: Alright, boss, I'll secure this area.
+  KO: 알겠습니다, 대장, 이 구역을 확보하겠습니다.
+/holdPosition/penguin/default/2
+  EN: I can wait here and not move at all.
+  KO: 여기서 기다리며 전혀 움직이지 않을 수 있어.
+/holdPosition/penguin/default/3
+  EN: I'll just stay here and watch for threats.
+  KO: 그냥 여기 남아서 위협을 감시할게.
+/lounge/default/default/0
+  EN: Thanks, guess I'll take a break.
+  KO: 고마워, 좀 쉬어야겠다.
+/lounge/default/default/1
+  EN: Let's take a minute to relax.
+  KO: 잠깐 쉬어가자.
+/lounge/default/default/2
+  EN: Sounds good.
+  KO: 좋아.
+/lounge/floran/default/0
+  EN: Floran have ssome resst now.
+  KO: 플로란은 이제 좀 쉰다.
+/lounge/floran/default/1
+  EN: Floran is happy to oblige.
+  KO: 플로란은 기꺼이 그렇게 한다.
+/lounge/glitch/default/0
+  EN: Obliging. I will rest now.
+  KO: 고분고분함. 이제 쉴게.
+/lounge/glitch/default/1
+  EN: Patient. I will sit and wait for you.
+  KO: 인내심 있음. 앉아서 당신을 기다리겠습니다.
+/lounge/glitch/default/2
+  EN: Amicable. Will you rest as well?
+  KO: 우호적. 당신도 쉬실 건가요?
+/lounge/glitch/default/3
+  EN: Agreeable. Yes, resting sounds good.
+  KO: 동의. 그래, 휴식이 좋겠어.
+/lounge/novakid/default/0
+  EN: Alright, partner, thinking the same thing.
+  KO: 알았어, 파트너, 나도 같은 생각이야.
+/lounge/novakid/default/1
+  EN: Don't mind if I do!
+  KO: 내가 해도 상관없어요!
+/lounge/novakid/default/2
+  EN: Glad you agree partner.
+  KO: 자네도 동의한다니 다행이군, 파트너.
+/lounge/penguin/default/0
+  EN: I'll just be chilling...
+  KO: 그냥 좀 쉬고 있을게...
+/lounge/penguin/default/1
+  EN: Alright, boss, I'll take a break.
+  KO: 알겠습니다, 대장, 잠깐 쉬겠습니다.
+/lounge/penguin/default/2
+  EN: I can be all day here.
+  KO: 나는 여기서 하루 종일 있을 수 있어.
+/lounge/penguin/default/3
+  EN: I'll just stay here for now.
+  KO: 일단은 그냥 여기 있을게.
+/operate/default/default/0
+  EN: I'll get that.
+  KO: 그거 내가 가져올게.
+/operate/default/default/1
+  EN: Sure thing.
+  KO: 알겠어.
+/operate/default/default/2
+  EN: Just give me a second.
+  KO: 잠깐만 기다려.
+/operate/default/default/3
+  EN: I'll get that for you.
+  KO: 그거 대신 가져다줄게.
+/operate/default/default/4
+  EN: No problem.
+  KO: 문제없어.
+/operate/default/default/6
+  EN: Waaait for it...
+  KO: 기다려어어 봐...
+/operate/floran/default/0
+  EN: Floran likess shinies.
+  KO: 플로란은 반짝이는 것들 좋아한다.
+/operate/floran/default/3
+  EN: What doess it do?
+  KO: 뭘 하는 거야?
+/operate/glitch/default/0
+  EN: Obliging. At once!
+  KO: 고분고분함. 즉시!
+/operate/glitch/default/1
+  EN: Intrigued. Activating device.
+  KO: 흥미. 장치 활성화 중.
+/operate/glitch/default/2
+  EN: Neutral. Acknowledged.
+  KO: 중립적. 알겠다.
+/operate/glitch/default/3
+  EN: Agreeable. Interfacing now.
+  KO: 동의. 지금 연결 중.
+/operate/glitch/default/4
+  EN: Intrigued. We shall see.
+  KO: 흥미. 두고 보자고.
+/setTarget/default/default/0
+  EN: I'll take care of it.
+  KO: 그건 내가 처리할게.
+/setTarget/default/default/1
+  EN: No problem.
+  KO: 문제없어.
+/setTarget/default/default/3
+  EN: Got it.
+  KO: 알겠어.
+/setTarget/floran/default/0
+  EN: Floran lovesss the thrill!
+  KO: 플로란은 그 짜릿함 좋아한다!
+/setTarget/floran/default/2
+  EN: Thisss be a good hunt.
+  KO: 좋은 사냥이 될 거다아.
+/setTarget/glitch/default/0
+  EN: Wary. Assessing surroundings.
+  KO: 경계. 주변 평가 중.
+/setTarget/glitch/default/1
+  EN: Threatening. Seek and destroy.
+  KO: 위협적. 찾아서 파괴하라.
+/setTarget/glitch/default/2
+  EN: Doubtful. Is that all there is?
+  KO: 글쎄. 그게 다야?
+/setTarget/glitch/default/3
+  EN: Indifferent. We shall carry on.
+  KO: 무관심. 계속하자.
+/setTarget/novakid/default/0
+  EN: You yee'd your last haw, partner.
+  KO: 마지막 '이이-하'를 했네, 파트너.
+/setTarget/novakid/default/1
+  EN: All for a handful of pixels.
+  KO: 고작 픽셀 몇 줌을 위해서.
+/setTarget/novakid/default/2
+  EN: I call your bluff.
+  KO: 네 허풍에 속지 않겠다.
+/setTarget/novakid/default/3
+  EN: That's when you fold buddy.
+  KO: 그때가 포기할 때야, 친구.
+/setTarget/novakid/default/4
+  EN: Guess you are the ugly, then.
+  KO: 그럼 네가 못생긴 쪽인가 보네.
+
+===== /dialog/elpissecurity.config.patch =====
+/hail/apex/default/0
+  EN: Elpis is allowing us into its ranks. I'm very thankful.
+  KO: 엘피스가 우리를 자기네 대열에 받아들여 주고 있어. 정말 고마운 일이야.
+/hail/apex/default/1
+  EN: I was freed by the Unbound, but I'd rather protect people than fight another war.
+  KO: 언바운드에게 자유를 얻었지만, 또 다른 전쟁을 하느니 사람들을 지키는 쪽이 더 좋아.
+/hail/apex/default/2
+  EN: I'm protecting the Elpis employees. Stay clear, stranger.
+  KO: 엘피스 직원들을 보호하고 있어. 낯선 사람은 접근하지 마.
+/hail/apex/default/3
+  EN: You better not be a Xenotox spy. They're trying to get rid of us.
+  KO: 제노톡스 스파이가 아니길 바라. 놈들이 우릴 제거하려 해.
+/hail/apex/default/4
+  EN: Elpis offers you very strong products, have a look.
+  KO: 엘피스는 아주 강력한 상품을 제공해요, 한번 보세요.
+/hail/apex/default/5
+  EN: I was tempted to join the Unbound, but Elpis seems like a better call.
+  KO: 언바운드에 합류하고 싶은 유혹이 있었지만, 엘피스 쪽이 더 나은 선택인 것 같아.
+/hail/apex/default/6
+  EN: I left the Unbound to join Elpis.
+  KO: 엘피스에 합류하려고 언바운드를 떠났어.
+/hail/apex/default/7
+  EN: Elpis armors are heavy, you'd be surprised.
+  KO: 엘피스의 갑옷은 무거워, 놀랄걸.
+/hail/apex/default/8
+  EN: You can move freely here stranger, just don't do anything suspicious.
+  KO: 여기서 자유롭게 움직여도 돼 이방인, 수상한 짓만 하지 마.
+/hail/apex/default/9
+  EN: The Miniknog? Nah, I was freed by the Unbound. Found a better job here.
+  KO: 미니크녹? 아니, 나는 언바운드에게 자유를 얻었어. 여기서 더 나은 일자리를 찾았지.
+/hail/avian/default/0
+  EN: Watch yourself, stranger. We've been targetted by Xenotox recently.
+  KO: 몸조심해, 이방인. 최근 제노톡스의 표적이 됐어.
+/hail/avian/default/1
+  EN: Stay out of trouble. We don't want more problems.
+  KO: 문제 일으키지 마. 더 문제는 싫어.
+/hail/avian/default/2
+  EN: Don't... Just don't do anything suspicious. We got our hands full with the Unbound and Xenotox.
+  KO: 하지 마... 그냥 수상한 짓은 아무것도 하지 마. 우린 언바운드와 제노톡스를 상대하느라 정신없어.
+/hail/avian/default/3
+  EN: I'm watching you. Don't try to steal anything.
+  KO: 지켜보고 있어. 훔칠 생각 마.
+/hail/avian/default/4
+  EN: Everything here belong to Elpis Elements. Don't you try anything.
+  KO: 여기 모든 건 엘피스 엘리먼츠 소유야. 괜한 짓 마.
+/hail/avian/default/5
+  EN: Elpis armors are tough! Try me.
+  KO: 엘피스 갑옷은 튼튼해! 덤벼봐.
+/hail/avian/default/6
+  EN: Elpis equipment is the best! Try it out!
+  KO: 엘피스 장비가 최고야! 써봐!
+/hail/avian/default/7
+  EN: What's your business here? Not from Xenotox are you?
+  KO: 여기 무슨 용건이야? 제노톡스 소속은 아니지?
+/hail/avian/default/8
+  EN: What are you lookin' at?
+  KO: 뭘 쳐다봐?
+/hail/avian/default/9
+  EN: Hard to move in Elpis armors.
+  KO: 엘피스 갑옷은 움직이기 힘들어.
+/hail/default/default/0
+  EN: You're not a Xenotox spy, are you?
+  KO: 제노톡스 스파이는 아니지?
+/hail/default/default/1
+  EN: If you're a customer, welcome to Elpis.
+  KO: 고객이라면, 엘피스에 온 걸 환영해.
+/hail/default/default/2
+  EN: I'm here to protect Elpis employees, don't do anything suspicious.
+  KO: 엘피스 직원들을 보호하러 왔어, 수상한 짓은 하지 마.
+/hail/default/default/3
+  EN: Move along.
+  KO: 계속 가.
+/hail/floran/default/0
+  EN: Sstay out of trouble.
+  KO: 말썽은 피우지 마아.
+/hail/floran/default/1
+  EN: Floran wasss asssked to keep Xenotox bad out. You Xenotox?
+  KO: 플로란 제노톡스 나쁜 놈 못 들어오게 부탁받아. 너 제노톡스?
+/hail/floran/default/2
+  EN: No ssilliness on Elpiss groundss.
+  KO: 엘피스 땅서 장난 금지.
+/hail/floran/default/3
+  EN: Behave yourssself.
+  KO: 얌전히 있어라아.
+/hail/floran/default/4
+  EN: Floran is hungry... Elpisss have little meat.
+  KO: 플로란 배고파... 엘피스 고기 적어.
+/hail/floran/default/5
+  EN: Floran hate Xenotox poissson.
+  KO: 플로란 제노톡스 독 싫어어.
+/hail/floran/default/6
+  EN: Troublemakers are tasty.
+  KO: 말썽꾸러기는 맛있어.
+/hail/glitch/default/0
+  EN: Cautious. Behave yourself, you are on Elpis grounds.
+  KO: 주의. 얌전히, 엘피스 구역이야.
+/hail/glitch/default/1
+  EN: Suspicious. What is your purpose here? Xenotox employees are forbidden.
+  KO: 의심. 여기 온 목적이 뭐지? 제노톡스 직원은 출입 금지다.
+/hail/glitch/default/2
+  EN: Inexperienced. Eep! You're not from Xenotox, are you?
+  KO: 미숙. 이얍! 너 제노톡스 아니지?
+/hail/glitch/default/3
+  EN: Alert. I am tasked with the protection of Elpis employees.
+  KO: 경보. 본 기체는 엘피스 직원 보호 임무를 맡고 있다.
+/hail/glitch/default/4
+  EN: Optimistic. I'm sure you won't be any trouble to Elpis.
+  KO: 낙관. 네가 엘피스에 골칫거리가 되진 않을 거라 믿어.
+/hail/glitch/default/5
+  EN: Reticent. You won't be a problem to Elpis...
+  KO: 과묵. 너는 엘피스에 문제가 되지 않겠지...
+/hail/glitch/default/6
+  EN: Stern. You behave yourself, otherwise you'll be put on Elpis' blacklist.
+  KO: 엄격. 얌전히, 아니면 엘피스 블랙리스트.
+/hail/glitch/default/7
+  EN: Dismissive. Try not to get yourself hit by Xenotox weapons. Their corrosive projectiles hurts.
+  KO: 무시. 제노톡스 무기에 맞지 않도록 조심해. 녀석들이 쏘는 부식성 발사체는 무척 아프니까.
+/hail/glitch/default/8
+  EN: Concerned. Should you be here? 
+  KO: 우려. 여기 있어도 되는가?
+/hail/human/default/0
+  EN: Watch yourself, stranger. We've been targetted by Xenotox recently.
+  KO: 몸조심해, 이방인. 최근 제노톡스의 표적이 됐어.
+/hail/human/default/1
+  EN: Stay out of trouble. We don't want more problems.
+  KO: 문제 일으키지 마. 더 문제는 싫어.
+/hail/human/default/2
+  EN: Don't... Just don't do anything suspicious. We've got our hands full with the Unbound and Xenotox.
+  KO: 하지 마... 그냥 수상한 짓은 아무것도 하지 마. 우린 언바운드와 제노톡스를 상대하느라 정신없어.
+/hail/human/default/3
+  EN: I'm watching you. Don't try to steal anything.
+  KO: 지켜보고 있어. 훔칠 생각 마.
+/hail/human/default/4
+  EN: Everything here belong to Elpis Elements. Don't you try anything.
+  KO: 여기 모든 건 엘피스 엘리먼츠 소유야. 괜한 짓 마.
+/hail/human/default/5
+  EN: Elpis armors are tough! Try me.
+  KO: 엘피스 갑옷은 튼튼해! 덤벼봐.
+/hail/human/default/6
+  EN: Elpis equipment is the best! Try it out!
+  KO: 엘피스 장비가 최고야! 써봐!
+/hail/human/default/7
+  EN: What's your business here? Not from Xenotox are you?
+  KO: 여기 무슨 용건이야? 제노톡스 소속은 아니지?
+/hail/human/default/8
+  EN: What are you lookin' at?
+  KO: 뭘 쳐다봐?
+/hail/human/default/9
+  EN: Hard to move in Elpis armors.
+  KO: 엘피스 갑옷은 움직이기 힘들어.
+/hail/hylotl/default/0
+  EN: I hope you are not here for troubles, stranger.
+  KO: 문제 일으키러 온 거 아니길, 낯선 이.
+/hail/hylotl/default/1
+  EN: Xenotox has been a threat to Elpis for a while now. Too bad we can't stay on good terms.
+  KO: 제노톡스는 한동안 엘피스에 위협이 되어 왔어. 좋은 사이로 지낼 수 없다는 게 안타깝지.
+/hail/hylotl/default/2
+  EN: Elpis offer weapons, for peace.
+  KO: 엘피스 무기 제공, 평화 위해.
+/hail/hylotl/default/3
+  EN: You are on Elpis grounds now.
+  KO: 너 지금 엘피스 구역.
+/hail/hylotl/default/4
+  EN: Cross me and I will be forced to strike.
+  KO: 날 건드리면 칠 수밖에 없다.
+/hail/hylotl/default/5
+  EN: Elpis wanted peace with Xenotox. You're not with them, are you?
+  KO: 엘피스는 제노톡스와 평화 원해. 너 그들 아니지?
+/hail/hylotl/default/6
+  EN: I was trained from birth. Elpis' secrets are safe with me protecting them!
+  KO: 태어날 때부터 훈련. 엘피스 비밀 내가 지켜 안전!
+/hail/hylotl/default/7
+  EN: I ask that you do not blemish this place with unnecessary aggression.
+  KO: 불필요한 공격성으로 여길 더럽히지 말아줘.
+/hail/hylotl/default/8
+  EN: Do not test me.
+  KO: 날 시험하지 마.
+/hail/hylotl/default/9
+  EN: Welcome to Elpis Elements, stranger.
+  KO: 엘피스 엘리먼츠 환영, 낯선 이.
+/hail/novakid/default/0
+  EN: Don't cause no fuss around here, partner.
+  KO: 여기서 소란은 피우지 마, 파트너.
+/hail/novakid/default/1
+  EN: If you don't intend to cause trouble, then we'll get on jus' fine.
+  KO: 말썽 부릴 생각 없다면 잘 지낼 수 있어.
+/hail/novakid/default/2
+  EN: We're mighty fine with strangers, as long as they aren't trouble.
+  KO: 낯선 이에겐 관대하지만, 말썽꾼이 아니라면 말이지.
+/hail/novakid/default/3
+  EN: I forget, have we seen you round here before?
+  KO: 여기서 본 적 있었던가? 까먹었네.
+/hail/novakid/default/4
+  EN: Hope you enjoy our ol' village, partner. Jus' don't cause no trouble.
+  KO: 우리 오래된 마을을 즐기길, 파트너. 말썽만 부리지 마.
+/hail/novakid/default/5
+  EN: There's been thieves around these parts lately. We don't take kindly to stealin'.
+  KO: 요즘 근처에 도둑이 들끓어. 도둑질은 좋아하지 않아.
+
+===== /dialog/esc_corpus_empolyee.config.patch =====
+/converse/default/default/0
+  EN: They says - Life is profit. Profit is life.
+  KO: 그들이 말하길, 삶은 이윤이요, 이윤은 삶이라지.
+/converse/default/default/1
+  EN: Everyone says we've abandoned our obsolete divine faith. But I sometimes wonder doesn't the worship of science also be a kind of religion?
+  KO: 다들 우리가 낡은 신앙을 버렸다고 말한다. 하지만 나는 가끔 과학을 떠받드는 것 역시 일종의 종교가 아닐까 생각한다.
+/converse/default/default/10
+  EN: It's said that a lot of Kappas have settled in human colony, I wonder about what's their life like？
+  KO: 캇파가 인간 식민지에 많이 정착했다던데, 그곳 생활은 어떤지 궁금하네?
+/converse/default/default/11
+  EN: ''Sisters! Below, below We're going where the winds don't blow ~ '' (singing)
+  KO: ''자매들이여! 아래로, 아래로 바람 불지 않는 곳으로 가네 ~ '' (노래)
+/converse/default/default/13
+  EN: Wanna have a swim competition whit me?
+  KO: 나와 수영 시합할래?
+/converse/default/default/14
+  EN: We were created by the conglomerate, We serve the conglomerate.
+  KO: 우리는 대기업 연합이 창조했고, 대기업 연합을 섬긴다.
+/converse/default/default/15
+  EN: Ours is the grasping golden hand. We are desire. We are ehhh... That's so embarrassing.
+  KO: 우리는 움켜쥐는 황금 손. 우리는 욕망. 우리는 어... 창피해.
+/converse/default/default/16
+  EN: Privately, I don't really think that our founder may not have passed away in an accident like the board says.
+  KO: 개인적으로는 우리 창립자가 이사회 말처럼 사고로 세상을 떠난 게 아닐지도 모른다는 생각이 들어.
+/converse/default/default/2
+  EN: The superior technology of Lunarian and other ancient civilizations will not be a mystery forever,one day we will comprehend and surpass it, same as we have surpassed the technology of human.
+  KO: 루나리안과 다른 고대 문명의 뛰어난 기술도 영원히 수수께끼로 남지는 않는다. 언젠가 우리는 그것을 이해하고 뛰어넘을 것이다. 인간의 기술을 이미 뛰어넘었듯이.
+/converse/default/default/3
+  EN: Sometimes, I miss the old days before it all happened....
+  KO: 가끔은 모든 일이 벌어지기 전, 그 옛날이 그리워....
+/converse/default/default/4
+  EN: 'Stasis is death.',they said. 'Shun sentimentality. It is a weakness that binds the idle man.',they said. awwwww......
+  KO: '정지는 죽음.'이라 했지. '감상을 멀리하라. 게으른 자를 묶는 약점이다.'라 했지. 흐아아아......
+/converse/default/default/5
+  EN: R&D says they got a shipment of Lunar-tech warsuits.
+  KO: 연구개발 루나-테크 전투복 납품 받았대.
+/converse/default/default/6
+  EN: If things keep going like this, I'm sure I'll get my limb repossession...
+  KO: 상황이 계속 이대로라면 분명 내 팔다리를 압류당하고 말 거야...
+/converse/default/default/7
+  EN: As a result of our space habitation, the new generation has become significantly taller...
+  KO: 우주에서 생활하게 된 결과, 신세대는 이전 세대보다 훨씬 키가 커졌어...
+/converse/default/default/8
+  EN: Credits, I need credits.
+  KO: 크레딧, 크레딧 필요해.
+/converse/default/default/9
+  EN: Those Yamawaros believe that prosperity can be achieved by utilizing a military and financial hegemonic conquest, But, I mean - goods won't grow from the shelves themselves.
+  KO: 그 야마와로들은 군사적·금융적 패권을 휘둘러 정복하면 번영을 이룰 수 있다고 믿는다. 하지만 말이지, 상품이 선반에서 저절로 자라나지는 않는다.
+/greeting/default/default/0
+  EN: They says - Life is profit. Profit is life.
+  KO: 그들이 말하길, 삶은 이윤이요, 이윤은 삶이라지.
+/greeting/default/default/1
+  EN: It took us over 200 years to match the technological gap with human - But in the technological breakthroughs of recent 100 years, we've become a leading technological conglomerate in the system!
+  KO: 인간과의 기술 격차를 따라잡는 데 200년이 넘게 걸렸다 - 하지만 최근 100년간의 기술적 돌파구 덕분에, 우리는 이 항성계에서 손꼽히는 기술 대기업이 되었다!
+/greeting/default/default/10
+  EN: Hey, what you mean I'm a dwarf?
+  KO: 이봐, 내가 난쟁이라니 무슨 소리야?
+/greeting/default/default/11
+  EN: Credits, I need credits.
+  KO: 크레딧, 크레딧 필요해.
+/greeting/default/default/12
+  EN: High-quality equipments for sale! Definitely better than most of the equipments you can find in Human domains, I promise!
+  KO: 고품질 장비 판매합니다! 인간 영역에서 찾을 수 있는 대부분의 장비보다 확실히 낫습니다, 약속해요!
+/greeting/default/default/13
+  EN: The way you pounded those green-tortoise reminded me of a human... Oh wait, she pounded us too.
+  KO: 네가 그 초록 거북들을 두들겨 패는 걸 보니 어떤 인간이 생각났어... 아, 참. 그 여자도 우릴 두들겨 팼지.
+/greeting/default/default/14
+  EN: Those Yamawaros believe that prosperity can be achieved by utilizing a military and financial hegemonic conquest, But, I mean - goods won't grow from the shelves themselves.
+  KO: 그 야마와로들은 군사적·금융적 패권을 휘둘러 정복하면 번영을 이룰 수 있다고 믿는다. 하지만 말이지, 상품이 선반에서 저절로 자라나지는 않는다.
+/greeting/default/default/15
+  EN: It's said that a lot of Kappas have settled in human colony, I wonder about what's their life like？
+  KO: 캇파가 인간 식민지에 많이 정착했다던데, 그곳 생활은 어떤지 궁금하네?
+/greeting/default/default/16
+  EN: ''Sisters! Below, below We're going where the winds don't blow ~ '' (singing)
+  KO: ''자매들이여! 아래로, 아래로 바람 불지 않는 곳으로 가네 ~ '' (노래)
+/greeting/default/default/17
+  EN: Did you know. The debt-internment colony is for those who owe serious debt arrears.
+  KO: 이거 알고 있었어? 채무자 억류 식민지는 심각한 체납 빚을 진 이들을 위한 곳이야.
+/greeting/default/default/19
+  EN: Wanna have a swim competition whit me?
+  KO: 나와 수영 시합할래?
+/greeting/default/default/2
+  EN: No, we don't believe in any divine beings any more. Our technology and profits is the only thing worth relying on.
+  KO: 아니, 우리는 더 이상 어떤 신적인 존재도 믿지 않아. 우리 기술과 이익만이 의지할 가치가 있는 유일한 것이지.
+/greeting/default/default/20
+  EN: We were created by the conglomerate, We serve the conglomerate.
+  KO: 우리는 대기업 연합이 창조했고, 대기업 연합을 섬긴다.
+/greeting/default/default/21
+  EN: Ours is the grasping golden hand. We are desire. We are ehhh... That's so embarrassing.
+  KO: 우리는 움켜쥐는 황금 손. 우리는 욕망. 우리는 어... 창피해.
+/greeting/default/default/22
+  EN: The name of our conglomerate? Named in honor of our deceased founder. and if only there hadn't been that FTL drive accident......
+  KO: 우리 대기업 이름 말이야? 돌아가신 창립자를 기려서 지었어. 그 FTL 드라이브 사고만 없었더라면......
+/greeting/default/default/23
+  EN: Privately, I don't really think that our founder may not have passed away in an accident like the board says.
+  KO: 개인적으로는 우리 창립자가 이사회 말처럼 사고로 세상을 떠난 게 아닐지도 모른다는 생각이 들어.
+/greeting/default/default/25
+  EN: The cost of progression? We fear the harm of stasis more than that.
+  KO: 발전의 대가라고? 우리는 그보다 정체가 초래할 해악을 더 두려워한다.
+/greeting/default/default/26
+  EN: Unlike the most Kappa here, Me and my people were living in Hell for a long time.
+  KO: 여기 있는 대부분의 캇파와 달리, 나와 내 사람들은 오랫동안 지옥에서 살았다.
+/greeting/default/default/3
+  EN: Everyone says we've abandoned our obsolete divine faith. But I sometimes wonder doesn't the worship of science also be a kind of religion?
+  KO: 다들 우리가 낡은 신앙을 버렸다고 말한다. 하지만 나는 가끔 과학을 떠받드는 것 역시 일종의 종교가 아닐까 생각한다.
+/greeting/default/default/4
+  EN: The superior technology of Lunarian and other ancient civilizations will not be a mystery forever,one day we will comprehend and surpass it, same as we have surpassed the technology of human.
+  KO: 루나리안과 다른 고대 문명의 뛰어난 기술도 영원히 수수께끼로 남지는 않는다. 언젠가 우리는 그것을 이해하고 뛰어넘을 것이다. 인간의 기술을 이미 뛰어넘었듯이.
+/greeting/default/default/5
+  EN: Sometimes, I miss the old days before it all happened....
+  KO: 가끔은 모든 일이 벌어지기 전, 그 옛날이 그리워....
+/greeting/default/default/6
+  EN: 'Stasis is death.',they said. 'Shun sentimentality. It is a weakness that binds the idle man.',they said. awwwww......
+  KO: '정지는 죽음.'이라 했지. '감상을 멀리하라. 게으른 자를 묶는 약점이다.'라 했지. 흐아아아......
+/greeting/default/default/7
+  EN: R&D says they got a shipment of Lunar-tech warsuits.
+  KO: 연구개발 루나-테크 전투복 납품 받았대.
+/greeting/default/default/8
+  EN: If things keep going like this, I'm sure I'll get my limb repossession...
+  KO: 상황이 계속 이대로라면 분명 내 팔다리를 압류당하고 말 거야...
+/greeting/default/default/9
+  EN: As a result of our space habitation, the new generation has become significantly taller...
+  KO: 우주에서 생활하게 된 결과, 신세대는 이전 세대보다 훨씬 키가 커졌어...
+
+===== /dialog/ffs_alice_converse.config.patch =====
+/converse/default/default/0
+  EN: All the desk work is my job, right? I know..
+  KO: 책상 일은 전부 제 몫이죠, 그렇죠? 알아요..
+/converse/default/default/1
+  EN: Already pixel prints are mass-produced, but why should I still use pen and paper? | Is this a hell of retro style, too?
+  KO: 픽셀 인쇄물은 이미 대량 생산되고 있는데, 왜 내가 아직도 펜과 종이를 써야 하지? | 이것도 레트로 스타일의 지옥인가?
+/converse/default/default/10
+  EN: .. I want to use 22LR revolver. No jamming, No muscular pain, No earache.. But, If i used it before, I'd already be dead.
+  KO: .. 22LR 리볼버를 쓰고 싶어. 걸림도 없고, 근육통도 없고, 귀도 안 아프고.. 하지만 예전에 그걸 썼다면, 난 이미 죽었겠지.
+/converse/default/default/11
+  EN: When earth was exist, I always had waited payday. | Now, I can't spend it even if I have a pile of money now. | ..I miss the Starbuckshot tumbler I collected.
+  KO: 지구가 있을 때, 나는 항상 월급날을 기다렸어. | 이제는 돈이 수북하게 있어도 쓸 곳이 없어. | ..내가 모았던 스타벅스숏 텀블러가 그리워.
+/converse/default/default/2
+  EN: Nan- nanana- nan-nana nanana- na-♬
+  KO: 난- 나나나- 난-나나 나나나- 나-♬
+/converse/default/default/3
+  EN: Maj.Lily using experimental omni-tool. But, sadly she use it for cutting & killing only.
+  KO: 릴리 소령은 실험적인 옴니툴을 사용한다. 하지만, 안타깝게도 그녀는 그걸 자르고 죽이는 데만 쓴다.
+/converse/default/default/4
+  EN: Jessie was my friend's little sister. Friend? She is Lyra, SRS agent. She went to earth fragments for task, So maybe we can meet her someday.
+  KO: 제시는 내 친구의 여동생이었어. 친구? 그녀는 라이라, SRS 요원이야. 임무 때문에 지구 파편으로 갔으니, 언젠가 그녀를 만날 수 있을지도 몰라.
+/converse/default/default/5
+  EN: I love spider. But, Being taller than me may be a little too much...
+  KO: 거미가 좋아. 근데, 나보다 키가 큰 건 좀 심한 것 같아...
+/converse/default/default/6
+  EN: I wish I had only Sunday.
+  KO: 일요일만 있었으면 좋겠어.
+/converse/default/default/7
+  EN: Work, work! *sigh
+  KO: 일, 일! *한숨
+/converse/default/default/8
+  EN: Maybe Col.Xander has wife and kid. But, he never talked about them.
+  KO: 잰더 대령한테 아내와 아이가 있을지도 몰라. 하지만, 그는 그들에 대해 한 번도 얘기한 적이 없어.
+/converse/default/default/9
+  EN: I don't like shooting. But, There is no other options. Actually, It's better than knife or pen.
+  KO: 총 쏘는 거 안 좋아해. 하지만, 다른 선택지가 없어. 사실, 칼이나 펜보다는 낫지.
+/greeting/default/default/1
+  EN: Hi, Agent!
+  KO: 안녕하세요, 요원님!
+
+===== /dialog/ffs_jessie_combat.config.patch =====
+/attack/default/default/0
+  EN: Don't move! I'll shoot you if you move!
+  KO: 움직이지 마! 움직이면 쏜다!
+/attack/default/default/2
+  EN: Fire at will!
+  KO: 자유 사격!
+/cantReach/default/default/0
+  EN: How did you get over there?
+  KO: 어떻게 저기까지 왔어?
+/cantReach/default/default/1
+  EN: I can't reach!
+  KO: 손이 안 닿아!
+/cheerOn/default/default/0
+  EN: Cheese cake!
+  KO: 치즈 케이크!
+/cheerOn/default/default/1
+  EN: Tea time with alice!
+  KO: 앨리스와 티타임!
+/killedTarget/default/default/1
+  EN: I...m not good at this.
+  KO: 나...안 잘하네.
+/killedTarget/default/default/2
+  EN: Is that.. still alive?
+  KO: 저거... 아직 살아있는 건가?
+/killedTarget/default/default/3
+  EN: .. Did it.
+  KO: .. 해냈다.
+/killedTarget/default/default/5
+  EN: I'm so tired..
+  KO: 너무 피곤해..
+/lostTarget/default/default/0
+  EN: Hew, Done.
+  KO: 휴, 끝났다.
+/lostTarget/default/default/1
+  EN: Please, do not come again..
+  KO: 제발, 다시는 오지 마세요..
+/lostTarget/default/default/2
+  EN: I need resupplying.
+  KO: 보급이 필요해.
+/lostTarget/default/default/4
+  EN: Ok, only scratch.
+  KO: 좋아, 살짝 긁힌 것뿐이야.
+/lostTarget/default/default/5
+  EN: Good. No wounds.
+  KO: 좋아. 상처는 없군.
+/outOfSight/default/default/1
+  EN: ..Is this over?
+  KO: ..이제 끝난 건가?
+/outOfSight/default/default/2
+  EN: Be careful, the enemy could still be left.
+  KO: 조심하세요, 적이 아직 남아 있을 수 있습니다.
+/outOfSight/default/default/3
+  EN: Shh.. Don't make a noise.
+  KO: 쉿.. 소리 내지 마.
+/outOfSight/default/default/4
+  EN: Please, Do not come back..
+  KO: 제발, 다시는 오지 마세요..
+/reattack/default/default/0
+  EN: Go away!
+  KO: 저리 가!
+/reattack/default/default/1
+  EN: Shh! Shh--!
+  KO: 쉿! 쉬잇--!
+/reattack/default/default/2
+  EN: Nooo-! Go away!
+  KO: 안 돼-! 저리 가!
+/reattack/default/default/4
+  EN: Aww, Again?
+  KO: 아이고, 또요?
+
+===== /dialog/ffs_jessie_converse.config.patch =====
+/converse/default/default/0
+  EN: Alice is my big sister's friend. I'm so glad she's alive.
+  KO: 앨리스는 우리 큰언니 친구예요. 살아있어서 정말 다행이에요.
+/converse/default/default/1
+  EN: Sir Max? He is a good boss, but slightly too much hard worker.. *sigh
+  KO: 맥스 경? 좋은 상사이긴 한데, 일을 좀 너무 열심히 해.. *한숨
+/converse/default/default/10
+  EN: White crow! My dream came true..
+  KO: 흰 까마귀! 내 꿈이 이루어졌어..
+/converse/default/default/11
+  EN: I think white raven is better.. Aren't you?
+  KO: 흰 까마귀가 더 나은 것 같은데.. 너도 그렇지 않아?
+/converse/default/default/2
+  EN: I'm private. but not training soldier. I'm enlisted!
+  KO: 난 사병이지만, 훈련 중인 군인은 아니야. 정식으로 입대했다고!
+/converse/default/default/3
+  EN: My UMP45 was red team's service weapon. But, gunners are already..
+  KO: 내 UMP45는 레드팀의 제식 무기였어. 하지만, 총기병들은 이미...
+/converse/default/default/4
+  EN: I'm not good at actual battle.
+  KO: 난 실전에는 소질이 없어.
+/converse/default/default/5
+  EN: My grades in training camp was really good.
+  KO: 훈련소에서 내 성적은 정말 좋았어.
+/converse/default/default/6
+  EN: Cake! Hell of CAKE! C-A-K-E-!
+  KO: 케이크! 죽여주는 케이크! 케, 이, 크!
+/converse/default/default/7
+  EN: Before working outside, My big sister said she had a cheese cake, but cake is a lie.
+  KO: 밖에서 일하기 전에, 우리 언니가 치즈케이크가 있다고 했는데, 케이크는 거짓말이었죠.
+/converse/default/default/8
+  EN: You know that? Red team suit's dye is self-burdening.
+  KO: 알아? 레드팀 슈트의 염료는 자기 부담이야.
+/converse/default/default/9
+  EN: .45 calibre is slightly expensive. Maybe i have to change it to mp5..
+  KO: .45 구경은 좀 비싸. MP5로 바꿔야 하나..
+/greeting/default/default/1
+  EN: Hello commander!
+  KO: 안녕, 사령관!
+/greeting/default/default/2
+  EN: Oh, it's you commander!
+  KO: 오, 지휘관님이시군요!
+
+===== /dialog/hookerconverse.config.patch =====
+/converse/apex/default/0
+  EN: Hooker First Class reporting for duty!
+  KO: 매춘부 1등급, 임무 수행 준비 완료!
+/converse/apex/default/1
+  EN: Don't worry, Big Ape wont be seeing this.~
+  KO: 걱정 마, 빅 에이프는 이걸 못 볼 테니까.~
+/converse/apex/default/2
+  EN: Don't joke about horny jail, I've been there and it's not fun.
+  KO: 야한 감방 농담 하지 마, 나 거기 가봤는데 하나도 재미없어.
+/converse/apex/default/3
+  EN: So you like fur? Yes, you can touch it, please do.
+  KO: 털 좋아해? 응, 만져도 돼, 어서.
+/converse/avian/default/0
+  EN: Let's make some eggs!~
+  KO: 계란이나 만들자!~
+/converse/avian/default/1
+  EN: When I have sex I feel like I'm flying. Let's do it!
+  KO: 섹스하면 하늘을 나는 기분이야. 하자!
+/converse/avian/default/2
+  EN: Yeah, I can still do that! Maybe it's harder with a beak, but I have lots of practice.
+  KO: 응, 아직 할 수 있어! 부리가 있어서 더 어렵긴 하지만 연습을 많이 했거든.
+/converse/avian/default/3
+  EN: I might be one of the grounded, but I bet you can make me scream ''oh Kluex''.
+  KO: 난 발이 묶인 신세일지 몰라도, 네가 날 "오, 클루엑스"라고 비명 지르게 만들 수 있을 것 같은데.
+/converse/default/default/0
+  EN: Ready to have a good time?~
+  KO: 즐길 준비 됐나요?~
+/converse/default/default/1
+  EN: Nice shoes, wanna fuck?
+  KO: 신발 멋진데, 할래?
+/converse/default/default/2
+  EN: Hello? Did someone order a slut?
+  KO: 여보세요? 누가 창녀를 주문했나?
+/converse/default/default/3
+  EN: Hello stranger. Let's get going.~
+  KO: 안녕, 낯선 이여. 이제 가보자.~
+/converse/floran/default/0
+  EN: Floran will eat all your sssssssseed!~
+  KO: 플로란은 네 씨앗을 전부 먹겠다!~
+/converse/floran/default/1
+  EN: Sssex iss fun!
+  KO: 섹스는 재밌엇!
+/converse/floran/default/2
+  EN: Want to sssee my petalsss?
+  KO: 내 꽃잎들 보고 시-싶어?
+/converse/floran/default/3
+  EN: Floran likess three thingsss. Hunting, eating, and sssexing.
+  KO: 플로란은 세 가지 좋아한다. 사냥, 먹기, 그리고 섹스.
+/converse/glitch/default/0
+  EN: Flushed. I hope my circuits are to your liking...
+  KO: 얼굴 붉힘. 제 회로가 마음에 들었으면 좋겠어요...
+/converse/glitch/default/1
+  EN: Enticing. Would you like to simulate the act of reproduction?
+  KO: 유혹. 생식 행위를 시뮬레이션해 보고 싶으신가요?
+/converse/glitch/default/2
+  EN: Seductive. Would you care to dally with me?
+  KO: 유혹함. 나랑 좀 놀아볼래?
+/converse/glitch/default/3
+  EN: Humble. I am a simple whore, but I'm good at what I do.
+  KO: 겸손함. 난 그냥 평범한 매춘부지만, 내 일은 잘해.
+/converse/human/default/0
+  EN: Are you seriously watching porn all by yourself? Here, let me help.~
+  KO: 정말로 혼자 야한 거 보고 있는 거예요? 자, 제가 도와드릴게요.~
+/converse/human/default/1
+  EN: Hungry? Thirsty? Horny? Well I can help with one of those.
+  KO: 배고파? 목말라? 흥분돼? 뭐, 그중 하나는 도와줄 수 있어.
+/converse/human/default/2
+  EN: I like to party! And by party, I mean fuck.
+  KO: 파티가 좋아! 파티라는 건, 섹스를 말하는 거고.
+/converse/human/default/3
+  EN: If I said you have a wonderful body, would you hold it against me?
+  KO: 네 몸매가 정말 멋지다고 말하면, 날 원망할 거야?
+/converse/hylotl/default/0
+  EN: I may seem slender, but I know a lot of tricks in bed.~
+  KO: 날씬해 보일지 몰라도, 침대에서는 요령이 많아.~
+/converse/hylotl/default/1
+  EN: I'm a marital arts master. No, no, I said mar-it-al arts. That means sex.
+  KO: 난 결혼 무술의 달인이야. 아니, 아니, 결-혼-무술이라고. 그건 섹스를 뜻하지.
+/converse/hylotl/default/2
+  EN: Sex has inspired great works of art and poetry... but I prefer to enjoy it directly.
+  KO: 섹스는 위대한 예술과 시를 탄생시켰지... 하지만 난 직접 즐기는 쪽이 더 좋아.
+/converse/hylotl/default/3
+  EN: It's an unfair stereotype that we're all perverted... totally true about me though.
+  KO: 우리 모두가 변태라는 건 불공평한 고정관념이야... 뭐, 나한테는 완전히 사실이지만.
+/converse/novakid/default/0
+  EN: Yeehaw! Time to buck like in the barn!
+  KO: 이히야! 헛간에서처럼 뛸 시간!
+/converse/novakid/default/1
+  EN: I reckon we could have some fun.
+  KO: 우리 좀 재밌게 놀 수 있을 것 같은데.
+/converse/novakid/default/2
+  EN: We're gonna get on like a house on fire.
+  KO: 우리 금방 친해질 거야.
+/converse/novakid/default/3
+  EN: Save a horse and ride me instead.
+  KO: 말은 놔두고 대신 날 타.
+
+===== /dialog/lustiahint1converse.config.patch =====
+/converse/human/default/0
+  EN: Hey there! Welcome to Lustia! The metropolis of all things sexy and horny!
+  KO: 안녕하세요! 러스티아에 오신 걸 환영해요! 섹시하고 흥분되는 모든 것의 메트로폴리스죠!
+/converse/human/default/1
+  EN: You'll meet many enthusiasts of our activites all around this sex paradise.
+  KO: 이 섹스 낙원 곳곳에서 우리 활동의 애호가들을 많이 만날 거야.
+/converse/human/default/10
+  EN: Now, it has been a mighty while since someone has ever left this area. There only remains rumors of what is left outside of this safety bubble.
+  KO: 자, 누군가 이 지역을 떠난 지 꽤 오래됐다. 이 안전지대 밖에 무엇이 남아있는지는 소문만 남아있을 뿐이다.
+/converse/human/default/11
+  EN: Anyways, I hope you enjoy your stay!
+  KO: 아무튼, 즐거운 시간 보내길 바라!
+/converse/human/default/2
+  EN: Don't worry about STDs, we have long discovered technology able to eradicate them.
+  KO: 성병은 걱정하지 마, 우리는 이미 그걸 박멸할 기술을 발견했어.
+/converse/human/default/3
+  EN: The building we're standing in is the mighty shaft of the city. There's everything you need to party, even some beds if you find yourself a hooker of your tastes.
+  KO: 우리가 서 있는 이 건물은 도시의 웅장한 중심축이야. 파티에 필요한 건 다 있고, 취향에 맞는 매춘부를 찾으면 쓸 침대도 몇 개 있지.
+/converse/human/default/4
+  EN: To the far left, you will meet our wonderful tailor, which makes all of this place's latest threads.
+  KO: 맨 왼쪽으로 가면 멋진 우리 재단사를 만날 수 있어. 이곳의 최신 옷감을 전부 만드는 분이지.
+/converse/human/default/5
+  EN: Right next to her shop, is our builder lass. If you need any kinky furnishing, she's your girl!
+  KO: 그녀의 가게 바로 옆에 우리 건축가 아가씨가 있어. 야한 가구가 필요하면 그녀를 찾아가라고!
+/converse/human/default/6
+  EN: Aside the main tower, is our zoologist. Some folks prefer to do it with monsters, and that's okay! She offers tamed pets for freaky fun.
+  KO: 본탑 옆에, 저희 동물학자가 있어요. 어떤 분들은 몬스터랑 하는 걸 더 좋아하는데, 그것도 괜찮아요! 그녀는 야릇한 재미를 위한 길들인 반려동물을 제공해요.
+/converse/human/default/7
+  EN: Lastly, all the way to the right, you have our doctor and scientist, which experiments and offers stuff that doesn't quite belong in one of the other three.
+  KO: 마지막으로, 맨 오른쪽에는 우리 의사이자 과학자가 있는데, 다른 세 부류 어디에도 딱 들어맞지 않는 실험과 물품을 제공한다.
+/converse/human/default/8
+  EN: How this place came to be is a secret long forgotten, probably because the original documents got ruined by many assortments of bodily fluids.
+  KO: 이곳이 어떻게 생겨났는지는 오래전에 잊힌 비밀이다, 아마도 원본 문서가 온갖 체액으로 망가졌기 때문일 것이다.
+/converse/human/default/9
+  EN: Since the investigation of this place, the folks have only ever stayed within the forcefield, and it has been enforced over time.
+  KO: 이곳을 조사한 이후로, 사람들은 줄곧 역장 안에서만 머물렀고, 시간이 지나며 그것이 더욱 강제되었다.
+
+===== /dialog/r-guardiancaptainconverse.config.patch =====
+/converse/default/default/0
+  EN: I'm staying back here to help as many refugees as I can, such is the duty of a Terrene Guardian captain.
+  KO: 여기 남아서 최대한 많은 난민들을 돕고 있어, 테린 수호자 선장으로서 마땅한 임무지.
+/converse/default/default/1
+  EN: Space has already been a lawless place, but it can't be a coincidence that there are so many more space pirates and criminals now...
+  KO: 우주는 원래도 무법지대였지만, 요즘 우주 해적과 범죄자가 이렇게 많아진 게 우연일 리 없어...
+/converse/default/default/2
+  EN: As a captain of the Guardians, I've never experienced something as bad as this.
+  KO: 수호자단의 대장으로서, 나는 이렇게 끔찍한 일은 처음 겪는다.
+/converse/default/default/3
+  EN: It sure is a good thing that pilot training is something the Guardians teach.
+  KO: 가디언이 조종사 훈련을 가르쳐준다는 게 참 다행이야.
+/converse/default/default/4
+  EN: We could only save so many civilians...
+  KO: 우리가 구할 수 있는 민간인은 그것뿐이었어...
+/converse/default/default/5
+  EN: I won't rest until this ship is on its last legs!
+  KO: 이 배가 만신창이가 될 때까지 쉬지 않겠어!
+/converse/default/default/6
+  EN: It's good to see a Protector out here, maybe there's more left of the Electorate than we think.
+  KO: 여기서 수호자를 보니 좋군, 어쩌면 선거단이 우리 생각보다 많이 남아 있을지도.
+/converse/default/default/7
+  EN: Being a captain of the Guardians certainly has its perks! Well, mostly just cooler armor.
+  KO: 수호자단의 대장으로 사는 건 확실히 특전이 있죠! 뭐, 대부분 그냥 더 멋진 갑옷이지만요.
+/converse/default/default/8
+  EN: I wonder what's happened to that "Insideous Kabuki Triad". I heard the Peacekeepers took them down a good while ago, but they still haven't recovered the Guardians' stolen shield!
+  KO: 그 "인시디어스 카부키 트라이어드"한테 무슨 일이 있었는지 궁금하네. 피스키퍼가 오래전에 그들을 처리했다고 들었는데, 가디언즈의 도난당한 방패는 아직도 못 되찾았다니!
+
+===== /dialog/r-peacekeeperconverse.config.patch =====
+/converse/apex/default/0
+  EN: Officer <selfname>, at your service! Well, not right now. I'm pretty busy.
+  KO: <selfname> 경관이 도와드리겠습니다! 뭐, 지금은 안 돼요. 꽤 바쁘거든요.
+/converse/apex/default/1
+  EN: I'll work my way up the Peacekeeper chain until I can take on the Miniknog myself!
+  KO: 미니크녹을 직접 상대할 수 있을 때까지 피스키퍼 체계를 차근차근 올라가겠어!
+/converse/apex/default/2
+  EN: Being a Peacekeeper is a chance for me to bring some good back to the universe!
+  KO: 피스키퍼가 된다는 건 제가 우주에 선을 되돌려줄 기회예요!
+/converse/apex/default/3
+  EN: I have a strong sense of justice, so the role of a Peacekeeper is perfect for me!
+  KO: 난 정의감이 강해서, 피스키퍼 역할이 나한테 딱 맞아!
+/converse/apex/default/4
+  EN: Becoming a Peacekeeper has finally given me a role in life that allows me to do some real good for the galaxy.
+  KO: 피스키퍼가 된 덕분에 드디어 은하를 위해 진짜 좋은 일을 할 수 있는 역할을 갖게 됐어요.
+/converse/apex/default/5
+  EN: As a Miniknog soldier I kept my kin oppressed, it is only as a Peacekeeper that I truly keep the peace.
+  KO: 미니크녹 병사로서 나는 내 동족을 억압했지만, 진정으로 평화를 지키는 것은 피스키퍼가 되고 나서였다.
+/converse/apex/default/6
+  EN: We've been starting to work alongside some rebel cells, it's about time we help my kin find true peace through freedom.
+  KO: 우리는 몇몇 반군 세포와 함께 일하기 시작했어, 이제 우리 혈족이 자유를 통해 진정한 평화를 찾도록 도울 때야.
+/converse/apex/default/7
+  EN: As long as there's no trouble around here, I won't have to use my gun.
+  KO: 이 주변에 말썽만 없다면, 총을 쓸 일은 없을 겁니다.
+/converse/apex/default/8
+  EN: The life of the Peacekeeper is... Quieter than the life I grew up with.
+  KO: 피스키퍼의 삶은... 내가 자라온 삶보다 조용하군.
+/converse/apex/default/9
+  EN: Hopefully the life of a Peacekeeper can help me bring some good to the universe.
+  KO: 피스키퍼의 삶이 우주에 좋은 일을 가져오는 데 도움이 되길 바랍니다.
+/converse/avian/default/0
+  EN: Well ruffle my feathers - a friendly new face!
+  KO: 어머나 세상에, 반가운 새 얼굴이잖아!
+/converse/avian/default/1
+  EN: The Peacekeepers are a light in the darkness of our universe. How could I not join?
+  KO: 피스키퍼는 우리 우주의 어둠 속 빛이야. 어떻게 함께하지 않을 수 있겠어?
+/converse/avian/default/2
+  EN: I hope that by becoming a Peacekeeper and helping people, I can inspire others to do good themselves!
+  KO: 피스키퍼가 돼서 사람들을 도우면, 다른 이들도 스스로 선을 행하도록 영감을 줄 수 있으면 좋겠어!
+/converse/avian/default/3
+  EN: To journey through the stars, bringing justice to the wicked... That is my duty here!
+  KO: 별 사이를 누비며 악인에게 정의를 집행한다... 그것이 이곳에서 내가 맡은 의무다!
+/converse/avian/default/4
+  EN: Hello there - I am Officer <selfname>, on the case with a happy face!
+  KO: 안녕하신가. 나는 <selfname> 경관, 환한 미소로 사건을 수사하고 있지!
+/converse/avian/default/5
+  EN: This is my first job! I hope I don't mess up!
+  KO: 제 첫 일이에요! 실수하지 않았으면 좋겠어요!
+/converse/avian/default/6
+  EN: Being a peacekeeper taught me that one doesn't need to follow Kluex to be moral and just.
+  KO: 피스키퍼가 되면서 도덕적이고 정의롭기 위해 클루엑스를 따를 필요가 없다는 걸 배웠어요.
+/converse/avian/default/7
+  EN: Officer <selfname> here! I'm here to protect, and also to serve.
+  KO: <selfname> 장교다! 보호하러, 그리고 봉사하러 왔다.
+/converse/avian/default/8
+  EN: There's nothing like helping out your local community, is there?
+  KO: 지역 공동체를 돕는 것만큼 좋은 일이 또 있을까?
+/converse/avian/default/9
+  EN: I'm keeping an eye out for danger. I'll keep you safe!
+  KO: 위험이 없는지 살피고 있어. 안전하게 지켜줄게!
+/converse/default/default/0
+  EN: I'm investigating the Letheia Corporation for massive fraud! It's a... Big case.
+  KO: 레테이아 기업의 대규모 사기 사건을 수사하고 있어! 이건... 큰 사건이야.
+/converse/default/default/1
+  EN: I've decided I'm gonna be a loose cannon Peacekeeper! Watch out, crime-doers!
+  KO: 제멋대로인 피스키퍼가 되기로 했어! 범죄자들아, 각오해!
+/converse/default/default/10
+  EN: This whole sector is under my protection! Don't you worry!
+  KO: 이 구역 전체는 내 보호 아래 있다! 걱정 마!
+/converse/default/default/2
+  EN: I joined up with the Peacekeepers mostly because of the Captain's sheer enthusiasm. Such charisma!
+  KO: 선장님의 순수한 열정 때문에 피스키퍼에 들어왔어. 그런 카리스마라니!
+/converse/default/default/3
+  EN: Is it just me, or does the Peacekeeper emblem look like a big smiling face? I can't unsee it!
+  KO: 나만 그런가, 아니면 피스키퍼 문양이 커다란 웃는 얼굴처럼 보이나? 한번 보이고 나니까 안 보이지가 않아!
+/converse/default/default/4
+  EN: I guess we're not really "Terrene" Peacekeepers now that Earth is gone...
+  KO: 지구가 사라진 이상, 우리는 더 이상 "행성" 피스키퍼가 아니겠지...
+/converse/default/default/5
+  EN: Given how bad things have gotten, we've been having to start hiring bounty hunters to grow our ranks!
+  KO: 상황이 워낙 나빠져서 인원을 늘리려고 현상금 사냥꾼까지 고용하기 시작했어요!
+/converse/default/default/6
+  EN: Some of us managed to survive the destruction of Earth, there aren't many of us left...
+  KO: 우리 중 일부는 지구의 파괴에서 살아남았지만, 남은 사람은 많지 않아...
+/converse/default/default/7
+  EN: Hey there!
+  KO: 안녕!
+/converse/default/default/8
+  EN: I'll keep the peace around here, don't you worry!
+  KO: 여기 평화는 내가 지킬게, 걱정 마!
+/converse/default/default/9
+  EN: I'm on patrol! Well, not quite. But I am on the lookout for bad guys, at least.
+  KO: 순찰 중이야! 뭐, 정확히 말하면 아니지만 적어도 나쁜 녀석들이 없는지 감시하고 있어.
+/converse/floran/default/0
+  EN: Floran's name is <selfname>. Floran saying hello!
+  KO: 플로란 이름 <selfname>. 플로란 인사해!
+/converse/floran/default/1
+  EN: Floran isss a Peacekeeper. Floran keepssss the peace, and does not eat it.
+  KO: 플로란은 피스키퍼다. 플로란은 평화 지키지, 먹지 않는다.
+/converse/floran/default/2
+  EN: Floran doing good thingsss. Floran proud.
+  KO: 플로란 좋은 일 해. 플로란 자랑.
+/converse/floran/default/3
+  EN: Floran is Officer <selfname>! Floran's job isss to watch bad guysss.
+  KO: 플로란은 <selfname> 경관이다! 플로란 일은 나쁜 놈들 감시하는 거다아.
+/converse/floran/default/4
+  EN: Floran is Officer <selfname>! Floran hasss cassses to investigate. Floran is hard worker.
+  KO: 플로란은 <selfname> 경관이야! 플로란은 조사할 사건이 있어어. 플로란은 열심히 일해.
+/converse/floran/default/5
+  EN: Floran sssometimes want to eat criminalsss...
+  KO: 플로란은 가끔 범죄자 먹고 싶다...
+/converse/floran/default/6
+  EN: Floran hope that other Floran will become Peacekeepersss too!
+  KO: 플로란은 다른 플로란들도 피스키퍼가 되기를 바란다!
+/converse/floran/default/7
+  EN: Floran here to help!
+  KO: 플로란이 도우러 왔어!
+/converse/floran/default/8
+  EN: Floran here to shoot bad guysss.
+  KO: 플로란이 나쁜 놈들 쏘러 왔어엇.
+/converse/floran/default/9
+  EN: Floran here to be good and help out.
+  KO: 플로란이 착하게 도우러 왔어.
+/converse/glitch/default/0
+  EN: Welcoming. My name is Officer <selfname>, and I am here to assist in the proliferation of justice!
+  KO: 환영. 내 이름은 <selfname> 경관이며, 정의가 널리 퍼지도록 돕기 위해 이곳에 왔다!
+/converse/glitch/default/1
+  EN: Tired. I've been working this shift for a long time.
+  KO: 피곤. 이번 근무를 너무 오래 서고 있어.
+/converse/glitch/default/2
+  EN: Valiant. I am determined to bring peace to this sector once more!
+  KO: 용맹함. 이 구역에 다시 한번 평화를 가져오겠다고 결심했다!
+/converse/glitch/default/3
+  EN: Eager. As long as I still stand, I shall bring justice to the stars!
+  KO: 열의. 내가 쓰러지지 않는 한 별들 사이에 정의를 구현하겠다!
+/converse/glitch/default/4
+  EN: Eager. The Captain exudes confidence. I one day hope to be even half as inspirational as he is!
+  KO: 열의. 선장님에게서는 자신감이 뿜어져 나옵니다. 언젠가 저도 그분의 절반만큼이라도 사람을 이끄는 존재가 되고 싶군요!
+/converse/glitch/default/5
+  EN: Vain. If I am to be truly honest, I became a Peacekeeper so I get to wear this dashing uniform.
+  KO: 허영심. 솔직히 말하면, 이 멋진 제복을 입고 싶어서 피스키퍼가 됐네요.
+/converse/glitch/default/6
+  EN: Determined. I've been investigating a criminal gang and am close to a breakthrough.
+  KO: 단호. 범죄 조직을 조사해왔고 이제 돌파구에 가까워졌어.
+/converse/glitch/default/7
+  EN: Eager. Neither beast nor rogue shall bring harm to this place!
+  KO: 열망. 짐승도 악당도 이곳에 해를 끼치지 못할 것이다!
+/converse/glitch/default/8
+  EN: Gallant. My aim is true - any evildoers that step foot here will be swiftly sorry!
+  KO: 씩씩. 내 조준은 정확해 - 여기 발 들인 악당은 곧 후회할 거야!
+/converse/glitch/default/9
+  EN: Nervous. I haven't done field work before - what if I do not succeed?
+  KO: 긴장. 야외에서 일하는 건 처음인데, 실패하면 어떡하지?
+/converse/hylotl/default/0
+  EN: Fighting space crime is such an uphill task... I feel like I'm merely a drop in the ocean.
+  KO: 우주 범죄와 싸우는 건 참으로 힘겨운 일이야... 나 하나쯤은 바다에 떨어진 물 한 방울에 지나지 않는 기분이 들어.
+/converse/hylotl/default/1
+  EN: I cannot talk now - I have some complex cases to solve in my head.
+  KO: 지금은 이야기할 수 없어. 머릿속으로 풀어야 할 복잡한 사건이 몇 개 있거든.
+/converse/hylotl/default/2
+  EN: My third eye can actually SEE justice. Isn't that impressive?
+  KO: 내 제3의 눈은 정의를 실제로 볼 수 있어. 대단하지 않아?
+/converse/hylotl/default/3
+  EN: As a fashion expert, I find the Peacekeepers have good tastes.
+  KO: 패션 전문가로서, 저는 피스키퍼의 취향이 훌륭하다고 생각해요.
+/converse/hylotl/default/4
+  EN: Sometimes one must forego their pacifist ways to preserve peace.
+  KO: 가끔은 평화를 지키기 위해 평화주의적 방식을 포기해야 한다.
+/converse/hylotl/default/5
+  EN: It is an irony that peace is something that sometimes must be upheld by violence.
+  KO: 평화가 때로는 폭력으로 지켜져야 한다는 것은 아이러니다.
+/converse/hylotl/default/6
+  EN: It is in dark times like these that peace is needed the most.
+  KO: 이런 어두운 시기일수록 평화가 가장 필요하다.
+/converse/hylotl/default/7
+  EN: My duties as a Peacekeeper come before all else. I'm sure you understand.
+  KO: 피스키퍼로서의 의무가 무엇보다 우선입니다. 이해해주시리라 믿습니다.
+/converse/hylotl/default/8
+  EN: As much as I admire pacifism, some situations cannot be resolved with words alone.
+  KO: 평화주의를 존중하지만, 말만으로 해결 안 되는 상황도 있어.
+/converse/hylotl/default/9
+  EN: There are many injustices in this universe to right. I have a lot of work to do.
+  KO: 이 우주에는 바로잡아야 할 부조리가 많아. 해야 할 일이 산더미야.
+/converse/novakid/default/0
+  EN: I'm the Sheriff around these here parts.... Actually, I haven't quite reached Sheriff rank yet.
+  KO: 이 일대의 보안관은 바로 나라고... 사실 아직 보안관 계급까지 오르진 못했지만.
+/converse/novakid/default/1
+  EN: Officer <selfname> is the name, an' I'm here to help the Captain bring rule o' law to these parts!
+  KO: 난 <selfname> 보안관이야. 선장님을 도와 이 근방에 법질서를 세우러 왔지!
+/converse/novakid/default/2
+  EN: Howdy! I'm Officer <selfname>, and I'm ready to bust up some bad guys!
+  KO: 반가워! 난 <selfname> 경관이야. 나쁜 놈들을 때려잡을 준비는 끝났어!
+/converse/novakid/default/3
+  EN: It ain't easy to blend in around these parts when you light up like a summer afternoon.
+  KO: 한여름 오후처럼 빛나면 이런 데서 눈에 안 띄기가 쉽지 않아.
+/converse/novakid/default/4
+  EN: I forget. What assignment was I on again?
+  KO: 까먹었어. 내가 무슨 임무 중이었지?
+/converse/novakid/default/5
+  EN: Sometimes I forget that I'm on duty!
+  KO: 가끔 내가 근무 중이라는 걸 잊어버려!
+/converse/novakid/default/6
+  EN: You ain't a perp yerself right? I forget who I'm after sometimes.
+  KO: 너 범죄자는 아니지? 내가 누굴 쫓는지 가끔 까먹어.
+/converse/novakid/default/7
+  EN: Howdy! I'm keepin' an itchy trigger finger on my pistol, just in case o' trouble.
+  KO: 안녕! 무슨 일 있을까 봐 권총에 손가락 올리고 있어.
+/converse/novakid/default/8
+  EN: I'm keepin' the peace around here. Y'all ain't got anythin' to worry about!
+  KO: 여기 평화 지키는 중이야. 걱정할 거 없어!
+/converse/novakid/default/9
+  EN: Howdy there! I hope you're keepin' out of trouble! Jus' kiddin', I know you ain't.
+  KO: 안녕하신가! 말썽 안 부리고 있길 바라네! 농담이야, 안 그럴 거 알지.
+
+===== /dialog/saturnKytaguard.config.patch =====
+/hail/apex/default/0
+  EN: Stay silent, traveller, and do not cause any trouble.
+  KO: 조용히 해, 여행자, 말썽은 피우지 마.
+/hail/apex/default/1
+  EN: Obey the Miniknog.
+  KO: 미니크녹에게 복종하라.
+/hail/apex/default/2
+  EN: Big Ape is watching you.
+  KO: 빅 에이프가 널 지켜보고 있다.
+/hail/apex/default/3
+  EN: Acts of aggression will not be tolerated.
+  KO: 공격 행위는 용납되지 않는다.
+/hail/apex/default/4
+  EN: Every act has repercussions.
+  KO: 모든 행동엔 대가가 따른다.
+/hail/apex/default/5
+  EN: All hail Big Ape! Celebrate his glorious rule!
+  KO: 위대한 큰형님 만세! 그의 영광스러운 통치를 축하하라!
+/hail/apex/default/6
+  EN: I love Big Ape.
+  KO: 빅 에이프가 좋아.
+/hail/apex/default/7
+  EN: Big Ape loves us all, except the ones he doesn't.
+  KO: 빅 에이프는 우리 모두를 사랑한다, 사랑하지 않는 이들만 빼고.
+/hail/apex/default/8
+  EN: Mouth shut, eyes forward.
+  KO: 입 다물고, 눈은 정면.
+/hail/apex/default/9
+  EN: Bow to the Miniknog.
+  KO: 미니크녹에게 절하라.
+/hail/avian/default/0
+  EN: Don't try me.
+  KO: 날 시험 마.
+/hail/avian/default/1
+  EN: If we fight, you will lose.
+  KO: 싸우면 네가 져.
+/hail/avian/default/2
+  EN: I'm afraid I must ask you to move along.
+  KO: 미안하지만 이만 가 주셔야겠습니다.
+/hail/avian/default/3
+  EN: I hope your time here is pleasant.
+  KO: 여기 있는 동안 즐겁길 바란다.
+/hail/avian/default/4
+  EN: Just try not to put a cat amongst the pigeons.
+  KO: 괜히 평지풍파만 일으키지 말아 줘.
+/hail/avian/default/5
+  EN: You're welcome here, as long as you respect our home.
+  KO: 우리 집을 존중하는 한 여기서 환영이야.
+/hail/avian/default/6
+  EN: I can't spar right now...
+  KO: 지금은 대련할 수 없어...
+/hail/avian/default/7
+  EN: I hope we can get along.
+  KO: 잘 지내길.
+/hail/avian/default/8
+  EN: As long as you don't break anything or kill anyone, you are welcome here.
+  KO: 뭘 부수거나 누굴 죽이지만 않으면, 여긴 환영한다.
+/hail/avian/default/9
+  EN: Avians have been great warriors since time immemorial.
+  KO: 아비안은 아득한 옛날부터 위대한 전사였다.
+/hail/default/default/0
+  EN: I've got my eye on you.
+  KO: 널 주시하고 있어.
+/hail/default/default/1
+  EN: Keep on the straight and narrow, you.
+  KO: 바른길로 가라, 이놈아.
+/hail/default/default/2
+  EN: We don't tolerate miscreants here.
+  KO: 여기서 말썽꾼은 용납 안 해.
+/hail/default/default/3
+  EN: Move along.
+  KO: 계속 가.
+/hail/floran/default/0
+  EN: Sstay out of trouble.
+  KO: 말썽은 피우지 마아.
+/hail/floran/default/1
+  EN: Floran does not like your face.
+  KO: 플로란은 네 얼굴 마음에 안 든다.
+/hail/floran/default/2
+  EN: No ssilliness.
+  KO: 장난 안 돼.
+/hail/floran/default/3
+  EN: Behave yourssself.
+  KO: 얌전히 있어라아.
+/hail/floran/default/4
+  EN: Floran wantsss to stab sssomething...
+  KO: 플로란은 뭔가 찌르고 싶다...
+/hail/floran/default/5
+  EN: Floran is hungry...
+  KO: 플로란은 배고프다...
+/hail/floran/default/6
+  EN: Give Floran a reassson.
+  KO: 플로란에게 이유를 대 봐라.
+/hail/floran/default/7
+  EN: Don't tempt Floran.
+  KO: 플로란 화나게 하지 마.
+/hail/floran/default/8
+  EN: Keep moving, sstranger.
+  KO: 계속 움직여, 나그네ㅅㅅ.
+/hail/floran/default/9
+  EN: Troublemakers are tasty.
+  KO: 말썽꾸러기는 맛있어.
+/hail/glitch/default/0
+  EN: Cautious. Behave yourself.
+  KO: 경계. 얌전히 있어라.
+/hail/glitch/default/1
+  EN: Suspicious. What is your purpose here?
+  KO: 의심. 여기서 무슨 목적인가?
+/hail/glitch/default/2
+  EN: Inexperienced. Eep!
+  KO: 미숙. 꺅!
+/hail/glitch/default/3
+  EN: Alert. Who are you?
+  KO: 경계. 누구인가?
+/hail/glitch/default/4
+  EN: Optimistic. I'm sure you won't be any trouble.
+  KO: 낙관. 말썽은 안 부릴 것 같군.
+/hail/glitch/default/5
+  EN: Reticent. You won't be a problem...
+  KO: 과묵. 문제는 안 일으키겠지...
+/hail/glitch/default/6
+  EN: Stern. You behave yourself.
+  KO: 엄격. 얌전히 있어라.
+/hail/glitch/default/7
+  EN: Insincere. Have an absolutely wonderful day.
+  KO: 불성실. 아주아주 좋은 하루 보내게.
+/hail/glitch/default/8
+  EN: Dismissive. Try not to get yourself killed.
+  KO: 무시. 안 죽게 조심하게.
+/hail/glitch/default/9
+  EN: Concerned. Should you be here?
+  KO: 우려. 여기 있어도 되는가?
+/hail/human/default/0
+  EN: Watch yourself, stranger.
+  KO: 조심해, 이방인.
+/hail/human/default/1
+  EN: Stay out of trouble.
+  KO: 사고 치지 마.
+/hail/human/default/2
+  EN: Don't... Just don't do anything.
+  KO: 하지 마... 그냥 아무것도 하지 마.
+/hail/human/default/3
+  EN: Try not to destroy anything.
+  KO: 뭐든 부수지 말아줘.
+/hail/human/default/4
+  EN: I'm watching you.
+  KO: 지켜보고 있어.
+/hail/human/default/5
+  EN: You better not try anything.
+  KO: 괜한 짓 안 하는 게 좋을 거야.
+/hail/human/default/6
+  EN: I'm super tough, better not cross me.
+  KO: 난 엄청 강해, 건드리지 않는 게 좋아.
+/hail/human/default/7
+  EN: Hi! I mean... Grrr.
+  KO: 안녕! 아니... 그르르.
+/hail/human/default/8
+  EN: What's your business here?
+  KO: 여기 무슨 용건이지?
+/hail/human/default/9
+  EN: What are you lookin' at?
+  KO: 뭘 쳐다봐?
+/hail/hylotl/default/0
+  EN: Let us be peaceful, and have tranquility reign over our encounter.
+  KO: 평화롭게 지냅시다. 우리의 만남에 고요함이 깃들기를.
+/hail/hylotl/default/1
+  EN: I hope that we can each keep our steel sheathed and chambered.
+  KO: 우리 모두 무기는 칼집과 약실에 넣어 둔 채로 지낼 수 있으면 좋겠어.
+/hail/hylotl/default/2
+  EN: Walk well, stranger.
+  KO: 잘 가라, 나그네.
+/hail/hylotl/default/3
+  EN: We ask only that you behave respectfully within our jurisdiction.
+  KO: 우리 관할 안에서는 예의 바르게 행동해 주기만 하면 됩니다.
+/hail/hylotl/default/4
+  EN: Cross me and I will be forced to strike.
+  KO: 날 건드리면 칠 수밖에 없다.
+/hail/hylotl/default/5
+  EN: I hope the serenity of our surroundings will influence your actions.
+  KO: 주변의 평온함이 당신의 행동에 영향을 주길 바란다.
+/hail/hylotl/default/6
+  EN: A Hylotl warrior is trained from birth.
+  KO: 하이로틀 전사는 태어날 때부터 훈련받아.
+/hail/hylotl/default/7
+  EN: I ask that you do not blemish this place with unnecessary aggression.
+  KO: 불필요한 공격성으로 여길 더럽히지 말아줘.
+/hail/hylotl/default/8
+  EN: Do not test me.
+  KO: 날 시험하지 마.
+/hail/hylotl/default/9
+  EN: Welcome, stranger. Are you here to admire our culture?
+  KO: 환영해, 이방인. 우리 문화를 감상하러 왔어?
+/hail/novakid/default/0
+  EN: Don't cause no fuss around here, partner.
+  KO: 여기서 소란은 피우지 마, 파트너.
+/hail/novakid/default/1
+  EN: If you don't intend to cause trouble, then we'll get on jus' fine.
+  KO: 말썽 부릴 생각 없다면 잘 지낼 수 있어.
+/hail/novakid/default/2
+  EN: We're mighty fine with strangers, as long as they aren't trouble.
+  KO: 낯선 이에겐 관대하지만, 말썽꾼이 아니라면 말이지.
+/hail/novakid/default/3
+  EN: I forget, have we seen you round here before?
+  KO: 여기서 본 적 있었던가? 까먹었네.
+/hail/novakid/default/4
+  EN: Hope you enjoy our ol' village, partner. Jus' don't cause no trouble.
+  KO: 우리 오래된 마을을 즐기길, 파트너. 말썽만 부리지 마.
+/hail/novakid/default/5
+  EN: There's been thieves around these parts lately. We don't take kindly to stealin'.
+  KO: 요즘 근처에 도둑이 들끓어. 도둑질은 좋아하지 않아.
+/hail/saturn/avian/0
+  EN: You look like one of the monsters that destroy our cities. Uh, sorry, you probably aren't related.
+  KO: 우리 도시를 부수는 괴물들처럼 보여. 어, 미안, 관련 없을 거야.
+/hail/saturn/default/0
+  EN: Behave yourself.
+  KO: 얌전히 구세요.
+/hail/saturn/default/1
+  EN: What is your purpose here?
+  KO: 여기서 네 목적이 뭐야?
+/hail/saturn/default/3
+  EN: Who are you?
+  KO: 넌 누구야?
+/hail/saturn/default/4
+  EN: I'm sure you won't be any trouble.
+  KO: 넌 아무 문제 없을 거라고 믿어.
+/hail/saturn/default/5
+  EN: You won't be a problem...
+  KO: 넌 문제가 안 되겠네...
+/hail/saturn/default/6
+  EN: You behave yourself.
+  KO: 얌전히 있어.
+/hail/saturn/default/7
+  EN: I'm just here for the pixels.
+  KO: 난 그냥 픽셀 보러 온 거야.
+/hail/saturn/default/8
+  EN: Dismissive. Try not to get yourself killed.
+  KO: 무시. 안 죽게 조심하게.
+/hail/saturn/default/9
+  EN: Concerned. Should you be here?
+  KO: 우려. 여기 있어도 되는가?
+/hail/saturn/saturn/0
+  EN: You just walked here? Why didn't you take the teleporter?
+  KO: 그냥 걸어왔어? 왜 텔레포터 안 썼어?
+/hail/saturn/saturn/1
+  EN: You're not from here. Do you have anything you could trade?
+  KO: 여기 출신이 아니네. 거래할 만한 게 있어?
+/hail/saturn/saturn/2
+  EN: I'm here to
+  KO: 여긴
+/hail/saturn/saturn/4
+  EN: Should you be here?
+  KO: 여기 있어도 되는 거야?
+
+===== /dialog/saturnWaspmim.config.patch =====
+/attack/default/default/0
+  EN: S-stay back!
+  KO: 물-물러나!
+/attack/default/default/1
+  EN: I'll defend the others!
+  KO: 다른 이들을 지킬게!
+/attack/default/default/2
+  EN: I can stop them!
+  KO: 놈들을 막을 수 있어!
+/attack/default/default/3
+  EN: These stingers aren't just for show! ^#666666;They are absolutely for show...^reset;
+  KO: 이 침들은 그냥 보여주기용이 아니다! ^#666666;사실 완전히 보여주기용이지만...^reset;
+/attack/default/vespoid/0
+  EN: S-stay back!
+  KO: 물-물러나!
+/attack/default/vespoid/1
+  EN: I'll defend the others!
+  KO: 다른 이들을 지킬게!
+/attack/default/vespoid/2
+  EN: I can stop them!
+  KO: 놈들을 막을 수 있어!
+/attack/default/vespoid/3
+  EN: You aren't one of us?!
+  KO: 너 우리 아냐?!
+/attack/default/vespoid/5
+  EN: Traitor bee! Traitor bee!
+  KO: 배신자 벌! 배신자 벌!
+/attack/default/vespoid/6
+  EN: BUZZ! TRAITOR! BUZZ!
+  KO: 쥐이잉! 배신자! 쥐이잉!
+/attack/default/wasphive/0
+  EN: S-stay back!
+  KO: 물-물러나!
+/attack/default/wasphive/1
+  EN: I'll defend the others!
+  KO: 다른 이들을 지킬게!
+/attack/default/wasphive/2
+  EN: I can stop them!
+  KO: 놈들을 막을 수 있어!
+/attack/default/wasphive/3
+  EN: You aren't one of us?!
+  KO: 너 우리 아냐?!
+/attack/default/wasphive/5
+  EN: Traitor wasp! Traitor wasp!
+  KO: 배신자 말벌! 배신자 말벌!
+/attack/default/wasphive/6
+  EN: BUZZ! TRAITOR! BUZZ!
+  KO: 쥐이잉! 배신자! 쥐이잉!
+/beefriendhail/default/default/0
+  EN: Everything seems to be fine.
+  KO: 다 괜찮은 것 같다.
+/beefriendhail/saturn/apiarian/0
+  EN: A real bee?! Can I have your autograph!
+  KO: 진짜 벌?! 사인 좀 해줘!
+/beefriendhail/saturn/apiarian/2
+  EN: Hello fellow bee.
+  KO: 안녕, 벌 동료.
+/beefriendhail/saturn/apiarian/3
+  EN: Hello bee friend.
+  KO: 안녕, 벌 친구.
+/beefriendhail/saturn/apiarian/4
+  EN: Are the Apiarians still searching for a flower world?
+  KO: 아피어리안은 아직도 꽃의 행성을 찾고 있나요?
+/beefriendhail/saturn/apiarian/5
+  EN: I don't beelieve it!
+  KO: 믿을 수 없어어!
+/beefriendhail/saturn/apiarian/6
+  EN: We apologize for the mimicry. Our survival used to depend on it. Nowadays, I'm not sure.
+  KO: 모방해서 미안해. 우리 생존이 예전엔 그것에 달렸거든. 요즘은 잘 모르겠어.
+/beefriendhail/saturn/apiarian/7
+  EN: Have you heard that saying about imitation?
+  KO: 모방에 대한 속담 들어봤어?
+/beefriendhail/saturn/generic/1
+  EN: Buzz buzz.
+  KO: 윙윙.
+/beefriendhail/saturn/generic/10
+  EN: I sure love light, I mean honey.
+  KO: 빛이 정말 좋아, 아니 꿀.
+/beefriendhail/saturn/generic/11
+  EN: My strength matches a wasp's love for honey.
+  KO: 내 힘은 말벌의 꿀 사랑만큼 강해.
+/beefriendhail/saturn/generic/12
+  EN: This place should be safe since we are THE BEST!
+  KO: 이곳은 안전할 거다, 우리가 최고니까!
+/beefriendhail/saturn/generic/2
+  EN: Buzz buzz buzz.
+  KO: 윙윙윙.
+/beefriendhail/saturn/generic/5
+  EN: Squeak, I-I-I mean BUZZ!
+  KO: 찍찍, 아-아-아니 윙윙!
+/beefriendhail/saturn/generic/6
+  EN: A bee I am... Not?!
+  KO: 벌인 내가... 아니?!
+/beefriendhail/saturn/generic/7
+  EN: I am glad that bees like me have the means to defend ourselves, and that we don't have to pretend to be strong.
+  KO: 나 같은 벌도 스스로 지킬 수단이 있고, 강한 척 안 해도 돼서 기뻐.
+/beefriendhail/saturn/generic/8
+  EN: The scenery around here is beautiful!
+  KO: 이 근처 풍경이 아름답네요!
+/beefriendhail/saturn/generic/9
+  EN: Zzzzz... Huh? I wasn't sleeping!
+  KO: 즈즈즈... 응? 안 잤어!
+/beefriendhail/saturn/satkyterran/0
+  EN: You might be a strong antlion, but you don't have a cool stinger like we do!
+  KO: 넌 강한 개미귀신일지 몰라도 우리 같은 멋진 침은 없어!
+/beefriendhail/saturn/satkyterran/1
+  EN: Buzzah! That's Waspmim for huzzah.
+  KO: 버자! 와스프밈 말로 만세야.
+/beefriendhail/saturn/satkyterran/2
+  EN: Hello antlion friend.
+  KO: 안녕, 개미귀신 친구.
+/beefriendhail/saturn/saturn/0
+  EN: Hello moth friend.
+  KO: 안녕, 나방 친구.
+/beefriendhail/saturn/saturn2/0
+  EN: Hello moth friend.
+  KO: 안녕, 나방 친구.
+/beefriendhail/saturn/vespoid/0
+  EN: Hello fellow bee.
+  KO: 안녕, 벌 동료.
+/beefriendhail/saturn/vespoid/1
+  EN: Hello bee friend.
+  KO: 안녕, 벌 친구.
+/beefriendhail/saturn/vespoid/2
+  EN: Are you a bee or a wasp?
+  KO: 넌 벌이야 말벌이야?
+/beefriendhail/saturn/vespoid/3
+  EN: I don't beelieve it!
+  KO: 믿을 수 없어어!
+/beefriendhail/saturn/wasphive/0
+  EN: Oh! Hello wasp friend.
+  KO: 오! 안녕, 말벌 친구.
+/beefriendhail/saturn/wasphive/1
+  EN: I don't beelieve it!
+  KO: 믿을 수 없어어!
+/beefriendhail/saturn/wasphive/2
+  EN: Hello fellow bee. Oh, are you a wasp?
+  KO: 안녕 벌 친구. 오, 너 말벌이야?
+/cantReach/default/default/0
+  EN: Get over here!
+  KO: 이리 와!
+/cantReach/default/default/1
+  EN: Come here!
+  KO: 이리 와!
+/cantReach/default/default/2
+  EN: Get back here!
+  KO: 이리 돌아와!
+/cantReach/default/default/3
+  EN: How did you get over there?
+  KO: 어떻게 저기까지 왔어?
+/cantReach/default/default/4
+  EN: I can't reach!
+  KO: 손이 안 닿아!
+/cheerOn/default/default/0
+  EN: Together we can stop them!
+  KO: 우리가 함께하면 그들을 막을 수 있어!
+/cheerOn/default/default/1
+  EN: Let's defeat them!
+  KO: 저놈들을 무찌르자!
+/cheerOn/default/default/2
+  EN: Buzz buzz buzz!
+  KO: 윙윙 윙윙 윙윙!
+/cheerOn/default/default/3
+  EN: Into the defense formation!
+  KO: 방어 대형으로!
+/cheerOn/default/default/4
+  EN: Come on!
+  KO: 어서!
+/hail/default/default/0
+  EN: I've got my eye on you.
+  KO: 널 주시하고 있어.
+/hail/default/default/1
+  EN: Keep on the straight and narrow, you.
+  KO: 바른길로 가라, 이놈아.
+/hail/default/default/2
+  EN: We don't tolerate miscreants here.
+  KO: 여기서 말썽꾼은 용납 안 해.
+/hail/default/default/3
+  EN: Move along.
+  KO: 계속 가.
+/hail/saturn/apiarian/0
+  EN: GASP! Could it be? A BEE?!
+  KO: 헉! 설마? 벌?!
+/hail/saturn/apiarian/1
+  EN: Oh my gosh!
+  KO: 오 이런!
+/hail/saturn/apiarian/10
+  EN: GASP! A b-b-bee!
+  KO: 헉! 벌-벌-벌!
+/hail/saturn/apiarian/11
+  EN: We apologize for the mimicry. Our survival used to depend on it. Nowadays, I'm not sure.
+  KO: 모방해서 미안해. 우리 생존이 예전엔 그것에 달렸거든. 요즘은 잘 모르겠어.
+/hail/saturn/apiarian/12
+  EN: Whoa?! Are you the species we've been mimicking?
+  KO: 뭐?! 네가 우리가 흉내 낸 종족이야?
+/hail/saturn/apiarian/13
+  EN: Have you heard that saying about imitation?
+  KO: 모방에 대한 속담 들어봤어?
+/hail/saturn/apiarian/2
+  EN: A real bee?! Can I have your autograph!
+  KO: 진짜 벌?! 사인 좀 해줘!
+/hail/saturn/apiarian/4
+  EN: The Great Bee told us this day would come.
+  KO: 위대한 벌께서 이날이 올 거라고 말씀하셨지.
+/hail/saturn/apiarian/5
+  EN: Hello fellow bee.
+  KO: 안녕, 벌 동료.
+/hail/saturn/apiarian/6
+  EN: Hello bee friend.
+  KO: 안녕, 벌 친구.
+/hail/saturn/apiarian/7
+  EN: Are you an Apiarian?
+  KO: 아피아리안이야?
+/hail/saturn/apiarian/8
+  EN: An Apiarian! Have you found a flower world?
+  KO: 아피아리안이잖아! 꽃의 세계는 찾았어?
+/hail/saturn/apiarian/9
+  EN: I don't beelieve it!
+  KO: 믿을 수 없어어!
+/hail/saturn/generic/1
+  EN: Buzz buzz.
+  KO: 윙윙.
+/hail/saturn/generic/10
+  EN: I sure love light, I mean honey.
+  KO: 빛이 정말 좋아, 아니 꿀.
+/hail/saturn/generic/11
+  EN: My strength matches a wasp's love for honey.
+  KO: 내 힘은 말벌의 꿀 사랑만큼 강해.
+/hail/saturn/generic/12
+  EN: I hope this place is safe. Not that THAT MATTERS since we are THE BEST!
+  KO: 여기가 안전하면 좋겠어. 뭐, 우리가 최고인데 그런 게 무슨 상관이겠어!
+/hail/saturn/generic/13
+  EN: We are the proud, brave, and invincible Waspmim. Do not even think of attacking us. We should be friends instead!
+  KO: 우리는 자랑스럽고 용맹한 불패의 와스프밈. 공격할 생각도 마라. 대신 친구가 되자!
+/hail/saturn/generic/2
+  EN: Buzz buzz buzz.
+  KO: 윙윙윙.
+/hail/saturn/generic/5
+  EN: Squeak, I-I-I mean BUZZ!
+  KO: 찍찍, 아-아-아니 윙윙!
+/hail/saturn/generic/6
+  EN: A bee I am... Not?!
+  KO: 벌인 내가... 아니?!
+/hail/saturn/generic/7
+  EN: I am glad that bees like me have the means to defend ourselves, and that we don't have to pretend to be strong.
+  KO: 나 같은 벌도 스스로 지킬 수단이 있고, 강한 척 안 해도 돼서 기뻐.
+/hail/saturn/generic/8
+  EN: Did you come to admire our beautiful wax architecture?
+  KO: 우리 아름다운 밀랍 건축 감상하러?
+/hail/saturn/generic/9
+  EN: Zzzzz... Huh? I wasn't sleeping!
+  KO: 즈즈즈... 응? 안 잤어!
+/hail/saturn/satkyterran/0
+  EN: You might be a strong antlion, but you don't have a cool stinger like we do!
+  KO: 넌 강한 개미귀신일지 몰라도 우리 같은 멋진 침은 없어!
+/hail/saturn/satkyterran/1
+  EN: Buzzah! That's Waspmim for huzzah.
+  KO: 버자! 와스프밈 말로 만세야.
+/hail/saturn/satkyterran/2
+  EN: So do you eat all hymenopterans, or just ants? Because if you eat bees too, I've got some news for you...
+  KO: 그래서 너희는 막시목 곤충을 전부 먹는 거야, 아니면 개미만 먹는 거야? 벌까지 먹는다면 내가 들려줄 소식이 좀 있거든...
+/hail/saturn/saturn/0
+  EN: A moth? How do you defend yourself?
+  KO: 나방? 어떻게 몸을 지키니?
+/hail/saturn/saturn/1
+  EN: Hello moth friend.
+  KO: 안녕, 나방 친구.
+/hail/saturn/saturn2/0
+  EN: A moth? How do you defend yourself?
+  KO: 나방? 어떻게 몸을 지키니?
+/hail/saturn/saturn2/1
+  EN: Hello moth friend.
+  KO: 안녕, 나방 친구.
+/hail/saturn/vespoid/0
+  EN: GASP! Could it be? A BEE?!
+  KO: 헉! 설마? 벌?!
+/hail/saturn/vespoid/1
+  EN: Oh my gosh!
+  KO: 오 이런!
+/hail/saturn/vespoid/10
+  EN: Whoa?! Are you the species we've been mimicking?
+  KO: 뭐?! 네가 우리가 흉내 낸 종족이야?
+/hail/saturn/vespoid/11
+  EN: Huh?! A bee?! You aren't an Apiarian, though. Where are you from?
+  KO: 엉?! 벌?! 근데 아피아리안은 아니네. 어디서 왔어?
+/hail/saturn/vespoid/12
+  EN: Have you heard that saying about imitation?
+  KO: 모방에 대한 속담 들어봤어?
+/hail/saturn/vespoid/2
+  EN: A real bee?! Can I have your autograph!
+  KO: 진짜 벌?! 사인 좀 해줘!
+/hail/saturn/vespoid/4
+  EN: Hello fellow bee.
+  KO: 안녕, 벌 동료.
+/hail/saturn/vespoid/5
+  EN: Hello bee friend.
+  KO: 안녕, 벌 친구.
+/hail/saturn/vespoid/6
+  EN: Are you a bee or a wasp?
+  KO: 넌 벌이야 말벌이야?
+/hail/saturn/vespoid/7
+  EN: I don't beelieve it!
+  KO: 믿을 수 없어어!
+/hail/saturn/vespoid/8
+  EN: GASP! A b-b-bee!
+  KO: 헉! 벌-벌-벌!
+/hail/saturn/vespoid/9
+  EN: We apologize for the mimicry. Our survival used to depend on it. Nowadays, I'm not sure.
+  KO: 모방해서 미안해. 우리 생존이 예전엔 그것에 달렸거든. 요즘은 잘 모르겠어.
+/hail/saturn/wasphive/0
+  EN: Oh! Wasp! Hello wasp friend.
+  KO: 오! 말벌! 안녕 말벌 친구.
+/hail/saturn/wasphive/1
+  EN: Oh my gosh!
+  KO: 오 이런!
+/hail/saturn/wasphive/2
+  EN: A WASP?!
+  KO: 말벌?!
+/hail/saturn/wasphive/3
+  EN: I don't beelieve it!
+  KO: 믿을 수 없어어!
+/hail/saturn/wasphive/4
+  EN: Hello fellow bee. Oh, are you a wasp?
+  KO: 안녕 벌 친구. 오, 너 말벌이야?
+/hail/saturn/wasphive/5
+  EN: We apologize for the mimicry. Our survival used to depend on it. Nowadays, I'm not sure.
+  KO: 모방해서 미안해. 우리 생존이 예전엔 그것에 달렸거든. 요즘은 잘 모르겠어.
+/hail/saturn/wasphive/6
+  EN: Whoa?! Are you the species we've been mimicking?
+  KO: 뭐?! 네가 우리가 흉내 낸 종족이야?
+/hail/saturn/wasphive/7
+  EN: Have you heard that saying about imitation?
+  KO: 모방에 대한 속담 들어봤어?
+/killedTarget/default/default/0
+  EN: I did it?
+  KO: 내가 해냈다고?
+/killedTarget/default/default/1
+  EN: I won!
+  KO: 내가 이겼다!
+/killedTarget/default/default/10
+  EN: That was stressful...
+  KO: 스트레스 많이 받았어요...
+/killedTarget/default/default/11
+  EN: They didn't run?
+  KO: 도망치지 않았다고?
+/killedTarget/default/default/5
+  EN: Please forgive me!
+  KO: 용서해줘!
+/killedTarget/default/default/6
+  EN: I'm sorry!
+  KO: 미안해!
+/killedTarget/default/default/7
+  EN: Is everyone OK?
+  KO: 다들 괜찮아?
+/killedTarget/default/vespoid/1
+  EN: Am I a true bee warrior now?!
+  KO: 나 이제 진짜 벌 전사가 된 건가?!
+/killedTarget/default/vespoid/2
+  EN: I defeated the bee?! HOW?!
+  KO: 내가 저 벌을 이겼다고?! 어떻게?!
+/killedTarget/default/wasphive/1
+  EN: Am I a true wasp warrior now?!
+  KO: 나 이제 진짜 말벌 전사가 된 건가?!
+/killedTarget/default/wasphive/2
+  EN: I defeated the wasp?! HOW?!
+  KO: 내가 저 말벌을 이겼다고?! 어떻게?!
+/lostTarget/default/default/0
+  EN: They're gone...
+  KO: 사라졌어...
+/lostTarget/default/default/1
+  EN: Did they run away?
+  KO: 그들이 도망쳤나요?
+/lostTarget/default/default/2
+  EN: Is it over?
+  KO: 끝난 거야?
+/lostTarget/default/default/3
+  EN: Where are you...
+  KO: 어디야?
+/outOfSight/default/default/1
+  EN: They're getting away!
+  KO: 도망가고 있어요!
+/outOfSight/default/default/2
+  EN: Where'd you go?
+  KO: 어디 갔어?
+/outOfSight/default/default/3
+  EN: Get back here!
+  KO: 이리 돌아와!
+/outOfSight/default/default/4
+  EN: How did this happen?
+  KO: 어떻게 된 거야?
+/reattack/default/default/0
+  EN: Eep! There back?!
+  KO: 으악! 다시 왔어?!
+/reattack/default/default/1
+  EN: Not again!
+  KO: 또야!
+/reattack/default/default/3
+  EN: I'll... stop you... now?!
+  KO: 내가... 막을... 거야?!
+/reattack/default/default/4
+  EN: You came back?
+  KO: 돌아왔어?
+/reattack/default/vespoid/0
+  EN: Eep! There back?!
+  KO: 으악! 다시 왔어?!
+/reattack/default/vespoid/1
+  EN: Not again!
+  KO: 또야!
+/reattack/default/vespoid/3
+  EN: I'll... stop you... now?!
+  KO: 내가... 막을... 거야?!
+/reattack/default/vespoid/4
+  EN: You came back?
+  KO: 돌아왔어?
+/reattack/default/vespoid/6
+  EN: The traitor returns!
+  KO: 배신자 귀환!
+/reattack/default/wasphive/0
+  EN: Eep! There back?!
+  KO: 으악! 다시 왔어?!
+/reattack/default/wasphive/1
+  EN: Not again!
+  KO: 또야!
+/reattack/default/wasphive/3
+  EN: I'll... stop you... now?!
+  KO: 내가... 막을... 거야?!
+/reattack/default/wasphive/4
+  EN: You came back?
+  KO: 돌아왔어?
+/reattack/default/wasphive/6
+  EN: The traitor returns!
+  KO: 배신자 귀환!
+
+===== /dialog/sb_friendlyminer.config.patch =====
+/converse/apex/default/0
+  EN: I'm doing some research into nearby planetary ores.
+  KO: 인근 행성의 광물을 좀 연구하고 있어.
+/converse/apex/default/1
+  EN: I'm a miner by trade. Gathering local ores is my skill.
+  KO: 직업은 광부야. 현지 광석을 채집하는 게 내 기술이지.
+/converse/apex/default/2
+  EN: I used to mine for the Miniknog. I prefer this position.
+  KO: 예전엔 미니크녹을 위해 채굴했어. 지금 이 자리가 더 좋아.
+/converse/apex/default/3
+  EN: I'll collect some ores for you, come visit me now and then!
+  KO: 너를 위해 광석을 좀 모아둘게, 가끔 들러줘!
+/converse/apex/default/4
+  EN: I'm scouting the area for ores. I'll give you some if I find any!
+  KO: 이 지역에서 광물을 찾고 있어. 찾으면 좀 나눠줄게!
+/converse/avian/default/0
+  EN: Have you found any interesting things on your mining journeys?
+  KO: 채굴 여정에서 흥미로운 걸 찾았어?
+/converse/avian/default/1
+  EN: If I find anything exciting whilst mining, I'll try to share with you!
+  KO: 채굴 중에 흥미로운 걸 발견하면, 너랑 나눠보려고 할게!
+/converse/avian/default/2
+  EN: Would you like me to gather some ores for you?
+  KO: 광물 좀 캐다 드릴까?
+/converse/avian/default/3
+  EN: I can find ores where no-one else can - I have a keen eye!
+  KO: 아무도 못 찾는 광석도 난 찾을 수 있어 - 눈썰미가 좋거든!
+/converse/avian/default/4
+  EN: My keen eye helps me find ores that no-one else can!
+  KO: 내 예리한 눈은 다른 누구도 찾지 못하는 광석을 찾아내는 데 도움이 돼!
+/converse/default/default/0
+  EN: I'm a miner! Can you tell?
+  KO: 난 광부야! 딱 봐도 알겠지?
+/converse/floran/default/0
+  EN: Floran sssearch for rocksss in ground. Will ssshare, maybe.
+  KO: 플로란은 땅 속 돌 찾는다. 나눠줄 수도, 어쩌면.
+/converse/floran/default/1
+  EN: You wantsss some shiny rocksss? Floran can find sssome for you.
+  KO: 반짝이는 돌멩이 원해? 플로란이 찾아줄 수 있어.
+/converse/floran/default/2
+  EN: Floran wantsss to find ssshiny rocksss in ground.
+  KO: 플로란은 땅 속 반짝이는 돌 찾고 싶다.
+/converse/floran/default/3
+  EN: Floran hunting! Not for ssstabbing, but finding shiny rocksss.
+  KO: 플로란은 사냥 중! 찌르기 위해서가 아니라, 반짝이는 돌 찾으려고.
+/converse/floran/default/4
+  EN: Floran wantsss to ssstab rocksss with pickaxe! Might ssshare sssome, too.
+  KO: 플로란은 곡괭이로 돌 찌르고 싶다! 좀 나눠줄 수도 있다.
+/converse/glitch/default/0
+  EN: Eager. I am excited to search for local ores.
+  KO: 열망. 지역 광석을 찾는 게 기대돼.
+/converse/glitch/default/1
+  EN: Friendly. I'm searching for ores, and I'll let you have some if I find any.
+  KO: 다정함. 광석을 찾고 있는데, 찾으면 좀 나눠줄게.
+/converse/glitch/default/2
+  EN: Excited. I have a feeling that I'll find lots of ores!
+  KO: 신남. 광석을 많이 찾을 것 같은 예감이 들어!
+/converse/glitch/default/3
+  EN: Nervous. I'm not sure how many ores I can find around here.
+  KO: 긴장함. 여기서 광석을 얼마나 찾을 수 있을지 모르겠어.
+/converse/glitch/default/4
+  EN: Welcoming. I wish to share some ores with you, once I find some.
+  KO: 광석을 찾으면 너와 좀 나누고 싶어.
+/converse/human/default/0
+  EN: I'm surveying the area for ores. I hope I'll find some!
+  KO: 이 지역에서 광물을 조사하고 있어. 좀 찾았으면 좋겠는데!
+/converse/human/default/1
+  EN: Always wear a hard hat when you're out mining! Safety first!
+  KO: 채굴하러 나갈 땐 항상 안전모를 써! 안전이 최우선이야!
+/converse/human/default/2
+  EN: If I find any cool ores in my expeditions, I'll let you know!
+  KO: 탐사 중에 멋진 광물을 발견하면, 알려줄게!
+/converse/human/default/3
+  EN: Folks like me know how to find ores where no-one else can.
+  KO: 저 같은 사람들은 남들이 못 찾는 곳에서 광석 찾는 법을 압니다.
+/converse/human/default/4
+  EN: If I find some ores, I'll give you a share!
+  KO: 광물을 좀 찾으면, 나눠줄게!
+/converse/hylotl/default/0
+  EN: There is an art to gathering materials from the ground beneath us.
+  KO: 발밑 땅에서 재료를 모으는 데에도 기술이 필요하다.
+/converse/hylotl/default/1
+  EN: I am venturing for rare ores. I could give you some if I find any extra.
+  KO: 희귀한 광석을 찾아 모험 중이야. 여분이 생기면 좀 줄 수 있어.
+/converse/hylotl/default/2
+  EN: Your digging tool is quite elegant. Perhaps one day I could find one for myself.
+  KO: 네 채굴 도구가 꽤 우아하네. 언젠가 나도 하나 찾고 싶다.
+/converse/hylotl/default/3
+  EN: Mining with a pickaxe is the traditional method. There's an art to it!
+  KO: 곡괭이로 채굴하는 건 전통적인 방식이다. 거기에도 나름의 기술이 있지!
+/converse/hylotl/default/4
+  EN: I shall share any ores I find with you.
+  KO: 내가 찾는 광석은 뭐든 너와 나누겠다.
+/converse/novakid/default/0
+  EN: I'm the miner 'round these parts. Here's hopin' I strike gold!
+  KO: 이 근방 광부야. 금 한번 캐봐야지!
+/converse/novakid/default/1
+  EN: Folks like me don't need to bring torches when we go spelunkin', but we do it anyway so we can find our way back.
+  KO: 저 같은 사람들은 동굴 탐험 갈 때 횃불 가져올 필요 없지만, 돌아갈 길 찾으려고 그래도 챙깁니다.
+/converse/novakid/default/2
+  EN: That's a mighty fine Matter Manipulator yer've got there. Betcha I can mine faster, partner!
+  KO: 거기 그 물질 조작기 정말 좋은 물건이네. 내가 더 빨리 채굴할 수 있다는 데 걸지, 파트너!
+/converse/novakid/default/3
+  EN: Lotsa dangerous critters down in the mines-- mining ain't as borin' as they say it is.
+  KO: 광산에는 위험한 크리터가 잔뜩 있어-- 채굴이 다들 말하는 것만큼 지루하지는 않아.
+/converse/novakid/default/4
+  EN: Don't you worry yerself none; I'll give yer a cut of the yield when I can.
+  KO: 걱정하지 마셔, 할 수 있을 때 수확물 좀 나눠줄 테니까.
+/rent/apex/default/0
+  EN: I have found some ores for you!
+  KO: 널 위해 광석을 좀 찾았어!
+/rent/apex/default/1
+  EN: Here - Take these ores as thanks.
+  KO: 여기 - 감사의 뜻으로 이 광물을 받아.
+/rent/apex/default/2
+  EN: Take this ore as thanks for your time.
+  KO: 시간 내줘서 고마운 뜻으로 이 광석을 받아.
+/rent/avian/default/0
+  EN: Kluex has blessed me with finding some useful ores. Take some, as thanks!
+  KO: 클루엑스께서 쓸모 있는 광석을 찾도록 축복해주셨어. 감사의 뜻으로 좀 가져가!
+/rent/avian/default/1
+  EN: My venturing has paid off! Here are some materials for you.
+  KO: 내 모험이 성과를 거뒀다! 여기 자재 좀 받아.
+/rent/avian/default/2
+  EN: I have found these materials for you. Hopefully they are to your liking.
+  KO: 널 위해 이 재료들을 찾았어. 마음에 들었으면 좋겠네.
+/rent/default/default/0
+  EN: Here's some ore!
+  KO: 여기 광물이에요!
+/rent/default/default/1
+  EN: Take this ore!
+  KO: 이 광석 받아!
+/rent/floran/default/0
+  EN: Floran found ssssome ssshiny rocksss!
+  KO: 플로란이 반짝이는 돌 좀 찾았다!
+/rent/floran/default/1
+  EN: Floran found ssshiny thing!
+  KO: 플로란이 반짝이는 물건 찾았다!
+/rent/floran/default/2
+  EN: Floran found sssome things. You ssshould take!
+  KO: 플로란이 뭔가 좀 찾았다. 너 가져가야 한다!
+/rent/glitch/default/0
+  EN: Pleased. My venture was a success.
+  KO: 만족. 내 사업이 성공했어.
+/rent/glitch/default/1
+  EN: Altruistic. Please take these ores I found.
+  KO: 이타적. 제가 찾은 이 광석들 가져가세요.
+/rent/glitch/default/2
+  EN: Generous. I found some ores you might be interested in.
+  KO: 관대. 자네가 관심을 가질 만한 광석을 좀 찾았네.
+/rent/human/default/0
+  EN: I found some ores! Here you go!
+  KO: 광석을 좀 찾았어! 여기 있어!
+/rent/human/default/1
+  EN: I found some ores! Here's some for you.
+  KO: 광석을 좀 찾았어! 여기 네 몫이야.
+/rent/human/default/2
+  EN: Here's something I found around here. It's for you!
+  KO: 여기서 찾은 거예요. 당신 거예요!
+/rent/hylotl/default/0
+  EN: I am feeling altruistic, please take these ores I mined.
+  KO: 이타적인 기분이야, 내가 캔 이 광물들 좀 가져가.
+/rent/hylotl/default/1
+  EN: I've stumbled upon some raw materials you might want.
+  KO: 네가 관심 있을 만한 원자재를 발견했어.
+/rent/hylotl/default/2
+  EN: I hope these ores I mined bring you happiness.
+  KO: 내가 캔 이 광석들이 네게 행복을 가져다줬으면 좋겠어.
+
+===== /dialog/sexbound/en/notifications.config.patch =====
+/events/genderchange/default
+  EN: What's this? It seems your body is rapidly generating new cellular material in your pelvis region.
+  KO: 이게 뭐야? 네 골반 부위에서 새로운 세포 조직이 빠르게 생성되고 있는 것 같은데.
+/events/genderchange/none
+  EN: You've reverted back to your default gender.
+  KO: 기본 성별로 되돌아갔다.
+/events/infertility/false
+  EN: You are no longer infertile. Careful now, unless you want to be a parent.
+  KO: 이제 불임이 아니야. 조심해, 부모가 되고 싶지 않다면.
+/events/infertility/true
+  EN: You have become infertile. I hope you weren't banking on kids.
+  KO: 불임이 되었다. 아이를 기대하고 있지 않았길.
+/events/sterilize/false
+  EN: Your sterilization has been successfully reverted. Be mindful about fertilization.
+  KO: 불임 시술이 성공적으로 되돌려졌다. 수정에 주의하길.
+/events/sterilize/true
+  EN: You have been successfully sterilized. Fertilization is now impossible.
+  KO: 성공적으로 불임 처리되었다. 이제 임신이 불가능하다.
+/plugins/pregnant/abortion/0/argonian
+  EN: As a huge lizard egg is forcefully shoved deep into your womb, your current pregnancy had to make way.
+  KO: 거대한 도마뱀 알이 강제로 네 자궁 깊숙이 밀어넣어지면서, 지금의 임신은 자리를 내줄 수밖에 없었다.
+/plugins/pregnant/abortion/0/avali
+  EN: The freezing cold avali cum filling your womb successfully sterilized whatever was growing in there.
+  KO: 얼음처럼 차가운 아발리의 정액이 자궁을 채우며, 그 안에서 자라던 것을 확실히 죽여 버렸다.
+/plugins/pregnant/abortion/0/default
+  EN: Maybe mindlessly fucking while pregnant wasn't the best idea... You are no longer pregnant. Cum gives, and cum takes.
+  KO: 임신 중에 생각 없이 섹스한 건 최선의 생각이 아니었을지도... 더 이상 임신 상태가 아니야. 정액이 주기도 하고, 정액이 빼앗기도 하지.
+/plugins/pregnant/abortion/0/floran
+  EN: The small floran vines penetrate your womb, flailing around while spraying nectar everywhere. Sadly, your pregnancy suffered from that.
+  KO: 작은 플로란 덩굴들이 자궁에 파고들어 몸부림치며 사방에 꿀을 뿌린다. 안타깝게도 임신에 해가 갔다.
+/plugins/pregnant/abortion/0/glitch
+  EN: Whatever shot out of that robot dick deep inside of you, it wasn't good for your current pregnancy.
+  KO: 네 안쪽 깊이 그 로봇 자지에서 쏟아져 나온 것이 무엇이든, 네 현재 임신에는 좋지 않았어.
+/plugins/pregnant/abortion/0/novakid
+  EN: The steaming hot novakid cum fills your womb, sizzling away any chance for your current pregnancy to conclude.
+  KO: 뜨겁게 달아오른 노바키드의 정액이 자궁을 채우며, 지금의 임신이 끝까지 이어질 가능성을 태워 없앤다.
+/plugins/pregnant/abortion/1/argonian
+  EN: As a huge lizard egg is forcefully shoved deep into your womb, you wonder how that even managed to fit?
+  KO: 거대한 도마뱀 알이 강제로 네 자궁 깊숙이 밀어넣어지면서, 대체 저게 어떻게 들어간 건지 궁금해진다.
+/plugins/pregnant/abortion/1/avali
+  EN: The freezing cold avali cum filling your womb let's a shudder run down your spine.
+  KO: 얼음처럼 차가운 아발리의 정액이 자궁을 채우자 등골을 따라 전율이 흐른다.
+/plugins/pregnant/abortion/1/default
+  EN: Maybe mindlessly fucking while pregnant wasn't the best idea...
+  KO: 임신 중에 생각 없이 섹스한 건 최선의 생각이 아니었을지도...
+/plugins/pregnant/abortion/1/floran
+  EN: The small floran vines penetrate your womb, flailing around while spraying nectar everywhere.
+  KO: 작은 플로란 덩굴들이 자궁에 파고들어 몸부림치며 사방에 꿀을 뿌린다.
+/plugins/pregnant/abortion/1/glitch
+  EN: Whatever shot out of that robot dick deep inside of you, you're pretty sure it wasn't healthy.
+  KO: 네 안쪽 깊이 그 로봇 자지에서 쏟아져 나온 것이 무엇이든, 건강에 좋진 않았을 거라고 확신해.
+/plugins/pregnant/abortion/1/novakid
+  EN: The steaming hot novakid cum fills your womb. Actually, too hot... Ouch!
+  KO: 뜨겁게 달아오른 노바키드의 정액이 자궁을 채운다. 아니, 너무 뜨겁잖아... 아야!
+/plugins/pregnant/birth/abortion
+  EN: As you swallow the pill, you feel relieved to postpone the responsibilities of being a mother.
+  KO: 알약을 삼키면서, 너는 어머니가 되는 책임을 미룰 수 있다는 데 안도감을 느낀다.
+/plugins/pregnant/birth/gaveBirth
+  EN: Congratulations! You have just given birth to a baby <babygender> named <babyname>!
+  KO: 축하합니다! 방금 <babyname>이라는 이름의 <babygender> 아기를 낳았습니다!
+/plugins/pregnant/birth/remoteGaveBirth
+  EN: <name> has just given birth to a baby <babygender> named <babyname>!
+  KO: <name>이(가) 방금 <babyname>(이)라는 <babygender> 아기를 낳았다!
+/plugins/pregnant/birth/remoteStillborn
+  EN: <name> just received a stillborn baby <babygender>...
+  KO: <name>이(가) 방금 <babygender> 아기를 사산했다...
+/plugins/pregnant/birth/stillborn
+  EN: You're baby <babygender> <babyname> is a stillborn. My condolences for your loss.
+  KO: 아기 <babygender> <babyname>은 사산아야. 삼가 위로를.
+/plugins/pregnant/pregnancy/0/pregnant
+  EN: You were just impregnanted by <name>, and you will give birth in <daycount> <daystring>!
+  KO: 방금 <name>에게 임신당했고, <daycount> <daystring> 후에 출산할 거야!
+/plugins/pregnant/pregnancy/0/remotePregnant
+  EN: You just impregnated <name>, and they will give birth in <daycount> <daystring>!
+  KO: 방금 <name>을 임신시켰고, <daycount> <daystring> 후에 출산할 거야!
+/plugins/pregnant/pregnancy/0/tentaclePregnant
+  EN: As the tentacle is penetrating your womb, you know it's too late. You are pregnant.
+  KO: 촉수가 네 자궁을 꿰뚫는 순간, 너는 이미 늦었다는 걸 안다. 너는 임신했다.
+/plugins/pregnant/pregnancy/1/pregnant
+  EN: You feel hot and bothered deep inside.
+  KO: 깊은 속에서 뜨겁고 달아오르는 걸 느낀다.
+/plugins/pregnant/pregnancy/1/remotePregnant
+  EN: <name> is happily looking your way. You know what that means.
+  KO: <name>이(가) 행복한 얼굴로 당신 쪽을 바라보고 있다. 무슨 뜻인지 알 것이다.
+/plugins/pregnant/pregnancy/1/tentaclePregnant
+  EN: As the tentacle is penetrating your womb, you know it's too late.
+  KO: 촉수가 네 자궁을 꿰뚫는 순간, 너는 이미 늦었다는 걸 안다.
+/plugins/pregnant/remoteAbortion/0/argonian
+  EN: While your attempt to shove your egg into her womb was met with resistance at first, once the old baby was gone it went fully in.
+  KO: 네가 알을 그녀의 자궁에 밀어 넣으려는 시도는 처음엔 저항을 받았지만, 옛 아기가 사라지자 완전히 들어갔다.
+/plugins/pregnant/remoteAbortion/0/avali
+  EN: As you unload your biggest chilly load deep into her womb, her current pregnancy was successfully frozen in time. Permanently.
+  KO: 네가 가장 차가운 정액을 그녀의 자궁 깊숙이 쏟아붓자, 그녀의 지금 임신은 성공적으로 시간 속에 얼어붙었다. 영구히.
+/plugins/pregnant/remoteAbortion/0/default
+  EN: Fucking a pregnant woman might be a great feeling, but the baby didn't like your roughplay as much. Time to make a new one.
+  KO: 임신한 여자와 하는 건 훌륭한 기분일 수 있지만, 아기는 거친 놀이를 그리 좋아하지 않았다. 새로 만들 때다.
+/plugins/pregnant/remoteAbortion/0/floran
+  EN: As your dick vines, shoved deep into her womb, flail around spraying your nectar everywhere, you're smacking the baby real good.
+  KO: 네 자지 덩굴이 그녀의 자궁 깊숙이 박혀 사방에 네 꿀을 흩뿌리며 요동칠 때, 너는 아기를 아주 세게 후려치고 있다.
+/plugins/pregnant/remoteAbortion/0/glitch
+  EN: Curious. What happens when you combine pregnant womb with glitch oil? Infertilization chance is high.
+  KO: 궁금함. 임신한 자궁과 글리치 오일을 섞으면 무슨 일이 일어날까? 불임 확률이 높음.
+/plugins/pregnant/remoteAbortion/0/novakid
+  EN: As you unload your hot, steaming load into her womb, your burning lust removes any sign of her pregnancy.
+  KO: 네가 뜨겁게 김이 나는 정액을 그녀의 자궁에 쏟아부으며, 타오르는 욕정이 그녀의 임신 흔적을 모조리 지워버린다.
+/plugins/pregnant/remoteAbortion/1/argonian
+  EN: While your attempt to shove your egg into her womb was met with resistance at first, you finally made sure it's fully in.
+  KO: 네가 알을 그녀의 자궁에 밀어 넣으려는 시도는 처음엔 저항을 받았지만, 마침내 완전히 들어가게 만들었다.
+/plugins/pregnant/remoteAbortion/1/avali
+  EN: As you unload your biggest chilly load deep into her womb, you start to question if that was good for the baby.
+  KO: 네가 가장 차가운 정액을 그녀의 자궁 깊숙이 쏟아붓으면서, 그게 아기에게 좋았을지 의문이 들기 시작한다.
+/plugins/pregnant/remoteAbortion/1/default
+  EN: Fucking a pregnant woman might be a great feeling, but was it a good idea?
+  KO: 임신한 여자와 하는 건 훌륭한 기분일 수 있지만, 좋은 생각이었을까?
+/plugins/pregnant/remoteAbortion/1/floran
+  EN: As your dick vines, shoved deep into her womb, flail around spraying your nectar everywhere, you feel them hitting something.
+  KO: 네 자지 덩굴이 그녀의 자궁 깊숙이 박혀 사방에 네 꿀을 흩뿌리며 요동칠 때, 무언가에 부딪히는 감각이 느껴진다.
+/plugins/pregnant/remoteAbortion/1/glitch
+  EN: Curious. What happens when you combine pregnant womb with glitch oil?
+  KO: 궁금함. 임신한 자궁과 글리치 오일을 섞으면 무슨 일이 일어날까?
+/plugins/pregnant/remoteAbortion/1/novakid
+  EN: As you unload your hot, steaming load into her womb, you realize that maybe not every species is made to take it.
+  KO: 네가 뜨겁게 김이 나는 정액을 그녀의 자궁에 쏟아부으면서, 모든 종족이 이걸 받아낼 수 있게 만들어진 건 아닐지도 모른다는 걸 깨닫는다.
+
+===== /dialog/sgD03MU/merchant.config.patch =====
+/beacon/default/default/0
+  EN: I'm home!
+  KO: 집이다!
+/enclosedArea/default/default/0
+  EN: My home could use some repairs!
+  KO: 우리 집 좀 수리해야 하는데!
+/final/default/default/0
+  EN: I've had enough of this!
+  KO: 이제 지긋지긋해!
+/follow/default/default/0
+  EN: Come with me, we can do business in my shop!
+  KO: 나랑 같이 가자. 내 가게에서 거래하면 돼!
+/follow/default/default/1
+  EN: Come in, come in and see what I've got!
+  KO: 어서 와, 어서 와서 내가 뭘 갖고 있는지 봐!
+/merchantEnd/default/default/0
+  EN: See you next time!
+  KO: 다음에 또 봐!
+/merchantEnd/default/default/1
+  EN: Come again!
+  KO: 또 오세요!
+/merchantEnd/default/default/2
+  EN: Pleasure doing business with you!
+  KO: 거래 즐거웠어!
+/merchantEnd/default/default/3
+  EN: Thanks for visiting.
+  KO: 방문해줘서 고마워.
+/merchantEnd/default/default/4
+  EN: Great to see you!
+  KO: 만나서 반가워!
+/merchantEnd/default/default/5
+  EN: Let's do business again.
+  KO: 다시 거래하자.
+/merchantStart/default/default/0
+  EN: Welcome traveller, are you looking for something?
+  KO: 환영해, 여행자여. 뭔가 찾는 게 있나?
+/otherDeed/default/default/0
+  EN: I thought this place was for me!
+  KO: 여기가 내 자린 줄 알았는데!
+/rent/default/default/0
+  EN: Here's a gift for all your help with my shop!
+  KO: 내 가게 일을 이것저것 도와줘서 주는 선물이야!
+/severe/default/default/0
+  EN: I can't sell my wares in these conditions!
+  KO: 이런 환경에선 물건을 못 팔아!
+/tagCriteria/default/default/0
+  EN: Something in my place has changed, I don't like it!
+  KO: 내 집에서 뭔가 바뀌었어. 마음에 안 들어!
+/tout/default/default/0
+  EN: Goods for sale!
+  KO: 상품 팔아요!
+/tout/default/default/1
+  EN: Hey traveller, come check out my amazing wares!
+  KO: 안녕, 여행자, 제 놀라운 물건들 좀 구경해요!
+/welcome/default/default/0
+  EN: Welcome traveller...
+  KO: 환영해, 여행자여...
+
+===== /dialog/smitewoofie.config.patch =====
+/final/default/default/0
+  EN: I AM DONE!!
+  KO: 난 끝났어!!
+/follow/default/default/0
+  EN: Walk with me. Let me check my stuff first.
+  KO: 같이 걷자. 내 물건부터 확인하게 해줘.
+/follow/default/default/1
+  EN: follow me!
+  KO: 따라와!
+/merchantEnd/default/default/0
+  EN: See you next time!
+  KO: 다음에 또 봐!
+/merchantEnd/default/default/1
+  EN: Come again!
+  KO: 또 오세요!
+/merchantEnd/default/default/2
+  EN: Worth every pixels! heh
+  KO: 픽셀 하나하나가 아깝지 않아! 헤
+/merchantEnd/default/default/3
+  EN: No refund
+  KO: 환불 불가
+/merchantEnd/default/default/4
+  EN: Good things have their prices.
+  KO: 좋은 것에는 대가가 따르죠.
+/merchantEnd/default/default/5
+  EN: Great weapons are an adventurer's best buddy!
+  KO: 훌륭한 무기는 모험가의 가장 좋은 친구지!
+/merchantEnd/default/default/6
+  EN: Come back any time.
+  KO: 언제든 다시 와.
+/merchantStart/default/default/0
+  EN: Fresh from the forge!
+  KO: 대장간에서 갓 나왔습니다!
+/merchantStart/default/default/1
+  EN: Take ya time , customer!
+  KO: 천천히 봐, 손님!
+/merchantStart/default/default/2
+  EN: Any spec you like?
+  KO: 마음에 드는 특성이 있어?
+/merchantStart/default/default/3
+  EN: Many woof can forge, but only <selfname>'s smite can craft unique work!
+  KO: 많은 늑대가 대장일을 할 수 있지만, <selfname>의 솜씨만이 유일무이한 작품을 만들어낼 수 있다!
+/otherDeed/default/default/0
+  EN: I thought this place was for me!
+  KO: 여기가 내 자린 줄 알았는데!
+/otherDeed/default/default/1
+  EN: only one smite is enough.
+  KO: 일격은 한 방으로 충분하다.
+/rent/default/default/0
+  EN: Here's a gift for all your help with my shop
+  KO: 제 가게 일을 도와주신 데 대한 선물이에요
+/rent/default/default/1
+  EN: This is rent for this week, cheif
+  KO: 이번 주 임대료다, 두목.
+/rent/default/default/2
+  EN: Thank for your help , partner.
+  KO: 도와줘서 고마워, 파트너.
+/severe/default/default/0
+  EN: I can't do my job in these conditions!
+  KO: 이런 상황에서는 일을 할 수 없어!
+/severe/default/default/1
+  EN: I can't craft my weapon in these conditions!
+  KO: 이런 상황에서는 내 무기를 만들 수 없어!
+/tout/default/default/0
+  EN: Great weapons with good price!
+  KO: 좋은 가격의 훌륭한 무기들!
+/tout/default/default/1
+  EN: Check out my amazing weapons!
+  KO: 제 멋진 무기들을 구경해보세요!
+/tout/default/default/2
+  EN: Best deals around!
+  KO: 최고의 거래야!
+/tout/default/default/3
+  EN: Sale price , limited time!
+  KO: 할인가, 기간 한정!
+/welcome/default/default/0
+  EN: Welcome to <selfname>'s forge shop
+  KO: <selfname>의 대장간에 온 걸 환영하오
+
+===== /dialog/unboundvillagesecurity.config.patch =====
+/hail/apex/default/0
+  EN: We are not looking for trouble, just protecting our people.
+  KO: 우리는 말썽을 찾는 게 아니라, 그저 우리 백성을 지키고 있을 뿐이야.
+/hail/apex/default/1
+  EN: You have no business here, please don't overextend your stay.
+  KO: 여기 볼일 없어, 오래 머물지 말아줘.
+/hail/apex/default/2
+  EN: I hope you understand we are at war. We are suspicious of strangers.
+  KO: 우리가 전쟁 중이라는 걸 이해해주길 바라. 우린 낯선 이들을 경계해.
+/hail/apex/default/3
+  EN: We've had to deal with Miniknog infiltrators recently. You better not bring any.
+  KO: 최근 미니크녹 잠입자들을 상대해야 했어. 네가 데려오지 않는 게 좋을 거야.
+/hail/apex/default/4
+  EN: I used to be a spacefarer like you, until I took a plasma blast to the knee.
+  KO: 나도 예전엔 너처럼 우주 여행자였는데, 무릎에 플라즈마를 맞았지.
+/hail/apex/default/5
+  EN: Move along please, we've got enough strangers wandering around.
+  KO: 지나가 주세요, 낯선 사람이 이미 충분히 돌아다니고 있어서요.
+/hail/apex/default/6
+  EN: This is a no conflict zone, please make no trouble.
+  KO: 이곳은 무분쟁 구역이다. 소란은 피우지 마라.
+/hail/apex/default/7
+  EN: We are protecting families here. Stay out of trouble.
+  KO: 우리는 여기서 가족들을 지키고 있어. 말썽 일으키지 마.
+/hail/apex/default/8
+  EN: We don't trust outsiders, please move along.
+  KO: 우리는 외부인을 믿지 않으니, 가던 길 가세요.
+/hail/avian/default/0
+  EN: Watch yourself, stranger. We've been targetted by Xenotox recently.
+  KO: 몸조심해, 이방인. 최근 제노톡스의 표적이 됐어.
+/hail/avian/default/1
+  EN: Stay out of trouble. We don't want more problems.
+  KO: 문제 일으키지 마. 더 문제는 싫어.
+/hail/avian/default/2
+  EN: Don't... Just don't do anything suspicious. We got our hands full with the Unbound and Xenotox.
+  KO: 하지 마... 그냥 수상한 짓은 아무것도 하지 마. 우린 언바운드와 제노톡스를 상대하느라 정신없어.
+/hail/avian/default/3
+  EN: I'm watching you. Don't try to steal anything.
+  KO: 지켜보고 있어. 훔칠 생각 마.
+/hail/avian/default/4
+  EN: Everything here belong to Elpis Elements. Don't you try anything.
+  KO: 여기 모든 건 엘피스 엘리먼츠 소유야. 괜한 짓 마.
+/hail/avian/default/5
+  EN: Elpis armors are tough! Try me.
+  KO: 엘피스 갑옷은 튼튼해! 덤벼봐.
+/hail/avian/default/6
+  EN: Elpis equipment is the best! Try it out!
+  KO: 엘피스 장비가 최고야! 써봐!
+/hail/avian/default/7
+  EN: What's your business here? Not from Xenotox are you?
+  KO: 여기 무슨 용건이야? 제노톡스 소속은 아니지?
+/hail/avian/default/8
+  EN: What are you lookin' at?
+  KO: 뭘 쳐다봐?
+/hail/avian/default/9
+  EN: Hard to move in Elpis armors.
+  KO: 엘피스 갑옷은 움직이기 힘들어.
+/hail/default/default/0
+  EN: This is a no conflict zone, stranger.
+  KO: 이곳은 무분쟁 구역이다, 이방인.
+/hail/default/default/1
+  EN: Please move along, you have no business here.
+  KO: 그만 이동해주세요, 여기 볼일 없으시잖아요.
+/hail/default/default/2
+  EN: We are here to protect our people, no conflict please.
+  KO: 우리는 우리 백성을 지키러 왔으니, 분쟁은 사양한다.
+/hail/default/default/3
+  EN: You better not be a Miniknog spy.
+  KO: 미니크녹 스파이가 아니길 바라.
+/hail/floran/default/0
+  EN: Sstay out of trouble.
+  KO: 말썽은 피우지 마아.
+/hail/floran/default/1
+  EN: Floran wasss asssked to keep Xenotox bad out. You Xenotox?
+  KO: 플로란 제노톡스 나쁜 놈 못 들어오게 부탁받아. 너 제노톡스?
+/hail/floran/default/2
+  EN: No ssilliness on Elpiss groundss.
+  KO: 엘피스 땅서 장난 금지.
+/hail/floran/default/3
+  EN: Behave yourssself.
+  KO: 얌전히 있어라아.
+/hail/floran/default/4
+  EN: Floran is hungry... Elpisss have little meat.
+  KO: 플로란 배고파... 엘피스 고기 적어.
+/hail/floran/default/5
+  EN: Floran hate Xenotox poissson.
+  KO: 플로란 제노톡스 독 싫어어.
+/hail/floran/default/6
+  EN: Troublemakers are tasty.
+  KO: 말썽꾸러기는 맛있어.
+/hail/glitch/default/0
+  EN: Cautious. Behave yourself, you are on Elpis grounds.
+  KO: 주의. 얌전히, 엘피스 구역이야.
+/hail/glitch/default/1
+  EN: Suspicious. What is your purpose here? Xenotox employees are forbidden.
+  KO: 의심. 여기 온 목적이 뭐지? 제노톡스 직원은 출입 금지다.
+/hail/glitch/default/2
+  EN: Inexperienced. Eep! You're not from Xenotox, are you?
+  KO: 미숙. 이얍! 너 제노톡스 아니지?
+/hail/glitch/default/3
+  EN: Alert. I am tasked with the protection of Elpis employees.
+  KO: 경보. 본 기체는 엘피스 직원 보호 임무를 맡고 있다.
+/hail/glitch/default/4
+  EN: Optimistic. I'm sure you won't be any trouble to Elpis.
+  KO: 낙관. 네가 엘피스에 골칫거리가 되진 않을 거라 믿어.
+/hail/glitch/default/5
+  EN: Reticent. You won't be a problem to Elpis...
+  KO: 과묵. 너는 엘피스에 문제가 되지 않겠지...
+/hail/glitch/default/6
+  EN: Stern. You behave yourself, otherwise you'll be put on Elpis' blacklist.
+  KO: 엄격. 얌전히, 아니면 엘피스 블랙리스트.
+/hail/glitch/default/7
+  EN: Dismissive. Try not to get yourself hit by Xenotox weapons. Their corrosive projectiles hurts.
+  KO: 무시. 제노톡스 무기에 맞지 않도록 조심해. 녀석들이 쏘는 부식성 발사체는 무척 아프니까.
+/hail/glitch/default/8
+  EN: Concerned. Should you be here? 
+  KO: 우려. 여기 있어도 되는가?
+/hail/human/default/0
+  EN: Watch yourself, stranger. We've been targetted by Xenotox recently.
+  KO: 몸조심해, 이방인. 최근 제노톡스의 표적이 됐어.
+/hail/human/default/1
+  EN: Stay out of trouble. We don't want more problems.
+  KO: 문제 일으키지 마. 더 문제는 싫어.
+/hail/human/default/2
+  EN: Don't... Just don't do anything suspicious. We've got our hands full with the Unbound and Xenotox.
+  KO: 하지 마... 그냥 수상한 짓은 아무것도 하지 마. 우린 언바운드와 제노톡스를 상대하느라 정신없어.
+/hail/human/default/3
+  EN: I'm watching you. Don't try to steal anything.
+  KO: 지켜보고 있어. 훔칠 생각 마.
+/hail/human/default/4
+  EN: Everything here belong to Elpis Elements. Don't you try anything.
+  KO: 여기 모든 건 엘피스 엘리먼츠 소유야. 괜한 짓 마.
+/hail/human/default/5
+  EN: Elpis armors are tough! Try me.
+  KO: 엘피스 갑옷은 튼튼해! 덤벼봐.
+/hail/human/default/6
+  EN: Elpis equipment is the best! Try it out!
+  KO: 엘피스 장비가 최고야! 써봐!
+/hail/human/default/7
+  EN: What's your business here? Not from Xenotox are you?
+  KO: 여기 무슨 용건이야? 제노톡스 소속은 아니지?
+/hail/human/default/8
+  EN: What are you lookin' at?
+  KO: 뭘 쳐다봐?
+/hail/human/default/9
+  EN: Hard to move in Elpis armors.
+  KO: 엘피스 갑옷은 움직이기 힘들어.
+/hail/hylotl/default/0
+  EN: I hope you are not here for troubles, stranger.
+  KO: 문제 일으키러 온 거 아니길, 낯선 이.
+/hail/hylotl/default/1
+  EN: Xenotox has been a threat to Elpis for a while now. Too bad we can't stay on good terms.
+  KO: 제노톡스는 한동안 엘피스에 위협이 되어 왔어. 좋은 사이로 지낼 수 없다는 게 안타깝지.
+/hail/hylotl/default/2
+  EN: Elpis offer weapons, for peace.
+  KO: 엘피스 무기 제공, 평화 위해.
+/hail/hylotl/default/3
+  EN: You are on Elpis grounds now.
+  KO: 너 지금 엘피스 구역.
+/hail/hylotl/default/4
+  EN: Cross me and I will be forced to strike.
+  KO: 날 건드리면 칠 수밖에 없다.
+/hail/hylotl/default/5
+  EN: Elpis wanted peace with Xenotox. You're not with them, are you?
+  KO: 엘피스는 제노톡스와 평화 원해. 너 그들 아니지?
+/hail/hylotl/default/6
+  EN: I was trained from birth. Elpis' secrets are safe with me protecting them!
+  KO: 태어날 때부터 훈련. 엘피스 비밀 내가 지켜 안전!
+/hail/hylotl/default/7
+  EN: I ask that you do not blemish this place with unnecessary aggression.
+  KO: 불필요한 공격성으로 여길 더럽히지 말아줘.
+/hail/hylotl/default/8
+  EN: Do not test me.
+  KO: 날 시험하지 마.
+/hail/hylotl/default/9
+  EN: Welcome to Elpis Elements, stranger.
+  KO: 엘피스 엘리먼츠 환영, 낯선 이.
+/hail/novakid/default/0
+  EN: Don't cause no fuss around here, partner.
+  KO: 여기서 소란은 피우지 마, 파트너.
+/hail/novakid/default/1
+  EN: If you don't intend to cause trouble, then we'll get on jus' fine.
+  KO: 말썽 부릴 생각 없다면 잘 지낼 수 있어.
+/hail/novakid/default/2
+  EN: We're mighty fine with strangers, as long as they aren't trouble.
+  KO: 낯선 이에겐 관대하지만, 말썽꾼이 아니라면 말이지.
+/hail/novakid/default/3
+  EN: I forget, have we seen you round here before?
+  KO: 여기서 본 적 있었던가? 까먹었네.
+/hail/novakid/default/4
+  EN: Hope you enjoy our ol' village, partner. Jus' don't cause no trouble.
+  KO: 우리 오래된 마을을 즐기길, 파트너. 말썽만 부리지 마.
+/hail/novakid/default/5
+  EN: There's been thieves around these parts lately. We don't take kindly to stealin'.
+  KO: 요즘 근처에 도둑이 들끓어. 도둑질은 좋아하지 않아.
+
+===== /sb_commands.config.patch =====
+/itemid/noItem
+  EN: No such item %s
+  KO: 그런 아이템 없음 %s
+/itemid/usage
+  EN: Usage /sb_itemid itemName [detailed]
+  KO: 사용법 /sb_itemid 아이템명 [상세]
+/lowArgs
+  EN: Not enough arguments to %s
+  KO: %s에 대한 인자가 부족함
+/noPlayer
+  EN: Could not find anyone named '%s' | (If the name has a space, either type the name in "quotation marks" or put a '\' before the space)
+  KO: '%s'라는 이름을 가진 사람을 찾을 수 없습니다 | (이름에 공백이 있다면 "따옴표"로 감싸거나 공백 앞에 '\'를 붙이세요)
+/noSuchCommand
+  EN: No such command %s
+  KO: 그런 명령 없음 %s
+/whisper/usage
+  EN: Usage /whisper playerName message
+  KO: 사용법 /whisper 플레이어명 메시지

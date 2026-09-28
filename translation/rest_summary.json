@@ -1,0 +1,102 @@
+{
+  "keptRows": 11396,
+  "keptUniqueEnglish": 11353,
+  "excludedRows": 553457,
+  "worklistUnique": 11353,
+  "byCategory": {
+    "new-translation": 11396
+  },
+  "excludedReasons": {
+    "already-translated": 229960,
+    "patch-nontext-leaf": 192077,
+    "patch-test-value": 127626,
+    "unused-or-deprecated-asset": 1866,
+    "behavior-tree-parameter": 1194,
+    "template-placeholder": 500,
+    "parameter-reference": 203,
+    "code-like-string": 22,
+    "asset-path-identifier": 9
+  },
+  "perModTop": [
+    [
+      "Enternia_contents_2006558650.pak",
+      1604
+    ],
+    [
+      "contents_2611501999.pak",
+      1404
+    ],
+    [
+      "-1000_angel_contents_1686520464.pak",
+      1379
+    ],
+    [
+      "voided_contents_2822921122.pak",
+      567
+    ],
+    [
+      "trans+dmgfix_starforge_contents_2431875552.pak",
+      435
+    ],
+    [
+      "Felin_contents_729429063.pak",
+      418
+    ],
+    [
+      "Saturnians_contents_1103027918.pak",
+      354
+    ],
+    [
+      "contents_2010883172.pak",
+      348
+    ],
+    [
+      "ffxiv_viera_contents_732276079.pak",
+      333
+    ],
+    [
+      "contents_2010607826.pak",
+      276
+    ],
+    [
+      "Armok_Fixes_5.4_compat.pak",
+      263
+    ],
+    [
+      "starburst_contents_3025139283.pak",
+      258
+    ],
+    [
+      "contents_2607069863.pak",
+      254
+    ],
+    [
+      "997_sxb_Lustlings_1.2.9_clean.pak",
+      237
+    ],
+    [
+      "contents_731549837.pak",
+      220
+    ],
+    [
+      "trans+Avali_contents_729558042.pak",
+      209
+    ],
+    [
+      "contents_2983639797.pak",
+      184
+    ],
+    [
+      "FrackinUniverse_contents_729480149.pak",
+      172
+    ],
+    [
+      "Galactic_Dungeons_contents_2009744270.pak",
+      157
+    ],
+    [
+      "contents_898712767.pak",
+      147
+    ]
+  ]
+}

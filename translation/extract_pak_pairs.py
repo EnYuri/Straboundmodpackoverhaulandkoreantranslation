@@ -19,10 +19,16 @@ from pak import Pak  # noqa: E402
 OUT = Path(sys.argv[2]) if len(sys.argv) > 2 else Path(__file__).parent / "pak_pairs.tsv"
 
 
+KO_RE = None
+
+
 def iter_pairs(doc):
     if not isinstance(doc, list):
         return
+    import re
+    ko_re = re.compile(r"[가-힣]")
     tests = {}
+    bare = []          # replace ops with no preceding test (folded-in fixes)
     stack = list(reversed(doc))
     while stack:
         op = stack.pop()
@@ -38,6 +44,9 @@ def iter_pairs(doc):
             if path in tests and tests[path] != op["value"]:
                 yield path, tests[path], op["value"]
                 del tests[path]
+            elif path not in tests and ko_re.search(op["value"]):
+                bare.append((path, op["value"]))
+    yield from ((p, "", v) for p, v in bare)
 
 
 def main():

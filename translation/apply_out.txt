@@ -1,0 +1,7 @@
+pointers targeted: 3541 | applied: 3525 | struct/chain-rejected rows: 26
+methods: {'VARIANT': 1114, 'WORD': 710, 'TSPAN': 412, 'MANUAL': 1289} | multi-name pointers: 110
+source paks: {'FU_KO_contents_3166424163.pak': 810, 'female_translation.pak': 1326, 'manual': 1289, '-9998_trans_sbkor_0.98_structfix.pak': 100}
+patch files touched: 2717 | new patch files: 0
+wrote female_translation.pak.REVIEW_PENDING entries: 59444
+wrote name_fixes_applied.tsv
+verify mismatches: 0 of 3525

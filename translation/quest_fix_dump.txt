@@ -1,0 +1,296 @@
+### Foraging Table -> 생존 도구 제작대 | start_basics3b.questtemplate.patch
+  KO: ^orange;채집 테이블^reset; 에서 ^green;랜턴 스틱^reset; 를 제작하고 ^green;웰치^reset; 로
+
+### Foraging Table -> 생존 도구 제작대 | start_basics3b.questtemplate.patch
+  KO: 때때로 어둠은 끔찍한 방해물이 될 수 있습니다. 이럴 때 ^orange;기름^reset; 내가 만들어줄게가 유용합니다: ^or
+
+### Foraging Table -> 생존 도구 제작대 | create_growingtray.questtemplate.patch
+  KO: 괭이와 흙, 두 손으로 직접 농사를 지을 수 있는 옛날 방식도 있지만, 또 다른 옵션이 있습니다: ^orange;성장 트레이^
+
+### Foraging Table -> 생존 도구 제작대 | create_matterassembler.questtemplate.patch
+  KO: ^cyan;농업을 연구하고 ^orange;채집 테이블^reset;을 제작하세요.
+
+### Foraging Table -> 생존 도구 제작대 | fuquest_farming1.questtemplate.patch
+  KO: ^orange;우물^reset; 은 다양한 용도로 생명력을 주는 ^orange;물^reset; 을 제공하기 때문에 매우 중요합
+
+### Foraging Table -> 생존 도구 제작대 | fuquest_farming3.questtemplate.patch
+  KO: 알을 부화시키고 싶다면 ^orange;인큐베이터^reset; 을 사용하면 좋습니다! 알을 던져 넣으면 아기 동물을 빠르게 생성
+
+### Foraging Table -> 생존 도구 제작대 | fuquest_farming4.questtemplate.patch
+  KO: ^green;가축 사료^reset; 을 던져주면 훨씬 더 빨리 자랄 수 있습니다. ^orange;옥수수^reset; 를 ^or
+
+### Foraging Table -> 생존 도구 제작대 | fu_quests.radiomessages.patch
+  KO: 이제 1단계가 끝났습니다! ^orange;용광로^reset; 를 사용해 광석을 제련하여 금속 막대로 만듭니다. 다음으로, ^g
+
+### Alchemy Table -> 연금술대 | create_fertilizer.questtemplate.patch
+  KO: 이제 더 고급 화학 물질을 만들어 더 좋은 작물을 재배할 수 있습니다! 가능한 한 빨리 ^orange;연금술 테이블^reset
+
+### Alchemy Table -> 연금술대 | create_fertilizer.questtemplate.patch
+  KO: ^orange;비료^reset; 은 실제 가치가 있는 식물을 생산하기 위해 필수적입니다. 식물을 만들려면 먼저 ^orange;
+
+### Alchemy Table -> 연금술대 | fuquest_biochem.questtemplate.patch
+  KO: ^orange;뿌리 덮개^reset; 는 ^orange;성장 트레이^reset; 에서 ^green;약한 비료^reset; 로 
+
+### Alchemy Table -> 연금술대 | fuquest_biochem.questtemplate.patch
+  KO: ^orange;연금술 테이블^reset;을 만들었는데 사용법을 배우고 싶으신가요? 간단합니다. 부숴버리기만 하면 됩니다. 그것
+
+### Alchemy Table -> 연금술대 | fuquest_dna.questtemplate.patch
+  KO: 이제 기본이 명확해졌으니, ^orange;화학 실험실에서 필수적인 ^orange;DNA 샘플^reset; 을 만들어 보세요. 
+
+### Alchemy Table -> 연금술대 | create_alchemy.questtemplate.patch
+  KO: 화학은 모든 종류의 유용한 물건을 만들 수 있는 과학입니다. ^orange;연금술 테이블^reset; 을 만들어서 한 번 해보
+
+### Sprouting Table -> 싹이 트는 테이블 | 4malt.questtemplate.patch
+  KO: 새로운 스테이션을 사용할 시간입니다. 먼저, ^orange;밀^reset; 한 조각을 ^orange;빗물 통^reset; 에 
+
+### Sprouting Table -> 싹이 트는 테이블 | create_sprouting.questtemplate.patch
+  KO: ^orange;과학 전초기지^reset; 에 있는 ^green;발아 테이블^reset; 을 저에게 가져다주세요;
+
+### Sprouting Table -> 싹이 트는 테이블 | create_sprouting.questtemplate.patch
+  KO: ^orange;발아 테이블^reset; 과 ^orange;제노 실험실^reset; 은 식물 씨앗에서 ^orange;유전자^re
+
+### Sprouting Table -> 싹이 트는 테이블 | fuquest_xeno.questtemplate.patch
+  KO: 그래서 ^orange;발아 테이블^reset; 을 만들었다고요? 왜 그렇게 멍한 표정을 짓고 있나요? 간단해요: ^orange
+
+### Watcher -> 관측기 | drodenwatcherarmour.questtemplate.patch
+  KO: 감시자들에 등록된 드로덴 유닛 감지. 기록에 따르면 최근 지휘관 자히드와 상호작용이 있었음. 감시자 갑옷 수령함. ^green
+
+### Watcher -> 관측기 | create_watcher.questtemplate.patch
+  KO: ^orange;감시자^reset; 를 ^orange;과학 전초기지^reset; 최상층에 있는 ^green;보라색 갑옷을 입은 
+
+### Watcher -> 관측기 | create_watcher.questtemplate.patch
+  KO: 전력 스테이션은 ^green;거대한 생산성 부스터^reset; 입니다. ^orange;감시자^reset; 를 사용하면 훨씬 더
+
+### Watcher -> 관측기 | drodenwatcherarmour.questtemplate.patch
+  KO: 거래 수락. 감시자 테마 드로덴 교체 부품을 건넨다. 대화 종료.
+
+### Ship Component Assembler -> 선박 구성요소 어셈블러 | fu_byoscrew.questtemplate.patch
+  KO: ^orange;승무원 고용^reset; 을 하려면 먼저 ^green;형편없는 승무원 침대^reset; 를 건설해야 합니다. ^
+
+### Ship Component Assembler -> 선박 구성요소 어셈블러 | fu_byoscrewdeed.questtemplate.patch
+  KO: ^orange;문^reset;, ^orange;조명^reset;, ^orange;침대^reset; 1개 이상이 있는 밀폐된 방
+
+### Ship Component Assembler -> 선박 구성요소 어셈블러 | fu_byosshipcraftingtable.questtemplate.patch
+  KO: 우주선 수리를 시작하려면 ^orange;우주선 구성품 조립기^reset;을 만들어야 합니다.
+
+### Sifter -> 시프터 | create_woodensifter.questtemplate.patch
+  KO: ^orange;미사^reset;, ^orange;자갈^reset;, ^green;기타 가루 재료^reset; 같은 무른 자갈이
+
+### Sifter -> 시프터 | fuquest_powergeneration2.questtemplate.patch
+  KO: 게임을 한 단계 업그레이드하고 싶다면 ^orange;아이템 전송 장치^reset; 및 ^orange;스토리지 브리지^reset
+
+### Sifter -> 시프터 | create_rockbreaker.questtemplate.patch
+  KO: 바위 파괴기는 선별기에 비해 속도가 느리고 더 많은 전력이 필요하지만, 선별기만 사용할 때보다 훨씬 더 많은 자원을 추출할 수
+
+### Core Fragment -> 행성 핵 파편 | scp_minersguildquest_corefragment.questtemplate.patch
+  KO: ^orange;코어 조각^white;은 채굴에 유용한 폭발 장치 제작에 쓰인다. ^orange;코어 조각 10개^white;를
+
+### Core Fragment -> 행성 핵 파편 | gaterepair.questtemplate.patch
+  KO: ^green;동굴^reset;에서 ^orange;에너지원^reset;을 찾으세요.
+
+### Core Fragment -> 행성 핵 파편 | quests.radiomessages.patch
+  KO: 이 메시지를 받았다면 ^orange;고대 게이트웨이^reset; 근처에 있는 것이 틀림없으니, 활성화해서 저를 찾아주세요. ^
+
+### Core Fragment -> 행성 핵 파편 | quests.radiomessages.patch
+  KO: 우주선을 고치려면 ^orange;여러 작업^reset; 을 완료해야 합니다. ^green;나에게 말을 걸어^reset; 시작하
+
+### Silicon Board -> 회로판 | create_circuitboard.questtemplate.patch
+  KO: ^orange;실리콘 보드^reset; 를 ^orange;과학 전초기지^reset; 에 있는 과학자에게 가져다주세요;
+
+### Silicon Board -> 회로판 | create_circuitboard.questtemplate.patch
+  KO: 유익합니다: 이제 ^orange;실리콘^reset; 과 ^orange;구리 선^reset; 이 두 가지를 ^orange;물질 
+
+### Silicon Board -> 회로판 | miscmerchant1.questtemplate.patch
+  KO: 예전부터 진행하던 프로젝트가 있는데, 완성할 재료가 없었어. ^orange;실리콘 보드, 소형 배터리, 구리 전선, 텅스텐 막
+
+### Stealth -> 몰래 하기 | thea-stealthtechunlock1.questtemplate.patch
+  KO: 차차라 기술 있다, 투명해지는 유용한 기술. 대가 치르면 기술 가질 수 있다... ^green;차차라에게 ^orange;다이아
+
+### Stealth -> 몰래 하기 | thea-stealthtechunlock1.questtemplate.patch
+  KO: 차차라 행복해, 행복한 아키 도와줄게! ^orange;은신 테크^reset; 거의 네 거야...
+
+### Stealth -> 몰래 하기 | thea-stealthtechunlock2.questtemplate.patch
+  KO: 기술을 얻기 전에, 차차라가 기술이 어떻게 작동하는지 확실히 알려주겠다. ^green;차차라가 만든 ^orange;시험 코스^
+
+### Stealth -> 몰래 하기 | thea-stealthtechunlock2.questtemplate.patch
+  KO: 차차라 감명받았다, 너 실력 있다! ^orange;스텔스 테크^reset; 가져라, 많은 적 몰래 지나칠 때 써라...
+
+### Stealth -> 몰래 하기 | thea-stealthtechunlock2.questtemplate.patch
+  KO: ^orange;은신 테크 시험 코스^reset; 완료
+
+### Class -> 직업 | esc_nitorikawashiro_escalatestartquest.questtemplate.patch
+  KO: 오랜만이네, 동맹이여? 요즘, 누군가의 이해할 수 없는 도덕적 비판 때문에 골치 아팠어. 내 이름이 붙은 상품도 여럿 발견했고
+
+### Class -> 직업 | esc_nitorikawashiro_escalatestartquest.questtemplate.patch
+  KO: ^#64a5d7;N.I.C D등급 여권^reset; 찾기: ^green;<current> / <required>^reset;
+
+### Class -> 직업 | esc_nitorikawashiro_escalatestartquest2.questtemplate.patch
+  KO: 회장? 창립자? -... 앨리, 무슨 소리야? 난— 정말로— 이거랑— 아무— 상관도— 없어!
+이미 파고들었으니, 정보를 좀 더
+
+### Class -> 직업 | esc_nitorikawashiro_escalatestartquest2.questtemplate.patch
+  KO: ^#64a5d7;N.I.C B등급 여권^reset; 찾기: ^green;<current> / <required>^reset;
+
+### Class -> 직업 | gic_tylian_planetincentive_6_wartorn.questtemplate.patch
+  KO: 두 위험한 개체에 사살 명령이 있습니다: 카우보이와 함께하는 도주 코인-레이디, 그리고 핵 몇 발을 쏘려는 ''몰락체''급 개
+
+### Armorworks -> 방어구 제작 | create_steelwarblade.questtemplate.patch
+  KO: 솔직히 말할게요. 내 검은 형편없어. 새로 만들어줘요. ^orange;조립 라인^reset; 에서 ^orange;강철 워블레이
+
+### Armorworks -> 방어구 제작 | plebiancap.questtemplate.patch
+  KO: 여기서 만들 수 있는 갑옷과 무기는 다양합니다. orange;플레비안 모자^reset;을 제작하여 테스트해 봅시다.
+
+### Ferozium Cleaver -> 페로슘 클리버 | create_warcleaver.questtemplate.patch
+  KO: ^orange;페로지움 칼^reset; 을 ^orange;과학 전초기지^reset; 에 있는 ^green;귀찮은 녀석^rese
+
+### Ferozium Cleaver -> 페로슘 클리버 | create_warcleaver.questtemplate.patch
+  KO: 솔직히 말씀드리자면, 제가 가장 좋아하는 살인 도구가 고장나서 대체품이 필요해요. ^orange;페로지움 칼^reset; 을 
+
+### Electronics Center -> 전자공학 시설 | fuquest_battery.questtemplate.patch
+  KO: 배터리가 필요하지는 않지만 매우 유용합니다. ^orange;기초 배터리^reset; 을 ^orange;전자 센터^reset; 
+
+### Electronics Center -> 전자공학 시설 | create_electronics.questtemplate.patch
+  KO: 이제 획득한 자원을 사용하는 방법에 대한 확실한 개념이 생겼으니, 이제 좀 더 두뇌를 써볼 차례일까요? 먼저 ^orange;전
+
+### Fission Furnace -> 원자력 반응로 | fuquest_fission.questtemplate.patch
+  KO: 고급 광석을 처리하려면 ^orange;핵분열로^reset; 이 필요합니다. 가장 강한 금속도 녹일 수 있습니다. 하지만 용광로
+
+### Fission Furnace -> 원자력 반응로 | create_protocite.questtemplate.patch
+  KO: ^orange;프로토 월드^reset; ^red;에만^reset; 있는 희귀 금속이 있는데, 정말 절실히 필요해요. ^oran
+
+### Power Station -> 전력 스테이션 | fuquest_hydrotray.questtemplate.patch
+  KO: 다음으로 ^orange;수경 재배 트레이^reset; 를 만들어 봅시다. ^orange;발전소^reset; 에 건설하여 식물을
+
+### Power Station -> 전력 스테이션 | create_hydrotray.questtemplate.patch
+  KO: 케빈이 술에 취한 직원 파티에서 내 ^orange;수경재배 트레이^reset; 에 오줌을 싸서 부쉈어요! 새로 만들 수 있는 
+
+### Campfire -> 모닥불 | fuquest_farming2.questtemplate.patch
+  KO: 굶주릴 때는 몇 가지 선택지가 있습니다. ^orange;캠프파이어^reset; 을 사용하면 고기를 익힐 수 있습니다. 빠르지만
+
+### Alien Compound -> 외계 화합물 | create_clothingfabricator3.questtemplate.patch
+  KO: 당신의 군주, 케빈을 ^red;케빈^reset; 5 ^orange;외계인 화합물^reset;을 가져와요;
+
+### Alien Compound -> 외계 화합물 | create_clothingfabricator3.questtemplate.patch
+  KO: ^orange;외계인 화합물^reset; 5개 없이는 로켓으로 움직이는 기니피그에게 독을 먹일 수 없어요. 좀 구해줄 수 있을
+
+### Silver Bar -> 은 주괴 | start_basics4.questtemplate.patch
+  KO: 주황색 용광로^reset; 에서 ^green;실버바^reset; 를 제작하고 ^green;웰치^reset; 로 돌아가세요.
+
+### Silver Bar -> 은 주괴 | start_basics4.questtemplate.patch
+  KO: ^orange;실버^reset;을 얻고 싶은데, 밀폐된 공간에서는 잘 안 돼요. ^green;더 희귀한 광석은 지표면 아래 깊
+
+### Defeat the Miniknog. -> 미니크녹을 물리치세요. | sgelevatorsurvival2.questtemplate.patch
+  KO: 미니크녹 격파.
+
+### Defeat the Miniknog. -> 미니크녹을 물리치세요. | sgironwatchspacemission.questtemplate.patch
+  KO: 미니크녹 격파.
+
+### Defeat the Miniknog. -> 미니크녹을 물리치세요. | sgoceanattack1.questtemplate.patch
+  KO: 미니크녹 격파.
+
+### Defeat the Miniknog. -> 미니크녹을 물리치세요. | sgoceanattack2.questtemplate.patch
+  KO: 미니크녹 격파.
+
+### Teleport -> 텔레포트 | teleportdash.questtemplate.patch
+  KO: 흥미롭군. 이 유물 덕분에 주황색 순간이동 대시^reset; 기술을 배웠어요. 적의 추리를 방해할 수 있겠어!
+
+### Teleport -> 텔레포트 | teleportdash.questtemplate.patch
+  KO: 흥미롭군. 유물을 통해 ^orange;순간이동 대시^reset; 기술을 배웠어요. 적의 추리를 방해할 수 있겠어!
+
+### Repulsor Blast -> 반발 폭발 | microsphereprecursor.questtemplate.patch
+  KO: 독특한 기술을 발견했습니다! 선구자 마이크로 구체! 벽에 달라붙고 이동 속도가 증가하며, ^green;[FIRE]^reset;
+
+### Wall Jump -> 월 점프 | fuwalljump2.questtemplate.patch
+  KO: 이 새로운 기술을 통해 벽 점프 기술을 ^green;유용한 업그레이드 기술 ^orange;초기화로 바꿀 수 있다는 걸 깨달았어
+
+### Avian -> 아비안 | create_regengene.questtemplate.patch
+  KO: ^orange;가시톡스 씨앗 3개^reset; 를 ^orange;과학 전초기지^reset; 에 있는 노란 새에게 가져다주세요;
+
+### Avian -> 아비안 | skytemple.questtemplate.patch
+  KO: 지도를 보니 가장 위대한 조류 성지 중 하나인 하늘대로로 가는 길이 나와요. 무덤 습격을 시도하기 전에 철저한 준비를 해야겠어
+
+### The Stranger -> 이방인 | novakidquest.aimission.patch
+  KO: ^orange;그 낯선 자^reset;가 가라고 한 행성이다.
+^red;이번에는 장비를 잘 갖추는 게 좋을 거다.
+
+### The Stranger -> 이방인 | novakidquest.questtemplate.patch
+  KO: ^orange;그 낯선 자^reset;에게 말을 거세요
+
+### The Stranger -> 이방인 | novakidquest.questtemplate.patch
+  KO: ^orange;불타버린 행성^reset; 좌표를 받았어. 그 위치에 접근하려면 ^green;선박 컴퓨터를 사용하거나^reset
+
+### Vha'leihan Spear -> 브할레이한 창 | weaponrestorationavikan.questtemplate.patch
+  KO: 네가 들고 있는 그 창, 좀 보여줘! 아, 그래... 내가 생각했던 그거였어: 고대 브할레이안 창이야! 어떻게 고치는지는 알지
+
+### Vha'leihan Spear -> 브할레이한 창 | weaponrestorationavikan2.questtemplate.patch
+  KO: 그게 정말 바흘레이한 창인가? 놀랍군! 선장님, 수리해드릴 수 있다면 영광이겠습니다!
+
+### Vha'leihan Spear -> 브할레이한 창 | weaponrestorationavikan3.questtemplate.patch
+  KO: 여기 있습니다, 선장님. 당신의 바흘레이한 창이 완전히 복원되었습니다. 이렇게 강력한 무기를 다룰 수 있어 영광이었습니다.
+
+### Hunter -> 사냥꾼 | gic_chapter2_bossrush_crusade.questtemplate.patch
+  KO: 획득: 글리치 헌터 포일과 성전사 챔피언 헬멧 (글리치 헌터 대장과 성전사 챔피언 처치).^orange;[완료 시: 포털 연구
+
+### Hunter -> 사냥꾼 | gic_chapter2_bossrush_crusade.questtemplate.patch
+  KO: [글리치 헌터 대장과 성전사 챔피언은 이제 포털 연구소에서 다시 플레이할 수 있습니다]
+
+### Hunter -> 사냥꾼 | gic_tylian_bossrush_crusade.questtemplate.patch
+  KO: 획득: 글리치-헌터 포일과 십자군 챔피언의 투구 (글리치-헌터 대장과 십자군 챔피언 처치).
+
+^orange;[완료 시: 바자
+
+### Wires -> 전선 더미 | create_matterassembler2.questtemplate.patch
+  KO: ^green;구리선 9개^reset;를 ^orange;비날리제이^reset;에게가져와요.
+
+### Agent Mox Fulder -> 요원 목스 풀더 | quest4pbiMission1.questtemplate.patch
+  KO: ^orange;경찰 본부^reset;의 ^orange;목스 펄더 요원^reset;에게 말해
+
+### Agent Mox Fulder -> 요원 목스 풀더 | quest4pbiMission2.questtemplate.patch
+  KO: ^orange;경찰 본부^reset;의 ^orange;목스 펄더 요원^reset;에게 말해
+
+### Exploration -> 탐험 | esc_nt_chapter_2_1.questtemplate.patch
+  KO: 직원 여러분, 주목! 긴급 임무!
+자율 화물선과 연락이 끊겼습니다... 이 화물은 YFFS가 주문했고 저희와 계약을 체결했습니
+
+### Exploration -> 탐험 | esc_nt_chapter_2_1.questtemplate.patch
+  KO: ^#64a5d7;운영 기록: 탐사^reset; 찾기: ^green;<current> / <required>^reset;
+
+### Lab Directory -> 연구소 카탈로그 | fuquest_craftinfo.questtemplate.patch
+  KO: ^orange;실험실 디렉토리^reset; 를 ^orange;과학 전초기지^reset;에 있는 과학자에게 가져가세요;
+
+### Bio-Chem Lab -> 생화학 연구실 | fuquest_silicon.questtemplate.patch
+  KO: 이제 ^orange;바이오 화학 실험실^reset; 을 만들어 화학의 경이로움에 대해 배울 차례입니다!
+
+### Honey Jar -> 꿀 항아리 | 11honeyjarrer.questtemplate.patch
+  KO: ^orange;꿀단지^reset; 는 원심분리하는 빗에 따라 다른 효과를 가진 ^green;꿀단지^reset; 를 만듭니다. 
+
+### Bug Net -> 벌레잡이 그물 | 4bees.questtemplate.patch
+  KO: 이제 여왕벌과 드론 꿀벌을 ^green; 잡아서 양봉장 안에 풀어줘야 합니다^reset;. 이를 위해서는 ^orange;벌집망
+
+### Wartweed -> 사마귀초 | 2brew_d.questtemplate.patch
+  KO: 이제 ^green;와트와인^reset; 을 만들어 봅시다. ^orange;병^reset;, ^orange;효모 물^reset;
+
+### Science Outpost -> 과학 전초기지 | create_clothingfabricator.questtemplate.patch
+  KO: ^orange;부스터 크롭탑^reset; 을 ^red;케빈^reset; 에게 가져가세요;
+
+### Plasmic Crystals -> 플라스믹 수정 | create_clothingfabricator3d.questtemplate.patch
+  KO: ^red;케빈^reset; 20 ^orange;플라즈믹 크리스탈^reset; 가져와.
+
+### Brains -> 뇌 | create_clothingfabricator3e.questtemplate.patch
+  KO: 평균 품질의 ^red;케빈^reset; 50 ^orange;브레인^reset; 을 가져오세요.
+
+### Crystalline Trophy -> 결정 트로피 | scienceoutpost_gemShop.questtemplate.patch
+  KO: 좋은 하루 되세요, 탄소와 살의 존재. 이 엘드우카르에게 도움을 줄 수 있겠소? 나는 ^orange;결정의 트로피^reset;
+
+### X'i Relic -> 짜'이 유물 | scienceoutpost_radienShop.questtemplate.patch
+  KO: ^orange;엑스아이 유물^reset; 을 ^orange;과학 전초기지^reset;에 있는 ^green;엑스아이 상점^res
+
+### Ancient Remote -> 고대 리모컨 | scienceoutpost_shadowShop.questtemplate.patch
+  KO: <^red;머릿속에서 목소리가 들려옵니다^reset; 가장 속상한 일입니다. 탐험은 실패했습니다. 고대의 원격지를 찾을 수 없
+
+### Bonemeal -> 골분 | create_plastic.questtemplate.patch
+  KO: 과학자가 되려면 ^orange;고급 플라스틱^reset; 이 필요합니다. ^green;사막^reset; 또는 ^orange;본
+
+### Powder Sifter -> 분말 시프터 | create_powdersifter.questtemplate.patch
+  KO: ^orange;가루 선별기^reset; 를 ^orange;과학 전초기지^reset; 의 과학자에게 가져가세요;
+

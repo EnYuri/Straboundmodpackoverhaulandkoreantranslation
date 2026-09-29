@@ -1,0 +1,71 @@
+english	canonical	reason
+Captain	선장	glossary: Captain->선장 (선장님은 호칭)
+Vinalisj	비날리제이	주 오브젝트 moonlitcomet.object 표기
+Eld'uukhar	엘드우카르	species.patch 배포 표기
+Armorworks	방어구 제작	armory.object 제작 아이템 표기(스테이션 라벨과 통일)
+Replicator	복제기	craftinganvil FU 표기 (대장간은 별개 의미)
+Ship Locker	함선 사물함	glossary 기본형
+Poptop	팝톱	glossary fixed
+Commander Andros Galvanek	안드로스 갈바넥 사령관	25건 퀘스트 접미형 vs 1건 오브젝트 접두형 - 다수 표기 채택
+The Curious Glitch	호기심 많은 글리치	glossary: Glitch=글리치 (종족 고유명, 결함은 오역)
+Shoggoth	쇼고스	러브크래프트 전사 표준(슈고스/쇼고스); 몬스터 정의(쇼고스)가 오브젝트 참조(쇼고트)보다 우선
+Microsphere	마이크로스피어	사용자 지정: 음차 표기 우선 (퀘스트 표기)
+Hive	하이브	사용자 지정: 음차 표기 우선 (오브젝트 표기)
+Coffee Machine	커피 머신	사용자 지정: 음차 표기 우선
+Erchius Horror	에르키우스 호러	음차 우선: 몬스터명 호러 관용 표기
+Fatal Circuit	페이탈 서킷	음차 우선: 보스명 고유명사 음차 관용
+Ocean Surprise	오션 서프라이즈	음차 우선: 요리 고유명
+The Clipped Council	클립드 의회	음차 우선: 세력 고유명사
+Kluex Sentry	클루엑스 센트리	음차 우선: 엔티티명 센트리 관용
+Solarium Star	솔라리움 스타	음차 우선: 아이템 고유명
+Crystal Erchius Fuel	크리스탈 에르키우스 연료	음차 우선: 아이템 명칭(solidfuel) 관용
+Clay	점토	재료명 표준어 (진흙=mud 오역)
+Engineer	엔지니어	음차 우선: 직업 클래스명 관용
+Oculemonade	오큘레모네이드	음차 우선: 팩 내 오큘 음차 다수파(106 vs 41)
+Claw Glove	클로우 글러브	음차 우선: 아이템 고유명
+Crystal Plant	크리스탈 식물	음차 우선: 아이템 고유명
+Grabber	그래버	음차 우선: 오그먼트 고유명 (욕심쟁이는 의역 오류)
+Incubator	인큐베이터	음차 우선: 기기 고유명
+Ironbeak	아이언비크	음차 우선: 크리처 고유명
+Lantern Stick	랜턴 스틱	음차 우선: 아이템 고유명
+Master Manipulator	마스터 매니퓰레이터	음차 우선: 스테이션 고유명
+Mining Drone	채굴 드론	채굴 용어 통일 (채굴 레이저와 일관)
+Mother Poptop	마더 팝톱	음차 우선 + glossary Poptop=팝톱
+Salvaged Nano Receptacle	노획한 나노 리셉터클	음차 우선: receptacle=리셉터클
+Ship Door	함선 문	Ship Locker=함선 사물함과 명명 계열 통일
+Solus Katana	솔루스 카타나	음차 우선: 무기 고유명
+Timber	목재	재료명 표준어
+Wraith	레이스	음차 우선: 크리처 고유명 (레이스 표준 표기)
+Yeti	예티	음차 우선: 크리처 고유명
+Kirhos	키르호스	majority transliteration (46 refs) vs species def 키로스; Kirhos=키르호스
+Oculemon	오큘레몬	오큘레모네이드와 통일(오큘 음차 우세), proper noun
+Ship-based Artificial Intelligence Lattice	함선 기반 인공지능 격자	함선 접두 통일 + EN 어순(AI lattice) 복원
+The Starfarer's Refuge	스타페어러의 피난처	Starfarer's Refuge와 동일 지명 통일
+Monolith	모놀리스	문자 다수파 + 표준 전사
+Burrower	버로우어	정본 벌레랑은 오역
+
+Ocu Cannon	오큘 캐논	오큘 음차 표준 (Oculemon 오큘레몬) 에 맞춰 통일
+Quietus Pistol	콰이어투스 권총	Quietus 시리즈 표기 통일
+Zerchesium Sniper Rifle	제르세슘 스나이퍼 라이플	Zerchesium 시리즈 표기 통일 (저체슘 오기)
+Irradium Whip	이리듐 채찍	Irradium=이리듐 다수파 (102건)
+Nomad Rifle	노마드 라이플	노마드 다수파 (노매드 후드는 별개 아머)
+X'ian Bulb Gun	짜'이족 벌브 건	짜'이족 시리즈 표기 통일
+Sting Needler	스팅 니들러	직역 침침 -> 시리즈 음차 통일
+Auto Trash	자동 쓰레기	아이템명(^gray;자동 쓰레기)과 GUI 타이틀 통일
+Cosmic Blast	코스믹 블래스트	Cosmic Burst(코스믹 버스트)와 구분, FU_KO 층이 이미 블래스트 사용
+Sapling	묘목
+Erchius Horror Figurine	에르키우스 호러 피규어	에르키우스 호러 계열 통일
+The Erchius Horror	에르키우스 호러	미션명도 호러 계열로 통일
+Foraging Table	채집 테이블	EN 직역+퀘스트 다수 용법
+Sprouting Table	발아 테이블	퀘스트 용법과 통일
+Ship Component Assembler	함선 부품 조립기	창 제목/퀘스트와 통일
+Fission Furnace	핵분열 용광로	Fission Reactor(원자력 반응로)와 충돌 해소
+Precursor Microsphere	선구자 마이크로스피어	Microsphere 계열 통일(음차)
+Bomb Microsphere	폭탄 마이크로스피어	Microsphere 계열 통일
+Spider Microsphere	거미 마이크로스피어	Microsphere 계열 통일
+Busty Bonka	버스티 봉카	고유명 음차 우선
+RAID: Behemoth Train	레이드: 베히모스 열차	Behemoth=베히모스 통일
+The Seeker Trial	시커 시련	Seeker Trial과 통일
+Seeker Trial	시커 시련	Seeker=시커 인명과 통일
+Flutter Jump	플러터 점프	사용자 지정: 음차 표기 우선
+Ultra Flutter!	울트라 플러터!	Flutter Jump 계열 음차 통일

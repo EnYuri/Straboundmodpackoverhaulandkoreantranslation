@@ -1,0 +1,78 @@
+asset	pointer	find	replace	korean
+/quests/fu_questlines/tutorial/vinj/fuquest_farming3.questtemplate.patch	/text	먹이 테이블	채집 테이블	알을 부화시키고 싶다면 ^orange;인큐베이터^reset; 을 사용하면 좋습니다! 알을 던져 넣으면 아기 동물을 빠르게 생성할 수 있습니다. 어쨌든 자연에 맡기는 것보다는 빠르겠죠. ^orange;먹이 테이블^reset; 에서 하나 만들어보세요.
+/quests/fu_questlines/tutorial/vinj/fuquest_farming4.questtemplate.patch	/text	먹이 테이블	채집 테이블	^green;가축 사료^reset; 을 던져주면 훨씬 더 빨리 자랄 수 있습니다. ^orange;옥수수^reset; 를 ^orange;손 방앗간^reset; 에서 갈아주세요. 그런 다음 ^orange;먹이 테이블^reset; 로 만든 ^orange;여물통^reset; 에 넣습니다.
+/quests/fu_questlines/science/chemistry/create_fertilizer.questtemplate.patch	/completionText	연금술 테이블	연금술대	이제 더 고급 화학 물질을 만들어 더 좋은 작물을 재배할 수 있습니다! 가능한 한 빨리 ^orange;연금술 테이블^reset; 을 ^orange;화학 실험실^reset; 로 업그레이드하세요.
+/quests/fu_questlines/science/chemistry/create_fertilizer.questtemplate.patch	/text	연금술 테이블	연금술대	^orange;비료^reset; 은 실제 가치가 있는 식물을 생산하기 위해 필수적입니다. 식물을 만들려면 먼저 ^orange;연금술 테이블^reset; 이 필요합니다. 이 프로젝트를 위해 ^orange;비료^reset; 1통이 필요해요. 좀 가져다줄래?
+/quests/fu_questlines/science/chemistry/fuquest_biochem.questtemplate.patch	/completionText	연금술 테이블	연금술대	^orange;뿌리 덮개^reset; 는 ^orange;성장 트레이^reset; 에서 ^green;약한 비료^reset; 로 유용합니다. 모든 종류의 화학 물질, 플라스틱, 실험실에서 만든 재료를 만들 수 있습니다. 가능하면 ^orange;연금술 테이블^reset;을 꼭 업그레이드하세요!
+/quests/fu_questlines/science/chemistry/fuquest_dna.questtemplate.patch	/text	연금술 테이블	연금술대	이제 기본이 명확해졌으니, ^orange;화학 실험실에서 필수적인 ^orange;DNA 샘플^reset; 을 만들어 보세요. ^green;연금술 테이블 업그레이드^reset; 를 클릭해 액세스하세요.
+/quests/fu_questlines/tutorial/vinj/create_alchemy.questtemplate.patch	/text	연금술 테이블	연금술대	화학은 모든 종류의 유용한 물건을 만들 수 있는 과학입니다. ^orange;연금술 테이블^reset; 을 만들어서 한 번 해보세요. ^orange;연구^reset; 과학을 ^orange;화학^reset; 해야 합니다.
+/quests/fu_questlines/byos/fu_byosshipcraftingtable.questtemplate.patch	/text	우주선 구성품 조립기	함선 부품 조립기	우주선 수리를 시작하려면 ^orange;우주선 구성품 조립기^reset;을 만들어야 합니다.
+/quests/fu_questlines/byos/fu_byoscrewdeed.questtemplate.patch	/text	함선 구성품 조립기	함선 부품 조립기	^orange;문^reset;, ^orange;조명^reset;, ^orange;침대^reset; 1개 이상이 있는 밀폐된 방에 배치하면 ^green;승무원 증서^reset;를 사용해 ^orange;승무원 고용^reset;을 할 수 있습니다. ^orange;함선 구성품 조립기^reset; 에서 하나를 제작하여 함선에 배치하세요!
+/quests/fu_questlines/byos/fu_byoscrew.questtemplate.patch	/text	함선 구성품 조립소	함선 부품 조립기	^orange;승무원 고용^reset; 을 하려면 먼저 ^green;형편없는 승무원 침대^reset; 를 건설해야 합니다. ^orange;함선 구성품 조립소^reset; 에서 제작하여 함선에 배치하세요!
+/quests/fu_questlines/tutorial/vinj/fuquest_powergeneration2.questtemplate.patch	/completionText	나무 선별기	시프터	게임을 한 단계 업그레이드하고 싶다면 ^orange;아이템 전송 장치^reset; 및 ^orange;스토리지 브리지^reset;를 설치한 다음 와이어로 ^green;선별기^reset;에 연결해보세요! ^orange;나무 선별기^reset; 같은 기계에서 보관함으로, 또는 반대 방향으로 아이템을 자동으로 이동할 수 있습니다!
+/quests/fu_questlines/tutorial/vinj/fuquest_powergeneration2.questtemplate.patch	/completionText	선별기	시프터	게임을 한 단계 업그레이드하고 싶다면 ^orange;아이템 전송 장치^reset; 및 ^orange;스토리지 브리지^reset;를 설치한 다음 와이어로 ^green;선별기^reset;에 연결해보세요! ^orange;나무 선별기^reset; 같은 기계에서 보관함으로, 또는 반대 방향으로 아이템을 자동으로 이동할 수 있습니다!
+/quests/fu_questlines/tutorial/vinj/create_rockbreaker.questtemplate.patch	/completionText	선별기	시프터	바위 파괴기는 선별기에 비해 속도가 느리고 더 많은 전력이 필요하지만, 선별기만 사용할 때보다 훨씬 더 많은 자원을 추출할 수 있습니다. 가능하다면 ^orange;바위 분쇄기^reset;으로 업그레이드하는 것이 훨씬 더 효율적입니다.
+/quests/scp_quests/scp_minersguildquests/misc/scp_minersguildquest_corefragment.questtemplate.patch	/text	코어 조각	행성 핵 파편	^orange;코어 조각^white;은 채굴에 유용한 폭발 장치 제작에 쓰인다. ^orange;코어 조각 10개^white;를 가져올 때마다 ^yellow;500 픽셀^white;을 주겠다. 어떤가?
+/radiomessages/quests.radiomessages.patch	/gaterepair-gateFound1b/text	코어 조각	행성 핵 파편	이 메시지를 받았다면 ^orange;고대 게이트웨이^reset; 근처에 있는 것이 틀림없으니, 활성화해서 저를 찾아주세요. ^orange;코어 조각^reset; 과 ^orange;트라이코더^reset; 으로 게이트의 전원을 켤 수 있습니다.
+/quests/fu_questlines/science/electronics/create_circuitboard.questtemplate.patch	/text	실리콘 보드	회로판	유익합니다: 이제 ^orange;실리콘^reset; 과 ^orange;구리 선^reset; 이 두 가지를 ^orange;물질 어셈블러^reset; 에서 합쳐서 ^orange;실리콘 보드^reset; 를 제작해 보세요.
+/quests/lustia/miscmerchant1.questtemplate.patch	/text	실리콘 보드	회로판	예전부터 진행하던 프로젝트가 있는데, 완성할 재료가 없었어. ^orange;실리콘 보드, 소형 배터리, 구리 전선, 텅스텐 막대, 작은 벽 버튼^reset;을 좀 구해다 줄 수 있어? ^green;(실리콘 보드 1개, 소형 배터리 2개, 구리 전선 5개, 텅스텐 막대 3개, 작은 벽 버튼 1개 배달.)^reset;
+/quests/fu_questlines/battle/gear/create_warcleaver.questtemplate.patch	/scriptConfig/turnInDescription	페로지움 칼	페로슘 클리버	^orange;페로지움 칼^reset; 을 ^orange;과학 전초기지^reset; 에 있는 ^green;귀찮은 녀석^reset; 에게 가져가세요.
+/quests/fu_questlines/battle/gear/create_warcleaver.questtemplate.patch	/text	페로지움 칼	페로슘 클리버	솔직히 말씀드리자면, 제가 가장 좋아하는 살인 도구가 고장나서 대체품이 필요해요. ^orange;페로지움 칼^reset; 을 가져다 주면 수고에 대한 보상을 해드리겠습니다.
+/quests/fu_questlines/deprecated/fuquest_battery.questtemplate.patch	/text	전자 센터	전자공학 시설	배터리가 필요하지는 않지만 매우 유용합니다. ^orange;기초 배터리^reset; 을 ^orange;전자 센터^reset; 에서 생성하여 사용해 보세요.
+/quests/fu_questlines/deprecated/fuquest_fission.questtemplate.patch	/text	핵분열로	핵분열 용광로	고급 광석을 처리하려면 ^orange;핵분열로^reset; 이 필요합니다. 가장 강한 금속도 녹일 수 있습니다. 하지만 용광로를 얻으려면 할 일이 좀 있습니다! 먼저 작은 용광로에서 ^orange;프로토카이트 바^reset; 를 만들어보는 건 어떨까요?
+/quests/fu_questlines/deprecated/fuquest_hydrotray.questtemplate.patch	/text	발전소	전력 스테이션	다음으로 ^orange;수경 재배 트레이^reset; 를 만들어 봅시다. ^orange;발전소^reset; 에 건설하여 식물을 ^green;빠르게 성장시키는 데 사용할 수 있습니다^reset;.
+/quests/fu_questlines/other/create_hydrotray.questtemplate.patch	/text	발전소	전력 스테이션	케빈이 술에 취한 직원 파티에서 내 ^orange;수경재배 트레이^reset; 에 오줌을 싸서 부쉈어요! 새로 만들 수 있는 ^orange;발전소^reset; 가 없는데... 하나만 가져다 주실 수 있나요?
+/quests/fu_questlines/outpost/booze/4malt.questtemplate.patch	/text	캠프파이어	모닥불	새로운 스테이션을 사용할 시간입니다. 먼저, ^orange;밀^reset; 한 조각을 ^orange;빗물 통^reset; 에 넣습니다. 밀이 불면 ^orange;발아 테이블^reset; 에 넣습니다. 그런 다음 싹이 튼 밀을 ^orange;캠프파이어^reset; 에 넣습니다.
+/quests/fu_questlines/tutorial/vinj/fuquest_farming2.questtemplate.patch	/text	캠프파이어	모닥불	굶주릴 때는 몇 가지 선택지가 있습니다. ^orange;캠프파이어^reset; 을 사용하면 고기를 익힐 수 있습니다. 빠르지만, 고기를 얻으려면 ^green;활^reset;, ^orange;사냥창^reset;, ^orange;사냥용 창^reset; 또는 ^orange;사냥 소총^reset; 이 필요합니다. 고기를 구해 요리하세요. 그런 다음 놈을 얻습니다.
+/quests/fu_questlines/outpost/kevin_tasks/create_clothingfabricator3.questtemplate.patch	/scriptConfig/turnInDescription	외계인 화합물	외계 화합물	당신의 군주, 케빈을 ^red;케빈^reset; 5 ^orange;외계인 화합물^reset;을 가져와요;
+/quests/fu_questlines/outpost/kevin_tasks/create_clothingfabricator3.questtemplate.patch	/text	외계인 화합물	외계 화합물	^orange;외계인 화합물^reset; 5개 없이는 로켓으로 움직이는 기니피그에게 독을 먹일 수 없어요. 좀 구해줄 수 있을까요? (이론상으로는) 충분히 보답할게요!
+/quests/fu_questlines/tutorial/start_basics4.questtemplate.patch	/scriptConfig/turnInDescription	실버바	은 주괴	주황색 용광로^reset; 에서 ^green;실버바^reset; 를 제작하고 ^green;웰치^reset; 로 돌아가세요.
+/quests/fu_questlines/deprecated/fuquest_fission.questtemplate.patch	/text	프로토카이트 바	프로토사이트 주괴	고급 광석을 처리하려면 ^orange;핵분열로^reset; 이 필요합니다. 가장 강한 금속도 녹일 수 있습니다. 하지만 용광로를 얻으려면 할 일이 좀 있습니다! 먼저 작은 용광로에서 ^orange;프로토카이트 바^reset; 를 만들어보는 건 어떨까요?
+/quests/fu_questlines/outpost/bees/11honeyjarrer.questtemplate.patch	/completionText	꿀단지	꿀 항아리	^orange;꿀단지^reset; 는 원심분리하는 빗에 따라 다른 효과를 가진 ^green;꿀단지^reset; 를 만듭니다. 실험은 여러분의 몫입니다!
+/quests/fu_questlines/outpost/bees/4bees.questtemplate.patch	/text	벌집망	벌레잡이 그물	이제 여왕벌과 드론 꿀벌을 ^green; 잡아서 양봉장 안에 풀어줘야 합니다^reset;. 이를 위해서는 ^orange;벌집망^reset; 이 필요합니다. 꿀벌은 대개 낮 시간에 대부분의 생물군계에서 볼 수 있습니다.
+/quests/fu_questlines/outpost/booze/2brew_d.questtemplate.patch	/text	와트위드	사마귀초	이제 ^green;와트와인^reset; 을 만들어 봅시다. ^orange;병^reset;, ^orange;효모 물^reset;, ^orange;와트위드^reset; 2개, ^orange;포도 매시^reset; 2개를 ^orange;발효기^reset;에 넣으세요.
+/quests/fu_questlines/outpost/scienceoutpost_shadowShop.questtemplate.patch	/text	고대의 원격지를	고대 리모컨을	<^red;머릿속에서 목소리가 들려옵니다^reset; 가장 속상한 일입니다. 탐험은 실패했습니다. 고대의 원격지를 찾을 수 없습니다^orange;고대의 리모컨^reset; 비싼 값에 팔았습니다. 필멸자 이족보행자가 찾으면 구입해 주시면 정말 감사하겠습니다.>.
+/quests/fu_questlines/science/chemistry/create_plastic.questtemplate.patch	/text	본밀	골분	과학자가 되려면 ^orange;고급 플라스틱^reset; 이 필요합니다. ^green;사막^reset; 또는 ^orange;본밀^reset; 에서 ^orange;기름^reset; 을 찾은 다음 ^orange;바이오 실험실^reset; 로 향하세요. 한 조각이라도 가져와요!
+/quests/fu_questlines/outpost/kevin_tasks/create_clothingfabricator3d.questtemplate.patch	/scriptConfig/turnInDescription	플라즈믹 크리스탈	플라스믹 수정	^red;케빈^reset; 20 ^orange;플라즈믹 크리스탈^reset; 가져와.
+/quests/fu_questlines/outpost/kevin_tasks/create_clothingfabricator3e.questtemplate.patch	/scriptConfig/turnInDescription	브레인	뇌	평균 품질의 ^red;케빈^reset; 50 ^orange;브레인^reset; 을 가져오세요.
+/quests/fu_questlines/deprecated/fuquest_craftinfo.questtemplate.patch	/scriptConfig/turnInDescription	실험실 디렉토리	연구소 카탈로그	^orange;실험실 디렉토리^reset; 를 ^orange;과학 전초기지^reset;에 있는 과학자에게 가져가세요;
+/quests/PBImissions/quest4pbiMission1.questtemplate.patch	/scriptConfig/turnInDescription	목스 펄더 요원	요원 목스 풀더	^orange;경찰 본부^reset;의 ^orange;목스 펄더 요원^reset;에게 말해
+/quests/PBImissions/quest4pbiMission2.questtemplate.patch	/scriptConfig/turnInDescription	목스 펄더 요원	요원 목스 풀더	^orange;경찰 본부^reset;의 ^orange;목스 펄더 요원^reset;에게 말해
+/quests/fu_questlines/byos/fu_byoscrew.questtemplate.patch	/text	형편없는 승무원 침대	조잡한 승무원 침대	^orange;승무원 고용^reset; 을 하려면 먼저 ^green;형편없는 승무원 침대^reset; 를 건설해야 합니다. ^orange;함선 구성품 조립소^reset; 에서 제작하여 함선에 배치하세요!
+/quests/esc_nt_chapter_2_1.questtemplate.patch	/scriptConfig/conditions/0/description	운영 기록: 탐사	운영 기록: 탐험	^#64a5d7;운영 기록: 탐사^reset; 찾기: ^green;<current> / <required>^reset;
+/ai/novakidquest.aimission.patch	/speciesText/default/selectSpeech/text	그 낯선 자	이방인	"^orange;그 낯선 자^reset;가 가라고 한 행성이다.
+^red;이번에는 장비를 잘 갖추는 게 좋을 거다."
+/quests/other/novakidquest.questtemplate.patch	/scriptConfig/descriptions/turnIn	그 낯선 자	이방인	^orange;그 낯선 자^reset;에게 말을 거세요
+/quests/other/novakidquest.questtemplate.patch	/scriptConfig/missionRadioMessage/text	더 스트레인저	이방인	^orange;불타버린 행성^reset; 좌표를 받았어. 그 위치에 접근하려면 ^green;선박 컴퓨터를 사용하거나^reset; ^green;더 스트레인저에게 말을 걸어^reset;.
+/quests/ironwatch/sgelevatorsurvival2.questtemplate.patch	/scriptConfig/descriptions/findGoal	미니크녹 격파.	미니크녹을 물리치세요.	미니크녹 격파.
+/quests/ironwatch/sgironwatchspacemission.questtemplate.patch	/scriptConfig/descriptions/findGoal	미니크녹 격파.	미니크녹을 물리치세요.	미니크녹 격파.
+/quests/ironwatch/sgoceanattack1.questtemplate.patch	/scriptConfig/descriptions/findGoal	미니크녹 격파.	미니크녹을 물리치세요.	미니크녹 격파.
+/quests/ironwatch/sgoceanattack2.questtemplate.patch	/scriptConfig/descriptions/findGoal	미니크녹 격파.	미니크녹을 물리치세요.	미니크녹 격파.
+/quests/tech/jump/fuwalljump2.questtemplate.patch	/completionText	벽 점프	월 점프	이 새로운 기술을 통해 벽 점프 기술을 ^green;유용한 업그레이드 기술 ^orange;초기화로 바꿀 수 있다는 걸 깨달았어요;
+/quests/tech/jump/fuwalljump2.questtemplate.patch	/text	벽 점프	월 점프	이 새로운 기술을 통해 벽 점프 기술을 ^green;유용한 업그레이드 기술 ^orange;초기화로 바꿀 수 있다는 것을 깨달았습니다;
+/quests/fu_questlines/battle/gear/create_steelwarblade.questtemplate.patch	/text	갑옷 공장	방어구 제작	솔직히 말할게요. 내 검은 형편없어. 새로 만들어줘요. ^orange;조립 라인^reset; 에서 ^orange;강철 워블레이드^reset; 를 제작하세요! 먼저 ^orange;갑옷 공장^reset; 을 업그레이드해야 합니다.
+/quests/uniqueweapons/weaponrestoration/weaponrestorationavikan.questtemplate.patch	/text	브할레이안 창	브할레이한 창	네가 들고 있는 그 창, 좀 보여줘! 아, 그래... 내가 생각했던 그거였어: 고대 브할레이안 창이야! 어떻게 고치는지는 알지만, 극도로 희귀한 재료들이 필요할 거야. ^green;은하를 뒤져서 센텐시안 유적을 찾고 ^orange;센텐시안 유물^white;을 구해와 - 떠다니는 금속 정육면체 같은 거야 - 그럼 계속 진행할 수 있어.
+/quests/uniqueweapons/weaponrestoration/weaponrestorationavikan2.questtemplate.patch	/completionText	바흘레이한 창	브할레이한 창	그게 정말 바흘레이한 창인가? 놀랍군! 선장님, 수리해드릴 수 있다면 영광이겠습니다!
+/quests/uniqueweapons/weaponrestoration/weaponrestorationavikan3.questtemplate.patch	/completionText	바흘레이한 창	브할레이한 창	여기 있습니다, 선장님. 당신의 바흘레이한 창이 완전히 복원되었습니다. 이렇게 강력한 무기를 다룰 수 있어 영광이었습니다.
+/quests/fu_questlines/science/genetics/create_regengene.questtemplate.patch	/scriptConfig/turnInDescription	노란 새에게	아비안에게	^orange;가시톡스 씨앗 3개^reset; 를 ^orange;과학 전초기지^reset; 에 있는 노란 새에게 가져다주세요;
+/quests/fu_questlines/science/genetics/create_regengene.questtemplate.patch	/scriptConfig/turnInDescription	노란 새	아비안	^orange;가시톡스 씨앗 3개^reset; 를 ^orange;과학 전초기지^reset; 에 있는 노란 새에게 가져다주세요;
+/quests/tech/dash/teleportdash.questtemplate.patch	/completionText	주황색 순간이동 대시^reset;	^orange;블링크 대시 II^reset;	흥미롭군. 이 유물 덕분에 주황색 순간이동 대시^reset; 기술을 배웠어요. 적의 추리를 방해할 수 있겠어!
+/quests/tech/dash/teleportdash.questtemplate.patch	/completionText	순간이동 대시	블링크 대시 II	흥미롭군. 이 유물 덕분에 주황색 순간이동 대시^reset; 기술을 배웠어요. 적의 추리를 방해할 수 있겠어!
+/quests/tech/dash/teleportdash.questtemplate.patch	/text	순간이동 대시	블링크 대시 II	흥미롭군. 유물을 통해 ^orange;순간이동 대시^reset; 기술을 배웠어요. 적의 추리를 방해할 수 있겠어!
+/quests/tech/distortionsphere/microsphereprecursor.questtemplate.patch	/completionText	선구자 마이크로 구체	선구자 마이크로스피어	독특한 기술을 발견했습니다! 선구자 마이크로 구체! 벽에 달라붙고 이동 속도가 증가하며, ^green;[FIRE]^reset; 키를 누르면 적을 기절시키고 밀어내는 반발체 폭발을 유발함. 자동으로 장착되었습니다.
+/quests/tech/distortionsphere/microsphereprecursor.questtemplate.patch	/text	선구자 마이크로 구체	선구자 마이크로스피어	독특한 기술을 발견했습니다! 선구자 마이크로 구체! 벽에 달라붙고 이동 속도가 증가하며, ^green;[FIRE]^reset; 키를 누르면 적을 기절시키고 밀어내는 반발체 폭발을 유발함. 자동으로 장착되었습니다.
+/quests/tech/distortionsphere/microsphereprecursor.questtemplate.patch	/completionText	반발체 폭발	반발 폭발	독특한 기술을 발견했습니다! 선구자 마이크로 구체! 벽에 달라붙고 이동 속도가 증가하며, ^green;[FIRE]^reset; 키를 누르면 적을 기절시키고 밀어내는 반발체 폭발을 유발함. 자동으로 장착되었습니다.
+/quests/tech/distortionsphere/microsphereprecursor.questtemplate.patch	/text	반발체 폭발	반발 폭발	독특한 기술을 발견했습니다! 선구자 마이크로 구체! 벽에 달라붙고 이동 속도가 증가하며, ^green;[FIRE]^reset; 키를 누르면 적을 기절시키고 밀어내는 반발체 폭발을 유발함. 자동으로 장착되었습니다.
+/quests/techquests/thea-stealthtechunlock2.questtemplate.patch	/text	스텔스 테크	은신 테크	기술을 얻기 전에, 차차라가 기술이 어떻게 작동하는지 확실히 알려주겠다. ^green;차차라가 만든 ^orange;시험 코스^green;로 가라^reset;, 그럼 ^orange;스텔스 테크^reset;는 영원히 네 것!
+/quests/techquests/thea-stealthtechunlock2.questtemplate.patch	/completionText	스텔스 테크	은신 테크	차차라 감명받았다, 너 실력 있다! ^orange;스텔스 테크^reset; 가져라, 많은 적 몰래 지나칠 때 써라...
+/quests/fu_questlines/outpost/booze/9merrymead.questtemplate.patch	/scriptConfig/turnInDescription	주황색 과학 전초기지의	^orange;과학 전초기지^reset;의	주황색 과학 전초기지의 ^orange;술^reset; 을 ^green;취함^reset; 으로 가져와야 합니다;
+/radiomessages/quests.radiomessages.patch	/gaterepair-findGate/text	^주황색 환영 비콘^reset;	^orange;환영 비콘^reset;	스캔 결과 이 행성에 ^주황색 환영 비콘^reset;이 있는 것 같습니다. 조사해볼 만한 가치가 있는^green;^reset;의 확률은 82%, 더 이상 할 일이 없을 확률은 98%로 추정됩니다.
+/quests/fuel.questtemplate.patch	/text	주황색 액체 에르키우스	^orange;액체 에르키우스^reset;	FTL 드라이브에 연료를 공급하려면 액체 에르키우스가 필요합니다. 이 분홍색 액체는 ^orange;지하^orange;웅덩이에서 ^orange;공기가 없는 행성^white;에서 찾을 수 있습니다. 주황색 액체 에르키우스를 20개 이상 모아야 우주선에 연료를 공급할 수 있어요. 그러면 가까운 시스템으로 이동할 수 있을 거예요.
+/quests/fuel.questtemplate.patch	/completionText	주황색 연료 게이지에서	^orange;연료 게이지^reset;에서	필요한 연료를 찾았어요! 주황색 연료 게이지에서 배에 ^green;적재할 수 있습니다. ^white;그런 다음 내비게이터를 사용하여 가까운 다른 항성계로 이동합니다.
+/quests/tech/dash/speedbootsweak.questtemplate.patch	/text	주황색 자극제 장비^reset;	^orange;자극제 장비^reset;	연구를 통해 배운 것을 바탕으로 새로운 기술을 고안해냈어요. 주황색 자극제 장비^reset;! 이 장비는 ^red;안전하지 않은 수준의 마약성 각성제를 주입하여 일정한 속도 향상을 제공합니다^reset;! 만세!
+/quests/fu_questlines/tutorial/start_basics4.questtemplate.patch	/scriptConfig/turnInDescription	주황색 용광로^reset;	^orange;용광로^reset;	주황색 용광로^reset; 에서 ^green;실버바^reset; 를 제작하고 ^green;웰치^reset; 로 돌아가세요.
+/quests/fu_questlines/science/electronics/create_watcher.questtemplate.patch	/completionText	감시자	관측기	^orange;감시자^reset; 는 특별합니다. 행성에서 멀리 떨어져 있는 동안에도 해당 범위 ^gray;(20블록)^reset; 내의 전원이 공급되는 장치를 계속 작동시킵니다. 행성을 떠나면 모든 감시자가 초기화됩니다.^red;감시자가 너무 많이 추적하면 속도가 느려집니다.^red;너무 많이 사용하지 마세요.^red;초기화됩니다.
+/quests/fu_questlines/science/electronics/create_watcher.questtemplate.patch	/scriptConfig/turnInDescription	감시자	관측기	^orange;감시자^reset; 를 ^orange;과학 전초기지^reset; 최상층에 있는 ^green;보라색 갑옷을 입은 과학자^reset; 에게 가져가세요;
+/quests/fu_questlines/science/electronics/create_watcher.questtemplate.patch	/text	감시자	관측기	전력 스테이션은 ^green;거대한 생산성 부스터^reset; 입니다. ^orange;감시자^reset; 를 사용하면 훨씬 더 다재다능해집니다! ^orange;감시자^reset; 를 ^orange;전력 스테이션^reset; 에서 제작하여 저에게 가져와 보세요.
+/quests/fu_questlines/tutorial/vinj/create_woodensifter.questtemplate.patch	/completionText	체	시프터	체는 매우 비효율적이고 느리므로 가능한 한 빨리 전자공학 시설에서 ^orange;분말 시프터^reset; 으로 업그레이드하는 것이 좋습니다.
+/quests/fu_questlines/tutorial/vinj/create_woodensifter.questtemplate.patch	/text	체	시프터	^orange;미사^reset;, ^orange;자갈^reset;, ^green;기타 가루 재료^reset; 같은 무른 자갈이 쌓여 있다면, ^orange;체에 던져 넣으면 바로 자원을 뽑아낼 수 있습니다! 가능하다면 ^orange;체^reset; 을 만드세요.

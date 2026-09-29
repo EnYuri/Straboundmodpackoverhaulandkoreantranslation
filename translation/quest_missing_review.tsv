@@ -1,0 +1,725 @@
+en_name	canon	ko_tagged_tokens	asset	en	ko	tier
+well	우물		angelquestgiver.npctype.patch	You seem to be doing well.	잘 지내는 것 같네.	REVIEW
+well	우물		esc_pmc_rep_1.questtemplate.patch	That's impressive. You're doing well.	인상적이네. 잘하고 있어.	REVIEW
+well	우물		gic_garden_crypt_caveopeningquest.questtemplate.patch	A path leads off through what appears to be wooden tunnels. Something 	나무 터널로 보이는 곳을 지나 길이 이어집니다. 무언가가 당신을 잡아당기며 여기가 가야 할 곳이 아닐지 모른다는 느낌을 줍니다	REVIEW
+well	우물		gic_garden_marshlandvillage_marshlandpath_roguemechquest.questtemplate.patch	A small trail leads off from this building. Posted on the entrance to 	이 건물에서 작은 오솔길이 이어집니다. 길 입구엔 어떤 ''홀벡 드래곤''을 경고하는 표지가 붙어 있습니다. 이 길로 가기 전	REVIEW
+well	우물		gic_razed_floranfortifiedtown_shellhunterquest.questtemplate.patch	This passageway was locked off for a reason. You should be well-equipp	이 통로는 이유가 있어 잠겼어요. 이 길로 가기 전 잘 장비하세요.	REVIEW
+well	우물		alliancestorystart.questtemplate.patch	It is good to see you have escaped the chaos alive and well. Now more 	혼란 속에서 무사히 탈출하신 걸 보니 다행입니다. 지금이야말로 그 어느 때보다 당신 같은 좋은 사람들이 필요합니다.	REVIEW
+well	우물		avikanstorystart.questtemplate.patch	You have done well, Captain. The Watchers are grateful for your effort	잘했어, 선장. 감시자들이 네 노고에 감사한다. 내가 아이리스와 네 발견을 논의하는 동안 자유롭게 있어라. 새 임무가 있으면 	REVIEW
+well	우물		gic_wildlands_dealer_repeatable.questtemplate.patch	Wildlands planets would make good colonies if not for the aggressive n	야생지대 행성들은 공격적인 야행성 야생 동물들만 없다면 좋은 식민지가 될 것입니다. 나는 그 야수들에 대한 정보를 위해 돈을 	REVIEW
+well	우물		aetherquest.questtemplate.patch	This Ether is quite like Phase Matter, though it seems that you can ha	이 에테르는 위상 물질과 꽤 비슷하지만 굳힐 수 있는 듯하다. 네가 가진 에테르 일부는 이미 내가 단련해 두었지만 이제 너도 	REVIEW
+well	우물		alliancemechparts2.questtemplate.patch	You are just the best, thank you! Here, take the blueprints I promised	넌 최고야, 고마워! 자, 약속한 도면을 받아 - 잘 쓸 수 있을 거야!	REVIEW
+well	우물	시간을 초월한 별|이온 타임피스	arcana_quests_ankhu_mwhaddon_10.questtemplate.patch	You should already know that there's a giant clocktower on every ^gree	모든 ^green;시간을 초월한 별^white;에는 거대 시계탑이 있다는 걸 이미 알 거야. 거기서 ^cyan;이온 타임피스^	REVIEW
+well	우물	신기루 항성|주홍 행성|루페스사이트	arcana_quests_ankhu_mwhaddon_13.questtemplate.patch	Settling down on ^green;Vermilion planets^white; in ^green;Mirage Star	^green;신기루 항성^white;의 ^green;주홍 행성^white;에 정착한 것이 바로 그 유명한 엑수시아 제국이다. 	REVIEW
+well	우물		arcana_quests_ankhu_mwhaddon_13.questtemplate.patch	Oh, you're back. I hope those Exousians didn't put you on the spot. Th	오, 돌아왔구나. 그 엑소시안들이 널 곤란하게 만들지 않았기를 바라. 다시 한번 고마워. 우리는 꽤 잘 진행되고 있어.	REVIEW
+well	우물	폐허 행성|신비로운 광석	arcana_quests_ankhu_mwhaddon_14.questtemplate.patch	As one of the best representation of World Horizon, ^green;Ruinous pla	월드 호라이즌을 가장 잘 대표하는 곳 중 하나로서, ^green;폐허 행성^white;은 ^orange;신비로운 광석^whit	REVIEW
+well	우물	다정한 행성|가루	arcana_quests_ankhu_mwhaddon_16.questtemplate.patch	After all of these are done, I've still got one job for you, a more pe	이것들을 다 끝내면, 당신에게 마지막으로 한 가지 부탁이 남았어요, 좀 더 개인적인 부탁이에요. 예술가 친구가 있는데, 곧 생	REVIEW
+well	우물	아르카나 별|창백한 별|아르카니움 모루|발광 EPP|아르카나 행성	arcana_quests_ankhu_mwhaddon_3.questtemplate.patch	I assume that your journey at ^orange;Arcana stars^white; is nearing i	^orange;아르카나 별^white;에서의 여정이 거의 끝나가고 ^orange;창백한 별^white;로 향하고 있으신 것 같	REVIEW
+well	우물	레나틴 수정|발광 행성	arcana_quests_ankhu_mwhaddon_4.questtemplate.patch	There's a kind of crystal called ^orange;Renatine Crystals^white;, whi	^orange;레나틴 수정^white;이라는 수정이 있어요. 이것도 비전 마법을 저장하는 데 쓰이죠. 계속 쓰기 전에 먼저 몇	REVIEW
+well	우물	조명된 정수|조명된 행성|빛나는 물	arcana_quests_ankhu_mwhaddon_6.questtemplate.patch	^orange;Illuminated Essence^white; is from ^green;Illuminated planets^	^orange;조명된 정수^white;는 아케인 쪽과 마찬가지로 ^green;조명된 행성^white;에서 나온다. 즉 그곳에서	REVIEW
+well	우물	고대 도서관 코덱스	arcana_quests_gushenAntique_2.questtemplate.patch	Want to find something else for me? You'll be rewarded well, of course	다른 걸 찾아주겠나? 물론 보상은 푸짐하게 하지. ^green;고대 도서관 코덱스^white;를 가져와 봐, 꽤 희귀한 하이로	REVIEW
+well	우물	플로란 정착지|원시적인 사냥꾼 그림|챔피언의 창 장식품	arcana_quests_gushenAntique_4.questtemplate.patch	The Florans are an interesting bunch, I'm curious of what relics they 	플로란들은 흥미로운 무리야, 그들이 어떤 유물을 가지고 있는지도 궁금해. ^orange;플로란 정착지^white;에서 ^gre	REVIEW
+well	우물	솔라 유물|솔라 화염 방출기|솔라 연막기	arcana_quests_gushenAntique_5.questtemplate.patch	You've done well so far, I'll give you a special reward if you can fin	여태 잘했어, ^orange;솔라 유물^white;도 찾아오면 특별 보상을 줄게. 좀 더 찾기 어려운데, ^green;솔라 화	REVIEW
+well	우물	시커 아틀라스	arcana_seeker_1_missionafter.questtemplate.patch	We are still gathering information about the stolen relic's whereabout	우리는 도난당한 유물의 행방과 남은 기적에 대한 정보를 아직 수집 중입니다. 지금은 ^orange;시커 아틀라스^reset;를	REVIEW
+well	우물	아스트랄 천문대|플린트|갤리온	arcana_seeker_desertstart_intro.questtemplate.patch	You've arrived just in time! Our search for the Miracles have gotten n	딱 맞춰 도착했다! 기적 탐색에 새 단서가 생겼다: 그중 하나가 아르카니안 길드마스터들에게 있는 것 같다. 먼저 ^orange	REVIEW
+well	우물		arcana_seeker_desertstart_mission.questtemplate.patch	The trek to Lodestar Temple won't be short, and there's no telling wha	로드스타 신전까지의 여정은 짧지 않을 것이고 신전 안에 무엇이 있는지도 알 수 없다. 장비를 충분히 갖추고 유물로 향하는 길에	REVIEW
+well	우물	냉동 무덤|가서 그 구역을 조사해보고	atprk_relicsearchmission2.questtemplate.patch	Thank you for protectin' us. That was so stressful... I'm sorry, but I	우릴 지켜줘서 고마워. 정말 스트레스받는 일이었어... 미안하지만, 난 남아서 승무원들이 잘 지내는지 확인해야 해. 그래도 ^	REVIEW
+well	우물		avikancrossbow.questtemplate.patch	As promised, here is the schematic for that Bone Crossbow. Fight well,	약속대로, 여기 그 뼈 석궁의 설계도입니다. 잘 싸우세요, 선장님.	REVIEW
+well	우물	개량된 석궁 설계도|텔레안 금속|조각 하나만 구해다 주면, 설계도는 네 거야	avikancrossbow2.questtemplate.patch	Makhan gave you the schematics for that Bone Crossbow, I guess? He mea	마칸이 그 뼈 석궁 설계도를 줬나 보네? 좋은 뜻이겠지만, 그의 뼈 무기는 그냥 구식이야. 나한테 ^orange;개량된 석궁 	REVIEW
+well	우물		clue_items.config.patch	"Hey Crew,
+
+You're never gonna believe this!
+I TOTALLY fooled a Peaceke"	"동료들에게,
+
+내 말이 믿기지 않을 거다!
+내가 다른 사람인 척을 해서 피스키퍼을 완전히 속였거든!
+의심도 안하고 제대로 속았"	REVIEW
+well	우물		clue_items.config.patch	"Hey Crew,
+
+You're never gonna believe this!
+I TOTALLY fooled a Peaceke"	"동료들에게,
+
+내 말이 믿기지 않을 거다!
+내가 다른 사람인 척을 해서 피스키퍼을 완전히 속였거든!
+의심도 안하고 제대로 속았"	REVIEW
+well	우물		landingpresentrecovery.questtemplate.patch	You have done well! I will make sure that these presents are distribut	잘했어! 이 선물들이 공평하게 배분되도록 할게. 즐거운 착륙 축제를 다른 이들에게 가져다주는 걸 도와준 감사로, 너에게도 선물	REVIEW
+well	우물	F4 에너지 라이플	create_energyassault.questtemplate.patch	I keep getting devoured on this planet! It sucks! Could you build me a	이 행성에서 계속 잡아먹혀요! 짜증나! 제가 살아남을 수 있도록 ^orange;F4 에너지 라이플^reset; 을 만들어 주실	REVIEW
+well	우물	F4 에너지 라이플	create_energyassault.questtemplate.patch	I keep getting devoured on this planet! It sucks! Could you build me a	이 행성에서 계속 잡아먹혀요! 짜증나! 제가 살아남을 수 있도록 ^orange;F4 에너지 라이플^reset; 을 만들어 주실	REVIEW
+well	우물	사이버 구체|황무지|전쟁 봇	fuquest_warbot.questtemplate.patch	On ^orange;Cyber Spheres^reset; or ^orange;Wasteland^reset; planets th	^orange;사이버 구체^reset; 또는 ^orange;황무지^reset; 행성에는 종종 ^orange;전쟁 봇^reset	REVIEW
+well	우물	사이버 구체|황무지|전쟁 봇	fuquest_warbot.questtemplate.patch	On ^orange;Cyber Spheres^reset; or ^orange;Wasteland^reset; planets th	^orange;사이버 구체^reset; 또는 ^orange;황무지^reset; 행성에는 종종 ^orange;전쟁 봇^reset	REVIEW
+well	우물	추출 연구실|가공 테이블|업그레이드	fuquest_prototyper.questtemplate.patch	Try building a few more basic goods such as the extremely useful ^oran	매우 유용한 ^orange;추출 연구실^reset; 같은 기본 상품을 몇 가지 더 만들어 보세요. ^orange;가공 테이블^	REVIEW
+well	우물	Frackin' Universe|가공 테이블|연구실과 장비|제작 자원|전자석	fuquest_prototyper.questtemplate.patch	You've taken your first steps in ^cyan;Frackin' Universe^reset;. With 	^cyan;Frackin' Universe^reset;에서 첫 발을 내디뎠습니다. 이제 ^orange;가공 테이블^reset;	REVIEW
+well	우물	추출 연구실|가공 테이블|업그레이드	fuquest_prototyper.questtemplate.patch	Try building a few more basic goods such as the extremely useful ^oran	매우 유용한 ^orange;추출 연구실^reset; 같은 기본 상품을 몇 가지 더 만들어 보세요. ^orange;가공 테이블^	REVIEW
+well	우물	Frackin' Universe|가공 테이블|연구실과 장비|제작 자원|전자석	fuquest_prototyper.questtemplate.patch	You've taken your first steps in ^cyan;Frackin' Universe^reset;. With 	^cyan;Frackin' Universe^reset;에서 첫 발을 내디뎠습니다. 이제 ^orange;가공 테이블^reset;	REVIEW
+well	우물		fuquest_explore1.questtemplate.patch	Interesting find! Keep going, you're doing well!	흥미로운 발견이네요! 계속하세요, 잘하고 있어요!	REVIEW
+well	우물		fuquest_explore1.questtemplate.patch	Interesting find! Keep going, you're doing well!	흥미로운 발견이네요! 계속하세요, 잘하고 있어요!	REVIEW
+well	우물	노인 종족|크툴루 동상	create_elder.questtemplate.patch	I am obsessed with ancient civilizations. Truly. I hear tell of an ^or	나는 고대 문명에 집착한다. 진심이야. 한때 별을 떠돌던 ^orange;노인 종족^reset; 에 대해 들었어요. 만약 당신이	REVIEW
+well	우물	노인 종족|크툴루 동상	create_elder.questtemplate.patch	I am obsessed with ancient civilizations. Truly. I hear tell of an ^or	나는 고대 문명에 집착한다. 진심이야. 한때 별을 떠돌던 ^orange;노인 종족^reset; 에 대해 들었어요. 만약 당신이	REVIEW
+well	우물	기본적인 현미경	4bbees.questtemplate.patch	When you catch wild queens, you can't tell much about them. You can't 	야생 여왕을 잡으면 그들에 대해 많은 것을 알 수 없습니다. 추측만으로는 잘 활용할 수 없습니다. 따라서 꿀벌 스테이션에 ^o	REVIEW
+well	우물	기본적인 현미경	4bbees.questtemplate.patch	When you catch wild queens, you can't tell much about them. You can't 	야생 여왕을 잡으면 그들에 대해 많은 것을 알 수 없습니다. 추측만으로는 잘 활용할 수 없습니다. 따라서 꿀벌 스테이션에 ^o	REVIEW
+well	우물		create_plastic.questtemplate.patch	Excellent! You'll need a lot of plastic, so keep well stocked.	훌륭해요! 플라스틱이 많이 필요하니 잘 구비해 두세요.	REVIEW
+well	우물		create_plastic.questtemplate.patch	Excellent! You'll need a lot of plastic, so keep well stocked.	훌륭해요! 플라스틱이 많이 필요하니 잘 구비해 두세요.	REVIEW
+well	우물	현금	create_powdersifter.questtemplate.patch	As promised, your reward. May this ^green;cash^reset; serve you well!	약속대로 보상을 드립니다. 이 ^green;현금^reset; 이 잘 쓰이길 바랍니다!	REVIEW
+well	우물	현금	create_powdersifter.questtemplate.patch	As promised, your reward. May this ^green;cash^reset; serve you well!	약속대로 보상을 드립니다. 이 ^green;현금^reset; 이 잘 쓰이길 바랍니다!	REVIEW
+well	우물	페넘브라이트 장비|무타비스크 투구	create_mutavisk.questtemplate.patch	A task for you: Research ^cyan;Penumbrite Equipment^reset; and create 	임무가 하나 있습니다: ^cyan;페넘브라이트 장비^reset; 를 연구하고 ^orange;무타비스크 투구^reset; 를 만	REVIEW
+well	우물	페넘브라이트 장비|무타비스크 투구	create_mutavisk.questtemplate.patch	A task for you: Research ^cyan;Penumbrite Equipment^reset; and create 	임무가 하나 있습니다: ^cyan;페넘브라이트 장비^reset; 를 연구하고 ^orange;무타비스크 투구^reset; 를 만	REVIEW
+well	우물	전자 센터|리서치|전자제품	create_electronics.questtemplate.patch	Now that you have a firm concept of how to use your well-earned resour	이제 획득한 자원을 사용하는 방법에 대한 확실한 개념이 생겼으니, 이제 좀 더 두뇌를 써볼 차례일까요? 먼저 ^orange;전	REVIEW
+well	우물	전자 센터|리서치|전자제품	create_electronics.questtemplate.patch	Now that you have a firm concept of how to use your well-earned resour	이제 획득한 자원을 사용하는 방법에 대한 확실한 개념이 생겼으니, 이제 좀 더 두뇌를 써볼 차례일까요? 먼저 ^orange;전	REVIEW
+well	우물	<cropList>이(가) 필요해	fetchthecommontoy.questtemplate.patch	Confident. Next ^green;we'll need ^orange;<cropList>.^white; I'm sure 	자신. 다음엔 ^green;^orange;<cropList>이(가) 필요해^white;. 네 능력으로 충분할 거야.	REVIEW
+well	우물	<cropList>이(가) 필요해	fetchthelegendarytoy.questtemplate.patch	Confident. Next ^green;we'll need ^orange;<cropList>.^white; I'm sure 	자신. 다음엔 ^green;^orange;<cropList>이(가) 필요해^white;. 네 능력으로 충분할 거야.	REVIEW
+well	우물	<cropList>이(가) 필요해	fetchtheraretoy.questtemplate.patch	Confident. Next ^green;we'll need ^orange;<cropList>.^white; I'm sure 	자신. 다음엔 ^green;^orange;<cropList>이(가) 필요해^white;. 네 능력으로 충분할 거야.	REVIEW
+well	우물	포획용 포드|(포획 포드 3개 배달.)	monstermerchant2.questtemplate.patch	I have had alot of clients come in recently, and my supply of pets has	요즘 손님이 정말 많이 늘어서, 애완동물 재고가... 음, 꽤 부족해졌어. 몬스터를 몇 마리 더 잡아서 길들여야 하는데, 자원	REVIEW
+well	우물	선하 선장|믿을 수 있는 동맹|그녀의 조언을 따르는 것	magicitediscovery01.questtemplate.patch	^cyan;Captain Seonha^reset; has proven herself to be a ^orange;reliabl	^cyan;선하 선장^reset;는 ^orange;믿을 수 있는 동맹^reset;임을 입증했다 - 당분간은 ^green;그녀의	REVIEW
+well	우물		magickaforest.questtemplate.patch	These ruins sure are expansive, and the alpaca well-hidden! Hopefully 	이 폐허는 확실히 광활하고 알파카는 잘 숨어 있네요! 이 모든 것이 그만한 가치가 있었기를 바랍니다!	REVIEW
+well	우물		magickaforest.questtemplate.patch	These ruins sure are expansive, and the alpaca well-hidden! Hopefully 	이 폐허는 확실히 광활하고 알파카는 잘 숨어 있네요! 이 모든 것이 그만한 가치가 있었기를 바랍니다!	REVIEW
+well	우물	유적 안에 실종된 탐색대원과 작업자가 여럿 있어. 앞서 보낸 구조대 두 팀도 연락이 끊겼고.|자세한 건 네레우스한테 물어봐	mwhaddon_quests_chapter1_0_2.questtemplate.patch	Long story short, ^green;we have several seekers and workers missing w	간단히 말해서, ^green;유적 안에 실종된 탐색대원과 작업자가 여럿 있어. 앞서 보낸 구조대 두 팀도 연락이 끊겼고.^re	REVIEW
+well	우물		mwhaddon_quests_chapter1_0_2.questtemplate.patch	It's actually fine for me to directly let you in, but I think it'd bet	사실 내가 직접 들여보내줘도 되지만, 먼저 하루토에게 인사하는 게 더 나을 것 같다. 그럼 그가 실종된 우리 사람들에 대해서도	REVIEW
+well	우물		mwhaddon_conditionUI_chapter2_1_5.config.patch	*Frown* Hmm. It seems there are still someone sensible in Aurea. Very 	*찌푸림* 흠. 아우레아에도 아직 분별 있는 사람이 있는 모양이군. 좋아, 이 공간을 한 달간 빌려주지. 임대료로 이 픽셀을 	REVIEW
+well	우물	그를 처음 만난 건 15년 전, 내가 아직 평범한 작전 요원이던 시절이었어.|우리 수송선 6척과 호위함 4척이 갑자기 파괴되기 전까지는.	mwhaddon_quests_chapter3_0_3.questtemplate.patch	...^cyan;My first time meet him was 15 years ago when I was still a no	...^cyan;그를 처음 만난 건 15년 전, 내가 아직 평범한 작전 요원이던 시절이었어.^reset; 원래는 성공적인 발굴	REVIEW
+well	우물	메크|오리온 고급 회로|제 옆 패널에서 이런 부품을 제작하실 수 있습니다.	mwhaddon_quests_arcana_vendor_8_mechHelp.questtemplate.patch	Here it is. An ^green;Orion High-grade Circuit^reset; that used in our	여기 있습니다. 저희 ^orange;메크^reset;에 쓰이는 ^green;오리온 고급 회로^reset;입니다. 오리온이 고급	REVIEW
+well	우물	정수 추출기|아케인 물	mwhaddon_quests_automation_2.questtemplate.patch	^green;Essence Extractors^white; like these are used by Megacorps to e	^green;정수 추출기^white;는 메가코프가 유용한 자원을 대량으로 추출하는 데 쓰지만, 네 손에 있는 이것도 충분히 역	REVIEW
+well	우물		mwhaddon_quests_automation_3.questtemplate.patch	OK, now let's just assume that you've get a power source as well. Time	좋아, 이제 동력원도 확보했다고 가정하자. 공장을 지을 시간이다.	REVIEW
+well	우물		mwhaddon_quests_automation_4.questtemplate.patch	Very well. Looks like you've got the basic qualifications to be a fact	좋아. 공장주가 되기 위한 기본 자격은 갖춘 것 같군. 이 훈련의 마지막 수업 시간이다.	REVIEW
+well	우물	조립기|강화 프레임	mwhaddon_quests_automation_5.questtemplate.patch	I need a ^orange;reinforced frame^reset;, a product you can produce in	^green;조립기^reset;에서 생산할 수 있는 물건인 ^orange;강화 프레임^reset;이 필요해. 타이탄코프가 너한	REVIEW
+well	우물	픽셀을 조금만 더 후원해 주실 수 있을까요?	mwhaddon_conditionUI_marina_2.config.patch	And... actually I 'm not very well-funded for my research, so while it	그리고... 사실 제 연구는 자금이 넉넉하지 않아서요. 또 부탁드리기 민망하지만, ^yellow;픽셀을 조금만 더 후원해 주실	REVIEW
+well	우물	픽셀을 조금만 더 후원해 주실 수 있을까요?	mwhaddon_quests_npc_glimmlecus_marina_2.questtemplate.patch	And... actually I 'm not very well-funded for my research, so while it	그리고... 사실 제 연구는 자금이 넉넉하지 않아서요. 또 부탁드리기 민망하지만, ^yellow;픽셀을 조금만 더 후원해 주실	REVIEW
+well	우물	루시|강하고 믿음직한 사람을 찾고 있어요|완벽한 꿈의 집을 짓는 데|재료를 모아 줄|픽셀|추가 보상|아래에 적어 둔 장소	omech_prequest.questtemplate.patch	"The poster reads, ""Hello! My name is ^green;Lucy^reset;! I'm ^orange;l"	포스터에는 ‘안녕하세요! 제 이름은 ^green;루시^reset;예요! 저는 ^orange;강하고 믿음직한 사람을 찾고 있어요	REVIEW
+well	우물	기본적인 TV|하나 찾아줄 수 있겠습니까	museumcurator5.questtemplate.patch	My museum's almost complete! And I think Nuru might actually be coming	제 박물관이 거의 완성되고 있습니다! 그리고 누루도 관심을 보이기 시작하는 것 같더군요. 저는 인류 전시관에 잘 맞을 것 같은	REVIEW
+well	우물	기본적인 TV|하나 찾아줄 수 있겠습니까	museumcurator5.questtemplate.patch	My museum's almost complete! And I think Nuru might actually be coming	제 박물관이 거의 완성되고 있습니다! 그리고 누루도 관심을 보이기 시작하는 것 같더군요. 저는 인류 전시관에 잘 맞을 것 같은	REVIEW
+well	우물		sb_hylotlperformer3.questtemplate.patch	Hmm... Actually, I can't play this at all! I don't know what I was thi	흠... 사실, 난 이거 전혀 연주 못 해! 무슨 생각을 했던 건지 모르겠네. 자, 이 기타는 네가 갖는 게 낫겠어.	REVIEW
+well	우물		scp_huntersguildquest_alienmeat.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_huntersguildquest_rawpoultry.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_huntersguildquest_rawribmeat.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_minersguildquest_copperbar.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_minersguildquest_goldbar.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_minersguildquest_ironbar.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_minersguildquest_silverbar.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_minersguildquest_titaniumbar.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_minersguildquest_tungstenbar.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_minersguildquest_durasteelbar.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_minersguildquest_refinedaegisalt.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_minersguildquest_refinedferozium.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_minersguildquest_refinedviolium.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물		scp_minersguildquest_solariumstar.questtemplate.patch	Job well done! Here is your payment.	잘했어요! 여기 대금입니다.	REVIEW
+well	우물	기생성 또는 끈적한 괴물에게서 드롭될 수 있다	siphonarenaquest.questtemplate.patch	Your uncanny desire to poison everything has apparently poisoned my ci	모든 걸 독살하고픈 네 기이한 욕망이 내 회로까지 독살한 모양이다. 잠시 오염된 상태에서 수상한 무기의 설계도가 만들어졌다. 	REVIEW
+well	우물	기생성 또는 끈적한 괴물에게서 드롭	siphonquest.questtemplate.patch	Your uncanny desire to poison everything has apparently poisoned my ci	모든 걸 독살하고픈 네 기이한 욕망이 내 회로까지 독살한 모양이다. 잠시 오염된 상태에서 수상한 무기의 설계도가 만들어졌다. 	REVIEW
+well	우물		skytemple.questtemplate.patch	The map gives me directions to one of the greatest Avian sacred sites,	지도를 보니 가장 위대한 조류 성지 중 하나인 하늘대로로 가는 길이 나와요. 무덤 습격을 시도하기 전에 철저한 준비를 해야겠어	REVIEW
+well	우물		skytemple.questtemplate.patch	The map gives me directions to one of the greatest Avian sacred sites,	지도를 보니 가장 위대한 조류 성지 중 하나인 하늘대로로 가는 길이 나와요. 무덤 습격을 시도하기 전에 철저한 준비를 해야겠어	REVIEW
+well	우물		floran_mission1.questtemplate.patch	Interesting find! Keep going, you're doing well!	흥미로운 걸 찾았구나! 계속 하렴, 잘 하고 있어!	REVIEW
+well	우물		shiprepair.questtemplate.patch	That was no mean feat - well done, dear. Now that your ship is in full	너한텐 쉬운 일이었겠지. 잘했어. 이제 함선이 정상 작동할테니 임무를 시작할 수 있겠구나.	REVIEW
+well	우물	계급 재건	shiprepair.questtemplate.patch	That was no mean feat - well done, dear. Now that your ship is in full	대단한 업적이었어. 잘했어, 얘야. 이제 네가 해냈다는 소문이 퍼지면 진정한 ^green;계급 재건^reset;을 시작할 수 	REVIEW
+well	우물		oculusward2.questtemplate.patch	Here you go, Captain. This shield is starting to come together quite w	여기 있습니다, 선장님. 이 실드가 꽤 그럴듯하게 완성되고 있어요!	REVIEW
+Return	돌아가기	배지|피스키퍼 상점|A38 양식	policebadge2.questtemplate.patch	Welcome come back officer. You have lost your ^orange;badge^reset; ? R	"돌아오셨군요, 경관님. ^orange;배지^reset;를 잃어버리셨나요? 피스키퍼 스테이션으로 돌아가서 추천서를 가져오세요.
+"	AUTO
+Return	돌아가기	뼈 석궁 설계도|거대한 몬스터 뼈	avikancrossbow.questtemplate.patch	I see you carry a bone bow, Captain. Far too few people in this refuge	선장님, 뼈 활을 들고 계시네요. 요즘 이 피난처에서 전통 무기를 쓰는 사람은 너무 드물어요... 능력 있는 사냥꾼임을 증명하	AUTO
+Return	돌아가기	캡틴 이그노블|피스키퍼 스테이션으로 돌아오게	generator.config.patch	I can't believe it, partner! You took down the mysterious and handsome	믿을 수가 없군, 파트너! 자네가 신비하고도 잘생긴 ^orange;캡틴 이그노블^reset;을 잡았네! 새로운 임무를 받으려면	AUTO
+Return	돌아가기	캡틴 이그노블|피스키퍼 스테이션으로 돌아오게	generator.config.patch	I can't believe it, partner! You took down the mysterious and handsome	믿을 수가 없군, 파트너! 자네가 신비하고도 잘생긴 ^orange;캡틴 이그노블^reset;을 잡았네! 새로운 임무를 받으려면	AUTO
+Return	돌아가기	월리스|채소들	chocoborepeatable01.questtemplate.patch	^green;Return to ^cyan;Wallace^reset; with the ^orange;greens^reset; y	^green;^cyan;월리스^reset;에게 돌아가라, 모은 ^orange;채소들^reset;과 함께.	AUTO
+Return	돌아가기	모은|을 가지고 월리스에게 돌아가라	chocobounlock01.questtemplate.patch	^green;Return to Wallace^reset; with the ^orange;tools^reset; you've g	^green;모은 ^orange;도구들^reset;을 가지고 월리스에게 돌아가라^reset;.	AUTO
+Return	돌아가기	모은|을 가지고 월리스에게 돌아가라	chocobounlock02.questtemplate.patch	^green;Return to Wallace^reset; with the ^orange;greens^reset; you've 	^green;모은 ^orange;채소들^reset;을 가지고 월리스에게 돌아가라^reset;.	AUTO
+Return	돌아가기	월리스|재료들	chocobounlock03.questtemplate.patch	^green;Return to ^cyan;Wallace^reset; with the ^orange;materials^reset	^green;^cyan;월리스^reset;에게 돌아가라, 모은 ^orange;재료들^reset;과 함께.	AUTO
+Return	돌아가기	모은|을 가지고 월리스에게 돌아가라	chocobounlock04.questtemplate.patch	^green;Return to Wallace^reset; with the ^orange;materials^reset; you'	^green;모은 ^orange;재료들^reset;을 가지고 월리스에게 돌아가라^reset;.	AUTO
+Return	돌아가기	네 초코보|선하	chocobounlock04a.questtemplate.patch	^green;Return to ^cyan;Seonha^reset; with ^orange;your chocobo^reset;!	^green;^orange;네 초코보^reset;를 데리고 ^cyan;선하^reset;에게 돌아가라!	AUTO
+Return	돌아가기	이 유닛은|을	drodenwatcherarmour.questtemplate.patch	Detected Droden unit registered to the Watchers. Logs indicate recent 	감시자들에 등록된 드로덴 유닛 감지. 기록에 따르면 최근 지휘관 자히드와 상호작용이 있었음. 감시자 갑옷 수령함. ^green	AUTO
+Return	돌아가기	모은|을 가지고 선하에게 돌아가라	magicitediscovery01.questtemplate.patch	^green;Return to Seonha^reset; with the ^orange;materials^reset; you'v	^green;모은 ^orange;재료들^reset;을 가지고 선하에게 돌아가라^reset;.	AUTO
+Return	돌아가기	전초기지에서|을|에게 가져다주면 됩니다	human_mission1.questtemplate.patch	^green;Return^white; to ^orange;the shipyard captain^white; at the ^or	^orange;전초기지에서 ^orange;에르키우스 수정^reset;을 ^orange;펭귄 피트^reset;에게 가져다주면 됩	AUTO
+Return	돌아가기	장난감 가게	sgtoyarena1.questtemplate.patch	Return to ^orange;the toy shop. ^reset;	^orange;장난감 가게^reset;로 귀환.	REVIEW
+Return	돌아가기	장난감 가게	sgtoyarena2.questtemplate.patch	Return to ^orange;the toy shop. ^reset;	^orange;장난감 가게^reset;로 귀환.	REVIEW
+Return	돌아가기	적의 갑옷과 무기 품질이 상승하지만, 더 높고 값진 전리품을 떨어뜨립니다.	gic_garden_newrijikan_flushbrigandnest_tier2.questtemplate.patch	[Return to the Brigand Territory in a non-canon challenge run to obtai	[비정규 도전 런으로 산적 영토에 돌아가 추가 자원을 얻으세요] ^orange;적의 갑옷과 무기 품질이 상승하지만, 더 높고 	REVIEW
+Return	돌아가기	적의 갑옷과 무기 품질이 상승하지만, 더 높고 값진 전리품을 떨어뜨립니다.	gic_garden_newrijikan_flushbrigandnest_tier3.questtemplate.patch	[Return to the Brigand Territory in a non-canon challenge run to obtai	[비정규 도전 런으로 산적 영토에 돌아가 추가 자원을 얻으세요] ^orange;적의 갑옷과 무기 품질이 상승하지만, 더 높고 	REVIEW
+Return	돌아가기	아웃포스트|릴린 박사	sgMission01.questtemplate.patch	Return to the ^orange;Outpost^reset; to speak ^orange;Dr Lyllin^reset;	^orange;아웃포스트^reset;로 돌아가 ^orange;릴린 박사^reset;와 대화하기.	REVIEW
+Return	돌아가기		gic_khurtovyna_dealer_repeatable.questtemplate.patch	As promised, the payment for your efforts. Return to us if you ever ru	약속대로, 당신의 노력에 대한 보상입니다. 크레딧이 부족할 때 언제든지 돌아오세요. 우리는 돈이 있고, 당신은 재능이 있습니다	REVIEW
+Return	돌아가기		gic_razed_dealer_repeatable.questtemplate.patch	To the victor go the spoils. Return to me or one of our associates if 	승리자에게는 전리품이 돌아갑니다. 크레딧이 부족할 때는 나나 우리의 파트너 중 한 명에게 돌아오세요.	REVIEW
+Return	돌아가기		gic_shockbandit_bossbattle.questtemplate.patch	Nano Ship Repair Kit obtained. Return to the Engineer.	나노 우주선 수리 키트를 획득했습니다. 엔지니어에게 돌아가세요.	REVIEW
+Return	돌아가기		gic_wildlands_dealer_repeatable.questtemplate.patch	Earned in blood and paid for in full. Return to me or one of our assoc	피로 얻고 완전히 지불되었습니다. 이런 일들을 더 원한다면 나나 우리의 파트너 중 한 명에게 돌아오세요.	REVIEW
+Return	돌아가기	크레온 대사관|아비라	alliancecrafting.questtemplate.patch	Return to ^orange;Aviira ^reset;in the ^orange;Creon Embassy^reset;	^orange;크레온 대사관^reset;에 있는 ^orange;아비라^reset;에게 돌아가라	REVIEW
+Return	돌아가기	크레온 대사관|리인 제독	alliancemanipulator.questtemplate.patch	Return to ^orange;Admiral Lyiin ^reset;in the ^orange;Creon Embassy^re	^orange;크레온 대사관^reset;에 있는 ^orange;리인 제독^reset;에게 돌아가라	REVIEW
+Return	돌아가기	크레온 대사관|아주리	alliancemechparts.questtemplate.patch	Return to ^orange;Azurii ^reset;in the ^orange;Creon Embassy^reset;	^orange;크레온 대사관^reset;의 ^orange;아주리^reset;에게 귀환	REVIEW
+Return	돌아가기	크레온 대사관|아주리	alliancemechparts2.questtemplate.patch	Return to ^orange;Azurii ^reset;in the ^orange;Creon Embassy^reset;	^orange;크레온 대사관^reset;의 ^orange;아주리^reset;에게 귀환	REVIEW
+Return	돌아가기	라이트헤이븐|카민	arcana_seeker_1_mission.questtemplate.patch	Return to ^orange;Carmine^reset; at ^orange;Lighthaven^reset;	^orange;라이트헤이븐^reset;의 ^orange;카민^reset;에게 귀환	REVIEW
+Return	돌아가기	랜디	atprk_mechbotchallenge1.questtemplate.patch	Return to ^orange;Randy^reset; and claim your reward	^orange;랜디^reset;에게 돌아가 보상 수령	REVIEW
+Return	돌아가기	랜디	atprk_mechbotchallenge2.questtemplate.patch	Return to ^orange;Randy^reset; and claim your reward	^orange;랜디^reset;에게 돌아가 보상 수령	REVIEW
+Return	돌아가기	랜디	atprk_mechbotchallenge3.questtemplate.patch	Return to ^orange;Randy^reset; and claim your reward	^orange;랜디^reset;에게 돌아가 보상 수령	REVIEW
+Return	돌아가기	스타페어러의 피난처|마칸	avikancrossbow.questtemplate.patch	Return to ^orange;Makhan ^reset;in the ^orange;Starfarer's Refuge^rese	^orange;스타페어러의 피난처^reset;에 있는 ^orange;마칸^reset;에게 돌아가라	REVIEW
+Return	돌아가기	스타페어러의 피난처|로칸	avikangunrangeunlock.questtemplate.patch	Return to ^orange;Rokhan^reset; in the ^orange;Starfarer's Refuge^rese	^orange;스타페어러의 피난처^reset;의 ^orange;로칸^reset;에게 귀환	REVIEW
+Return	돌아가기	스타페어러의 피난처|자히드	avikanmanipulator.questtemplate.patch	Return to ^orange;Zaheed ^reset;in the ^orange;Starfarer's Refuge^rese	^orange;스타페어러의 피난처^reset;에 있는 ^orange;자히드^reset;에게 돌아가라	REVIEW
+Return	돌아가기	스타페어러의 피난처|레콘	avikanmechparts.questtemplate.patch	Return to ^orange;Rehkon ^reset;in the ^orange;Starfarer's Refuge^rese	^orange;스타페어러의 피난처^reset;에 있는 ^orange;레콘^reset;에게 돌아가라	REVIEW
+Return	돌아가기	스타페어러의 피난처|로칸	avikanmechunlock.questtemplate.patch	Return to ^orange;Rokhan^reset; in the ^orange;Starfarer's Refuge^rese	^orange;스타페어러의 피난처^reset;의 ^orange;로칸^reset;에게 귀환	REVIEW
+Return	돌아가기	스타페어러의 피난처|네네키	avikanstarfarer.questtemplate.patch	Return to ^orange;Nenehki ^reset;in the ^orange;Starfarer's Refuge^res	^orange;스타페어러의 피난처^reset;에 있는 ^orange;네네키^reset;에게 돌아가라	REVIEW
+Return	돌아가기	스타페어러의 피난처|아라바스	crawlerdunebun.questtemplate.patch	Return to ^orange;Arravas ^reset;in the ^orange;Starfarer's Refuge^res	^orange;스타페어러의 피난처^reset;에 있는 ^orange;아라바스^reset;에게 돌아가라	REVIEW
+Return	돌아가기	스타페어러의 피난처|아르탄	lostavikanarmring.questtemplate.patch	Return to ^orange;Arthan ^reset;in the ^orange;Starfarer's Refuge^rese	^orange;스타페어러의 피난처^reset;에 있는 ^orange;아르탄^reset;에게 돌아가라	REVIEW
+Return	돌아가기	스타페어러의 피난처|야란	stuckastronaut.questtemplate.patch	Return to ^orange;Yahran ^reset;in the ^orange;Starfarer's Refuge^rese	^orange;스타페어러의 피난처^reset;에 있는 ^orange;야란^reset;에게 돌아가라	REVIEW
+Return	돌아가기	스타페어러의 피난처|렌즈-88	drodenwatcherarmour.questtemplate.patch	Return to ^orange;Lens-88 ^reset;in the ^orange;Starfarer's Refuge^res	^orange;스타페어러의 피난처^reset;에 있는 ^orange;렌즈-88^reset;에게 돌아가라	REVIEW
+Return	돌아가기	크레온 대사관|아얄라	harrowingeventstart.questtemplate.patch	Return to ^orange;Ayala ^reset;in the ^orange;Creon Embassy^reset;	^orange;크레온 대사관^reset;에 있는 ^orange;아얄라^reset;에게 돌아가라	REVIEW
+Return	돌아가기	축제의 전당|세라	landingarmourresearch.questtemplate.patch	Return to ^orange;Sera ^reset;in the ^orange;Festival Hall^reset;	^orange;축제의 전당^reset;에 있는 ^orange;세라^reset;에게 돌아가라	REVIEW
+Return	돌아가기	축제의 전당|패스파인더	landingpresentrecovery.questtemplate.patch	Return to ^orange;the Pathfinder ^reset;in the ^orange;Festival Hall^r	^orange;축제의 전당^reset;에 있는 ^orange;패스파인더^reset;에게 돌아가라	REVIEW
+Return	돌아가기	축제의 전당|스노우롬	landingweaponresearch.questtemplate.patch	Return to ^orange;SnowROM ^reset;in the ^orange;Festival Hall^reset;	^orange;축제의 전당^reset;에 있는 ^orange;스노우롬^reset;에게 돌아가라	REVIEW
+Return	돌아가기	에스더|방주	fuquest_explore1.questtemplate.patch	Return to ^orange;Esther^reset; at the ^orange;Ark^reset;	^orange;에스더^reset; 에서 ^orange;방주^reset; 으로 돌아가세요;	REVIEW
+Return	돌아가기	에스더|방주	fuquest_explore1.questtemplate.patch	Return to ^orange;Esther^reset; at the ^orange;Ark^reset;	^orange;에스더^reset; 에서 ^orange;방주^reset; 으로 돌아가세요;	REVIEW
+Return	돌아가기	바그너의 아이디를	shoggoth_wagner.questtemplate.patch	Return ^orange;Wagner's ID^reset; to the ^orange;Science Outpost^reset	^orange;바그너의 아이디를 ^orange;과학 전초기지로 돌려주세요^reset;;	REVIEW
+Return	돌아가기	바그너의 아이디를	shoggoth_wagner.questtemplate.patch	Return ^orange;Wagner's ID^reset; to the ^orange;Science Outpost^reset	^orange;바그너의 아이디를 ^orange;과학 전초기지로 돌려주세요^reset;;	REVIEW
+Return	돌아가기		barter.questtemplate.patch	Return <receivedItems> to <questGiver>	<receivedItems>(을)를 <questGiver>에게 주기	REVIEW
+Return	돌아가기		barter.questtemplate.patch	Return <receivedItems> to <questGiver>	<receivedItems>(을)를 <questGiver>에게 주기	REVIEW
+Return	돌아가기		hat.questtemplate.patch	Return parcel to <questGiver>	선물을 <questGiver>에게 주기	REVIEW
+Return	돌아가기		hat.questtemplate.patch	Return parcel to <questGiver>	선물을 <questGiver>에게 주기	REVIEW
+Return	돌아가기		helmet.questtemplate.patch	Return parcel to <questGiver>	선물을 전해주기 - <questGiver>	REVIEW
+Return	돌아가기		helmet.questtemplate.patch	Return parcel to <questGiver>	선물을 전해주기 - <questGiver>	REVIEW
+Return	돌아가기		new_stock1.questtemplate.patch	Return parcel to <questGiver>	선물을 전해주기 - <questGiver>	REVIEW
+Return	돌아가기		new_stock1.questtemplate.patch	Return parcel to <questGiver>	선물을 전해주기 - <questGiver>	REVIEW
+Return	돌아가기		new_stock2.questtemplate.patch	Return parcel to <questGiver>	선물을 전해주기 - <questGiver>	REVIEW
+Return	돌아가기		new_stock2.questtemplate.patch	Return parcel to <questGiver>	선물을 전해주기 - <questGiver>	REVIEW
+Return	돌아가기		return_stolen.questtemplate.patch	Return the <item> to <victim>'s house	<item>(을)를 <victim>의 집에 돌려놓기	REVIEW
+Return	돌아가기		return_stolen.questtemplate.patch	Return the <item> to <victim>'s house	<item>(을)를 <victim>의 집에 돌려놓기	REVIEW
+Return	돌아가기	기술자 피터 아트모스	lockjawcourse.questtemplate.patch	Return to ^orange;Engineer Peter Atmos^reset;	^orange;기술자 피터 아트모스^reset;에게 귀환	REVIEW
+Return	돌아가기	에메랄드 글림프스|네레우스 박사	mwhaddon_quests_chapter2_2_2.questtemplate.patch	Return to ^orange;Dr. Nereus^reset; at ^orange;Emerald Glimpse^reset; 	^orange;에메랄드 글림프스^reset;의 ^orange;네레우스 박사^reset;에게 돌아가 보고하기	REVIEW
+Return	돌아가기	라이트헤이븐|카민	mwhaddon_quests_chapter3_0_5.questtemplate.patch	Return to ^orange;Carmine^reset; at ^orange;Lighthaven^reset;	^orange;라이트헤이븐^reset;의 ^orange;카민^reset;에게 귀환	REVIEW
+Return	돌아가기	과학 전초기지|Khe	fu_t10_apex_mission2.questtemplate.patch	Return to ^orange;Khe^reset; at ^orange;the Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Khe	fu_t10_apex_mission2.questtemplate.patch	Return to ^orange;Khe^reset; at ^orange;the Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Kherae	fu_t10_avian_mission2.questtemplate.patch	Return to ^orange;Kherae^reset; at ^orange;the Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Kherae	fu_t10_avian_mission2.questtemplate.patch	Return to ^orange;Kherae^reset; at ^orange;the Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Kherae	fu_t10_floran_mission2.questtemplate.patch	Return to ^orange;Kherae^reset; at ^orange;the Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Kherae	fu_t10_floran_mission2.questtemplate.patch	Return to ^orange;Kherae^reset; at ^orange;the Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Khe	fu_t10_floranarena1.questtemplate.patch	Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Khe	fu_t10_floranarena1.questtemplate.patch	Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Khe	fu_t10_floranarena2.questtemplate.patch	Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Khe	fu_t10_floranarena2.questtemplate.patch	Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Khe	fu_t10_floranarena3.questtemplate.patch	Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Khe	fu_t10_floranarena3.questtemplate.patch	Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Khe	fu_t10_gaterepair.questtemplate.patch	Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Khe	fu_t10_gaterepair.questtemplate.patch	Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Kherae	fu_t10_glitch_mission2.questtemplate.patch	Return to ^orange;Kherae^reset; at ^orange;the Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Kherae	fu_t10_glitch_mission2.questtemplate.patch	Return to ^orange;Kherae^reset; at ^orange;the Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Kherae	fu_t10_hylotl_mission2.questtemplate.patch	Return to ^orange;Kherae^reset; at ^orange;the Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Kherae	fu_t10_hylotl_mission2.questtemplate.patch	Return to ^orange;Kherae^reset; at ^orange;the Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Khe	fu_t10_precursor.questtemplate.patch	Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	과학 전초기지|Khe	fu_t10_precursor.questtemplate.patch	Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요	REVIEW
+Return	돌아가기	요새	sgchombymission.questtemplate.patch	Return to ^orange;Fortress.^reset;	^orange;요새^reset;로 귀환.	REVIEW
+Return	돌아가기	요새	sgsiegebreakermission.questtemplate.patch	Return to ^orange;Fortress.^reset;	^orange;요새^reset;로 귀환.	REVIEW
+Return	돌아가기	기술자 피터 아트모스	sgvehicletutorial.questtemplate.patch	Return to ^orange;Engineer Peter Atmos^reset;	^orange;기술자 피터 아트모스^reset;에게 귀환	REVIEW
+Return	돌아가기	스타페어러의 피난처|반하스	seekerdronecapture.questtemplate.patch	Return to ^orange;Vanhas ^reset;in the ^orange;Starfarer's Refuge^rese	^orange;스타페어러의 피난처^reset;의 ^orange;반하스^reset;에게 귀환	REVIEW
+Return	돌아가기	스타페어러의 피난처|반하스	weaponrestorationavikan.questtemplate.patch	Return to ^orange;Vanhas ^reset;in the ^orange;Starfarer's Refuge^rese	^orange;스타페어러의 피난처^reset;의 ^orange;반하스^reset;에게 귀환	REVIEW
+Well	우물	노바 스테이션|다가올 리모델링|투자자	mwhaddon_quests_arcana_vendor_3_intro.questtemplate.patch	Greetings, traveller! Welcome to ^orange;Nova Station^reset;! Well, in	안녕하세요, 여행자님! ^orange;노바 스테이션^reset;에 오신 걸 환영합니다! 사실, 최근에 ^yellow;다가올 리	AUTO
+Well	우물		gic_wildlands_ayashameimaru_7_epilogue_imprisonmentendingquest.questtemplate.patch	Well... Looks like we've got the bastard right here.	음... 여기 그놈이 있네.	REVIEW
+Well	우물		gic_wildlands_ayashameimaru_7_epilogue_justiceendingquest.questtemplate.patch	Well... Looks like we've got the bastard right here.	음... 여기 그놈이 있네.	REVIEW
+Well	우물		esc_pmc_rep_3.questtemplate.patch	"[Find Gene-Global x1 in SPACE HULK]
+Anyway, it's time for us to fulfil"	"[스페이스 헐크에서 진-글로벌 x1 찾기]
+자, 이제 네 요청을 들어줄 때가 됐다. 마침내 네가 요청한 곳에 들어갈 수 있게 "	REVIEW
+Well	우물		gic_wildlands_kogasatatara_1_crestfallenhunterquest.questtemplate.patch	Oh, one of you... Well, then there might be something for you then. Th	오, 당신 중 한 명이군요... 그럼 드릴 게 있을지도요. 농지 근처에서 소위 ''영혼'' 관련 특이 사건이 있어요. 재워주세	REVIEW
+Well	우물		gic_esther_chapter_2_lionheart.questtemplate.patch	Well, The Portal Lab is open now. Use it to replay old memories. Or ma	음, 포털 연구소가 이제 열렸습니다. 그것을 사용하여 오래된 기억을 다시 플레이하세요. 아니면, 어쩌면 그것은 대체 타임라인일	REVIEW
+Well	우물	고대 텍스트|어둠|유물|형이상학 연구	glitch_mission1_tws2.questtemplate.patch	Well, the Baron asked for something... special: an ^orange;Ancient Tex	글쎄, 남작이 특별한 걸 요구했어... 어딘가에 어떻게든 있는 ^orange;고대 텍스트^reset; 말이야. 이 문헌들이 ^	REVIEW
+Well	우물		gic_tylian_planetincentive_3_crusade.questtemplate.patch	It takes a remarkable level of psychic energy for metal to gain proper	금속이 글리치 같은 특성을 얻으려면 놀라운 수준의 사이킥 에너지가 필요해요... 또 다른 과제가 있습니다. 그 로봇 사람들에게	REVIEW
+Well	우물		gic_blackmarket_razed_mechdealer.questtemplate.patch	Well, who are you? Hm, Protector. Then here, a little welcome gift. I 	음, 당신은 누구죠? 흠, 보호자군요. 그럼 여기, 작은 환영 선물입니다. 누가 죽든 상관없습니다, 내 사업만 잘되면 됩니다.	REVIEW
+Well	우물		allianceattachmentsunlock.questtemplate.patch	Well done, those Faryth aren't easy targets! You can now access a few 	잘했네, 그 파리스들은 호락호락한 표적이 아니지! 이제 유용한 무기 부착물 몇 개에 더 접근할 수 있지만, 앞으로 더 많이 있	REVIEW
+Well	우물		allianceattachmentsunlock4.questtemplate.patch	Well done, once again! Your fighting these drones teaches us at the Em	다시 한번 잘했네! 자네가 그 드론들과 싸워준 덕에 우리 대사관도 이 새로운 위협에 대해 많이 배웠어. 이 새 무기 부착물들에	REVIEW
+Well	우물		arcana_quests_gushenAntique_1.questtemplate.patch	Well done. I've got a few more commissions if you're interested.	잘했네. 관심 있으면 의뢰가 몇 개 더 있네.	REVIEW
+Well	우물		atprk_relicsearchquest1.questtemplate.patch	Well done! I hope those Devouts didn't cause you too much trouble. Any	잘했어! 그 데보트들이 너무 골치 아프진 않았길 바라. 어쨌든, 이제부터 세 번째 열차 객실에 가서 네가 되찾은 유물들을 구경	REVIEW
+Well	우물		atprk_relicsearchquest3.questtemplate.patch	What a masterfully crafted emblem it is! Well, it's a bit creepy to be	정말 능수능란하게 만들어진 문장이야! 글쎄, 솔직히 좀 소름 끼치긴 하지만, 뭐, 우리는 유물 탐구자지 미술 평론가가 아니니까	REVIEW
+Well	우물		atprk_rishaanquest2.questtemplate.patch	Well done, kind stranger! You can keep these codices, I've already cop	잘했어, 친절한 이방인이여! 이 코덱스들은 네가 가져도 돼, 내용은 이미 내 컴퓨터에 복사해 뒀거든.	REVIEW
+Well	우물		avikangunrangeunlock.questtemplate.patch	Well done, I hear that the violated Elite Drahl has been eliminated. P	잘했네, 유린당한 정예 드랄이 처치됐다고 들었네. 이 보안 카드를 받게; 사격장 문을 열 수 있을 걸세.	REVIEW
+Well	우물		avikanmanipulator.questtemplate.patch	Well done, Captain. I will have my Watchers bring these to the Vanguar	잘했네, 선장. 내 감시자들에게 이것들을 뱅가드로 가져가게 하겠네. 그동안 그들이 자네의 물질 조작기용 새 케이스를 만들어줬네	REVIEW
+Well	우물		avikanmechunlock.questtemplate.patch	Well done, your run through the testing facility has provided the Vang	잘했네, 시험 시설 주행으로 뱅가드에 연구할 정보가 많이 생겼네. 자카르에게 이제 자네에게 뱅가드 차량을 판매해도 된다고 알렸	REVIEW
+Well	우물		keffrider2.questtemplate.patch	Well done, Captain! You have proven your merit and your strength, but 	잘했네, 선장! 자네는 자격과 힘을 증명했지만, 완수해야 할 과업이 하나 더 남았네.	REVIEW
+Well	우물		black_sheilasworkshop.questtemplate.patch	Well, now you are in posession of the knowledge belonging to an arms d	음, 이제 무기상인의 지식을 소유했어요. 셸라 토릭스가 그녀의 이름이에요. 신고 안 하면 물건 쓰도록 허락해줘요. 공정한 거래	REVIEW
+Well	우물	은신처	clue_bounties.config.patch	Well, I guess they just told us exactly where they're goin'. You'd bet	녀석의 통신을 감청해서 얻은 좌표를 자네에게 전송했네. 서둘러서 ^green;은신처^reset;로 쫒아가게.	REVIEW
+Well	우물	은신처	clue_bounties.config.patch	Well, I guess they just told us exactly where they're goin'. You'd bet	녀석의 통신을 감청해서 얻은 좌표를 자네에게 전송했네. 서둘러서 ^green;은신처^reset;로 쫒아가게.	REVIEW
+Well	우물		clue_items.config.patch	Well that is a mighty fine lead! I think you need to hurry your hide o	그것 참 좋은 단서구만 그래! 이제 서둘러서 쫒아가면 될 것 같네!	REVIEW
+Well	우물		clue_items.config.patch	..Well, I guess that's a good enough lead. Sounds like <next.coordinat	...그래, 그 정도면 충분한 단서로군. 듣자 하니 쫒아가면 되겠구만, 파트너!	REVIEW
+Well	우물		clue_items.config.patch	Well that is a mighty fine lead! I think you need to hurry your hide o	그것 참 좋은 단서구만 그래! 이제 서둘러서 쫒아가면 될 것 같네!	REVIEW
+Well	우물		clue_items.config.patch	Well that is a mighty fine lead! I think you need to hurry your hide o	그것 참 좋은 단서구만 그래! 이제 서둘러서 쫒아가면 될 것 같네!	REVIEW
+Well	우물		clue_items.config.patch	..Well, I, uh, guess we have a lead. Sounds like <next.coordinate.name	...그래, 어, 단서를 찾은 것 같구만. 듣자 하니 쫒아가면 되겠구만, 파트너!	REVIEW
+Well	우물		clue_items.config.patch	Well that is a mighty fine lead! I think you need to hurry your hide o	그것 참 좋은 단서구만 그래! 이제 서둘러서 쫒아가면 될 것 같네!	REVIEW
+Well	우물		clue_items.config.patch	..Well, I guess that's a good enough lead. Sounds like <next.coordinat	...그래, 그 정도면 충분한 단서로군. 듣자 하니 쫒아가면 되겠구만, 파트너!	REVIEW
+Well	우물		clue_items.config.patch	Well that is a mighty fine lead! I think you need to hurry your hide o	그것 참 좋은 단서구만 그래! 이제 서둘러서 쫒아가면 될 것 같네!	REVIEW
+Well	우물		clue_items.config.patch	..Well, I guess that's a good enough lead. Sounds like <next.coordinat	...그래, 그 정도면 충분한 단서로군. 듣자 하니 쫒아가면 되겠구만, 파트너!	REVIEW
+Well	우물		clue_items.config.patch	Well that is a mighty fine lead! I think you need to hurry your hide o	그것 참 좋은 단서구만 그래! 이제 서둘러서 쫒아가면 될 것 같네!	REVIEW
+Well	우물		clue_items.config.patch	..Well, I guess that's a good enough lead. Sounds like <next.coordinat	...그래, 그 정도면 충분한 단서로군. 듣자 하니 쫒아가면 되겠구만, 파트너!	REVIEW
+Well	우물		clue_items.config.patch	Well that is a mighty fine lead! I think you need to hurry your hide o	그것 참 좋은 단서구만 그래! 이제 서둘러서 쫒아가면 될 것 같네!	REVIEW
+Well	우물		clue_items.config.patch	Well that is a mighty fine lead! I think you need to hurry your hide o	그것 참 좋은 단서구만 그래! 이제 서둘러서 쫒아가면 될 것 같네!	REVIEW
+Well	우물		clue_items.config.patch	..Well, I, uh, guess we have a lead. Sounds like <next.coordinate.name	...그래, 어, 단서를 찾은 것 같구만. 듣자 하니 쫒아가면 되겠구만, 파트너!	REVIEW
+Well	우물		clue_items.config.patch	Well that is a mighty fine lead! I think you need to hurry your hide o	그것 참 좋은 단서구만 그래! 이제 서둘러서 쫒아가면 될 것 같네!	REVIEW
+Well	우물		clue_items.config.patch	..Well, I guess that's a good enough lead. Sounds like <next.coordinat	...그래, 그 정도면 충분한 단서로군. 듣자 하니 쫒아가면 되겠구만, 파트너!	REVIEW
+Well	우물		clue_items.config.patch	Well that is a mighty fine lead! I think you need to hurry your hide o	그것 참 좋은 단서구만 그래! 이제 서둘러서 쫒아가면 될 것 같네!	REVIEW
+Well	우물		clue_items.config.patch	..Well, I guess that's a good enough lead. Sounds like <next.coordinat	...그래, 그 정도면 충분한 단서로군. 듣자 하니 쫒아가면 되겠구만, 파트너!	REVIEW
+Well	우물		esc_nt_chapter_1_1.questtemplate.patch	Well done, if you have more samples, please send them all to us, we'll	잘했어, 표본이 더 있으면 전부 우리에게 보내줘. 제대로 된 보상을 해줄게.	REVIEW
+Well	우물		esc_nt_chapter_2_1.questtemplate.patch	No matter what tricks they pull, they won't get anything for free this	그들이 무슨 수를 써도, 이번엔 공짜로 아무것도 못 얻을 거다. 잘했어.	REVIEW
+Well	우물		evernight.questtemplate.patch	What were cultists doing in here? They were up to something with the l	이교도들은 여기서 뭘 하고 있었던 걸까요? 주민들과 뭔가 꾸미고 있는 것 같지만 뭔지는 모르겠어요. 이제 상관없어. 저들의 전	REVIEW
+Well	우물		evernight.questtemplate.patch	What were cultists doing in here? They were up to something with the l	이교도들은 여기서 뭘 하고 있었던 걸까요? 주민들과 뭔가 꾸미고 있는 것 같지만 뭔지는 모르겠어요. 이제 상관없어. 저들의 전	REVIEW
+Well	우물		fuquest_mamapoptop.questtemplate.patch	Well done. And a grisly trophy of your victory, too! Have a bit of spe	잘했어. 승리의 소름 끼치는 트로피도 함께 드립니다! 수고하신 만큼 약간의 현금이 필요합니다.	REVIEW
+Well	우물		fuquest_mamapoptop.questtemplate.patch	Well done. And a grisly trophy of your victory, too! Have a bit of spe	잘했어. 승리의 소름 끼치는 트로피도 함께 드립니다! 수고하신 만큼 약간의 현금이 필요합니다.	REVIEW
+Well	우물		create_quietus.questtemplate.patch	Well done, ol' chap. As promised: The cash. Enjoy.	잘했어, 친구. 약속대로 현금입니다. 즐겨라.	REVIEW
+Well	우물		create_quietus.questtemplate.patch	Well done, ol' chap. As promised: The cash. Enjoy.	잘했어, 친구. 약속대로 현금입니다. 즐겨라.	REVIEW
+Well	우물		kevin_feedkhe.questtemplate.patch	...pet? Well...that's awkward and completely wrong. Won't turn down go	...애완동물? 음... 그건 어색하고 완전히 틀렸어. 그래도 좋은 음식을 거절하진 않겠지. 아무한테도 말하지 말고 이 청사진	REVIEW
+Well	우물		kevin_feedkhe.questtemplate.patch	...pet? Well...that's awkward and completely wrong. Won't turn down go	...애완동물? 음... 그건 어색하고 완전히 틀렸어. 그래도 좋은 음식을 거절하진 않겠지. 아무한테도 말하지 말고 이 청사진	REVIEW
+Well	우물	테크 카드	create_advxeno.questtemplate.patch	Well...I guess that settles it. I suck. Since you bested me fair and s	음... 이제 됐네요. 난 형편없어. 날 정정당당하게 이겼으니 이 ^orange;테크 카드^reset;을 가져가세요;	REVIEW
+Well	우물	테크 카드	create_advxeno.questtemplate.patch	Well...I guess that settles it. I suck. Since you bested me fair and s	음... 이제 됐네요. 난 형편없어. 날 정정당당하게 이겼으니 이 ^orange;테크 카드^reset;을 가져가세요;	REVIEW
+Well	우물	인큐베이터|먹이 테이블	fuquest_farming3.questtemplate.patch	An ^orange;Incubator^reset; might be a worthwhile idea if you want to 	알을 부화시키고 싶다면 ^orange;인큐베이터^reset; 을 사용하면 좋습니다! 알을 던져 넣으면 아기 동물을 빠르게 생성	REVIEW
+Well	우물	인큐베이터|먹이 테이블	fuquest_farming3.questtemplate.patch	An ^orange;Incubator^reset; might be a worthwhile idea if you want to 	알을 부화시키고 싶다면 ^orange;인큐베이터^reset; 을 사용하면 좋습니다! 알을 던져 넣으면 아기 동물을 빠르게 생성	REVIEW
+Well	우물		fetchthecommontoy.questtemplate.patch	Well done <player>, I never doubted you could do it!	잘했어, <player>. 네가 해낼 줄 알았어!	REVIEW
+Well	우물		fetchthelegendarytoy.questtemplate.patch	Well done <player>, I never doubted you could do it!	잘했어, <player>. 네가 해낼 줄 알았어!	REVIEW
+Well	우물		fetchtheraretoy.questtemplate.patch	Well done <player>, I never doubted you could do it!	잘했어, <player>. 네가 해낼 줄 알았어!	REVIEW
+Well	우물	호라이즌 함대|오토 칩|최적화 회로	mwhaddon_quests_arcana_vendor_8_car.questtemplate.patch	Well, One more thing. There was a shipment of vehicles to be sold... B	글쎄, 한 가지 더 있네. 팔려고 실려 온 탈것 수송품이 있었는데... 화물선이 ^#ba22b0;호라이즌 함대^reset;의 	REVIEW
+Well	우물		mwhaddon_quests_arcana_vendor_8_tech_2.questtemplate.patch	...Great! I call it Steadily Flight. Despite the name, its just a high	...좋아! 안정 비행이라고 이름 붙였어. 이름은 그렇지만, 사실 고도로 배열된 나노머신 집합일 뿐이야... 음, 공중에서 일	REVIEW
+Well	우물		mwhaddon_quests_npc_exousia_generalFalke_6.questtemplate.patch	Well done, partner. We got control of that factory shortly after you l	잘했어, 파트너. 네가 떠난 직후에 그 공장을 장악했어. 배후의 자는 잡지 못했지만, 당분간은 더 이상 난동을 부리지 못할 거	REVIEW
+Well	우물		mwhaddon_quests_npc_glimmlecus_pGL_1.questtemplate.patch	Yes! Yes! How perfect! The most perfect thing in the universe! I see y	그래! 그래! 얼마나 완벽해! 우주에서 가장 완벽한 것이야! 네가 진정 완벽함을 잘 이해하고 있구나. 잘했어, 하지만 아직 부	REVIEW
+Well	우물		fu_t10_hylotl_mission2.questtemplate.patch	Artifact had energy signature, yus. Different. Encoded message. Kevin'	아티팩트에 에너지 시그니처가 있었어, 유스. 달라요. 암호화된 메시지 케빈의 메시지 '케빈은 없었다' 그거... 걱정스러운데 	REVIEW
+Well	우물		fu_t10_hylotl_mission2.questtemplate.patch	Artifact had energy signature, yus. Different. Encoded message. Kevin'	아티팩트에 에너지 시그니처가 있었어, 유스. 달라요. 암호화된 메시지 케빈의 메시지 '케빈은 없었다' 그거... 걱정스러운데 	REVIEW
+Well	우물	저장 매트릭스|저장 물질|파일 캐비닛	EnhancedStorage.questtemplate.patch	Hello there. I want to introduce you to my new ^green;Storage Matrix^w	안녕하세요. 제 오른쪽에 있는 새로운 ^green;저장 매트릭스^white;를 소개해드리고 싶어요. ^orange;저장 물질^	REVIEW
+Well	우물		EnhancedStorage2.questtemplate.patch	Well done. Feel free to use both stations when needed but keep an eye 	잘했어. 필요할 때 두 스테이션을 마음껏 쓰되 재료는 잘 살펴! 그리고, 시간 있으면 내가 파는 물건들도 좀 봐줘.	REVIEW
+Well	우물	"""이례적인 힘""|외계 입자|엘더 테크|나눠줄 수 있어?"	atprk_mechriftdiverunlock.questtemplate.patch	Just one more thing, friendo. I was commissioned to design a mech that	"하나만 더, 친구. ^orange;""이례적인 힘""^white;이라고 부를 만한 것도 버틸 수 있는 메카를 설계해 달라는 의뢰를"	REVIEW
+Well	우물		sb_apexrefugee4.questtemplate.patch	You did it?! I don't believe it! Well, no one can say I'm not an ape o	해냈다고?! 믿을 수 없어! 뭐, 말한 걸 지키는 유인원이라고들 못 하겠지. 내 평생 저축을 받아라...	REVIEW
+Well	우물		avian_mission1.questtemplate.patch	The past is full of secrets crying out to be uncovered. Well found, de	과거에는 수많은 비밀이 있고, 우리가 진실을 찾아주길 바라고 있단다. 잘 찾았어!	REVIEW
+Well	우물		avian_mission2.questtemplate.patch	Another artifact in place. We're getting there steadily, dear. Well do	유물을 또 찾았구나. 점점 나아가고 있는거야. 잘했어!	REVIEW
+Well	우물		hylotl_mission2.questtemplate.patch	Well done for saving the artifact, dear. They're powerful objects, and	유물을 지켜줘서 고맙구나. 강력한 물체이기 때문에, 나쁜 사람들의 손에 들어가면 안전하지 않아...	REVIEW
+Well	우물		shardbreakertool2.questtemplate.patch	Well done, Captain. I'll get to repairing the tool casing now.	잘했네, 선장. 이제 도구 케이스를 수리하러 가보지.	REVIEW
+Well	우물		verdantruins.questtemplate.patch	Well, looks like the ruins weren't as abandoned as I thought they woul	폐허는 생각보다 버려진 곳이 아니었나 봐요. 그 비밀을 다 알아냈나요?	REVIEW
+Well	우물		verdantruins.questtemplate.patch	Well, looks like the ruins weren't as abandoned as I thought they woul	폐허는 생각보다 버려진 곳이 아니었나 봐요. 그 비밀을 다 알아냈나요?	REVIEW
+Well	우물	에르키우스|소형 FTL 드라이브|엔지니어링	fu_quests.radiomessages.patch	Well done! Good work evading that ghost. With that ^pink;erchius^reset	잘했어! 유령을 잘 피했습니다. ^pink;에르키우스^reset;, 그리고 약간의 텅스텐만 있으면 ^cyan;소형 FTL 드라	REVIEW
+Well	우물	에르키우스|소형 FTL 드라이브|엔지니어링	fu_quests.radiomessages.patch	Well done! Good work evading that ghost. With that ^pink;erchius^reset	잘했어! 유령을 잘 피했습니다. ^pink;에르키우스^reset;, 그리고 약간의 텅스텐만 있으면 ^cyan;소형 FTL 드라	REVIEW
+Foraging Table	생존 도구 제작대	채집 테이블|랜턴 스틱|웰치	start_basics3b.questtemplate.patch	Craft a ^green;Lantern Stick^reset; at the ^orange;Foraging Table^rese	^orange;채집 테이블^reset; 에서 ^green;랜턴 스틱^reset; 를 제작하고 ^green;웰치^reset; 로	AUTO
+Foraging Table	생존 도구 제작대	기름|랜턴 스틱|수렵 테이블|연구|농업	start_basics3b.questtemplate.patch	Sometimes, the darkness can prove a horrible hindrance. That's where t	때때로 어둠은 끔찍한 방해물이 될 수 있습니다. 이럴 때 ^orange;기름^reset; 내가 만들어줄게가 유용합니다: ^or	AUTO
+Foraging Table	생존 도구 제작대	채집 테이블|랜턴 스틱|웰치	start_basics3b.questtemplate.patch	Craft a ^green;Lantern Stick^reset; at the ^orange;Foraging Table^rese	^orange;채집 테이블^reset; 에서 ^green;랜턴 스틱^reset; 를 제작하고 ^green;웰치^reset; 로	AUTO
+Foraging Table	생존 도구 제작대	기름|랜턴 스틱|수렵 테이블|연구|농업	start_basics3b.questtemplate.patch	Sometimes, the darkness can prove a horrible hindrance. That's where t	때때로 어둠은 끔찍한 방해물이 될 수 있습니다. 이럴 때 ^orange;기름^reset; 내가 만들어줄게가 유용합니다: ^or	AUTO
+Foraging Table	생존 도구 제작대	성장 트레이|채집 테이블|농업	create_growingtray.questtemplate.patch	While you can farm the old-fashioned way with a hoe , dirt and your ow	괭이와 흙, 두 손으로 직접 농사를 지을 수 있는 옛날 방식도 있지만, 또 다른 옵션이 있습니다: ^orange;성장 트레이^	AUTO
+Foraging Table	생존 도구 제작대	성장 트레이|채집 테이블|농업	create_growingtray.questtemplate.patch	While you can farm the old-fashioned way with a hoe , dirt and your ow	괭이와 흙, 두 손으로 직접 농사를 지을 수 있는 옛날 방식도 있지만, 또 다른 옵션이 있습니다: ^orange;성장 트레이^	AUTO
+Foraging Table	생존 도구 제작대	농업을 연구하고	create_matterassembler.questtemplate.patch	Research ^cyan;Agriculture^reset; and create a ^orange;Foraging Table^	^cyan;농업을 연구하고 ^orange;채집 테이블^reset;을 제작하세요.	AUTO
+Foraging Table	생존 도구 제작대	농업을 연구하고	create_matterassembler.questtemplate.patch	Research ^cyan;Agriculture^reset; and create a ^orange;Foraging Table^	^cyan;농업을 연구하고 ^orange;채집 테이블^reset;을 제작하세요.	AUTO
+Foraging Table	생존 도구 제작대	우물|물|채집 테이블|물	fuquest_farming1.questtemplate.patch	A ^orange;Well^reset; is extremely important, for it provides life-giv	^orange;우물^reset; 은 다양한 용도로 생명력을 주는 ^orange;물^reset; 을 제공하기 때문에 매우 중요합	AUTO
+Foraging Table	생존 도구 제작대	우물|물|채집 테이블|물	fuquest_farming1.questtemplate.patch	A ^orange;Well^reset; is extremely important, for it provides life-giv	^orange;우물^reset; 은 다양한 용도로 생명력을 주는 ^orange;물^reset; 을 제공하기 때문에 매우 중요합	AUTO
+Foraging Table	생존 도구 제작대	인큐베이터|먹이 테이블	fuquest_farming3.questtemplate.patch	An ^orange;Incubator^reset; might be a worthwhile idea if you want to 	알을 부화시키고 싶다면 ^orange;인큐베이터^reset; 을 사용하면 좋습니다! 알을 던져 넣으면 아기 동물을 빠르게 생성	AUTO
+Foraging Table	생존 도구 제작대	인큐베이터|먹이 테이블	fuquest_farming3.questtemplate.patch	An ^orange;Incubator^reset; might be a worthwhile idea if you want to 	알을 부화시키고 싶다면 ^orange;인큐베이터^reset; 을 사용하면 좋습니다! 알을 던져 넣으면 아기 동물을 빠르게 생성	AUTO
+Foraging Table	생존 도구 제작대	가축 사료|옥수수|손 방앗간|먹이 테이블|여물통	fuquest_farming4.questtemplate.patch	^green;Livestock^reset; grow a whole lot faster when you toss them som	^green;가축 사료^reset; 을 던져주면 훨씬 더 빨리 자랄 수 있습니다. ^orange;옥수수^reset; 를 ^or	AUTO
+Foraging Table	생존 도구 제작대	가축 사료|옥수수|손 방앗간|먹이 테이블|여물통	fuquest_farming4.questtemplate.patch	^green;Livestock^reset; grow a whole lot faster when you toss them som	^green;가축 사료^reset; 을 던져주면 훨씬 더 빨리 자랄 수 있습니다. ^orange;옥수수^reset; 를 ^or	AUTO
+Foraging Table	생존 도구 제작대	용광로|연구|채집 테이블	fu_quests.radiomessages.patch	That takes care of step one! Use your ^orange;Furnace^reset; to smelt 	이제 1단계가 끝났습니다! ^orange;용광로^reset; 를 사용해 광석을 제련하여 금속 막대로 만듭니다. 다음으로, ^g	AUTO
+Foraging Table	생존 도구 제작대	용광로|연구|채집 테이블	fu_quests.radiomessages.patch	That takes care of step one! Use your ^orange;Furnace^reset; to smelt 	이제 1단계가 끝났습니다! ^orange;용광로^reset; 를 사용해 광석을 제련하여 금속 막대로 만듭니다. 다음으로, ^g	AUTO
+Alchemy Table	연금술대	연금술 테이블|화학 실험실	create_fertilizer.questtemplate.patch	Now you can create some more advanced chemicals, and grow even better 	이제 더 고급 화학 물질을 만들어 더 좋은 작물을 재배할 수 있습니다! 가능한 한 빨리 ^orange;연금술 테이블^reset	REVIEW
+Alchemy Table	연금술대	비료|연금술 테이블|비료	create_fertilizer.questtemplate.patch	^orange;Fertilizer^reset; is essential to produce plants of any real v	^orange;비료^reset; 은 실제 가치가 있는 식물을 생산하기 위해 필수적입니다. 식물을 만들려면 먼저 ^orange;	REVIEW
+Alchemy Table	연금술대	연금술 테이블|화학 실험실	create_fertilizer.questtemplate.patch	Now you can create some more advanced chemicals, and grow even better 	이제 더 고급 화학 물질을 만들어 더 좋은 작물을 재배할 수 있습니다! 가능한 한 빨리 ^orange;연금술 테이블^reset	REVIEW
+Alchemy Table	연금술대	비료|연금술 테이블|비료	create_fertilizer.questtemplate.patch	^orange;Fertilizer^reset; is essential to produce plants of any real v	^orange;비료^reset; 은 실제 가치가 있는 식물을 생산하기 위해 필수적입니다. 식물을 만들려면 먼저 ^orange;	REVIEW
+Alchemy Table	연금술대	뿌리 덮개|성장 트레이|약한 비료|연금술 테이블	fuquest_biochem.questtemplate.patch	^orange;Mulch^reset; is useful in a ^orange;Growing Tray^reset; as a ^	^orange;뿌리 덮개^reset; 는 ^orange;성장 트레이^reset; 에서 ^green;약한 비료^reset; 로 	REVIEW
+Alchemy Table	연금술대	연금술 테이블|뿌리 덮개	fuquest_biochem.questtemplate.patch	So you've built an ^orange;Alchemy Table^reset; and want to learn to u	^orange;연금술 테이블^reset;을 만들었는데 사용법을 배우고 싶으신가요? 간단합니다. 부숴버리기만 하면 됩니다. 그것	REVIEW
+Alchemy Table	연금술대	뿌리 덮개|성장 트레이|약한 비료|연금술 테이블	fuquest_biochem.questtemplate.patch	^orange;Mulch^reset; is useful in a ^orange;Growing Tray^reset; as a ^	^orange;뿌리 덮개^reset; 는 ^orange;성장 트레이^reset; 에서 ^green;약한 비료^reset; 로 	REVIEW
+Alchemy Table	연금술대	연금술 테이블|뿌리 덮개	fuquest_biochem.questtemplate.patch	So you've built an ^orange;Alchemy Table^reset; and want to learn to u	^orange;연금술 테이블^reset;을 만들었는데 사용법을 배우고 싶으신가요? 간단합니다. 부숴버리기만 하면 됩니다. 그것	REVIEW
+Alchemy Table	연금술대	화학 실험실에서 필수적인|을 만들어 보세요.	fuquest_dna.questtemplate.patch	Now that the basics are clear to you, try making some essential ^orang	이제 기본이 명확해졌으니, ^orange;화학 실험실에서 필수적인 ^orange;DNA 샘플^reset; 을 만들어 보세요. 	REVIEW
+Alchemy Table	연금술대	화학 실험실에서 필수적인|을 만들어 보세요.	fuquest_dna.questtemplate.patch	Now that the basics are clear to you, try making some essential ^orang	이제 기본이 명확해졌으니, ^orange;화학 실험실에서 필수적인 ^orange;DNA 샘플^reset; 을 만들어 보세요. 	REVIEW
+Alchemy Table	연금술대	연금술 테이블|연구|화학	create_alchemy.questtemplate.patch	Chemistry is a science that will allow you to create all sorts of usef	화학은 모든 종류의 유용한 물건을 만들 수 있는 과학입니다. ^orange;연금술 테이블^reset; 을 만들어서 한 번 해보	REVIEW
+Alchemy Table	연금술대	연금술 테이블|연구|화학	create_alchemy.questtemplate.patch	Chemistry is a science that will allow you to create all sorts of usef	화학은 모든 종류의 유용한 물건을 만들 수 있는 과학입니다. ^orange;연금술 테이블^reset; 을 만들어서 한 번 해보	REVIEW
+General	일반	팔케 장군|호라이즌 캠프	mwhaddon_quests_npc_exousia_generalFalke_2.questtemplate.patch	Talk to ^orange;General Falke^reset; to travel to the ^orange;Horizon 	^orange;팔케 장군^reset;에게 말을 걸어 ^orange;호라이즌 캠프^reset;로 이동하세요	AUTO
+General	일반	노바 스테이션|팔케 장군	mwhaddon_quests_npc_exousia_generalFalke_2.questtemplate.patch	Return to ^orange;General Falke^reset; at the ^orange;Nova Station^res	^orange;노바 스테이션^reset;의 ^orange;팔케 장군^reset;에게 돌아가기	AUTO
+General	일반	팔케 장군|호라이즌 기지	mwhaddon_quests_npc_exousia_generalFalke_3.questtemplate.patch	Talk to ^orange;General Falke^reset; to travel to the ^orange;Horizon 	^orange;팔케 장군^reset;에게 말을 걸어 ^orange;호라이즌 기지^reset;로 이동하세요	AUTO
+General	일반	노바 스테이션|팔케 장군	mwhaddon_quests_npc_exousia_generalFalke_3.questtemplate.patch	Return to ^orange;General Falke^reset; at the ^orange;Nova Station^res	^orange;노바 스테이션^reset;의 ^orange;팔케 장군^reset;에게 돌아가기	AUTO
+General	일반	팔케 장군|호라이즌 함선	mwhaddon_quests_npc_exousia_generalFalke_4.questtemplate.patch	Talk to ^orange;General Falke^reset; to reach the ^orange;Horizon ship	^orange;팔케 장군^reset;에게 말을 걸어 ^orange;호라이즌 함선^reset;에 도달하세요	AUTO
+General	일반	노바 스테이션|팔케 장군	mwhaddon_quests_npc_exousia_generalFalke_4.questtemplate.patch	Return to ^orange;General Falke^reset; at the ^orange;Nova Station^res	^orange;노바 스테이션^reset;의 ^orange;팔케 장군^reset;에게 돌아가기	AUTO
+General	일반	팔케 장군|호라이즌 공장	mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch	Talk to ^orange;General Falke^reset; to reach the ^orange;Horizon fact	^orange;팔케 장군^reset;에게 말을 걸어 ^orange;호라이즌 공장^reset;에 도달하세요.	AUTO
+General	일반	팔케 장군	mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch	Talk to ^orange;General Falke^reset; at the east.	동쪽에서 ^orange;팔케 장군^reset;에게 말을 거세요.	AUTO
+General	일반		gic_chapter2_bossrush_razed.questtemplate.patch	Obtain: Greenfinger Guard Samurai Helmet and Hylotl Gunbai (kill Green	획득: 그린핑거 경비 사무라이 헬멧과 하이로틀 군바이 (그린핑거 장군과 그린핑거 다이묘 처치).^orange;[완료 시: 포털	REVIEW
+General	일반		gic_chapter2_bossrush_razed.questtemplate.patch	[Greenfinger General and Greenfinger Daimyo can now be replayed via th	[그린핑거 장군과 그린핑거 다이묘는 이제 포털 연구소에서 다시 플레이할 수 있습니다]	REVIEW
+General	일반		gic_tylian_bossrush_razed.questtemplate.patch	Obtain: Greenfinger Guard Samurai Helmet and Hylotl Gunbai (kill Green	"획득: 그린핑거 경비 사무라이 헬멧과 하이로틀 군바이 (그린핑거 장군과 그린핑거 다이묘 처치).
+
+^orange;[완료 시: "	REVIEW
+Sprouting Table	싹이 트는 테이블	밀|빗물 통|발아 테이블|캠프파이어	4malt.questtemplate.patch	Time to use some new stations. First, put one piece of ^orange;Wheat^r	새로운 스테이션을 사용할 시간입니다. 먼저, ^orange;밀^reset; 한 조각을 ^orange;빗물 통^reset; 에 	AUTO
+Sprouting Table	싹이 트는 테이블	밀|빗물 통|발아 테이블|캠프파이어	4malt.questtemplate.patch	Time to use some new stations. First, put one piece of ^orange;Wheat^r	새로운 스테이션을 사용할 시간입니다. 먼저, ^orange;밀^reset; 한 조각을 ^orange;빗물 통^reset; 에 	AUTO
+Sprouting Table	싹이 트는 테이블	과학 전초기지|발아 테이블	create_sprouting.questtemplate.patch	Bring the ^green;Sprouting Table^reset; to me at the ^orange;Science O	^orange;과학 전초기지^reset; 에 있는 ^green;발아 테이블^reset; 을 저에게 가져다주세요;	AUTO
+Sprouting Table	싹이 트는 테이블	발아 테이블|제노 실험실|유전자|발아 테이블|발아 테이블	create_sprouting.questtemplate.patch	^orange;Sprouting Tables^reset; and ^orange;Xeno Labs^reset; are usefu	^orange;발아 테이블^reset; 과 ^orange;제노 실험실^reset; 은 식물 씨앗에서 ^orange;유전자^re	AUTO
+Sprouting Table	싹이 트는 테이블	과학 전초기지|발아 테이블	create_sprouting.questtemplate.patch	Bring the ^green;Sprouting Table^reset; to me at the ^orange;Science O	^orange;과학 전초기지^reset; 에 있는 ^green;발아 테이블^reset; 을 저에게 가져다주세요;	AUTO
+Sprouting Table	싹이 트는 테이블	발아 테이블|제노 실험실|유전자|발아 테이블|발아 테이블	create_sprouting.questtemplate.patch	^orange;Sprouting Tables^reset; and ^orange;Xeno Labs^reset; are usefu	^orange;발아 테이블^reset; 과 ^orange;제노 실험실^reset; 은 식물 씨앗에서 ^orange;유전자^re	AUTO
+Sprouting Table	싹이 트는 테이블	발아 테이블|감자 씨앗|유전자	fuquest_xeno.questtemplate.patch	So you've built a ^orange;Sprouting Table^reset;? Why are you looking 	그래서 ^orange;발아 테이블^reset; 을 만들었다고요? 왜 그렇게 멍한 표정을 짓고 있나요? 간단해요: ^orange	AUTO
+Sprouting Table	싹이 트는 테이블	발아 테이블|감자 씨앗|유전자	fuquest_xeno.questtemplate.patch	So you've built a ^orange;Sprouting Table^reset;? Why are you looking 	그래서 ^orange;발아 테이블^reset; 을 만들었다고요? 왜 그렇게 멍한 표정을 짓고 있나요? 간단해요: ^orange	AUTO
+Captain	선장	하루토 대위|빈더밀 양	mwhaddon_quests_chapter3_1_1.questtemplate.patch	During your test, I held a meeting with ^green;Captain Haruto^reset; a	테스트 중, 나는 ^green;하루토 대위^reset;와 ^green;빈더밀 양^reset;과 회의를 가졌다. 정규 보급품 외	AUTO
+Captain	선장	노엘 대장	mwhaddon_quests_arcana_vendor_3_scan.questtemplate.patch	This is ^orange;Captain Noel^reset;. She's in charge of the Station.	여기는 ^orange;노엘 대장^reset;이다. 그녀가 이 스테이션을 책임지고 있다.	AUTO
+Captain	선장		gic_chapter2_bossrush_crusade.questtemplate.patch	Obtain: Glitch-Hunter Foil and Crusader Champion's Helmet (kill Glitch	획득: 글리치 헌터 포일과 성전사 챔피언 헬멧 (글리치 헌터 대장과 성전사 챔피언 처치).^orange;[완료 시: 포털 연구	REVIEW
+Captain	선장		gic_chapter2_bossrush_crusade.questtemplate.patch	[Glitch-Hunter Captain and Crusader Champion can now be replayed via t	[글리치 헌터 대장과 성전사 챔피언은 이제 포털 연구소에서 다시 플레이할 수 있습니다]	REVIEW
+Captain	선장		gic_tylian_bossrush_crusade.questtemplate.patch	Obtain: Glitch-Hunter Foil and Crusader Champion's Helmet (kill Glitch	"획득: 글리치-헌터 포일과 십자군 챔피언의 투구 (글리치-헌터 대장과 십자군 챔피언 처치).
+
+^orange;[완료 시: 바자"	REVIEW
+Captain	선장		neb-createtormentor2.questtemplate.patch	Captain, Good to see you! Here is the prototype I put together.	함장님, 만나서 반가워요! 제가 만든 시제품이에요.	REVIEW
+Captain	선장		shardbreakertool.questtemplate.patch	Ah, Captain, what do you have for me? Hmm, I have seen casings like th	아, 대장, 뭘 가져오셨나요? 흠, 이런 종류의 케이스는 전에 본 적이 있어요. 고쳐드릴 수 있을 것 같네요.	REVIEW
+Captain	선장		sundrainer4.questtemplate.patch	I've been expecting you, Captain. Here, I will assemble that weapon fo	기다리고 있었어요, 함장님. 자, 이 무기를 조립해드릴게요... 조금만 더... 됐어요! 완전히 복원된 점프라이플이에요! 그거	REVIEW
+ruins	유적		sg_Quests_ColCarter.npctype.patch	These ruins are interesting, I sense an energy flow in the area.	이 폐허는 흥미롭다. 이 일대에서 에너지 흐름이 느껴진다.	REVIEW
+ruins	유적		magickaforest.questtemplate.patch	These ruins sure are expansive, and the alpaca well-hidden! Hopefully 	이 폐허는 확실히 광활하고 알파카는 잘 숨어 있네요! 이 모든 것이 그만한 가치가 있었기를 바랍니다!	REVIEW
+ruins	유적		magickaforest.questtemplate.patch	These ruins sure are expansive, and the alpaca well-hidden! Hopefully 	이 폐허는 확실히 광활하고 알파카는 잘 숨어 있네요! 이 모든 것이 그만한 가치가 있었기를 바랍니다!	REVIEW
+ruins	유적	폐허를 계속 조사하고 발견한 이상 현상을 기록해 달라.	mwhaddon_quests_chapter1_2_1.questtemplate.patch	To figure out the mystery of this relic, I need more information to an	이 유물의 수수께끼를 풀려면 분석할 정보가 더 필요하다.^green; 폐허를 계속 조사하고 발견한 이상 현상을 기록해 달라. 	REVIEW
+ruins	유적		mwhaddon_conditionUI_chapter2_1_5.config.patch	Hand over the ownership of this ruins, or get out of this place. Oh, i	이 폐허의 소유권을 넘기거나, 이곳에서 나가세요. 아, 둘 사이에 차이가 없어 보이는군요.	REVIEW
+ruins	유적	빛나는 폐허로 돌아가 먼지 탐구자가 남긴 흔적을 추적해 줘	mwhaddon_quests_chapter2_1_4.questtemplate.patch	^green;I need you to return to the Illuminated ruins track trails from	^green;빛나는 폐허로 돌아가 먼지 탐구자가 남긴 흔적을 추적해 줘^reset;. 그것이 두 폐허 사이를 떠도는 이유가 우	REVIEW
+ruins	유적		verdantruins.questtemplate.patch	Well, looks like the ruins weren't as abandoned as I thought they woul	폐허는 생각보다 버려진 곳이 아니었나 봐요. 그 비밀을 다 알아냈나요?	REVIEW
+ruins	유적		verdantruins.questtemplate.patch	Well, looks like the ruins weren't as abandoned as I thought they woul	폐허는 생각보다 버려진 곳이 아니었나 봐요. 그 비밀을 다 알아냈나요?	REVIEW
+Vanguard	선봉대	우리 시험 시설에 들어가|을 시험해주시기 바랍니다|야카르	avikanmechunlock.questtemplate.patch	The Vanguard is deploying its vehicles across more and more locations 	뱅가드는 매일 더 많은 지역에 차량을 배치하고 있으며, 우리는 그것들이 계속 효과적으로 작동하는지 확인하기 위해 시험해야 합니	AUTO
+Vanguard	선봉대	뱅가드 시험 시설	avikanmechunlock.questtemplate.patch	Reach the end of the ^orange;Vanguard testing facility^reset;	^orange;뱅가드 시험 시설^reset;의 끝에 도달하기	AUTO
+Vanguard	선봉대	땅을 배회하는|을 처치해주시기 바랍니다|여기 스타페어러의 피난처에 있는 뱅가드 사격장 이용 권한을 얻게 될 것입니다	avikangunrangeunlock.questtemplate.patch	The Vanguard is having issues with violated Drahl units on Kharmani. I	뱅가드는 카르마니에서 폭주한 드랄 유닛 때문에 문제를 겪고 있습니다. 행성 표면으로 워프해 내려가 ^green;땅을 배회하는 	REVIEW
+Vanguard	선봉대	뱅가드가 이 장치를 복제할 수 있도록|를 회수하는 임무를 맡기겠습니다.	avikanmanipulator.questtemplate.patch	The Vanguard are eager to study and replicate the Matter Manipulator y	뱅가드는 당신이 보호국에서 회수한 물질 조작기를 연구하고 복제하고 싶어 안달이지만, 재료가 좀 필요합니다. ^green;뱅가드	REVIEW
+Vanguard	선봉대		avikanmanipulator.questtemplate.patch	Well done, Captain. I will have my Watchers bring these to the Vanguar	잘했네, 선장. 내 감시자들에게 이것들을 뱅가드로 가져가게 하겠네. 그동안 그들이 자네의 물질 조작기용 새 케이스를 만들어줬네	REVIEW
+Vanguard	선봉대	네가|을 구해다 주면	avikanmechparts.questtemplate.patch	I see you have your own mech! The Vanguard has produced a number of pa	네 메크가 있구나! 뱅가드에서 그거랑 호환될 만한 부품 몇 개를 만들었는데, 운 좋게도 내가 그 설계도를 갖고 있어. ^gre	REVIEW
+Vanguard	선봉대		avikanmechunlock.questtemplate.patch	Well done, your run through the testing facility has provided the Vang	잘했네, 시험 시설 주행으로 뱅가드에 연구할 정보가 많이 생겼네. 자카르에게 이제 자네에게 뱅가드 차량을 판매해도 된다고 알렸	REVIEW
+Watcher	관측기	이 유닛은|을	drodenwatcherarmour.questtemplate.patch	Detected Droden unit registered to the Watchers. Logs indicate recent 	감시자들에 등록된 드로덴 유닛 감지. 기록에 따르면 최근 지휘관 자히드와 상호작용이 있었음. 감시자 갑옷 수령함. ^green	AUTO
+Watcher	관측기	감시자|과학 전초기지|보라색 갑옷을 입은 과학자	create_watcher.questtemplate.patch	Bring the ^orange;Watcher^reset; to the ^green;purple-armored scientis	^orange;감시자^reset; 를 ^orange;과학 전초기지^reset; 최상층에 있는 ^green;보라색 갑옷을 입은 	AUTO
+Watcher	관측기	거대한 생산성 부스터|감시자|감시자|전력 스테이션	create_watcher.questtemplate.patch	Powered stations are a ^green;huge productivity booster^reset;. With a	전력 스테이션은 ^green;거대한 생산성 부스터^reset; 입니다. ^orange;감시자^reset; 를 사용하면 훨씬 더	AUTO
+Watcher	관측기	감시자|과학 전초기지|보라색 갑옷을 입은 과학자	create_watcher.questtemplate.patch	Bring the ^orange;Watcher^reset; to the ^green;purple-armored scientis	^orange;감시자^reset; 를 ^orange;과학 전초기지^reset; 최상층에 있는 ^green;보라색 갑옷을 입은 	AUTO
+Watcher	관측기	거대한 생산성 부스터|감시자|감시자|전력 스테이션	create_watcher.questtemplate.patch	Powered stations are a ^green;huge productivity booster^reset;. With a	전력 스테이션은 ^green;거대한 생산성 부스터^reset; 입니다. ^orange;감시자^reset; 를 사용하면 훨씬 더	AUTO
+Watcher	관측기		drodenwatcherarmour.questtemplate.patch	Trade accepted. Handing over Watcher-themed Droden part replacements. 	거래 수락. 감시자 테마 드로덴 교체 부품을 건넨다. 대화 종료.	REVIEW
+Ship Component Assembler	선박 구성요소 어셈블러	승무원 고용|형편없는 승무원 침대|함선 구성품 조립소	fu_byoscrew.questtemplate.patch	If you want to ^orange;Hire Crewmates^reset; then you first need to bu	^orange;승무원 고용^reset; 을 하려면 먼저 ^green;형편없는 승무원 침대^reset; 를 건설해야 합니다. ^	AUTO
+Ship Component Assembler	선박 구성요소 어셈블러	승무원 고용|형편없는 승무원 침대|함선 구성품 조립소	fu_byoscrew.questtemplate.patch	If you want to ^orange;Hire Crewmates^reset; then you first need to bu	^orange;승무원 고용^reset; 을 하려면 먼저 ^green;형편없는 승무원 침대^reset; 를 건설해야 합니다. ^	AUTO
+Ship Component Assembler	선박 구성요소 어셈블러	문|조명|침대|승무원 증서|승무원 고용|함선 구성품 조립기	fu_byoscrewdeed.questtemplate.patch	^green;Crew Deeds^reset; allow you to ^orange;Hire Crewmates^reset; if	^orange;문^reset;, ^orange;조명^reset;, ^orange;침대^reset; 1개 이상이 있는 밀폐된 방	AUTO
+Ship Component Assembler	선박 구성요소 어셈블러	문|조명|침대|승무원 증서|승무원 고용|함선 구성품 조립기	fu_byoscrewdeed.questtemplate.patch	^green;Crew Deeds^reset; allow you to ^orange;Hire Crewmates^reset; if	^orange;문^reset;, ^orange;조명^reset;, ^orange;침대^reset; 1개 이상이 있는 밀폐된 방	AUTO
+Ship Component Assembler	선박 구성요소 어셈블러	우주선 구성품 조립기	fu_byosshipcraftingtable.questtemplate.patch	To start on ship repairs I should build a ^orange;Ship Component Assem	우주선 수리를 시작하려면 ^orange;우주선 구성품 조립기^reset;을 만들어야 합니다.	AUTO
+Ship Component Assembler	선박 구성요소 어셈블러	우주선 구성품 조립기	fu_byosshipcraftingtable.questtemplate.patch	To start on ship repairs I should build a ^orange;Ship Component Assem	우주선 수리를 시작하려면 ^orange;우주선 구성품 조립기^reset;을 만들어야 합니다.	AUTO
+Sifter	시프터	미사|자갈|기타 가루 재료|체에 던져 넣으면 바로 자원을 뽑아낼 수 있습니다! 가능하다면	create_woodensifter.questtemplate.patch	If you have stacks of loose grit like ^orange;silt^reset;, ^orange;Gra	^orange;미사^reset;, ^orange;자갈^reset;, ^green;기타 가루 재료^reset; 같은 무른 자갈이	AUTO
+Sifter	시프터	미사|자갈|기타 가루 재료|체에 던져 넣으면 바로 자원을 뽑아낼 수 있습니다! 가능하다면	create_woodensifter.questtemplate.patch	If you have stacks of loose grit like ^orange;silt^reset;, ^orange;Gra	^orange;미사^reset;, ^orange;자갈^reset;, ^green;기타 가루 재료^reset; 같은 무른 자갈이	AUTO
+Sifter	시프터	아이템 전송 장치|스토리지 브리지|선별기|나무 선별기	fuquest_powergeneration2.questtemplate.patch	If you want to step up your game, try creating a ^orange;Item Transfer	게임을 한 단계 업그레이드하고 싶다면 ^orange;아이템 전송 장치^reset; 및 ^orange;스토리지 브리지^reset	AUTO
+Sifter	시프터	아이템 전송 장치|스토리지 브리지|선별기|나무 선별기	fuquest_powergeneration2.questtemplate.patch	If you want to step up your game, try creating a ^orange;Item Transfer	게임을 한 단계 업그레이드하고 싶다면 ^orange;아이템 전송 장치^reset; 및 ^orange;스토리지 브리지^reset	AUTO
+Sifter	시프터	바위 분쇄기	create_rockbreaker.questtemplate.patch	Compared to the Sifter, the Rock Breaker is slower and needs more powe	바위 파괴기는 선별기에 비해 속도가 느리고 더 많은 전력이 필요하지만, 선별기만 사용할 때보다 훨씬 더 많은 자원을 추출할 수	REVIEW
+Sifter	시프터	바위 분쇄기	create_rockbreaker.questtemplate.patch	Compared to the Sifter, the Rock Breaker is slower and needs more powe	바위 파괴기는 선별기에 비해 속도가 느리고 더 많은 전력이 필요하지만, 선별기만 사용할 때보다 훨씬 더 많은 자원을 추출할 수	REVIEW
+Core Fragment	행성 핵 파편	코어 조각|코어 조각 10개|500 픽셀	scp_minersguildquest_corefragment.questtemplate.patch	^orange;Core Fragments^white; are used for crafting explosive devices 	^orange;코어 조각^white;은 채굴에 유용한 폭발 장치 제작에 쓰인다. ^orange;코어 조각 10개^white;를	AUTO
+Core Fragment	행성 핵 파편	동굴|에너지원	gaterepair.questtemplate.patch	Collect ^orange;Core Fragments^reset;	^green;동굴^reset;에서 ^orange;에너지원^reset;을 찾으세요.	AUTO
+Core Fragment	행성 핵 파편	고대 게이트웨이|코어 조각|트라이코더	quests.radiomessages.patch	If you've picked up this message, you must have found an ^orange;Ancie	이 메시지를 받았다면 ^orange;고대 게이트웨이^reset; 근처에 있는 것이 틀림없으니, 활성화해서 저를 찾아주세요. ^	AUTO
+Core Fragment	행성 핵 파편	여러 작업|나에게 말을 걸어	quests.radiomessages.patch	I have scanned for nearby ^orange;Core Fragments^reset;. They appear n	우주선을 고치려면 ^orange;여러 작업^reset; 을 완료해야 합니다. ^green;나에게 말을 걸어^reset; 시작하	AUTO
+Core Fragment	행성 핵 파편	고대 게이트웨이|코어 조각|트라이코더	quests.radiomessages.patch	If you've picked up this message, you must have found an ^orange;Ancie	이 메시지를 받았다면 ^orange;고대 게이트웨이^reset; 근처에 있는 것이 틀림없으니, 활성화해서 저를 찾아주세요. ^	AUTO
+Core Fragment	행성 핵 파편	여러 작업|나에게 말을 걸어	quests.radiomessages.patch	I have scanned for nearby ^orange;Core Fragments^reset;. They appear n	우주선을 고치려면 ^orange;여러 작업^reset; 을 완료해야 합니다. ^green;나에게 말을 걸어^reset; 시작하	AUTO
+Silicon Board	회로판	실리콘 보드|과학 전초기지	create_circuitboard.questtemplate.patch	Bring the ^orange;Silicon Board^reset; to the scientist at the ^orange	^orange;실리콘 보드^reset; 를 ^orange;과학 전초기지^reset; 에 있는 과학자에게 가져다주세요;	AUTO
+Silicon Board	회로판	실리콘|구리 선|물질 어셈블러|실리콘 보드	create_circuitboard.questtemplate.patch	Instructive: Now that you have ^orange;Silicon^reset; and ^orange;Copp	유익합니다: 이제 ^orange;실리콘^reset; 과 ^orange;구리 선^reset; 이 두 가지를 ^orange;물질 	AUTO
+Silicon Board	회로판	실리콘 보드|과학 전초기지	create_circuitboard.questtemplate.patch	Bring the ^orange;Silicon Board^reset; to the scientist at the ^orange	^orange;실리콘 보드^reset; 를 ^orange;과학 전초기지^reset; 에 있는 과학자에게 가져다주세요;	AUTO
+Silicon Board	회로판	실리콘|구리 선|물질 어셈블러|실리콘 보드	create_circuitboard.questtemplate.patch	Instructive: Now that you have ^orange;Silicon^reset; and ^orange;Copp	유익합니다: 이제 ^orange;실리콘^reset; 과 ^orange;구리 선^reset; 이 두 가지를 ^orange;물질 	AUTO
+Silicon Board	회로판	실리콘 보드, 소형 배터리, 구리 전선, 텅스텐 막대, 작은 벽 버튼|(실리콘 보드 1개, 소형 배터리 2개, 구리 전선 5개, 텅스텐 막대 3	miscmerchant1.questtemplate.patch	I have this old project I have had for a while, but never had the mate	예전부터 진행하던 프로젝트가 있는데, 완성할 재료가 없었어. ^orange;실리콘 보드, 소형 배터리, 구리 전선, 텅스텐 막	AUTO
+Gold Bars	금괴	우주 정거장 트랜스폰더|저 또는 아무 트랜스폰더 상인|티타늄 주괴|,|50개|은 막대|,	transponder.questtemplate.patch	Would you like to deploy your very own space station? I can craft for 	당신만의 우주 정거장을 배치하고 싶습니까? 재료만 가져온다면 제가 ^orange;우주 정거장 트랜스폰더^white;를 만들어드	AUTO
+Gold Bars	금괴	우주 정거장 트랜스폰더|저 또는 아무 트랜스폰더 상인|티타늄 주괴|,|50개|은 막대|,	transponder.questtemplate.patch	Would you like to deploy your very own space station? I can craft for 	당신만의 우주 정거장을 배치하고 싶습니까? 재료만 가져온다면 제가 ^orange;우주 정거장 트랜스폰더^white;를 만들어드	AUTO
+Gold Bars	금괴	우주 정거장 트랜스폰더|저 또는 아무 트랜스폰더 상인|티타늄 주괴|,|50개|은 막대|,	transponder.questtemplate.patch	Would you like to deploy your very own space station? I can craft for 	당신만의 우주 정거장을 배치하고 싶습니까? 재료만 가져온다면 제가 ^orange;우주 정거장 트랜스폰더^white;를 만들어드	AUTO
+Gold Bars	금괴	기술|금 주괴 10개|가져다 줄 수 있겠어	techscientist5.questtemplate.patch	The ^orange;tech^white; I'm working on now is truly fantastic! It enab	내가 지금 작업하고 있는 ^orange;기술^white;은 놀라움 그 자체야! 사용자를 작은 구체형 형태로 압축하여 좁은 공간	AUTO
+Gold Bars	금괴	기술|금 주괴 10개|가져다 줄 수 있겠어	techscientist5.questtemplate.patch	The ^orange;tech^white; I'm working on now is truly fantastic! It enab	내가 지금 작업하고 있는 ^orange;기술^white;은 놀라움 그 자체야! 사용자를 작은 구체형 형태로 압축하여 좁은 공간	AUTO
+Stealth	몰래 하기	차차라에게|를 가져와라, 그럼 차차라가	thea-stealthtechunlock1.questtemplate.patch	Chacharra has tech, useful tech to go invisible. You can have tech, fo	차차라 기술 있다, 투명해지는 유용한 기술. 대가 치르면 기술 가질 수 있다... ^green;차차라에게 ^orange;다이아	AUTO
+Stealth	몰래 하기	은신 테크	thea-stealthtechunlock1.questtemplate.patch	You make Chacharra happy, happy Akki help you! ^orange;Stealth Tech ^r	차차라 행복해, 행복한 아키 도와줄게! ^orange;은신 테크^reset; 거의 네 거야...	AUTO
+Stealth	몰래 하기	차차라가 만든|로 가라|스텔스 테크	thea-stealthtechunlock2.questtemplate.patch	Before you get tech, Chacharra make sure you know how tech works. ^gre	기술을 얻기 전에, 차차라가 기술이 어떻게 작동하는지 확실히 알려주겠다. ^green;차차라가 만든 ^orange;시험 코스^	AUTO
+Stealth	몰래 하기	스텔스 테크	thea-stealthtechunlock2.questtemplate.patch	Chacharra impressed, you skilled! You keep ^orange;Stealth Tech^reset;	차차라 감명받았다, 너 실력 있다! ^orange;스텔스 테크^reset; 가져라, 많은 적 몰래 지나칠 때 써라...	AUTO
+Stealth	몰래 하기	은신 테크 시험 코스	thea-stealthtechunlock2.questtemplate.patch	Complete the ^orange;Stealth Tech testing course^reset;	^orange;은신 테크 시험 코스^reset; 완료	AUTO
+Class	직업	N.I.C 클래스 D 여권	esc_nitorikawashiro_escalatestartquest.questtemplate.patch	Hi, haven't seen you for a while, ally? Lately, I've been troubled by 	오랜만이네, 동맹이여? 요즘, 누군가의 이해할 수 없는 도덕적 비판 때문에 골치 아팠어. 내 이름이 붙은 상품도 여럿 발견했고	REVIEW
+Class	직업	N.I.C D등급 여권|<current> / <required>	esc_nitorikawashiro_escalatestartquest.questtemplate.patch	Find ^#64a5d7;N.I.C Class D Passport^reset;: ^green;<current> / <requi	^#64a5d7;N.I.C D등급 여권^reset; 찾기: ^green;<current> / <required>^reset;	REVIEW
+Class	직업	N.I.C 클래스 B 여권	esc_nitorikawashiro_escalatestartquest2.questtemplate.patch	Chairman? Founder? -... Ally, what are you talking about? I—absolutely	"회장? 창립자? -... 앨리, 무슨 소리야? 난— 정말로— 이거랑— 아무— 상관도— 없어!
+이미 파고들었으니, 정보를 좀 더"	REVIEW
+Class	직업	N.I.C B등급 여권|<current> / <required>	esc_nitorikawashiro_escalatestartquest2.questtemplate.patch	Find ^#64a5d7;N.I.C Class B Passport^reset;: ^green;<current> / <requi	^#64a5d7;N.I.C B등급 여권^reset; 찾기: ^green;<current> / <required>^reset;	REVIEW
+Class	직업		gic_tylian_planetincentive_6_wartorn.questtemplate.patch	I've got kill-orders for two dangerous entities: A duo renegade Coin-L	두 위험한 개체에 사살 명령이 있습니다: 카우보이와 함께하는 도주 코인-레이디, 그리고 핵 몇 발을 쏘려는 ''몰락체''급 개	REVIEW
+Busty Bonka	가슴 큰 봉카		ttpp_quest_bustybonka.aimission.patch	«Revisit Busty Bonka's Factory	«버스티 봉카의 공장 재방문	AUTO
+Busty Bonka	가슴 큰 봉카		ttpp_bonka_visitor.npctype.patch	Have you met Busty Bonka yet? She's... quite something.	버스티 봉카 만나봤어? 그녀는... 정말 뭐랄까 대단해.	AUTO
+Busty Bonka	가슴 큰 봉카		ttppbustybonka.npctype.patch	Welcome to the grand Busty Bonka's Factory Tour!	육감적인 봉카의 웅장한 공장 투어에 온 걸 환영해!	AUTO
+Busty Bonka	가슴 큰 봉카		ttpp_questhub_10.questtemplate.patch	Busty Bonka will no longer abuse tentacles!	육감적인 봉카는 더 이상 촉수를 학대하지 않을 거예요!	AUTO
+Armorworks	방어구 제작	조립 라인|강철 워블레이드|갑옷 공장	create_steelwarblade.questtemplate.patch	I'll be blunt. My sword sucks. Make me a new one. Go craft a ^orange;S	솔직히 말할게요. 내 검은 형편없어. 새로 만들어줘요. ^orange;조립 라인^reset; 에서 ^orange;강철 워블레이	AUTO
+Armorworks	방어구 제작	조립 라인|강철 워블레이드|갑옷 공장	create_steelwarblade.questtemplate.patch	I'll be blunt. My sword sucks. Make me a new one. Go craft a ^orange;S	솔직히 말할게요. 내 검은 형편없어. 새로 만들어줘요. ^orange;조립 라인^reset; 에서 ^orange;강철 워블레이	AUTO
+Armorworks	방어구 제작		plebiancap.questtemplate.patch	I'm sure you don't need to be told what your ^orange;Armorworks^reset;	여기서 만들 수 있는 갑옷과 무기는 다양합니다. orange;플레비안 모자^reset;을 제작하여 테스트해 봅시다.	AUTO
+Armorworks	방어구 제작		plebiancap.questtemplate.patch	I'm sure you don't need to be told what your ^orange;Armorworks^reset;	여기서 만들 수 있는 갑옷과 무기는 다양합니다. orange;플레비안 모자^reset;을 제작하여 테스트해 봅시다.	AUTO
+Ferozium Cleaver	페로슘 클리버	페로지움 칼|과학 전초기지|귀찮은 녀석	create_warcleaver.questtemplate.patch	Bring the ^orange;Ferozium Cleaver^reset; to the ^green;annoying guy^r	^orange;페로지움 칼^reset; 을 ^orange;과학 전초기지^reset; 에 있는 ^green;귀찮은 녀석^rese	AUTO
+Ferozium Cleaver	페로슘 클리버	페로지움 칼	create_warcleaver.questtemplate.patch	I'll be frank: My favorite murder tool broke and I need a replacement.	솔직히 말씀드리자면, 제가 가장 좋아하는 살인 도구가 고장나서 대체품이 필요해요. ^orange;페로지움 칼^reset; 을 	AUTO
+Ferozium Cleaver	페로슘 클리버	페로지움 칼|과학 전초기지|귀찮은 녀석	create_warcleaver.questtemplate.patch	Bring the ^orange;Ferozium Cleaver^reset; to the ^green;annoying guy^r	^orange;페로지움 칼^reset; 을 ^orange;과학 전초기지^reset; 에 있는 ^green;귀찮은 녀석^rese	AUTO
+Ferozium Cleaver	페로슘 클리버	페로지움 칼	create_warcleaver.questtemplate.patch	I'll be frank: My favorite murder tool broke and I need a replacement.	솔직히 말씀드리자면, 제가 가장 좋아하는 살인 도구가 고장나서 대체품이 필요해요. ^orange;페로지움 칼^reset; 을 	AUTO
+Electronics Center	전자공학 시설	기초 배터리|전자 센터	fuquest_battery.questtemplate.patch	You don't need batteries, but they will be extremely useful. Create a 	배터리가 필요하지는 않지만 매우 유용합니다. ^orange;기초 배터리^reset; 을 ^orange;전자 센터^reset; 	AUTO
+Electronics Center	전자공학 시설	기초 배터리|전자 센터	fuquest_battery.questtemplate.patch	You don't need batteries, but they will be extremely useful. Create a 	배터리가 필요하지는 않지만 매우 유용합니다. ^orange;기초 배터리^reset; 을 ^orange;전자 센터^reset; 	AUTO
+Electronics Center	전자공학 시설	전자 센터|리서치|전자제품	create_electronics.questtemplate.patch	Now that you have a firm concept of how to use your well-earned resour	이제 획득한 자원을 사용하는 방법에 대한 확실한 개념이 생겼으니, 이제 좀 더 두뇌를 써볼 차례일까요? 먼저 ^orange;전	AUTO
+Electronics Center	전자공학 시설	전자 센터|리서치|전자제품	create_electronics.questtemplate.patch	Now that you have a firm concept of how to use your well-earned resour	이제 획득한 자원을 사용하는 방법에 대한 확실한 개념이 생겼으니, 이제 좀 더 두뇌를 써볼 차례일까요? 먼저 ^orange;전	AUTO
+Fission Furnace	원자력 반응로	핵분열로|프로토카이트 바	fuquest_fission.questtemplate.patch	To process advanced ores, you'll need a ^orange;Fission Furnace^reset;	고급 광석을 처리하려면 ^orange;핵분열로^reset; 이 필요합니다. 가장 강한 금속도 녹일 수 있습니다. 하지만 용광로	AUTO
+Fission Furnace	원자력 반응로	핵분열로|프로토카이트 바	fuquest_fission.questtemplate.patch	To process advanced ores, you'll need a ^orange;Fission Furnace^reset;	고급 광석을 처리하려면 ^orange;핵분열로^reset; 이 필요합니다. 가장 강한 금속도 녹일 수 있습니다. 하지만 용광로	AUTO
+Fission Furnace	원자력 반응로	프로토 월드|에만|프로토사이트 주괴|핵분열 용광로	create_protocite.questtemplate.patch	There is a rare metal native ^red;only^reset; to ^orange;Proto Worlds^	^orange;프로토 월드^reset; ^red;에만^reset; 있는 희귀 금속이 있는데, 정말 절실히 필요해요. ^oran	AUTO
+Fission Furnace	원자력 반응로	프로토 월드|에만|프로토사이트 주괴|핵분열 용광로	create_protocite.questtemplate.patch	There is a rare metal native ^red;only^reset; to ^orange;Proto Worlds^	^orange;프로토 월드^reset; ^red;에만^reset; 있는 희귀 금속이 있는데, 정말 절실히 필요해요. ^oran	AUTO
+Power Station	전력 스테이션	수경 재배 트레이|발전소|빠르게 성장시키는 데 사용할 수 있습니다	fuquest_hydrotray.questtemplate.patch	Let's build a ^orange;Hydroponics Tray^reset; next. You can build it i	다음으로 ^orange;수경 재배 트레이^reset; 를 만들어 봅시다. ^orange;발전소^reset; 에 건설하여 식물을	AUTO
+Power Station	전력 스테이션	수경 재배 트레이|발전소|빠르게 성장시키는 데 사용할 수 있습니다	fuquest_hydrotray.questtemplate.patch	Let's build a ^orange;Hydroponics Tray^reset; next. You can build it i	다음으로 ^orange;수경 재배 트레이^reset; 를 만들어 봅시다. ^orange;발전소^reset; 에 건설하여 식물을	AUTO
+Power Station	전력 스테이션	수경재배 트레이|발전소	create_hydrotray.questtemplate.patch	Kevin urinated on my ^orange;Hydroponics Tray^reset; during a drunken 	케빈이 술에 취한 직원 파티에서 내 ^orange;수경재배 트레이^reset; 에 오줌을 싸서 부쉈어요! 새로 만들 수 있는 	AUTO
+Power Station	전력 스테이션	수경재배 트레이|발전소	create_hydrotray.questtemplate.patch	Kevin urinated on my ^orange;Hydroponics Tray^reset; during a drunken 	케빈이 술에 취한 직원 파티에서 내 ^orange;수경재배 트레이^reset; 에 오줌을 싸서 부쉈어요! 새로 만들 수 있는 	AUTO
+Silicon	규소	모래|실리콘|사막|칼리체 스톤	fuquest_silicon.questtemplate.patch	^orange;Sand^reset; might get everywhere but it is a valuable source o	^orange;모래^reset; 는 어디에서나 구할 수 있지만 ^orange;실리콘^reset; 의 귀중한 자원입니다. ^or	AUTO
+Silicon	규소	모래|실리콘|사막|칼리체 스톤	fuquest_silicon.questtemplate.patch	^orange;Sand^reset; might get everywhere but it is a valuable source o	^orange;모래^reset; 는 어디에서나 구할 수 있지만 ^orange;실리콘^reset; 의 귀중한 자원입니다. ^or	AUTO
+Silicon	규소	실리콘|구리 선|물질 어셈블러|실리콘 보드	create_circuitboard.questtemplate.patch	Instructive: Now that you have ^orange;Silicon^reset; and ^orange;Copp	유익합니다: 이제 ^orange;실리콘^reset; 과 ^orange;구리 선^reset; 이 두 가지를 ^orange;물질 	AUTO
+Silicon	규소	실리콘|구리 선|물질 어셈블러|실리콘 보드	create_circuitboard.questtemplate.patch	Instructive: Now that you have ^orange;Silicon^reset; and ^orange;Copp	유익합니다: 이제 ^orange;실리콘^reset; 과 ^orange;구리 선^reset; 이 두 가지를 ^orange;물질 	AUTO
+Campfire	모닥불	밀|빗물 통|발아 테이블|캠프파이어	4malt.questtemplate.patch	Time to use some new stations. First, put one piece of ^orange;Wheat^r	새로운 스테이션을 사용할 시간입니다. 먼저, ^orange;밀^reset; 한 조각을 ^orange;빗물 통^reset; 에 	AUTO
+Campfire	모닥불	밀|빗물 통|발아 테이블|캠프파이어	4malt.questtemplate.patch	Time to use some new stations. First, put one piece of ^orange;Wheat^r	새로운 스테이션을 사용할 시간입니다. 먼저, ^orange;밀^reset; 한 조각을 ^orange;빗물 통^reset; 에 	AUTO
+Campfire	모닥불	캠프파이어|활|사냥창|사냥용 창|사냥 소총	fuquest_farming2.questtemplate.patch	When you're starving, you have some options. A ^orange;Campfire^reset;	굶주릴 때는 몇 가지 선택지가 있습니다. ^orange;캠프파이어^reset; 을 사용하면 고기를 익힐 수 있습니다. 빠르지만	AUTO
+Campfire	모닥불	캠프파이어|활|사냥창|사냥용 창|사냥 소총	fuquest_farming2.questtemplate.patch	When you're starving, you have some options. A ^orange;Campfire^reset;	굶주릴 때는 몇 가지 선택지가 있습니다. ^orange;캠프파이어^reset; 을 사용하면 고기를 익힐 수 있습니다. 빠르지만	AUTO
+Alien Compound	외계 화합물	케빈|외계인 화합물	create_clothingfabricator3.questtemplate.patch	Bring ^red;Kevin, your overlord^reset; 5 ^orange;Alien Compound^reset;	당신의 군주, 케빈을 ^red;케빈^reset; 5 ^orange;외계인 화합물^reset;을 가져와요;	AUTO
+Alien Compound	외계 화합물	외계인 화합물	create_clothingfabricator3.questtemplate.patch	I cannot possibly poison-tip the ^cyan;rocket-powered guinea pigs^rese	^orange;외계인 화합물^reset; 5개 없이는 로켓으로 움직이는 기니피그에게 독을 먹일 수 없어요. 좀 구해줄 수 있을	AUTO
+Alien Compound	외계 화합물	케빈|외계인 화합물	create_clothingfabricator3.questtemplate.patch	Bring ^red;Kevin, your overlord^reset; 5 ^orange;Alien Compound^reset;	당신의 군주, 케빈을 ^red;케빈^reset; 5 ^orange;외계인 화합물^reset;을 가져와요;	AUTO
+Alien Compound	외계 화합물	외계인 화합물	create_clothingfabricator3.questtemplate.patch	I cannot possibly poison-tip the ^cyan;rocket-powered guinea pigs^rese	^orange;외계인 화합물^reset; 5개 없이는 로켓으로 움직이는 기니피그에게 독을 먹일 수 없어요. 좀 구해줄 수 있을	AUTO
+Silver Bar	은 주괴	에서|를 제작하고	start_basics4.questtemplate.patch	Craft a ^green;Silver Bar^reset; at a ^orange;Furnace^reset; and retur	주황색 용광로^reset; 에서 ^green;실버바^reset; 를 제작하고 ^green;웰치^reset; 로 돌아가세요.	AUTO
+Silver Bar	은 주괴	실버|더 희귀한 광석은 지표면 아래 깊은 곳에서 더 흔하게 발견됩니다|은괴 1개|연구|지질학	start_basics4.questtemplate.patch	I'm lookin' to acquire some ^orange;Silver^reset;, but I ain't no good	^orange;실버^reset;을 얻고 싶은데, 밀폐된 공간에서는 잘 안 돼요. ^green;더 희귀한 광석은 지표면 아래 깊	AUTO
+Silver Bar	은 주괴	에서|를 제작하고	start_basics4.questtemplate.patch	Craft a ^green;Silver Bar^reset; at a ^orange;Furnace^reset; and retur	주황색 용광로^reset; 에서 ^green;실버바^reset; 를 제작하고 ^green;웰치^reset; 로 돌아가세요.	AUTO
+Silver Bar	은 주괴	실버|더 희귀한 광석은 지표면 아래 깊은 곳에서 더 흔하게 발견됩니다|은괴 1개|연구|지질학	start_basics4.questtemplate.patch	I'm lookin' to acquire some ^orange;Silver^reset;, but I ain't no good	^orange;실버^reset;을 얻고 싶은데, 밀폐된 공간에서는 잘 안 돼요. ^green;더 희귀한 광석은 지표면 아래 깊	AUTO
+Defeat the Miniknog.	미니크녹을 물리치세요.		sgelevatorsurvival2.questtemplate.patch	Defeat the Miniknog.	미니크녹 격파.	AUTO
+Defeat the Miniknog.	미니크녹을 물리치세요.		sgironwatchspacemission.questtemplate.patch	Defeat the Miniknog.	미니크녹 격파.	AUTO
+Defeat the Miniknog.	미니크녹을 물리치세요.		sgoceanattack1.questtemplate.patch	Defeat the Miniknog.	미니크녹 격파.	AUTO
+Defeat the Miniknog.	미니크녹을 물리치세요.		sgoceanattack2.questtemplate.patch	Defeat the Miniknog.	미니크녹 격파.	AUTO
+Teleport	텔레포트		teleportdash.questtemplate.patch	Fascinating. The artifact has taught me the ^orange;Teleport Dash^rese	흥미롭군. 이 유물 덕분에 주황색 순간이동 대시^reset; 기술을 배웠어요. 적의 추리를 방해할 수 있겠어!	AUTO
+Teleport	텔레포트	순간이동 대시	teleportdash.questtemplate.patch	Fascinating. The artifact has taught me the ^orange;Teleport Dash^rese	흥미롭군. 유물을 통해 ^orange;순간이동 대시^reset; 기술을 배웠어요. 적의 추리를 방해할 수 있겠어!	AUTO
+Teleport	텔레포트		teleportdash.questtemplate.patch	Fascinating. The artifact has taught me the ^orange;Teleport Dash^rese	흥미롭군. 이 유물 덕분에 주황색 순간이동 대시^reset; 기술을 배웠어요. 적의 추리를 방해할 수 있겠어!	AUTO
+Teleport	텔레포트	순간이동 대시	teleportdash.questtemplate.patch	Fascinating. The artifact has taught me the ^orange;Teleport Dash^rese	흥미롭군. 유물을 통해 ^orange;순간이동 대시^reset; 기술을 배웠어요. 적의 추리를 방해할 수 있겠어!	AUTO
+Repulsor Blast	반발 폭발	[FIRE]	microsphereprecursor.questtemplate.patch	I've uncovered a unique tech! The Precursor Microsphere! You get wall-	독특한 기술을 발견했습니다! 선구자 마이크로 구체! 벽에 달라붙고 이동 속도가 증가하며, ^green;[FIRE]^reset;	AUTO
+Repulsor Blast	반발 폭발	[FIRE]	microsphereprecursor.questtemplate.patch	I've uncovered a unique tech! The Precursor Microsphere! You get wall-	독특한 기술을 발견했습니다! 선구자 마이크로 구체! 벽에 달라붙고 이동 속도가 증가하며, ^green;[FIRE]^reset;	AUTO
+Repulsor Blast	반발 폭발	[FIRE]	microsphereprecursor.questtemplate.patch	I've uncovered a unique tech! The Precursor Microsphere! You get wall-	독특한 기술을 발견했습니다! 선구자 마이크로 구체! 벽에 달라붙고 이동 속도가 증가하며, ^green;[FIRE]^reset;	AUTO
+Repulsor Blast	반발 폭발	[FIRE]	microsphereprecursor.questtemplate.patch	I've uncovered a unique tech! The Precursor Microsphere! You get wall-	독특한 기술을 발견했습니다! 선구자 마이크로 구체! 벽에 달라붙고 이동 속도가 증가하며, ^green;[FIRE]^reset;	AUTO
+Wall Jump	월 점프	유용한 업그레이드 기술	fuwalljump2.questtemplate.patch	This new technology has made me realize I could ^green;replace the Wal	이 새로운 기술을 통해 벽 점프 기술을 ^green;유용한 업그레이드 기술 ^orange;초기화로 바꿀 수 있다는 걸 깨달았어	AUTO
+Wall Jump	월 점프	유용한 업그레이드 기술	fuwalljump2.questtemplate.patch	This new technology has made me realize I could ^green;replace the Wal	이 새로운 기술을 통해 벽 점프 기술을 ^green;유용한 업그레이드 기술 ^orange;초기화로 바꿀 수 있다는 것을 깨달았	AUTO
+Wall Jump	월 점프	유용한 업그레이드 기술	fuwalljump2.questtemplate.patch	This new technology has made me realize I could ^green;replace the Wal	이 새로운 기술을 통해 벽 점프 기술을 ^green;유용한 업그레이드 기술 ^orange;초기화로 바꿀 수 있다는 걸 깨달았어	AUTO
+Wall Jump	월 점프	유용한 업그레이드 기술	fuwalljump2.questtemplate.patch	This new technology has made me realize I could ^green;replace the Wal	이 새로운 기술을 통해 벽 점프 기술을 ^green;유용한 업그레이드 기술 ^orange;초기화로 바꿀 수 있다는 것을 깨달았	AUTO
+White	화이트		gic_chapter2_bossrush_whitewolf.questtemplate.patch	Obtain: Wildlands Capture Pod Battery (kill the White Wolf on Wildland	획득: 야생지대 포획 포드 배터리 (야생지대에서 백색 늑대 처치).^orange;[완료 시: 포털 연구소에서 백색 늑대 보스 	REVIEW
+White	화이트		gic_chapter2_bossrush_whitewolf.questtemplate.patch	[White Wolf can now be replayed via the Portal Lab]	[백색 늑대는 이제 포털 연구소에서 다시 플레이할 수 있습니다]	REVIEW
+White	화이트		gic_tylian_bossrush_whitewolf.questtemplate.patch	Obtain: Wildlands Capture Pod Battery (kill the White Wolf on Wildland	"획득: 와일드랜즈 포획 포드 배터리 (와일드랜즈에서 백랑 처치).
+
+^orange;[완료 시: 바자에서 백랑 보스 러시 리플레"	REVIEW
+White	화이트	[1장]	mwhaddon_quests_chapter1_2_1.questtemplate.patch	^green;[Chap. 1] ^orange;Journey to the White^reset;	^green;[1장] ^orange;하얀 곳으로의 여정^reset;	REVIEW
+Avian	아비안	가시톡스 씨앗 3개|과학 전초기지	create_regengene.questtemplate.patch	Bring ^orange;3 Thornitox Seeds^reset; to the yellow Avian at the ^ora	^orange;가시톡스 씨앗 3개^reset; 를 ^orange;과학 전초기지^reset; 에 있는 노란 새에게 가져다주세요;	REVIEW
+Avian	아비안	가시톡스 씨앗 3개|과학 전초기지	create_regengene.questtemplate.patch	Bring ^orange;3 Thornitox Seeds^reset; to the yellow Avian at the ^ora	^orange;가시톡스 씨앗 3개^reset; 를 ^orange;과학 전초기지^reset; 에 있는 노란 새에게 가져다주세요;	REVIEW
+Avian	아비안		skytemple.questtemplate.patch	The map gives me directions to one of the greatest Avian sacred sites,	지도를 보니 가장 위대한 조류 성지 중 하나인 하늘대로로 가는 길이 나와요. 무덤 습격을 시도하기 전에 철저한 준비를 해야겠어	REVIEW
+Avian	아비안		skytemple.questtemplate.patch	The map gives me directions to one of the greatest Avian sacred sites,	지도를 보니 가장 위대한 조류 성지 중 하나인 하늘대로로 가는 길이 나와요. 무덤 습격을 시도하기 전에 철저한 준비를 해야겠어	REVIEW
+Koto	고토		pavillion.questtemplate.patch	Storm Castle Takeshi and save Princess Koto!	타케시의 성을 습격하고 코토 공주를 구하라!	REVIEW
+Koto	고토		pavillion.questtemplate.patch	Ninjas in the employ of Shogun Takeshi have kidnapped the Hylotl princ	쇼군 다케시의 부하인 닌자들이 하이로틀의 공주 코토를 납치했습니다. 당신은 공주를 구할 수 있을 만큼 나쁜 놈인가요?	REVIEW
+Koto	고토		pavillion.questtemplate.patch	Storm Castle Takeshi and save Princess Koto!	타케시의 성을 습격하고 코토 공주를 구하라!	REVIEW
+Koto	고토		pavillion.questtemplate.patch	Ninjas in the employ of Shogun Takeshi have kidnapped the Hylotl princ	쇼군 다케시의 부하인 닌자들이 하이로틀의 공주 코토를 납치했습니다. 당신은 공주를 구할 수 있을 만큼 나쁜 놈인가요?	REVIEW
+The Stranger	이방인	그 낯선 자	novakidquest.aimission.patch	This is the planet that ^orange;The Stranger^reset; told you to head t	"^orange;그 낯선 자^reset;가 가라고 한 행성이다.
+^red;이번에는 장비를 잘 갖추는 게 좋을 거다."	AUTO
+The Stranger	이방인	그 낯선 자	novakidquest.questtemplate.patch	Talk to ^orange;The Stranger^reset;	^orange;그 낯선 자^reset;에게 말을 거세요	AUTO
+The Stranger	이방인	불타버린 행성|선박 컴퓨터를 사용하거나|더 스트레인저에게 말을 걸어	novakidquest.questtemplate.patch	I have received coordinates for the ^orange;Scorched Planet^reset;. ^g	^orange;불타버린 행성^reset; 좌표를 받았어. 그 위치에 접근하려면 ^green;선박 컴퓨터를 사용하거나^reset	AUTO
+Vha'leihan Spear	브할레이한 창	은하를 뒤져서 센텐시안 유적을 찾고	weaponrestorationavikan.questtemplate.patch	That spear you carry, let me see it! Ah, yes... It is what I though it	네가 들고 있는 그 창, 좀 보여줘! 아, 그래... 내가 생각했던 그거였어: 고대 브할레이안 창이야! 어떻게 고치는지는 알지	AUTO
+Vha'leihan Spear	브할레이한 창		weaponrestorationavikan2.questtemplate.patch	Is that truly a Vha'leihan Spear? Incredible! I would be honoured to r	그게 정말 바흘레이한 창인가? 놀랍군! 선장님, 수리해드릴 수 있다면 영광이겠습니다!	AUTO
+Vha'leihan Spear	브할레이한 창		weaponrestorationavikan3.questtemplate.patch	Here you go, Captain. Your Vha'leihan Spear has been fully restored. I	여기 있습니다, 선장님. 당신의 바흘레이한 창이 완전히 복원되었습니다. 이렇게 강력한 무기를 다룰 수 있어 영광이었습니다.	AUTO
+Hunter	사냥꾼		gic_chapter2_bossrush_crusade.questtemplate.patch	Obtain: Glitch-Hunter Foil and Crusader Champion's Helmet (kill Glitch	획득: 글리치 헌터 포일과 성전사 챔피언 헬멧 (글리치 헌터 대장과 성전사 챔피언 처치).^orange;[완료 시: 포털 연구	REVIEW
+Hunter	사냥꾼		gic_chapter2_bossrush_crusade.questtemplate.patch	[Glitch-Hunter Captain and Crusader Champion can now be replayed via t	[글리치 헌터 대장과 성전사 챔피언은 이제 포털 연구소에서 다시 플레이할 수 있습니다]	REVIEW
+Hunter	사냥꾼		gic_tylian_bossrush_crusade.questtemplate.patch	Obtain: Glitch-Hunter Foil and Crusader Champion's Helmet (kill Glitch	"획득: 글리치-헌터 포일과 십자군 챔피언의 투구 (글리치-헌터 대장과 십자군 챔피언 처치).
+
+^orange;[완료 시: 바자"	REVIEW
+laboratory	연구실	그들의 A.I. 칩|페이탈 서킷|사이버스피어	apex_mission1_tws2.questtemplate.patch	Our agent shared intel. According to that, we need to hack into the ne	우리 요원이 정보를 공유했어. 그에 따르면, 미니크녹의 방어 시스템 네트워크를 해킹해야 해. 그러려면 ^orange;그들의 A	REVIEW
+laboratory	연구실	메탄올|목재 추출	fuquest_methanol.questtemplate.patch	^orange;Methanol^reset; will be useful in the production of a number o	^orange;메탄올^reset;은 여러 가지 상품을 생산하는데 유용하게 쓰이고 결국에는 훌륭한 연구소가 될 수 있을 거예요.	REVIEW
+laboratory	연구실	메탄올|목재 추출	fuquest_methanol.questtemplate.patch	^orange;Methanol^reset; will be useful in the production of a number o	^orange;메탄올^reset;은 여러 가지 상품을 생산하는데 유용하게 쓰이고 결국에는 훌륭한 연구소가 될 수 있을 거예요.	REVIEW
+Wires	전선 더미	구리선 9개|비날리제이	create_matterassembler2.questtemplate.patch	Bring the ^green;9 Wires^reset; to ^orange;Vinalisj^reset;.	^green;구리선 9개^reset;를 ^orange;비날리제이^reset;에게가져와요.	REVIEW
+Wires	전선 더미	구리선 9개|비날리제이	create_matterassembler2.questtemplate.patch	Bring the ^green;9 Wires^reset; to ^orange;Vinalisj^reset;.	^green;구리선 9개^reset;를 ^orange;비날리제이^reset;에게가져와요.	REVIEW
+Wires	전선 더미	실리콘 보드, 소형 배터리, 구리 전선, 텅스텐 막대, 작은 벽 버튼|(실리콘 보드 1개, 소형 배터리 2개, 구리 전선 5개, 텅스텐 막대 3	miscmerchant1.questtemplate.patch	I have this old project I have had for a while, but never had the mate	예전부터 진행하던 프로젝트가 있는데, 완성할 재료가 없었어. ^orange;실리콘 보드, 소형 배터리, 구리 전선, 텅스텐 막	REVIEW
+Sniper	스나이퍼	10|10|1.15|어둠 속에서 빛납나다	novakidaugment.augment.patch	"+^green;10^reset;% Pistol Mastery
++^green;10^reset;% Sniper Mastery  
+"	"`+^green;10^reset;% 권총 숙련도
++^green;10^reset;% 저격 숙련도 
+에너지 x^green;1.15"	AUTO
+Sniper	스나이퍼	10|10|1.15|어둠 속에서 빛납나다	novakidaugment.augment.patch	"+^green;10^reset;% Pistol Mastery
++^green;10^reset;% Sniper Mastery  
+"	"`+^green;10^reset;% 권총 숙련도
++^green;10^reset;% 저격 숙련도 
+에너지 x^green;1.15"	AUTO
+Agent Mox Fulder	요원 목스 풀더	경찰 본부|목스 펄더 요원	quest4pbiMission1.questtemplate.patch	Speak to ^orange;Agent Mox Fulder^reset; at the ^orange;Police Headqua	^orange;경찰 본부^reset;의 ^orange;목스 펄더 요원^reset;에게 말해	AUTO
+Agent Mox Fulder	요원 목스 풀더	경찰 본부|목스 펄더 요원	quest4pbiMission2.questtemplate.patch	Speak to ^orange;Agent Mox Fulder^reset; at the ^orange;Police Headqua	^orange;경찰 본부^reset;의 ^orange;목스 펄더 요원^reset;에게 말해	AUTO
+Capture Pod	포획용 포드		gic_chapter2_bossrush_whitewolf.questtemplate.patch	Obtain: Wildlands Capture Pod Battery (kill the White Wolf on Wildland	획득: 야생지대 포획 포드 배터리 (야생지대에서 백색 늑대 처치).^orange;[완료 시: 포털 연구소에서 백색 늑대 보스 	AUTO
+Capture Pod	포획용 포드		gic_tylian_bossrush_whitewolf.questtemplate.patch	Obtain: Wildlands Capture Pod Battery (kill the White Wolf on Wildland	"획득: 와일드랜즈 포획 포드 배터리 (와일드랜즈에서 백랑 처치).
+
+^orange;[완료 시: 바자에서 백랑 보스 러시 리플레"	AUTO
+Exploration	탐험	탐사	esc_nt_chapter_2_1.questtemplate.patch	"Attention, Employee! Urgent mission!
+We've lost contact with an autono"	"직원 여러분, 주목! 긴급 임무!
+자율 화물선과 연락이 끊겼습니다... 이 화물은 YFFS가 주문했고 저희와 계약을 체결했습니"	AUTO
+Exploration	탐험	운영 기록: 탐사|<current> / <required>	esc_nt_chapter_2_1.questtemplate.patch	Find ^#64a5d7;Operating Records: Exploration^reset;: ^green;<current> 	^#64a5d7;운영 기록: 탐사^reset; 찾기: ^green;<current> / <required>^reset;	REVIEW
+Crappy Crew Bed	조잡한 승무원 침대	승무원 고용|형편없는 승무원 침대|함선 구성품 조립소	fu_byoscrew.questtemplate.patch	If you want to ^orange;Hire Crewmates^reset; then you first need to bu	^orange;승무원 고용^reset; 을 하려면 먼저 ^green;형편없는 승무원 침대^reset; 를 건설해야 합니다. ^	AUTO
+Crappy Crew Bed	조잡한 승무원 침대	승무원 고용|형편없는 승무원 침대|함선 구성품 조립소	fu_byoscrew.questtemplate.patch	If you want to ^orange;Hire Crewmates^reset; then you first need to bu	^orange;승무원 고용^reset; 을 하려면 먼저 ^green;형편없는 승무원 침대^reset; 를 건설해야 합니다. ^	AUTO
+Lab Directory	연구소 카탈로그	실험실 디렉토리|과학 전초기지	fuquest_craftinfo.questtemplate.patch	Bring the ^orange;Lab Directory^reset; to the scientist at the ^orange	^orange;실험실 디렉토리^reset; 를 ^orange;과학 전초기지^reset;에 있는 과학자에게 가져가세요;	AUTO
+Lab Directory	연구소 카탈로그	실험실 디렉토리|과학 전초기지	fuquest_craftinfo.questtemplate.patch	Bring the ^orange;Lab Directory^reset; to the scientist at the ^orange	^orange;실험실 디렉토리^reset; 를 ^orange;과학 전초기지^reset;에 있는 과학자에게 가져가세요;	AUTO
+Protocite Bar	프로토사이트 주괴	핵분열로|프로토카이트 바	fuquest_fission.questtemplate.patch	To process advanced ores, you'll need a ^orange;Fission Furnace^reset;	고급 광석을 처리하려면 ^orange;핵분열로^reset; 이 필요합니다. 가장 강한 금속도 녹일 수 있습니다. 하지만 용광로	AUTO
+Protocite Bar	프로토사이트 주괴	핵분열로|프로토카이트 바	fuquest_fission.questtemplate.patch	To process advanced ores, you'll need a ^orange;Fission Furnace^reset;	고급 광석을 처리하려면 ^orange;핵분열로^reset; 이 필요합니다. 가장 강한 금속도 녹일 수 있습니다. 하지만 용광로	AUTO
+Bio-Chem Lab	생화학 연구실	바이오 화학 실험실	fuquest_silicon.questtemplate.patch	Now perhaps it's time you created a ^orange;Bio-Chem Lab^reset; and st	이제 ^orange;바이오 화학 실험실^reset; 을 만들어 화학의 경이로움에 대해 배울 차례입니다!	AUTO
+Bio-Chem Lab	생화학 연구실	바이오 화학 실험실	fuquest_silicon.questtemplate.patch	Now perhaps it's time you created a ^orange;Bio-Chem Lab^reset; and st	이제 ^orange;바이오 화학 실험실^reset; 을 만들어 화학의 경이로움에 대해 배울 차례입니다!	AUTO
+Honey Jar	꿀 항아리	꿀단지|꿀단지	11honeyjarrer.questtemplate.patch	The ^orange;Honey Jarrer^reset; creates ^green;Honey Jars^reset; with 	^orange;꿀단지^reset; 는 원심분리하는 빗에 따라 다른 효과를 가진 ^green;꿀단지^reset; 를 만듭니다. 	AUTO
+Honey Jar	꿀 항아리	꿀단지|꿀단지	11honeyjarrer.questtemplate.patch	The ^orange;Honey Jarrer^reset; creates ^green;Honey Jars^reset; with 	^orange;꿀단지^reset; 는 원심분리하는 빗에 따라 다른 효과를 가진 ^green;꿀단지^reset; 를 만듭니다. 	AUTO
+Bug Net	벌레잡이 그물	잡아서 양봉장 안에 풀어줘야 합니다|벌집망	4bees.questtemplate.patch	Now you need to ^green;catch a queen and a drone honey bee^reset; and 	이제 여왕벌과 드론 꿀벌을 ^green; 잡아서 양봉장 안에 풀어줘야 합니다^reset;. 이를 위해서는 ^orange;벌집망	AUTO
+Bug Net	벌레잡이 그물	잡아서 양봉장 안에 풀어줘야 합니다|벌집망	4bees.questtemplate.patch	Now you need to ^green;catch a queen and a drone honey bee^reset; and 	이제 여왕벌과 드론 꿀벌을 ^green; 잡아서 양봉장 안에 풀어줘야 합니다^reset;. 이를 위해서는 ^orange;벌집망	AUTO
+Wartweed	사마귀초	와트와인|병|효모 물|와트위드|포도 매시|발효기	2brew_d.questtemplate.patch	And now let's make some ^green;Wartwine^reset;. Combine a ^orange;Bott	이제 ^green;와트와인^reset; 을 만들어 봅시다. ^orange;병^reset;, ^orange;효모 물^reset;	AUTO
+Wartweed	사마귀초	와트와인|병|효모 물|와트위드|포도 매시|발효기	2brew_d.questtemplate.patch	And now let's make some ^green;Wartwine^reset;. Combine a ^orange;Bott	이제 ^green;와트와인^reset; 을 만들어 봅시다. ^orange;병^reset;, ^orange;효모 물^reset;	AUTO
+Wort	맥아즙	입니다!|로 가서|3개를 만드세요.|,|,|,|, 그리고	6beer.questtemplate.patch	It's ^blue;beer time^reset;! Go to your ^orange;Fermenter^reset; to ma	푸른;맥주 시간^reset; 입니다! ^orange;발효기^reset; 로 가서 ^green;맥주^reset; 3개를 만드세요	AUTO
+Wort	맥아즙	입니다!|로 가서|3개를 만드세요.|,|,|,|, 그리고	6beer.questtemplate.patch	It's ^blue;beer time^reset;! Go to your ^orange;Fermenter^reset; to ma	푸른;맥주 시간^reset; 입니다! ^orange;발효기^reset; 로 가서 ^green;맥주^reset; 3개를 만드세요	AUTO
+Science Outpost	과학 전초기지	부스터 크롭탑|케빈	create_clothingfabricator.questtemplate.patch	Bring the ^orange;Booster Croptop^reset; to ^red;Kevin^reset; at the ^	^orange;부스터 크롭탑^reset; 을 ^red;케빈^reset; 에게 가져가세요;	AUTO
+Science Outpost	과학 전초기지	부스터 크롭탑|케빈	create_clothingfabricator.questtemplate.patch	Bring the ^orange;Booster Croptop^reset; to ^red;Kevin^reset; at the ^	^orange;부스터 크롭탑^reset; 을 ^red;케빈^reset; 에게 가져가세요;	AUTO
+Plasmic Crystals	플라스믹 수정	케빈|플라즈믹 크리스탈	create_clothingfabricator3d.questtemplate.patch	Bring ^red;Kevin^reset; 20 ^orange;Plasmic Crystals^reset;.	^red;케빈^reset; 20 ^orange;플라즈믹 크리스탈^reset; 가져와.	AUTO
+Plasmic Crystals	플라스믹 수정	케빈|플라즈믹 크리스탈	create_clothingfabricator3d.questtemplate.patch	Bring ^red;Kevin^reset; 20 ^orange;Plasmic Crystals^reset;.	^red;케빈^reset; 20 ^orange;플라즈믹 크리스탈^reset; 가져와.	AUTO
+Brains	뇌	케빈|브레인	create_clothingfabricator3e.questtemplate.patch	Bring ^red;Kevin^reset; 50 ^orange;Brains^reset; of average quality.	평균 품질의 ^red;케빈^reset; 50 ^orange;브레인^reset; 을 가져오세요.	AUTO
+Brains	뇌	케빈|브레인	create_clothingfabricator3e.questtemplate.patch	Bring ^red;Kevin^reset; 50 ^orange;Brains^reset; of average quality.	평균 품질의 ^red;케빈^reset; 50 ^orange;브레인^reset; 을 가져오세요.	AUTO
+Crystalline Trophy	결정 트로피	결정의 트로피|고대 신전	scienceoutpost_gemShop.questtemplate.patch	Good day, being of carbon and flesh. I wonder if you might give aid to	좋은 하루 되세요, 탄소와 살의 존재. 이 엘드우카르에게 도움을 줄 수 있겠소? 나는 ^orange;결정의 트로피^reset;	AUTO
+Crystalline Trophy	결정 트로피	결정의 트로피|고대 신전	scienceoutpost_gemShop.questtemplate.patch	Good day, being of carbon and flesh. I wonder if you might give aid to	좋은 하루 되세요, 탄소와 살의 존재. 이 엘드우카르에게 도움을 줄 수 있겠소? 나는 ^orange;결정의 트로피^reset;	AUTO
+X'i Relic	짜'이 유물	엑스아이 유물|과학 전초기지|엑스아이 상점	scienceoutpost_radienShop.questtemplate.patch	Bring a ^orange;X'i Relic^reset; to the ^green;X'i Shop^reset; at the 	^orange;엑스아이 유물^reset; 을 ^orange;과학 전초기지^reset;에 있는 ^green;엑스아이 상점^res	AUTO
+X'i Relic	짜'이 유물	엑스아이 유물|과학 전초기지|엑스아이 상점	scienceoutpost_radienShop.questtemplate.patch	Bring a ^orange;X'i Relic^reset; to the ^green;X'i Shop^reset; at the 	^orange;엑스아이 유물^reset; 을 ^orange;과학 전초기지^reset;에 있는 ^green;엑스아이 상점^res	AUTO
+Ancient Remote	고대 리모컨	머릿속에서 목소리가 들려옵니다|고대의 리모컨	scienceoutpost_shadowShop.questtemplate.patch	<^red;A voice speaks in your head:^reset; Most upsetting. Expedition w	<^red;머릿속에서 목소리가 들려옵니다^reset; 가장 속상한 일입니다. 탐험은 실패했습니다. 고대의 원격지를 찾을 수 없	AUTO
+Ancient Remote	고대 리모컨	머릿속에서 목소리가 들려옵니다|고대의 리모컨	scienceoutpost_shadowShop.questtemplate.patch	<^red;A voice speaks in your head:^reset; Most upsetting. Expedition w	<^red;머릿속에서 목소리가 들려옵니다^reset; 가장 속상한 일입니다. 탐험은 실패했습니다. 고대의 원격지를 찾을 수 없	AUTO
+Bonemeal	골분	고급 플라스틱|사막|본밀|기름|바이오 실험실	create_plastic.questtemplate.patch	If you're going to make it as a scientist, you are going to need ^oran	과학자가 되려면 ^orange;고급 플라스틱^reset; 이 필요합니다. ^green;사막^reset; 또는 ^orange;본	AUTO
+Bonemeal	골분	고급 플라스틱|사막|본밀|기름|바이오 실험실	create_plastic.questtemplate.patch	If you're going to make it as a scientist, you are going to need ^oran	과학자가 되려면 ^orange;고급 플라스틱^reset; 이 필요합니다. ^green;사막^reset; 또는 ^orange;본	AUTO
+Powder Sifter	분말 시프터	가루 선별기|과학 전초기지	create_powdersifter.questtemplate.patch	Bring the ^orange;Powder Sifter^reset; to the scientist at the ^orange	^orange;가루 선별기^reset; 를 ^orange;과학 전초기지^reset; 의 과학자에게 가져가세요;	AUTO
+Powder Sifter	분말 시프터	가루 선별기|과학 전초기지	create_powdersifter.questtemplate.patch	Bring the ^orange;Powder Sifter^reset; to the scientist at the ^orange	^orange;가루 선별기^reset; 를 ^orange;과학 전초기지^reset; 의 과학자에게 가져가세요;	AUTO
+Advanced Xenolab	개선형 생명공학 연구소	고급 제노랩|과학 전초기지	create_advxeno.questtemplate.patch	Bring the ^orange;Advanced Xenolab^reset; to the scientist at the ^ora	^orange;고급 제노랩^reset; 을 ^orange;과학 전초기지^reset; 에 있는 과학자에게 가져가세요;	AUTO
+Advanced Xenolab	개선형 생명공학 연구소	고급 제노랩|과학 전초기지	create_advxeno.questtemplate.patch	Bring the ^orange;Advanced Xenolab^reset; to the scientist at the ^ora	^orange;고급 제노랩^reset; 을 ^orange;과학 전초기지^reset; 에 있는 과학자에게 가져가세요;	AUTO
+Atmosphere Regulator	대기 조절기	대기 조절 장치|과학 전초기지	create_atmosregulator.questtemplate.patch	Bring the ^orange;Atmosphere Regulator^reset; to the scientist at the 	^orange;대기 조절 장치^reset; 를 ^orange;과학 전초기지^reset; 에 있는 과학자에게 가져다주세요;	AUTO
+Atmosphere Regulator	대기 조절기	대기 조절 장치|과학 전초기지	create_atmosregulator.questtemplate.patch	Bring the ^orange;Atmosphere Regulator^reset; to the scientist at the 	^orange;대기 조절 장치^reset; 를 ^orange;과학 전초기지^reset; 에 있는 과학자에게 가져다주세요;	AUTO
+Fission Reactor	원자력 반응로	핵분열 반응기|과학 전초기지	create_fission.questtemplate.patch	Bring the ^orange;Fission Reactor^reset; to the scientist at the ^oran	^orange;핵분열 반응기^reset; 를 ^orange;과학 전초기지^reset; 에 있는 과학자에게 가져가세요;	AUTO
+Fission Reactor	원자력 반응로	핵분열 반응기|과학 전초기지	create_fission.questtemplate.patch	Bring the ^orange;Fission Reactor^reset; to the scientist at the ^oran	^orange;핵분열 반응기^reset; 를 ^orange;과학 전초기지^reset; 에 있는 과학자에게 가져가세요;	AUTO
+Tinkering Table	땜장이의 테이블	땜장이 테이블|채굴 레이저	start_basics5.questtemplate.patch	Craft a ^green;Mining Laser^reset; at a ^orange;Tinkering Table^reset;	^orange;땜장이 테이블^reset; 에서 ^green;채굴 레이저^reset; 를 제작하고 돌아오세요.	AUTO
+Tinkering Table	땜장이의 테이블	땜장이 테이블|채굴 레이저	start_basics5.questtemplate.patch	Craft a ^green;Mining Laser^reset; at a ^orange;Tinkering Table^reset;	^orange;땜장이 테이블^reset; 에서 ^green;채굴 레이저^reset; 를 제작하고 돌아오세요.	AUTO
+Throwing Spear	투척 창	활|투창|사냥용 라이플|생고기	bonespear.questtemplate.patch	You can also hunt using ^orange;Bows^reset; or ^orange;Throwing Spears	^orange;활^reset; 또는 ^orange;투창^reset;, ^orange;사냥용 라이플^reset;을 사용해 사냥할	AUTO
+Throwing Spear	투척 창	활|투창|사냥용 라이플|생고기	bonespear.questtemplate.patch	You can also hunt using ^orange;Bows^reset; or ^orange;Throwing Spears	^orange;활^reset; 또는 ^orange;투창^reset;, ^orange;사냥용 라이플^reset;을 사용해 사냥할	AUTO
+Research	연구	전자 센터|리서치|전자제품	create_electronics.questtemplate.patch	Now that you have a firm concept of how to use your well-earned resour	이제 획득한 자원을 사용하는 방법에 대한 확실한 개념이 생겼으니, 이제 좀 더 두뇌를 써볼 차례일까요? 먼저 ^orange;전	AUTO
+Research	연구	전자 센터|리서치|전자제품	create_electronics.questtemplate.patch	Now that you have a firm concept of how to use your well-earned resour	이제 획득한 자원을 사용하는 방법에 대한 확실한 개념이 생겼으니, 이제 좀 더 두뇌를 써볼 차례일까요? 먼저 ^orange;전	AUTO
+Hunting Rifle	사냥용 라이플	캠프파이어|활|사냥창|사냥용 창|사냥 소총	fuquest_farming2.questtemplate.patch	When you're starving, you have some options. A ^orange;Campfire^reset;	굶주릴 때는 몇 가지 선택지가 있습니다. ^orange;캠프파이어^reset; 을 사용하면 고기를 익힐 수 있습니다. 빠르지만	AUTO
+Hunting Rifle	사냥용 라이플	캠프파이어|활|사냥창|사냥용 창|사냥 소총	fuquest_farming2.questtemplate.patch	When you're starving, you have some options. A ^orange;Campfire^reset;	굶주릴 때는 몇 가지 선택지가 있습니다. ^orange;캠프파이어^reset; 을 사용하면 고기를 익힐 수 있습니다. 빠르지만	AUTO
+Hand Mill	핸드 밀	가축 사료|옥수수|손 방앗간|먹이 테이블|여물통	fuquest_farming4.questtemplate.patch	^green;Livestock^reset; grow a whole lot faster when you toss them som	^green;가축 사료^reset; 을 던져주면 훨씬 더 빨리 자랄 수 있습니다. ^orange;옥수수^reset; 를 ^or	AUTO
+Hand Mill	핸드 밀	가축 사료|옥수수|손 방앗간|먹이 테이블|여물통	fuquest_farming4.questtemplate.patch	^green;Livestock^reset; grow a whole lot faster when you toss them som	^green;가축 사료^reset; 을 던져주면 훨씬 더 빨리 자랄 수 있습니다. ^orange;옥수수^reset; 를 ^or	AUTO
+Mechanic's Wrench	정비공 렌치	발전기|나무 또는 석탄|물질 조작기|배선|정비공의 렌치	fuquest_powergeneration1.questtemplate.patch	An ^orange;Alternator^reset; provides you with power. To fuel it, you'	^orange;발전기^reset;은 전력을 공급합니다. 연료를 공급하려면 ^green;나무 또는 석탄^reset; 이 필요합니	AUTO
+Mechanic's Wrench	정비공 렌치	발전기|나무 또는 석탄|물질 조작기|배선|정비공의 렌치	fuquest_powergeneration1.questtemplate.patch	An ^orange;Alternator^reset; provides you with power. To fuel it, you'	^orange;발전기^reset;은 전력을 공급합니다. 연료를 공급하려면 ^green;나무 또는 석탄^reset; 이 필요합니	AUTO
+Nitori Industries Crewship Entrance	니토리 인더스트리 승무원 함선 입구		gicexp_nt_ship_marker.questtemplate.patch	For some technical issue, Bookmark of the Nitori Industries Crewship j	"기술 문제로 니토리 인더스트리 크루십 북마크 작동 안 해.
+임시 해결:x⑨ 니토리 인더스트리 크루십 입구"	AUTO
+Nitori Industries Crewship Entrance	니토리 인더스트리 승무원 함선 입구		gicexp_nt_ship_marker.questtemplate.patch	For some technical issue, Bookmark of the Nitori Industries Crewship j	"기술 문제로 니토리 인더스트리 크루십 북마크 작동 안 해.
+임시 해결:x⑨ 니토리 인더스트리 크루십 입구"	AUTO
+High Magus	상급 마법사	글림레쿠스|그 탑에 사는 대마법사, 빈더밀|둘은 은하 지도로 거기에 갈 수 있다	mwhaddon_quests_chapter2_0_1.questtemplate.patch	^green;Glimmlecus^reset; is a municipality of wizards and magicians, c	^green;글림레쿠스^reset;는 마법사와 마술사들의 도시로, 글림레쿠스 호수 한가운데 있는 거대한 탑이 특징이다. 그리고	AUTO
+High Magus	상급 마법사	책장|그것을 조작하면 하수구로 가는 길이 열리며, 거기서 글림레쿠스 탑으로 들어갈 수 있다	mwhaddon_quests_chapter2_0_4.questtemplate.patch	Senseless. There is a ^orange;bookshelf^reset; in the room ahead. ^gre	무의미함. 앞쪽 방에 ^orange;책장^reset;이 있다. ^green;그것을 조작하면 하수구로 가는 길이 열리며, 거기서	AUTO
+Big Ape	빅 에이프		fu_t10_apex_mission2.questtemplate.patch	Next on da list, smacking da monkey. Okay, not that kind. Go kill a Bi	다음은 원숭이 때리기입니다. 좋아, 그런 거 말고 가서 유인원을 죽이세요.	AUTO
+Big Ape	빅 에이프		fu_t10_apex_mission2.questtemplate.patch	Next on da list, smacking da monkey. Okay, not that kind. Go kill a Bi	다음은 원숭이 때리기입니다. 좋아, 그런 거 말고 가서 유인원을 죽이세요.	AUTO
+Missile Rack	미사일 랙	미사일 포대 무기|메카 부품 제작대|설계도	mechupgrade1.questtemplate.patch	These parts are enough for me to finish my new ^orange;Missile Rack ar	이 정도면 내 새로운 ^orange;미사일 포대 무기^white;을 완성할 수 있을 것 같아! 감사의 표시로, ^green;메	AUTO
+Missile Rack	미사일 랙	미사일 포대 무기|메카 부품 제작대|설계도	mechupgrade1.questtemplate.patch	These parts are enough for me to finish my new ^orange;Missile Rack ar	이 정도면 내 새로운 ^orange;미사일 포대 무기^white;을 완성할 수 있을 것 같아! 감사의 표시로, ^green;메	AUTO
+Old Television	오래된 텔레비전	기본적인 TV|하나 찾아줄 수 있겠습니까	museumcurator5.questtemplate.patch	My museum's almost complete! And I think Nuru might actually be coming	제 박물관이 거의 완성되고 있습니다! 그리고 누루도 관심을 보이기 시작하는 것 같더군요. 저는 인류 전시관에 잘 맞을 것 같은	AUTO
+Old Television	오래된 텔레비전	기본적인 TV|하나 찾아줄 수 있겠습니까	museumcurator5.questtemplate.patch	My museum's almost complete! And I think Nuru might actually be coming	제 박물관이 거의 완성되고 있습니다! 그리고 누루도 관심을 보이기 시작하는 것 같더군요. 저는 인류 전시관에 잘 맞을 것 같은	AUTO
+The Outpost	전초기지		outpostclue.questtemplate.patch	The Outpost is a wonderful, vibrant place full of curiosities. There's	아웃포스트는 놀랍고도, 신기한 것이 많은 활기찬 곳이란다. 아직도 볼 것이 많지!	AUTO
+The Outpost	전초기지		outpostclue.questtemplate.patch	The Outpost is a wonderful, vibrant place full of curiosities. There's	아웃포스트는 놀랍고도, 신기한 것이 많은 활기찬 곳이란다. 아직도 볼 것이 많지!	AUTO
+Kestrel License	케스트렐 자격증	방문 펭귄 피트|업그레이드 모듈 2개	shipupgrade2.questtemplate.patch	You have four crew members! With a crew this size, you now qualify for	승무원이 네 명입니다! 이 정도 규모의 승무원이 있으면 이제 황조롱이 면허를 받을 자격이 있습니다. 축하합니다! ^green;	AUTO
+Kestrel License	케스트렐 자격증	방문 펭귄 피트|업그레이드 모듈 2개	shipupgrade2.questtemplate.patch	You have four crew members! With a crew this size, you now qualify for	승무원이 네 명입니다! 이 정도 규모의 승무원이 있으면 이제 황조롱이 면허를 받을 자격이 있습니다. 축하합니다! ^green;	AUTO
+Stimulant Rig	각성제 장비	! 이 장비는	speedbootsweak.questtemplate.patch	Using what I've learned from research, I have devised a new tech. The 	연구를 통해 배운 것을 바탕으로 새로운 기술을 고안해냈어요. 주황색 자극제 장비^reset;! 이 장비는 ^red;안전하지 않	AUTO
+Stimulant Rig	각성제 장비	! 이 장비는	speedbootsweak.questtemplate.patch	Using what I've learned from research, I have devised a new tech. The 	연구를 통해 배운 것을 바탕으로 새로운 기술을 고안해냈어요. 주황색 자극제 장비^reset;! 이 장비는 ^red;안전하지 않	AUTO
+Light	빛		esc_corporatekappaquest.questtemplate.patch	"What you do from here on out is up to you.
+
+^orange;[Light Sprint] can"	"이제부터 무엇을 할지는 당신에게 달렸습니다.
+
+^orange;이제 [가벼운 질주]는 A 또는 D를 두 번 눌러 발동할 수 있습"	REVIEW
+Light	빛		esc_equipmentcheckup_moonrabbitquest.questtemplate.patch	"What you do from here on out is up to you.
+
+^orange;[Light Sprint] can"	"이제부터 무엇을 할지는 당신에게 달렸습니다.
+
+^orange;이제 [가벼운 질주]는 A 또는 D를 두 번 눌러 발동할 수 있습"	REVIEW
+Legion	리전		gic_chapter2_bossrush_afflicted.questtemplate.patch	Obtain: Living Erchius Sample and Erchius Legion Helmet (kill Leech an	획득: 살아있는 에르키우스 샘플과 에르키우스 군단 헬멧 (리치와 군단 처치).^orange;[완료 시: 포털 연구소에서 리치와	REVIEW
+Legion	리전		gic_chapter2_bossrush_afflicted.questtemplate.patch	[Leech and Legion can now be replayed via the Portal Lab]	[리치와 군단은 이제 포털 연구소에서 다시 플레이할 수 있습니다]	REVIEW
+Sign	표지		gic_chapter2_bossrush_astraltemple.questtemplate.patch	"Obtain: Wolf-Knight's Sign-Spear (kill Knight of Nights).
+
+^orange;[Up"	획득: 늑대 기사 표식 창 (밤의 기사 처치).^orange;[완료 시: 포털 연구소에서 밤의 기사 보스 러시 리플레이 잠금 	REVIEW
+Sign	표지		gic_tylian_bossrush_astraltemple.questtemplate.patch	"Obtain: Wolf-Knight's Sign-Spear (kill Knight of Nights).
+
+^orange;[Up"	"획득: 늑대-기사의 표창 (밤의 기사 처치).
+
+^orange;[완료 시: 바자에서 밤의 기사 보스 러시 리플레이 해금]"	REVIEW
+Crusader	십자군		gic_chapter2_bossrush_crusade.questtemplate.patch	Obtain: Glitch-Hunter Foil and Crusader Champion's Helmet (kill Glitch	획득: 글리치 헌터 포일과 성전사 챔피언 헬멧 (글리치 헌터 대장과 성전사 챔피언 처치).^orange;[완료 시: 포털 연구	REVIEW
+Crusader	십자군		gic_chapter2_bossrush_crusade.questtemplate.patch	[Glitch-Hunter Captain and Crusader Champion can now be replayed via t	[글리치 헌터 대장과 성전사 챔피언은 이제 포털 연구소에서 다시 플레이할 수 있습니다]	REVIEW
+Iron	철		clue_items.config.patch	"<bounty.name>'s To-do List
+
+ª Iron uniform
+
+ª Make salad for tomorrow'"	"<bounty.name>의 할 일 목록
+
+1. 옷 다림질하기
+
+2. 내일 점심으로 먹을 샐러드 만들기
+
+3. 우유랑 달걀 사기"	REVIEW
+Iron	철		clue_items.config.patch	"<bounty.name>'s To-do List
+
+ª Iron uniform
+
+ª Make salad for tomorrow'"	"<bounty.name>의 할 일 목록
+
+1. 옷 다림질하기
+
+2. 내일 점심으로 먹을 샐러드 만들기
+
+3. 우유랑 달걀 사기"	REVIEW
+Notice	통지서	은신처	clue_items.config.patch	"Important Notice!
+
+Lackeys are requested to stop writing down the vaul"	"중요한 공지사항!
+
+부하들은 종이에 금고 암호를 적어두지 말 것!
+이건 심각한 보안 취약점이고, 매우 귀중한 종이 낭비임!
+
+"	REVIEW
+Notice	통지서	은신처	clue_items.config.patch	"Important Notice!
+
+Lackeys are requested to stop writing down the vaul"	"중요한 공지사항!
+
+부하들은 종이에 금고 암호를 적어두지 말 것!
+이건 심각한 보안 취약점이고, 매우 귀중한 종이 낭비임!
+
+"	REVIEW
+Wheel	바퀴	부스터 크롭탑|재봉틀	create_clothingfabricator.questtemplate.patch	I need to remind someone they aren't young and attractive anymore. Can	더 이상 젊고 매력적이지 않다는 걸 상기시켜주고 싶어요. ^orange;부스터 크롭탑^reset; 을 만들어서 우편으로 보낼 	REVIEW
+Wheel	바퀴	부스터 크롭탑|재봉틀	create_clothingfabricator.questtemplate.patch	I need to remind someone they aren't young and attractive anymore. Can	더 이상 젊고 매력적이지 않다는 걸 상기시켜주고 싶어요. ^orange;부스터 크롭탑^reset; 을 만들어서 우편으로 보낼 	REVIEW
+Crystal	수정	얼음 결정|과학 전초기지|과학자	create_icecrystal.questtemplate.patch	Bring the ^orange;Ice Crystal^reset; to the ^green;scientist^reset; at	^orange;얼음 결정^reset; 을 ^orange;과학 전초기지^reset; 1층에 있는 ^green;과학자^reset;	REVIEW
+Crystal	수정	얼음 결정|과학 전초기지|과학자	create_icecrystal.questtemplate.patch	Bring the ^orange;Ice Crystal^reset; to the ^green;scientist^reset; at	^orange;얼음 결정^reset; 을 ^orange;과학 전초기지^reset; 1층에 있는 ^green;과학자^reset;	REVIEW
+Glitch	글리치	암흑 남작의 성채|유물	fu_t10_glitch_mission2.questtemplate.patch	Find the ^orange;artifact^reset; in the ^orange;Dark Glitch keep^reset	^orange;암흑 남작의 성채^reset;에서 ^orange;유물^reset;을 찾으세요	REVIEW
+Glitch	글리치	암흑 남작의 성채|유물	fu_t10_glitch_mission2.questtemplate.patch	Find the ^orange;artifact^reset; in the ^orange;Dark Glitch keep^reset	^orange;암흑 남작의 성채^reset;에서 ^orange;유물^reset;을 찾으세요	REVIEW
+Ce'Tennan Oculus	세테난 오쿨루스		oculusshieldcore.item.patch	A shield generator stripped from a Ce'Tennan Oculus drone.	체텐난 오큘러스 드론에서 뜯어낸 실드 발생기.	AUTO
+Wood Materials	목재 자재	아이몬에게 나무 재료 100개를 가져오세요.	gic_garden_newrijika_trade_smithy.questtemplate.patch	''Hey mate, you got a moment? Name's Imon. Got a nasty arm sprain few 	''이봐, 시간 좀 있나? 이름은 아이몬이야. 며칠 전 팔을 심하게 삐어서 한동안 일을 못 해. 짐 나르는 건 무리지. 일주일	AUTO
+RAID: Behemoth Train	레이드: 거수 열차		gic_khurtovyna_rundown_trainraids.questtemplate.patch	Unlocks RAID: Behemoth Train - Repeatable, high-risk raid of a Republi	레이드 해금: 베히모스 열차 - 반복 가능한 고위험 레이드로, 공화국 베히모스 열차를 상대한다. 단, 사망 시 아이템을 영구적	AUTO
+Restaurant Stool	식당 의자	획득: 레스토랑 의자 6개, 레스토랑 테이블 3개, 장식 샹들리에 6개, 장식 유리문 1개.	gic_mystialorelei_restaurantimprovementquest.questtemplate.patch	"[Lorelei wants to ask you for something.]
+
+^orange;Obtain: 6x Restaura"	"[로렐라이가 뭔가 부탁하고 싶어 한다.]
+
+^orange;획득: 레스토랑 의자 6개, 레스토랑 테이블 3개, 장식 샹들리에 6"	AUTO
+Restaurant Table	식당 탁자	획득: 레스토랑 의자 6개, 레스토랑 테이블 3개, 장식 샹들리에 6개, 장식 유리문 1개.	gic_mystialorelei_restaurantimprovementquest.questtemplate.patch	"[Lorelei wants to ask you for something.]
+
+^orange;Obtain: 6x Restaura"	"[로렐라이가 뭔가 부탁하고 싶어 한다.]
+
+^orange;획득: 레스토랑 의자 6개, 레스토랑 테이블 3개, 장식 샹들리에 6"	AUTO
+The Ruin	루인	유적|강력한 연료|울트로늄 봉 10개	human_mission2_tws3_2.questtemplate.patch	There we go. The machine to negate pathogenic influence of ^red; The R	좋아요. ^red;유적^reset;의 병원성 영향을 막는 기계가 준비됐어요. 그곳에 있는 동안 어디로 얼마나 깊이 가든 보호해	AUTO
+Ancient Gate	고대 차원문		gic_ancientgate_choice.questtemplate.patch	The Ancient Gate grants you a choice. You can either make for the nano	고대 문이 당신에게 선택을 부여합니다. 나노 우주선 수리 키트(GiC - 왼쪽)로 향하거나 고대 문을 통해 나아갈 수 있습니다	AUTO
+Aphrodite's Retreat	아프로디테 휴양지	아프로디테의 휴양지가|아프로디테의 은신처	aphroditesintro.questtemplate.patch	Greetings! We don't normally have many visitors, but I sense that you 	안녕하세요! 저희는 보통 방문객이 많지 않지만, 당신이 ^orange;아프로디테의 휴양지가^reset;를 가지고 있다는 게 느	AUTO
+Celestial Corridors	천상 회랑	천상의 회랑|스캔	arcana_quests_ankhu_mwhaddon_12.questtemplate.patch	It's said that some mysterious weapon prototypes are hidden in those ^	저 ^green;천상의 회랑^reset;에 수수께끼의 무기 시제품이 숨겨져 있다는 얘기가 있다. 그저 누군가 그걸 발견해주기만	AUTO
+Raw Dustrium	생 더스트리움		arcana_quests_ankhu_mwhaddon_8.questtemplate.patch	So that's how a Raw Dustrium looks like. With this maybe I can figure 	그러니까 원석 더스트리움이 저렇게 생겼구나. 이걸로 E.C.O.가 어떻게 작동하는지 알아낼 수 있을지도 몰라.	AUTO
+The Seeker Trial	탐구자의 시련	시커 시험.	arcana_seeker_1_mission.questtemplate.patch	To become a Seeker, you'd usually have to pass a series of tests and b	시커가 되려면 보통 일련의 시험과 신원 조회를 통과해야 한다... 하지만 네 특별한 상황을 고려해 기말 시험으로 바로 보내주겠	AUTO
+Seeker Trial	추격자 시련	카민|탐구자의 시련	arcana_seeker_1_mission.questtemplate.patch	Talk to ^orange;Carmine^reset; to begin the ^orange;Seeker Trial^reset	^orange;카민^reset;에게 말을 걸어 ^orange;탐구자의 시련^reset;을 시작하세요	AUTO
+Elder Armor Stand	장로 갑옷 거치대	장로의 갑옷 거치대|글리치 신도|재로 뒤덮인 행성	atprk_relicsearchquest1.questtemplate.patch	Could you help us with our research? We're lookin' for a few notable K	저희 연구를 도와주실 수 있나요? 저희는 눈에 띄는 크라코스 유물 몇 점을 찾고 있어요. 그중 첫 번째는 ^green;장로의 	AUTO
+Elite Drahl	엘리트 드랄		avikangunrangeunlock.questtemplate.patch	Well done, I hear that the violated Elite Drahl has been eliminated. P	잘했네, 유린당한 정예 드랄이 처치됐다고 들었네. 이 보안 카드를 받게; 사격장 문을 열 수 있을 걸세.	AUTO
+Superb Kavanite Plate	최고급 카바나이트 판금	최상급 카바나이트 판 최소 8개|드라나이트 판 하나|아비칸 탄창 하나|휘발성 액체|그 재료들을 가져다주면	avikanmissilepod2.questtemplate.patch	In order to repair that missile pod of yours, I need some materials. I	네 미사일 포드를 수리하려면, 재료가 좀 필요해. 새 프레임을 제작할 ^orange;최상급 카바나이트 판 최소 8개 ^whit	AUTO
+Grand Monster Bone	거대 몬스터 뼈	케프라이더의 창|성체 팝톱을 사냥해서	keffrider2.questtemplate.patch	Keffriders are vital to the defence of our clans. Use the ^orange;Keff	케프라이더는 우리 부족의 방어에 필수적이다. 내가 준 ^orange;케프라이더의 창^white;을 사용해 ^green;성체 팝	AUTO
+Roi Huntstang - Fire Alchemist	로이 헌트스탕 - 화염 연금술사	로이 헌트스탱 - 불의 연금술사|사냥 변환 석판|암탉 알 10개|사냥 EMC 60,000	EES_hunttransmutationtablet_2.questtemplate.patch	Concentrated. I have an old text written by the long forgotten alchemi	집중. 오래전에 잊힌 연금술사 ^orange;로이 헌트스탱 - 불의 연금술사^reset;가 쓴 오래된 글이 있습니다. ^ora	AUTO
+Controllable Sprint	제어형 질주		esc_sprint_assaultquest.questtemplate.patch	^orange;[Controllable Sprint] unlocked and equipped as a [CHEST Tech]	^orange;[제어 가능한 전력질주] 해금되어 [가슴 테크]로 장착됨	AUTO
+Armory	무기고	FFS	ffs_episode_0_6_sub_1.questtemplate.patch	^red;FFS ^green;EP.0 - Sub ^White;Armory	^red;FFS ^green;EP.0 - 서브 ^White;병기고	AUTO
+Para	파라	FFS	ffs_episode_2_12.questtemplate.patch	^red;FFS ^green;EP.2 - Main ^White;Para bellum!	^red;FFS ^green;EP.2 - 메인 ^White;전쟁 준비!	AUTO
+Tiny Wall Button	초소형 벽 버튼	실리콘 보드, 소형 배터리, 구리 전선, 텅스텐 막대, 작은 벽 버튼|(실리콘 보드 1개, 소형 배터리 2개, 구리 전선 5개, 텅스텐 막대 3	miscmerchant1.questtemplate.patch	I have this old project I have had for a while, but never had the mate	예전부터 진행하던 프로젝트가 있는데, 완성할 재료가 없었어. ^orange;실리콘 보드, 소형 배터리, 구리 전선, 텅스텐 막	AUTO
+Tungsten Bar	텅스텐 주괴	실리콘 보드, 소형 배터리, 구리 전선, 텅스텐 막대, 작은 벽 버튼|(실리콘 보드 1개, 소형 배터리 2개, 구리 전선 5개, 텅스텐 막대 3	miscmerchant1.questtemplate.patch	I have this old project I have had for a while, but never had the mate	예전부터 진행하던 프로젝트가 있는데, 완성할 재료가 없었어. ^orange;실리콘 보드, 소형 배터리, 구리 전선, 텅스텐 막	AUTO
+Copper Wire	구리 선	실리콘 보드, 소형 배터리, 구리 전선, 텅스텐 막대, 작은 벽 버튼|(실리콘 보드 1개, 소형 배터리 2개, 구리 전선 5개, 텅스텐 막대 3	miscmerchant1.questtemplate.patch	I have this old project I have had for a while, but never had the mate	예전부터 진행하던 프로젝트가 있는데, 완성할 재료가 없었어. ^orange;실리콘 보드, 소형 배터리, 구리 전선, 텅스텐 막	AUTO
+Healing Water	회복수	치유수, 기름, 슬라임, 코코넛 밀크|(치유수 5개, 기름 10개, 액체 슬라임 3개, 코코넛 밀크 1개 전달.)	miscmerchant3.questtemplate.patch	With the ever-increasing amount of sexual relations in this town, lubr	이 마을의 성관계가 계속 늘어나서 윤활제 수요가 높은데, 재료가 떨어지고 있어. ^orange;치유수, 기름, 슬라임, 코코넛	AUTO
+Raw Steak	스테이크	생고기랑 밀|(생고기 5개와 밀 5개 배달.)	monstermerchant1.questtemplate.patch	I can't leave the store, otherwise the animals will run free! Can you 	가게를 비울 수 없어, 안 그러면 동물들이 도망칠 거야! ^orange;생고기랑 밀^reset; 좀 구해다 줄 수 있어, 그래	AUTO
+Iron Bar	철 주괴	아주 기본적인 재료|(통나무 50개, 조약돌 50개, 철괴 25개, 유리 25개를 전달하세요.)	objectmerchant3.questtemplate.patch	Perfect! Now, all I need is some ^orange;very basic materials^reset; s	완벽해! 이제, 판매할 다른 모든 것을 만들려면 ^orange;아주 기본적인 재료^reset;만 있으면 돼. ^green;(통	AUTO
+Synthetic Material	인공 재료	실크, 합성 소재, 캔버스, 그리고 실 잔뜩|(실크 5개, 합성 소재 5개, 캔버스 5개, 실 15개 배달.)	outfitmerchant1.questtemplate.patch	I ran out of materials for sewing undergarments, could you go get me s	속옷 바느질용 재료가 다 떨어졌는데, ^orange;실크, 합성 소재, 캔버스, 그리고 실 잔뜩^reset;을 좀 구해다 줄 	AUTO
+Yellow Dye	노란색 염료	빨강, 파랑, 노랑 염료랑 염료 제거제|(빨강 염료 3개, 파랑 염료 3개, 노랑 염료 3개, 염료 제거제 5개를 가져다줘.)	outfitmerchant3.questtemplate.patch	My thread lacks a certain je ne sais quoi, I bet some color could fix 	내 실에는 뭔가 부족한 느낌이 있어, 색을 좀 넣으면 확실히 나아질 것 같아! ^orange;빨강, 파랑, 노랑 염료랑 염료 	AUTO
+Blue Dye	파란색 염료	빨강, 파랑, 노랑 염료랑 염료 제거제|(빨강 염료 3개, 파랑 염료 3개, 노랑 염료 3개, 염료 제거제 5개를 가져다줘.)	outfitmerchant3.questtemplate.patch	My thread lacks a certain je ne sais quoi, I bet some color could fix 	내 실에는 뭔가 부족한 느낌이 있어, 색을 좀 넣으면 확실히 나아질 것 같아! ^orange;빨강, 파랑, 노랑 염료랑 염료 	AUTO
+Red Dye	빨간색 염료	빨강, 파랑, 노랑 염료랑 염료 제거제|(빨강 염료 3개, 파랑 염료 3개, 노랑 염료 3개, 염료 제거제 5개를 가져다줘.)	outfitmerchant3.questtemplate.patch	My thread lacks a certain je ne sais quoi, I bet some color could fix 	내 실에는 뭔가 부족한 느낌이 있어, 색을 좀 넣으면 확실히 나아질 것 같아! ^orange;빨강, 파랑, 노랑 염료랑 염료 	AUTO
+Seeker of Dust	먼지 탐구자	하얀 폐허|더스트의 탐구자|여성|호라이즌	mwhaddon_quests_chapter1_1_2.questtemplate.patch	The ^green;white ruins^reset; are likely to be remanets of a lost loca	^green;하얀 폐허^reset;는 사라진 현지 문명의 잔재일 가능성이 높다. 고대 유적과 마주치는 게 이상하긴 해도, 다른	AUTO
+Galactic Atlas	갤럭틱 아틀라스	은하 지도|글림레쿠스	mwhaddon_quests_chapter2_0_1.questtemplate.patch	Visit ^orange;Glimmlecus^reset; through your ^green;Galactic Atlas^res	샐리와 함께 ^green;은하 지도^reset;를 통해 ^orange;글림레쿠스^reset; 방문	AUTO
+entrance of the sewer	하수구 입구		mwhaddon_quests_chapter2_0_4.questtemplate.patch	Find the entrance of the sewer	하수도 입구 찾기	AUTO
+Steadily Flight	꾸준 비행		mwhaddon_quests_arcana_vendor_8_tech_2.questtemplate.patch	...Great! I call it Steadily Flight. Despite the name, its just a high	...좋아! 안정 비행이라고 이름 붙였어. 이름은 그렇지만, 사실 고도로 배열된 나노머신 집합일 뿐이야... 음, 공중에서 일	AUTO
+Mind	정신	호라이즌이 비슷한 기술을 가지고 있다고|테크 카드	mwhaddon_quests_arcana_vendor_8_tech_3.questtemplate.patch	...And speaking of nanomachines. I wonder whether I can create a tech 	...나노머신 얘기가 나와서 말인데. 나노머신으로 사용자를 치료하고 보호하는 기술을 만들 수 있을지 궁금해. ^green;호라	AUTO
+Academician's Table	학자의 탁자	아카데미션의 작업대|기본 테크 제작대|선반|버너|증기 발생기|제대로 된 동력원	mwhaddon_quests_automation_3.questtemplate.patch	Now it's time to get started. Make a ^#bbbdce;Basic Tech Station^reset	이제 시작할 시간이다. ^#3ec7dd;아카데미션의 작업대^reset;에서 ^#bbbdce;기본 테크 제작대^reset;을 만	AUTO
+Elemental Heart	엘리멘탈 하트	정령의 심장|이것|하지만 적어도 알 수 없는 이유로 무해한 주스를 만들어내긴 해요.	mwhaddon_quests_npc_glimmlecus_marina_3.questtemplate.patch	The ^yellow;Elemental Heart^reset; you gave me has transformed into ^g	당신이 준 ^yellow;정령의 심장^reset;이 ^green;이것^reset;으로 변해버렸어요! 정말 죄송해요! 변형을 되	AUTO
+Relic Rebuilder	유물 재건기	렐릭 리빌더	mwhaddon_quests_npc_lighthaven_japera_2.questtemplate.patch	If I have multiple relics, Japera can use this ^orange;Relic Rebuilder	유물이 여러 개 있으면, 자페라가 이 ^orange;렐릭 리빌더^reset;를 이용해서 한 유물의 특전을 다른 유물로 옮겨줄 	AUTO
+Oh no!	이런!		neb-narthexobtain.questtemplate.patch	Oh no! You lost the scroll! I will go find it, come back to me if you 	오 안 돼! 두루마리를 잃어버렸구나! 내가 가서 찾아볼 테니, 다시 시도하고 싶으면 돌아와.	AUTO
+The monster	더 몬스터	죽어가는 항성	novaarenaquest.questtemplate.patch	The monsters you fought had just the energy I suspected, and defeating	네가 싸운 괴물들은 내가 예상한 바로 그 에너지를 지녔어. 물리치면 ^magenta;죽어가는 항성^reset;을 얻을 수 있을	AUTO
+Aimable Dash	조준 대시		v-aimabledashtrigger.questtemplate.patch	You have unlocked the Aimable Dash.	조준형 대시를 해금했다.	AUTO
+Storage Manipulator	보관 조작기	보관함 조작기|파일 캐비닛|64	EnhancedStorage2.questtemplate.patch	Now that you've learned how to make new containers, I want to show you	이제 새 컨테이너 만드는 법을 배웠으니, 내 왼쪽에 있는 ^green;보관함 조작기^white;의 기능을 보여주고 싶다. 이 	AUTO
+Celestial Essence	천상 정수	천상의 정수 45개	angelflighttech.questtemplate.patch	Fellow Angel, you look...injured. Were you the one who survived the Ru	"동료 천사여, 당신... 다쳤군요. 루인의 공격에서 살아남은 게 당신이었나요..? 정말 미안해요...
+영광스러운 비행의 힘을 "	AUTO
+Holy Power	신성 힘	천상의 정수 45개	angelflighttech.questtemplate.patch	Fellow Angel, you look...injured. Were you the one who survived the Ru	"동료 천사여, 당신... 다쳤군요. 루인의 공격에서 살아남은 게 당신이었나요..? 정말 미안해요...
+영광스러운 비행의 힘을 "	AUTO
+Tech Console	기술 콘솔	러브 스피어 테크	techscientist_lovesphere.questtemplate.patch	Excellent! The ^pink;Love Sphere Tech^white; is done. As I promised, n	훌륭해! ^pink;러브 스피어 테크^white;가 완성됐어. 약속한 대로, 이제 테크 콘솔로 너도 설치할 수 있어.	AUTO
+Love Sphere	사랑의 구체	러브 스피어 테크	techscientist_lovesphere.questtemplate.patch	Excellent! The ^pink;Love Sphere Tech^white; is done. As I promised, n	훌륭해! ^pink;러브 스피어 테크^white;가 완성됐어. 약속한 대로, 이제 테크 콘솔로 너도 설치할 수 있어.	AUTO
+Rare Raw Fish	희귀 생선	희귀한 생선|7000 픽셀	scp_fishersguildquest_rawfishrare.questtemplate.patch	I'm tired of eating ordinary fish. There's ^yellow;7000 pixels^white; 	평범한 물고기 먹는 것도 이제 지겨워. 희귀한 물고기를 잡아서 ^orange;희귀한 생선^white;을 가져다주면 ^yello	AUTO
+Uncommon Raw Fish	고급 생선회	희귀 생선|3500픽셀	scp_fishersguildquest_rawfishuncommon.questtemplate.patch	I want you to get something for me. There's ^yellow;3500 pixels^white;	네가 나 대신 뭔가 좀 가져다줬으면 해. 흔치 않은 물고기를 잡아서 ^orange;희귀 생선^white;을 나한테 가져다주면 	AUTO
+Raw Poultry	가금류 고기	날 가금류 10개|4,000 픽셀	scp_huntersguildquest_rawpoultry.questtemplate.patch	You look like a promising hunter. Go and use a hunting weapon to gathe	유망한 사냥꾼처럼 보이네. 가서 사냥 무기로 ^orange;날 가금류 10개^white;를 모아오게. 성공하면 ^yellow;	AUTO
+Raw Ribs	갈비살	생갈비 10개|4,000 픽셀	scp_huntersguildquest_rawribmeat.questtemplate.patch	You look like a promising hunter. Go and use a hunting weapon to gathe	유망한 사냥꾼처럼 보이네. 가서 사냥 무기로 ^orange;생갈비 10개^white;를 모아오게. 성공하면 ^yellow;4,	AUTO
+Static Cell	정적 세포	정전기 셀 30개|12500 픽셀|테라마트|전기 플루팔로 알	scp_huntersguildquest_staticcell.questtemplate.patch	Can you get me ^orange;30 Static Cells^white;? I'll pay you ^yellow;12	^orange;정전기 셀 30개^white;를 구해다 주실 수 있나요? ^yellow;12500 픽셀^white;을 드릴게요.	AUTO
+Venom Sample	맹독 샘플	독액 표본 30개|12500 픽셀|테라마트|독성 플루팔로 알	scp_huntersguildquest_venomsample.questtemplate.patch	Can you get me ^orange;30 Venom Samples^white;? I'll pay you ^yellow;1	^orange;독액 표본 30개^white;를 구해다 주실 수 있나요? ^yellow;12500 픽셀^white;을 드릴게요.	AUTO
+Siphon Spore	사이펀 포자		siphonquest3.questtemplate.patch	You're as dangerous as you can be! I have upgraded your Siphon. You wi	최대한 위험해졌어! 네 사이펀을 포자. 이제 개량된 모루에서 사이펀 스포어, 사이펀 레이저, 사이펀 플럭스를 만들 수 있다.	AUTO
+Kitsune Rage	키츠네 분노		mk_kitsunerage.questtemplate.patch	MK-Kitsune Rage acquired - press G to activate	MK-키츠네 레이지 획득 - G를 눌러 활성화	AUTO
+Ultra Instinct	초월 본능		ultrainstincttech.questtemplate.patch	Ultra Instinct - press G to activate	울트라 인스팅트 - G를 눌러 발동	AUTO
+Milk	우유	젖	ttpp_questhub_2.questtemplate.patch	"Um, hi there! I'm Inky!
+Welcome to my cozy home! Would you mind, um, m"	"어, 안녕! 나는 잉키야!
+내 아늑한 집에 온 걸 환영해! 어, 혹시 ^orange;젖^white; 좀 가져다줄 수 있을까? "	AUTO
+Tentacle Challenge Door	촉수 도전 문	촉수 도전의 문	ttpp_questhub_5.questtemplate.patch	"I've finished a ^orange;Tentacle Challenge Door^white;. 
+I should talk"	"^orange;촉수 도전의 문^white;을 완성했어. 
+잉키한테 얘기해야겠어."	AUTO
+Pet House	애완동물 집	펫 하우스	ttpp_questhub_9.questtemplate.patch	"Thank you!
+I'll use this ^orange;Pet House^white; to get my very own p"	"고마워!
+이 ^orange;펫 하우스^white;를 써서 내 반려동물을 갖게 될게. 나중에 다시 와줘! 미스터 도기라고 부를 "	AUTO
+Centensian Tech	센텐시안 테크	10개의 최고급 카바나이트 판금|센텐시안 기술 부품 하나	weaponrestorationavikan3.questtemplate.patch	Unfortunately, I don't have the materials needed for the repairs... We	불행히도 수리에 필요한 재료가 없다... 칼날을 고치려면 최소 ^orange;10개의 최고급 카바나이트 판금^white;이 필	AUTO
+Barrier	방어막	아비안 유물|위대한 통치자의 신전|양자 장벽|입자 코어 4개	avian_mission1_tws1.questtemplate.patch	I got the last piece of the puzzle. The ^orange;Avian artifact^reset; 	마침내 퍼즐의 마지막 조각을 찾았어. ^orange;아비안 유물^reset;은 ^green;위대한 통치자의 신전^reset;에	REVIEW
+Precursor	선구자	고대 리모컨|8개의 아눌락스 배터리|사이버스피어에서 선조 구조물	human_mission2_tws2.questtemplate.patch	To control and stabilize each artifact using the ^orange;Ancient Remot	^orange;고대 리모컨^reset;로 각 유물을 제어하고 안정화하려면 그에 맞먹는 동력원이 필요하다. 엔지니어들은 총 ^o	REVIEW
+Black	블랙	<아이템 이름>|파괴된 암시장|<현재> / <필요>	gic_razed_dealer_repeatable.questtemplate.patch	Obtain ^orange;<itemName>^reset; from a ^orange;Razed Black Market^res	획득^orange;<아이템 이름>^reset;에서^orange;파괴된 암시장^reset;:^green;<현재> / <필요>^r	REVIEW
+Shock	감전		gic_shockbandit_bossbattle.questtemplate.patch	Shock Bandits are not dangerous to any prepared or violent individual,	충격 도적들은 준비된 사람이나 폭력적인 개인에게는 위험하지 않지만, 자신을 방어할 능력이 없는 사람들을 주로 노립니다. 그들의	REVIEW
+Radiance	래디언스	아르카나 별|창백한 별|아르카니움 모루|발광 EPP|아르카나 행성	arcana_quests_ankhu_mwhaddon_3.questtemplate.patch	I assume that your journey at ^orange;Arcana stars^white; is nearing i	^orange;아르카나 별^white;에서의 여정이 거의 끝나가고 ^orange;창백한 별^white;로 향하고 있으신 것 같	REVIEW
+Expanse	익스팬스	초폭풍 별|네온 워터|초폭풍 광야 별|네온 바다 별	arcana_quests_ankhu_mwhaddon_9.questtemplate.patch	As you probably know, ^green;Superstorm stars^white; are blessed by Su	아마 아시겠지만, ^green;초폭풍 별^white;은 ^orange;네온 워터^reset;에서 생성되는 초폭풍 정수의 축복을	REVIEW
+Universe	유니버스	아케인 행성	atprk_arcanastarmapquest.questtemplate.patch	Focused. Let me take a look... There's a lot of data on ^orange;arcane	집중함. 좀 볼게요... 이 우주 이 지역에서는 좀처럼 보기 힘든 ^orange;아케인 행성^white;에 대한 자료가 많네요	REVIEW
+Drone	폭발탄을 발사하는 자동 드론입니다.	혜성 드론|네 메크 무기고에 괜찮은 추가 요소	atprk_mechbotchallenge2.questtemplate.patch	See, I told you you'll be safe! I'm sure this ^orange;Comet Drone^whit	거봐, 안전할 거라고 했잖아! 저기서 찾은 이 ^orange;혜성 드론^white;은 분명 ^green;네 메크 무기고에 괜찮	REVIEW
+Body	신체		lucario_bodyType.questtemplate.patch	Correct Recipes Delivered for your Body Type.	당신의 체형에 맞는 정확한 레시피가 지급되었습니다.	REVIEW
+Blue	블루	빨강, 파랑, 노랑 염료랑 염료 제거제|(빨강 염료 3개, 파랑 염료 3개, 노랑 염료 3개, 염료 제거제 5개를 가져다줘.)	outfitmerchant3.questtemplate.patch	My thread lacks a certain je ne sais quoi, I bet some color could fix 	내 실에는 뭔가 부족한 느낌이 있어, 색을 좀 넣으면 확실히 나아질 것 같아! ^orange;빨강, 파랑, 노랑 염료랑 염료 	REVIEW
+bridge	다리	배들랜드 행성	mwhaddon_quests_chapter3_0_1.questtemplate.patch	Alas, it's all water under the bridge now... There! I've found her loc	아, 이제는 다 지나간 일이지만... 자! 그녀의 위치를 찾았어! 대부분 세력의 손이 닿지 않는, 180광년 떨어진 ^oran	REVIEW
+Battle	전투	[사이드 스토리]	mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch	^green;[Side Story] ^orange;The Decisive Battle^reset;	^green;[사이드 스토리] ^orange;결전^reset;	REVIEW

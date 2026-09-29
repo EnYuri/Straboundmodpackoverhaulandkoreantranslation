@@ -1,0 +1,225 @@
+  1 [TSPAN|?|0.50] Mining Laser => 채굴 레이저
+    - et; 에서 ^green;채광 레이저^reset; 를 제
+    + et; 에서 ^green;채굴 레이저^reset; 를 제
+  2 [TSPAN|?|0.50] Mining Laser => 채굴 레이저
+    - 죽기 전에 ^orange;채광 레이저^reset;을 만들
+    + 죽기 전에 ^orange;채굴 레이저^reset;을 만들
+  3 [TSPAN|?|0.50] Mining Laser => 채굴 레이저
+    - et; 에서 ^green;채광 레이저^reset; 를 제
+    + et; 에서 ^green;채굴 레이저^reset; 를 제
+  4 [TSPAN|?|0.50] Mining Laser => 채굴 레이저
+    - 죽기 전에 ^orange;채광 레이저^reset;을 만들
+    + 죽기 전에 ^orange;채굴 레이저^reset;을 만들
+  5 [TSPAN|?|0.50] Erchius Crystal => 에르키우스 수정
+    - range;암흑 에르키우스 크리스탈^reset;을 찾으세요
+    + range;암흑 에르키우스 수정^reset;을 찾으세요
+  6 [TSPAN|?|0.50] Erchius Crystal => 에르키우스 수정
+    - range;암흑 에르키우스 크리스탈^reset;을 전달하세요
+    + range;암흑 에르키우스 수정^reset;을 전달하세요
+  7 [TSPAN|?|0.50] Erchius Crystal => 에르키우스 수정
+    - range;암흑 에르키우스 크리스탈^reset;을 찾으세요
+    + range;암흑 에르키우스 수정^reset;을 찾으세요
+  8 [TSPAN|?|0.50] Erchius Crystal => 에르키우스 수정
+    - range;암흑 에르키우스 크리스탈^reset;을 전달하세요
+    + range;암흑 에르키우스 수정^reset;을 전달하세요
+  9 [WORD|?|0.57] Erchius Crystal => 에르키우스 수정
+    - 광활한 에르키우스 크리스탈
+    + 광활한 에르키우스 수정
+ 10 [WORD|?|0.57] Erchius Crystal => 에르키우스 수정
+    - 광활한 에르키우스 크리스탈
+    + 광활한 에르키우스 수정
+ 11 [TSPAN|?|0.25] Crystal Plant => 수정 브로콜리
+    - ; (^#76c7e4;수정 식물^reset;)
+    + ; (^#76c7e4;수정 브로콜리^reset;)
+ 12 [WORD|?|0.50] Mining Laser => 채굴 레이저
+    -  세트^reset; :¶ 채광 레이저 세트는 채광 레이저
+    +  세트^reset; :¶ 채굴 레이저 세트는 채광 레이저
+ 13 [TSPAN|?|0.50] Solar Panel => 태양광 패널
+    - ;¶ ^#F9F193; 태양열 패널^reset;¶ ^#A
+    + ;¶ ^#F9F193; 태양광 패널^reset;¶ ^#A
+ 14 [TSPAN|?|0.50] Solar Panel => 태양광 패널
+    - ;¶ ^#F9F193; 태양열 패널^reset;¶ ^#A
+    + ;¶ ^#F9F193; 태양광 패널^reset;¶ ^#A
+ 15 [WORD|?|0.20] Trilobite => 트릴로바이트 화석
+    - 4월 2일 - 케빈이 우리 화석 복원 프로젝트에 대해
+    + 4월 2일 - 케빈이 트릴로바이트 화석 복원 프로젝트에 대해
+ 16 [WORD|?|0.20] Trilobite => 트릴로바이트 화석
+    - #FFFFFF; - 케빈이 우리 화석 복원 프로젝트에 대해
+    + #FFFFFF; - 케빈이 트릴로바이트 화석 복원 프로젝트에 대해
+ 17 [WORD|?|0.62] The Curious Glitch => 호기심 많은 결함
+    - 호기심 많은 글리치
+    + 호기심 많은 결함
+ 18 [WORD|?|0.62] The Curious Glitch => 호기심 많은 결함
+    - 호기심 많은 글리치
+    + 호기심 많은 결함
+ 19 [WORD|?|0.57] Erchius Crystal => 에르키우스 수정
+    - 광활한 에르키우스 크리스탈
+    + 광활한 에르키우스 수정
+ 20 [TSPAN|?|0.57] Staff Enchanting Table => 지팡이 마법부여대
+    -  발사된다. ^orange;스태프 마법부여대^reset;로 
+    +  발사된다. ^orange;지팡이 마법부여대^reset;로 
+ 21 [WORD|?|0.57] Erchius Crystal => 에르키우스 수정
+    - 광산에 가서 에르키우스 크리스탈을 사서 함선을 수리해야겠어
+    + 광산에 가서 에르키우스 수정을 사서 함선을 수리해야겠어
+ 22 [TSPAN| |0.00] Slush => 녹아가는 눈
+    - 기 저항¶^cyan;면역: 눈, 얼음, 슬러시^rese
+    + 기 저항¶^cyan;면역: 녹아가는 눈, 얼음, 슬러시^rese
+ 23 [TSPAN| |0.00] Slush => 녹아가는 눈
+    - 기 저항¶^cyan;면역: 눈, 얼음, 슬러시^rese
+    + 기 저항¶^cyan;면역: 녹아가는 눈, 얼음, 슬러시^rese
+ 24 [WORD|?|0.00] Harpoon Gun => 작살 총
+    - ellow;^reset; 하푼 총: 대미지^green;1
+    + ellow;^reset; 작살 총: 대미지^green;1
+ 25 [WORD|?|0.00] Harpoon Gun => 작살 총
+    - ellow;^reset; 하푼 총: 대미지^green;1
+    + ellow;^reset; 작살 총: 대미지^green;1
+ 26 [WORD|?|0.50] Mining Laser => 채굴 레이저
+    - llow;^reset; 채광 레이저: 전투 데미지 x^
+    + llow;^reset; 채굴 레이저: 전투 데미지 x^
+ 27 [WORD|?|0.50] Mining Laser => 채굴 레이저
+    - llow;^reset; 채광 레이저: 전투 데미지 x^
+    + llow;^reset; 채굴 레이저: 전투 데미지 x^
+ 28 [WORD|?|0.50] Mining Laser => 채굴 레이저
+    - llow;^reset; 채광 레이저: 전투 데미지 x^
+    + llow;^reset; 채굴 레이저: 전투 데미지 x^
+ 29 [WORD|?|0.50] Mining Laser => 채굴 레이저
+    - llow;^reset; 채광 레이저: 전투 데미지 x^
+    + llow;^reset; 채굴 레이저: 전투 데미지 x^
+ 30 [WORD|?|0.50] Mining Laser => 채굴 레이저
+    - llow;^reset; 채광 레이저: 전투 데미지 x^
+    + llow;^reset; 채굴 레이저: 전투 데미지 x^
+ 31 [WORD|?|0.50] Mining Laser => 채굴 레이저
+    - llow;^reset; 채광 레이저: 전투 데미지 x^
+    + llow;^reset; 채굴 레이저: 전투 데미지 x^
+ 32 [WORD|?|0.50] Mining Laser => 채굴 레이저
+    - llow;^reset; 채광 레이저: 전투 데미지 x^
+    + llow;^reset; 채굴 레이저: 전투 데미지 x^
+ 33 [WORD|?|0.50] Mining Laser => 채굴 레이저
+    - llow;^reset; 채광 레이저: 전투 데미지 x^
+    + llow;^reset; 채굴 레이저: 전투 데미지 x^
+ 34 [WORD|?|0.50] Mining Laser => 채굴 레이저
+    - llow;^reset; 채광 레이저: 전투 데미지 x^
+    + llow;^reset; 채굴 레이저: 전투 데미지 x^
+ 35 [WORD|?|0.50] Mining Laser => 채굴 레이저
+    - llow;^reset; 채광 레이저: 전투 데미지 x^
+    + llow;^reset; 채굴 레이저: 전투 데미지 x^
+ 36 [WORD| |0.00] Slush => 녹아가는 눈
+    - yan;면역^reset;: 눈, 진눈깨비, 얼음, 극한
+    + yan;면역^reset;: 녹아가는 눈, 진눈깨비, 얼음, 극한
+ 37 [WORD| |0.00] Slush => 녹아가는 눈
+    - yan;면역^reset;: 눈, 진눈깨비, 얼음, 극한
+    + yan;면역^reset;: 녹아가는 눈, 진눈깨비, 얼음, 극한
+ 38 [WORD| |0.00] Slush => 녹아가는 눈
+    - yan;면역^reset;: 눈, 진눈깨비, 얼음, 극한
+    + yan;면역^reset;: 녹아가는 눈, 진눈깨비, 얼음, 극한
+ 39 [WORD| |0.00] Slush => 녹아가는 눈
+    - yan;면역^reset;: 눈, 진눈깨비, 얼음, 극한
+    + yan;면역^reset;: 녹아가는 눈, 진눈깨비, 얼음, 극한
+ 40 [WORD| |0.00] Slush => 녹아가는 눈
+    - yan;면역^reset;: 눈, 진눈깨비, 얼음, 극한
+    + yan;면역^reset;: 녹아가는 눈, 진눈깨비, 얼음, 극한
+ 41 [WORD| |0.00] Slush => 녹아가는 눈
+    - yan;면역^reset;: 눈, 진눈깨비, 얼음, 극한
+    + yan;면역^reset;: 녹아가는 눈, 진눈깨비, 얼음, 극한
+ 42 [WORD| |0.00] Slush => 녹아가는 눈
+    - 산, 화상, 모든 방사선, 눈, 슬러시, 얼음, 산소
+    + 산, 화상, 모든 방사선, 녹아가는 눈, 슬러시, 얼음, 산소
+ 43 [WORD| |0.00] Slush => 녹아가는 눈
+    - 산, 화상, 모든 방사선, 눈, 슬러시, 얼음, 산소
+    + 산, 화상, 모든 방사선, 녹아가는 눈, 슬러시, 얼음, 산소
+ 44 [WORD| |0.00] Slush => 녹아가는 눈
+    - 산, 화상, 모든 방사선, 눈, 슬러시, 얼음, 산소
+    + 산, 화상, 모든 방사선, 녹아가는 눈, 슬러시, 얼음, 산소
+ 45 [WORD| |0.00] Slush => 녹아가는 눈
+    - 산, 화상, 모든 방사선, 눈, 슬러시, 얼음, 산소
+    + 산, 화상, 모든 방사선, 녹아가는 눈, 슬러시, 얼음, 산소
+ 46 [WORD| |0.00] Slush => 녹아가는 눈
+    - 산, 화상, 모든 방사선, 눈, 슬러시, 얼음, 산소
+    + 산, 화상, 모든 방사선, 녹아가는 눈, 슬러시, 얼음, 산소
+ 47 [WORD| |0.00] Slush => 녹아가는 눈
+    - 산, 화상, 모든 방사선, 눈, 슬러시, 얼음, 산소
+    + 산, 화상, 모든 방사선, 녹아가는 눈, 슬러시, 얼음, 산소
+ 48 [WORD| |0.00] Slush => 녹아가는 눈
+    - , 바이오-우즈, 슬러시, 눈
+    + , 바이오-우즈, 슬러시, 녹아가는 눈
+ 49 [WORD| |0.00] Slush => 녹아가는 눈
+    - , 바이오-우즈, 슬러시, 눈
+    + , 바이오-우즈, 슬러시, 녹아가는 눈
+ 50 [WORD| |0.00] Slush => 녹아가는 눈
+    -  슬러시, 얼음 미끄러짐, 눈 감속^reset;.
+    +  슬러시, 얼음 미끄러짐, 녹아가는 눈 감속^reset;.
+ 51 [WORD| |0.00] Slush => 녹아가는 눈
+    -  슬러시, 얼음 미끄러짐, 눈 감속^reset;.
+    +  슬러시, 얼음 미끄러짐, 녹아가는 눈 감속^reset;.
+ 52 [WORD| |0.00] Slush => 녹아가는 눈
+    - yan;면역^reset;: 눈, 진창, 얼음: 3m
+    + yan;면역^reset;: 녹아가는 눈, 진창, 얼음: 3m
+ 53 [WORD| |0.00] Slush => 녹아가는 눈
+    - yan;면역^reset;: 눈, 진창, 얼음: 3m
+    + yan;면역^reset;: 녹아가는 눈, 진창, 얼음: 3m
+ 54 [WORD|?|0.44] Cosmic Crucible => 코스믹 도가니
+    - playerName>에게¶¶우주 도가니에 벌이 없길래 벌로
+    + playerName>에게¶¶코스믹 도가니에 벌이 없길래 벌로
+ 55 [WORD|?|0.55] Leader's Rally => 지도자의 집결
+    - 을 보내는 깃발 '지도자의 결집'을 사용할 수 있습니다.
+    + 을 보내는 깃발 '지도자의 집결'을 사용할 수 있습니다.
+ 56 [WORD| |0.40] Omnia-Thrower => 옴니아 투척기
+    - 발사: 원소 전환. 옴니아 스로워는 노바, 화염, 전기, 냉
+    + 발사: 원소 전환. 옴니아 투척기는 노바, 화염, 전기, 냉
+ 57 [WORD|?|0.57] Erchius Crystal => 에르키우스 수정
+    -  시간이 지나면 에르키우스 크리스탈을 생성합니다.
+    +  시간이 지나면 에르키우스 수정을 생성합니다.
+ 58 [WORD|?|0.57] Erchius Crystal => 에르키우스 수정
+    -  시간이 지나면 에르키우스 크리스탈을 생성합니다.
+    +  시간이 지나면 에르키우스 수정을 생성합니다.
+ 59 [WORD|?|0.25] Ship Hatch => 선박 해치
+    - [우주선 해치]
+    + [선박 해치]
+ 60 [WORD|?|0.25] Ship Hatch => 선박 해치
+    - [우주선 해치]
+    + [선박 해치]
+ 61 [WORD|?|0.25] Ship Hatch => 선박 해치
+    - [우주선 해치]
+    + [선박 해치]
+ 62 [TSPAN|?|0.40] Accelerator's Table => 가속기 작업대
+    - ^#b9b5b2;가속기 테이블
+    + ^#b9b5b2;가속기 작업대
+ 63 [WORD| |0.29] Wires => 전선 더미
+    - et; G3 홀터의 전선. ^#7733aa;감전^reset;.
+    + et; G3 홀터의 전선. 더미^reset;.
+ 64 [WORD|?|0.50] Roger Repairo => 로저 레파로
+    -  픽셀로 수리하는 로저 레파이로입니다.
+    +  픽셀로 수리하는 로저 레파로.
+ 65 [WORD|?|0.57] Roger Repairo => 로저 레파로
+    - 우리 로저 레페로. 그는 쾌활한 얼굴에 전
+    + 우리 로저 레파로로. 그는 쾌활한 얼굴에 전
+ 66 [WORD|?|0.50] Roger Repairo => 로저 레파로
+    -  픽셀로 수리하는 로저 레파이로입니다.
+    +  픽셀로 수리하는 로저 레파로.
+ 67 [WORD|?|0.57] Roger Repairo => 로저 레파로
+    - 우리 로저 레페로. 그는 쾌활한 얼굴에 전
+    + 우리 로저 레파로로. 그는 쾌활한 얼굴에 전
+ 68 [WORD|?|0.73] Small Wall Switch => 소형 벽 스위치
+    - 소형 벽면 스위치, 퍼시스턴트 스위치
+    + 소형 벽 스위치, 퍼시스턴트 스위치
+ 69 [WORD|?|0.36] Small Wall Switch => 소형 벽 스위치
+    - 작은 벽면 스위치, 영구 스위치, 게
+    + 소형 벽 스위치, 영구 스위치, 게
+ 70 [WORD|?|0.73] Small Wall Switch => 소형 벽 스위치
+    - 소형 벽면 스위치, 영구 스위치, 데
+    + 소형 벽 스위치, 영구 스위치, 데
+ 71 [WORD|?|0.67] Erchius Crystal => 에르키우스 수정
+    - 은 거 봤어요? 에르키우스 결정과 수집하는 누구든 좋아하
+    + 은 거 봤어요? 에르키우스 수정과 수집하는 누구든 좋아하
+ 72 [WORD|?|0.22] Microsphere => 마이크로 구체
+    - 초소형 구체! ^green;[발사
+    + 마이크로 구체! ^green;[발사
+ 73 [WORD|?|0.22] Microsphere => 마이크로 구체
+    - 초소형 구체! ^green;[발사
+    + 마이크로 구체! ^green;[발사
+ 74 [WORD|?|0.57] Erchius Crystal => 에르키우스 수정
+    - 천인 아름다운 에르키우스의 결정체.
+    + 천인 아름다운 에르키우스의 수정.
+ 75 [WORD|?|0.57] Erchius Crystal => 에르키우스 수정
+    - 천인 아름다운 에르키우스의 결정체.
+    + 천인 아름다운 에르키우스의 수정.

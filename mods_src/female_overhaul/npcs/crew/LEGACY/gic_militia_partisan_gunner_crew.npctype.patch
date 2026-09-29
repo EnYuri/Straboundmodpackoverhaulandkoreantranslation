@@ -1,0 +1,20 @@
+[
+  {
+    "op": "remove",
+    "path": "/scripts"
+  },
+  {
+    "op": "add",
+    "path": "/scripts",
+    "value": [
+      "/npcs/gic_bmain.lua",
+      "/scripts/sexbound/override/npc.lua",
+      "/npcs/gic_gunnerlounge.lua"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/behavior",
+    "value": "sexboundcrewmember"
+  }
+]

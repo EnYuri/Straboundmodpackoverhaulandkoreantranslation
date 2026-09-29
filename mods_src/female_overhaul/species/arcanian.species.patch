@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "가혹한 환경에 단련된 사막 거주 종족. 이들은 자연스럽게 신비로운 힘에 대한 감각을 진화시켰다. 이제는 오아시스에 정착하여 신비로운 학문과 학구적인 일들을 추구한다.\n\n  ^orange;식성^reset;: 잡식성\n\n^orange;장점^reset;:\n  에너지 x^green;1.1^reset;, 속도 +^green;10^reset;%, 매력 x^green;1.1^reset;\n  ^green;저항^reset;: 물리 +^green;10^reset;%, 전기 +^green;15^reset;%, 화염 +^green;20^reset;%\n  ^green;타고난 신비 지식^reset;으로 ^cyan;기술^reset; ^green;신비 활력 부여^reset;를 사용할 수 있다\n\n^orange;환경^reset;:\n  ^green;더운^reset; 생물군계: 체력 x^green;1.2^reset;, 에너지 x^green;1.2^reset;\n  ^red;추운^reset; 생물군계: 체력 x^red;0.9^reset;, 에너지 x^red;0.8^reset;, 속도 x^red;0.9^reset;\n\n^orange;무기^reset;:\n  완드/스태프: 피해량 x^green;1.15^reset;, 치명타 확률 +^green;10^reset;%, 에너지 재생 x^green;1.05^reset;%\n  단검: 방어력 x^green;1.1^reset;\n\n^red;약점^reset;:\n  체력 x^red;0.9^reset;\n  ^red;저항^reset;: 냉기 -^red;40^reset;%, 독 -^red;15^reset;%"
+  }
+]

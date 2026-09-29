@@ -1,0 +1,669 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 80,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_engineercap"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 25,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_medicalmaskhead"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 125,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_medicalmaskalthead"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 150,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_greymanchest"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 120,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_greymanlegs"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 120,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_shirtschest"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 100,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_shirtslegs"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 240,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_officealtchest"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 180,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_officealtlegs"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 240,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_officechest"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 180,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_officelegs"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 50,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_shortschest"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 40,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_shortslegs"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 300,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_softshelljacketchest"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 200,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_softshelljacketlegs"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_basic"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 25,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_alicealthead"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_pretty"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 25,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_alicehead"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_pretty"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 25,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_aliceback"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_pretty"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 250,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_alicechest"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_pretty"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 250,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_alicelegs"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_pretty"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 700,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_engineercap_gear"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_military"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1500,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_pmcchest"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_military"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 900,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_pmclegs"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_military"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1500,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_pmc_alt1chest"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_military"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 900,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_pmc_alt1legs"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_military"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 518,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_directstrike"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_military"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 2020,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_mysterymountainback"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_military"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1226,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_pmchead"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_military"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1300,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_pmc_alt1head"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanclothesshop_militarysection_tradeterminal",
+        "gic_humanclothesshop_military"
+      ]
+    }
+  }
+]

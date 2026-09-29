@@ -1,0 +1,96 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_voidcore_artifact"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_goshawk_machinegun_coordinator"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gic_goshawk_hydra_rocket_pods_strafe_artillerycoordinator"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_undercolonyworkshopmerchant",
+        "gic_bazaarbetweentime_attachment"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_whitewolfsearring"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_gamblersdogtag"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_talismanofgrazing"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_leafsring"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_undercolonyworkshopmerchant",
+        "gic_bazaarbetweentime_trinket"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_huntersmark"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_crusadercrossbow"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_drillflarelauncher"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_ccb05u"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_undercolonyworkshopmerchant",
+        "gic_bazaarbetweentime_attachment"
+      ]
+    }
+  }
+]

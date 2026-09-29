@@ -1,0 +1,17 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/interactAction",
+      "value": "ScriptPane"
+    },
+    {
+      "op": "add",
+      "path": "/scripts",
+      "value": [
+        "nekitechstationTier0.lua",
+        "/objects/scripts/customtechstation.lua"
+      ]
+    }
+  ]
+]

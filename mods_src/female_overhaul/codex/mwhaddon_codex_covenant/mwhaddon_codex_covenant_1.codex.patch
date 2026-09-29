@@ -1,0 +1,14 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/species",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/species",
+      "value": "arcana"
+    }
+  ]
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_voidcore_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gic_zsu_23_4_shilka_ciws_artillerycoordinator"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_voidcore"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_aggressive_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_uscmhead"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_aggressiveartifact"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_aggressive_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_uscmchest"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_aggressiveartifact"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_aggressive_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_uscmlegs"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_aggressiveartifact"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_aggressive_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_armor_uscmback"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_aggressiveartifact"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_voidcore_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_sgthecatia"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_voidcore"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_aggressive_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 10,
+        "name": "esc_127x108_hecatia_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_aggressiveartifact"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_voidcore_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_m41a"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_voidcore"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_voidcore_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_stratagem_locator"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_voidcore"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_voidcore_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_tkb022pm"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_voidcore"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_voidcore_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_an94"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_voidcore"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_voidcore_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_ks23m"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_voidcore"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_aggressive_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 48,
+        "name": "esc_23x75mm_buckshot"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_aggressiveartifact"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_aggressive_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 48,
+        "name": "esc_23x75mm_slug"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_aggressiveartifact"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_aggressive_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 12,
+        "name": "esc_23x75mm_zvezda"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_aggressiveartifact"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_voidcore_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_ngsw_lr"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_voidcore"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_aggressive_artifact"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 3,
+        "name": "gicexp_ammo_cep"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_tylian_blacksmith",
+        "gic_tylian_blacksmith_aggressiveartifact"
+      ]
+    }
+  }
+]

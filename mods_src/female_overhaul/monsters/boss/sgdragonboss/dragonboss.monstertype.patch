@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/baseParameters/statusSettings/stats/fireStatusImmunity/baseValue",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/statusSettings/stats/iceStatusImmunity/baseValue",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/statusSettings/stats/electricStatusImmunity/baseValue",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/statusSettings/stats/poisonStatusImmunity/baseValue",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/statusSettings/stats/specialStatusImmunity/baseValue",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/statusSettings/stats/healingStatusImmunity/baseValue",
+    "value": 0
+  }
+]

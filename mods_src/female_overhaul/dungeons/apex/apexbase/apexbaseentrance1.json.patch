@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/layers/5/objects/0/properties/monster",
+    "value": "ffs_miniknog_drone"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/5/objects/1/properties/monster",
+    "value": "ffs_miniknog_drone"
+  }
+]

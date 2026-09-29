@@ -1,0 +1,127 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/avali/0/1/0/sheathedprimary"
+    },
+    {
+      "op": "remove",
+      "path": "/items/avali/0/1/0/sheathedprimary"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/avali/0/1/0/primary/0/data"
+    },
+    {
+      "op": "remove",
+      "path": "/items/avali/0/1/0/primary/0/data"
+    }
+  ],
+  {
+    "op": "replace",
+    "path": "/items/avali/0/1/0/primary/0/name",
+    "value": "ffs_QRCType"
+  },
+  [
+    {
+      "op": "test",
+      "path": "/items/avali/0/1/1/sheathedprimary"
+    },
+    {
+      "op": "remove",
+      "path": "/items/avali/0/1/1/sheathedprimary"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/avali/0/1/1/primary/0/data"
+    },
+    {
+      "op": "remove",
+      "path": "/items/avali/0/1/1/primary/0/data"
+    }
+  ],
+  {
+    "op": "replace",
+    "path": "/items/avali/0/1/1/primary/0/name",
+    "value": "ffs_FMFirelance"
+  },
+  [
+    {
+      "op": "test",
+      "path": "/items/avali/1/1/0/primary/0/data"
+    },
+    {
+      "op": "remove",
+      "path": "/items/avali/1/1/0/primary/0/data"
+    }
+  ],
+  {
+    "op": "replace",
+    "path": "/items/avali/1/1/0/primary/0/name",
+    "value": "ffs_RFStormSruge"
+  },
+  [
+    {
+      "op": "test",
+      "path": "/items/avali/1/1/1/sheathedprimary"
+    },
+    {
+      "op": "remove",
+      "path": "/items/avali/1/1/1/sheathedprimary"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/avali/1/1/1/primary/0/data"
+    },
+    {
+      "op": "remove",
+      "path": "/items/avali/1/1/1/primary/0/data"
+    }
+  ],
+  {
+    "op": "replace",
+    "path": "/items/avali/1/1/1/primary/0/name",
+    "value": "ffs_MGHailstorm"
+  },
+  [
+    {
+      "op": "test",
+      "path": "/items/avali/2/1/0/sheathedprimary"
+    },
+    {
+      "op": "remove",
+      "path": "/items/avali/2/1/0/sheathedprimary"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/avali/2/1/0/primary/0/data"
+    },
+    {
+      "op": "remove",
+      "path": "/items/avali/2/1/0/primary/0/data"
+    }
+  ],
+  {
+    "op": "replace",
+    "path": "/items/avali/2/1/0/primary/0/name",
+    "value": "ffs_QRCType"
+  },
+  [
+    {
+      "op": "test",
+      "path": "/items/avali/2/1/1/sheathedprimary"
+    },
+    {
+      "op": "remove",
+      "path": "/items/avali/2/1/1/sheathedprimary"
+    }
+  ]
+]

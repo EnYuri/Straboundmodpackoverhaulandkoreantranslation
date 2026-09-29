@@ -1,0 +1,116 @@
+[
+  {
+    "op": "add",
+    "path": "/baseParameters/scripts/-",
+    "value": "/scripts/sexbound/override/monster.lua"
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/primaryScriptSources/-",
+    "value": "/scripts/sexbound/override/stats/monster_primary.lua"
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/behavior",
+    "value": "sexboundmonster"
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/sexboundConfig",
+    "value": {
+      "giveBirthTo": [
+        {
+          "type": "item",
+          "name": "sexbound_egg",
+          "params": {
+            "shortdescription": "미믹 알",
+            "description": "친근한 촉수 미믹으로 부화하는 이상한 알입니다.",
+            "spawnMonster": "mimicchest",
+            "monsterParameters": {
+              "persistent": true,
+              "damageTeamType": "friendly",
+              "damageTeam": 0
+            }
+          }
+        }
+      ],
+      "position": {
+        "sex": [
+          "doggy",
+          "missionary",
+          "cowgirl"
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/stats/forceRole",
+    "value": {
+      "baseValue": 0
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/stats/maxArousal",
+    "value": {
+      "baseValue": 100.0
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/stats/maxClimax",
+    "value": {
+      "baseValue": 0.0
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/stats/arousalThreshold",
+    "value": {
+      "baseValue": 0.5
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/stats/climaxThreshold",
+    "value": {
+      "baseValue": 0.5
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/resources/arousal",
+    "value": {
+      "maxStat": "maxArousal",
+      "deltaValue": 0.0,
+      "initialPercentage": 0.0
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/resources/climax",
+    "value": {
+      "maxStat": "maxClimax",
+      "deltaValue": 0.0,
+      "initialPercentage": 0.0
+    }
+  },
+  {
+    "op": "add",
+    "path": "/baseParameters/statusSettings/resources/gender",
+    "value": {
+      "initialValue": 1
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/capturable",
+    "value": true
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/captureHealthFraction",
+    "value": 1.0
+  }
+]

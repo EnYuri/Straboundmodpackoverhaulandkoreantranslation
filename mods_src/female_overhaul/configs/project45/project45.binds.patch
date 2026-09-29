@@ -1,0 +1,18 @@
+[
+  {
+    "op": "replace",
+    "path": "/aikiro42-project45/binds/project45-reload-keybind/default",
+    "value": [
+      {
+        "type": "key",
+        "value": "LShift",
+        "mods": []
+      },
+      {
+        "type": "key",
+        "value": "RShift",
+        "mods": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "날개 달린 사랑스럽고 복슬복슬한 우주 랩터. 극지 기후와 저중력에 고도로 적응해 바람으로 낙하를 제어하며, 중화기를 들면 매우 치명적이다.\r\n\r\n  ^orange;식성^reset;: 잡식\r\n\r\n^orange;특전^reset;:\r\n  +^green;9^reset;% 점프 및 속도\r\n  +^green;35^reset;% 느린 낙하(날개)\r\n  ^green;저항^reset;: +^green;40^reset;% 얼음, 낙하 피해량 x^green;0.35^reset;\r\n  테크: ^green;아발리 활강^reset;\r\n  ^cyan;면역^reset;: 눈, 얼음\r\n\r\n^orange;환경^reset;:\r\n  ^green;더운^reset; 생물군계: 공중 피해 보너스와 속도 보너스 상실, 체력 x^red;0.75^reset;\r\n  ^green;추운^reset; 생물군계: 속도 +^green;5^reset;%, 체력 x^green;1.15^reset;\r\n  강풍은 추가 민첩성 제공\r\n\r\n^orange;무기^reset;:\r\n  공중 피해량 x^green;1.1^reset;\r\n  에너지: 피해량 x^green;1.12^reset;\r\n  유탄 발사기: +^green;20^reset;% 치명타 피해\r\n  창: +^green;2^reset;% 치명타\r\n\r\n^red;약점^reset;:\r\n  ^red;저항^reset;: -^red;40^reset;% 화염"
+  }
+]

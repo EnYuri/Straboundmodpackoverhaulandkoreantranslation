@@ -1,0 +1,111 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/rarityLabel/position/1"
+    },
+    {
+      "op": "replace",
+      "path": "/rarityLabel/position/1",
+      "value": 30
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/rarityLabel/position/0"
+    },
+    {
+      "op": "replace",
+      "path": "/rarityLabel/position/0",
+      "value": 12
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/descriptionLabel/wrapWidth"
+    },
+    {
+      "op": "replace",
+      "path": "/descriptionLabel/wrapWidth",
+      "value": 122
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/descriptionLabel/lineSpacing"
+    },
+    {
+      "op": "remove",
+      "path": "/descriptionLabel/lineSpacing"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/descriptionLabel/position/1"
+    },
+    {
+      "op": "replace",
+      "path": "/descriptionLabel/position/1",
+      "value": 91
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/descriptionLabel/position/0"
+    },
+    {
+      "op": "replace",
+      "path": "/descriptionLabel/position/0",
+      "value": 16
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/priceLabel/position/1"
+    },
+    {
+      "op": "replace",
+      "path": "/priceLabel/position/1",
+      "value": 30
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/priceLabel/position/0"
+    },
+    {
+      "op": "replace",
+      "path": "/priceLabel/position/0",
+      "value": 115
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/moneyIcon/position/1"
+    },
+    {
+      "op": "replace",
+      "path": "/moneyIcon/position/1",
+      "value": 30
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/moneyIcon/position/0"
+    },
+    {
+      "op": "replace",
+      "path": "/moneyIcon/position/0",
+      "value": 102
+    }
+  ]
+]

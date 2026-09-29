@@ -1,0 +1,48 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 15,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_springfield"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_colonial_advancedweaponsdealer",
+        "gic_colonial_advancedweaponsdealer_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 35,
+        "name": "gic_762x63mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_colonial_advancedweaponsdealer",
+        "gic_colonial_advancedweaponsdealer_weapons"
+      ]
+    }
+  }
+]

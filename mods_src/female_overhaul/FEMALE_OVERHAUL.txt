@@ -145,9 +145,9 @@ Translation-related (kept in the translation layer, not here)
       had broken the upgrade chain and gated them behind T2-T6 materials
     items/active/weapons/protectorate/*.png, bow/*full*.png,
       generic/produce/orange.png - FU art
-  Left alone on purpose: universe_server requiredSystemWorlds - GiC
-  intentionally removes it and rewrites the starter world (Starburst's
-  own replace never applied anyway). Celestial/weather/biome tables are
+  universe_server requiredSystemWorlds: restored in the 2026-09-28 FU/GiC
+  compatibility pass below (Starburst's own replace never applied).
+  Celestial/weather/biome tables are
   Starburst's intended overhaul surface and only affect new content.
 
   Second pass: 144 generated .patch files re-apply FU's values where a
@@ -159,10 +159,10 @@ Translation-related (kept in the translation layer, not here)
     /durability on 12 mining tools, /category on doomcannon, hylotl
       guard katana tiers, FU SAIL radiomessage texts
 
-- interface/cockpit/{zoombutton,systeminfobutton}.frames.patch: undo
-  MorePlanetInfo's frame-grid resize. The cockpit UI reverter wins the
-  PNG (vanilla 13x26 / 99x42), so MPI's 26px/148px grid read frames
-  outside the image bounds.
+- interface/cockpit/{zoombutton,systeminfobutton}.frames.patch: match
+  restored MorePlanetInfo sprites (26x52 / 148x42), using 26x26 / 148x14
+  cells. The earlier vanilla-size workaround was superseded by the
+  complete navigation compatibility restoration below.
 - music/Gario_EldritchSporeSpawn.ogg: alias for FU's
   Gario_EldrichSporeSpawn.ogg (sic, upstream filename has no 't').
   spicedMenuMusic_Frackin references the typo'd path in the title
@@ -215,3 +215,118 @@ Translation-related (kept in the translation layer, not here)
   late-loading sources like the nitrogendeep and krakoth_fupatch paks.
   The explicit priority makes the intended "zz_ late slot" real - it
   lands just below female_translation (999999850).
+
+- FU/GiC compatibility (2026-09-28):
+  universe_server.config.patch restores garden/small as the starter when
+  GiC selected gic_garden, and recreates the deleted requiredSystemWorlds
+  with forest, desert, and moon. The official FU Progression Patch only
+  adds medic1/caveeentrance to gic_garden and one-time starter ores; GiC's
+  garden ore pool has zero vanilla ores. A normal FU garden start avoids
+  this progression dead end while GiC planets remain in the star pools.
+  interface/windowconfig/crafting.config is the installed FU base asset.
+  A full base override is necessary here: Extended GUI, FUExGUIPatch and
+  XRC patch widgets before a late JSON patch could recreate them. Their
+  patches failed against GiC's replacement pane. All existing JSON
+  patches still apply to this restored FU base. A final crafting.config.patch
+  restores the FU + Extended GUI layout and Korean captions so XRC's
+  smaller-pane positions cannot leave FU tabs outside the window; GiC recipes using plain
+  remain reachable through FU's plain tab. No upstream pak was changed.
+  See FU_GIC_COMPATIBILITY.md in the repository for verification details.
+
+- FU/GiC ship navigation (2026-09-28): GIC's space reverter restored
+  vanilla cockpit.config and cockpit.lua after FU, while MPI_Frackin_Patch
+  still supplied the cockpitview.lua renderer. Restore FU's config and
+  controller, FU's moon/volcanic icons, and the 12 MPI interface sprites
+  overwritten by the reverter. MPI's existing JSON patches and its FU
+  view integration now operate on a consistent FU base and matching art.
+  The FU ship travel capability checks, fuel cost and BYOS handling are
+  restored; GIC's descriptions and other mods' planet data patches remain.
+
+- Common teleporter dialog (2026-09-28): GiC replaces the vanilla pane
+  with 3 columns; Extended GUI changes its height; Bigger Teleporter GUI
+  then replaces it with 4 columns and different background dimensions.
+  Use one coherent Bigger Teleporter GUI (4x) pane with four columns,
+  as requested by the user, through a late teleportdialog.config.patch.
+  Three Bigger GUI background assets use private paths
+  so upstream global warpheader/body/footer replacements cannot resize it.
+  Destination configs, bookmarks, object scripts and translations remain.
+  This removes UI overlap as a possible cause of an empty destination list;
+  actual in-game reproduction is still required to confirm that symptom.
+
+- Starter-world search regression (2026-09-28.4): remove the impossible
+  same-system desert requirement introduced by the earlier restoration.
+  FU places deserts in Tier3; garden starts use White systems with Tier1
+  and Tier2 bodies. Retain a small garden start with forest and moon.
+  No existing worlds or player saves are edited. Guard Voided's cockpit
+  message plugin while the ship has no assigned celestial coordinate.
+
+- FU SAIL image selector (2026-09-28.4): NonEKI's global animation
+  templates hardcode nonEKI.png and ignore FU's selected imagePath.
+  A final hook switches to FU's generic animation templates for other
+  portraits, while retaining NonEKI's original 54-frame idle animation
+  when that portrait is active. Additional NonEKI emotes use FU refuse
+  frames on other portraits. Custom AI chip image selection is respected.
+  See FU_SAIL_COMPATIBILITY.md for scope and validation.
+
+- FU compatibility audit (2026-09-28.5): restore the installed FU
+  statWindow.config under FU RACES PATCH's replacement UI. Its loadGPS2
+  and loadGPS3 callbacks have no corresponding functions in current FU;
+  FU's immunity list schema and documented controls are restored. The
+  addon's race effect definitions remain active. FUExGUIPatch's old
+  craftingwheel patch is separately gated on lblArmorTab existing, using
+  the documented exception for editing an existing upstream patch body.
+  Reproducible source is compat_sources/FUExGUIPatch; deploy with
+  tools/repack_fu_exgui_compat.ps1. See FU_COMPATIBILITY_AUDIT.md.
+  Redirect six stale paths for perennial crystal plants (two), reefpod
+  surprise and reef cola, Compact Crops FU's xi_bulb2, and Improved Food
+  Descriptions' plutoniumradien. Original patch operations are retained;
+  their upstream paks are unchanged. Case-only target differences need
+  no redirects because OpenStarbound's asset map is case-insensitive.
+  Replay 69 Cosmic Husbandry FU patches after their late-loading parent,
+  and apply idempotent NPCSpawner FU crew lists (two menu configs) and
+  K'Rakoth deadbeat rifle FU values/tags after their respective parents.
+  Engine asset loading registers a patch only if its target already exists;
+  these 72 upstream patches previously ran before their base assets.
+
+- Player ship SAIL integration (2026-09-28.6): connect native Lustling,
+  Moogle, Arcanian and other eligible player ship consoles to FU SAIL;
+  retain race scripts and register customtechstation.lua once. 52 normal
+  and Tier0 console patches cover missing integration and duplicate scripts.
+  Dedicated GIC mission/guide consoles keep their own interaction handlers.
+  See FU_SAIL_COMPATIBILITY.md. Translation patch body corrections are
+  reproducible through compat_patch_overrides and
+  tools/repack_compat_patch_overrides.py; see TRANSLATION_PATCH_COMPATIBILITY.md.
+
+- Project 45 reload default (2026-09-28.8): LShift and RShift replace
+  V in /configs/project45/project45.binds. Existing local game bindings
+  were also migrated so this setting takes effect without resetting options.
+
+- Compatibility audit (2026-09-28.9): restore the translated first-food
+  radio typing speed and missing naturalcave2 warning; repair obsolete
+  translation widgets and malformed JSON, FU mission Tiled properties,
+  moved GIC addon targets and Enhanced Storage integration targets.
+  Preserve the native augment type on 56 FU EPPs. See
+  ALL_COMPATIBILITY_AUDIT.md for scope, deployment, and validation limits.
+
+- FFS compatibility (2026-09-28.10): reconnect two FU biome encounter
+  patches, three Apex dungeon drone replacements, and the Avali captain
+  weapon patch; deduplicate bonus tags on 92 FFS weapons while preserving
+  tag order and categories. See FFS_COMPATIBILITY_AUDIT.md.
+
+2026-09-28.11: large-mod audit; 39 obsolete compatibility targets restored (Knightfall, RPG Growth, Voyage/Arcana, Elithian, Shellguard, Extended Story). Optional parent dependencies now explicitly order this consolidation after 18 relevant sources. Scripts and energy tags are appended once; obsolete Voyage relic perks are excluded because current perks already exist. See LARGE_MOD_COMPATIBILITY_AUDIT.md.
+
+2026-09-28.12: remaining-patch audit; reconnect verified current targets, adapt encounter/dialog/species schemas, fix invalid audio and a deleted status script. See REMAINING_COMPATIBILITY_AUDIT.md.
+
+2026-09-29.1: FU BYOS forced back to the vanilla ship on gaterepair.
+  - quests/story/bootship.questtemplate.patch: NicoleAI (contents_1386367471)
+    fully replaces bootship.questtemplate and drops vanilla's
+    showAcceptDialog/showCompleteDialog/showFailDialog=false, so bootship is
+    offered with a dialog; a declined/cancelled offer returns to New and the
+    engine deletes it. Restored the three flags.
+  - frackinship/quests/fu_byos.questtemplate.patch +
+    female_overhaul/fu_byos_tracker.lua: FU completes fu_byos only after
+    bootship completes, and FU gaterepair.lua uses hasCompletedQuest("fu_byos")
+    to decide BYOS vs upgradeShip({shipLevel=3}). With bootship lost (GiC also
+    removes the gaterepair prerequisite, so the story continues anyway), the
+    BYOS ship was overwritten by the species T1-T3 structures. The wrapper also
+    completes fu_byos while on the own ship world with world property fu_byos.

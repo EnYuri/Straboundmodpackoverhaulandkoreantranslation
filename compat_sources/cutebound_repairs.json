@@ -1,0 +1,3032 @@
+[
+  {
+    "kind": "moved armor reskin",
+    "asset": "/items/armors/WWII/BRITISH/British Army/British Brodie Helmets/gic_british_brodie_1/Head.png",
+    "source": "/items/armors/WWII_LARP/BRITISH/gic_british_brodie_1/Head.png",
+    "item": "gic_british_brodie_1head",
+    "maskDecision": "unchanged",
+    "oldMaskExists": true,
+    "oldMaskEqualsCurrent": true
+  },
+  {
+    "kind": "moved armor reskin",
+    "asset": "/items/armors/WWII/GERMAN/Wehrmacht/Wehrmacht Early War/gic_wehrmacht_helmet_earlywar/head.png",
+    "source": "/items/armors/WWII_LARP/GERMAN/gic_wehrmacht_helmet_earlywar/head.png",
+    "item": "gic_wehrmacht_helmet_earlywarhead",
+    "maskDecision": "unchanged",
+    "oldMaskExists": false
+  },
+  {
+    "kind": "short arm melee aliases",
+    "asset": "/humanoid/saturn/backarm.frames",
+    "image": "/humanoid/saturn/backarm.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short arm melee aliases",
+    "asset": "/humanoid/saturn/frontarm.frames",
+    "image": "/humanoid/saturn/frontarm.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeAmb.frames",
+    "image": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeAmb.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeBlue.frames",
+    "image": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeBlue.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeCyan.frames",
+    "image": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeCyan.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeGold.frames",
+    "image": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeGold.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeGreen.frames",
+    "image": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeGreen.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeGrey.frames",
+    "image": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeGrey.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeLime.frames",
+    "image": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeLime.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeMagenta.frames",
+    "image": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeMagenta.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeOra.frames",
+    "image": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeOra.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaePurple.frames",
+    "image": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaePurple.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeRed.frames",
+    "image": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeRed.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeTeal.frames",
+    "image": "/humanoid/saturn/saturnfacetype/CsatfacesaturniidaeTeal.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeAltcolorA.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeAltcolorA.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeAltcolorB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeAltcolorB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeAltcolorC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeAltcolorC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeAmbB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeAmbB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeAmbC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeAmbC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeBlueB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeBlueB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeBlueC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeBlueC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeCyanB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeCyanB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeCyanC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeCyanC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGoldB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGoldB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGoldC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGoldC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGreenB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGreenB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGreenC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGreenC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGrey.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGrey.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGreyB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGreyB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGreyC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeGreyC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeLimeB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeLimeB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeLimeC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeLimeC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeMagentaB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeMagentaB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeMagentaC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeMagentaC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeOraB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeOraB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeOraC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeOraC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaePurpleB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaePurpleB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaePurpleC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaePurpleC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeRedB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeRedB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeRedC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeRedC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeTealB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeTealB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeTealC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/CsatfacesaturniidaeTealC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceBlank.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceBlank.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacePro.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacePro.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceProAlt.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceProAlt.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceProAltB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceProAltB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceProAltC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceProAltC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceProB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceProB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceProC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceProC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacebeard.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacebeard.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacebeardAlt.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacebeardAlt.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacebeardAltB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacebeardAltB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacebeardAltC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacebeardAltC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacebeardB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacebeardB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacebeardC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacebeardC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacefuzzy.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacefuzzy.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacefuzzyAlt.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacefuzzyAlt.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacefuzzyAltB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacefuzzyAltB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacefuzzyAltC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacefuzzyAltC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacefuzzyB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacefuzzyB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacefuzzyC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacefuzzyC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceimperial.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceimperial.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceimperialAlt.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceimperialAlt.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceimperialAltB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceimperialAltB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceimperialAltC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceimperialAltC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceimperialB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceimperialB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceimperialC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfaceimperialC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacesaturniidae.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacesaturniidae.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacesaturniidaeB.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacesaturniidaeB.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacesaturniidaeC.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacesaturniidaeC.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacesaturniidaeGloweye.frames",
+    "image": "/humanoid/saturn/saturnfacetype/Old and Unused/satfacesaturniidaeGloweye.png",
+    "source": "contents_1116097274.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcutePurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcutePurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcuteWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcuteWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcuteGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcuteGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcuteLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcuteLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcuteBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcuteBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcuteGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcuteGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short arm melee aliases",
+    "asset": "/humanoid/saturn2/frontarm.frames",
+    "image": "/humanoid/saturn2/frontarm.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcuteMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcuteMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcuteOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcuteOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcutePeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcutePeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short arm melee aliases",
+    "asset": "/humanoid/saturn2/backarm.frames",
+    "image": "/humanoid/saturn2/backarm.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcuteBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcuteBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcuteCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcuteCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcuteTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcuteTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satthickTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satthickTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftSOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftSOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbranchRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbranchRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyOrange.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyOrange.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathoodPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathoodPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftGold.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftGold.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornBPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornBPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satdamagedLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satdamagedLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbflyPeach.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbflyPeach.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satfluffRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satfluffRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satbcuteRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satbcuteRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornCyan.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornCyan.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornTeal.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornTeal.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalPurple.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalPurple.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornSBlack.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornSBlack.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sathornGreen.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sathornGreen.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satearBlue.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satearBlue.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satsoftLime.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satsoftLime.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalWhite.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalWhite.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/satleafMagenta.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/satleafMagenta.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/saturn2/saturnfacetype/sateternalRed.frames",
+    "image": "/humanoid/saturn2/saturnfacetype/sateternalRed.png",
+    "source": "contents_1698045793.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/artwork/humanoid/actor2/felin/eyesversion/head_female.frames",
+    "image": "/artwork/humanoid/actor2/felin/eyesversion/head_female.png",
+    "source": "20_sxb_SexBound_Cuter_Felin.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/artwork/humanoid/actor1/felin/head_male.frames",
+    "image": "/artwork/humanoid/actor1/felin/head_male.png",
+    "source": "20_sxb_SexBound_Cuter_Felin.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/artwork/humanoid/actor1/felin/eyesversion/head_male.frames",
+    "image": "/artwork/humanoid/actor1/felin/eyesversion/head_male.png",
+    "source": "20_sxb_SexBound_Cuter_Felin.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/artwork/humanoid/actor1/felin/head_female.frames",
+    "image": "/artwork/humanoid/actor1/felin/head_female.png",
+    "source": "20_sxb_SexBound_Cuter_Felin.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/artwork/humanoid/actor2/felin/eyesversion/head_male.frames",
+    "image": "/artwork/humanoid/actor2/felin/eyesversion/head_male.png",
+    "source": "20_sxb_SexBound_Cuter_Felin.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/artwork/humanoid/actor2/felin/head_female.frames",
+    "image": "/artwork/humanoid/actor2/felin/head_female.png",
+    "source": "20_sxb_SexBound_Cuter_Felin.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/artwork/humanoid/actor1/felin/eyesversion/head_female.frames",
+    "image": "/artwork/humanoid/actor1/felin/eyesversion/head_female.png",
+    "source": "20_sxb_SexBound_Cuter_Felin.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/artwork/humanoid/actor2/felin/head_male.frames",
+    "image": "/artwork/humanoid/actor2/felin/head_male.png",
+    "source": "20_sxb_SexBound_Cuter_Felin.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/0.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/0.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/1.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/1.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/10.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/10.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/11.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/11.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/12.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/12.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/13.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/13.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/14.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/14.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/15.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/15.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/16.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/16.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/17.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/17.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/18.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/18.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/19.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/19.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/2.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/2.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/3.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/3.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/4.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/4.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/5.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/5.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/6.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/6.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/7.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/7.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/8.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/8.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/9.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/9.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/S.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/S.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/X.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/X.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/asterisk.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/asterisk.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/box.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/box.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/chi.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/chi.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/colon.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/colon.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/crosshair.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/crosshair.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/diamond.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/diamond.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/dot_4.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/dot_4.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/epsilon.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/epsilon.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/exclamation.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/exclamation.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/flask.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/flask.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/heart.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/heart.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/hooks.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/hooks.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/key.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/key.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/lambda.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/lambda.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/little_o.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/little_o.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/note.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/note.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/psi.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/psi.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/slants.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/slants.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/spade.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/spade.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/specs.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/specs.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/star.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/star.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/tally_3.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/tally_3.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/gic_realisticnovakid/brand/umbrella.frames",
+    "image": "/humanoid/gic_realisticnovakid/brand/umbrella.png",
+    "source": "gic_reskin_contents_3090704586.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/X.frames",
+    "image": "/humanoid/novakid/brand/X.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/12.frames",
+    "image": "/humanoid/apex/beardmale/12.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/5.frames",
+    "image": "/humanoid/novakid/brand/5.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/box.frames",
+    "image": "/humanoid/novakid/brand/box.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/epsilon.frames",
+    "image": "/humanoid/novakid/brand/epsilon.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/15.frames",
+    "image": "/humanoid/apex/beardfemale/15.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/8.frames",
+    "image": "/humanoid/apex/beardfemale/8.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/6.frames",
+    "image": "/humanoid/apex/beardmale/6.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/heart.frames",
+    "image": "/humanoid/novakid/brand/heart.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/spade.frames",
+    "image": "/humanoid/novakid/brand/spade.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/14.frames",
+    "image": "/humanoid/novakid/brand/14.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/15.frames",
+    "image": "/humanoid/apex/beardmale/15.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/8.frames",
+    "image": "/humanoid/novakid/brand/8.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/S.frames",
+    "image": "/humanoid/novakid/brand/S.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/0.frames",
+    "image": "/humanoid/novakid/brand/0.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/9.frames",
+    "image": "/humanoid/apex/beardmale/9.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/tally_3.frames",
+    "image": "/humanoid/novakid/brand/tally_3.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/10.frames",
+    "image": "/humanoid/apex/beardfemale/10.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/3.frames",
+    "image": "/humanoid/apex/beardfemale/3.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/1.frames",
+    "image": "/humanoid/apex/beardmale/1.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/17.frames",
+    "image": "/humanoid/novakid/brand/17.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/flask.frames",
+    "image": "/humanoid/novakid/brand/flask.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/18.frames",
+    "image": "/humanoid/apex/beardmale/18.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/10.frames",
+    "image": "/humanoid/apex/beardmale/10.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/3.frames",
+    "image": "/humanoid/novakid/brand/3.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/13.frames",
+    "image": "/humanoid/apex/beardfemale/13.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/crosshair.frames",
+    "image": "/humanoid/novakid/brand/crosshair.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/6.frames",
+    "image": "/humanoid/apex/beardfemale/6.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/4.frames",
+    "image": "/humanoid/apex/beardmale/4.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/12.frames",
+    "image": "/humanoid/novakid/brand/12.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/asterisk.frames",
+    "image": "/humanoid/novakid/brand/asterisk.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/diamond.frames",
+    "image": "/humanoid/novakid/brand/diamond.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/13.frames",
+    "image": "/humanoid/apex/beardmale/13.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/6.frames",
+    "image": "/humanoid/novakid/brand/6.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/hooks.frames",
+    "image": "/humanoid/novakid/brand/hooks.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/9.frames",
+    "image": "/humanoid/apex/beardfemale/9.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/7.frames",
+    "image": "/humanoid/apex/beardmale/7.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/lambda.frames",
+    "image": "/humanoid/novakid/brand/lambda.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/1.frames",
+    "image": "/humanoid/apex/beardfemale/1.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/15.frames",
+    "image": "/humanoid/novakid/brand/15.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/note.frames",
+    "image": "/humanoid/novakid/brand/note.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short arm melee aliases",
+    "asset": "/humanoid/lana/frontarm.frames",
+    "image": "/humanoid/lana/frontarm.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/little_o.frames",
+    "image": "/humanoid/novakid/brand/little_o.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/colon.frames",
+    "image": "/humanoid/novakid/brand/colon.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/16.frames",
+    "image": "/humanoid/apex/beardmale/16.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/9.frames",
+    "image": "/humanoid/novakid/brand/9.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/key.frames",
+    "image": "/humanoid/novakid/brand/key.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/1.frames",
+    "image": "/humanoid/novakid/brand/1.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/11.frames",
+    "image": "/humanoid/apex/beardfemale/11.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/4.frames",
+    "image": "/humanoid/apex/beardfemale/4.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/2.frames",
+    "image": "/humanoid/apex/beardmale/2.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/18.frames",
+    "image": "/humanoid/novakid/brand/18.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/10.frames",
+    "image": "/humanoid/novakid/brand/10.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/19.frames",
+    "image": "/humanoid/apex/beardmale/19.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/11.frames",
+    "image": "/humanoid/apex/beardmale/11.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/4.frames",
+    "image": "/humanoid/novakid/brand/4.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/14.frames",
+    "image": "/humanoid/apex/beardfemale/14.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/7.frames",
+    "image": "/humanoid/apex/beardfemale/7.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/5.frames",
+    "image": "/humanoid/apex/beardmale/5.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/umbrella.frames",
+    "image": "/humanoid/novakid/brand/umbrella.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/13.frames",
+    "image": "/humanoid/novakid/brand/13.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/psi.frames",
+    "image": "/humanoid/novakid/brand/psi.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short arm melee aliases",
+    "asset": "/humanoid/lana/backarm.frames",
+    "image": "/humanoid/lana/backarm.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/slants.frames",
+    "image": "/humanoid/novakid/brand/slants.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/14.frames",
+    "image": "/humanoid/apex/beardmale/14.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/7.frames",
+    "image": "/humanoid/novakid/brand/7.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/20.frames",
+    "image": "/humanoid/apex/beardmale/20.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/star.frames",
+    "image": "/humanoid/novakid/brand/star.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/8.frames",
+    "image": "/humanoid/apex/beardmale/8.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/dot_4.frames",
+    "image": "/humanoid/novakid/brand/dot_4.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/2.frames",
+    "image": "/humanoid/apex/beardfemale/2.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/exclamation.frames",
+    "image": "/humanoid/novakid/brand/exclamation.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/16.frames",
+    "image": "/humanoid/novakid/brand/16.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/specs.frames",
+    "image": "/humanoid/novakid/brand/specs.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/17.frames",
+    "image": "/humanoid/apex/beardmale/17.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/2.frames",
+    "image": "/humanoid/novakid/brand/2.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/12.frames",
+    "image": "/humanoid/apex/beardfemale/12.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardfemale/5.frames",
+    "image": "/humanoid/apex/beardfemale/5.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/apex/beardmale/3.frames",
+    "image": "/humanoid/apex/beardmale/3.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/chi.frames",
+    "image": "/humanoid/novakid/brand/chi.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/19.frames",
+    "image": "/humanoid/novakid/brand/19.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short head ornament climb alias",
+    "asset": "/humanoid/novakid/brand/11.frames",
+    "image": "/humanoid/novakid/brand/11.png",
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "location": "overhaul"
+  },
+  {
+    "kind": "short corporate screen animation aliases",
+    "asset": "/objects/EMBLEMS_AND_SIGNS/gic_tvmonitor_large_corporate/gic_tvmonitor_large_corporate.frames",
+    "image": "/objects/EMBLEMS_AND_SIGNS/gic_tvmonitor_large_corporate/gic_tvmonitor_large_corporate.png"
+  },
+  {
+    "kind": "single frame Tonauac portrait alias",
+    "asset": "/interface/chatbubbles/tonauac.frames",
+    "image": "/interface/chatbubbles/tonauac.png"
+  }
+]

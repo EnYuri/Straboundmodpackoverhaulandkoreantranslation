@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/interactAction",
+      "value": "ScriptPane"
+    },
+    {
+      "op": "add",
+      "path": "/scripts",
+      "value": [
+        "viera_sail.lua",
+        "/objects/scripts/customtechstation.lua"
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/scriptDelta",
+      "value": 20
+    }
+  ]
+]

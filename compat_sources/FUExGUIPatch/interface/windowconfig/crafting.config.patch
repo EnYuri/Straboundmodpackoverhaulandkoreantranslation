@@ -1,0 +1,11 @@
+[
+  { "op": "replace", "path": "/paneLayout/lblMainTab/position/1", "value": 295 },
+  { "op": "replace", "path": "/paneLayout/lblWepsTab/position/0", "value": 52 },
+  { "op": "replace", "path": "/paneLayout/lblWepsTab/position/1", "value": 297 },
+  { "op": "replace", "path": "/paneLayout/lblBackupTab/position/1", "value": 297 },
+  { "op": "replace", "path": "/paneLayout/scrollArea/rect/3", "value": 295 },
+  { "op": "replace", "path": "/paneLayout/categories/buttons/0/position/1", "value": 295 },
+  { "op": "replace", "path": "/paneLayout/categories/buttons/1/position/1", "value": 295 },
+  { "op": "replace", "path": "/paneLayout/categories/buttons/2/position/1", "value": 295 },
+  { "op": "replace", "path": "/paneLayout/filter/focus", "value": true }
+]

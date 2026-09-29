@@ -1,0 +1,92 @@
+[
+  [
+    [
+      {
+        "op": "test",
+        "path": "/paneLayout/windowtitle/title"
+      },
+      {
+        "op": "replace",
+        "path": "/paneLayout/windowtitle/title",
+        "value": "  제작"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/paneLayout/windowtitle/subtitle"
+      },
+      {
+        "op": "replace",
+        "path": "/paneLayout/windowtitle/subtitle",
+        "value": "  수많은 것들을 만들어보세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/paneLayout/lblSchematics/value"
+      },
+      {
+        "op": "replace",
+        "path": "/paneLayout/lblSchematics/value",
+        "value": "^#b9b5b2;설계도"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/paneLayout/lblProducttitle/value"
+      },
+      {
+        "op": "replace",
+        "path": "/paneLayout/lblProducttitle/value",
+        "value": "^#b9b5b2;제작품"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/paneLayout/btnCraft/caption"
+      },
+      {
+        "op": "replace",
+        "path": "/paneLayout/btnCraft/caption",
+        "value": "만들기"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/paneLayout/btnStopCraft/caption"
+      },
+      {
+        "op": "replace",
+        "path": "/paneLayout/btnStopCraft/caption",
+        "value": "중지"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/paneLayout/lblProduct/value"
+      },
+      {
+        "op": "replace",
+        "path": "/paneLayout/lblProduct/value",
+        "value": "재료가 있는 것만 보기"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/paneLayout/filter/hint"
+      },
+      {
+        "op": "replace",
+        "path": "/paneLayout/filter/hint",
+        "value": "검색"
+      }
+    ]
+  ]
+]

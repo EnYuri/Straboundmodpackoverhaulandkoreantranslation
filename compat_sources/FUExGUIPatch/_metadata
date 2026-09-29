@@ -1,0 +1,15 @@
+{
+  "version": "1.2+compat20260928",
+  "tags": "User Interface",
+  "author": "thegamemaster1234",
+  "description": "Fixes incompatibilities between FU and Extended GUI.\n\nSpecifically, fixes the armor tab on the Spinning Wheel, the new mech horn/module tab at the Mech Crafting Table, and the new tabs for the Basic Crafting menu.",
+  "requires": [],
+  "name": "FUExGUIPatch",
+  "steamContentId": "1681880007",
+  "friendlyName": "FU + Extended GUI Patch",
+  "link": "steam://url/CommunityFilePage/1681880007",
+  "includes": [
+    "FrackinUniverse",
+    "Extended GUI"
+  ]
+}

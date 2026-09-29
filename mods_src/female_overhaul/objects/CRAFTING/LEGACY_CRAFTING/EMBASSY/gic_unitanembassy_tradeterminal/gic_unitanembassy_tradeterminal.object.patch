@@ -1,0 +1,265 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 36,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_t191"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_unitanembassy_tradeterminal",
+        "gic_embassy_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 36,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_t95"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_unitanembassy_tradeterminal",
+        "gic_embassy_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 36,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_t97"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_unitanembassy_tradeterminal",
+        "gic_embassy_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 30,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_svd"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_unitanembassy_tradeterminal",
+        "gic_embassy_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 50,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_usm_762x54mm_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_unitanembassy_tradeterminal",
+        "gic_embassy_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 50,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_usm_602x41mm_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_unitanembassy_tradeterminal",
+        "gic_embassy_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 50,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_lunar_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_unitanembassy_tradeterminal",
+        "gic_embassy_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 150,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_lunar_drummag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_unitanembassy_tradeterminal",
+        "gic_embassy_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 5,
+        "name": "gicexp_58x42mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_unitanembassy_tradeterminal",
+        "gic_embassy_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 5,
+        "name": "gicexp_602x41mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_unitanembassy_tradeterminal",
+        "gic_embassy_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 90,
+          "name": "gicexp_58x42mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 3,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_strelok_realityanchor_grenade"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 3,
+        "name": "gicexp_stanag_lunar_mag_psychic"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_unitanembassy_tradeterminal",
+        "gic_embassy_ammo"
+      ]
+    }
+  }
+]

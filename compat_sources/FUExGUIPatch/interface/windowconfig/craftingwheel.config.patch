@@ -1,0 +1,21 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/paneLayout/lblArmorTab"
+    },
+    {
+      "op": "replace",
+      "path": "/paneLayout/lblArmorTab/position",
+      "value": [
+        106,
+        297
+      ]
+    },
+    {
+      "op": "replace",
+      "path": "/paneLayout/categories/buttons/3/position/1",
+      "value": 295
+    }
+  ]
+]

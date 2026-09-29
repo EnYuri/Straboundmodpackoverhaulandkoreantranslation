@@ -1,0 +1,180 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/converse/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/converse/default/default",
+      "value": [
+        "우쭐댐. 무지개 도적단 길드가 그대를 위험으로부터 손쉽게 지켜주겠네!",
+        "용기. 나, 인증받은 무지개 도적은, 잘못된 행동을 찾아 순찰하겠네!",
+        "친근함. 나는 무지개 도적이지만, 그렇다고 도적질을 하는 건 아닐세!",
+        "대담함. 유니콘의 기교를 통해, 내 동료들을 지키겠소!",
+        "용감함. 무지개 도적단 길드는 무고한 자들을 위협으로부터 지킨다오!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/severe/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/severe/default/default",
+      "value": [
+        "분노. 다른 무지개 도적단이 이런 불명예에 대해 듣게 될 것이오!",
+        "좌절. 나같은 자는 이런 상황에 맞지 않소."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/final/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/final/default/default",
+      "value": [
+        "좌절. 난 가야겠소. 다른 무지개 도적단들이 이 일에 대해 알게 될 것이오!",
+        "짜증. 내 기술을 이 장소에서 활용할 수 있을 것이라 생각했건만, 대신 이런 모욕이나 당했군."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/beacon/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/beacon/default/default",
+      "value": [
+        "환영. 나같은 무지개 도적에게 무슨 볼일이 있소?",
+        "친근함. 내 전문 기술이 필요하시오?",
+        "주의. 이게 함정이 아닌지 확인해야겠소."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/rent/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/rent/default/default",
+      "value": [
+        "감사. 이건 무지개 도적단 길드에서 주는 선물이오.",
+        "감사. 무지개 도적단 길드가 나에게 집을 제공해준 것에 대해 그대에게 감사를 표하겠소!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/reattack/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/reattack/default/default",
+      "value": [
+        "용기. 그대는 내 앞에 쓰러지려고 돌아온 셈이오!",
+        "용감. 그 누구도 결투에서 무지개 도적을 이길 수는 없소!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/attack/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/attack/default/default",
+      "value": [
+        "무모함. 단숨에 끝내주겠소!",
+        "용감함. 정의의 스펙트럼 맛 좀 보시오!",
+        "사나움. 전투를 개시하겠소! 정의의 스펙트럼 맛 좀 보시오!",
+        "적대적. 어떤 바보가 무지개 도적과 대면하려 드는 것이오?",
+        "용기. 무지개 도적의 힘을 보여줄 때가 왔소!",
+        "영감받음. 무대로! 전투를 개시하겠소!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/killedTarget/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/killedTarget/default/default",
+      "value": [
+        "승리. 무지개 도적에게 또 한 번의 승리가 찾아왔소!",
+        "기쁨. 정의의 스펙트럼이 또 다시 성공했소!",
+        "행복함. 내 동료 무지개 도적들에게 이 승리를 전해야겠소!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/lostTarget/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/lostTarget/default/default",
+      "value": [
+        "실망. 적이 도망친 모양이오.",
+        "놀람. 우리 적이 전투를 할 준비가 됐다고 생각했소만?"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/outOfSight/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/outOfSight/default/default",
+      "value": [
+        "놀람. 적이 나의 무지개 시선을 피했소!",
+        "당황. 어디로 간 것이오?"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/cantReach/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/cantReach/default/default",
+      "value": [
+        "좌절. 내가 무지개 석궁을 가져왔더라면!",
+        "좌절. 내 무지개 검으로 칠 수 있게 가까이 오시오!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/cheerOn/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/cheerOn/default/default",
+      "value": [
+        "응원. 우리를 위협한 세력을 물리치시오!",
+        "응원. 우리의 적에게 정의를 맛보게 해주시오!",
+        "응원. 적들에게 패배의 스펙트럼을 맛보게 해주시오!"
+      ]
+    }
+  ]
+]

@@ -1,0 +1,118 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/reattack/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/reattack/default/default",
+      "value": [
+        "공격적. 거기 또 있구나!",
+        "관찰. 우리의 적이 돌아왔노라!",
+        "위협. 돌아왔군! 이제 너의 파멸을 맞이하라!",
+        "적대적. 이거 재밌겠군!",
+        "위협적. 내 목표물을 다시 봤노라!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/attack/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/attack/default/default",
+      "value": [
+        "공격적. 네 놈이 보인다!",
+        "관찰. 애처로운 여행자 녀석이 다가온다!",
+        "위협. 나의 눈길에서 탈출할 수는 없다!",
+        "적대적. 너의 이야기는 여기서 끝난다, 여행자!",
+        "악의적. 만물을 보는 십자군을 피할 수 있는 자는 없도다!",
+        "적대적. 너의 파멸을 목도하거라!",
+        "악의적. 칠흑같은 어둠을 맞이하거라!",
+        "위협적. 새로운 목표물을 봤도다!",
+        "분노. 어떤 비참한 놈이 우리의 영역을 지나는 것이냐?!",
+        "격노. 이 땅은 만물을 보는 십자군들의 것이니라!",
+        "적대적. 우리를 만난 자, 모든 희망을 버려라!",
+        "공격적. 우리 영역에 들어온 것을 후회하게 해주마!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/killedTarget/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/killedTarget/default/default",
+      "value": [
+        "만족. 만물을 보는 십자군이 또 한번 해냈노라!",
+        "불편. 우리의 십자군 활동을 지속해야만 한다!",
+        "신중함. 승리가 또 한번 찾아왔으나, 더 많은 적들이 나타날 것이다.",
+        "분노. 나는 더욱 강력한 적을 요구한다!",
+        "불쾌. 더 빨리 죽여버릴 수도 있었는데."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/lostTarget/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/lostTarget/default/default",
+      "value": [
+        "분노. 나의 영원한 눈길에서 어떻게 도망친 것이냐?!",
+        "놀람. 어떻게 내 눈길을 피한 것이냐?!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/outOfSight/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/outOfSight/default/default",
+      "value": [
+        "침울. 우리의 적이 도망갔으나, 분명 다시 돌아올 것이다!",
+        "충격. 나의 시야를 능가한 것인가?"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/cantReach/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/cantReach/default/default",
+      "value": [
+        "좌절. 우리의 적이 겁쟁이로구나!",
+        "분노. 우리의 적이 겁쟁이다! 내 앞으로 와라!",
+        "격노. 더 가까이 오너라, 적수여!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/cheerOn/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/cheerOn/default/default",
+      "value": [
+        "분노. 적들을 쓰러뜨려라!",
+        "지지. 만물을 보는 십자군이 필히 승리를 가져올 것이다!",
+        "지지. 나는 우리 적의 파괴를 보고 싶도다!"
+      ]
+    }
+  ]
+]

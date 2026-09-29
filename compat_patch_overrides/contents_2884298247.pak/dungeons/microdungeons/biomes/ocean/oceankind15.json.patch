@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/layers/3/objects/2/properties"
+    },
+    {
+      "op": "add",
+      "path": "/layers/3/objects/2/properties/parameters",
+      "value": "{\"treasurePools\":[\"basicTreasure\"]}"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/layers/3/objects/3/properties"
+    },
+    {
+      "op": "add",
+      "path": "/layers/3/objects/3/properties/parameters",
+      "value": "{\"treasurePools\":[\"basicTreasure\"]}"
+    }
+  ]
+]

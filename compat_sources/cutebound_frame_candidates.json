@@ -1,0 +1,1516 @@
+[
+  {
+    "source": "20_sxb_SexBound_Cuter_Felin.pak",
+    "image": "/artwork/humanoid/actor2/felin/body_female_pregnant.png",
+    "size": [
+      215,
+      220
+    ],
+    "frames": "/artwork/default.frames",
+    "bad": [
+      [
+        215,
+        43,
+        258,
+        86
+      ],
+      [
+        258,
+        43,
+        301,
+        86
+      ],
+      [
+        215,
+        86,
+        258,
+        129
+      ]
+    ]
+  },
+  {
+    "source": "20_sxb_SexBound_Cuter_Felin.pak",
+    "image": "/artwork/humanoid/actor2/felin/body_male_pregnant.png",
+    "size": [
+      215,
+      215
+    ],
+    "frames": "/artwork/default.frames",
+    "bad": [
+      [
+        215,
+        43,
+        258,
+        86
+      ],
+      [
+        258,
+        43,
+        301,
+        86
+      ],
+      [
+        215,
+        86,
+        258,
+        129
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/monsters/GENSOKYAN/gic_gensokyan_royalist_mortarman/magicmortar.png",
+    "size": [
+      543,
+      489
+    ],
+    "frames": "/monsters/GENSOKYAN/gic_gensokyan_royalist_mortarman/default.frames",
+    "bad": [
+      [
+        492,
+        126,
+        656,
+        252
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MILITARY/gic_keine_bazaar/gic_keine_bazaar_icon.png",
+    "size": [
+      16,
+      16
+    ],
+    "frames": "/objects/MILITARY/gic_keine_bazaar/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        24,
+        40
+      ],
+      [
+        24,
+        0,
+        48,
+        40
+      ],
+      [
+        48,
+        0,
+        72,
+        40
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MILITARY/gic_keine_bazaar/gic_keine_bazaar_portrait.png",
+    "size": [
+      24,
+      40
+    ],
+    "frames": "/objects/MILITARY/gic_keine_bazaar/default.frames",
+    "bad": [
+      [
+        24,
+        0,
+        48,
+        40
+      ],
+      [
+        48,
+        0,
+        72,
+        40
+      ],
+      [
+        72,
+        0,
+        96,
+        40
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MILITARY/gic_myourenbrewery_bar/gic_myourenbrewery_bar_portrait.png",
+    "size": [
+      88,
+      48
+    ],
+    "frames": "/objects/MILITARY/gic_myourenbrewery_bar/default.frames",
+    "bad": [
+      [
+        88,
+        0,
+        176,
+        48
+      ],
+      [
+        176,
+        0,
+        264,
+        48
+      ],
+      [
+        264,
+        0,
+        352,
+        48
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MILITARY/gic_synth_cirno/icon.png",
+    "size": [
+      32,
+      64
+    ],
+    "frames": "/objects/MILITARY/gic_synth_cirno/default.frames",
+    "bad": [
+      [
+        32,
+        0,
+        64,
+        64
+      ],
+      [
+        64,
+        0,
+        96,
+        64
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MILITARY/gic_synth_okuu/icon.png",
+    "size": [
+      32,
+      64
+    ],
+    "frames": "/objects/MILITARY/gic_synth_okuu/default.frames",
+    "bad": [
+      [
+        32,
+        0,
+        64,
+        64
+      ],
+      [
+        64,
+        0,
+        96,
+        64
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MISSIONS/LEGACY/gic_esther_chapter_1_lionheart/gic_esther_chapter_1_lionheartportrait.png",
+    "size": [
+      24,
+      32
+    ],
+    "frames": "/objects/MISSIONS/LEGACY/gic_esther_chapter_1_lionheart/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        24,
+        40
+      ],
+      [
+        24,
+        0,
+        48,
+        40
+      ],
+      [
+        48,
+        0,
+        72,
+        40
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MISSIONS/gic_character_fatherosferth/gic_character_fatherosferth_portrait.png",
+    "size": [
+      16,
+      32
+    ],
+    "frames": "/objects/MISSIONS/gic_character_fatherosferth/default.frames",
+    "bad": [
+      [
+        16,
+        0,
+        32,
+        32
+      ],
+      [
+        32,
+        0,
+        48,
+        32
+      ],
+      [
+        48,
+        0,
+        64,
+        32
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MISSIONS/gic_esther_chapter_1_springfield_bartender/gic_esther_chapter_1_springfield_bartenderlit222.png",
+    "size": [
+      88,
+      80
+    ],
+    "frames": "/objects/MISSIONS/gic_esther_chapter_1_springfield_bartender/default.frames",
+    "bad": [
+      [
+        88,
+        0,
+        176,
+        48
+      ],
+      [
+        176,
+        0,
+        264,
+        48
+      ],
+      [
+        264,
+        0,
+        352,
+        48
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MISSIONS/gic_esther_chapter_1_springfield_bartender/gic_esther_chapter_1_springfield_bartenderportrait.png",
+    "size": [
+      88,
+      48
+    ],
+    "frames": "/objects/MISSIONS/gic_esther_chapter_1_springfield_bartender/default.frames",
+    "bad": [
+      [
+        88,
+        0,
+        176,
+        48
+      ],
+      [
+        176,
+        0,
+        264,
+        48
+      ],
+      [
+        264,
+        0,
+        352,
+        48
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MISSIONS/gic_romancecharacter_ayashameimaru_firstdate/gic_romancecharacter_ayashameimaru_firstdate_portrait.png",
+    "size": [
+      24,
+      40
+    ],
+    "frames": "/objects/MISSIONS/gic_romancecharacter_ayashameimaru_firstdate/default.frames",
+    "bad": [
+      [
+        24,
+        0,
+        48,
+        40
+      ],
+      [
+        48,
+        0,
+        72,
+        40
+      ],
+      [
+        72,
+        0,
+        96,
+        40
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MISSIONS/gic_romancecharacter_ayashameimaru_office_hubworld/gic_romancecharacter_ayashameimaru_office_hubworldportrait.png",
+    "size": [
+      40,
+      40
+    ],
+    "frames": "/objects/MISSIONS/gic_romancecharacter_ayashameimaru_office_hubworld/default.frames",
+    "bad": [
+      [
+        40,
+        0,
+        80,
+        40
+      ],
+      [
+        80,
+        0,
+        120,
+        40
+      ],
+      [
+        120,
+        0,
+        160,
+        40
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MISSIONS/gic_romancecharacter_kogasatatara_combat/gic_romancecharacter_kogasatatara_combat_portrait.png",
+    "size": [
+      24,
+      32
+    ],
+    "frames": "/objects/MISSIONS/gic_romancecharacter_kogasatatara_combat/default.frames",
+    "bad": [
+      [
+        24,
+        0,
+        48,
+        32
+      ],
+      [
+        48,
+        0,
+        72,
+        32
+      ],
+      [
+        72,
+        0,
+        96,
+        32
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MISSIONS/gic_romancecharacter_kogasatatara_divine/gic_romancecharacter_kogasatatara_divine_portrait.png",
+    "size": [
+      24,
+      32
+    ],
+    "frames": "/objects/MISSIONS/gic_romancecharacter_kogasatatara_divine/default.frames",
+    "bad": [
+      [
+        24,
+        0,
+        48,
+        32
+      ],
+      [
+        48,
+        0,
+        72,
+        32
+      ],
+      [
+        72,
+        0,
+        96,
+        32
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MISSIONS/gic_romancecharacter_kogasatatara_robed/gic_romancecharacter_kogasatatara_robed_portrait.png",
+    "size": [
+      24,
+      32
+    ],
+    "frames": "/objects/MISSIONS/gic_romancecharacter_kogasatatara_robed/default.frames",
+    "bad": [
+      [
+        24,
+        0,
+        48,
+        32
+      ],
+      [
+        48,
+        0,
+        72,
+        32
+      ],
+      [
+        72,
+        0,
+        96,
+        32
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/MISSIONS/gic_romancecharacter_kogasatatara_true/gic_romancecharacter_kogasatatara_true_portrait.png",
+    "size": [
+      16,
+      32
+    ],
+    "frames": "/objects/MISSIONS/gic_romancecharacter_kogasatatara_true/default.frames",
+    "bad": [
+      [
+        16,
+        0,
+        32,
+        32
+      ],
+      [
+        32,
+        0,
+        48,
+        32
+      ],
+      [
+        48,
+        0,
+        64,
+        32
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_armoredbada_storycharacter/gic_armoredbada_storycharacter_portrait.png",
+    "size": [
+      24,
+      32
+    ],
+    "frames": "/objects/STORY/gic_armoredbada_storycharacter/default.frames",
+    "bad": [
+      [
+        24,
+        0,
+        48,
+        32
+      ],
+      [
+        48,
+        0,
+        72,
+        32
+      ],
+      [
+        72,
+        0,
+        96,
+        32
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_bada_storymerchant/gic_bada_storymerchant_portrait.png",
+    "size": [
+      48,
+      48
+    ],
+    "frames": "/objects/STORY/gic_bada_storymerchant/default.frames",
+    "bad": [
+      [
+        48,
+        0,
+        96,
+        48
+      ],
+      [
+        96,
+        0,
+        144,
+        48
+      ],
+      [
+        144,
+        0,
+        192,
+        48
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_blakemcdarmond_storycharacter/gic_blakemcdarmond_storycharacter_portrait.png",
+    "size": [
+      16,
+      32
+    ],
+    "frames": "/objects/STORY/gic_blakemcdarmond_storycharacter/default.frames",
+    "bad": [
+      [
+        16,
+        0,
+        32,
+        32
+      ],
+      [
+        32,
+        0,
+        48,
+        32
+      ],
+      [
+        48,
+        0,
+        64,
+        32
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_eskhatos_smugglersfort_merchant/gic_eskhatos_smugglersfort_merchant_portrait.png",
+    "size": [
+      72,
+      48
+    ],
+    "frames": "/objects/STORY/gic_eskhatos_smugglersfort_merchant/default.frames",
+    "bad": [
+      [
+        72,
+        0,
+        144,
+        48
+      ],
+      [
+        144,
+        0,
+        216,
+        48
+      ],
+      [
+        216,
+        0,
+        288,
+        48
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_eskhatos_thomasvane/gic_eskhatos_thomasvane_portrait.png",
+    "size": [
+      16,
+      32
+    ],
+    "frames": "/objects/STORY/gic_eskhatos_thomasvane/default.frames",
+    "bad": [
+      [
+        16,
+        0,
+        32,
+        32
+      ],
+      [
+        32,
+        0,
+        48,
+        32
+      ],
+      [
+        48,
+        0,
+        64,
+        32
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_jakobson_storycharacter/gic_jakobson_storycharacter_portrait.png",
+    "size": [
+      16,
+      32
+    ],
+    "frames": "/objects/STORY/gic_jakobson_storycharacter/default.frames",
+    "bad": [
+      [
+        16,
+        0,
+        32,
+        32
+      ],
+      [
+        32,
+        0,
+        48,
+        32
+      ],
+      [
+        48,
+        0,
+        64,
+        32
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_kogasatatara_badend_blacksmith/gic_kogasatatara_badend_blacksmith_portrait.png",
+    "size": [
+      64,
+      48
+    ],
+    "frames": "/objects/STORY/gic_kogasatatara_badend_blacksmith/default.frames",
+    "bad": [
+      [
+        64,
+        0,
+        128,
+        48
+      ],
+      [
+        128,
+        0,
+        192,
+        48
+      ],
+      [
+        192,
+        0,
+        256,
+        48
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_kogasatatara_blacksmith/gic_kogasatatara_blacksmith_portrait.png",
+    "size": [
+      64,
+      48
+    ],
+    "frames": "/objects/STORY/gic_kogasatatara_blacksmith/default.frames",
+    "bad": [
+      [
+        64,
+        0,
+        128,
+        48
+      ],
+      [
+        128,
+        0,
+        192,
+        48
+      ],
+      [
+        192,
+        0,
+        256,
+        48
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_nazrin_storymerchant/gic_nazrin_storymerchant_portrait.png",
+    "size": [
+      32,
+      40
+    ],
+    "frames": "/objects/STORY/gic_nazrin_storymerchant/default.frames",
+    "bad": [
+      [
+        32,
+        0,
+        64,
+        40
+      ],
+      [
+        64,
+        0,
+        96,
+        40
+      ],
+      [
+        96,
+        0,
+        128,
+        40
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_newrijikan_blacksmith_character/gic_newrijikan_blacksmith_character_portrait.png",
+    "size": [
+      16,
+      32
+    ],
+    "frames": "/objects/STORY/gic_newrijikan_blacksmith_character/default.frames",
+    "bad": [
+      [
+        16,
+        0,
+        32,
+        32
+      ],
+      [
+        32,
+        0,
+        48,
+        32
+      ],
+      [
+        48,
+        0,
+        64,
+        32
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_newrijikan_soldiers_characters/gic_newrijikan_soldiers_characters_portrait.png",
+    "size": [
+      32,
+      40
+    ],
+    "frames": "/objects/STORY/gic_newrijikan_soldiers_characters/default.frames",
+    "bad": [
+      [
+        32,
+        0,
+        64,
+        40
+      ],
+      [
+        64,
+        0,
+        96,
+        40
+      ],
+      [
+        96,
+        0,
+        128,
+        40
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_nightbird_izakaya_storymerchant/gic_nightbird_izakaya_storymerchant_portrait.png",
+    "size": [
+      112,
+      56
+    ],
+    "frames": "/objects/STORY/gic_nightbird_izakaya_storymerchant/default.frames",
+    "bad": [
+      [
+        112,
+        0,
+        224,
+        56
+      ],
+      [
+        224,
+        0,
+        336,
+        56
+      ],
+      [
+        336,
+        0,
+        448,
+        56
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_nightbird_izakaya_storymerchant_beforerenovation/gic_nightbird_izakaya_storymerchant_beforerenovation_portrait.png",
+    "size": [
+      112,
+      56
+    ],
+    "frames": "/objects/STORY/gic_nightbird_izakaya_storymerchant_beforerenovation/default.frames",
+    "bad": [
+      [
+        112,
+        0,
+        224,
+        56
+      ],
+      [
+        224,
+        0,
+        336,
+        56
+      ],
+      [
+        336,
+        0,
+        448,
+        56
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_nitori_storymerchant/gic_nitori_storymerchant_portrait.png",
+    "size": [
+      112,
+      56
+    ],
+    "frames": "/objects/STORY/gic_nitori_storymerchant/default.frames",
+    "bad": [
+      [
+        112,
+        0,
+        224,
+        56
+      ],
+      [
+        224,
+        0,
+        336,
+        56
+      ],
+      [
+        336,
+        0,
+        448,
+        56
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_sleazytrader_storymerchant/gic_sleazytrader_storymerchant_portrait.png",
+    "size": [
+      16,
+      32
+    ],
+    "frames": "/objects/STORY/gic_sleazytrader_storymerchant/default.frames",
+    "bad": [
+      [
+        16,
+        0,
+        32,
+        32
+      ],
+      [
+        32,
+        0,
+        48,
+        32
+      ],
+      [
+        48,
+        0,
+        64,
+        32
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_tylian_blacksmith/gic_tylian_blacksmith_portrait.png",
+    "size": [
+      80,
+      56
+    ],
+    "frames": "/objects/STORY/gic_tylian_blacksmith/default.frames",
+    "bad": [
+      [
+        80,
+        0,
+        160,
+        56
+      ],
+      [
+        160,
+        0,
+        240,
+        56
+      ],
+      [
+        240,
+        0,
+        320,
+        56
+      ]
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "image": "/objects/STORY/gic_wymond_storymerchant/gic_wymond_storymerchant_portrait.png",
+    "size": [
+      16,
+      32
+    ],
+    "frames": "/objects/STORY/gic_wymond_storymerchant/default.frames",
+    "bad": [
+      [
+        16,
+        0,
+        32,
+        32
+      ],
+      [
+        32,
+        0,
+        48,
+        32
+      ],
+      [
+        48,
+        0,
+        64,
+        32
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/ai/portraits/floranquestportrait.png",
+    "size": [
+      28,
+      40
+    ],
+    "frames": "/ai/portraits/default.frames",
+    "bad": [
+      [
+        66,
+        0,
+        132,
+        68
+      ],
+      [
+        198,
+        0,
+        264,
+        68
+      ],
+      [
+        66,
+        68,
+        132,
+        136
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/ai/portraits/humanquestportrait.png",
+    "size": [
+      28,
+      40
+    ],
+    "frames": "/ai/portraits/default.frames",
+    "bad": [
+      [
+        66,
+        0,
+        132,
+        68
+      ],
+      [
+        198,
+        0,
+        264,
+        68
+      ],
+      [
+        66,
+        68,
+        132,
+        136
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/cinematics/story/grand.png",
+    "size": [
+      41,
+      38
+    ],
+    "frames": "/cinematics/story/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        708,
+        277
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/interface/chatbubbles/noxcapture.png",
+    "size": [
+      66,
+      68
+    ],
+    "frames": "/interface/chatbubbles/default.frames",
+    "bad": [
+      [
+        54,
+        0,
+        108,
+        56
+      ],
+      [
+        162,
+        0,
+        216,
+        56
+      ],
+      [
+        54,
+        56,
+        108,
+        112
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/ai/portraits/apexquestportrait.png",
+    "size": [
+      28,
+      40
+    ],
+    "frames": "/ai/portraits/default.frames",
+    "bad": [
+      [
+        66,
+        0,
+        132,
+        68
+      ],
+      [
+        198,
+        0,
+        264,
+        68
+      ],
+      [
+        66,
+        68,
+        132,
+        136
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/objects/outpost/techlab/techlabscientistportrait.png",
+    "size": [
+      36,
+      36
+    ],
+    "frames": "/objects/outpost/techlab/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        40,
+        48
+      ],
+      [
+        40,
+        0,
+        80,
+        48
+      ],
+      [
+        80,
+        0,
+        120,
+        48
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/cinematics/story/finale/finaleoutpostesther.png",
+    "size": [
+      36,
+      40
+    ],
+    "frames": "/cinematics/story/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        708,
+        277
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/ai/portraits/novakidquestportrait.png",
+    "size": [
+      28,
+      40
+    ],
+    "frames": "/ai/portraits/default.frames",
+    "bad": [
+      [
+        66,
+        0,
+        132,
+        68
+      ],
+      [
+        198,
+        0,
+        264,
+        68
+      ],
+      [
+        66,
+        68,
+        132,
+        136
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/cinematics/story/finale/finaleoutpostsadcrew.png",
+    "size": [
+      160,
+      55
+    ],
+    "frames": "/cinematics/story/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        708,
+        277
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/cinematics/story/credits/sunset.png",
+    "size": [
+      653,
+      449
+    ],
+    "frames": "/cinematics/story/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        708,
+        277
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/cinematics/story/finale/finaleoutpostshockcrew.png",
+    "size": [
+      160,
+      55
+    ],
+    "frames": "/cinematics/story/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        708,
+        277
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/cinematics/story/credits/newgarden.png",
+    "size": [
+      653,
+      449
+    ],
+    "frames": "/cinematics/story/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        708,
+        277
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/cinematics/story/protectorshowoff.png",
+    "size": [
+      41,
+      38
+    ],
+    "frames": "/cinematics/story/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        708,
+        277
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/cinematics/story/credits/nurukoichidinner.png",
+    "size": [
+      653,
+      449
+    ],
+    "frames": "/cinematics/story/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        708,
+        277
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/objects/outpost/techlab/techlabscientisticon.png",
+    "size": [
+      16,
+      16
+    ],
+    "frames": "/objects/outpost/techlab/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        40,
+        48
+      ],
+      [
+        40,
+        0,
+        80,
+        48
+      ],
+      [
+        80,
+        0,
+        120,
+        48
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/cinematics/story/protectorgrabbed.png",
+    "size": [
+      93,
+      125
+    ],
+    "frames": "/cinematics/story/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        708,
+        277
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/interface/chatbubbles/nox.png",
+    "size": [
+      66,
+      68
+    ],
+    "frames": "/interface/chatbubbles/default.frames",
+    "bad": [
+      [
+        54,
+        0,
+        108,
+        56
+      ],
+      [
+        162,
+        0,
+        216,
+        56
+      ],
+      [
+        54,
+        56,
+        108,
+        112
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/cinematics/story/credits/tonauacpub.png",
+    "size": [
+      653,
+      449
+    ],
+    "frames": "/cinematics/story/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        708,
+        277
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/ai/portraits/hylotlquestportrait.png",
+    "size": [
+      28,
+      40
+    ],
+    "frames": "/ai/portraits/default.frames",
+    "bad": [
+      [
+        66,
+        0,
+        132,
+        68
+      ],
+      [
+        198,
+        0,
+        264,
+        68
+      ],
+      [
+        66,
+        68,
+        132,
+        136
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/ai/portraits/avianquestportrait.png",
+    "size": [
+      28,
+      40
+    ],
+    "frames": "/ai/portraits/default.frames",
+    "bad": [
+      [
+        66,
+        0,
+        132,
+        68
+      ],
+      [
+        198,
+        0,
+        264,
+        68
+      ],
+      [
+        66,
+        68,
+        132,
+        136
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/ai/portraits/glitchquestportrait.png",
+    "size": [
+      28,
+      40
+    ],
+    "frames": "/ai/portraits/default.frames",
+    "bad": [
+      [
+        66,
+        0,
+        132,
+        68
+      ],
+      [
+        198,
+        0,
+        264,
+        68
+      ],
+      [
+        66,
+        68,
+        132,
+        136
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/cinematics/story/protectorshockedstatic.png",
+    "size": [
+      41,
+      38
+    ],
+    "frames": "/cinematics/story/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        708,
+        277
+      ]
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "image": "/cinematics/story/credits/humancamp.png",
+    "size": [
+      653,
+      449
+    ],
+    "frames": "/cinematics/story/default.frames",
+    "bad": [
+      [
+        0,
+        0,
+        708,
+        277
+      ]
+    ]
+  }
+]

@@ -1,0 +1,1572 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 30,
+          "name": "gicexp_58x42mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_lunar_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 50,
+          "name": "gicexp_58x42mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_lunar_drummag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 20,
+          "name": "gicexp_68x51mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_federatsiya_68x51mm_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 10,
+          "name": "gic_762x54mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_usm_762x54mm_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 30,
+          "name": "gicexp_602x41mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_usm_602x41mm_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 50,
+          "name": "gicexp_602x41mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_usm_602x41mm_drum_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 50,
+          "name": "gicexp_57x28mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_ammo_57x28mm_box_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 90,
+          "name": "esc_10x25mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 3,
+        "name": "gicexp_ammo_10x30_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 60,
+          "name": "esc_10x25mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 4,
+        "name": "esc_ammo_10x25_glockmag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 8,
+          "name": "gic_1850x70mm_buckshot"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_nt80_1850x70mm_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 8,
+          "name": "gic_1850x70mm_slug"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_nt80_1850x70mm_mag_slug"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 12,
+          "name": "gicexp_116x56mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gic_stanag_federatsiya_116x56mm_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_762x63mm_enblocclip"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 8,
+        "name": "gic_762x63mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_gunpowder"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "esc_t56s"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "esc_t56mkit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_t56sm"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_dcdr516"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gicexp_ar57kit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_dcdc570_semi"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gicexp_dchr223"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gicexp_ar57kit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_dcdc570_semi"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gicexp_dchr223_auto"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gicexp_ar57kit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_dcdc570_semi"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gicexp_engineercap"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_engineercap_L"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gicexp_engineercap_gear"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_engineercap_gear_L"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gicexp_engineercap_L"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_engineercap"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gicexp_engineercap_gear_L"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_engineercap_gear"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_gunpowder"
+        },
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "copperbar"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "ironbar"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 90,
+        "name": "esc_10x25mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_gunpowder"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_gunpowder"
+        },
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "copperbar"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "ironbar"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 100,
+        "name": "gicexp_57x28mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_gunpowder"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_gunpowder"
+        },
+        {
+          "parameters": {},
+          "count": 3,
+          "name": "ironbar"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 90,
+        "name": "gicexp_58x42mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_gunpowder"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_gunpowder"
+        },
+        {
+          "parameters": {},
+          "count": 3,
+          "name": "ironbar"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 90,
+        "name": "gicexp_602x41mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_gunpowder"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_gunpowder"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "copperbar"
+        },
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "ironbar"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 60,
+        "name": "gicexp_68x51mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_gunpowder"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_gunpowder"
+        },
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "copperbar"
+        },
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "ironbar"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 50,
+        "name": "gicexp_116x56mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_gunpowder"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gicexp_detonite"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "volatilepowder"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 15,
+        "name": "gic_gunpowder"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_gunpowder"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "teleportercore"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_wrench"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "cp_warped_labtop"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_materials"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 10,
+          "name": "siliconboard"
+        },
+        {
+          "parameters": {},
+          "count": 5,
+          "name": "tungstenbar"
+        },
+        {
+          "parameters": {},
+          "count": 5,
+          "name": "copperbar"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "blackOps_shop"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_materials"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "338lm_awm_custom"
+        },
+        {
+          "parameters": {},
+          "count": 30,
+          "name": "gic_scrapmetal"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_wrench"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_awm_custom"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "bo_mp5k"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "bo_mp5_rail_kit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_mp5k_rail"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "bo_deagle"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_deagle_origin"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "bo_deagle_origin"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_deagle"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "bo_m4a1_sopmod"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "bo_Block2_kit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_m4a1_sopmod_b2"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 4,
+          "name": "gic_scrapmetal"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_gunpowder"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 48,
+        "name": "bo_crossbow_bolt"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 8,
+          "name": "gic_1090x33mm_bullet"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_deagle_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 25,
+          "name": "gic_1143x23mm_bullet"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_ump45_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 33,
+          "name": "gic_9x19mm_bullet"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_glock18_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 20,
+          "name": "bo_fn57_bullet"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_fn57_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 50,
+          "name": "bo_fn57_bullet"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_p90_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 35,
+          "name": "gic_9x19mm_bullet"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_mp5k_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 50,
+          "name": "bo_338norma_bullet"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_mg338_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 3,
+          "name": "gic_1850x70mm_buckshot"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_m26_mass_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 30,
+          "name": "gic_1143x23mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_kriss_vector_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 5,
+          "name": "gic_1270x108mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_gm6_lynx_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_gunpowder"
+        },
+        {
+          "parameters": {},
+          "count": 4,
+          "name": "copperbar"
+        },
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "ironbar"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_scrapmetal"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 20,
+        "name": "bo_408_cheytac_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_gunpowder"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_gunpowder"
+        },
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "copperbar"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "tungstenbar"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 80,
+        "name": "bo_338norma_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_gunpowder"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_gunpowder"
+        },
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "copperbar"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "tungstenbar"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 100,
+        "name": "bo_fn57_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_gunpowder"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_gunpowder"
+        },
+        {
+          "parameters": {},
+          "count": 3,
+          "name": "copperbar"
+        },
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "ironbar"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 90,
+        "name": "bo_black_out_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_gunpowder"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 7,
+          "name": "bo_408_cheytac_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_scrapmetal"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_cheytac_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 20,
+          "name": "gic_762x51mm_bullet"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_stanag_scarh_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 30,
+          "name": "bo_black_out_bullet"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_m4a1_sopmod_b2_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 8,
+          "name": "gic_1850x70mm_buckshot"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_aa12_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 8,
+          "name": "gic_1850x70mm_slug"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_aa12_slug_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_munitionsworkbench",
+        "gic_ammunition"
+      ]
+    }
+  }
+]

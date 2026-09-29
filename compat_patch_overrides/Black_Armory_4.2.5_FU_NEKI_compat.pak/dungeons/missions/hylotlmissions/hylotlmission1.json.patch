@@ -1,0 +1,13 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/layers/6/objects/3/properties"
+    },
+    {
+      "op": "add",
+      "path": "/layers/6/objects/3/properties/parameters",
+      "value": "{ \"radioMessages\" :[\"hylotlmission01\", \"black_hylotlmission01a\"] }"
+    }
+  ]
+]

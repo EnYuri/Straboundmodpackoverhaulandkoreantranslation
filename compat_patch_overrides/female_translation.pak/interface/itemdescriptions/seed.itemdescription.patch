@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/toolLabel"
+    },
+    {
+      "op": "replace",
+      "path": "/toolLabel/value",
+      "value": "도구"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/subTitle"
+    },
+    {
+      "op": "replace",
+      "path": "/subTitle/value",
+      "value": "도구"
+    }
+  ]
+]

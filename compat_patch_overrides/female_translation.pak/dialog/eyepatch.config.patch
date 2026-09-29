@@ -1,0 +1,184 @@
+[
+  [
+    [
+      {
+        "op": "test",
+        "path": "/converse/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/converse/default/default",
+        "value": [
+          "위협적. 만물을 보는 기사의 눈길을 그 누구도 피할 수 없다.",
+          "실용적. 만물을 보는 기사는 우리를 돕는 자를 돕는다.",
+          "불길함. 우리는 우리에게 집을 제공해준 자를 돕는다...",
+          "명상적. 눈의 기호가 영원히 노려보리라.",
+          "위협. 그 누구도 만물을 보는 기사의 눈길을 피할 수는 없다!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/default/default",
+        "value": [
+          "분노. 난 이 곳의 문제를 볼 수 있도다!",
+          "좌절. 그대는 문제가 보이지 않는 것인가?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/final/default/default",
+        "value": [
+          "위협. 만물을 보는 기사에게 무례를 범하는 것은 현명한 짓이 아니다!",
+          "위협적. 너의 무례한 행동은 그냥 넘어가지 않을 것이다..."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/default/default",
+        "value": [
+          "존중. 내가 필요했나?",
+          "인내. 만물을 보는 기사가 필요했는가?",
+          "관찰. 나의 존재를 필요로 했음을 보았도다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/default/default",
+        "value": [
+          "감사. 만물을 보는 기사를 도와준 자에게는 언제나 보답을 한다.",
+          "감사. 나에게 집을 제공해준 것에 대한 나의 감사를 받아라."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/reattack/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/reattack/default/default",
+        "value": [
+          "공격적. 네 놈이 보인다!",
+          "관찰. 적이 접근하고 있노라!",
+          "위협. 나의 눈길을 벗어날 순 없다!",
+          "적대적. 너의 패배를 네가 직접 보게 되리라!",
+          "위협적. 우리의 적을 다시 봤노라!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/attack/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/attack/default/default",
+        "value": [
+          "공격적. 네 놈이 보인다!",
+          "관찰. 적이 접근하고 있노라!",
+          "위협. 나의 눈길을 벗어날 순 없다!",
+          "적대적. 너의 패배를 네가 직접 보게 되리라!",
+          "위협적. 우리의 적을 다시 봤노라!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/killedTarget/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/killedTarget/default/default",
+        "value": [
+          "만족. 만족할만한 전투였도다.",
+          "기쁨. 이 싸움이 나의 전투를 향한 갈망을 지금은 충족시켰도다.",
+          "불편. 더 빨리 죽여버릴 수도 있었는데."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/lostTarget/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/lostTarget/default/default",
+        "value": [
+          "실망. 우리의 적을 놓치고 말았다...",
+          "놀람. 어떻게 나의 눈길을 피한 것이냐?!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/outOfSight/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/outOfSight/default/default",
+        "value": [
+          "놀람. 어떻게 나의 영원한 눈길을 탈출한 것이냐?!",
+          "충격. 나의 시선을 능가한 것인가?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/cantReach/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/cantReach/default/default",
+        "value": [
+          "좌절. 이 겁쟁이같은 적이 나와 가까이서 싸우려 하지 않는구나!",
+          "분노. 우리의 적은 겁쟁이다. 나에게 직접 와서 대적하라!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/cheerOn/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/cheerOn/default/default",
+        "value": [
+          "명상적. 어쩌면 전투를 관찰하는 것만으로도 충분할 수 있다.",
+          "지지. 이 승리를 보고 말겠다!",
+          "지지. 나는 우리 적의 패배를 목도하고 싶노라!"
+        ]
+      }
+    ]
+  ]
+]

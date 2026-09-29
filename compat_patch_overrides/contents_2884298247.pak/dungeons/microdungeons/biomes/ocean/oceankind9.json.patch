@@ -1,0 +1,13 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/layers/3/objects/7/properties"
+    },
+    {
+      "op": "add",
+      "path": "/layers/3/objects/7/properties/parameters",
+      "value": "{\"treasurePools\":[\"basicTreasure\"]}"
+    }
+  ]
+]

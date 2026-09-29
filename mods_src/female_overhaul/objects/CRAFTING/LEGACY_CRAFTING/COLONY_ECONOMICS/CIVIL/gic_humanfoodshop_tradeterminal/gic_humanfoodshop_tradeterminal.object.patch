@@ -1,0 +1,117 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 10,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_cucumberchips"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanfoodshop_tradeterminal",
+        "gic_trade_packaged"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 50,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_canned_pickle"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanfoodshop_tradeterminal",
+        "gic_trade_packaged"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 5,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_cucumber"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanfoodshop_tradeterminal",
+        "gic_trade_fresh"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 12,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_pawtucketpatriotale"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanfoodshop_tradeterminal",
+        "gic_trade_packaged"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 12,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_largebottledwater"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_humanfoodshop_tradeterminal",
+        "gic_trade_packaged"
+      ]
+    }
+  }
+]

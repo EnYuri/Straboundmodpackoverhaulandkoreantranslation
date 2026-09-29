@@ -1,0 +1,105 @@
+[
+  [
+    [
+      {
+        "op": "test",
+        "path": "/speedTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/speedTitleLabel/value",
+        "value": "발사 속도:"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/damagePerShotTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/damagePerShotTitleLabel/value",
+        "value": "대미지:"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/energyPerShotTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/energyPerShotTitleLabel/value",
+        "value": "에너지 소모량:"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "op": "test",
+        "path": "/burstCountTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/burstCountTitleLabel/value",
+        "value": "^#61be3f;Burst^reset;"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/critBonusTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/critBonusTitleLabel/value",
+        "value": "^yellow;C.Dmg%^reset;"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/critChanceTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/critChanceTitleLabel/value",
+        "value": "^#ee1414;Crit%^reset;"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/levelLabelTitle/value"
+      },
+      {
+        "op": "replace",
+        "path": "/levelLabelTitle/value",
+        "value": "^yellow;티어 ^reset;"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/levelTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/levelTitleLabel/value",
+        "value": "^yellow;티어 ^reset;"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/projectileCountTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/projectileCountTitleLabel/value",
+        "value": "^green;Projectiles^reset;"
+      }
+    ]
+  ]
+]

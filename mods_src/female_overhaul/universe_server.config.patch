@@ -1,0 +1,82 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/findStarterWorldParameters/starterWorld/terrestrialBiome",
+      "value": "gic_garden"
+    },
+    {
+      "op": "replace",
+      "path": "/findStarterWorldParameters/starterWorld",
+      "value": {
+        "terrestrialBiome": "garden",
+        "terrestrialSize": "small"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/findStarterWorldParameters/requiredSystemWorlds",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/findStarterWorldParameters/requiredSystemWorlds",
+      "value": [
+        {
+          "terrestrialBiome": "moon"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/findStarterWorldParameters/requiredSystemWorlds",
+      "value": [
+        {
+          "terrestrialBiome": "forest"
+        },
+        {
+          "terrestrialBiome": "desert"
+        },
+        {
+          "terrestrialBiome": "moon"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "path": "/findStarterWorldParameters/requiredSystemWorlds",
+      "value": [
+        {
+          "terrestrialBiome": "moon"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/findStarterWorldParameters/requiredSystemWorlds",
+      "value": [
+        {
+          "terrestrialBiome": "forest"
+        },
+        {
+          "terrestrialBiome": "moon"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "path": "/findStarterWorldParameters/requiredSystemWorlds",
+      "value": [
+        {
+          "terrestrialBiome": "moon"
+        }
+      ]
+    }
+  ]
+]

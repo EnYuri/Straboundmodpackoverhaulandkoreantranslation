@@ -1,0 +1,443 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "gic_consumergoods"
+        },
+        {
+          "parameters": {},
+          "count": 20,
+          "name": "gic_physicalcredit"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "mechboostersimple"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_shermech_tuned_booster"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "gic_medicalcargo"
+        },
+        {
+          "parameters": {},
+          "count": 30,
+          "name": "gic_physicalcredit"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_unitan_shermech"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_shermech_a3_mech"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_medicalcargo"
+        },
+        {
+          "parameters": {},
+          "count": 25,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_ngsw"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_medicalcargo"
+        },
+        {
+          "parameters": {},
+          "count": 25,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_usm122"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_medicalcargo"
+        },
+        {
+          "parameters": {},
+          "count": 20,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_sr3m"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_medicalcargo"
+        },
+        {
+          "parameters": {},
+          "count": 20,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_mp510"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_medicalcargo"
+        },
+        {
+          "parameters": {},
+          "count": 25,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_ftacscout"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_medicalcargo"
+        },
+        {
+          "parameters": {},
+          "count": 20,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_uscm14ebr"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 4,
+          "name": "gic_opium_pack"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_whirlwind_scope"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 10,
+          "name": "gic_opium_pack"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 3,
+        "name": "gicexp_stanag_usm_602x41mm_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 10,
+          "name": "gic_opium_pack"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 3,
+        "name": "gicexp_stanag_federatsiya_68x51mm_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 12,
+          "name": "gic_opium_pack"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 2,
+        "name": "gicexp_stanag_usm_602x41mm_drum_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 6,
+          "name": "gic_opium_pack"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_federatsiya_68x51mm_mag_ap"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 6,
+          "name": "gic_opium_pack"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_usm_602x41mm_mag_airburst"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 6,
+          "name": "gic_opium_pack"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 3,
+        "name": "gicexp_ammo_10x30_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 6,
+          "name": "gic_opium_pack"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_stanag_federatsiya_68x51mm_mag_tp"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_ammo"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 4,
+          "name": "gic_opium_pack"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 20,
+        "name": "gicexp_68x51mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_wartorn",
+        "gic_blackmarket_ammo"
+      ]
+    }
+  }
+]

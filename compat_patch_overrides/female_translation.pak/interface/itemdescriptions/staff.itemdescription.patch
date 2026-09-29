@@ -1,0 +1,72 @@
+[
+  [
+    [
+      {
+        "op": "test",
+        "path": "/levelTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/levelTitleLabel/value",
+        "value": "레벨:"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "op": "test",
+        "path": "/levelLabelTitle/value"
+      },
+      {
+        "op": "replace",
+        "path": "/levelLabelTitle/value",
+        "value": "^yellow;티어 ^reset;"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/staffDamageTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/staffDamageTitleLabel/value",
+        "value": "피해량:"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/staffEnergyTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/staffEnergyTitleLabel/value",
+        "value": "에너지 소모량:"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/staffProjectileTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/staffProjectileTitleLabel/value",
+        "value": "# 투사체 수:"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/staffRangeTitleLabel/value"
+      },
+      {
+        "op": "replace",
+        "path": "/staffRangeTitleLabel/value",
+        "value": "최대 사거리"
+      }
+    ]
+  ]
+]

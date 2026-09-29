@@ -1,0 +1,13 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/layers/4/objects/117/properties"
+    },
+    {
+      "op": "add",
+      "path": "/layers/4/objects/117/properties/parameters",
+      "value": "{ \"radioMessages\" : [\"glitchmission01\", \"glitchmission01a\", \"black_glitchmission01b\"] }"
+    }
+  ]
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "source": "contents_2010883172.pak",
+    "old": "/monsters/missions/ballista/ballista.monstertype",
+    "target": "/monsters/mission/ballista/ballista.monstertype",
+    "provider": "packed.pak",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/statusSettings/stats/bleedingImmunity",
+        "value": {
+          "baseValue": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "source": "contents_2010883172.pak",
+    "old": "/monsters/missions/helicultist/helicultist.monstertype",
+    "target": "/monsters/mission/helicultist/helicultist.monstertype",
+    "provider": "packed.pak",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/statusSettings/stats/bleedingImmunity",
+        "value": {
+          "baseValue": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "source": "contents_2010883172.pak",
+    "old": "/monsters/missions/kluexsentry/kluexsentry.monstertype",
+    "target": "/monsters/mission/kluexsentry/kluexsentry.monstertype",
+    "provider": "packed.pak",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/statusSettings/stats/bleedingImmunity",
+        "value": {
+          "baseValue": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "source": "contents_2010883172.pak",
+    "old": "/monsters/missions/kluextotem/kluextotem.monstertype",
+    "target": "/monsters/mission/kluextotem/kluextotem.monstertype",
+    "provider": "packed.pak",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/statusSettings/stats/bleedingImmunity",
+        "value": {
+          "baseValue": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "source": "contents_2010883172.pak",
+    "old": "/monsters/missions/minidrone/minidrone.monstertype",
+    "target": "/monsters/mission/minidrone/minidrone.monstertype",
+    "provider": "packed.pak",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/statusSettings/stats/bleedingImmunity",
+        "value": {
+          "baseValue": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "source": "contents_2957477338.pak",
+    "old": "/quests/scripts/quests.config",
+    "target": "/quests/quests.config",
+    "provider": "packed.pak",
+    "ops": [
+      [
+        {
+          "op": "test",
+          "path": "/objectiveDescriptions/mwh_questsCheck",
+          "inverse": true
+        },
+        {
+          "op": "add",
+          "path": "/objectiveDescriptions/mwh_questsCheck",
+          "value": "다음 퀘스트 완료: <quest>"
+        }
+      ]
+    ]
+  },
+  {
+    "source": "contents_2957477338.pak",
+    "old": "/items/active/weapons/melee/abilities/spear/arcana_spear_ability_dashFlurry.weaponability",
+    "target": "/items/active/weapons/melee/abilities/spear/arcana_spear_ability_dashFlurry/arcana_spear_ability_dashFlurry.weaponability",
+    "provider": "contents_2359135864.pak",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/ability/type",
+        "value": "arcana_spear_ability_dashFlurry"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Knightframe Armor/armor/armor/knightframe_head.head",
+    "target": "/items/knightfall/armor/knightframe/armor/armor/knightframe_head.head",
+    "provider": "contents_2010883172.pak",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "headarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Knightframe Armor/armor/helmets/knightframe_explorer/knightframe_explorer.head",
+    "target": "/items/knightfall/armor/knightframe/armor/helmets/knightframe_explorer/knightframe_explorer.head",
+    "provider": "contents_2010883172.pak",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "headarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Knightframe Armor/armor/helmets/knightframe_guardian/knightframe_guardian.head",
+    "target": "/items/knightfall/armor/knightframe/armor/helmets/knightframe_guardian/knightframe_guardian.head",
+    "provider": "contents_2010883172.pak",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "headarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Knightframe Armor/armor/helmets/knightframe_hunter/knightframe_hunter.head",
+    "target": "/items/knightfall/armor/knightframe/armor/helmets/knightframe_hunter/knightframe_hunter.head",
+    "provider": "contents_2010883172.pak",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "headarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Knightframe Armor/armor/helmets/knightframe_visor/knightframe_visor.head",
+    "target": "/items/knightfall/armor/knightframe/armor/helmets/knightframe_visor/knightframe_visor.head",
+    "provider": "contents_2010883172.pak",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "headarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Trooperframe Armor/armor/armor/trooperframe_head.head",
+    "target": "/items/knightfall/armor/trooperframe/armor/armor/trooperframe_head.head",
+    "provider": "contents_2010883172.pak",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "headarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Trooperframe Armor/armor/helmets/trooperframe_combatant/trooperframe_combatant.head",
+    "target": "/items/knightfall/armor/trooperframe/armor/helmets/trooperframe_combatant/trooperframe_combatant.head",
+    "provider": "contents_2010883172.pak",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "headarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Trooperframe Armor/armor/helmets/trooperframe_defender/trooperframe_defender.head",
+    "target": "/items/knightfall/armor/trooperframe/armor/helmets/trooperframe_defender/trooperframe_defender.head",
+    "provider": "contents_2010883172.pak",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "headarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Trooperframe Armor/armor/helmets/trooperframe_locator/trooperframe_locator.head",
+    "target": "/items/knightfall/armor/trooperframe/armor/helmets/trooperframe_locator/trooperframe_locator.head",
+    "provider": "contents_2010883172.pak",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "headarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Voidframe Armor/armor/armor/voidframe_head.head",
+    "target": "/items/knightfall/armor/voidframe/armor/armor/voidframe_head.head",
+    "provider": "contents_2010883172.pak",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "headarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/monsters/crawlers/triplodish/spiderwalker/spiderwalker2.monstertype",
+    "target": "/monsters/crawlers/triplodish/spiderwalker2/spiderwalker2.monstertype",
+    "provider": "FrackinUniverse_contents_729480149.pak",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/scripts/-",
+        "value": "/monsters/ivrpgmonster.lua"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/monsters/crawlers/triplodish/spiderwalker/spiderwalker2pet.monstertype",
+    "target": "/monsters/crawlers/triplodish/spiderwalker2/spiderwalker2pet.monstertype",
+    "provider": "FrackinUniverse_contents_729480149.pak",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/scripts/-",
+        "value": "/monsters/ivrpgmonster.lua"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/monsters/flyers/tentaclespawnerish/tentaclespawner2.monstertype",
+    "target": "/monsters/flyers/tentaclespawnerish/bloodbag/tentaclespawner2.monstertype",
+    "provider": "FrackinUniverse_contents_729480149.pak",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/scripts/-",
+        "value": "/monsters/ivrpgmonster.lua"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/monsters/walkers/bunnything/bunnything.monstertype",
+    "target": "/monsters/walkers/bunnything/bunnything/bunnything.monstertype",
+    "provider": "FrackinUniverse_contents_729480149.pak",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/scripts/-",
+        "value": "/monsters/ivrpgmonster.lua"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/monsters/walkers/fleshleechish/fleshleech2/fleshleech2.monstertype",
+    "target": "/monsters/walkers/fleshleech/fleshleech2.monstertype",
+    "provider": "FrackinUniverse_contents_729480149.pak",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/scripts/-",
+        "value": "/monsters/ivrpgmonster.lua"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/monsters/walkers/golemish/pogolem/pogolem.monstertype",
+    "target": "/monsters/dungeon/pogolem/pogolem.monstertype",
+    "provider": "packed.pak",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/scripts/-",
+        "value": "/monsters/ivrpgmonster.lua"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/monsters/walkers/zoro/zoro.monstertype",
+    "target": "/monsters/walkers/poptopish/slimetop/zoro.monstertype",
+    "provider": "FrackinUniverse_contents_729480149.pak",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/scripts/-",
+        "value": "/monsters/ivrpgmonster.lua"
+      }
+    ]
+  },
+  {
+    "source": "contents_2980872125.pak",
+    "old": "/codex/mwhaddon_codex_misc/mwhaddon_codex_covenant_1.codex",
+    "target": "/codex/mwhaddon_codex_covenant/mwhaddon_codex_covenant_1.codex",
+    "provider": "contents_2957477338.pak",
+    "ops": [
+      [
+        {
+          "op": "test",
+          "path": "/species",
+          "inverse": true
+        },
+        {
+          "op": "add",
+          "path": "/species",
+          "value": "arcana"
+        }
+      ]
+    ]
+  },
+  {
+    "source": "contents_3010955719.pak",
+    "old": "/items/active/weapons/ranged/unique/seeker/avikan-seeker.activeitem",
+    "target": "/items/active/weapons/ranged/unique/seeker/avikan-seekersmg.activeitem",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/itemTags/-",
+        "value": "energy"
+      }
+    ]
+  },
+  {
+    "source": "contents_3010955719.pak",
+    "old": "/items/active/weapons/melee/unique/primecircuit/trink-primecircuit.activeitem",
+    "target": "/items/active/weapons/melee/unique/primecircuit/trinkprimecircuit.activeitem",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/itemTags/-",
+        "value": "energy"
+      }
+    ]
+  },
+  {
+    "source": "contents_3010955719.pak",
+    "old": "/items/active/weapons/ranged/alliance/manufactured/shotgun/aae/thea-aaepoliceshotgun.activeitem",
+    "target": "/items/active/weapons/ranged/alliance/manufactured/shotgun/aae/thea-policeshotgun.activeitem",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/itemTags/-",
+        "value": "energy"
+      }
+    ]
+  },
+  {
+    "source": "BL3_Shellguard_Addon_contents_2225814372.pak",
+    "old": "/monsters/boss/sgdragonboss/sgdragonboss.monstertype",
+    "target": "/monsters/boss/sgdragonboss/dragonboss.monstertype",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/baseParameters/statusSettings/stats/fireStatusImmunity/baseValue",
+        "value": 0
+      },
+      {
+        "op": "replace",
+        "path": "/baseParameters/statusSettings/stats/iceStatusImmunity/baseValue",
+        "value": 0
+      },
+      {
+        "op": "replace",
+        "path": "/baseParameters/statusSettings/stats/electricStatusImmunity/baseValue",
+        "value": 0
+      },
+      {
+        "op": "replace",
+        "path": "/baseParameters/statusSettings/stats/poisonStatusImmunity/baseValue",
+        "value": 0
+      },
+      {
+        "op": "replace",
+        "path": "/baseParameters/statusSettings/stats/specialStatusImmunity/baseValue",
+        "value": 0
+      },
+      {
+        "op": "replace",
+        "path": "/baseParameters/statusSettings/stats/healingStatusImmunity/baseValue",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "source": "BL3_Shellguard_Addon_contents_2225814372.pak",
+    "old": "/monsters/boss/sgcrystalboss/sgcrystalboss.monstertype",
+    "target": "/monsters/boss/sgcrystalboss/crystalboss.monstertype",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/scripts/-",
+        "value": "/monsters/boss/bossMonster_bl3health.lua"
+      },
+      {
+        "op": "replace",
+        "path": "/baseParameters/statusSettings/stats/fireStatusImmunity/baseValue",
+        "value": 0
+      },
+      {
+        "op": "replace",
+        "path": "/baseParameters/statusSettings/stats/iceStatusImmunity/baseValue",
+        "value": 0
+      },
+      {
+        "op": "replace",
+        "path": "/baseParameters/statusSettings/stats/electricStatusImmunity/baseValue",
+        "value": 0
+      },
+      {
+        "op": "replace",
+        "path": "/baseParameters/statusSettings/stats/poisonStatusImmunity/baseValue",
+        "value": 0
+      },
+      {
+        "op": "replace",
+        "path": "/baseParameters/statusSettings/stats/specialStatusImmunity/baseValue",
+        "value": 0
+      },
+      {
+        "op": "replace",
+        "path": "/baseParameters/statusSettings/stats/healingStatusImmunity/baseValue",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "source": "contents_1433991809.pak",
+    "old": "/objects/farmables/mellowroot/wildmellowrootseed.object",
+    "target": "/objects/farmables/mellowroot/wildmellowroot.object",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/stages/2/resetToStage",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "source": "Extended_Story_contents_899795176.pak",
+    "old": "/monsters/boss/cultistboss/cultisboss.monstertype",
+    "target": "/monsters/boss/cultistboss/cultistboss.monstertype",
+    "ops": [
+      {
+        "op": "add",
+        "path": "/baseParameters/statusSettings/stats/abysseffectImmunity",
+        "value": {
+          "baseValue": 1.0
+        }
+      },
+      {
+        "op": "add",
+        "path": "/baseParameters/statusSettings/stats/ionizedImmunity",
+        "value": {
+          "baseValue": 1.0
+        }
+      },
+      {
+        "op": "add",
+        "path": "/baseParameters/statusSettings/stats/acidicbacteriaImmunity",
+        "value": {
+          "baseValue": 1.0
+        }
+      },
+      {
+        "op": "add",
+        "path": "/baseParameters/statusSettings/stats/decayingairImmunity",
+        "value": {
+          "baseValue": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Knightframe Armor/armor/armor/knightframe_chest.chest",
+    "target": "/items/knightfall/armor/knightframe/armor/armor/knightframe_chest.chest",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "chestarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Knightframe Armor/armor/armor/knightframe_legs.legs",
+    "target": "/items/knightfall/armor/knightframe/armor/armor/knightframe_legs.legs",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "legarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Knightframe Armor/armor/helmets/knightframe_commander/knightframe_commanderhead.head",
+    "target": "/items/knightfall/armor/knightframe/armor/helmets/knightframe_commander/knightframe_commander.head",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "headarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Trooperframe Armor/armor/armor/trooperframe_chest.chest",
+    "target": "/items/knightfall/armor/trooperframe/armor/armor/trooperframe_chest.chest",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "chestarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Trooperframe Armor/armor/armor/trooperframe_legs.legs",
+    "target": "/items/knightfall/armor/trooperframe/armor/armor/trooperframe_legs.legs",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "legarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Voidframe Armor/armor/armor/voidframe_chest.chest",
+    "target": "/items/knightfall/armor/voidframe/armor/armor/voidframe_chest.chest",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "chestarmour"
+      }
+    ]
+  },
+  {
+    "source": "RPG_contents_1115920474.pak",
+    "old": "/items/armor/Voidframe Armor/armor/armor/voidframe_legs.legs",
+    "target": "/items/knightfall/armor/voidframe/armor/armor/voidframe_legs.legs",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "/category",
+        "value": "legarmour"
+      }
+    ]
+  }
+]

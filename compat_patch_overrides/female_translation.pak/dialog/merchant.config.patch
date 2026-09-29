@@ -1,0 +1,5213 @@
+[
+  [
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/default/default",
+        "value": [
+          "내 상점에 온 걸 환영해!",
+          "원하는 물건 있어?",
+          "뭘 도와줄까?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/apex/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/apex/default",
+        "value": [
+          "만지다 부서지면 사야 합니다.",
+          "원하는 것이 뭡니까?",
+          "빨리 필요한 물건이 뭔지 말해보세요.",
+          "불법적인 물품은 저한테 팔지 마세요, 그런 문제에 휘말리고 싶지 않으니."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/avian/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/avian/default",
+        "value": [
+          "안녕하세요, 뭘 원하시나요?",
+          "오늘 뭘 도와드릴까요?",
+          "안녕하세요. 원하는 물건이 있나요?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/floran/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/floran/default",
+        "value": [
+          "플로란은 네가 상점에 온 걸 환영한다.",
+          "플로란이 뭘 갖다주면 되나?",
+          "플로란에게 픽셀 주면, 플로란이 물건 주겠다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/glitch/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/glitch/default",
+        "value": [
+          "축하. 제 상점에 온 걸 환영합니다.",
+          "온화함. 전부 다 사고 싶은 거 압니다!",
+          "기쁨. 손님이군!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/hylotl/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/hylotl/default",
+        "value": [
+          "당신의 행복에 기여할 수 있는 거래를 할 수 있다고 믿습니다.",
+          "제 물품 중에 마음에 드는 것이 있을 겁니다.",
+          "맘껏 보다 가시지요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/novakid/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/novakid/default",
+        "value": [
+          "안녕하신가, 친구. 뭐 필요한 게 있나?",
+          "반갑네, 파트너! 뭔가 사고 싶나?",
+          "팔 물건이 많다네. 관심 있나?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/default/default",
+        "value": [
+          "다음에 또 봅시다!",
+          "또 오세요!",
+          "픽셀은 언제든지 환영이야.",
+          "거래를 해서 즐거웠어!",
+          "방문해주셔서 감사합니다.",
+          "만나서 반가웠습니다!",
+          "언제 또 거래합시다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/human/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/human/default",
+        "value": [
+          "다음에 또 봅시다!",
+          "또 오세요!",
+          "픽셀은 언제든지 환영이야.",
+          "거래를 해서 즐거웠어!",
+          "방문해주셔서 감사합니다.",
+          "만나서 반가웠습니다!",
+          "언제 또 거래합시다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/avian/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/avian/default",
+        "value": [
+          "정말 좋았습니다. 또 오시길 바랄게요.",
+          "후원에 정말 감사드립니다.",
+          "거래 감사합니다. 또 와주세요.",
+          "다음에 또 보길 바랄게요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/glitch/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/glitch/default",
+        "value": [
+          "주장. 또 오시오!",
+          "기쁨. 후원 고맙소.",
+          "실망. 더 살 생각은 없습니까?",
+          "우울. 그럼 다음에 봅시다, 손님."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/hylotl/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/hylotl/default",
+        "value": [
+          "또 와주시오.",
+          "거래 감사합니다, 또 와주세요.",
+          "다음에 또 보길 바라지요.",
+          "방문 감사합니다. 추후에도 거래할 날이 오길 기원하겠습니다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/apex/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/apex/default",
+        "value": [
+          "또 와주세요. 안전하게 지내시고요.",
+          "나중에 또 픽셀 들고 절 찾아와주시길 바랄게요.",
+          "또 만날 날을 기다리겠습니다, 친구여.",
+          "때가 되면 또 오세요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/floran/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/floran/default",
+        "value": [
+          "또 와라. 나중에 더 쓰고 가라!",
+          "플로란은 네가 또 오면 좋겠다.",
+          "플로란은 최고의 물건을 파니까, 너는 곧 돌아올 거다.",
+          "플로란은 기쁘다. 네가 또 오면 좋겠다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/novakid/default"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/novakid/default",
+        "value": [
+          "다음에 또 만날 날을 기다리겠네, 친구!",
+          "몸 조심하며 지내게!",
+          "또 여기에 들르거든 여기에도 와주게, 파트너!",
+          "다음에 또 보지, 파트너!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/default/default",
+        "value": [
+          "이리 오세요. 제 상점에서 거래를 합시다!",
+          "여기 와서 제 물건 좀 보고 가세요!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/glitch/default"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/glitch/default",
+        "value": [
+          "진심. 내 상점으로 따라와주시오.",
+          "유혹. 제 상점으로 따라와줬으면 좋겠군요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/avian/default"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/avian/default",
+        "value": [
+          "절 따라오세요, 상점으로 안내하겠습니다.",
+          "제 상점에서 거래를 할 수 있어요. 절 따라와주세요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/apex/default"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/apex/default",
+        "value": [
+          "물건들은 제 상점에 있습니다. 절 따라오면 보여드리지요.",
+          "제 상점까지 오신다면, 거래를 해봅시다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/hylotl/default"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/hylotl/default",
+        "value": [
+          "제 상점까지 따라와주세요.",
+          "제 상점을 보여드려도 되겠습니까? 이 쪽입니다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/floran/default"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/floran/default",
+        "value": [
+          "플로란 상점까지 따라와라.",
+          "상점은 이 쪽이다. 플로란 따라와라."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/novakid/default"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/novakid/default",
+        "value": [
+          "이 쪽일세, 파트너.",
+          "날 따라오면, 상점을 보여주겠네."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/default/default",
+        "value": [
+          "제 상점에 잘 오셨습니다!",
+          "이제 다 왔네요. 뭘 도와드릴까요?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/human/default"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/human/default",
+        "value": [
+          "제 상점에 잘 오셨습니다!",
+          "이제 다 왔네요. 뭘 도와드릴까요?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/glitch/default"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/glitch/default",
+        "value": [
+          "신남. 이제 거래를 할 수 있겠군.",
+          "기쁨. 이제 서로 거래를 할 수 있겠네요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/avian/default"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/avian/default",
+        "value": [
+          "좋아요, 다 왔습니다. 뭘 드릴까요?",
+          "이제 마음껏 둘러보고 원하는 물건을 찾아보세요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/apex/default"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/apex/default",
+        "value": [
+          "이제 우리끼리만 있으니, 거래 얘기를 해봅시다.",
+          "좋아요, 이제 거래합시다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/hylotl/default"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/hylotl/default",
+        "value": [
+          "이제 왔군요. 환영합니다. 뭘 사고 싶으신지요?",
+          "여기서는 특별한 물품을 팔고 있습니다. 한 번 둘러보시지요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/floran/default"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/floran/default",
+        "value": [
+          "여기가 내 상점이다. 뭐 필요하냐?",
+          "다 왔다! 플로란이 뭘 도와주면 되나?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/novakid/default"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/novakid/default",
+        "value": [
+          "이제 다 왔으니, 거래를 해보겠나?",
+          "여기가 내 상점일세. 이제 거래 좀 해보겠나?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/default/default",
+        "value": [
+          "물건 팝니다!",
+          "제 멋진 물건들 좀 보고 가세요!",
+          "합당한 가격에 드립니다!",
+          "싸게 사가세요!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/apex/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/apex/default",
+        "value": [
+          "이리 와서 제 물건 좀 보세요.",
+          "물건 팝니다, 와서 보세요!",
+          "이리 오세요, 손님.",
+          "오세요! 물건 좀 사가세요!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/avian/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/avian/default",
+        "value": [
+          "와서 거래하세요!",
+          "제가 뭔가 팔아도 될까요? 매입도 한답니다.",
+          "전 물건이 많으니 뭔가 사고 싶다면 지금이 기회에요.",
+          "안녕하세요. 뭔가 사거나 파실 것이 있으신가요?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/floran/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/floran/default",
+        "value": [
+          "물건 샤라! 물건 판다!",
+          "이리 와셔 플로란 물건 봐라.",
+          "플로란 상점이 최고다! 와서 샤가라!",
+          "많은 것들을 판다!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/glitch/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/glitch/default",
+        "value": [
+          "유혹. 와서 사가세요!",
+          "신남. 손님이십니까?",
+          "환영. 와서 내 물건 좀 보시오!",
+          "자랑. 명성이 있는 상인에게서 물건을 사가시오!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/hylotl/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/hylotl/default",
+        "value": [
+          "내 상점은 물건 때문에 빛이 날 지경이지요. 와서 보세요.",
+          "전 당신이 필요한 걸 사갈 때 가장 기쁘답니다.",
+          "제 물건은 얼마든지 둘러보셔도 됩니다.",
+          "난 물건이 많으니, 당신 마음에 들만한 것이 분명 있을 겁니다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/novakid/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/novakid/default",
+        "value": [
+          "뭔가 원하는 물품이 있나?",
+          "오늘 운이 좋군 그래? 나한테서 좋은 물건을 사갈 수 있을 테니 말이지!",
+          "난 아주 좋은 물건들을 판다네!",
+          "픽셀을 쓰고 싶다면, 잘 왔네!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/default/default",
+        "value": [
+          "여기 뭔가가 바뀐 것 같아요. 마음에 들지 않아요!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/human/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/human/default",
+        "value": [
+          "내 상점에서 뭔가 훔쳐가기라도 했어요?",
+          "상점의 물품 배치가 변한 것 같은데, 뭔가 잘못됐어...",
+          "내 상점이 이리 바뀌었는데 뭘 팔 수가 있겠어요?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/floran/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/floran/default",
+        "value": [
+          "물건 훔쳐가지 마라...",
+          "내 상점을 원래 모습대로 돌려놔라.",
+          "플로란 상점은 전이 더 나았다. 원래대로 바꿔놔라!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/glitch/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/glitch/default",
+        "value": [
+          "혼란. 내 상점이 달라졌군.",
+          "불편. 당신이 바꾼 것이 마음에 들지 않소. 원래대로 해주시오.",
+          "착잡. 내 상점이 전과 같아졌으면 좋겠어요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/avian/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/avian/default",
+        "value": [
+          "음, 내 상점은 전에 이러지 않았던 것 같은데...",
+          "마음에 들지 않는데, 이전 상태로 돌려주실 수 있나요?",
+          "제 물건들을 원래 자리에 놓아주세요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/apex/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/apex/default",
+        "value": [
+          "내 물건을 돌려주시오.",
+          "물건 가져가지 말고... 제 상점 좀 고쳐주세요.",
+          "가져간 물건을 원래 자리에 놓아주셨으면 좋겠군요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/hylotl/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/hylotl/default",
+        "value": [
+          "왜 제 상점을 어지럽혔습니까? 원래대로 고쳐주시오.",
+          "여긴 제 상점입니다! 왜 여기 물건을 가져가는 겁니까?",
+          "내 상점을 이런 식으로 다루는 것은 매우 모욕적이고 비도덕적인 행위요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/novakid/default"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/novakid/default",
+        "value": [
+          "뭔가 이상한 것 같구만...",
+          "상점에 뭔가 문제가 있는 것 같네. 자네가 뭔가 건드린 것이 분명해.",
+          "이런 식으로 상점 물건을 마음대로 건드리면 안되는 것일세."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/default/default",
+        "value": [
+          "제 집좀 고쳐주세요!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/human/default"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/human/default",
+        "value": [
+          "벽을 고쳐줄 수 있나요? 피해 때문에 손님들이 오질 않아요.",
+          "손님이 오게 하려면 벽을 고쳐야 해요. 도와주실 수 있나요?",
+          "내 상점은 최상의 상태여야만 해! 고쳐줄 수 있겠어?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/floran/default"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/floran/default",
+        "value": [
+          "플로란의 벽 좀 고쳐줘라.",
+          "플로란의 상점에 문제가 생겼다. 고쳐줄 슈 있나?",
+          "플로란은 픽셀이 좋은데, 벽이 이래셔는 픽셀을 벌 슈가 없다. 벽을 고쳐줄 슈 있나?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/glitch/default"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/glitch/default",
+        "value": [
+          "기죽음. 벽이 손상을 입었고 손님 수도 줄었소. 상점 벽을 고쳐줄 수 있겠소?",
+          "걱정. 이 부서진 벽들 때문에 손님이 오지 않아요. 고쳐야만 해요.",
+          "희망. 제 상점을 고쳐줄 수 있나요? 그러면 손님들이 또 올지도 몰라요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/avian/default"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/avian/default",
+        "value": [
+          "상점에 벽이 없으니 거래하기가 어려워요. 피해를 고쳐줄 수 있나요?",
+          "제 상점 벽 좀 고쳐주시겠어요?",
+          "저 벽이 피해가 커서, 손님을 잃을까봐 걱정이에요... 고쳐줄 수 있나요?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/apex/default"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/apex/default",
+        "value": [
+          "제 상점에 구멍이 났네요...",
+          "지붕이 무너지기 전에 여기 벽을 고쳐주셨으면 좋겠어요.",
+          "벽을 고쳐주세요. 제 상점에 좋지 않은 영향을 준다고요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/hylotl/default"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/hylotl/default",
+        "value": [
+          "제 상점이 취약해졌습니다. 벽을 고치지 않으면 사업을 계속할 수 없습니다.",
+          "제 상점의 벽을 고쳐주신다면 정말 감사하겠습니다.",
+          "당연히도, 피해가 손님들을 몰아내고 있군. 벽을 고쳐주십시오."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/novakid/default"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/novakid/default",
+        "value": [
+          "여기 바람 들어오는 거 나만 느끼는 거 아니지?",
+          "이 장소는 보안관이 사격장에서 낸 총구멍보다 더 많은 구멍이 있구만.",
+          "상점에 구멍이 있으면 손님이 오지 않을 것 아닌가!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/default/default",
+        "value": [
+          "여긴 제 상점인 줄 알았는데요!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/human/default"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/human/default",
+        "value": [
+          "여긴 일인용인 줄 알았는데!? 난 상점 공유할 생각 없어!",
+          "여기에 누가 이사 오게 할 작정이에요?!",
+          "왜 증서를 또 둔 거에요?!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/floran/default"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/floran/default",
+        "value": [
+          "여긴 플로란 장쇼다. 다른 녀석이랑 같이 살 생각 없다.",
+          "여기 누가 이사 오게 하면, 플로란이 먹어버릴 거다.",
+          "플로란은 상점 공유 안 할 거다! 두 번째 증서를 없애줘라."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/glitch/default"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/glitch/default",
+        "value": [
+          "충격. 제 상점에 상인을 또 들일 생각입니까?",
+          "혼란. 하지만 여긴 내 상점인데... 다른 사람과 같이 살 수는 없어요.",
+          "슬픔. 여긴 내 상점인 줄 알았는데."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/avian/default"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/avian/default",
+        "value": [
+          "왜 제 상점에 다른 사람을 들일려고 하는 거에요?",
+          "제 상점을 임대할 생각이세요? 이건 분명 실수일 거에요...",
+          "제 상점에 증서가 또 있어요. 분명 실수겠죠."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/apex/default"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/apex/default",
+        "value": [
+          "여기 왜 증서가 또 있습니까? 절 추방할 생각이에요?",
+          "여긴 제 상점입니다. 제가 임대했잖습니까. 다른 사람을 들이면 안돼요.",
+          "전 이거 인정 못 합니다. 제 상점은 공유할 생각 없어요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/hylotl/default"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/hylotl/default",
+        "value": [
+          "외부인이랑 제 상점을 공유하고 싶지 않은데요.",
+          "솔직히 말해서, 제 상점에 다른 상인을 들이려고 하는 건 용납할 수 없군요.",
+          "왜 제 상점에 증서가 또 있습니까? 이거 분명 실수겠지요?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/novakid/default"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/novakid/default",
+        "value": [
+          "여긴 내 상점일세. 여기 또 다른 녀석을 들일 생각 하지 말게나.",
+          "이 상점은 공유할 생각 없네. 두 번째 증서를 없애버리게.",
+          "여긴 내 상점이란 말일세, 제길. 난 공유할 생각 없네."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/default/default",
+        "value": [
+          "이런 환경에선 물건을 팔 수 없어요!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/human/default"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/human/default",
+        "value": [
+          "이런 환경에선 물건을 팔 수 없어요!",
+          "이런 근무 조건은 용납할 수가 없어...",
+          "여기서 이렇게는 일 못합니다!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/floran/default"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/floran/default",
+        "value": [
+          "플로란은 이렇게는 일할 슈 없다!",
+          "플로란은 화났다. 플로란 상점 고쳐라.",
+          "아직도 플로란 상점 안 고쳐놨다!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/glitch/default"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/glitch/default",
+        "value": [
+          "악화. 상황을 좀 낫게 해주시오. 지금 여기서 일하는 건 불가능하오.",
+          "좌절. 제 요청을 들었다고 생각했는데.",
+          "불행. 아직도 제 상점이 고쳐지지 않았군요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/avian/default"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/avian/default",
+        "value": [
+          "이건 선을 넘었어요, 제발 좀 고쳐주세요!",
+          "이런 식으로는 더는 살 수 없어요. 제 상점을 좀 보라고요.",
+          "제 인내심이 바닥나려고 하고 있어요. 상점을 고쳐줘요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/apex/default"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/apex/default",
+        "value": [
+          "여길 좀 보라고요! 제 상점을 고쳐주지 않으면 떠날 거에요.",
+          "이런 무관심은 더는 견딜 수가 없네요...",
+          "화난 에이펙스를 무시하는 사람은 바보밖에 없어요. 제 상점을 고쳐주세요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/hylotl/default"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/hylotl/default",
+        "value": [
+          "내 요청은 묵살당하고, 귀는 틀어막아버렸군... 창피하기 짝이 없는 일이야.",
+          "이런 상황은 참으로 통탄스럽군. 모두 그대의 책임이겠지만.",
+          "이건 모욕이나 따로 없소. 내 상점을 고쳐놓으시오."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/novakid/default"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/novakid/default",
+        "value": [
+          "내가 떠나기 전에 여길 고쳐두는 것이 좋을 걸세.",
+          "이 장소도 참으로 실망스럽군... 고칠 건가 말 건가?",
+          "이 상점은 전이랑 달라졌군. 원래대로 고쳐놓게."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/final/default/default",
+        "value": [
+          "더는 못 참아!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/human/default"
+      },
+      {
+        "op": "replace",
+        "path": "/final/human/default",
+        "value": [
+          "더는 못 참아!",
+          "됐어, 관둘래. 다른 곳에서 장사하겠어!",
+          "관둬, 난 다른 곳에서 장사할 거니까!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/floran/default"
+      },
+      {
+        "op": "replace",
+        "path": "/final/floran/default",
+        "value": [
+          "더는 못 참는다. 플로란은 갈 거다!",
+          "플로란은 관둘 거다! 플로란은 더는 이런 식으로 일 못 한다!",
+          "더는 못 견디겠다. 플로란은 다른 행성에서 물건 팔 거다!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/glitch/default"
+      },
+      {
+        "op": "replace",
+        "path": "/final/glitch/default",
+        "value": [
+          "압도. 더는 견딜 수 없소. 난 떠나겠어.",
+          "분노. 난 이런 상점에서 일할 생각은 없어.",
+          "화남. 이렇게 되길 바라지 않았는데, 더는 있을 수가 없겠군."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/avian/default"
+      },
+      {
+        "op": "replace",
+        "path": "/final/avian/default",
+        "value": [
+          "나 같은 상인은 더 나은 대우를 받을 자격이 있어. 더는 못 참아.",
+          "이제 끝이야. 난 갈래. 더 나은 상점을 찾아봐야지.",
+          "난 다른 사람을 존중하려 노력했는데, 당신은 그러질 않으니 참 안타깝네요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/apex/default"
+      },
+      {
+        "op": "replace",
+        "path": "/final/apex/default",
+        "value": [
+          "더 나은 삶을 살려고 여기로 이사 온 건데... 참 실망스럽군.",
+          "이런 곳보단 더 나은 곳에서 일하겠어!",
+          "더는 못 참아. 난 가야겠어. 넌 끔찍한 지주야."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/hylotl/default"
+      },
+      {
+        "op": "replace",
+        "path": "/final/hylotl/default",
+        "value": [
+          "더는 여기서 못 살겠군. 떠나겠어.",
+          "이제 더는 존중해줄 수 없군. 언젠가 당신의 실수를 알아채길 바라겠소.",
+          "이 환경은 나라는 존재에게 유해하기 짝이 없어. 떠나야만 해."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/novakid/default"
+      },
+      {
+        "op": "replace",
+        "path": "/final/novakid/default",
+        "value": [
+          "이 상점은 플루팔로 급수관보다 더 막장이군! 난 당장 떠나겠네.",
+          "여기서 또 잘 바엔 차라리 선인장 위에서 자겠어.",
+          "제기랄! 여기 참 엉망이군! 난 가야겠어."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/default/default",
+        "value": [
+          "집이다!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/human/default"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/human/default",
+        "value": [
+          "불렀어요?",
+          "뭔가 사고 싶은 게 있나요?",
+          "안녕하세요! 뭔가 사고 싶은 게 있나요?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/floran/default"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/floran/default",
+        "value": [
+          "플로란이 뭔가 팔아주길 원하나?",
+          "뭔가 필요한 것이 있나?",
+          "날 찾고 있었나?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/glitch/default"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/glitch/default",
+        "value": [
+          "유쾌. 나 여기 있소다! 뭔가 사거나 팔고 싶소?",
+          "친절. 뭘 도와드릴까요?",
+          "겸손. 사고 싶은 물건이 있으신가요?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/avian/default"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/avian/default",
+        "value": [
+          "만나서 반가워요. 뭔가 사고 싶으세요?",
+          "반가워요! 뭘 도와드릴까요?",
+          "친절한 분을 만나니 좋네요. 뭘 드릴까요?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/apex/default"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/apex/default",
+        "value": [
+          "날 필요로 해서 왔습니다. 뭘 도와드릴까요?",
+          "뭡니까, 친구여? 뭔가 사고 싶습니까?",
+          "뭔가 사거나 팔고 싶어서 불렀습니까?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/hylotl/default"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/hylotl/default",
+        "value": [
+          "어떤 일로 토론하길 원하십니까? 아니면 뭔가 찾는 것이 있습니까?",
+          "반갑습니다. 저와 거래하고 싶었습니까?",
+          "뭘 드릴까요?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/novakid/default"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/novakid/default",
+        "value": [
+          "뭘 도와주면 되나?",
+          "뭔가 거래하고 싶은 것이 있나?",
+          "날 불러서 잽싸게 뛰어왔다네. 뭔가 사고 싶나?"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/default/default"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/default/default",
+        "value": [
+          "제 상점을 도와주신 것에 대한 선물이에요!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/human/default"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/human/default",
+        "value": [
+          "좋아하실 거라 생각해서 준비했어요.",
+          "제 상점을 도와주신 것에 대한 선물이에요!",
+          "지금까지 해준 모든 일에 감사하는 의미로 선물을 준비했습니다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/floran/default"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/floran/default",
+        "value": [
+          "여기 널 위한 선물이다!",
+          "플로란은 고맙다는 말 하려고 이거 준비했다.",
+          "플로란은 상점이 마음에 든다. 플로란은 너에게 선물 주면셔 고맙다고 할 거다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/glitch/default"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/glitch/default",
+        "value": [
+          "친절. 지속적인 후원에 감사하는 의미로 준비했소. 받으시오.",
+          "감사. 내 상점을 도와준 것에 대한 선물이니 받아주세요.",
+          "낙관적. 아주 잘 되고 있군요! 여기 감사 선물입니다."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/avian/default"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/avian/default",
+        "value": [
+          "지금껏 도와주신 데에 대한 감사 선물이에요.",
+          "고맙다고 말하려고 선물을 가져왔어요. 좋아하셨으면 좋겠네요.",
+          "선물을 좋아하셨으면 좋겠네요!"
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/apex/default"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/apex/default",
+        "value": [
+          "이 선물에 제 감사를 담았습니다.",
+          "사업이 잘 되는군요. 여기 감사 선물입니다.",
+          "사업이 아주 잘 되고 있습니다! 감사의 의미로 부디 이 선물을 받아주세요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/hylotl/default"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/hylotl/default",
+        "value": [
+          "감사의 증표로 이 선물을 받아주세요.",
+          "이 감사 선물을 받아주세요.",
+          "이 선물을 통해 당신의 도움에 대한 감사의 마음이 전해지면 좋겠군요."
+        ]
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/novakid/default"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/novakid/default",
+        "value": [
+          "여기 도움을 준 데에 대한 보답일세. 정말 고맙네.",
+          "좋은 상점에서 날 안전하게 지켜줬군. 자네한테 고맙다고 전하지.",
+          "날 도와줘서 고맙네. 자넨 이걸 받을 자격이 있어.",
+          "난 감사 인사를 하는 법은 잘 모르지만, 지금은 이걸 받아주게.",
+          "그건 자네 것일세. 마음대로 쓰게."
+        ]
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "op": "test",
+        "path": "/beacon/fenerox/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/fenerox/default/0",
+        "value": "어서 오세요, 이상한 사람. 뭐 필요하세요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/fenerox/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/fenerox/default/1",
+        "value": "나 왔어! 거래할 거지?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/fenerox/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/fenerox/default/2",
+        "value": "전화했어? 뭐 사려고?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/fumantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/fumantizi/default/0",
+        "value": "안녕, 친구! 뭐 필요해?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/fumantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/fumantizi/default/1",
+        "value": "전화하셨어요? 나 왔어, 자, 이제 쇼핑하러 가자!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/mantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/mantizi/default/0",
+        "value": "안녕, 친구! 뭐 필요해?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/mantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/mantizi/default/1",
+        "value": "전화했어? 나 왔어, 빨리 가게로 가자!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/nightar/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/nightar/default/0",
+        "value": "저 왔습니다, 영주님!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/nightar/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/nightar/default/1",
+        "value": "어떻게 도와드릴까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/nightar/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/nightar/default/2",
+        "value": "뭔가 얻고 싶은 게 있으신가요, 전하?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/skath/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/skath/default/0",
+        "value": "뭘 도와드릴까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/skath/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/skath/default/1",
+        "value": "뭘 도와드릴까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/skath/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/skath/default/2",
+        "value": "안녕하세요. 제가 필요한 게 있나요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/skath/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/skath/default/3",
+        "value": "제가 도와드릴 일이 있나요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/beacon/skath/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/beacon/skath/default/4",
+        "value": "무슨 일이 있으신가요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/fenerox/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/fenerox/default/0",
+        "value": "벽이 손상되었습니다. 재고가 상했어요. 도와주세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/fenerox/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/fenerox/default/1",
+        "value": "매장 손상. 고객이 떠나고 있습니다. 제발, 고쳐주세요. 당장요"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/fumantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/fumantizi/default/0",
+        "value": "이 교황이 완전히 망가졌어. 빨리 고쳐줄 수 있어요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/fumantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/fumantizi/default/1",
+        "value": "벽에 구멍이 났어요. 고치지 않으면 물건 못 팔아요"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/fumantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/fumantizi/default/2",
+        "value": "이 가게가 파손되어서 대책이 나오지 않고 있어요. 자네가 처리해줬으면 좋겠네."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/mantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/mantizi/default/0",
+        "value": "이 교황은 완전히 망가졌어요. 빨리 고쳐줄 수 있겠나?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/mantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/mantizi/default/1",
+        "value": "벽에 구멍이 났어요. 다시 고치지 않으면 물건을 팔 수가 없어요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/mantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/mantizi/default/2",
+        "value": "이 가게가 파손되어서 대책이 나오지 않고 있어요. 당신이 처리해줬으면 좋겠어요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/nightar/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/nightar/default/0",
+        "value": "이건 장사에 도움이 안 됩니다, 영주님. 내 상점의 벽을 수리해야 합니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/shadow/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/shadow/default/0",
+        "value": "...!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/skath/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/skath/default/0",
+        "value": "망가진 집은 안전하지 않아요. 고쳐주실 수 있나요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/skath/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/skath/default/1",
+        "value": "신선한 공기를 마시고 싶으면 차라리 밖에 나가고 싶어요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/skath/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/skath/default/2",
+        "value": "우리 집에 수리가 필요할 것 같아요. 수리해 주실 수 있나요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/enclosedArea/skath/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/enclosedArea/skath/default/3",
+        "value": "제 집이 손상되었습니다. 저는 수리할 기술이 부족해요. 고쳐주세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/fenerox/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/final/fenerox/default/0",
+        "value": "문제가 해결되지 않아 수익이 급감하고 있습니다. 소외된 느낌. 문 닫습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/fumantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/final/fumantizi/default/0",
+        "value": "이 포장마차는 망했어. 다른 곳으로 갈 시간이야."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/fumantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/final/fumantizi/default/1",
+        "value": "거래를 끝내자고, 코끼리. 안 고치면 난 안 남을 거야 됐죠?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/fumantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/final/fumantizi/default/2",
+        "value": "이런 일을 겪고 나니 다시 개구리를 타는 게 좋겠어!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/fumantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/final/fumantizi/default/3",
+        "value": "됐어, 고든 짐 싸서 떠날 시간이야!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/mantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/final/mantizi/default/0",
+        "value": "이 포장마차는 이제 끝났어. 다른 곳으로 갈 시간이야"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/mantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/final/mantizi/default/1",
+        "value": "거래를 끝내자고, 코끼리. 안 고치면 난 안 남을 거야 됐죠?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/mantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/final/mantizi/default/2",
+        "value": "이런 일을 겪고 나니 다시 개구리를 타는 게 좋겠어!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/mantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/final/mantizi/default/3",
+        "value": "됐어, 고든 이제 짐 싸서 떠날 시간이야!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/nightar/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/final/nightar/default/0",
+        "value": "내 디자인에 편견이 있는 게 분명하니 더는 못 참겠어!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/shadow/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/final/shadow/default/0",
+        "value": "!!!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/skath/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/final/skath/default/0",
+        "value": "계약은 끝났어. 나는 떠날 것이다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/skath/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/final/skath/default/1",
+        "value": "제대로 된 식민지로 돌아갈 거예요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/skath/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/final/skath/default/2",
+        "value": "더 이상 견딜 수 없어요. 떠날 거야"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/skath/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/final/skath/default/3",
+        "value": "뱅가드에 연락할게요. 그들이 내게 제대로 된 집을 마련해줄지도 몰라."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/final/skath/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/final/skath/default/4",
+        "value": "다른 식민지에 남았어야 했어요. 여기로 이사 온 게 실수였어"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/felin/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/felin/default/0",
+        "value": "내 가게로 따라와요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/felin/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/felin/default/1",
+        "value": "주변에서 가장 저렴한 가격에 판매하고 있으니 같이 가주세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/felin/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/felin/default/2",
+        "value": "제 가게에 있는 물건들을 보여드릴게요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/fenerox/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/fenerox/default/0",
+        "value": "아주 저렴해요! 거래하세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/fenerox/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/fenerox/default/1",
+        "value": "매장을 방문하시겠습니까? 따라오세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/fenerox/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/fenerox/default/2",
+        "value": "필요한 게 있으세요? 이쪽으로 오세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/fumantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/fumantizi/default/0",
+        "value": "특가 상품입니다! 거래하세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/fumantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/fumantizi/default/1",
+        "value": "매장을 방문하시나요? 따라오세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/fumantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/fumantizi/default/2",
+        "value": "필요한 게 있으세요? 이쪽으로 오세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/fumantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/fumantizi/default/3",
+        "value": "이쪽으로 오시죠, 이 참새야."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/fumantizi/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/fumantizi/default/4",
+        "value": "그냥 내 가게로 갈까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/fumantizi/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/fumantizi/default/5",
+        "value": "이쪽으로 오세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/mantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/mantizi/default/0",
+        "value": "특가 상품입니다! 거래를 하세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/mantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/mantizi/default/1",
+        "value": "가게를 방문하시나요? 따라오세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/mantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/mantizi/default/2",
+        "value": "필요한 게 있으세요? 이쪽으로 오세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/mantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/mantizi/default/3",
+        "value": "이쪽으로 오세요, 이 참새야."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/mantizi/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/mantizi/default/4",
+        "value": "그냥 내 가게로 갈까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/mantizi/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/mantizi/default/5",
+        "value": "이쪽으로"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/nightar/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/nightar/default/0",
+        "value": "영주님, 저와 함께 가시죠. 보여드릴 좋은 물건이 있으니까요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/nightar/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/nightar/default/1",
+        "value": "내 가게를 보러 왔나? 따라오게."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/nightar/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/nightar/default/2",
+        "value": "당신과 거래하게 되어 기쁘군요, <실체명> 라이트웰러."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/nightar/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/nightar/default/3",
+        "value": "필요한 게 있나? 이쪽으로 오시죠."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/nightar/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/nightar/default/4",
+        "value": "이쪽입니다, 영주님."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/nightar/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/nightar/default/5",
+        "value": "제발 따라오세요, 기도합니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/shadow/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/shadow/default/0",
+        "value": "...!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/shadow/nightar/0"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/shadow/nightar/0",
+        "value": "이쪽입니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/shadow/nightar/1"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/shadow/nightar/1",
+        "value": "따라오세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/shadow/nightar/2"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/shadow/nightar/2",
+        "value": "따라와요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/shadow/shadow/0"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/shadow/shadow/0",
+        "value": "이쪽입니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/shadow/shadow/1"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/shadow/shadow/1",
+        "value": "따라오세요"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/shadow/shadow/2"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/shadow/shadow/2",
+        "value": "따라와요"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/follow/skath/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/follow/skath/default/0",
+        "value": "내 가게로 데려다줄게, 여행자."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/felin/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/felin/default/0",
+        "value": "나중에 보자!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/felin/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/felin/default/1",
+        "value": "낯선 사람이 되지 마세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/felin/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/felin/default/2",
+        "value": "픽셀은 언제나 이곳에서 좋습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/felin/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/felin/default/3",
+        "value": "당신과 거래해서 즐거웠습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/felin/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/felin/default/4",
+        "value": "제 스토어를 방문해 주셔서 감사합니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/felin/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/felin/default/5",
+        "value": "만나서 반가웠어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/felin/default/6"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/felin/default/6",
+        "value": "다시 거래합시다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fenerox/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fenerox/default/0",
+        "value": "재고가 줄었습니다. 더 풍부해진 느낌."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fenerox/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fenerox/default/1",
+        "value": "일단 고장 나면 판매 된 것으로 간주됩니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fenerox/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fenerox/default/2",
+        "value": "감사합니다, 다시 오세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fenerox/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fenerox/default/3",
+        "value": "곧 다시 오시죠?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fenerox/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fenerox/default/4",
+        "value": "많은 것들, 더 많은 것들."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fenerox/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fenerox/default/5",
+        "value": "하지만 잠깐, 더 있어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fumantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fumantizi/default/0",
+        "value": "또 오시게요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fumantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fumantizi/default/1",
+        "value": "우리 집보다 더 좋은 조건은 없을 거예요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fumantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fumantizi/default/2",
+        "value": "잠깐만요, 더 있어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fumantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fumantizi/default/3",
+        "value": "나중에 봐요"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fumantizi/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fumantizi/default/4",
+        "value": "낯선 사람처럼 굴지 마"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fumantizi/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fumantizi/default/5",
+        "value": "그래, 그래, 가자"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fumantizi/default/6"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fumantizi/default/6",
+        "value": "좋아, 친구, 줄 좀 잡아줘요"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fumantizi/default/7"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fumantizi/default/7",
+        "value": "후원해줘서 고마워요, 친구."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/fumantizi/default/8"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/fumantizi/default/8",
+        "value": "정말 즐거웠어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/mantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/mantizi/default/0",
+        "value": "또 올까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/mantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/mantizi/default/1",
+        "value": "우리 가게보다 더 좋은 조건은 없을 거예요"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/mantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/mantizi/default/2",
+        "value": "하지만 기다려요, 더 있어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/mantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/mantizi/default/3",
+        "value": "나중에 봐요, 친구"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/mantizi/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/mantizi/default/4",
+        "value": "낯선 사람처럼 굴지 마"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/mantizi/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/mantizi/default/5",
+        "value": "그래, 그래, 가자"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/mantizi/default/6"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/mantizi/default/6",
+        "value": "좋아, 친구, 줄 좀 잡아줘요"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/mantizi/default/7"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/mantizi/default/7",
+        "value": "후원해줘서 고마워요, 친구."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/mantizi/default/8"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/mantizi/default/8",
+        "value": "즐거웠어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/nightar/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/nightar/default/0",
+        "value": "곧 다시 오시겠습니까, 영주님?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/nightar/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/nightar/default/1",
+        "value": "돌아오시면 더 많은 걸 드리죠"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/nightar/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/nightar/default/2",
+        "value": "하지만 잠깐만요, 더 있습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/nightar/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/nightar/default/3",
+        "value": "다시 돌아와라, <entityname>!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/default/0",
+        "value": "...?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/nightar/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/nightar/0",
+        "value": "여기서 못 찾으면... 다른 곳에서는 팔지 않아요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/nightar/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/nightar/1",
+        "value": "내가 필요하면, 여기 숨어 있을게."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/nightar/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/nightar/2",
+        "value": "다시 돌아와요, <entityname>."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/nightar/3"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/nightar/3",
+        "value": "당신의 픽셀은 언제나 이곳에서 좋습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/nightar/4"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/nightar/4",
+        "value": "당신과 거래해서 즐거웠습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/nightar/5"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/nightar/5",
+        "value": "제 스토어를 방문해 주셔서 감사합니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/nightar/6"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/nightar/6",
+        "value": "만나서 반가웠어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/nightar/7"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/nightar/7",
+        "value": "다시 만나 뵙겠습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/shadow/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/shadow/0",
+        "value": "여기서 찾을 수 없다면... 다른 곳에서는 판매하지 않습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/shadow/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/shadow/1",
+        "value": "제가 필요하시면 여기 숨어 있을게요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/shadow/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/shadow/2",
+        "value": "다시 돌아와요, <entityname>."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/shadow/3"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/shadow/3",
+        "value": "당신의 픽셀은 언제나 이곳에서 좋습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/shadow/4"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/shadow/4",
+        "value": "당신과 거래해서 즐거웠습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/shadow/5"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/shadow/5",
+        "value": "제 스토어를 방문해 주셔서 감사합니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/shadow/6"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/shadow/6",
+        "value": "만나서 반가웠어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/shadow/shadow/7"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/shadow/shadow/7",
+        "value": "다시 만나 뵙겠습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/skath/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/skath/default/0",
+        "value": "관심을 가져주셔서 감사합니다, 여행자님."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/skath/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/skath/default/1",
+        "value": "필요한 것이 있으면 언제든 다시 오세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantEnd/skath/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantEnd/skath/default/2",
+        "value": "몸조심하세요, 여행자"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/felin/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/felin/default/0",
+        "value": "물건 팔아요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/felin/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/felin/default/1",
+        "value": "필요한 물건 있으세요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/felin/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/felin/default/2",
+        "value": "여기 좋은 물건이 있어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fenerox/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fenerox/default/0",
+        "value": "많은 물건들. 현명한 선택이네요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fenerox/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fenerox/default/1",
+        "value": "좋은 물건들. 와서 사세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fenerox/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fenerox/default/2",
+        "value": "상호 교환. 내 이익. 당신의 행복."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fenerox/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fenerox/default/3",
+        "value": "물건을 사서 부자가 되세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fenerox/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fenerox/default/4",
+        "value": "내 상품. 모두 당신 것입니다. 정독합니다. 신나는 기분!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fumantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fumantizi/default/0",
+        "value": "많은 상품들. 현명한 선택."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fumantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fumantizi/default/1",
+        "value": "좋은 물건들. 사러 오세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fumantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fumantizi/default/2",
+        "value": "이런, 또 다른 거래!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fumantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fumantizi/default/3",
+        "value": "싸게 사서 더 부자가 되세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fumantizi/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fumantizi/default/4",
+        "value": "상품을 둘러보세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fumantizi/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fumantizi/default/5",
+        "value": "원하는 걸 가져왔어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fumantizi/default/6"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fumantizi/default/6",
+        "value": "어떻게 도와드릴까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/fumantizi/default/7"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/fumantizi/default/7",
+        "value": "필요한 게 있으면 말씀하세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/mantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/mantizi/default/0",
+        "value": "많은 상품이 있습니다. 현명한 선택."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/mantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/mantizi/default/1",
+        "value": "좋은 물건들 와서 사세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/mantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/mantizi/default/2",
+        "value": "이런, 또 다른 거래!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/mantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/mantizi/default/3",
+        "value": "싸게 사서 더 부자가 되세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/mantizi/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/mantizi/default/4",
+        "value": "상품을 둘러보세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/mantizi/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/mantizi/default/5",
+        "value": "원하는 걸 가져왔어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/mantizi/default/6"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/mantizi/default/6",
+        "value": "어떻게 도와드릴까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/mantizi/default/7"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/mantizi/default/7",
+        "value": "필요한 게 있으면 말씀하세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/nightar/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/nightar/default/0",
+        "value": "우리에겐 물건이 있고 당신에게는 많은 돈이 있소. 분명 우리도 이익이 되는 거래를 할 수 있겠지."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/nightar/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/nightar/default/1",
+        "value": "당신이 본 적도 없는 좋은 물건이 있소!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/nightar/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/nightar/default/2",
+        "value": "거래를 하겠나?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/shadow/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/shadow/default/0",
+        "value": "...!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/shadow/nightar/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/shadow/nightar/0",
+        "value": "내 가게에 온 걸 환영하네."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/shadow/nightar/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/shadow/nightar/1",
+        "value": "다 사고 싶은 거 알잖아!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/shadow/nightar/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/shadow/nightar/2",
+        "value": "손님이다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/shadow/nightar/3"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/shadow/nightar/3",
+        "value": "내 초라한 가게에 온 걸 환영한다, 우주인!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/shadow/shadow/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/shadow/shadow/0",
+        "value": "내 가게에 오신 걸 환영합니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/shadow/shadow/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/shadow/shadow/1",
+        "value": "다 사고 싶은 거 알잖아요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/shadow/shadow/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/shadow/shadow/2",
+        "value": "손님이다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/shadow/shadow/3"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/shadow/shadow/3",
+        "value": "우주 여행자, 내 허름한 가게에 온 걸 환영한다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/skath/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/skath/default/0",
+        "value": "내 가게에 온 걸 환영하네, 여행자."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/skath/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/skath/default/1",
+        "value": "제 상품에 관심이 있으신가요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/merchantStart/skath/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/merchantStart/skath/default/2",
+        "value": "제 물건들을 구경해 보시겠어요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/fenerox/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/fenerox/default/0",
+        "value": "경쟁은 하지 마세요. 당장 디드를 제거해."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/fumantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/fumantizi/default/0",
+        "value": "이 호핑은 단독 임차라면서요? 저놈이 가거나 내가 가거나 둘 중 하나죠."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/fumantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/fumantizi/default/1",
+        "value": "믿을 수 없는 오미와 내 구역을 공유할 순 없어."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/fumantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/fumantizi/default/2",
+        "value": "경쟁은 안 돼요 다른 놈은 꺼져"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/mantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/mantizi/default/0",
+        "value": "이 호핑은 싱글 테넌트만 하는 줄 알았는데요? 저 사람이 가던지 내가 가던지."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/mantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/mantizi/default/1",
+        "value": "난 믿을 수 없는 오미와 내 구역을 공유할 수 없어."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/mantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/mantizi/default/2",
+        "value": "경쟁은 안 돼요 다른 놈은 꺼져"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/nightar/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/nightar/default/0",
+        "value": "내 집에서 라이벌 노점상과의 경쟁은 절대 용납할 수 없어!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/shadow/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/shadow/default/0",
+        "value": "...!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/skath/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/skath/default/0",
+        "value": "손님, 다른 사람이 들어오는 건 계약서에 없는 것 같은데요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/skath/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/skath/default/1",
+        "value": "이 집은 저 혼자 쓰기로 했잖아요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/skath/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/skath/default/2",
+        "value": "집을 공유하는 건 괜찮지만 이건 우리 계약의 일부가 아니었어요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/otherDeed/skath/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/otherDeed/skath/default/3",
+        "value": "제 집에 다른 증서를 붙여놓으셔서 실수하신 것 같아요. 지워줄래요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/fenerox/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/fenerox/default/0",
+        "value": "무슨 사업! 수익성이 좋잖아! 여기, 집세!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/fenerox/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/fenerox/default/1",
+        "value": "다 좋아요. 장사 잘했어 자, 자네 몫이야"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/fumantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/fumantizi/default/0",
+        "value": "여기 버튼, 집세입니다 이제 피 흘리는 카이버를 내보내요"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/fumantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/fumantizi/default/1",
+        "value": "돌리만 빼고 다 날아갔으니 뭔가 있어야 할 거야"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/fumantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/fumantizi/default/2",
+        "value": "난 지금 피를 흘리고 있어요, 대위님 잭에서 원하는 걸 가져가"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/fumantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/fumantizi/default/3",
+        "value": "자, 공평하게 잘랐어"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/mantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/mantizi/default/0",
+        "value": "여기 버튼, 집세예요 자, 피 흘리는 카이버를 내보내요"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/mantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/mantizi/default/1",
+        "value": "모든 게 다 사라졌어, 돌리, 넌 뭔가 있어야 할 거야"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/mantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/mantizi/default/2",
+        "value": "난 지금 피를 흘리고 있어요, 대위님 잭에서 원하는 걸 가져가"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/mantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/mantizi/default/3",
+        "value": "자, 정정당당하게 잘랐어"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/nightar/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/nightar/default/0",
+        "value": "내 거래는 수익성이 좋았으니 자네도 수익의 일부를 가져가게나."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/nightar/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/nightar/default/1",
+        "value": "수익의 일부를 영주님과 나누게 되어 기쁩니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/nightar/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/nightar/default/2",
+        "value": "여기, 폐하 전리품의 가장 공평한 몫이 있습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/shadow/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/shadow/default/0",
+        "value": "폐하의 은혜를 잊지 않겠습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/skath/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/skath/default/0",
+        "value": "제게 제대로 된 집을 마련해 주셔서 감사합니다. 친절에 대한 보답으로 이걸 받아라."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/skath/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/skath/default/1",
+        "value": "우리 종족은 당신 같은 사람이 더 필요해요. 이 감사의 증표를 받아주세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/rent/skath/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/rent/skath/default/2",
+        "value": "이 집을 정말 잘 지어주셨어요. 이걸 감사의 표시로 받아주세요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/fenerox/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/fenerox/default/0",
+        "value": "사업이 힘들어요. 형편없는 마진. 짐 싸 떠나야겠어"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/fumantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/fumantizi/default/0",
+        "value": "내가 수리하라고 했는데 하나도 안 했어?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/fumantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/fumantizi/default/1",
+        "value": "빨리 고쳐요, 돈 다 떨어졌으니 곧 돈 안 줄 테니까"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/mantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/mantizi/default/0",
+        "value": "이 불난 곳을 수리하라고 했는데 하나도 안 고쳤어?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/mantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/mantizi/default/1",
+        "value": "빨리 고쳐라, 하트가 다 떨어져서 곧 돈을 못 주겠어."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/nightar/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/nightar/default/0",
+        "value": "전하, 이건 안 되겠소, 곧 이곳을 떠나야겠소."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/shadow/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/shadow/default/0",
+        "value": "!!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/skath/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/skath/default/0",
+        "value": "바다에 있는게 더 나을지도 모르지..."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/skath/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/skath/default/1",
+        "value": "노쿰스가스가 그리워요. 거기로 돌아가야겠어."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/skath/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/skath/default/2",
+        "value": "죄송하지만 이런 환경은 저에게 견딜 수 없습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/severe/skath/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/severe/skath/default/3",
+        "value": "이사를 가야 할 것 같아요 이젠 여기가 싫어요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/fenerox/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/fenerox/default/0",
+        "value": "야, 그건 내 거야! 훔치지 마! 재미없어!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/fenerox/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/fenerox/default/1",
+        "value": "절도 금지입니다. 치워, 당장!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/fenerox/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/fenerox/default/2",
+        "value": "뭘 훔쳐? 경비원, 경비원!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/fumantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/fumantizi/default/0",
+        "value": "내 가게에서 물건 훔쳤어? 당장 돌려놔!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/fumantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/fumantizi/default/1",
+        "value": "도둑질은 금지입니다. 당장 돌려놔!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/fumantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/fumantizi/default/2",
+        "value": "내 물건에 손대지 마!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/fumantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/fumantizi/default/3",
+        "value": "입 다물고 있어!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/fumantizi/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/fumantizi/default/4",
+        "value": "내가 봤어, 친구 방금 훔친 거 당장 치워!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/mantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/mantizi/default/0",
+        "value": "이봐요, 방금 내 가게에서 물건 훔쳤어요? 제자리에 돌려놔요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/mantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/mantizi/default/1",
+        "value": "도둑질은 금지입니다. 당장 돌려놔요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/mantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/mantizi/default/2",
+        "value": "내 물건에 손대지 마!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/mantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/mantizi/default/3",
+        "value": "입 다물고 있어!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/mantizi/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/mantizi/default/4",
+        "value": "내가 봤어, 친구. 그러니 방금 훔친 물건은 손대지 않는 게 좋을 거야!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/nightar/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/nightar/default/0",
+        "value": "도둑놈! 체포해!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/nightar/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/nightar/default/1",
+        "value": "감히 내 물건을 훔치다니!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/nightar/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/nightar/default/2",
+        "value": "멈춰! 넌 법을 어겼다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/nightar/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/nightar/default/3",
+        "value": "내 재고 중 일부가 도난당한 것 같아요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/nightar/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/nightar/default/4",
+        "value": "최근에 제 물건을 훔친 것이 당신이었나요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/nightar/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/nightar/default/5",
+        "value": "내 가게에서 부당하게 가져간 물건을 돌려주길 바랍니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/shadow/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/shadow/default/0",
+        "value": "...!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/skath/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/skath/default/0",
+        "value": "선생님, 제 집을 예전 상태로 돌려주시겠어요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/skath/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/skath/default/1",
+        "value": "제 집이 예전 같지 않아요. 고쳐주시겠어요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/skath/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/skath/default/2",
+        "value": "내 방이 다 엉망이에요..."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/skath/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/skath/default/3",
+        "value": "다른 건 상관없지만 여긴 뭔가 이상해요..."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tagCriteria/skath/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/tagCriteria/skath/default/4",
+        "value": "불만을 제기해야겠어요. 누가 내 방을 엉망으로 만들었어."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/apex/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/apex/0",
+        "value": "내가 제일 좋은 물건 가져왔어!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/apex/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/apex/1",
+        "value": "여기서 찾을 수 없다면... 여기서는 판매하지 않습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/apex/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/apex/2",
+        "value": "새로운 상품에 관심이 있으신가요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/apex/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/apex/3",
+        "value": "뭐요? 추적 장치? 왜 있어야 하죠?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/default/0",
+        "value": "최고의 상품이 있어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/default/1",
+        "value": "여기서 찾을 수 없다면... 여기서 판매하지 않습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/default/2",
+        "value": "최고의 상품들!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/default/3",
+        "value": "새로운 상품에 관심이 있으신가요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/felin/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/felin/0",
+        "value": "최고의 상품이 있습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/felin/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/felin/1",
+        "value": "여기에서 찾을 수 없다면... 여기서는 판매하지 않습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/felin/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/felin/2",
+        "value": "새로운 상품에 관심이 있으신가요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/felin/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/felin/3",
+        "value": "사냥에 도움이 필요하신가요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/felin/4"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/felin/4",
+        "value": "제가 도와드릴까요, 헌터님?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/floran/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/floran/0",
+        "value": "최고의 상품이 있습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/floran/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/floran/1",
+        "value": "여기서 찾을 수 없다면... 여기서는 판매하지 않습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/floran/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/floran/2",
+        "value": "새로운 상품에 관심이 있으신가요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/felin/floran/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/felin/floran/3",
+        "value": "꽃을 피우는 데 도움이 되는 물건들이 있어요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fenerox/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fenerox/default/0",
+        "value": "<selfname>에서 구입하세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fenerox/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fenerox/default/1",
+        "value": "좋은 거래! 큰 할인! 지금 구매하시겠습니까?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fenerox/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fenerox/default/2",
+        "value": "선택의 폭이 넓습니다. 좋은 가격. 후회는 없습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fenerox/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fenerox/default/3",
+        "value": "구매하시겠습니까? 제발요? 일족이 많으면 새끼도 많죠 다들 배고파 죽겠어."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fumantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fumantizi/default/0",
+        "value": "<selfname>의 가게에서 사세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fumantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fumantizi/default/1",
+        "value": "좋은 거래! 좋은 할인! 지금 사세요, 제발?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fumantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fumantizi/default/2",
+        "value": "선택의 폭이 넓습니다. 좋은 가격. 후회는 없습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fumantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fumantizi/default/3",
+        "value": "어디서나 최고의 거래!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fumantizi/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fumantizi/default/4",
+        "value": "내가 가지고 있지 않다면, 당신은 그것을 원하지 않을 것입니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fumantizi/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fumantizi/default/5",
+        "value": "저렴한 가격에 수입!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fumantizi/default/6"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fumantizi/default/6",
+        "value": "방금 새로운 재고가 들어왔습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fumantizi/default/7"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fumantizi/default/7",
+        "value": "명작을 모두 만나볼 수 있습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fumantizi/default/8"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fumantizi/default/8",
+        "value": "힘들게 모은 픽셀을 여기서 사용하세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/fumantizi/default/9"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/fumantizi/default/9",
+        "value": "뭐 좀 사시겠어요? 마더 허바드에는 많은 물건이 있습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/mantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/mantizi/default/0",
+        "value": "<selfname>에서 사러 오세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/mantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/mantizi/default/1",
+        "value": "좋은 거래! 좋은 할인! 지금 구매하시겠습니까?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/mantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/mantizi/default/2",
+        "value": "선택의 폭이 넓습니다. 좋은 가격. 후회는 없습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/mantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/mantizi/default/3",
+        "value": "어디서나 최고의 거래!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/mantizi/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/mantizi/default/4",
+        "value": "내가 가지고 있지 않다면, 당신은 그것을 원하지 않을 것입니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/mantizi/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/mantizi/default/5",
+        "value": "저렴한 가격에 수입!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/mantizi/default/6"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/mantizi/default/6",
+        "value": "방금 새로운 재고가 들어왔습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/mantizi/default/7"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/mantizi/default/7",
+        "value": "명작을 모두 만나볼 수 있습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/mantizi/default/8"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/mantizi/default/8",
+        "value": "힘들게 모은 픽셀을 여기서 사용하세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/mantizi/default/9"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/mantizi/default/9",
+        "value": "뭐 좀 사시겠어요? 마더 허바드에는 구경꾼이 많아요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/default/0",
+        "value": "여기에는 희귀하고 좋은 상품들이 있습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/default/1",
+        "value": "저렴한 가격에 좋은 물건이 필요하신가요? 그럼 이곳에서 구입하세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/default/2",
+        "value": "저기 있거라, 라이트웰러! 내 좋은 물건을 사겠나?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/default/3",
+        "value": "오예즈! 오예즈! 모두 와서 <자신 이름>에게서 사세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/default/4",
+        "value": "나와 인신매매를 하려거든 나쁜 거래는 하지 마라!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/default/5",
+        "value": "하나, 둘, 모두 와서 사세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/nightar/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/nightar/0",
+        "value": "여기에는 희귀하고 좋은 상품이 있습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/nightar/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/nightar/1",
+        "value": "저렴한 가격에 좋은 물건이 필요하신가요? 그럼 여기서 사세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/nightar/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/nightar/2",
+        "value": "오예즈! 오예즈! 모두 와서 <자명>에게서 사세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/nightar/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/nightar/3",
+        "value": "나와 인신매매는 나쁜 거래가 아니오, 나이터!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/nightar/4"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/nightar/4",
+        "value": "하나, 둘, 모두 와서 사세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/shadow/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/shadow/0",
+        "value": "여기에는 희귀하고 좋은 상품들이 있다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/shadow/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/shadow/1",
+        "value": "저렴한 가격에 좋은 물건이 필요하신가요? 그럼 여기로 오세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/shadow/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/shadow/2",
+        "value": "오예즈! 오예즈! 모두 와서 <자명>에게서 사세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/shadow/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/shadow/3",
+        "value": "나와 인신매매는 나쁜 거래가 아니야, 어둠의 거주자!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/shadow/4"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/shadow/4",
+        "value": "하나, 둘, 모두 와서 사세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/sith/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/sith/0",
+        "value": "여기에는 희귀하고 좋은 상품들이 있다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/sith/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/sith/1",
+        "value": "좋은 물건을 싼값에 구하고 싶으십니까? 그럼 이리 오세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/sith/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/sith/2",
+        "value": "오예즈! 오예즈! 모두 와서 <자명>에게서 사세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/sith/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/sith/3",
+        "value": "나와 인신매매를 할 때 나쁜 거래는 하지 마라!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/nightar/sith/4"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/nightar/sith/4",
+        "value": "하나, 둘, 모두 와서 사세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/shadow/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/shadow/default/0",
+        "value": "...!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/shadow/nightar/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/shadow/nightar/0",
+        "value": "최고의 상품을 가져왔어요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/shadow/nightar/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/shadow/nightar/1",
+        "value": "최고의 거래!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/shadow/nightar/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/shadow/nightar/2",
+        "value": "새로운 상품에 관심이 있으신가요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/shadow/shadow/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/shadow/shadow/0",
+        "value": "최고의 상품이 있습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/shadow/shadow/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/shadow/shadow/1",
+        "value": "최고의 상품!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/shadow/shadow/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/shadow/shadow/2",
+        "value": "신상품에 관심이 있으신가요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/skath/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/skath/default/0",
+        "value": "최고의 상품을 최고의 가격에 만나보세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/skath/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/skath/default/1",
+        "value": "거래하고 싶으신가요? 최고의 상품이 바로 여기 있습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/skath/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/skath/default/2",
+        "value": "노쿰스가스 상품, 바로 여기서 판매합니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/tout/skath/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/tout/skath/default/3",
+        "value": "여기에는 최고의 수공예품만 있습니다!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/felin/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/felin/default/0",
+        "value": "눈에 띄는 물건이 있나요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/felin/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/felin/default/1",
+        "value": "사고 싶은 물건이 있나요? 사고 싶으시다면..."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/felin/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/felin/default/2",
+        "value": "무엇이든 도와드릴 수 있는 모든 것이 있습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/fenerox/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/fenerox/default/0",
+        "value": "내 가게, 당신의 장소!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/fenerox/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/fenerox/default/1",
+        "value": "다 왔어요! 거래할까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/fumantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/fumantizi/default/0",
+        "value": "내 가게, 네 가게!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/fumantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/fumantizi/default/1",
+        "value": "내 거래가 너무 좋아서 당신들을 여기 들여보내는 것만으로도 내 가슴이 찢어질 것 같아요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/fumantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/fumantizi/default/2",
+        "value": "다 왔어! 거래할래?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/fumantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/fumantizi/default/3",
+        "value": "여기 왔어 뭘 드릴까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/fumantizi/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/fumantizi/default/4",
+        "value": "좋은 건 여기 있어요, 친구"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/fumantizi/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/fumantizi/default/5",
+        "value": "경비병들은 차퍼링하고 있나? 없어? 좋아, 시작하자고!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/mantizi/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/mantizi/default/0",
+        "value": "내 가게, 네 가게!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/mantizi/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/mantizi/default/1",
+        "value": "내 거래가 너무 좋아서 너희를 들여보내면 내 가슴이 찢어질 것 같아."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/mantizi/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/mantizi/default/2",
+        "value": "다 왔어요! 이제 거래할까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/mantizi/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/mantizi/default/3",
+        "value": "여기 왔어 뭘 드릴까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/mantizi/default/4"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/mantizi/default/4",
+        "value": "좋은 건 여기 있어요, 친구"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/mantizi/default/5"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/mantizi/default/5",
+        "value": "경비병들은 차퍼링하고 있나? 없어? 좋아, 시작하자고!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/nightar/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/nightar/default/0",
+        "value": "환영한다, <entityname>."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/nightar/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/nightar/default/1",
+        "value": "뭘 드릴까요, 데이웰러?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/nightar/default/2"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/nightar/default/2",
+        "value": "이제 뭔가 사시겠습니까?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/nightar/default/3"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/nightar/default/3",
+        "value": "여기, 네가 본 것 중 가장 멋진 가게에 왔구나."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/nightar/nightar/0"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/nightar/nightar/0",
+        "value": "환영합니다, 영주님."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/nightar/nightar/1"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/nightar/nightar/1",
+        "value": "뭘 사시겠습니까, 전하?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/nightar/nightar/2"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/nightar/nightar/2",
+        "value": "이제 뭘 사시겠습니까?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/nightar/nightar/3"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/nightar/nightar/3",
+        "value": "여기, 폐하께서 보실 최고의 상점이 있습니다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/nightar/shadow/0"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/nightar/shadow/0",
+        "value": "환영하네, 어둠의 거주자."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/nightar/shadow/1"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/nightar/shadow/1",
+        "value": "뭘 살까, 테네브레?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/nightar/shadow/2"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/nightar/shadow/2",
+        "value": "이제 뭔가 사시겠습니까?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/nightar/shadow/3"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/nightar/shadow/3",
+        "value": "여기, 네가 보게 될 최고의 상점이 있단다."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/shadow/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/shadow/default/0",
+        "value": "...!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/shadow/nightar/0"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/shadow/nightar/0",
+        "value": "여기 왔어요. 뭐 드릴까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/shadow/nightar/1"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/shadow/nightar/1",
+        "value": "좋은 건 여기 있어요."
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/shadow/shadow/0"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/shadow/shadow/0",
+        "value": "여기 있어요 뭐 드릴까요?"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/shadow/shadow/1"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/shadow/shadow/1",
+        "value": "좋은 건 여기 있어요"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/shadow/shadow/2"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/shadow/shadow/2",
+        "value": "경비원들이 보고 있나요? 안 보여요? 좋아요"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/skath/default/0"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/skath/default/0",
+        "value": "여긴 제 허름한 가게예요 어서 오세요!"
+      }
+    ],
+    [
+      {
+        "op": "test",
+        "path": "/welcome/skath/default/1"
+      },
+      {
+        "op": "replace",
+        "path": "/welcome/skath/default/1",
+        "value": "이 정도면 거래하기에 충분할 것 같군."
+      }
+    ]
+  ]
+]

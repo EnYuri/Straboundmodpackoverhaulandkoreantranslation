@@ -1,0 +1,58 @@
+[
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/-",
+    "value": {
+      "mode": "floor",
+      "priority": 1,
+      "variants": 1,
+      "distribution": "/biomes/distributions.config:ffs_mainBiomeEncounterDungeon",
+      "type": "microdungeon",
+      "microdungeons": [
+        "ffs_microdungeons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/-",
+    "value": {
+      "mode": "floor",
+      "priority": 1,
+      "variants": 1,
+      "distribution": "/biomes/distributions.config:ffs_encounterdungeon",
+      "type": "microdungeon",
+      "microdungeons": [
+        "ffs_encounterdungeons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/-",
+    "value": {
+      "mode": "floor",
+      "priority": 1,
+      "variants": 1,
+      "distribution": "/biomes/distributions.config:ffs_mainBiomeEncounterDungeon_rare",
+      "type": "microdungeon",
+      "microdungeons": [
+        "ffs_randomencounter"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/-",
+    "value": {
+      "mode": "floor",
+      "priority": 1,
+      "variants": 1,
+      "distribution": "/biomes/distributions.config:ffs_mainBiomeEncounterDungeon_rare",
+      "type": "microdungeon",
+      "microdungeons": [
+        "ffs_microdungeons_nonhostile"
+      ]
+    }
+  }
+]

@@ -1,0 +1,1306 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-emote/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-emote/properties/zLevel",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-facial-hair/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-facial-hair/properties/zLevel",
+      "value": 10
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-facial-mask/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-facial-mask/properties/zLevel",
+      "value": 11
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-hair/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-hair/properties/zLevel",
+      "value": 9
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-emote/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-emote/properties/zLevel",
+      "value": 19
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-facial-hair/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-facial-hair/properties/zLevel",
+      "value": 21
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-facial-mask/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-facial-mask/properties/zLevel",
+      "value": 22
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-hair/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-hair/properties/zLevel",
+      "value": 20
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-emote/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-emote/properties/zLevel",
+      "value": 30
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-facial-hair/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-facial-hair/properties/zLevel",
+      "value": 32
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-facial-mask/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-facial-mask/properties/zLevel",
+      "value": 33
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-hair/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-hair/properties/zLevel",
+      "value": 31
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-arm-back/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-arm-back/properties/zLevel",
+      "value": 1
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-arm-front/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-arm-front/properties/zLevel",
+      "value": 40
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-backwear/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-backwear/properties/zLevel",
+      "value": 12
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-body/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-body/properties/zLevel",
+      "value": 13
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-bsleeve/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-bsleeve/properties/zLevel",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-chestwear/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-chestwear/properties/zLevel",
+      "value": 15
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-fsleeve/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-fsleeve/properties/zLevel",
+      "value": 41
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-groin/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-groin/properties/zLevel",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-head/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-head/properties/zLevel",
+      "value": 7
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-head-inner/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-head-inner/properties/zLevel",
+      "value": 7
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-headwear/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-headwear/properties/zLevel",
+      "value": 17
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-headwear-static/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-headwear-static/properties/zLevel",
+      "value": 17
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-legswear/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-legswear/properties/zLevel",
+      "value": 16
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-nipple1-inner/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-nipple1-inner/properties/zLevel",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-nipple1/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-nipple1/properties/zLevel",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-nipple2/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-nipple2/properties/zLevel",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-nipple2-inner/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-nipple2-inner/properties/zLevel",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-nippleswear1/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-nippleswear1/properties/zLevel",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor1-nippleswear2/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor1-nippleswear2/properties/zLevel",
+      "value": 14
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-arm-front/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 44
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-arm-front/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 44
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-arm-front/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 44
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-arm-front/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-arm-front/properties/zLevel",
+      "value": 42
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-arm-back/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 5
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-arm-back/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 5
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-arm-back/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 5
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-arm-back/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-arm-back/properties/zLevel",
+      "value": 3
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-backwear/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 34
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-backwear/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 34
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-backwear/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 34
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-backwear/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-backwear/properties/zLevel",
+      "value": 23
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-bsleeve/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 6
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-bsleeve/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 6
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-bsleeve/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 6
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-bsleeve/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-bsleeve/properties/zLevel",
+      "value": 4
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-body/partStates/actors/position4/properties/zLevel",
+    "value": 35
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-body/partStates/actors/position4-climax/properties/zLevel",
+    "value": 35
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-body/partStates/actors/position4-reset/properties/zLevel",
+    "value": 35
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-body/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-body/properties/zLevel",
+      "value": 24
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-chestwear/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 37
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-chestwear/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 37
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-chestwear/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 37
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-fsleeve/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 45
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-fsleeve/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 45
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-fsleeve/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 45
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-fsleeve/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-fsleeve/properties/zLevel",
+      "value": 43
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-groin/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 36
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-groin/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 36
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-groin/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 36
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/frameProperties/zLevel/0"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/frameProperties/zLevel/0",
+      "value": 43
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/frameProperties",
+      "inverse": true
+    },
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/properties"
+    },
+    {
+      "op": "add",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/properties/zLevel",
+      "value": 43
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/frameProperties/zLevel/1"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/frameProperties/zLevel/1",
+      "value": 43
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/frameProperties/zLevel/2"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/frameProperties/zLevel/2",
+      "value": 43
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/frameProperties/zLevel/3"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/frameProperties/zLevel/3",
+      "value": 43
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/frameProperties/zLevel/4"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5/frameProperties/zLevel/4",
+      "value": 43
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5-climax/frameProperties/zLevel/0"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5-climax/frameProperties/zLevel/0",
+      "value": 43
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5-climax/frameProperties",
+      "inverse": true
+    },
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5-climax/properties"
+    },
+    {
+      "op": "add",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5-climax/properties/zLevel",
+      "value": 43
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5-reset/frameProperties/zLevel/0"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5-reset/frameProperties/zLevel/0",
+      "value": 43
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5-reset/frameProperties",
+      "inverse": true
+    },
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5-reset/properties"
+    },
+    {
+      "op": "add",
+      "path": "/animatedParts/parts/actor2-groin/partStates/actors/position5-reset/properties/zLevel",
+      "value": 43
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-groin/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-groin/properties/zLevel",
+      "value": 25
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-head/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-head/properties/zLevel",
+      "value": 18
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-headwear/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-headwear/properties/zLevel",
+      "value": 28
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-head-inner/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-head-inner/properties/zLevel",
+      "value": 18
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-legswear/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 38
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-legswear/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 38
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor2-legswear/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 38
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-legswear/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-legswear/properties/zLevel",
+      "value": 27
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-headwear-static/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-headwear-static/properties/zLevel",
+      "value": 28
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-nipple1/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-nipple1/properties/zLevel",
+      "value": 25
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-nipple1-inner/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-nipple1-inner/properties/zLevel",
+      "value": 25
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-nipple2/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-nipple2/properties/zLevel",
+      "value": 25
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor2-nipple2-inner/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor2-nipple2-inner/properties/zLevel",
+      "value": 25
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-arm-back/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 3
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-arm-back/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 3
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-arm-back/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 3
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-arm-back/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-arm-back/properties/zLevel",
+      "value": 35
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-arm-front/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 42
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-arm-front/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 42
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-arm-front/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 42
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-arm-front/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-arm-front/properties/zLevel",
+      "value": 44
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-backwear/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 23
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-backwear/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 23
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-backwear/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 23
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-backwear/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-backwear/properties/zLevel",
+      "value": 34
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-body/partStates/actors/position1/properties/zLevel"
+    },
+    {
+      "op": "remove",
+      "path": "/animatedParts/parts/actor3-body/partStates/actors/position1/properties/zLevel"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-body/partStates/actors/position1-climax/properties/zLevel"
+    },
+    {
+      "op": "remove",
+      "path": "/animatedParts/parts/actor3-body/partStates/actors/position1-climax/properties/zLevel"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-body/partStates/actors/position1-reset/properties/zLevel"
+    },
+    {
+      "op": "remove",
+      "path": "/animatedParts/parts/actor3-body/partStates/actors/position1-reset/properties/zLevel"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-body/partStates/actors/position3/properties/zLevel"
+    },
+    {
+      "op": "remove",
+      "path": "/animatedParts/parts/actor3-body/partStates/actors/position3/properties/zLevel"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-body/partStates/actors/position3-climax/properties/zLevel"
+    },
+    {
+      "op": "remove",
+      "path": "/animatedParts/parts/actor3-body/partStates/actors/position3-climax/properties/zLevel"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-body/partStates/actors/position3-reset/properties/zLevel"
+    },
+    {
+      "op": "remove",
+      "path": "/animatedParts/parts/actor3-body/partStates/actors/position3-reset/properties/zLevel"
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-body/partStates/actors/position4/properties/zLevel",
+    "value": 24
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-body/partStates/actors/position4-climax/properties/zLevel",
+    "value": 24
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-body/partStates/actors/position4-reset/properties/zLevel",
+    "value": 24
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-body/partStates/actors/position4_1/properties/zLevel",
+    "value": 24
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-body/partStates/actors/position4_1-climax/properties/zLevel",
+    "value": 24
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-body/partStates/actors/position4_1-reset/properties/zLevel",
+    "value": 24
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-body/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-body/properties/zLevel",
+      "value": 35
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-bsleeve/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 4
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-bsleeve/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 4
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-bsleeve/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 4
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-bsleeve/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-bsleeve/properties/zLevel",
+      "value": 6
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-chestwear/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 26
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-chestwear/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 26
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-chestwear/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 26
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-chestwear/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-chestwear/properties/zLevel",
+      "value": 26
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-fsleeve/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 43
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-fsleeve/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 43
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-fsleeve/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 43
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-fsleeve/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-fsleeve/properties/zLevel",
+      "value": 45
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-groin/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 25
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-groin/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 25
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-groin/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 25
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-groin/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-groin/properties/zLevel",
+      "value": 36
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-head/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-head/properties/zLevel",
+      "value": 29
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-head-inner/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-head-inner/properties/zLevel",
+      "value": 29
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-headwear/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-headwear/properties/zLevel",
+      "value": 39
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-headwear-static/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-headwear-static/properties/zLevel",
+      "value": 39
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-legswear/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 27
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-legswear/partStates/actors/position4-climax/properties",
+    "value": {
+      "zLevel": 27
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-legswear/partStates/actors/position4-reset/properties",
+    "value": {
+      "zLevel": 27
+    }
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-legswear/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-legswear/properties/zLevel",
+      "value": 38
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-nipple1-inner/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-nipple1-inner/properties/zLevel",
+      "value": 36
+    }
+  ],
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-nipple1/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 25
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-nipple1/partStates/actors/position4-climax/properties/zLevel",
+    "value": 25
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-nipple1/partStates/actors/position4-reset/properties/zLevel",
+    "value": 25
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-nipple2/partStates/actors/position4/properties",
+    "value": {
+      "zLevel": 25
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-nipple2/partStates/actors/position4-climax/properties/zLevel",
+    "value": 25
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/actor3-nipple2/partStates/actors/position4-reset/properties/zLevel",
+    "value": 25
+  },
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-nipple2-inner/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-nipple2-inner/properties/zLevel",
+      "value": 36
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-nippleswear1/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-nippleswear1/properties/zLevel",
+      "value": 36
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/animatedParts/parts/actor3-nippleswear2/properties/zLevel"
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/parts/actor3-nippleswear2/properties/zLevel",
+      "value": 36
+    }
+  ]
+]

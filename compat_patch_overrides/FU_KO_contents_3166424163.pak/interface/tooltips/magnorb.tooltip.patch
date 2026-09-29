@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/critBonusTitleLabel/value"
+    },
+    {
+      "op": "replace",
+      "path": "/critBonusTitleLabel/value",
+      "value": "^yellow;Dmg +^reset;"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/critChanceTitleLabel/value"
+    },
+    {
+      "op": "replace",
+      "path": "/critChanceTitleLabel/value",
+      "value": "^#ee1414;Crit %^reset;"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/forceTitleLabel/value"
+    },
+    {
+      "op": "replace",
+      "path": "/forceTitleLabel/value",
+      "value": "힘"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/maxDamageTitleLabel/value"
+    },
+    {
+      "op": "replace",
+      "path": "/maxDamageTitleLabel/value",
+      "value": "피해량:"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shieldHealthTitleLabel/value"
+    },
+    {
+      "op": "replace",
+      "path": "/shieldHealthTitleLabel/value",
+      "value": "방패 체력:"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shieldPowerTitleLabel/value"
+    },
+    {
+      "op": "replace",
+      "path": "/shieldPowerTitleLabel/value",
+      "value": "특수 능력:"
+    }
+  ]
+]

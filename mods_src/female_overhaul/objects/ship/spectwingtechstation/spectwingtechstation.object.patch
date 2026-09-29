@@ -1,0 +1,32 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/interactAction",
+      "value": "OpenAiInterface"
+    },
+    {
+      "op": "add",
+      "path": "/interactAction",
+      "value": "ScriptPane"
+    },
+    {
+      "op": "add",
+      "path": "/interactData",
+      "value": "/zb/newSail/newSail.config"
+    },
+    {
+      "op": "add",
+      "path": "/fallbackInteractAction",
+      "value": "OpenAiInterface"
+    },
+    {
+      "op": "add",
+      "path": "/scripts",
+      "value": [
+        "/objects/spawner/techstation.lua",
+        "/objects/scripts/customtechstation.lua"
+      ]
+    }
+  ]
+]

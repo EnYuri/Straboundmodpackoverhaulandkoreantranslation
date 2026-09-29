@@ -1,0 +1,87 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_guide_thermalshock"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_guide_catalog",
+        "gic_guide_cat1"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_guide_ballsticstorm"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_guide_catalog",
+        "gic_guide_cat1"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_guide_efvcorrosive"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_guide_catalog",
+        "gic_guide_cat1"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_guide_techarmor"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_guide_catalog",
+        "gic_guide_cat4"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_guide_powerarmor"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_guide_catalog",
+        "gic_guide_cat4"
+      ]
+    }
+  }
+]

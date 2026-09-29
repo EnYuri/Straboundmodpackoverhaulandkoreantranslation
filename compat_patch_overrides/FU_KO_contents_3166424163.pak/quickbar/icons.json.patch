@@ -1,0 +1,13 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/frackinuniverse"
+    },
+    {
+      "op": "replace",
+      "path": "/items/frackinuniverse",
+      "value": "퀘스트 목록"
+    }
+  ]
+]

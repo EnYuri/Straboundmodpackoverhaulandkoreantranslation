@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/effects/0/0",
+    "value": {
+      "effect": "plant_food"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "예상보다 훨씬 신맛입니다. 놀라셨나요! ^green;유형: 초식동물, 어쩐지 그렇습니다. (오큘레몬은 원래 이상합니다.)^reset;"
+  }
+]

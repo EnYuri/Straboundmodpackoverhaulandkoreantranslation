@@ -1,0 +1,21 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/itemTags",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/itemTags",
+      "value": []
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/itemTags/-",
+      "value": "gic_1143x23mm_mag"
+    }
+  ]
+]

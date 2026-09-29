@@ -1,0 +1,528 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 4000,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_dchr223"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 599,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_watergun"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1500,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_ftacpr57"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 2000,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_qsz92a"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 2500,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_sgt3011"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 2500,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_t56s"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 3250,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_nt500_semi"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 2,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 5,
+        "name": "gic_9x19mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 35,
+          "name": "gic_9x19mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 20,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gic_vich_9x19mm_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 17,
+          "name": "gic_9x19mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 10,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gic_grantle_9x19mm_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 20,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 10,
+        "name": "gicexp_57x28mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 3,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 5,
+        "name": "esc_10x25mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_68x51mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 50,
+          "name": "gicexp_57x28mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 25,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_ammo_57x28mm_box_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 10,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 3,
+        "name": "gicexp_116x56mm_bullet"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 10,
+          "name": "gicexp_116x56mm_bullet"
+        },
+        {
+          "parameters": {},
+          "count": 35,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gic_stanag_federatsiya_116x56mm_mag"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1500,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_ar57kit"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_equipment"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1200,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "esc_t56mkit"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_equipment"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 200,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_laserforegrip"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_weaponattachments"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 200,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_flashlightforegrip"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_weaponattachments"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 120,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_black_out_ammunition_box"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_ammunition"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 200,
+          "name": "gic_physicalmicrocredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "bo_fn57_ammunition_box"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_civilianfirearms_tradeterminal",
+        "gic_civilianfirearms_ammunition"
+      ]
+    }
+  }
+]

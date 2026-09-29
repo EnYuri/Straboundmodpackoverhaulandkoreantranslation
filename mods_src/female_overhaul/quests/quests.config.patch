@@ -1,0 +1,14 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/objectiveDescriptions/mwh_questsCheck",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/objectiveDescriptions/mwh_questsCheck",
+      "value": "다음 퀘스트 완료: <quest>"
+    }
+  ]
+]

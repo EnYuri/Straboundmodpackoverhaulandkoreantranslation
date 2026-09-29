@@ -1,0 +1,24 @@
+[
+  {
+    "op": "test",
+    "path": "/paneLayout/rarities/buttons/4",
+    "inverse": true
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/rarities/buttons/-",
+    "value": {
+      "position": [
+        30,
+        60
+      ],
+      "baseImage": "/interface/crafting/sortessential.png",
+      "baseImageChecked": "/interface/crafting/sortessentialselected.png",
+      "data": {
+        "rarity": [
+          "essential"
+        ]
+      }
+    }
+  }
+]

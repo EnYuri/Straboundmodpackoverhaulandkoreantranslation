@@ -1,0 +1,17 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/interactAction",
+      "value": "ScriptPane"
+    },
+    {
+      "op": "add",
+      "path": "/scripts",
+      "value": [
+        "/objects/spawner/techstation.lua",
+        "/objects/scripts/customtechstation.lua"
+      ]
+    }
+  ]
+]

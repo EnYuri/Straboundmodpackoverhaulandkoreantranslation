@@ -1,0 +1,128 @@
+[
+  {
+    "op": "replace",
+    "path": "/musicTrack/day/tracks/0",
+    "value": "/music/zero.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/day/tracks/1",
+    "value": "/music/cowards.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/day/tracks/2",
+    "value": "/music/decieved.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/day/tracks/3",
+    "value": "/music/echoes.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/day/tracks/4",
+    "value": "/music/tomb.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/day/tracks/5",
+    "value": "/music/lost.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/day/tracks/6",
+    "value": "/music/abyss.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/day/tracks/7",
+    "value": "/music/karl.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/day/tracks/8",
+    "value": "/music/deeper.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/day/tracks/9",
+    "value": "/music/darkness.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/day/tracks/10",
+    "value": "/music/through.ogg"
+  },
+  {
+    "op": "remove",
+    "path": "/musicTrack/day/tracks/11"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/night/tracks/0",
+    "value": "/music/zero.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/night/tracks/1",
+    "value": "/music/cowards.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/night/tracks/2",
+    "value": "/music/decieved.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/night/tracks/3",
+    "value": "/music/echoes.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/night/tracks/4",
+    "value": "/music/tomb.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/night/tracks/5",
+    "value": "/music/lost.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/night/tracks/6",
+    "value": "/music/abyss.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/night/tracks/7",
+    "value": "/music/karl.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/night/tracks/8",
+    "value": "/music/deeper.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/night/tracks/9",
+    "value": "/music/darkness.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/musicTrack/night/tracks/10",
+    "value": "/music/through.ogg"
+  },
+  {
+    "op": "remove",
+    "path": "/musicTrack/night/tracks/11"
+  },
+  {
+    "op": "remove",
+    "path": "/musicTrack/night/tracks/12"
+  },
+  {
+    "op": "remove",
+    "path": "/musicTrack/night/tracks/13"
+  }
+]

@@ -1,0 +1,5 @@
+[
+  { "op" : "add", "path" : "/showAcceptDialog", "value" : false },
+  { "op" : "add", "path" : "/showCompleteDialog", "value" : false },
+  { "op" : "add", "path" : "/showFailDialog", "value" : false }
+]

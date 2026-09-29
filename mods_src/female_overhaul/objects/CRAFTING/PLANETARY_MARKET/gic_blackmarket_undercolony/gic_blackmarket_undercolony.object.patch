@@ -1,0 +1,91 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gic_physicalcredit"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_ftac9_kit"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_undercolony",
+        "gic_blackmarket_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 5,
+          "name": "gic_physicalcredit"
+        },
+        {
+          "parameters": {},
+          "count": 3,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gicexp_dchr223"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_dchr223_auto"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_undercolony",
+        "gic_blackmarket_weapons"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/recipes/-",
+    "value": {
+      "input": [
+        {
+          "parameters": {},
+          "count": 5,
+          "name": "gic_physicalcredit"
+        },
+        {
+          "parameters": {},
+          "count": 3,
+          "name": "gic_weaponparts"
+        },
+        {
+          "parameters": {},
+          "count": 1,
+          "name": "gicexp_dcdc570_semi"
+        }
+      ],
+      "output": {
+        "parameters": {},
+        "count": 1,
+        "name": "gicexp_dcdc570"
+      },
+      "matchInputParameters": false,
+      "groups": [
+        "gic_blackmarket_undercolony",
+        "gic_blackmarket_weapons"
+      ]
+    }
+  }
+]

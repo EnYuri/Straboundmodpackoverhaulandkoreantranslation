@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/converse/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/converse/default/default",
+      "value": [
+        "난 매 주마다 전투 기술을 다듬어야만 해... 아냐, 매일 해야만 해!",
+        "하루에 두 번은 진정한 전투의 본질에 대해 생각해야만 해. 이게 바로 강함을 유지하는 최고의 방법이야.",
+        "우주 어딘가에 불의가 일어나고 있을 것이라고 생각하니 잠이 오질 않아. 뭐... 그래서 난 평생 자지 않는 셈이지.",
+        "전사는 기억에 남을만한 전투의 함성을 갖고 있어야만 한다. 이걸 잊어서는 안돼."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/reattack/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/reattack/default/default",
+      "value": [
+        "이번은... 재결투다!",
+        "이번에는, 우리의 싸움이... 진정으로 끝나게 될 것이다!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/attack/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/attack/default/default",
+      "value": [
+        "전투로군... 쓰러져라! 위대한 정의를 위하여!",
+        "함께 싸워보자... 정의를 위해서!",
+        "우리가 힘을 합한다면, 그 누구도 막을 수 없다!",
+        "제국의 힘이다!",
+        "너는 사라질 것이다! 정의의 칼날을 맛보아라!",
+        "전투의 함성!",
+        "무한의 칼날이 너를 노린다!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/killedTarget/default/default"
+    },
+    {
+      "op": "replace",
+      "path": "/killedTarget/default/default",
+      "value": [
+        "너는 진정한 정의의 심장을 쓰러트릴 수 없다!",
+        "우정이 또 한 번 승리했구나!",
+        "정의와 우정은 중력과도 같은 힘이다! 절대 거스를 수 없는 힘 말이다!"
+      ]
+    }
+  ]
+]

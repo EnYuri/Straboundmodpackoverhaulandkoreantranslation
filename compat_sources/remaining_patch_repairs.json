@@ -1,0 +1,3594 @@
+{
+  "repairs": [
+    {
+      "source": "Patch_Project_contents_1543219534.pak",
+      "old": "/items/active/weapons/bow/frozenbow.activeitem",
+      "target": "/items/active/weapons/bow/frozenbow/frozenbow.activeitem",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/animationCustom/sounds/perfectRelease/0",
+            "value": "/sfx/gun/bow_loose_perfect.ogg"
+          },
+          {
+            "op": "replace",
+            "path": "/animationCustom/sounds/perfectRelease/0",
+            "value": "/sfx/gun/frozenbow_loose_perfect.ogg"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "Saturnians_contents_1103027918.pak",
+      "old": "/objects/generic/teacup/teacup1.object",
+      "target": "/objects/generic/teacup1/teacup1.object",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/saturnDescription",
+          "value": "This tea probably needs more sugar. "
+        }
+      ]
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "old": "/biomes/underground/generic/underground1c.biome",
+      "target": "/biomes/underground/underground1c.biome",
+      "kind": "encounter",
+      "operations": [
+        {
+          "value": "felinundergroundencounter"
+        }
+      ]
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "old": "/biomes/underground/generic/underground3b.biome",
+      "target": "/biomes/underground/underground3b.biome",
+      "kind": "encounter",
+      "operations": [
+        {
+          "value": "felinundergroundencounter"
+        }
+      ]
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "old": "/biomes/underground/generic/underground3d.biome",
+      "target": "/biomes/underground/underground3d.biome",
+      "kind": "encounter",
+      "operations": [
+        {
+          "value": "felinundergroundencounter"
+        }
+      ]
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "old": "/biomes/underground/generic/underground1b.biome",
+      "target": "/biomes/underground/underground1b.biome",
+      "kind": "encounter",
+      "operations": [
+        {
+          "value": "felinundergroundencounter"
+        }
+      ]
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "old": "/biomes/underground/generic/underground3a.biome",
+      "target": "/biomes/underground/underground3a.biome",
+      "kind": "encounter",
+      "operations": [
+        {
+          "value": "felinundergroundencounter"
+        }
+      ]
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "old": "/npcs/mission/dungeons/apexcamp/apexrebelvillager.npctype",
+      "target": "/npcs/dungeon/apexcamp/apexrebelvillager.npctype",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/scriptConfig/dialog/converse/apex/felin",
+          "value": [
+            "보통 애들만큼 길 잃어 보이진 않네, 펠린.",
+            "미니크녹에 맞선 우리의 끝없는 투쟁을 도우러 오셨나요?",
+            "미니크녹에게 쫓기는 신세지만, 이렇게 자유로운 적은 처음이야!",
+            "미니크녹은 우리를 반란군이라 부르지만, 우리는 자유의 투사다!",
+            "우리는 우리 백성의 자유를 위해 싸운다. 너는 무엇을 위해 싸우나, 펠린이여?",
+            "이토록 힘든 시절은 없었지만, 우리는 희망을 잃으면 안 된다.",
+            "빅 에이프가 실제로 어떻게 생겼을지 궁금하네.",
+            "빅 에이프가 그렇게 크지도 않을걸.",
+            "에이펙스의 고난에 대해 많이 알아, 펠린?",
+            "미니크녹에 대해 얼마나 알아? 그들이 에이펙스 종족을 지배하는데, 잔혹하고 야만적이야.",
+            "우리 반군 중 많은 이가 미니크녹에게 가족과 친구를 잃었어. 그들을 무찌를 때까지 우리는 쉬지 않을 거야.",
+            "나 방해하지 마, 사악한 정권을 무너뜨리려고 바쁜 몸이거든.",
+            "여기서 너무 소란을 일으키지 말아 줘, 알았지?",
+            "당신네 종족에게도 냉혹한 독재자가 있나요?"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "old": "/biomes/underground/generic/underground1d.biome",
+      "target": "/biomes/underground/underground1d.biome",
+      "kind": "encounter",
+      "operations": [
+        {
+          "value": "felinundergroundencounter"
+        }
+      ]
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "old": "/biomes/underground/generic/underground3c.biome",
+      "target": "/biomes/underground/underground3c.biome",
+      "kind": "encounter",
+      "operations": [
+        {
+          "value": "felinundergroundencounter"
+        }
+      ]
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "old": "/biomes/underground/generic/underground1a.biome",
+      "target": "/biomes/underground/underground1a.biome",
+      "kind": "encounter",
+      "operations": [
+        {
+          "value": "felinundergroundencounter"
+        }
+      ]
+    },
+    {
+      "source": "contents_1102394541.pak",
+      "old": "/npcs/space/vaultkeytrader.npctype",
+      "target": "/npcs/outpost/vaultkeytrader.npctype",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/scripts/-",
+          "value": "/npcs/shuttlecraft_lounge.lua"
+        }
+      ]
+    },
+    {
+      "source": "contents_931757634.pak",
+      "old": "/npc/villager.npctype",
+      "target": "/npcs/villager.npctype",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/scriptConfig/questGenerator/graduation/nextNpcType/-",
+          "value": [
+            0.25,
+            "crewmemberconcoctions"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "contents_2881835252.pak",
+      "old": "/npcs/overrides/override-follow.behavior",
+      "target": "/behaviors/npc/overrides/override-follow.behavior",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "replace",
+          "path": "/parameters/questFollowerRunSpeed",
+          "value": 17
+        }
+      ]
+    },
+    {
+      "source": "contents_1119973779.pak",
+      "old": "/monsters/critter/mcm/furaccooncritter/MC_raccooncritter.monstertype",
+      "target": "/monsters/critter/MC_raccooncritter/MC_raccooncritter.monstertype",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/baseParameters/movementSettings/collisionPoly",
+            "value": [
+              [
+                -0.5,
+                -0.5
+              ],
+              [
+                0.5,
+                -0.5
+              ],
+              [
+                0.5,
+                0.5
+              ],
+              [
+                -0.5,
+                0.5
+              ]
+            ]
+          },
+          {
+            "op": "replace",
+            "path": "/baseParameters/movementSettings/collisionPoly",
+            "value": [
+              [
+                -0.5,
+                -0.4
+              ],
+              [
+                -0.4,
+                -0.5
+              ],
+              [
+                0.4,
+                -0.5
+              ],
+              [
+                0.5,
+                -0.4
+              ],
+              [
+                0.5,
+                0.4
+              ],
+              [
+                0.4,
+                0.5
+              ],
+              [
+                -0.4,
+                0.5
+              ],
+              [
+                -0.5,
+                0.4
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "source": "contents_960708990.pak",
+      "old": "/objects/outpost/treasuredtrophies/terramart.object",
+      "target": "/objects/outpost/terramart/terramart.object",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/orientations/0/collision",
+          "value": "platform"
+        },
+        {
+          "op": "add",
+          "path": "/orientations/0/collisionSpaces",
+          "value": [
+            [
+              -8,
+              5
+            ],
+            [
+              -7,
+              5
+            ],
+            [
+              -6,
+              5
+            ],
+            [
+              -5,
+              5
+            ],
+            [
+              -4,
+              6
+            ],
+            [
+              -3,
+              6
+            ],
+            [
+              -2,
+              6
+            ],
+            [
+              -1,
+              5
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              5
+            ],
+            [
+              2,
+              5
+            ],
+            [
+              3,
+              5
+            ],
+            [
+              4,
+              5
+            ],
+            [
+              5,
+              5
+            ],
+            [
+              6,
+              5
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/alien.biome",
+      "target": "/biomes/surface/alien.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/tentacle-exploration1.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/tentacle-exploration1.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/desert-exploration1.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/desert-exploration1.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/desert-exploration2.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/desert-exploration2.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/arctic.biome",
+      "target": "/biomes/surface/arctic.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound OST - Hylotl Theme The Eternal Tide.ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/ocean.biome",
+      "target": "/biomes/surface/ocean.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/ocean-exploration2.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/ocean-exploration2.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound OST - Hylotl Theme The Eternal Tide.ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/barren.biome",
+      "target": "/biomes/surface/barren.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/arcticoceanfloor.biome",
+      "target": "/biomes/surface/arcticoceanfloor.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound OST - Hylotl Theme The Eternal Tide.ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/toxic.biome",
+      "target": "/biomes/surface/toxic.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/snow.biome",
+      "target": "/biomes/surface/snow.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/forest.biome",
+      "target": "/biomes/surface/forest.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/forest-loop.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/forest-loop.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/volcanic.biome",
+      "target": "/biomes/surface/volcanic.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/desert-battle-2.ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/asteroidfield.biome",
+      "target": "/biomes/surface/asteroidfield.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 33 - Via Aurora.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 33 - Via Aurora.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/desert.biome",
+      "target": "/biomes/surface/desert.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/desert-exploration1.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/desert-exploration1.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/desert-exploration2.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/desert-exploration2.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/desert-battle-2.ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/garden.biome",
+      "target": "/biomes/surface/garden.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/home-concept-loop.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/home-concept-loop.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/ocean-exploration2.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/ocean-exploration2.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/jungle.biome",
+      "target": "/biomes/surface/jungle.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/magma.biome",
+      "target": "/biomes/surface/magma.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/midnight.biome",
+      "target": "/biomes/surface/midnight.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 33 - Via Aurora.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 33 - Via Aurora.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/oceanfloor.biome",
+      "target": "/biomes/surface/oceanfloor.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/ocean-exploration2.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/ocean-exploration2.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/Starbound OST - Hylotl Theme The Eternal Tide.ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/scorchedcity.biome",
+      "target": "/biomes/surface/scorchedcity.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/desert-battle-2.ogg"
+        }
+      ]
+    },
+    {
+      "source": "contents_737195784.pak",
+      "old": "/biome/surface/tentacle.biome",
+      "target": "/biomes/surface/tentacle.biome",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/tentacle-exploration1.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/tentacle-exploration1.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/night/tracks/-",
+          "value": "/music/the-apex.ogg"
+        },
+        {
+          "op": "add",
+          "path": "/musicTrack/day/tracks/-",
+          "value": "/music/scorian-flow.ogg"
+        }
+      ]
+    },
+    {
+      "source": "size_stat_contents_3218827753.pak",
+      "old": "/items/throwables/bodysize_shrinknade.thrownitem",
+      "target": "/items/active/throwables/bodysize_shrinknade.thrownitem",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "replace",
+          "path": "/price",
+          "value": 500
+        }
+      ]
+    },
+    {
+      "source": "Tougher_Mobs_1.11.5.2_compat.pak",
+      "old": "/monsters/ground/sb_chesttrapper/medievalchest.monstertype",
+      "target": "/monsters/dungeon/sb_chesttrapper/medievalchest.monstertype",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/baseParameters/sourceJSONAddress",
+          "value": "/monsters/dungeon/sb_chesttrapper/medievalchest.monstertype"
+        },
+        {
+          "op": "add",
+          "path": "/baseParameters/scripts/-",
+          "value": "/scripts/ExtraLootTougherMonsters.lua"
+        },
+        {
+          "op": "copy",
+          "from": "/dropPools",
+          "path": "/baseParameters/dropPoolsCopy"
+        }
+      ]
+    },
+    {
+      "source": "Tougher_Mobs_1.11.5.2_compat.pak",
+      "old": "/monsters/ground/sb_heckblob/heckblob.monstertype",
+      "target": "/monsters/walkers/sb_heckblob/heckblob.monstertype",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/baseParameters/sourceJSONAddress",
+          "value": "/monsters/walkers/sb_heckblob/heckblob.monstertype"
+        },
+        {
+          "op": "add",
+          "path": "/baseParameters/scripts/-",
+          "value": "/scripts/ExtraLootTougherMonsters.lua"
+        },
+        {
+          "op": "copy",
+          "from": "/dropPools",
+          "path": "/baseParameters/dropPoolsCopy"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/positions/fellatio_in_bed.config",
+      "target": "/positions/twoactors/fellatio/fellatio_in_bed.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felinblowjob.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/SexBound_Felin/positions/fellatio_in_bed.config",
+      "target": "/positions/twoactors/fellatio/fellatio_in_bed.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felinblowjob.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/SexBound_Felin/positions/butterfly.config",
+      "target": "/positions/twoactors/butterfly/butterfly.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felin.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/positions/butterfly.config",
+      "target": "/positions/twoactors/butterfly/butterfly.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felin.config"
+        }
+      ]
+    },
+    {
+      "source": "100_sxb_fuchsia_returns.pak",
+      "old": "/positions/butterfly.config",
+      "target": "/positions/twoactors/butterfly/butterfly.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/special_fuchsia",
+          "value": "/dialog/sexbound/en/positions/fuchsiaButterfly.config"
+        }
+      ]
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "old": "/positions/butterfly.config",
+      "target": "/positions/twoactors/butterfly/butterfly.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/special_friskyfelin",
+          "value": "/dialog/sexbound/en/positions/friskyfelinButterfly.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/SexBound_Felin/positions/cowgirl.config",
+      "target": "/positions/twoactors/cowgirl/cowgirl.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felincowgirl.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/positions/cowgirl.config",
+      "target": "/positions/twoactors/cowgirl/cowgirl.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felincowgirl.config"
+        }
+      ]
+    },
+    {
+      "source": "100_sxb_fuchsia_returns.pak",
+      "old": "/positions/cowgirl.config",
+      "target": "/positions/twoactors/cowgirl/cowgirl.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/special_fuchsia",
+          "value": "/dialog/sexbound/en/positions/fuchsiaCowgirl.config"
+        }
+      ]
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "old": "/positions/cowgirl.config",
+      "target": "/positions/twoactors/cowgirl/cowgirl.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/special_friskyfelin",
+          "value": "/dialog/sexbound/en/positions/friskyfelinCowgirl.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/positions/standing_in_bed.config",
+      "target": "/positions/twoactors/standing/standing_in_bed.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felin.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/SexBound_Felin/positions/standing_in_bed.config",
+      "target": "/positions/twoactors/standing/standing_in_bed.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felin.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/SexBound_Felin/positions/doggy_in_bed.config",
+      "target": "/positions/twoactors/doggy/doggy_in_bed.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felindoggy.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/positions/doggy_in_bed.config",
+      "target": "/positions/twoactors/doggy/doggy_in_bed.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felindoggy.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/SexBound_Felin/positions/doggy.config",
+      "target": "/positions/twoactors/doggy/doggy.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felindoggy.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/positions/doggy.config",
+      "target": "/positions/twoactors/doggy/doggy.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felindoggy.config"
+        }
+      ]
+    },
+    {
+      "source": "100_sxb_fuchsia_returns.pak",
+      "old": "/positions/doggy.config",
+      "target": "/positions/twoactors/doggy/doggy.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/special_fuchsia",
+          "value": "/dialog/sexbound/en/positions/fuchsiaDoggy.config"
+        }
+      ]
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "old": "/positions/doggy.config",
+      "target": "/positions/twoactors/doggy/doggy.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/special_friskyfelin",
+          "value": "/dialog/sexbound/en/positions/friskyfelinDoggy.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/positions/fellatio.config",
+      "target": "/positions/twoactors/fellatio/fellatio.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felinblowjob.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/SexBound_Felin/positions/fellatio.config",
+      "target": "/positions/twoactors/fellatio/fellatio.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felinblowjob.config"
+        }
+      ]
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "old": "/positions/fellatio.config",
+      "target": "/positions/twoactors/fellatio/fellatio.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/special_friskyfelin",
+          "value": "/dialog/sexbound/en/positions/friskyfelinBlowjob.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/positions/missionary.config",
+      "target": "/positions/twoactors/missionary/missionary.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felin.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/SexBound_Felin/positions/missionary.config",
+      "target": "/positions/twoactors/missionary/missionary.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felin.config"
+        }
+      ]
+    },
+    {
+      "source": "100_sxb_fuchsia_returns.pak",
+      "old": "/positions/missionary.config",
+      "target": "/positions/twoactors/missionary/missionary.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/special_fuchsia",
+          "value": "/dialog/sexbound/en/positions/fuchsiaMissionary.config"
+        }
+      ]
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "old": "/positions/missionary.config",
+      "target": "/positions/twoactors/missionary/missionary.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/special_friskyfelin",
+          "value": "/dialog/sexbound/en/positions/friskyfelinMissionary.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/SexBound_Felin/positions/cowgirl_in_bed.config",
+      "target": "/positions/twoactors/cowgirl/cowgirl_in_bed.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felincowgirl.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/positions/cowgirl_in_bed.config",
+      "target": "/positions/twoactors/cowgirl/cowgirl_in_bed.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felincowgirl.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/positions/missionary_in_bed.config",
+      "target": "/positions/twoactors/missionary/missionary_in_bed.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felin.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/SexBound_Felin/positions/missionary_in_bed.config",
+      "target": "/positions/twoactors/missionary/missionary_in_bed.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felin.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/positions/butterfly_in_bed.config",
+      "target": "/positions/twoactors/butterfly/butterfly_in_bed.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felin.config"
+        }
+      ]
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "old": "/SexBound_Felin/positions/butterfly_in_bed.config",
+      "target": "/positions/twoactors/butterfly/butterfly_in_bed.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/felin",
+          "value": "/dialog/sexbound/en/positions/felin.config"
+        }
+      ]
+    },
+    {
+      "source": "100_sxb_fuchsia_returns.pak",
+      "old": "/positions/standing.config",
+      "target": "/positions/twoactors/standing/standing.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/special_fuchsia",
+          "value": "/dialog/sexbound/en/positions/fuchsiaStanding.config"
+        }
+      ]
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "old": "/positions/standing.config",
+      "target": "/positions/twoactors/standing/standing.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "ensure",
+          "path": "/dialog",
+          "value": {}
+        },
+        {
+          "op": "add",
+          "path": "/dialog/special_friskyfelin",
+          "value": "/dialog/sexbound/en/positions/friskyfelinStanding.config"
+        }
+      ]
+    },
+    {
+      "source": "contents_3088086087.pak",
+      "old": "/npcs/nmm_tenants/penguindealer.npctype",
+      "target": "/npcs/nuggubs_tenants/penguindealer.npctype",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/scripts/-",
+          "value": "/scripts/actions/om_INPCD.lua"
+        }
+      ]
+    },
+    {
+      "source": "contents_3088086087.pak",
+      "old": "/npcs/nmm_tenants/tarmerchant.npctype",
+      "target": "/npcs/nuggubs_tenants/tarmerchant.npctype",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/scripts/-",
+          "value": "/scripts/actions/om_INPCD.lua"
+        }
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/recipes/inventorstable1/humankitchencounter.recipe",
+      "target": "/recipes/platingtable/kitchen/humankitchencounter.recipe",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/duration",
+            "inverse": true
+          },
+          {
+            "op": "add",
+            "path": "/duration",
+            "value": 5
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/0",
+            "value": "inventorstable"
+          },
+          {
+            "op": "replace",
+            "path": "/groups/0",
+            "value": "inventorstable2"
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/3",
+            "value": "mod"
+          },
+          {
+            "op": "remove",
+            "path": "/groups/3"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/recipes/inventorstable1/medievalkitchencounter.recipe",
+      "target": "/recipes/platingtable/kitchen/medievalkitchencounter.recipe",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/duration",
+            "inverse": true
+          },
+          {
+            "op": "add",
+            "path": "/duration",
+            "value": 5
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/0",
+            "value": "inventorstable"
+          },
+          {
+            "op": "replace",
+            "path": "/groups/0",
+            "value": "inventorstable2"
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/3",
+            "value": "mod"
+          },
+          {
+            "op": "remove",
+            "path": "/groups/3"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/quests/oculemonade.questtemplate",
+      "target": "/quest/oculemonade.questtemplate",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/text",
+            "value": "The vending machine swallowed my pixels, if you can buy me a can of oculemondade I will give you this reward bag that I have"
+          },
+          {
+            "op": "replace",
+            "path": "/text",
+            "value": "자판기가 내 픽셀을 먹어 버렸어! ^orange;오큘레몬에이드^reset; 한 캔만 사다 주면 내가 가진 보상 가방을 줄게."
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/completionText",
+            "value": "Thank you, maybe this day wont be so bad."
+          },
+          {
+            "op": "replace",
+            "path": "/completionText",
+            "value": "고마워, 오늘 결국 그렇게 나쁘진 않을지도 모르겠어."
+          }
+        ]
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/objects/plushies/community/edition4/monekoplush/PBmonicaplush.object",
+      "target": "/objects/plushies/community/edition4/monicaplush/PBmonicaplush.object",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "add",
+          "path": "/hylotlDescription",
+          "value": "아마 이 사람은 고양이에 푹 빠진 여성에 더 가까운 것 같군..."
+        },
+        {
+          "op": "add",
+          "path": "/novakidDescription",
+          "value": "사랑스러운 아가씨 아냐? 근데... 이 발 장갑은 뭐야?"
+        }
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/recipes/inventorstable1/frontierkitchencounter.recipe",
+      "target": "/recipes/platingtable/kitchen/frontierkitchencounter.recipe",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/duration",
+            "inverse": true
+          },
+          {
+            "op": "add",
+            "path": "/duration",
+            "value": 5
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/0",
+            "value": "inventorstable"
+          },
+          {
+            "op": "replace",
+            "path": "/groups/0",
+            "value": "inventorstable2"
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/3",
+            "value": "mod"
+          },
+          {
+            "op": "remove",
+            "path": "/groups/3"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/recipes/inventorstable1/hylotlclassickitchencounter.recipe",
+      "target": "/recipes/platingtable/kitchen/hylotlclassickitchencounter.recipe",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/duration",
+            "inverse": true
+          },
+          {
+            "op": "add",
+            "path": "/duration",
+            "value": 5
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/0",
+            "value": "inventorstable"
+          },
+          {
+            "op": "replace",
+            "path": "/groups/0",
+            "value": "inventorstable2"
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/3",
+            "value": "mod"
+          },
+          {
+            "op": "remove",
+            "path": "/groups/3"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/recipes/inventorstable1/tribalkitchencounter.recipe",
+      "target": "/recipes/platingtable/kitchen/tribalkitchencounter.recipe",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/duration",
+            "inverse": true
+          },
+          {
+            "op": "add",
+            "path": "/duration",
+            "value": 5
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/0",
+            "value": "inventorstable"
+          },
+          {
+            "op": "replace",
+            "path": "/groups/0",
+            "value": "inventorstable2"
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/3",
+            "value": "mod"
+          },
+          {
+            "op": "remove",
+            "path": "/groups/3"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/recipes/inventorstable1/plantkitchencounter.recipe",
+      "target": "/recipes/platingtable/kitchen/plantkitchencounter.recipe",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/duration",
+            "inverse": true
+          },
+          {
+            "op": "add",
+            "path": "/duration",
+            "value": 5
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/0",
+            "value": "inventorstable"
+          },
+          {
+            "op": "replace",
+            "path": "/groups/0",
+            "value": "inventorstable2"
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/3",
+            "value": "mod"
+          },
+          {
+            "op": "remove",
+            "path": "/groups/3"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/recipes/inventorstable1/apexkitchencounter.recipe",
+      "target": "/recipes/platingtable/kitchen/apexkitchencounter.recipe",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/duration",
+            "inverse": true
+          },
+          {
+            "op": "add",
+            "path": "/duration",
+            "value": 5
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/0",
+            "value": "inventorstable"
+          },
+          {
+            "op": "replace",
+            "path": "/groups/0",
+            "value": "inventorstable2"
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/groups/3",
+            "value": "mod"
+          },
+          {
+            "op": "remove",
+            "path": "/groups/3"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "contents_869900472.pak",
+      "old": "/treasure/cropharvest.tresurepools",
+      "target": "/treasure/cropharvest.treasurepools",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/kiriHarvest/0/1/fill"
+          },
+          {
+            "op": "remove",
+            "path": "/kiriHarvest/0/1/fill"
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/nakatiHarvest/0/1/fill"
+          },
+          {
+            "op": "remove",
+            "path": "/nakatiHarvest/0/1/fill"
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/piruHarvest/0/1/fill"
+          },
+          {
+            "op": "remove",
+            "path": "/piruHarvest/0/1/fill"
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/muliHarvest/0/1/fill"
+          },
+          {
+            "op": "remove",
+            "path": "/muliHarvest/0/1/fill"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/objects/plushies/community/edition6/starridernovaplush/PBstarridernovaplush.object",
+      "target": "/objects/plushies/community/edition6/starridernovaplush/PBstarridernova.object",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "replace",
+          "path": "/description",
+          "value": "한때 두려움의 대상이었던 노바키드 도적으로, 먼 행성에서 벌인 그녀의 불가능해 보이는 업적과 강도 행각에 관한 이야기가 많이 전해집니다."
+        },
+        {
+          "op": "replace",
+          "path": "/apexDescription",
+          "value": "Was she really feared? The hat makes her look kind of cute."
+        },
+        {
+          "op": "replace",
+          "path": "/avianDescription",
+          "value": "I know it's a plushie of a criminal, but why does it look adorable?"
+        },
+        {
+          "op": "replace",
+          "path": "/floranDescription",
+          "value": "Real novakid desspicable. Plussh novakid appreciable!"
+        },
+        {
+          "op": "replace",
+          "path": "/glitchDescription",
+          "value": "Conflicted. I want to hug this plush but I feel I shouldn't."
+        },
+        {
+          "op": "replace",
+          "path": "/humanDescription",
+          "value": "I've never heard of her, was she as despicable as the stories say?"
+        }
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/objects/plushies/community2/edition10/nimbospriteplush/PBnimbospriteplush.object",
+      "target": "/objects/plushies/community2/edition10/nimbospriteplush/nimbospriteplush.object",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "replace",
+          "path": "/description",
+          "value": "천둥구름을 불러오고 폭풍을 몰고 온다는 님보스프라이트의 플러시 인형."
+        },
+        {
+          "op": "replace",
+          "path": "/apexDescription",
+          "value": "Nimbosprites... said to bring rain, but really just follows storms."
+        },
+        {
+          "op": "replace",
+          "path": "/glitchDescription",
+          "value": "Amused. Many Glitch thought these creatures were fey who brought thunderstorms."
+        },
+        {
+          "op": "replace",
+          "path": "/humanDescription",
+          "value": "So soft... It's like a cloud. The perfect sleeping companion!"
+        }
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/objects/plushies/community3/edition5/meteoysterplush/PBmeteoysterplush.object",
+      "target": "/objects/plushies/community3/edition5/meteoysterplush/PBmeteoyster.object",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "replace",
+          "path": "/description",
+          "value": "사실은 굴보다는 대합에 가깝다. 보이는 것보다 훨씬 넓다."
+        },
+        {
+          "op": "replace",
+          "path": "/novakidDescription",
+          "value": "Crackin' open a giant meteor in the form of some clam for a hefty pearl... Now that would make for a tall tale!"
+        }
+      ]
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "old": "/objects/plushies/community2/edition4/fractalplush/PBfractalplush.object",
+      "target": "/objects/plushies/community2/edition4/fractalplush/PBfractulplush.object",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "replace",
+          "path": "/avianDescription",
+          "value": "I know Fractuls get more intelligent when they combine together."
+        }
+      ]
+    },
+    {
+      "source": "contents_2010607826.pak",
+      "old": "/items/tools/inspectionmode.inspectiontool",
+      "target": "/items/tools/inspectiontool/inspectionmode.inspectiontool",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/description",
+            "value": "Inspect the world around you. ^green;Quick select with [N] key."
+          },
+          {
+            "op": "replace",
+            "path": "/description",
+            "value": "Describe things in the world and scan objects for printing."
+          }
+        ],
+        [
+          {
+            "op": "test",
+            "path": "/nothingThereText/human",
+            "inverse": true
+          },
+          {
+            "op": "add",
+            "path": "/nothingThereText/human",
+            "value": []
+          }
+        ],
+        [
+          {
+            "op": "add",
+            "path": "/nothingThereText/human/-",
+            "value": "Nope, didn't find anything."
+          },
+          {
+            "op": "add",
+            "path": "/nothingThereText/human/-",
+            "value": "Oh. My. God! It's a... wait... nope sorry, nothing."
+          },
+          {
+            "op": "add",
+            "path": "/nothingThereText/human/-",
+            "value": "My god, it's full of nothing."
+          },
+          {
+            "op": "add",
+            "path": "/nothingThereText/human/-",
+            "value": "If at first you don't succeed, keep looking at the nothing."
+          },
+          {
+            "op": "add",
+            "path": "/nothingThereText/human/-",
+            "value": "I tried hard to make something out over there, but failed."
+          },
+          {
+            "op": "add",
+            "path": "/nothingThereText/human/-",
+            "value": "Nada, nothing, zilch, zip."
+          }
+        ]
+      ]
+    },
+    {
+      "source": "contents_2010607826.pak",
+      "old": "/projectiles/npcs/watergun/watersplash.projectile",
+      "target": "/projectiles/explosions/watersplash/watersplash.projectile",
+      "kind": "ops",
+      "operations": [
+        [
+          {
+            "op": "test",
+            "path": "/actionOnReap",
+            "inverse": true
+          },
+          {
+            "op": "add",
+            "path": "/actionOnReap",
+            "value": []
+          }
+        ],
+        [
+          {
+            "op": "add",
+            "path": "/actionOnReap/-",
+            "value": {
+              "action": "projectile",
+              "type": "watersprinkledroplet",
+              "inheritDamageFactor": 0,
+              "inheritSpeedFactor": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "source": "legacy symmetric Sexbound species patches",
+      "old": "/scripts/sexbound/plugins/pregnant.config",
+      "target": "/sxb_plugin.pregnant.config",
+      "kind": "ops",
+      "operations": [
+        {
+          "op": "appendSpecies",
+          "path": "/compatibleSpecies/kitsune",
+          "value": "kitsune"
+        },
+        {
+          "op": "appendSpecies",
+          "path": "/compatibleSpecies/viera",
+          "value": "bunnykin"
+        },
+        {
+          "op": "appendSpecies",
+          "path": "/compatibleSpecies/viera",
+          "value": "human"
+        },
+        {
+          "op": "appendSpecies",
+          "path": "/compatibleSpecies/viera",
+          "value": "ningen"
+        },
+        {
+          "op": "appendSpecies",
+          "path": "/compatibleSpecies/viera",
+          "value": "viera"
+        },
+        {
+          "op": "appendSpecies",
+          "path": "/compatibleSpecies/arcanian",
+          "value": "arcanian"
+        },
+        {
+          "op": "appendSpecies",
+          "path": "/compatibleSpecies/gilten",
+          "value": "gilten"
+        },
+        {
+          "op": "appendSpecies",
+          "path": "/compatibleSpecies/gelsemis",
+          "value": "gelsemis"
+        },
+        {
+          "op": "appendSpecies",
+          "path": "/compatibleSpecies/bunnykin",
+          "value": "viera"
+        },
+        {
+          "op": "appendSpecies",
+          "path": "/compatibleSpecies/human",
+          "value": "viera"
+        },
+        {
+          "op": "appendSpecies",
+          "path": "/compatibleSpecies/ningen",
+          "value": "viera"
+        }
+      ]
+    }
+  ],
+  "upstreamCorrections": [
+    {
+      "source": "contents_2010607826.pak",
+      "asset": "/items/tools/inspectionmode.inspectiontool.patch",
+      "reason": "malformed JSON separators and duplicate branch"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground0d.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground1a.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground5d.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/core/magmarockcorelayer.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground0a.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground3c.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/core/obisidiancorelayer.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground1b.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground5a.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/core/blaststonecorelayer.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/barrenunderground.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/core/gardencorelayer.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground0b.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground3d.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground1c.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground5b.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground3a.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground0c.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground1d.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground5c.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "contents_2865310071.pak",
+      "asset": "/biomes/underground/underground3b.biome.patch",
+      "reason": "audio filename typo"
+    },
+    {
+      "source": "322_SxB_MimicSupport.pak",
+      "asset": "/monsters/tentacles_monsters/mimicchest/mimicchest.monstertype.patch",
+      "reason": "deleted redundant legacy status script"
+    }
+  ],
+  "pregnancyConversions": [
+    {
+      "source": "0_sxb_sexbound_kitsunerace.pak",
+      "old": "/scripts/sexbound/plugins/pregnant.config.patch",
+      "race": "kitsune",
+      "species": [
+        "kitsune"
+      ]
+    },
+    {
+      "source": "SxB-Races_Viera_v3.0.pak",
+      "old": "/scripts/sexbound/plugins/pregnant.config.patch",
+      "race": "viera",
+      "species": [
+        "bunnykin",
+        "human",
+        "ningen",
+        "viera"
+      ]
+    },
+    {
+      "source": "20_sxb_sexbound_arcanaraces.pak",
+      "old": "/scripts/sexbound/plugins/pregnant.config.patch",
+      "race": "arcanian",
+      "species": [
+        "arcanian"
+      ]
+    },
+    {
+      "source": "20_sxb_sexbound_arcanaraces.pak",
+      "old": "/scripts/sexbound/plugins/pregnant.config.patch",
+      "race": "gilten",
+      "species": [
+        "gilten"
+      ]
+    },
+    {
+      "source": "20_sxb_sexbound_arcanaraces.pak",
+      "old": "/scripts/sexbound/plugins/pregnant.config.patch",
+      "race": "gelsemis",
+      "species": [
+        "gelsemis"
+      ]
+    }
+  ],
+  "candidateDecisions": [
+    {
+      "source": "Patch_Project_contents_1543219534.pak",
+      "title": "Starbound Patch Project",
+      "old": "/items/active/weapons/bow/frozenbow.activeitem",
+      "candidates": [
+        "/items/active/weapons/bow/frozenbow/frozenbow.activeitem"
+      ],
+      "body": "[\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/animationCustom/sounds/perfectRelease/0\",\r\n      \"value\" : \"/sfx/gun/bow_loose_perfect.ogg\"\r\n    },\r\n    {\r\n      \"op\" : \"replace\",\r\n      \"path\" : \"/animationCustom/sounds/perfectRelease/0\",\r\n      \"value\" : \"/sfx/gun/frozenbow_loose_perfect.ogg\"\r\n    }\r\n  ]\r\n]\r\n",
+      "status": "restored"
+    },
+    {
+      "source": "Saturnians_contents_1103027918.pak",
+      "title": "The Saturnians",
+      "old": "/npcs/mission/base.npctype",
+      "candidates": [
+        "/npcs/base.npctype",
+        "/npcs/ivrpgNpcShield/base.npctype",
+        "/xrc_vending/base.npctype"
+      ],
+      "body": "[ \n\n{ \"op\": \"add\", \n\t\t\"path\": \"/scriptConfig/chatSounds/satkyterran\", \n\t\t\"value\": {\n\t\t\"male\": [ \"/sfx/humanoid/saturnkyta_sfx1.ogg\", \"/sfx/humanoid/saturnkyta_sfx2.ogg\", \"/sfx/humanoid/saturnkyta_sfx3.ogg\" ],\n\t\t\"female\": [ \"/sfx/humanoid/saturnkyta_sfx1.ogg\", \"/sfx/humanoid/saturnkyta_sfx2.ogg\", \"/sfx/humanoid/saturnkyta_sfx3.ogg\" ]\n} },\n\n{ \"op\": \"add\", \n\t\t\"path\": \"/scriptConfig/chatSounds/saturnmothman\", \n\t\t\"value\": {\n\t\t\"male\": [ \"/sfx/humanoid/saturnkyta_sfx1.ogg\", \"/sfx/humanoid/saturnkyta_sfx2.ogg\", \"/sfx/humanoid/saturnkyta_sfx3.ogg\" ],\n\t\t\"female\": [ \"/sfx/humanoid/saturnkyta_sfx1.ogg\", \"/sfx/humanoid/saturnkyta_sfx2.ogg\", \"/sfx/humanoid/saturnkyta_sfx3.ogg\" ]\n} }\n\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "Saturnians_contents_1103027918.pak",
+      "title": "The Saturnians",
+      "old": "/objects/generic/teacup/teacup1.object",
+      "candidates": [
+        "/objects/generic/teacup1/teacup1.object"
+      ],
+      "body": "[\n{\n\"op\": \"add\",\n\"path\": \"/saturnDescription\",\n\"value\": \"This tea probably needs more sugar. \"\n}\n]\n",
+      "status": "restored"
+    },
+    {
+      "source": "contents_947429656.pak",
+      "title": "Scripted Artificial Intelligence Lattice (Customisable A.I.!)",
+      "old": "/objects/ship/pegalacitechstation/techstation.object",
+      "candidates": [
+        "/objects/ship/fupeglacitechstation/techstation.object"
+      ],
+      "body": "[\r\n  [\r\n    {\r\n      \"op\": \"replace\",\r\n      \"path\": \"/interactAction\",\r\n      \"value\": \"ScriptPane\"\r\n    },\r\n    {\r\n      \"op\": \"add\",\r\n      \"path\": \"/interactData\",\r\n      \"value\": \"/interface/ai/aicustom.config\"\r\n    },\r\n    {\r\n      \"op\": \"add\",\r\n      \"path\": \"/fallbackInteractAction\",\r\n      \"value\": \"OpenAiInterface\"\r\n    },\r\n    {\r\n      \"op\": \"add\",\r\n      \"path\": \"/fallbackInteractData\",\r\n      \"value\": \"\"\r\n    },\r\n    {\r\n      \"op\": \"add\",\r\n      \"path\": \"/screwdriverInteractAction\",\r\n      \"value\": \"ScriptPane\"\r\n    },\r\n    {\r\n      \"op\": \"add\",\r\n      \"path\": \"/screwdriverInteractData\",\r\n      \"value\": \"/interface/ai/backpanel.config\"\r\n    }\r\n  ],\r\n\r\n  [\r\n    { \"op\": \"test\", \"path\": \"/animationScripts\" },\r\n    { \"op\": \"add\", \"path\": \"/animationScripts/-\", \"value\": \"/objects/scripts/changeObjectSprite.lua\" }\r\n  ],\r\n  [\r\n    { \"op\": \"test\", \"path\": \"/animationScripts\", \"inverse\": true },\r\n    { \"op\": \"add\", \"path\": \"/animationScripts\", \"value\": [ \"/objects/scripts/changeObjectSprite.lua\" ] }\r\n  ],\r\n\r\n  [\r\n    { \"op\": \"test\", \"path\": \"/scripts\" },\r\n    { \"op\": \"add\", \"path\": \"/scripts/-\", \"value\": \"/objects/scripts/customtechstation.lua\" }\r\n  ],\r\n\r\n  [ //madtulip y\r\n    { \"op\": \"test\", \"path\": \"/scripts\", \"inverse\": true },\r\n    { \"op\": \"add\", \"path\": \"/scripts\", \"value\": [ \"/objects/scripts/customtechstation.lua\" ] }\r\n  ],\r\n  [\r\n    { \"op\": \"test\", \"path\": \"/scriptDelta\", \"inverse\": true },\r\n    { \"op\": \"add\", \"path\": \"/scriptDelta\", \"value\": 20 }\r\n  ]\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "title": "Felin",
+      "old": "/biomes/underground/generic/underground1c.biome",
+      "candidates": [
+        "/biomes/underground/underground1c.biome"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/undergroundPlaceables/items/8/microdungeons/-\",\r\n\t\t\"value\": \"felinundergroundencounter\"\r\n\t}\r\n]",
+      "status": "adapted encounter list by content"
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "title": "Felin",
+      "old": "/biomes/underground/generic/underground3b.biome",
+      "candidates": [
+        "/biomes/underground/underground3b.biome"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/undergroundPlaceables/items/8/microdungeons/-\",\r\n\t\t\"value\": \"felinundergroundencounter\"\r\n\t}\r\n]",
+      "status": "adapted encounter list by content"
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "title": "Felin",
+      "old": "/biomes/underground/generic/underground3d.biome",
+      "candidates": [
+        "/biomes/underground/underground3d.biome"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/undergroundPlaceables/items/7/microdungeons/-\",\r\n\t\t\"value\": \"felinundergroundencounter\"\r\n\t}\r\n]",
+      "status": "adapted encounter list by content"
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "title": "Felin",
+      "old": "/biomes/underground/generic/underground1b.biome",
+      "candidates": [
+        "/biomes/underground/underground1b.biome"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/undergroundPlaceables/items/7/microdungeons/-\",\r\n\t\t\"value\": \"felinundergroundencounter\"\r\n\t}\r\n]",
+      "status": "adapted encounter list by content"
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "title": "Felin",
+      "old": "/biomes/underground/generic/underground3a.biome",
+      "candidates": [
+        "/biomes/underground/underground3a.biome"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/undergroundPlaceables/items/8/microdungeons/-\",\r\n\t\t\"value\": \"felinundergroundencounter\"\r\n\t}\r\n]",
+      "status": "adapted encounter list by content"
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "title": "Felin",
+      "old": "/npcs/mission/dungeons/apexcamp/apexrebelvillager.npctype",
+      "candidates": [
+        "/npcs/dungeon/apexcamp/apexrebelvillager.npctype"
+      ],
+      "body": "//Thanks to Starblast16 for notifying me. Thankfully, most of these lines are the same for all species!\n[{\"op\":\"add\",\"path\":\"/scriptConfig/dialog/converse/apex/felin\",\"value\":[\n\t\"보통 애들만큼 길 잃어 보이진 않네, 펠린.\",\n\t\"미니크녹에 맞선 우리의 끝없는 투쟁을 도우러 오셨나요?\",\n\t\"미니크녹에게 쫓기는 신세지만, 이렇게 자유로운 적은 처음이야!\",\n\t\"미니크녹은 우리를 반란군이라 부르지만, 우리는 자유의 투사다!\",\n\t\"우리는 우리 백성의 자유를 위해 싸운다. 너는 무엇을 위해 싸우나, 펠린이여?\",\n\t\"이토록 힘든 시절은 없었지만, 우리는 희망을 잃으면 안 된다.\",\n\t\"빅 에이프가 실제로 어떻게 생겼을지 궁금하네.\",\n\t\"빅 에이프가 그렇게 크지도 않을걸.\",\n\t\"에이펙스의 고난에 대해 많이 알아, 펠린?\",\n\t\"미니크녹에 대해 얼마나 알아? 그들이 에이펙스 종족을 지배하는데, 잔혹하고 야만적이야.\",\n\t\"우리 반군 중 많은 이가 미니크녹에게 가족과 친구를 잃었어. 그들을 무찌를 때까지 우리는 쉬지 않을 거야.\",\n\t\"나 방해하지 마, 사악한 정권을 무너뜨리려고 바쁜 몸이거든.\",\n\t\"여기서 너무 소란을 일으키지 말아 줘, 알았지?\",\n\t\"당신네 종족에게도 냉혹한 독재자가 있나요?\"\n]}]",
+      "status": "restored"
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "title": "Felin",
+      "old": "/biomes/underground/generic/underground1d.biome",
+      "candidates": [
+        "/biomes/underground/underground1d.biome"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/undergroundPlaceables/items/7/microdungeons/-\",\r\n\t\t\"value\": \"felinundergroundencounter\"\r\n\t}\r\n]",
+      "status": "adapted encounter list by content"
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "title": "Felin",
+      "old": "/biomes/underground/generic/underground3c.biome",
+      "candidates": [
+        "/biomes/underground/underground3c.biome"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/undergroundPlaceables/items/7/microdungeons/-\",\r\n\t\t\"value\": \"felinundergroundencounter\"\r\n\t}\r\n]",
+      "status": "adapted encounter list by content"
+    },
+    {
+      "source": "Felin_contents_729429063.pak",
+      "title": "Felin",
+      "old": "/biomes/underground/generic/underground1a.biome",
+      "candidates": [
+        "/biomes/underground/underground1a.biome"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/undergroundPlaceables/items/10/microdungeons/-\",\r\n\t\t\"value\": \"felinundergroundencounter\"\r\n\t}\r\n]",
+      "status": "adapted encounter list by content"
+    },
+    {
+      "source": "contents_1102394541.pak",
+      "title": "Customizable Shuttlecraft",
+      "old": "/npcs/space/vaultkeytrader.npctype",
+      "candidates": [
+        "/npcs/outpost/vaultkeytrader.npctype"
+      ],
+      "body": "[\n\t{ \"op\" : \"add\", \"path\" : \"/scripts/-\", \"value\" : \"/npcs/shuttlecraft_lounge.lua\" }\n\n]\n\n",
+      "status": "restored"
+    },
+    {
+      "source": "-1000_angel_contents_1686520464.pak",
+      "title": "The Angels of Starbound",
+      "old": "/biomes/surface/hive.biome",
+      "candidates": [
+        "/biomes/surface_detached/hive.biome"
+      ],
+      "body": "[\r\n//MONSTERS\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/spawnProfile/groups/0/pool/-\",\r\n\t\t\"value\": [ 1, \"smallfiredemon\"]\r\n\t},\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/spawnProfile/groups/0/pool/-\",\r\n\t\t\"value\": [ 1, \"demoth\" ]\r\n\t},\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/spawnProfile/groups/0/pool/-\",\r\n\t\t\"value\": [ 1, \"poptopdemon\" ]\r\n\t},\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/spawnProfile/groups/0/pool/-\",\r\n\t\t\"value\": [ 1, \"creepydemon\"]\r\n\t},\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/spawnProfile/groups/0/pool/-\",\r\n\t\t\"value\": [ 1, \"adultpoptopdemon\"]\r\n\t},\r\n//ENCOUNTERS\r\n\t{\r\n\t\t\"op\" : \"add\", \r\n\t\t\"path\" : \"/surfacePlaceables/items/-\", \r\n\t\t\"value\" : {\r\n\t\t\t\"mode\" : \"floor\",\r\n\t\t\t\"priority\" : 2.0,\r\n\t\t\t\"variants\" : 1,\r\n\t\t\t\"distribution\" : \"/biomes/distributions.config:randomEncounter\",\r\n\t\t\t\"type\" : \"microdungeon\",\r\n\t\t\t\"microdungeons\" : [ \"rebelangelencounters\" ]\r\n\t\t}\r\n\t}\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "-1000_angel_contents_1686520464.pak",
+      "title": "The Angels of Starbound",
+      "old": "/biomes/surface/tar.biome",
+      "candidates": [
+        "/biomes/surface_detached/tar.biome"
+      ],
+      "body": "[\r\n//MONSTERS\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/spawnProfile/groups/0/pool/-\",\r\n\t\t\"value\": [ 0.1111, \"smallfiredemon\"]\r\n\t},\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/spawnProfile/groups/0/pool/-\",\r\n\t\t\"value\": [ 0.1111, \"demoth\" ]\r\n\t},\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/spawnProfile/groups/0/pool/-\",\r\n\t\t\"value\": [ 0.1111, \"poptopdemon\" ]\r\n\t},\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/spawnProfile/groups/0/pool/-\",\r\n\t\t\"value\": [ 0.1111, \"creepydemon\"]\r\n\t},\r\n\t{\r\n\t\t\"op\": \"add\",\r\n\t\t\"path\": \"/spawnProfile/groups/0/pool/-\",\r\n\t\t\"value\": [ 0.1111, \"adultpoptopdemon\"]\r\n\t}\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_1945946369.pak",
+      "title": "^#0f0,shadow;Shattered Alchemy!",
+      "old": "/sipMods/categories.config",
+      "candidates": [
+        "/items/categories.config"
+      ],
+      "body": "[\n  [{\n    \"op\": \"test\",\n    \"path\": \"/Shattered Alchemy:\",\n    \"inverse\": true\n  }, {\n    \"op\": \"add\",\n    \"path\": \"/Shattered Alchemy:\",\n    \"value\": []\n  }],\n  [{\n    \"op\": \"add\",\n    \"path\": \"/Shattered Alchemy:/-\",\n    \"value\": {\n      \"image\": \"/interface/sip/categories/xrc_sa.png:5\",\n      \"selectedImage\": \"/interface/sip/categories/xrc_sa.png:15\",\n      \"categories\": [\"sa_misc\"]\n    }\n  }],\n  [{\n    \"op\": \"add\",\n    \"path\": \"/Shattered Alchemy:/-\",\n    \"value\": {\n      \"image\": \"/interface/sip/categories/xrc_sa.png:4\",\n      \"selectedImage\": \"/interface/sip/categories/xrc_sa.png:14\",\n      \"categories\": [\"sa_seeds\"]\n    }\n  }],\n  [{\n    \"op\": \"add\",\n    \"path\": \"/Shattered Alchemy:/-\",\n    \"value\": {\n      \"image\": \"/interface/sip/categories/xrc_sa.png:0\",\n      \"selectedImage\": \"/interface/sip/categories/xrc_sa.png:10\",\n      \"categories\": [\"sa_potions\"]\n    }\n  }],\n  [{\n    \"op\": \"add\",\n    \"path\": \"/Shattered Alchemy:/-\",\n    \"value\": {\n      \"image\": \"/interface/sip/categories/xrc_sa.png:2\",\n      \"selectedImage\": \"/interface/sip/categories/xrc_sa.png:12\",\n      \"categories\": [\"sa_advanced\"]\n    }\n  }],\n/*  [{\n    \"op\": \"add\",\n    \"path\": \"/Shattered Alchemy:/-\",\n    \"value\": {\n      \"image\": \"/interface/sip/categories/xrc_sa.png:3\",\n      \"selectedImage\": \"/interface/sip/categories/xrc_sa.png:13\",\n      \"categories\": [\"sa_alchemy\"]\n    }\n  }],*/\n  [{\n    \"op\": \"add\",\n    \"path\": \"/Shattered Alchemy:/-\",\n    \"value\": {\n      \"image\": \"/interface/sip/categories/xrc_sa.png:1\",\n      \"selectedImage\": \"/interface/sip/categories/xrc_sa.png:11\",\n      \"categories\": [\"sa_food\"]\n    }\n  }],\n  [{\n    \"op\": \"add\",\n    \"path\": \"/Shattered Alchemy:/-\",\n    \"value\": {\n      \"image\": \"/interface/sip/categories/xrc_sa.png:8\",\n      \"selectedImage\": \"/interface/sip/categories/xrc_sa.png:18\",\n      \"categories\": [\"sa_scrolls\"]\n    }\n  }],\n  [{\n    \"op\": \"add\",\n    \"path\": \"/Shattered Alchemy:/-\",\n    \"value\": {\n      \"image\": \"/interface/sip/categories/xrc_sa.png:9\",\n      \"selectedImage\": \"/interface/sip/categories/xrc_sa.png:19\",\n      \"categories\": [\"sa_darts\"]\n    }\n  }]\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_2010607826.pak",
+      "title": "^shadow;Betab^#ff0;¤^clear;.^reset,shadow;und!",
+      "old": "/items/tools/anter/flashlighttoggle/replacer/mininglantern.activeitem",
+      "candidates": [
+        "/items/tools/mininglantern.activeitem"
+      ],
+      "body": "[\r\n[{\"op\":\"replace\",\"path\":\"/itemName\",\"value\":\"xrc_antr_mininglanter\"}]\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_2010607826.pak",
+      "title": "^shadow;Betab^#ff0;¤^clear;.^reset,shadow;und!",
+      "old": "/sipMods/categories.config",
+      "candidates": [
+        "/items/categories.config"
+      ],
+      "body": "[\n  [{\n    \"op\": \"test\",\n    \"path\": \"/Betabound Debug:\",\n    \"inverse\": true\n  }, {\n    \"op\": \"add\",\n    \"path\": \"/Betabound Debug:\",\n    \"value\": []\n  }],\n  [{\n    \"op\": \"add\",\n    \"path\": \"/Betabound Debug:/-\",\n    \"value\": {\n      \"image\": \"/interface/sip/categories/captioned.png\",\n      \"selectedImage\": \"/interface/sip/categories/captionedselected.png\",\n      \"caption\" : \"Quest\\nPrompts\",\n      \"categories\": [\"sb_quest\"]\n    }\n  }],\n  [{\n    \"op\": \"add\",\n    \"path\": \"/Betabound Debug:/-\",\n    \"value\": {\n      \"image\": \"/interface/sip/categories/captioned.png\",\n      \"selectedImage\": \"/interface/sip/categories/captionedselected.png\",\n      \"caption\" : \"개발 도구\",\n      \"categories\": [\"sb_debug\"]\n    }\n  }],\n  [{\n    \"op\": \"add\",\n    \"path\": \"/Betabound Debug:/-\",\n    \"value\": {\n      \"image\": \"/interface/sip/categories/captioned.png\",\n      \"selectedImage\": \"/interface/sip/categories/captionedselected.png\",\n      \"caption\" : \"Disabled\\nUnused\",\n      \"categories\": [\"sb_misc\",\"sb_disabled\"]\n    }\n  }]\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_2010607826.pak",
+      "title": "^shadow;Betab^#ff0;¤^clear;.^reset,shadow;und!",
+      "old": "/projectiles/npcs/watergun/watersplash.projectile",
+      "candidates": [
+        "/projectiles/explosions/watersplash/watersplash.projectile"
+      ],
+      "body": "[\r\n  [{\r\n      \"op\": \"test\",\r\n      \"path\": \"/actionOnReap\",\r\n      \"inverse\": true\r\n    }, {\r\n      \"op\": \"add\",\r\n      \"path\": \"/actionOnReap\",\r\n      \"value\": []\r\n    }\r\n  ],\r\n  [{\r\n      \"op\": \"add\",\r\n      \"path\": \"/actionOnReap/-\",\r\n      \"value\": {\r\n        \"action\": \"projectile\",\r\n        \"type\": \"watersprinkledroplet\",\r\n        \"inheritDamageFactor\": 0,\r\n        \"inheritSpeedFactor\": 0\r\n      }\r\n    }\r\n  ]\r\n]\r\n",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_2010607826.pak",
+      "title": "^shadow;Betab^#ff0;¤^clear;.^reset,shadow;und!",
+      "old": "/interface/wedit/materialPicker/platforms.json",
+      "candidates": [
+        "/sipMods/betabound/platforms.json"
+      ],
+      "body": "[\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"skyrailplatform\",\"buttonImage\":\"skyrailplatform.png\"}},\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"skyrail_asc\",\"buttonImage\":\"skyrail_asc.png\"}},\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"skyrail_desc\",\"buttonImage\":\"skyrail_asc.png?flipy\"}},\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"skyrail_diodeL\",\"buttonImage\":\"skyrail_diodel.png\"}},\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"skyrail_diodeR\",\"buttonImage\":\"skyrail_diodel.png?flipx\"}},\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"skyrailboost\",\"buttonImage\":\"skyrailboost.png\"}},\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"skyrailbreak\",\"buttonImage\":\"skyrailbreak.png\"}}\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_2010607826.pak",
+      "title": "^shadow;Betab^#ff0;¤^clear;.^reset,shadow;und!",
+      "old": "/interface/wedit/materialPicker/materials.json",
+      "candidates": [
+        "/tilesets/packed/materials.json"
+      ],
+      "body": "[\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"sb_brains\",\"buttonImage\":\"sb_brains.png\"}},\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"sb_concrete\",\"buttonImage\":\"sb_concrete.png\"}},\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"sb_chain\",\"buttonImage\":\"sb_chain.png\"}},\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"sb_hive\",\"buttonImage\":\"sb_hive.png\"}}\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_2010607826.pak",
+      "title": "^shadow;Betab^#ff0;¤^clear;.^reset,shadow;und!",
+      "old": "/interface/sip/categories.config",
+      "candidates": [
+        "/items/categories.config"
+      ],
+      "body": "[\r\n  //combat\r\n  {\r\n    \"op\": \"add\",\r\n    \"path\": \"/2/Combat:/-\",\r\n    \"value\": {\r\n      \"image\": \"/interface/sip/categories/captioned.png\",\r\n      \"selectedImage\": \"/interface/sip/categories/captionedselected.png\",\r\n      \"caption\": \"Weapon\\nMods\",\r\n      \"categories\": [\"sb_weaponmods\"]\r\n    }\r\n  }, {\r\n    \"op\": \"add\",\r\n    \"path\": \"/2/Combat:/-\",\r\n    \"value\": {\r\n      \"image\": \"/interface/sip/categories/sb_ammo.png\",\r\n      \"selectedImage\": \"/interface/sip/categories/sb_ammoselected.png\",\r\n      \"categories\": [\"sb_ammo\"]\r\n    }\r\n  }, {\r\n    \"op\": \"add\",\r\n    \"path\": \"/2/Combat:/-\",\r\n    \"value\": {\r\n      \"image\": \"/interface/sip/categories/captioned.png\",\r\n      \"selectedImage\": \"/interface/sip/categories/captionedselected.png\",\r\n      \"caption\": \"Racial\\nMelee\",\r\n      \"categories\": [\"sb_axes\", \"sb_broadswords\", \"sb_daggers\", \"sb_hammers\", \"sb_shortswords\", \"sb_spears\"]\r\n    }\r\n  },\r\n\r\n  //equipment\r\n  {\r\n    \"op\": \"add\",\r\n    \"path\": \"/3/Equipment:/-\",\r\n    \"value\": {\r\n      \"image\": \"/interface/sip/categories/sb_tech.png\",\r\n      \"selectedImage\": \"/interface/sip/categories/sb_techselected.png\",\r\n      \"categories\": [\"sb_tech\"]\r\n    }\r\n  },\r\n\r\n  //items\r\n  {\r\n    \"op\": \"add\",\r\n    \"path\": \"/4/Items:/-\",\r\n    \"value\": {\r\n      \"image\": \"/interface/sip/categories/sb_music.png\",\r\n      \"selectedImage\": \"/interface/sip/categories/sb_musicselected.png\",\r\n      \"categories\": [\"sb_music\"]\r\n    }\r\n  },\r\n\r\n  //bulding\r\n  {\r\n    \"op\": \"add\",\r\n    \"path\": \"/5/Building:/-\",\r\n    \"value\": {\r\n      \"image\": \"/interface/sip/categories/sb_ladder.png\",\r\n      \"selectedImage\": \"/interface/sip/categories/sb_ladderselected.png\",\r\n      \"categories\": [\"sb_ladders\"]\r\n    }\r\n  }\r\n]\r\n",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_2010607826.pak",
+      "title": "^shadow;Betab^#ff0;¤^clear;.^reset,shadow;und!",
+      "old": "/interface/windowconfig/fossilstation.object",
+      "candidates": [
+        "/objects/crafting/fossilstation/fossilstation.object"
+      ],
+      "body": "[\r\n  [{\r\n      \"op\": \"test\",\r\n      \"path\": \"/paneLayout/categories/toggleMode\",\r\n      \"value\": false\r\n    }, {\r\n      \"op\": \"replace\",\r\n      \"path\": \"/paneLayout/categories/toggleMode\",\r\n      \"value\": true\r\n    }\r\n  ]\r\n]\r\n",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_2010607826.pak",
+      "title": "^shadow;Betab^#ff0;¤^clear;.^reset,shadow;und!",
+      "old": "/items/tools/inspectionmode.inspectiontool",
+      "candidates": [
+        "/items/tools/inspectiontool/inspectionmode.inspectiontool"
+      ],
+      "body": "[\n[{\"op\":\"test\",\"path\":\"/description\",\"value\":\"Inspect the world around you. ^green;Quick select with [N] key.\"},{\"op\":\"replace\",\"path\":\"/description\",\"value\":\"Describe things in the world and scan objects for printing.\"}]\n\n[{\"op\":\"test\",\"path\":\"/description\",\"value\":\"Inspect the world around you. ^green;Quick select with [N] key.\"},{\"op\":\"replace\",\"path\":\"/description\",\"value\":\"Describe things in the world and scan objects for printing.\"}] //patch project\n\n[{\"op\":\"test\",\"path\":\"/nothingThereText/human\",\"inverse\":true},{\"op\":\"add\",\"path\":\"/nothingThereText/human\",\"value\":[]}],\n[{\"op\":\"add\",\"path\":\"/nothingThereText/human/-\",\"value\":\"Nope, didn't find anything.\"},\n{\"op\":\"add\",\"path\":\"/nothingThereText/human/-\",\"value\":\"Oh. My. God! It's a... wait... nope sorry, nothing.\"},\n{\"op\":\"add\",\"path\":\"/nothingThereText/human/-\",\"value\":\"My god, it's full of nothing.\"},\n{\"op\":\"add\",\"path\":\"/nothingThereText/human/-\",\"value\":\"If at first you don't succeed, keep looking at the nothing.\"},\n{\"op\":\"add\",\"path\":\"/nothingThereText/human/-\",\"value\":\"I tried hard to make something out over there, but failed.\"},\n{\"op\":\"add\",\"path\":\"/nothingThereText/human/-\",\"value\":\"Nada, nothing, zilch, zip.\"}]\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_2010607826.pak",
+      "title": "^shadow;Betab^#ff0;¤^clear;.^reset,shadow;und!",
+      "old": "/interface/wedit/liquidPicker/liquids.json",
+      "candidates": [
+        "/sipMods/betabound/liquids.json",
+        "/tilesets/packed/liquids.json"
+      ],
+      "body": "[\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"sb_coffee\",\"liquidId\":85,\"buttonImage\":\"sb_coffee.png\"}},\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"sb_tentaclejuice\",\"liquidId\":87,\"buttonImage\":\"sb_tentaclejuice.png\"}},\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"sb_alienjuice\",\"liquidId\":88,\"buttonImage\":\"sb_alienjuice.png\"}},\n{\"op\":\"add\",\"path\":\"/-\",\"value\":{\"name\":\"sb_liquidnitrogen\",\"liquidId\":86,\"buttonImage\":\"sb_liquidnitrogen.png\"}}\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_2010607826.pak",
+      "title": "^shadow;Betab^#ff0;¤^clear;.^reset,shadow;und!",
+      "old": "/interface/mmutility/mmutility.config",
+      "candidates": [
+        "/interface/scripted/mmutility/mmutility.config"
+      ],
+      "body": "[\n[{\"op\":\"add\",\"path\":\"/scripts/-\",\"value\":\"/interface/mmutility/sb_mmutility.lua\"}]\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_931757634.pak",
+      "title": "Craftable Concoctions",
+      "old": "/npc/villager.npctype",
+      "candidates": [
+        "/npcs/villager.npctype"
+      ],
+      "body": "[  \n  {\n  \"op\" : \"add\", \n  \"path\" : \"/scriptConfig/questGenerator/graduation/nextNpcType/-\",\n  \"value\" : [0.25, \"crewmemberconcoctions\" ] \n  }\n]\n",
+      "status": "restored"
+    },
+    {
+      "source": "contents_2881835252.pak",
+      "title": "Simply Faster Followers",
+      "old": "/npcs/overrides/override-follow.behavior",
+      "candidates": [
+        "/behaviors/npc/overrides/override-follow.behavior"
+      ],
+      "body": "[\n{\n\"op\" : \"replace\",\n\"path\" : \"/parameters/questFollowerRunSpeed\",\n\"value\" : 17\n}\n]\n",
+      "status": "restored"
+    },
+    {
+      "source": "contents_1119973779.pak",
+      "title": "Fixed Critters",
+      "old": "/monsters/critter/mcm/furaccooncritter/MC_raccooncritter.monstertype",
+      "candidates": [
+        "/monsters/critter/MC_raccooncritter/MC_raccooncritter.monstertype"
+      ],
+      "body": "[\r\n  [{\r\n    \"op\": \"test\",\r\n    \"path\": \"/baseParameters/movementSettings/collisionPoly\",\r\n    \"value\": [ [-0.5, -0.5], [0.5, -0.5], [0.5, 0.5], [-0.5, 0.5] ]\r\n  },\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/baseParameters/movementSettings/collisionPoly\",\r\n    \"value\": [ [-0.5, -0.4], [-0.4, -0.5], [0.4, -0.5], [0.5, -0.4], [0.5, 0.4], [0.4, 0.5], [-0.4, 0.5], [-0.5, 0.4] ]\r\n  }]\r\n]",
+      "status": "restored"
+    },
+    {
+      "source": "contents_960708990.pak",
+      "title": "Hop On Shops",
+      "old": "/objects/outpost/treasuredtrophies/terramart.object",
+      "candidates": [
+        "/objects/outpost/terramart/terramart.object"
+      ],
+      "body": "[\n  { \"op\": \"add\", \"path\": \"/orientations/0/collision\", \"value\": \"platform\" },\n  { \"op\": \"add\", \"path\": \"/orientations/0/collisionSpaces\", \"value\": [ [-8, 5], [-7, 5], [-6, 5], [-5, 5], [-4, 6], [-3, 6], [-2, 6], [-1, 5], [0, 5], [1, 5], [2, 5], [3, 5], [4, 5], [5, 5], [6, 5] ] }\n]",
+      "status": "restored"
+    },
+    {
+      "source": "contents_2816710537.pak",
+      "title": "[Many Tabs] Maple32 Furnace Tab",
+      "old": "/recipes/furnace2/polymer.recipe",
+      "candidates": [
+        "/recipes/chemlab/compounds/polymer.recipe"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\" : \"test\",\r\n\t\t\"path\" : \"/groups/1\",\r\n\t\t\"value\" : \"ingredients\"\r\n\t},\r\n\t{\r\n\t\t\"op\" : \"replace\",\r\n\t\t\"path\" : \"/groups/1\",\r\n\t\t\"value\" : \"maplefurnace\"\r\n\t}\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/alien.biome",
+      "candidates": [
+        "/biomes/surface/alien.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/tentacle-exploration1.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/tentacle-exploration1.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/desert-exploration1.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/desert-exploration1.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/desert-exploration2.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/desert-exploration2.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"}\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/arctic.biome",
+      "candidates": [
+        "/biomes/surface/arctic.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound OST - Hylotl Theme The Eternal Tide.ogg\"}\r\n\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/ocean.biome",
+      "candidates": [
+        "/biomes/surface/ocean.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/ocean-exploration2.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/ocean-exploration2.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound OST - Hylotl Theme The Eternal Tide.ogg\"}\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/barren.biome",
+      "candidates": [
+        "/biomes/surface/barren.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg\"}\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/arcticoceanfloor.biome",
+      "candidates": [
+        "/biomes/surface/arcticoceanfloor.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound OST - Hylotl Theme The Eternal Tide.ogg\"}\r\n\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/toxic.biome",
+      "candidates": [
+        "/biomes/surface/toxic.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"}\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/snow.biome",
+      "candidates": [
+        "/biomes/surface/snow.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg\"}\r\n\r\n\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/forest.biome",
+      "candidates": [
+        "/biomes/surface/forest.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/forest-loop.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/forest-loop.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg\"}\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/volcanic.biome",
+      "candidates": [
+        "/biomes/surface/volcanic.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/desert-battle-2.ogg\"}\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/asteroidfield.biome",
+      "candidates": [
+        "/biomes/surface/asteroidfield.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 33 - Via Aurora.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 33 - Via Aurora.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg\"}\r\n\r\n\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/desert.biome",
+      "candidates": [
+        "/biomes/surface/desert.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/desert-exploration1.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/desert-exploration1.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/desert-exploration2.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/desert-exploration2.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/desert-battle-2.ogg\"}\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/garden.biome",
+      "candidates": [
+        "/biomes/surface/garden.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/home-concept-loop.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/home-concept-loop.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/ocean-exploration2.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/ocean-exploration2.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg\"},\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/jungle.biome",
+      "candidates": [
+        "/biomes/surface/jungle.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg\"}\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/magma.biome",
+      "candidates": [
+        "/biomes/surface/magma.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"}\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/midnight.biome",
+      "candidates": [
+        "/biomes/surface/midnight.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 33 - Via Aurora.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 33 - Via Aurora.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 56 - Forest Exploration 2 (experimental).ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 55 - Forest Exploration 1 (experimental).ogg\"}\r\n\r\n\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/oceanfloor.biome",
+      "candidates": [
+        "/biomes/surface/oceanfloor.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/ocean-exploration2.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/ocean-exploration2.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound (2013) OST - 34 - Glacial Horizon.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/Starbound OST - Hylotl Theme The Eternal Tide.ogg\"}\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/scorchedcity.biome",
+      "candidates": [
+        "/biomes/surface/scorchedcity.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/desert-battle-2.ogg\"}\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "contents_737195784.pak",
+      "title": "Missing Music Addition [Soundtrack]",
+      "old": "/biome/surface/tentacle.biome",
+      "candidates": [
+        "/biomes/surface/tentacle.biome"
+      ],
+      "body": "[\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/tentacle-exploration1.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/tentacle-exploration1.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/night/tracks/-\", \"value\":\"/music/the-apex.ogg\"},\r\n{\"op\":\"add\", \"path\":\"/musicTrack/day/tracks/-\", \"value\":\"/music/scorian-flow.ogg\"}\r\n]",
+      "status": "restored existing audio only",
+      "excludedOperations": 0
+    },
+    {
+      "source": "NonEKI_9_FU_compat.pak",
+      "title": "N.E.K.I. (Non-Essential Kitty Interface)",
+      "old": "/interface/fu_byosai.config",
+      "candidates": [
+        "/interface/ai/fu_byosai.config"
+      ],
+      "body": "[\r\n\t{\r\n\t\"op\":\"replace\",\r\n\t\"path\":\"/sailImage\",\r\n\t\"value\":{\r\n\t\t\"aiImage\" : {\r\n\t\t\t\"talk\" : {\r\n\t\t\t\t\"image\" : \"/ai/nonEKIpng:dizzy2.<frame>\",\r\n\t\t\t\t\"frames\" : 4,\r\n\t\t\t\t\"updateTime\" : 0.50\r\n\t\t\t\t},\r\n\t\t\t\"idle\" : {\r\n\t\t\t\t\"image\" : \"/ai/<fileName>:dizzy1.<frame>\",\r\n\t\t\t\t\"frames\" : 4,\r\n\t\t\t\t\"updateTime\" : 0.50\r\n\t\t\t\t}\r\n\t\t\t\t},\r\n\t\t\"scanlines\" : {\r\n\t\t\t\"image\" : \"/ai/scanlines.png:<frame>\",\r\n\t\t\t\"frames\" : 14,\r\n\t\t\t\"updateTime\" : 0.05,\r\n\t\t\t\"opacity\" : 0.5\r\n\t\t\t},\r\n\t\t\"static\" : {\r\n\t\t\t\"image\" : \"/ai/static_nonEKI.png:<frame>\",\r\n\t\t\t\"frames\" : 4,\r\n\t\t\t\"updateTime\" : 0.05,\r\n\t\t\t\"opacity\" : 0.2\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "NonEKI_9_FU_compat.pak",
+      "title": "N.E.K.I. (Non-Essential Kitty Interface)",
+      "old": "/items/armors/neki/nokinibottom/nokinibottom.legs",
+      "candidates": [
+        "/items/armors/neki/modular/nokinibottom/nokinibottom.legs"
+      ],
+      "body": "[\n// MOD: Neki\n{\n\t\"op\": \"add\",\n\t\"path\": \"/radioMessagesOnPickup\",\n\t\"value\": [ \"pickupnokini\", \"pickupnokini2\", \"pickupnokini3\" ]\n}\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "NonEKI_9_FU_compat.pak",
+      "title": "N.E.K.I. (Non-Essential Kitty Interface)",
+      "old": "/items/armors/neki/nokinitop/nokinitop.legs",
+      "candidates": [
+        "/items/armors/neki/modular/nokinitop/nokinitop.legs"
+      ],
+      "body": "[\n// MOD: Neki\n{\n\t\"op\": \"add\",\n\t\"path\": \"/radioMessagesOnPickup\",\n\t\"value\": [ \"pickupnokini\", \"pickupnokini2\", \"pickupnokini3\" ]\n}\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "NonEKI_9_FU_compat.pak",
+      "title": "N.E.K.I. (Non-Essential Kitty Interface)",
+      "old": "/objects/crafting/upgradeablecraftingobjects/craftinganvil.object",
+      "candidates": [
+        "/objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object"
+      ],
+      "body": "[\r\n{\"op\":\"test\",\"path\":\"/radioMessagesOnPickup/pickupAnvil\"},\r\n  {\r\n    \"op\": \"add\",\r\n    \"path\": \"/radioMessagesOnPickup/-\",\r\n    \"value\": [\r\n      \"pickupAnvil2\"\r\n    ]\r\n  }\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "0_sxb_sexbound_kitsunerace.pak",
+      "title": "Sexbound - Kitsune Race",
+      "old": "/scripts/sexbound/plugins/pregnant.config",
+      "candidates": [
+        "/dialog/tentacles/pregnant.config"
+      ],
+      "body": "[\r\n  { \"op\": \"add\", \"path\": \"/compatibleMates/kitsune\", \"value\":\r\n    {\r\n      \"male\": [{\r\n        \"gender\" : \"female\",\r\n        \"species\" : \"kitsune\"\r\n      }],\r\n      \"female\": [{\r\n        \"gender\" : \"male\",\r\n        \"species\" : \"kitsune\"\r\n      }]\r\n    }\r\n  }\r\n]\r\n",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "size_stat_contents_3218827753.pak",
+      "title": "Size of Life - Stat Modifiers",
+      "old": "/items/throwables/bodysize_shrinknade.thrownitem",
+      "candidates": [
+        "/items/active/throwables/bodysize_shrinknade.thrownitem"
+      ],
+      "body": "[\r\n\t{\r\n\t\t//Applying the health reduction with the grenade makes any entity hit too weak and thus it should be quite expensive\r\n\t\t\"op\" : \"replace\",\r\n\t\t\"path\" : \"/price\",\r\n\t\t\"value\" : 500\r\n\t}\r\n]",
+      "status": "restored"
+    },
+    {
+      "source": "Tougher_Mobs_1.11.5.2_compat.pak",
+      "title": "Tougher Mobs with Better Loot!",
+      "old": "/npcs/biome/dungeon/avianairship/airshipcaptain.npctype",
+      "candidates": [
+        "/npcs/dungeon/avianairship/airshipcaptain.npctype"
+      ],
+      "body": "[\n\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "Tougher_Mobs_1.11.5.2_compat.pak",
+      "title": "Tougher Mobs with Better Loot!",
+      "old": "/npcs/biome/dungeon/glitchcastle/friendlyroyalguard.npctype",
+      "candidates": [
+        "/npcs/dungeon/glitchcastle/friendlyroyalguard.npctype"
+      ],
+      "body": "[\n\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "Tougher_Mobs_1.11.5.2_compat.pak",
+      "title": "Tougher Mobs with Better Loot!",
+      "old": "/monsters/ground/sb_chesttrapper/medievalchest.monstertype",
+      "candidates": [
+        "/monsters/dungeon/sb_chesttrapper/medievalchest.monstertype"
+      ],
+      "body": "[\n{\r\n  \"op\": \"add\",\r\n  \"path\": \"/baseParameters/sourceJSONAddress\",\r\n  \"value\": \"/monsters/ground/sb_chesttrapper/medievalchest.monstertype\"\r\n},\r\n{\r\n  \"op\": \"add\",\r\n  \"path\": \"/baseParameters/scripts/-\",\r\n  \"value\": \"/scripts/ExtraLootTougherMonsters.lua\"\r\n},\r\n{\r\n  \"op\": \"copy\",\r\n  \"from\": \"/dropPools\",\r\n  \"path\": \"/baseParameters/dropPoolsCopy\"\r\n}\n]",
+      "status": "restored including current self reference"
+    },
+    {
+      "source": "Tougher_Mobs_1.11.5.2_compat.pak",
+      "title": "Tougher Mobs with Better Loot!",
+      "old": "/npcs/biome/dungeon/avianairship/airshipguard.npctype",
+      "candidates": [
+        "/npcs/dungeon/avianairship/airshipguard.npctype"
+      ],
+      "body": "[\n\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "Tougher_Mobs_1.11.5.2_compat.pak",
+      "title": "Tougher Mobs with Better Loot!",
+      "old": "/npcs/biome/dungeon/glitchcastle/friendlycastlelord.npctype",
+      "candidates": [
+        "/npcs/dungeon/glitchcastle/friendlycastlelord.npctype"
+      ],
+      "body": "[\n\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "Tougher_Mobs_1.11.5.2_compat.pak",
+      "title": "Tougher Mobs with Better Loot!",
+      "old": "/monsters/ground/sb_heckblob/heckblob.monstertype",
+      "candidates": [
+        "/monsters/walkers/sb_heckblob/heckblob.monstertype"
+      ],
+      "body": "[\n{\r\n  \"op\": \"add\",\r\n  \"path\": \"/baseParameters/sourceJSONAddress\",\r\n  \"value\": \"/monsters/ground/sb_heckblob/heckblob.monstertype\"\r\n},\r\n{\r\n  \"op\": \"add\",\r\n  \"path\": \"/baseParameters/scripts/-\",\r\n  \"value\": \"/scripts/ExtraLootTougherMonsters.lua\"\r\n},\r\n{\r\n  \"op\": \"copy\",\r\n  \"from\": \"/dropPools\",\r\n  \"path\": \"/baseParameters/dropPoolsCopy\"\r\n}\n]",
+      "status": "restored including current self reference"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/positions/fellatio_in_bed.config",
+      "candidates": [
+        "/positions/twoactors/fellatio/fellatio_in_bed.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felinblowjob.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/positions/butterfly.config",
+      "candidates": [
+        "/positions/twoactors/butterfly/butterfly.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felin.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/positions/cowgirl.config",
+      "candidates": [
+        "/positions/twoactors/cowgirl/cowgirl.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felincowgirl.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/positions/standing_in_bed.config",
+      "candidates": [
+        "/positions/twoactors/standing/standing_in_bed.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felin.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/positions/doggy_in_bed.config",
+      "candidates": [
+        "/positions/twoactors/doggy/doggy_in_bed.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felindoggy.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/positions/fellatio_in_bed.config",
+      "candidates": [
+        "/positions/twoactors/fellatio/fellatio_in_bed.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felinblowjob.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/positions/doggy.config",
+      "candidates": [
+        "/positions/twoactors/doggy/doggy.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felindoggy.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/positions/fellatio.config",
+      "candidates": [
+        "/positions/twoactors/fellatio/fellatio.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felinblowjob.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/positions/doggy.config",
+      "candidates": [
+        "/positions/twoactors/doggy/doggy.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felindoggy.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/positions/missionary.config",
+      "candidates": [
+        "/positions/twoactors/missionary/missionary.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felin.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/positions/standing_in_bed.config",
+      "candidates": [
+        "/positions/twoactors/standing/standing_in_bed.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felin.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/positions/fellatio.config",
+      "candidates": [
+        "/positions/twoactors/fellatio/fellatio.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felinblowjob.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/positions/cowgirl_in_bed.config",
+      "candidates": [
+        "/positions/twoactors/cowgirl/cowgirl_in_bed.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felincowgirl.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/scripts/sexbound/plugins/pregnant.config",
+      "candidates": [
+        "/dialog/tentacles/pregnant.config"
+      ],
+      "body": "[\r\n\t{\"op\":\"add\",\"path\":\"/compatibleMates/felin\",\"value\":{\"male\":[],\"female\":[]}}\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/positions/missionary_in_bed.config",
+      "candidates": [
+        "/positions/twoactors/missionary/missionary_in_bed.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felin.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/sexbound.config",
+      "candidates": [
+        "/quests/generated/questpools/sexbound.config",
+        "/sexbound.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/sex/supportedPlayerSpecies/-\",\"value\":\"felin\"}]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/positions/cowgirl_in_bed.config",
+      "candidates": [
+        "/positions/twoactors/cowgirl/cowgirl_in_bed.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felincowgirl.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/positions/butterfly.config",
+      "candidates": [
+        "/positions/twoactors/butterfly/butterfly.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felin.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/positions/doggy_in_bed.config",
+      "candidates": [
+        "/positions/twoactors/doggy/doggy_in_bed.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felindoggy.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/scripts/sexbound/plugins/pregnant.config",
+      "candidates": [
+        "/dialog/tentacles/pregnant.config"
+      ],
+      "body": "[\r\n\t{\"op\":\"add\",\"path\":\"/compatibleMates/felin\",\"value\":{\"male\":[],\"female\":[]}}\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/positions/missionary.config",
+      "candidates": [
+        "/positions/twoactors/missionary/missionary.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felin.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/positions/butterfly_in_bed.config",
+      "candidates": [
+        "/positions/twoactors/butterfly/butterfly_in_bed.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felin.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/positions/missionary_in_bed.config",
+      "candidates": [
+        "/positions/twoactors/missionary/missionary_in_bed.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felin.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/positions/cowgirl.config",
+      "candidates": [
+        "/positions/twoactors/cowgirl/cowgirl.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felincowgirl.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/objects/felin/felinbed/felinbed.object",
+      "candidates": [
+        "/objects/felin/felinbed/felinbed.object"
+      ],
+      "body": "[\r\n  {\r\n    \"op\" : \"remove\",\r\n    \"path\" : \"/objectType\"\r\n  },\r\n\r\n  {\r\n    \"op\" : \"remove\",\r\n    \"path\" : \"/sitFlipDirection\"\r\n  },\r\n\r\n  {\r\n    \"op\" : \"remove\",\r\n    \"path\" : \"/sitPosition\"\r\n  },\r\n\r\n  {\r\n    \"op\" : \"remove\",\r\n    \"path\" : \"/sitOrientation\"\r\n  },\r\n\r\n  {\r\n    \"op\" : \"remove\",\r\n    \"path\" : \"/sitAngle\"\r\n  },\r\n\r\n  {\r\n    \"op\" : \"remove\",\r\n    \"path\" : \"/sitCoverImage\"\r\n  },\r\n\r\n  {\r\n    \"op\" : \"remove\",\r\n    \"path\" : \"/sitEmote\"\r\n  },\r\n\r\n  {\r\n    \"op\" : \"remove\",\r\n    \"path\" : \"/sitStatusEffects\"\r\n  },\r\n\r\n  {\r\n    \"op\" : \"remove\",\r\n    \"path\" : \"/sitEffectEmitters\"\r\n  },\r\n\r\n  {\r\n    \"op\" : \"add\",\r\n    \"path\" : \"/interactive\",\r\n    \"value\" : true\r\n  },\r\n\r\n  {\r\n    \"op\" : \"add\",\r\n    \"path\" : \"/mouthPosition\",\r\n    \"value\" : [0, 4]\r\n  },\r\n\r\n  {\r\n    \"op\" : \"replace\",\r\n    \"path\" : \"/orientations\",\r\n    \"value\" : [{\r\n      \"dualImage\" : \"felinbed.png:default\",\r\n\r\n      \"imagePosition\" : [-24, 0],\r\n      \"animationPosition\" : [0, 0],\r\n\r\n      \"frames\" : 1,\r\n      \"animationCycle\" : 1.0,\r\n\r\n      \"spaces\" : [[-3, 0], [-3, 1], [-2, 0], [-2, 1], [-1, 1], [0, 1], [1,0], [1,1], [2,0], [2,1]],\r\n\r\n      \"anchors\" : [ \"bottom\" ]\r\n    }]\r\n  },\r\n\r\n  {\r\n    \"op\" : \"add\",\r\n    \"path\" : \"/scripts\",\r\n    \"value\" : [\"/scripts/sexbound/twoactors.lua\"]\r\n  },\r\n\r\n  {\r\n    \"op\" : \"add\",\r\n    \"path\" : \"/sexboundConfig\",\r\n    \"value\" : {\r\n      \"requiredVersion\" : \"2.0.0\",\r\n\r\n      \"animation\" : {\r\n        \"flipped\" : true\r\n      },\r\n\r\n      \"nodePositions\" : [[-1, 0], [0, 0]],\r\n\r\n      \"sitPositions\"  : [[8, 20], [0, 20]],\r\n\r\n      \"position\" : {\r\n        \"sex\" : [\r\n\t\t  \"standing_in_bed\",\r\n          \"doggy_in_bed\",\r\n          \"cowgirl_in_bed\",\r\n\t\t  \"missionary_in_bed\",\r\n\t\t  \"butterfly_in_bed\",\r\n\t\t  \"fellatio_in_bed\"\r\n        ]\r\n      }\r\n    }\r\n  },\r\n\r\n  {\r\n    \"op\" : \"add\",\r\n    \"path\" : \"/animation\",\r\n    \"value\" : \"/artwork/humanoid/twoactors.animation\"\r\n  },\r\n\r\n  {\r\n    \"op\" : \"add\",\r\n    \"path\" : \"/animationCustom\",\r\n    \"value\" : {\r\n      \"animatedParts\" : {\r\n        \"stateTypes\" : {\r\n          \"props\" : {\r\n            \"states\" : {\r\n              \"position4\" : {\r\n                \"properties\" : {\r\n                  \"immediateSoundRangeMultiplier\" : 0.2\r\n                },\r\n                \"frameProperties\" : {\r\n                  \"immediateSound\" : [\"\", \"\", \"\", \"/sfx/sexbound/thud.ogg\"]\r\n                }\r\n              }\r\n            }\r\n          }\r\n        },\r\n\r\n        \"parts\" : {\r\n          \"bed\" : {\r\n            \"properties\" : {\r\n              \"centered\" : true,\r\n              \"offset\" : [0, 1],\r\n              \"zLevel\" : -1,\r\n              \"image\" : \"/objects/felin/felinbed/felinbed.png:default\"\r\n            }\r\n          },\r\n\r\n          \"actors\" : {\r\n            \"properties\" : {\r\n              \"anchorPart\" : \"bed\",\r\n              \"offset\" : [0.5, -0.125]\r\n            }\r\n          }\r\n        }\r\n      }\r\n    }\r\n  }\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "20_sxb_SexBound_Cuter_Felin.pak",
+      "title": "Sexbound API - Felin Species",
+      "old": "/SexBound_Felin/positions/butterfly_in_bed.config",
+      "candidates": [
+        "/positions/twoactors/butterfly/butterfly_in_bed.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/felin\",\"value\":\"/dialog/sexbound/en/positions/felin.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "20_sxb_Sexbound_Kemono.pak",
+      "title": "Sexbound API - Kemono Species",
+      "old": "/scripts/sexbound/plugins/pregnant.config",
+      "candidates": [
+        "/dialog/tentacles/pregnant.config"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\":\"add\",\r\n\t\t\"path\":\"/compatibleMates/kemono\",\r\n\t\t\"value\":{\r\n\t\t\t\t\"male\" : [\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\t\"species\": \"kemono\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\t\"species\": \"kitsune\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\t\"species\": \"familiar\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\t\"species\": \"ningen\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\t\"species\": \"human\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\t\"species\": \"felin\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n      \r\n\t\t\t\t\"female\" : [\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\t\"species\": \"kemono\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\t\"species\": \"kitsune\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\t\"species\": \"familiar\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\t\"species\": \"ningen\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\t\"species\": \"human\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\t\"species\": \"felin\"\r\n\t\t\t\t\t}\r\n\t\t\t\t]\r\n\t\t}\r\n\t}\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "20_sxb_Sexbound_Lucario.pak",
+      "title": "Sexbound Race Patch - Lucario Species",
+      "old": "/scripts/sexbound/plugins/pregnant.config",
+      "candidates": [
+        "/dialog/tentacles/pregnant.config"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\":\"add\",\r\n\t\t\"path\":\"/compatibleMates/lucario\",\r\n\t\t\"value\":{\r\n\t\t\t\t\"male\" : [\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\"species\": \"lucario\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\"species\": \"gardevan\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\"species\": \"renamon\"\r\n\t\t\t\t},\t\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\"species\": \"Umbreon\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\"species\": \"Zoroark\"\r\n\t\t\t\t},\t\t\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\"species\": \"kemono\"\r\n\t\t\t\t},\t\t\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\"species\": \"braixen\"\r\n\t\t\t\t},\t\t\t\t\t\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\"species\": \"lopunny\"\r\n\t\t\t\t}\r\n\t\t\t\t],\r\n      \r\n\t\t\t\t\"female\" : [\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\"species\": \"lucario\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\"species\": \"gardevan\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\"species\": \"renamon\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\"species\": \"Umbreon\"\r\n\t\t\t\t},\t\t\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\"species\": \"Zoroark\"\r\n\t\t\t\t},\t\t\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\"species\": \"kemono\"\r\n\t\t\t\t},\t\t\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\"species\": \"braixen\"\r\n\t\t\t\t},\t\t\t\t\t\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\"species\": \"lopunny\"\r\n\t\t\t\t}\r\n\t\t\t\t]\r\n\t\t}\r\n\t}\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "SxB-Races_Viera_v3.0.pak",
+      "title": "SxB Race - Viera Species",
+      "old": "/scripts/sexbound/plugins/pregnant.config",
+      "candidates": [
+        "/dialog/tentacles/pregnant.config"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\":\"add\",\r\n\t\t\"path\":\"/compatibleMates/viera\",\r\n\t\t\"value\":{\r\n\t\t\t\t\"male\" : [\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\"species\": \"viera\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\"species\": \"bunnykin\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\"species\": \"human\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\"species\": \"ningen\"\r\n\t\t\t\t}\r\n\t\t\t\t],\r\n      \r\n\t\t\t\t\"female\" : [\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\"species\": \"viera\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\"species\": \"bunnykin\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\"species\": \"human\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\"species\": \"ningen\"\r\n\t\t\t\t}\r\n\t\t\t\t]\r\n\t\t\t\t\r\n\t\t}\r\n\t}\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "100_sxb_fuchsia_returns.pak",
+      "title": "Fuchsia Returns",
+      "old": "/positions/butterfly.config",
+      "candidates": [
+        "/positions/twoactors/butterfly/butterfly.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/special_fuchsia\",\"value\":\"/dialog/sexbound/en/positions/fuchsiaButterfly.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "100_sxb_fuchsia_returns.pak",
+      "title": "Fuchsia Returns",
+      "old": "/positions/doggy.config",
+      "candidates": [
+        "/positions/twoactors/doggy/doggy.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/special_fuchsia\",\"value\":\"/dialog/sexbound/en/positions/fuchsiaDoggy.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "100_sxb_fuchsia_returns.pak",
+      "title": "Fuchsia Returns",
+      "old": "/positions/missionary.config",
+      "candidates": [
+        "/positions/twoactors/missionary/missionary.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/special_fuchsia\",\"value\":\"/dialog/sexbound/en/positions/fuchsiaMissionary.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "100_sxb_fuchsia_returns.pak",
+      "title": "Fuchsia Returns",
+      "old": "/positions/standing.config",
+      "candidates": [
+        "/positions/twoactors/standing/standing.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/special_fuchsia\",\"value\":\"/dialog/sexbound/en/positions/fuchsiaStanding.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "100_sxb_fuchsia_returns.pak",
+      "title": "Fuchsia Returns",
+      "old": "/positions/cowgirl.config",
+      "candidates": [
+        "/positions/twoactors/cowgirl/cowgirl.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/special_fuchsia\",\"value\":\"/dialog/sexbound/en/positions/fuchsiaCowgirl.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "title": "Sexbound: Frisky Felin 2.0",
+      "old": "/positions/butterfly.config",
+      "candidates": [
+        "/positions/twoactors/butterfly/butterfly.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/special_friskyfelin\",\"value\":\"/dialog/sexbound/en/positions/friskyfelinButterfly.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "title": "Sexbound: Frisky Felin 2.0",
+      "old": "/positions/cowgirl.config",
+      "candidates": [
+        "/positions/twoactors/cowgirl/cowgirl.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/special_friskyfelin\",\"value\":\"/dialog/sexbound/en/positions/friskyfelinCowgirl.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "title": "Sexbound: Frisky Felin 2.0",
+      "old": "/positions/doggy.config",
+      "candidates": [
+        "/positions/twoactors/doggy/doggy.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/special_friskyfelin\",\"value\":\"/dialog/sexbound/en/positions/friskyfelinDoggy.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "title": "Sexbound: Frisky Felin 2.0",
+      "old": "/positions/fellatio.config",
+      "candidates": [
+        "/positions/twoactors/fellatio/fellatio.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/special_friskyfelin\",\"value\":\"/dialog/sexbound/en/positions/friskyfelinBlowjob.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "title": "Sexbound: Frisky Felin 2.0",
+      "old": "/positions/missionary.config",
+      "candidates": [
+        "/positions/twoactors/missionary/missionary.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/special_friskyfelin\",\"value\":\"/dialog/sexbound/en/positions/friskyfelinMissionary.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "title": "Sexbound: Frisky Felin 2.0",
+      "old": "/positions/standing.config",
+      "candidates": [
+        "/positions/twoactors/standing/standing.config"
+      ],
+      "body": "[{\"op\":\"add\",\"path\":\"/dialog/special_friskyfelin\",\"value\":\"/dialog/sexbound/en/positions/friskyfelinStanding.config\"}]",
+      "status": "restored current position dialog override"
+    },
+    {
+      "source": "100_sxb_sexbound_sexobject_felinholo.pak",
+      "title": "Sexbound: Frisky Felin 2.0",
+      "old": "/scripts/sexbound/plugins/pregnant.config",
+      "candidates": [
+        "/dialog/tentacles/pregnant.config"
+      ],
+      "body": "[\r\n\t{\r\n\t\t\"op\":\"add\",\r\n\t\t\"path\":\"/compatibleMates/special_friskyfelin\",\r\n\t\t\"value\":{\r\n\t\t\t\t\"male\" : [\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"female\",\r\n\t\t\t\t\t\t\"species\" : \"null_nopregant\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n      \r\n\t\t\t\t\"female\" : [\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"gender\" : \"male\",\r\n\t\t\t\t\t\t\"species\" : \"null_nopregant\"\r\n\t\t\t\t\t}\r\n\t\t\t\t]\r\n\t\t}\r\n\t}\r\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "contents_3088086087.pak",
+      "title": "Immersive NPC Dialogue",
+      "old": "/npcs/nmm_tenants/penguindealer.npctype",
+      "candidates": [
+        "/npcs/nuggubs_tenants/penguindealer.npctype"
+      ],
+      "body": "[\n    { \"op\": \"add\", \"path\": \"/scripts/-\", \"value\": \"/scripts/actions/om_INPCD.lua\" }\n]",
+      "status": "restored"
+    },
+    {
+      "source": "contents_3088086087.pak",
+      "title": "Immersive NPC Dialogue",
+      "old": "/npcs/nmm_tenants/tarmerchant.npctype",
+      "candidates": [
+        "/npcs/nuggubs_tenants/tarmerchant.npctype"
+      ],
+      "body": "[\n    { \"op\": \"add\", \"path\": \"/scripts/-\", \"value\": \"/scripts/actions/om_INPCD.lua\" }\n]",
+      "status": "restored"
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "title": "Armok's Assorted Mod Fixes and Tweaks",
+      "old": "/recipes/inventorstable1/humankitchencounter.recipe",
+      "candidates": [
+        "/recipes/platingtable/kitchen/humankitchencounter.recipe"
+      ],
+      "body": "[\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/duration\",\r\n      \"inverse\" : true\r\n    },\r\n    {\r\n      \"op\" : \"add\",\r\n      \"path\" : \"/duration\",\r\n      \"value\" : 5\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable\"\r\n    },\r\n    {\r\n      \"op\" : \"replace\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable2\"\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/3\",\r\n      \"value\" : \"mod\"\r\n    },\r\n    {\r\n      \"op\" : \"remove\",\r\n      \"path\" : \"/groups/3\"\r\n    }\r\n  ]\r\n]\r\n",
+      "status": "restored guarded original operations"
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "title": "Armok's Assorted Mod Fixes and Tweaks",
+      "old": "/recipes/inventorstable1/medievalkitchencounter.recipe",
+      "candidates": [
+        "/recipes/platingtable/kitchen/medievalkitchencounter.recipe"
+      ],
+      "body": "[\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/duration\",\r\n      \"inverse\" : true\r\n    },\r\n    {\r\n      \"op\" : \"add\",\r\n      \"path\" : \"/duration\",\r\n      \"value\" : 5\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable\"\r\n    },\r\n    {\r\n      \"op\" : \"replace\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable2\"\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/3\",\r\n      \"value\" : \"mod\"\r\n    },\r\n    {\r\n      \"op\" : \"remove\",\r\n      \"path\" : \"/groups/3\"\r\n    }\r\n  ]\r\n]\r\n",
+      "status": "restored guarded original operations"
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "title": "Armok's Assorted Mod Fixes and Tweaks",
+      "old": "/quests/oculemonade.questtemplate",
+      "candidates": [
+        "/quest/oculemonade.questtemplate"
+      ],
+      "body": "[\n[\n{\n    \"op\": \"test\",\n    \"path\": \"/text\",\n    \"value\": \"The vending machine swallowed my pixels, if you can buy me a can of oculemondade I will give you this reward bag that I have\"\n  },\n{\n    \"op\": \"replace\",\n    \"path\": \"/text\",\n    \"value\": \"자판기가 내 픽셀을 먹어 버렸어! ^orange;오큘레몬에이드^reset; 한 캔만 사다 주면 내가 가진 보상 가방을 줄게.\"\n  }\n],\n  [\n{\n    \"op\": \"test\",\n    \"path\": \"/completionText\",\n    \"value\": \"Thank you, maybe this day wont be so bad.\"\n  },\n{\n    \"op\": \"replace\",\n    \"path\": \"/completionText\",\n    \"value\": \"고마워, 오늘 결국 그렇게 나쁘진 않을지도 모르겠어.\"\n  }\n]\n]",
+      "status": "restored guarded original operations"
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "title": "Armok's Assorted Mod Fixes and Tweaks",
+      "old": "/objects/plushies/community/edition4/monekoplush/PBmonicaplush.object",
+      "candidates": [
+        "/objects/plushies/community/edition4/monicaplush/PBmonicaplush.object"
+      ],
+      "body": "[\n  {\n    \"op\": \"replace\",\n    \"path\": \"/hylotlDescription\",\n    \"value\": \"Presumably this person is closer to being analogous to a Crazy Cat Lady...\"\n  },\n  {\n    \"op\": \"replace\",\n    \"path\": \"/novakidDescription\",\n    \"value\": \"사랑스러운 아가씨 아냐? 근데... 이 발 장갑은 뭐야?\"\n  }\n]\n",
+      "status": "restored guarded original operations"
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "title": "Armok's Assorted Mod Fixes and Tweaks",
+      "old": "/monsters/caye_partner_asranox/recruit/noxcapture.monstertype",
+      "candidates": [
+        "/monsters/boss/swansong/noxcapture.monstertype"
+      ],
+      "body": "[\n  {\n    \"op\": \"replace\",\n    \"path\": \"/baseParameters/dialog/1\",\n    \"value\": \"가석방 얘기는 들었지만, 그건 못 들었는데...\"\n  }\n]",
+      "status": "withheld: unrelated schema, already superseded, absent parent, or obsolete content"
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "title": "Armok's Assorted Mod Fixes and Tweaks",
+      "old": "/recipes/inventorstable1/frontierkitchencounter.recipe",
+      "candidates": [
+        "/recipes/platingtable/kitchen/frontierkitchencounter.recipe"
+      ],
+      "body": "[\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/duration\",\r\n      \"inverse\" : true\r\n    },\r\n    {\r\n      \"op\" : \"add\",\r\n      \"path\" : \"/duration\",\r\n      \"value\" : 5\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable\"\r\n    },\r\n    {\r\n      \"op\" : \"replace\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable2\"\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/3\",\r\n      \"value\" : \"mod\"\r\n    },\r\n    {\r\n      \"op\" : \"remove\",\r\n      \"path\" : \"/groups/3\"\r\n    }\r\n  ]\r\n]\r\n",
+      "status": "restored guarded original operations"
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "title": "Armok's Assorted Mod Fixes and Tweaks",
+      "old": "/recipes/inventorstable1/hylotlclassickitchencounter.recipe",
+      "candidates": [
+        "/recipes/platingtable/kitchen/hylotlclassickitchencounter.recipe"
+      ],
+      "body": "[\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/duration\",\r\n      \"inverse\" : true\r\n    },\r\n    {\r\n      \"op\" : \"add\",\r\n      \"path\" : \"/duration\",\r\n      \"value\" : 5\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable\"\r\n    },\r\n    {\r\n      \"op\" : \"replace\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable2\"\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/3\",\r\n      \"value\" : \"mod\"\r\n    },\r\n    {\r\n      \"op\" : \"remove\",\r\n      \"path\" : \"/groups/3\"\r\n    }\r\n  ]\r\n]\r\n",
+      "status": "restored guarded original operations"
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "title": "Armok's Assorted Mod Fixes and Tweaks",
+      "old": "/recipes/inventorstable1/tribalkitchencounter.recipe",
+      "candidates": [
+        "/recipes/platingtable/kitchen/tribalkitchencounter.recipe"
+      ],
+      "body": "[\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/duration\",\r\n      \"inverse\" : true\r\n    },\r\n    {\r\n      \"op\" : \"add\",\r\n      \"path\" : \"/duration\",\r\n      \"value\" : 5\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable\"\r\n    },\r\n    {\r\n      \"op\" : \"replace\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable2\"\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/3\",\r\n      \"value\" : \"mod\"\r\n    },\r\n    {\r\n      \"op\" : \"remove\",\r\n      \"path\" : \"/groups/3\"\r\n    }\r\n  ]\r\n]\r\n",
+      "status": "restored guarded original operations"
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "title": "Armok's Assorted Mod Fixes and Tweaks",
+      "old": "/recipes/inventorstable1/plantkitchencounter.recipe",
+      "candidates": [
+        "/recipes/platingtable/kitchen/plantkitchencounter.recipe"
+      ],
+      "body": "[\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/duration\",\r\n      \"inverse\" : true\r\n    },\r\n    {\r\n      \"op\" : \"add\",\r\n      \"path\" : \"/duration\",\r\n      \"value\" : 5\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable\"\r\n    },\r\n    {\r\n      \"op\" : \"replace\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable2\"\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/3\",\r\n      \"value\" : \"mod\"\r\n    },\r\n    {\r\n      \"op\" : \"remove\",\r\n      \"path\" : \"/groups/3\"\r\n    }\r\n  ]\r\n]\r\n",
+      "status": "restored guarded original operations"
+    },
+    {
+      "source": "Armok_Fixes_5.4_compat.pak",
+      "title": "Armok's Assorted Mod Fixes and Tweaks",
+      "old": "/recipes/inventorstable1/apexkitchencounter.recipe",
+      "candidates": [
+        "/recipes/platingtable/kitchen/apexkitchencounter.recipe"
+      ],
+      "body": "[\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/duration\",\r\n      \"inverse\" : true\r\n    },\r\n    {\r\n      \"op\" : \"add\",\r\n      \"path\" : \"/duration\",\r\n      \"value\" : 5\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable\"\r\n    },\r\n    {\r\n      \"op\" : \"replace\",\r\n      \"path\" : \"/groups/0\",\r\n      \"value\" : \"inventorstable2\"\r\n    }\r\n  ],\r\n  [\r\n    {\r\n      \"op\" : \"test\",\r\n      \"path\" : \"/groups/3\",\r\n      \"value\" : \"mod\"\r\n    },\r\n    {\r\n      \"op\" : \"remove\",\r\n      \"path\" : \"/groups/3\"\r\n    }\r\n  ]\r\n]\r\n",
+      "status": "restored guarded original operations"
+    }
+  ],
+  "pregnancyNote": "The current API indexes allowed mothers by father species. Symmetric legacy mating pairs are therefore merged in both directions, without replacing existing modern lists."
+}

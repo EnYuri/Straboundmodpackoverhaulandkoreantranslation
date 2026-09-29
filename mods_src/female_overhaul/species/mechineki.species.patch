@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "장난꾸러기 네키의 기계형 대응 종족이다. 인공적으로 만들어졌으니 더 예의 바르고 순종적일 법도 하지만, 이 수상한 동반 로봇들은 유기체 네키와 별반 다르지 않다.\n\n^orange;식성^reset;: 로봇\n\n^orange;특전^reset;:\n  속도: ^green;6%^reset;, 낙하 피해: ^green;0.9x^reset;\n  최대 에너지: ^green;+10%^reset;, 에너지 재생: ^green;+10%^reset;\n  ^cyan;타일 면역^reset;: 정글, 진창눈, 눈\n  ^cyan;면역^reset;: 호흡, 독, 벌침\n\n^orange;환경^reset;:\n  ^green;기름/액체 프로토/에르키우스^reset;: 체력 및 에너지 재생, 에너지 x^green;1.25^reset;\n  ^red;고온^reset; 생물군계: 에너지 x^red;0.9^reset;\n  ^cyan;저온^reset; 생물군계: 체력 x^red;0.8^reset;, 최대 에너지 ^green;10%^reset;, 에너지 재생 속도 ^green;10%^reset;\n\n^orange;무기^reset;\n  ^green;10%^reset; 주먹, 마그노브 숙련, 에너지\n\n^green;저항^reset;:\n  독 ^green;20%^reset;, 물리 ^green;10%^reset;, 화염 ^green;10%^reset;, 방사능 ^green;5%^reset;\n\n^red;약점^reset;:\n  체력 ^red;0.85x^reset;, 전기 ^red;50%^reset;, 냉기 ^red;20%^reset; \n  굶주림 속도 ^red;20%^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "장난꾸러기 네키의 기계적인 대항마. 인공적인 성격을 지녔으니 좀 더 예의 바르고 순종적인 성격일 거라 생각하겠지만, 이 모호한 동반자 로봇은 유기체와 거의 다르지 않습니다.\n\n^orange;식성^reset;: Robotic\n\n^orange;Perks^reset;:\n Speed: ^green;6%^reset;, 낙하 피해: ^green;0.9x^reset;\n 최대 에너지: ^green;+10%^reset;, Energy Regen: ^green;+10%^reset;\n ^cyan;타일 면역^reset;: 정글, 슬러시, 눈\n ^cyan;면역^reset;: 숨, 독, 벌침\n\n^orange;Environment^reset;:\n ^green;Oil/Liquid Proto/Erchius^reset;: 건강 및 에너지 재생, 에너지 x^green;1.25^reset;\n ^red;뜨거운^reset; 생물군계: 에너지 x^red;0.9^reset;\n ^cyan;냉기^reset; 생물군계: Health x^red;0.8^reset;, ^green;10%^reset; Max Energy, ^green;10%^reset; 에너지 재생률\n\n^orange;무기^reset;\n ^green;10%^reset; 주먹, 마그노브 마스터리, 에너지\n\n^green;저항^reset;:\n 독 ^green;20%^reset;, 물리 ^green;10%^reset;, 화염 ^green;10%^reset;, 방사능^green;5%^reset;,\n\n^red;약점^reset;:\n 건강 ^red;0. 85x^reset;, 전기 ^red;50%^reset;, 얼음 ^red;20%^reset; \n 굶주림 비율 ^red;20%^reset;\n"
+  }
+]

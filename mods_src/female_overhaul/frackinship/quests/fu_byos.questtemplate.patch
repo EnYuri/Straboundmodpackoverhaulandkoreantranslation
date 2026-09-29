@@ -1,0 +1,4 @@
+[
+  { "op" : "replace", "path" : "/script", "value" : "/female_overhaul/fu_byos_tracker.lua" },
+  { "op" : "replace", "path" : "/updateDelta", "value" : 10 }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "source": "contents_851781339.pak",
+    "title": "Make the Lamia a cuter race",
+    "metadata": {
+      "version": "3.0",
+      "author": "Heemi",
+      "tags": "Species|Character Improvements",
+      "description": "A Simple Mod that makes the Lamia Race Mod adhere to the style of \"Make the universe a cuter place\"/Cutebound by HDoomGuy and Barb-tan\n\nWarning: Requires the Lamia Race Mod. This should be fairly obvious but I'm not taking any risks.\n\nUpdate: 3.0 - Everything is now in .patch Format, darkened the eyes a tad bit, and made two alternate versions of this reskin mod! The new .patch format means no more compatability risks when using this mod! As always, report any bugs you may encounter.\n\nUpdate!! 2.0 - Now matches the most recent update of cutebound as of writing this. Will continue updating the mod. Apologies for my long abscence. EDIT: Added Emotion file. Knew I was missing something, thanks Aqua. Another Edit: Had to revert some changes on the face regarding the eyes, you shouldn't have amazing technicolor lashes anymore. \n\nUpdate! 1.6 - Made their eyes change color with the scales, lightened the belly of both genders. ...adding extra scale colors to the .patch file failed dramatically, but I'm perservering! I'll probably try again in a few days.\n\nLamia Race Mod (c) Antyrus\nCutebound/Make the universe a cuter place (c) HDoomGuy and Barb-Tan",
+      "name": "Make the Lamia a cuter race",
+      "steamContentId": "851781339",
+      "friendlyName": "Make the Lamia a cuter race",
+      "link": "steam://url/CommunityFilePage/851781339",
+      "includes": [
+        "lamia"
+      ]
+    },
+    "assets": 192,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/humanoid/lamia/malebody.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/lamia/femalebody.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": false
+      },
+      {
+        "asset": "/_previewimage",
+        "winner": "999999910_whatmenu.pak",
+        "identical": false
+      }
+    ]
+  },
+  {
+    "source": "contents_1772846135.pak",
+    "title": "Cuter Nightars",
+    "metadata": {
+      "version": "1.0.2",
+      "tags": "NPCs and Creatures|Species",
+      "author": "RevenantBob",
+      "description": "Makes Nightars have a bit cuter eyes just like the Cutebound mods.\n\nCompatible with Nightars species and Frackin' Universe.\n\n--- Original Nightar Race ---\n\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=741550312\n\n--- Frackin Universe Description Fix ---\n\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2141947777",
+      "requires": [],
+      "name": "CuterNightars",
+      "steamContentId": "1772846135",
+      "friendlyName": "Cuter Nightars",
+      "link": "steam://url/CommunityFilePage/1772846135",
+      "includes": [
+        "FrackinUniverse",
+        "The Nightars"
+      ]
+    },
+    "assets": 7,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/_previewimage",
+        "winner": "999999910_whatmenu.pak",
+        "identical": false
+      }
+    ]
+  },
+  {
+    "source": "contents_1116097274.pak",
+    "title": "Make the Saturnians a Cuter Race",
+    "metadata": {
+      "version": "1.5",
+      "author": "Heemi",
+      "description": "Hey guys! Like moths? Like Cutebound? Well, now you can have both at once, thanks to this reskin mod for the Saturnian Race! Because you can never have enough Mothgirls, or Mothboys if you're into that.\n\nThis mod requires the Saturnians mod. It won't work without it for what should be obvious reasons. Also works best with Make the Universe a Cuter Place, aka Cutebound, installed.\n\nUpdate!! 1.5 should make the Mothgirls and Mothboys more stable for future Saturnian Releases, regardless of what the original creator of the mod adds to their .species file. As always, please report any (non-moth) bugs that may arise from the change.\n\nMASSIVE UPDATE: 1.1 completely reworks the antennae, and sets colors to Cutebound Default colors, with Antennae colors being taken straight from the Starbound Pixel Art Guide. You can now dye your armor to match your antennae, so feel free to rejoice! \n\nAlso, for anyone wondering what the dot is on the side of their head, it's a moth eye, inspired by Barbariank (The Creator of Cutebound)'s art of mothgirls! \n\nhttp://68.media.tumblr.com/bdef1d468da29c8c7fde7e120993b0c2/tumblr_nuj7xoe31G1rkn25go1_1280.jpg\nhttp://68.media.tumblr.com/402d5c379aded3a40aad0665376555b6/tumblr_nua3yjjE111rkn25go1_1280.jpg",
+      "name": "Make the Saturnians a Cuter Race",
+      "steamContentId": "1116097274",
+      "friendlyName": "Make the Saturnians a Cuter Race",
+      "link": "steam://url/CommunityFilePage/1116097274",
+      "includes": [
+        "saturnians"
+      ]
+    },
+    "assets": 457,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/_previewimage",
+        "winner": "999999910_whatmenu.pak",
+        "identical": false
+      }
+    ]
+  },
+  {
+    "source": "contents_2421829571.pak",
+    "title": "Cutebound Arcana",
+    "metadata": {
+      "version": "1.2",
+      "author": "Archilyte",
+      "tags": "NPCs and Creatures|Species",
+      "description": "Cutebound patch for Arcana",
+      "name": "cutearcana",
+      "steamContentId": "2421829571",
+      "friendlyName": "Cutebound Arcana",
+      "link": "steam://url/CommunityFilePage/2421829571",
+      "includes": [
+        "Arcana"
+      ]
+    },
+    "assets": 12,
+    "missing": [],
+    "early": [],
+    "overwritten": []
+  },
+  {
+    "source": "contents_2187004982.pak",
+    "title": "Feb's Cuter Felins - Kemonomimi Version",
+    "metadata": {
+      "version": "0.5.1",
+      "tags": "Species|Character Improvements",
+      "author": "Not February",
+      "description": "A patch that makes Kawa's Felin race mod more... well, ANIME. This REQUIRES the original Felin mod to function!\n\n[b]Why, though?[/b]\n\nI made this a while ago for personal use because none of the other felin patches on the workshop went ALL THE WAY in terms of body, face, and hair sprites being made to match Cutebound's style... so I made my own. Yes, I [i]could[/i] make or install a mod of just anime catboys/catgirls(I know they exist lol), but this way it's possible to get all of the other goodies the felin mod adds. Why reinvent the wheel when I can tweak it slightly instead?\n\nI've actually made TWO different [url=https://steamcommunity.com/sharedfiles/filedetails/?id=761242493]Cutebound[/url] patches for the Felin mod: a version which radically changes Felins into kemonomimi-style characters as much as the default Cutebound alters Avians into harpies, but ALSO a version which I would personally describe as more faithful to the original Felin design, albeit in a Cutebound-esque style.\n\nThis is the kemonomimi version.\n\n[b]NEW: If you want [i]this exact same mod[/i] but in a flavor in which [i]males have the same eye size as females,[/i] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2194900256]use this mod instead![/url][/b]\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2187028850]The furry version can be found here[/url] - do NOT install both mods at once, and make sure that any additional patches you install [b]are for the version of the mod you have installed![/b]\n\n\n\n\n[b]What's been changed:[/b]\n\n- The face, body, and head sprites are altered to look similar to Cutebound's. As of the most recent update, this mod no longer alters the frame files for hair, body, or emote sprite sheets. Compatibility ahoy!\n\n- All of the default Felin hairstyles and colors have been replaced with modified human hairstyles from Cutebound; these were ALL edited to allow Felin ears to work properly with them. Many hairstyles also have several 'variants' with accessories in different colors(including one that changes with eye/undie colors) or with/without facial hair.\n\n- The eye visuals share a color with the hair detail option.\n\n- Some custom personal easter egg hairstyles have been added in.\n\n\n[b]IMPORTANT NOTES:[/b]\n\n- Other mods that alter the visuals of Felin assets are EXTREMELY UNLIKELY to work right if installed alongside this! Before reporting an issue, please check if it happens with nothing but this mod and Felins installed, because the issue might be a different mod trying to do something similar!\n\n- This mod [b]requires the Felin race mod[/b] to function. It's intended to be installed alongside Cutebound so that the art styles don't clash as much, but technically it could be used [i]without[/i] Cutebound if you wanted.\n\n- It's recommended you make a brand- new Felin character after installing this because the color and visual options are entirely different from the base mod. In the same way, Felins will look REALLY weird if you try to uninstall this later...\n\n- Felins created without this mod will probably look extremely bizarre due to how colors are handled. It's best to ensure that everyone who's playing(server and client) all use this mod to avoid weirdness.\n\n- If the Felin mod updates in the future with changes to the file felin.species, this mod will likely need to be updated to reflect that. This is because I opted to use the method Cutebound itself uses to replace the species file itself before patching it in order to add new hairstyles and such while ensuring the colors used are the correct ones; if this ever becomes a problem, let me know and I'll try to fix that.\n\n[b]ADDONS[/b]\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2194900256]Larger Male Eyes[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2525752608]Manga Emotes compatibility[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2932980942]No Undies[/url]\n\n[b]COMPATIBLE MODS:[/b]\n\n- Anything which adds new hairstyles to Felins in its native format.\n- Anything that patches the Felins in a way unrelated to their visual assets should theoretically work. This is a visual overhaul.\n\n[b]INCOMPATIBLE MODS(Check for these in your installation before reporting an issue!):[/b]\n\n- Anything which also attempts replaces any of the head, body, and emote sprites will be jank if installed alongside this.\n- Anything which completely replaces the felin.species file\n- Anything adding new body colors to felins will technically work but is not recommended unless you want bright neon colored skin tones\n\n[b]CREDITS:[/b]\n\nKawa for making the Felins exist. You are my hero for making catgirls and catboys exist in Starbound from even the early days, and the whole reason my patches existing is so that the excellent content in the Felins mod which is unrelated to the character appearances can be enjoyed without breaking immersion while using Cutebound.\n\n[url=https://helmet.kafuka.org/sbmods/json/]Kawa'sStarbound JSON Lab[/url] was also a huge help when I was first teaching myself how to use JSON to make Starbound mods years ago. Bless. \n\nbarb-tan and HDoomGuy for [url=https://steamcommunity.com/workshop/filedetails/?id=761242493]Make the Universe a Cuter Place (Cutebound)[/url], I love the visual overhaul and without their work, this mod wouldn't exist.\nfruzstrated, for making [url=https://steamcommunity.com/sharedfiles/filedetails/?id=843151328]Illustrious Apparels[/url]; the female undergarments on this mod utilize its bikini as a base\n\nCaasib and their [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2113141592]MODesty mod[/url]; the male undergarments are based off their work",
+      "name": "cutebound_felins_kemonomimi",
+      "friendlyName": "Feb's Cuter Felins - Kemonomimi Version",
+      "steamContentId": "2187004982",
+      "link": "steam://url/CommunityFilePage/2187004982",
+      "includes": [
+        "Felins"
+      ]
+    },
+    "assets": 407,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/changes.txt",
+        "winner": "contents_2194900256.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/felin/malehead.png",
+        "winner": "contents_2194900256.pak",
+        "identical": false
+      },
+      {
+        "asset": "/_previewimage",
+        "winner": "999999910_whatmenu.pak",
+        "identical": false
+      },
+      {
+        "asset": "/interface/title/felinmale.png",
+        "winner": "contents_2194900256.pak",
+        "identical": false
+      }
+    ]
+  },
+  {
+    "source": "contents_2194900256.pak",
+    "title": "Feb's Cuter Felins - Kemonomimi Version (Large Male Eyes Patch)",
+    "metadata": {
+      "version": "0.4",
+      "tags": "Character Improvements",
+      "author": "Febilian",
+      "description": "[b]This is now a patch for the main [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2187004982][i]Feb's Cuter Felins - Kemonomimi Version[/i][/url] mod. It now also REQUIRES both the original felins mod and the base version to be present or the game will crash(why would you have this installed without the felins, anyways?)\n\nIf you were an existing subscriber to this, [i]don't panic![/i] Subscribe to the main Kemonomimi version in addition to this mod and things should be working exactly like before.[/b]\n\nAll this mod does is replace two files - the male head and the interface image used for character creation.\n\n100% compatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2525752608]the manga emote patch![/url]",
+      "name": "cutebound_felins_kemonomimi_big_eyes",
+      "friendlyName": "Feb's Cuter Felins - Kemonomimi Version (Large Male Eyes Patch)",
+      "steamContentId": "2194900256",
+      "link": "steam://url/CommunityFilePage/2194900256",
+      "includes": [
+        "Felins",
+        "cutebound_felins_kemonomimi"
+      ]
+    },
+    "assets": 4,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/_previewimage",
+        "winner": "999999910_whatmenu.pak",
+        "identical": false
+      }
+    ]
+  },
+  {
+    "source": "contents_1698045793.pak",
+    "title": "Make the Thaumoth a Cuter Yet Mothy Race",
+    "metadata": {
+      "version": "1.0",
+      "tags": "Species|Character Improvements",
+      "author": "CaylePolin",
+      "description": "The sibling mod for my Cutebound Saturnian mod! This time with the Thaumoth with a cute version.\n\nThis one was wildly easier to make in comparison to the Saturnians, as I just had to rename a few things and change up some stuff. Speaking of change, Cyan Sky Knight has mentioned that as a playable race they're virtually the same as the Saturnians, just with a different lore origin.\n\nSo with that in mind I decided that, in case you ran across a Thaumoth settlement but weren't exactly sure, I've changed the Cutebound variants black chitin to white instead.\n\nIt's not a substantially monumental change but, I figure it was worth doing <:) \n\n[b]\"But why separate the Saturnians and the Thaumoth Cutebound versions?\"[/b]\n\nCuz with them virtually being the same sprite wise, I thought it'd be better to just split the mod into two parts, just in case someone still wanted to play a cute Thaumoth, but didn't want to commit their vanilla Saturnian to the anime treatment, and vice versa. I'm big on design choice and want as many options for characters as possible. Think of like the the 'Unbound Harpies' mod, where the Cutebound Avians were transformed into their own race, so that way people could play as their vanilla Avians but also have the Cutebound Harpies as well, just in case!\n\nCheers and have fun!",
+      "name": "saturnian_C3",
+      "friendlyName": "Make the Thaumoth a Cuter Yet Mothy Race",
+      "steamContentId": "1698045793",
+      "link": "steam://url/CommunityFilePage/1698045793",
+      "includes": [
+        "saturnians",
+        "saturniansemote"
+      ]
+    },
+    "assets": 425,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/_previewimage",
+        "winner": "999999910_whatmenu.pak",
+        "identical": false
+      }
+    ]
+  },
+  {
+    "source": "contents_1697042019.pak",
+    "title": "Make the Angels a Cuter Yet Holy Race",
+    "metadata": {
+      "version": "1.5",
+      "tags": "NPCs and Creatures|Species|Character Improvements",
+      "author": "CaylePolin",
+      "description": "This is a Cutebound mod for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1686520464]Oмεяυıп's Angels of Starbound[/url] mod!\n\nThis includes the usual cute eyes, Cutebound's edits of the vanilla hair sprites (leaving the mod's custom hairsprites alone) and a modified version of the mod's halo!\n\nEnjoy /owo/",
+      "name": "the_angels_of_starbound_CutePatch",
+      "friendlyName": "Make the Angels a Cuter Yet Holy Race",
+      "steamContentId": "1697042019",
+      "link": "steam://url/CommunityFilePage/1697042019",
+      "includes": [
+        "The Angels of Starbound"
+      ]
+    },
+    "assets": 202,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/_previewimage",
+        "winner": "999999910_whatmenu.pak",
+        "identical": false
+      }
+    ]
+  },
+  {
+    "source": "contents_2656849369.pak",
+    "title": "Cutebound Aegi",
+    "metadata": {
+      "version": "1.1.1",
+      "tags": "Character Improvements",
+      "author": "Fafnir",
+      "description": "Changes the Aegi of Elithian Races to have cutebound eyes, bodies, and hairstyles. Also adds proper highlight tones while keeping the palettes of the original mod. Even includes the mod's unique hairstyles edited for consistency with cutebound.",
+      "name": "cuteaegi",
+      "priority": 1,
+      "friendlyName": "Cutebound Aegi",
+      "steamContentId": "2656849369",
+      "link": "steam://url/CommunityFilePage/2656849369",
+      "includes": [
+        "Elithian_Races_Mod"
+      ]
+    },
+    "assets": 206,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/humanoid/aegi/femalehead.png",
+        "winner": "100000001_eyeBlink_contents_1807482741.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/aegi/malehead.png",
+        "winner": "100000001_eyeBlink_contents_1807482741.pak",
+        "identical": false
+      },
+      {
+        "asset": "/_previewimage",
+        "winner": "999999910_whatmenu.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/aegi/emote.png",
+        "winner": "100000001_eyeBlink_contents_1807482741.pak",
+        "identical": false
+      }
+    ]
+  },
+  {
+    "source": "20_sxb_SexBound_Cuter_Felin.pak",
+    "title": "Sexbound API - Felin Species",
+    "metadata": {
+      "version": "1.1.0",
+      "author": "Kawa",
+      "description": "Adds support for the Felin species to Sexbound.",
+      "requires": [
+        "lox_sexbound"
+      ],
+      "name": "SexboundAPI_Felin",
+      "friendlyName": "Sexbound API - Felin Species",
+      "priority": 20,
+      "includes": [
+        "Felins"
+      ]
+    },
+    "assets": 99,
+    "missing": [
+      "/positions/fellatio_in_bed.config",
+      "/SexBound_Felin/positions/butterfly.config",
+      "/SexBound_Felin/positions/cowgirl.config",
+      "/positions/standing_in_bed.config",
+      "/SexBound_Felin/positions/doggy_in_bed.config",
+      "/SexBound_Felin/positions/fellatio_in_bed.config",
+      "/SexBound_Felin/positions/doggy.config",
+      "/positions/fellatio.config",
+      "/positions/doggy.config",
+      "/SexBound_Felin/positions/standing",
+      "/positions/missionary.config",
+      "/SexBound_Felin/positions/standing_in_bed.config",
+      "/SexBound_Felin/positions/fellatio.config",
+      "/SexBound_Felin/positions/cowgirl_in_bed.config",
+      "/scripts/sexbound/plugins/pregnant.config",
+      "/positions/missionary_in_bed.config",
+      "/SexBound_Felin/sexbound.config",
+      "/positions/cowgirl_in_bed.config",
+      "/positions/butterfly.config",
+      "/positions/doggy_in_bed.config",
+      "/SexBound_Felin/scripts/sexbound/plugins/pregnant.config",
+      "/SexBound_Felin/positions/missionary.config",
+      "/positions/standing",
+      "/positions/butterfly_in_bed.config",
+      "/SexBound_Felin/positions/missionary_in_bed.config",
+      "/positions/cowgirl.config",
+      "/SexBound_Felin/objects/felin/felinbed/felinbed.object",
+      "/SexBound_Felin/positions/butterfly_in_bed.config"
+    ],
+    "early": [],
+    "overwritten": []
+  },
+  {
+    "source": "sxb_Sexbound_GiC.pak",
+    "title": "Sexbound API - GiC Cutebound",
+    "metadata": {
+      "version": "1.0.0",
+      "author": "Rylasasin",
+      "description": "Adds support for GiC Cutebound.",
+      "name": "SexboundAPI_GiCcute",
+      "friendlyName": "Sexbound API - GiC Cutebound",
+      "priority": 20,
+      "steamContentId": "",
+      "link": ""
+    },
+    "assets": 376,
+    "missing": [
+      "/npcs/crew/gic_khurtovyna_metrowanderer_crew.npctype",
+      "/npcs/crew/gic_retainer_peacekeeper_teleportertechnician_crew",
+      "/npcs/crew/gic_militia_partisan_gunner_crew.npctype",
+      "/npcs/crew/gic_criminal_mousecommander_crew.npctype",
+      "/npcs/crew/gic_turncoat_sika_copilot_crew.npctype",
+      "/npcs/base/gic_base_altfire",
+      "/npcs/crew/gic_conscript_reservetroop_crew.npctype",
+      "/npcs/crew/gic_alliance_sapper_crew.npctype",
+      "/npcs/crew/gic_criminal_autoshotgunner_crew.npctype",
+      "/npcs/crew/gic_wildlands_grimchaplain_crew.npctype",
+      "/npcs/crew/gic_retainer_moonrabbit_matriarch_crew.npctype",
+      "/npcs/crew/gic_retainer_peacekeeper_veteran_crew",
+      "/npcs/crew/gic_republic_raider_crew.npctype",
+      "/npcs/crew/gic_wartorn_excultist_crew.npctype",
+      "/npcs/crew/gic_retainer_alliance_quartermaster_crew.npctype",
+      "/npcs/crew/gic_retainer_independent_patrician_crew.npctype",
+      "/npcs/crew/gic_lunarian_radioman_crew.npctype"
+    ],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/changelog.txt",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": false
+      },
+      {
+        "asset": "/artwork/pov/actor2/default.frames",
+        "winner": "SxB-POV_Redux_masterbate_420.pak",
+        "identical": true
+      }
+    ]
+  },
+  {
+    "source": "sxb_TTPP_Cutebound.pak",
+    "title": "TTPP furnitures",
+    "metadata": {
+      "version": "1.0",
+      "author": "Yukari_umbbrella",
+      "description": "Change TTPP many Furnitures",
+      "name": "TTPP cutebound furnitures",
+      "friendlyName": "TTPP furnitures",
+      "priority": 101
+    },
+    "assets": 139,
+    "missing": [],
+    "early": [],
+    "overwritten": []
+  },
+  {
+    "source": "contents_1594682555.pak",
+    "title": "Cuter Kirhos",
+    "metadata": {
+      "version": "1.2",
+      "tags": "Character Improvements",
+      "author": "Immirik",
+      "description": "Gives cuter eyes to the Kirhos species, based on Cutebound/Alt Heads, and a small highlight on the muzzle. Should be compatible with both FU Kirhos and Kirhos Reloaded.",
+      "name": "CuterKirhos",
+      "priority": 999999,
+      "friendlyName": "Cuter Kirhos",
+      "steamContentId": "1594682555",
+      "link": "steam://url/CommunityFilePage/1594682555",
+      "includes": [
+        "FrackinUniverse"
+      ]
+    },
+    "assets": 7,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/_previewimage",
+        "winner": "999999910_whatmenu.pak",
+        "identical": false
+      }
+    ]
+  },
+  {
+    "source": "gic_reskin_contents_3090704586.pak",
+    "title": "[GIC] Galaxy in Conflict Reskin patch",
+    "metadata": {
+      "version": "2.0.4",
+      "tags": "NPCs and Creatures|Armor and Clothes",
+      "author": "girzu",
+      "description": "[h1] 4.0 update [/h1]\nI’d like to do a full mod update, but since I don’t play the game much these days because of Ph.D. dissertation, I’ll focus on fixing and updating the sprites for the items and monsters I get reports about first.\nFirst, I’ve added the basic 4.0 race sprites. The default GIC 4.0 human race and the Tengu work fine.\n\n[h1] Content [/h1]\nThe GIC's species designs are unique and attractive, but they look quite different from the cutebound-based design mod. So if you visit planets in different mods planet as GIC character, or visit a gic planet as a non gic character, there's might be a awkwardness.\n\nso I made this mod little by little from few month ago.\n\nThis mod will change a GIC species head and most of GIC bosses, monsters, equipment(head), furniture, objects designs into Cute-bound style designs.\n\nThis mod are not completed. The vast majority of Floran-based monsters and some of quest-line mini-boss have not yet been changed.\n\nbut those things will be revised slowly.\n\n\n\nSome monsters, NPC, Bosses designs are have been re-colored with based on the Touhou(Anime, Game series)\n\n\nIf you find any awkward parts, please leave a comment on the discussion\n\n\n[h1]Compatibility[/h1]\n\nIn theory, this mode will compatible with any mode. It just changes the GIC's enemies and bosses, furniture, and npc to the cutebound\n\n\n[h1] add on [/h1]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3400895443]Cute bound style Glitch reskin[/url].\nFor compatibility with GIC Glitch-related monsters, the Glitches in this mod retain a look similar to the vanilla style. If you're looking for Glitches in the CuteBound style, install this instead.\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3575763844]Cute bound style Glitch reskin[/url].\nadding Blue Archive hairstyles to the GIC race.\n\n\n[h1]Credit[/h1]\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2754886445&searchtext=gic]Galaxy in conflict - Tengu Civitas[/url].\nMany Thanks to the developer of GIC, Tengu Civitas. Thanks for permission on making reskin mod\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=761242493]Make the universe a cuter place[/url]\nAwsome hair asset, body sprite. It can be removed from the content at the request of the original author.\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=739436205]Ningen Race Mod ver 1.8[/url]\nThanks for Awsome open source hair asset.\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2611501999]Creater of Neki mod - Juni[/url]\nMany Thanks to the developer of Nekimod, Juni. Thanks for giving a help to Mod Optimization and support.",
+      "name": "[GIC] Galaxy in Conflict Reskin patch",
+      "priority": 999999,
+      "friendlyName": "[GIC] Galaxy in Conflict Reskin patch",
+      "steamContentId": "3090704586",
+      "link": "steam://url/CommunityFilePage/3090704586",
+      "includes": []
+    },
+    "assets": 4804,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/_previewimage",
+        "winner": "999999910_whatmenu.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/backarm.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/dead.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/emote.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/femalebody.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/femalehead.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/frontarm.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/0.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/1.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/10.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/11.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/12.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/13.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/14.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/15.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/16.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/17.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/18.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/19.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/2.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/20.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/21.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/22.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/23.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/24.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/25.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/26.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/27.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/28.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/29.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/3.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/30.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/31.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/32.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/33.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/34.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/35.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/36.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/37.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/38.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/39.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/4.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/40.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/5.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/6.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/7.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/8.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/9.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/PatchHair01.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/PatchHair02.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/PatchHair03.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/PatchHair04.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/PatchHair05.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch01.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch02.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch03.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch04.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch05.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch06.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch07.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch08.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch09.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch10.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch11.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch12.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/anti_glitch13.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m0.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m1.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m10.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m11.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m12.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m13.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m14.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m15.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m16.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m17.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m18.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m19.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m2.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m20.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m21.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m22.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m23.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m24.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m25.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m26.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m27.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m28.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m29.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m3.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m30.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m4.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m5.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m6.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m7.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m8.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/hair/m9.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/malebody.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/gic_realisticglitch/malehead.png",
+        "winner": "gic_gl_reskin_contents_3400895443.pak",
+        "identical": false
+      }
+    ]
+  },
+  {
+    "source": "gic_gl_reskin_contents_3400895443.pak",
+    "title": "[GIC]Glitch Reskin patch",
+    "metadata": {
+      "version": "1.0.2",
+      "tags": "NPCs and Creatures|Species",
+      "author": "girzu",
+      "description": "[h1]Contents[/h1]\nThis is an extension of the GIC reskin patch. Originally, the Glitch in GIC have a unique appearance resembling the vanilla Glitch faces, and on Crusade planets, monsters that follow this design exist.\n\nUnlike the Floran-Rage planets, which only feature unique monsters, Crusade planets have both hostile general NPCs and uniquely designed monsters coexisting.\n\nTo reduce any sense of inconsistency, the reskin follows the vanilla style for the Glitches rather than adopting the CUTE Bound approach.\n\nHowever, due to multiple requests from users, this has been prepared.\n\nThis mod alters the appearance of the GIC Glitches to resemble the CUTE Bound style.\n\n\n[h1][b1]Error: Glitch detected. Details: [Fatal: true, Adorable: true][/h1][/b1]\n\n",
+      "name": "[GIC]Glitch Reskin patch",
+      "priority": 1000000,
+      "friendlyName": "[GIC]Glitch Reskin patch",
+      "steamContentId": "3400895443",
+      "link": "steam://url/CommunityFilePage/3400895443",
+      "includes": []
+    },
+    "assets": 198,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch07.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch06.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch05.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/19.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch04.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/18.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch03.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/29.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/17.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch02.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/28.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch13.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/39.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/16.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch01.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/27.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch12.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/38.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/15.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/26.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch11.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/37.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/14.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/25.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch10.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/36.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/13.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/24.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/35.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/12.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/femalehead.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/9.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/23.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/34.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/11.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/8.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/22.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/malehead.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/33.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/10.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/7.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/21.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/PatchHair05.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/32.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/6.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/20.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/PatchHair04.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/31.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/5.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/PatchHair03.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/30.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/4.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/PatchHair02.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/3.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/40.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/PatchHair01.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/2.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/1.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m19.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m9.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/_previewimage",
+        "winner": "999999910_whatmenu.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/glitch/hair/0.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m18.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m29.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m8.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m17.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m28.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m7.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m16.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m27.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m6.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/emote.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m15.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m26.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m5.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m14.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m25.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m4.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m13.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m24.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m3.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m12.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/backarm.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m23.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m2.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m11.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m22.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m1.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/frontarm.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m10.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m21.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m0.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/femalebody.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m20.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/malebody.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": false
+      },
+      {
+        "asset": "/humanoid/glitch/hair/m30.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch09.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      },
+      {
+        "asset": "/humanoid/glitch/hair/anti_glitch08.png",
+        "winner": "999999900_sxb_cuter2_contents_761242493.pak",
+        "identical": true
+      }
+    ]
+  },
+  {
+    "source": "999999900_sxb_cuter2_contents_761242493.pak",
+    "title": "Make the universe a cuter place2",
+    "metadata": {
+      "version": "0.99s",
+      "author": "Barbariank & Hdoomguy",
+      "tags": "NPCs and Creatures|User Interface|Character Improvements",
+      "description": "Welcome to Cutebound, a mod aimed at giving the game a cute/anime feeling (somehow) and monster girls \\o/\n\nNealy everything i could rework have been reworked\n-armors\n-clothes\n-accessories\n-races faces and bodies\n-hairstyles\n-probably things i forgot\n\nAll have been changed for a more detailed and cuter appearance\narmors now look closer to the body for the female and mark a real visible difference with their male counterparts\nevery armors or clothes (i think) that lacked a female version have one now\n\nWith the help of HDoomGuy the avian have been changed to a harpie race too and i know this choice won't please everyone but i van guarantee you that they look great\ni'll add as much screenshot as i can to show them ingame and of course for other races too\nI hope you're not too attached to how every race looked before because you might get surprised\n\nAll color choices have been reworked too for a more vibrant feeling and more choices\n\nIncompatibilities;\n\nAny mod that change species files or colors like colorbound (it can work but will cause some anomalies, mostly on harpies)\nany mod that modify sprites for armors, clothes or races\nHair mods might work but must be tested\nI'll add more as i'll find any other incompatible mods\n\nFuture plans;\n\nWe're aiming at adding more races like the Anubis race (from Monster girl encyclopedia)\nand, if we can, implement them ingame \n\nLegal;\n\nMods used and modified and a big thanks to their original creators\n\n-Antihair by AnTi/Annuschka\n-Floran body, from an old mod i can't find anymore (if someone knows please tell me)\n-Starface for the base of the floran face by Bietol\n-Avali mod by RyuujinZERO for the inspiration on the harpies wings",
+      "name": "Cutebound2",
+      "priority": 999999900,
+      "steamContentId": "761242493",
+      "friendlyName": "Make the universe a cuter place2",
+      "link": "steam://url/CommunityFilePage/761242493"
+    },
+    "assets": 1811,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/items/armors/other/captainnoble/head.png",
+        "winner": "999999901_sxb_cuter_captin_contents_2961295192.pak",
+        "identical": false
+      }
+    ]
+  },
+  {
+    "source": "999999901_sxb_cuter_captin_contents_2961295192.pak",
+    "title": "Captain Noble Headgear Convenient for Make the Universe a Cuter Place",
+    "metadata": {
+      "version": "1.0",
+      "author": "Davoker",
+      "tags": "NPCs and Creatures|Character Improvements|Armor and Clothes",
+      "description": "[h1]Description, or something like this[/h1]\nA slight modification of the original with a little inspiration from the Dragon ball Z strength gauges, and our Captain Noble can now measure how big your manly... strength.\n\n[h1]Content[/h1]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=761242493] Make the Universe a Cuter Place[/url] mod changes the faces of the Novakid, so they no longer have their \"brand\" and have eyes instead, this affects Captain Noble and the type of headgear he wears, even though [url=https://steamcommunity.com/sharedfiles/filedetails/?id=761242493] Make the Universe a Cuter Place[/url] mod modifies it slightly, I still didn't like the way it looked, so this is my version of his headgear for Captain Noble.\n\n[h1]Compatibility[/h1]\n- It should be compatible with everything except any mod that modifies [b]captainnoble/head.png.[/b]\n- You need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=761242493] Make the Universe a Cuter Place[/url] mod, Captain Noble without that mod will not look good.\n\n[h1]Recommended MODs[/h1]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2951678565] CCUI with Fixes and New Collections[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2774848292] Corbent's Interactive Crew[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1732808640&searchtext=smart+crew] Smart Crew[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2957933938] Be transparent, my friend[/url]\n[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] A few[/url]\n\n[h1]Future plans[/h1]\n- The intention is to modify the 2 [b]chatbubbles[/b] images to match what Captain Noble looks like with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=761242493] The Make the Universe a Cuter Place[/url] (These are the images we see when we meet you for the first time or you talk to us on the radio), but I'm not that talented... if someone offers to do the job, I'll be happy to add you as a contributor here.\n\n[h1]Credits[/h1]\nFor me all the flowers (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧\n\n[hr][/hr]\n[url=https://www.buymeacoffee.com/davoker][img]https://media2.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif?cid=ecf05e475hbigh8f6svd016w1t80eojhpcu0t2e58569iq0j&ep=v1_gifs_related&rid=giphy.gif&ct=s[/img][/url]",
+      "name": "captain_noble_cuter_place",
+      "priority": 999999901,
+      "friendlyName": "Captain Noble Headgear Convenient for Make the Universe a Cuter Place",
+      "steamContentId": "2961295192",
+      "link": "steam://url/CommunityFilePage/2961295192"
+    },
+    "assets": 4,
+    "missing": [],
+    "early": [],
+    "overwritten": [
+      {
+        "asset": "/_previewimage",
+        "winner": "999999910_whatmenu.pak",
+        "identical": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,321 @@
+801 [DESC]
+  EN: "''Only a remnant of us left now. We gotta save who we can, when we can.''\n\n^green;+50hp^reset;\n^red;-25% Knock"
+  KO: "''우리는 이제 잔존물일 뿐이야. 할 수 있을 때, 할 수 있는 사람을 구해야 해.''\\n\\n^green;+50hp^reset;\\n^red;넉백 저항 -25%^reset;"
+802 [NAME]
+  EN: "Hero's Boots"
+  KO: '영웅의 장화'
+803 [DESC]
+  EN: 'The Otherworld to some could be seen as the melting pot of ideas and concepts forgotten to history. Demons, yo'
+  KO: '어떤 이에게 저세상은 역사에 잊힌 사상과 개념들의 용광로로 보일 수 있다. 악마, 요괴, 신들 — 모두 스포트라이트를 빼앗을 강력한 존재들이지만, 평범하고 시시한 것들도 마찬가지다. 유럽식 장비와 '
+804 [NAME]
+  EN: "Infantryman's Charm"
+  KO: '보병의 부적'
+805 [DESC]
+  EN: '*points down*\n\n^red;Appear as a red phantom. Purely cosmetic.^reset;'
+  KO: '*아래를 가리킨다*\\n\\n^red;붉은 망령으로 보인다. 순수 외형 효과.^reset;'
+806 [NAME]
+  EN: "Invader's Boots"
+  KO: '침입자의 장화'
+807 [DESC]
+  EN: "''You know why you hid in that ditch? You hid in that ditch because you think there's still hope. You're blind"
+  KO: "''네가 왜 그 도랑에 숨었는지 알아? 희망이 아직 있다고 생각해서 숨은 거야. 넌 눈이 멀었고, 네게 남은 유일한 희망은 이미 죽었다는 사실을 받아들이는 것뿐이지.''\\n\\n^green;[EWS]"
+808 [NAME]
+  EN: "Lunarian's Signet"
+  KO: '루나리안의 인장'
+809 [DESC]
+  EN: "''I have lived for hundreds of years in a state of frozen-time serving my mistress, but never sought to cheris"
+  KO: "''수백 년을 시간이 얼어붙은 상태로 여주인을 섬기며 살았지만, 우리의 이 짧은 순간을 지금까지 소중히 여기려 한 적은 없었다.''\\n\\n고도로 기계화된 태엽 회중시계로, 누군가 선물로 준 것 같다"
+810 [NAME]
+  EN: "Maid's Pocket Watch"
+  KO: '메이드의 회중시계'
+811 [DESC]
+  EN: "''Sorry about leaving you back there. I get these... urges.''\n\nSnakes are known as creatures of great avarice,"
+  KO: "''아까 널 두고 온 건 미안해. 가끔... 충동이 생기거든.''\\n\\n뱀은 커다란 탐욕의 생물로 알려져 있어 자기보다 큰 먹이도 통째로 삼켜 먹는다. 네 죽음이 자기 자책의 근원이라면, 어쩌면 구"
+812 [NAME]
+  EN: 'Mountain Serpent Earring'
+  KO: '산뱀 귀걸이'
+813 [DESC]
+  EN: 'Debug testing item\n^green;Nearby enemies within 20 blocks take 1.25x SMALL-ARMS DAMAGE.^reset;'
+  KO: '디버그 테스트 아이템\\n^green;주변 20블록 내 적이 받는 소구경 피해 1.25배.^reset;'
+814 [NAME]
+  EN: "Musketeer's Clutch Ring"
+  KO: '머스킷병의 움켜쥠 반지'
+815 [DESC]
+  EN: '--- Assign to a backpack for the unit to take effect.\n\n^yellow;Eccentric Employ: Every 30 seconds within 100 u'
+  KO: '--- 유닛에 적용하려면 배낭에 배정한다.\\n\\n^yellow;별난 고용: 가시 거리 100유닛 내에 있는 적 근처에서 30초마다 광역 치유 플라스크 구역을 부여한다.^reset;'
+816 [NAME]
+  EN: 'Patron: Ammunition Fairy'
+  KO: '수호령: 탄약 요정'
+817 [DESC]
+  EN: "''We've been left a dog-eat-dog world, kitten. Sooner you accept that, the longer you'll live.'' \n\n^yellow;Doe"
+  KO: "''우린 이 개가 개를 잡아먹는 세상에 남겨졌어, 꼬맹아. 빨리 받아들일수록 더 오래 살아.'' \\n\\n^yellow;평화중재자의 반지와 중첩되지 않고, 역도 마찬가지.^reset;\\n^green;"
+818 [NAME]
+  EN: "Peacemaker's Boots"
+  KO: '평화중재자의 장화'
+819 [NAME]
+  EN: 'Legacy item. No effect.'
+  KO: '레거시 아이템. 효과 없음.'
+820 [NAME]
+  EN: 'Red Sun'
+  KO: '붉은 태양'
+821 [DESC]
+  EN: "''Everything is inside. Nothing is inside. Take it all.''\n\n^green;Reloading does not consume ammunition with E"
+  KO: "''모든 게 안에 있어. 아무것도 안에 없어. 전부 가져.''\\n\\n^green;체력 50% 미만일 때 EWS/GiC 무기 재장전이 탄약을 소모하지 않는다.\\n^red;체력 25% 초과일 때 대부분"
+822 [NAME]
+  EN: 'Sphere of Eternal Matter'
+  KO: '영원 물질의 구체'
+823 [DESC]
+  EN: "''They tried to eat our dreams. Our hope. Our souls. Our lives became a fading memory. Our bodies may have sur"
+  KO: "''놈들은 우리의 꿈을 먹으려 했다. 우리의 희망을. 우리의 영혼을. 우리의 삶은 바래가는 기억이 되었다. 우리의 몸은 살아남았을지 몰라도, 영혼은 살아남지 못했다.''\\n\\n^green;이상 현상"
+824 [NAME]
+  EN: 'Spirit-Footed Fabric'
+  KO: '영혼발 직물'
+825 [DESC]
+  EN: "''What.''\n\n^green;+100% Knockback Resistance.^reset;\n^red;-50% Movement Speed.^reset;"
+  KO: "''뭐.''\\n\\n^green;넉백 저항 +100%.^reset;\\n^red;이동 속도 -50%.^reset;"
+826 [NAME]
+  EN: 'Stone Shoes'
+  KO: '돌 신발'
+827 [DESC]
+  EN: 'A synth sheds neither blood nor tears and thus its nature remains unknown. Whoever thinks this is precious mus'
+  KO: '신스는 피도 눈물도 흘리지 않아 그 본성은 알 수 없다. 이것이 귀중하다고 생각하는 자는 심한 순진함에 시달리는 게 분명하다. 만지면 차갑지만, 기묘하게 마음이 진정된다.\\n\\n^green;초당 체'
+828 [NAME]
+  EN: "Synth's Tear Stone"
+  KO: '신스의 눈물석'
+829 [DESC]
+  EN: "''Sickly as I was, I carried on through the wasteland that once was. This object of mine once was another, and"
+  KO: "''병약한 몸으로 나는 한때였던 황야를 지나 걸어갔다. 내 이 물건은 한때 다른 것이었고, 나는 한때였던 내가 되었다.''\\n\\n^green;초당 체력 0.5% 회복.^reset;"
+830 [NAME]
+  EN: 'Unfaltering Friend'
+  KO: '흔들리지 않는 친구'
+831 [DESC]
+  EN: "''For the valiant defense of the beleaguered 57th Youkai Combat Corps. In Gods We Trust.''\n\n^yellow;- No effec"
+  KO: "''포위된 제57 요괴 전투 군단의 용감한 방어를 기려. 우리는 신을 믿는다.''\\n\\n^yellow;- 효과 없음.^reset;"
+832 [NAME]
+  EN: 'Unitan Medal of Valor'
+  KO: '유니탄 용맹 훈장'
+833 [DESC]
+  EN: 'A pair of greaves that once served Othniel during his time campaigning in the Northern Frontier. As a revered '
+  KO: '옷니엘이 북쪽 변경에서 전역을 치르던 시절 함께한 각반 한 쌍. 존경받는 지도자로서 가문의 이름을 영광스럽게 하기 위해 그는 아들이 함께 전투에 나서길 권했다. 그가 계급을 빠르게 올린 만큼 빠르게'
+834 [NAME]
+  EN: "Veteran Wolf's Greaves"
+  KO: '노장 늑대의 각반'
+835 [DESC]
+  EN: "''The children of humanity weren't meant to leave Earth, nor meant to know of those beyond it, but there are n"
+  KO: "''인류의 자식들은 지구를 떠날 운명이 아니었고, 그 너머의 존재를 알 운명도 아니었다. 하지만 외계인이 어기지 않은 규칙은 남아 있지 않다. 어쩌면 질서를 깨뜨림으로써 질서를 되돌릴 수 있을지도."
+836 [NAME]
+  EN: "World Walker's Boots"
+  KO: '세계 방랑자의 장화'
+837 [DESC]
+  EN: "''I can say I've walked across countless worlds and it wouldn't be entirely incorrect. The truth however is th"
+  KO: "''셀 수 없이 많은 세계를 걸어왔다 해도 완전히 틀린 말은 아니라고 할 수 있다. 하지만 진실은 그 셀 수 없는 세계들의 작은 일부만 걸었다는 것이다. 시간은 언제나 모자라니까.''\\n\\n^gre"
+838 [NAME]
+  EN: "World Walker's Ring"
+  KO: '세계 방랑자의 반지'
+839 [DESC]
+  EN: 'At the turn of the 20th-century, wars on Earth had undergone an immense power-shift. The battleship had become'
+  KO: '20세기 초, 지구의 전쟁은 거대한 힘의 변동을 겪었다. 전함은 쓸모없는 물건이 되었다.\\n\\n^orange;QF 3파운드 47mm 함포 계획 A:^reset; 함선의 경포 사격을 요청해 주변 지역'
+840 [NAME]
+  EN: "Admiralty's Earring"
+  KO: '해군본부의 귀걸이'
+841 [DESC]
+  EN: "''Humanity acquired sight on all things beyond anything our ancestors could dream of. Where the ancient intell"
+  KO: "''인류는 우리 조상이 꿈꿀 수 있는 모든 것 너머까지 시야를 얻었다. 고대 지식인들이 현미경으로 하늘의 이치를 끌어내리려 했다면, 우리는 우리 것으로 하늘의 무게를 끌어내린다.''\\n\\n^oran"
+842 [NAME]
+  EN: 'Artillery Spotting Scope'
+  KO: '포병 관측경'
+843 [DESC]
+  EN: "''If everyone is thinking alike, someone isn't thinking.''\n\n^orange;Grants Rally-Summons +25 MAX HP.^reset;"
+  KO: "''모두가 똑같이 생각하고 있다면, 누군가는 생각하지 않고 있는 것이다.''\\n\\n^orange;집결 소환물에게 최대 체력 +25 부여.^reset;"
+844 [NAME]
+  EN: "General's Insignia"
+  KO: '장군의 계급장'
+845 [DESC]
+  EN: "''It is fascinating how much of humanity can be so selfish and short-sighted, all serving their own interests."
+  KO: "''인류의 얼마나 많은 부분이 이기적이고 근시안적이며 저마다 제 이익만을 좇는지는 흥미롭다. 그러나 이런 행위들을 거시적으로 분석하면, 궁극적으로 인류 문화와 기술을 진보시켰음이 드러난다.''\\n^"
+846 [NAME]
+  EN: 'Rapid Target Coordinator'
+  KO: '신속 표적 지정기'
+847 [DESC]
+  EN: 'The Abyss takes on many forms, digging its way into as many areas so as to best propogate destruction amongst '
+  KO: '심연은 많은 형태를 취하며, 온갖 생명 사이에 파괴를 가장 잘 퍼뜨리도록 최대한 많은 곳으로 파고든다. 이 형태는 사토리의 눈을 왜곡되게 재현한 것처럼 보인다.\\n\\n^orange;모든 것의 증오:'
+848 [NAME]
+  EN: 'Vestigial Eye'
+  KO: '흔적의 눈'
+849 [DESC]
+  EN: "''When they came charging through the thick I didn't have any thoughts of shooting 'em. Instinct kicked in. I "
+  KO: "''놈들이 숲을 뚫고 돌격해 올 때 쏴야겠다는 생각은 없었어. 본능이 튀어나왔지. 방아쇠를 눌러대며 놈들을 최대한 많이 죽이려 했지만 충분하지 않았어. 언제나 충분하지 않았지. 다 끝나고 나니 털썩"
+850 [NAME]
+  EN: 'Split Gun Barrel'
+  KO: '이중 총신'
+851 [DESC]
+  EN: "''Be like water making its way through cracks. Do not be assertive, but adjust to the object, and you shall fi"
+  KO: "''틈을 지나가는 물처럼 되어라. 자기주장을 하지 말고 대상에 맞춰라, 그러면 그 주위나 그 사이로 길을 찾을 것이다.''\\n\\n^orange;회피율 +10% | 회피 발동 시 지연 유도 부적 4개"
+852 [NAME]
+  EN: 'Talisman of Grazing'
+  KO: '그레이즈의 부적'
+853 [DESC]
+  EN: "Julian's spirit had long gone from the material world. His fascination with the occult and the magical led him"
+  KO: '율리안의 영혼은 오래전에 물질 세계를 떠났다. 오컬트와 마법에 대한 그의 매혹은 돌이킬 수 없는 거래에 그를 꾀어넣을 만큼 커져 갔다. 때가 되자 그에게는 아무것도 남지 않았고, 빙의된 갑옷만이 악'
+854 [NAME]
+  EN: 'Effigy of Julian'
+  KO: '율리안의 형상'
+855 [DESC]
+  EN: 'Those that survived long enough in their unending fight against the ferals without going mad were given their '
+  KO: '야생 요괴와의 끝없는 싸움에서 미치지 않고 충분히 오래 살아남은 자들은 더 많은 싸움이라는 보상을 받았다. 살아남은 인간 군세에 신속히 편입되어, 적절한 중화기와 함께 환상향의 피비린내 나는 살육장'
+856 [NAME]
+  EN: 'Fairy Attunement Powders'
+  KO: '요정 조율 가루'
+857 [DESC]
+  EN: "''Magpies are smart buggers. They're just birds, but they'd remember you for a million years if they could liv"
+  KO: "''까치는 영리한 놈들이야. 그냥 새지만, 백만 년이라도 살 수 있다면 널 백만 년간 기억할 거야.''\\n\\n^orange;회피 +25%와 이동 속도 +15% | 원거리·근접 무기 사용 시 이 보너"
+858 [NAME]
+  EN: 'Magpie Locket'
+  KO: '까치 로켓'
+859 [DESC]
+  EN: "''When all was said and done, the thorns bound themselves on every man, woman, and child. Their bodies were ta"
+  KO: "''모든 것이 끝났을 때, 가시들은 모든 남자, 여자, 아이에게 스스로를 휘감았다. 그들의 몸은 빼앗기고 영혼은 재로 불탔다. 그릇들의 남은 것들은 심연의 비뚤어진 신들에게 바치는 돌과 금속의 도시"
+860 [NAME]
+  EN: 'Black Ritual Diamond'
+  KO: '검은 의식 다이아몬드'
+861 [DESC]
+  EN: "''The history of our great country is built upon great heroes and a people who do not yield to the chaos of th"
+  KO: "''우리 위대한 국가의 역사는 위대한 영웅들과 공허의 혼돈에 굴복하지 않는 인민 위에 세워졌다.'' - 이름 없는 USCR 특공대원.\\n\\n^orange;질주 돌격 개시 시 1초간 이동 속도 +50"
+862 [NAME]
+  EN: 'Honorary Beret'
+  KO: '명예 베레모'
+863 [DESC]
+  EN: "''There were times when we'd cross the ocean towards the mainland, full of opulent manors and ripe farmlands. "
+  KO: "''본토를 향해 바다를 건너던 때가 있었지 — 호화로운 저택과 익은 농지로 가득했던. 그런데 뭔가가 우리를 되돌렸고, 이제 거긴 괴물들의 고향일 뿐이야.''\\n\\n먼 시대의 오래된 배지. 사냥꾼들은"
+864 [NAME]
+  EN: "Old Hunter's Badge"
+  KO: '늙은 사냥꾼의 배지'
+865 [DESC]
+  EN: "''Evil cannot last forever. By its very nature it seeks to destroy all that is created. Eventually it will onl"
+  KO: "''악은 영원할 수 없다. 그 본성상 만들어진 모든 것을 파괴하려 하기에, 결국 숙주를 다 말린 채 파괴할 것은 자기 존재뿐이 될 것이다.''\\n\\n^orange;원거리·근접 무기 공격 시 확률적으"
+866 [NAME]
+  EN: 'Possessed Sawblade'
+  KO: '빙의된 톱날'
+867 [DESC]
+  EN: "''The abyss will not have me. Tomorrow, I sail towards the opulent manor on the coast. I will die unknown, but"
+  KO: "''심연은 나를 갖지 못한다. 내일, 나는 해안의 호화로운 저택을 향해 항해한다. 이름 없이 죽겠지만, 알고 죽은 것이다.''\\n\\n^green;+50HP^reset;"
+868 [NAME]
+  EN: "Ranger's Charm"
+  KO: '레인저의 부적'
+869 [DESC]
+  EN: "''The knife from the mainland that started it all.''\n\nA remarkably ancient yet undoubtedly tainted knife. It s"
+  KO: "''이 모든 걸 시작한 본토의 나이프.''\\n\\n놀랄 만큼 오래됐지만 분명히 오염된 나이프. 네게 뭔가를 속삭이는 듯하지만 전부 알아들을 수 없는 헛소리로 들린다.\\n\\n^orange;근접 무기 공"
+870 [NAME]
+  EN: 'Ritual Knife'
+  KO: '의식 단도'
+871 [DESC]
+  EN: "''How you open a fight can determine whether that becomes a victory or a defeat. Be the first shot to start th"
+  KO: "''싸움을 어떻게 여느냐가 그게 승리가 될지 패배가 될지를 결정할 수 있다. 싸움을 시작하는 첫 발이 되어라. 그들을 고무시켜라.''\\n\\n^orange;총 발사 후 0.5초 이내 80블록 내에서 "
+872 [NAME]
+  EN: 'Trophy Magnum'
+  KO: '트로피 매그넘'
+873 [DESC]
+  EN: "''Compensators aim to reduce the recoil and muzzle rise of your firearm. Recoil reduction is achieved by venti"
+  KO: "''보정기는 화기의 반동과 총구 상승을 줄이는 게 목표다. 가스를 위로 배출해 총구를 아래로 몰아 반동 감소를 이룬다.''\\n  \\n^orange;같은 표적에 이어지는 연속 사격이 표적을 -25% "
+874 [NAME]
+  EN: 'Compensator Attachment'
+  KO: '총구 보정기 부착물'
+875 [DESC]
+  EN: '^yellow;Hides muzzle flash and significantly reduces smoke when attached to the muzzle of a firearm.^white;\n\n^'
+  KO: '^yellow;화기 총구에 장착 시 총구 화염을 숨기고 연기를 크게 줄인다.^white;\\n\\n^green;무기 숙련 +5%.^reset;\\n\\n^green;호환되는 GiC 무기를 우클릭해 장착.^'
+876 [NAME]
+  EN: 'Flash Suppressor'
+  KO: '소염기'
+877 [DESC]
+  EN: 'Long Barrel attachment with foreguard. Designed for revolvers, but can be attached to any gun with a compatibl'
+  KO: '전방 덮개가 있는 장총신 부착물. 리볼버용으로 설계됐지만 호환되는 총신 슬롯이 있는 모든 총에 장착할 수 있다.\\n\\n^green;명중률 +30%(투사체 편차 감소).\\n\\n^green;호환되는 G'
+878 [NAME]
+  EN: 'Foreguard Extension'
+  KO: '전방 덮개 연장'
+879 [DESC]
+  EN: "Replaces the firearm's barrel with a heavier and longer barrel, which allows the gun to build up more heat in "
+  KO: '화기의 총신을 더 무겁고 긴 총신으로 교체해, 성능이 저하되기 시작할 때까지 연사로 더 많은 열을 모을 수 있다. 제압용 기관총 역할에 더 적합해진다.\\n^green;반동 회복 시간 -40% | 고'
+880 [NAME]
+  EN: 'Heavy Barrel Attachment'
+  KO: '중총신 부착물'
+881 [DESC]
+  EN: "Extends the gun's existing barrel without thickening the diameter, making the gun more suitable for sniping an"
+  KO: '지름을 두껍게 하지 않고 기존 총신을 연장해, 저격과 저연사 무기에 더 적합해진다.\\n^green;무기 숙련 +25%.^reset;\\n^red;반동 회복 시간 +50% | 고반동 빗나감 확률 배율 '
+882 [NAME]
+  EN: 'Long Barrel Attachment'
+  KO: '장총신 부착물'
+883 [DESC]
+  EN: '^orange;Afflicts hit targets with SUDDEN-STRIKE, granting subsequent shots +50% DMG. If the target is not hit '
+  KO: '^orange;명중한 표적에게 기습을 걸어 후속 사격 피해 +50%. 표적이 0.25초간 다시 맞지 않으면 480초간 기습에 내성이 생긴다.^white;\\n\\n^green;Mac-10의 성능을 크게'
+884 [NAME]
+  EN: 'MAC-10 Suppressor'
+  KO: 'MAC-10 소음기'
+885 [DESC]
+  EN: '^orange;Afflicts hit targets with SUDDEN-STRIKE, granting subsequent shots +50% DMG. If the target is not hit '
+  KO: '^orange;명중한 표적에게 기습을 걸어 후속 사격 피해 +50%. 표적이 0.25초간 다시 맞지 않으면 480초간 기습에 내성이 생긴다.^white;\\n  \\n^yellow;총의 발사음을 변경.'
+886 [NAME]
+  EN: 'Suppressor Attachment'
+  KO: '소음기 부착물'
+887 [DESC]
+  EN: 'Perform a conversion that replaces its parts with heavier and thicker parts, improving its overall performance'
+  KO: '부품을 더 무겁고 두꺼운 부품으로 교체하는 개조를 수행해 전반 성능을 향상한다.\\n  \\n^orange;화기를 중량 등급으로 강제하며, 경량·중형 지정을 무효화한다.^reset;\\n\\n^green;'
+888 [NAME]
+  EN: 'Heavyweight Conversion Kit'
+  KO: '중량 개조 킷'
+889 [DESC]
+  EN: 'Perform a full conversion of your firearm to be as light as possible, shaving off every bit of weight. While t'
+  KO: '화기를 최대한 가볍게 전면 개조해 무게를 조금이라도 더 깎는다. 기동성과 회피에 도움이 되지만 전반적인 무기 성능은 나빠진다.\\n^orange;화기를 경량 등급으로 강제하며, 중형·중량 지정을 무효'
+890 [NAME]
+  EN: 'Lightweight Conversion Kit'
+  KO: '경량 개조 킷'
+891 [DESC]
+  EN: 'Barrel that increases that focuses the beam to melt through even the heaviest of armor. The additional modific'
+  KO: '빔을 집속시켜 가장 무거운 장갑도 녹여 관통하는 총신. 이런 시스템을 지탱하는 추가 개조로 총이 훨씬 다루기 힘들어진다.\\n\\n^orange;대전차 피해 +50 | 숙련 -25%.\\n^green;호'
+892 [NAME]
+  EN: 'Beam Focuser'
+  KO: '빔 집속 장치'
+893 [DESC]
+  EN: 'A secondary beam emitter is attached to the barrel to divert some of the outputted energy into a reamplifier w'
+  KO: '보조 빔 방출기를 총신에 붙여 출력된 에너지 일부를 재증폭기로 돌려, 사실상 두 번째로 약한 빔을 쏘도록 강도를 다시 높인다.\\n\\n^orange;기본 피해의 40%를 주고 항상 명중하는 두 번째 '
+894 [NAME]
+  EN: 'Beam Repeater'
+  KO: '빔 반복 장치'
+895 [DESC]
+  EN: 'Barrel that splits the main beam into 6 still-powerful beams. This conversion results in the weapon losing muc'
+  KO: '주 빔을 여전히 강력한 빔 6개로 갈라내는 총신. 그러나 이 개조로 무기가 원래 특성의 대부분을 잃는다.\\n\\n^orange;모든 에너지를 6개의 개별 근거리 빔으로 분배해 기본 피해의 125%를 '
+896 [NAME]
+  EN: 'Beam Splitter'
+  KO: '빔 분열 장치'
+897 [DESC]
+  EN: 'Barrel that increases that increases the burn width of the beam, enabling an increase in affected surface area'
+  KO: '빔의 연소 폭을 넓혀 영향 표면적을 늘리는 대신 진행하며 더 빨리 소산하는 총신.\\n\\n^orange;근거리 사격이 적을 점화하고 열 피해 +10을 주지만, 이 거리를 넘으면 모든 위력을 잃는다.\\'
+898 [NAME]
+  EN: 'Beam Unfocuser'
+  KO: '빔 확산 장치'
+899 [DESC]
+  EN: "An angled foregrip, more effective at pulling the weapon into the shooters' shoulder while keeping the offhand"
+  KO: '각진 전방 손잡이로, 반대쪽 손목을 편하고 다루기 쉬운 자세로 유지하면서 무기를 사수의 어깨 쪽으로 당기는 데 효과적이다.\\n\\n^green;웅크린 무기 숙련 +10%.\\n\\n^green;호환되는 '
+900 [NAME]
+  EN: 'Angled Foregrip '
+  KO: '각진 전방 손잡이'
+901 [DESC]
+  EN: 'Foregrip taken from an AUG.\n  \n^green;+10% Standing Weapon Proficiency.^reset;\n^green;+15% Recoil Recovery Spe'
+  KO: 'AUG에서 떼어낸 전방 손잡이.\\n  \\n^green;선 자세 무기 숙련 +10%.^reset;\\n^green;반동 회복 속도 +15%.^reset;\\n\\n^green;호환되는 GiC 무기를 우클릭'
+902 [NAME]
+  EN: 'Recoil Foregrip'
+  KO: '반동 전방 손잡이'
+903 [DESC]
+  EN: 'A heavy bipod designed to greatly increase accuracy of weapons when grounded, i.e. ^orange;when the bipod is i'
+  KO: '지지된 상태에서 무기의 명중률을 크게 높이도록 설계된 중형 양각대 — 즉 ^orange;양각대가 지면이나 발판에 닿아 있을 때.^reset;\\n  \\n^orange;지지된 상태에서 무기 숙련 +70'
+904 [NAME]
+  EN: 'Bipod Attachment'
+  KO: '양각대 부착물'
+905 [DESC]
+  EN: 'A traditional bipod for the MG2750 designed to greatly increase accuracy of large weapons when properly ground'
+  KO: 'MG2750용 전통 양각대로, 올바르게 지지된 상태에서 대형 무기의 명중률을 크게 높이도록 설계됐다. ^yellow;양각대가 블록 위에 물리적으로 얹혀 있어야 보너스가 적용된다.^reset;\\n  '
+906 [NAME]
+  EN: 'MG2750 Bipod'
+  KO: 'MG2750 양각대'
+907 [DESC]
+  EN: "Traditional stock-standard classic foregrip with no frills or gimmick. Better at ''driving'' the weapon than o"
+  KO: "꾸밈도 재주도 없는 전통적인 표준 클래식 전방 손잡이. 다른 손잡이보다 무기를 '몰아가는' 데 낫다.\\n  \\n^green;선 자세 무기 숙련 +10%.^reset;\\n^green;반동 회복 속도 "

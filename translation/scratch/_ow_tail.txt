@@ -1,0 +1,405 @@
+=== 352 ===
+West Star sappers are engineers intended for a more frontline role rather than normal ones. Specializing in demolition and clearing the battlefield of hazards, the sapper stays close to the main infantry and ensures that no position holds them down.
+  
+^#b4a67f;Engineer Rigging: Negate the Medium Weight Weapon Penalty when using a Medium Weight Weapon. If using a Heavy Weight Weapon, halve the weapon penalty.
+^#b4a67f;DEF: +30% SMALL-ARMS & EXPLOSIVE & THERMAL^reset;
+=== 353 ===
+''We've seen all sorts of things those youkai will put up to slow us down. Tree forts, bunkers, basic spike traps, the list goes long. The quality of the defenses depends on what youkai we're fighting. Kappas are known to make similar defenses like we do while the tengu tend to rely on more basic traps. Either way, it's a pain for us sappers to clear since we never fucking know what we're going to be dealing with next.''
+^#b4a67f;Fate's Gamble: The next two bullets deals 10-90% less damage. | 20s Cooldown Each | DEF: +10% SMALL-ARMS | +15% EXPLOSIVE^reset;
+=== 354 ===
+Due to the close quarter nature of the sapper's combat role, sappers are often equipped with submachine guns or shotguns to defend themselves with along with a variety of grenades. Furthermore, sappers are given armor as part of their standard uniform due to their close work with explosive ordanance.
+^#b4a67f;Mine Layer: When near enemies, drop a friendly mine at your location that takes 5s to arm. Will be destroyed if an enemy makes contact with it during arming. | 10s Cooldown
+DEF: +10% SMALL-ARMS | +15% EXPLOSIVE^reset;
+=== 355 ===
+As the war dragged on, manpower issue became more and more severe for the Federation. West Star Echelon units were quickly pulled to the frontline to compensate the lack of warm bodies, bringing along with them everything a support unit would need to keep a soldier fighting near the front.
+^#b4a67f;Logistic Support [CHEST]: Nearby Infantry Summons gain +0.2% HP/sec, +10% General Resistance, and +15% General Weapon Proficiency. +1% HP/sec.
+DEF: +30% THERMAL | +30% BLEED^reset;
+=== 356 ===
+WS Echelon Fatigues
+=== 357 ===
+''The only difference between an echelon unit and a infantrymen is that one is trained to fight with their rifle while the other knows how to operate a flamethrower. While echelon troops are less experienced in combat than their battle hardened infantryman, the support equipment they bring tend to make up for it.''
+^#b4a67f;Logistic Support [HEAD]: Nearby Infantry Summons gain +0.2% HP/sec, +10% General Resistance, and +15% General Weapon Proficiency. +1% HP/sec.
+DEF: +15% SMALL-ARMS | +10% THERMAL | +5% SLASH & THRUST^reset;
+=== 358 ===
+WS Echelon Helmet
+=== 359 ===
+''If the echelon units are fighting, then something has seriously went wrong.''
+With proper tactics and training, even a echelon unit knows how to provide suppressive fire against enemy forces despite not being meant for frontline combat.
+^#b4a67f;Logistic Support [LEGS]: Nearby Infantry Summons gain +0.2% HP/sec, +10% General Resistance, and +15% General Weapon Proficiency. +1% HP/sec.
++10% Movement Speed. | DEF: +10% THERMAL^reset;
+=== 360 ===
+WS Echelon Leggings
+=== 361 ===
+The WST-300 is the first radio used by the Federation with the nickname, 'walkie talkie'. It is currently used by West Star airborne divisions. The WST-300 is one of the only ways soldiers can communicate with each other from long distances.
+^#b4a67f;Airborne Squad: If wearing clothing belonging to a WS Pathfinder or WS Ranger, summon X WEST STAR PATHFINDER/RANGER when using a ^reset;^orange;DEPLOYMENT ORDER^reset;^#b4a67f;. X is equal to each clothing item.^reset;
+^red;Airborne Reinforcing: Units summoned will only last 60s undamaged but will take 120s to summon again.^reset;
+=== 362 ===
+WS Radio Pack
+=== 363 ===
+Although airborne operations are extremely rare now in the war due to Crow Tengu having complete aerial dominance in any place where flak isn't available, pathfinders used to mark various zones for paratroopers and supplies to be dropped through their radio packs. Many early battles were won thanks to the pathfinder's ability to find openings across the youkai lines.
+^#b4a67f;Sharpshooter: Mark an enemy within 60 blocks. Marked enemies have reduced AIM, DODGE, and DEFENSE. When killed, another enemy is marked. | +10% Movement Speed. | +15% DODGE Chance.^reset;
+=== 364 ===
+WS Pathfinder Fatigues
+=== 365 ===
+''Reconaissance is dangerous work. It's impossible to run from a youkai once they get their eyes on you. If they start a fight, then the only way it's going to end is when one of us is on the ground. Much more dangerous compared to back then when we were fighting the Lion. They also didn't have absurd abilities that's honestly just bullshit.''
+^#b4a67f;Skirmisher [HEAD]: 10% Light Weapon Proficiency.
+Amplify Mark [HEAD]: Increase the effect of Sharpshooter.
++10% DODGE Chance. | DEF: +5% SMALL-ARMS^reset;
+=== 366 ===
+WS Pathfinder Helmet
+=== 367 ===
+Trained in scouting and marking valuable positions, the West Star pathfinders serve as the main scouting unit for the Federation. Having good marksmanship as well, pathfinders can engage small youkai patrols and quickly eliminate them despite only using a lightweight weapon originally meant to be given to support line troops.
+^#b4a67f;Skirmisher [LEGS]: 10% Light Weapon Proficiency.
+Amplify Mark [LEGS]: Increase the effect of Sharpshooter.
++10% DODGE Chance. | DEF: +5% SMALL-ARMS^reset;
+=== 368 ===
+WS Pathfinder Leggings
+=== 369 ===
+Rangers are given more gear than average due to the mass weapon training program they go through. West Star Rangers are trained to use every infantry weapon the army fields.
+^#b4a67f;Cover Sprint: Gain 1 ^#C8FAFA;HIT-SHIELD^reset;.^#b4a67f; Upon breaking, gain +60% DODGE Chance that decreases by -5% every second while not running and -3% when running. | 30s Cooldown
+Ranger Assault [CHEST]: +7.5% | +15% General Weapon Proficiency and +2.5% | +5% DODGE Chance when NOT RUNNING | RUNNING.
+DEF: +15% SMALL-ARMS | +25% SLASH | +10% THRUST & BLUNT^reset;
+=== 370 ===
+WS Ranger Fatigues
+=== 371 ===
+The spade symbolizes good fortune for the Rangers in Cavalry Company. On the contrary, youkai believe that the symbol is a sign of death due the Rangers in Cavalry Company making sure nothing leaves their grasp once they are deployed into the field. 
+^#b4a67f;Heavy Weapon Expertise: Halve the Heavy Weight Weapon penalty and gain +10% Weapon Proficiency when using a Heavy Weapon.
+Ranger Assault [HEAD]: +7.5% | +15% General Weapon Proficiency and +2.5% | +5% DODGE Chance when NOT RUNNING | RUNNING.
+DEF: +10% SMALL-ARMS | +5% SLASH^reset;
+=== 372 ===
+WS Ranger Helmet
+=== 373 ===
+Rangers are trained to use a variety of firearms and heavy support weapons even if it is not standard issued. While there were plans to have the rangers also be able to use magic weapons, high command needed them at the frontline.
+^#b4a67f;Cooked Frag: Throw a grenade that detonates immediately on contact toward enemies approximately 35 blocks. | 20s Cooldown
+Ranger Assault [LEGS]: +7.5% | +15% General Weapon Proficiency and +2.5% | +5% DODGE Chance when NOT RUNNING | RUNNING.
+DEF: +10% SMALL-ARMS | +5% SLASH^reset;
+=== 374 ===
+WS Ranger Leggings
+=== 375 ===
+''While all of us hate snipers, the youkai are absolutely livid toward them. Apparently they don't like it when a human kills them without being seen. From what the villagers told us, it's because some youkai like the tengu consider it dishonorble. Apparently honor is something valued highly around here.''
+^#b4a67f;Firing Position: Upon crouching for 3s, gain +50% General Weapon Proficiency. When standing back up, gain -30% Movement Speed for 3s.
++10% General Weapon Proficiency | +15% DODGE Chance^reset;
+=== 376 ===
+RE Sniper Fatigues
+=== 377 ===
+''To hide from a wolf tengu's sight is one of the greatest feats a human sniper can perform.''
+A helmet covered in foilage along with face paint used to completely obscure a sniper's presence. Due to the near perfect senses some youkai may have, snipers had to go to great lengths to ensure their position do not get exposed.
+^#b4a67f;Camoflauged Position [HEAD]: If wearing a RE Sniper Fatigues, gain a 15% DODGE Chance when crouching for 3s.
++7.5% General Weapon Proficiency | +10% DODGE Chance^reset;
+=== 378 ===
+RE Sniper Helmet
+=== 379 ===
+Due to the weight of their weapon, Rose Snipers will only relocate when they are certain that the area is clear of enemies or that they were spotted. While their anti-tank rifles do give them a significant firepower boost that most youkai can't compete with, the vast weight of the weapon means the sniper is heavily exposed when moving.
+^#b4a67f;Camoflauged Position [LEGS]: If wearing a RE Sniper Fatigues, gain a 15% DODGE Chance when crouching for 3s.
++7.5% General Weapon Proficiency | +10% DODGE Chance^reset;
+=== 380 ===
+RE Sniper Leggings
+=== 381 ===
+
+
+^#f74dff;Arcane Blaster: Firing this weapon also fires 1-5 arcane bolts that deal 1-30 PSYCHIC damage at a random angle. ^reset;^red;CANNOT be removed.^reset;
+=== 382 ===
+Arcane Orb
+=== 383 ===
+Specialized magisight tool used to optimize magic usage and ensure not a single drop of energy isn't wasted. This is done by using special catalysts that detect sparse traces of energy and gathering it which would eventually fill the catalyst. When the catalyst becomes full, it would then be ready to be used on its own to cast spells.
+
+^#f74dff;Residue Collector: Reloading this weapon has a 10% chance to give a Spell Catalyst. ^reset;^red;CANNOT be removed.^reset;
+=== 384 ===
+Arcane Collector
+=== 385 ===
+''Height over bore? The **** is that?''
+Magisights are specialized magician tools used alongside staffs to enhance its potency. Despite what the name suggets, magisights are not the same as normal sights and cannot help in making precise shots. The name was only adopted due to the resemblence of the first magisights resembling traditional scopes.
+^#f74dff;Arcane Channeling: Gain +1%/sec Magic Proficiency up to +100%. Firing your weapon reduces Magic Proficiency bonus by 10% until it reaches to 0. ^reset;^red;CANNOT be removed.^reset;
+=== 386 ===
+Arcane Sight
+=== 387 ===
+''Wand launchers are products of the war that has recently become widespread among both the human and youkai armies. It is one of the most cheapest and easiest ways to give soldiers offensive magic capabilities without having to teach them arcane knowledge.''
+
+^orange;Uses Spell Catalysts to reload. Has only half the capacity as the wand weapon. Tap Right-Click to Fire/Reload.^reset;
+=== 388 ===
+Fire Wand Launcher
+=== 389 ===
+''We originally tried to use staffs for launchers but gave up after the eighth time they blew up. While these wand launchers aren't exactly as powerful as a stave, they still are quite effective as a backup weapon due to their large magazine size. Just don't expect them to be as powerful as proper magic weapons.''
+
+^orange;Uses Spell Catalysts to reload. Has only half the capacity as the wand weapon. Tap Right-Click to Fire/Reload.^reset;
+=== 390 ===
+Flower Wand Launcher
+=== 391 ===
+''This is technically a paper dispenser. From what I understand, the shrine maidens just shoved a bunch of pre written talismans into this thing and it somehow works like their gohei? Whatever. I'll never understand how a piece of paper with some ink on it can hurt anyone.''
+
+^orange;Uses Spell Catalysts to reload. Has only half the capacity as the wand weapon. Tap Right-Click to Fire/Reload.^reset;
+=== 392 ===
+Gohei Wand Launcher
+=== 393 ===
+''Never in my life have I seen so many colors and bright flashes appear all over the battlefield. It was like we were in a dream. That is until one of those bright colors touches you and you're now missing a arm or leg. Instead of seeing soldiers be shellshocked, now they're just too enamored by the sights.''
+
+^orange;Uses Spell Catalysts to reload. Has only half the capacity as the wand weapon. Tap Right-Click to Fire/Reload.^reset;
+=== 394 ===
+Ice Wand Launcher
+=== 395 ===
+Minature magirocket launcher fitted as a underbarrel attachment. It is designed to destroy light armor and fortified positions, but can also be used as a last resort against enemy personnel. Due to the small underbarrel base it is fired from, it is much more difficult to aim with and is very unlikely to hit targets from far range.
+
+^orange;Uses standard magirockets to reload. Much worse accuracy than the Crow Zutsu. Tap Right-Click to Fire/Reload.^reset;
+=== 396 ===
+Magirocket Launcher
+=== 397 ===
+''Now you may think having a wand launcher that slowly kills someone rather than instantly seems a bit useless on a battlfield, but you need to understand that there's only so many wands we can get our hands on and convert. At least with this, it can still kill someone outright if they're weakened enough.''
+
+^orange;Uses Spell Catalysts to reload. Has only half the capacity as the wand weapon. Tap Right-Click to Fire/Reload.^reset;
+=== 398 ===
+Venom Wand Launcher
+=== 399 ===
+''Here we have a device that shoots a very small object at extremely fast speed and now we attached to it a wand launcher that also fires objects at very fast speed. Sometimes the most simplest methods are the best ones.''
+
+^orange;Uses Spell Catalysts to reload. Has only half the capacity as the wand weapon. Tap Right-Click to Fire/Reload.^reset;
+=== 400 ===
+Rock Wand Launcher
+=== 401 ===
+Specialized repair kit used by the kappa youkai. Rather than what you'd expect in a traditional repair kit, the Kappa's version contains various spellpages and notes written by the kappa that instructs users on how to use magic to repair exotic equipment that most kits would not have normally.
+  
+^Yellow;Repairs ANY firearms by 20%. Even the most neglected and destroyed weapons can be restored thanks to the magic of the kappa.^reset;
+=== 402 ===
+Kappa Repair Kit
+=== 403 ===
+A common repair kit used to maintain various firearms primarily used by the Woodlands human armies. Due to the lack of industry on the planet, soldiers are expected to constantly be maintaining their weapons with these kits as it would be impossible to replace them otherwise. Those who fail to do so are assigned to salvaging duties at the frontlines.
+  
+^Yellow;Repairs most firearms by 30%. It cannot however repair a broken and neglected firearm. (Durability under 5%).^reset;
+=== 404 ===
+Woodlands Repair Kit
+=== 405 ===
+''Can someone tell me who the moron is that added the Human Firearm Encyclopedia 3026 Edition to this database?''
+  
+A case that holds a mini fabricator capable of producing any parts a firearm may need to be repaired. While specifically designed to fix PLASMA weaponry, the vast database inside the fabricator also includes thousands of entries regarding human weapons used throughout history for some reason.
+^Yellow;Completely repairs most firearms and PLASMA firearms by 100%.^reset;
+=== 406 ===
+Fabricator Repair Kit
+=== 407 ===
+Soldiers tasked with carrying ammo for their whole squads are referred to as 'Ammo Bearers'. They are typically deployed with weapon teams such as machine guns, but may occassionally accompany standard infantry if needed. 
+
+
+^Orange;Designates nearby [GiC] Infantry Summons and players who do not have this trinket as ammo bearers, gain 5s of [EWS] Infinite Ammo when firing your weapon near them. | 30s Cooldown^reset;
+=== 408 ===
+Ammo Packs
+=== 409 ===
+A spare arcane crystal which magicians use to fine tune their spells before launching them. Even during its dormant phase, the residue mana emitted from the crystal can help magicians improve their casting and allow them to cast spells that would normally be beyond their reach.
+
+
+^Orange;+10% Magic Proficiency. +200% Magic Proficiency on the first shot when using a magic weapon. | 10s Cooldown
+=== 410 ===
+Arcane Crystal
+=== 411 ===
+''Extra firepower is now available to all units.''
+  
+Originally a trench clearing weapon, the Typewriter is lethal enough to make even a tengu hesitate going into close quarter combat with a soldier. 
+
+^Orange;All ROSE ASSAULT INFANTRY SUMMONS are equipped S1 Typewriter submachine guns which further improves their firepower at close range and are IMMUNE to Suppression.^reset;
+=== 412 ===
+RE Assault Package
+=== 413 ===
+Early barrier amulets lacked the safeguards needed to redirect force safely. This was due to magicians trying to make their shields as big as possible which caused any hit taken by the shield to compress itself onto it and would eventually explode on the user when dissipiated. 
+
+^Orange;+400HP BUFFER. When hit, the barrier will disappear in 5s. Any additional hits taken after the first hit will deal 10 PSYCHIC damage to the user 1s AFTER the barrier has been removed. | 30s Cooldown^reset;
+=== 414 ===
+Barrier Amulet
+=== 415 ===
+''Only the desperate and foolish would be willing to bind their mortal shell to their very soul.''
+
+There are many who are unfortunate enough to be born weak or with life crippling conditions. For some, tying their soul to their own mortal shell is a price they are happy to pay if it means living a more fulfilling life.
+^Orange;+200 Ability Mana. If Ability Mana reaches 0, immediately take 50 PSYCHIC damage to self.
+=== 416 ===
+Bind Charm
+=== 417 ===
+Whether against man or youkai, lightning warfare has proven itself to be a reliable tactic to the Lion and is used extensively by their mechanized divisions. While the youkai army do have the advantage of not having any centralized command hiearchy to cut off, their conflicting and disorganized nature as a youkai makes them vulnerable to encirclement.
+^Orange;Blitz'em: +15% Light Weapon Proficiency. Gain an additional +15% Light Weapon Proficiency when running. Negates Medium Weight Weapon Penalty. -25% Heavy Weapon Proficiency.^reset;
+=== 418 ===
+Blitz Doctrine
+=== 419 ===
+Despite the disadvantages they had, the tengu fought valiantly against an unknown technologically superior enemy and managed to give enough time for the Tengu Clans to mobilize for war. Many tengu lost their lives during the early months and these blades are all that remain of their sacrifice.
+^Orange;Mark of Prey: Mark a single enemy within approximately 60 blocks. A new enemy is marked every 10s. Killing the marked enemy grants all bearers of this trinket +10% Movement Speed, +1HP/sec, and +10% General Resistance for 5s.^reset;
+=== 420 ===
+Broken Tengu Blade
+=== 421 ===
+''Rise up and fight for your freedom! Join the volunteers today!''
+A propaganda letter asking for the planet natives to join the war effort. Under limited manpower, the Lion and Federation needed to convince the native populace to fight with them as the war dragged on. Whether human or youkai, as long as they were willing to fight for the cause, they would be accepted.
+
+^Orange;+10% General Weapon Proficiency.^reset;
+^Orange;Volunteer Training: +15% Woodlands Weapon Proficiency.^reset;
+=== 422 ===
+A Call to Arms
+=== 423 ===
+The Rose Empire and its allies firmly believed that in the future, entrenched warfare would be the norm. Where soldiers would be stationed in neigh impenetrable fortifications, enduring the enemy's onslaught until having to come out of their bunkers to repel another senseless attack. They realized how wrong they were once the Lion's Battalion simply went around their fortresses.
+^Orange;Man the Guns!: +15% Medium Weapon Proficiency | +30% Heavy Weapon Proficiency^reset;
+=== 424 ===
+Castle Doctrine
+=== 425 ===
+''Early months of the war had the Crow Tengu completely pushed back by the human's armored aircrafts. As the war progressed though and the Crow Tengu realized their superior mobility and magical abilities completely outmatched them as long as they avoided their initial attack run, the humans had no chance. Nowadays, the humans would only send out their air units under the protection of their flak guns so that any Crow Tengu that tried to intercept them would get shrapnel in their wings.''
+^Orange;+30% DODGE Chance when moving.^reset;
+=== 426 ===
+Crow Feather
+=== 427 ===
+''We've been promoted! What does that mean?''
+The L44 and L42F only recently entered production and were few and far between in the hands of a soldier. Lion high command only equips their best soldiers with these limited weapons knowing that there is no chance to replace them if they are lost in action.
+^Orange;All LION BATTALION ASSAULT SUMMONS are equipped L44 assault rifles with infrared scopes or L42F automatic rifles which increases their lethality and accuracy at all ranges, wear better protection, and are IMMUNE to Suppression.^reset;
+=== 428 ===
+LB Elite Package
+=== 429 ===
+Heavily armored engineer equipped with a flamethrower allowing the soldier to burn anything in their way. Is heavily resistant against small-arms and will ^red;explode on death if they take too much damage at once^reset;. Can also serve as meatshield to block small-arms fire due to wearing heavy armor during a push.
+^yellow;Only one SUPPORT trinket can be active at a time. If multiple are being used, none of them will activate until only one is active.^reset;
+^Orange;Summons one WEST STAR FLAME ENGINEER when using a DEPLOYMENT ORDER | 60s Cooldown.^reset;
+=== 430 ===
+WS Flamethrower Package
+=== 431 ===
+''Use grenades to flush out the enemy!''
+  
+A large crate full of grenades intended to be distributed to a small squad of soldiers. Unlike most equipment, grenades are one of the few technologies able to be produced by native infastructure.
+  
+^Orange;All LION BATTALION GRENADIER and ASSAULT SUMMONS will now ocassionally throw grenades toward the enemy. These grenades deal no damage to players or summons.^reset;
+=== 432 ===
+LB Grenade Package
+=== 433 ===
+Lion Battalion infantry doctrine consists of basing most of the infantry squad's firepower around its machine guns. This is the compensate the lack of semi-automatic firearms the Lion had at the time compared to the Federation's superior battle rifles and light machine guns they produced in overwhelming numbers.
+^yellow;Only one SUPPORT trinket can be active at a time. If multiple are being used, none of them will activate until only one is active.^reset;
+^Orange;Summons one LION BATTALION MACHINE GUNNER when using a DEPLOYMENT ORDER | 60s Cooldown.^reset;
+=== 434 ===
+LB Gunner Package
+=== 435 ===
+''We now have access to superior arms and soldiers.''
+As Federation forces continue to increase their usage of semi-automatic and automatic firearms, the Lion responded with the L43 to take on its new role as a de facto mainline rifle for standard infantry.
+^Orange;All LION BATTALION GRENADIER SUMMONS are equipped L43 semi automatic rifles which drastically increases their firerate, provide higher magazine capacity, and are IMMUNE to Suppression at the cost of reduced bullet damage.^reset;
+=== 436 ===
+LB Fusilier Package
+=== 437 ===
+''The kitsune while historically mischievous, would cooperate with the humans if it means having a place in the new world where the tengu don't decide everything.''
+Originally worn by humans, Kitsune masks are now worn by kitsunes themselves and modified to protect their facial area from shrapnel. Being well versed in flame magic, Kitsune Burners often leave nothing but ashes when they are deployed.
+^Orange;Conflagration: Enemies killed within approximately 60 blocks explode into flaming bullets. (INDISCRIMINATE DAMAGE)^reset;
+=== 438 ===
+Kitsune Mask
+=== 439 ===
+Even to this day, many still debate whether luck is real or if everything is predetermined by faith. Are some destined to die on the battlefield no matter what while others live? To some, having life be a gamble will always be better than knowing every decision they make has already been set in stone.
+
+^orange;A certain staff will give you better luck with this.
+Enemies approximately 60 blocks have a 5% chance to drop a Physical Credit.^reset;
+=== 440 ===
+Lucky Rabbit Coin
+=== 441 ===
+^#3455eb;''The gun is mightier than the sword. Do not forget that.''^reset;
+
+A bullet that is said to always be loaded in the chamber of whatever gun the user is using. They say those who have the Marksman's favor will never run out of bullets no matter how many rounds they fire.
+
+^green;Infinite EWS Reload^reset;
+^red;You will live by the bullet and die by the bullet | -99% ATK multiplier.^reset;
+=== 442 ===
+Cursed Bullet
+=== 443 ===
+Not every injury can be treated at a hospital or medical tent in time. Soldiers are given basic training on first aid to treat most wounds so that they can stay alive long enough to get them to a proper doctor.
+
+
+^Orange;Designates nearby [GiC] Infantry Summons and players who do not have this trinket as medics, recover +10HP/sec for 5 seconds and cure BLEEDING upon reaching 50% HP. | 60s Cooldown^reset;
+=== 444 ===
+Medical Training Kit
+=== 445 ===
+''The mouse youkai were given praise when it became evident that their rodents can be used as spotters. Many soldiers find the idea of seeing rodents as equals insane, but they're quick to accept them when those rodents end up saving their ass.''
+The hat of a valiant mouse commander having paid the ultimate price for her service.
+^Orange;Mouse Spotters: Summons a mice every 15s when there are enemies approximately 60 blocks away. Counts as Infantry Summons for trinkets.^reset;
+=== 446 ===
+Mice Commander Hat
+=== 447 ===
+''Despite the legends telling us Onis are enemies of mankind, some onis in reality are willing to work with humans if it means they'll get to live and see the end of this war. Many of them just want to drink booze and coast through life without causing trouble. With plenty of sake available from war spoils, it wasn't difficult to convince them to join the volunteer divisions.''
+^Orange;+100 HP. -50% General Weapon Proficiency. Penalty is reduced as the player loses HP. If the player has lost 150 HP or more, the penalty is completely negated.^reset;
+=== 448 ===
+Oni Sake
+=== 449 ===
+''A potion can mean the difference between seeing the sunrise on the next day.''
+
+A potion bandolier used to carry additional potions during travel. Primarily only used by magicians that practice alchemy though has recently became more common due to a massive increase in potion usage due to the war.
+^Orange;Drinking a Potion chugs a random additional potion. 
+Potion Overload Limit +1.^reset;
+=== 450 ===
+Potion Bandolier
+=== 451 ===
+''Armory is now unlocked and ready for pickup.''
+High powered automatic rifles and belt fed machine guns are the Western specialty and are some of the best weapons used to fight the Lion. Even against youkai, they continue to show that even evil spirits are not above the West Star's superior arms.
+
+^Orange;All WEST STAR RANGER SUMMONS are equipped with S1918 automatic rifles or S1919 machine guns which increases either their firepower or suppression capabilities and are IMMUNE to Suppression.^reset;
+=== 452 ===
+WS Ranger Package
+=== 453 ===
+''What do you mean the body is gone?''
+
+To this day, nobody knows about the general's whereabout. Even the conspirators themselves who made the killing blow can only wonder what happened to the body that they left on the bridge when the deed was done.
+
+^Orange;Upon running out of Ability Mana, immediately restore all Ability Mana. | 45s Cooldown
+=== 454 ===
+Royalist Medallion
+=== 455 ===
+''The daitengu only allowed them to exist cause they didn't want to waste valuable tengus defending humans.''
+Very few humans in the land were compatible on becoming a shrine maiden. Due to how little faith there was for the gods, humans had to teach themselves how to use the power of the divine without their guidance.
+^Orange;Rudimentary Floating: +50% DMG RES when active. Upon taking damage, -50% DMG RES for 3s. Damage reduction reactivates immediately after the penalty.^reset;
+=== 456 ===
+Shrine Maiden Ribbon
+=== 457 ===
+''To the natives of this land, artillery is no different than magic.''
+A metal rod with a religious ornament attached to it. Whatever religious connotation the object once represented was now forgotten in favor of being a powerful catalyst used by a youkai to cast magic and launch flares into the sky to call in explosive barrages from friendly positions.
+^Orange;Honorable Sacrifice: +25% EXPLOSIVE RESIST. Infantry Summons drop a mortar strike on the position of their death. Strike works indoors. (INDISCRIMINATE DAMAGE)^reset;
+=== 458 ===
+Signal Rod
+=== 459 ===
+Long range Rose Sniper equipped with a R55 anti-tank rifle capable of penetrating even armored vehicles. Has a very slow firerate, but will rarely if ever miss their shot when they fire which will likely kill any standard infantry it hits. Can be used as a stopgap measure against light vehicles.
+^yellow;Only one SUPPORT trinket can be active at a time. If multiple are being used, none of them will activate until only one is active.^reset;
+^Orange;Summons one ROSE ANTI-TANK SNIPER when using a DEPLOYMENT ORDER | 60s Cooldown.^reset;
+=== 460 ===
+RE Sniper Package
+=== 461 ===
+''How else am I going to test these mushrooms?''
+Some magicians collect all sorts of herbs and mushrooms during their travel to use for various experimental potions. While most test their potions on animals before people, some prefer to use themselves as test subjects.
+^orange;Randomly gain 1 of 6 effect every 60s. 1-10% Movement Speed, 1-25% General Weapon Proficiency, 1-50% DODGE Chance, 1-100HP, 1-5HP/sec, -(1-50%) General Resistance.
+Potion Overload Limit +1.^reset;
+=== 462 ===
+Suspicious Mushrooms
+=== 463 ===
+A stack of unused talisman that was primarily used by shrine maidens. Most shrine maidens carry a few with them to ward off specific youkai when a bullet doesn't do the job.
+^Orange;Firing a Bow, Crossbow, or Muzzleloader has a 10% chance to fire a Talisman of Weaknening | 1s Cooldown
+Swinging a melee weapon has a 20% chance to fire a Talisman of Chasing | 1s Cooldown
+Firing a magic weapon has a 10% chance to fire a Talisman of Pain. | 1s Cooldown
+=== 464 ===
+Stack of Talisman
+=== 465 ===
+''Sorry. This is going to hurt like a bitch.''
+Medical equipment that is designed to provide immediate aid to wounded soldiers. Proper treatment and medical care is still required in order to fully treat the injury, but it at least ensures the soldier won't bleed out in the middle of a warzone.
+^Orange;Gain +1HP/sec. If HP falls below 75%/50%, reduce max HP to those thresholds but increase regen by an additional +2 each time. The effects reverts back to its base effect after being at full HP for 30s.^reset;
+=== 466 ===
+Triage Kit
+=== 467 ===
+''Tea? Or would you like something stronger?''
+A Empire tea maker that is found inside some of their tanks. It is rumored that even if their tank is being bombarded by Crow Tengu rocketeers, the crew will refuse to leave their wrecked tank until they grabbed the tea maker with them claiming that they would rather die than be deprived of their only source of tea.
+^Orange;Tea, Anyone?: Gain the Tanker's Tea buff. Infantry Summons also gain the Tanker's Tea buff. (Tanker's Tea - 5% Movement Speed, +25 HP, and IMMUNE to Suppression)^reset;
+=== 468 ===
+Rose Tea Maker
+=== 469 ===
+''The wolf tengu yearn for battle. Its part of their nature as a tengu and is what got a lot of them killed early in the war. It took them a few months for the wolf tengu caste to understand that their old tactics wouldn't work in a battlefield where weapons such as the machine gun exist. It's because of that prideness of theirs is why they started losing this war.''
+^red;-30% General Weapon Proficiency when above 75% HP. ^reset;
+^Orange;+20% Movement Speed, +2HP/sec, +25% DODGE Chance, +10% General Weapon Proficiency when under 50% HP.
+=== 470 ===
+Wolf Blood
+=== 471 ===
+Trinket template. Used to test effects.^reset;
+=== 472 ===
+Anomalous Radio
+=== 473 ===
+Gain 10,000 health. Used to test enemy attacks and check damage threshold. This is a testing trinket.^reset;
+=== 474 ===
+Maxes out EWS accuracy. This is a testing trinket.^reset;
+=== 475 ===
+''Grenade assault!!!''
+  
+Fragmentation grenades with a 5-second fuze. A total of five grenades are loosely tied together around a single stick. Once tossed, the string is quickly unraveled and the five grenades are launched at various angles allowing the grenades to hit a vastly larger area than what a single grenade could accomplish. Prior to this weapon, a common tactic for Lion infantry squads was to throw a grenade with each soldier at the same time.
+=== 476 ===
+L24 Frag Grenade Bundle
+=== 477 ===
+Railing
+=== 478 ===
+A mouse raider that hasn't noticed you yet.
+=== 479 ===
+Mouse Raider Reinforcements
+=== 480 ===
+Healing

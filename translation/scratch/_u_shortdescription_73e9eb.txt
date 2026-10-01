@@ -1,0 +1,242 @@
+@@@ 0
+40x46mm LV-HE
+@@@ 1
+A-Poi RX ^#8020f0;^reset;
+@@@ 2
+A-Zych RX ^#8020f0;^reset;
+@@@ 3
+AK-Alfa
+@@@ 4
+ATROS AR-M1
+@@@ 5
+ATROS SMG-M1
+@@@ 6
+Avtomat Nikonova obraztsa 94 goda
+@@@ 7
+Axe-Questions-Later
+@@@ 8
+Benelli M3
+@@@ 9
+Brick-on-a-Stick
+@@@ 10
+Browning Auto-5
+@@@ 11
+Browning Hi-Power
+@@@ 12
+Bushmaster M4A2
+@@@ 13
+CA Mk.55
+@@@ 14
+Ceter-Relocator
+@@@ 15
+Cinder
+@@@ 16
+Cogtooth-Ripper
+@@@ 17
+Colt M1911
+@@@ 18
+Colt M4
+@@@ 19
+Colt MARS
+@@@ 20
+Colt Monitor R80
+@@@ 21
+Colt SMG 633
+@@@ 22
+D5 MOD AMR
+@@@ 23
+GDI APC
+@@@ 24
+GDI MGS
+@@@ 25
+GOC NV4
+@@@ 26
+Glock 17
+@@@ 27
+Glock 18C
+@@@ 28
+Glock 19
+@@@ 29
+Horseback-Spiker
+@@@ 30
+Jake
+@@@ 31
+Kel-Tec PLR-16
+@@@ 32
+Kel-Tec PLR-16 SBR
+@@@ 33
+Kord-12.7
+@@@ 34
+M855AX 5.56x45mm EPR
+@@@ 35
+Mega-Fauna
+@@@ 36
+Mini-Compressor
+@@@ 37
+NL GS NPC
+@@@ 38
+NpcName
+@@@ 39
+OTRINCO QBU10
+@@@ 40
+OTRINCO QBZ191
+@@@ 41
+OTRINCO QBZ95
+@@@ 42
+OTRINCO QBZ97
+@@@ 43
+OTRINCO QCQ171
+@@@ 44
+OTRINCO QLB06
+@@@ 45
+OTRINCO SZ92A 
+@@@ 46
+OTRINCO Type 56 SLR
+@@@ 47
+PM md. 63
+@@@ 48
+PM md. 65
+@@@ 49
+PM md. 90
+@@@ 50
+RSO QBD191
+@@@ 51
+RSO QBD95
+@@@ 52
+RSO QCN171
+@@@ 53
+SGT PDW90
+@@@ 54
+SMLE Mk.III
+@@@ 55
+Saiga-12
+@@@ 56
+Saiga-3006
+@@@ 57
+Saiga-308
+@@@ 58
+Saiga-762
+@@@ 59
+Shinen-no-Okurite
+@@@ 60
+Stone-on-a-Stick
+@@@ 61
+Tlihui 동상
+@@@ 62
+USCMStar
+@@@ 63
+Vepr-12
+@@@ 64
+Vepr-3006
+@@@ 65
+Vepr-308
+@@@ 66
+Vepr-762
+@@@ 67
+Watatsumi-no-Taiho
+@@@ 68
+^#2080f0;C.T.^reset; Visor
+@@@ 69
+^#20f080;Elite^reset; Ceter-Helm
+@@@ 70
+^#20f080;Elite^reset; Energy Greaves
+@@@ 71
+^#20f080;Elite^reset; Generator ^#8020f0;^reset;
+@@@ 72
+^#20f080;Elite^reset; Guard Armor
+@@@ 73
+^#41453B;UNBD^reset;"아스픽"^#9BBA3D;EXP SG^reset;
+@@@ 74
+^#686F5D;UNBD^reset;"공격자"^#69729E;VNGD SP^reset;
+@@@ 75
+^#686F5D;UNBD^reset;"약탈자"^#69729E;VNGD SG^reset;
+@@@ 76
+^#686F5D;UNBD^reset;"침략자"^#69729E;VNGD SSR^reset;
+@@@ 77
+^#686F5D;UNBD^reset;"포식자"^#69729E;VNGD SAR^reset;
+@@@ 78
+^#bb00ff;Barrett M82
+@@@ 79
+^#bb00ff;Five-seveN
+@@@ 80
+^#e43774;Dimensional Storage^reset;
+@@@ 81
+^#e43774;Food Locker^reset;
+@@@ 82
+^#e43774;Gene Storage Chest^reset;
+@@@ 83
+^#f02020;EDS^reset; Armored Greaves
+@@@ 84
+^#f02020;EDS^reset; Body Armor
+@@@ 85
+^#f02020;EDS^reset; Helmet
+@@@ 86
+^#f02020;EDS^reset; Visor
+@@@ 87
+^cyan;Combustion Generator^reset;
+@@@ 88
+^cyan;Large Fusion Reactor^reset;
+@@@ 89
+^cyan;Racialiser^reset;
+@@@ 90
+^cyan;Small Fusion Reactor^reset;
+@@@ 91
+^green;Toxic^cyan;ution^reset;
+@@@ 92
+^magenta;Galactic Healing Spell^reset;
+@@@ 93
+^orange;Auracite Anvil^white;
+@@@ 94
+^orange;Auracite Forge^white;
+@@@ 95
+^orange;Auto-Assembler^reset;
+@@@ 96
+^orange;Bio-Chem Lab^reset;
+@@@ 97
+^orange;Biochemist Centrifuge^reset;
+@@@ 98
+^orange;Biochemist Table^reset;
+@@@ 99
+^orange;Botany Lab^reset;
+@@@ 100
+^orange;Chemistry Lab^reset;
+@@@ 101
+^orange;Engineering Table^reset;
+@@@ 102
+^orange;Gene Design Lab^reset;
+@@@ 103
+^orange;Hazard Research Station^white;
+@@@ 104
+^orange;Matter Assembler^reset;
+@@@ 105
+^orange;Nanofabricator^reset;
+@@@ 106
+^orange;Power Station^reset;
+@@@ 107
+^orange;Rustic Skath Forge^reset;
+@@@ 108
+^orange;Rustic Skath Workbench^reset;
+@@@ 109
+^orange;Sheila's Workshop (Silent)^white;
+@@@ 110
+^orange;Sheila's Workshop^white;
+@@@ 111
+^orange;Skath Codex Beacon^reset;
+@@@ 112
+^orange;Skath Industrial Workbench^reset;
+@@@ 113
+^orange;Skath Plasma Forge^reset;
+@@@ 114
+^orange;Snowprinter^reset;
+@@@ 115
+^orange;Wooden Tool Table^reset;
+@@@ 116
+^white;Mk14 EBR Mod 0
+@@@ 117
+^white;SG AR15
+@@@ 118
+^white;ST AR15
+@@@ 119
+^yellow;Lab Directory^reset;
+@@@ 120
+{"itemName":"syntheticmaterial","price":200,"rarity":"Uncommon","category":"craftingMaterial","inventoryIcon":"syntheticmaterial.png","description":"A square of synthetic material.","shortdescription":"Synthetic Material","itemTags":["reagent"]}

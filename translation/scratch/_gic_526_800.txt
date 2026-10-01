@@ -1,0 +1,871 @@
+=== 526 ===
+Haraldr's Rune
+=== 527 ===
+Bows were very effective missile weapons in the medieval period in the hands of trained archers. An overlooked aspect of bows is their immense training requirements, which could take a minimum of 4 years. As the draw force on the longbow was a hefty 160-180 lbs, archers in training worked their way up to the weapon. The commitment required to be an effective archer discouraged other Non-English nations from adopting the weapon.
+^orange;+20% CRIT CHANCE when using Bows or Crossbows, and when stationary.^reset;
+=== 528 ===
+Hawk Ring
+=== 529 ===
+''The law speaks too softly to be heard amidst the din of arms.''
+
+A book detailing the history of the Earth-based Roman military and government, pre and post-Republic. A strange find in this land...
+
+^orange;Throwing Weapons now count as Muzzle-Loaders, triggering their effects.^reset;
+=== 530 ===
+History of Rome
+=== 531 ===
+''They told us the same stories of banding together to fight those insane cultists at the compound. If we just submitted ourselves to their yoke, we'd be off this world in no time. I've never trusted security types, and I still wouldn't after all this time. Better to live free on the road than to die as a lap-dog to those authoritarian freaks.''
+
+^orange;Increases I-frames of the Evasive Dash ability from 0.5s to 0.7s.^reset;
+=== 532 ===
+Hollow Ring
+=== 533 ===
+''I regret, I forget, life is simple just like that.''
+
+^orange;Offsets the effects of intoxication | Each intoxication stage also grants +10% DODGE, up to a maximum of 30% at Heavy Intoxication.^reset;
+=== 534 ===
+Ibuki Gourd
+=== 535 ===
+For a long time, only youkai and humans with time and access to appropriate materials could become magicians. It wasn't uncommon for these highly-attuned sorcerers to have bloated egos who believed themselves unstoppable. The shattering of the Gensokyan Hakurei Barrier combined with a desperate need to substitute dwindling gunpowder-based ammunition led to a rapid scholarly push to teach and equip a new generation of 'infantry-mages'.
+^orange;+15% Magic Proficiency.
+=== 536 ===
+Infantry Tactics Tome
+=== 537 ===
+''Madness or willpower. Either works, thus I care not. And so I am immortal.''
+^orange;Every 10s, rolls for a value of the die. Multiplies base buff depending on the roll.^reset;
+^red;Negative multipliers debuff the bearer, but does not deal damage.^reset;
+Base: +10% Weapon Proficiency | +2HP/s Regen | +25HP
+
+1 - -2x | 2 - -1x | 3 - 1x
+4 - 2x | 5 - 3x | 6 - 4x
+=== 538 ===
+Jester's Reinforced Dice
+=== 539 ===
+''At every corner and at every road there are bandits and those unholy cultists. They seep into this world, seemingly unending. Evil cannot be stopped, only stemmed. But we will stand guard.''
+
+^orange;Offsets half of the weight penalties of medium and heavy armors during combat. Greater effect with heavier armors.^reset; i.e Heavyweight pieces will reduce movement by 20% and DODGE by 10 per slot. This will offset that penalty by adding +10% movement and 5 DODGE per slot for heavy pieces.
+=== 540 ===
+Knight's Ring
+=== 541 ===
+The Battle of Carrhae in 53 BC was a major Roman defeat of mostly Heavy Roman Infantry against thousands of Persian cavalry, mostly consisting of horse archers. Initially the Romans attempted to simply weather the arrows, but the Persians simply resupplied their horse archers mid-battle. Many Romans attempted to initiate a breakthrough, but could not keep up with the Persian cavalry who simply fled and fired at the now-exposed infantry. ^orange;Gain +10% DODGE for every 20% of SHIELD STABILITY missing, up to a 40% DODGE bonus.^reset;
+=== 542 ===
+Legionary's Ring
+=== 543 ===
+''Almighty God, protector and guide, hear our prayers and bless this ceremony with your presence as we honor Captain Luketczh of Gazri, a courageous warrior and selfless leader. His valiant actions on Gazri on the 12th of August, 2950 have rightly earned him the Medal of Valor for combat.''
+^orange;Every 7s when in combat, buffs nearby PLAYERS (+self) with a defense-buff that protects them from the next bullet hit and grants 4HP/s and 2MP/s for 7s (allies only).^reset;
+=== 544 ===
+Medal of Valor
+=== 545 ===
+A red-waxed candle that flickers softly. Occultists who wish to retain control of their powers must often meditate, for stress and emotional swings can drastically destabilize any rituals they may perform.
+
+^orange;+15% Magic Proficiency whilst under 40% OCCULT FORCE (Occultist Only).
+=== 546 ===
+Meditative Candle
+=== 547 ===
+''The Unitans advanced forward, marching towards both uncolonized worlds and rebellious star states. There was nothing their fleets could not subdue. They could not foresee that their enemy would come from within.''
+
+^orange;Standing within smoke grenades heals 4HP/s.^reset;
+=== 548 ===
+Mist Charm
+=== 549 ===
+A strange 40mm grenade cartridge decorated with gold plating and talismans.
+
+^orange;Firing an underbarrel weapon buffs self and nearby players with 10HP/s and 2MP/s for 5s.^reset;
+=== 550 ===
+Ornate 40-Mike-Mike
+=== 551 ===
+''You're not a real man until you've stood in a shield wall, because it is the most dangerous, random and horrifying combat condition known to man. All you can do is hope the bloody blades don't touch you.''
+
+^orange;+10% SHIELD DEF Effectiveness & +10 STABILITY for every 10% of HP missing (max 50%).^reset;
+=== 552 ===
+Preservation Signet
+=== 553 ===
+''The EarthGov Prospector Unit is the latest technology granted by our benefactors. Autonomous, independent, self-governing...''
+These Prospector Units skulk on their soil-examination stilts, only capable of moving thanks to their anti-gravity technology and limited stilt-propulsion. They are equal parts automated recon war machine as they are laboratory. What the ''Holbeck Beast'' was doing is unknown, however.
+^orange;Reloading grants +25% Weapon Proficiency for 4-12s | Duration dependent on weapon class.^reset;
+=== 554 ===
+Prospector Relay Device
+=== 555 ===
+''Our blades will dull, our bullets will rust, and the memory of our deeds will go forgotten. But what we have built will linger on infinitely.'' - Lament of an unknown Unitan.
+
+^orange;Bleeding enemies take +35% Small-Arms DMG.^reset;
+=== 556 ===
+Rusty Bullet Charm
+=== 557 ===
+''Haraldr in his prime never wasted a strike. If his first strike did not kill a foe, then it taught him how to.''
+
+^#C5E0E0;Soldier-Slayer: When a nearby enemy receives more than 90HP base damage (unaffected by damage weaknesses) in a single strike, the affected unit takes 100 BLEED DMG and is afflicted with 25 BLEED damage-over-time for 3 seconds. 15s cooldown per proc.^reset;
+=== 558 ===
+Soldier Slayer Loop
+=== 559 ===
+''An expedition force was sent to the nuclear wasteland that was once the vessel that crashed decades ago. None returned.''
+
+^orange;Parrying summons JAVELINS (20 BASE DMG | 1s REND-BLEED) to fall from the sky onto a nearby target closer than 40 blocks.^reset;
+=== 560 ===
+Speculatores' Gladius
+=== 561 ===
+''Volunteers who opted to venture into the wilds to take down feral youkai would be inscribed with runes that granted them the raw power necessary to survive just long enough. All they needed to do was buy time for heavy weapons teams to set up.''
+
+^#CCD8B6;Night of the Hunt: Nearby enemies afflicted with STAGGER take an additional 90HP BLEED DMG per second.^reset; Effect lingers for a short duration after STAGGER wears off.
+=== 562 ===
+Survivor's Rune
+=== 563 ===
+A talisman that seems to promise some form of divine protection against evil spirits. A talisman is any object ascribed with religious or magical powers intended to protect, heal, or harm individuals for whom they are made. Talismans often take the form of objects (eg., clothing, weaponry, or parchment) which are inscribed with magic texts.
+^orange;Gain a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 70s cooldown | Entering cooldown creates a large barrage of talismans dealing 50 x 12 PSYCHIC DMG.
+=== 564 ===
+Talisman of Divine Protection
+=== 565 ===
+''I'm not sure why I still keep this blasted thing.''
+
+^orange;Reloading a weapon restores HP dependent on the weapon class and ammo expense.^reset;
+
+^yellow;From weakest to strongest: Bows/Crossbows/Sniper Rifles/Shotguns/Lever-Actions/Revolvers/Grenade Launchers/Rocket Launchers < Muzzle-Loaders/Magic < Pistols/SMGs < Assault Rifles/Battle Rifles/Light Machineguns.
+=== 566 ===
+Veteran's Dog Tags
+=== 567 ===
+''You cannot fight a people who have spent their entire lives prepared for the armies of Hell expecting a clean victory. We played the part of Lucifer, and our men paid dearly for it.''
+
+This ring only does one thing, but with some skill it can be ruthlessly effective.
+
+^orange;+50 SHIELD STABILITY.
+=== 568 ===
+Wymond's Ring
+=== 569 ===
+''After the first invasion by the Abyss, many split off to form their own villages and the original 'Tengu Village' was lost to time. Some adopted the tradition of giving these necklaces to those who engaged with humans, to remind themselves of where they came from, and their duty.''
+
+^orange;Successful Melee Counter-Attacks or a Special Melee Attack afflicts nearby enemies with LOCKED-ON (-100% DMG RES) for 5s.^reset;
+=== 570 ===
+Birthright of the Tengu
+=== 571 ===
+''Gensokyo was home to a thousand uncounted immortals who couldn't care less about what happened to the outside world. It wasn't uncommon to see youkai or half-spirits lose their minds in the pursuit of perfection, however. Their inability to gain this perfection is what drove them mad.''
+
+^orange;Counter-Attacks restore 16% HP.^reset;
+^red;Failing a counter-attack reduces mobility by -50% for 4s.^reset;
+=== 572 ===
+Burden of the Perfectionist
+=== 573 ===
+''Some of us clung more strongly to the old world than others.''
+Nobody knows how or why millions of souls were spirited-away to Gensokyo when the time came, but it didn't matter. Feral Youkai roamed the killing fields, devouring hundreds of thousands over the years before the Hakurei and Tengu stepped in. The ash itself is slightly irradiated.
+^orange;Dodge Procs apply RAPID CORROSION to all enemies in a large radius for 10s (-30% DMG RES | 10 CORROSION DMG/s) | +5% DODGE.^reset;
+=== 574 ===
+Earthen Ash
+=== 575 ===
+''During a campaign to retake the various colonies lining the mainland, I was able to witness firsthand the Tengu's remarkable skill in subterfuge and evasion. Their ability to deftly avoid their adversaries before delivering a decisive blow was a testament to their combat expertise.''
+
+^orange;Grants Rally-Summons +25% DODGE.^reset;
+=== 576 ===
+Tengu War Band
+=== 577 ===
+''My sisters and I remained on the search for signs of life in a new world. A portal made of some sort of black rock led us here to the forests of a world familiar yet unfamiliar. After a short patrol of our surroundings we heard the screams of men crying out and carried ourselves in haste. A haste that to normal men would seem instantaneous. From there we fought against who we believed were hostile youkai, and found a sobbing, broken man. Taking him in was the least we could do.''
+^green;+25% Movement Speed.^reset;
+=== 578 ===
+White Wolf's Earring
+=== 579 ===
+''We feigned animosity towards humanity. Unworthy of our attention. Yet it was no secret that many of our own were mingling with the short-lived humans of Gensokyo. Even if our home is to be torn apart by Othniel, we will not let theirs fall.''
+A tengu's balance is impeccable, able to walk in single-toothed Geta without flaw. Striking balance, the use of these Tengu-geta affirms a strong stance, befitting of swift movement.
+^orange;Special Melee Attacks or Successful Counter-Attacks grant DMG IMMUNITY for 1.5s.^reset;
+=== 580 ===
+White Wolf's Tengu-geta
+=== 581 ===
+''It is a miracle that we allied with humanity at all. We did not believe ourselves needing any form of help, having not fought a true enemy in hundreds of year. Very few were truly prepared for a real fight, and even less willing to part with our own materials. In our complacency, we allowed Othniel's youkai army to overpower us.''
+
+^orange;Disables the weapon and armor restrictions for the YOUKAI MOUNTAIN MEMORY.^reset;
+=== 582 ===
+Memory Stabilizer [YMM]
+=== 583 ===
+Various youkai and deities fled the realms of humanity long before their industrialization. Simply forgetting their existence would kill them, and so like many other deities, they fled to a pocket realm intrinsically linked to humanity's collective spirit. In their time isolated within, some would find peace and kinship alongside human souls, contradicting their ancient animosity.
+
+^red;-100% DODGE Chance when ABOVE 80% HP.^reset;
+^green;+30% DODGE Chance when BELOW 80% HP.^reset;
+=== 584 ===
+Youkai Tearstone Earring
+=== 585 ===
+The Gulf War was an armed conflict between Iraq and a 42-country coalition led by the United States. The coalition's efforts against Iraq were carried out in two key phases: Operation Desert Shield, which marked the military buildup from August 1990 to January 1991; and Operation Desert Storm, which began with the aerial bombing campaign against Iraq. - Wikipedia
+
+^orange;[GALLIC FLORAN TRAIT: RUNNING FIRE] +30% Movement Speed when under GUNFIRE NOISE.^reset;
+=== 586 ===
+Operation Desert Shield
+=== 587 ===
+The gun built upon the changes brought about by pikes and new organizational techniques, such as the idea of massed infantry. These techniques, when combined with pikes, shifted warfare away from mounted archers with samurai to ashigaru foot soldiers in massed infantry formations. We see this change around the time of the Onin war, which saw the shift away from horse archers to massed infantry. - Eli Goldman
+^orange;[GALLIC FLORAN TRAIT: FIRE SUPERIORITY] When SUPPRESSED, gain a +25% bonus to Accuracy and Hit Chance.^reset;
+=== 588 ===
+Rise of Oda
+=== 589 ===
+The Viking Age (793-1066 AD) was the period during the Middle Ages when Norsemen known as Vikings undertook large-scale raiding, colonising, conquest, and trading throughout Europe and reached North America. It followed the Migration Period and the Germanic Iron Age. The Viking Age applies not only to their homeland of Scandinavia but also to any place significantly settled by Scandinavians during the period. - Wikipedia
+^orange;[GALLIC FLORAN TRAIT: HALLS OF VALHALLA] When Blood-Soaked, gain +1% HP/s regen and +100HP.^reset;
+=== 590 ===
+The Viking Age
+=== 591 ===
+''At the tip of the spear of any attack is the infantry. No other force can hold ground as effectively but no other arm of the land battle is so misunderstood in so many ways. For most armies, only 10-20% of soldiers are actual frontline troops.''
+
+^orange;Enemies killed within approximately 60 blocks grant +15% General Weapon Proficiency for all bearers with the doctrine equipped, for up to 15s^reset; | ^yellow;Counts as a 0-damage effect, also proccing ON-DAMAGE effects on a kill.
+=== 592 ===
+Assault Tactics Vol.1
+=== 593 ===
+''We retreated into the metro tunnels hoping to find solace in our survival. For a short while we thought we managed to escape the worst of it. Dead wrong we were, as always it seemed. Men and women were becoming... hollow. Quite literally looked like their souls were ripped from them. Constant nightmares. Visions. Insanity. Some tried to be strong, kept going back to the surface. Came back with more wounds than supplies.''
+^orange;+50% Movement Speed when out of combat. On taking damage, buff is disabled for 15s.^reset;
+=== 594 ===
+Benevolent Branch Artifact
+=== 595 ===
+''Not all spirits were malevolent. Many smiled upon us in our dreams, granting us protection from the evil forces that consumed our very essence as we slept. The price of that would be our physical blood.''
+
+^orange;When BLOOD-SOAKED, summon 2x homing SPIRIT BULLETS every 0.25s that deal 20 DMG each.^reset;
+=== 596 ===
+Blood Branch Artifact
+=== 597 ===
+''In war, the usual forms of currency become worthless as the value of goods such as tobacco and cigarettes become much higher.''
+
+^orange;Holding less than 10 of any conventional currency item (credits, coins, burans, blood diamonds) grants +10% Weapon Proficiency, +10% DODGE, +25 MAX HP, and +10% Movement Speed.
+=== 598 ===
+Bullet Lighter
+=== 599 ===
+Her mind stretches across all of reality, held together only by an enflamed desire to save humanity in any capacity she can. Granted divinity, she conscripts the damned into penal battalions to stem the tide of demons. Those who find penance are allowed to pass on to the great beyond, or they may volunteer to continue their service against the forces of evil.
+^orange;Having ^#C8FAFA;ANY HIT-SHIELD^orange; active summons souls to attack enemies^reset; | ^red;If ANY HIT-SHIELD is on cooldown, souls will attempt to attack the player instead.^reset;
+=== 600 ===
+Burden of Souls
+=== 601 ===
+''You're going to be alright! Stay with me, just stay with me! You're going home!''
+
+^orange;[GIC] Medkits no longer outright immobilize the user, instead only slowing the user down.^reset;
+=== 602 ===
+Combat Casualty Care
+=== 603 ===
+''I know there would be some that scoff at the idea of a grown man buying a doll in his twenties, but to hell with them. I loved the little thing. When the storms hit the cities, this little thing was the first thing to come with me. Later I'd thought I made a mistake... One day, the thing just starts floating off the ground. Freaked me the fuck out. But then it just sat itself back down. I risked it. I kept the little thing.''
+^orange;70 Block Range | 0.1s firerate | Base 2 Psychic DMG | 25rnd Mag | 20s reload | ^#A3C1FF;Applies FROSTBURN^orange; | Psychotic.^reset;
+=== 604 ===
+Defender Doll Artifact
+=== 605 ===
+''Two generations perished in the time it took to make Gensokyo safe for habitation after the Earth was blanketed in nuclear fire. Fortuitous, then, that their ancestors did not live long enough to see the sour fruits of their legacy.''
+
+^orange;3 seconds after getting hurt, regenerate 4% HP/s for 3s. Getting hurt during the delay will refresh its duration, preventing healing.^reset;
+=== 606 ===
+Delayed Booster
+=== 607 ===
+''The little thing turned out to be a boon. Started acting like a little person. Even did housekeeping in the little train car I called home. It's crazy to think about it even now, but I've never been happier to have someone again. Alarm wakes me up one day, and I see three of the dolls sitting on the table. They did try to get into my pants a few days later...''
+
+^orange;Supported by three sentient albeit psychotic dolls acting as fire support.^reset;
+=== 608 ===
+Doll Maker of Bucuresti
+=== 609 ===
+Anarchy would spread throughout Gensokyo once the Barrier melted under a cold war gone hot. Many great deities who lived under this barrier refused to believe that humanity had so willingly slung nuclear fire at each other.
+^#B1C3E2;Worlds Asunder: Nearby enemies are marked. When a marked enemy takes 50HP+ base damage, they receive ^#59728C;60 FROST DMG/s^#B1C3E2;, and are afflicted with a ^#8E76B0;50 SHOCK/s^#B1C3E2; for 3s^reset; | ^yellow;3s cooldown per unit.^reset;
+=== 610 ===
+Electro-Frost Earring
+=== 611 ===
+''Our nation should be throwing lead, not men, at the enemy. Our manpower is precious, but ammunition is cheap.''
+
+^orange;When in 60 blocks range and in Line-of-Sight of an enemy, nearby RALLY-SUMMONS will throw grenades after a reload | 30s cooldown per throw.^reset;
+=== 612 ===
+Fire Superiority Doctrine
+=== 613 ===
+''It's getting dark. If you get lost it's alright, for now. I hope you enjoy the shooting stars. Rest in peace.''
+
+^green;+50HP.^reset;
+^yellow;-50HP/s when ABOVE 50% HP | -50HP/s when ABOVE 75% HP.^reset;
+^orange;Gain a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 20s cooldown | Stacks with other ^#C8FAFA;HIT-SHIELDS.^reset;
+=== 614 ===
+Transcendent Frost Moon
+=== 615 ===
+''Those who think they can press their luck will soon find it running out when they need it most. In a galaxy like ours, it's better to rely on skill and preparation than chance.''
+
+^orange;+20% DODGE Chance.^reset;
+=== 616 ===
+Gambler's Dogtag
+=== 617 ===
+''The use of hand grenades along with the machinegun and mass-artillery helped radically shift infantry doctrines of the 1900s. The grenade would diverge into two main types: The stick grenade and the pineapple grenade.''
+
+^orange;Thrown M43, M26, or RGD-5 grenades have a 50% chance to refund itself.^reset;
+=== 618 ===
+Grenade Bandolier
+=== 619 ===
+''More experienced machine gun crews had a strong understanding of their weapon's 'tactical competencies' and were able to site their weapon more effectively.''
+
+^orange;When firing a Light Machinegun or Heavyweight Weapon, gain +20% Weapon Proficiency on subsequent shots but become unable to move whilst firing. Lingers for 1s after ceasing fire.^reset;
+=== 620 ===
+Heavy Weapons Doctrine
+=== 621 ===
+The highest military award of the Republic. Given to those that embody the warrior culture of their Earthern ancestors. the most common recipient are those of the Trench-Knights, a nigh-suicidal force of heavy infantry. Only the most selfless and brave can pave the way for the future.
+
+^orange;Attacking with a melee weapon grants +50% DMG RES for 1.5s | Effect can only occur every 3s.^reset;
+=== 622 ===
+Knight's Star
+=== 623 ===
+The People's Party were the first to step upon the blasted hellscape of their own nation. In their eyes, they were mere moments from their communist society they worked so hard to establish. Starting anew, the surviving officers forged on with new determination.
+^orange;Infantry killed within 80 blocks of the bearer have a 33% chance to summon allied soldier-skeletons | Each skeleton lasts up to 30s with 300HP | Can be buffed by Rally-Summon Effects.^reset;
+=== 624 ===
+Konpaku Artifact
+=== 625 ===
+''They stormed her court, believing her in allegiance with humanity. Without trial, they strung her to the cross and nailed her arms and legs, placing her upon a hellfire that scorched her body under the crime of collusion. Her closest friend would eventually find her, but Eiki would be tormented by this act forever, scarring even her projections across the worlds under her jurisdiction.''
+^orange;+33% Bleed RES | +5% General Weapon Proficiency.
+=== 626 ===
+Nails of Eiki
+=== 627 ===
+A blue ring of unknown material composition.
+
+^orange;Can be worn as a trinket.^reset;
+=== 628 ===
+Projection-14
+=== 629 ===
+Barbed wire is a type of fencing wire with sharp barbed edges along its strand. As a security measure common in trench warfare, barbed wire is not intended to kill enemy soldiers but instead be an inexpensive way to discourage soldiers via injury.
+
+^orange;Bleeding enemies take an additional +30 DMG/s.^reset;
+=== 630 ===
+Razorwire Band
+=== 631 ===
+''Sacred, the hill of graves. Angel, a despairing face. Heartless, the evil eyes. Present, the sacrifice.''
+For a generation, Gensokyan scholars debated furiously on the origins of the Abyss and if it represented anything. What they found was nothing but a void of malice and nonexistence. This drove those last few survivors to only fight harder, to make each shot matter. For every shot that hit was another day they lived.
+^orange;+5% Weapon Proficiency for every 10% of HP missing (max 50% HP loss, up to a +25% bonus).^reset;
+=== 632 ===
+Ring of the Damned
+=== 633 ===
+Ring found on the body of an unknown soldier left out on No Man's Land.
+
+^orange;+50 Max HP | +50 Ability Mana and Increased Regen Rate | +25% DODGE | +25% Weapon Proficiency.
+=== 634 ===
+Unfathomably Precious Ring
+=== 635 ===
+The cleansed ring of a violent wraith that haunted those who he believed had wronged him in life, or desecrated him in death. Only dull silver is left behind of this once-precious jewel.
+
+^orange;+15 Max HP | +5 Ability Mana and Increased Regen Rate | +5% DODGE | +5% Weapon Proficiency | Cleanses the curse.
+=== 636 ===
+Ring of the Storm Wraith
+=== 637 ===
+A charm that appears to shiver ever-so-slightly, flickering in and out of existence. The Trench-Knights are a terrifying elite corps of the already-feared Raider units, for they are willing to dive into enemy lines with Greatsword and Lewis Gun.
+
+^orange;Enemy infantry have a 50% chance on a reload to drop a live grenade.^reset;
+=== 638 ===
+Shivering Charm
+=== 639 ===
+''One will find that the sins of the father and mother are never washed away.''
+
+^orange;When HP drops below 50%, enter PENITENCE: Boosts PHYSICAL (MELEE/BALLISTIC), BLEED, and PSYCHIC DMG RES based on current Mana (1MP = 1%) | -15MP/s and regen disabled when PENITENCE is active, expiring when Mana is consumed or after 30s | 20s cooldown when PENITENCE expires.^reset;
+=== 640 ===
+Sigil of the Sinner
+=== 641 ===
+For all of Her Holiness' power, she was still only merely a now-mortal woman, still tormented by the traitorous youkai who attempted to crucify her. She intervenes where demons have entrenched themselves, and sends in all manner of conscripted and volunteer penitent forces to do the necessary grunt-work. ^orange;+50 Max Mana | When Sigil of the Sinner's PENITENCE expires, enter ABSOLUTION: Deal large AoE 200 PSYCHIC DMG and 3s DIVINATION (-25% DMG RES) times every 20% of HP missing (ex. 30% HP = 800 DMG, 12s DIVINATION).^reset;
+=== 642 ===
+Sigil of the Yamaxanadu
+=== 643 ===
+''The city centers were crowded with refugees from other colonies and the outlying farmlands, but the truth was that we weren't going to surive another week. Food was the least of our concerns. Ghosts. Spirits. Demons. They were the threat. From everywhere they came, and hollowed us out one-by-one, eating our dreams in our sleep.''
+^orange;Bullet impacts against enemies deals 30 PSYCHIC DMG | 1s cooldown.^reset;
+=== 644 ===
+Silver Bullet Earring
+=== 645 ===
+''Things got real bad out on the farmlands. Different things happened out here compared to the city. Things felt like they were... merging? Things that shouldn't have been. One day I just see these frozen eyeballs just flying around as if they were normal insects. No wings or nothin', just frozen eyeballs.''
+
+^orange;Bullet impacts against enemies deals 30 FROST DMG | 1s cooldown.^reset;
+=== 646 ===
+Sky-Eye Artifact
+=== 647 ===
+''Perhaps the red string of fate I reached out will get tangled up someday.
+So I'll sever my hidden feelings with the sword of fate.
+Honestly, I wished for it.
+My feelings will never reach you.
+The cherry tree will not bloom.
+Ah... winter ends.''
+^#96CBE7;Samurai Ghost Girl: Summons a temporary SAMURAI GHOST GIRL follower | 60s Cooldown.^reset;
+=== 648 ===
+Spirit of the Ghostly Swordswoman
+=== 649 ===
+''Scavengers, Trespassers, Adventurers, Loners, Killers, Explorers and Robbers.''
+
+You kill the enemy, or the enemy kills you. The longer either of you are in the fight, the worse the chances are for the both of you.
+
+^orange;+30% Weapon Proficiency when at full health.^reset;
+=== 650 ===
+S.T.A.L.K.E.R Amulet
+=== 651 ===
+''But the truth is, what I see reflected is only a bitter lie
+Having a pulsing heart is not beautiful.''
+
+A floating Third Eye without a host. Attach to oneself to peer into the minds of others, weakening their will by reminding them of their deepest traumatic memories.
+
+^#96CBE7;Trauma Factor: Nearby infantry become hesitant, reducing their effective firerate by 0.5s | Also afflicts -20% ATK.^reset;
+=== 652 ===
+Vengeful Third Eye
+=== 653 ===
+The vast majority of the Europan populace pre-Cataclysm were refugees fleeing from the Drone Crisis emanating from former Earth sectors, begrudgingly allowed to settle under the People's Army.
+^orange;Parrying or Bullet Impacts activate STEADFAST, increasing DODGE by +30% for up to 10s | Next DODGE Proc while in STEADFAST activates VALOR for 3s which grants DMG IMMUNITY and increases speed by +30% | 5s cooldown after VALOR expires | -100% DODGE while VALOR or COOLDOWN is active.^reset;
+=== 654 ===
+White Cross of the Republic
+=== 655 ===
+''Sister, are you here? Listen to me, sister. There is still a chance. There is something here. We can still find eachother.''
+
+^orange;Koishi will appear near enemies when in 80 blocks range and in line of sight of an enemy | 30s cooldown.
+=== 656 ===
+Koishi's Hotline
+=== 657 ===
+True magic is a rare sight on the battlefield, and was only practiced an a systematic level within Gensokyo. Post-3000s, any aspiring magician would first need to become aware that magic now existed, and find ways to actually harness it. Those with the discipline could find magic complementing their existing loadouts.
+
+^orange;Increases OCCULT FORCE expunge rate by +1% | 6s after ceasing magic weapon usage, expunge all OCCULT FORCE (Occultist Only).
+=== 658 ===
+Battle Wizard Tome
+=== 659 ===
+''What good are tanks if they can't even survive for a day on the front? If they even make it to the front. Good engineers and other specialists are what make armies move. Ten-thousand conscripts will win the tactical war. Ten-thousand specialists will win the strategic war.''
+^orange;Passively auto-repairs nearby VEHICLES and TURRETS every 7.5s.
+=== 660 ===
+Infantry Repair Package
+=== 661 ===
+''The Nue's trident was destroyed in a duel against a particularly stubborn infantryman. His balls were subsequently destroyed.''
+
+^#C5E0E0;Unknown to Me!: Nearby enemies are marked. When a marked enemy receives more than 50HP base damage (unaffected by damage weaknesses) in a single strike, the affected unit is ^green;STUNNED^#C5E0E0; for 3s^reset; | ^yellow;40s cooldown per unit.^reset;
+=== 662 ===
+Nue's Trident Horn
+=== 663 ===
+''I'm finding it hard to believe that we'd need these things. I mean, seriously? Drones? It's lazy, and they're not even that good. What good does this have in a modern world like ours?''
+
+^orange;Constantly fires very weak homing missiles at long ranges | Base 10 Small-Arms DMG per missile | 2s reload.
+=== 664 ===
+Smart Missile Mk.1
+=== 665 ===
+Amanojaku are normally incredibly contrarian to the point of outright hostility against those it would consider a potential master. This type, whilst not nearly as violent, still seems to hold its own motives against its bearers.
+^Orange;Long-Range | Homing | 0.5s firerate | Base 60 Small-Arms DMG | 10rnd Mag | 3s reload.^reset;
+^red;Double-Dealing: 10% chance per shot to double and become indiscriminate, firing backwards before returning forward. Rebellious shots are delayed, do not track, and are marked in red.^reset;
+=== 666 ===
+Patron: Amanojaku
+=== 667 ===
+Fairies are immortal in the sense that they are incarnations of nature. Though they can develop personality, it will be one defined by its respective experiences. A fairy too disconnected from humanity may only end up harming humans through apathy or ignorance.
+
+^yellow;Eccentric Employ: Every 30 seconds within 100 units of a visible enemy, grants an Area-of-Effect Healing Flask zone.^reset;
+^green;Significantly increases HP restored by Healing Flasks.^reset;
+=== 668 ===
+Patron: Healing Fairy
+=== 669 ===
+''When the Abyss attacked our homelands we were thrown into chaos and disorder. Too many refused to swallow their pride, and so for the crime of the elite we found ourselves without allies. By the time we sought out help from the humans, against the Lunarians' wishes, it was too late.''
+
+^orange;Can fire at extremely long ranges | 1.5s firerate | Base 80 Small-Arms DMG | 16rnd Mag | 3s reload.
+=== 670 ===
+Patron: Moon Rabbit
+=== 671 ===
+''Hold your own, and I'll hold mine!''
+A reconstructed B.I.R.B (the name isn't lost on anyone) complete with proper-colored synthetic skin and sapient AI. Sapient enough anyways. She provides just enough support to assist you with some ailments. You aren't weak, right?
+
+^green;Immune to enemy stun attacks, flashbangs, and all types of bleeding when ABOVE 50% HP.^reset;
+^red;Effects disabled when below 50% HP.^reset;
+=== 672 ===
+Patron: Okuu
+=== 673 ===
+''Am I strong enough? Do I need more power?
+Should I kneel and pray for the day where I can face them all?
+Should I give it up? Should I run and cower?
+Or should I go on anyway and hope that I don't fall?''
+
+^green;Active Protection: 200HP over 3s health regeneration when receiving 75 or more damage^reset; | ^red;-50% ATK power and -50% EWS stats when under the fairy's healing.^reset;
+=== 674 ===
+Patron: Triage Fairy
+=== 675 ===
+''A lone survivor braved the harsh tundra for seven days, determined to find food or die trying. When a blood-hungry youkai towered over him, he looked up and declared: ''You will be my prey tonight.''
+
+^yellow;DEATHWISH:^reset; Healing Flasks will now also ^red;drain 1000HP over 30 seconds.^reset; During this life-drain, the user's ^yellow;ATK power^reset; is increased by ^green;100%,^reset; their ^yellow;damage resistance^reset; increases by ^green;+15%,^reset; and ^yellow;EWS accuracy and hit chance^reset; by ^green;+60%^reset;
+=== 676 ===
+Patron: Undying Skull
+=== 677 ===
+The ghostly apparition of a domesticated canine of a Terran breed. Dogs have symbolically been part of mankind's history since their first interactions with hunter-scavenger tribes. Above all else, dogs are symbols of love and faithfulness.
+
+^green;To The End: Regenerate health when hit by a stun heavy attack from a boss or special enemy | Shorter stuns heal faster | Includes blocked, countered, and parried attacks.^reset;
+=== 678 ===
+Patron: Very Good Boy
+=== 679 ===
+''Synths and Androids are effectively mobile weapons platforms in the form of a humanoid, so both their armament and equipment are vital for maintaining combat effectiveness. Most humans are content with the simpler-minded Combat and Industrial Androids which are simpler to produce and maintain.''
+
+^orange;+4HP/s when running.
+=== 680 ===
+Assault Supercharger
+=== 681 ===
+''It is a commonly-held belief that the scientific community are those operating on pure logic, denouncing religion and superstition entirely. However, a belief on the supernatural does not inherently discredit the material. Would one faithful to God not be noble in comprehending His works? God gave us intellect and the senses. He did not intend for us to forego their use.''
+^orange;Enemies within 60 blocks and within a SMOKE GRENADE CLOUD are ^#7DA1C4;OVERCHARGED (-50% ATK, Proficiency | 40 SHOCK DMG/s)^reset; | ^#D85D5D;Also deals 20 BLEED DMG/s to enemies in the cloud and lingers for 5s when out of it.^reset;
+=== 682 ===
+Celestial Lightning Rod
+=== 683 ===
+''The number one killer on the ancient battlefield? Field Artillery. Guns - generally based on size - would be allocated and commanded at the regiment, battalion, division, corp, or even army level. The goal of the field artillery was to deliver large volumes of lethal fire against the enemy, of which a spotter could increase their effectiveness through accurate fire.''
+^orange;Grants Rally-Summons the ability to independently call-in Mortar Strikes within 60 blocks.^reset;
+=== 684 ===
+Commander's Insignia
+=== 685 ===
+''The body is a cocktail of drugs, chemicals, and electrical signals generated and managed by an internal processor. There is no reason, therefore, that we could not add to the cocktail. The same internal processor is still making decisions, but now consciously and with more resources to draw from.''
+
+^orange;Gain +10% Proficiency, +1HP/s, 10 MAX MP per ^#C8FAFA;ACTIVE HIT-SHIELD^reset; | ^orange;Stacks to a 5x bonus.^reset;
+=== 686 ===
+Core Booster
+=== 687 ===
+''Crisis creates life and reveals our true nature. Humanity and Youkai clashed in countless conflicts before Gensokyo was first conceived. Indeed, the youkai were nearly annihilated several times until Gensokyo's creation, which allowed the humans to revere their science as we worshipped our Gods. We did not survive because of wisdom; we acquired wisdom because we survived.''
+^orange;When HP is below 40%, charge a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 3.5s cooldown.^reset;
+=== 688 ===
+Crisis Ring
+=== 689 ===
+''Although there is often an emphasis placed on a government's alleged value of all life, the truth is that most humans distrust created life in any form. I wish I could say their distrust had been misplaced, but the truth is far more simple.''
+
+^orange;+4HP/s when stationary.
+=== 690 ===
+Defense Hyperconductor
+=== 691 ===
+''We convinced ourselves that we could automate the human body instead of the machine-men and other machines. We told ourselves that this was in pursuit of human medical advancements. What if an injured man could walk himself back to a field hospital? Even to an outsider one could find the foolishness in our hubris.''
+
+^orange;Gain +20 MAX HP and +2 HP/S for every ^#C8FAFA;TRINKET HIT-SHIELD ON COOLDOWN^reset; | ^yellow;Unaffected by ARMOR HIT-SHIELDS.^reset;
+=== 692 ===
+Equilibrium Engine
+=== 693 ===
+''Humanity has created a surprising number of inventions that spurred violence. They assured us it was necessary, and in truth, once in our long history, it actually proved to be so. Was it enough to justify the millions dead for the sake of peace? They spent a great deal of effort assuring us it was.''
+
+^orange;Gain a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 35s cooldown | Stacks with other ^#C8FAFA;HIT-SHIELDS.^reset;
+=== 694 ===
+Hardlight Micro-Generator
+=== 695 ===
+''We must improve the human condition if we are to return to the peak of our civilization hundreds of years ago. We need learn to hit harder, to think harder, to have the foresight to continue as a species through physical action. We must sustain ourselves beyond our meager lifespans, no matter the cost, fallible as we are now.''
+
+^orange;When above 75% HP, increase SHIELD STABILITY by +40.
+=== 696 ===
+Kinetic Exchanger
+=== 697 ===
+''The subject of life is not a trifling matter. Maku has only been active for a few weeks now, but she needs more time to develop the neural networks within her core. Maybe someone will be curious to know if I believe if the Maku unit has a soul. My answer is no, she does not. But I will pray for her, I will be her soul.''
+
+^orange;Having any ^#C8FAFA;HIT-SHIELD^orange; on cooldown begins charging ^#C8FAFA;2x additional HIT-SHIELD^orange; layers, each with a 15s cooldown^reset; | ^yellow;The additional ^#C8FAFA;Maku HIT-SHIELDs^yellow; do not trigger other trinkets.^reset;
+=== 698 ===
+Maku's Heart
+=== 699 ===
+''They prided themselves on their capacity to create machines that far surpassed that of mankind. The governments abandoned their old in favor of artificial intelligence within an imitation of flesh. There was no use for such crude war machines, or mere organic peasants.''
+
+^orange;Infantry killed within 80 blocks of the bearer have a 50% chance to create a Sentry Skimmer | Skimmers last for 30s.^reset;
+=== 700 ===
+Mk.1 Drone Constructor
+=== 701 ===
+''There's always a healthy balance with everything. You can't save everyone, but it doesn't mean you just leave everyone to die.''
+
+^green;Regain HP when shot by lethal bullets. Effect functions even when blocking or parrying.^reset;
+=== 702 ===
+Peacemaker's Ring
+=== 703 ===
+''The youkai think themselves supreme to the humans. But freedom and suppression comprise yet another cycle in both this realm, and ours. Should the humans prevail, they will not offer mercy to their oppressors. And the cycle will begin again, unending.''
+
+^orange;+15% Weapon Proficiency and DODGE. On taking 10 or more damage, buff is disabled for 7s.^reset;
+=== 704 ===
+Ring of Supremacy
+=== 705 ===
+''I'd always prefered the analogue approach. Never did trust those fancy drones to do the shooting for me. Though, now? Times have changed. I'm the only one left, and everyone's out to get me. They will not have me. So bring it on.''
+
+^orange;Constantly fires very weak homing missiles at long ranges | 0.25s firerate | Base 10 Small-Arms DMG | 20rnd Mag | 2s reload.
+=== 706 ===
+Smart Missile Mk.2
+=== 707 ===
+''I was once a great youkai within the borders of Gensokyo. I had little to do with the more flamboyantly-dressed individuals, but I helped the impoverished and the weak where none would care for them, left alone and bloodied by the few ferals who sought to continue the everlasting cycle of human sacrifice.''
+
+^#D85D5D;The Ring Stained Red with Blood: Nearby enemies take +100% BLEED DMG.^reset;
+=== 708 ===
+Blood-Stained Ring
+=== 709 ===
+''The collapse of the Gensokyan Barrier brought upon the Abyss, but it also brought about the syncreticism of Man and Youkai. Many Youkai became mortal and truly human, but many humans themselves sought the path of cheap power and turned themselves into the feral youkai that plague the wastes of Gensokyo.''
+
+^orange;Thermal Shock: Nearby enemies in close-range take +20% THERMAL damage.^reset;
+=== 710 ===
+Charcoal Charm
+=== 711 ===
+''The Queen of the Swamp, a respectable youkai of the Magic Forest. I remember when she was only regarded as a lowly and simple 'bug youkai'. I was there. She was there to witness the forthcoming of the Great Abyss that consumed the frontier wastes. She was there to defend the last remnants of those who heeded her warning. I wish I died there with her.''
+^#6FB55F;Corrosive Aura: Nearby enemies are afflicted with RAPID CORROSION (-30% DMG RES | 10 CORROSION DMG/s).^reset;
+=== 712 ===
+Rusted Amulet
+=== 713 ===
+''Red are the waters that fall on the Dying Desert. Red is the soil steeped in a millenia of human conflict and rage.''
+
+^orange;Bloodlust: Nearby enemies afflicted with STAGGER take an additional 50HP BLEED DMG per second.^reset; Effect lingers for a short duration after STAGGER wears off.
+=== 714 ===
+Basha's Bloodied Batten
+=== 715 ===
+''You don't have to train that martial arts nonsense to kill a guy.''
+The Brotherhood are a gang that have completely cornered the weapons market in the Subterranean colony, holding a near-total monopoly on the underground market in both price and trust. They sell to anyone that isn't their rival, on-world or off-world, no questions asked.
+^orange;Protects against the next bullet-strike and heals bleeding on impact | On bullet impact, automatically trigger any effects that would require parrying | 15s cooldown.^reset;
+=== 716 ===
+Brotherhood Serpent Charm
+=== 717 ===
+''The Grand Hakutaku tried to instill in us a sense of responsibility for our fellow people, saying it was the burden of those who ruled to care for those they ruled over. There exists one of whom she tried to instill these lessons harsher than others, but those most disciplined so often turn rebellious.''
+^orange;Enemies killed within approximately 60 blocks restore 8% HP/s for 3s for all bearers with the ring worn.^reset;
+^yellow;Counts as a 0-damage effect, also proccing ON-DAMAGE effects on a kill.^reset;
+=== 718 ===
+Burden of the Divine
+=== 719 ===
+''The type of guns seen being carried by people can tell a lot about the state this whole place is in. You see shiny new guns and it means everything's business as usual, they have the time and money for it. Battered, broken, or just outright cobbled-together just means everything's already gone down to hell.''
+
+^orange;Clearing jams restores 75HP | Increases Jam Chance by 2x.^reset;
+=== 720 ===
+Chaos Magazine
+=== 721 ===
+Life on a settlement or colony away from the comforts of an Earth-like world is tough, with many falling back on the old Gods or God for warmth in a dark age. This ring might mean nothing to most but to the chosen few a mere trinket can mean the very difference between the will to carry on, or succumbing to fate.
+
+^green;+20HP^reset;
+=== 722 ===
+Colonist's Life Ring
+=== 723 ===
+''The Dyna Repeater Unit is like a little friend in your pocket. Linked to your firearm of choice, the repeater unit will fire around you as you shoot, leaving you free from criminals and other hazardous individuals who would put a dent in your skull (and your wallet) by invading your personal space.''
+
+^orange;Using a weapon shoots out lasers at a fixed angle around the user | Fires at a fixed 600RPM with each laser dealing 10 THERMAL DMG.^reset;
+=== 724 ===
+Dyna Repeater Unit
+=== 725 ===
+The Mole Clan genuinely believe themselves to be descendants of the mythical King Arthur, adopting a skewed and highly romanticized code of chivalry despite their criminal activities, mass drug trade, and willingness to kill anyone who even slightly refuses their demands. Regardless, this insane self-belief has given them an advantage over their criminal rivals.
+
+^orange;Parrying bullets sends it back towards the nearest enemy | Can only occur once every 2s.^reset;
+=== 726 ===
+Mole Clan Signet
+=== 727 ===
+The Nue are a form of shapeshifting youkai, though often depicted in traditional art as a chimera of sorts. Nue in the modern space age have been seldom identified given their natural ability to shapeshift. Many gifted fighters claim that they were mentored by these ''Nue'', with some going so far as to claim that they derive their magic from them entirely.
+
+^orange;+30% DODGE Chance. Lose this bonus for 5s on taking more than 25 damage.^reset;
+=== 728 ===
+Nue's Blessing
+=== 729 ===
+''I cannot reside here any longer. I will do what few youkai have done before. I will pray. I will pray for salvation. I will pray for redemption.''
+
+^orange;Hostile rodents will no longer bite you (but will still chase after you).^reset;
+
+^yellow;It may have some other purpose...^reset;
+=== 730 ===
+Ring of the Rodent
+=== 731 ===
+A pouch of special powders for shinobi wishing to survive in a contemporary environment where guns dominate the battlefield, with good reason. Parrying bullets is a hard feat, but these powders should make it easier.
+
+^orange;Swinging a melee weapon grants +85% Ballistic DMG RES for 0.4s | Reflex-deflected attacks triggers parry procs.^reset;
+=== 732 ===
+Shinobi Reflex Powders
+=== 733 ===
+^#D84758;''They.
+Will.
+Pay.''^reset;
+
+^orange;High-Value Target: Nearby enemies take +25 BLEED DMG/s per second while bleeding.^reset; Effect lingers for a short duration even after bleeding ends.
+=== 734 ===
+Sicario's Kill-List
+=== 735 ===
+''Humanity surrounds themselves with creations that toe that fine-line between the preservation of life, and one's untimely demise. Many learn to adapt to this state, and those that do not find themselves meeting their fate much earlier.''
+
+^orange;Using a weapon shoots out flames around the user | Each flame projectile deals 20 THERMAL DMG.^reset;
+=== 736 ===
+Thermal Exhaust Valve
+=== 737 ===
+When humanity ventured outwards onto The Golden Trail, a grand majority of the human scientific community were sent into an existential frenzy at the discovery of the Drufloran humanoids. Samples taken from post-war Drufloran volunteers revealed similar DNA structuring to that of humans, though the notion that the Druflorans are a distant cousin of the human race has been rejected if only to quell existential dread.
+^orange;Proccing a DODGE summons an UNIDENTIFIED FANTASTIC OBJECT!!! | 1s cooldown.^reset;
+=== 738 ===
+UFO Earring
+=== 739 ===
+''Mankind are a volatile species. They live mere fractions of our lives and yet they have the energy that the youkai envy, for they know that this very essence powers them. They can only pray that this lethal energy isn't directed towards them.''
+
+^orange;Every 20s, the coil turns on for 5s. When turned on, the coil violently and rapidly sends out bolts in random directions. Each bolt deals 300 PSYCHIC DMG.^reset;
+=== 740 ===
+Unstable Coil
+=== 741 ===
+''There are stories of human hybrids living amongst the disillusioned humans as friend, foe, and family. An immortal who seeks to live amongst the mortal will die as a mortal.''
+
+A talisman depicting a woman with fox ears.
+
+^orange;Nearby enemies within 20 blocks take 1.25x SLASH DMG.
+=== 742 ===
+Blade Talisman
+=== 743 ===
+''The mace. Originally a weapon of war, and later a symbol of power and authority. Make sure you know how to exercise both.''
+
+A talisman depicting a knight of unknown origins.
+
+^orange;Nearby enemies within 20 blocks take 1.25x BLUNT DMG.
+=== 744 ===
+Hammer Talisman
+=== 745 ===
+''Submit yourselves therefore to God. Resist the devil, and he will flee from you.'' - James 4:7
+
+A talisman depicting a simple bare cross.
+
+^green;+1HP/s and 2 Ability Mana/s regen.
+=== 746 ===
+Recovery Talisman
+=== 747 ===
+''Shields can be made into all kinds of sizes, and all those kinds of sizes can save your life.''
+
+A talisman depicting an Imperial Roman soldier with a large scutum.
+
+^orange;+30 SHIELD STABILITY.
+=== 748 ===
+Shield Talisman
+=== 749 ===
+''Throughout all of human history, humanity has done its best to kill each other without actually getting up close and personal.''
+
+A talisman depicting an Imperial Roman soldier readying a throwing spear.
+
+^orange;+20% CRIT CHANCE when using Throwing Weapons, and when running.
+=== 750 ===
+Skirmisher Talisman
+=== 751 ===
+''Spears are the standard infantry weapons for ancient soldiers. Keep their weapon out of range, and yours in range.''
+
+A talisman depicting a Roman Hastati wielding a short spear.
+
+^orange;Nearby enemies within 20 blocks take 1.5x THRUST DMG.
+=== 752 ===
+Spear Talisman
+=== 753 ===
+''Submit yourselves therefore to God. Resist the devil, and he will flee from you.'' - James 4:7
+
+A talisman depicting a bare cross with a circlet.
+
+^green;+20 MAX HP.
+=== 754 ===
+Vitality Talisman
+=== 755 ===
+''The well-rounded warrior knows his fields.''
+
+A talisman depicting a kite shield.
+
+^orange;+25% SLASH/THRUST DMG | +15% BLUNT DMG | +15 MAX HP | +15 SHIELD STABILITY | +1HP/s REGEN.^reset;
+=== 756 ===
+Warrior's Talisman
+=== 757 ===
++1000HP. Used for admin testing.
+=== 758 ===
+Admin Sun
+=== 759 ===
+An advanced ballistic visor with an embedded high-tech micro-computer. Sight is fed through a specialised camera which protects against flashbangs. Equipped with an advanced ballistics system that tracks and predicts incoming fire, effectively removing suppression. Users are warned that being able to track a bullet does not grant you superhuman reflexes unless you are already a cyborg.
+^green;+5% THERMAL Resistance.
+^green;Immunity to Suppression and Flashbangs.^reset;
+=== 760 ===
+Ballistic Computer Visor
+=== 761 ===
+Basic headgear attuned to psionic frequencies. Allows for anomalous reloads at the cost of damage. The user can block some ballistic forces with their psionic powers as well.
+
+^green;+40% Damage Resistance to Small Arms
++40% Damage Resistance to Heavy Arms
++40% Damage Resistance to Melee^reset;
+=== 762 ===
+Psionic Headset
+=== 763 ===
+An advanced ballistic visor with an embedded high-tech micro-computer. Sight is fed through a specialized camera which protects against flashbangs. Equipped with advanced computer imagery that assists with the aiming of firearms, allowing one to better track hostile targets. Users are warned that this does not auto-aim the gun for them, and that they must still actually move the gun and fire it.
+^green;+15% [EWS] Hit Chance.^reset;
+^green;Immunity to Flashbangs.^reset;
+=== 764 ===
+A cold engraved ring that radiates a slight warmth, if only for a moment. Its previous owner, a False Protector, had no soul within him. Immortal, yes, but devoid of anything that could mark a man as truly human.
+
+^green;+90% DMG Resistance when using a medkit, and for a short duration after.^reset;
+=== 765 ===
+Ashen Ring
+=== 766 ===
+''A balancing of the anomalous forces at play have yielded a low-yield but safe trinket for use. While I can't guarantee its usefulness, I'm sure it might mean something for Generalist Builds.''
+
+^green;+10% PSYCHIC and BLEED Resistance.^reset;
+=== 767 ===
+Balanced Branch Artifact
+=== 768 ===
+''That ain't army! Look at the rusted faces on the planes!
+
+Tsukumogami! Get to the docks, move!'' - Battle of Harbor Gate
+
+^green;+200HP recovered from Healing Flasks.^reset;
+
+^yellow;Stacks with Healing Flask Ring.^reset;
+=== 769 ===
+Black Cat Charm
+=== 770 ===
+Man's propensity for violence is not easily forgotten, and people know the risks involved by now. An old mantra remains true, even in wartime: ''No pain, no gain.''
+
+^#FF6060;Blood Seeker - +25% Movement Speed and Suppression Immunity when Blood-Soaked | 5s duration linger | Most organic soldiers will bleed a little. Elites will explode with more blood.
+=== 771 ===
+Bloodseeker's Earring
+=== 772 ===
+''Anything bigger than a rifle's gonna kill ya anyways, so why bother?''
+
+An earring depicting a blood vial. Truly mortal men are unable to survive a direct hit from heavy-caliber weaponry, and have little chance in attempting to resist even a single bullet from one.
+
+^green;+50% BLEED resistance.^reset;
+^red;-50% HEAVY-ARMS resistance^reset;
+=== 773 ===
+Blood Vessel Earring
+=== 774 ===
+''Legend tells of a sniper so consumed by perfection that anything less was considered a complete failure.''
+
+The boots of a sniper so obsessed with accuracy that he would stake everything on stillness for the perfect shot. He died, never satisfied.
+
+^green;+40% [EWS] Hit Chance and Accuracy Multiplier.^reset;
+^red;-50% HP.^reset;
+=== 775 ===
+Boots of Perfection
+=== 776 ===
+A ring that once belonged to the Burnt Yamaxanadu Queen, who tore her ''flawed human eyes'' from herself in the blind pursuit of ''impartial'' justice.
+
+^red;Doubles damage received by its wearer.^reset;
+
+A useless ring befitting of no finger. Best left unknown, or at least well hidden. Can be stacked multiple times.
+=== 777 ===
+Calamity Ring
+=== 778 ===
+''Who the hell names an Emperor after a pair of shoes!?''
+
+Caligae (Latin; singular caliga) are heavy-soled hobnailed military sandal-boots that were worn as standard issue by Roman legionary foot-soldiers and auxiliaries, including cavalry.
+
+^green;+50HP and +100% KNOCKBACK Resistance when using a ^#EFE1B6;Formation Weapon.^reset;
+=== 779 ===
+Caligae
+=== 780 ===
+''Valiant soldiers, descendants of those who never know defeat, make your way to the Holy Sepulchre and tear the Holy Land from the grasp of this abominable nation.''
+Some sort of trinket in the shape of an anatomically-incorrect heart. Bearing it near the heart seems to instill an unrivalled sense of confidence in its wearer. Must be installed onto a Vest Rig.
+^green;+200HP.^reset;
+^red;-35% general movement speed.^reset;
+=== 781 ===
+Champion's Iron Heart
+=== 782 ===
+''Some folks thrive on danger. Don't live long. But damn they're fun to watch.''
+
+^yellow;Affects EWS/GIC weapons only | Some weapons are unaffected.^reset;
+
+^green;Reloading does not consume ammunition with EWS/GiC Weapons when ^red;BELOW 20% HP.^reset;
+=== 783 ===
+Daredevil's Amulet
+=== 784 ===
+''Although not everyone can become a Great Sage or deity, there were many that created their own tiny-capsule worlds, with nothing in them except for space that wasn't there before.''
+
+^orange;Enemies killed near the player drop an AMMO BOX which grants INFINITE AMMO for 10s | AMMO BOXES are vulnerable to destruction by enemies.^reset;
+=== 785 ===
+Deep Reserve Ring
+=== 786 ===
+A picture of a loved one, once held by a deserter. Every individual has their own reasons for abandoning their ''comrades'', and one shouldn't be too quick to assume cowardice. Not everyone wishes to be a hero, or an expendable asset.
+
+^green;+5% HIT CHANCE.^reset;
+=== 787 ===
+Deserter's Loved One
+=== 788 ===
+''What? You think strapping two of these fucking orbs to yourself is gonna help? Come on really- Oh, it's actually working. Wow, huh.''
+
+^green;+400 HP^reset; | ^red;-20% speed^reset; | ^red;-100% Jump Height^reset; | ^red;x20 fall damage.^reset;
+^red;-100% resistance to most forms of damage for 30s after drinking a healing flask.^reset;
+
+^yellow;Can stack with the standard Red Sun.^reset;
+=== 789 ===
+Dual Red Suns
+=== 790 ===
+''I'm not saying the Erchius are trustworthy, but it might be our only key to fighting back against them.''
+
+^green;Nearby enemies within 20 blocks take 1.25x SMALL-ARMS DAMAGE.
+=== 791 ===
+Erchius Clutch Ring
+=== 792 ===
+''There are many Third Eyes of varying kinds out in the wastes, waiting for a host...''
+
+An eye that stares blankly ahead, revealing nothing of itself.
+
+^#EFE1B6;Nearby enemies take +50% PSYCHIC DMG.^reset;
+=== 793 ===
+This visor has been affixed with Sky-Eyes by the power of duct tape. When worn under a helmet, it imparts a sense of viscocity in your blood, assisting in clotting wounds.
+
+^green;+15% BLEED Resistance.^reset;
+=== 794 ===
+Eyes of the Wise
+=== 795 ===
+Getting certified to operate a forklift will likely solve all of life's problems and help attain profound enlightenment.
+
+^green;+99999999999999999 Energy, Health, Hunger Capacity, Damage, and Defense.^reset;
+=== 796 ===
+Forklift License
+=== 797 ===
+A solid gold watch with a 32 jewel Quantech self-winding movement and time-dilation tracker for maximum precision in the void. Famously manufactured by gnomes in a sterile environment, though accusations of unsafe work conditions or even slave labor abound. Not that anyone's done anything about it.
+=== 798 ===
+Gnomega Starmaster
+=== 799 ===
+''Our life is our attention, and what or whom we spend that attention on, it is the small moments we share. Not the death of uncaring stars.''
+
+These rings are encrusted with a sort of soft crystal material, with no signs of detorioration of the ring underneath, as if the coating itself keeps the ring pristine despite its outwardly unkept appearance.
+^green;+200HP recovered from Healing Flasks.^reset;
+=== 800 ===
+Healing Flask Ring

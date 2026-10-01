@@ -1,0 +1,9 @@
+/items/armors/alta/clothing/researcher_coat/ct_alta_researcher_coat.chest.patch
+[[{"op": "test", "path": "/presets/eds/shortdescription", "value": "^#f02020;EDS^reset; Researcher Coat"}, {"op": "replace", "path": "/presets/eds/shortdescription", "value": "^#f02020;EDS^reset; 연구원 코트"}], [{"op": "test", "path": "/presets/eds/description", "value": "An official EDS researcher's coat. Practical and well thought-out."}, {"op": "replace", "path": "/presets/eds/description", "value": "공식 EDS 연구원 코트. 실용적이고 잘 짜여 있다."}]]
+
+/items/generic/food/other/WIP/ct_ion_cake_slice.consumable.patch
+[[{"op": "test", "path": "/variants/0/description", "value": "Nia alta cuisine. This well-made ion caked is beyond all praises! Surely it deserves the Al'deron's commander name next to it."}, {"op": "replace", "path": "/variants/0/description", "value": "니아 알타 요리. 이 정성 들인 이온 케이크는 어떤 칭찬에도 뒤지지 않는다! 알데론 사령관의 이름을 곁들일 자격이 분명하다."}], [{"op": "test", "path": "/variants/0/shortdescription", "value": "Mira's Love ^#8020f0;^reset;"}, {"op": "replace", "path": "/variants/0/shortdescription", "value": "미라의 사랑 ^#8020f0;^reset;"}]]
+
+/items/throwables/ct_thermomix_nade.thrownitem.patch
+[[{"op": "test", "path": "/presets/koywa/shortdescription", "value": "Thermofrag Nade"}, {"op": "replace", "path": "/presets/koywa/shortdescription", "value": "테르모프래그 수류탄"}], [{"op": "test", "path": "/presets/koywa/description", "value": "A highly combustable substance made from modified ^#b0e0fc;thermomix^reset; nades. Sometimes used by riverside scouts."}, {"op": "replace", "path": "/presets/koywa/description", "value": "개조된 ^#b0e0fc;테르모믹스^reset; 수류탄으로 만든 고인화성 물질. 강변 정찰병들이 가끔 쓴다."}]]
+

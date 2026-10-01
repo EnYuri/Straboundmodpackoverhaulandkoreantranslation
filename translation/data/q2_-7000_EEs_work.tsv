@@ -1,0 +1,11 @@
+asset	field	en	ko	src
+/interface/ees/confirmation/bigconfirmation.config	title	Confirmation		
+/interface/ees/confirmation/bigconfirmation.config	caption	Cancel	취소	reuse
+/items/EES/currency/EES_farmemc.currency	description	^orange;Energy Matter Currency^white; obtained studying crops.		
+/items/EES/currency/EES_farmemc.currency	shortdescription	Farm EMC		
+/items/EES/currency/EES_huntemc.currency	description	^orange;Energy Matter Currency^white; obtained studying monster drops.		
+/items/EES/currency/EES_huntemc.currency	shortdescription	Hunt EMC		
+/items/EES/currency/EES_mineemc.currency	description	^orange;Energy Matter Currency^white; obtained studying ores.		
+/items/EES/currency/EES_mineemc.currency	shortdescription	Mine EMC		
+/items/EES/currency/EES_universalemc.currency	description	^orange;Energy Matter Currency^white; obtained burning things in the alchemical fire.		
+/items/EES/currency/EES_universalemc.currency	shortdescription	Universal EMC		

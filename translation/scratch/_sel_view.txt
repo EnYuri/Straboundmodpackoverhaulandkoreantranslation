@@ -1,0 +1,1386 @@
+### '묵언' @ /codex/documents/scienceoutpost_kevin.codex.patch /contentPages/47
+  EN: Feb 21 - Kevin kept persistently saying that 'the bird is the word' today. This made the meeting of the engineering staff awkward, seeing as he just burst in. And Axiena, the fuel-expert of us, who is an Avian was there. Now, being a 'bird' wouldn't be so bad to ignore kevin's 'quirks' but she's also a mute. Being reminded that she couldn't 'be the word' at all (having no vocal capability since birth) was rather rude. Preparing a cake congratulating her on her muteness was worse.
+  KO: 2월 21일 - 케빈이 오늘 계속 '새가 곧 말씀이셔'라고 되뇌었다. 그가 불쑥 들이닥친 탓에 기술진 회의가 어색해졌다. 우리 중 연료 전문가인 악시에나는 아비안인데 그 자리에 있었다. '새'라는 존재라면 케빈의 '특이함'쯤 무시할 만했을 텐데, 그녀는 묵언이다. (태어날 때부터 발성 능력이 없어) 그녀가 전혀 '말'이 될 수 없다는 걸 상기시킨 건 꽤 무례했다. 그녀의 묵언을 축하하는 케이크를 준비한 건 더 최악이었다.
+
+### '유적 생물량' @ /codex/ffs1_lastbossclue.codex.patch /contentPages/2
+  EN: Breadnut's sabotage failed.
+I have been deliberately exposed to parasites.
+They said they're genetically engineered from Ruin biomass.
+  KO: 브레드넛의 방해공작은 실패했다.
+나는 고의로 기생충에 노출당했다.
+그들 말로는 유적 생물량에서 유전공학적으로 만들어낸 것이라고 했다.
+
+### '삼안경서' @ /codex/documents/ffguide6.codex.patch /contentPages/0
+  EN: Use the Enhanced Codex Viewer to read this. Access it in your Tricorder.
+  KO: 이거 읽기 강화 코덱스 뷰어 사용. 삼안경서 접근.
+
+### '삼안경서' @ /codex/documents/ffguidepower.codex.patch /contentPages/0
+  EN: Use the Enhanced Codex Viewer to read this. Access it in your Tricorder.
+  KO: 이거 읽기 강화 코덱스 뷰어 사용. 삼안경서 접근.
+
+### '표면을 자처' @ /codex/apex/pf_apexrebel1.codex.patch /contentPages/3
+  EN: ^yellow;REBEL CELL #100: The Phantom Hand^white;
+Leadership: Lana Blake
+Status: ^red;[ACTIVE]^white;
+Description: A very large rebel group that seems to take the mantle of the Ministry of Defense, our old rival. They have organized really well compared to most. It also appears that they have extensive knowledge on warfare, always hiding their movements and striking in large coordinated attacks. Their tactics mirror our strike squads, we have it as a possibility that one of our own has defected.
+  KO: ^yellow;반군 세포 #100: 유령의 손^white;
+지도자: 라나 블레이크
+상태: ^red;[활동 중]^white;
+설명: 우리의 옛 라이벌인 국방부의 표면을 자처하는 것으로 보이는 매우 큰 반군 조직. 대부분에 비해 정말 잘 조직되어 있다. 또한 전쟁에 대한 광범위한 지식을 가진 것으로 보이며, 항상 움직임을 숨기고 대규모 조직적 공격을 가한다. 그들의 전술은 우리 강습대와 비슷해, 우리 측 누군가가 망명했을 가능성이 있다고 보고 있다.
+
+### '벌목' @ /codex/alta/ct_alta_farming.codex.patch /contentPages/1
+  EN: The dendrarium is meant for all things flora:
+
+- Farming, or working with crops, like tilling and watering them;
+- Lumbering, or cutting down bigger plants;
+- Mawing, or cutting down smaller plants;
+- Fertilizing, or adding healthy vitamins for plants;
+- Potting, or planting miniature plants, like flowers, into portable containers;
+- Boosting, or genetically or chemically modifying plants for new and better results;
+- Replanting, or extracting healthy seeds, tubers and sprouts from fruits;
+- Eco-engineering, or designing suitable eco pods.
+  KO: 덴드라리움은 모든 식물을 위한 곳이다:
+
+- 농사, 즉 작물을 경작하거나 땅을 갈고 물을 주는 일;
+- 벌목, 즉 더 큰 식물을 베는 일;
+- 예초, 즉 더 작은 식물을 베는 일;
+- 비료 주기, 즉 식물에 건강한 영양분을 더하는 일;
+- 화분 심기, 즉 꽃 같은 작은 식물을 휴대용 용기에 심는 일;
+- 강화, 즉 더 새롭고 나은 결과를 위해 식물을 유전적 또는 화학적으로 변형하는 일;
+- 다시 심기, 즉 과일에서 건강한 씨앗, 덩이줄기, 싹을 추출하는 일;
+- 생태 공학, 즉 알맞은 생태 포드를 설계하는 일.
+
+### '벌목' @ /codex/alta/ct_logs_eds_reload.codex.patch /description
+  EN: Some sort of unknown logging cache.
+  KO: 정체불명의 벌목 저장소 같은 것.
+
+### '벌목' @ /items/active/weapons/chakram/sawchakram.activeitem.patch /description
+  EN: 
+  KO: 비밀 벌목단이 가장 좋아하는 무기입니다.
+
+### '벌목' @ /npcs/unsorted-anid/humanlumberjack.npctype.patch /scriptConfig/merchant/paneLayoutOverride/windowtitle/title
+  EN: 
+  KO: 벌목꾼
+
+### '가오리' @ /codex/alta/ct_love.codex.patch /contentPages/1
+  EN: Surprised to the core, she could not help but take a look.
+
+Having flown closer to the ray, she began asking him - who is he? Where is he from? Why isn't he flying anywhere?
+
+But the ray did not seem to notice her. Or he simply wasn't paying attention. Or maybe he deliberately ignored her altogether?
+  KO: 속속들이 놀란 그녀는, 결국 살펴보지 않을 수 없었다.
+
+가오리에게 더 가까이 날아간 그녀는 그에게 묻기 시작했다 - 당신은 누구인가요? 어디서 왔나요? 왜 아무 데도 날아가지 않나요?
+
+하지만 가오리는 그녀를 알아차리지 못하는 것 같았다. 아니면 그저 신경 쓰지 않는 것이었을지도. 혹은 어쩌면 일부러 그녀를 완전히 무시한 것이었을지도?
+
+### '가오리' @ /codex/alta/ct_love.codex.patch /contentPages/3
+  EN: But the ray itself was not like everyone else, unlike ordinary rays. He came from very, very distant lands, and had never seen such a beautiful and interesting star, and therefore simply did not know how to react.
+
+You can't just go and... talk to her! What if she doesn't understand? Or even worse - what if she won't like the ray?
+  KO: 하지만 이 가오리 자신은 다른 이들과 달랐다, 평범한 가오리들과는 달리. 그는 아주, 아주 먼 땅에서 왔고, 이렇게 아름답고 흥미로운 별을 본 적이 없었기에, 어떻게 반응해야 할지 그저 알 수 없었다.
+
+그냥 가서... 그녀에게 말을 걸 순 없잖아! 만약 그녀가 이해하지 못하면 어쩌지? 아니면 더 최악으로 - 그녀가 그 가오리를 마음에 안 들어 하면 어쩌지?
+
+### '통합 우주' @ /codex/human/pf_humanmilitary1.codex.patch /contentPages/0
+  EN: The Unified Space Corporate Military (USCM) is a human paramilitary group who's origins call back all the way to human antiquity. Back before we became a space faring civilization, we were a species heavily embroiled in conflict. 
+
+Large militaries were commonplace back in those times, which the USCM grants its orgins as remnants of the largest military force in the world.
+  KO: 통합 우주 기업 군대(USCM)는 그 기원이 인류의 태고까지 거슬러 올라가는 인간 준군사 집단이다. 우리가 우주 항행 문명이 되기 전, 우리는 갈등에 깊이 얽혀 있던 종이었다. 
+
+당시에는 대규모 군대가 흔했으며, USCM은 세계 최대 군사력의 잔재로서 그 기원을 이어받고 있다.
+
+### '유니버설 스페이스' @ /codex/LEGACY/Global_Earth_News/gic_gen_1/gic_gen_1.codex.patch /contentPages/2
+  EN: 
+  KO: 레테이아 확고히 자리잡다
+
+유니버설 스페이스와 유나이탄 시스템 간의 최근 합의로 인해 레테이아가 보호령 영토 내에 평화 유지 요새를 건설할 수 있게 되었습니다. 그랜드 수호자 타이푸신브는 국가와 기업 간의 새로 형성된 동맹에 대해 우호적인 태도를 표명했습니다.
+
+### '유니버설 스페이스' @ /codex/LEGACY/gic_turretsweaponscatalogue/gic_turretsweaponscatalogue.codex.patch /contentPages/0
+  EN: 
+  KO: 유니버설 스페이스의 연례 에디션에 오신 것을 환영합니다. 최고의 조종사들이 선정한 최고의 민간 포탑 무기입니다! 유나이탄 시스템의 주요 무기 제조업체로서, 우리는 2차 수정헌법의 권리를 행사하며, 해적과 산적이 번성하는 우주에서 생존해야 하는 민간인에게 그 권리를 전파할 것입니다. 이 무기들은 나타날 수 있는 모든 위협으로부터 당신을 보호할 것을 보장합니다!
+
+### '유니버설 스페이스' @ /codex/human/broadcast.codex.patch /contentPages/0
+  EN: ^red;//URGENT^white;
+
+Effective immediately, the Universal Space Corporate Military has been disbanded
+
+All property is to be abandoned and/or liquidated, all contracts have been terminated.
+
+This is our final directive.
+
+May the force and influence of Humanity continue to expand.
+
+
+  KO: ^red;//긴급^white;
+
+즉시 발효함, 유니버설 스페이스 코퍼레이트 밀리터리는 해산됐다
+
+모든 자산은 폐기 및/또는 청산되어야 하며, 모든 계약은 종료됐다.
+
+이것이 우리의 최종 지령이다.
+
+인류의 힘과 영향력이 계속 확장되기를.
+
+### '유니버설 스페이스' @ /npcs/modcontributors/armok_starforge.npctype.patch /scriptConfig/dialog/converse/default/default/17
+  EN: Creighton was part of the Universal Space Corporate Military once, I wonder what he makes of the rumors regarding USCM remnants...
+  KO: 크레이튼은 한때 유니버설 스페이스 코퍼레이트 밀리터리 소속이었어, USCM 잔당에 대한 소문을 그가 어떻게 생각할지 궁금하네...
+
+### '티우니' @ /codex/lustling/lustlingadd.codex.patch /contentPages/0
+  EN: This is an Lathasian archived advertisement before Bill-C48i was passed: 
+
+We see Tiuny in business attire, at a desk with books and other legal looking things. Behind her is a sign proclaming Tiuny Associates.
+  KO: 이것은 빌-C48i가 통과되기 전의 라타시아 보관 광고다: 
+
+우리는 책과 법률 문서 같은 것들이 놓인 책상에 앉은 정장 차림의 티우니를 본다. 그녀 뒤에는 티우니 어소시에이츠를 선전하는 간판이 있다.
+
+### '티우니' @ /codex/lustling/lustlingadd.codex.patch /contentPages/1
+  EN: Hello, and welcome to Tiuny Associates, where la-voe can turn to for justice. Have you been harassed at work? Do you feel like voe look at you like an object? Do voe undress you with their eyes? Do they walk up to you cop a feel (feel your tits).  Do you do twice the work of voe, but get half the pay and recognition?
+  KO: 안녕하세요, 그리고 티우니 어소시에이츠에 오신 것을 환영합니다. 여러분(voe)이 정의를 구할 수 있는 곳입니다. 직장에서 괴롭힘을 당하신 적 있나요? 그들(voe)이 당신을 물건처럼 바라보는 것 같나요? 그들이 눈으로 당신의 옷을 벗기나요? 다가와서 당신을 더듬나요(가슴을 만지나요)? 그들(voe)의 두 배 일을 하면서도 급여와 인정은 절반밖에 못 받나요?
+
+### '티우니' @ /codex/lustling/lustlingadd.codex.patch /contentPages/2
+  EN: Well, Tiuny Associates is here for you. We specialize in litigation against voe and male owned businesses that treat la-voe like animals. Do you realize that there is proposed legislation in the Lathasian council right now that threatens to take away our very status as a living thing? Can you imagine being bought and sold like mindless animals? I certainly cant.
+  KO: 글쎄, 티우니 어소시에이츠가 여러분 곁에 있습니다. 우리는 보와 수컷 소유 사업체가 라-보를 동물처럼 대하는 것에 대한 소송을 전문으로 합니다. 지금 라타시아 의회에 우리의 생명체 지위 자체를 박탈하려 위협하는 입법안이 제안 되어 있다는 걸 아십니까? 마음 없는 동물처럼 사고팔리는 걸 상상할 수 있습니까? 저는 상상도 못 하겠습니다.
+
+### '티우니' @ /codex/lustling/lustlingadd.codex.patch /contentPages/3
+  EN: Tiuny Associates is working with other Avaist groups to stop these voe from turning us all into mindless slaves. And it starts with standing up to voe and saying no to casual groping. Remember, holocall 8654 and say no to voe!!
+  KO: 티우니 어소시에이츠는 다른 아바이스트 단체들과 협력해 이 보에들이 우리를 전부 정신 잃은 노예로 만드는 걸 막으려 한다. 그 시작은 보에들에게 맞서며 가벼운 성희롱에 아니라고 하는 것. 기억해, 홀로콜 8654에 전화하고 보에에게 거절해!!
+
+### '티우니' @ /codex/lustling/lustlingadd.codex.patch /contentPages/7
+  EN: That asshole Kal keeps telling me that Ill make a great cunt, but I am not going to be anybodys cunt. I am stronger than those voe. I am not going to be like those other la-voe. I am going to resist. I want them wipe my mind out...I.I wont let them wipe my mind out. As long as I can remember who I am, Ill have chance to beat them. I am Tiuny..I am Tiuny.. Shit, that bastard Kal is coming again. I have to be strong, I had rights, I am a Lathasian, I am Tiuny! I am not going to be a worthless slave!
+  KO: 그 개자식 칼은 내가 훌륭한 창녀가 될 거라고 계속 말해, 근데 난 누구의 창녀도 되지 않을 거야. 난 저 보에들보다 강해. 다른 라보에들처럼 되지 않을 거야. 저항할 거야. 걔네는 내 정신을 지워버리고 싶어해...나, 난 걔네가 내 정신을 지우게 내버려두지 않을 거야. 내가 누군지 기억하는 한, 걔네를 이길 기회가 있어. 나는 티우니야..나는 티우니야.. 젠장, 그 개자식 칼이 또 오고 있어. 강해져야 해, 난 권리가 있었어, 난 라타시안이야, 난 티우니야! 난 쓸모없는 노예가 되지 않을 거야!
+
+### '티우니' @ /codex/lustling/lustlingadd.codex.patch /contentPages/8
+  EN: We see a nude Tiuny, with a collar and a tag tied to one of her tits with her number, (65487.) Her disposition is very cheery
+  KO: 우리는 알몸의 티우니를 본다. 목줄을 차고 가슴 한쪽에 번호(65487.)가 적힌 꼬리표가 매달려 있다. 그녀의 태도는 매우 쾌활하다.
+
+### '티우니' @ /codex/lustling/lustlingadd.codex.patch /contentPages/19
+  EN: So please make Kal happy and buy a slave today.we all know how worthless we are, but we do make great pets and are very easy to care for. See u soon, Now, I have to do my daily lesson (Tiuny starts sucking on a dildo)
+  KO: 그러니 칼을 기쁘게 해주기 위해 오늘 노예를 하나 사주세요. 우리가 얼마나 하찮은지는 다들 알지만, 훌륭한 반려동물이 되고 돌보기도 아주 쉽답니다. 곧 또 봐요, 이제 일일 수업을 해야 해서 (티우니가 딜도를 빨기 시작한다)
+
+### '스페이스드리프터' @ /codex/alta/ct_alta_date.codex.patch /contentPages/4
+  EN: We talked about our dreams... She wants to become a ^#60c0fc;spacedrifter^reset; one day. I told her I'd wait for her, no matter how long...
+
+And then... she gave me a kiss. My heart is still racing! «««
+  KO: 우리는 우리의 꿈 얘기를 나눴어... 그녀는 언젠가 ^#60c0fc;스페이스드리프터^reset;가 되고 싶다고 했어. 난 아무리 오래 걸려도 기다리겠다고 했지...
+
+그리고... 그녀가 내게 키스를 줬어. 아직도 심장이 뛰어! «««
+
+### '스페이스드리프터' @ /codex/alta/ct_evarus.codex.patch /contentPages/2
+  EN: After all, somewhere up there, in the distance, brave heavenly guardians fly behind the clouds and protect sisters in trouble!
+
+And even further, on asteroids, great alta scientists are developing advanced technologies and moving forward the progress of the entire civilization!
+
+And behind the asteroids, even further, fearless and free ^#b0e0fc;spacedrifters^reset; plow through space itself!
+  KO: 어쨌든, 저 멀리 어딘가에서는 용감한 천상의 수호자들이 구름 뒤를 날며 곤경에 처한 자매들을 보호하고 있지!
+
+그보다 더 멀리, 소행성 위에서는 위대한 알타 과학자들이 첨단 기술을 개발하며 문명 전체의 진보를 이끌고 있지!
+
+그리고 소행성 너머, 더욱 더 멀리, 두려움 없고 자유로운 ^#b0e0fc;스페이스드리프터^reset;들이 우주 그 자체를 헤쳐 나가고 있지!
+
+### '스페이스드리프터' @ /codex/alta/ct_spacedrifter.codex.patch /description
+  EN: An alta storybook about a ^#b0e0fc;spacedrifter^reset; who went on a space adventure.
+  KO: 우주 모험을 떠난 ^#b0e0fc;스페이스드리프터^reset;에 관한 알타 동화책입니다.
+
+### '스페이스드리프터' @ /codex/alta/ct_spacedrifter.codex.patch /contentPages/3
+  EN: "Go forth, little hero", it whispered, "the stars await you!"
+
+"Is th-this what it's like to be a spacedrifter?" - silly alta wondered in awe.
+
+There was nothing holding her back. The vasts of cosmos were lying under her feet like a magical, infinite stardust carpet.
+  KO: "나아가거라, 작은 영웅아." 목소리가 속삭였다. "별들이 널 기다리고 있단다!"
+
+"이-이게 스페이스드리프터가 된 기분인가?" 어리숙한 알타는 경외심에 차서 생각했다.
+
+이제 그녀를 붙잡는 것은 아무것도 없었다. 광활한 우주는 마법처럼 끝없이 펼쳐진 스타더스트 융단이 되어 그녀의 발밑에 놓여 있었다.
+
+### '스페이스드리프터' @ /codex/alta/ct_spacedrifter.codex.patch /contentPages/5
+  EN: She said goodbye to all of her new friends, and layed on small pile of moondust in the middle of a pretty garden.
+
+Then she closed her eyes...
+
+And woke up in her bed, with her plushie still in her hands. Excited for the brand new day, she got up, still thinking of what it's like to be a spacedrifter...
+  KO: 그녀는 새로 사귄 모든 친구들에게 작별 인사를 하고, 예쁜 정원 한가운데 작은 달먼지 더미 위에 누웠다.
+
+그리고 눈을 감았다...
+
+그리고 자신의 침대에서 깨어났다, 봉제인형을 여전히 손에 꼭 쥔 채. 새로운 하루를 기대하며, 그녀는 일어났다, 여전히 스페이스드리프터가 된다는 게 어떤 느낌일지 생각하면서...
+
+### '스페이스드리프터' @ /dialog/alta.config.patch /converse/alta/generic/6
+  EN: You're a traveler, right? Have you ever met a real spacedrifter?! I wonder if I get to one day as well...
+  KO: 여행자지? 진짜 스페이스드리프터를 만난 적 있어?! 나도 언젠가 될 수 있을까...
+
+### '스페이스드리프터' @ /dialog/alta.config.patch /converse/alta/generic/7
+  EN: Have been thinking a lot about space recently, wondering what it's like to be a spacedrifter...
+  KO: 요즘 우주에 대해 많이 생각하고 있어, 스페이스드리프터가 되는 건 어떤 기분일지 궁금해서...
+
+### '스페이스드리프터' @ /dialog/alta.config.patch /converse/alta/generic/12
+  EN: As a big spacedrifter fan, I really wish I could one day join them and show my worth...
+  KO: 스페이스드리프터의 열렬한 팬으로서, 언젠가 꼭 그들에게 합류해 내 가치를 증명하고 싶어...
+
+### '스페이스드리프터' @ /dialog/alta.config.patch /offer/alta/default/1
+  EN: Many altas dream of becoming a spacedrifter one day. This is my chance!
+  KO: 많은 알타들이 언젠가 스페이스드리프터가 되는 꿈을 꿔. 지금이 내 기회야!
+
+### '스페이스드리프터' @ /dialog/alta.config.patch /wiki/alta/alta/10
+  EN: Sometimes I dream about becoming a spacedrifter, sis. Exploring unknown worlds, discovering new things...
+  KO: 가끔 스페이스드리프터가 되는 꿈을 꿔, 언니. 미지의 세계를 탐험하고, 새로운 걸 발견하고...
+
+### '스페이스드리프터' @ /items/active/alta/loot/biome/ct_astera_loot.activeitem.patch /longdescription
+  EN: Blessed by the stars and tears of astera, this pad is packed with astera alta devices and rarely ^#6f6c66;spacedrifter^reset; equipment.
+  KO: 별과 아스테라의 눈물로 축복받은 이 패드는, 아스테라 알타 장치와 드물게는 ^#6f6c66;스페이스드리프터^reset; 장비로 가득하다.
+
+### '스페이스드리프터' @ /items/active/alta/loot/tier4.activeitem.patch /altaDescription
+  EN: Ooh! I wonder if there's anything from ^#6f6c66;spacedrifters^reset; in there! I love spacedrifters! Maybe a souvenir or something? Please?
+  KO: 오! 저 안에 ^#6f6c66;스페이스드리프터^reset;들 물건이 있을지도 몰라! 나 스페이스드리프터 진짜 좋아하는데! 혹시 기념품 같은 거? 제발?
+
+### '스페이스드리프터' @ /items/active/shields/ct_spacedrifter_shield.activeitem.patch /shortdescription
+  EN: Spacedrifter Shield
+  KO: 스페이스드리프터 방패
+
+### '스페이스드리프터' @ /items/active/shields/ct_spacedrifter_shield.activeitem.patch /description
+  EN: A shield worn by spacedrifters that explore space in search of adventures, eager to protect what's sacred.
+  KO: 신성한 것을 지키고자 하는 열망으로 모험을 찾아 우주를 탐사하는 스페이스드리프터들이 착용하는 방패.
+
+### '스페이스드리프터' @ /items/active/shields/ct_spacedrifter_shield.activeitem.patch /altaDescription
+  EN: A very-very-very heavy evia-tier tech shield worn by spacedrifters. I think the either use exoskeletons, or attach these to their mechs.
+  KO: 스페이스드리프터들이 착용하는 아주아주아주 무거운 에비아급 기술 방패네. 외골격을 쓰거나 이걸 자기네 메카에 부착하는 것 같아.
+
+### '스페이스드리프터' @ /items/active/weapons/ranged/alta/blaster/ct_plasmora.activeitem.patch /longdescription
+  EN: Popular among spacedrifters, travelers and some mercs, this combat tool provides significant power output while being relatively small.
+  KO: 스페이스드리프터, 여행자, 일부 용병들 사이에서 인기가 많은 이 전투 도구는 비교적 작은 크기에도 상당한 출력을 제공한다.
+
+### '스페이스드리프터' @ /items/buildscripts/ct_mimics/tool.activeitem.patch /presets/mirazh/description
+  EN: An energy sword wrapped in sturdy heat-reducing astera materials. A favorite of any spacedrifter.
+  KO: 견고한 내열 아스테라 소재로 감싼 에너지 검이다. 모든 스페이스드리프터가 즐겨 쓰는 무기다.
+
+### '스페이스드리프터' @ /items/buildscripts/ct_texts.config.patch /lore/factions/spacedrifter
+  EN: Spacedrifter technology is often modular and adaptable, allowing for a wide range of applications in various environments.
+  KO: 스페이스드리프터 기술은 흔히 모듈식이고 적응력이 뛰어나, 다양한 환경에서 폭넓게 활용할 수 있다.
+
+### '스페이스드리프터' @ /objects/alta/special/terraformers/biome/alterash/astera/ct_moonrock_space_islands.object.patch /altaDescription
+  EN: The borderland of cosmos... I wish I can become a spacedrifter one day and reach even further beyond!
+  KO: 우주의 경계 지역이라... 언젠가 스페이스드리프터가 돼서 그 너머까지 더 멀리 나가고 싶어!
+
+### '자나피안' @ /codex/aegi/excaliburshieldblade.codex.patch /contentPages/1
+  EN: Aeginian technology rarely utilizes Xanafian Shards due to their rarity and unpredictability, but Aeviri Armaments was able to craft exceptional gear using such shards. The shard was set in the center of the weapon, where its energy could be best distributed across the weapon's length. An intuitive pressure sensor in the weapon's grip allowed the user to activate one of two modes on the weapon: Offence or Defence.
+  KO: 에지니안 기술은 자나피안 파편이 희귀하고 예측하기 어려운 탓에 좀처럼 사용되지 않지만, 아에비리 아마먼츠는 그런 파편을 사용해 뛰어난 장비를 제작해냈다. 파편은 무기 중앙에 장착되어 그 에너지가 무기 전체에 가장 고르게 분배될 수 있도록 했다. 무기 손잡이에 있는 직관적인 압력 센서 덕분에 사용자는 무기의 두 모드, 공격과 방어 중 하나를 활성화할 수 있었다.
+
+### '자나피안' @ /codex/aegi/excaliburshieldblade.codex.patch /contentPages/2
+  EN: In Offence Mode, the Xanafian Shard would project a layer of energy over the blade, granting it a strange, bright glow that would help tear apart the molecules of whatever the weapon would strike. In Defence Mode, the energy would be projected across the length of the weapon, enhancing its defensive capabilities. Every time the energized shield was struck, it would release a burst of energy that damages and knocks back whatever landed the blow.
+  KO: 공격 모드에서는 자나피안 파편이 칼날 위에 에너지 층을 투사해, 이상하고 밝은 빛을 내며 무기가 명중하는 모든 것의 분자를 찢어발기는 걸 돕는다. 방어 모드에서는 에너지가 무기 전체 길이에 걸쳐 투사되어 방어 능력을 강화한다. 에너지화된 방패가 타격을 받을 때마다, 타격을 입힌 대상에게 피해를 주고 넉백시키는 에너지 폭발을 방출한다.
+
+### '자나피안' @ /codex/aegi/excaliburshieldblade.codex.patch /contentPages/0
+  EN: 
+  KO: ^orange;엑스칼리버급 쉴드블레이드^reset;
+
+엑스칼리버급 실드블레이드는 실드블레이드 - 일명 에이비스 - 집단으로, 지금은 사라진 에이비리 아머먼츠가 설계·제작했다. 최고급 알로스틸로 수제작해 가볍지만 극도로 견고한 칼날을 자랑하는 탁월한 물건들이었다. 그러나 그 특징적인 요소는 바로 구동력원인 자나피안 파편이었다.
+
+### '자나피안' @ /codex/avikan/vhaleihanspear.codex.patch /contentPages/1
+  EN: Xanafian shards were far more common back then, as Vas Vha'leih held a vast store of the crystalline artefacts. The Nomada still has many shards stored away in vaults and the like, but to place a shard in nearly every weapon built is well beyond what is possible nowadays. There are, however, still some Vha'leihan Spears in our possession, and they are generally regarded as some of the most precious artefacts of the lost Vha'leihan Era.
+  KO: 자나피안 파편은 그때 훨씬 흔했는데, 바스 브할레이가 결정 유물의 방대한 보관고를 가지고 있었기 때문이다. 노마다에는 여전히 금고 같은 곳에 많은 파편이 보관되어 있지만, 제작되는 거의 모든 무기에 파편을 넣는 건 요즘은 불가능에 가깝다. 하지만 우리 수중에는 아직 몇 자루의 브할레이한 창이 있으며, 그것들은 일반적으로 잃어버린 브할레이한 시대의 가장 귀중한 유물들로 여겨진다.
+
+### '자나피안' @ /interface/scripted/monDB/elemental.config.patch /xanafianResistance
+  EN: ^shadow;^#b2d6ea;Xanafian Resistance^reset;
+  KO: ^shadow;^#b2d6ea;자나피안 저항^reset;
+
+### '자나피안' @ /items/active/weapons/melee/unique/tormentor/neb-tormentor.activeitem.patch /description
+  EN: ^orange;A wicked blade bathed in Xanafian energies, and has claimed many, many lives.
+  KO: ^orange;자나피안 에너지에 푹 담긴 사악한 칼날. 수많은 목숨을 앗아 갔다.
+
+### '자나피안' @ /items/quest/neb-tormentorcrystal.item.patch /description
+  EN: A xanafian crystal. It emits a faint glow.
+  KO: 자나피안 결정. 은은한 빛을 낸다.
+
+### '자나피안' @ /items/quest/xanafianshard.item.patch /shortdescription
+  EN: ^orange;Xanafian Shard^white;
+  KO: ^orange;자나피안 파편^white;
+
+### '자나피안' @ /items/quest/xanafianshard2.item.patch /shortdescription
+  EN: ^orange;Xanafian Shard^white;
+  KO: ^orange;자나피안 파편^white;
+
+### '자나피안' @ /items/quest/xanafianshard3.item.patch /shortdescription
+  EN: ^orange;Xanafian Shard^white;
+  KO: ^orange;자나피안 파편^white;
+
+### '자나피안' @ /quests/uniqueweapons/createtormentor/neb-createtormentor.questtemplate.patch /text
+  EN: I found an active xanafian crystal! ^green;I should take this to someone who knows their way around centensian relics ^white;- I could possibly forge a new weapon.
+  KO: 활성화된 자나피안 결정을 발견했다! ^green;센텐시안 유물을 잘 아는 누군가에게 이걸 가져가야겠다^white;- 어쩌면 새 무기를 벼려낼 수 있을지도.
+
+### '자나피안' @ /quests/uniqueweapons/createtormentor/neb-createtormentor.questtemplate.patch /completionText
+  EN: Is this a xanafian crystal? I may be able to create a weapon using this for you...
+  KO: 이거 자나피안 결정인가? 이걸로 당신을 위한 무기를 만들 수 있을지도 몰라...
+
+### '자나피안' @ /quests/uniqueweapons/shardbreakertool3.questtemplate.patch /text
+  EN: The tool uses a Xanafian Shard as its power source, so you'll need to find a new one. ^green;Find some ruins of the Old Ones^reset;, and hopefully you'll find a ^orange;Centensian Relic^reset; - a small hovering cube - which should contain a Shard. Bring it to Vanhas - he'll know how to extract the Shard once you have the relic.
+  KO: 이 도구는 자나피안 파편을 동력원으로 사용하니 새 파편을 찾아야 한다. ^green;옛 존재들의 유적을 찾아보라^reset;. 그곳에서 파편을 담고 있을 작은 공중 부양 정육면체, ^orange;센텐시안 유물^reset;을 발견할 수 있을 것이다. 유물을 반하스에게 가져가라. 그는 파편을 꺼내는 방법을 알 것이다.
+
+### '자나피안' @ /quests/uniqueweapons/shardbreakertool4.questtemplate.patch /text
+  EN: Here you go, Captain. ^green;Bring this ^orange;Xanafian Shard^green; back to Adako^reset;, and he can put together that tool you've been working on.
+  KO: 여기 있습니다, 선장님. ^green;이 ^orange;자나피안 파편^green;을 아다코에게 가져다주세요^reset;, 그러면 그가 당신이 작업 중이던 그 도구를 만들어줄 겁니다.
+
+### '자나피안' @ /quests/uniqueweapons/weaponrestoration/weaponrestorationaegi2.questtemplate.patch /text
+  EN: Now comes the hard part... You will need to obtain a small ^orange;Xanafian Shard^reset;. It powers the weapon, and without it, this magnificent blade is just that: a blade. ^green;Explore the galaxy and find a ^orange;Centensian Relic ^reset;- a small hovering cube - in one of those ^orange;old ruins^reset;. It should contain a Shard.
+  KO: 이제 어려운 부분이 남았다... 작은 ^orange;자나피안 파편^reset;을 구해야 한다. 이건 무기에 동력을 공급하는데, 이게 없으면 이 웅장한 검도 그냥 검일 뿐이다. ^green;은하를 탐험해서 저 ^orange;오래된 유적^reset; 중 하나에서 ^orange;센텐시안 유물^reset; - 작게 떠 있는 큐브 - 을 찾아라. 그 안에 파편이 들어 있을 거다.
+
+### '자나피안' @ /quests/uniqueweapons/weaponrestoration/weaponrestorationaegi3.questtemplate.patch /completionText
+  EN: Ah, so Hadaeko sent you? She's right, I know how to open those ancient relics. Here you go: a small Xanafian Shard.
+  KO: 아, 그럼 하다에코가 보냈군요? 그녀 말이 맞아요, 저는 그 고대 유물을 여는 법을 알고 있어요. 여기요: 작은 자나피안 파편이에요.
+
+### '자나피안' @ /quests/uniqueweapons/weaponrestoration/weaponrestorationavikan.questtemplate.patch /completionText
+  EN: Few know how to open these types of containers, but I do. Ah, and as I expected, there was a Xanafian Shard contained within - exactly what we needed. It's a small and weak one, but it'll do.
+  KO: 이런 종류의 용기를 여는 법을 아는 이는 거의 없지만, 나는 안다. 아, 그리고 예상대로, 안에는 자나피안 파편이 들어 있었다 - 정확히 우리가 필요했던 것이다. 작고 약한 것이지만, 이걸로 충분할 것이다.
+
+### '자나피안' @ /quests/uniqueweapons/weaponrestoration/weaponrestorationavikan2.questtemplate.patch /text
+  EN: Now that we have a shard of the Xanafir, we can start repairing the weapon. The weaponsmith, Ayurin, can help us with that. ^green;Take your ^orange;Broken Spear ^green;and the ^orange;Xanafian Shard ^green;to Ayurin^white;, and he'll tell you what he needs to make the repairs.
+  KO: 이제 자나피르의 파편을 얻었으니, 무기 수리를 시작할 수 있다. 무기 대장장이 아유린이 도와줄 수 있다. ^green;네 ^orange;부서진 창^green;과 ^orange;자나피안 파편^green;을 아유린에게 가져가면^white;, 수리에 필요한 게 뭔지 알려줄 것이다.
+
+### '에이페는' @ /codex/lucario/lucarioorigins.codex.patch /contentPages/20
+  EN: Under a false promise by Big Ape, the Lucario were told that they could work their way to becoming equals to the apex citizens under the Big Ape Regime. The Apex established this falsehood by appealing to the lucario's almost instinctual desire for self betterment by sometimes giving certain lucario the honor of being enlisted among the Big Ape Militia.
+  KO: 빅 에이프의 거짓 약속 아래, 루카리오들은 빅 에이프 체제에서 에이펙스 시민과 동등해지는 길을 걸을 수 있다는 말을 들었다. 에이페는 특정 루카리오에게 빅 에이프 민병대에 입대하는 영예를 주는 식으로, 루카리오의 거의 본능적인 자기 발전 욕구에 호소해 이 거짓을 세웠다.
+
+### '꿈틀' @ /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_intro_card_meeting.cinematic.patch /panels/5/text
+  EN: 
+  KO: 이 실종 사건들에 대해 아무도 말하지 않는 것 같아요. 사람들은 알아야 해요. 붕붕마루가 가장 먼저 알릴 것이고, 마지막으로 무너지지도 않을 겁니다. 뭔가 꿈틀거리는 게 있다면, 드디어 제가 쓸 만한 좋은 기삿거리가 있는 거예요!
+
+도와주신다면 수고에 보답하겠어요. 세부 사항을 조사하는 가벼운 도움만이면 돼요.
+
+그래서, 관심 있으세요?
+
+### '꿈틀' @ /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_intro_card_meeting_original.cinematic.patch /panels/12/text
+  EN: 
+  KO: 이 실종 사건들에 대해 아무도 말하지 않는 것 같아요. 사람들은 알아야 해요. 붕붕마루가 가장 먼저 알릴 것이고, 마지막으로 무너지지도 않을 겁니다. 뭔가 꿈틀거리는 게 있다면, 드디어 제가 쓸 만한 좋은 기삿거리가 있는 거예요!
+
+도와주신다면 수고에 보답하겠어요. 세부 사항을 조사하는 가벼운 도움만이면 돼요.
+
+그래서, 관심 있으세요?
+
+### '꿈틀' @ /codex/avian/ttppavian1.codex.patch /contentPages/1
+  EN: Maria was brought naked to the top of the pyramid. The villagers had decorated the entire structure with colorful flowers and ribbons.
+A group of men performed a dance around her while chanting the holy scripture.
+Suddenly, tentacles emerged from a hole at the top, wriggling their way towards Maria. But to her dismay, the tentacles shrunk back and tried to retreat. 
+
+The creature was not in the mood.
+  KO: 마리아는 벌거벗은 채 피라미드 꼭대기로 옮겨졌다. 마을 사람들은 구조물 전체를 화려한 꽃과 리본으로 장식해 두었다.
+한 무리의 남자들이 신성한 경전을 읊으며 그녀 주위를 돌며 춤췄다.
+갑자기, 꼭대기의 구멍에서 촉수들이 나타나 마리아를 향해 꿈틀대며 다가왔다. 하지만 그녀가 당황스럽게도, 촉수들은 움츠러들며 물러나려 했다.
+
+그 생물은 그럴 기분이 아니었다.
+
+### '꿈틀' @ /codex/avian/ttppavian1.codex.patch /contentPages/3
+  EN: Seizing the opportunity, she rushed the creature and grabbed the fattest phallic tentacle she could find. Holding the creature down with her talons, Maria took the tentacle and poised it in front of her dripping cunt. She sat on the creature and began using the tentacle as a living dildo. With her mass atop it, the creature could not escape. Maria pushed the limb deeper until she felt it bottom out against her cervix. As on instinct, the tentacle began rapidly vibrating and undulating, stimulating the deepest parts of her.
+  KO: 기회를 놓치지 않고, 그녀는 생물에게 달려들어 찾을 수 있는 가장 굵은 남근형 촉수를 붙잡았다. 발톱으로 생물을 짓누른 채, 마리아는 촉수를 붙잡아 흠뻑 젖은 그녀의 보지 앞에 갖다 댔다. 그녀는 생물 위에 올라타 촉수를 살아있는 딜도처럼 사용하기 시작했다. 그녀의 체중이 위에 실리자 생물은 빠져나갈 수 없었다. 마리아는 자궁 경부에 닿을 때까지 촉수를 더 깊이 밀어넣었다. 마치 본능처럼, 촉수는 빠르게 진동하고 꿈틀거리기 시작해 그녀의 가장 깊은 곳을 자극했다.
+
+### '꿈틀' @ /codex/floran/ttppfloran1.codex.patch /contentPages/0
+  EN: During the Ruin's invasion of Earth.
+There was a very hungry Floran.
+To the sky she lookth,
+looking for a fresh, hearty meal.
+ 
+One tentacle arose from the ground and wiggles in excitement,
+and pop it went into the Floran's mouth.
+The tentacle wiggled in struggle,
+wiggle and pump it did in the Floran's mouth.
+  KO: 루인이 지구를 침공하던 중.
+매우 배고픈 플로란이 있었다.
+그녀는 하늘을 올려다보며,
+신선하고 든든한 한 끼를 찾고 있었다.
+
+촉수 하나가 땅에서 솟아올라 흥분하며 꿈틀거렸고,
+펑 소리를 내며 플로란의 입 속으로 들어갔다.
+촉수는 몸부림치며 꿈틀거렸고,
+플로란의 입 속에서 꿈틀대며 펌프질했다.
+
+### '꿈틀' @ /codex/floran/ttppfloran1.codex.patch /contentPages/2
+  EN: From each consumed drop of vicious liquid, to individual crumbs,
+so did her lust for the white ichor and ruinous essence sow deeper.
+
+Till one day, the seeds of her conquered victims reached her inner sanctum, and her bloated womb stirs with activity.
+One by one her children were ejected into a nutritious paradise, where they served their queen faithfully.
+With each offspring born,
+so did the Floran's influence grew.
+  KO: 삼켜진 사악한 액체 한 방울 한 방울부터, 부스러기 하나하나까지,
+그렇게 하얀 영액과 파멸의 정수를 향한 그녀의 갈망은 점점 더 깊이 뿌리내렸다.
+
+어느 날, 그녀가 정복한 희생자들의 씨앗이 그녀의 내밀한 성소에 다다랐고, 부풀어 오른 자궁이 꿈틀거리기 시작했다.
+하나둘씩 그녀의 아이들이 영양이 가득한 낙원으로 배출되어, 여왕을 충실히 섬겼다.
+새로운 자손이 태어날 때마다,
+플로란의 영향력도 함께 자라났다.
+
+### '꿈틀' @ /codex/human/ttpphuman2.codex.patch /contentPages/1
+  EN: Lily bid the boys goodnight and made her way towards her tent.
+She walked alone through the woods, her heart racing with fear. Her mind kept conjuring up visions of tentacles, and she couldn't shake the feeling of unease. Suddenly, she heard a rustling in the bushes nearby. Her heart skipped a beat as she tensed up, bracing herself for whatever creature might emerge. But before she could react, a writhing tentacle shot out from the underbrush and wrapped itself around her ankle.
+  KO: 릴리는 아이들에게 잘 자라고 인사한 뒤 텐트로 향했다.
+그녀는 숲속을 홀로 걸으며 두려움에 심장이 두근거렸다. 머릿속에는 계속 촉수의 환영이 떠올랐고, 불안한 느낌을 떨칠 수 없었다. 그때 갑자기 근처 덤불에서 바스락거리는 소리가 들렸다. 그녀는 심장이 철렁 내려앉으며 몸이 굳었고, 어떤 생물이 튀어나올지 몰라 마음을 다잡았다. 하지만 미처 반응하기도 전에, 꿈틀거리는 촉수 하나가 덤불 밑에서 튀어나와 그녀의 발목을 휘감았다.
+
+### '꿈틀' @ /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/4
+  EN: McVicar: There are pods. Dozens and dozens of pods. They're twitching. I think they're about to... holy hell what is that, what in the name of Earth is that...
+
+*a strange, low roar*
+
+- Species analysis pending...
+
+McVicar: I have to get out of here. There's a Hylotl too, and...
+  KO: 맥비카: 고치들이 있다. 수십, 수백 개의 고치. 그것들이 꿈틀거린다. 뭔가 곧... 세상에 저게 대체 뭐야, 대체 지구의 이름을 걸고 저건 뭐야...
+
+*낯설고, 낮은 포효*
+
+- 종 분석 대기 중...
+
+맥비카: 여기서 나가야 한다. 하이로틀도 하나 있고, 그리고...
+
+### '꿈틀' @ /dialog/tentacles/apex-pregnant.config.patch /2/text
+  EN: Ughhh.... They move and squirm.
+  KO: 으으으.... 꿈틀거리며 움직여.
+
+### '꿈틀' @ /dialog/tentacles/avian-pregnant.config.patch /8/text
+  EN: A whole clutch of wriggly, squirmy bundles of joy!
+  KO: 꼬물꼬물, 꿈틀꿈틀한 기쁨 덩어리들이 한가득이네!
+
+### '꿈틀' @ /dialog/tentacles/avian-pregnant.config.patch /18/text
+  EN: Who needs a nursery when you can have a nest of wriggling tentacles?
+  KO: 꿈틀거리는 촉수 보육실이 있는데 누가 보육원이 필요해?
+
+### '꿈틀' @ /dialog/tentacles/avian-pregnant.config.patch /34/text
+  EN: My belly's feeling extra... wriggly today.
+  KO: 오늘따라 배 속이 유난히... 꿈틀거려.
+
+### '꿈틀' @ /dialog/tentacles/avian-pregnant.config.patch /36/text
+  EN: They're wiggling! The tentacles are so lively today!
+  KO: 꿈틀거려! 오늘 촉수들이 아주 생기가 넘쳐!
+
+### '꿈틀' @ /dialog/tentacles/fenerox-enthusiastic.config.patch /8/text
+  EN: Wiggling limbs. Fenerox loves. So nice!
+  KO: 꿈틀 팔다리. 페네록스 사랑. 너무 좋아!
+
+### '꿈틀' @ /dialog/tentacles/fenerox-enthusiastic.config.patch /11/text
+  EN: Wiggling tentacles. So erect. Fenerox smiles!
+  KO: 꿈틀 촉수. 너무 발기. 페네록스 미소!
+
+### '꿈틀' @ /dialog/tentacles/fenerox-enthusiastic.config.patch /16/text
+  EN: Wiggling softly. Big excitement. Much pleasure!
+  KO: 부드럽게 꿈틀. 큰 흥분. 많은 쾌락!
+
+### '꿈틀' @ /dialog/tentacles/fenerox-pregnant.config.patch /0/text
+  EN: Belly full. Tentacles squirm. So strange!
+  KO: 배 부름. 촉수 꿈틀거림. 너무 이상해!
+
+### '꿈틀' @ /dialog/tentacles/fenerox-pregnant.config.patch /1/text
+  EN: Heavy squirm. Fenerox bloated. Feeling tight!
+  KO: 격렬한 꿈틀거림. 페네록스가 부풀었다. 꽉 찬 느낌!
+
+### '꿈틀' @ /dialog/tentacles/fenerox-pregnant.config.patch /2/text
+  EN: Squirming inside. Belly stretched. So full.
+  KO: 안에서 꿈틀거려. 배가 늘어났어. 너무 가득 찼어.
+
+### '꿈틀' @ /dialog/tentacles/fenerox-pregnant.config.patch /3/text
+  EN: Heavy belly. Tentacles wriggle. Strange joy!
+  KO: 배가 무겁다. 촉수가 꿈틀댄다. 이상한 기쁨!
+
+### '꿈틀' @ /dialog/tentacles/fenerox-pregnant.config.patch /4/text
+  EN: Full of life. Squirming brood. Feels weird!
+  KO: 생명으로 가득함. 꿈틀대는 무리. 이상한 느낌!
+
+### '꿈틀' @ /dialog/tentacles/fenerox-pregnant.config.patch /7/text
+  EN: Belly swollen. Brood stirs. So close!
+  KO: 배 부어오름. 새끼들 꿈틀거림. 다 됐어!
+
+### '꿈틀' @ /dialog/tentacles/fenerox-pregnant.config.patch /9/text
+  EN: Brood grows. Feeling tight. Squirming inside.
+  KO: 새끼들 자람. 답답함. 안에서 꿈틀거림.
+
+### '꿈틀' @ /dialog/tentacles/fenerox-pregnant.config.patch /14/text
+  EN: Endless births. Tentacles wriggle. Fenerox endures.
+  KO: 끝없는 출산. 촉수가 꿈틀댄다. 페네록스는 견딘다.
+
+### '꿈틀' @ /dialog/tentacles/fenerox-pregnant.config.patch /20/text
+  EN: Tentacles squirm. Fenerox smiles. Love birthing!
+  KO: 촉수가 꿈틀거린다. 페네록스 미소짓는다. 출산을 사랑함!
+
+### '꿈틀' @ /dialog/tentacles/fenerox-pregnant.config.patch /21/text
+  EN: Brood stirs. Feeling tight. Fenerox thrilled!
+  KO: 새끼들 꿈틀거림. 답답함. 페네록스 흥분!
+
+### '꿈틀' @ /dialog/tentacles/floran-enthusiastic.config.patch /40/text
+  EN: Floran love tentaclessss! They wiggle and move, sssso fun!
+  KO: 플로란 촉수 사랑해애애! 꿈틀꿈틀, 너무 재밌어!
+
+### '꿈틀' @ /dialog/tentacles/floran-pregnant.config.patch /3/text
+  EN: Floran feel tiny sproutsss wriggle inssside.
+  KO: 플로란은 작은 새싹들이 안에서 꿈틀대는 걸 느낀다.
+
+### '꿈틀' @ /dialog/tentacles/glitch-enthusiastic.config.patch /33/text
+  EN: Joyful. Tentacles wriggle with glee! 
+Wonderous. What a sight to behold!
+  KO: 기쁨. 촉수들이 신나서 꿈틀거려! 
+경이. 이런 광경을 보게 되다니!
+
+### '꿈틀' @ /dialog/tentacles/glitch-pregnant.config.patch /4/text
+  EN: Curious. As the time has passed, this life within me stirs...
+  KO: 호기심. 시간이 흐르면서, 내 안의 이 생명이 꿈틀거려...
+
+### '꿈틀' @ /dialog/tentacles/glitch-pregnant.config.patch /21/text
+  EN: Worried. The tentacles within me stir... 
+I know not if I am ready to bear what comes.
+  KO: 걱정. 내 안의 촉수들이 꿈틀거려... 
+다가올 것을 감당할 준비가 됐는지 모르겠어.
+
+### '꿈틀' @ /dialog/tentacles/glitch-pregnant.config.patch /40/text
+  EN: Surprised. The babe stirs, and my passions do as well! ^red;
+  KO: 놀람. 아기가 꿈틀거리니, 내 욕정도 함께 꿈틀거려! ^red;
+
+### '꿈틀' @ /dialog/tentacles/glitch-proximity.config.patch /17/text
+  EN: Eager. I yearn for your touch amidst these writhing tentacles.
+  KO: 열정. 꿈틀대는 이 촉수들 사이에서 네 손길이 그리워.
+
+### '꿈틀' @ /dialog/tentacles/human-pregnant.config.patch /0/text
+  EN: I can feel them wriggling inside me.
+  KO: 내 안에서 꿈틀거리는 게 느껴져.
+
+### '꿈틀' @ /dialog/tentacles/human-pregnant.config.patch /29/text
+  EN: Whoa, I can totally feel those little tentacles wriggling!
+  KO: 우와, 저 작은 촉수들이 꿈틀거리는 게 온전히 느껴져!
+
+### '꿈틀' @ /dialog/tentacles/hylotl-pregnant.config.patch /0/text
+  EN: I can feel them wriggling inside me.
+  KO: 내 안에서 꿈틀거리는 게 느껴져.
+
+### '꿈틀' @ /dialog/tentacles/hylotl-pregnant.config.patch /40/text
+  EN: Uu... They're squirming inside... Aahh!
+  KO: 으으... 안에서 꿈틀거려... 아앗!
+
+### '꿈틀' @ /dialog/tentacles/hylotl-pregnant.config.patch /42/text
+  EN: The eggs... They're hatching...
+I can feel them squirming in my belly...!
+  KO: 알이... 부화하고 있어...
+배 속에서 꿈틀거리는 게 느껴져...!
+
+### '꿈틀' @ /dialog/tentacles/novakid-pregnant.config.patch /12/text
+  EN: They're wrigglin' and squirmin' inside me. ^red;«^white;
+  KO: 내 안에서 꿈틀거리며 요동치고 있어. ^red;«^white;
+
+### '꿈틀' @ /dialog/tentacles/novakid-pregnant.config.patch /25/text
+  EN: ...feelin' all squirmy inside ^red;«^white;
+  KO: ...속이 꿈틀꿈틀해 ^red;«^white;
+
+### '꿈틀' @ /dialog/tentacles/novakid-pregnant.config.patch /29/text
+  EN: Sometimes I forget... they writhe in there like somethin'.
+  KO: 가끔 잊어버려... 걔네가 그 안에서 뭔가처럼 꿈틀거린다는 걸.
+
+### '꿈틀' @ /dialog/tentacles/pregnant.config.patch /0/text
+  EN: I can feel them wriggling inside me.
+  KO: 내 안에서 꿈틀거리는 게 느껴져.
+
+### '꿈틀' @ /dialog/tentacles/shadow-enthusiastic.config.patch /24/text
+  EN: ^gray;*Twitch «*^white; ..... ^gray;*Twitch «*
+  KO: ^gray;*꿈틀 «*^white; ..... ^gray;*꿈틀 «*
+
+### '꿈틀' @ /dialog/tentacles/shadow-enthusiastic.config.patch /32/text
+  EN: ^gray;*Throb* *Throb* *Throb* ^white;!!!
+ ^gray;*Ooze* *Drip* ^white;...... ^gray;*Ooze*
+  KO: ^gray;*꿈틀* *꿈틀* *꿈틀* ^white;!!!
+ ^gray;*스멀* *뚝* ^white;...... ^gray;*스멀*
+
+### '꿈틀' @ /dialog/tentacles/shadow-enthusiastic.config.patch /33/text
+  EN: ^gray;*Throb*^white; ?! ^gray;*Gulp* *Gulp* *Drip*
+  KO: ^gray;*꿈틀*^white; ?! ^gray;*꿀꺽* *꿀꺽* *뚝*
+
+### '꿈틀' @ /dialog/tentacles/shadow-enthusiastic.config.patch /38/text
+  EN: ^gray;*Twitch «* *Twitch «* *Twitch «*^white; ... 
+  KO: ^gray;*꿈틀 «* *꿈틀 «* *꿈틀 «*^white; ...
+
+### '꿈틀' @ /dialog/tentacles/shadow-enthusiastic.config.patch /42/text
+  EN: ..!^gray;*Squelch*^white; !! ^gray;*SPURT* *Squirt* n*Tremble* *Twitch «* *Clench «*
+ *Shake* *Ooze «* *Ooze «* *Ooze «*
+  KO: ..!^gray;*질척*^white; !! ^gray;*분출* *뿜음* n*떨림* *꿈틀 «* *조임 «*
+ *흔들* *스멀 «* *스멀 «* *스멀 «*
+
+### '꿈틀' @ /dialog/tentacles/shadow-exhausted.config.patch /24/text
+  EN: ^gray;*Twitch «*^white; ..... ^gray;*Twitch «*
+  KO: ^gray;*꿈틀 «*^white; ..... ^gray;*꿈틀 «*
+
+### '꿈틀' @ /dialog/tentacles/shadow-exhausted.config.patch /32/text
+  EN: ^gray;*Throb* *Throb* *Throb* ^white;!!!
+ ^gray;*Ooze* *Drip* ^white;...... ^gray;*Ooze*
+  KO: ^gray;*꿈틀* *꿈틀* *꿈틀* ^white;!!!
+ ^gray;*스멀* *뚝* ^white;...... ^gray;*스멀*
+
+### '꿈틀' @ /dialog/tentacles/shadow-exhausted.config.patch /33/text
+  EN: ^gray;*Throb*^white; ?! ^gray;*Gulp* *Gulp* *Drip*
+  KO: ^gray;*꿈틀*^white; ?! ^gray;*꿀꺽* *꿀꺽* *뚝*
+
+### '꿈틀' @ /dialog/tentacles/shadow-exhausted.config.patch /38/text
+  EN: ^gray;*Twitch «* *Twitch «* *Twitch «*^white; ... 
+  KO: ^gray;*꿈틀 «* *꿈틀 «* *꿈틀 «*^white; ...
+
+### '꿈틀' @ /dialog/tentacles/shadow-exhausted.config.patch /42/text
+  EN: ..!^gray;*Squelch*^white; !! ^gray;*SPURT* *Squirt* n*Tremble* *Twitch «* *Clench «*
+ *Shake* *Ooze «* *Ooze «* *Ooze «*
+  KO: ..!^gray;*질척*^white; !! ^gray;*분출* *뿜음* n*떨림* *꿈틀 «* *조임 «*
+ *흔들* *스멀 «* *스멀 «* *스멀 «*
+
+### '꿈틀' @ /dialog/tentacles/shadow-pregnant.config.patch /24/text
+  EN: ^gray;*Twitch «*^white; ..... ^gray;*Twitch «*
+  KO: ^gray;*꿈틀 «*^white; ..... ^gray;*꿈틀 «*
+
+### '꿈틀' @ /dialog/tentacles/shadow-pregnant.config.patch /32/text
+  EN: ^gray;*Throb* *Throb* *Throb* ^white;!!!
+ ^gray;*Ooze* *Drip* ^white;...... ^gray;*Ooze*
+  KO: ^gray;*꿈틀* *꿈틀* *꿈틀* ^white;!!!
+ ^gray;*스멀* *뚝* ^white;...... ^gray;*스멀*
+
+### '꿈틀' @ /dialog/tentacles/shadow-pregnant.config.patch /33/text
+  EN: ^gray;*Throb*^white; ?! ^gray;*Gulp* *Gulp* *Drip*
+  KO: ^gray;*꿈틀*^white; ?! ^gray;*꿀꺽* *꿀꺽* *뚝*
+
+### '꿈틀' @ /dialog/tentacles/shadow-pregnant.config.patch /38/text
+  EN: ^gray;*Twitch «* *Twitch «* *Twitch «*^white; ... 
+  KO: ^gray;*꿈틀 «* *꿈틀 «* *꿈틀 «*^white; ...
+
+### '꿈틀' @ /dialog/tentacles/shadow-pregnant.config.patch /42/text
+  EN: ..!^gray;*Squelch*^white; !! ^gray;*SPURT* *Squirt* n*Tremble* *Twitch «* *Clench «*
+ *Shake* *Ooze «* *Ooze «* *Ooze «*
+  KO: ..!^gray;*질척*^white; !! ^gray;*분출* *뿜음* n*떨림* *꿈틀 «* *조임 «*
+ *흔들* *스멀 «* *스멀 «* *스멀 «*
+
+### '꿈틀' @ /dialog/tentacles/shadow-proximity.config.patch /24/text
+  EN: ^gray;*Twitch «*^white; ..... ^gray;*Twitch «*
+  KO: ^gray;*꿈틀 «*^white; ..... ^gray;*꿈틀 «*
+
+### '꿈틀' @ /dialog/tentacles/shadow-proximity.config.patch /32/text
+  EN: ^gray;*Throb* *Throb* *Throb* ^white;!!!
+ ^gray;*Ooze* *Drip* ^white;...... ^gray;*Ooze*
+  KO: ^gray;*꿈틀* *꿈틀* *꿈틀* ^white;!!!
+ ^gray;*스멀* *뚝* ^white;...... ^gray;*스멀*
+
+### '꿈틀' @ /dialog/tentacles/shadow-proximity.config.patch /33/text
+  EN: ^gray;*Throb*^white; ?! ^gray;*Gulp* *Gulp* *Drip*
+  KO: ^gray;*꿈틀*^white; ?! ^gray;*꿀꺽* *꿀꺽* *뚝*
+
+### '꿈틀' @ /dialog/tentacles/shadow-proximity.config.patch /38/text
+  EN: ^gray;*Twitch «* *Twitch «* *Twitch «*^white; ... 
+  KO: ^gray;*꿈틀 «* *꿈틀 «* *꿈틀 «*^white; ...
+
+### '꿈틀' @ /dialog/tentacles/shadow-proximity.config.patch /42/text
+  EN: ..!^gray;*Squelch*^white; !! ^gray;*SPURT* *Squirt* n*Tremble* *Twitch «* *Clench «*
+ *Shake* *Ooze «* *Ooze «* *Ooze «*
+  KO: ..!^gray;*질척*^white; !! ^gray;*분출* *뿜음* n*떨림* *꿈틀 «* *조임 «*
+ *흔들* *스멀 «* *스멀 «* *스멀 «*
+
+### '꿈틀' @ /items/MATERIALS/direstone.matitem.patch /description
+  EN: 
+  KO: 이 유리같은 돌의 표면 아래에서 벌레같이 생긴 뭔가가 꿈틀대고 있습니다.
+
+### '꿈틀' @ /items/MATERIALS/direstone.matitem.patch /description
+  EN: 
+  KO: 이 유리같은 돌의 표면 아래에서 벌레같이 생긴 뭔가가 꿈틀대고 있습니다.
+^green;추출 가능^reset;, ^orange;분쇄 가능^reset;, ^red;제련 가능^reset;.
+
+### '꿈틀' @ /items/MATERIALS/glowflesh.matitem.patch /description
+  EN: This pulsating flesh is faintly glowing with bioluminescence.
+  KO: 이 꿈틀거리는 살점은 생체발광으로 희미하게 빛난다.
+
+### '꿈틀' @ /items/MATERIALS/ikn_squigglywp.matitem.patch /description
+  EN: This wallpaper makes long squiggly lines on your walls.
+  KO: 이 벽지는 벽에 길게 꿈틀대는 선을 그려 넣는다.
+
+### '꿈틀' @ /items/MATERIALS/tentacleblock.matitem.patch /description
+  EN: 
+  KO: 꿈틀거리는 촉수 덩어리입니다.
+
+### '꿈틀' @ /items/MATERIALS/tentacleblock.matitem.patch /description
+  EN: 
+  KO: 꿈틀거리는 촉수 덩어리입니다.
+^green;추출 가능^reset;.
+
+### '꿈틀' @ /items/active/starbound/weapons/axes/human/t6s.activeitem.patch /description
+  EN: An axe that looks like it's trying to wiggle away.
+  KO: 꿈틀대며 도망치려는 것처럼 보이는 도끼다.
+
+### '꿈틀' @ /items/active/weapons/ancient/ancientrifle/ancientrifle.activeitem.patch /shortdescription
+  EN: 
+  KO: ^magenta;꿈틀거리는 자^reset;
+
+### '꿈틀' @ /items/armors/tier4/fuarmoredcultist/fuarmoredcultist.back.patch /shortdescription
+  EN: 
+  KO: 꿈틀대는 촉수
+
+### '꿈틀' @ /items/buildscripts/ct_mimics/tool.activeitem.patch /presets/viona_shield/longdescription
+  EN: The crystallized globe near the center feels alive in a way. The energy it radiates is similar to miazmas and.. ...did it twitch?..
+  KO: 중심 근처의 결정화된 구체는 어딘가 살아 있는 듯한 느낌을 준다. 방출하는 에너지는 미아즈마와 비슷한데... ...방금 꿈틀거렸나?..
+
+### '꿈틀' @ /items/crafting/rogue/ivrpgparasiticnervebundle.item.patch /description
+  EN: A bundle of nerves that wiggle in a disgusting manner as if trying to dig into your skin.
+  KO: 피부 속으로 파고들려는 듯 역겹게 꿈틀대는 신경 다발.
+
+### '꿈틀' @ /items/crafting/rogue/ivrpgparasiticnervebundle.item.patch /shortdescription
+  EN: Squirming Nerve Bundle
+  KO: 꿈틀거리는 신경 다발
+
+### '꿈틀' @ /items/generic/crafting/atprk_ruinousfiber.item.patch /description
+  EN: A forbidden organic material. It violently wriggles in your hands.
+  KO: 금지된 유기물질입니다. 손안에서 격렬하게 꿈틀거립니다.
+
+### '꿈틀' @ /items/generic/crafting/umbralmatter.item.patch /description
+  EN: 
+  KO: 움브랄 물질의 조각. 꿈틀거리는 촉수 때문에 제작에 사용하기엔 너무 불안정하다.
+
+### '꿈틀' @ /items/generic/food/sb_rottenapple.consumable.patch /description
+  EN: This apple is clearly rotten. It's even got a worm writhing around in it... do I dare?
+  KO: 이 사과는 확실히 썩었다. 벌레가 들어가 꿈틀거리기까지 하잖아... 도전해 볼까?
+
+### '꿈틀' @ /items/generic/food/tier3/chocoglazedtentacle.consumable.patch /description
+  EN: Covered in a glossy coat of rich, dark chocolate, this wriggling delight promises to satisfy your deepest cravings.
+  KO: 진한 다크초콜릿의 윤기 나는 코팅이 덮인 이 꿈틀거리는 별미는 당신의 가장 깊은 갈망을 채워 줄 것입니다.
+
+### '꿈틀' @ /items/generic/food/tier4/tentaclespaghetti.consumable.patch /description
+  EN: Get tangled in a naughty culinary adventure as tentacle spaghetti slithers its way onto your plate.
+  KO: 접시 위로 꿈틀거리며 올라오는 촉수 스파게티와 함께 야릇한 요리 모험에 휘말려 보세요.
+
+### '꿈틀' @ /npcs/furniture/naked.npctype.patch /scriptConfig/dialog/converse/shadow/default/24
+  EN: ^gray;*Twitch «*^white; ..... ^gray;*Twitch «*
+  KO: ^gray;*꿈틀 «*^white; ..... ^gray;*꿈틀 «*
+
+### '꿈틀' @ /npcs/furniture/naked.npctype.patch /scriptConfig/dialog/converse/shadow/default/32
+  EN: ^gray;*Throb* *Throb* *Throb* ^white;!!!
+ ^gray;*Ooze* *Drip* ^white;...... ^gray;*Ooze*
+  KO: ^gray;*꿈틀* *꿈틀* *꿈틀* ^white;!!!
+ ^gray;*스멀* *뚝* ^white;...... ^gray;*스멀*
+
+### '꿈틀' @ /npcs/furniture/naked.npctype.patch /scriptConfig/dialog/converse/shadow/default/33
+  EN: ^gray;*Throb*^white; ?! ^gray;*Gulp* *Gulp* *Drip*
+  KO: ^gray;*꿈틀*^white; ?! ^gray;*꿀꺽* *꿀꺽* *뚝*
+
+### '꿈틀' @ /npcs/furniture/naked.npctype.patch /scriptConfig/dialog/converse/shadow/default/38
+  EN: ^gray;*Twitch «* *Twitch «* *Twitch «*^white; ... 
+  KO: ^gray;*꿈틀 «* *꿈틀 «* *꿈틀 «*^white; ...
+
+### '꿈틀' @ /npcs/furniture/naked.npctype.patch /scriptConfig/dialog/converse/shadow/default/42
+  EN: ..!^gray;*Squelch*^white; !! ^gray;*SPURT* *Squirt* n*Tremble* *Twitch «* *Clench «*
+ *Shake* *Ooze «* *Ooze «* *Ooze «*
+  KO: ..!^gray;*질척*^white; !! ^gray;*분출* *뿜음* n*떨림* *꿈틀 «* *조임 «*
+ *흔들* *스멀 «* *스멀 «* *스멀 «*
+
+### '꿈틀' @ /npcs/furniture/naked.npctype.patch /scriptConfig/dialog/converse/fenerox/default/8
+  EN: Wiggling limbs. Fenerox loves. So nice!
+  KO: 꿈틀 팔다리. 페네록스 사랑. 너무 좋아!
+
+### '꿈틀' @ /npcs/furniture/naked.npctype.patch /scriptConfig/dialog/converse/fenerox/default/11
+  EN: Wiggling tentacles. So erect. Fenerox smiles!
+  KO: 꿈틀 촉수. 너무 발기. 페네록스 미소!
+
+### '꿈틀' @ /npcs/furniture/naked.npctype.patch /scriptConfig/dialog/converse/fenerox/default/16
+  EN: Wiggling softly. Big excitement. Much pleasure!
+  KO: 부드럽게 꿈틀. 큰 흥분. 많은 쾌락!
+
+### '꿈틀' @ /npcs/furniture/naked.npctype.patch /scriptConfig/dialog/converse/floran/default/82
+  EN: Floran love tentaclessss! They wiggle and move, sssso fun!
+  KO: 플로란 촉수 사랑해애애! 꿈틀꿈틀, 너무 재밌어!
+
+### '꿈틀' @ /npcs/furniture/naked.npctype.patch /scriptConfig/dialog/converse/glitch/default/33
+  EN: Joyful. Tentacles wriggle with glee! 
+Wonderous. What a sight to behold!
+  KO: 기쁨. 촉수들이 신나서 꿈틀거려! 
+경이. 이런 광경을 보게 되다니!
+
+### '꿈틀' @ /npcs/furniture/naked.npctype.patch /scriptConfig/dialog/converse/glitch/default/60
+  EN: Eager. I yearn for your touch amidst these writhing tentacles.
+  KO: 열정. 꿈틀대는 이 촉수들 사이에서 네 손길이 그리워.
+
+### '꿈틀' @ /npcs/naked_victim_fenerox.npctype.patch /scriptConfig/dialog/converse/default/default/6
+  EN: Ugh! I can still feel it wriggling inside me.
+  KO: 윽! 아직도 안에서 꿈틀거리는 게 느껴져.
+
+### '꿈틀' @ /npcs/naked_victim_shadow.npctype.patch /scriptConfig/dialog/converse/default/default/6
+  EN: Ugh! I can still feel it wriggling inside me.
+  KO: 윽! 아직도 안에서 꿈틀거리는 게 느껴져.
+
+### '꿈틀' @ /npcs/ttpp_land_visitor.npctype.patch /scriptConfig/dialog/converse/default/default/69
+  EN: I love them wriggling inside me.
+  KO: 그것들이 내 안에서 꿈틀거리는 게 좋아.
+
+### '꿈틀' @ /objects/FARMABLES/tentacleplant/tentacleplant.object.patch /shortdescription
+  EN: 
+  KO: 꿈틀거리는 덩굴
+
+### '꿈틀' @ /objects/FARMABLES/tentacleplant/wildtentacleplant.object.patch /shortdescription
+  EN: 
+  KO: 꿈틀거리는 덩굴
+
+### '꿈틀' @ /objects/atprk_breakable/atprk_4x4box/atprk_4x4box4.object.patch /description
+  EN: A block of sticky slime. Something stirs beneath the surface.
+  KO: 끈적 슬라임 블록. 표면 아래 뭔가 꿈틀대.
+
+### '꿈틀' @ /objects/atprk_breakable/atprk_4x4box/atprk_4x4box5.object.patch /description
+  EN: A block of sticky slime. Something stirs beneath the surface.
+  KO: 끈적 슬라임 블록. 표면 아래 뭔가 꿈틀대.
+
+### '꿈틀' @ /objects/biome/hive/hivechair/hivechair.object.patch /avianDescription
+  EN: 
+  KO: 이 의자는 마치 꿈틀거리는 듯한 느낌이다...
+
+### '꿈틀' @ /objects/door/door.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/doorb/doorb.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/doord/doord.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/eyemitter/eyemitter3.object.patch /description
+  EN: The sounds of crawling tentacles and writhing flesh echo around you.
+  KO: 촉수가 기어가고 살점이 꿈틀대는 소리가 주위에 울려 퍼진다.
+
+### '꿈틀' @ /objects/generic/wormstatue/wormstatue.object.patch /apexDescription
+  EN: 
+  KO: 꿈틀거리는 벌레다. 뭐, 조각상이 아니었다면 말이지.
+
+### '꿈틀' @ /objects/human_t13_hello_world/human_t13_hello_world_brown.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/human_t13_hello_world/human_t13_hello_world_dark.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/human_t13_hello_world/human_t13_hello_world_pale.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/human_t3a/human_t3a_brown.object.patch /description
+  EN: The bound prisoner has a pulsating tentacle so far up her ass that the tip is wiggling between her lips
+  KO: 결박된 죄수의 항문 깊숙이 맥동하는 촉수가 들어가 있어, 그 끝이 입술 사이에서 꿈틀거린다.
+
+### '꿈틀' @ /objects/human_t3a/human_t3a_dark.object.patch /description
+  EN: The bound prisoner has a pulsating tentacle so far up her ass that the tip is wiggling between her lips
+  KO: 결박된 죄수의 항문 깊숙이 맥동하는 촉수가 들어가 있어, 그 끝이 입술 사이에서 꿈틀거린다.
+
+### '꿈틀' @ /objects/human_t3a/human_t3a_pale.object.patch /description
+  EN: The bound prisoner has a pulsating tentacle so far up her ass that the tip is wiggling between her lips
+  KO: 결박된 죄수의 항문 깊숙이 맥동하는 촉수가 들어가 있어, 그 끝이 입술 사이에서 꿈틀거린다.
+
+### '꿈틀' @ /objects/human_t3b_helmet/human_t3b_helmet_brown.object.patch /description
+  EN: The bound prisoner has a pulsating tentacle so far up her ass that the tip is wiggling between her lips
+  KO: 결박된 죄수의 항문 깊숙이 맥동하는 촉수가 들어가 있어, 그 끝이 입술 사이에서 꿈틀거린다.
+
+### '꿈틀' @ /objects/human_t3b_helmet/human_t3b_helmet_dark.object.patch /description
+  EN: The bound prisoner has a pulsating tentacle so far up her ass that the tip is wiggling between her lips
+  KO: 결박된 죄수의 항문 깊숙이 맥동하는 촉수가 들어가 있어, 그 끝이 입술 사이에서 꿈틀거린다.
+
+### '꿈틀' @ /objects/human_t3b_helmet/human_t3b_helmet_pale.object.patch /description
+  EN: The bound prisoner has a pulsating tentacle so far up her ass that the tip is wiggling between her lips
+  KO: 결박된 죄수의 항문 깊숙이 맥동하는 촉수가 들어가 있어, 그 끝이 입술 사이에서 꿈틀거린다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_stone_apex.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_stone_avien.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_stone_fenerox.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_stone_floran.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_stone_glitch.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_stone_human.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_stone_hylotl.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_stone_novakid.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_stone_random.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_stone_random_b.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+               ^red;WARNING!
+ Victim escapes when broken!
+  KO: 조심스레 꿈틀거리며 나와 근처를 살폈다.
+               ^red;경고!
+ 피해자는 파괴 시 탈출!
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_stone_shadow.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_vanilla_apex.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_vanilla_avien.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_vanilla_fenerox.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_vanilla_floran.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_vanilla_glitch.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_vanilla_human.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_vanilla_hylotl.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_vanilla_novakid.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_vanilla_random.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_vanilla_random_b.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+               ^red;WARNING!
+ Victim escapes when broken!
+  KO: 조심스레 꿈틀거리며 나와 근처를 살폈다.
+               ^red;경고!
+ 피해자는 파괴 시 탈출!
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_vanilla_shadow.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_verdant_apex.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_verdant_avien.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_verdant_fenerox.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_verdant_floran.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_verdant_glitch.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_verdant_human.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_verdant_hylotl.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_verdant_novakid.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_verdant_random.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_verdant_random_b.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+               ^red;WARNING!
+ Victim escapes when broken!
+  KO: 조심스레 꿈틀거리며 나와 근처를 살폈다.
+               ^red;경고!
+ 피해자는 파괴 시 탈출!
+
+### '꿈틀' @ /objects/t13,t13hw,wall12/t13hw_verdant_shadow.object.patch /description
+  EN: It carefully wriggled it's way out, examining the area nearby.
+  KO: 조심스럽게 꿈틀거리며 빠져나와 주변을 살폈다.
+
+### '꿈틀' @ /objects/tc1/tc1.object.patch /description
+  EN: They pulsate and undulate like breathing flesh.
+  KO: 그것들은 살아 있는 살점처럼 꿈틀거리며 출렁인다.
+
+### '꿈틀' @ /objects/tc2/tc2g.object.patch /description
+  EN: The slimy, wriggling tentacles are swaying in rhythm.
+  KO: 미끈거리고 꿈틀대는 촉수들이 리듬에 맞춰 흔들린다.
+
+### '꿈틀' @ /objects/tentacledoor1/tentacledoor1_vanilla_apex.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/tentacledoor1/tentacledoor1_vanilla_avian.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/tentacledoor1/tentacledoor1_vanilla_fenerox.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/tentacledoor1/tentacledoor1_vanilla_floran.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/tentacledoor1/tentacledoor1_vanilla_glitch.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/tentacledoor1/tentacledoor1_vanilla_human.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/tentacledoor1/tentacledoor1_vanilla_hylotl.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/tentacledoor1/tentacledoor1_vanilla_novakid.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/tentacledoor1/tentacledoor1_vanilla_random.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/tentacledoor1/tentacledoor1_vanilla_random_b.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/tentacledoor1/tentacledoor1_vanilla_shadow.object.patch /description
+  EN: She tried to pass the undulating wall of flesh. Now she is a part of it.
+  KO: 그녀는 꿈틀거리는 살의 벽을 지나가려 했다. 이제 그녀는 그 일부다.
+
+### '꿈틀' @ /objects/trap2xxl/trap2xxl.object.patch /description
+  EN: This loose, wide tunnel is wriggling with tentacles.
+  KO: 이 느슨하고 넓은 터널은 촉수들로 꿈틀거리고 있다.
+
+### '꿈틀' @ /objects/trap3/trap3.object.patch /description
+  EN: Squirming tentacles that grip at your ankles.
+  KO: 당신의 발목을 움켜쥐는 꿈틀거리는 촉수.
+
+### '꿈틀' @ /objects/verdanttentacle_toxiccreep/verdanttentacle_toxiccreep3.object.patch /description
+  EN: The mutated plant writhes with glowing, toxic vines, absorbing radiation in the big, saggy balls.
+  KO: 변이된 식물은 빛나는 독성 덩굴을 꿈틀거리며, 커다랗고 축 늘어진 불알에 방사능을 흡수한다.
+
+### '꿈틀' @ /objects/wstonetentacle/wstonetentacle.object.patch /shortdescription
+  EN: Petrified Wriggling Tentacle
+  KO: 석화된 꿈틀대는 촉수
+
+### '꿈틀' @ /objects/wtentacle/wtentacle.object.patch /shortdescription
+  EN: Wriggling Tentacle
+  KO: 꿈틀거리는 촉수
+
+### '꿈틀' @ /quests/fu_questlines/other/frozenwastes/shoggoth_unlocknew.questtemplate.patch /completionText
+  EN: 
+  KO: 지금 내 영혼의 뿌리에서 꿈틀대는 광기와 기괴함을 표현할 말이 없습니다. 저 지옥 같은 곳에서 제 일부가 영원히 사라져 버렸어요.
+
+### '꿈틀' @ /quests/siphonarenaquest.questtemplate.patch /completionText
+  EN: The slime that you scraped from those monsters looks a bit... gross. This ^green;Parasitic Goo^reset; can be re-purposed: I have condensed it into a bundle of nerves that you can attach to your arm. You can now craft Squirming Nerve Bundles in the Furnace and the Siphon Claw in your Anvil.
+  KO: 괴물들한테서 긁어 모은 점액이 조금... 역겨워 보인다. 이 ^green;기생 점액^reset;은 다른 용도로 쓸 수 있어. 팔에 붙일 수 있는 신경 다발로 응축해 뒀어. 이제 용광로에서 꿈틀거리는 신경 다발을, 모루에서 흡수의 발톱을 제작할 수 있어.
+
+### '꿈틀' @ /tiles/materials/direstone.material.patch /description
+  EN: 
+  KO: 이 유리같은 돌의 표면 아래에서 벌레같이 생긴 뭔가가 꿈틀대고 있어.
+
+### '꿈틀' @ /tiles/materials/direstone.material.patch /floranDescription
+  EN: 
+  KO: 꿈틀거리는 벌레 돌이다!
+
+### '꿈틀' @ /tiles/materials/direstone.material.patch /novakidDescription
+  EN: 
+  KO: 이 돌 안에 꿈틀거리는 작은 벌레들이 있군.
+
+### '꿈틀' @ /tiles/materials/tentacleblock.material.patch /description
+  EN: 
+  KO: 꿈틀거리는 촉수 덩어리다.
+
+### '꿈틀' @ /tiles/materials/tentacleblock.material.patch /floranDescription
+  EN: 
+  KO: 플로란은 꿈틀거리는 촉슈가 싫다.
+
+### '수치심' @ /npcs/ttpp_land_visitor.npctype.patch /scriptConfig/dialog/converse/default/default/18
+  EN: You totally forget your sense of shame here.
+  KO: 여기선 수치심을 완전히 잊었네.
+
+### '수치심' @ /weapons/legendary/xraiizy_mikhailslastword/xraiizy_mikhailslastword.activeitem.patch /description
+  EN: The burn you feel? It is shame.
+  KO: 느껴지는 그 화끈거림? 그것은 수치심이다.
+
+### '타고 있었지' @ /codex/apex/runnerup3.codex.patch /contentPages/8
+  EN: "Oh, chimp-biscuits. Big Ape's gonna fling it far when he hears this."
+
+"Yes, sir."
+
+"I need some news to salvage something out of this, Captain. DA-13 had some Special Political Guests, correct?"
+  KO: “이런, 침팬지 과자 같으니. 빅 에이프가 이 소식을 들으면 단단히 화내겠군.”
+
+“그렇습니다, 상관님.”
+
+“이 사태를 어떻게든 수습하려면 써먹을 만한 소식이 필요하네, 대위. DA-13에 특별 정치 귀빈들이 타고 있었지, 맞나?”
+
+### '로푸니' @ /codex/lucario/lucarioorigins.codex.patch /contentPages/4
+  EN: If anyone knew where Esther was, maybe we could get more answers, but she vanished long ago. Hardly anyone has seen her since, probably because of the obsession with learning about the Cultivator. Regardless the lopunny propose that the lucario came along with them, even though the lopunny as well lack any sort of history in our universe beyond a certain point.
+  KO: 에스더가 어디 있는지 누가 알았다면, 더 많은 답을 얻을 수 있었을지도 모르지만, 그녀는 오래전에 사라졌어. 그 이후로 그녀를 본 사람은 거의 없어, 아마도 컬티베이터에 대해 알아내는 데 집착했기 때문일 거야. 그럼에도 로푸니는 루카리오가 그들과 함께 왔다고 주장하는데, 로푸니 역시 어느 시점 이후로는 우리 우주에서 아무런 역사도 없다는 게 사실이지만 말이야.
+
+### '묘지기' @ /codex/legacy_codex/fuaviantombkeeper.codex.patch /title
+  EN: Avian Tombkeepers
+  KO: 아비안 묘지기
+
+### '무덤 수호자' @ /codex/legacy_codex/fuaviantombkeeper.codex.patch /contentPages/0
+  EN: by K'arn Hollowbeak, Avian scholar
+Tomb Guards are regarded by other Avians as weird or creepy. The reason for this is because they willingly volunteer to live in a tomb for ten years. What others don't realise, though, is that being a Tomb Guard gives one plenty of time to reflect, to create, to plan. Some of my best works were prepared during my tenure as Tomb Guard.
+  KO: 아비안 학자, 카른 홀로우비크 지음
+무덤 수호자는 다른 아비안들에게 괴상하거나 소름 끼치는 존재로 여겨진다. 그 이유는 그들이 자원해서 십 년간 무덤에 살기 때문이다. 하지만 다른 이들이 모르는 것은, 무덤 수호자가 되면 성찰하고, 창작하고, 계획할 시간이 충분하다는 것이다. 나의 최고 작품 일부는 무덤 수호자 재임 중에 준비되었다.
+
+### '무덤 경비병' @ /codex/legacy_codex/fuaviantombkeeper.codex.patch /contentPages/1
+  EN: Tomb Guards also have to possess exceptional physical and mental skill. While it's never been documented in Avian history, it's entirely possible that a large armed group could descend upon a tomb, set on stripping it of its riches. As such, we spend many years reading up on how to deal with such a situation, until we feel we're ready for anything.
+  KO: 무덤 경비병은 뛰어난 신체적·정신적 기량도 갖춰야 한다. 아비안 역사에 기록된 적은 없지만, 무덤의 재물을 전부 빼앗으려는 대규모 무장 집단이 덮칠 가능성은 충분히 있다. 그래서 우리는 만반의 준비가 됐다고 느낄 때까지, 그런 상황에 대처하는 법을 수년간 공부한다.
+
+### '서펀트' @ /codex/mwhaddon_codex_misc/mwhaddon_codex_fable_1.codex.patch /contentPages/3
+  EN: With all the help. Serpent's initial Kid was able to born in peace.
+  KO: 모든 도움 덕에. 서펀트의 첫 아이가 평화롭게 태어날 수 있었다.
+
+### '서펀트' @ /codex/mwhaddon_codex_misc/mwhaddon_codex_fable_2.codex.patch /contentPages/2
+  EN: As time passed by, the Serpent gave birth to four more Kids, each of which has inherited a part of the Serpent's strength. And again, they were raised by the passionate snake.
+
+The Gardner gave them a humble corner of the Garden to live, while the other three Snakes kept helping with the Garden.
+  KO: 시간이 흐르며, 서펀트는 네 명의 아이를 더 낳았고, 각각은 서펀트의 힘의 일부를 물려받았다. 그리고 이번에도, 그들은 열정적인 그 뱀에게 길러졌다.
+
+가드너는 그들에게 정원의 소박한 한구석을 살 곳으로 내주었고, 다른 세 뱀은 계속 정원을 돌보는 일을 도왔다.
+
+### '서펀트' @ /codex/mwhaddon_codex_misc/mwhaddon_codex_fable_3.codex.patch /contentPages/2
+  EN: Nor was the Gardener in any hurry to restore it. The Garden's present state offered fresh opportunities for his aims. Kids of the Serpent's struggled for survival, while he merely observed.
+  KO: 정원사도 그것을 서둘러 복구할 생각이 없었다. 정원의 현재 상태는 그의 목적에 새로운 기회를 제공했다. 서펀트의 아이들은 생존을 위해 몸부림쳤지만, 그는 그저 지켜보기만 했다.
+
+### '글림를' @ /codex/mwhaddon_codex_misc/mwhaddon_codex_glimmlecus_1.codex.patch /description
+  EN: The book is full of accusations against the current owner of Glimmlecus Tower.
+  KO: 이 책은 글림를레쿠스 타워의 현 소유주에 대한 고발로 가득하다.
+
+### '하쿠키' @ /codex/mwhaddon_codex_misc/mwhaddon_codex_keepAwayFromDelta.codex.patch /contentPages/1
+  EN: Floran of Delta Hakuuqi are famous for their ingenious plant-form technology and coincidentally, I, Camille, happens to be an Arcanian scholar studies in technology in a varity of forms. So I made up my mind and reach their village in Delta last month in order to study their technology.
+  KO: 델타 하쿠키의 플로란은 그들의 독창적인 식물형 기술로 유명하고, 우연히도, 저 카미유는 다양한 형태의 기술을 연구하는 아르카니안 학자입니다. 그래서 저는 마음먹고 지난달 그들의 기술을 연구하기 위해 델타에 있는 그들의 마을에 도착했습니다.
+
+### '별게' @ /codex/om_starry/om_starrymonsterlore6.codex.patch /contentPages/0
+  EN: ^#693CF2;Starcrab^reset;
+
+^yellow;Description^reset;: Starcrabs are shiny crabs with large stars stuck in their back. They have bright blue bodies and only six legs due to severe radiation. Although they have four less legs than usual, starcrabs move just fine - in a strange, running-like motion.
+
+^yellow;Habitat^reset;: starcrabs are generally found only in Starry liquid-related environments, such as the ^green;Oasis^reset; or ^green;Ocean^reset; biomes.
+  KO: ^#693CF2;별게^reset;
+
+^yellow;설명^reset;: 별게는 등에 커다란 별이 박힌 반짝이는 게다. 밝은 파란 몸을 가졌고 심한 방사능 때문에 다리가 여섯 개뿐이다. 보통보다 다리가 네 개 적지만, 별게는 이상한 달리기 같은 동작으로 잘 움직인다.
+
+^yellow;서식지^reset;: 별게는 일반적으로 ^green;오아시스^reset;나 ^green;바다^reset; 바이옴 같은 스타리 액체 관련 환경에서만 발견된다.
+
+### '스텔라 부채물고기' @ /codex/om_starry/om_starrymonsterlore4.codex.patch /contentPages/1
+  EN: ^yellow;Diet^reset;: The stellar fanfish is classified as an ^orange;omnivore^reset;. It eats most of the small insects that appear on Starry planets, but it can also digest some of the native flora as well.
+
+^yellow;Behaviour^reset;: It tends to act innocent from a distance to encourage its victims to get close. Once it does, though, it unleashes a devastating blast that few can survive. Marked as incredibly destructive and hostile, this is one fish you better not mess with.
+  KO: ^yellow;식성^reset;: 스텔라 부채물고기는 ^orange;잡식성^reset;으로 분류된다. 스타리 행성에 나타나는 작은 곤충 대부분을 먹지만, 일부 토착 식물도 소화할 수 있다.
+
+^yellow;행동^reset;: 멀리서는 순한 척해서 먹잇감이 다가오게 유도하는 경향이 있다. 하지만 일단 가까워지면, 살아남을 수 있는 자가 거의 없는 파괴적인 폭발을 터뜨린다. 믿을 수 없을 만큼 파괴적이고 적대적인 것으로 표시된, 함부로 건드리지 않는 게 좋은 물고기다.
+
+### '오잉키서' @ /codex/other/PBcollectorschecklistcommunity2.codex.patch /contentPages/13
+  EN: 
+
+^green;Community Edition 2-14 Popball:^white;
+- Stimer Games Plushie
+- Tea Mug Plushie
+- Tenri Plushie
+- Thornwing Plushie
+- Throg Oinkicer Plushie
+- Throg Plushie
+- Tors Plushie
+- Travelling Merchant Plushie
+- Undead Knight Plushie
+- Uumie Plushie
+  KO: ^green;커뮤니티 에디션 2-14 팝볼:^white;
+- - 스티머 게임즈 인형
+- - 찻잔 인형
+- - 텐리 인형
+- - 손윙 인형
+- - 스로그 오잉키서 인형
+- - 스로그 인형
+- - 토르스 인형
+- - 떠돌이 상인 인형
+- - 언데드 기사 인형
+- - 우미 인형
+
+### '오잉킹' @ /codex/other/PBthanksdearcustomer.codex.patch /contentPages/11
+  EN: - Solar Grub Plushie
+- Steam Gnome Plushie
+- Tenri Plushie
+- Thornwing Plushie
+- Throg Oinkicer Plushie
+- Throg Plushie
+- Valder Plushie
+- Vesper Plushie
+- Walsorb Plushie
+- Wulfar Plushie
+- Zawan Plushie
+  KO: - 태양 굼벵이 인형
+- 증기 노움 인형
+- 텐리 인형
+- 가시날개 인형
+- 스로그 오잉킹 인형
+- 스로그 인형
+- 발더 인형
+- 베스퍼 인형
+- 월소브 인형
+- 울파 인형
+- 자완 인형
+
+### '암비리' @ /codex/other/colonystoryFull.codex.patch /contentPages/3
+  EN: I was sceptical at first, but sure enough after filling the shack with furniture I'd looted from a Floran village (what can I say, I'm a sucker for the sticks 'n' bones aesthetic) I placed the deed on the wall and a complete stranger beamed right to where I was standing. 
+
+And so began my long and arduous relationship with the Floran known as Ambiri.
+  KO: 처음엔 회의적이었지만, 플로란 마을에서 약탈한 가구로 오두막을 채운 뒤엔 (뭐라고 해야 할까, 나뭇가지랑 뼈 미학에 사족을 못 쓰거든) 증서를 벽에 붙였더니 완전히 낯선 이가 내가 서 있던 바로 그 자리로 빔을 타고 나타났어. 
+
+그렇게 '암비리'라는 이름의 플로란과의 길고 험난한 관계가 시작됐다.
+
+### '암비리' @ /codex/other/colonystoryFull.codex.patch /contentPages/6
+  EN: After some time, Ambiri began asking me for favours. It started small, growing the odd vegetable and cooking dishes occasionally. I was happy to oblige, and even built a small farm next to the house for convenience. 
+
+I very much enjoyed those warm autumn evenings we shared on the veranda by a crackling campfire. One evening, Ambiri announced that he would like to join me on my adventures and see the universe for himself.
+  KO: 얼마 후, 암비리는 내게 부탁을 하기 시작했다. 처음엔 사소했다, 가끔 채소를 기르거나 요리를 하는 정도였다. 나는 기꺼이 들어주었고, 편의를 위해 집 옆에 작은 농장까지 지어주었다.
+
+타닥거리는 모닥불 옆 베란다에서 함께 보낸 따뜻한 가을 저녁들이 정말 좋았다. 어느 저녁, 암비리는 나와 함께 모험을 떠나 우주를 직접 보고 싶다고 말했다.
+
+### '앰비리' @ /codex/other/colonystoryFull.codex.patch /contentPages/4
+  EN: For a Floran, Ambiri seems to like water a great deal. He's always opening the doors when it's raining and running outside. 
+
+Yesterday I came home to a flood in the basement where Ambiri had decided to dry off next to my furnace after getting particularly soaked. Good job I reinforced the walls with tomb stone bricks. 
+
+Maybe he would appreciate a fish tank?
+  KO: 플로란치고는, 앰비리는 물을 정말 좋아하는 것 같다. 그는 비 올 때면 항상 문을 열고 밖으로 뛰어나간다.
+
+어제는 앰비리가 흠뻑 젖은 뒤 내 화로 옆에서 몸을 말리기로 해서 집에 왔더니 지하실이 물바다였다. 무덤돌 벽돌로 벽을 보강해둔 게 다행이었다.
+
+어항을 마련해주면 좋아할지도 모르겠다.
+
+### '앰비리' @ /codex/other/colonystoryFull.codex.patch /contentPages/5
+  EN: One lesson I've learnt as a landlord: don't give a Floran bongos! They will play them night and day, and if you try to take them away when they are sleeping they will definitely know it was you. 
+
+Ambiri isn't all bad to have around though, you can't fault his craftsmanship with plants. Although, I did expect more than salves as rent when I entered into this agreement.
+  KO: 집주인으로 살면서 배운 교훈 하나: 플로란한테 봉고를 주지 마라! 밤낮없이 두들겨댈 테고, 자는 동안 몰래 치우려 하면 그게 너였다는 걸 반드시 알아챌 테니까. 
+
+그래도 앰비리를 곁에 두는 게 아주 나쁘지는 않다, 식물을 다루는 솜씨는 흠잡을 데가 없으니까. 다만, 이 계약을 맺을 때 임대료로 연고보다는 더 많은 걸 기대했던 건 사실이다.
+
+### '테렌 가드' @ /codex/other/other/prcw-betrayal.codex.patch /contentPages/2
+  EN: All of our Anatsali blueprints are kept in highly-encrypted files at mobile HQ, and the source for these Anatsali experiments was destroyed in the Lanthas Cascade event, so how the Electorate got their hands on the two blueprints eludes me. Nonetheless, this can only mean bad things for the USCM. With their wealth in money and resources, there's no doubt that the Terrene Guard will utilize these blueprints to create refined models of our weapons for their cause.
+  KO: 우리의 아나차리 설계도는 전부 모바일 본부에 있는 고도로 암호화된 파일에 보관되어 있고, 이 아나차리 실험의 원본은 란타스 캐스케이드 사건 때 파괴되었어, 그러니 선거단이 어떻게 이 설계도 두 개를 손에 넣었는지 도무지 알 수가 없어. 어쨌든, 이건 U.S.C.M.에게 좋을 리 없는 일이야. 그들의 막대한 자금과 자원을 생각하면, 테렌 가드가 분명 이 설계도를 이용해 자기들 목적을 위한 정밀 개량형 무기를 만들어낼 거야.
+
+### '코럴그로워' @ /codex/newspaper/sb-chronicle-03.codex.patch /contentPages/8
+  EN: 'Go,' one of the older missionaries whispers to Coralgrower. 'You're still young, strong. You can make it. We'll hold them off. Go.
+
+'Go and warn the universe about the Agaran menace.'
+  KO: '가.' 나이 든 선교사 한 명이 코럴그로워에게 속삭인다. '넌 아직 젊고 강해. 해낼 수 있어. 우리가 놈들을 막을게. 가.
+
+'가서 온 우주에 아가란의 위협을 알려.'
+
+### '코럴그로어' @ /codex/newspaper/sb-chronicle-03.codex.patch /contentPages/9
+  EN: Coralgrower flees, charging through the dark cave, trying to ignore the sounds of battle behind her. Trying to ignore those voices, those sounds, and then... that strange, growling sound, not like a creature at all, but the sounds of something taking root, growing, spreading, filling the mouth of the cave, chasing her down, down, down the dark tunnel, the scent of sap and oak dancing just behind her, out of sight.
+  KO: 코럴그로어는 뒤의 전투 소리를 무시하려 하며 어두운 동굴을 가로질러 달아난다. 그 목소리, 그 소리, 그리고... 생물의 소리가 아닌 이상한 으르렁거림을 무시하려 한다. 무언가가 뿌리내리고 자라 퍼지며 동굴 입구를 가득 채우고, 그녀를 어둡고 깊은 터널 아래로 쫓는다. 수액과 참나무 향기가 시야 밖 바로 뒤에서 맴돈다.
+
+### '코럴그로어' @ /codex/newspaper/sb-chronicle-03.codex.patch /contentPages/10
+  EN: Coralgrower does not stop running until she reaches open ground, and teleports up to the ship. She knows the others are lost. Her heart still racing, her breath still ragged, Coralgrower sits in the captain's chair and makes the jump.
+  KO: 코럴그로어는 탁 트인 곳에 닿을 때까지 달리기를 멈추지 않고 함선으로 텔레포트한다. 다른 이들이 사라졌다는 걸 안다. 심장은 여전히 뛰고 숨은 거칠지만, 코럴그로어는 선장 의자에 앉아 도약한다.
+
+### '맥비카' @ /codex/newspaper/sb-chronicle-01.codex.patch /contentPages/6
+  EN: Editor's Note: In the absence of the Chronicle's investigative reporter Charlton McVicar, we've decided to run with this educational piece by renowned Hylotl scholar Dr. Isu. Thank you, Dr. Isu, for this inside look into the fascinating culture of the Apex people.
+  KO: 편집자 주: 크로니클의 탐사 기자 찰턴 맥비카의 부재로 인해, 우리는 저명한 하이로틀 학자 이수 박사가 쓴 이 교육적인 글을 싣기로 결정했다. 에이펙스 민족의 매혹적인 문화를 내부에서 들여다볼 수 있게 해준 이수 박사에게 감사드린다.
+
+### '맥비카' @ /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/2
+  EN: McVicar: ... stuck in some kind of subterranean cave system. Mushrooms are sprouting from the walls, the floor, all over. There are basic furnishings here; they seem Floran in origin. I don't think this is an old dwelling. It's... it's new.
+
+- Voice analysis complete. Subject: Charlton McVicar, human investigative reporter.
+  KO: 맥비카: ...지하 동굴 시스템 안에 갇혔다. 벽에서, 바닥에서, 사방에서 버섯이 자라나고 있다. 여기 기본적인 가구들이 있다; 플로란풍인 것 같다. 오래된 거주지 같지는 않다. 이건...새로 만들어진 것 같다.
+
+- 음성 분석 완료. 대상: 찰턴 맥비카, 인간 탐사 기자.
+
+### '맥비카' @ /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/3
+  EN: Human 2: McVicar. Abort. It's not worth your life. Let us handle it.
+
+- Voice analysis complete. Subject: General Cassidy Cale, human military leader.
+
+McVicar: No can do. I can hear them up ahead. Two languages. Agaran and Floran. They're not... I can see them... oh my god, the Agarans haven't been attacking the Florans, they've -
+
+*static*
+  KO: 인간 2: 맥비카. 그만둬. 네 목숨 걸 가치 없어. 우리가 처리할게.
+
+- 음성 분석 완료. 대상: 캐시디 케일 장군, 인간 군 지휘관.
+
+맥비카: 안 돼. 저 앞에서 저들 소리가 들려. 두 언어야. 아가란어랑 플로란어. 저들은... 보인다... 세상에, 아가란인들이 플로란인들을 공격한 게 아니었어, 그들은-
+
+*지지직*
+
+### '맥비카' @ /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/4
+  EN: McVicar: There are pods. Dozens and dozens of pods. They're twitching. I think they're about to... holy hell what is that, what in the name of Earth is that...
+
+*a strange, low roar*
+
+- Species analysis pending...
+
+McVicar: I have to get out of here. There's a Hylotl too, and...
+  KO: 맥비카: 고치들이 있다. 수십, 수백 개의 고치. 그것들이 꿈틀거린다. 뭔가 곧... 세상에 저게 대체 뭐야, 대체 지구의 이름을 걸고 저건 뭐야...
+
+*낯설고, 낮은 포효*
+
+- 종 분석 대기 중...
+
+맥비카: 여기서 나가야 한다. 하이로틀도 하나 있고, 그리고...
+
+### '맥비카' @ /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/5
+  EN: McVicar: The mushrooms, they're... they're giving off some kind of gas. The cave's filling with spores. The ground's...
+
+McVicar: If anyone can hear me, anyone at all, I'm at co-ordinates [error in translation]. Bring guns. Bring armies. It's... it's just like on Earth... but... the Hylotl...
+
+*a loud crash, followed by another roar, this time much louder*
+
+- Species analysis failed. Transmission lost...
+  KO: 맥비카: 버섯들이, 그게... 무슨 가스 같은 걸 뿜어내고 있다. 동굴이 포자로 가득 차고 있다. 바닥이...
+
+맥비카: 누구든 내 말이 들리면, 정말 누구든, 나는 좌표 [번역 오류]에 있다. 총을 가져와라. 군대를 데려와라. 이건... 지구에서와 똑같다... 근데... 하이로틀이...
+
+*큰 굉음, 뒤이어 더 큰 포효가 다시 한번*
+
+- 종 분석 실패. 통신 두절...
+
+### '맥비커' @ /codex/newspaper/sb-chronicle-02.codex.patch /description
+  EN: "Where in the universe is Charlton McVicar" says this Starbound Chronicle article
+  KO: 이 스타바운드 크로니클 기사 제목은 《우주 어디에 있나, 찰튼 맥비커》다.
+
+### '맥비커' @ /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/0
+  EN: When we last caught up with the Chronicle's resident investigative reporter, Charlton McVicar, he was out in the field digging up any and all information he could about the mysterious Agarans, sentient fungi spreading throughout the universe. Since then we've had little contact with McVicar, save for the transmission transcribed below-- intercepted by one of Thornwing's drones. Take a look for yourself, readers, and let us know if you have any information on McVicar's whereabouts.
+  KO: 크로니클 상주 탐사 기자 찰튼 맥비커와 마지막으로 접촉했을 때, 그는 현장에서 우주 전역에 퍼지고 있는 지성 곰팡이, 수수께끼의 아가란에 대한 모든 정보를 파헤치고 있었다. 그 이후로는, 아래에 옮겨 적은 - 쏜윙의 드론 하나가 가로챈 - 전송문 외에 맥비커와의 연락이 거의 없었다. 독자 여러분, 직접 보시고, 맥비커의 행방에 대한 정보가 있다면 알려주시기 바랍니다.
+
+### '배통' @ /codex/saturn/saturnmagicstaff.codex.patch /contentPages/2
+  EN: Batons can cast magic without focusing at all. These are functionally similar to guns, though the magic cast tends to move slower than bullets. The fast casting times tend to drain energy much faster than most staff types.
+  KO: 배통은 집중 없이도 마법을 시전할 수 있다. 기능적으로는 총과 비슷하지만, 시전된 마법은 총알보다 느리게 이동하는 경향이 있다. 빠른 시전 시간 탓에 대부분의 스태프 종류보다 에너지를 훨씬 빨리 소모하는 경향이 있다.
+
+### '배통' @ /interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn.patch /scenes/batong0/text
+  EN: 
+  KO: 몬스터: 배통 - 가족: 배통 - 생물군: 지하
+

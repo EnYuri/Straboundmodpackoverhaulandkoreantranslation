@@ -1,0 +1,75 @@
+en	ko
+Ammo capacity x2	탄약 용량 ×2
+Recoil -0.2x	반동 -0.2배
+If I appear anywhere, something's wrong; check the scripts and tooltips.	이 문구가 어디든 보이면 문제가 있는 것; 스크립트와 툴팁을 확인할 것.
+Crit Chance +50% when aiming	조준 중 치명타 확률 +50%
+"Recoil x0.8
+Inaccuracy x0.8
+Crit Chance +50% when aiming"	"반동 ×0.8
+명중 오차 ×0.8
+조준 중 치명타 확률 +50%"
+Projectiles: 3	발사체: 3
+"Multishot: 1.1
+Hitscan Pen.: 3"	"다중 발사: 1.1
+히트스캔 관통: 3"
+"Projectile Count: 1
+Multishot: 3
+Base Damage +1x
+Spread +1 deg.
+Recoil +10
+Recoil Momentum +10"	"발사체 수: 1
+다중 발사: 3
+기본 피해 +1배
+탄 퍼짐 +1도
+반동 +10
+반동 탄성 +10"
+Spread: 1 deg.	탄 퍼짐: 1도
+"Cock time: 0.5s
+Ammo Capacity +4"	"장전 시간: 0.5초
+탄약 용량 +4"
+Trigger time: 0.1s	방아쇠 시간: 0.1초
+"Spread -0.9x
+Recoil -0.9x"	"탄 퍼짐 -0.9배
+반동 -0.9배"
+"Recoil +10 deg.
+Projectile Count: 1
+Spread: -0.99x
+Base Damage +0.25"	"반동 +10도
+발사체 수: 1
+탄 퍼짐: -0.99배
+기본 피해 +0.25"
+Max Ammo +3	최대 탄약 +3
+Spread -0.5x	탄 퍼짐 -0.5배
+"Inaccuracy -0.2x
+Recoil -0.2x"	"명중 오차 -0.2배
+반동 -0.2배"
+"Multishot +3
+Spread -0.5x"	"다중 발사 +3
+탄 퍼짐 -0.5배"
+Max Ammo x0.5	최대 탄약 ×0.5
+"Inaccuracy -0.2x
+Recoil -0.2x
+Recovery Time -0.75x"	"명중 오차 -0.2배
+반동 -0.2배
+회복 시간 -0.75배"
+Recoil -0.1x	반동 -0.1배
+"Multishot +2
+Spread: 1 deg."	"다중 발사 +2
+탄 퍼짐: 1도"
+"Screen Shake: 0.1
+Recoil -0.5x"	"화면 흔들림: 0.1
+반동 -0.5배"
+"Heavy: Removes mobility penalties.
+Mobility +0.15x"	"중량: 기동성 패널티 제거.
+기동성 +0.15배"
+"
+Damage*2+1
+fireTime*2-1
+(reloadCost/2)-1
+critChance*2+1
+critDamage*2+1"	"
+피해*2+1
+발사시간*2-1
+(재장전비용/2)-1
+치명타확률*2+1
+치명타피해*2+1"

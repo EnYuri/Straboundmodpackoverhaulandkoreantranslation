@@ -1,0 +1,137 @@
+### /cinematics/CHARACTERS/COMMANDO/gico_commando_ambush_human_path.cinematic.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/panels/4/text",
+      "value": "*You enter the place expecting resistance. Instead, you find only corpses littering the hallways. It seems someone else has already cleared the place before you could.*"
+    },
+    {
+      "op": "replace",
+      "path": "/panels/4/text",
+      "value": "*저항을 예상하며 들어섰지만, 복도에는 시체만 널려 있다. 당신보다 먼저 누군가 이곳을 싹 쓸어버린 모양이다.*"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/panels/5/text",
+      "value": "*Suddenly, you hear footsteps behind you. Before you can even turn around, you feel a gun barrel touching your ba
+
+### /cinematics/CHARACTERS/DAITENGU/gico_daitengu_outskirts_regroup_youkai_path.cinematic.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/panels/4/text",
+      "value": "Ah. You're here. One moment, outsider. *Megumu turns toward the wolf tengu.*"
+    },
+    {
+      "op": "replace",
+      "path": "/panels/4/text",
+      "value": "아. 오셨군요. 잠깐만요, 이방인. *메구무가 늑대 텐구 쪽으로 돌아선다.*"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/panels/5/text",
+      "value": "Momiji. What's the status on the front?"
+    },
+    {
+      "op": "replace",
+      "path": "/panels/5/text",
+      "value": "모미지. 전선 상황은 어때?"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/panels/6/text",
+      "val
+
+### /codex/WOODLANDS/gico_officer_report/gico_officer_report.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Officer Report"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "장교 보고서"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "The insignia of the Lion is imprinted on it."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "사자의 문장이 찍혀 있다."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/contentPages/0",
+      "value": "Day 356\n\nIt has been almost of a year since our arrival to this savage world. Out of the original hundred
+
+### /items/AMMUNITION/LION/gico_lb_flamethrower_mag/gico_lb_flamethrower_mag.item.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Massive fuel tank used by the S1 Flamethrower. The West Star primarily use flamethrowers to clear out hallways and enclosed positions. Due to how scarce fuel is, they are often used as a last resort when all other methods of attack have failed."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "S1 화염방사기에 쓰이는 대형 연료 탱크. 웨스트 스타는 주로 복도와 밀폐된 지점을 소탕하는 데 화염방사기를 사용한다. 연료가 워낙 귀해서, 다른 모든 공격 수단이 실패했을 때 최후의 수단으로 자주 쓰인다."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+ 
+
+### /items/AUGMENTS/TRINKETS/PATRONS/gic_patron_moonrabbit.augment.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "''When the Abyss attacked our homelands we were thrown into chaos and disorder. Too many refused to swallow their pride, and so for the crime of the elite we found ourselves without allies. By the time we sought out help from the humans, against the Lunarians' wishes, it was too late.''\r\n\r\n^orange;Can fire at extremely long ranges | 1.5s firerate | Base 80 Small-Arms DMG | 16rnd Mag | 3s reload."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "''심연이 우리 고향을 침공했을 때 우리는 혼란과 무질서에 빠졌다
+
+### /items/FOODS/LION/gico_tankerstea.consumable.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "''No need to panic, chaps. The tea is still hot!''\r\nCertain Rose Empire tank crews have garnered a reputation of drinking tea whenever there is downtime. Being the only other drink aside from water that could be found in the front, both the Lion and the other Western Armies adopted the drink with some of them adding additional substances to help improve combat performance.\r\n^Orange;Grants Tankers Tea - 5% Movement Speed, +25 HP, and IMMUNE to Suppression for 20 minutes."
+    },
+    {
+      "op": "replace",
+      
+
+### /items/WEAPONS/RANGED/LION/ASSAULT_RIFLE/gico_lb44/gico_lb44_normal.activeitem.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "It wasn't difficult for the Kaiser to hide the mobilization of the Lion Army after having lost the First Continental War. Through political maneuvering and espionage, the Kaiser resumed weapon development in secret in preperation of continuing the war against the Crown Federation. One such weapon developed is the L44, a first generation assault rifle which would see great use throughout the Second Continental War.\r\nAccepts 30rnd 7.92x33mm magazines.\r\n^green;Hold down \"Alt Fire\" to switch between Full Auto and S
+

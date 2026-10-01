@@ -1,0 +1,281 @@
+file	asset	path	en	pak_ko	tsv_ko
+c2957_ko_01.tsv	/stats/effects/mwhaddon_usable/mwhaddon_usable_windcatcher/mwhaddon_usable_windcatcher.statuseffect	/label	Windcatcher	윈드캐처	윈드캐처\n
+gic_ko_12.tsv	/stats/gic_flashbang/gic_stun.statuseffect	/label	Stun	기절	기절\n
+gic_ko_12.tsv	/stats/gic_flashbang/gic_stun_playercounter.statuseffect	/label	Stun	기절	기절\n
+lfw_ko.tsv	/ITEMS/WEAPONS/RANGED/SNIPER_RIFLE/giclfw_remington700/giclfw_remington700.activeitem	/description	A legendary bolt-action hunting rifle that has stood the test of time since its original inception in 1962. The Remington Model 700, sometimes referred to as the R700 or M700, is the best friend of co	1962년 첫 등장 이후 세월을 견뎌낸 전설적인 볼트액션 사냥 소총. R700이나 M700이라고도 불리는 레밍턴 모델 700은 은하계 곳곳의 숲꾼, 사냥꾼, 생존주의자, 야외 활동가들의 믿음직한 동반자다. 북아메리카의 숲부터 수광년 너머의 외계 행성까지, 소형에서 중형, 대형 사냥감까지 수없이 쓰러뜨려 왔다.\n7.62x51mm탄을 개별 장전.	1962년 처음 등장한 이래 시대를 뛰어넘은 전설적인 볼트액션 사냥용 소총입니다. 흔히 R700 또는 M700이라 불리는 레밍턴 모델 700은 신뢰성, 견고함, 정확성 덕분에 은하 전역의 수많은 나무꾼, 사냥꾼, 생존주의자, 야외활동가에게 가장 좋은 벗이 되어왔습니다. 레밍턴 700은 그 이후로 북아메리카의 숲부터 수 광년 떨어진 외계 행성에 이르기까지, 
+lfw_ko.tsv	/OBJECTS/wired/giclfw_musicplayerradio/giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver.object	/objectName	giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver	giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver	giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver\n
+lfw_ko_manual.tsv	/OBJECTS/wired/giclfw_musicplayerradio/giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver.object	/objectName	giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver	giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver	giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver\n
+ow_ko_03.tsv	/projectiles/SUPPORT/gico_medical_drop/gico_medical_drop_healing.statuseffect	/label	Healing	치유	치유\n
+ow_ko_03.tsv	/stats/HEALTH/gico_recover100.statuseffect	/label	Healing	치유	치유\n
+ow_ko_03.tsv	/stats/HEALTH/gico_recover100potion.statuseffect	/label	Healing	치유	치유\n
+ow_ko_03.tsv	/stats/HEALTH/gico_recover25.statuseffect	/label	Healing	치유	치유\n
+ow_ko_03.tsv	/stats/HEALTH/gico_recover50.statuseffect	/label	Healing	치유	치유\n
+ow_ko_03.tsv	/stats/HEALTH/gico_recover500.statuseffect	/label	Healing	치유	치유\n
+ow_ko_03.tsv	/stats/MISC/gico_vehicle_repair/gico_vehiclerepair.statuseffect	/label	Healing	치유	치유\n
+rsr_ko_02.tsv	/items/armors/GiC IJA Uniforms/type20officer/gic_type20officer.head	/shortdescription	Type 19 Helmet (Officer)	19식 철모 (장교)	19식 철모 (장교)\n
+sat_ko_01.tsv	/items/armors/saturn/Extra Armor/saturn-t4 Demon/saturnDemon.chest	/description	A colorful robe worn by some sort of evil cult, probably.	무슨 악한 교단이 입는 듯한 화려한 로브, 아마도.	무슨 악한 교단이 입는 듯한 화려한 로브, 아마도.\n
+sat_ko_03.tsv	/items/armors/saturn/Hat Conversions/hylotl/hylotl-tier6separator/saturnhylotltier6separator.head	/description	A helmet designed for the elite warrior, the crest implies nobility of purpose.	정예 전사용으로 설계된 투구로, 볏은 고귀한 목적을 암시한다.	정예 전사용으로 설계된 투구로, 볏은 고귀한 목적을 암시한다.\n
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/hylotl/hylotl-tier6separator/saturnhylotltier6separator.head	/shortdescription	^cyan;^white;Disphotic Helm	^cyan;^white;약광층 투구	많은 새터니안들이 글리치 양식 대장법을 받아들이기 시작했다. 마을 경비대가 글리치 갑옷을 아주 좋아한다.
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier1/satglitchtier1.head	/description	Many Saturnians have begun to take up Glitch styled smithing. Town guards love Glitch armor.	많은 새터니안들이 글리치 양식 대장법을 받아들이기 시작했다. 마을 경비대가 글리치 갑옷을 아주 좋아한다.	새터니안 하급 기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier2/satglitchtier2.head	/description	Many Saturnians have begun to take up Glitch styled smithing. Town guards love Glitch armor.	많은 새터니안들이 글리치 양식 대장법을 받아들이기 시작했다. 마을 경비대가 글리치 갑옷을 아주 좋아한다.	새터니안 하급 기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier3/satglitchtier3.head	/description	Many Saturnians have begun to take up Glitch styled smithing. Town guards love Glitch armor.	많은 새터니안들이 글리치 양식 대장법을 받아들이기 시작했다. 마을 경비대가 글리치 갑옷을 아주 좋아한다.	새터니안 하급 기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier1/satglitchtier1.head	/shortdescription	Sat. Knave's Helm	새터니안 하급 기사의 투구	새터니안 병사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier2/satglitchtier2.head	/shortdescription	Sat. Soldier's Helm	새터니안 병사의 투구	새터니안 기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier3/satglitchtier3.head	/shortdescription	Sat. Knight's Helm	새터니안 기사의 투구	이 투구에는 공허 마법이 걸려 있다. 착용자의 눈이 위협적으로 빛난다.
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier3B/satglitchtier3B.head	/description	This helmet has been enchanted with void magic. The wearer's eyes glow menacingly.	이 투구에는 공허 마법이 걸려 있다. 착용자의 눈이 위협적으로 빛난다.	새터니안 기사의 투구 B
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier3B/satglitchtier3B.head	/shortdescription	Sat. Knight's Helm B	새터니안 기사의 투구 B	새터니안들도 글리치 양식 대장법을 받아들이기 시작했지만, 그들의 갑옷은 장식용에 가장 적합하다.
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier4/satglitchtier4.head	/description	Saturnians have begun to take up Glitch styled smithing, but their armor is best suited for decoration.	새터니안들도 글리치 양식 대장법을 받아들이기 시작했지만, 그들의 갑옷은 장식용에 가장 적합하다.	새터니안 흑기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier5accelerator/satglitchtier5accelerator.head	/description	Saturnians have begun to take up Glitch styled smithing, but their armor is best suited for decoration.	새터니안들도 글리치 양식 대장법을 받아들이기 시작했지만, 그들의 갑옷은 장식용에 가장 적합하다.	새터니안 흑기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier4/satglitchtier4.head	/shortdescription	Sat. Dark Knight's Helm	새터니안 흑기사의 투구	이 투구는 얼굴을 가리고 눈을 글리치처럼 빛나게 한다. 사실상 그게 전부다.
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier4B/satglitchtier4B.head	/description	This helmet shrouds the face and makes eyes glow like a Glitch. That's about all it's good for.	이 투구는 얼굴을 가리고 눈을 글리치처럼 빛나게 한다. 사실상 그게 전부다.	새터니안 흑기사의 투구 B
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier4B/satglitchtier4B.head	/shortdescription	Sat. Dark Knight's Helm B	새터니안 흑기사의 투구 B	새터니안 성전사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier5accelerator/satglitchtier5accelerator.head	/shortdescription	Sat. Crusader's Helm	새터니안 성전사의 투구	글리치 마법사 투구를 바탕으로 한 철 투구. 글리치 마법사한테 투구가 왜 필요한데?
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier5manipulator/satglitchtier5manipulator.head	/description	This iron helmet is based on a Glitch wizard's helmet. Why do Glitch wizards need a helmet?	글리치 마법사 투구를 바탕으로 한 철 투구. 글리치 마법사한테 투구가 왜 필요한데?	새터니안 창기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier5manipulator/satglitchtier5manipulator.head	/shortdescription	Sat. Lancer's Helm	새터니안 창기사의 투구	멋진 투구의 새터니안 재현품이지만, 장식용일 뿐이다.
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier5manipulatorB/satglitchtier5manipulatorB.head	/shortdescription	Sat. Lancer's Helm	새터니안 창기사의 투구	멋진 투구의 새터니안 재현품이지만, 장식용일 뿐이다.
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier5manipulatorB/satglitchtier5manipulatorB.head	/description	This is a Saturnian recreation of an amazing helmet, but it's only for decoration.	멋진 투구의 새터니안 재현품이지만, 장식용일 뿐이다.	새터니안 성기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier5separator/satglitchtier5separator.head	/description	This is a Saturnian recreation of an amazing helmet, but it's only for decoration.	멋진 투구의 새터니안 재현품이지만, 장식용일 뿐이다.	새터니안 성기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier6accelerator/satglitchtier6accelerator.head	/description	This is a Saturnian recreation of an amazing helmet, but it's only for decoration.	멋진 투구의 새터니안 재현품이지만, 장식용일 뿐이다.	새터니안 성기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier6acceleratorB/satglitchtier6acceleratorB.head	/description	This is a Saturnian recreation of an amazing helmet, but it's only for decoration.	멋진 투구의 새터니안 재현품이지만, 장식용일 뿐이다.	새터니안 성기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier6manipulator/satglitchtier6manipulator.head	/description	This is a Saturnian recreation of an amazing helmet, but it's only for decoration.	멋진 투구의 새터니안 재현품이지만, 장식용일 뿐이다.	새터니안 성기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier6separator/satglitchtier6separator.head	/description	This is a Saturnian recreation of an amazing helmet, but it's only for decoration.	멋진 투구의 새터니안 재현품이지만, 장식용일 뿐이다.	새터니안 성기사의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier5separator/satglitchtier5separator.head	/shortdescription	Sat. Paladin's Helm	새터니안 성기사의 투구	새터니안 군단병의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier6accelerator/satglitchtier6accelerator.head	/shortdescription	Sat. Legionnaire's Helm	새터니안 군단병의 투구	새터니안 군단병의 투구 B
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier6acceleratorB/satglitchtier6acceleratorB.head	/shortdescription	Sat. Legionnaire's Helm B	새터니안 군단병의 투구 B	새터니안 기사단원의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier6manipulator/satglitchtier6manipulator.head	/shortdescription	Sat. Templar's Helm	새터니안 기사단원의 투구	새터니안 파멸 군주의 투구
+sat_ko_04.tsv	/items/armors/saturn/Hat Conversions/legacyglitch/glitch-tier6separator/satglitchtier6separator.head	/shortdescription	Sat. Doom Lord's Helm	새터니안 파멸 군주의 투구	이 모자를 쓰면 멋진 보안관 대리가 될 수 있다.
+sat_ko_04b.tsv	/items/armors/saturn/Wings/Winter/saturnWingWinter.back	/shortdescription	Winter Wings	겨울 날개	겨울 날개\n
+sat_ko_05.tsv	/items/armors/saturn/clothes/Hats/saturnchefhead/saturnchef.head	/shortdescription	^cyan;^white;Chef Hat	^cyan;^white;요리사 모자	^cyan;^white;요리사 모자\n
+sat_ko_06.tsv	/items/armors/saturn/clothes/saturnlunairobes2/saturnlunairobes2.head	/description	A simple hood that outlines the wearer's face with white.	착용자의 얼굴을 흰색으로 강조하는 단순한 후드.	느슨한 후드
+sat_ko_06.tsv	/items/armors/saturn/clothes/saturnlunairobes2/saturnlunairobes2.head	/shortdescription	Loose Hood	느슨한 후드	착용자의 얼굴을 흰색으로 강조하는 단순한 후드.
+sat_ko_06.tsv	/items/armors/saturn/clothes/saturnlunairobes2/saturnlunairobes2.legs	/description	Actias's spirit mages use the moon's light to power their magic.	악티아스의 정령 마법사들은 달빛으로 마법에 힘을 불어넣는다.	액티안 치마
+sat_ko_06.tsv	/items/armors/saturn/clothes/saturnlunairobes2/saturnlunairobes2.legs	/shortdescription	Actian Skirt	액티안 치마	악티아스의 정령 마법사들은 달빛으로 마법에 힘을 불어넣는다.
+sat_ko_06.tsv	/items/armors/saturn/clothes/saturnmerchant/saturnmerchant.chest	/description	Recent contact with the Glitch has led to some Saturnians adopting some of their fashion.	글리치와의 최근 접촉으로 일부 새터니안들이 그들의 패션을 받아들이게 됐다.	새터니안 글리치 셔츠
+sat_ko_06.tsv	/items/armors/saturn/clothes/saturnmerchant/saturnmerchant.legs	/description	Recent contact with the Glitch has led to some Saturnians adopting some of their fashion.	글리치와의 최근 접촉으로 일부 새터니안들이 그들의 패션을 받아들이게 됐다.	새터니안 글리치 셔츠
+sat_ko_06.tsv	/items/armors/saturn/clothes/saturnnoble/saturnnoble.legs	/description	Recent contact with the Glitch has led to some Saturnians adopting some of their fashion.	글리치와의 최근 접촉으로 일부 새터니안들이 그들의 패션을 받아들이게 됐다.	새터니안 글리치 셔츠
+sat_ko_06.tsv	/items/armors/saturn/clothes/saturnmerchant/saturnmerchant.chest	/shortdescription	Saturnian Glitch Shirt	새터니안 글리치 셔츠	글리치와의 최근 접촉으로 일부 새터니안들이 그들의 패션을 받아들이게 됐다.
+sat_ko_06.tsv	/items/armors/saturn/clothes/saturnornaterobes/ornaterobes.chest	/description	This robe was woven with silk and silver-gilt thread. 	비단과 은도금 실로 짠 로브. 	정교한 로브
+sat_ko_06.tsv	/items/armors/saturn/clothes/saturnornaterobes/ornaterobes.legs	/description	This robe was woven with silk and silver-gilt thread. 	비단과 은도금 실로 짠 로브. 	정교한 로브
+sat_ko_06.tsv	/items/armors/saturn/clothes/saturnornaterobes/ornaterobes.chest	/shortdescription	Ornate Robe	정교한 로브	비단과 은도금 실로 짠 로브. 
+sat_ko_06.tsv	/stats/effects/thorns/saturnvampire.statuseffect	/label	Vampire	흡혈귀	흡혈귀\n
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier1/saturnapextier1.head	/shortdescription	^cyan;^white;Defector's Mask	^cyan;^white;반역자의 마스크	반역자의 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier2/saturnapextier2.head	/shortdescription	^cyan;^white;Rebel's Hood	^cyan;^white;반역군의 후드	반역군의 후드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier3/saturnapextier3.head	/shortdescription	^cyan;^white;Insurgent's Mask	^cyan;^white;폭동자의 마스크	폭동자의 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier4/saturnapextier4.head	/shortdescription	^cyan;^white;Revolutionary's Bandana	^cyan;^white;혁명가의 반다나	혁명가의 반다나
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier5accelerator/saturnapextier5accelerator.head	/shortdescription	^cyan;^white;Rogue's Hood	^cyan;^white;도적의 후드	도적의 후드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier5manipulator/saturnapextier5manipulator.head	/shortdescription	^cyan;^white;Spy's Hood	^cyan;^white;스파이의 후드	스파이의 후드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier5manipulatorGo/saturnapextier5manipulatorGo.head	/shortdescription	^red;^white;Spy's Goggles	^red;^white;스파이의 고글	스파이의 고글
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier5manipulatorHg/saturnapextier5manipulatorHg.head	/shortdescription	^red;^white;Spy's Hood	^red;^white;스파이의 후드	스파이의 후드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier5separator/saturnapextier5separator.head	/shortdescription	^cyan;^white;Assassin's Mask	^cyan;^white;암살자의 마스크	암살자의 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier6accelerator/saturnapextier6accelerator.head	/shortdescription	^cyan;^white;Infiltrator's Helm	^cyan;^white;침투자의 투구	침투자의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier6acceleratorB/saturnapextier6acceleratorB.head	/shortdescription	^red;^white;Infiltrator's Helm	^red;^white;침투자의 투구	침투자의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier6manipulator/saturnapextier6manipulator.head	/shortdescription	^cyan;^white;Usurper's Hood	^cyan;^white;찬탈자의 후드	찬탈자의 후드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/apex/apex-tier6separator/saturnapextier6separator.head	/shortdescription	^cyan;^white;Frontliner's Helm	^cyan;^white;전방전사의 투구	전방전사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/avian/avian-tier1/saturnaviantier1.head	/shortdescription	^cyan;^white;Hatchling's Circlet	^cyan;^white;새끼의 서클릿	새끼의 서클릿
+sat_names.tsv	/items/armors/saturn/Hat Conversions/avian/avian-tier2/saturnaviantier2.head	/shortdescription	^cyan;^white;Sparrow Helm	^cyan;^white;참새 투구	참새 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/avian/avian-tier3/saturnaviantier3.head	/shortdescription	^cyan;^white;Quail Crest	^cyan;^white;메추라기 볏	메추라기 볏
+sat_names.tsv	/items/armors/saturn/Hat Conversions/avian/avian-tier4/saturnaviantier4.head	/shortdescription	^cyan;^white;Owl Helm	^cyan;^white;올빼미 투구	올빼미 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/avian/avian-tier5accelerator/saturnaviantier5accelerator.head	/shortdescription	^cyan;^white;Peacock Headdress	^cyan;^white;공작 머리장식	공작 머리장식
+sat_names.tsv	/items/armors/saturn/Hat Conversions/avian/avian-tier5manipulator/saturnaviantier5manipulator.head	/shortdescription	^cyan;^white;Flamingo Headdress	^cyan;^white;플라밍고 머리장식	플라밍고 머리장식
+sat_names.tsv	/items/armors/saturn/Hat Conversions/avian/avian-tier5separator/saturnaviantier5separator.head	/shortdescription	^cyan;^white;Phoenix Helm	^cyan;^white;불사조 투구	불사조 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/avian/avian-tier6accelerator/saturnaviantier6accelerator.head	/shortdescription	^cyan;^white;Macaw Headdress	^cyan;^white;금강앵무 머리장식	금강앵무 머리장식
+sat_names.tsv	/items/armors/saturn/Hat Conversions/avian/avian-tier6manipulator/saturnaviantier6manipulator.head	/shortdescription	^cyan;^white;Raven's Beak	^cyan;^white;까마귀 부리	까마귀 부리
+sat_names.tsv	/items/armors/saturn/Hat Conversions/avian/avian-tier6separator/saturnaviantier6separator.head	/shortdescription	^cyan;^white;Toucan Helm	^cyan;^white;왕부리새 투구	왕부리새 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/afrowig/saturnafrowig.head	/shortdescription	^cyan;^white;The Captain's Fro	^cyan;^white;선장의 아프로	선장의 아프로
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/coolshades/saturncoolshades.head	/shortdescription	^cyan;^white;Cool Shades	^cyan;^white;멋진 선글라스	멋진 선글라스
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/demonhorns/saturndemonhorns.head	/shortdescription	^cyan;^white;Demon Horn Wig	^cyan;^white;악마 뿔 가발	악마 뿔 가발
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/electroniumhat/saturnelectroniumhat.head	/shortdescription	^cyan;^white;Electronium Hat	^cyan;^white;일렉트로늄 모자	일렉트로늄 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/fancap/saturnfancap.head	/shortdescription	^cyan;^white;Sporty Cap	^cyan;^white;스포티 캡	스포티 캡
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/giantbow/saturngiantbow.head	/shortdescription	^cyan;^white;Giant Bow	^cyan;^white;거대 리본	거대 리본
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/glitchplague/saturnplaguemaster.head	/shortdescription	^cyan;^white;Plague Master Mask	^cyan;^white;역병 대가 마스크	역병 대가 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/multicamhat/saturnmulticamhat.head	/shortdescription	^cyan;^white;Multicam Operator Cap	^cyan;^white;멀티캠 작전 모자	멀티캠 작전 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/plumeknight/saturnplumeknight.head	/shortdescription	^cyan;^white;Plume Knight Helm	^cyan;^white;깃털 기사 투구	깃털 기사 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/soulguise/saturnsoulguise.head	/shortdescription	^cyan;^white;Soul Guise Helmet	^cyan;^white;영혼 가면 투구	영혼 가면 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/soulguiseB/saturnsoulguiseB.head	/shortdescription	^red;^white;Soul Guise Helmet	^red;^white;영혼 가면 투구	영혼 가면 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/stargazer/saturnstargazer.head	/shortdescription	^cyan;^white;Stargazer Hood	^cyan;^white;별관찰자 후드	별관찰자 후드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/thehrodgard/saturnthehrodgard.head	/shortdescription	^cyan;^white;The Hrodgard	^cyan;^white;흐로드가르드	흐로드가르드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/tricornhat/saturntricornhat.head	/shortdescription	^cyan;^white;Horned Tricorn	^cyan;^white;뿔 달린 삼각모	뿔 달린 삼각모
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/uncathat/saturnuncathat.head	/shortdescription	^cyan;^white;The Un-Cat Hat	^cyan;^white;언-캣 모자	언-캣 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/backerhats/valkyriehelm/saturnvalkyriehelm.head	/shortdescription	^cyan;^white;Valkyrie Helm	^cyan;^white;발키리 투구	발키리 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/Bioluminescence/biolumin/saturnbiolumin.head	/shortdescription	^cyan;^white;Glow Mask	^cyan;^white;발광 마스크	발광 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/Bioluminescence/lighthelm/saturnlighthelm.head	/shortdescription	^cyan;^white;Fluorescent Helmet	^cyan;^white;형광 투구	형광 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/copperarmor/saturncopperarmor.head	/shortdescription	^cyan;^white;Copper Goggles	^cyan;^white;구리 고글	구리 고글
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/foundry/foundrygoggles/saturnfoundrygoggles.head	/shortdescription	^cyan;^white;Foundry Goggles	^cyan;^white;주조 고글	주조 고글
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/foundry/foundryhardhat/saturnfoundryhardhat.head	/shortdescription	^cyan;^white;Foundry Hard Hat	^cyan;^white;주조 안전모	주조 안전모
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/foundry/weldershelmet/saturnweldershelmet.head	/shortdescription	^cyan;^white;Welder's Helmet	^cyan;^white;용접공의 투구	용접공의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/geode/saturngeode.head	/shortdescription	^cyan;^white;Geode Mask	^cyan;^white;정동석 마스크	정동석 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/giantflowers/buzzy/saturnbuzzy.head	/shortdescription	^cyan;^white;Buzzy Hat	^cyan;^white;윙윙 모자	윙윙 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/icecaves/icearmor/saturnicearmor.head	/shortdescription	^cyan;^white;Ice Armor Mask	^cyan;^white;얼음 갑옷 마스크	얼음 갑옷 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/midnight/darkdisguise/saturndarkdisguise.head	/shortdescription	^cyan;^white;Dark Disguise Mask	^cyan;^white;암흑 변장 마스크	암흑 변장 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/ocean/snorkel/saturnsnorkel.head	/shortdescription	^cyan;^white;Snorkel	^cyan;^white;스노클	스노클
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/slime/saturnslime.head	/shortdescription	^cyan;^white;Slime Mask	^cyan;^white;슬라임 마스크	슬라임 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/spring/flowery/saturnflowery.head	/shortdescription	^cyan;^white;Flowery Mask	^cyan;^white;꽃 마스크	꽃 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/steamspring/pipehat/saturnpipehat.head	/shortdescription	^cyan;^white;Pipe Hat	^cyan;^white;파이프 모자	파이프 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/tar/sabertoothhelm/saturnsabertoothhelm.head	/shortdescription	^cyan;^white;Sabertooth Helm	^cyan;^white;검치호 투구	검치호 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/tar/tar/saturntar.head	/shortdescription	^cyan;^white;Tar Mask	^cyan;^white;타르 마스크	타르 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/biome/volcanic/firelord/saturnfirelord.head	/shortdescription	^cyan;^white;Fire Lord's Helm	^cyan;^white;화염 군주의 투구	화염 군주의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/contest/carrothat/saturncarrothat.head	/shortdescription	^cyan;^white;The Motivator- ^cyan;DX^reset;	^cyan;^white;동기부여자- ^cyan;DX^reset;	동기부여자- ^cyan;DX^reset;
+sat_names.tsv	/items/armors/saturn/Hat Conversions/contest/causticstag/saturncausticstag.head	/shortdescription	^cyan;^white;Caustic Stag Helmet	^cyan;^white;가성 사슴벌레 투구	가성 사슴벌레 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/contest/faceleech/saturnfaceleech.head	/shortdescription	^cyan;^white;Benevolent Face Leech	^cyan;^white;자비로운 얼굴 거머리	자비로운 얼굴 거머리
+sat_names.tsv	/items/armors/saturn/Hat Conversions/contest/sensorysquidhat/saturnsensorysquidhat.head	/shortdescription	^cyan;^white;Sensory Squid Hat	^cyan;^white;감각 오징어 모자	감각 오징어 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/contest/steampunk/saturnsteampunk.head	/shortdescription	^cyan;^white;Steampunk Helmet	^cyan;^white;스팀펑크 투구	스팀펑크 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/contest/thinkingcap/saturnthinkingcap.head	/shortdescription	^cyan;^white;Thinking Cap	^cyan;^white;생각 모자	생각 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/costumes/betty/saturnbetty.head	/shortdescription	^cyan;^white;Disguise Mask	^cyan;^white;변장 마스크	변장 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/costumes/cupids/saturncupids.head	/shortdescription	^cyan;^white;Heart Wreath	^cyan;^white;하트 화관	하트 화관
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/costumes/executioner/saturnexecutionershead.head	/shortdescription	^cyan;^white;Executioner's Mask	^cyan;^white;처형인의 마스크	처형인의 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/costumes/fairy/saturnfairy.head	/shortdescription	^cyan;^white;Crown	^cyan;^white;왕관	왕관
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/costumes/miner/saturnminer.head	/shortdescription	^cyan;^white;Miner's Helmet	^cyan;^white;광부의 투구	광부의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/costumes/moneybags/saturnmoneybags.head	/shortdescription	^cyan;^white;Moneybags Hat	^cyan;^white;돈주머니 모자	돈주머니 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/costumes/mrclaus/saturnmrclaus.head	/shortdescription	^cyan;^white;Holiday Beard Hat	^cyan;^white;휴일 수염 모자	휴일 수염 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/costumes/penguin/saturnpenguin.head	/shortdescription	^cyan;^white;Penguin Suit Mask	^cyan;^white;펭귄 수트 마스크	펭귄 수트 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/costumes/predatory/saturnpredatory.head	/shortdescription	^cyan;^white;Predatory Head	^cyan;^white;포식자 머리	포식자 머리
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/banana/saturnbanana.head	/shortdescription	^cyan;^white;Banana Mask	^cyan;^white;바나나 마스크	바나나 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/bandithat1/saturnbandithat1.head	/shortdescription	^cyan;^white;Bandit's Bandana	^cyan;^white;도적단의 반다나	도적단의 반다나
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/bandithat2/saturnbandithat2.head	/shortdescription	^cyan;^white;Bandit's Hood	^cyan;^white;도적단의 후드	도적단의 후드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/bear/saturnianbear.head	/shortdescription	^cyan;^white;Bear Hat	^cyan;^white;곰 모자	곰 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/beehive/saturnbeehive.head	/shortdescription	^cyan;^white;Wasp Nest Helm	^cyan;^white;말벌집 투구	말벌집 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/beret/saturnberet.head	/shortdescription	^cyan;^white;Sassy Beret	^cyan;^white;재치있는 베레모	재치있는 베레모
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/bev/saturnbev.head	/shortdescription	^cyan;^white;Lumenade Drinking Hat	^cyan;^white;루미네이드 음료 모자	루미네이드 음료 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/bunny/saturnbunny.head	/shortdescription	^cyan;^white;Bunny Hat	^cyan;^white;토끼 모자	토끼 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/captainscap/saturncaptainscap.head	/shortdescription	^cyan;^white;Captain's Cap	^cyan;^white;선장 모자	선장 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/cardboard/saturncardboard.head	/shortdescription	^cyan;^white;Cardboard Hat	^cyan;^white;판지 모자	판지 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/clocktophat/saturnclocktophat.head	/shortdescription	^cyan;^white;Clock Tophat	^cyan;^white;시계 탑모자	시계 탑모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/dinosaur/saturndinosaur.head	/shortdescription	^cyan;^white;Dinosaur Hat	^cyan;^white;공룡 모자	공룡 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/divingmask/saturndivingmask.head	/shortdescription	^cyan;^white;Diving Mask	^cyan;^white;다이빙 마스크	다이빙 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/eye/saturneye.head	/shortdescription	^cyan;^white;All-Seeing Helmet	^cyan;^white;천안 투구	천안 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/eyehead/saturneyehead.head	/shortdescription	^cyan;^white;Terrifying Eye Hat	^cyan;^white;공포의 눈 모자	공포의 눈 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/eyepatch/saturneyepatch.head	/shortdescription	^cyan;^white;Giant Eyepatch	^cyan;^white;거대 안대	거대 안대
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/fancy/saturnfancy.head	/shortdescription	^cyan;^white;Dapper Hat	^cyan;^white;점잖은 모자	점잖은 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/fedora/saturnfedora.head	/shortdescription	^cyan;^white;Fedora	^cyan;^white;페도라	페도라
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/floppyhat/saturnfloppyhat.head	/shortdescription	^cyan;^white;Floppy Fancy Hat	^cyan;^white;펄럭이는 귀족 모자	펄럭이는 귀족 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/gasmask/saturngasmask.head	/shortdescription	^cyan;^white;Gas Mask	^cyan;^white;방독면	방독면
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/herocap/saturnherocap.head	/shortdescription	^cyan;^white;Hero's Cap	^cyan;^white;영웅의 모자	영웅의 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/hobo/saturnhobo.head	/shortdescription	^cyan;^white;Cardboard Hobo Hat	^cyan;^white;판지 노숙자 모자	판지 노숙자 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/industrialcrew/saturnindustrialcrew.head	/shortdescription	^cyan;^white;Industrial Crew Helmet	^cyan;^white;산업 승무원 투구	산업 승무원 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/kathood/saturnkathood.head	/shortdescription	^cyan;^white;Hood With Ears	^cyan;^white;귀 달린 후드	귀 달린 후드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/kitty/saturnkitty.head	/shortdescription	^cyan;^white;Kitty Hat	^cyan;^white;고양이 모자	고양이 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/ladyhat/saturnladyhathead.head	/shortdescription	^cyan;^white;Fancy Hat	^cyan;^white;귀족 모자	귀족 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/luchador/saturnluchador.head	/shortdescription	^cyan;^white;Luchador Mask	^cyan;^white;루차도르 마스크	루차도르 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/m1helmet/saturnm1helmet.head	/shortdescription	^cyan;^white;M1 Helmet	^cyan;^white;M1 투구	M1 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/mechpilot/saturnmechpilot.head	/shortdescription	^cyan;^white;Mech Pilot Helmet	^cyan;^white;메크 조종사 투구	메크 조종사 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/mininghat/saturnmininghat.head	/shortdescription	^cyan;^white;Mining Helmet	^cyan;^white;채광 투구	채광 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/phrygiancap/saturnphrygiancap.head	/shortdescription	^cyan;^white;Phrygian Cap	^cyan;^white;프리기아 모자	프리기아 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/plaguedoctor/saturnplaguedoctor.head	/shortdescription	^cyan;^white;Plague Doctor Mask	^cyan;^white;역병 의사 마스크	역병 의사 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/plainhood/saturnplainhood.head	/shortdescription	^cyan;^white;Plain Hood	^cyan;^white;평범한 후드	평범한 후드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/protectorateflower/saturnprotectorateflower.head	/shortdescription	^cyan;^white;Protectorate Flower	^cyan;^white;보호국 꽃	보호국 꽃
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/pyramid/saturnpyramid.head	/shortdescription	^cyan;^white;Pyramid Head	^cyan;^white;피라미드 헤드	피라미드 헤드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/rainbowhood/saturnrainbowhood.head	/shortdescription	^cyan;^white;Rainbow Hood	^cyan;^white;무지개 후드	무지개 후드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/safetyhelmet/saturnsafetyhelmet.head	/shortdescription	^cyan;^white;Safety Helmet	^cyan;^white;안전 투구	안전 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/shark/saturnshark.head	/shortdescription	^cyan;^white;Shark Hat	^cyan;^white;상어 모자	상어 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/sombrero/saturnsombrero.head	/shortdescription	^cyan;^white;Sombrero	^cyan;^white;솜브레로	솜브레로
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/strawberry/saturnstrawberry.head	/shortdescription	^cyan;^white;Strawberry Mask	^cyan;^white;딸기 마스크	딸기 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/swamphat/saturnswamphat.head	/shortdescription	^cyan;^white;Swamp Hat	^cyan;^white;늪지 모자	늪지 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/teddy/saturnteddy.head	/shortdescription	^cyan;^white;Teddy Hat	^cyan;^white;테디 모자	테디 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/tiger/saturntiger.head	/shortdescription	^cyan;^white;Tiger Hat	^cyan;^white;호랑이 모자	호랑이 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/ushanka/saturnushanka.head	/shortdescription	^cyan;^white;Ushanka	^cyan;^white;우샨카	우샨카
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/venetianmask/saturnventetianmask.head	/shortdescription	^cyan;^white;Venetian Mask	^cyan;^white;베네치아 가면	베네치아 가면
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/vikinghelmet/saturnvikinghelmet.head	/shortdescription	^cyan;^white;Viking Helm	^cyan;^white;바이킹 투구	바이킹 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/visor/saturnvisor.head	/shortdescription	^cyan;^white;Moth Visor Blue	^cyan;^white;나방 바이저 블루	나방 바이저 블루
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/visorModGreen/saturnvisorModGreen.head	/shortdescription	^cyan;^white;Moth Visor Green	^cyan;^white;나방 바이저 그린	나방 바이저 그린
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/visorModLensDye/saturnvisorModLensDye.head	/shortdescription	^cyan;^white;Moth Visor Dyed Lens	^cyan;^white;나방 바이저 렌즈 염색	나방 바이저 렌즈 염색
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/visorModLensDyeLCD/saturnvisorModLensDyeLCD.head	/shortdescription	^cyan;^white;Moth Visor LCD Panel	^cyan;^white;나방 바이저 LCD 패널	나방 바이저 LCD 패널
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/visorModRed/saturnvisorModRed.head	/shortdescription	^cyan;^white;Moth Visor Red	^cyan;^white;나방 바이저 레드	나방 바이저 레드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/visorModYellow/saturnvisorModYellow.head	/shortdescription	^cyan;^white;Moth Visor Yellow	^cyan;^white;나방 바이저 옐로	나방 바이저 옐로
+sat_names.tsv	/items/armors/saturn/Hat Conversions/decorative/hats/wig/saturnwig.head	/shortdescription	^cyan;^white;Very Subtle Wig	^cyan;^white;매우 은근한 가발	매우 은근한 가발
+sat_names.tsv	/items/armors/saturn/Hat Conversions/floran/floran-tier1/saturnflorantier1.head	/shortdescription	^cyan;^white;Sprout's Circlet	^cyan;^white;새싹의 서클릿	새싹의 서클릿
+sat_names.tsv	/items/armors/saturn/Hat Conversions/floran/floran-tier2/saturnflorantier2.head	/shortdescription	^cyan;^white;Bonesmith's Skullhat	^cyan;^white;뼈 대장장이의 해골모	뼈 대장장이의 해골모
+sat_names.tsv	/items/armors/saturn/Hat Conversions/floran/floran-tier3/saturnflorantier3.head	/shortdescription	^cyan;^white;Nomad's Crown	^cyan;^white;유목민의 왕관	유목민의 왕관
+sat_names.tsv	/items/armors/saturn/Hat Conversions/floran/floran-tier4/saturnflorantier4.head	/shortdescription	^cyan;^white;Hunter's Hood	^cyan;^white;사냥꾼의 후드	사냥꾼의 후드
+sat_names.tsv	/items/armors/saturn/Hat Conversions/floran/floran-tier5accelerator/saturnflorantier5accelerator.head	/shortdescription	^cyan;^white;Wiseman's Thinking Hat	^cyan;^white;현자의 사고 모자	현자의 사고 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/floran/floran-tier5manipulator/saturnflorantier5manipulator.head	/shortdescription	^cyan;^white;Cannibal's Mask	^cyan;^white;식인자의 마스크	식인자의 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/floran/floran-tier5separator/saturnflorantier5separator.head	/shortdescription	^cyan;^white;Gatherer's Helm	^cyan;^white;채집가의 투구	채집가의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/floran/floran-tier6accelerator/saturnflorantier6accelerator.head	/shortdescription	^cyan;^white;Sentinel's Helm	^cyan;^white;파수꾼의 투구	파수꾼의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/floran/floran-tier6manipulator/saturnflorantier6manipulator.head	/shortdescription	^cyan;^white;Shaman's Mask	^cyan;^white;주술사의 마스크	주술사의 마스크
+sat_names.tsv	/items/armors/saturn/Hat Conversions/floran/floran-tier6separator/saturnflorantier6separator.head	/shortdescription	^cyan;^white;Synthesizer's Helm	^cyan;^white;합성자의 투구	합성자의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-royal/saturnglitchroyal.head	/shortdescription	^cyan;^white;Glitch Crown	^cyan;^white;글리치 왕관	글리치 왕관
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier1/saturnglitchtier1.head	/shortdescription	^cyan;^white;Knave's Helm	^cyan;^white;하급 기사의 투구	하급 기사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier2/saturnglitchtier2.head	/shortdescription	^cyan;^white;Soldier's Helm	^cyan;^white;병사의 투구	병사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier3/saturnglitchtier3.head	/shortdescription	^cyan;^white;Knight's Helm	^cyan;^white;기사의 투구	기사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier3B/saturnglitchtier3B.head	/shortdescription	^red;^white;Knight's Helm	^red;^white;기사의 투구	기사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier4/saturnglitchtier4.head	/shortdescription	^cyan;^white;Dark Knight's Helm	^cyan;^white;흑기사의 투구	흑기사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier4B/saturnglitchtier4B.head	/shortdescription	^red;^white;Dark Knight's Helm	^red;^white;흑기사의 투구	흑기사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier5accelerator/saturnglitchtier5accelerator.head	/shortdescription	^cyan;^white;Crusader's Helm	^cyan;^white;성전사의 투구	성전사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier5acceleratorArmorEdits/saturnglitchtier5acceleratorAE.head	/shortdescription	^red;^white;Crusader's Helm	^red;^white;성전사의 투구	성전사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier5acceleratorB/saturnglitchtier5acceleratorB.head	/shortdescription	^red;^white;Crusader's Helm	^red;^white;성전사의 투구	성전사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier5manipulator/saturnglitchtier5manipulator.head	/shortdescription	^cyan;^white;Lancer's Helm	^cyan;^white;창기사의 투구	창기사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier5manipulatorB/saturnglitchtier5manipulatorB.head	/shortdescription	^red;^white;Lancer's Helm	^red;^white;창기사의 투구	창기사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier5separator/saturnglitchtier5separator.head	/shortdescription	^cyan;^white;Paladin's Helm	^cyan;^white;성기사의 투구	성기사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier5separatorB/saturnglitchtier5separatorB.head	/shortdescription	^red;^white;Paladin's Helm	^red;^white;성기사의 투구	성기사의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier6accelerator/saturnglitchtier6accelerator.head	/shortdescription	^cyan;^white;Legionnaire's Helm	^cyan;^white;군단병의 투구	군단병의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier6acceleratorB/saturnglitchtier6acceleratorB.head	/shortdescription	^red;^white;Legionnaire's Helm	^red;^white;군단병의 투구	군단병의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier6manipulator/saturnglitchtier6manipulator.head	/shortdescription	^cyan;^white;Templar's Helm	^cyan;^white;기사단원의 투구	기사단원의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier6manipulatorB/saturnglitchtier6manipulatorB.head	/shortdescription	^red;^white;Templar's Helm	^red;^white;기사단원의 투구	기사단원의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier6separator/saturnglitchtier6separator.head	/shortdescription	^cyan;^white;Doom Lord's Helm	^cyan;^white;파멸 군주의 투구	파멸 군주의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/glitch/glitch-tier6separatorB/saturnglitchtier6separatorB.head	/shortdescription	^red;^white;Doom Lord's Helm	^red;^white;파멸 군주의 투구	파멸 군주의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/human/human-tier1/saturnhumantier1.head	/shortdescription	^cyan;^white;Scouter's Visor	^cyan;^white;스카우터 바이저	스카우터 바이저
+sat_names.tsv	/items/armors/saturn/Hat Conversions/human/human-tier2/saturnhumantier2.head	/shortdescription	^cyan;^white;Scavenger's Helmet	^cyan;^white;스캐빈저의 투구	스캐빈저의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/human/human-tier3/saturnhumantier3.head	/shortdescription	^cyan;^white;Pioneer's Helm	^cyan;^white;개척자의 투구	개척자의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/human/human-tier4/saturnhumantier4.head	/shortdescription	^cyan;^white;Outrider's Helm	^cyan;^white;외곽 기수의 투구	외곽 기수의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/human/human-tier5accelerator/saturnhumantier5accelerator.head	/shortdescription	^cyan;^white;Vanguard's Helm	^cyan;^white;선봉자의 투구	선봉자의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/human/human-tier5acceleratorB/saturnhumantier5acceleratorB.head	/shortdescription	^red;^white;Vanguard's Closed Helmet	^red;^white;선봉자의 폐쇄형 투구	선봉자의 폐쇄형 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/human/human-tier5manipulator/saturnhumantier5manipulator.head	/shortdescription	^cyan;^white;Trailblazer's Helm	^cyan;^white;선구자의 투구	선구자의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/human/human-tier5manipulatorB/saturnhumantier5manipulatorB.head	/shortdescription	^red;^white;Trailblazer's Helm	^red;^white;선구자의 투구	선구자의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/human/human-tier5separator/saturnhumantier5separator.head	/shortdescription	^cyan;^white;Adventurer's Helm	^cyan;^white;모험가의 투구	모험가의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/human/human-tier6accelerator/saturnhumantier6accelerator.head	/shortdescription	^cyan;^white;Seeker's Helmet	^cyan;^white;탐구자의 투구	탐구자의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/human/human-tier6manipulator/saturnhumantier6manipulator.head	/shortdescription	^cyan;^white;Wanderer's Helmet	^cyan;^white;방랑자의 투구	방랑자의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/human/human-tier6separator/saturnhumantier6separator.head	/shortdescription	^cyan;^white;Universalist's Helm	^cyan;^white;우주주의자의 투구	우주주의자의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/hylotl/hylotl-tier1/saturnhylotltier1.head	/shortdescription	^cyan;^white;Puddle Hat	^cyan;^white;물웅덩이 모자	물웅덩이 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/hylotl/hylotl-tier2/saturnhylotltier2.head	/shortdescription	^cyan;^white;Pond Helm	^cyan;^white;연못 투구	연못 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/hylotl/hylotl-tier3/saturnhylotltier3.head	/shortdescription	^cyan;^white;River Helm	^cyan;^white;강 투구	강 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/hylotl/hylotl-tier4/saturnhylotltier4.head	/shortdescription	^cyan;^white;Lake Helm	^cyan;^white;호수 투구	호수 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/hylotl/hylotl-tier5accelerator/saturnhylotltier5accelerator.head	/shortdescription	^cyan;^white;Sea Hat	^cyan;^white;바다 모자	바다 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/hylotl/hylotl-tier5manipulator/saturnhylotltier5manipulator.head	/shortdescription	^cyan;^white;Reef Helm	^cyan;^white;암초 투구	암초 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/hylotl/hylotl-tier5separator/saturnhylotltier5separator.head	/shortdescription	^cyan;^white;Ocean Helm	^cyan;^white;대양 투구	대양 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/hylotl/hylotl-tier6accelerator/saturnhylotltier6accelerator.head	/shortdescription	^cyan;^white;Euphotic Helm	^cyan;^white;유광층 투구	유광층 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/hylotl/hylotl-tier6manipulator/saturnhylotltier6manipulator.head	/shortdescription	^cyan;^white;Aphotic Fin	^cyan;^white;무광층 지느러미	무광층 지느러미
+sat_names.tsv	/items/armors/saturn/Hat Conversions/hylotl/hylotl-tier6separator/saturnhylotltier6separator.head	/shortdescription	^cyan;^white;Disphotic Helm	^cyan;^white;약광층 투구	약광층 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/novakid/nova-tier1/saturnnovatier1.head	/shortdescription	^cyan;^white;Deputy's Hat	^cyan;^white;보안관 대리 모자	보안관 대리 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/novakid/nova-tier2/saturnnovatier2.head	/shortdescription	^cyan;^white;Bandit Hat	^cyan;^white;도적 모자	도적 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/novakid/nova-tier3/saturnnovatier3.head	/shortdescription	^cyan;^white;Outlaw Hat	^cyan;^white;무법자 모자	무법자 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/novakid/nova-tier4/saturnnovatier4.head	/shortdescription	^cyan;^white;Sheriff's Hat	^cyan;^white;보안관 모자	보안관 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/novakid/nova-tier5accelerator/saturnnovatier5accelerator.head	/shortdescription	^cyan;^white;Bandito's Sombrero	^cyan;^white;산적의 솜브레로	산적의 솜브레로
+sat_names.tsv	/items/armors/saturn/Hat Conversions/novakid/nova-tier5manipulator/saturnnovatier5manipulator.head	/shortdescription	^cyan;^white;Bonesaw's Hat	^cyan;^white;본소의 모자	본소의 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/novakid/nova-tier5separator/saturnnovatier5separator.head	/shortdescription	^cyan;^white;Varmint's Hat	^cyan;^white;해충의 모자	해충의 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/novakid/nova-tier6accelerator/saturnnovatier6accelerator.head	/shortdescription	^cyan;^white;Gambler's Hat	^cyan;^white;도박사의 모자	도박사의 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/novakid/nova-tier6manipulator/saturnnovatier6manipulator.head	/shortdescription	^cyan;^white;Clockwork Hat	^cyan;^white;태엽 모자	태엽 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/novakid/nova-tier6separator/saturnnovatier6separator.head	/shortdescription	^cyan;^white;Wrangler's Hat	^cyan;^white;랭글러의 모자	랭글러의 모자
+sat_names.tsv	/items/armors/saturn/Hat Conversions/other/bedouin/saturnbedouin.head	/shortdescription	^cyan;^white;Desert Head Scarf	^cyan;^white;사막 머리 스카프	사막 머리 스카프
+sat_names.tsv	/items/armors/saturn/Hat Conversions/other/goldarmor/saturngoldarmor.head	/shortdescription	^cyan;^white;Gold Helmet	^cyan;^white;황금 투구	황금 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/other/mercenary/saturnmercenary.head	/shortdescription	^cyan;^white;Mercenary's Helm	^cyan;^white;용병의 투구	용병의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/other/miniknog/saturnminiknog.head	/shortdescription	^cyan;^white;Miniknog Helmet	^cyan;^white;미니크녹 투구	미니크녹 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/other/pathfinder/saturnpathfinder.head	/shortdescription	^cyan;^white;Pathfinders's Helm	^cyan;^white;개척자의 투구	개척자의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/other/silverarmor/saturnsilverarmor.head	/shortdescription	^cyan;^white;Silver Helmet	^cyan;^white;은 투구	은 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/other/snowinfantry/saturnsnowinfantry.head	/shortdescription	^cyan;^white;Snow Infantry Helmet	^cyan;^white;눈보병 투구	눈보병 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/other/tracker/saturntracker.head	/shortdescription	^cyan;^white;Tracker's Helm	^cyan;^white;추적자의 투구	추적자의 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/other/valorous/saturnvalorous.head	/shortdescription	^cyan;^white;Valorous Helmet	^cyan;^white;용맹 투구	용맹 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/other/valorousb/saturnvalorousB.head	/shortdescription	^red;^white;Valorous Helmet	^red;^white;용맹 투구	용맹 투구
+sat_names.tsv	/items/armors/saturn/Hat Conversions/other/voyager/saturnvoyager.head	/shortdescription	^cyan;^white;Voyager's Helm	^cyan;^white;항해자의 투구	항해자의 투구
+sat_names.tsv	/items/armors/saturn/Mage Robes/saturn-t1 Novice Robes/ant/saturnNovMA.head	/shortdescription	^yellow;҂^white;Novice's Hood	^yellow;҂^white;수련자의 후드	수련자의 후드
+sat_names.tsv	/items/armors/saturn/clothes/Hats/saturn- AntHat/saturnStarhatAnt.head	/shortdescription	^yellow;҂^white;Star Wizard Hat	^yellow;҂^white;별 마법사 모자	별 마법사 모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturn Sorcerer Cap/saturnAntSorcererRobes.head	/shortdescription	^yellow;҂^white;Sorcerer's Cap	^yellow;҂^white;마술사의 모자	마술사의 모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturn- Alchemisthead/saturnAntAlchemistset.head	/shortdescription	^yellow;҂^white;Alchemist Hat Set	^yellow;҂^white;연금술사 모자 세트	연금술사 모자 세트
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturn- BuckledHat/saturnAntBuckledHat.head	/shortdescription	^yellow;҂^white;Dyed Buckle Hat	^yellow;҂^white;염색 버클 모자	염색 버클 모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturn- ShadowHat/saturnAntShadowhat.head	/shortdescription	^yellow;҂^white;Shade Hat	^yellow;҂^white;그늘 모자	그늘 모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturn- StarHat2/saturnAntStarHat2.head	/shortdescription	^yellow;҂^white;Dyed Wizard Hat	^yellow;҂^white;염색 마법사 모자	염색 마법사 모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturn- TopHat/saturnAntTopHat.head	/shortdescription	^yellow;҂^white;Top Hat	^yellow;҂^white;탑모자	탑모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturn- TopHat2/saturnAntTopHat2.head	/shortdescription	^yellow;҂^white;Tall Top Hat	^yellow;҂^white;높은 탑모자	높은 탑모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturn- TopHat3/saturnAntTopHat3.head	/shortdescription	^yellow;҂^white;Dual Colored Top Hat	^yellow;҂^white;이중색 탑모자	이중색 탑모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturn-SunHat/saturnAntSunHat.head	/shortdescription	^yellow;҂^white;Wide-brimmed Sun Hat	^yellow;҂^white;넓은챙 양산 모자	넓은챙 양산 모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturn-WideHat/saturnAntWideHat.head	/shortdescription	^yellow;҂^white;Wide-brimmed Wizard Hat	^yellow;҂^white;넓은챙 마법사 모자	넓은챙 마법사 모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturn-WideShadyHat/saturnAntWideShadyHat.head	/shortdescription	^yellow;҂^white;Darkened Wizard Hat	^yellow;҂^white;어두워진 마법사 모자	어두워진 마법사 모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturn-WidestHat/saturnAntWidestHat.head	/shortdescription	^yellow;҂^white;Big Wizard Hat	^yellow;҂^white;큰 마법사 모자	큰 마법사 모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Hats/saturnchefhead/saturnAntchef.head	/shortdescription	^yellow;҂^white;Saturnian Chef Hat	^yellow;҂^white;새터니안 요리사 모자	새터니안 요리사 모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Winter Wear/saturn- heavyrobe Fluff hood/saturnAntHeavyFluffhood.head	/shortdescription	^yellow;҂^white;Fluffy Winter Hood	^yellow;҂^white;푹신한 겨울 후드	푹신한 겨울 후드
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Winter Wear/saturn- heavyrobe hood/saturnAntHeavyhood.head	/shortdescription	^yellow;҂^white;Winter Hood	^yellow;҂^white;겨울 후드	겨울 후드
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/Winter Wear/saturn- heavyscarfedrobe hood/saturnAntHeavyScarfedHood.head	/shortdescription	^yellow;҂^white;Scarfed Winter Hood	^yellow;҂^white;스카프 겨울 후드	스카프 겨울 후드
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/saturnArtWizard/saturnAntArtWizard.head	/shortdescription	^yellow;҂^white;Art Wizard Hat	^yellow;҂^white;미술 마법사 모자	미술 마법사 모자
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/saturnVillager/saturnAnttier4notevil.head	/shortdescription	^yellow;҂^white;Villager's Hood	^yellow;҂^white;마을 주민의 후드	마을 주민의 후드
+sat_names.tsv	/items/armors/saturn/clothes/antennae alts/saturnornaterobes/saturnAntornaterobes.head	/shortdescription	^yellow;҂^white;Ornate Hood	^yellow;҂^white;정교한 후드	정교한 후드
+sat_names.tsv	/items/armors/saturn/clothes/glasses alts/Dual/saturn- AntHat/saturnGlaDStarhatAnt.head	/shortdescription	^yellow;҂^white;Star Wizard Hat (Glasses)	^yellow;҂^white;별 마법사 모자 (안경)	별 마법사 모자 (안경)
+sat_names.tsv	/items/armors/saturn/clothes/glasses alts/saturn- AntHat/saturnGlaStarhatAnt.head	/shortdescription	^yellow;҂^white;Star Wizard Hat (Glasses)	^yellow;҂^white;별 마법사 모자 (안경)	별 마법사 모자 (안경)
+sat_names.tsv	/items/armors/saturn/clothes/saturnpeacekeeper/normalstyledhat/saturnpeacekeeper.head	/shortdescription	^cyan;^white;Peacekeeper Hat	^cyan;^white;피스키퍼 모자	피스키퍼 모자\n

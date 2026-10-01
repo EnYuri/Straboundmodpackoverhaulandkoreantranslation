@@ -1,0 +1,76 @@
+asset	field	en	ko	src
+/items/armors/cosmetic/amwitchhat/amwitchhat.head	description	If you put your ear in it you can hear cackling, or the sea.		
+/items/armors/cosmetic/amwitchhat/amwitchhat.head	shortdescription	Witch's Hat		
+/items/armors/cosmetic/amwitchoutfit/amwitchchest.chest	description	Now with added potion splashback resistance.		
+/items/armors/cosmetic/amwitchoutfit/amwitchchest.chest	shortdescription	Witch's Dress Top		
+/items/armors/cosmetic/amwitchoutfit/amwitchlegs.legs	description	A ghastly piece, very drab.		
+/items/armors/cosmetic/amwitchoutfit/amwitchlegs.legs	shortdescription	Witch's Dress Bottom		
+/items/materials/richdirtmaterial.matitem	description	Rich highly fertile soil, it's teeming with life.	매우 비옥한 토양으로, 생명이 넘쳐난다.	reuse
+/items/materials/richdirtmaterial.matitem	shortdescription	Rich Dirt	비옥한 흙	reuse
+/items/materials/rowanlog.matitem	description	A wooden log. Good for building simple structures.	나무 통나무. 간단한 구조물을 짓기에 좋다.	reuse
+/items/materials/rowanlog.matitem	shortdescription	Rowan Wooden Log	마가목 통나무	reuse
+/items/materials/rowanwood.matitem	description	Rowan wood specially prepared for crafting and building.	제작과 건축을 위해 특별히 가공한 마가목 목재.	reuse
+/items/materials/rowanwood.matitem	shortdescription	Rowan Timber	마가목 목재	reuse
+/items/materials/rowanwoodenplatform.matitem	description	A nondescript wood platform.	평범한 나무 플랫폼이다.	reuse
+/items/materials/rowanwoodenplatform.matitem	shortdescription	Rowan Wood Platform	마가목 나무 발판	reuse
+/objects/crafting/ambrewingstand/ambrewingstand.object	description	Infuse items with magical essence.	아이템 마법 정수 주입.	reuse
+/objects/crafting/ambrewingstand/ambrewingstand.object	shortdescription	Brewing Stand	양조대	reuse
+/objects/crafting/amelementcrucible/amelementcrucible.config	caption	Stop		
+/objects/crafting/amelementcrucible/amelementcrucible.object	description	Combine the elements into elemental powders.	원소를 원소 가루로 결합합니다.	reuse
+/objects/crafting/amelementcrucible/amelementcrucible.object	shortdescription	Element Crucible	원소 도가니	reuse
+/objects/crafting/amelementcrucible/amelementcrucible.object	title	 Element Crucible	원소 도가니	reuse
+/objects/crafting/amelementcrucible/amelementcrucible.object	subtitle	 ^#b9b5b2;Purify the elements of nature	^#b9b5b2;자연의 원소를 정화하세요	reuse
+/objects/crafting/amenchantarch/amenchantarch.object	description	Infuse items with magical essence.	아이템 마법 정수 주입.	reuse
+/objects/crafting/amenchantarch/amenchantarch.object	shortdescription	Enchantment Arch	마법 부여 아치	reuse
+/objects/crafting/amplanttable/amplanttable.config	title	  Wooden Workbench	나무 작업대	reuse
+/objects/crafting/amplanttable/amplanttable.config	subtitle	  Objects and Blocks	물체와 블록 제작	reuse
+/objects/crafting/amplanttable/amplanttable.config	caption	Halt		
+/objects/crafting/amplanttable/amplanttable.object	description	Deconstuct plant matter for use in magic.	마법에 사용할 식물 물질을 분해합니다.	reuse
+/objects/crafting/amplanttable/amplanttable.object	shortdescription	Plant Preperation Table	식물 준비대	reuse
+/objects/crafting/amplanttable/amplanttable.object	title	 Plant Preperation Table 	식물 준비대	reuse
+/objects/crafting/amplanttable/amplanttable.object	subtitle	 ^#b9b5b2;Herbology station	^#b9b5b2;약초학 스테이션	reuse
+/objects/crafting/amresearchtable/amresearchtable.config	title	  Wooden Workbench	나무 작업대	reuse
+/objects/crafting/amresearchtable/amresearchtable.config	subtitle	  Objects and Blocks	물체와 블록 제작	reuse
+/objects/crafting/amresearchtable/amresearchtable.config	caption	Halt		
+/objects/crafting/amresearchtable/amresearchtable.object	description	Bring together the elements to unlock the secrets of era gone by.	원소들을 한데 모아 지나간 시대의 비밀을 풀어라.	reuse
+/objects/crafting/amresearchtable/amresearchtable.object	shortdescription	Arcane Research Table	아케인 연구대	reuse
+/objects/crafting/amresearchtable/amresearchtable.object	title	 Arcane Research Table 	아케인 연구대	reuse
+/objects/crafting/amresearchtable/amresearchtable.object	subtitle	 ^#b9b5b2;Unlock the power of the arcane	^#b9b5b2;아케인의 힘을 해금하세요	reuse
+/objects/farmables/aloe/aloeseed.object	description	 Aloe Vera.	알로에 베라.	reuse
+/objects/farmables/aloe/aloeseed.object	shortdescription	Aloe Seed	알로에 씨앗	reuse
+/objects/farmables/aloe/wildaloeseed.object	description	Aloe Vera.	알로에 베라.	reuse
+/objects/farmables/aloe/wildaloeseed.object	shortdescription	Aloe Seed	알로에 씨앗	reuse
+/objects/farmables/amsage/amsage.object	description	A flower with bright red petals. Useful for making dye.	밝은 빨간색 꽃잎이 있는 꽃입니다. 염료를 만들 때 유용합니다.	reuse
+/objects/farmables/amsage/amsage.object	shortdescription	Sage Plant	세이지 식물	reuse
+/objects/farmables/angelica/angelicaseed.object	description	Angelica is regarded as a powerful protective ingredient.	안젤리카는 강력 보호 재료로 여겨져.	reuse
+/objects/farmables/angelica/angelicaseed.object	shortdescription	Angelica Seed	안젤리카 씨앗	reuse
+/objects/farmables/angelica/wildangelicaseed.object	description	Angelica is regarded as a powerful protective ingredient.	안젤리카는 강력 보호 재료로 여겨져.	reuse
+/objects/farmables/angelica/wildangelicaseed.object	shortdescription	Angelica Seed	안젤리카 씨앗	reuse
+/objects/farmables/cloudflower/cloudflowerseed.object	description	A mysterious plant capable of producing clouds.	구름 생산 신비 식물.	reuse
+/objects/farmables/cloudflower/cloudflowerseed.object	shortdescription	Cloud Flower Seed	구름꽃 씨앗	reuse
+/objects/farmables/cloudflower/wildcloudflowerseed.object	description	A mysterious plant capable of producing clouds.	구름 생산 신비 식물.	reuse
+/objects/farmables/cloudflower/wildcloudflowerseed.object	shortdescription	Cloud Flower Seed	구름꽃 씨앗	reuse
+/objects/farmables/fireflower/fireflowerseed.object	description	It's petals smolder in the sunlight.	꽃잎 햇살에 연기.	reuse
+/objects/farmables/fireflower/fireflowerseed.object	shortdescription	Fire Flower Seed	파이어 플라워 씨앗	reuse
+/objects/farmables/fireflower/wildfireflowerseed.object	description	It's petals smolder in the sunlight.	꽃잎 햇살에 연기.	reuse
+/objects/farmables/fireflower/wildfireflowerseed.object	shortdescription	Fire Flower Seed	파이어 플라워 씨앗	reuse
+/objects/farmables/magicwheat/magicwheatseed.object	description	Magic = Blue	마법 = 파랑	reuse
+/objects/farmables/magicwheat/magicwheatseed.object	shortdescription	Enchanted Wheat Seed	마법 밀 씨앗	reuse
+/objects/farmables/magicwheat/wildmagicwheatseed.object	description	Magic = Blue	마법 = 파랑	reuse
+/objects/farmables/magicwheat/wildmagicwheatseed.object	shortdescription	Enchanted Wheat Seed	마법 밀 씨앗	reuse
+/objects/farmables/moly/molyseed.object	description	A plant originally grown for the blood of giants.	원래 거인의 피를 얻으려고 기르던 식물.	reuse
+/objects/farmables/moly/molyseed.object	shortdescription	Moly Bulb	몰리 전구	reuse
+/objects/farmables/moly/wildmolyseed.object	description	A plant originally grown for the blood of giants.	원래 거인의 피를 얻으려고 기르던 식물.	reuse
+/objects/farmables/moly/wildmolyseed.object	shortdescription	Moly Bulb	몰리 전구	reuse
+/objects/farmables/waterpearlllily/waterpearllilyseed.object	description	An ancient plant said to grow pearls which contain the purest water known.	알려진 것 중 가장 순수한 물을 품은 진주가 열린다는 고대 식물이다.	reuse
+/objects/farmables/waterpearlllily/waterpearllilyseed.object	shortdescription	Waterpearl Lily Seed	워터펄 백합 씨앗	reuse
+/objects/farmables/waterpearlllily/wildwaterpearllilyseed.object	description	An ancient plant said to grow pearls which contain the purest water known.	알려진 것 중 가장 순수한 물을 품은 진주가 열린다는 고대 식물이다.	reuse
+/objects/farmables/waterpearlllily/wildwaterpearllilyseed.object	shortdescription	Waterpearl Lily Seed	워터펄 백합 씨앗	reuse
+/objects/farmables/wispspore/wildwispspore.object	description	Wisp Shrooms' stalks grow a bright wisp like bulb.	위습 버섯 줄기 밝은 위습 같은 구근 자라.	reuse
+/objects/farmables/wispspore/wildwispspore.object	shortdescription	Wisp Shroom Spore	위습 버섯 포자	reuse
+/objects/farmables/wispspore/wispspore.object	description	Wisp Shrooms' stalks grow a bright wisp like bulb.	위습 버섯 줄기 밝은 위습 같은 구근 자라.	reuse
+/objects/farmables/wispspore/wispspore.object	shortdescription	Wisp Shroom Spore	위습 버섯 포자	reuse
+/stats/effects/paleblueglow/paleblueglow.statuseffect	label	Infused		
+/stats/effects/palegreenglow/palegreenglow.statuseffect	label	Infused		
+/stats/effects/paleorangeglow/paleorangeglow.statuseffect	label	Infused		
+/stats/effects/palewhiteglow/palewhiteglow.statuseffect	label	Infused		

@@ -1,0 +1,124 @@
+_ZBversioning.config.patch/welcome
+   KO: 
+지타바운드에 오신 것을 환영합니다 ^orange;지타바운드^reset;; 모드 바닐라에서 손대지 않은 몇 가지 측면을 개선하고 모더들이 플레이할 수 있는 도구를 더 추가하는 것을 목표로 하는 모드!
+
+^orange;1.05c로 업데이트되었습니다:^reset;
+^green;>^reset; 일부 리서치 트
+cockpit.config.patch/gui/windowtitle/title
+   KO:  내비게이션 콘솔
+armornew2.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+boomerang.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+boomerangaetherium.itemdescription.patch/critBonusTitleLabel/value
+   KO: ^yellow;티어^reset; 
+boomerangaetherium.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+bow.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+bow2.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+bow2bak.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+bowaetherium.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+bowaetherium2.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+bowelder.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+bowelder2.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+chakram.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+fist2.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+fist2aetherium.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+fistweapon.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+gun.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+gun.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+gun2.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+gun2aetherium.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+gun2elder.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+gun2overheat.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+gun2overheatelder.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+gunkevin.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+gununique.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+gununiqueelder.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+hammer.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+hammeraetherium.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+hammerelder.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+hammerunique.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+hammervanilla.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+magnorb.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+neb-randombow.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+staff.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+sword.itemdescription.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 
+sword2.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+swordaetherium.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+swordelder.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+swordunique.itemdescription.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+bountyboardgui.config.patch/gui/windowtitle/title
+   KO:  현상범 보드판
+bountyboardgui.config.patch/gui/windowtitle/subtitle
+   KO:  우주의 범죄자들이 모인 곳
+goodstradergui.config.patch/gui/windowtitle/title
+   KO:  물품 거래소
+goodstradergui.config.patch/gui/windowtitle/subtitle
+   KO:  우주 정거장의 물품을 거래하여 수익을 챙기세요
+keytradergui.config.patch/gui/windowtitle/title
+   KO:  신비한 상인
+keytradergui.config.patch/gui/windowtitle/subtitle
+   KO:  아이템을 받고 신비한 열쇠를 거래합니다
+mechassemblygui.config.patch/gui/windowtitle/title
+   KO:   메카 조립 스테이션
+mechassemblygui.config.patch/gui/windowtitle/subtitle
+   KO:   ^#b9b5b2;개인용 메카를 커스터마이징하고 장착하세요!
+mmupgradegui.config.patch/gui/windowtitle/title
+   KO:   물질 조작기 업그레이드
+mmupgradegui.config.patch/gui/windowtitle/subtitle
+   KO:   ^#b9b5b2;물질 조작기로 무엇이든 조작해보세요!
+techupgradegui.config.patch/gui/windowtitle/title
+   KO:   테크 업그레이드 콘솔
+techupgradegui.config.patch/gui/windowtitle/subtitle
+   KO:   테크를 선택하세요
+terraformergui.config.patch/gui/windowtitle/title
+   KO:   행성 테라포머
+terraformergui.config.patch/gui/windowtitle/subtitle
+   KO:   ^#b9b5b2;정수를 사용하여 행성 전체를 변형시킬 수 있습니다!
+weaponupgradegui.config.patch/gui/windowtitle/title
+   KO:  무기 업그레이드 모루
+weaponupgradegui.config.patch/gui/windowtitle/subtitle
+   KO:  여기에서 무기를 업그레이드하세요!
+angelbow.tooltip.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+armornew2.tooltip.patch/levelLabelTitle/value
+   KO: ^yellow;티어^reset; 
+boomerang.tooltip.patch/critBonusTitleLabel/value
+   KO: ^yellow;티어^reset; 
+boomerang.tooltip.patch/levelTitleLabel/value
+   KO: ^yellow;티어^reset; 

@@ -1,0 +1,109 @@
+/interface/scripted/skpkmnmannequin/skpkmnmannequin.config.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/gui/swapGender/caption",
+      "value": "Swap Gender"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/swapGender/caption",
+      "value": "성별 교체"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/gui/equipFunctional/caption",
+      "value": "Equip (Functional)"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/equipFunctional/cap/interface/scripted/skpkmnmannequin2/skpkmnmannequin2.config.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/gui/swapGender/caption",
+      "value": "Swap Gender"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/swapGender/caption",
+      "value": "성별 교체"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/gui/equipFunctional/caption",
+      "value": "Equip (Functional)"
+    },
+    {
+      "op": "replace",
+      "path": "/gui/equipFunctional/cap/interface/windowconfig/skpkmng1craft.config.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/paneLayout/windowtitle/subtitle",
+      "value": "  Gotta craft em all."
+    },
+    {
+      "op": "replace",
+      "path": "/paneLayout/windowtitle/subtitle",
+      "value": "전부 만들어야지."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/paneLayout/lblSchematics/value",
+      "value": "^#b9b5b2;BLUEPRINTS"
+    },
+    {
+      "op": "replace",
+   /items/armors/skpkmng1-000/skpkmn000.legs.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "??? (Legs)"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "??? (각갑)"
+    }
+  ]
+]/items/armors/skpkmng1-001/skpkmn001.back.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "001 Bulbasaur (Back)"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "001 이상해씨 (등)"
+    }
+  ]
+]/items/armors/skpkmng1-001/skpkmn001.chest.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "001 Bulbasaur (Chest)"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "001 이상해씨 (흉갑)"
+    }
+  ]
+]

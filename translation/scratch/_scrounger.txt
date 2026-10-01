@@ -1,0 +1,385 @@
+Traceback (most recent call last):
+  File "<string>", line 13, in <module>
+    print('  ', ln[:220])
+    ~~~~~^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'cp949' codec can't encode character '\u2014' in position 96: illegal multibyte sequence
+/cinematics/CHARACTERS/OUTCAST_EXPEDITION/gic_outcastexpedition_reachworkshop.cinematic.patch
+       "value": "[동맹 병사들이 바로 밖에서 뭔가 논의 중이다]\r\n\r\n농담이죠. 이게 전부예요? 일부러 여기까지 와서 고작 망가진 총과 고철이라니. 시간과 목숨 낭비네요."
+/codex/apex/sb_townheadline.item.patch
+         "value": "뉴스 헤드라인 스크랩"
+/codex/atprk_krakoth/atprk_krakothcodexlapsus.codex.patch
+         "value": "스캐빈저의 과거 문명에서 특이한 또 하나는 로봇 공학과 인공지능 개발 분야에서 거둔 성과다. 알려진 해당 기술 샘플들은 꽤 높은 수준의 정교함을 보여준다.\n\n더욱이, 이 샘플 중 최소 일부는 웜들이 공학적 통찰과 고철 재료를 얻기 위해 회수해 갔다는 것이 잘 알려진 사실이다."
+/codex/documents/randombook15.codex.patch
+   [[{"op":"test","path":"/description","value":"An in-depth analysis"},{"op":"replace","path":"/description","value":"심층 분석이다"}],[{"op":"test","path":"/contentPages/0","value":"An alarming discovery was recently made while
+/codex/lofty_irisil/lofty_irisil_threadTheNeedleLore.codex.patch
+         "value": "^#888888;다음 장은 비늘 조각의 얇은 막으로 뒤덮여 있다 - 저자가 이리사의 비듬을 스크랩북하려 한 듯하다. 보기만 해도 손이 가려워질 정도다.^reset;\n\n너와 내가\n함께 시간을 보낼 수 있을지도.\n물론 평화롭게.\n\n공기 중의 반짝임\n숨 쉴 때마다 너의 독이 찌른다\n그래도 나는 남아 기침한다.\n\n^#8888CC;>>"
+/codex/other/PBcollectorschecklistcommunity.codex.patch
+   [[{"op":"test","path":"/title","value":"PB Checklist: Community"},{"op":"replace","path":"/title","value":"PB 체크리스트: 커뮤니티"}],[{"op":"test","path":"/description","value":"Shows available plushies and stickers of the 1st c
+/codex/other/PBthanksdearcustomer.codex.patch
+       "value": "^green;Roboglitch^white;\n- - 관리하는 인형\n- - 짓궂은 스티커\n- - 버지 인형\n- - 울보 스티커\n- - 수상쩍은 인형\n- - 파이버위버 스티커\n- - 악마 같은 스티커\n- - 등신대 화염술사 인형\n- - 논바이너리 깃발 스티커\n- - 사이로키네틱 인형\n- - 고철 로봇 플러시\n- - 트랜스 깃발 스티커"
+/collections/thea_weapons.collection.patch
+       "value": "고철장"
+/dialog/DOCKINGBAY75/gic_dockingbay75_tradesman_guard_hail.config.patch
+   [{"op":"replace","path":"/hail/default/default/18","value":"싸구려 하이로틀 고철 공구."},{"op":"replace","path":"/hail/default/default/19","value":"빌어먹을 하이로틀 싸구려 고철."},{"op":"replace","path":"/hail/default/default/20","value":"또 싸구
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch
+         "value": "권총이 자꾸 걸려, 이 고철 덩어리."
+/dialog/avikanoutpost.config.patch
+         "value": "걸어다니는 고철 자루에 불과해."
+/dialog/cultist.config.patch
+           "널 고철 폐기장으로 보내주지, 로봇!",
+/dialog/gic_generic_guard_hail.config.patch
+   [[{"op": "replace", "path": "/hail/gic_realistichuman/default/4", "value": "계속 가."}, {"op": "replace", "path": "/hail/avian/default/1", "value": "계속 가."}, {"op": "replace", "path": "/hail/gic_realistichuman/default/6", "
+/ffs_booty/ffs_miniknog_scrap.item.patch
+         "value": "미니크녹 드론에서 나온 부서진 고철.\n기계 전문 지식이 있는 누군가라면\n 이걸로 뭔가 할 수 있지 않을까?"
+         "value": "^#bb00ff;미니크녹 드론 고철"
+/interface/confirmation/gic_teleportconfirmation.config.patch
+       "value": "\n\n더 강한 적과 더 좋은 보상이 있는 비정규 도전 런을 시작합니다. ^red;사망 시 고철이나 탄약 같은 소모성 자원은 떨어뜨리지만, 무기와 방어구 같은 고유 장비는 잃지 않습니다.^reset;"
+       "value": "\n\n더 강한 적과 더 좋은 보상이 있는 비정규 도전 런을 시작합니다. ^red;사망 시 고철이나 탄약 같은 소모성 자원은 떨어뜨리지만, 무기와 방어구 같은 고유 장비는 잃지 않습니다.^reset;"
+/interface/dynamic_equipment/rework.config.patch
+         "value": "^green;고철^reset;"
+/interface/dynamic_equipment/salvage.config.patch
+         "value": "^red;경고^reset;\n기계에 넣은 모든 ^cyan;장비^reset;는 ^red;파괴됩니다^reset;.\n산출 ^green;고철^reset;은 ^cyan;장비^reset;의 ^yellow;등급^reset;에 따라 달라집니다."
+/interface/scripted/akkimariscavenging/akkimariscavenginggui.config.patch
+         "value": "무기를 고철로 분해"
+         "value": "무기를 고철로 분해"
+/interface/scripted/shuttlecraftscanner/config_npcshuttlecraft/config_scannersignals.config.patch
+   [[{"op":"test","path":"/debug_responsechecker/0","value":"Response: ^white; Debug."},{"op":"replace","path":"/debug_responsechecker/0","value":"응답: ^white; 디버그."}],[{"op":"test","path":"/flightcontrol_capital_ships/0/hul
+/interface/windowconfig/akkimaricrafting.config.patch
+         "value": "스크라운저 작업장"
+/items/AMMUNITION/SCRAP_GUNS/SCRAP_CHAINGUN/gic_scrapchaingun_223rem_drum_mag.item.patch
+       "value": "고철 체인건용 .223 레밍턴탄 75발 드럼."
+/items/AMMUNITION/SCRAP_GUNS/SCRAP_SMG/gic_scrapsmg_9x18mm_hollowpoint_mag.item.patch
+       "value": "고철 기관단총용 30발 9x18mm 탄창. 무방비 대상을 갈아버리지만 기본 갑옷에도 피해가 감소하는 할로포인트탄 장전.\r\n\r\n^orange;할로포인트:^reset;\r\n적 대상의 소화기 저항이 15% 또는 찌르기 저항이 30% 미만이면 3초 출혈, 1초 찢김, +25 직접 출혈 피해 적용. 기본 피해 감소. 대상이 갑옷이면 출혈 적용 불가."
+       "value": "고철 SMG 탄창 (할로포인트)"
+/items/AMMUNITION/SCRAP_GUNS/SCRAP_SMG/gic_scrapsmg_9x18mm_mag.item.patch
+       "value": "고철 기관단총용 30발 9x18mm 탄창."
+       "value": "고철 SMG 탄창"
+/items/AMMUNITION/gic_scrap_harpoon/gic_scrap_harpoon.item.patch
+       "value": "고철 작살"
+/items/AUGMENTS/TRINKETS/CRAFTED/gic_extrasalvagebags.augment.patch
+         "value": "필연적으로 쌓이게 될 스크랩 더미를 위한 추가 가방. 쌓이고 또 쌓여 끝이 없는 더미들.\n\n^orange;금속혈 스크라운러의 패시브 스크랩 드롭률을 추가로 10% 증가시킨다 | 갑옷을 최소 한 부위 착용해야 한다."
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_scrap_foregrip.augment.patch
+         "value": "고철과 나무로 만든 간이 전방 손잡이. 정규 손잡이만큼 견고하진 않지만 당분간은 쓸 만하다.\n  \n^green;선 자세 무기 숙련 +5%.^reset;\n^green;반동 회복 속도 +10%.^reset;\n\n^green;호환되는 GiC 무기를 우클릭해 장착.^reset;"
+         "value": "고철 전방 손잡이"
+/items/COMMODITIES/ARTIFACT/esc_relic.item.patch
+         "value": "인간 수준을 뛰어넘는 기술로 만들어진 물건이나 잔해를 통틀어 부르는 말로, 인간계의 여러 조직에서 널리 수집한다. 일부는 기술 발전에 실제로 이바지했지만, 대부분은 연구 가치가 없는 고철이거나 현재 인간의 기술로는 분석할 수 없는 것으로 판명되었다."
+/items/COMMODITIES/CRAFTING/gico_bullet_casing/gico_bullet_casing.item.patch
+         "value": "다양한 구경의 탄피가 대량으로 있습니다. 특정 세계에서 쓰이는 다양한 화기의 탄약을 제작하는 데 쓰거나, 녹여서 고철로 만들 수 있습니다.\n  \n  \n  \n  \n  \n^orange;화기 탄약 제작에 사용됩니다.^reset;"
+/items/COMMODITIES/CRAFTING/gico_lead/gico_lead.item.patch
+         "value": "대부분의 금속보다 밀도가 높은 중금속입니다. 주로 탄약 제작에 쓰입니다. 탄약 제작대에서 고철로 바꿀 수 있습니다.\r\n  \r\n  \r\n  \r\n  \r\n  \r\n^orange;화기용 탄약을 만드는 데 사용됩니다.^reset;"
+/items/COMMODITIES/JUNK/gic_emptyplasticbottle/gic_emptyplasticbottle.object.patch
+         "value": "일반적인 빈 플라스틱 병. 수동 스크랩 방법을 사용하면 재활용된 플라스틱 병이 화기 수리 키트 제작에 사용되는 플라스틱과 기름의 광범위한 공급원으로 사용할 수 있습니다. 일부는 이러한 병을 위해 전체 식민지를 비우기까지 했습니다."
+/items/GUIDE_PIECES/CAT_1/gic_guide_warship.item.patch
+       "value": "플레이어는 낡은 우주선으로 여정을 시작합니다. 첫 세계 완료 후 함선이 사용 가능해집니다. 그 시점 이후 고철로 내부 공간을 늘릴 수 있습니다.\r\n조종석과 상호작용하면 플레이어가 싸울 세계를 선택할 수 있습니다. 항성계나 행성을 좌클릭해 일반 정보 보기나 확대 선택. 우클릭해 그 위치로 이동. 행성의 근접 궤도에 있으면 행성으로 워프할 수 있습니다."
+/items/MATERIALS/JUNK/gic_toyjunk.item.patch
+       "value": "장난감 고철"
+/items/MATERIALS/akkimari/akkimarigroundpanel.matitem.patch
+         "value": "바닥재 역할을 하는 고철 패널."
+/items/MATERIALS/akkimari/akkimarihullpanel.matitem.patch
+         "value": "여러 고철로 만든 튼튼한 판재."
+/items/MATERIALS/akkimari/akkimariplatform.matitem.patch
+         "value": "고철 판으로 만든 금속 발판입니다."
+/items/MATERIALS/akkimari/akkimariplating.matitem.patch
+         "value": "여러 고철로 만든 튼튼한 판재."
+/items/MATERIALS/akkimari/akkimariplatingfront.matitem.patch
+         "value": "여러 고철로 만든 튼튼한 판재."
+/items/MATERIALS/akkimari/akkimariscrap.matitem.patch
+         "value": "고철"
+         "value": "고철 더미입니다."
+/items/MATERIALS/akkimari/akkimariscrapplating.matitem.patch
+         "value": "여러 고철로 만든 튼튼한 판재."
+/items/MATERIALS/akkimari/akkimariscrapplatingfront.matitem.patch
+         "value": "여러 고철로 만든 튼튼한 판재."
+/items/MATERIALS/atprk_slopedkrakothscrap.matitem.patch
+         "value": "기괴한 고철 패널"
+         "value": "고대의 고철 재료를 압축해 만든 단단한 금속 덩어리다."
+/items/MATERIALS/automated_tile1.matitem.patch
+         "value": "고철 패널."
+/items/MATERIALS/automated_tile2.matitem.patch
+         "value": "고철 패널."
+/items/MATERIALS/gic_scrapmetal.augment.patch
+         "value": "제한된 용도로 쓸 수 있는 여러 일반 금속 조각. 이 금속은 무르고 그리 강하지 않아 가정용 프로젝트와 취미에 적합하다.\n  \n^Yellow;고철 계열 무기를 직접 수리할 수 있다. 한 번 쓸 때마다 내구도 15% 회복.^reset;"
+/items/MATERIALS/lofty_irisil_slopedavianscrappanel.matitem.patch
+         "value": "아비안 고철 패널"
+         "value": "심각하게 파손되고 녹슨 고철 금속 패널입니다."
+         "value": "이 금속 패널은 이젠 그저 녹슨 고철일 뿐이야."
+/items/MATERIALS/rails/akkimarirail.matitem.patch
+         "value": "여러 고철을 모아 만든 레일."
+/items/MATERIALS/slopedscrappanel.matitem.patch
+         "value": "심각하게 파손되고 녹슨 고철 금속 패널입니다."
+         "value": "고철 패널"
+/items/MATERIALS/viridescent_tile2.matitem.patch
+         "value": "녹슨 고철 패널 타일."
+         "value": "비리데슨트 고철 패널"
+/items/MECH_PARTS/giclfw_zu_23_2_mech.item.patch
+         "value": "한때 소비에트 사회주의 공화국 연방으로 알려졌던 국가의 견인식 이중 23mm 대공 자동포였던 이 무기는, 메카 하드포인트에 조잡하게 부착되도록 개조되었다. 분당 2000발의 합산 발사 속도로 ^orange;23mm HE-VT 신관 포탄^white;을 퍼부어 어떤 공중 표적이든 고철로 만들어버릴 수 있다. 다소 원시적인 특성에도 불구하고, 이 무기의 견인식 버전은 
+/items/MECH_PARTS/giclfw_zu_23_2_sergey_mech.item.patch
+         "value": "이 ZU-23-2 변형은 ^yellow;지상 지원 역할^reset;용 ^orange;표준 23mm 충격 폭발식 고폭탄^reset;을 장착했다. 결국 23mm 대공 기관포는 항공기를 격추하는 것만 잘하는 게 아니었다; 적 보병을 ^red;붉은 안개^reset;로 바꾸고 ^yellow;중장갑^reset;이 아닌 한 모든 차량을 고철로 찢어버리는 데도 아주 좋다. 자금
+/items/UNPACK_BUNDLE/gic_20rnd_stanag_nato_556x45mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_762x63mm_enblocclip_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_ac556_223_20rnd_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_ac556_223_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_ak_545x39mm_drum_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_ak_545x39mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_ak_762x39mm_drum_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_ak_762x39mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_asval_9x39mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_blackstar_762x25mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_bren_770x56mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_browning_9x19mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_dragunovsvd_762x54mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_fal_762x51mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_fg42_792x57mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_g3_762x51mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_gepard_9x18mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_glock_9x19mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_heavystubber_back_pack_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_l115a2_762x51mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_lewisgun_770x56mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_m1911_1143x23mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_m1918a2_762x63mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_m1a1thompson_1143x23mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_m1carbine_30carbine_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_m249_556x45mm_box_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_m26mass_1850x70mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_mac10_1143x23mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_mg15_792x57mm_drum_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_mg3_762x51mm_box_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_mg3_762x51mm_drum_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_mk23_1143x23mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_mk3lmg_762x51mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_mp40_9x19mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_mp41r_9x19mm_drum_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_mp5_9x19mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_pkm_762x54mm_box_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_650x40mm_mag20rnd_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_650x40mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_770x58mm_box_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_770x58mm_mag30rnd_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_770x58mm_mag_duplex_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_770x58mm_mag_needle_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_770x58mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_792x57mm_enblocclip_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_792x57mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_8x22mm_mag50rnd_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_8x22mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_8x22mm_pistolmag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_9x19mm_mag30rnd_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_kawamura_770x58mm_incendiarytracer_box_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_rsr_qingdao_762x25mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_saiga12_1850x70mm_drum_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_saiga12_1850x70mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_saiga12_1850x70mm_slug_drum_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_saiga12_1850x70mm_slug_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_scarh_762x51mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_scrapchaingun_223rem_drum_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+       "value": "고철 체인건 드럼 비우기"
+/items/UNPACK_BUNDLE/gic_scrapsmg_9x18mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+       "value": "고철 SMG 탄창 비우기"
+/items/UNPACK_BUNDLE/gic_stanag_nato_556x45mm_drum_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_stanag_nato_556x45mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_stengun_9x19mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_stgw57_762x51mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_template_unpackbundle.activeitem.patch
+       "value": "^#orange;탄창의 탄환과 고철 비용 반환/회수에 사용."
+/items/UNPACK_BUNDLE/gic_ump45_1143x23mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gic_uzi_9x19mm_mag_unpackbundle.activeitem.patch
+       "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_beta_c_drum_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_drum_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_hollowpoint_beta_c_drum_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_hollowpoint_drum_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_hollowpoint_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_barrettm82_1270x108mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_cz75_9x19mm_hollowpoint_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_cz75_9x19mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_m60e4_762x51mm_box_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_m60e4_762x51mm_heavy_box_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_m60e4_762x51mm_rambo_belt_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mm_flechette_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mm_slug_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_beanbag_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_highexplosive_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_pennyshot_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_slug_whitephosphorus_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_starshell_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_pp19bizon201_9x19mm_hollowpoint_mag_extended_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_pp19bizon201_9x19mm_hollowpoint_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_pp19bizon201_9x19mm_mag_extended_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_pp19bizon201_9x19mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_pp19bizon_9x18mm_hollowpoint_mag_extended_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_pp19bizon_9x18mm_hollowpoint_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_pp19bizon_9x18mm_mag_extended_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_pp19bizon_9x18mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_remingtonm24a2sws_762x51mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^#orange;탄창의 탄환과 고철 비용 반환/회수에 사용."
+/items/UNPACK_BUNDLE/giclfw_sn7p_762x25mm_hollowpoint_mag_extended_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_sn7p_762x25mm_hollowpoint_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_sn7p_762x25mm_mag_extended_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_sn7p_762x25mm_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_svt40_mag_ap_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_svt40_mag_ext_ap_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_svt40_mag_ext_het_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_svt40_mag_ext_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_svt40_mag_het_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/UNPACK_BUNDLE/giclfw_svt40_mag_unpackbundle.activeitem.patch
+         "value": "^#FFE460;스크랩 개봉 꾸러미"
+         "value": "^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다."
+/items/WEAPONS/GICEXP/esc_widowmaker/esc_widowmaker.activeitem.patch
+   

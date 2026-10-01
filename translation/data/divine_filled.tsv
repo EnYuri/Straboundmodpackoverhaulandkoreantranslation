@@ -1,0 +1,28 @@
+asset	field	en	ko	src
+/items/augments/back/om_divineplanetblockaugment.augment	description	An EPP module that helps protect you against the ^yellow;Divine^reset; planet's ^yellow;Holy Atmosphere^reset;.	^yellow;디바인^reset; 행성의 ^yellow;신성한 대기^reset;로부터 너를 보호하는 EPP 모듈.	
+/items/augments/back/om_divineplanetblockaugment.augment	shortdescription	Holy Resist Augment I	신성 저항 증강 I	
+/items/augments/back/om_divineplanetblockaugment2.augment	description	An EPP module that helps protect you against the ^yellow;Divine^reset; planet's ^yellow;Holy Atmosphere^reset;. ^green;ATK + DEF^reset;	^yellow;디바인^reset; 행성의 ^yellow;신성한 대기^reset;로부터 너를 보호하는 EPP 모듈. ^green;ATK + DEF^reset;	
+/items/augments/back/om_divineplanetblockaugment2.augment	shortdescription	Holy Resist Augment II	신성 저항 증강 II	
+/items/augments/back/om_divineplanetblockaugment3.augment	description	An EPP module that helps protect you against the ^yellow;Divine^reset; planet's ^yellow;Holy Atmosphere^reset;. ^green;ATK, DEF + Light^reset;	^yellow;디바인^reset; 행성의 ^yellow;신성한 대기^reset;로부터 너를 보호하는 EPP 모듈. ^green;ATK, DEF + Light^reset;	
+/items/augments/back/om_divineplanetblockaugment3.augment	shortdescription	Holy Resist Augment III	신성 저항 증강 III	
+/items/augments/back/om_divineplanetblockaugment4.augment	description	An EPP module that helps protect you against the ^yellow;Divine^reset; planet's ^yellow;Holy Atmosphere^reset;. ^green;ATK, DEF, Light + SPD^reset;	^yellow;디바인^reset; 행성의 ^yellow;신성한 대기^reset;로부터 너를 보호하는 EPP 모듈. ^green;ATK, DEF, Light + SPD^reset;	
+/items/augments/back/om_divineplanetblockaugment4.augment	shortdescription	Holy Resist Augment IV	신성 저항 증강 IV	
+/items/materials/om_divineplanetflooring1.matitem	description	Bright and shiny flooring made from sanctilite.	생크틸라이트로 만든 밝고 반짝이는 바닥재.	reuse
+/items/materials/om_divineplanetflooring1.matitem	shortdescription	Divine Flooring	디바인 바닥재	reuse
+/items/materials/om_divineplanetglass.matitem	shortdescription	Divine Sloped Glass	디바인 경사 유리	reuse
+/items/materials/om_divineplanetglass.matitem	description	I can see my reflection.	내 모습이 보입니다.	reuse
+/items/materials/om_divineplanetpillar1.matitem	shortdescription	Divine Pillar Block	디바인 기둥 블록	reuse
+/items/materials/om_divineplanetpillar1.matitem	description	A sturdy, shiny pillar made from sanctilite.	생크틸라이트로 만든, 튼튼하고 반짝이는 기둥.	reuse
+/items/materials/om_divineplanetroofing1.matitem	description	This sacred roofing made from sanctilite has a few scratches.	생크틸라이트로 만든 이 신성한 지붕에는 흠집이 몇 군데 있다.	reuse
+/items/materials/om_divineplanetroofing1.matitem	shortdescription	Divine Roofing	디바인 지붕재	reuse
+/items/materials/om_divineplanetroofing2.matitem	description	This sacred sloped roofing is made from sanctilite.	이 신성한 경사 지붕은 생크틸라이트로 만들어졌다.	reuse
+/items/materials/om_divineplanetroofing2.matitem	shortdescription	Divine Sloped Roofing	디바인 경사 지붕재	reuse
+/items/materials/om_divineplanetwall1.matitem	description	A beautifully decorated divine wall for supporting structures.	구조물을 지탱하는, 아름답게 장식된 신성한 벽.	reuse
+/items/materials/om_divineplanetwall1.matitem	shortdescription	Divine Support Wall	디바인 지지벽	reuse
+/items/materials/om_divineplanetwall2.matitem	description	A divine wall with shiny symbols.	반짝이는 상징이 새겨진 신성한 벽입니다.	reuse
+/items/materials/om_divineplanetwall2.matitem	shortdescription	Divine Decorative Wall	디바인 장식벽	reuse
+/items/materials/om_stormcloudblock.matitem	description	A storm cloud dense enough to walk on. Definitely dangerous...	그 위를 걸을 수 있을 만큼 짙은 폭풍 구름. 분명 위험하다...	reuse
+/items/materials/om_stormcloudblock.matitem	shortdescription	Storm Cloud	폭풍 구름	reuse
+/stats/effects/om_divineplanetcoldflash/om_divineplanetcoldflash.statuseffect	label	Cold	차가움	
+/stats/effects/om_divineplanetheatwave/om_divineplanetheatwave.statuseffect	label	Sweaty	땀남	
+/stats/effects/om_divineplanetradstorm/om_divineplanetradstorm.statuseffect	label	Radiated	피폭됨	

@@ -1,0 +1,40 @@
+/items/armors/nuggubs/audreystorey/audrey.chest.patch
+  test /description: A pretty professional shirt. Is it necessary for working in an asteroid office, 
+  replace /description: 제법 갖춰 입은 셔츠. 소행성 사무실에서 일하는 데 꼭 필요할까?
+  test /shortdescription: Audrey's Dress Shirt
+  replace /shortdescription: 오드리의 드레스 셔츠
+tems/armors/nuggubs/bellecatalure/nug_belle_pants.legs.patch
+  test /description: The casualwear bottoms of Belle Catalure. The socks stay ON in bed~
+  replace /description: 벨 카탈루어의 캐주얼 하의. 침대에서도 양말은 벗지 않는다고~
+  test /shortdescription: Belle's Skirt & Socks
+  replace /shortdescription: 벨의 스커트 & 양말
+gubs/countrygirlsmakedo_orwhatever/ranchdressing.chest.patch
+  test /description: A quality leather jacket over a knotted shirt.
+  replace /description: 매듭 셔츠 위에 걸친 고급 가죽 재킷.
+  test /shortdescription: npc country Top
+  replace /shortdescription: NPC 컨트리 상의
+ggubs/countrygirlsmakedo_orwhatever/ranchdressing.head.patch
+  test /description: You've yee'd ya last haw, partner.
+  replace /description: 파트너, 그 '이-호'는 이게 마지막이야.
+  test /shortdescription: npc country Hat
+  replace /shortdescription: NPC 컨트리 모자
+ggubs/countrygirlsmakedo_orwhatever/ranchdressing.legs.patch
+  test /description: You've been ranchin' Mooshi yer whole life, why w'd ya need anythin' else?
+  replace /description: 평생 무시 목장 일만 해왔으면서 뭐가 더 필요하겠어?
+  test /shortdescription: npc country Duds
+  replace /shortdescription: NPC 컨트리 복장
+/items/armors/nuggubs/desert_alt/desert_alt.chest.patch
+  test /description: Getting sweaty?
+  replace /description: 땀 좀 나?
+  test /shortdescription: Desert Robe Top
+  replace /shortdescription: 사막 로브 상의
+/items/armors/nuggubs/desert_alt/desert_alt.legs.patch
+  test /description: It's extra breezy down here.
+  replace /description: 이 아래가 유난히 바람이 잘 통하네.
+  test /shortdescription: Desert Robe Bottom
+  replace /shortdescription: 사막 로브 하의
+/items/armors/nuggubs/furiousbrim/furiousbrim.head.patch
+  test /description: The perfect hat for any aspiring space cowboy!
+  replace /description: 우주 카우보이를 꿈꾸는 이에게 완벽한 모자!
+  test /shortdescription: The Furious Brim
+  replace /shortdescription: 분노의 챙

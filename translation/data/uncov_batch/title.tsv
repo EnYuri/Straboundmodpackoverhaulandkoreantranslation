@@ -1,0 +1,470 @@
+en	count	sample_asset	ko
+Travel	45	/interface/confirmation/gico_teleportconfirmation.config.patch	
+Ayurin	22	/quests/avikanquests/avikanoutpost/avikancrafting.questtemplate.patch	
+Elliott	20	/quests/outpost/techscientist3.questtemplate.patch	
+Rondin	19	/quests/thalassocrewquest/thalassorondinquest3.questtemplate.patch	
+Shu	15	/quests/arcana_quests_gushenAntique/arcana_quests_gushenAntique_1.questtemplate.patch	
+Libra	14	/quests/atprk_relicseekerhq/atprk_relicsearchquest3.questtemplate.patch	
+Folklorist	11	/quests/mwhaddon_quests/mwhaddon_quests_pOR/mwhaddon_quests_pOR_intro_4.questtemplate.patch	
+Noel	11	/quests/mwhaddon_quests/mwhaddon_quests_arcana_vendor_8/mwhaddon_quests_arcana_vendor_8_tradeSize_1.questtemplate.patch	
+Talina	7	/quests/UnknownWorlds/sgQuestUW_D4M1a.questtemplate.patch	
+Barukna	6	/quests/UnknownWorlds/sgQuestUW_D6M1b.questtemplate.patch	
+Execration	5	/collections/arcana_collections/bosses.collection.patch	
+Neo	4	/quests/outpost/EnhancedStorage.questtemplate.patch	
+Viera	4	/species/viera.species.patch	
+Crusader	4	/ivrpgSpecList.config.patch	
+Vanguard	4	/ivrpgSpecList.config.patch	
+Trapper	4	/ivrpgSpecList.config.patch	
+Title	4	/ivrpgtext.config.patch	
+Bookstore	3	/npcs/allianceoutpost/merchants/eo-bookmerchant.npctype.patch	
+Moogle	3	/species/moogle.species.patch	
+Aegis	3	/classes/knight.config.patch	
+Marksman	3	/classes/soldier.config.patch	
+Energize	3	/classes/soldier.config.patch	
+Valkyrie	3	/ivrpgSpecList.config.patch	
+Conquistador	3	/ivrpgSpecList.config.patch	
+Dragoon	3	/ivrpgSpecList.config.patch	
+Wraith	3	/ivrpgSpecList.config.patch	
+Technomancer	3	/ivrpgSpecList.config.patch	
+Sage	3	/ivrpgSpecList.config.patch	
+Thief	3	/ivrpgSpecList.config.patch	
+Operative	3	/ivrpgSpecList.config.patch	
+Titan	3	/ivrpgSpecList.config.patch	
+Pioneer	3	/ivrpgSpecList.config.patch	
+Solstice	3	/ivrpg_specs/battlemage.config.patch	
+Iaijutsu	3	/ivrpg_specs/samurai.config.patch	
+Evolapis	3	/codex/arcana_codex_boss/arcana_codex_evolapis.codex.patch	
+Stranger	3	/objects/sgstrangershop/sgstrangershop.object.patch	
+OmniBrowser	2	/interface/omnibrowser/v1/default.config.patch	
+Ravy	2	/quests/ffs_episode_0_0.questtemplate.patch	
+Aegi	2	/species/aegi.species.patch	
+Avikan	2	/species/avikan.species.patch	
+Droden	2	/species/droden.species.patch	
+Trink	2	/species/trink.species.patch	
+ Bookstore	2	/interface/windowconfig/bookstore.config.patch	
+Felin	2	/species/felin.species.patch	
+Lamia	2	/species/lamia.species.patch	
+X'i	2	/species/radien.species.patch	
+  Echo of Eithne	2	/objects/viera/ship/vieratechstation2/vieratechstation2.object.patch	
+Spira	2	/classes/explorer.config.patch	
+Bash	2	/classes/knight.config.patch	
+Slam	2	/classes/knight.config.patch	
+Siphon	2	/classes/rogue.config.patch	
+Versa	2	/classes/soldier.config.patch	
+Hover	2	/classes/wizard.config.patch	
+Paladin	2	/ivrpgSpecList.config.patch	
+Juggernaut	2	/ivrpgSpecList.config.patch	
+Samurai	2	/ivrpgSpecList.config.patch	
+Necromancer	2	/ivrpgSpecList.config.patch	
+Warlock	2	/ivrpgSpecList.config.patch	
+Elementress	2	/ivrpgSpecList.config.patch	
+Assassin	2	/ivrpgSpecList.config.patch	
+Kunoichi	2	/ivrpgSpecList.config.patch	
+Adept	2	/ivrpgSpecList.config.patch	
+Mechanist	2	/ivrpgSpecList.config.patch	
+Deadshot	2	/ivrpgSpecList.config.patch	
+Vigilante	2	/ivrpgSpecList.config.patch	
+Cannoneer	2	/ivrpgSpecList.config.patch	
+Saboteur	2	/ivrpgSpecList.config.patch	
+Fae	2	/ivrpgSpecList.config.patch	
+Scout	2	/ivrpgSpecList.config.patch	
+Pilot	2	/ivrpgSpecList.config.patch	
+Assassinate	2	/ivrpg_specs/assassin.config.patch	
+Berserk	2	/ivrpg_specs/berserker.config.patch	
+Resurgence	2	/ivrpg_specs/crusader.config.patch	
+Oathkeeper	2	/ivrpg_specs/crusader.config.patch	
+Attune	2	/ivrpg_specs/elementress.config.patch	
+Multitool	2	/ivrpg_specs/hunter.config.patch	
+Skynet	2	/ivrpg_specs/mechanist.config.patch	
+Reap	2	/ivrpg_specs/necromancer.config.patch	
+Chrysalis	2	/ivrpg_specs/sage.config.patch	
+Momentum	2	/ivrpgtext.config.patch	
+Unstoppable	2	/ivrpgtext.config.patch	
+  Alchemist	2	/npcs/Saturnwizard.npctype.patch	
+Starite	2	/codex/om_starry/om_starrymonsterlore2.codex.patch	
+Starcrab	2	/codex/om_starry/om_starrymonsterlore6.codex.patch	
+ Campfire	2	/interface/funeralaltar/funeralaltar2.config.patch	
+ Atlantis	2	/objects/arcana/astral/vendor_1/arcana_astral_vendor_1.object.patch	
+Turret-Mart	2	/objects/turretmart/turretmart.object.patch	
+Henry	2	/quests/pixelweapons.questtemplate.patch	
+Output	2	/interface/scripted/NpcMenu/modConfigv2.config.patch	
+Apollyon	2	/collections/starburst/combat/pf_biomeweapons.collection.patch	
+Phobia	2	/collections/starburst/combat/pf_biomeweapons.collection.patch	
+Monolith	2	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Warning	2	/interface/scripted/v-missingdependency/v-tbworkaround.config.patch	
+Angel	1	/species/angel.species.patch	
+Ruined	1	/species/om_ruined.species.patch	
+Akkimari	1	/species/akkimari.species.patch	
+Centens	1	/species/centens.species.patch	
+Thelean	1	/species/thelean.species.patch	
+Lustling	1	/species/lustling.species.patch	
+Kitsune	1	/species/kitsune.species.patch	
+Lucario	1	/species/lucario.species.patch	
+Arcanian	1	/species/arcanian.species.patch	
+Gelsemis	1	/species/gelsemis.species.patch	
+Gilten	1	/species/gilten.species.patch	
+  Cakery	1	/objects/alta/cooking/cakery/ct_alta_cakery.object.patch	
+  Oven	1	/objects/alta/cooking/oven/ct_alta_oven.object.patch	
+Thermounit	1	/tenants/alta/guards/tier4/thermo.tenant.patch	
+  Kettle	1	/objects/alta/cooking/kettle/ct_alta_kettle.object.patch	
+  Milker	1	/objects/alta/cooking/milker/ct_alta_milker.object.patch	
+  Conserver	1	/objects/alta/cooking/conserver/ct_alta_conserver.object.patch	
+Arknight	1	/tenants/alta/guards/tier5/arknight.tenant.patch	
+  Spicer	1	/objects/alta/cooking/spicer/ct_alta_spicer.object.patch	
+  Kadamaker	1	/objects/alta/cooking/kadamaker/ct_alta_kadamaker.object.patch	
+  Slicer	1	/objects/alta/cooking/slicer/ct_alta_slicer.object.patch	
+Yaaviling	1	/tenants/floran/ct_yaara_eye.tenant.patch	
+  Jellyfier	1	/objects/alta/cooking/jellyfier/ct_alta_jellyfier.object.patch	
+Altaponics	1	/codex/alta/ct_alta_ponics.codex.patch	
+Spacedrifter	1	/tenants/alta/guards/tier7/spacedrifter.tenant.patch	
+  Icer	1	/objects/alta/cooking/icer/ct_alta_icer.object.patch	
+Yaarafinger	1	/tenants/floran/ct_yaarafinger.tenant.patch	
+Dreamer	1	/tenants/alta/guards/tier6/dreamer.tenant.patch	
+Bionics	1	/codex/alta/ct_bionics.codex.patch	
+  Saturator	1	/objects/alta/cooking/saturator/ct_alta_saturator.object.patch	
+  Roaster	1	/objects/alta/cooking/roaster/ct_alta_roaster.object.patch	
+  Blender	1	/objects/alta/cooking/blender/ct_alta_blender.object.patch	
+Alta	1	/species/alta.species.patch	
+  Fermenter	1	/objects/alta/cooking/fermenter/ct_alta_fermenter.object.patch	
+  Shaker	1	/objects/alta/cooking/shaker/ct_alta_shaker.object.patch	
+  Juicer	1	/objects/alta/cooking/juicer/ct_alta_juicer.object.patch	
+  Mixer	1	/objects/alta/cooking/mixer/ct_alta_mixer.object.patch	
+Yaaraling	1	/tenants/floran/ct_yaaraling.tenant.patch	
+  Kitchener	1	/objects/alta/cooking/kitchener/ct_alta_kitchener.object.patch	
+Arigaran	1	/tenants/floran/ct_arigaran.tenant.patch	
+  Stove	1	/objects/alta/cooking/stove/ct_alta_stove.object.patch	
+Material Mod Config	1	/interface/scripted/fu_matmodplacer/fu_matmodplacer.config.patch	
+Humped by a Deep One	1	/interface/scripted/sbvn/games/cthululove/deepone.sbvn.patch	
+Protectorate Monster Field Guide	1	/interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn.patch	
+ Avali Kitchen	1	/objects/avaligeneric/kitchen/avalikitchenstove.object.patch	
+Svetlana's Stall	1	/objects/crafting/extraavianaugments/extraavianaugments.object.patch	
+ Slime Cooking Table	1	/objects/crafting/slimecookingtable/slimecookingtable.object.patch	
+ Biochemist Table	1	/objects/crafting/upgradeablecraftingobject/slimecentrifuge/slimecentrifuge.object.patch	
+ XENO RESEARCH LAB	1	/objects/crafting/xenostation/xenolab.config.patch	
+Skath Codex Beacon	1	/objects/skath crafting/skathcodexbeacon/skathcodexbeacon.object.patch	
+ Rustic Skath Forge	1	/objects/skath crafting/skathforge1/skathforge.object.patch	
+ Skath Plasma Forge	1	/objects/skath crafting/skathforge1/skathforge.object.patch	
+ Rustic Skath Workbench	1	/objects/skath crafting/skathworktable1/skathworktable.object.patch	
+ Skath Industrial Workbench	1	/objects/skath crafting/skathworktable1/skathworktable.object.patch	
+  Plasma Microwave	1	/objects/skath/skathmicrowave/skathmicrowave.object.patch	
+The Quantum Manipulator	1	/quests/mmupgrade/mmgravgun2.questtemplate.patch	
+You're a thing	1	/quests/story/protectoratefu.questtemplate.patch	
+Saturnian	1	/species/saturn.species.patch	
+Thaumoth	1	/species/saturn2.species.patch	
+Choice	1	/codex/WOODLANDS/gico_choice_warning/gico_choice_warning.codex.patch	
+Trials	1	/codex/WOODLANDS/gico_memory_warning/gico_trial_warning.codex.patch	
+Decision	1	/codex/WOODLANDS/gico_choice_committed/gico_choice_committed.codex.patch	
+Intermission	1	/interface/confirmation/gic_teleportconfirmation.config.patch	
+"  Advanced Munitions Engineer
+
+
+
+
+
+
+
+"	1	/objects/CRAFTING/LEGACY_CRAFTING/UNUSED/gic_advancedmunitions_engineer/gic_advancedmunitions_engineer.object.patch	
+Dashhack	1	/quests/dashhack.questtemplate.patch	
+Jumphack	1	/quests/jumphack.questtemplate.patch	
+Spherehack	1	/quests/spherehack.questtemplate.patch	
+Arc	1	/affinities/arc.config.patch	
+Cryo	1	/affinities/cryo.config.patch	
+Flame	1	/affinities/flame.config.patch	
+Infernal	1	/affinities/infernal.config.patch	
+Shock	1	/affinities/shock.config.patch	
+Venom	1	/affinities/venom.config.patch	
+Explorer	1	/classes/explorer.config.patch	
+Knight	1	/classes/knight.config.patch	
+Ninja	1	/classes/ninja.config.patch	
+MRE+	1	/classes/soldier.config.patch	
+Wizard	1	/classes/wizard.config.patch	
+Translocate	1	/classes/wizard.config.patch	
+Heartstring	1	/ivrpg_specs/assassin.config.patch	
+Murderstick	1	/ivrpg_specs/berserker.config.patch	
+Shapeshift	1	/ivrpg_specs/changeling.config.patch	
+Arquebus	1	/ivrpg_specs/conquistador.config.patch	
+Heartless	1	/ivrpg_specs/darktemplar.config.patch	
+Lotus	1	/ivrpg_specs/deadshot.config.patch	
+Eclipse	1	/ivrpg_specs/elementress.config.patch	
+Chrysantha	1	/ivrpg_specs/fae.config.patch	
+Mida	1	/ivrpg_specs/hunter.config.patch	
+Luxuria	1	/ivrpg_specs/kunoichi.config.patch	
+Shredder	1	/ivrpg_specs/mercenary.config.patch	
+Breathless	1	/ivrpg_specs/operative.config.patch	
+V-Transform	1	/ivrpg_specs/pilot.config.patch	
+Colonize	1	/ivrpg_specs/pioneer.config.patch	
+Nautilus	1	/ivrpg_specs/pioneer.config.patch	
+Rapture	1	/ivrpg_specs/sage.config.patch	
+Omnia-Thrower	1	/ivrpg_specs/technomancer.config.patch	
+Epimetheus	1	/ivrpg_specs/titan.config.patch	
+Headhunter	1	/ivrpg_specs/trapper.config.patch	
+Gungnir	1	/ivrpg_specs/valkyrie.config.patch	
+Orbital	1	/ivrpg_specs/warlock.config.patch	
+Sadism	1	/ivrpgtext.config.patch	
+Masochism	1	/ivrpgtext.config.patch	
+Decay	1	/ivrpgtext.config.patch	
+Truth	1	/ivrpgtext.config.patch	
+Expectation	1	/ivrpgtext.config.patch	
+Sen	1	/ivrpgtext.config.patch	
+Mellou	1	/ivrpgtext.config.patch	
+Partners	1	/ivrpgtext.config.patch	
+Enemies	1	/ivrpgtext.config.patch	
+Mini-Bosses	1	/ivrpgtext.config.patch	
+NPCs	1	/ivrpgtext.config.patch	
+Statuses	1	/ivrpgtext.config.patch	
+Synthesis	1	/ivrpgtext.config.patch	
+Truesight	1	/ivrpgtext.config.patch	
+Bard	1	/professions/bard.config.patch	
+Botanist	1	/professions/botanist.config.patch	
+Clothier	1	/npcs/SaturnClothier.npctype.patch	
+  Innkeeper	1	/npcs/Saturninnkeeper.npctype.patch	
+Mothman	1	/species/saturnmothman.species.patch	
+Halfsea	1	/species/halfsea.species.patch	
+Journal	1	/interface/scripted/shpd_collections/collectionsgui.config.patch	
+Lament	1	/codex/apex/sb_sewerlament.codex.patch	
+Loneliness	1	/codex/apex/sb_sewerlonely.codex.patch	
+Goal	1	/codex/floran/sb_floranambition.codex.patch	
+Growfly	1	/codex/floran/sb_sewergrowfly.codex.patch	
+Mecharachnid	1	/codex/floran/sb_sewermecharachnid.codex.patch	
+Po	1	/codex/floran/sb_sewerpo.codex.patch	
+Battleground	1	/codex/glitch/sb_sewerbattleground.codex.patch	
+Ferrying	1	/codex/glitch/sb_sewerferrying.codex.patch	
+Severing	1	/codex/glitch/sb_sewersevering.codex.patch	
+Remorse	1	/codex/human/sb_humanprologue.codex.patch	
+Compromise	1	/codex/hylotl/sb_hylotlprologue.codex.patch	
+Arctic Battle (1)	1	/collections/sb_music.collection.patch	
+Arctic Battle (2)	1	/collections/sb_music.collection.patch	
+Arctic Battle (3)	1	/collections/sb_music.collection.patch	
+Arctic Constellation (1)	1	/collections/sb_music.collection.patch	
+Arctic Constellation (2)	1	/collections/sb_music.collection.patch	
+Arctic Exploration (1)	1	/collections/sb_music.collection.patch	
+Arctic Exploration (2)	1	/collections/sb_music.collection.patch	
+Atlas (8-Bit)	1	/collections/sb_music.collection.patch	
+Crystal Battle (1)	1	/collections/sb_music.collection.patch	
+Crystal Exploration (1)	1	/collections/sb_music.collection.patch	
+Crystal Exploration (2)	1	/collections/sb_music.collection.patch	
+Cygnus x1	1	/collections/sb_music.collection.patch	
+Desert Battle (2)	1	/collections/sb_music.collection.patch	
+Desert Exploration (1)	1	/collections/sb_music.collection.patch	
+Desert Exploration (2)	1	/collections/sb_music.collection.patch	
+Error 0xBFAF000	1	/collections/sb_music.collection.patch	
+Forest Battle (1)	1	/collections/sb_music.collection.patch	
+Forest Battle (2)	1	/collections/sb_music.collection.patch	
+Forest Exploration (1)	1	/collections/sb_music.collection.patch	
+Forest Exploration (2)	1	/collections/sb_music.collection.patch	
+Home	1	/collections/sb_music.collection.patch	
+I was the Sun	1	/collections/sb_music.collection.patch	
+Lava Exploration (1)	1	/collections/sb_music.collection.patch	
+Lava Exploration (2)	1	/collections/sb_music.collection.patch	
+Ocean Battle (1)	1	/collections/sb_music.collection.patch	
+Ocean Exploration (1)	1	/collections/sb_music.collection.patch	
+Ocean Exploration (2)	1	/collections/sb_music.collection.patch	
+Tentacle Battle (1)	1	/collections/sb_music.collection.patch	
+Tentacle Exploration (1)	1	/collections/sb_music.collection.patch	
+Tentacle Exploration (2)	1	/collections/sb_music.collection.patch	
+Starbound	1	/collections/sb_music.collection.patch	
+Betabound (Title Concept)	1	/collections/sb_music.collection.patch	
+Underground	1	/collections/sb_music.collection.patch	
+Jukebox	1	/collections/sb_music.collection.patch	
+Jungle Love	1	/collections/sb_music.collection.patch	
+Dancebound	1	/collections/sb_music.collection.patch	
+Decorated Music Box	1	/collections/sb_music.collection.patch	
+Frontier Gramophone	1	/collections/sb_music.collection.patch	
+Jab	1	/collections/sb_music.collection.patch	
+Underground - Club Decks	1	/collections/sb_music.collection.patch	
+Lectern	1	/interface/scripted/sb_codex/codex.config.patch	
+Silence	1	/interface/scripted/sb_music/music.config.patch	
+  Doctor	1	/npcs/sb_doctormerchant.npctype.patch	
+Tool Table	1	/objects/crafting/upgradeablecraftingobjects/sb_craftingtool/craftingtool.object.patch	
+Iron Tool Table	1	/objects/crafting/upgradeablecraftingobjects/sb_craftingtool/craftingtool.object.patch	
+  Merchant	1	/interface/windowconfig/b_merchant.config.patch	
+ Modificator	1	/objects/crafting/dem_modificator/dem_modificator.object.patch	
+Purpose	1	/codex/arcana_codex_steelblades/arcana_codex_steelblades_2.codex.patch	
+Musicbox	1	/interface/scripted/arcana_musicbox/arcana_musicbox.config.patch	
+ Seabreeze	1	/objects/arcana/misc/cafeVendor/arcana_misc_cafeVendor.object.patch	
+ Konata	1	/objects/arcana/vendor/neko/arcana_vendor_neko.object.patch	
+Mech-Mart	1	/objects/sgmechmart/sgmechmart.object.patch	
+  Mage	1	/npcs/subbiometenants/atprk_forgottenmage.npctype.patch	
+Ayylien	1	/species/ayylien.species.patch	
+Noolith	1	/species/noolith.species.patch	
+Terramart	1	/objects/nmm_starbound/custom/storecounters/terramartcounter.object.patch	
+ KFConsole	1	/objects/nmm_mvg/other/kentuckyfried/kfconsole.object.patch	
+Farmer	1	/npcs/farmertenant.npctype.patch	
+  Bartender	1	/npcs/woofieheadquarter/woofiebartender.npctype.patch	
+Mei	1	/quests/mwhaddon_quests/mwhaddon_quests_arcana_vendor_kucaiRestaurant/mwhaddon_quests_arcana_vendor_kucaiRestaurant_tripleDecker.questtemplate.patch	
+Irishop	1	/interface/windowconfig/lofty_irisil_irisamerchant.config.patch	
+  Wizard	1	/npcs/scp_npcs/scp_citymerchant_wizard.npctype.patch	
+RnD	1	/objects/CRAFTING/GICEXP/gicexp_intergalacticshoppingterminal/gicexp_intergalacticshoppingterminal2.object.patch	
+Alt:	1	/magnorbs/legrainbow/legrainbow.activeitem.patch	
+ Designer	1	/interface/windowconfig/craftingdesigner.config.patch	
+  Farmer	1	/npcs/furniture/farmerrmerchant.npctype.patch	
+  Blacksmith	1	/npcs/tenants/blacksmithtenant.npctype.patch	
+  Painter	1	/npcs/tenants/paintermerchant.npctype.patch	
+Bangaa	1	/species/bangaa.species.patch	
+Antidote	1	/collections/starburst/exploration/pf_hazardprotection.collection.patch	
+Fire Block Augment	1	/collections/starburst/exploration/pf_hazardprotection.collection.patch	
+Ice Block Augment	1	/collections/starburst/exploration/pf_hazardprotection.collection.patch	
+Electric Block Augment	1	/collections/starburst/exploration/pf_hazardprotection.collection.patch	
+Poison Block Augment	1	/collections/starburst/exploration/pf_hazardprotection.collection.patch	
+Radiation EPP	1	/collections/starburst/exploration/pf_hazardprotection.collection.patch	
+Cooling EPP	1	/collections/starburst/exploration/pf_hazardprotection.collection.patch	
+Heating EPP	1	/collections/starburst/exploration/pf_hazardprotection.collection.patch	
+Soullier	1	/collections/starburst/combat/pf_biomeweapons.collection.patch	
+The Eye of ^red;Nulcturne	1	/collections/starburst/combat/pf_biomeweapons.collection.patch	
+Electro Baton	1	/collections/starburst/combat/pf_biomeweapons.collection.patch	
+Ray Gun	1	/collections/starburst/combat/pf_biomeweapons.collection.patch	
+Drill Spear	1	/collections/starburst/combat/pf_biomeweapons.collection.patch	
+Throwing Dart	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Throwing Dagger	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Throwing Bone	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Snowflake Shuriken	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Throwing Kunai	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Javelin	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Floronian Javelin	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Kinetic Javelin	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Bomb	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Ball of Gnomes	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Throwing Boulder	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Bug Hive	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Molten Boomerang	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Frozen Boomerang	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Lunarang	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Giant Worm	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Chakram	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Saw Chakram	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Hard Chakram	1	/collections/starburst/combat/pf_throwingweapons.collection.patch	
+Lantern Stick	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+Halogen Pack	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+Xenon Pack	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+Oxygen Tank	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+Shawl of Elation	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+Hazmat Airtank	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+Fire Lord's Cloak	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+Toxic Flower Backpack	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+Stargazer Acolyte Wings	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+Stargazer Prophet Wings	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+Avian God Wings	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+Bladed Wings	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+Predatory Back	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+AA Battery Pack	1	/collections/starburst/combat/pf_enhancementpacks.collection.patch	
+  Stormchaser	1	/npcs/tenants/pf_stormy.npctype.patch	
+Broken Broadsword	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Time Pierce	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Oculus Reaver	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Soulseeker	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Solus Katana	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Hokucide	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Firestorm's Fury	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Asuterosaberu DX	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Protector's Broadsword	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Ixodoom Claw	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Rope Whip	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Vine Whip	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Intestine Whip	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Lucaine's Energy Whip	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Boxing Glove	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Gauntlet	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Claw Glove	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Stun Glove	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Vine Fist	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Supernova Gauntlet	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Erchius Eye	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Neo Shotgun	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Neo Tommy Gun	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Cartilage Gun	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Tesla's Wrath	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Gnome Gun	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Neo Magnum-E78	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Adaptable Crossbow	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Vintage Scoped Rifle	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Neo Magnum-RX	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Remote Grenade Launcher	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Evil Eye	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Miniknog Launcher	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Dragonhead Pistol	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Neo Magnum-ZZZ	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Poison Bow	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Pollen Pump	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Kluex Staff	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Tesla's Staff	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Glue Sprayer	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Alien Worm Gun	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Alien Appendage	1	/collections/starburst/combat/pf_uniqueweapons.collection.patch	
+Wheat	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Corn	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Pearlpea	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Potato	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Cotton	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Carrot	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Cocoa Pod	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Thorn Fruit	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Current Corn	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Boneboo	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Grapes	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Apple	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Silk	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Chili	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Beakseed	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Feathercrown	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Kiwi	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Automato	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Neonmelon	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Diodia	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Reefpod	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Coralcreep	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Pineapple	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Banana	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Coffee Beans	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Avesmingo	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Dirturchin	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Alien Fruit	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Oculemon	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Pussplum	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Eggshoot	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Wartweed	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Toxictop	1	/collections/starburst/exploration/pf_farmables.collection.patch	
+Doom Cannon	1	/collections/starburst/combat/pf_otherworldlyweapons.collection.patch	
+Copper Pickaxe	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Copper Drill	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Iron Pickaxe	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Iron Drill	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Silver Pickaxe	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Silver Drill	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Gold Pickaxe	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Gold Drill	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Durasteel Pickaxe	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Durasteel Drill	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Platinum Pickaxe	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Platinum Drill	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Diamond Pickaxe	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Diamond Drill	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Chronium Pickaxe	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Chronium Drill	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Mining Drone	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Energy Pickaxe	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Tunnel Drill	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Lantern	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Flashlight (Green)	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Flashlight (Red)	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Flashlight (Yellow)	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Climbing Rope	1	/collections/starburst/exploration/pf_tools.collection.patch	
+Grappling Hook	1	/collections/starburst/exploration/pf_tools.collection.patch	
+ Hazard Lab Table	1	/objects/crafting/upgradeablecraftingobjects/craftingplanetresist/pf_craftingplanetresist.object.patch	
+ Hazard Research Station	1	/objects/crafting/upgradeablecraftingobjects/craftingplanetresist/pf_craftingplanetresist.object.patch	
+Corite	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Diamond	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Chronium	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Aurium	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Rubite	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Blue Ice	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Aquari	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Xenocyte	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Vermillium	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Promethium	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Erebium	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Quartz	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Obsidian	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Limestone	1	/collections/starburst/exploration/pf_minerals.collection.patch	
+Guard-Mart	1	/objects/guardmart/guardmart.object.patch	
+Unas	1	/species/unas.species.patch	
+Masamune	1	/quests/yukai/forgemasterquest2.questtemplate.patch	

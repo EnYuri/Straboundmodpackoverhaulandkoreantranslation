@@ -1,0 +1,363 @@
+/codex/thelusian/thelusian6.codex.patch/contentPages/0
+   EN: 
+   KO: 짜이와 텔루시안 모두 그들의 '유대'의 정체를 밝히기를 거부하지만, 그것이 존재한다는 것은 의심의 여지가 없습니다. 텔루시안들은 그 이유에 대해 제대로 된 설명도 없이 (심지어 낯선 사람까지!) 악의적으로 짜이족을 옹호하는 모습을 보였습니다. X'ians는 압박을 받으면 이상한 언어로 '스타 브라더런'과 비슷한 것을 암시했습니다.
+/codex/thelusian/thelusian6.codex.patch/contentPages/1
+   EN: 
+   KO: 협박을 당해도 더 이상 공개할 것이 없다는 점에서 다소 실망스러웠습니다. 개인적으로는 텔루시아인들이 언젠가 신뢰를 얻게 되면 밝힐 수 있는 장기적인 인종적 기억이 없다면 그 이유는 역사 속으로 사라질 것이라고 생각합니다.
+/codex/thelusian/thelusian6.codex.patch/description
+   EN: 
+   KO: 텔루시안 라이프 6권
+/codex/thelusian/thelusian6.codex.patch/title
+   EN: 
+   KO: 짜'이족 링크
+/ffs_weapons/ffs_0_cultist/ffs_frag_rgo/ffs_frag_rgo_cultist.activeitem.patch/shortdescription
+   EN: ^green;RGO hand grenade
+   KO: ^green;RGO 수류탄
+/ffs_weapons/ffs_0_cultist/ffs_frag_rgo/ffs_frag_rgo_cultist.activeitem.patch/category
+   EN: ^#ffe400;Hand grenade
+   KO: ^#ffe400;수류탄
+/ffs_weapons/ffs_0_cultist/ffs_frag_rgo/ffs_frag_rgo_cultist.activeitem.patch/description
+   EN: ^#ffb73b;Manuf. Soviet Union
+^#7c7c7c;Equiping status : ^white;Full
+
+
+
+
+^#7c7c7c;Effective Range : 20m / 1.6 × 4 = 50 Blocks (1.6m = 4blocks)
+^green;LMB : UDZS Impact fuze arming after 1.5secs
+^green;RMB : Time delay after 3.0 secs
+
+
+^red;Check your fire! Explosion can damage to player.
+^red;If a gu
+   KO: ^#ffb73b;제조사: 소련
+^#7c7c7c;장착 상태 : ^white;Full
+
+
+
+
+^#7c7c7c;유효 사거리 : 20m / 1.6 × 4 = 50 블록 (1.6m = 4블록)
+^green;LMB : UDZS 충격 신관 1.5초 후 발동
+^green;RMB : 3.0초 지연 발사
+
+
+^red;사격 주의! 폭발은 플레이어에게도 피해를 준다.
+^red;If a gunner is too close to the target, it'll be very dangerous.
+/items/MATERIALS/alienrockbrick.matitem.patch/shortdescription
+   EN: Alien Rock Bricks
+   KO: 외계 암석 벽돌
+/items/MATERIALS/alienrockbrick.matitem.patch/description
+   EN: These bricks are made from strange alien rock.
+   KO: 이 벽돌은 기묘한 외계 암석으로 만들었다.
+/items/MATERIALS/alliance/alliancestonebrick.matitem.patch/shortdescription
+   EN: Alliance Stone Bricks
+   KO: 얼라이언스 석재 벽돌
+/items/MATERIALS/alliance/alliancestonebrick.matitem.patch/description
+   EN: Heavy stone bricks.
+   KO: 무거운 돌 벽돌.
+/items/MATERIALS/ancientbrick.matitem.patch/description
+   EN: 
+   KO: 뭔가 새겨진 이 벽돌은 측정조차 못할 정도로 오래된 것 같습니다.
+/items/MATERIALS/ancientbrick.matitem.patch/shortdescription
+   EN: 
+   KO: 고대 벽돌
+/items/MATERIALS/angelcobblestonebrick.matitem.patch/shortdescription
+   EN: Ancient Angel Bricks
+   KO: 고대 천사 벽돌
+/items/MATERIALS/angelcobblestonebrick.matitem.patch/description
+   EN: Angelic stone bricks put together in a rough, unorderly fashion.
+   KO: 거칠고 무질서하게 쌓아 올린 천사풍 석재 벽돌이다.
+/items/MATERIALS/brick.matitem.patch/description
+   EN: 
+   KO: 찰흙으로 만들어 작지만 완벽하게 형태를 이룬 벽돌입니다.
+/items/MATERIALS/brick.matitem.patch/shortdescription
+   EN: 
+   KO: 벽돌
+/items/MATERIALS/brick.matitem.patch/description
+   EN: 
+   KO: Small but perfectly formed bricks made from clay.
+^orange;분쇄 가능^reset;.
+/items/MATERIALS/burningbrick.matitem.patch/shortdescription
+   EN: 
+   KO: 지옥 벽돌
+/items/MATERIALS/burningbrick.matitem.patch/description
+   EN: 
+   KO: 지옥석으로 만든 작은 벽돌.
+/items/MATERIALS/burningbrick.matitem.patch/glitchDescription
+   EN: 
+   KO: 관찰. 이 벽돌들은 극도로 뜨거운 돌로 만들어졌다.
+/items/MATERIALS/burningbrick.matitem.patch/floranDescription
+   EN: 
+   KO: 매끄럽고 빛나는 돌벽돌.
+/items/MATERIALS/burningbrick.matitem.patch/novakidDescription
+   EN: 
+   KO: 아주 뜨거운 돌로 만든 벽돌이구만.
+/items/MATERIALS/chargedbrick.matitem.patch/shortdescription
+   EN: 
+   KO: 전기 충전된 벽돌
+/items/MATERIALS/chargedbrick.matitem.patch/description
+   EN: 
+   KO: 전기 충전된 돌로 만든 작은 벽돌.
+/items/MATERIALS/chargedbrick.matitem.patch/glitchDescription
+   EN: 
+   KO: 관찰. 이 벽돌들은 극도로 뜨거운 돌로 만들어졌다.
+/items/MATERIALS/chargedbrick.matitem.patch/floranDescription
+   EN: 
+   KO: 매끄럽고 빛나는 돌벽돌.
+/items/MATERIALS/chargedbrick.matitem.patch/novakidDescription
+   EN: 
+   KO: 아주 뜨거운 돌로 만든 벽돌이구만.
+/items/MATERIALS/cobblestonebrick.matitem.patch/description
+   EN: 
+   KO: 조약돌로 만든 작은 벽돌입니다.
+/items/MATERIALS/cobblestonebrick.matitem.patch/shortdescription
+   EN: 
+   KO: 조약돌 벽돌
+/items/MATERIALS/dalmascanbrick.matitem.patch/shortdescription
+   EN: Dalmascan Brick
+   KO: 달마스칸 벽돌
+/items/MATERIALS/dalmascanbrick.matitem.patch/description
+   EN: Bricks formed using the techniques of molding sandstone.
+   KO: 사암을 성형하는 기법으로 만든 벽돌.
+/items/MATERIALS/dalmascanthinbrick.matitem.patch/shortdescription
+   EN: Dalmascan Thin Brick
+   KO: 달마스칸 얇은 벽돌
+/items/MATERIALS/dalmascanthinbrick.matitem.patch/description
+   EN: Narrow bricks packed together on mortar.
+   KO: 모르타르로 다져 붙인 좁은 벽돌들.
+/items/MATERIALS/darkobsidianbrick.matitem.patch/description
+   EN: 
+   KO: 어두운 흑요석으로 조각된 이상한 모양의 벽돌.
+/items/MATERIALS/darkobsidianbrick.matitem.patch/shortdescription
+   EN: 
+   KO: 이상한 벽돌
+/items/MATERIALS/darkobsidianbrick.matitem.patch/glitchdescription
+   EN: 
+   KO: 놀랐다. 이 흑요석은 부자연스럽게 어둡다.
+/items/MATERIALS/darkobsidianbrick.matitem.patch/florandescription
+   EN: 
+   KO: 어두운 흑요석. 아주아주 까만 바위.
+/items/MATERIALS/darkobsidianbrick.matitem.patch/novakiddescription
+   EN: 
+   KO: 정말 어두운 흑요석 바위들이구만.
+/items/MATERIALS/fuaetherbrick.matitem.patch/description
+   EN: 
+   KO: 에테르석을 강화하여 만든 벽돌입니다.
+/items/MATERIALS/fuaetherbrick.matitem.patch/shortdescription
+   EN: 
+   KO: 에테르 벽돌
+/items/MATERIALS/geodestonebrick.matitem.patch/shortdescription
+   EN: Geode Stone Bricks
+   KO: 정동석 돌벽돌
+/items/MATERIALS/geodestonebrick.matitem.patch/description
+   EN: The stone these bricks are made from are full of tiny little crystals.
+   KO: 이 벽돌의 돌에는 자그마한 결정이 가득하다.
+/items/MATERIALS/hellishcobblestonebrick.matitem.patch/shortdescription
+   EN: Hellish Brick
+   KO: 지옥의 벽돌
+/items/MATERIALS/hellishcobblestonebrick.matitem.patch/description
+   EN: Small bricks made from Hellish stones.. They are a little sticky.
+   KO: 지옥 돌로 만든 작은 벽돌.. 약간 끈적하다.
+/items/MATERIALS/lihzahrdbrick.matitem.patch/shortdescription
+   EN: Lihzahrd Bricks
+   KO: 리자드 벽돌
+/items/MATERIALS/lihzahrdbrick.matitem.patch/description
+   EN: Tough bricks made from ancient jungle stone.
+   KO: 고대 정글 돌로 만든 단단한 벽돌.
+/items/MATERIALS/lofty_irisil_egyptiantombbrick.matitem.patch/shortdescription
+   EN: Egyptian Tomb Brick
+   KO: 이집트풍 무덤 벽돌
+/items/MATERIALS/lofty_irisil_egyptiantombbrick.matitem.patch/description
+   EN: Dusty and ancient bricks, colored to match Egyptian-themed decorations.
+   KO: 먼지투성이의 오래된 벽돌로, 이집트풍 장식과 어울리도록 색이 입혀져 있다.
+/items/MATERIALS/lofty_irisil_egyptiantombbrick.matitem.patch/glitchdescription
+   EN: Surprised. Closer inspection suggests these bricks are quite old.
+   KO: 놀람. 면밀하게 검사해보니 이 벽돌은 꽤나 오래된 것 같다.
+/items/MATERIALS/lofty_irisil_egyptiantombbrick.matitem.patch/florandescription
+   EN: Dusssty old bricks.
+   KO: 먼지 쌓이고 오래된 벽돌이다.
+/items/MATERIALS/lofty_irisil_egyptiantombbrick.matitem.patch/novakiddescription
+   EN: Just some ol' dusty bricks.
+   KO: 그냥 먼지 쌓이고 오래된 벽돌이군.
+/items/MATERIALS/metallicbrick.matitem.patch/description
+   EN: 
+   KO: 벽돌처럼 보이도록 에칭된 금속.
+/items/MATERIALS/metallicbrick.matitem.patch/shortdescription
+   EN: 
+   KO: 메탈릭 브릭
+/items/MATERIALS/meteoritebrick.matitem.patch/shortdescription
+   EN: Meteorite Bricks
+   KO: 운석 벽돌
+/items/MATERIALS/meteoritebrick.matitem.patch/description
+   EN: Extremely tough bricks made from space rock.
+   KO: 우주 암석으로 만든 극도로 튼튼한 벽돌.
+/items/MATERIALS/mudbrick.matitem.patch/shortdescription
+   EN: Mud Bricks
+   KO: 진흙 벽돌
+/items/MATERIALS/mudbrick.matitem.patch/description
+   EN: Cheap bricks made of hardened mud.
+   KO: 굳은 진흙으로 만든 저렴한 벽돌.
+/items/MATERIALS/nightarpurplebrick.matitem.patch/description
+   EN: 
+   KO: 페넘브럴 벽돌로 만든 견고한 벽입니다.
+/items/MATERIALS/nightarpurplebrick.matitem.patch/shortdescription
+   EN: 
+   KO: 페넘브럴 벽돌
+/items/MATERIALS/pixelgoods/fuokeamagmabrick.matitem.patch/description
+   EN: 
+   KO: 마그마스톤과 지옥불로 만든 벽돌입니다.
+/items/MATERIALS/pixelgoods/fuokeamagmabrick.matitem.patch/shortdescription
+   EN: 
+   KO: 지옥불 벽돌
+/items/MATERIALS/ridgebrick.matitem.patch/description
+   EN: 
+   KO: 위쪽 부분에 용마루가 있는 돌 블록입니다.
+/items/MATERIALS/ridgebrick.matitem.patch/shortdescription
+   EN: 
+   KO: 용마루 블록
+/items/MATERIALS/rockbrick.matitem.patch/description
+   EN: 
+   KO: 조잡하게 만들어진 벽돌입니다.
+/items/MATERIALS/rockbrick.matitem.patch/shortdescription
+   EN: 
+   KO: 돌 벽 블록
+/items/MATERIALS/rockbrick.matitem.patch/description
+   EN: 
+   KO: 조잡하게 생산된 암석 벽돌 세트.
+^green;추출 가능^reset;, ^orange;분쇄 가능^reset;.
+/items/MATERIALS/tombbrick.matitem.patch/description
+   EN: 
+   KO: 먼지가 쌓인 고대 벽돌입니다.
+/items/MATERIALS/tombbrick.matitem.patch/shortdescription
+   EN: 
+   KO: 무덤 벽돌
+/items/MEDICAL/gic_burnteffigy.consumable.patch/shortdescription
+   EN: 
+   KO: ^#FD8F4D;불탄 허수아비
+/items/MEDICAL/gic_burnteffigy.consumable.patch/description
+   EN: 
+   KO: 이 희미한 우상에서 부드러운 온기가 뿜어져 나옵니다. 누군가를 표현한 모양인데, 항상 내부에서 지옥불처럼 타고 있는 듯합니다.
+
+^#FD8F4D;근접 무기 공격에 불타는 베기를 추가해 추가 열 피해와 약간의 사거리 증가 | 근접 무기 종류에 비례 | 60초간 지속.^white;/objects/biome/gnome/smallhouse4/smallhouse4.object.patch
+/items/materials/burningbrick.matitem.patch/glitchDescription
+   EN: 
+   KO: 관찰. 이 벽돌들은 극도로 뜨거운 돌로 만들어졌다.
+/items/materials/burningbrick.matitem.patch/floranDescription
+   EN: 
+   KO: 매끄럽고 빛나는 돌벽돌.
+/items/materials/burningbrick.matitem.patch/novakidDescription
+   EN: 
+   KO: 아주 뜨거운 돌로 만든 벽돌이구만.
+/items/materials/chargedbrick.matitem.patch/glitchDescription
+   EN: 
+   KO: 관찰. 이 벽돌들은 극도로 뜨거운 돌로 만들어졌다.
+/items/materials/chargedbrick.matitem.patch/floranDescription
+   EN: 
+   KO: 매끄럽고 빛나는 돌벽돌.
+/items/materials/chargedbrick.matitem.patch/novakidDescription
+   EN: 
+   KO: 아주 뜨거운 돌로 만든 벽돌이구만.
+/items/materials/darkobsidianbrick.matitem.patch/glitchdescription
+   EN: 
+   KO: 놀랐다. 이 흑요석은 부자연스럽게 어둡다.
+/items/materials/darkobsidianbrick.matitem.patch/florandescription
+   EN: 
+   KO: 어두운 흑요석. 아주아주 까만 바위.
+/items/materials/darkobsidianbrick.matitem.patch/novakiddescription
+   EN: 
+   KO: 정말 어두운 흑요석 바위들이구만.
+/items/materials/metallicbrick.matitem.patch/description
+   EN: 
+   KO: 벽돌처럼 보이도록 에칭된 금속입니다.
+/materials/gic_besserbrick.matitem.patch/glitchDescription
+   EN: 
+   KO: 감탄. 강도를 높이는 두꺼운 강철보가 지나가는 벽돌이다.
+/materials/gic_besserbrick.matitem.patch/floranDescription
+   EN: 
+   KO: 플로란 거친 벽돌들 싫어.
+/materials/gic_besserbrick.matitem.patch/humanDescription
+   EN: 
+   KO: 베서 벽돌. 많은 건물의 심재를 이루는 튼튼한 벽돌입니다. 대형 콘크리트 구조물에 거의 필수입니다.
+/materials/gic_besserbrick.matitem.patch/novakidDescription
+   EN: 
+   KO: 이 벽돌은 내구성을 생각하고 만들었어.
+/materials/misc/gic_darkbrick.matitem.patch/description
+   EN: 
+   KO: 어두운 벽돌.
+/materials/misc/gic_darkbrick.matitem.patch/shortdescription
+   EN: 
+   KO: 어두운 벽돌
+/materials/misc/gic_paintedbrick.matitem.patch/description
+   EN: 
+   KO: 색칠한 벽돌.
+/objects/power/electricfurnace/electricfurnace.config.patch/gui/clear/caption
+   EN: 
+   KO: 모두 가지기
+/objects/power/electricfurnace/electricfurnace.object.patch/category
+   EN: ^orange;Extraction Device^reset;
+   KO: ^orange;추출 장치^reset;
+/objects/power/electricfurnace/electricfurnace.object.patch/description
+   EN: 
+   KO: 모든 ^gray;common^reset; 및 ^green;uncommon^reset; 등급 광석과 일부 기본 재료를 제련할 수 있는 동력 용광로입니다. ^cyan;^orange;12W ^cyan;전력^reset;이 필요합니다;
+/objects/power/electricfurnace/electricfurnace.object.patch/shortdescription
+   EN: 
+   KO: ^cyan;전기 화로^reset;
+/quests/avikanquests/avikanoutpost/avikanmechunlock.questtemplate.patch/title
+   EN: ^green;The Vanguard's Vehicles
+   KO: ^green;선봉대의 탈것들
+/quests/avikanquests/avikanoutpost/avikanmechunlock.questtemplate.patch/text
+   EN: The Vanguard is deploying its vehicles across more and more locations every day, and we need to test them to ensure they continue to operate effectively. I need you to ^green;enter our testing facility and put the ^orange;Vanguard Krahl ^green;to the test^reset;. In return, I'll allow ^orange;Jakhar
+   KO: 뱅가드는 매일 더 많은 지역에 차량을 배치하고 있으며, 우리는 그것들이 계속 효과적으로 작동하는지 확인하기 위해 시험해야 합니다. ^green;우리 시험 시설에 들어가 ^orange;뱅가드 크랄 ^green;을 시험해주시기 바랍니다^reset;. 그 대가로, ^orange;야카르 ^reset;가 당신에게 뱅가드 차량을 판매할 수 있도록 하겠습니다.
+/quests/avikanquests/avikanoutpost/avikanmechunlock.questtemplate.patch/completionText
+   EN: Well done, your run through the testing facility has provided the Vanguard with a lot of information to study. Jakhar has been informed that he can now sell you Vanguard vehicles: make sure to pay him a visit.
+   KO: 잘했네, 시험 시설 주행으로 뱅가드에 연구할 정보가 많이 생겼네. 자카르에게 이제 자네에게 뱅가드 차량을 판매해도 된다고 알렸으니 꼭 찾아가 보게.
+/quests/avikanquests/avikanoutpost/avikanmechunlock.questtemplate.patch/scriptConfig/descriptions/enterInstance
+   EN: Talk to ^orange;Rokhan^reset; to enter the ^orange;testing facility^reset;
+   KO: ^orange;로칸^reset;에게 말을 걸어 ^orange;시험 시설^reset;에 들어가세요
+/quests/avikanquests/avikanoutpost/avikanmechunlock.questtemplate.patch/scriptConfig/descriptions/findGoal
+   EN: Reach the end of the ^orange;Vanguard testing facility^reset;
+   KO: ^orange;뱅가드 시험 시설^reset;의 끝에 도달하기
+/quests/avikanquests/avikanoutpost/avikanmechunlock.questtemplate.patch/scriptConfig/descriptions/turnIn
+   EN: Return to ^orange;Rokhan^reset; in the ^orange;Starfarer's Refuge^reset;
+   KO: ^orange;스타페어러의 피난처^reset;의 ^orange;로칸^reset;에게 귀환
+/quests/outpost/mechunlock.questtemplate.patch/title
+   EN: 
+   KO: ^orange;시험 운전
+/quests/outpost/mechunlock.questtemplate.patch/text
+   EN: 
+   KO: 반가워, 친구! 난 로봇을 다루는 ^orange;아카기 박사^white;야! 나는 지금 실험용 ^green;모듈식 우주 메카^white;를 시험해봐야 하는데 내 파일럿이... 그다지 좋지 않아. 그러니 네가 대신 ^green;내 시험 코스를 통과해줄래^white;? 
+
+그냥 ^green;준비가 되면 말을 걸어줘!^white;
+/quests/outpost/mechunlock.questtemplate.patch/completionText
+   EN: 
+   KO: 무사히 돌아왔구나! 놀라운 정도가 아니야, 환호성이 나올 정도라고! 보상으로, 우주를 자신만의 메카로 여행할 수 있도록 ^green;여분의 메카 부품^white;을 줄게! ^orange;메카 조립 스테이션^white;으로 가서 커스터마이징할 수 있어!
+/quests/outpost/mechunlock.questtemplate.patch/scriptConfig/descriptions/enterInstance
+   EN: 
+   KO: ^orange;아카기 박사^reset;에게 말을 걸어 ^orange;시험 코스^reset;로 들어가기
+/quests/outpost/mechunlock.questtemplate.patch/scriptConfig/descriptions/findGoal
+   EN: 
+   KO: ^orange;메카 시험 코스^reset;를 통과하기
+/quests/outpost/mechunlock.questtemplate.patch/scriptConfig/descriptions/turnIn
+   EN: 
+   KO: ^orange;아웃포스트^reset;의 ^orange;아카기 박사^reset;에게 돌아가기
+/quests/outpost/mechunlock.questtemplate.patch/completionText
+   EN: 
+   KO: 이것이 바로 기계를 사용하는 방법입니다! 제가 ^green;spare resources^white;를 통해 여러분이 직접 제작할 수 있도록 충분한 ^orange;Engineering^reset; 을 제공할 수 있습니다! 제 ^orange;mech 조립 스테이션^white;를 사용하여 작동 방식을 확인할 수도 있습니다.
+/stats/effects/gic_burnteffigy/gic_burnteffigy_primer.statuseffect.patch/label
+   EN: 
+   KO: 불탄 허수아비 - ^#FD8F4D;근접 무기 공격에 지옥 에너지를 주입해 추가 열 피해와 약간의 사거리 증가 | 60초간 지속.^white;
+/tiles/materials/honey/brick/honeystonebrick.matitem.patch/description
+   EN: 
+   KO: 허니스톤으로 만든 작은 벽돌입니다.
+/tiles/materials/honey/brick/honeystonebrick.matitem.patch/floranDescription
+   EN: 
+   KO: 허니스톤으로 만든 작은 벽돌입니다.
+/tiles/materials/honey/brick/honeystonebrick.matitem.patch/glitchDescription
+   EN: 
+   KO: 눈부신. 허니스톤을 매력적인 벽돌로 만들었습니다.
+/tiles/materials/honey/brick/honeystonebrick.matitem.patch/novakidDescription
+   EN: 
+   KO: 허니스톤 브릭이 너무 예쁘지 않나요?
+/tiles/materials/honey/brick/honeystonebrick.matitem.patch/shortdescription
+   EN: 
+   KO: 허니스톤 브릭

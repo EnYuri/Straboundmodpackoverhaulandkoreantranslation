@@ -1,0 +1,13 @@
+asset	field	en	ko	src
+/objects/crafting/seedmaker/seedmaker.object	description	Can be used to produce seeds and saplings.	씨앗과 묘목을 생산하는 데 사용할 수 있다.	reuse
+/objects/crafting/seedmaker/seedmaker.object	shortdescription	^orange;Seed Maker^white;	^orange;씨앗 제조기^white;	reuse
+/objects/farmables/cs_flowerblue/cs_flowerblueseed.object	description	A flower with bright blue petals. Useful for making dye.	밝은 파란색 꽃잎이 있는 꽃입니다. 염료를 만들 때 유용합니다.	reuse
+/objects/farmables/cs_flowerblue/cs_flowerblueseed.object	shortdescription	Blue Flower Seed	파란 꽃씨	reuse
+/objects/farmables/cs_flowerred/cs_flowerredseed.object	description	A flower with bright red petals. Useful for making dye.	밝은 빨간색 꽃잎이 있는 꽃입니다. 염료를 만들 때 유용합니다.	reuse
+/objects/farmables/cs_flowerred/cs_flowerredseed.object	shortdescription	Red Flower Seed	빨간 꽃씨	reuse
+/objects/farmables/cs_floweryellow/cs_floweryellowseed.object	description	A flower with bright yellow petals. Useful for making dye.	밝은 노란색 꽃잎이 있는 꽃입니다. 염료를 만들 때 유용합니다.	reuse
+/objects/farmables/cs_floweryellow/cs_floweryellowseed.object	shortdescription	Yellow Flower Seed	노란 꽃 씨앗	reuse
+/objects/farmables/cs_mushroom/cs_mushroomseed.object	description	A mushroom. The farmer who plants these is a fun guy.	버섯입니다.	reuse
+/objects/farmables/cs_mushroom/cs_mushroomseed.object	shortdescription	Mushroom Seed	버섯 씨앗	reuse
+/objects/farmables/cs_thornyplant/cs_thornyplantseed.object	description	A prickly plant with prickly fruits.	따가운 식물이 자라는, 따가운 가시가 있는 식물입니다.	reuse
+/objects/farmables/cs_thornyplant/cs_thornyplantseed.object	shortdescription	Thorny Plant Seed	가시 식물 씨앗	reuse

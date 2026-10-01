@@ -1,0 +1,288 @@
+### '모그리' -> 3 hits
+       1  /codex/moogle/mooglediary1.codex.patch
+       1  /codex/moogle/moogleshipfurniture.codex.patch
+       1  /objects/viera/moogleplush/moogleplush.object.patch
+      e.g. /codex/moogle/mooglediary1.codex.patch /title: 모그리의 기록
+      e.g. /codex/moogle/moogleshipfurniture.codex.patch /title: 모그리 함선 가구
+      e.g. /objects/viera/moogleplush/moogleplush.object.patch /vieraDescription: 지금 우리가 아는 모그리의 이전 종이구나.
+### '밍콩' -> 1 hits
+       1  /codex/woofie/woofie_themonkeybusiness.codex.patch
+      e.g. /codex/woofie/woofie_themonkeybusiness.codex.patch /contentPages/0: 대니는 요즘 밍콩의 연구실을 자주 찾고 있는데, 그녀의 에이펙스 친구들에게서 잠재력이 높은 새로운 방어 기술에 대해 들었기 때문입니다. |     과거에 대니는 자신이 돌보던 영리하고 어린 울로틀 한 명을 보내 에이펙스
+### '미니크녹' -> 750 hits
+      22  /interface/scripted/shuttlecraftscanner/config_npcshuttlecraft/config_scannersignals.config.patch
+      15  /dialog/converse.config.patch
+      10  /objects/AEPXWeapomPrinter/AEPXWeapomPrinter.object.patch
+       9  /radiomessages/black_sheilachatting.radiomessages.patch
+       8  /npcs/outpost/azu.npctype.patch
+       6  /codex/newspaper/sb-chronicle-01.codex.patch
+       6  /dialog/r-refugeeconverse.config.patch
+       5  /codex/LEGACY/gic_antiminiknog/gic_antiminiknog.codex.patch
+       5  /dialog/viera.config.patch
+       5  /npcs/stationshipcrewmate.npctype.patch
+       5  /objects/clues/apex/miniknogintel1/miniknogintel1.object.patch
+       5  /objects/plushies/community2/edition3/doctorlaxplush/PBdoctorlaxplush.object.patch
+       5  /objects/plushies/community2/edition9/miniknogcommandoplush/PBminiknogcommandoplush.object.patch
+       5  /quests/STORY/om_harpy/om_harpyIntro.questtemplate.patch
+       4  /ai/missionapex1.aimission.patch
+       4  /codex/apex/minidef.codex.patch
+       4  /codex/human/pf_humangovernment1.codex.patch
+       4  /ffs_weapons/ffs_0_miniknog_dae/ffs_miniknog_pet/ffs_miniknog_pet_player_drone.activeitem.patch
+       4  /ffs_weapons/ffs_0_miniknog_dae/ffs_miniknog_pet/ffs_miniknog_pet_player_heavydrone.activeitem.patch
+       4  /ffs_weapons/ffs_0_miniknog_dae/ffs_miniknog_pet/ffs_miniknog_pet_player_omnicannon.activeitem.patch
+       4  /ffs_weapons/ffs_0_miniknog_dae/ffs_miniknog_pet/ffs_miniknog_pet_player_twigun.activeitem.patch
+       4  /objects/walldecor/miniknogwalldecal1/miniknogwalldecal1.object.patch
+       4  /objects/walldecor/miniknogwalldecal2/miniknogwalldecal2.object.patch
+       4  /objects/walldecor/miniknogwalldecal3/miniknogwalldecal3.object.patch
+       4  /objects/walldecor/miniknogwalldecal4/miniknogwalldecal4.object.patch
+       4  /recipe/breadnut/material/ffs_dae_miniknog_drone_scrap.recipe.patch
+       4  /recipe/breadnut/material/ffs_dae_miniknog_heavydrone_scrap.recipe.patch
+       4  /recipe/breadnut/material/ffs_dae_miniknog_omnicannon_scrap.recipe.patch
+       4  /recipe/breadnut/material/ffs_dae_miniknog_twigun_scrap.recipe.patch
+       4  /recipe/breadnut/money/ffs_dae_miniknog_drone_ball.recipe.patch
+      e.g. /ai/infiltration.aimission.patch /speciesText/default/selectSpeech/text: 에이펙스 반란군이 미니크녹 연구 시설에 잠입하려고 합니다. 당신들의 도움이 필요하지 않을까요? ^green;바이오-우즈^reset;가 감지되었습니다.
+      e.g. /ai/missionapex1.aimission.patch /speciesText/default/buttonText: 미니크녹 요새
+      e.g. /codex/LEGACY/Global_Earth_News/gic_gen_7/gic_gen_7.codex.patch /contentPages/3: '제독 코르베치비' 함선 건조 완료 |  | 클레루즈급 함선이 28년간의 건조 끝에 모스크바의 건조 항구를 떠나는 것이 목격되었습니다. 이제 은하계에서 가장 큰 함선 중 하나로 여겨지며, 코르베치비의 크기는 25km 길이,
+      e.g. /codex/LEGACY/gic_antiminiknog/gic_antiminiknog.codex.patch /description: 미니크녹 군대에 대한 공개 보고서.
+      e.g. /codex/LEGACY/gic_unitanhistory/gic_unitanhistory.codex.patch /contentPages/9: 현대 유나이탄 시스템은 16세에 의무 복무를 완료한 사람만이 투표할 수 있는 군사 정권입니다. 유나이탄 시스템은 아비안 통합 신정주의자와 에이펙스 통합 미니크녹의 적대감 아래 군사 정부를 유지하고 있습니다. 끊임없는
+      e.g. /codex/apex/apexhistory3.codex.patch /description: 미니크녹 기밀 연구 보고서에서 발췌.
+      e.g. /codex/apex/apexhistory4.codex.patch /description: 미니크녹 이메일 통신의 백업본.
+      e.g. /codex/apex/apexhistory5.codex.patch /description: 에이펙스 시민들에게 미니크녹이 보내는 공지사항.
+### '루인드' -> 240 hits
+      44  /npcs/angel rebels/angelrebel2.npctype.patch
+      29  /npcs/angel misc/angelgarrison1.npctype.patch
+      29  /npcs/angel misc/angelgarrison2.npctype.patch
+      27  /npcs/angel rebels/angelrebel.npctype.patch
+      26  /npcs/angel misc/angelbattlefield1.npctype.patch
+      26  /npcs/angel misc/angelbattlefield2.npctype.patch
+      14  /npcs/angel rebels/angelrebel3.npctype.patch
+       5  /codex/angel/angellore23.codex.patch
+       5  /codex/angel/angellore7.codex.patch
+       4  /npcs/crew/om_angelsurvivor.npctype.patch
+       3  /codex/angel/angellore4.codex.patch
+       3  /npcs/ancient angels/ancientvillager2.npctype.patch
+       3  /objects/angeloutpost/archangelxequeyzriel.object.patch
+       3  /quests/outpost/angeloutpost2.questtemplate.patch
+       2  /codex/angel/angellore20.codex.patch
+       2  /species/om_ruined.species.patch
+       1  /codex/angel/angellore16.codex.patch
+       1  /codex/angel/angellore17.codex.patch
+       1  /codex/angel/angellore18.codex.patch
+       1  /codex/angel/angellore19.codex.patch
+       1  /codex/angel/angellore22.codex.patch
+       1  /codex/angel/angellore6.codex.patch
+       1  /codex/angel/angellore9.codex.patch
+       1  /codex/other/PBcollectorschecklistcommunity2.codex.patch
+       1  /dialog/atprk_relicseekercrew.config.patch
+       1  /items/active/weapons/ranged/project45/special/project45-tcf-kineticarbiter/project45-tcf-kineticarbiter.activeitem.patch
+       1  /ivrpgtext.config.patch
+       1  /npcs/threats/lonelyhostile.npctype.patch
+       1  /objects/angel/angelheadstone1/angelheadstone1.object.patch
+       1  /objects/angel/angelheadstone4/angelheadstone4.object.patch
+      e.g. /codex/angel/angellore16.codex.patch /contentPages/3: ^green;마침내 루인이 정복됐을 때^reset;, 대천사 세퀘이즈리엘은 루인킬러를 영역에 들이려 했다. 그러다 ^red;루인드가 중요한 에이펙스 실험 시설을 점거했다^reset;는 소식을 들었다. |  | 대천사 세퀘이
+      e.g. /codex/angel/angellore17.codex.patch /contentPages/2: ^green;우리 모두는 이 영역을 만들어 준 것에 감사한다^reset;---루인드와 루인으로부터 안전하고 지켜지는 고향. |  | 하지만 이 영역 밖에 있는 형제자매들을 위해 기도한다. |  | ^yellow;그들에게 평화가 깃
+      e.g. /codex/angel/angellore18.codex.patch /contentPages/2: ^green;나는 창조주 본인에게서 나만의 영역을 만드는 법을 배웠다^reset;.. 정말 큰 영광이었다. 내가 짊어지게 될 짐을 미리 알았더라면 좋았을 텐데.. |  | 하지만 아니다. ^orange;한 번도 후회한 적 
+      e.g. /codex/angel/angellore19.codex.patch /contentPages/0: 이 영역 바깥의 천사들은 아마 이걸 기억하지 못하겠지만, 천사 날개의 ^yellow;색^reset;은 중요하다. |  | ^green;색은 형태 자체와 마찬가지로 우리의 신성한 힘을 결정한다^reset;. 당신이 천사든 아
+      e.g. /codex/angel/angellore20.codex.patch /contentPages/0: 우리는 ^green;천사 반란군^reset;, ^green;천사 반란군^reset;의 일부다. |  | 아니, 우리는 우리 종족과 싸우는 게 아니야..적어도 ^green;물리적으로는 말이지^reset;. 우리는 기술을 ^r
+      e.g. /codex/angel/angellore22.codex.patch /contentPages/4: ^green;이것이 우리가 죽은 자를 예우하는 방식이다^reset;. | 같은 전통은 ^red;루인드^reset;에게도 적용된다. 그들조차 ^orange;한때는 우리와 같았기^reset; 때문이다. | 그들도 정당하고 경건
+      e.g. /codex/angel/angellore23.codex.patch /description: 루인드 중 하나가 되지 않는 법에 관한 자기계발서.
+      e.g. /codex/angel/angellore4.codex.patch /title: 루인드
+### '프라이터' -> 5 hits
+       1  /codex/apex/atprk_apexarea48entry2.codex.patch
+       1  /npcs/modcontributors/armok_starforge.npctype.patch
+       1  /objects/atprk_apexarea48/atprk_apextestgun/atprk_apextestgun.object.patch
+       1  /objects/atprk_apexarea48/atprk_apextestgun/atprk_apextestgunfixed.object.patch
+       1  /quests/atprk_relicseekerhq/atprk_relicsearchquest2.questtemplate.patch
+      e.g. /codex/apex/atprk_apexarea48entry2.codex.patch /title: 프로젝트 프라이터
+      e.g. /npcs/modcontributors/armok_starforge.npctype.patch /scriptConfig/dialog/converse/default/default/42: ^yellow;프라이터^reset;에 대한 소문 들어봤어? 문턴트가 들끓던 채굴 시설을 혼자서 소탕했다더군.
+      e.g. /objects/atprk_apexarea48/atprk_apextestgun/atprk_apextestgun.object.patch /shortdescription: 프라이터 캐논
+      e.g. /objects/atprk_apexarea48/atprk_apextestgun/atprk_apextestgunfixed.object.patch /shortdescription: 프라이터 캐논
+      e.g. /quests/atprk_relicseekerhq/atprk_relicsearchquest2.questtemplate.patch /text: 첫 번째 유물을 얻었으니, 이제 넘어가자. 소문에 따르면 ^orange;구역 48^white;에서 일하는 미니크녹 과학자들이 크라코탄 기술을 기반으로 ^green;프라이터 캐논^white;을 만들었다고 한다. 내 가
+### '프라이토르' -> 1 hits
+       1  /codex/apex/atprk_apexarea48entry2.codex.patch
+      e.g. /codex/apex/atprk_apexarea48entry2.codex.patch /contentPages/0: ^yellow;프로젝트 프라이토르^white; |  | 목표: 발견된 기술 샘플을 군사적 적용을 위해 역설계할 실행 가능한 방법을 찾는다. |  | 상태: 진행 중. |  | 수석 연구원: 에두아르 가브, 이잘리카 크라다로바, 라이사나 
+### '라에나신' -> 1 hits
+       1  /codex/felin/lenniedeath.codex.patch
+      e.g. /codex/felin/lenniedeath.codex.patch /contentPages/0: 라에나신 의원은 어느 날 호기심이 발동해 대학교를 방문했습니다. 딱히 바빠 보이지 않는 학자를 발견하고는 그에게 물었습니다. "학자여, 내가 죽으면 무슨 일이 일어나는가?" |  | "그건 어떤 의미로 물으시느냐에 달려 있
+### '라에나틴' -> 8 hits
+       3  /codex/felin/lenniedeath.codex.patch
+       1  /codex/felin/felinheroes.codex.patch
+       1  /items/generic/mechbodyfelin.item.patch
+       1  /items/generic/mechbodyfelinproto.item.patch
+       1  /objects/felin/felinstatue/felinstatue3.object.patch
+       1  /objects/felin/plushies/laenathinplush.object.patch
+      e.g. /codex/felin/felinheroes.codex.patch /contentPages/4: 이 둘보다 시간적으로도, 업적의 규모로도 앞선 인물이 바로 지도자, 평의원 라에나틴이다. 고귀한 혈통의 레오니드로, 그의 지도력만큼이나 훌륭한 풍성한 수염을 지닌 몇 안 되는 펠린 중 하나였다. 그는 뛰어난 학자이자
+      e.g. /codex/felin/lenniedeath.codex.patch /title: 라에나틴과 죽음
+      e.g. /items/generic/mechbodyfelin.item.patch /shortdescription: 라에나틴 X 메카 몸체
+      e.g. /items/generic/mechbodyfelinproto.item.patch /shortdescription: 라에나틴 0 메카 몸체
+      e.g. /objects/felin/felinstatue/felinstatue3.object.patch /description: 유명한 펠린 전쟁군주, 라에나틴의 조각상이다.
+      e.g. /objects/felin/plushies/laenathinplush.object.patch /shortdescription: 라에나틴 인형
+### '놀리스' -> 53 hits
+      14  /objects/centens/decorative/centensmonolith/centensmonolith.object.patch
+      14  /objects/centens/decorative/centensmonolith2/centensmonolith2.object.patch
+       2  /objects/arcana/abyssal/pillar_1/arcana_abyssal_pillar_1.object.patch
+       2  /objects/atprk_noolith/atprk_noolithpillar/atprk_noolithpillar.object.patch
+       2  /objects/atprk_noolith/atprk_noolithpillarsmall/atprk_noolithpillarsmall.object.patch
+       1  /codex/glitch/atprk_glitchnoolithcodex.codex.patch
+       1  /items/active/unsorted/atprk_relicpacknoolith/atprk_relicpacknoolith.activeitem.patch
+       1  /objects/atprk_noolith/atprk_noolithbed/atprk_noolithbed.object.patch
+       1  /objects/atprk_noolith/atprk_noolithbench/atprk_noolithbench1.object.patch
+       1  /objects/atprk_noolith/atprk_noolithbench/atprk_noolithbench2.object.patch
+       1  /objects/atprk_noolith/atprk_noolithbookcase/atprk_noolithbookcase.object.patch
+       1  /objects/atprk_noolith/atprk_noolithbookcaseclean/atprk_noolithbookcaseclean.object.patch
+       1  /objects/atprk_noolith/atprk_noolithchair/atprk_noolithchair.object.patch
+       1  /objects/atprk_noolith/atprk_noolithchairclean/atprk_noolithchairclean.object.patch
+       1  /objects/atprk_noolith/atprk_noolithchest/atprk_noolithchest.object.patch
+       1  /objects/atprk_noolith/atprk_noolithchestclean/atprk_noolithchestclean.object.patch
+       1  /objects/atprk_noolith/atprk_noolithlectern/atprk_noolithlectern.object.patch
+       1  /objects/atprk_noolith/atprk_noolithseal/atprk_noolithseal.object.patch
+       1  /objects/atprk_noolith/atprk_noolithtable/atprk_noolithtable.object.patch
+       1  /objects/atprk_noolith/atprk_noolithtableclean/atprk_noolithtableclean.object.patch
+       1  /objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry1/avikanoutpostrhaiodtapestry1.object.patch
+       1  /objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry2/avikanoutpostrhaiodtapestry2.object.patch
+       1  /objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry3/avikanoutpostrhaiodtapestry3.object.patch
+       1  /objects/minibiome/plynth1.object.patch
+      e.g. /codex/glitch/atprk_glitchnoolithcodex.codex.patch /contentPages/0: 오래 전, 글리치에게는 충성스러운 동맹이 있었다. 사실 그들은 우리가 바랄 수 있는 최고의 동맹이었다: 강하고, 믿음직하며, 지혜로 가득했고 언제든 우리를 돕기 위해 나설 준비가 되어 있었다. 그들은 하이로틀 특유의
+      e.g. /items/active/unsorted/atprk_relicpacknoolith/atprk_relicpacknoolith.activeitem.patch /description: 놀리스 유물을 찾은 데 대한 포장된 보상입니다.
+      e.g. /objects/arcana/abyssal/pillar_1/arcana_abyssal_pillar_1.object.patch /description: 바위 형상을 한 공허의 모놀리스. 감시자가 모든 것을 지켜보는 심연과 이어져 있다고 한다.
+      e.g. /objects/atprk_noolith/atprk_noolithbed/atprk_noolithbed.object.patch /shortdescription: 모놀리스 침대
+      e.g. /objects/atprk_noolith/atprk_noolithbench/atprk_noolithbench1.object.patch /shortdescription: 낡은 모놀리스 벤치
+      e.g. /objects/atprk_noolith/atprk_noolithbench/atprk_noolithbench2.object.patch /shortdescription: 낡은 모놀리스 벤치
+      e.g. /objects/atprk_noolith/atprk_noolithbookcase/atprk_noolithbookcase.object.patch /shortdescription: 낡은 모놀리스 책장
+      e.g. /objects/atprk_noolith/atprk_noolithbookcaseclean/atprk_noolithbookcaseclean.object.patch /shortdescription: 모놀리스 책장
+### '누올리스' -> 22 hits
+       5  /codex/glitch/atprk_glitchnoolithcodex.codex.patch
+       4  /items/fossils/humanoid/atprk_noolithfossil1.item.patch
+       4  /objects/atprk_relicseeker/atprk_rewardnoolithlamp/atprk_rewardnoolithlamp.object.patch
+       2  /items/fossils/humanoid/atprk_noolithfossil2.item.patch
+       1  /codex/other/atprk_relicseekercodex.codex.patch
+       1  /items/fossils/humanoid/atprk_noolithfossil3.item.patch
+       1  /objects/atprk_gilded/atprk-gildedportrait-crystal/atprk-gildedportrait-crystal.object.patch
+       1  /objects/atprk_noolith/atprk_sandstonestatuenoolith/atprk_sandstonestatuenoolith.object.patch
+       1  /objects/atprk_relicseeker/atprk_relicexchange/atprk_relicexchange_hylotl/atprk_relicexchange_hylotl.object.patch
+       1  /quests/atprk_relicseekerhq/atprk_mechbotchallenge2.questtemplate.patch
+       1  /species/noolith.species.patch
+      e.g. /codex/glitch/atprk_glitchnoolithcodex.codex.patch /contentPages/1: 물론, 우리 종족이 코스모스의 군주들에게 정복당하지 않았다면 서로 만날 일도 없었을 것이고, 설령 만났더라도 좋게 끝나지는 않았을 것이다. 어쨌든 누올리스는 그 어떤 낯선 이도 자신들의 영역에 들이지 않는 은둔적인 
+      e.g. /codex/other/atprk_relicseekercodex.codex.patch /contentPages/5: 누올리스 - 지각 있는 수정이라고 할 수 있는 존재들. 그들에 대해 알려진 건 대부분 춥고 툰드라 같은 행성에 정착했다는 사실뿐이다. |  | 아넬리스크 - 기원이 알려지지 않은 종족이지만, 불타버린 행성에 식민지를 건설하
+      e.g. /items/fossils/humanoid/atprk_noolithfossil1.item.patch /description: 누올리스를 닮은 크리스탈 머리입니다.
+      e.g. /items/fossils/humanoid/atprk_noolithfossil2.item.patch /description: 누올리스를 닮은 크리스탈 몸통입니다.
+      e.g. /items/fossils/humanoid/atprk_noolithfossil3.item.patch /shortdescription: 누올리스 다리
+      e.g. /objects/atprk_gilded/atprk-gildedportrait-crystal/atprk-gildedportrait-crystal.object.patch /description: 누올리스의 머리 모양을 한 종교적 상징.
+      e.g. /objects/atprk_noolith/atprk_sandstonestatuenoolith/atprk_sandstonestatuenoolith.object.patch /shortdescription: 누올리스 사암 조각상
+      e.g. /objects/atprk_relicseeker/atprk_relicexchange/atprk_relicexchange_hylotl/atprk_relicexchange_hylotl.object.patch /chatOptions/2: 누올리스에 대해 더 알 수 있으면 좋겠어. 그들의 역사 연구는 기록이 잘 안 돼 있거든.
+### '녹스 여주인' -> 1 hits
+       1  /codex/human/armok-bladewolfcodex.codex.patch
+      e.g. /codex/human/armok-bladewolfcodex.codex.patch /contentPages/0: ^yellow;임무^reset; |  | 존경하는 녹스 여주인의 명령으로, 오카서스 연구팀은 "프로젝트: 블레이드울프"라는 버려진 USCM 프로그램의 부활 임무를 맡았다. 구 조직 소유의 벙커 몇 곳을 징발한 결과, 일부에
+### '녹스 님' -> 2 hits
+       1  /codex/human/armok-bladewolfcodex.codex.patch
+       1  /npcs/ffs/ffs_cultist_flamer_dae.npctype.patch
+      e.g. /codex/human/armok-bladewolfcodex.codex.patch /contentPages/1: 우리 기술과 인력 대부분은 해체 이후 USCM이 남긴 것에서 비롯되었지만, 녹스 님은 그들의 이 특별한 유산에 유난한 관심을 보였고, "인간의 가장 친한 친구"를 본뜬 기계로 우리 병력을 증강하는 데 시적 무언가를 
+      e.g. /npcs/ffs/ffs_cultist_flamer_dae.npctype.patch /scriptConfig/dialog/attack/default/default/8: 녹스 님을 위해 불타라!!
+### '히라키 코레일' -> 2 hits
+       1  /codex/hylotl/Hiraki Corale/sb_bunkerbusters.codex.patch
+       1  /codex/hylotl/Hiraki Corale/sb_sewerstrange.codex.patch
+      e.g. /codex/hylotl/Hiraki Corale/sb_bunkerbusters.codex.patch /description: 하이로틀 모험가 히라키 코레일 일지 발췌.
+      e.g. /codex/hylotl/Hiraki Corale/sb_sewerstrange.codex.patch /description: 하이로틀 모험가 히라키 코레일 일지 발췌.
+### '히라키 코랄레' -> 33 hits
+       5  /objects/plushies/community/edition3/hirakicoraleplush/PBhirakiplush.object.patch
+       5  /objects/stickers/community2/edition3/hirakisticker/PBhirakisticker.object.patch
+       3  /objects/nmm_starbound/custom/cardboardcutout/hirakicutout.object.patch
+       2  /codex/legacy_codex/fubunkerbusters.codex.patch
+       2  /codex/legacy_codex/fucastle12.codex.patch
+       2  /codex/legacy_codex/fuhca4.codex.patch
+       2  /codex/lustling/lustlingView.codex.patch
+       1  /codex/hylotl/Hiraki Corale/sb_bunkerbusters.codex.patch
+       1  /codex/hylotl/Hiraki Corale/sb_sewerstrange.codex.patch
+       1  /codex/legacy_codex/fucastle11.codex.patch
+       1  /codex/legacy_codex/fucastle3.codex.patch
+       1  /codex/legacy_codex/fuhca1.codex.patch
+       1  /codex/legacy_codex/fuhca2.codex.patch
+       1  /codex/legacy_codex/fuhca3.codex.patch
+       1  /codex/legacy_codex/fuhca5.codex.patch
+       1  /codex/legacy_codex/fuhca6.codex.patch
+       1  /codex/legacy_codex/fuhca7.codex.patch
+       1  /codex/legacy_codex/fuhca8.codex.patch
+       1  /codex/other/PBthanksdearcustomer.codex.patch
+      e.g. /codex/hylotl/Hiraki Corale/sb_bunkerbusters.codex.patch /contentPages/0: 하이로틀 모험가, 히라키 코랄레 작성 |  | 내 우주선이 한 행성에 추락했다. 그때 어떤 유인원 종족에게서 도망치고 있었을지도 모르고, 최선의 행동이 그들을 소행성대로 유인하는 거라 결정했다. 통했어! 물론 나는 소행성대
+      e.g. /codex/hylotl/Hiraki Corale/sb_sewerstrange.codex.patch /contentPages/0: 하이로틀 모험가, 히라키 코랄레 작성 |  | 나는 거대한 날아다니는 생물과 마주쳤고, 당연히 모험가의 다리가 나를 데려갈 수 있는 한 빨리 달렸다. 짐승이 내 뒤를 바짝 쫓는 게 느껴졌고, 날개의 바람이 내 목덜미를 간지
+      e.g. /codex/legacy_codex/fubunkerbusters.codex.patch /contentPages/0: 하이로틀 모험가, 히라키 코랄레 작성 | 내 우주선이 한 행성에 추락했다. 그때 어떤 유인원 종족에게서 도망치고 있었을지도 모르고, 최선의 행동이 그들을 소행성대로 유인하는 거라 결정했다. 통했어! 물론 나는 소행성대 
+      e.g. /codex/legacy_codex/fucastle11.codex.patch /contentPages/0: 하이로틀 모험가, 히라키 코랄레 작성 | 자주 문화적 배려를 시도해온 나는, 주인들과 한층 더 동화되기로 결심했다. 성을 탐험하던 중, 전사 글리치를 묘사한 것으로 보이는 장식용 갑옷 여러 벌을 발견했다. 당연히, 동료
+      e.g. /codex/legacy_codex/fucastle12.codex.patch /contentPages/0: 하이로틀 모험가, 히라키 코랄레 작성 | 내가 어떤 주인에게 신세를 지든 동화하려 하지 않는다는 말은 절대 하지 말기 바란다. 글리치가 나를 부를 때 접두어를 쓴다는 걸 알아챘다. 예: '경멸', '짜증', '빈정', 
+      e.g. /codex/legacy_codex/fucastle3.codex.patch /contentPages/0: 하이로틀 모험가, 히라키 코랄레 작성 | 글리치는 겉으로는 가장 따뜻한 민족이 아닐지 몰라도, 그들의 환대는 논쟁의 여지가 없다. 그들은 성벽을 타고 오르며 그저 탑 창문으로 들여다보고 싶었던 나를 발견하고는, 정중히 
+      e.g. /codex/legacy_codex/fuhca1.codex.patch /description: 하이로틀 모험가, 히라키 코랄레 작성
+      e.g. /codex/legacy_codex/fuhca2.codex.patch /description: 하이로틀 모험가, 히라키 코랄레 작성
+### '후치' -> 5 hits
+       3  /codex/hylotl/pf_hylotlreligion1.codex.patch
+       1  /codex/hylotl/pf_hylotlreligion2.codex.patch
+       1  /items/active/weapons/racial/hylotl/tier1/bambookatana/pf_bambookatana.activeitem.patch
+      e.g. /codex/hylotl/pf_hylotlreligion1.codex.patch /contentPages/0: “모든 것은 그저 있는 그대로이며, 자연에는 악의도 사랑도 없다.” 이것이 우리 종교의 핵심 교리다. 시넨교는 자연 그 자체를 중심으로 삼는 종교다. 시넨교에서는 우리가 ‘후치’라 부르는 자연의 정령을 숭배한다. 후
+      e.g. /codex/hylotl/pf_hylotlreligion2.codex.patch /contentPages/1: 그런 의미에서 우리 젊은 세대는 우리 조상들과 매우 닮아 있다, 우리가 다시 심연으로 내던져진 이후로도, 영적인 강물로 돌아가는 대신 지각을 유지해왔기 때문이다. 수면 위에서 사는 이들은 겸손하게 살아가며, 무엇보다
+      e.g. /items/active/weapons/racial/hylotl/tier1/bambookatana/pf_bambookatana.activeitem.patch /description: 전통적으로 철질 스트로마톨라이트로 만든 고대 하이로틀 검입니다. 후치가 만들었다고 전해집니다.
+### '후시' -> 1 hits
+       1  /codex/hylotl/pf_hylotlreligion2.codex.patch
+      e.g. /codex/hylotl/pf_hylotlreligion2.codex.patch /contentPages/0: 태초에 우리가 아직 영혼이었을 때, 우리는 올챙이와 같았다고 전해진다. 그러나 우리 조상들은 원소의 물에서 솟아올라, 개구리가 태어난 호수에서 뛰쳐나오듯 자신의 잠재력을 넘어 성장했다. 우리 문화는 우리의 기원을 기
+### '클루엑스' -> 446 hits
+      11  /dialog/converse.config.patch
+      10  /dialog/viera.config.patch
+       8  /dialog/ffs_devoutavian.config.patch
+       8  /dialog/sexbound/en/positions/cowgirl/feneroxcowgirl.config.patch
+       8  /dialog/sexbound/en/positions/reversecowgirl/feneroxcowgirl.config.patch
+       7  /npcs/furniture/naked.npctype.patch
+       7  /objects/clues/avian/kluexstatue2/kluexstatue2.object.patch
+       7  /objects/stickers/community3/edition1/mightofkluexsticker/PBmightofkluexsticker.object.patch
+       6  /dialog/r-refugeeconverse.config.patch
+       6  /dialog/sexbound/en/positions/cowgirl/glitchcowgirl.config.patch
+       6  /dialog/sexbound/en/positions/reversecowgirl/glitchcowgirl.config.patch
+       6  /npcs/ancienttemple/battlepriest.npctype.patch
+       6  /npcs/ancienttemple/templehighpriest.npctype.patch
+       6  /objects/clues/avian/kluexstatue1/kluexstatue1.object.patch
+       5  /codex/legacy_codex/fuavianburials.codex.patch
+       5  /dialog/tentacles/avian-enthusiastic.config.patch
+       5  /npcs/dungeon/aviantemple/templeguard.npctype.patch
+       4  /codex/legacy_codex/fuavianchildrenofkluex.codex.patch
+       4  /dialog/sexbound/en/positions/butterfly/feneroxbutterfly.config.patch
+       4  /dialog/sexbound/en/positions/butterfly/glitchbutterfly.config.patch
+       4  /dialog/sexbound/en/positions/doggy/feneroxdoggy.config.patch
+       4  /dialog/sexbound/en/positions/doggy/glitchdoggy.config.patch
+       4  /dialog/sexbound/en/positions/missionary/feneroxmissionary.config.patch
+       4  /dialog/sexbound/en/positions/missionary/glitchmissionary.config.patch
+       4  /dialog/sexbound/en/positions/standing/feneroxstanding.config.patch
+       4  /dialog/sexbound/en/positions/standing/glitchstanding.config.patch
+       4  /objects/clues/avian/kluexmural2/kluexmural2.object.patch
+       3  /codex/avian/ttppavian1.codex.patch
+       3  /codex/legacy_codex/fuavianafterlife.codex.patch
+       3  /codex/legacy_codex/fuaviannotes.codex.patch
+      e.g. /codex/avian/avianhistory3.codex.patch /title: 클루엑스의 눈
+      e.g. /codex/avian/avianmythos.codex.patch /contentPages/0: 클루엑스 신앙의 가장 치명적인 측면 중 하나는, 그것이 사실 유일한 아비안 신앙도 아니고 최초의 신앙도 아니라는 점일 것이다. 별관측자 협의회가 '클루엑스의 부정할 수 없는 진리'를 주장함에도 불구하고, 신실한 아비
+      e.g. /codex/avian/pf_aviancrystal1.codex.patch /contentPages/3: 직접 염탐하고 그 종교의 관행을 살펴보니 찾았다. 클루엑스 종교로 유명한 전쟁과 제물들이 모두 원인이었다. 어떤 의식을 통해 스타게이저들은 피를 써서 이 보석들에 "영적 에너지"를 주입할 수 있다.
+      e.g. /codex/avian/sb_aviannotes.codex.patch /title: 클루엑스의 진실
+      e.g. /codex/avian/sb_avianprologue.codex.patch /contentPages/0: 스타게이저들의 분노에서 도망쳤다! ...겨우. 내 배는 연료가 바닥나서 알 수 없는 행성 주위를 돌고 있다. 다른 그라운디드를 찾아, 뜻이 맞는 사람들과 함께할 날을 간절히 바란다. 내가 이렇게 우주에 붕 떠 있지만
+      e.g. /codex/avian/ttppavian1.codex.patch /title: «클루엑스 사절 의식
+      e.g. /codex/avian/ttppavian2.codex.patch /contentPages/0: 어린 병아리들이여, 부화해 진정한 아비안 전사가 될 때가 왔다! 그리 정해졌다. |  | 너희는 니포폴리스의 가슴조류원에서 싸워야 하며, 유방산의 꼬마 젖통 요정들과 바르노프의 샘에서 헤엄쳐야 한다.  |  | 그들의 가슴에 비누
+      e.g. /codex/documents/scienceoutpost_kevin.codex.patch /contentPages/17: 7월 21일 - 케빈이 잘린 팝톱 페니스로만 구성된 클루엑스 동상을 만드는 데 얼마나 오래 걸렸는지 상상조차 할 수 없습니다. 그렇게 끔찍하고 끔찍하지 않았다면 오히려 감동을 받았을지도 몰라요. 4일 동안 로비에 곪
+### '클룩스' -> 2 hits
+       1  /codex/legacy_codex/fuavianafterlife.codex.patch
+       1  /items/active/arcana_relics/lore.config.patch
+      e.g. /codex/legacy_codex/fuavianafterlife.codex.patch /contentPages/0: 아비안 학자, 카른 홀로우비크 지음 | 이생에서 클룩스를 열정과 헌신으로 섬기는 자들은 다음 생에서 날개를 되찾는다고 한다. 그것이 아비안의 궁극적 목표다; 비행의 힘을 되찾고, 사후세계에서 우리 신들과 합류하는 것.
+      e.g. /items/active/arcana_relics/lore.config.patch /thing/39: 클룩스
+### '쏜윙' -> 9 hits
+       2  /codex/legacy_codex/bigapecodexmeeting.codex.patch
+       2  /objects/plushies/community2/edition14/thornwingplush/PBthornwingplush.object.patch
+       1  /codex/legacy_codex/bigapecodexannoyance.codex.patch
+       1  /codex/legacy_codex/fuagaranhunt.codex.patch
+       1  /codex/legacy_codex/fubunkerhumans.codex.patch
+       1  /codex/newspaper/sb-chronicle-02.codex.patch
+       1  /npcs/sb_stimmerchant.npctype.patch
+      e.g. /codex/legacy_codex/bigapecodexannoyance.codex.patch /contentPages/2: 좋은 소식은 미니크녹 스파이가 기밀유지협약으로 보호된 정보를 계속 올리는 성가신 블로거를 추적할 수 있었다는 거죠. 그는 인간 감옥에 숨어 있더라고요. 쏜윙에게 연락해서 처리해야 할 것 같네요.
+      e.g. /codex/legacy_codex/bigapecodexmeeting.codex.patch /contentPages/0: 참가자: 빅 에이프, 그린핑거, 쏜윙, [기밀] |  | 빅 에이프: 자, 그럼 시작하죠. 논의할 중요한 일이 있습니다. |  | 그린핑거: [기밀] |  | 쏜윙: [기밀] |  | [기밀]: 진심이에요?
+      e.g. /codex/legacy_codex/fuagaranhunt.codex.patch /contentPages/1: 저희는 쏜윙이나 빅 에이프와 전혀 관련이 없는 미지의 조직으로, 그들의 언어 패턴을 번역하고 반란을 진압하기 위해 노력하고 있습니다. 그래서 여러분이 필요합니다. 아가란족에게 접근해 그들을 연구하고 항복할 때까지 중
+      e.g. /codex/legacy_codex/fubunkerhumans.codex.patch /contentPages/1: 후자의 특성은 그들이 귀중한 동맹이 될 수 있을지 고민하게 만듭니다. 정찰대는 포기하기에는 너무 의욕이 넘치지만, 발견한 것을 이해하기에는 너무 순진한 사람들로 구성되어 있습니다. 저는 빅 에이프와 쏜윙에게 인간 대
+      e.g. /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/0: 크로니클 상주 탐사 기자 찰튼 맥비커와 마지막으로 접촉했을 때, 그는 현장에서 우주 전역에 퍼지고 있는 지성 곰팡이, 수수께끼의 아가란에 대한 모든 정보를 파헤치고 있었다. 그 이후로는, 아래에 옮겨 적은 - 쏜윙의
+      e.g. /npcs/sb_stimmerchant.npctype.patch /scriptConfig/dialog/merchant/start/avian/default/3: 내 각성제는 쏜윙 본인이 인증한 거야. 크흠.
+      e.g. /objects/plushies/community2/edition14/thornwingplush/PBthornwingplush.object.patch /description: 클루엑스를 버리고 스스로 신이자 용병단장이 된 승천자, ^#d93a3a;쏜윙^reset;입니다.
+### '손윙' -> 5 hits
+       3  /objects/plushies/community2/edition14/thornwingplush/PBthornwingplush.object.patch
+       1  /codex/legacy_codex/bigapecodexmeeting.codex.patch
+       1  /codex/other/PBcollectorschecklistcommunity2.codex.patch
+      e.g. /codex/legacy_codex/bigapecodexmeeting.codex.patch /contentPages/1: 빅 에이프: [삭제됨] |  | 빅 에이프: [삭제됨] |  | 빅 에이프: [삭제됨] |  | 빅 에이프: 그래서 하이로틀이랑은 절대 사귀면 안 되는 거야. |  | 손윙: 클루엑스여 우리를 구하소서. |  | 그린핑거: [삭제됨]
+      e.g. /codex/other/PBcollectorschecklistcommunity2.codex.patch /contentPages/13: ^green;커뮤니티 에디션 2-14 팝볼:^white; | - - 스티머 게임즈 인형 | - - 찻잔 인형 | - - 텐리 인형 | - - 손윙 인형 | - - 스로그 오잉키서 인형 | - - 스로그 인형 | - - 토르스 인형 | - - 떠
+      e.g. /objects/plushies/community2/edition14/thornwingplush/PBthornwingplush.object.patch /apexDescription: 빅 에이프가 손윙과 그의 암살자들을 고용했다는 소문이 반군 진영에 떠돌고 있다.

@@ -1,0 +1,33 @@
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_pp19bizon/giclfw_pp19bizon.activeitem.patch
+[
+ {
+  "op": "test",
+  "path": "/category",
+  "value": "^orange;Submachine Gun^reset; | ^orange;Cannot accept UGLs or foregrips.^reset;"
+ },
+ {
+  "op": "replace",
+  "path": "/category",
+  "value": "^orange;기관단총^reset; | ^orange;UGL·전방 그립 장착 불가.^reset;"
+ },
+ {
+  "op": "test",
+  "path": "/description",
+  "value": "The PP-19 Bizon Submachine Gun is a weapon that was developed for law enforcement, security, special forces, and select specialized infantry units. A light weight weapon that is capable of light supressive fire capabilities due to its very high magazine capacity making it ideal for scenarios that require close range spray and pray tactics. Only accepts the unique 9x18mm PP-19 Bizon Helical Magazines.\r\n\r\n^green;Hold down \"Alt Fire\" to switch between Full Auto and Semi-Auto.^reset;"
+ },
+ {
+  "op": "replace",
+  "path": "/description",
+  "value": "PP-19 비존 기관단총은 법집행, 경비, 특수부대, 특정 전문 보병 부대를 위해 개발된 무기다. 대용량 탄창 덕에 가벼운 제압 사격이 가능한 경량 무기로, 근거리 난사 전술이 필요한 시나리오에 이상적이다. 전용 9x18mm PP-19 비존 나선형 탄창만 사용.\n \n^green;\"보조 발사\"를 길게 눌러 완전 자동과 반자동을 전환한다.^reset;"
+ },
+ {
+  "op": "test",
+  "path": "/shortdescription",
+  "value": "PP-19 Bizon"
+ },
+ {
+  "op": "replace",
+  "path": "/shortdescription",
+  "value": "PP-19 바이존"
+ }
+]

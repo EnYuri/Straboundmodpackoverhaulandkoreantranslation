@@ -1,0 +1,237 @@
+asset	field	en	ko	src
+/cinematics/mwhaddon/mwhaddon_pOr_intro/OLD/old.cinematic	text	I'll be right out front. If you're done, please come to me.	바로 앞에 있을게. 다 끝나면 나한테 와줘.	reuse
+/collections/arcana_collections/arcana_collection_artifact.collection	title	Milia Arma	밀리아 아르마	reuse
+/collections/arcana_collections/arcana_collection_essence.collection	title	Master Alchemist	연금술 대가	reuse
+/collections/arcana_collections/arcana_collection_mineral.collection	title	Mineral Hoarder	광물 수집가	reuse
+/collections/arcana_collections/arcana_collection_weapon_arcane.collection	title	Forge of Stars - Arcane	별들의 대장간 - 아케인	reuse
+/collections/arcana_collections/arcana_collection_weapon_elemental.collection	title	Forge of Stars - Elemental	별들의 대장간 - 원소	reuse
+/collections/arcana_collections/arcana_collection_weapon_stellar.collection	title	Forge of Stars - Stellar	별들의 대장간 - 스텔라	reuse
+/collections/arcana_collections/mwhaddon_arcana_collection_weapon_boss.collection	title	Forge of Stars - Monarch	별들의 대장간 - 모나크	reuse
+/collections/arcana_collections/mwhaddon_arcana_collection_weapon_exousia.collection	title	Forge of Stars - Unitary	별들의 대장간 - 유니터리	reuse
+/collections/arcana_collections/mwhaddon_arcana_collection_weapon_trinity.collection	title	Forge of Stars - Trinity	별들의 대장간 - 트리니티	reuse
+/collections/arcana_collections/mwhaddon_collection_food.collection	title	Gourmet Sanctuary	미식가 성역	reuse
+/collections/arcana_collections/mwhaddon_collection_keyItem.collection	title	Legend Teller	전설 전달자	reuse
+/collections/arcana_collections/mwhaddon_collection_material_basic.collection	title	Sorcery Mystery	마법의 신비	reuse
+/collections/arcana_collections/mwhaddon_collection_material_boss.collection	title	Tyrants' Legacy	폭군의 유산	reuse
+/collections/arcana_collections/mwhaddon_collection_material_teaIngredient.collection	title	Lovely Tea-time	사랑스러운 티타임	reuse
+/collections/arcana_collections/mwhaddon_collection_material_tech.collection	title	Technology Miraculous	기적의 기술	reuse
+/collections/arcana_collections/mwhaddon_collection_mechpart.collection	title	Vajra Torso	바즈라 몸통	reuse
+/collections/arcana_collections/mwhaddon_collection_potion.collection	title	Borderless Excellence	경계 없는 탁월함	reuse
+/collections/arcana_collections/mwhaddon_collection_teacup.collection	title	Ceramic Haven	도자기 안식처	reuse
+/collections/arcana_collections/mwhaddon_collection_tech_normal.collection	title	Ability Embedded - Regular Tech		
+/collections/arcana_collections/mwhaddon_collection_weapon_aurea.collection	title	Forge of Stars - Aurum	별들의 대장간 - 아우룸	reuse
+/collections/arcana_collections/mwhaddon_collection_weapon_crafting.collection	title	Smithing Perfection	대장 완성도	reuse
+/collections/arcana_collections/mwhaddon_collection_weapon_misc.collection	title	Forge of Stars - Epics	별들의 대장간 - 에픽	reuse
+/collections/arcana_collections/mwhaddon_collection_weapon_nightmare_3.collection	title	Marve Armo - Courage	마르브 아르모 - 용기	reuse
+/interface/scripted/mwhaddon_soyo/mwhaddon_soyorin.config	caption	Exchange		
+/items/armors/arcana_backitems/mwhaddon_back_alterOrionCape/mwhaddon_back_alterOrionCape.back	itemName	mwhaddon_back_alterOrionCape		
+/items/armors/arcana_backitems/mwhaddon_back_alterOrionCape/mwhaddon_back_alterOrionCape.back	description	A cape worn by Orion officers.	오리온 장교들이 두르는 망토.	reuse
+/items/armors/arcana_backitems/mwhaddon_back_alterOrionCape/mwhaddon_back_alterOrionCape.back	shortdescription	Orion Cape Alt		
+/items/armors/arcana_backitems/mwhaddon_back_aureaProstheticWing/mwhaddon_back_aureaProstheticWing.back	itemName	mwhaddon_back_aureaProstheticWing		
+/items/armors/arcana_backitems/mwhaddon_back_aureaProstheticWing/mwhaddon_back_aureaProstheticWing.back	description	An artifical pair of wing designed by Aurea Collective. Work as a ^orange;Superstorm EPP^reset; with base healing over time.		
+/items/armors/arcana_backitems/mwhaddon_back_aureaProstheticWing/mwhaddon_back_aureaProstheticWing.back	shortdescription	Aurea Prosthetic Wing		
+/items/armors/arcana_backitems/mwhaddon_back_aureaProstheticWingEX/mwhaddon_back_aureaProstheticWingEX.back	itemName	mwhaddon_back_aureaProstheticWingEX		
+/items/armors/arcana_backitems/mwhaddon_back_aureaProstheticWingEX/mwhaddon_back_aureaProstheticWingEX.back	description	A pair of augmented artifical wing. Work as a ^orange;Tripolar EPP^reset; with base healing over time.		
+/items/armors/arcana_backitems/mwhaddon_back_aureaProstheticWingEX/mwhaddon_back_aureaProstheticWingEX.back	shortdescription	Aurea Augmented Wing		
+/items/armors/arcana_backitems/mwhaddon_back_exousiaPack/mwhaddon_back_exousiaPack.back	itemName	mwhaddon_back_exousiaPack		
+/items/armors/arcana_backitems/mwhaddon_back_exousiaPack/mwhaddon_back_exousiaPack.back	description	A custom ^orange;Tripolar EPP^reset; from Exousia. Grants ^green;+150 max health and +100% Exousian weapon damage^reset;.		
+/items/armors/arcana_backitems/mwhaddon_back_exousiaPack/mwhaddon_back_exousiaPack.back	shortdescription	Exousian Battle Pack		
+/items/armors/arcana_backitems/mwhaddon_back_orionBooster/mwhaddon_back_orionBooster.back	itemName	mwhaddon_back_orionBooster		
+/items/armors/arcana_backitems/mwhaddon_back_orionBooster/mwhaddon_back_orionBooster.back	description	A Booster manufactured by Orion Cybernetics. Grants jump and run boost, also works as an^orange; Superstorm EPP^reset;.		
+/items/armors/arcana_backitems/mwhaddon_back_orionBooster/mwhaddon_back_orionBooster.back	shortdescription	^#bbbdce;OC Booster^reset;		
+/items/armors/arcana_backitems/mwhaddon_back_orionBoosterEx/mwhaddon_back_orionBoosterEx.back	itemName	mwhaddon_back_orionBoosterEx		
+/items/armors/arcana_backitems/mwhaddon_back_orionBoosterEx/mwhaddon_back_orionBoosterEx.back	description	A reinforced OC Booster. Grants max health, energy, jump and run boost, also works as a ^orange;Tripolar EPP^reset;.		
+/items/armors/arcana_backitems/mwhaddon_back_orionBoosterEx/mwhaddon_back_orionBoosterEx.back	shortdescription	^red;Reinforced^#bbbdce; OC Booster^reset;		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_diskrubbish/mwhaddon_head_diskrubbish.head	description	"^gray;Doesn't feel as good as Genshin. 
+^orange;[diskRubbish], the beloved pioneer^reset;"		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_diskrubbish/mwhaddon_head_diskrubbish.head	shortdescription	Rainbow Pigeon Hat		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_exousia_armyCap/mwhaddon_head_exousia_armyCap.head	description	"Cap worn by Exousian military officials. 
+^orange;[Minewithhim], the author of ^yellow;Voyage Mod^reset;"		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_exousia_armyCap/mwhaddon_head_exousia_armyCap.head	shortdescription	Exousian Army Cap		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_glitchAvaliHelmet/mwhaddon_head_glitchAvaliHelmet.head	itemName	mwhaddon_head_glitchAvaliHelmet		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_glitchAvaliHelmet/mwhaddon_head_glitchAvaliHelmet.head	description	"Transformed in both body and soul, it re-explores the nature of its own existence. 
+^orange;[Rusteel], lead spriter of ^yellow;Voyage Mod^reset;"		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_glitchAvaliHelmet/mwhaddon_head_glitchAvaliHelmet.head	shortdescription	Glitch Avali Helmet		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_moonshineBamboohat/mwhaddon_head_moonshineBamboohat.head	itemName	mwhaddon_head_moonshineBamboohat		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_moonshineBamboohat/mwhaddon_head_moonshineBamboohat.head	description	"An accessory to simulate a fox's mood. 
+^orange;[Kumochan], coder, artist, and fox lover^reset;"		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_moonshineBamboohat/mwhaddon_head_moonshineBamboohat.head	shortdescription	Moonshine Bamboohat		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_plantera/mwhaddon_head_plantera.head	description	"A Plantera's bud, it's safe to wear it.
+^orange;[plantera], author of Titancorp Expansion^reset;"		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_plantera/mwhaddon_head_plantera.head	shortdescription	^#9B005A;Plantera's hat		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_slimecatHat/mwhaddon_head_moonshineBamboohat.head	description	"Nya?
+^orange;[SUZL], coder, artist, and droid lover^reset;"		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_slimecatHat/mwhaddon_head_moonshineBamboohat.head	shortdescription	Slimecat Hat		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_solReflection/mwhaddon_head_solReflection.head	itemName	mwhaddon_head_solReflection		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_solReflection/mwhaddon_head_solReflection.head	description	"It looks familiar, but the discernment of those eyes makes you feel uneasy.
+^orange;[SolReflection], lead spriter of ^yellow;Voyage Mod^reset;"		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_solReflection/mwhaddon_head_solReflection.head	shortdescription	SolReflection		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_trailblazer/mwhaddon_head_trailblazer.head	description	"Hat of a trailblazer. May this journey lead you starward. 
+^orange;[Minewithhim], the author of ^yellow;Voyage Mod^reset;"		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_trailblazer/mwhaddon_head_trailblazer.head	shortdescription	Trailblazer's Hat		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_triceratops/mwhaddon_head_triceratops.head	description	"A helmet that mimics an extinct creature.
+^orange;[seaoyaosuen], the miraculous artist^reset;"		
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_triceratops/mwhaddon_head_triceratops.head	shortdescription	Triceratops Head		
+/items/armors/arcana_cosmetics/mwhaddon_clothes_brigade/mwh_armor_brigade.legs	description	Durable enough to withstand all circumstance during your hunts.		
+/items/armors/arcana_cosmetics/mwhaddon_clothes_brigade/mwh_armor_brigade.legs	shortdescription	Brigade Pants		
+/items/armors/arcana_cosmetics/mwhaddon_clothes_brigade/mwhaddon_armor_brigade.chest	description	Only for those who make their own contribution to the Guild. 		
+/items/armors/arcana_cosmetics/mwhaddon_clothes_brigade/mwhaddon_armor_brigade.chest	shortdescription	Brigade Coat		
+/items/armors/arcana_cosmetics/mwhaddon_clothes_brigade/mwhaddon_armor_brigade.head	description	You are the Sapphire Star guiding our way!		
+/items/armors/arcana_cosmetics/mwhaddon_clothes_brigade/mwhaddon_armor_brigade.head	shortdescription	Brigade Hat		
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyDeel/mwhaddon_head_tinyDeel.head	itemName	mwhaddon_head_tinyDeel		
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyDeel/mwhaddon_head_tinyDeel.head	description	"A Tiny Folklorist! Your best friend!
+^orange;[Minewithhim], the author of ^yellow;Voyage Mod^reset;"		
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyDeel/mwhaddon_head_tinyDeel.head	shortdescription	Tiny Folklorist		
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyMerel/mwhaddon_head_tinyMerel.head	itemName	mwhaddon_head_tinyMerel		
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyMerel/mwhaddon_head_tinyMerel.head	description	"A Tiny Merel.
+^orange;[Minewithhim], the author of ^yellow;Voyage Mod^reset;"		
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyMerel/mwhaddon_head_tinyMerel.head	shortdescription	Tiny Merel		
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyOlminga/mwhaddon_head_tinyOlminga.head	itemName	mwhaddon_head_tinyOlminga		
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyOlminga/mwhaddon_head_tinyOlminga.head	description	"A Tiny... and yet Evil Olminga!
+^orange;[Rusteel], lead spriter of ^yellow;Voyage Mod^reset;"		
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyOlminga/mwhaddon_head_tinyOlminga.head	shortdescription	Tiny Olminga		
+/items/armors/mwhaddon_armor_arbiter/mwhaddon_armor_arbiter.chest	description	"A suit only worn by the most ruthless officers. ^green;+5% Fire and Ice RES.^reset; 
+
+^orange;Set Bonus:^reset;
+Grants ^green;+15% Execration Weapon damage^reset;, ^green;Ruinous Immunity^reset; and ^green;+15% Abyss RES^reset; but ^red;-5% Lumen RES^reset;."		
+/items/armors/mwhaddon_armor_arbiter/mwhaddon_armor_arbiter.chest	shortdescription	^#e160da;Arbiter Suit^reset;		
+/items/armors/mwhaddon_armor_arbiter/mwhaddon_armor_arbiter.head	description	"A helmet only worn by the most ruthless officers. ^green;+5% Physical Res.^reset; 
+
+^orange;Set Bonus:^reset;
+Grants ^green;+15% Execration Weapon damage^reset;, ^green;Ruinous Immunity^reset; and ^green;+15% Abyss RES^reset; but ^red;-5% Lumen RES^reset;."		
+/items/armors/mwhaddon_armor_arbiter/mwhaddon_armor_arbiter.head	shortdescription	^#e160da;Arbiter Helmet^reset;		
+/items/armors/mwhaddon_armor_arbiter/mwhaddon_armor_arbiter.legs	description	"Leggings only worn by the most ruthless officers. ^green;+5% Electric and Poison Res.^reset; 
+
+^orange;Set Bonus:^reset;
+Grants ^green;+15% Execration Weapon damage^reset;, ^green;Ruinous Immunity^reset; and ^green;+15% Abyss RES^reset; but ^red;-5% Lumen RES^reset;."		
+/items/armors/mwhaddon_armor_arbiter/mwhaddon_armor_arbiter.legs	shortdescription	^#e160da;Arbiter Leggings^reset;		
+/items/armors/mwhaddon_armor_cardinal/mwhaddon_armor_arbiter.chest	description	"A suit only worn by the most ruthless officers. ^green;+5% Fire and Ice RES.^reset; 
+
+^orange;Set Bonus:^reset;
+Grants ^green;+15% Execration Weapon damage^reset;, ^green;Ruinous Immunity^reset; and ^green;+15% Abyss RES^reset; but ^red;-5% Lumen RES^reset;."		
+/items/armors/mwhaddon_armor_cardinal/mwhaddon_armor_arbiter.chest	shortdescription	^#e160da;Arbiter Suit^reset;		
+/items/armors/mwhaddon_armor_cardinal/mwhaddon_armor_arbiter.head	description	"A helmet only worn by the most ruthless officers. ^green;+5% Physical Res.^reset; 
+
+^orange;Set Bonus:^reset;
+Grants ^green;+15% Execration Weapon damage^reset;, ^green;Ruinous Immunity^reset; and ^green;+15% Abyss RES^reset; but ^red;-5% Lumen RES^reset;."		
+/items/armors/mwhaddon_armor_cardinal/mwhaddon_armor_arbiter.head	shortdescription	^#e160da;Arbiter Helmet^reset;		
+/items/armors/mwhaddon_armor_cardinal/mwhaddon_armor_arbiter.legs	description	"Leggings only worn by the most ruthless officers. ^green;+5% Electric and Poison Res.^reset; 
+
+^orange;Set Bonus:^reset;
+Grants ^green;+15% Execration Weapon damage^reset;, ^green;Ruinous Immunity^reset; and ^green;+15% Abyss RES^reset; but ^red;-5% Lumen RES^reset;."		
+/items/armors/mwhaddon_armor_cardinal/mwhaddon_armor_arbiter.legs	shortdescription	^#e160da;Arbiter Leggings^reset;		
+/items/armors/mwhaddon_armor_covenant/mwhaddon_armor_covenant.chest	description	Tops given to registered arcane apprentices by the Covenant.		
+/items/armors/mwhaddon_armor_covenant/mwhaddon_armor_covenant.chest	shortdescription	Covenant Apprentice Robe		
+/items/armors/mwhaddon_armor_covenant/mwhaddon_armor_covenant.legs	description	Bottoms given to registered arcane apprentices by the Covenant. 		
+/items/armors/mwhaddon_armor_covenant/mwhaddon_armor_covenant.legs	shortdescription	Covenant Apprentice Bottoms		
+/items/armors/scavengers/mwhaddon_armor_scrapsewnHeavy/mwhaddon_armor_scrapsewnHeavy.head	itemName	mwhaddon_armor_scrapsewnHeavy_head		
+/items/armors/scavengers/mwhaddon_armor_scrapsewnHeavy/mwhaddon_armor_scrapsewnHeavy.head	description	"A heavy mask made from scavenged scrap parts. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Ranged damage.^reset;"		
+/items/armors/scavengers/mwhaddon_armor_scrapsewnHeavy/mwhaddon_armor_scrapsewnHeavy.head	shortdescription	Heavy Scrapsewn Mask		
+/items/throwables/mwhaddon_throwable_alchemicalExplosive.thrownitem	itemName	mwhaddon_throwable_alchemicalExplosive		
+/items/throwables/mwhaddon_throwable_alchemicalExplosive.thrownitem	shortdescription	^mwhabombrank07;Alchemical Explosive		
+/items/throwables/mwhaddon_throwable_alchemicalExplosive.thrownitem	description	Destroy a range of tiles on collide. ^red;May harm yourself!^reset;		
+/items/throwables/mwhaddon_throwable_alchemicalExplosive_greater.thrownitem	itemName	mwhaddon_throwable_alchemicalExplosive_greater		
+/items/throwables/mwhaddon_throwable_alchemicalExplosive_greater.thrownitem	shortdescription	^mwhabombrank09;Greater Alchemical Explosive		
+/items/throwables/mwhaddon_throwable_alchemicalExplosive_greater.thrownitem	description	Destroy a wide range of tiles on collide.		
+/items/throwables/mwhaddon_throwable_alchemicalExplosive_lesser.thrownitem	itemName	mwhaddon_throwable_alchemicalExplosive_lesser		
+/items/throwables/mwhaddon_throwable_alchemicalExplosive_lesser.thrownitem	shortdescription	^mwhabombrank04;Lesser Alchemical Explosive		
+/items/throwables/mwhaddon_throwable_alchemicalExplosive_lesser.thrownitem	description	Destroy a small range of tiles on collide. ^red;May harm yourself!^reset;		
+/items/throwables/mwhaddon_throwable_alchemicalGrenade.thrownitem	itemName	mwhaddon_throwable_alchemicalGrenade		
+/items/throwables/mwhaddon_throwable_alchemicalGrenade.thrownitem	shortdescription	^mwhathrowrank02;Alchemical Grenade		
+/items/throwables/mwhaddon_throwable_alchemicalGrenade.thrownitem	description	Use this magical grenade to blow up your enemies!		
+/items/throwables/mwhaddon_throwable_arcana.thrownitem	shortdescription	^pink;Absolute Arcana^reset;		
+/items/throwables/mwhaddon_throwable_arcana.thrownitem	description	Abandoned.		
+/items/throwables/mwhaddon_throwable_arcana.thrownitem	subtitle	^green;Summon Item^#reset;	^green;소환 아이템^#reset;	reuse
+/items/throwables/mwhaddon_throwable_azureCrate.thrownitem	itemName	mwhaddon_throwable_azureCrate		
+/items/throwables/mwhaddon_throwable_azureCrate.thrownitem	shortdescription	^mwhabombrank10;^#4bb4ca;Alchemical Creation Box^reset;		
+/items/throwables/mwhaddon_throwable_azureCrate.thrownitem	description	Throw it to summon an Azure Golem fights for you.		
+/items/throwables/mwhaddon_throwable_azureVortex.thrownitem	itemName	mwhaddon_throwable_azureVortex		
+/items/throwables/mwhaddon_throwable_azureVortex.thrownitem	shortdescription	^mwhathrowrank11;^#4bb4ca;Azure Vortex^reset;		
+/items/throwables/mwhaddon_throwable_azureVortex.thrownitem	description	Create a vortex that draws enemies and projectiles nearby to it.		
+/items/throwables/mwhaddon_throwable_bigPoisonBomb.thrownitem	itemName	mwhaddon_throwable_bigPoisonBomb		
+/items/throwables/mwhaddon_throwable_bigPoisonBomb.thrownitem	shortdescription	^mwhabombrank08;Catalyzed Poison Bomb		
+/items/throwables/mwhaddon_throwable_bigPoisonBomb.thrownitem	description	Burst lots of Poison on collide.		
+/items/throwables/mwhaddon_throwable_boss_cNeL.thrownitem	shortdescription	^pink;Price of Prosperity^reset;		
+/items/throwables/mwhaddon_throwable_boss_cNeL.thrownitem	description	Abandoned.		
+/items/throwables/mwhaddon_throwable_boss_cNeL.thrownitem	subtitle	^green;Summon Item^#reset;	^green;소환 아이템^#reset;	reuse
+/items/throwables/mwhaddon_throwable_boss_execration.thrownitem	shortdescription	^#e160da;Extremity Beacon^reset;		
+/items/throwables/mwhaddon_throwable_boss_execration.thrownitem	description	Abandoned.		
+/items/throwables/mwhaddon_throwable_boss_execration.thrownitem	subtitle	^green;Summon Item^#reset;	^green;소환 아이템^#reset;	reuse
+/items/throwables/mwhaddon_throwable_boss_execration_nomusic.thrownitem	shortdescription	^#e160da;Silenced Beacon^reset;		
+/items/throwables/mwhaddon_throwable_boss_execration_nomusic.thrownitem	description	Abandoned.		
+/items/throwables/mwhaddon_throwable_boss_execration_nomusic.thrownitem	subtitle	^green;Summon Item^#reset;	^green;소환 아이템^#reset;	reuse
+/items/throwables/mwhaddon_throwable_copperOreBomb.thrownitem	itemName	mwhaddon_throwable_copperOreBomb		
+/items/throwables/mwhaddon_throwable_copperOreBomb.thrownitem	shortdescription	^mwhabombrank01;Copper Ore Bomb		
+/items/throwables/mwhaddon_throwable_copperOreBomb.thrownitem	description	A bomb that turns tiles within range into copper ores. ^red;May not work.^reset;		
+/items/throwables/mwhaddon_throwable_corrodiumKnife.thrownitem	itemName	mwhaddon_throwable_corrodiumKnife		
+/items/throwables/mwhaddon_throwable_corrodiumKnife.thrownitem	shortdescription	^mwhathrowrank08;Corrodium Knife		
+/items/throwables/mwhaddon_throwable_corrodiumKnife.thrownitem	description	Inflict acid burning on enemy hit.		
+/items/throwables/mwhaddon_throwable_discus.thrownitem	shortdescription	^mwhathrowrank12;^yellow;Discus^reset;		
+/items/throwables/mwhaddon_throwable_discus.thrownitem	description	Despite its name, this grenade will explode your enemies with light magic!		
+/items/throwables/mwhaddon_throwable_flaskOfEvo.thrownitem	shortdescription	^mwhathrowrank05;Flask of Evo		
+/items/throwables/mwhaddon_throwable_flaskOfEvo.thrownitem	description	Explode into posion clouds when contact. Can bounce.		
+/items/throwables/mwhaddon_throwable_flaskOfTimeless.thrownitem	itemName	mwhaddon_throwable_flaskOfTimeless		
+/items/throwables/mwhaddon_throwable_flaskOfTimeless.thrownitem	shortdescription	^mwhathrowrank09;Flask of Timeless		
+/items/throwables/mwhaddon_throwable_flaskOfTimeless.thrownitem	description	Create a zone that freeze your enemies' time, then explodes after a while.		
+/items/throwables/mwhaddon_throwable_fluorescenceStem.thrownitem	itemName	mwhaddon_throwable_fluorescenceStem		
+/items/throwables/mwhaddon_throwable_fluorescenceStem.thrownitem	shortdescription	^mwhathrowrank01;Fluorescence Stem		
+/items/throwables/mwhaddon_throwable_fluorescenceStem.thrownitem	description	A light stick made of plants and Arcane magic that can float in the air.		
+/items/throwables/mwhaddon_throwable_illuminatedBomb.thrownitem	itemName	mwhaddon_throwable_illuminatedBomb		
+/items/throwables/mwhaddon_throwable_illuminatedBomb.thrownitem	shortdescription	^mwhabombrank05;Illuminated Bomb		
+/items/throwables/mwhaddon_throwable_illuminatedBomb.thrownitem	description	Burst into a pool of Illuminated Water on collide.		
+/items/throwables/mwhaddon_throwable_illuminatedSpikes.thrownitem	itemName	mwhaddon_throwable_illuminatedSpikes		
+/items/throwables/mwhaddon_throwable_illuminatedSpikes.thrownitem	shortdescription	^mwhathrowrank06;Illuminated Spikes		
+/items/throwables/mwhaddon_throwable_illuminatedSpikes.thrownitem	description	Throw a cluster of illuminated spikes that linger on the ground.		
+/items/throwables/mwhaddon_throwable_ironOreBomb.thrownitem	itemName	mwhaddon_throwable_ironOreBomb		
+/items/throwables/mwhaddon_throwable_ironOreBomb.thrownitem	shortdescription	^mwhabombrank02;Iron Ore Bomb		
+/items/throwables/mwhaddon_throwable_ironOreBomb.thrownitem	description	A bomb that turns tiles within range into iron ores. ^red;May not work.^reset;		
+/items/throwables/mwhaddon_throwable_kitsunetou.thrownitem	shortdescription	^mwhathrowrank04;Kitsunetou		
+/items/throwables/mwhaddon_throwable_kitsunetou.thrownitem	description	A lamp that shoots flame to nearby enemies.		
+/items/throwables/mwhaddon_throwable_meltedCrystalBomb.thrownitem	itemName	mwhaddon_throwable_meltedCrystalBomb		
+/items/throwables/mwhaddon_throwable_meltedCrystalBomb.thrownitem	shortdescription	^mwhabombrank11;^#e99763;Melted Crystal Bomb^reset;		
+/items/throwables/mwhaddon_throwable_meltedCrystalBomb.thrownitem	description	A bomb that creates a range of Solite Crystal Blocks on collide.		
+/items/throwables/mwhaddon_throwable_orionBeacon.thrownitem	itemName	mwhaddon_throwable_orionBeacon		
+/items/throwables/mwhaddon_throwable_orionBeacon.thrownitem	shortdescription	^mwhathrowrank07;Orion Beacon		
+/items/throwables/mwhaddon_throwable_orionBeacon.thrownitem	description	This beacon will call an air strike at its position.		
+/items/throwables/mwhaddon_throwable_ruinousBomb.thrownitem	itemName	mwhaddon_throwable_ruinousBomb		
+/items/throwables/mwhaddon_throwable_ruinousBomb.thrownitem	shortdescription	^mwhabombrank06;Ruinous Bomb		
+/items/throwables/mwhaddon_throwable_ruinousBomb.thrownitem	description	Burst into a pool of Ruinous Water on collide.		
+/items/throwables/mwhaddon_throwable_sunlitDragonbreath.thrownitem	itemName	mwhaddon_throwable_sunlitDragonbreath		
+/items/throwables/mwhaddon_throwable_sunlitDragonbreath.thrownitem	shortdescription	^mwhathrowrank10;^#e99763;Sunlit Dragonbreath^reset;		
+/items/throwables/mwhaddon_throwable_sunlitDragonbreath.thrownitem	description	Create an explosive homing dragonbeam.		
+/items/throwables/mwhaddon_throwable_tungstenOreBomb.thrownitem	itemName	mwhaddon_throwable_tungstenOreBomb		
+/items/throwables/mwhaddon_throwable_tungstenOreBomb.thrownitem	shortdescription	^mwhabombrank03;Tungsten Ore Bomb		
+/items/throwables/mwhaddon_throwable_tungstenOreBomb.thrownitem	description	A bomb that turns tiles within range into tungsten ores. ^red;May not work.^reset;		
+/items/throwables/mwhaddon_throwable_windBag.thrownitem	shortdescription	^mwhathrowrank03;Wind Bag		
+/items/throwables/mwhaddon_throwable_windBag.thrownitem	description	Create a wind field that makes everything float!		
+/items/tools/mwhaddon_orionFlashlight.flashlight	itemName	mwhaddon_orionFlashlight		
+/items/tools/mwhaddon_orionFlashlight.flashlight	description	A standard flashlight fabricated by Orion Cybernetics.		
+/items/tools/mwhaddon_orionFlashlight.flashlight	shortdescription	Orion Flashlight		
+/objects/arcana/npcs/mwhaddon_dungeon_misc/mwhaddon_dungeon_misc_npc_sally/mwhaddon_dungeon_misc_npc_sally_mCpt3_1_1.object	shortdescription	Sally		
+/objects/crafting/mwhaddon_crafting_alchemist/mwhaddon_crafting_alchemist.object	description	The best station made from Aureola bars to creat the most wonderful potions.	가장 훌륭한 물약을 만들기 위해 아우레올라 봉으로 만든 최고의 제작대.	reuse
+/objects/crafting/mwhaddon_crafting_alchemist/mwhaddon_crafting_alchemist.object	shortdescription	^#dfcf4e;Grandsorcerer's Table^reset;	^#dfcf4e;그랜드소서러의 작업대^reset;	reuse
+/objects/crafting/mwhaddon_crafting_horizonFurnace/mwhaddon_crafting_horizonFurnace.object	objectName	mwhaddon_crafting_horizonFurnace		
+/objects/crafting/mwhaddon_crafting_horizonFurnace/mwhaddon_crafting_horizonFurnace.object	description	An advanced smelter used by the Horizon to efficiently smelt Necroium and construct armory.	호라이즌이 네크로이움을 효율적으로 제련하고 무기고를 건설하는 데 쓰는 고급 제련소입니다.	reuse
+/objects/crafting/mwhaddon_crafting_horizonFurnace/mwhaddon_crafting_horizonFurnace.object	shortdescription	^#e160da;Necroium Ultismelter^reset;	^#e160da;네크로이움 얼티멜터^reset;	reuse
+/objects/crafting/mwhaddon_crafting_mechCrafting/mwhaddon_crafting_mechCrafting.object	objectName	mwhaddon_crafting_mechCrafting		
+/objects/crafting/mwhaddon_crafting_mechCrafting/mwhaddon_crafting_mechCrafting.object	description	A station to craft advanced mech parts!	첨단 메카 부품을 제작하는 스테이션!	reuse
+/objects/crafting/mwhaddon_crafting_mechCrafting/mwhaddon_crafting_mechCrafting.object	shortdescription	^#e160da;Mech Parts Crafting^reset;	^#e160da;메크 부품 제작^reset;	reuse
+/objects/crafting/mwhaddon_crafting_mechCrafting/mwhaddon_crafting_mechCrafting_alt.object	objectName	mwhaddon_crafting_mechCrafting_alt		
+/objects/crafting/mwhaddon_crafting_mechCrafting/mwhaddon_crafting_mechCrafting_alt.object	description	Used to produce advanced modular mech components.	고급 모듈식 메크 부품을 만드는 데 쓰인다.	reuse
+/objects/crafting/mwhaddon_crafting_mechCrafting/mwhaddon_crafting_mechCrafting_alt.object	shortdescription	^#e160da;Advanced Mech Station^reset;	^#e160da;고급 메크 스테이션^reset;	reuse
+/objects/crafting/mwhaddon_crafting_memoryForge/mwhaddon_crafting_memoryForge.object	objectName	mwhaddon_crafting_memoryForge		
+/objects/crafting/mwhaddon_crafting_memoryForge/mwhaddon_crafting_memoryForge.object	description	A forge that use memories as raw materials.	기억을 원재료로 사용하는 대장간입니다.	reuse
+/objects/crafting/mwhaddon_crafting_memoryForge/mwhaddon_crafting_memoryForge.object	shortdescription	Memory Forge	기억 대장간	reuse
+/objects/crafting/mwhaddon_crafting_memoryForge/mwhaddon_crafting_memoryForge_test.object	objectName	mwhaddon_crafting_memoryForge_test		
+/stats/effects/heal/arcana_mwhaddon_heal_1.statuseffect	label	Healing	치유	reuse
+/stats/effects/heal/arcana_mwhaddon_heal_2.statuseffect	label	Healing	치유	reuse
+/stats/effects/heal/arcana_mwhaddon_heal_3.statuseffect	label	Healing	치유	reuse
+/stats/effects/heal/arcana_mwhaddon_heal_4.statuseffect	label	Healing	치유	reuse
+/stats/effects/heal/arcana_mwhaddon_heal_5.statuseffect	label	Healing	치유	reuse
+/stats/effects/heal/mwhaddon_heal_aureaStandardMedkit.statuseffect	label	Healing	치유	reuse
+/stats/effects/mwhaddon_usable/mwhaddon_usable_electrolitePill/mwhaddon_usable_electrolitePill.statuseffect	label	Overelectrified		
+/stats/effects/mwhaddon_usable/mwhaddon_usable_unmatched/mwhaddon_usable_unmatched.statuseffect	label	Unmatched		
+/stats/effects/mwhaddon_usable/mwhaddon_usable_windcatcher/mwhaddon_usable_windcatcher.statuseffect	label	Windcatcher		

@@ -1,0 +1,99 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/objectName",
+      "value": "saturnMagicLoom"
+    },
+    {
+      "op": "replace",
+      "path": "/objectName",
+      "value": "토성인 베틀"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Allows crafting of fabrics, dyes, synthetic wings, and Saturnian clothing."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "직물, 염료, 합성 날개, 새터니안 의상을 제작할 수 있게 해준다."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "^orange;Saturnian Loom^white;"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "^orange;새터니안 베틀^white;"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/interactData/paneLayoutOverride/windowtitle/title",
+      "value": "Saturnian Loom"
+    },
+    {
+      "op": "replace",
+      "path": "/interactData/paneLayoutOverride/windowtitle/title",
+      "value": "토성인 베틀"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+      "value": "Used to create fabrics, dyes, and synthetic wings."
+    },
+    {
+      "op": "replace",
+      "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+      "value": "직물, 염료, 합성 날개 제작에 쓰인다."
+    }
+  ]
+]
+
+/items/armors/saturn/Wings/AutomerisFrankae/saturnWingAutomerisFrankae.back.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/itemName",
+      "value": "saturnWingAutomerisFrankae"
+    },
+    {
+      "op": "replace",
+      "path": "/itemName",
+      "value": "A. 프랑케 날개"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "(Dual colored) These wings bear a striking resemblance to those of the Io mages, yet something seems different... \n^#ffffa7;Automeris frankae (male)^reset;"
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "(이중 색) 이 날개들은 이오 마법사들의 날개와 놀라울 정도로 닮았지만, 뭔가 다른 듯하다... \n^#ffffa7;Automeris frankae (수컷)^reset;"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "A. Frankae Wings"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+   

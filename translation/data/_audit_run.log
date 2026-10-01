@@ -1,0 +1,38 @@
+tests: 213873 bad: 137 files: 10
+Counter({'STATE': 124, 'NEVER_WRITTEN': 13})
+state saved
+/dialog/converse.config.patch /converse/apex/generic | '[\'추워 보이는데, 몸에 털이 필요하겠어.\', \'나한테서 냄새가 나거든 말해주게. 이렇 | STATE:['추워 보이는데, 몸에 털이 필요하겠어.', '나한테서 냄새가 나거든 말해주게. 이렇게나 털이 많으면 깨끗하게 관리하기 어렵단 말이
+/dialog/converse.config.patch /converse/apex/human | "['당신은 제가 만난 첫 번째 사람이에요.', '지구에 일어난 일은 모두에게 나쁜 소식입니다 | STATE:['당신은 제가 만난 첫 번째 사람이에요.', '지구에 일어난 일은 모두에게 나쁜 소식입니다.', '남은 사진은 없지만, 우리 에이펙
+/dialog/converse.config.patch /converse/hylotl/generic | "['오늘 하루 참 바쁘군요! 아무래도 평온함을 찾을 때인가 봅니다.', '제작품들의 아름다움 | STATE:['오늘 하루 참 바쁘군요! 아무래도 평온함을 찾을 때인가 봅니다.', '제작품들의 아름다움과 자연의 아름다움은 비교하기 어렵지요.'
+/dialog/converse.config.patch /converse/avian/generic | '[\'아마 아셨을 거에요. 모든 아비안들이 독실한 신자인 것은 아니에요.\', \'아 이런, | STATE:['아마 아셨을 거에요. 모든 아비안들이 독실한 신자인 것은 아니에요.', '아 이런, 씨앗을 모두 쏟아서 이제 다 먼지투성이네.',
+/dialog/converse.config.patch /converse/human/generic | "['웃기게 생긴 종족이 많더라.', '이런, 너무 지루해. 뭔가 재밌는 걸 하고 싶어.',  | STATE:['웃기게 생긴 종족이 많더라.', '이런, 너무 지루해. 뭔가 재밌는 걸 하고 싶어.', '난 보호국에 들어갈 계획을 세운 적이 있
+/dialog/converse.config.patch /converse/glitch/generic | "['전율. 무슨 목적으로 왔습니까?', '지루함. 이거 재밌겠군.', '호전적. 왜 나한테  | STATE:['전율. 무슨 목적으로 왔습니까?', '지루함. 이거 재밌겠군.', '호전적. 왜 나한테 귀찮게 구는 것이오?', '침울. 내가 가
+/dialog/converse.config.patch /greeting/lustling/default | "['Hello.', 'How are you?', 'How are you doing?', 'N | NEVER_WRITTEN
+/dialog/merchant.config.patch /merchantStart/default/default | 'None' | STATE:['내 상점에 온 걸 환영해!', '원하는 물건 있어?', '뭘 도와줄까?']
+/dialog/merchant.config.patch /merchantStart/apex/default | 'None' | STATE:['만지다 부서지면 사야 합니다.', '원하는 것이 뭡니까?', '빨리 필요한 물건이 뭔지 말해보세요.', '불법적인 물품은 저한테 
+/dialog/merchant.config.patch /merchantStart/avian/default | 'None' | STATE:['안녕하세요, 뭘 원하시나요?', '오늘 뭘 도와드릴까요?', '안녕하세요. 원하는 물건이 있나요?']
+/dialog/merchant.config.patch /merchantStart/floran/default | 'None' | STATE:['플로란은 네가 상점에 온 걸 환영한다.', '플로란이 뭘 갖다주면 되나?', '플로란에게 픽셀 주면, 플로란이 물건 주겠다.']
+/dialog/merchant.config.patch /merchantStart/glitch/default | 'None' | STATE:['축하. 제 상점에 온 걸 환영합니다.', '온화함. 전부 다 사고 싶은 거 압니다!', '기쁨. 손님이군!']
+/dialog/merchant.config.patch /merchantStart/hylotl/default | 'None' | STATE:['당신의 행복에 기여할 수 있는 거래를 할 수 있다고 믿습니다.', '제 물품 중에 마음에 드는 것이 있을 겁니다.', '맘껏 보다
+/dialog/merchant.config.patch /merchantStart/novakid/default | 'None' | STATE:['안녕하신가, 친구. 뭐 필요한 게 있나?', '반갑네, 파트너! 뭔가 사고 싶나?', '팔 물건이 많다네. 관심 있나?']
+/dialog/merchant.config.patch /merchantEnd/default/default | 'None' | STATE:['다음에 또 봅시다!', '또 오세요!', '픽셀은 언제든지 환영이야.', '거래를 해서 즐거웠어!', '방문해주셔서 감사합니다.'
+/dialog/merchant.config.patch /merchantEnd/human/default | 'None' | STATE:['다음에 또 봅시다!', '또 오세요!', '픽셀은 언제든지 환영이야.', '거래를 해서 즐거웠어!', '방문해주셔서 감사합니다.'
+/dialog/merchant.config.patch /merchantEnd/avian/default | 'None' | STATE:['정말 좋았습니다. 또 오시길 바랄게요.', '후원에 정말 감사드립니다.', '거래 감사합니다. 또 와주세요.', '다음에 또 보길
+/dialog/merchant.config.patch /merchantEnd/glitch/default | 'None' | STATE:['주장. 또 오시오!', '기쁨. 후원 고맙소.', '실망. 더 살 생각은 없습니까?', '우울. 그럼 다음에 봅시다, 손님.']
+/dialog/merchant.config.patch /merchantEnd/hylotl/default | 'None' | STATE:['또 와주시오.', '거래 감사합니다, 또 와주세요.', '다음에 또 보길 바라지요.', '방문 감사합니다. 추후에도 거래할 날이 
+/dialog/merchant.config.patch /merchantEnd/apex/default | 'None' | STATE:['또 와주세요. 안전하게 지내시고요.', '나중에 또 픽셀 들고 절 찾아와주시길 바랄게요.', '또 만날 날을 기다리겠습니다, 친구
+/dialog/merchant.config.patch /merchantEnd/floran/default | 'None' | STATE:['또 와라. 나중에 더 쓰고 가라!', '플로란은 네가 또 오면 좋겠다.', '플로란은 최고의 물건을 파니까, 너는 곧 돌아올 거다
+/dialog/merchant.config.patch /merchantEnd/novakid/default | 'None' | STATE:['다음에 또 만날 날을 기다리겠네, 친구!', '몸 조심하며 지내게!', '또 여기에 들르거든 여기에도 와주게, 파트너!', '다음
+/dialog/merchant.config.patch /follow/default/default | 'None' | STATE:['이리 오세요. 제 상점에서 거래를 합시다!', '여기 와서 제 물건 좀 보고 가세요!']
+/dialog/merchant.config.patch /follow/glitch/default | 'None' | STATE:['진심. 내 상점으로 따라와주시오.', '유혹. 제 상점으로 따라와줬으면 좋겠군요.']
+/dialog/merchant.config.patch /follow/avian/default | 'None' | STATE:['절 따라오세요, 상점으로 안내하겠습니다.', '제 상점에서 거래를 할 수 있어요. 절 따라와주세요.']
+/dialog/merchant.config.patch /follow/apex/default | 'None' | STATE:['물건들은 제 상점에 있습니다. 절 따라오면 보여드리지요.', '제 상점까지 오신다면, 거래를 해봅시다.']
+/dialog/merchant.config.patch /follow/hylotl/default | 'None' | STATE:['제 상점까지 따라와주세요.', '제 상점을 보여드려도 되겠습니까? 이 쪽입니다.']
+/dialog/merchant.config.patch /follow/floran/default | 'None' | STATE:['플로란 상점까지 따라와라.', '상점은 이 쪽이다. 플로란 따라와라.']
+/dialog/merchant.config.patch /follow/novakid/default | 'None' | STATE:['이 쪽일세, 파트너.', '날 따라오면, 상점을 보여주겠네.']
+/dialog/merchant.config.patch /welcome/default/default | 'None' | STATE:['제 상점에 잘 오셨습니다!', '이제 다 왔네요. 뭘 도와드릴까요?']
+/dialog/merchant.config.patch /welcome/human/default | 'None' | STATE:['제 상점에 잘 오셨습니다!', '이제 다 왔네요. 뭘 도와드릴까요?']
+/dialog/merchant.config.patch /welcome/glitch/default | 'None' | STATE:['신남. 이제 거래를 할 수 있겠군.', '기쁨. 이제 서로 거래를 할 수 있겠네요.']
+/dialog/merchant.config.patch /welcome/avian/default | 'None' | STATE:['좋아요, 다 왔습니다. 뭘 드릴까요?', '이제 마음껏 둘러보고 원하는 물건을 찾아보세요.']
+/dialog/merchant.config.patch /welcome/apex/default | 'None' | STATE:['이제 우리끼리만 있으니, 거래 얘기를 해봅시다.', '좋아요, 이제 거래합시다.']
+/dialog/merchant.config.patch /welcome/hylotl/default | 'None' | STATE:['이제 왔군요. 환영합니다. 뭘 사고 싶으신지요?', '여기서는 특별한 물품을 팔고 있습니다. 한 번 둘러보시지요.']

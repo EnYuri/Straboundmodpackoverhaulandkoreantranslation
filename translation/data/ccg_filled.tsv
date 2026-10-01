@@ -1,0 +1,405 @@
+asset	field	en	ko	src
+/collections/sb_music.collection	title	Poptop Humming	팝톱 허밍	
+/collections/sb_music.collection	description	Toby Fox	토비 폭스	
+/items/active/starbound/guns/randomgenerated/crossbow/crossbow.activeitem	shortdescription	Crossbow	쇠뇌	
+/items/active/starbound/guns/randomgenerated/shattergun/shattergun.activeitem	subtitle	Shattergun	쉐터건	
+/items/active/starbound/guns/randomgenerated/shattergun/shattergun.activeitem	shortdescription	Shattergun	쉐터건	
+/items/active/starbound/weapons/broadswords/novakid/t5m.activeitem	shortdescription	Supersaw	슈퍼쏘	
+/items/active/starbound/weapons/daggers/nightstick.activeitem	shortdescription	Nightstick	나이트스틱	
+/items/active/starbound/weapons/daggers/nightstick.activeitem	subtitle	Nightstick	나이트스틱	
+/items/active/starbound/weapons/daggers/novakid/t6m.activeitem	shortdescription	Second-To-None	둘째가라면 서러워	
+/items/active/starbound/weapons/hammers/novakid/t6m.activeitem	shortdescription	Heart-stop-watch	하트스톱워치	
+/items/active/starbound/weapons/hammers/novakid/t6s.activeitem	shortdescription	Wranglahuitl	랭글라위틀	
+/items/active/starbound/weapons/randomlygenerated/glitchsmallmace.activeitem	subtitle	Mace	철퇴	
+/items/active/starbound/weapons/randomlygenerated/glitchsmallmace.activeitem	shortdescription	Mace	철퇴	
+/items/active/starbound/weapons/shortswords/novakid/t5m.activeitem	shortdescription	Sawtooth	톱니	
+/items/active/starbound/weapons/spears/novakid/t3.activeitem	shortdescription	Mooshi-Hassler	무시-해슬러	
+/items/active/starbound/weapons/spears/novakid/t6m.activeitem	shortdescription	Clockwork-Skewer	태엽 꼬챙이	
+/items/armors/backitems/sb_airpocket/airpocket.back	description	Slowly creates breathable air around the wearer, ^red;extending^reset; their oxygen reserves.	착용자 주변에 천천히 호흡 가능한 공기를 만들어 ^red;산소^reset; 보유량을 늘린다.	
+/items/armors/backitems/sb_airpocket/airpocket.back	shortdescription	Air Pocket Generator	공기 주머니 생성기	
+/items/armors/backitems/sb_naturecape/naturecape.back	description	This cape smells of roses.	이 망토는 장미 향기가 난다.	
+/items/armors/backitems/sb_naturecape/naturecape.back	shortdescription	Shawl of Earth's Bounty	대지의 풍요 숄	
+/items/armors/biome/eyepatch/sb_eyeball/eyeball.chest	description	I've heard of eyes in the back of your head but this is ridiculous.	뒤통수에 눈 달린 얘기는 들어봤지만 이건 좀 심하다.	
+/items/armors/biome/eyepatch/sb_eyeball/eyeball.chest	shortdescription	All-Seeing Chest	전지의 상자	reuse
+/items/armors/biome/eyepatch/sb_eyeball/eyeball.head	description	A giant eyeball mask. It lacks depth perception...	거대한 눈알 가면. 입체감이 없다...	
+/items/armors/biome/eyepatch/sb_eyeball/eyeball.head	shortdescription	All-Seeing Mask	천리안 가면	
+/items/armors/biome/volcanic/sb_firecrownhead/firecrown.head	description	For real hotheads. Note: Not actually fire.	진짜 열혈들을 위한 물건. 참고: 진짜 불은 아니다.	
+/items/armors/biome/volcanic/sb_firecrownhead/firecrown.head	shortdescription	Fire Crown	화염 왕관	
+/items/armors/decorative/clothes/sb_shirtlong1/shirtlong1.chest	description	An ordinary long sleeved top. Appropriate clothing for all occasions and scenarios.	평범한 긴팔 상의. 어떤 경우에도 어울리는 옷차림.	
+/items/armors/decorative/clothes/sb_shirtlong1/shirtlong1.chest	shortdescription	Long Sleeved Top	긴팔 상의	
+/items/armors/decorative/clothes/sb_shirtshort1/shirtshort1.chest	description	An ordinary short sleeved top. Appropriate clothing for all occasions and scenarios.	평범한 반팔 상의. 어떤 경우에도 어울리는 옷차림.	
+/items/armors/decorative/clothes/sb_shirtshort1/shirtshort1.chest	shortdescription	Short Sleeved Top	반팔 상의	
+/items/armors/decorative/costumes/sb_techmaster/techmaster.chest	description	This jacket is usually worn by those privy to some of the universe's best kept secrets.	이 재킷은 보통 우주의 가장 잘 감춰진 비밀에 접근할 수 있는 자들이 입는다.	
+/items/armors/decorative/costumes/sb_techmaster/techmaster.chest	shortdescription	Tech Master's Techjacket	테크 마스터의 테크재킷	
+/items/armors/decorative/costumes/sb_techmaster/techmaster.head	description	This helm contains a voice box changer. Side effects may include picking up any heavy breathing.	이 헬멧에는 음성 변조 장치가 들어 있다. 부작용으로 거친 숨소리가 잡힐 수 있다.	
+/items/armors/decorative/costumes/sb_techmaster/techmaster.head	shortdescription	Tech Master's Techhelm	테크 마스터의 테크헬름	
+/items/armors/decorative/costumes/sb_techmaster/techmaster.legs	description	"""Tech-powered pants""? What does that even mean? It's a pair of pants, why would you need tech in it?"	테크 동력 바지? 그게 대체 무슨 뜻이지? 그냥 바지인데, 거기에 테크가 왜 필요한데?	
+/items/armors/decorative/costumes/sb_techmaster/techmaster.legs	shortdescription	Tech Master's Techpants	테크 마스터의 테크바지	
+/items/armors/decorative/hats/sb_braincage/braincage.head	description	This tall helmet has brain-amplifying circuitry running throughout the inside.	이 높은 헬멧 안쪽에는 뇌 증폭 회로가 빼곡히 깔려 있다.	
+/items/armors/decorative/hats/sb_braincage/braincage.head	shortdescription	The Braincage	브레인케이지	
+/items/armors/decorative/hats/sb_cone/cone.head	description	A typical party hat, custom tailored for those who can't afford to show their face.	전형적인 파티 모자로, 얼굴을 보일 수 없는 이들을 위해 맞춤 제작됐다.	
+/items/armors/decorative/hats/sb_cone/cone.head	shortdescription	Cone Mask	콘 가면	
+/items/armors/decorative/hats/sb_odd/odd.head	description	This distinct helm was built when humans made contact with a particularly odd looking race. The fashion stuck.	인간이 유난히 이상하게 생긴 종족과 접촉했을 때 만들어진 독특한 헬멧. 유행이 그대로 남았다.	
+/items/armors/decorative/hats/sb_odd/odd.head	shortdescription	Odd Helm	기묘한 헬멧	
+/items/armors/decorative/hats/sb_scrap/scrap.head	description	This helm was made from foes with particularly hard skin.	유난히 단단한 가죽을 가진 적들로 만든 헬멧.	
+/items/armors/decorative/hats/sb_scrap/scrap.head	shortdescription	Scrap Helm	고철 헬멧	
+/items/armors/human/sb_human-cool/cool.chest	description	A cool jacket, too cool for drycleaning.	멋진 재킷, 드라이클리닝이 아까울 정도로 멋지다.	
+/items/armors/human/sb_human-cool/cool.chest	shortdescription	Cool Jacket	멋진 재킷	
+/items/armors/human/sb_human-work/work.chest	description	A classy sweater vest. It's business casual.	고급스러운 스웨터 베스트. 비즈니스 캐주얼이다.	
+/items/armors/human/sb_human-work/work.chest	shortdescription	Work Shirt	작업 셔츠	
+/items/armors/human/sb_human-work/work.legs	description	They're business casual.	비즈니스 캐주얼이다.	
+/items/armors/human/sb_human-work/work.legs	shortdescription	Work Pants	작업 바지	
+/items/armors/human/sb_human-workout/workout.chest	description	A sweatshirt... It smells.	스웨트셔츠... 냄새가 난다.	
+/items/armors/human/sb_human-workout/workout.chest	shortdescription	Sweatshirt	스웨트셔츠	
+/items/armors/other/sb_cultist/cultist.head	description	A creepy hood, fit for a shady Cultist.	소름 돋는 후드로, 수상한 이교도에게 어울린다.	
+/items/armors/other/sb_cultist/cultist.head	shortdescription	Creepy Cultist Hood	소름 돋는 이교도 후드	
+/items/armors/other/sb_spacemarine/spacemarine.chest	description	Heavy-duty armour fit for a space marine.	스페이스 마린에게 어울리는 중장갑.	
+/items/armors/other/sb_spacemarine/spacemarine.chest	shortdescription	Power Armour Chestpiece	파워 아머 흉갑	
+/items/armors/other/sb_spacemarine/spacemarine.head	description	Heavy-duty armour fit for a space marine.	스페이스 마린에게 어울리는 중장갑.	
+/items/armors/other/sb_spacemarine/spacemarine.head	shortdescription	Power Armour Helmet	파워 아머 헬멧	
+/items/armors/other/sb_spacemarine/spacemarine.legs	description	Heavy-duty armour fit for a space marine.	스페이스 마린에게 어울리는 중장갑.	
+/items/armors/other/sb_spacemarine/spacemarine.legs	shortdescription	Power Armour Legs	파워 아머 각반	
+/items/armors/penguin/sb_empty/empty.chest	description	An empty chest or such.	텅 빈 상의 같은 것.	
+/items/armors/penguin/sb_empty/empty.chest	shortdescription	Empty Chest	빈 상의	
+/items/armors/penguin/sb_empty/empty.head	description	An empty helmet or such.	텅 빈 모자 같은 것.	
+/items/armors/penguin/sb_empty/empty.head	shortdescription	Empty Hat	빈 모자	
+/items/armors/penguin/sb_empty/empty.legs	description	An empty pair of pants or such.	텅 빈 바지 같은 것.	
+/items/armors/penguin/sb_empty/empty.legs	shortdescription	Empty Pants	빈 바지	
+/items/augments/back/sb_energyregenaugment1.augment	description	An EPP module that boosts your energy regeneration speed a little.	에너지 재생 속도를 조금 올려주는 EPP 모듈.	
+/items/augments/back/sb_energyregenaugment1.augment	shortdescription	Energy Regen I Augment	에너지 재생 I 증강	
+/items/augments/back/sb_energyregenaugment2.augment	description	An EPP module that boosts your energy regeneration speed.	에너지 재생 속도를 올려주는 EPP 모듈.	
+/items/augments/back/sb_energyregenaugment2.augment	shortdescription	Energy Regen II Augment	에너지 재생 II 증강	
+/items/augments/back/sb_energyregenaugment3.augment	description	An EPP module that boosts your energy regeneration speed greatly.	에너지 재생 속도를 크게 올려주는 EPP 모듈.	
+/items/augments/back/sb_energyregenaugment3.augment	shortdescription	Energy Regen III Augment	에너지 재생 III 증강	
+/items/augments/pet/sb_thornscollar.augment	description	A collar that causes your pet to reflect damage back at nearby enemies.	애완동물이 받은 피해를 주변 적에게 되돌려주는 목걸이.	
+/items/augments/pet/sb_thornscollar.augment	shortdescription	Thorns Collar	가시 목걸이	
+/items/augments/sb_abilitymod/abilitymod.augment	subtitle	Weapon Mod (%s)	무기 모드 (%s)	
+/items/augments/sb_abilitymod/abilitymod.augment	description	"Replaces the %s^reset; ability of a generated weapon if it can naturally have this ability.
+^gray;Apply with right-click"	"생성 무기가 이 능력을 자연히 가질 수 있다면 %s^reset; 능력을 교체한다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_abilitymod/randomabilitymod.augment	subtitle	Weapon Mod	무기 모드	
+/items/augments/sb_abilitymod/randomabilitymod.augment	description	"Replaces the abilities of generated weapons.
+^gray;Apply with right-click"	"생성 무기의 능력을 교체한다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_abilitymod/randomabilitymod.augment	shortdescription	Randomize	무작위화	
+/items/augments/sb_debug.augment	subtitle	Apply with right-click	우클릭으로 적용	
+/items/augments/sb_debug.augment	shortdescription	Debug Item	디버그 아이템	
+/items/augments/sb_elementmod/elementmod.augment	subtitle	Weapon Mod	무기 모드	
+/items/augments/sb_elementmod/elementmod.augment	description	"Replaces the element of a generated weapon if it can naturally have this element.
+^gray;Apply with right-click"	"생성 무기가 이 속성을 자연히 가질 수 있다면 속성을 교체한다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_misc/blankblueprint.augment	description	"This can be used to copy another blueprint.
+^gray;Apply with right-click"	"다른 설계도를 복사하는 데 쓸 수 있다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_misc/blankblueprint.augment	shortdescription	Blank Blueprint	빈 설계도	
+/items/augments/sb_misc/blankscandata.augment	subtitle	Other	기타	
+/items/augments/sb_misc/blankscandata.augment	description	"This can be used to copy the data of another scanchip.
+^gray;Apply with right-click"	"다른 스캔칩의 데이터를 복사하는 데 쓸 수 있다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_misc/blankscandata.augment	shortdescription	Blank Scanchip	빈 스캔칩	
+/items/augments/sb_misc/copybook.augment	subtitle	Other	기타	
+/items/augments/sb_misc/copybook.augment	description	"This copybook can be used to copy a codex or similar item.
+^gray;Apply with right-click"	"이 복사 수첩으로 코덱스나 비슷한 아이템을 복사할 수 있다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_misc/copybook.augment	shortdescription	Copybook	복사 수첩	
+/items/augments/sb_misc/flashfreeze.augment	subtitle	Other	기타	
+/items/augments/sb_misc/flashfreeze.augment	description	"Completely prevents food from rotting, but renders it unusable for cooking.
+^gray;Apply with right-click"	"음식이 썩는 것을 완전히 막지만 조리에 쓸 수 없게 된다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_misc/flashfreeze.augment	shortdescription	Flash Freeze Spray	급속 냉동 스프레이	
+/items/augments/sb_misc/paint.augment	subtitle	Other	기타	
+/items/augments/sb_misc/paint.augment	description	"A jar of paint, used to change the hueshift of blocks.
+^gray;Select paint and right-click block (in chest or inventory)."	"블록의 색조를 바꾸는 데 쓰는 페인트 통.
+^gray;페인트를 선택하고 블록을 우클릭(상자 또는 인벤토리에서)."	
+/items/augments/sb_misc/paint.augment	shortdescription	Jar of '%s' Paint	'%s' 페인트 통	
+/items/augments/sb_misc/preservatives.augment	subtitle	Other	기타	
+/items/augments/sb_misc/preservatives.augment	description	"Effectively freshens food when applied, resetting the time before it rots.
+^gray;Apply with right-click"	"바르면 음식을 신선하게 해서 썩기까지의 시간을 되돌린다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_misc/preservatives.augment	shortdescription	Preservatives	방부제	
+/items/augments/sb_misc/wrappingpaper.augment	subtitle	Other	기타	
+/items/augments/sb_misc/wrappingpaper.augment	description	"An item can be placed into this parcel, complete with a ribbon which can then be dyed!
+^gray;Apply with right-click"	"리본이 달린 이 소포에 아이템을 넣을 수 있다. 리본은 염색할 수 있다!
+^gray;우클릭으로 적용"	
+/items/augments/sb_misc/wrappingpaper.augment	shortdescription	Empty Parcel	빈 소포	
+/items/augments/sb_repair/copper.augment	subtitle	Repair Item	수리 아이템	
+/items/augments/sb_repair/copper.augment	description	"Restores a small amount of durability to mining tools.
+^gray;Apply with right-click"	"채광 도구의 내구도를 소량 회복한다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_repair/copper.augment	shortdescription	Copper Whetstone	구리 숫돌	
+/items/augments/sb_repair/diamond.augment	subtitle	Repair Item	수리 아이템	
+/items/augments/sb_repair/diamond.augment	description	"Restores a moderate amount of durability to mining tools.
+^gray;Apply with right-click"	"채광 도구의 내구도를 중간량 회복한다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_repair/diamond.augment	shortdescription	Diamond Whetstone	다이아몬드 숫돌	
+/items/augments/sb_repair/rubium.augment	subtitle	Repair Item	수리 아이템	
+/items/augments/sb_repair/rubium.augment	description	"Restores a large amount of durability to mining tools.
+^gray;Apply with right-click"	"채광 도구의 내구도를 대량 회복한다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_repair/rubium.augment	shortdescription	Rubium Whetstone	루비움 숫돌	
+/items/augments/sb_repair/titanium.augment	subtitle	Repair Item	수리 아이템	
+/items/augments/sb_repair/titanium.augment	description	"Restores a moderate amount of durability to mining tools.
+^gray;Apply with right-click"	"채광 도구의 내구도를 중간량 회복한다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_repair/titanium.augment	shortdescription	Titanium Whetstone	티타늄 숫돌	
+/items/augments/sb_weaponupgrade/2.augment	subtitle	Weapon Upgrade Kit	무기 업그레이드 키트	
+/items/augments/sb_weaponupgrade/2.augment	description	"This upgrade kit can raise a weapon or shield to ^orange;level 2.^reset;
+^gray;Apply with right-click"	"이 업그레이드 키트로 무기나 방패를 ^orange;레벨 2^reset;로 올릴 수 있다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_weaponupgrade/2.augment	shortdescription	Novice Upgrade Kit	초급 업그레이드 키트	
+/items/augments/sb_weaponupgrade/3.augment	subtitle	Weapon Upgrade Kit	무기 업그레이드 키트	
+/items/augments/sb_weaponupgrade/3.augment	description	"This upgrade kit can raise a weapon or shield to ^orange;level 3.^reset;
+^gray;Apply with right-click"	"이 업그레이드 키트로 무기나 방패를 ^orange;레벨 3^reset;으로 올릴 수 있다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_weaponupgrade/3.augment	shortdescription	Advanced Upgrade Kit	고급 업그레이드 키트	
+/items/augments/sb_weaponupgrade/4.augment	subtitle	Weapon Upgrade Kit	무기 업그레이드 키트	
+/items/augments/sb_weaponupgrade/4.augment	description	"This upgrade kit can raise a weapon or shield to ^orange;level 4.^reset;
+^gray;Apply with right-click"	"이 업그레이드 키트로 무기나 방패를 ^orange;레벨 4^reset;로 올릴 수 있다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_weaponupgrade/4.augment	shortdescription	Proficient Upgrade Kit	숙련 업그레이드 키트	
+/items/augments/sb_weaponupgrade/5.augment	subtitle	Weapon Upgrade Kit	무기 업그레이드 키트	
+/items/augments/sb_weaponupgrade/5.augment	description	"This upgrade kit can raise a weapon or shield to ^orange;level 5.^reset;
+^gray;Apply with right-click"	"이 업그레이드 키트로 무기나 방패를 ^orange;레벨 5^reset;로 올릴 수 있다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_weaponupgrade/5.augment	shortdescription	Expert Upgrade Kit	전문가 업그레이드 키트	
+/items/augments/sb_weaponupgrade/6.augment	subtitle	Weapon Upgrade Kit	무기 업그레이드 키트	
+/items/augments/sb_weaponupgrade/6.augment	description	"This upgrade kit can raise a weapon or shield to ^orange;level 6.^reset;
+^gray;Apply with right-click"	"이 업그레이드 키트로 무기나 방패를 ^orange;레벨 6^reset;로 올릴 수 있다.
+^gray;우클릭으로 적용"	
+/items/augments/sb_weaponupgrade/6.augment	shortdescription	Masterful Upgrade Kit	달인 업그레이드 키트	
+/items/currency/sb_goldcoin.currency	description	A gold coin worth 5 pixels.	5픽셀 가치의 금화.	
+/items/currency/sb_goldcoin.currency	shortdescription	Gold Coin	금화	reuse
+/items/generic/dyes/sb_greybluedye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/sb_greybluedye.augment	shortdescription	Grey-Blue Dye	회청색 염료	
+/items/generic/dyes/sb_lightgreydye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/sb_lightgreydye.augment	shortdescription	Light Grey Dye	연회색 염료	
+/items/generic/dyes/sb_limegreendye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/sb_limegreendye.augment	shortdescription	Lime Green Dye	연두색 염료	
+/items/generic/dyes/sb_tealdye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/sb_tealdye.augment	shortdescription	Teal Dye	청록색 염료	
+/items/generic/produce/kelp.consumable	shortdescription	Kelp	켈프	
+/items/generic/produce/rice.consumable	shortdescription	Rice	쌀	
+/items/generic/unlock/sb_blueprint.activeitem	shortdescription	Blueprint	설계도	
+/items/materials/rainbowwood.matitem	shortdescription	Rainbow Wood	무지개 나무	reuse
+/items/materials/sb_brains.matitem	description	Pulsating brain matter... I wonder what it's thinking.	고동치는 뇌 조직... 무슨 생각을 하고 있는지 궁금하다.	reuse
+/items/materials/sb_brains.matitem	shortdescription	Heck Brains	헥 브레인	reuse
+/items/materials/sb_chain.matitem	description	Steel chains, and not the fun kind.	강철 사슬, 재미있는 종류는 아니다.	reuse
+/items/materials/sb_chain.matitem	shortdescription	Steel Chain	강철 사슬	reuse
+/items/materials/sb_hive.matitem	description	A solid material made from the remains of fallen creatures... I think I see an eyeball.	쓰러진 생물의 잔해로 만든 단단한 소재... 눈알이 보이는 것 같다.	reuse
+/items/materials/sb_hive.matitem	shortdescription	Hivestone	하이브스톤	
+/items/materials/sb_lightblocker.matitem	description	I can see my reflection... it's hideous!	내 모습이 보여요... 끔찍해요!	reuse
+/items/materials/sb_lightblocker.matitem	shortdescription	Lightblocker	라이트블로커	
+/items/materials/sb_smoothconcrete.matitem	description	Solid, weathered concrete.	단단하고, 풍화된 콘크리트.	reuse
+/items/materials/sb_smoothconcrete.matitem	shortdescription	Weathered Concrete	낡은 콘크리트	reuse
+/items/materials/sb_throwingblockmaterial.matitem	shortdescription	Placeable Throwing Block	놓을 수 있는 투척 블록	reuse
+/items/materials/sb_throwingblockmaterial.matitem	description	"This throwing block can be placed instead of thrown.
+^red;Reverts to throwing form when broken.^reset;"	"이 투척용 블록은 던지는 대신 설치할 수 있다.
+^red;부서지면 투척용 형태로 되돌아간다.^reset;"	reuse
+/items/materials/slopedpolygon.matitem	description	"A curious material made of ""Hard Light""."	'하드라이트'로 만든 신기한 소재입니다.	reuse
+/items/materials/slopedpolygon.matitem	shortdescription	Polygon Panel	폴리곤 패널	reuse
+/items/throwables/sb_corrosivegrenade.thrownitem	shortdescription	Corrosive Grenade	부식 수류탄	reuse
+/items/throwables/sb_corrosivegrenade.thrownitem	description	A grenade which explodes into corrosive plasma.	부식성 플라스마로 폭발하는 수류탄.	
+/items/throwables/sb_cutterleaf.thrownitem	shortdescription	Cutter Leaf	커터 잎	
+/items/throwables/sb_cutterleaf.thrownitem	description	A sharp-edged leaf that can be thrown for low damage.	낮은 피해를 주는 날카로운 잎으로 던질 수 있다.	
+/items/throwables/sb_electrogrenade.thrownitem	shortdescription	Electro Grenade	전기 수류탄	
+/items/throwables/sb_electrogrenade.thrownitem	description	A grenade which discharges electricity on impact. Shocking!	충돌 시 전기를 방출하는 수류탄. 짜릿하다!	
+/items/throwables/sb_gasgrenade.thrownitem	shortdescription	Gas Grenade	가스 수류탄	
+/items/throwables/sb_gasgrenade.thrownitem	description	A gas grenade. It doesn't smell nice!	가스 수류탄. 냄새가 고약하다!	
+/items/throwables/sb_groundfirebomb.thrownitem	shortdescription	Spreading Fire Bomb	확산 화염탄	
+/items/throwables/sb_groundfirebomb.thrownitem	description	A real earth-scorcher!	진짜 대지를 불태우는 물건!	
+/items/throwables/sb_handgrenade.thrownitem	shortdescription	Hand Grenade	수류탄	reuse
+/items/throwables/sb_handgrenade.thrownitem	description	This militaristic hand grenade has a 3 second fuse. It's been historically used by the USCM.	3초 신관을 가진 이 군용 수류탄은 역사적으로 USCM이 사용해왔다.	
+/items/throwables/sb_healthbomb.thrownitem	shortdescription	Burst of Energy	에너지 폭발	
+/items/throwables/sb_healthbomb.thrownitem	description	Disperses healing energy when thrown.	던지면 치유 에너지를 퍼뜨린다.	
+/items/throwables/sb_jumpbomb.thrownitem	shortdescription	The Bouncer	바운서	
+/items/throwables/sb_jumpbomb.thrownitem	description	A bomb to put a spring in your step.	발걸음에 탄력을 더해줄 폭탄.	
+/items/throwables/sb_levitationpowder.thrownitem	shortdescription	Feather Powder	깃털 가루	
+/items/throwables/sb_levitationpowder.thrownitem	description	Lighter than the atmosphere itself, this powder will make you and others nearby briefly float above the ground.	대기보다 가벼운 이 가루는 너와 주변의 모두를 잠시 땅 위에 띄운다.	
+/items/throwables/sb_phoenixemblem.thrownitem	shortdescription	Phoenix Emblem	불사조 문장	
+/items/throwables/sb_phoenixemblem.thrownitem	description	A fiery phoenix emblem, an ancient Avian tool of combat.	불타는 불사조 문장, 고대 에이비언의 전투 도구.	
+/items/throwables/sb_plasmagrenade.thrownitem	shortdescription	Plasma Grenade	플라즈마 수류탄	reuse
+/items/throwables/sb_plasmagrenade.thrownitem	description	A grenade made from explosive plasma. Duck and cover!	폭발성 플라스마로 만든 수류탄. 엎드려!	
+/items/throwables/sb_poisonballoon.thrownitem	shortdescription	Poison Balloon	독 풍선	
+/items/throwables/sb_poisonballoon.thrownitem	description	A favourite of children and pranksters everywhere- the special kind that go way too far.	어디서나 아이들과 장난꾸러기가 좋아하는 물건 — 선을 한참 넘는 특별한 부류.	
+/items/throwables/sb_protectionbomb.thrownitem	shortdescription	The Defender	디펜더	
+/items/throwables/sb_protectionbomb.thrownitem	description	A bomb for when you have to be sturdy.	단단해져야 할 때 쓰는 폭탄.	
+/items/throwables/sb_ragebomb.thrownitem	shortdescription	The Rager	레이저	
+/items/throwables/sb_ragebomb.thrownitem	description	A bomb for when you feel the need to break things.	뭔가 부수고 싶을 때 쓰는 폭탄.	
+/items/throwables/sb_runbomb.thrownitem	shortdescription	The Sprinter	스프린터	
+/items/throwables/sb_runbomb.thrownitem	description	A bomb for when you feel the need for explosive speed.	폭발적인 속도가 필요할 때 쓰는 폭탄.	
+/items/throwables/sb_shuriken.thrownitem	shortdescription	Plasma Shuriken	플라스마 수리검	
+/items/throwables/sb_shuriken.thrownitem	description	A shuriken made of pure energy, ideal for cutting right through foes.	순수 에너지로 만든 수리검으로, 적을 꿰뚫기에 이상적이다.	
+/items/throwables/sb_smokegrenade.thrownitem	shortdescription	Heated Smoke Grenade	고온 연막탄	
+/items/throwables/sb_smokegrenade.thrownitem	description	This grenade won't explode, but it will release a steady stream of super-heated smoke.	폭발하진 않지만 초고온 연기를 꾸준히 내뿜는 수류탄.	
+/items/throwables/sb_throwingneedle.thrownitem	shortdescription	Throwing Needle	투척 바늘	
+/items/throwables/sb_throwingneedle.thrownitem	description	Great against evil haystacks.	사악한 마른건초 더미에 특효다.	
+/items/throwables/sb_throwingreed.thrownitem	shortdescription	Sharpened Reed	날카로운 갈대	
+/items/throwables/sb_throwingreed.thrownitem	description	A large sharpened reed, suitable for hunting. Lightweight, yet effective.	사냥에 알맞은 크고 날카로운 갈대. 가벼우면서도 효과적이다.	
+/items/throwables/sb_toxicbarrel.thrownitem	shortdescription	Toxic Barrel	유독 통	
+/items/throwables/sb_toxicbarrel.thrownitem	description	An unmarked barrel brimming with faintly glowing toxic waste. It might violate some safety standards.	희미하게 빛나는 유독 폐기물이 가득한 표식 없는 통. 몇몇 안전 기준을 위반했을지도 모른다.	
+/objects/crafting/sb_codex/codex.object	description	A lectern. For organising books and documents!	독서대입니다. 책과 문서를 정리하는 용도입니다!	reuse
+/objects/crafting/sb_codex/codex.object	shortdescription	^orange;Lectern^reset;	^orange;독서대^reset;	reuse
+/objects/crafting/sb_codex/codex.object	subtitle	Storage	보관함	
+/objects/crafting/sb_metalworkstation/metalworkstation.object	description	Used to produce various weapon mods, for changing the elements and special abilities of weapons.	무기의 속성과 특수 능력을 바꾸는 다양한 무기 개조 부품을 만드는 데 쓰인다.	reuse
+/objects/crafting/sb_metalworkstation/metalworkstation.object	shortdescription	^orange;Weapon Modding Station^reset;	^orange;무기 개조대^reset;	reuse
+/objects/crafting/sb_old/sb_capturestation/capturestation.object	description	Power up your monsters here!	여기서 당신의 몬스터를 강화하세요!	reuse
+/objects/crafting/sb_old/sb_capturestation/capturestation.object	shortdescription	^orange;Monster Lab^reset;	^orange;몬스터 실험실^reset;	reuse
+/objects/crafting/sb_old/sb_skyrail/skyrailrailtable.object	title	SKYRAIL RAIL TABLE	스카이레일 레일 테이블	reuse
+/objects/crafting/sb_old/sb_skyrail/skyrailrailtable.object	subtitle	Build your very own Skyrail and Rail networks to travel in style!	나만의 스카이레일과 레일망을 구축해 멋지게 이동하세요!	reuse
+/objects/crafting/sb_old/sb_skyrail/skyrailrailtable.object	description	More commonly known as a Skyrail Rail Crafting Table Table.	스카이레일 레일 제작대 테이블이라는 이름으로 더 흔히 알려져 있다.	reuse
+/objects/crafting/sb_old/sb_skyrail/skyrailrailtable.object	shortdescription	^orange;Skyrail Rail Crafting Table^reset;	^orange;스카이레일 레일 제작대^reset;	reuse
+/objects/crafting/sb_old/sb_skyrail/skyrailtable.object	title	Skyrail Table	스카이레일 테이블	reuse
+/objects/crafting/sb_old/sb_skyrail/skyrailtable.object	subtitle	Build your very own Skyrail network to travel in style!	나만의 스카이레일망을 구축해 멋지게 이동하세요!	reuse
+/objects/crafting/sb_old/sb_skyrail/skyrailtable.object	description	Create your very own skyrail tracks with this table!	이 작업대로 나만의 스카이레일 선로를 만들어 보세요!	reuse
+/objects/crafting/sb_old/sb_skyrail/skyrailtable.object	shortdescription	^orange;Skyrail Crafting Table^reset;	^orange;스카이레일 제작대^reset;	reuse
+/objects/crafting/sb_portable3dprinter/portable3dprinter.object	shortdescription	^orange;Portable Pixel Printer^reset;	^orange;휴대 픽셀 프린터^reset;	reuse
+/objects/crafting/sb_portable3dprinter/portable3dprinter.object	description	Used to craft small hi-tech items on-the-fly.	작은 첨단 아이템을 즉석에서 만드는 데 쓰인다.	reuse
+/objects/crafting/sb_researchstation/researchstation.object	description	With some pixels and blank blueprints, I can develop hard-to-find blueprints here!	픽셀과 빈 도면이 있으면, 여기서 구하기 어려운 도면을 개발할 수 있어!	reuse
+/objects/crafting/sb_researchstation/researchstation.object	shortdescription	^orange;Research Station^reset;	^orange;연구 스테이션^reset;	reuse
+/objects/crafting/sb_techconsole/techconsole.object	description	Use this to create new techs to equip on adventures!	모험에 장착할 새 기술을 만드는 데 사용하세요!	reuse
+/objects/crafting/sb_techconsole/techconsole.object	shortdescription	^orange;Tech Development Console^reset;	^orange;기술 개발 콘솔^reset;	reuse
+/objects/crafting/sb_variants/acceleratortable/acceleratortable.object	title	 Accelerator's Table	 가속장치의 작업대	
+/objects/crafting/sb_variants/acceleratortable/acceleratortable.object	subtitle	 Armour and weapons	 무기와 방어구들	
+/objects/crafting/sb_variants/acceleratortable/acceleratortable.object	description	A proof-of-concept modified ^orange;replicator^reset; for what became the ^orange;accelerator addon^reset;.	훗날 ^orange;가속기 애드온^reset;이 된 시제품, 개조된 ^orange;복제기^reset;.	reuse
+/objects/crafting/sb_variants/acceleratortable/acceleratortable.object	shortdescription	^orange;Accelerator's Table^reset;	^orange;가속기 작업대^reset;	reuse
+/objects/crafting/sb_variants/ironanvil/ironanvil.object	description	An anvil, used for forging armour and weapons.	방어구와 무기를 벼리는 데 쓰는 모루입니다.	reuse
+/objects/crafting/sb_variants/ironanvil/ironanvil.object	shortdescription	^orange;Iron Anvil^reset;	^orange;철 모루^reset;	reuse
+/objects/crafting/sb_variants/ironanvil/ironanvil.object	title	 Iron Anvil	철 모루	reuse
+/objects/crafting/sb_variants/ironanvil/ironanvil.object	subtitle	 Turn metals into strong weapons and armor!	금속을 강력한 무기와 갑옷으로!	reuse
+/objects/crafting/sb_variants/manipulatortable/manipulatortable.object	title	 Manipulator's Table	 조작장치의 작업대	
+/objects/crafting/sb_variants/manipulatortable/manipulatortable.object	subtitle	 Armour and weapons	 무기와 방어구들	
+/objects/crafting/sb_variants/manipulatortable/manipulatortable.object	description	A proof-of-concept modified ^orange;replicator^reset; for what became the ^orange;manipulator addon^reset;.	훗날 ^orange;조작기 애드온^reset;이 된 시제품, 개조된 ^orange;복제기^reset;.	reuse
+/objects/crafting/sb_variants/manipulatortable/manipulatortable.object	shortdescription	^orange;Manipulator's Table^reset;	^orange;조작기의 탁자^reset;	reuse
+/objects/crafting/sb_variants/scifianvil/scifianvil.object	title	 Replicator	 리플리케이터	
+/objects/crafting/sb_variants/scifianvil/scifianvil.object	subtitle	 Armour and weapons	 무기와 방어구들	
+/objects/crafting/sb_variants/scifianvil/scifianvil.object	description	A early model of the ^orange;replicator^reset; from before ^orange;replicator addons^reset; were created.	^orange;복제기 애드온^reset;이 만들어지기 전의 초기형 ^orange;복제기^reset;입니다.	reuse
+/objects/crafting/sb_variants/scifianvil/scifianvil.object	shortdescription	^orange;Replicator^reset;	^orange;리플리케이터^reset;	
+/objects/crafting/sb_variants/scififurnace/scififurnace.object	title	 Atomic Furnace	원자력 용광로	reuse
+/objects/crafting/sb_variants/scififurnace/scififurnace.object	subtitle	 ^#b9b5b2;Bars and ingredients	^#b9b5b2;주괴와 재료들	reuse
+/objects/crafting/sb_variants/scififurnace/scififurnace.object	description	A prototype of the ^orange;atomic furnace^reset;, originally called the ^orange;magnetic crucible^reset;.	원래 ^orange;자기 도가니^reset;라 불렸던, ^orange;원자로 용광로^reset;의 시제품.	reuse
+/objects/crafting/sb_variants/scififurnace/scififurnace.object	shortdescription	^orange;Atomic Furnace^reset;	^orange;원자 용광로^reset;	reuse
+/objects/crafting/sb_variants/scififurnace2/scififurnace.object	title	 Atomic Furnace	원자력 용광로	reuse
+/objects/crafting/sb_variants/scififurnace2/scififurnace.object	subtitle	 ^#b9b5b2;Bars and ingredients	^#b9b5b2;주괴와 재료들	reuse
+/objects/crafting/sb_variants/scififurnace2/scififurnace.object	description	A prototype of the ^orange;atomic furnace^reset;, originally called the ^orange;nucleonic blast furnace^reset;.	원래 ^orange;핵자 용광로^reset;라 불렸던, ^orange;원자로 용광로^reset;의 시제품.	reuse
+/objects/crafting/sb_variants/scififurnace2/scififurnace.object	shortdescription	^orange;Atomic Furnace^reset;	^orange;원자 용광로^reset;	reuse
+/objects/crafting/sb_variants/separatortable/separatortable.object	title	 Separator's Table	 분리장치의 작업대	
+/objects/crafting/sb_variants/separatortable/separatortable.object	subtitle	 Armour and weapons	 무기와 방어구들	
+/objects/crafting/sb_variants/separatortable/separatortable.object	description	A proof-of-concept modified ^orange;replicator^reset; for what became the ^orange;separator addon^reset;.	훗날 ^orange;분리기 애드온^reset;이 된 시제품, 개조된 ^orange;복제기^reset;.	reuse
+/objects/crafting/sb_variants/separatortable/separatortable.object	shortdescription	^orange;Separator's Table^reset;	^orange;분리기의 탁자^reset;	reuse
+/objects/crafting/sb_variants/stonefurnace/stonefurnace.object	title	Stout Furnace	튼튼한 화로	reuse
+/objects/crafting/sb_variants/stonefurnace/stonefurnace.object	subtitle	^#b9b5b2;Old-fashioned Smelting	^#b9b5b2;구식 용해	reuse
+/objects/crafting/sb_variants/stonefurnace/stonefurnace.object	description	Used to turn ores and other materials into crafting ingredients.	광물과 다른 자원들을 제작 재료로 바꿀 수 있습니다.	reuse
+/objects/crafting/sb_variants/stonefurnace/stonefurnace.object	shortdescription	^orange;Stone Furnace^reset;	^orange;돌 용광로^reset;	reuse
+/objects/crafting/sb_woodencookingtable/woodencookingtable.object	title	 Wooden Cooking Table	 나무 조리대	
+/objects/crafting/sb_woodencookingtable/woodencookingtable.object	description	Used to prepare and combine raw ingredients, though it only offers limited recipe options.	날재료를 다루고 조합하는 데 쓰이지만, 레시피 선택 폭이 좁다.	reuse
+/objects/crafting/sb_woodencookingtable/woodencookingtable.object	shortdescription	^orange;Wooden Cooking Table^reset;	^orange;나무 요리대^reset;	reuse
+/objects/crafting/sb_wrappingtable/wrappingtable.object	description	This table can be used to wrap multiple items with empty parcels!	이 테이블은 빈 소포로 여러 아이템을 포장하는 데 쓸 수 있다!	reuse
+/objects/crafting/sb_wrappingtable/wrappingtable.object	shortdescription	^orange;Wrapping Table^reset;	^orange;포장 테이블^reset;	reuse
+/objects/crafting/sb_wrappingtable/wrappingtable.object	subtitle	Other	기타	
+/objects/crafting/tier2cookingtable/sb_cookingstation.object	description	The best place to cook. It allows you to filter food effects.	요리하기 가장 좋은 곳. 음식 효과를 걸러낼 수 있게 해준다.	reuse
+/objects/crafting/tier2cookingtable/sb_cookingstation.object	shortdescription	^orange;Cooking Station^reset;	^orange;요리대^reset;	reuse
+/objects/crafting/upgradeablecraftingobjects/sb_craftingtool/craftingtool.object	description	This table has arms! The extra precision allows me to craft some seriously advanced stuff!	이 탁자에는 팔이 달렸어! 정밀도가 높아서 엄청나게 진보된 물건도 만들 수 있겠어!	reuse
+/objects/crafting/upgradeablecraftingobjects/sb_craftingtool/craftingtool.object	shortdescription	^orange;Robotic Tool Table^reset;	^orange;로봇 도구 탁자^reset;	reuse
+/objects/crafting/upgradeablecraftingobjects/sb_craftingtool/craftingtool.object	title	Robotic Tool Table	로봇 공구대	
+/objects/crafting/upgradeablecraftingobjects/sb_craftingtool/craftingtool.object	subtitle	High-tech crafting!	첨단 제작!	reuse
+/objects/farmables/sb_poisoncreep/poisoncreepseed.object	description	The berries are poisonous to anyone but those of aquatic disposition.	수생 체질이 아닌 자에게는 독이 되는 열매.	reuse
+/objects/farmables/sb_poisoncreep/poisoncreepseed.object	shortdescription	Poisoncreep Seed	독크리프 씨앗	reuse
+/objects/farmables/sb_poisoncreep/wildpoisoncreepseed.object	description	The berries are poisonous to anyone but those of aquatic disposition.	수생 체질이 아닌 자에게는 독이 되는 열매.	reuse
+/objects/farmables/sb_poisoncreep/wildpoisoncreepseed.object	shortdescription	Poisoncreep Seed	독크리프 씨앗	reuse
+/objects/farmables/sb_swordstone/swordstone.object	description	A stone that grows swords. Sometimes it might grow a LEGENDARY one!	검이 자라나는 돌. 때로는 전설급이 자라날지도 모른다!	reuse
+/objects/farmables/sb_swordstone/swordstone.object	shortdescription	Sword Stone	소드 스톤	reuse
+/sb_definitions/buster.config	subtitle	Blaster	블래스터	
+/sb_definitions/revolver.config	subtitle	Revolver	리볼버	
+/sb_uimessages/blueprints/blueprintFail.currency	itemName	sb_uimessage:blueprintFail	sb_uimessage:blueprintFail	
+/sb_uimessages/blueprints/blueprintFail.currency	shortdescription	   Could not learn blueprint; please try again.^clear;	   설계도를 배우지 못했다. 다시 시도하세요.^clear;	
+/sb_uimessages/blueprints/blueprintKnown.currency	itemName	sb_uimessage:blueprintKnown	sb_uimessage:blueprintKnown	
+/sb_uimessages/blueprints/blueprintKnown.currency	shortdescription	   Blueprint already known.^clear;	   이미 알고 있는 설계도입니다.^clear;	
+/sb_uimessages/blueprints/blueprintsKnown.currency	itemName	sb_uimessage:blueprintsKnown	sb_uimessage:blueprintsKnown	
+/sb_uimessages/blueprints/blueprintsKnown.currency	shortdescription	   Blueprints already known.^clear;	   이미 알고 있는 설계도들입니다.^clear;	
+/sb_uimessages/blueprints/scandataKnown.currency	itemName	sb_uimessage:scandataKnown	sb_uimessage:scandataKnown	
+/sb_uimessages/blueprints/scandataKnown.currency	shortdescription	   Scan data already known.^clear;	   이미 알고 있는 스캔 데이터입니다.^clear;	
+/sb_uimessages/blueprints/scandataLearned.currency	itemName	sb_uimessage:scandataLearned	sb_uimessage:scandataLearned	
+/sb_uimessages/blueprints/scandataLearned.currency	shortdescription	   Scan data added.^clear;	   스캔 데이터가 추가되었습니다.^clear;	
+/sb_uimessages/hunger/d10.currency	shortdescription	   ^#d5ab36;Can barely stand...^clear;	   ^#d5ab36;겨우 서 있다...^clear;	
+/sb_uimessages/hunger/d100.currency	shortdescription	   ^#d5ab36;Still full.^clear;	   ^#d5ab36;아직 배부르다.^clear;	
+/sb_uimessages/hunger/d15.currency	shortdescription	   ^#d5ab36;Can't take it much longer...^clear;	   ^#d5ab36;더는 못 버티겠다...^clear;	
+/sb_uimessages/hunger/d2.currency	shortdescription	   ^#d5ab36;Goodbye cruel world...^clear;	   ^#d5ab36;잘 가라, 잔혹한 세상아...^clear;	
+/sb_uimessages/hunger/d25.currency	shortdescription	   ^#d5ab36;Sooooo hungry...^clear;	   ^#d5ab36;너어어무 배고파...^clear;	
+/sb_uimessages/hunger/d50.currency	shortdescription	   ^#d5ab36;Getting pretty hungry...^clear;	   ^#d5ab36;꽤 배고파지고 있다...^clear;	
+/sb_uimessages/hunger/d75.currency	shortdescription	   ^#d5ab36;Getting peckish.^clear;	   ^#d5ab36;슬슬 출출하다.^clear;	
+/sb_uimessages/hunger/u10.currency	shortdescription	   ^#d5ab36;More, more!^clear;	   ^#d5ab36;더, 더!^clear;	
+/sb_uimessages/hunger/u15.currency	shortdescription	   ^#d5ab36;Must find more food...^clear;	   ^#d5ab36;더 먹을 걸 찾아야 해...^clear;	
+/sb_uimessages/hunger/u2.currency	shortdescription	   ^#d5ab36;Is this a joke?^clear;	   ^#d5ab36;장난해?^clear;	
+/sb_uimessages/hunger/u25.currency	shortdescription	   ^#d5ab36;Need more...^clear;	   ^#d5ab36;더 필요해...^clear;	
+/sb_uimessages/hunger/u5.currency	shortdescription	   ^#d5ab36;I'll die if I don't get some more...^clear;	   ^#d5ab36;더 안 먹으면 죽을 것 같아...^clear;	
+/sb_uimessages/hunger/u50.currency	shortdescription	   ^#d5ab36;Still hungry.^clear;	   ^#d5ab36;아직 배고프다.^clear;	
+/sb_uimessages/hunger/u75.currency	shortdescription	   ^#d5ab36;That's better.^clear;	   ^#d5ab36;이제야 좀 낫다.^clear;	
+/sb_uimessages/tech/newTech.currency	itemName	sb_uimessage:newTech	sb_uimessage:newTech	
+/sb_uimessages/tech/newTech.currency	shortdescription	   New tech available.^clear;	   새로운 기술을 사용할 수 있습니다.^clear;	
+/sb_uimessages/tech/techAlreadyEquipped.currency	itemName	sb_uimessage:techAlreadyEquipped	sb_uimessage:techAlreadyEquipped	
+/sb_uimessages/tech/techAlreadyEquipped.currency	shortdescription	   Tech already equipped.^clear;	   이미 장착된 기술입니다.^clear;	
+/sb_uimessages/tech/techKnown.currency	itemName	sb_uimessage:techKnown	sb_uimessage:techKnown	
+/sb_uimessages/tech/techKnown.currency	shortdescription	   Tech already known.^clear;	   이미 알고 있는 기술입니다.^clear;	
+/sb_uimessages/tech/techNotKnown.currency	itemName	sb_uimessage:techNotKnown	sb_uimessage:techNotKnown	
+/sb_uimessages/tech/techNotKnown.currency	shortdescription	   Tech not known.^clear;	   알지 못하는 기술입니다.^clear;	
+/sb_uimessages/unsorted/areaProtected.currency	itemName	sb_uimessage:areaProtected	sb_uimessage:areaProtected	
+/sb_uimessages/unsorted/areaProtected.currency	shortdescription	   Can't build here.^clear;	   여기에는 건설할 수 없습니다.^clear;	
+/sb_uimessages/unsorted/invalidModSetup.currency	itemName	sb_uimessage:invalidModSetup	sb_uimessage:invalidModSetup	
+/sb_uimessages/unsorted/invalidModSetup.currency	shortdescription	   Denied; would cause issues with current game-mods.^clear;	   거부됨. 현재 게임 모드와 충돌합니다.^clear;	
+/sb_uimessages/unsorted/noEffect.currency	itemName	sb_uimessage:noEffect	sb_uimessage:noEffect	
+/sb_uimessages/unsorted/noEffect.currency	shortdescription	   There's no effect.^clear;	   효과가 없습니다.^clear;	
+/sb_uimessages/unsorted/noSpaceForObject.currency	itemName	sb_uimessage:noSpaceForObject	sb_uimessage:noSpaceForObject	
+/sb_uimessages/unsorted/noSpaceForObject.currency	shortdescription	   Not enough free space.^clear;	   여유 공간이 부족합니다.^clear;	
+/sb_uimessages/unsorted/upgradeApplied.currency	itemName	sb_uimessage:upgradeApplied	sb_uimessage:upgradeApplied	
+/sb_uimessages/unsorted/upgradeApplied.currency	shortdescription	   Upgrade already applied.^clear;	   이미 적용된 업그레이드입니다.^clear;	
+/stats/effects/heal/sb_gauzeheal.statuseffect	label	Healing	치유	reuse
+/stats/effects/regeneration/sb_regeneration5.statuseffect	label	Regeneration	재생	
+/stats/sb_effects/damaging/bleed.statuseffect	label	Bleeding	출혈	reuse
+/stats/sb_effects/foodheal/foodheal10.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal120.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal135.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal145.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal170.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal190.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal215.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal240.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal25.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal265.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal315.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal35.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal360.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal50.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal70.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal720.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/foodheal95.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/foodheal/repairbotheal.statuseffect	label	Healing	치유	reuse
+/stats/sb_effects/movement/foodslow.statuseffect	label	Slow	느려짐	reuse
+/stats/sb_effects/movement/glide.statuseffect	label	Parachute	낙하산	
+/stats/sb_effects/movement/jellyslow.statuseffect	label	Slow	느려짐	reuse
+/tech/starbound/absorption/absorption.statuseffect	label	Absorption	흡수	
+/tech/starbound/extradrops/extradrops-player.statuseffect	label	Scavenger	스캐빈저	
+/tech/starbound/magnet/magnet.statuseffect	label	Magnetic	자기력	
+/tech/starbound/movement/glide.statuseffect	label	Glide	활강	
+/tech/starbound/movement/gravity.statuseffect	label	Gravity-	중력-	
+/tech/starbound/movement/jump.statuseffect	label	Jump+	점프+	
+/tech/starbound/movement/mobility.statuseffect	label	Mobility+	기동성+	
+/tech/starbound/movement/speed.statuseffect	label	Speed+	속도+	
+/tech/starbound/regen/regeneration.statuseffect	label	Regeneration	재생	
+/tech/starbound/shield/shield.statuseffect	label	Shield	실드	
+/tech/starbound/spiked/spiked.statuseffect	label	Spikes	스파이크	
+/tech/starbound/tank/tank.statuseffect	label	Tanky	단단함	
+/tech/starbound/unscripted/berserk.statuseffect	label	Berserker	광전사	
+/tech/starbound/unscripted/energy.statuseffect	label	Energy+	에너지+	
+/tech/starbound/unscripted/glow.statuseffect	label	Glowing	발광	
+/tech/starbound/unscripted/grit.statuseffect	label	Gritty	질김	
+/tech/starbound/unscripted/health.statuseffect	label	Health+	체력+	
+/tech/starbound/unscripted/protection.statuseffect	label	Protection+	보호+	
+/tech/starbound/vamp/vamp.statuseffect	label	Vampiric	흡혈	
+/treasure/sb_randomdrops/eyefoliageHarvest.item	itemName	sb_eyefoliageHarvest	sb_eyefoliageHarvest	
+/treasure/sb_randomdrops/fruitTreeHarvest.item	itemName	sb_fruitTreeHarvest	sb_fruitTreeHarvest	
+/treasure/sb_randomdrops/tentacletreeHarvest.item	itemName	sb_tentacletreeHarvest	sb_tentacletreeHarvest	
+/treasure/sb_randomdrops/treeHarvest.item	itemName	sb_treeHarvest	sb_treeHarvest	
+/versioning/sb_filledcapturepod.thrownitem	shortdescription	Filled Capture Pod	채워진 캡처 포드	reuse
+/versioning/sb_filledcapturepod.thrownitem	description	Throw it down to release the creature captured inside!	던지면 안에 포획된 생물을 풀어줍니다!	reuse
+/versioning/sb_filledcrittercapturepod.thrownitem	shortdescription	Filled Capture Pod	채워진 캡처 포드	reuse
+/versioning/sb_filledcrittercapturepod.thrownitem	description	Throw it down to release the creature captured inside!	던지면 안에 포획된 생물을 풀어줍니다!	reuse

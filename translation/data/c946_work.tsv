@@ -1,0 +1,25 @@
+asset	field	en	ko	src
+/Objects/AmountEmitter/digitalstorage_amountemitter.object	description	Sends signal when item amount is below/above certain amount.	아이템 수량이 특정 수치 이하/이상일 때 신호를 보낸다.	reuse
+/Objects/AmountEmitter/digitalstorage_amountemitter.object	shortdescription	Amount Emitter	수량 방출기	reuse
+/Objects/Controller/digitalstorage_controller.object	description	Large box of processors that do matter-data conversions.	물질-데이터 변환을 수행하는 프로세서가 가득한 큰 상자.	reuse
+/Objects/Controller/digitalstorage_controller.object	shortdescription	Digital Controller	디지털 컨트롤러	reuse
+/Objects/DigitalStacker/digitalstorage_digitalstacker.object	description	Device that averges spoil time for food items in network.	네트워크 내 식품 아이템의 부패 시간을 평균 내는 장치.	reuse
+/Objects/DigitalStacker/digitalstorage_digitalstacker.object	shortdescription	Digital Stacker	디지털 스태커	reuse
+/Objects/DriveUpgrader/digitalstorage_driveupgrader.object	description	Machine that is able to install upgrades in Holographic Drives.	홀로그래픽 드라이브에 업그레이드를 설치할 수 있는 기계.	reuse
+/Objects/DriveUpgrader/digitalstorage_driveupgrader.object	shortdescription	Drive Upgrader	드라이브 업그레이더	reuse
+/Objects/FilterFormatter/digitalstorage_filterformatter.config	caption	Clear		
+/Objects/FilterFormatter/digitalstorage_filterformatter.object	description	Machine that allows you to store filters on special cards.	특수 카드에 필터를 저장할 수 있는 기계.	reuse
+/Objects/FilterFormatter/digitalstorage_filterformatter.object	shortdescription	Filter Formatter	필터 포매터	reuse
+/Objects/Rack/digitalstorage_rack.object	description	This object is deprecated, please use new Server Rack	이 오브젝트는 폐기되었으니 새 서버 랙을 사용하라.	reuse
+/Objects/Router/digitalstorage_router.object	description	Small box with antennas that passes the signal further away.	안테나가 달린 작은 상자로 신호를 더 멀리 전달한다.	reuse
+/Objects/Router/digitalstorage_router.object	shortdescription	Router		
+/Objects/ServerRack/digitalstorage_serverrack.object	description	Large box with places to put Holographic Drives in.	홀로그래픽 드라이브를 넣을 자리가 있는 큰 상자.	reuse
+/Objects/ServerRack/digitalstorage_serverrack.object	shortdescription	Server Rack	서버 랙	reuse
+/Objects/Terminal/digitalstorage_terminal.config	caption	Back		
+/Objects/Terminal/digitalstorage_terminal.object	description	Terminal that lets you pull items from network.	네트워크에서 아이템을 가져올 수 있게 해주는 단말기.	reuse
+/Objects/Terminal/digitalstorage_terminal.object	shortdescription	Terminal		
+/Objects/TransferNode/digitalstorage_transfernode.config	caption	Back		
+/Objects/TransferNode/digitalstorage_transfernode.object	description	Transfer Node pulls items from chest directly under it into the system.	전송 노드는 바로 아래에 있는 상자의 아이템을 시스템으로 끌어들인다.	reuse
+/Objects/TransferNode/digitalstorage_transfernode.object	shortdescription	Transfer Node	전송 노드	reuse
+/Objects/VaccumNode/digitalstorage_vaccumnode.object	description	This device pulls any item nearby into its inventory.	이 장치는 근처의 모든 아이템을 자신의 인벤토리로 끌어당긴다.	reuse
+/Objects/VaccumNode/digitalstorage_vaccumnode.object	shortdescription	Vaccum Node	진공 노드	reuse

@@ -1,0 +1,1397 @@
+EN: -1 HP/s while submerged
+KO: 침수 시 -1 HP/s
+
+EN: The Knight: Melee Tank. Does better with Two-Handed Melee Weapons, but still does great with Sword and Shield. The Knight's skills mostly improve defensive capabilities, though all have offensive measures as well. The Kn
+KO: 나이트: 근접 탱커. 양손 근접 무기를 더 잘 다루지만, 검과 방패로도 훌륭하게 싸웁니다. 나이트의 스킬은 주로 방어 능력을 향상시키지만, 모두 공격적인 수단도 갖추고 있습니다. 나이트는 퍼펙트 실드로 체력을 회복할 수 있으며, 넉백 저항이 더 높습니다.
+
+EN: The Rogue: Mixed-Range CC. Does better with One-Handed Weapons. The Rogue's skills mostly improve offensive capabilities, though also increase Physical, Poison, and Knockback Resistance. The Rogue can randomly Poison ene
+KO: 로그: 혼합 거리 CC(군중 제어). 한손 무기를 더 잘 다룹니다. 로그의 스킬은 주로 공격 능력을 향상시키지만, 물리, 독, 넉백 저항도 높여줍니다. 로그는 무작위로 적을 중독시킬 수 있으며, 식량이 가득 찼을 때 독에 더 강한 저항력을 가집니다.
+
+EN: +20% Knockback Resistance.
+KO: 넉백 저항 +20%.
+
+EN: Press [Special 2] (Bind [Special 2] in your Controls) to toggle an ability that increases Physical and Poison Resistance and grants Knockback Immunity. Drains energy while active, and is toggled off when no energy remain
+KO: [Special 2]를 누르세요 (설정에서 [Special 2]를 바인딩하세요) 물리 및 독 저항을 증가시키고 넉백 면역을 부여하는 능력을 켜고 끕니다. 활성화 중에는 에너지가 소모되며, 에너지가 남지 않으면 꺼집니다.
+
+EN: Press [Shift] + [Special 1] to eat an MRE, relieving some hunger and regenerating all Energy: this has a 90 second cooldown. While in cooldown, Health regens slowly but Movement Speed is decreased. / If you have a Grenad
+KO: [Shift] + [Special 1]을 눌러 MRE를 먹으면 허기가 약간 해소되고 에너지가 모두 재생됩니다: 이 능력은 90초의 재사용 대기시간을 가집니다. 재사용 대기 중에는 체력이 서서히 재생되지만 이동 속도가 감소합니다. / 수류탄을 장착한 상태라면, [Special 1]을 눌러 에너지 20을 소모해 커서 방향으로 더 약한 생성된 복제품을 던질 수 있습니다: 이 능력은 2초의 재사용 
+
+EN: # ^#E2C344;Firing & Recoil^reset; / Project 45 guns fire like any other gun, except they have a relatively predictable recoil. /  / When firing, your gun's muzzle will kick up, and you will have to adjust your aim downwa
+KO: # ^#E2C344;사격·반동^reset; / Project 45 총기는 다른 총기와 같은 방식으로 발사하지만, 반동을 비교적 예측하기 쉽습니다. /  / 발사하면 총구가 위로 들리므로 반동을 상쇄하려면 조준점을 아래로 내려야 합니다. /  / 잠시 시간을 들여 조준을 안정시키세요. ^#D93A3A;탄환의 방향은 총기의 각도를 기준으로 결정됩니다^reset;.
+
+EN: # ^#E2C344;Firing & Recoil^reset; / The amount of recoil is also affected by how much you're moving, whether you're walking, running or standing still. /  / To drastically reduce recoil, it is recommended to shoot while 
+KO: # ^#E2C344;사격·반동^reset; / 반동의 크기는 걷거나 달리는 중인지, 가만히 서 있는지 등 사용자의 움직임에도 영향을 받습니다. /  / 반동을 크게 줄이려면 앉아서 사격하는 것이 좋습니다. 반동 감소 모드를 장착해 무기를 개조하는 방법도 있습니다.
+
+EN: # ^#E2C344;Misc Stats^reset; / These stats are not necessarily shown in the weapon's tooltip, but affect the weapon's performance nonetheless. / ^#96cbe7;- Multishot^reset;: Multiplier to the number of projectiles a weap
+KO: # ^#E2C344;기타 스탯^reset; / 다음 스탯은 무기 툴팁에 표시되지 않을 수도 있지만 무기의 성능에 영향을 줍니다. / ^#96cbe7;- 멀티샷^reset;: 무기가 발사하는 탄환 수의 배율입니다. 소수 부분은 탄환 한 묶음을 추가로 발사할 확률로 계산됩니다. / ^#f4988c;- 중량^reset;: 무기를 든 사용자가 걷기만 할 수 있게 합니다. / ^#f4988c;- 반동
+
+EN: # ^#E2C344;Misc Stats^reset; / ^#f4988c;- Inaccuracy^reset;: Random movement of the arm as the weapon fires. / ^#f4988c;- Spread^reset;: Natural deviation of bullets from their trajectory. / ^#9da8af;- Trigger Time^reset
+KO: # ^#E2C344;기타 스탯^reset; / ^#f4988c;- 부정확도^reset;: 무기를 발사할 때 팔이 무작위로 움직이는 정도입니다. / ^#f4988c;- 탄퍼짐^reset;: 탄환이 본래 궤적에서 자연스럽게 벗어나는 정도입니다. / ^#9da8af;- 방아쇠 시간^reset;: 다음 클릭을 인식하기까지 걸리는 시간으로, 전체 ^#E2C344;발사 시간^reset;을 구성하는 요소
+
+EN: ^cyan;Tenant Type:^reset; ^#00b3b2;Art Wizard^reset; / Sells dyes.  / ^#ffd24c;Objects Needed:^reset; / ^#BC9262;-4x Saturnian Furniture ^#8f8f8f;(any)^#BC9262; / -10x Saturnian Paintings or Canvases
+KO: ^cyan;세입자 종류:^reset; ^#00b3b2;아트 마법사^reset; / 염료를 판다.  / ^#ffd24c;필요 오브젝트:^reset; / ^#BC9262;-4x 새터니안 가구 ^#8f8f8f;(아무거나)^#BC9262; / -10x 새터니안 그림이나 캔버스
+
+EN: You know that? Red team suit's dye is self-burdening.
+KO: 알아? 레드팀 슈트의 염료는 자기 부담이야.
+
+EN: You have such vibrant colors! Are you able to dye them?
+KO: 색이 정말 선명하구나! 그거 염색도 할 수 있어?
+
+EN: Ohmygodyes don't stop! Don't stooop~!
+KO: 세상에 좋아 멈추지 마! 멈추지 마아아~!
+
+EN: Ohmygodyes don't stop!
+KO: 세상에 좋아 멈추지 마!
+
+EN: Ohgodyes, it's filling me up so much!
+KO: 오세상에좋아, 너무 채우고 있어!
+
+EN: ^#ffb73b;Manuf. Protectorate Arsenal / ^#7c7c7c;1Tier : Protectorate Service / ^#7c7c7c;Aiming speed : ^white;0.4s / ^#7c7c7c;Equiping speed : ^green;0.5s / ^#7c7c7c;LMB=Fire : ^white;Plasma Sphere / ^#7c7c7c;RMB=Manual 
+KO: ^#ffb73b;제조사: 보호국 병기창 / ^#7c7c7c;1티어 : 보호국 제식 / ^#7c7c7c;조준 속도 : ^white;0.4s / ^#7c7c7c;장착 속도 : ^green;0.5s / ^#7c7c7c;LMB=사격 : ^white;플라즈마 구체 / ^#7c7c7c;RMB=수동 재장전 : ^white;1s / ^#7c7c7c;자동 재장전 속도 : ^white;1s / ^#7c7c7c
+
+EN: ^#ffb73b;Manuf. Protectorate Arsenal / ^#7c7c7c;1Tier : Protectorate Service / ^#7c7c7c;Aiming speed : ^white;0.4s / ^#7c7c7c;Equiping speed : ^green;0.5s / ^#7c7c7c;LMB=Fire : ^white;Plasma Sphere /  / ^#7c7c7c;Auto Rel
+KO: ^#ffb73b;제조사: 보호국 병기창 / ^#7c7c7c;1티어 : 보호국 제식 / ^#7c7c7c;조준 속도 : ^white;0.4s / ^#7c7c7c;장착 속도 : ^green;0.5s / ^#7c7c7c;LMB=사격 : ^white;플라즈마 구체 /  / ^#7c7c7c;자동 재장전 속도 : ^white;1s / ^#7c7c7c;탄도 사양 : 불법 과충전 플라즈마 구체 = ^whit
+
+EN: ^#ffb73b;Manuf. Magnum Research / ^#7c7c7c;1Tier : Civilian Service / ^#7c7c7c;Aiming speed : ^white;0.1s / ^#7c7c7c;Equiping speed : ^green;0.5s / ^#7c7c7c;LMB=Fire : ^white;.50 Action Express / ^#7c7c7c;RMB=Fast Reload
+KO: ^#ffb73b;제조사: 매그넘 리서치 / ^#7c7c7c;1티어 : 민간 제식 / ^#7c7c7c;조준 속도 : ^white;0.1s / ^#7c7c7c;장착 속도 : ^green;0.5s / ^#7c7c7c;LMB=사격 : ^white;.50 Action Express / ^#7c7c7c;RMB=빠른 재장전 : ^green;0.5s / ^#7c7c7c;자동 재장전 속도 : ^white;1
+
+EN: ^#ffb73b;Manuf. Magnum Research / ^#7c7c7c;1Tier : Civilian Service / ^#7c7c7c;Aiming speed : ^white;0.1s / ^#7c7c7c;Equiping speed : ^green;0.5s / ^#7c7c7c;LMB=Fire : ^white;.50 Action Express /  / ^#7c7c7c;Auto Reloadi
+KO: ^#ffb73b;제조사: 매그넘 리서치 / ^#7c7c7c;1티어 : 민간 제식 / ^#7c7c7c;조준 속도 : ^white;0.1s / ^#7c7c7c;장착 속도 : ^green;0.5s / ^#7c7c7c;LMB=사격 : ^white;.50 Action Express /  / ^#7c7c7c;자동 재장전 속도 : ^white;1s / ^#7c7c7c;탄도 사양 : 19g × 450m/s
+
+EN: ^#ffb73b;Manuf. Remington Rand / ^#7c7c7c;1Tier : Civilian Service / ^#7c7c7c;Aiming speed : ^white;0.1s / ^#7c7c7c;Equiping speed : ^green;0.5s / ^#7c7c7c;LMB=Fire : ^white;.45 DoubleTap / ^#7c7c7c;RMB=Fast Reloading : 
+KO: ^#ffb73b;제조사: 레밍턴 랜드 / ^#7c7c7c;1티어 : 민간 제식 / ^#7c7c7c;조준 속도 : ^white;0.1s / ^#7c7c7c;장착 속도 : ^green;0.5s / ^#7c7c7c;LMB=사격 : ^white;.45 DoubleTap / ^#7c7c7c;RMB=빠른 재장전 : ^green;0.5s / ^#7c7c7c;자동 재장전 속도 : ^white;1s / ^#
+
+EN: ^#ffb73b;Manuf. Remington Rand / ^#7c7c7c;1Tier : Civilian Service / ^#7c7c7c;Aiming speed : ^white;0.1s / ^#7c7c7c;Equiping speed : ^green;0.5s / ^#7c7c7c;LMB=Fire : ^white;.45 DoubleTap /  / ^#7c7c7c;Auto Reloading spe
+KO: ^#ffb73b;제조사: 레밍턴 랜드 / ^#7c7c7c;1티어 : 민간 제식 / ^#7c7c7c;조준 속도 : ^white;0.1s / ^#7c7c7c;장착 속도 : ^green;0.5s / ^#7c7c7c;LMB=사격 : ^white;.45 DoubleTap /  / ^#7c7c7c;자동 재장전 속도 : ^white;1s / ^#7c7c7c;탄도 사양 : 15g × 290m/s × 1/1
+
+EN: ^#ffb73b;Manuf. Heckler & Koch / ^#7c7c7c;1Tier : Civilian Service / ^#7c7c7c;Aiming speed : ^white;0.1s / ^#7c7c7c;Equiping speed : ^green;0.5s / ^#7c7c7c;LMB=Fire : ^white;.40 S&W / ^#7c7c7c;RMB=Fast Reloading : ^green
+KO: ^#ffb73b;제조사: 헤클러 & 코흐 / ^#7c7c7c;1티어 : 민간 제식 / ^#7c7c7c;조준 속도 : ^white;0.1s / ^#7c7c7c;장착 속도 : ^green;0.5s / ^#7c7c7c;LMB=사격 : ^white;.40 S&W / ^#7c7c7c;RMB=빠른 재장전 : ^green;0.5s / ^#7c7c7c;자동 재장전 속도 : ^white;1s / ^#7c7c
+
+EN: ^#ffb73b;Manuf. Heckler & Koch / ^#7c7c7c;1Tier : Civilian Service / ^#7c7c7c;Aiming speed : ^white;0.1s / ^#7c7c7c;Equiping speed : ^green;0.5s / ^#7c7c7c;LMB=Fire : ^white;.40 S&W /  / ^#7c7c7c;Auto Reloading speed : ^
+KO: ^#ffb73b;제조사: 헤클러 & 코흐 / ^#7c7c7c;1티어 : 민간 제식 / ^#7c7c7c;조준 속도 : ^white;0.1s / ^#7c7c7c;장착 속도 : ^green;0.5s / ^#7c7c7c;LMB=사격 : ^white;.40 S&W /  / ^#7c7c7c;자동 재장전 속도 : ^white;1s / ^#7c7c7c;탄도 사양 : 13g × 320m/s × 1/1000 
+
+EN: ^#00FFFF;Federal Special Force / ^#7c7c7c;1Tier : S.E.A.U Service / ^#7c7c7c;Aiming speed : ^white;0.5s / ^#7c7c7c;Equiping speed : ^white;2s / ^#7c7c7c;LMB=Fire : ^white;M442 12.7×42mm bolts  / ^#7c7c7c;RMB=Fast Reloadi
+KO: ^#00FFFF;연방 특수부대 / ^#7c7c7c;1티어 : S.E.A.U 제식 / ^#7c7c7c;조준 속도 : ^white;0.5s / ^#7c7c7c;장착 속도 : ^white;2s / ^#7c7c7c;LMB=발사 : ^white;M442 12.7×42mm 볼트  / ^#7c7c7c;RMB=빠른 재장전 : ^white;1.2s / ^#7c7c7c;자동 재장전 속도 : ^white;2s 
+
+EN: Rally Mode: enemies become stronger as you level up!
+KO: 집결 모드: 레벨이 오를수록 적이 강해집니다!
+
+EN: Multiple players using Rally Mode strengthens the effect.
+KO: 여러 플레이어가 집결 모드를 사용하면 효과가 강화됩니다.
+
+EN: Stat: / ^red;Health Multiplier:^reset; / ^green;Energy Multiplier: / Energy Recharge Rate: / Energy Recharge Delay:^reset; / ^orange;Hunger Rate Deduction:^reset; / ^gray;Knockback Resistance: / Fall Damage Multiplier: /
+KO: 스탯: / ^red;체력 배율:^reset; / ^green;에너지 배율: / 에너지 재생 속도: / 에너지 재생 지연:^reset; / ^orange;배고픔 비율 감소:^reset; / ^gray;넉백 저항: / 낙하 피해 배율: / 보호막 체력 배율:^reset; / ^red;출혈 확률: / 출혈 지속:^reset; /  /  / 피해 저항: / ^gray;물리:^reset; / ^gre
+
+EN: Amount: /  /             Bonus Health: /  /             Bonus Energy: /  /             Energy Recharge Rate: /  /             Energy Recharge Delay: /  /             Hunger: /  /             Physical Resistance: /  /    
+KO: 수량: /  /             보너스 체력: /  /             보너스 에너지: /  /             에너지 재생 속도: /  /             에너지 재생 지연: /  /             배고픔: /  /             물리 저항: /  /             독 저항: /  /             냉기 저항: /  /            
+
+EN: ^#b9b5b2; < insert dye pun here >
+KO: ^#b9b5b2; < 여기에 염료 말장난 삽입 >
+
+EN: ^red;! Caution !^reset; / Internal dye data is stored / within your character's / player file. Excessive saving / will slow loading.
+KO: ^red;! 주의 !^reset; / 내부 염료 데이터는 / 캐릭터의 플레이어 파일에 / 저장됩니다. 과도한 저장은 / 로딩을 느리게 합니다.
+
+EN: Close the dye suite.
+KO: 염색 작업실을 닫습니다.
+
+EN: Toggle whether a dye should be randomly picked when the suite opens.
+KO: 스위트를 열 때 염료를 무작위로 선택할지 전환.
+
+EN: Toggles whether the dye list will seperate the entire list into pages of 42 or just have scrolling.
+KO: 염료 목록을 42개씩 페이지로 나눌지, 그냥 스크롤할지 전환한다.
+
+EN: Change the name of the dye here.
+KO: 여기서 염료의 이름을 변경한다.
+
+EN: Get a dye of the current palette.
+KO: 현재 팔레트의 염료 하나를 얻습니다.
+
+EN: Get 4 dyes of the current palette.
+KO: 현재 팔레트의 염료 4개를 얻습니다.
+
+EN: Are you sure you want to dye?
+KO: 정말 염색하시겠습니까?
+
+EN: Give Back's dye
+KO: 등 염료 지급
+
+EN: Set current palette as the one from this dye.
+KO: 현재 팔레트를 이 염료의 팔레트로 설정한다.
+
+EN: Set current palette as the fused dye palette.
+KO: 현재 팔레트를 융합 염료 팔레트로 설정한다.
+
+EN: Set current palette as the blended dye palette.
+KO: 현재 팔레트를 혼합 염료 팔레트로 설정한다.
+
+EN: Set the ratio of colours between the left and right dyes.
+KO: 왼쪽과 오른쪽 염료 사이의 색 비율을 설정한다.
+
+EN: Change the matter manipulator skin to the one selected, with the dyes applied.
+KO: 물질 조작기 스킨을 선택한 것으로 변경하며, 염료가 적용된다.
+
+EN: Change the wire tool skin to the one selected, with the dyes applied.
+KO: 와이어 도구 스킨을 선택한 것으로 변경하며, 염료가 적용된다.
+
+EN: Change the paint tool skin to the one selected, with the dyes applied.
+KO: 페인트 도구 스킨을 선택한 것으로 변경하며, 염료가 적용된다.
+
+EN: Change the scan tool skin to the one selected, with the dyes applied.
+KO: 스캔 도구 스킨을 선택한 것으로 변경하며, 염료가 적용된다.
+
+EN: Insert text to search dye names by.
+KO: 검색할 염료 이름을 입력하세요.
+
+EN: Change the page of the dye list.
+KO: 염료 목록의 페이지를 변경한다.
+
+EN: A fancy dyed flashlight!
+KO: 멋진 염색 손전등!
+
+EN: Knockback Threshold
+KO: 넉백 한계치
+
+EN: Translation accuracy: 95.1%
+KO: 번역 정확도: 95.1%
+
+EN: For dyeing some furniture
+KO: 가구 염색용
+
+EN: ''I see a ^red;bad moon^reset; rising.'' / 35mm magical illumination shell. Its red flare is hypnotising and causes fatalistic frenzy in all whos eyes are grazed by the maddening crimson. /    / Flare round descends slow
+KO: ''^red;불길한 달^reset;이 떠오르는 게 보여.'' / 35mm 마법 조명탄. 붉은 섬광은 최면을 걸듯 사람을 사로잡아, 그 광기 어린 진홍빛이 눈을 스친 모든 이를 숙명론적인 광란에 빠뜨린다. /    / 조명탄은 대기 중에서 천천히 내려오며 약 60초간 지속된다. 빛의 반경 안에 있는 모두에게 ^red;피해 저항 -100%와 무기 숙련도 -100%^reset;를 적용한다.  / 
+
+EN: ''In Heavens everything is fine. / You've got your good things, and I've got mine.'' /    / 35mm Divine Confetti chaff flare shell. To burn sanctified paper is to imbue the very air with divine presence. The resulting in
+KO: ''천국에서는 모든 게 좋아. / 너는 너의 좋은 것을, 나는 나의 좋은 것을 가졌지.'' /   / 35mm 신성한 색종이 채프 조명탄. 정화된 종이를 태우면 공기 자체에 신성한 기운이 스며든다. 그로 인해 차원의 구조에 생긴 간섭 때문에 효과 범위 안의 모든 것이 ^#F2B8EC;정신 피해^white;에 더 취약해진다. /  / 근거리에서 쏘면 ^orange;점화^reset; 효과를 줄 
+
+EN: 35mm ammunition firing white illumination flares with little parachutes attached to the base. Used to provide light during the night time. /    / Flare round descends slowly in atmosphere, and lasts for approximately 60s
+KO: 밑부분에 작은 낙하산이 달린 백색 조명탄을 쏘는 35mm 탄약. 밤중에 빛을 밝히는 데 쓴다. /   / 조명탄은 대기 중에서 천천히 내려오며 약 60초간 지속된다. ^orange;주변 적에게 30초간 제압 효과를 건다.^reset; /   / 근거리에서 쏘면 ^orange;점화^reset; 효과를 줄 수 있다.
+
+EN: 84x245mm rimmed recoilless rifle close-range anti-personnel tracer (APERS-T) round shell. After travelling for ~10 meters, shell's fuze activates and launches a cone of flechettes, like an oversized shotgun. Flechettes a
+KO: 84x245mm 림드 무반동총 근거리 대인 예광(APERS-T) 포탄. 약 10미터를 날아가면 신관이 작동해 거대한 산탄총처럼 플레셰트를 원뿔 모양으로 쏟아 낸다. 플레셰트는 벽, 방탄복, 여러 사람을 한꺼번에 꿰뚫을 수 있다.
+
+EN: 84x245mm rimmed recoilless rifle High Explosive Anti-Tank shell. Capable of penetrating high levels of armor and deep fortifications. /  / Has less explosive payload than HEDP variation, making it less effective against 
+KO: 84x245mm 림드 무반동총 대전차 고폭탄. 높은 수준의 장갑과 깊은 요새를 관통할 수 있다. /  / 이중 목적 고폭탄보다 폭약량이 적어 비장갑 표적에는 덜 효과적이다.
+
+EN: 84x245mm rimmed recoilless rifle High-Explosive Dual-Purpose shell. Used to destroy infantry, fortifications and light armour. /    / HE-DP shells have a high explosive load big enough to cause deadly concussion even thr
+KO: 84x245mm 림드 무반동총 이중 목적 고폭탄. 보병, 요새, 경장갑을 파괴하는 데 쓴다. /    / 이중 목적 고폭탄은 폭약량이 많아 벽 너머로도 치명적인 충격을 줄 수 있으며, 대전차 능력도 어느 정도 유지한다.
+
+EN: ''Light up the night.'' /    / 84x245mm rimmed recoilless rifle canister shell with 6 illuminating time-fuzed submunitions. ''Starhive'' (a portmaneu of Starshell and Beehive) is a term used in the US Intelligence docume
+KO: ''밤을 밝혀라.'' /    / 시한 신관이 달린 조명 자탄 6발을 담은 84x245mm 림드 무반동총 캐니스터탄. ''스타하이브''(스타셸과 비하이브의 합성어)는 미국 정보 문서에 쓰인 명칭이고, 일본군은 그 효과가 별무리를 닮았다고 해서 ''스바루탄'', 즉 플레이아데스탄이라고 부른다. / 조명탄은 대기 중에서 천천히 내려오며 약 60초간 지속된다. ^orange;주변 적에게 30초간 
+
+EN: 20-round magazine loaded with experimental 7.7x58mm Duplex rounds. / Trying to increase the hit probability of infantry rifles, IJA experimented with the concept of Duplex rounds - cartridges with two bullets instead of 
+KO: 실험용 7.7x58mm 이중 탄두탄을 장전한 20발들이 탄창. / 보병 소총의 명중 확률을 높이려고, 일본 제국군은 탄피 하나에 탄두 두 개를 넣은 이중 탄두탄 개념을 실험했다. 한 발에 나가는 탄환 수는 두 배가 되었지만, 정확도와 탄속이 크게 떨어졌다. /  / ^orange;한 번에 탄환 2발을 쏜다. 평균 기본 피해 120%.^reset;
+
+EN: 100rnd 7.7x58mm ammunition box for the Kawamura T22 GPMG. Loaded with Incendiary-Tracer rounds for better suppressive power. /  / ^orange;Incendiary-Tracers:^reset; / Chance to proc 5s IGNITION (Base 10% chance, each 1% 
+KO: 가와무라 T22 다목적 기관총용 7.7x58mm 100발들이 탄약 상자. 제압력을 높이기 위해 소이 예광탄을 장전했다. /  / ^orange;소이 예광탄:^reset; / 5초 점화 발동 확률(기본 10%, 열 저항 1%당 발동 확률 1% 감소) | 탄환이 착탄 지점뿐 아니라 날아가는 동안에도 대상을 제압한다 | 벽 관통 능력을 잃는다.
+
+EN: 50rnd Magishot Magazine used by the DB-3 MG. One of the few machine guns the youkai armies have under their forces. While it's not even close to being equal in lethality as a ballistic one, it's higher accuracy makes the
+KO: DB-3 기관총에 쓰이는 매지샷 50발들이 탄창. 요괴군이 보유한 몇 안 되는 기관총 중 하나다. 살상력은 실탄 기관총에 비할 바가 못 되지만, 정확도가 높아 소총처럼 먼 거리의 표적을 골라 맞히는 데 효과적이다.
+
+EN: Fits the Mossberg 590M Shotgun. 10rnd Magazine. /    / Beanbag rounds are *not* classified as ''Non-Lethal''. They are classified as ''Less-Lethal''. /  / Base DMG: 50 BLUNT | Afflicts 2s STAGGER.
+KO: 모스버그 590M 샷건에 장착. 10발 탄창. /    / 빈백탄은 ''비살상''으로 분류되지 '않는다'. ''저살상''으로 분류된다. /  / 기본 피해: 50 둔기 | 2초 동안 비틀거림 유발.
+
+EN: Fits the Mossberg 590M Shotgun. 10rnd Magazine. /    / Specialized shotgun shell packed with a White Phosphorus charge that detonates shortly after leaving the barrel so-as to not accidentally burn the user. ^#FFDD00;Whi
+KO: 모스버그 590M 샷건에 장착. 10발 탄창. /    / 사용자가 실수로 화상을 입지 않도록 총구를 떠난 직후 폭발하는 백린 장약을 채운 특수 샷건 탄피. ^#FFDD00;백린^reset;은 물속에서도 심각한 ^#FFDD00;점화^reset; 화상을 일으킬 수 있으며 지형과 적 모두 맞은 것에 들러붙는다. /  / 잔인하지만 무자비할 만큼 효율적이다. 사용자에게도 매우 위험하다.
+
+EN: Fits the Mossberg 590M Shotgun. 10rnd Magazine. /    / A shell that launches a flare that descends slowly, illuminating the area for approximately 30s. /    / Close-ranged shots are capable of dealing ^orange;IGNITION^re
+KO: 모스버그 590M 샷건에 장착. 10발 탄창. /    / 천천히 하강하며 약 30초 동안 지역을 밝히는 조명탄을 발사하는 탄피. /    / 근거리 사격은 ^orange;점화^reset;를 일으킬 수 있지만, 직접 피해는 크게 감소한다. ^orange;근처 적에게 30초 동안 제압을 일으킴.^reset; /  / 무기 숙련도의 영향을 받지 않는다.
+
+EN: A flare that calls in a friendly medical air drop at the designated area. Once the air drop has landed, ^yellow;all nearby allies gain 5% HP/sec for up to 10 seconds and are IMMUNE TO BLEEDING as long as they are near th
+KO: 지정된 지역에 아군 의료 공수를 부르는 조명탄입니다. 공수품이 착륙하면, ^yellow;근처의 모든 아군은 공수품 근처에 있는 동안 초당 체력 5%를 회복하며 최대 10초간 출혈에 면역이 됩니다. 이 조명탄은 어디서든 사용할 수 있으며 착륙 지점에 발사해야 합니다.^reset; ^red;적도 근처에 있으면 이 공수품의 효과를 함께 받습니다.^reset; /  /  / ^green;짧은 딜레이
+
+EN: A single 6.5x40mm cartridge. Much like the Germans, Japanese developed the 6.5x40mm intermediate cartridge by shortening old 6.5x50mmSR ammo, of which they still had a large stockpile, as well as tooling. Resulting ammo 
+KO: 단일 6.5x40mm 탄약. 독일과 마찬가지로 일본도 대량으로 보유하고 있던 구형 6.5x50mmSR 탄약과 그 제조 설비를 활용해 단축시킨 6.5x40mm 중간 위력 탄약을 개발했다. 그 결과물은 5.56x45mm보다 관통력이 높고 7.62x39mm보다 반동이 적어, 두 탄약 사이의 절묘한 균형을 이룬다.
+
+EN: 5-round stripper clip with 7.7x58mm incendiary bullets. Used to reload Yokosuka T4 Rifle and Taisho T11 LMG. /    / ^orange;Incendiary-Tracers:^reset; / Chance to proc 5s IGNITION (Base 10% chance, each 1% of THERMAL RES
+KO: 7.7x58mm 소이탄을 끼운 5발들이 삽탄 클립. 요코스카 T4 소총과 다이쇼 T11 경기관총 재장전에 쓴다. /    / ^orange;소이 예광탄:^reset; / 5초 점화 발동 확률(기본 10%, 열 저항 1%당 발동 확률 1% 감소) | 탄환이 착탄 지점뿐 아니라 날아가는 동안에도 대상을 제압한다 | 벽 관통 능력을 잃는다.
+
+EN: 7.62x54mm incendiary-tracer extended magazine for SVT-40. Holds 20 Rounds. /    / ^orange;Incendiary-Tracers:^reset; / Chance to proc 5s IGNITION (Base 10% chance, each 1% of THERMAL RES reduces proc chance by 1%) | Bull
+KO: SVT-40용 7.62x54mm 소이 예광탄 확장 탄창. 20발이 들어간다. /    / ^orange;소이 예광탄:^reset; / 5초 점화 발동 확률(기본 10%, 열 저항 1%당 발동 확률 1% 감소) | 탄환이 착탄 지점뿐 아니라 날아가는 동안에도 대상을 제압한다 | 벽 관통 능력을 잃는다.
+
+EN: 7.62x54mm incendiary-tracer magazine for SVT-40. Holds 10 Rounds. /    / ^orange;Incendiary-Tracers:^reset; / Chance to proc 5s IGNITION (Base 10% chance, each 1% of THERMAL RES reduces proc chance by 1%) | Bullets will 
+KO: SVT-40용 7.62x54mm 소이 예광탄 탄창. 10발이 들어간다. /    / ^orange;소이 예광탄:^reset; / 5초 점화 발동 확률(기본 10%, 열 저항 1%당 발동 확률 1% 감소) | 탄환이 착탄 지점뿐 아니라 날아가는 동안에도 대상을 제압한다 | 벽 관통 능력을 잃는다.
+
+EN: ''Upon and away!'' /  / ^#96CBE7;Press [Jump] to Fly | Max operate time: 4s | Reset operate time after landing | Slight reduces falling speed and fall damage | Press [Down] to Hover | Press [UP] to boost | Boost consumes
+KO: ''올라타서 날아가라!'' /  / ^#96CBE7;[Jump]를 눌러 비행 | 최대 작동 시간: 4초 | 착지하면 작동 시간 초기화 | 낙하 속도와 낙하 피해를 조금 줄임 | [Down]을 눌러 공중 정지 | [UP]을 눌러 부스트 | 부스트는 초당 능력 마나 25 소모
+
+EN: ''Leap forward.'' /  / ^#96CBE7;Grants Four smaller jumps | ^green;Press [UP] to boost your jump^reset; | Consumes 25 Ability Mana
+KO: ''앞으로 도약하라.'' /  / ^#96CBE7;작은 점프 4회 부여 | ^green;[UP]을 눌러 점프를 가속한다^reset; | 능력 마나 25 소모
+
+EN: ''Can't hit me, won't hurt me.'' /  / ^#96CBE7;[Double-Tap A or D, holding down on 2nd tap] | ^green;Press [UP] to boost your jump^reset; | Consumes 20 Ability Mana per second.
+KO: ''못 맞히면 아프지도 않지.'' /  / ^#96CBE7;[A 또는 D 두 번 누르고, 두 번째에 계속 누르기] | ^green;[UP]을 눌러 점프를 강화^reset; | 초당 능력 마나 20 소모.
+
+EN: A small box containing a set of dyes for fabric coloring. You can use them to change the colour of some uniforms to camouflage yourself. Cosmetic only. /  / This set contains 10 vials of Black Dye.
+KO: 천에 색을 입히는 염료 세트가 담긴 작은 상자. 일부 제복의 색을 바꿔 위장하는 데 사용할 수 있다. 코스메틱 전용. /  / 이 세트에는 검은색 염료 10병이 들어 있다.
+
+EN: A small box containing a set of dyes for fabric coloring. You can use them to change the colour of some uniforms to camouflage yourself. Cosmetic only. /  / This set contains 10 vials of Blue Dye.
+KO: 천에 색을 입히는 염료 세트가 담긴 작은 상자. 일부 제복의 색을 바꿔 위장하는 데 사용할 수 있다. 코스메틱 전용. /  / 이 세트에는 파란색 염료 10병이 들어 있다.
+
+EN: A small box containing a set of dyes for fabric coloring. You can use them to change the colour of some uniforms to camouflage yourself. Cosmetic only. /  / This set contains 10 vials of Brown Dye.
+KO: 천에 색을 입히는 염료 세트가 담긴 작은 상자. 일부 제복의 색을 바꿔 위장하는 데 사용할 수 있다. 코스메틱 전용. /  / 이 세트에는 갈색 염료 10병이 들어 있다.
+
+EN: A small box containing a set of strong chemical dissolvers. You can use them to remove applied fabric dyes. Cosmetic only. /  / This set contains 10 vials of Dye Removers.
+KO: 강력한 화학 용해제 세트가 담긴 작은 상자. 도포된 천 염료를 제거하는 데 사용할 수 있다. 코스메틱 전용. /  / 이 세트에는 염료 제거제 10병이 들어 있다.
+
+EN: A small box containing a set of dyes for fabric coloring. You can use them to change the colour of some uniforms to camouflage yourself. Cosmetic only. /  / This set contains 10 vials of Green Dye.
+KO: 천에 색을 입히는 염료 세트가 담긴 작은 상자. 일부 제복의 색을 바꿔 위장하는 데 사용할 수 있다. 코스메틱 전용. /  / 이 세트에는 초록색 염료 10병이 들어 있다.
+
+EN: A small box containing a set of dyes for fabric coloring. You can use them to change the colour of some uniforms to camouflage yourself. Cosmetic only. /  / This set contains 10 vials of Grey Dye.
+KO: 천에 색을 입히는 염료 세트가 담긴 작은 상자. 일부 제복의 색을 바꿔 위장하는 데 사용할 수 있다. 코스메틱 전용. /  / 이 세트에는 회색 염료 10병이 들어 있다.
+
+EN: A small box containing a set of dyes for fabric coloring. You can use them to change the colour of some uniforms to camouflage yourself. Cosmetic only. /  / This set contains 10 vials of Orange Dye.
+KO: 천에 색을 입히는 염료 세트가 담긴 작은 상자. 일부 제복의 색을 바꿔 위장하는 데 사용할 수 있다. 코스메틱 전용. /  / 이 세트에는 주황색 염료 10병이 들어 있다.
+
+EN: A small box containing a set of dyes for fabric coloring. You can use them to change the colour of some uniforms to... camouflage yourself? Cosmetic only. /  / This set contains 10 vials of Pink Dye.
+KO: 천에 색을 입히는 염료 세트가 담긴 작은 상자. 일부 제복의 색을... 위장에 쓸 수 있다고? 코스메틱 전용. /  / 이 세트에는 분홍색 염료 10병이 들어 있다.
+
+EN: A small box containing a set of dyes for fabric coloring. You can use them to change the colour of some uniforms to... camouflage yourself? Cosmetic only. /  / This set contains 10 vials of Purple Dye.
+KO: 천에 색을 입히는 염료 세트가 담긴 작은 상자. 일부 제복의 색을... 위장에 쓸 수 있다고? 코스메틱 전용. /  / 이 세트에는 보라색 염료 10병이 들어 있다.
+
+EN: A small box containing a set of dyes for fabric coloring. You can use them to change the colour of some uniforms to camouflage yourself. Cosmetic only. /  / This set contains 10 vials of Red Dye.
+KO: 천에 색을 입히는 염료 세트가 담긴 작은 상자. 일부 제복의 색을 바꿔 위장하는 데 사용할 수 있다. 코스메틱 전용. /  / 이 세트에는 빨간색 염료 10병이 들어 있다.
+
+EN: A small box containing a set of dyes for fabric coloring. You can use them to change the colour of some uniforms to camouflage yourself. Cosmetic only. /  / This set contains 10 vials of White Dye.
+KO: 천에 색을 입히는 염료 세트가 담긴 작은 상자. 일부 제복의 색을 바꿔 위장하는 데 사용할 수 있다. 코스메틱 전용. /  / 이 세트에는 흰색 염료 10병이 들어 있다.
+
+EN: A small box containing a set of dyes for fabric coloring. You can use them to change the colour of some uniforms to camouflage yourself. Cosmetic only. /  / This set contains 10 vials of Yellow Dye.
+KO: 천에 색을 입히는 염료 세트가 담긴 작은 상자. 일부 제복의 색을 바꿔 위장하는 데 사용할 수 있다. 코스메틱 전용. /  / 이 세트에는 노란색 염료 10병이 들어 있다.
+
+EN: Commercially produced mild black tea, while not as flavorful as freshly brewed black tea, still possesses a distinct taste. For many Yokai, tea holds as much importance as alcoholic beverages. And it's no different withi
+KO: 상업 생산된 순한 홍차입니다. 갓 우린 홍차만큼 향이 진하지는 않지만, 뚜렷한 맛을 지녔습니다. 많은 요괴에게 차는 술만큼 중요한 음료입니다. 야마시로 금융도 마찬가지로, 많은 직원이 자신만의 다구를 갖고 있으며 다수의 셔틀·보이드선·호버크래프트에는 언제든 물을 끓일 수 있도록 보일러가 설치되어 있습니다. / ^#7AA8E0;활성 점화 효과를 제거합니다.^reset;
+
+EN: ''This product does not contain radioactive additives.'' / Invented during the early industrial era of humanity, it was reportedly first developed as a stimulant—but was soon discovered to be so refreshing after chilling
+KO: ''이 제품에는 방사성 첨가물이 들어 있지 않습니다.'' / 인류의 초기 산업 시대에 발명된 음료로, 처음에는 각성제로 개발되었다고 한다. 하지만 차갑게 식히면 무척 상쾌하다는 사실이 곧 알려져 일반 음료로 대량 생산되었다. 인간들 사이에서 널리 인기를 얻었지만, 병뚜껑을 모으는 괴짜들도 늘 있었다. 대체 왜? / ^#7AA8E0;활성화된 점화 효과를 없앤다.^reset;
+
+EN: Commercially-available bottled water. This one is particularly large. /  / ^#7AA8E0;Removes active IGNITION effects.^reset;
+KO: 시판 생수입니다. 이건 특히 큽니다. /  / ^#7AA8E0;활성 점화 효과를 제거합니다.^reset;
+
+EN: ''- How much Lipovitan have you drank? / - I'm on it like a motherfucker! I'm on banzai, man!'' / Lipovitan is a taurine-based non-carbonated tonic, introduced in 1962. A precursor to all modern energy drinks. Originally
+KO: ''- 리포비탄 얼마나 마셨어? / - 난 존나게 들이붓고 있지! 지금 완전 반자이 상태라고!'' / 리포비탄은 1962년에 출시된 타우린 기반의 무탄산 강장제로, 현대 에너지 음료의 전신입니다. 본래 장시간 깨어 있어야 하는 트럭 운전사와 공장 노동자를 대상으로 판매했으나, 일본의 사무직 노동자와 군인 사이에서도 큰 인기를 끌었습니다. / ^#EDC078;600초 동안 이동 속도가 10% 
+
+EN: ''No need to panic, chaps. The tea is still hot!'' / Certain Rose Empire tank crews have garnered a reputation of drinking tea whenever there is downtime. Being the only other drink aside from water that could be found i
+KO: ''당황할 것 없네, 친구들. 차는 아직 따뜻하니까!'' / 로즈 제국의 몇몇 전차 승무원은 틈만 나면 차를 마시는 것으로 유명하다. 전선에서 물 말고 구할 수 있는 유일한 음료였기에, 라이온과 다른 서부 군대들도 이 음료를 받아들였고, 일부는 전투 능력을 높이려고 다른 물질을 첨가하기도 했다. / ^Orange;전차병의 차 부여 - 20분간 이동 속도 5%, 체력 +25, 제압 면역.
+
+EN: A carpet tile dyed with the signature Lunar purple.
+KO: 루나 특유의 보라색으로 물들인 카펫 타일.
+
+EN: It is not uncommon for magicians to imbue magic into their weapons. The risks of having uncontrolled magic in a solid object is that it can easily backfire on the user. Most incidents are not fatal as it depends on both 
+KO: 마법사가 무기에 마법을 불어넣는 일은 드물지 않다. 통제되지 않은 마법을 고체 물체에 담아두는 위험은 사용자에게 쉽게 역효과를 일으킬 수 있다는 것이다. 대부분의 사고는 마법의 밀도와 종류에 따라 달라지므로 치명적이지는 않다. 예를 들어 바람 마법은 역효과가 나도 가벼운 산들바람만 일으키지만, 화염 마법은 사용자를 태우는 경향이 있다. / ^orange;패링에 성공하면 주위에 고드름이 발사된
+
+EN: A potion that replicates the regeneration properties of a youkai. The regenerated tissue is only barely stable upon forming and can easily be reopened from any injury. For humans though, it was still considered a miracle
+KO: 요괴의 재생 능력을 모방한 물약. 재생된 조직은 형성 직후 매우 불안정하여 어떤 부상에도 쉽게 다시 벌어질 수 있다. 하지만 인간에게는 일반적인 의학에 비하면 여전히 기적과도 같았다. 그들의 땅에서였다면 즉사에 이르렀을 부상도 이 정체불명의 비법 덕분에 치료할 수 있게 되었다. / ^orange;피격 시 5초 동안 초당 5의 체력을 회복하고 10초 동안 전반적인 저항 -25%. | 지속시간 
+
+EN: A potion that is often associated with sake due to its side effects. The potion coagulates bleeding and reinforces the skin, but leaves the user practically drunk and in no shape to be able to hit their targets let alone
+KO: 그 부작용 때문에 종종 사케와 결부되곤 하는 물약. 이 물약은 출혈을 응고시키고 피부를 강화하지만, 마신 사람을 사실상 만취 상태로 만들어 원거리 무기를 다루기는커녕 목표를 맞추기도 힘든 상태로 만든다. 오니 충격 부대는 전선에 투입되기 전 이 물약을 자주 마신다고 한다. / ^orange;출혈에 면역이 되고 히트 실드 1개를 얻는다. | 재사용 대기시간 30초. 전반적인 무기 숙련도 -50
+
+EN: Some magicians have attempted to imbue themselves with the traits of spirits and ghosts. Most who did died, but there were a few who managed to make some headway into the endeavor. While this potion won't allow users to 
+KO: 일부 마법사들은 자신에게 영혼과 유령의 특성을 불어넣으려 시도했다. 대부분은 죽었지만, 그 시도에서 어느 정도 진전을 이룬 이들도 소수 있었다. 이 물약은 사용자가 벽이나 장벽을 통과하게 해주지는 않지만, 최소한 몸을 거의 무게가 없게 만들어준다. /  / ^orange;이동 속도 +10%, 회피 확률 +30%, 초당 체력 -1 획득. | 지속시간 120초^reset; / ^#c93d3d;물
+
+EN: A dangerous stimulus that converts portions of vitality for enhanced senses. It was originally conceived by vampires and have been adopted by some magicians ever since the research was leaked out. The downside of such a 
+KO: 생기 일부를 감각 강화로 바꾸는 위험한 각성제입니다. 원래는 뱀파이어가 고안했으나, 연구 자료가 유출된 뒤로 일부 마법사들도 쓰고 있습니다. 이 물약의 단점은 다쳤을 때 생명을 붙들기가 더 어려워진다는 것입니다. /    / ^orange;최대 체력 -50%. 일반 무기 숙련도 +X%. X는 체력/3과 같음 (최대: 50%) | 지속시간 120초^reset; / ^#c93d3d;물약 과다 복
+
+EN: ''Injury? What injury?'' / Expensive advanced personal medicine can heal injuries in a remarkably short amount of time. It is claimed to be non-addictive by the manufacturer, but many users still develop some form of dep
+KO: ''부상? 무슨 부상?'' / 값비싼 고급 개인 의약품으로, 놀라울 만큼 짧은 시간에 부상을 치료한다. 제조사는 중독성이 없다고 주장하지만, 많은 사용자가 여전히 어떤 형태로든 의존하게 된다. /  / ^green;- 4초에 걸쳐 체력 250 회복, 치료 중 이동 속도 +10%. / ^#7AA8E0;활성화된 점화 효과를 없앤다.^reset; / ^red;- 출혈 치료^white;
+
+EN: Rally: IJN Special Naval Landing Force
+KO: 집결: IJN 특별육전대
+
+EN: ^#8FAED3;Rally Summon^white;
+KO: ^#8FAED3;집결 소환^white;
+
+EN: . /  / ^orange;For use with the Rally: IJN Special Naval Landing Force weapon.^reset;
+KO: . /  / ^orange;집결: 일본 해군 특별 육전대 무기와 함께 사용한다.^reset;
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; / ''I'll take point!'' / A composite of reinforced alloys and Kevlar, its sturdiness and well-designed collapsible feature has made it a staple in GIGN operatio
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; / ''내가 선두를 맡겠다!'' / 강화 합금과 케블라의 복합체로, 견고함과 잘 설계된 접이식 기능 덕에 거의 30년간 GIGN 작전의 필수품이었다. 이제 세계를 가로질러 와서 사람들을 지키러 왔다. / ^yellow;방탄: 완전 방어 없음 | 1500HP 안정도 | 90% 방어력.^reset; / ^red;산처럼: 이동 속도
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; / A ballistic shield is a protection device deployed by police, paramilitaries, and armed forces that are designed to stop or deflect bullets and other projecti
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; / 방탄 방패는 경찰, 준군사 조직, 군대가 배치하는 방호 장비로, 운반자에게 발사되는 총알과 기타 발사체를 막거나 빗나가게 하도록 설계됐다. / ^orange;전술 방패: 조준 가능 | 1000HP 안정도 | 50% 방어력.^reset; / ^#D6DFFF;돌파 작전: 어느 손에 장착해도 [EWS] 총기의 빗나감 확률과 부정
+
+EN: Armored shield used exclusively by the Waterfall Kappa engineers corps. Offers unmatched stability and protection at the cost of being heavy to carry around. /  /  /  / ^#CCD8B6;400HP STABILITY | 0.5s Lower-Raise Delay |
+KO: 폭포 캇파 공병대만 사용하는 장갑 방패. 들고 다니기 무겁다는 대가를 치르는 대신, 비할 데 없는 안정성과 방어력을 제공한다. /  /  /  / ^#CCD8B6;400HP 안정성 | 0.5s 올림-내림 지연 | 70% 방어력 | 총알 맞으면 HP 회복.^reset; / ^red;이동 속도 -25%.^reset;
+
+EN: An ‘assault machine gun,’ which weighs almost as heavy as a standard assault rifle, is more suitable for motorized operations. /  / Chambered in a respectable 5.56x45mm round. Supports the 200rnd Box, also being able to 
+KO: 표준 돌격소총만큼이나 무겁지만 기동화 작전에 더 적합한 '돌격 기관총'이다. /  / 당당한 5.56x45mm 탄을 사용한다. 200발들이 박스탄창을 지원하며, 5.56x45mm STANAG-NATO 소총 탄창도 사용할 수 있다. / ^orange;방아쇠를 오래 당길수록 무기 숙련도를 얻는다.
+
+EN: Oddly styled modern battle rifle with an exceptionally long barrel, chambered in 6.8×51mm, and featuring a unique set of mechanical components to assist the shooter in suppressing the recoil. /  / Uses STANAG-SDF 6.8x51m
+KO: 6.8×51mm 탄약을 사용하는, 독특한 스타일의 현대식 전투소총으로 유난히 긴 총열을 가졌으며, 사수의 반동 억제를 돕는 독특한 기계 부품 세트를 갖췄다. /  / STANAG-SDF 6.8x51mm 탄창을 사용한다. / ^green;"보조 발사"를 누르고 있으면 완전 자동과 반자동 사이를 전환한다.^reset;
+
+EN: A .75 caliber heavy rifle, originally manufacturing in Gazrian Mechanicus forges. Boltguns are heavy, sturdy weapons with a powerful recoil normal humans would find difficult to handle.  / ^#EA3C0B;Difficult to control w
+KO: 원래 가즈리안 메카니쿠스 제련소에서 제조한 .75 구경 중형 소총. 볼트건은 무겁고 튼튼한 무기로, 일반 인간은 다루기 힘든 강력한 반동을 지녔다.  / ^#EA3C0B;파워 아머 없이는 다루기 어렵다^reset; / ^green;"보조 발사"를 길게 눌러 완전 자동과 반자동을 전환한다.^reset; / 19.05x99mm 볼트탄 탄창을 사용한다.
+
+EN: A “light” machine gun, resembling a specific model used by humans in ancient world wars, yet mechanically distinct from any normal machine gun. / ^#EA3C0B;Weapons require no reloading, simply consume ammunition from your
+KO: 고대 세계대전에서 인류가 사용하던 특정 모델을 닮았지만, 기계적으로는 일반 기관총과는 전혀 다른 "경"기관총. / ^#EA3C0B;무기는 재장전이 필요 없으며, 배낭에서 탄약을 그대로 소비한다. | 방아쇠를 오래 당길수록 무기 숙련도 증가. | 명중률이 치명타 확률로 대체됨(모든 발사체는 항상 명중). | 치명타 사격 시 추가로 100 사이킥 피해.^reset; / 단일 7.92x57mm 탄
+
+EN: ''Shelter won't save you.'' / High-velocity grenade launchers with acceptable weight and recoil. highly effective against enemies behind the cover. /  / Accepts R.S.O 35x32mm Grenade Drum
+KO: ''엄폐물은 널 구해 주지 못해.'' / 무게와 반동이 적당한 고속 유탄 발사기. 엄폐물 뒤의 적에게 매우 효과적이다. /  / R.S.O 35x32mm 유탄 드럼을 사용한다
+
+EN: A submachine gun from the old Earth nation of China, with excellent rate of fire and accuracy. Its 7.62x25mm cartridge delivers dangerously high penetration, though its magazine capacity is somewhat limited. / ^green;Dou
+KO: 오래된 지구 국가 중국에서 만든 기관단총으로, 발사 속도와 정확도가 뛰어나다. 7.62x25mm 탄약은 위험할 만큼 높은 관통력을 보이지만, 탄창 용량은 다소 제한적이다. / ^green;[SHIFT]를 두 번 눌러 다소 애매한 한손 자세로 전환.^reset; / 7.62x25mm 79식 탄창 사용
+
+EN: A submachine gun from the old Earth nation of China, with excellent rate of fire and accuracy. Its 7.62x25mm cartridge delivers dangerously high penetration, though its magazine capacity is somewhat limited. / ^green;Dou
+KO: 오래된 지구 국가 중국에서 만든 기관단총으로, 발사 속도와 정확도가 뛰어나다. 7.62x25mm 탄약은 위험할 만큼 높은 관통력을 보이지만, 탄창 용량은 다소 제한적이다. / ^green;[SHIFT]를 두 번 눌러 편안한 양손 그립으로 전환.^reset; / 7.62x25mm 79식 탄창 사용
+
+EN: A .75 caliber heavy rifle, originally manufacturing in Gazrian Mechanicus forges. Boltguns are heavy, sturdy weapons with a powerful recoil normal humans would find difficult to handle.  / ^green;Hold down "Alt Fire" to 
+KO: 원래 가즈리안 메카니쿠스 제련소에서 제조한 .75 구경 중형 소총. 볼트건은 무겁고 튼튼한 무기로, 일반 인간은 다루기 힘든 강력한 반동을 지녔다.  / ^green;"보조 발사"를 길게 눌러 완전 자동과 반자동을 전환한다.^reset; / 19.05x99mm 볼트탄 탄창을 사용한다.
+
+EN: Minigun for personal use, designed with a fairly limited caliber to ensure it can be handled by ordinary human operators. /  / ^#EA3C0B;Minigun: Afflicts hit targets with WEAK BALLSTIC-STORM (+40% DMG) | Gun gains Weapon
+KO: 일반 인간 조작자도 다룰 수 있도록 제법 제한된 구경으로 설계된 개인용 미니건. /  / ^#EA3C0B;미니건: 명중한 대상에게 WEAK BALLSTIC-STORM(+40% 피해)을 부여함 | 방아쇠를 오래 당길수록 총기가 무기 숙련도를 얻음. / 단일 5.56x45mm 탄약을 사용한다.
+
+EN: Devastating heavy 'squad' weapon looks somewhat like a jackhammer. It uses a belt feed from your back ammobox, However, it also has an extreme weight and recoil, making it unsuitable for users without exceptional strengt
+KO: 잭해머와 다소 비슷하게 생긴 파괴적인 중형 '분대' 무기입니다. 등에 멘 탄약 상자에서 벨트로 급탄되지만, 무게와 반동이 극심해 파워 아머 없이 쓰기에는 뛰어난 힘이 없는 사용자에게는 적합하지 않습니다. / ^#EA3C0B;파워 아머 없이는 제어하기 어려움^reset; / ^#EA3C0B;빅 버사: 방아쇠를 오래 당길수록 무기 숙련도와 발사 속도가 증가합니다.^reset; / 26x72mm 
+
+EN: ''The overreaching requirement for modularity was finally considered unnecessary, as soldiers would not opt to carry two sets of ammunition and barrels for a single modular weapon.'' / DMR version of the GSW rifle, aband
+KO: ''병사들이 모듈식 무기 하나를 위해 탄약과 총열을 두 벌씩 들고 다니려 하지 않을 것이기에, 과도한 모듈화 요구는 결국 불필요하다고 판단되었다.'' / GSW 소총의 지정사수 소총 버전. 정확도를 높이는 대신 자동 사격 모드를 없앴다. / ^#EA3C0B;'연방 동맹' 효과를 발동할 수 있다^reset; / SCAR-H 7.62x51mm 탄창을 장전한다.
+
+EN: ''The relationship between The United Systems and other Human Factions has reached a critical tension level in the last fifty years, and it is no wonder why they decided to support a 'PMC Group' that serves only their ow
+KO: ''연합 시스템과 다른 인간 세력 사이의 관계는 지난 50년 동안 위험 수위에 이르렀다. 그러니 자기들 이익에만 봉사하면서 정규군과 맞먹는 '민간 군사 집단'을 후원하기로 한 것도 이상한 일이 아니다.'' / 서밋코 개조 키트를 장착한 USM-54R 지정사수 소총. / ^#EA3C0B;양각대가 없고 무게 중심이 불안정해, 이 소총은 반동이 극도로 크며 선 자세로는 거의 맞힐 수 없다^rese
+
+EN: ''To Serve The United Systems!'' / Next-Gen United Systems service rifle. Mechanically similar to the USM-series but chambered in 6.02x41mm, this new type of bullet provides better penetration and accuracy. /  / Accepts 
+KO: ''연합 시스템을 위해 봉사하라!'' / 연합 시스템의 차세대 제식 소총. 기계적으로는 USM 계열과 비슷하지만 6.02x41mm 탄을 쓰며, 이 신형 탄은 관통력과 정확도가 더 뛰어나다. /  / STANAG-USM 6.02x41mm 탄창을 사용한다. / ^orange;프론토비크: 0.5초 패링 창 | 안정성 150HP^reset;
+
+EN: ''To Serve The United Systems!'' / Next-Gen United Systems service rifle. Mechanically similar to the USM-series but chambered in 6.02x41mm, this new type of bullet provides better penetration and accuracy. /  / Accepts 
+KO: ''연합 시스템을 위해 봉사하라!'' / 연합 시스템의 차세대 제식 소총. 기계적으로는 USM 계열과 비슷하지만 6.02x41mm 탄을 쓰며, 이 신형 탄은 관통력과 정확도가 더 뛰어나다. /  / STANAG-USM 6.02x41mm 탄창을 사용한다. / ^green;"보조 발사"를 길게 눌러 완전 자동과 반자동을 전환한다.^reset;
+
+EN: ''To Serve The United Systems!'' / Next-Gen United Systems service rifle concept. Mechanically similar to the USM-series but chambered in 6.02x41mm, this new type of bullet provides better penetration and accuracy. /  / 
+KO: ''연합 시스템을 위하여 봉사하라!'' / 차세대 연합 시스템 제식 소총 개념형. 기구적으로는 USM 계열과 비슷하지만 6.02x41mm를 사용하며, 이 신형 탄은 관통력과 정확도가 더 뛰어나다. /  / STANAG-USM 6.02x41mm 탄창을 사용한다. / ^green;"보조 발사"를 길게 눌러 완전 자동과 반자동을 전환한다.^reset;
+
+EN: ''If it ain't drillable, it's probably flammable.'' / Y.F.F.S flamethrower fueled by a Detonite-based incendiary fuel, This new type of fuel is more stable than conventional flamer fuel. /  / Requires Y.F.F.S Ifrit Back-
+KO: ''뚫을 수 없다면 아마 태울 수 있다.'' / 데토나이트 기반 소이 연료를 쓰는 Y.F.F.S 화염방사기. 이 신형 연료는 기존 화염방사기 연료보다 안정적이다. /  / Y.F.F.S 이프리트 배낭형 가압 연료 탱크가 필요하다. / ^#EA3C0B;불타는 파도^reset;: [Alt-Fire]를 눌러 충전하면 화염 발사체 8발을 수직으로 퍼뜨려 발사한다 / 직접 명중에는 ^orange;점화
+
+EN: ''It ain't a gun if it don't weigh at least one hundred pounds!'' / Yamashiro Financial is a highly unified mega-corp whose formula for amassing vast wealth lies not in creation- but in employing various methods of decep
+KO: ''무게가 최소 100파운드는 안 나가면 총이 아니지!'' / 야마시로 파이낸셜은 고도로 통합된 거대 기업으로, 막대한 부를 쌓는 비결은 창조가 아니라 외곽 식민지들에 절대적인 군사적 우위를 휘두르며 온갖 기만과 약탈을 일삼는 데 있다 / YFFS 8.38mm 미니건 탄약 상자를 사용한다.  / ^#EA3C0B;납 폭풍: 방아쇠를 오래 당길수록 무기 숙련도와 연사력이 증가한다.
+
+EN: ''And then I realized that life is but a moment.'' /    / Flashbang grenade with a cardboard body and a plastic safety cap. Initially used as simulation grenades, their ability to stun and disorient was recognized by Tok
+KO: ''그러다 문득 삶은 한순간에 불과하다는 걸 깨달았다.'' /    / 판지 몸체와 플라스틱 안전 캡으로 만든 섬광탄입니다. 본래 모의 수류탄으로 사용했지만, 사람을 기절시키고 방향 감각을 잃게 하는 능력을 토쿠무 키칸의 비밀 작전 부대가 눈여겨보았습니다.  / ^orange;섬광 피격 효과 부여(3초 기절 | 6초 공황) | 방패/방어 자세인 대상에게 3초간 휘청임 부여 | 차량처럼 휘청임
+
+EN: ''New Army Sword'' is a machine-made, katana-like ceremonial weapon issued to officers and NCOs of the Imperial Japanese Army. Both symbol of honor and a badge of service, its actual combat performance is questionable. /
+KO: ''신군도''는 일본 제국군 장교와 부사관에게 지급된, 기계로 만든 카타나 형태의 의식용 무기다. 명예의 상징이자 복무의 증표지만, 실제 전투 성능은 의문스럽다. /  / ^#FFEEC6;반자이! [SHIFT]: 검을 치켜들고 함성을 지른다. 배치 명령을 발동하고, 5초간 공황을 일으키며, 15초간 자신과 다른 플레이어에게 초당 체력 +4와 능력 마나 재생 증가 효과를 준다 | 재사용 대기 
+
+EN: ''It is her duty to guard this mountain till the end.'' /  / A custom tailored gunblade gifted to the White Wolf Tengu by the Blackpowder Clan as a sign of respect after the first contact war treaty. Uses a revolver like
+KO: ''끝까지 이 산을 지키는 것이 그녀의 의무다.'' /  / 첫 접촉 전쟁 조약 이후 흑화약 클랜이 경의의 표시로 백랑 텐구에게 선물한 맞춤 제작 건블레이드. 리볼버 같은 실린더에 여섯 발을 장전해, 매지샷을 여러 발 쏠 수 있는 몇 안 되는 건블레이드다. /  / ^#FFEEC6;건 블리츠 [SHIFT]: 강화 매지샷을 연달아 쏘며, 반동으로 몸이 앞뒤로 튕겨 나간다. | 재사용 대기 20
+
+EN: This weapon employs a specialized recoil canceling counterweight system to maximize fully automatic fire with almost no felt recoil. Manufatured in limited numbers because of its expenisve price tag, it is currently in u
+KO: 이 무기는 특수한 반동 상쇄 추 시스템으로 체감 반동 거의 없이 완전 자동 사격을 극대화한다. 비싼 값 때문에 소량만 생산되었으며, 높은 연사력과 다용도성, 자동 명중률 덕에 현재 특정 특수부대가 채용 중이다. AK 5.45x39mm 탄창 호환. / ^orange;[SHIFT]를 두 번 눌러 개머리판을 전개하면 조작성과 다루기 편함이 오르는 대신 기동성과 속도를 희생한다.^reset; / ^
+
+EN: This weapon employs a specialized recoil canceling counterweight system to maximize fully automatic fire with almost no felt recoil. Manufatured in limited numbers because of its expenisve price tag, it is currently in u
+KO: 이 무기는 특수한 반동 상쇄 추 시스템으로 체감 반동 거의 없이 완전 자동 사격을 극대화한다. 비싼 값 때문에 소량만 생산되었으며, 높은 연사력과 다용도성, 자동 명중률 덕에 현재 특정 특수부대가 채용 중이다. AK 5.45x39mm 탄창 호환. / ^orange;[SHIFT]를 두 번 눌러 개머리판을 전개하면 조작성과 다루기 편함이 오르는 대신 기동성과 속도를 희생한다.^reset; / ^
+
+EN: ''Shit, the Ministry of Internal Affairs mobilized Spetsnaz Units.'' / The 7.62x39mm variant of the AEK-971. Due to its expensive price tag and higher maintenance cost, other AK variants are prefered over this weapon eve
+KO: ''젠장, 내무부가 스페츠나츠 부대를 동원했어.'' / AEK-971의 7.62x39mm 파생형. 완전 자동 정확도가 뛰어나고 분당 900발에 달하는 맹렬한 연사 속도를 지녔지만, 비싼 가격과 높은 정비 비용 때문에 다른 AK 파생형이 더 선호된다. / AK 7.62x39mm 탄창을 사용한다. / ^orange;[SHIFT]를 두 번 눌러 개머리판을 접으면 기동성과 속도가 오르는 대신 인체공
+
+EN: ''THEY SENT IN THE FUCKING SPETSNAZ, SHOOT!'' / The 7.62x39mm variant of the AEK-971. Due to its expensive price tag and higher maintenance cost, other AK variants are prefered over this weapon even with its superior ful
+KO: ''놈들이 빌어먹을 스페츠나츠를 보냈어, 쏴!'' / AEK-971의 7.62x39mm 파생형. 완전 자동 정확도가 뛰어나고 분당 900발에 달하는 맹렬한 연사 속도를 지녔지만, 비싼 가격과 높은 정비 비용 때문에 다른 AK 파생형이 더 선호된다. / AK 7.62x39mm 탄창을 사용한다. / ^orange;[SHIFT]를 두 번 눌러 개머리판을 펴면 인체공학성과 조작성이 오르는 대신 기동
+
+EN: The Styer Armee Universal Gewehr (AUG) is considered by most to be the ''best bullpup rifle ever made'' due to its accuracy, reliability, and ruggedness when compared to other contemporary bullpup rifles of its type. Fir
+KO: 슈타이어 아르메 우니베르잘게베어(AUG)는 정확성, 신뢰성, 견고함 면에서 동시대 다른 불펍 소총들과 비교해 대부분 '역대 최고의 불펍 소총'으로 평가받는다. 1977년 오스트리아에서 슈투름게베어 77(StG 77)이라는 제식 명칭으로 처음 채택된 슈타이어 AUG는, 오늘날까지도 은하 전역의 수많은 국가와 식민지 군대에서 사용되고 있다.  / STANAG NATO 5.56x45mm 탄창을 사
+
+EN: ''REMEMBER WHAT THEY DID TO STALINGRAD, GIVE THEM NO QUARTER.'' / A semi-automatic rifle of antiquated design that was chambered for the hefty 7.62x54mm cartridge. This rifle was initially meant to replace the older bolt
+KO: ''놈들이 스탈린그라드에 무슨 짓을 했는지 기억하라. 자비를 베풀지 마라.'' / 묵직한 7.62x54mm 탄을 쓰는 구식 설계의 반자동 소총. 원래는 오래된 볼트액션 M1891 모신나강 소총을 대체할 반자동 보병 소총 겸 저격소총으로 만들어졌다. 하지만 복잡한 구조와 비용, 그리고 첫발 명중률 문제 때문에 기대에 미치지 못했고, 본래 맡기로 한 저격 역할에도 맞지 않았다. / 7.62x54
+
+EN: ''Like a Super Anti-Materiel Rifle!'' / Federation infantry auto cannon, equipped with a series of recoil suppression components to allow regular personnel to fire it, were once used by colonists during the Expedition-Er
+KO: ''슈퍼 대물 저격소총 같은 거지!'' / 연방의 보병용 기관포. 일반 병력도 쏠 수 있도록 일련의 반동 억제 부품을 갖췄으며, 원정 시대에는 식민지 개척민들이 외계 세계의 야생 생물과 원주민 정착지에 맞서 싸울 때 썼다. SDA/SDMC도 값싼 화력 지원 무기로 채용했고, 일부 식민지에는 저가 수출 장비로 팔았다. / 25x137mm 기관포탄이 필요하다.
+
+EN: SDF personal auto cannon systems, The modern version has removed the original recoil suppression system and enhanced it with a magazine feed and electromagnetic acceleration array. For the Federation, who widely employs 
+KO: SDF의 개인용 자동포 시스템. 현대형은 기존 반동 억제 장치를 제거하고 대신 탄창 급탄 방식과 전자기 가속 배열을 추가해 개선했다. 개인 강화 시술과 합성 병사를 폭넓게 운용하는 연방에게 반동은 그리 큰 문제가 아니다. / ^#EA3C0B;동력 장갑 없이는 다루기 어려움^reset; / 25x137mm AC 드럼이 필요하다.
+
+EN: A combat pistol capable of delivering a massive number of bullets in a blink of an eye, it is the successor to the old .45 combat pistol, and its firing module is designed to be discarded after firing. / Uses GDI Standar
+KO: 눈 깜짝할 사이에 엄청난 수의 총알을 쏟아부을 수 있는 전투용 권총으로, 오래된 .45 전투용 권총의 후계자이며, 발사 모듈은 발사 후 폐기하도록 설계되었다. / GDI 표준 발사 모듈 사용 / ^green;Shift를 두 번 눌러 한손 3발 연속 반자동 사격으로 전환한다.^reset; / ^green;[Alt-Fire]를 누르면 발사 모듈에 남은 탄약을 전부 방출하지만, 남은 탄약량에 비례
+
+EN: A combat pistol capable of delivering a massive number of bullets in a blink of an eye, it is the successor to the old .45 combat pistol, and its firing module is designed to be discarded after firing. / Uses GDI Standar
+KO: 눈 깜짝할 사이에 엄청난 수의 총알을 쏟아부을 수 있는 전투용 권총으로, 오래된 .45 전투용 권총의 후계자이며, 발사 모듈은 발사 후 폐기하도록 설계되었다. / GDI 표준 발사 모듈 사용 / ^green;Shift를 두 번 눌러 양손 자동 모드로 전환한다.^reset; / ^#EA3C0B;메탈 스톰: 맞은 대상에게 BALLSTIC-STORM 효과를 건다. 방아쇠를 오래 당길수록 총기의 무
+
+EN: Fired in salvoes, these firearms are designed for close-range combat, similar in usage to a shotgun but with a more concentrated trajectory. /  / Uses GDI Standard Launching Module / ^green;Press [Alt-Fire] to release al
+KO: 일제 사격으로 발사되는 이 화기는 근접 전투용으로 설계되었으며, 샷건과 비슷하게 사용되지만 탄도가 더 집중되어 있다. /  / GDI 표준 발사 모듈 사용 / ^green;[Alt-Fire]를 눌러 발사 모듈에 남은 모든 탄약을 방출하되, 남은 탄약량에 비례해 근접 피해를 입는다.^reset; / ^orange;발사 모듈을 두 개 장착하면, 한 발에 12발의 탄환이 발사된다.^reset; /
+
+EN: A rugged combat rifle issued to COPSC enforcers in high risk conflict zones. High lethality provided by the 7.7x56mm cartridge is crippled by high recoil, although controlled bursts will be enough to tame the beast. The 
+KO: 고위험 분쟁 지역의 COPSC 집행관에게 지급되는 견고한 전투 소총. 7.7x56mm 탄의 높은 살상력은 강한 반동에 발목을 잡히지만, 짧게 끊어 쏘면 충분히 길들일 수 있다. 큰 탄약 규격 덕분에 신스와 경량 드론을 쓰러뜨리기에 알맞다. 30발들이 COPSC 7.7x56mm 탄창을 사용한다. /  / ^green;"보조 발사"를 길게 눌러 완전 자동과 반자동을 전환한다.^reset;
+
+EN: A reliable, high-grade GDI personal defence weapon. Usually adopted by GDI VTOL pilot or ground vehicle crew. / Uses GDI Standard Launching Module / ^green;Press [Alt-Fire] to release all remaining ammunition in the firi
+KO: 믿음직하고 고급스러운 GDI 개인 방어 무기. 보통 GDI 수직이착륙기 조종사나 지상 차량 승무원이 채택한다. / GDI 표준 발사 모듈 사용 / ^green;[Alt-Fire]를 눌러 발사 모듈에 남은 탄약을 모두 방출하지만, 남은 탄약량에 비례한 근접 피해를 입는다.^reset; / ^orange;발사 모듈 두 개를 장착해 한 발에 발사체 2개를 발사한다.^reset; / ^#EA3C0B
+
+EN: ''...I'm even enjoying myself over here. I think 2 years National Service is a waste if you don't do time in India. The people who don't come over here don't get anything out of their two years.'' / Iwashita Rifle with a
+KO: ''...난 여기서 꽤 즐겁게 지내고 있어. 인도에서 복무해 보지 않는다면 2년의 의무 복무는 낭비라고 생각해. 이곳에 오지 않는 사람들은 그 2년 동안 아무것도 얻지 못하거든.'' / 이와시타 소총에 무거운 총열과 핸드가드 겸용 양각대, 신형 탄창 멈치를 장착한 파생형입니다. 일반 T24 탄창뿐 아니라 ^yellow;나고야 T99 경기관총용 30발 탄창^reset;도 사용할 수 있도록 설계
+
+EN: ^orange;Light Machine Gun | Suppression+ | Point-Blank-
+KO: ^orange;경기관총 | 제압+ | 근접-
+
+EN: A bearer of nicknames such as ''The-Better-Without Machine Gun'' and ''Squad Suicide Firearm'', this 7.7x58mm general purpose machine gun was loosely based on an otherwise reliable T99 LMG. It suffered from everything: l
+KO: "없는 게 나은 기관총", "분대 자살용 화기" 같은 별명으로 불리는 7.7x58mm 다목적 기관총으로, 원래는 믿을 만했던 T99 경기관총을 대충 바탕으로 만들었다. 부품이 헐거워 떨어져 나가고, 오발이 나고, 폭주 사격이 일어나고, 총열은 T24 소총보다 얇은 등 온갖 문제를 겪었다. 난부 기지로가 세상을 떠나면서 일본 총기 설계계에 엄청난 역량 공백이 생긴 모양이다... /  / ^or
+
+EN: ^orange;GPMG | Cumbersome | Suppression+ | Point-Blank-
+KO: ^orange;다목적 기관총 | 다루기 힘듦 | 제압+ | 근접-
+
+EN: Japanese light machine gun in ^yellow;7.7x58mm Ammo.^reset; After First World War, warring powers shifted from heavy Maxim-type machine guns to the ones that were light enough to be carried and operated by one man. Most 
+KO: ^yellow;7.7x58mm 탄^reset;을 사용하는 일본제 경기관총이다. 제1차 세계대전 이후, 교전국들은 무거운 맥심식 기관총에서 한 사람이 휴대하고 운용할 수 있을 만큼 가벼운 것으로 전환했다. 대부분의 설계는 T99에 큰 영향을 준 유서 깊은 ZB-26처럼 탄창을 사용해 이를 달성했다. 하지만 탄창 급탄식 자동소총과 기관총은 장시간 탄막을 쏟아붓는 데 있어서는 더 무거운 범용 기관
+
+EN: ^orange;Squad Automatic Weapon | Suppression+ | Point-Blank-^reset;
+KO: ^orange;분대 자동 화기 | 제압+ | 근접-^reset;
+
+EN: Copy of an American Ithaca M37 shotgun, produced in small numbers by local gun factories throughout Asia. Some ''volunteers'' from Imperial Vietnamese Army brought these to India, where their reliability and handiness ma
+KO: 아시아 전역의 지역 총기 공장에서 소량 생산한 미국 이타카 M37 산탄총의 복제품입니다. 제국 베트남군의 일부 '의용병'이 이를 인도로 가져왔고, 신뢰성과 휴대성 덕분에 일본 제국 육군 계급 내에서도 꽤 인기를 얻었습니다. / 18.50x70mm 산탄총 탄피를 사용합니다. /  / ^orange;슬램 파이어: 방아쇠를 누른 채 빠르게 발사할 수 있지만, 반동 회복은 다른 산탄총보다 크게 느립
+
+EN: ''No, it's not a rocket launcher.'' /    / Swedish-made, Japanese-licence-produced 84mm recoilless rifle. Adopted by the IJA in 1979 to improve infantry's anti-tank capabilities. Thanks to its design, it can fire a varie
+KO: ''아니, 로켓 발사기가 아니야.'' /    / 스웨덴에서 설계하고 일본에서 면허 생산한 84mm 무반동총. 보병의 대전차 능력을 높이려고 1979년 일본 제국군이 채택했다. 설계 덕분에 일반 대전차 고폭탄부터 플레셰트탄과 조명탄까지 다양한 탄을 쏠 수 있어, 전차 사냥 외에도 쓸모가 많은 다재다능한 도구다. /  / 쇼와 84x245mmR 무반동총 포탄을 사용한다.
+
+EN: Intebellum was a time when the most unhinged theories about post-WW1 warfare were put into practice. Many of these theories turned out to be impractical, and some were simply ahead of their time. T11 LMG, for example, fe
+KO: 인터벨룸은 1차 대전 이후 전쟁에 관한 가장 정신 나간 이론들이 실제로 실행에 옮겨진 시기였다. 이런 이론 중 다수는 비현실적인 것으로 판명되었고, 일부는 그저 시대를 앞서갔을 뿐이었다. 예를 들어 다이쇼 T11 경기관총은 일반 소총병과 같은 탄약 공급원(이 총의 경우 ^yellow;7.7x58mm 탄창^reset;)을 사용했는데 - 이는 수십 년이 지나서야 흔해진 기능이었다. / ^oran
+
+EN: Czechoslovakia was a birthplace of many overly-talented but forgotten small-arms designers, who created some of the most sophisticated firearms of the Interbellum. Bohemian 26 was a paragon of contemporary mag-fed LMG, a
+KO: 체코슬로바키아는 재능은 넘치지만 잊힌 수많은 소화기 설계자들의 고향이었으며, 이들은 전간기 최고 수준의 정교한 화기들을 만들어냈습니다. 보헤미안 26은 당대 탄창급탄식 경기관총의 전형이었고, 체코슬로바키아 본국 외에도 여러 나라에 판매되었습니다. 중국은 새로 창설한 독일식 훈련 사단을 무장시키기 위해 다수를 구매했습니다. 전용 ^yellow;7.92x57mm 20발들이 탄창^reset;을 사
+
+EN: ^orange;Light Machine Gun | Suppression+ | Point-Blank-^reset;
+KO: ^orange;경기관총 | 제압+ | 근접-^reset;
+
+EN: Cavalry carbine version of Modell 1888 Kommissionsgewehr. Shorter barrel and less wooden parts make the carbine lighter and easier to use than the regular infantry rifle, but also negatively affects accuracy. Given these
+KO: 모델 1888 콤미시온스게베어의 기병 카빈형이다. 총열이 더 짧고 목재 부품이 적어 일반 보병소총보다 가볍고 다루기 쉽지만, 명중률에는 부정적 영향을 준다. 이런 특성 덕분에 카빈은 기병대를 넘어서도 사용되었으며, 특히 게비르크스예거 부대에서 애용했다. ^yellow;7.92x57mm 앙블록 클립^reset;을 사용한다.
+
+EN: ''GOOD MORNING VIETNAM'' / Chambered in the hefty 7.62x51mm round, this legendary general-purpose machine gun has withstood the test of time since its initial introduction in 1957. From the jungles of Vietnam to the othe
+KO: ''굿모닝 베트남'' / 묵직한 7.62x51mm 탄을 쓰는 이 전설적인 다목적 기관총은 1957년 처음 도입된 이래 세월의 시험을 견뎌 왔다. 베트남의 정글에서부터 수많은 외계 행성의 이질적인 정글과 숲에 이르기까지, 이 무기와 파생형은 오늘날에도 은하 곳곳에서 널리 쓰인다. M60E4 전용으로 설계된 100발 및 200발 상자 탄창을 지원하며 MG3 탄창도 사용할 수 있다. / ^oran
+
+EN: ^orange;GPMG | Cumbersome | Suppression+ | Point-Blank-^reset;
+KO: ^orange;다목적 기관총 | 다루기 힘듦 | 제압+ | 근접-^reset;
+
+EN: Considered to be the first of its kind from the Lion's homeland, the L44 is an assault rifle that fires rifle round cartridges in rapid fire at the cost of only some accuracy. Specialized equipment has been put onto the 
+KO: 사자 고향에서 나온 최초의 물건으로 여겨지는 L44는 약간의 정확도만 희생해 소총탄을 빠르게 발사하는 돌격소총입니다. 산의 빽빽한 숲에서 사용자가 더 잘 보고 늑대 텐구의 비할 데 없는 시야에 맞설 수 있도록 특수 장비를 장착했습니다. / 30발 7.92x33mm 탄창을 사용합니다. / ^green;"보조 발사"를 길게 눌러 완전자동과 반자동을 전환합니다.^reset;
+
+EN: A semi-automatic sniper rifle used by the snipers of the Lion. Snipers are one of the few units capable of taking out a youkai in a single shot without the assistance of support weapons or other soldiers thanks to their 
+KO: 라이온의 저격수들이 사용하는 반자동 저격소총. 저격수는 비할 데 없는 정확도 덕분에 지원 무기나 다른 병사의 도움 없이도 한 발로 요괴를 처치할 수 있는 몇 안 되는 병과 중 하나다. 특히 노련한 저격수는 노출되지 않은 채 여러 요괴를 잇달아 빠르게 처치할 수 있는 것으로 알려져 있다. /  /  / 10발들이 7.92x57mm 탄창을 사용한다.
+
+EN: ''Although this thing is a bit outdated, it's still a machine gun. For you oni, I doubt its weight is going to be a problem.'' / One of the first machine guns used by the Lion based off from Western versions. It was exte
+KO: ''조금 구식이기는 해도 기관총은 기관총이지. 오니인 자네라면 무게도 별문제가 안 될 거야.'' / 서방의 설계를 바탕으로 라이온이 처음 운용한 기관총 가운데 하나입니다. 제1차 대륙 전쟁에서 광범위하게 사용되었지만 L34처럼 활용도가 더 높은 기관총에 자리를 내주며 퇴역했습니다. 이후 무기 부족 사태가 벌어지자 L08은 급히 창고에서 다시 꺼내졌습니다. / 75발들이 7.92x57mm 드럼
+
+EN: ''They can try and revolt as much as they want. We'll just beat them down again and again if they do. After the Seventh Coalition War, everyone had enough of their tantrums. You think the Queen wanted to rule over them? 
+KO: ''놈들이 반란을 일으키고 싶으면 얼마든지 일으키라지. 그러면 우린 몇 번이고 다시 짓밟으면 돼. 제7차 대동맹 전쟁 이후로 다들 놈들의 떼쓰기에 질려 버렸어. 여왕이 놈들을 다스리고 싶어서 다스린다고 생각해? 아니, 그때 나라 전체 인구가 또 혁명을 일으키지 못하게 진압할 만한 군사력이 있는 게 여왕뿐이라서 그러는 거야.'' / 연사 속도가 느리고 탄창 용량이 작지만 웅크리면 정확도가 높은
+
+EN: ''One of the best machine gun in the whole damn galaxy and you aren't changing my mind.'' / The L34 is a general purpose machine gun often found on top of tanks. Unlike its mounted versions, this machine gun has been giv
+KO: ''이 빌어먹을 은하 전체에서 손꼽히는 기관총이야. 내 생각은 절대 안 바뀌어.'' / L34는 전차 위에 자주 달려 있는 다목적 기관총이다. 거치형과 달리 이 기관총은 드럼 탄창을 달았으며, 분대원 한 명이 대량의 제압 사격을 퍼붓도록 설계되었다. / 75발들이 7.92x57mm 드럼 탄창을 사용한다. / ^red;반동이 빠르게 누적된다. 점사를 권장한다.^reset;
+
+EN: ''The howling came first before they charged at us. I could feel my veins freeze when I saw those red eyes staring at me. I heard stories of those wolves taking a rifle round to the chest and shrugging it off. That most 
+KO: ''놈들이 달려들기 전에 먼저 울부짖는 소리가 들렸다. 그 붉은 눈이 날 노려보는 걸 봤을 때 혈관이 얼어붙는 것 같았다. 그 늑대들이 소총탄을 가슴에 맞고도 대수롭지 않게 넘긴다는 이야기를 들은 적이 있다. 사람이라면 죽을 상처도 그놈들에게는 겨우 걸리적거리는 정도라고. 나는 숨을 깊이 들이쉬고 방아쇠를 당겼다. 그때 승리의 소리가 어떤 건지 알게 됐다.'' /  / 75발들이 7.92x5
+
+EN: West Star flamethrower given to specialized engineers wearing heavy body armor. The tanks themselves are heavily reinforced and enchanted by magicians reducing the chance of the tanks exploding from stray rounds to almos
+KO: 중장갑 보디 아머를 입은 전문 기술자에게 지급되는 웨스트 스타 화염방사기. 탱크 자체가 중강화되고 마법사들의 마법이 걸려 있어, 탱크가 유탄에 폭발할 확률을 거의 무시할 수준으로 줄였다. 하지만 무적은 아니며 집중 사격 아래서는 여전히 폭발할 수 있다. 재장전에는 S1 연료 탱크가 필요하다. /  / 화염은 공중에서 퍼져 나가며 지형에 닿으면 불의 웅덩이를 만든다. ^orange;직격^res
+
+EN: ''No one who fired this pistol wants to fire it again.'' / Powerful handgun that was originally rejected by the army due to its absurd recoil. The decision was quickly overruled when the Lion began deploying their knight
+KO: ''이 권총을 한 번 쏴 본 사람은 다시는 쏘고 싶어 하지 않는다.'' / 터무니없는 반동 때문에 원래 군에서 채택을 거부당한 강력한 권총. 하지만 제1차 대륙 전쟁 중 라이온이 기사와 돌격병을 대거 배치하기 시작하면서 두꺼운 방탄복을 뚫을 수 있는 권총이 필요해지자, 그 결정은 곧 뒤집혔다. 지금은 높은 저지력 덕분에 서부 군대가 요괴를 상대할 때 쓰는 표준 권총으로 여겨진다. / 7발들이
+
+EN: Often referred to by West Star States soldiers as a 'grease' gun, the only redeeming quality of this weapon is that it costs barely any material to produce. To further reduce costs, the Crown Federation adopted the L40's
+KO: 웨스트 스타 국가들 병사들 사이에서 흔히 '그리스' 건이라 불리는 이 무기의 유일한 장점은 생산에 재료가 거의 들지 않는다는 것이다. 비용을 더 줄이기 위해, 크라운 연방은 새 탄창을 만드느라 재료를 낭비하는 대신 L40의 탄창을 채택했다. /  /  / 32발들이 9x19mm 탄창만 사용 가능. / ^green;SHIFT를 두 번 누르면 한손 사용으로 전환. (정확도 감소)^reset;
+
+EN: Often referred to by Westerners as a 'grease' gun, the only redeeming quality of this weapon is that it costs barely any material to produce. To further reduce costs, the Crown Federation adopted the L40's magazine rathe
+KO: 서양인들 사이에서 흔히 '그리스' 건이라 불리는 이 무기의 유일한 장점은 생산에 재료가 거의 들지 않는다는 것이다. 비용을 더 줄이기 위해, 크라운 연방은 새 탄창을 만드느라 재료를 낭비하는 대신 L40의 탄창을 채택했다. /  /  / 32발들이 9x19mm 탄창만 사용 가능. / ^green;SHIFT를 두 번 누르면 한손 사용으로 전환. (정확도 감소)^reset;
+
+EN: Often referred to by Westerners as a 'grease' gun, the only redeeming quality of this weapon is that it costs barely any material to produce. To further reduce costs, the Crown Federation adopted the L40's magazine rathe
+KO: 서양인들 사이에서 흔히 '그리스' 건이라 불리는 이 무기의 유일한 장점은 생산에 재료가 거의 들지 않는다는 것이다. 비용을 더 줄이기 위해, 크라운 연방은 새 탄창을 만드느라 재료를 낭비하는 대신 L40의 탄창을 채택했다. /  /  / 32발들이 9x19mm 탄창만 사용 가능. / ^green;SHIFT를 두 번 누르면 양손 사용으로 전환. (정확도 증가)^reset;
+
+EN: Before the youkai came around, West Star snipers would be equipped with Fallfield rifles due to them having the highest accuracy at the time. You'll still find some of them using this weapon rather the R55. Mainly those 
+KO: 요괴가 등장하기 전, 웨스트 스타의 저격병들은 당시 가장 명중률이 높았던 폴필드 소총으로 무장했다. 지금도 R55 대신 이 무기를 쓰는 이들을 볼 수 있다. 주로 정찰 임무를 맡은 이들이다. 독자적으로 개조된 7.92x57mm 탄환만 사용한다. /    / ^yellow;킬링샷: 총알이 빗나가지 않으며 치명타를 입힐 확률이 있다. 치명타는 두 배의 피해를 입히고, 대상을 관통하며, SMALL
+
+EN: ''SHOW ME THE FRONT AND BACK OF YOUR HANDS!'' / A big heavy frame double-action assault revolver chambered in 9x39mm rifle cartridge. This specific model is the ''lighter'' and ''lower-caliber'' variant of the heavier RS
+KO: ''손바닥이랑 손등 보여!'' / 9x39mm 소총탄을 쓰는 크고 묵직한 프레임의 더블액션 돌격 리볼버. 이 모델은 더 무거운 RSh-12의 ''가볍고'' ''구경이 작은'' 파생형이다. AS ''발'' 같은 다른 소총에 쓰이는 것과 같은 9x39mm 중간 위력 소총탄 다섯 발이 들어가며, 그 유명한 신뢰성과 정확도 덕분에 경찰 특공대나 특수 군부대의 손에서 볼 수 있다. / ^green;[
+
+EN: A big heavy frame double-action assault revolver chambered in 9x39mm rifle cartridge. This specific model is the ''lighter'' and ''lower-caliber'' variant of the heavier RSh-12. This revolver holds five rounds of the sam
+KO: 9x39mm 소총탄을 쓰는 대형 중량 프레임 더블 액션 돌격 리볼버. 이 모델은 더 무거운 RSh-12의 "더 가볍고" "더 작은 구경" 파생형이다. AS "발" 같은 다른 소총과 같은 9x39mm 중간 위력 소총탄을 다섯 발 장전하며, 이름난 신뢰성과 정확도 덕분에 경찰 SWAT 부대나 특수 부대의 손에서 볼 수 있었다. / ^orange;재장전이 평소보다 느리다.^reset; / ^gre
+
+EN: ''BACKBLAST CLEAR'' / Also known as the MAAWS (Multi-Role Anti-Armor Anti-Personnel Weapon System), the Carl Gustaf is an 84mm recoilless rifle that is capable of engaging a multitude of different ground targets ranging 
+KO: ''후폭풍 지역 이상 무!'' / MAAWS(다목적 대장갑·대인 무기 체계)라는 이름으로도 알려진 칼 구스타프는 84mm 무반동총입니다. 적 보병과 비장갑 차량, 중장갑 차량은 물론 어느 정도는 적 벙커까지 다양한 지상 표적과 교전할 수 있습니다. 동시대의 로켓 추진식 무기보다 상당히 원시적이고 단순하지만, 지금도 은하 전역에서 현역으로 사용됩니다. ^orange;84mm 무반동총 포탄으로 
+
+EN: The Browning Automatic 5, most often Auto-5 or simply A-5, is a recoil-operated semi-automatic shotgun designed by John Browning in 1898 and manufactured by Fabrique Nationale de Herstal from 1902. It was the first succe
+KO: 브라우닝 오토매틱 5, 흔히 오토-5 또는 그냥 A-5라 불리는 이 총은, 1898년 존 브라우닝이 설계하고 1902년부터 파브리크 나쇼날 드 에르스탈이 제조한 반동 작동식 반자동 산탄총이다. 이는 최초로 성공한 실용적이며 최초로 대량 생산된 반자동 산탄총 설계였으며, A5 시리즈 같은 오토 5의 다양한 변형과 복제품으로 오늘날까지 계속 생산되고 있다. 12게이지 탄을 사용한다. / ^ora
+
+EN: A legendary bolt-action hunting rifle that has stood the test of time since its original inception in 1962. The Remington Model 700, sometimes referred to as the R700 or M700, is the best friend of countless Woodsmen, Hu
+KO: 1962년 처음 등장한 이래 시대를 뛰어넘은 전설적인 볼트액션 사냥용 소총입니다. 흔히 R700 또는 M700이라 불리는 레밍턴 모델 700은 신뢰성, 견고함, 정확성 덕분에 은하 전역의 수많은 나무꾼, 사냥꾼, 생존주의자, 야외활동가에게 가장 좋은 벗이 되어왔습니다. 레밍턴 700은 그 이후로 북아메리카의 숲부터 수 광년 떨어진 외계 행성에 이르기까지, 소형에서 중형, 심지어 대형 사냥감까
+
+EN: ''This is Element to TOC, Suspect is deceased. Requesting Trailers.'' / A variant of the B&T APC9 fitted with an integral suppressor that massively dampens firing sound for covert stealth operations. Accepts 9x19mm AR-SM
+KO: ''엘리먼트가 TOC에. 용의자 사망. 영구차 요청.'' / 은밀 작전을 위해 발사음을 크게 줄이는 일체형 소음기를 단 B&T APC9 파생형. 9x19mm AR-SMG 탄창을 사용한다. ^yellow;HP 탄창은 사용할 수 없다.^reset; / ^orange;맞은 대상에게 기습 효과를 걸어, 이어지는 사격의 피해가 +50% 된다. 0.5초(일체형 소음기) 동안 다시 맞히지 못하면 대상은 
+
+EN: ''In ancient times, men built wonders, laid claim to the stars and sought to better themselves for the good of all. But we are much wiser now.'' / Granting a single individual with a massive 400rnd belt-linked ammunition
+KO: ''고대에 인간은 경이로운 것들을 세우고, 별들을 차지하고, 모두의 이익을 위해 스스로를 더 낫게 만들려 했다. 하지만 지금 우리는 훨씬 현명하다.'' / 한 사람에게 400발짜리 거대한 탄띠 탄약 배낭을 짊어지게 하는 이 총은, 하층 식민지의 빽빽하고 좁은 복도에서 갱단 분대의 화력을 크게 끌어올린다. 7.62x39mm 전용 헤비 스터버 탄띠 급탄식 탄약을 쓰지만, 가스 배출이 형편없어 피
+
+EN: ''In and out, two minutes.'' / Bullpup 6P41 light machine gun, which was designed for CQB combats. /  / Uses PKM 7.62x54mm Box Magazine. / ^orange;Gun gains Weapon Proficiency the longer the trigger is held.
+KO: ''들어갔다 나오는 데 2분.'' / 근접 전투용으로 설계된 불펍형 6P41 경기관총. /  / PKM 7.62x54mm 상자 탄창을 사용한다. / ^orange;방아쇠를 오래 당길수록 무기 숙련도가 증가한다.
+
+EN: ''Wait. How did you get this Rifle?'' / An unsuccessful export weapon project, combining the firing mechanism of the AL-7 rifle into the AK Rifle, which makes it have extremely low recoil /  / ^#EA3C0B;Balanced Automatic
+KO: ''잠깐. 이 소총 어떻게 구했어?'' / AL-7 소총의 격발 기구를 AK 소총에 결합한 실패한 수출 무기 사업. 그 덕분에 반동이 극도로 낮다 /  / ^#EA3C0B;균형 자동 반동 시스템^reset; / AK 5.45x39mm 탄창을 사용한다. / ^green;"보조 발사"를 길게 눌러 완전 자동과 3점사를 전환한다.^reset;
+
+EN: ''We could go on-and-on about the advantages and disadvantages of every gun on the colonial internet, but we should be more honest about ourselves: a gun is a gun. It's designed to kill people. Any gun can do that.'' /  
+KO: ''식민지 인터넷에 있는 총마다 장단점을 끝없이 늘어놓을 수도 있지만, 솔직해지자. 총은 총이다. 사람을 죽이려고 만든 물건이다. 어떤 총이든 그건 할 수 있다.'' /    / 9x18mm 탄을 쓰는 케드르 Mk18 기관단총. 35발이 들어가며, 반동 제어가 쉬워 긴 연사에 적합하다. / ^green;"보조 발사"를 길게 눌러 완전 자동과 반자동을 전환한다.^reset;
+
+EN: ''One has to make do without gunpowder.'' / Lightweight crossbow that fire flechettes rather than normal bolts. While the Kappas and Yamawaro did not possess the industrial base necessary to produce proper firearms for a
+KO: ''화약 없이 어떻게든 해내야 하지.'' / 일반 볼트 대신 플레셰트를 발사하는 경량 석궁. 캇파와 야마와로는 모든 동맹에게 제대로 된 화기를 공급할 산업 기반이 없었지만, 동맹이 이미 가진 장비를 개량해 기술 격차를 좁힐 도구는 갖추고 있었다. ^yellow;플레셰트 탄창을 사용하며 찌르기 피해를 준다.^reset; / ^#c93d3d;빗나가지 않지만 내구도가 정확도에 큰 영향을 준다.^r
+
+EN: Heavy duty bolt launcher that was designed by the Sunless Order to pierce through the thick hide of the abominations summoned by the cult. One must wonder what horrific beasts necessitated the use of a weapon like this. 
+KO: 무태양 교단이 그 교단이 소환하는 흉물들의 두꺼운 가죽을 꿰뚫기 위해 설계한 고강도 볼트 발사기입니다. 대체 어떤 끔찍한 괴물들이 이런 무기를 필요하게 만들었는지 궁금해질 정도입니다. 작살 볼트만 장전할 수 있으며 유지에는 화기 수리 키트가 필요합니다. / ^#ffe498;회수 & 재사용: 볼트는 적을 3초간 기절시키고 관통 상태를 부여합니다. (30초 동안 초당 체력 -10.) 관통 상태의
+
+EN: ''The enemy's greatest advantage is distance. Get close, and they'll be easy picking.'' / Magilock pistol with two barrels instead of one. Sacrifices accuracy and reliability in favor of firing two shots. Rather than hit
+KO: ''적의 가장 큰 이점은 거리다. 가까이 붙으면 손쉬운 사냥감이 된다.'' / 총열이 하나가 아니라 둘인 매지락 권총. 두 발을 쏘는 대신 정확도와 신뢰성을 포기했다. 표적을 맞히기보다, 사용자가 적을 근접전으로 끌어들일 수 있을 때까지 적이 엄폐를 벗어나지 못하도록 최대한 많은 마법을 퍼붓게 설계되었다. / ^yellow;매지샷 탄약이 피해와 탄창 용량을 결정한다.^reset; / ^#c9
+
+EN: The native tengu clans of this land already had some familiarity with basic firearms prior to the arrival of both the tengu and human outsiders. Many of these tengu soldiers would prefer to use a bandolier of magilocks t
+KO: 이 땅의 토착 텐구 일족은 텐구와 인간 외부인이 도착하기 전부터 기본적인 총기에 어느 정도 익숙했다. 많은 텐구 병사는 다루기 쉽다는 이유로 활보다 매지락을 잔뜩 꽂은 탄띠를 차고 적을 괴롭히는 쪽을 선호했다. 활은 재장전이 빨라 대규모 전장에서 여전히 쓰였지만, 짧은 교전에서는 매지락이 훨씬 뛰어났다. / ^yellow;매지샷 탄약이 피해량과 탄창 용량을 결정한다.^reset; / ^#c9
+
+EN: Magic rifle used by various youkai groups. Despite having similar appearence to a ancient human firearm, these rifles are more accurate and lethal than their human compatriots due to the use of magic ammunition and encha
+KO: 여러 요괴 집단이 쓰는 마법 소총. 고대 인간 총기와 외형은 비슷하지만, 마법 탄약을 쓰고 무기에 마법을 깃들여 두었기에 인간의 것보다 정확하고 치명적이다. 인간의 옛 총기와 유일하게 닮은 점은 장전에 한세월이 걸린다는 것이다. ^yellow;매지샷 탄약이 피해량과 탄창 용량을 결정한다.^reset; / ^#c93d3d;빗나가지 않지만 내구도가 정확도에 큰 영향을 준다.^reset; / ^o
+
+EN: A 9 barreled magic volley gun that fires in a burst sequence. Offers a lot more lethality in a short time frame than a standard rifle, but suffers from overheating issue that causes the barrels to degrade rapidly, crippl
+KO: 버스트 순서로 발사되는 9총열 마법 일제총. 표준 소총보다 짧은 시간에 훨씬 치명적이지만 과열 문제로 총열이 빨리 마모되어 장거리 명중이 망가진다.  ^yellow;매지샷 탄약이 피해와 탄창 용량을 결정. 정확한 9버스트 순서로 발사.^reset; /  / ^#c93d3d;빗나가지 않지만 내구도가 명중에 큰 영향.^reset; / ^orange;일제 사수: 0.25s 패링 창 | 200HP 
+
+EN: A forgotten handmade long arm rifle that has been imbued with an Onibi. Otherwise known as demon fire, these youkai drain the life force of nearby beings and take the shape of a small blue flame. It is reported that the 
+KO: 오니비가 깃든, 잊혀진 수제 장총입니다. 오니비, 즉 도깨비불이라 불리는 이 요괴는 근처 생명체의 생명력을 빨아들이며 작은 푸른 불꽃의 모습을 하고 있습니다. 이 무기에서 발사된 탄환은 대상을 불태울 뿐만 아니라 영혼까지 갉아먹어 껍데기만 남긴다고 전해집니다. ^yellow;매지샷 탄약이 피해량과 탄창 용량을 결정합니다.^reset; / ^#c93d3d;빗나가지 않지만, 내구도가 명중률에 큰
+
+EN: A forgotten handmade long arm rifle that has been imbued with an Onibi. Otherwise known as demon fire, these youkai drain the life force of nearby beings and take the shape of a small blue flame. It is reported that the 
+KO: 오니비가 깃든, 잊혀진 수제 장총입니다. 오니비, 즉 도깨비불이라 불리는 이 요괴는 근처 생명체의 생명력을 빨아들이며 작은 푸른 불꽃의 모습을 하고 있습니다. 이 무기에서 발사된 탄환은 대상을 불태울 뿐만 아니라 영혼까지 갉아먹어 껍데기만 남긴다고 전해집니다. ^yellow;매지샷 탄약이 피해량과 탄창 용량을 결정합니다.^reset; / ^#c93d3d;빗나가지 않지만, 내구도가 명중률에 큰
+
+EN: The Hiya-Zutsu is an early Japanese rocket launcher that was developed after the acquisiton of matchlock technology from the Portuguese. The Crow Tengu, having been one of the victims of said weapon, recalled its design 
+KO: 히야즈츠는 포르투갈로부터 화승총 기술을 습득한 후 개발된 초기 일본식 로켓 발사기다. 이 무기의 피해자 중 하나였던 까마귀 텐구는 그 설계를 캇파들에게 전했고, 캇파들은 이를 본뜬 자신들만의 무기를 만들었다. 불화살을 발사했던 역사적 원형과 달리, 이것은 대신 마법으로 충전된 로켓을 사용한다. ^yellow;처음엔 느리다가 시간이 지나며 빨라지는 매직로켓을 사용한다.^reset; / ^#c9
+
+EN: The Waterfall Kappas did not have any proper weaponry when the war broke out unlike their Yamawaro rivals. While the tengu clans did protect them thanks to their prior treaties, the kappas still needed to get themselves 
+KO: 워터폴 캇파는 전쟁이 발발했을 때 라이벌인 야마와로와 달리 제대로 된 무기가 없었다. 텐구 씨족들이 기존 조약 덕분에 그들을 보호해주긴 했지만, 캇파들은 여전히 많은 훈련 없이도 자신을 지킬 제대로 된 무기가 필요했다. 그 결과 그들의 네일건은 빠르게 치명적인 무기로 재설계되었다. ^orange;찌르기 피해를 주며 빗나가지 않습니다.^reset; / 64발 네일건 탄창만 사용합니다. / ^g
+
+EN: The Waterfall Kappas did not have any proper weaponry when the war broke out unlike their Yamawaro rivals. While the tengu clans did protect them thanks to their prior treaties, the kappas still needed to get themselves 
+KO: 워터폴 캇파는 전쟁이 발발했을 때 라이벌인 야마와로와 달리 제대로 된 무기가 없었다. 텐구 씨족들이 기존 조약 덕분에 그들을 보호해주긴 했지만, 캇파들은 여전히 많은 훈련 없이도 자신을 지킬 제대로 된 무기가 필요했다. 그 결과 그들의 네일건은 빠르게 치명적인 무기로 재설계되었다. ^orange;찌르기 피해를 주며 빗나가지 않습니다.^reset; / 64발 네일건 탄창만 사용합니다. / ^g
+
+EN: Not to be confused with curse or dark magic, poison magic is the simple art of combining existing poisons into a single spell and manipulating its behavior. It is very rare for a magician to make their own poison for tha
+KO: 저주나 흑마법과 혼동하기 쉽지만, 독 마법은 이미 있는 독들을 하나의 주문으로 엮고 그 작용을 조종하는 단순한 기술이다. 마법사가 직접 독을 만드는 일은 매우 드물다. 대부분의 마법사가 경험조차 없는 분야의 방대한 지식이 필요하기 때문이다. 직접 만드는 이들도 몇몇 있지만, 대부분은 기존의 독을 섞어 쓰는 것으로 만족한다. / ^orange;공격이 3초간 초당 -10HP를 입힌다.^reset
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; /  The AA-12 (Auto Assault-12), originally designed and known as the Atchisson Assault Shotgun, is an automatic combat shotgun. The shotgun fires in fully autom
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; /  AA-12(자동 돌격-12), 원래 애치슨 돌격 산탄총으로 설계되고 알려진 자동 전투 산탄총이다. 이 산탄총은 완전 자동 모드로만 발사된다. 방아쇠를 놓거나 탄약이 떨어질 때까지 계속 발사된다. 자동 산탄총은 사거리가 매우 제한적이지만 근거리에서 엄청난 화력을 제공한다. /  ^red;낮은 명중률, 특히 완전 자동 사격 
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; / The AN-94 is chambered in the same 5.45×39mm M74 cartridge as the AK-74. The AN-94 has the unique feature of delaying felt recoil for the first two rounds, an
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; / AN-94는 AK-74와 동일한 5.45×39mm M74 탄을 사용한다. AN-94는 첫 두 발의 체감 반동을 지연시키는 독특한 기능이 있어, 분당 1800발의 고유한 2점사 기능을 제공한다. 복잡한 설계와 높은 가격 때문에 특수 목적 무기로 제한적으로 사용된다. / ^green;"보조 발사"를 누르고 있으면 2점사와 자동
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; /   The Italian semi-automatic 12-gauge shotgun manufactured by the Italian firearms company Benelli Armi(SpA) is the fourth installment in the Benelli series. 
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; /   이탈리아 총기 회사 베넬리 아르미(SpA)가 제조한 이탈리아 반자동 12게이지 산탄총으로, 베넬리 시리즈의 네 번째 모델이다. 이 산탄총의 공식 군용 버전은 베넬리 M1014 통합 전투 산탄총(JSCS)이라 불린다. /  / ^yellow;빠름. 다만 빗나감 확률 높음, 펌프 액션보다 부정확. / ^green;Shift
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; /   The Italian semi-automatic 12-gauge shotgun manufactured by the Italian firearms company Benelli Armi(SpA) is the fourth installment in the Benelli series. 
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; /   이탈리아 총기 회사 베넬리 아르미(SpA)가 제조한 이탈리아 반자동 12게이지 산탄총으로, 베넬리 시리즈의 네 번째 모델이다. 이 산탄총의 공식 군용 버전은 베넬리 M1014 통합 전투 산탄총(JSCS)이라 불린다. / ^#4040df;슬러그 전용: 슬러그탄만 재장전, 장전된 벅샷도 발사 가능 / ^yellow;빠름. 
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; / The Mark XIX Desert Eagle is a gas-operated, semi-automatic pistol with a 8 round capacity in .44 Magnum. This handgun uses a gas-operated ejection and chambe
+KO: ^#750000;무엔즈카 너머, 다른 세계에서 온 물건.^reset; / 마크 XIX 데저트 이글은 .44 매그넘을 쓰는 8발들이 가스 작동식 반자동 권총이다. 반자동 권총에서 흔히 보이는 쇼트 리코일이나 블로백 방식 대신, 소총에서 주로 쓰는 가스 작동식 배출·장전 기구를 사용한다.   / ^red; 조준 레일이 짧아 현대 군용 조준경을 달기에는 모자라다. / ^green;Shift를 두 
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; / The Mark XIX Desert Eagle is a gas-operated, semi-automatic pistol with a 8 round capacity in .44 Magnum. This handgun uses a gas-operated ejection and chambe
+KO: ^#750000;무엔즈카 너머, 다른 세계에서 온 물건.^reset; / 마크 XIX 데저트 이글은 .44 매그넘을 쓰는 8발들이 가스 작동식 반자동 권총이다. 반자동 권총에서 흔히 보이는 쇼트 리코일이나 블로백 방식 대신, 소총에서 주로 쓰는 가스 작동식 배출·장전 기구를 사용한다. / ^red; 조준 레일이 짧아 현대 군용 조준경을 달기에는 모자라다. / ^green;Shift를 두 번 
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; /   The Glock 18 is the only fully automatic pistol in the Glock series. It has a similar appearance to the Glock 17 but can accommodate a 33-round magazine (or
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; /   글록 18은 글록 시리즈 유일의 완전 자동 권총이다. 글록 17과 외형이 비슷하지만 33발 탄창(원래 17발 또는 19발용 설계)을 사용할 수 있고, 분당 1200발의 높은 연사력을 가진다. 다만 반동 때문에 일반 권총보다 명중률이 낮다. / ^green;Shift를 두 번 눌러 다목적 한손 그립으로 전환.^reset;
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; /   The Glock 18 is the only fully automatic pistol in the Glock series. It has a similar appearance to the Glock 17 but can accommodate a 33-round magazine (or
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; /   글록 18은 글록 시리즈 유일의 완전 자동 권총이다. 글록 17과 외형이 비슷하지만 33발 탄창(원래 17발 또는 19발용 설계)을 사용할 수 있고, 분당 1200발의 높은 연사력을 가진다. 다만 반동 때문에 일반 권총보다 명중률이 낮다. / ^green;Shift를 두 번 눌러 편안한 양손 그립으로 전환.^reset;
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; /   SPAS-12 (Special Purpose Automatic Shotgun-12) is a semi-automatic shotgun developed and manufactured by the Italian company Franchi S.p.A. It features two 
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; /   SPAS-12(특수 목적 자동 산탄총-12)는 이탈리아 프란키 S.p.A.가 개발·제조한 반자동 산탄총이다. 반자동과 펌프 액션 두 가지 작동 방식을 갖추고 있다. /  / ^#808080;펌프 액션: 낮은 빗나감 확률, 낮은 부정확도. / ^green;Shift를 두 번 눌러 반자동 모드로 전환.^reset; / ^r
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; /   SPAS-12 (Special Purpose Automatic Shotgun-12) is a semi-automatic shotgun developed and manufactured by the Italian company Franchi S.p.A. It features two 
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; /   SPAS-12(특수 목적 자동 산탄총-12)는 이탈리아 프란키 S.p.A.가 개발·제조한 반자동 산탄총이다. 반자동과 펌프 액션 두 가지 작동 방식을 갖추고 있다. /  / ^#808080;반자동: 빠른 사격, 높은 빗나감 확률, 높은 부정확도. / ^green;Shift를 두 번 눌러 펌프 액션 모드로 전환.^rese
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; /   The KRISS Vector is a series of weapons based upon the parent submachine gun design developed by the American company KRISS USA. This special SMG that incor
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; /   크리스 벡터는 미국 회사 KRISS USA가 개발한 기본 기관단총 설계를 바탕으로 한 무기 시리즈다. 첨단 작동 기술을 통합한 특수 SMG로, 1200 RPM, .45구경 화력을 가진다. 다만 속사 시 반동 제어가 어렵다. /  / ^green;"보조 발사"를 누르고 있으면 완전 자동과 점사를 전환한다. / 초고속 RP
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; /   The SCAR-H (Mk 17 Mod 0) is equipped with a powerful 7.62 × 51mm NATO round and utilizes a specially designed magazine that holds 20 rounds. It features var
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; /   SCAR-H(Mk 17 Mod 0)는 강력한 7.62×51mm NATO 탄을 사용하며 특별 설계된 20발 탄창을 사용한다. 근접전과 장거리 교전을 모두 수용하는 다양한 총열 길이를 갖추고 있다. / ^green; 장총열. 피해가 약간 더 높다.^reset;  / ^red; 서 있는 자세에서 빗나감 확률 증가. / ^gr
+
+EN: ^#9D2F32;God's gift to the inalienable right of self-defense.^reset; / The preferred pistol among Night City cops - light, wieldy and easy on the recoil, it's perfect for taking down enemies without necessarily killing t
+KO: ^#9D2F32;신이 주신 자기방어의 양도할 수 없는 권리.^reset; / 나이트 시티 경찰이 선호하는 권총 - 가볍고 다루기 쉬우며 반동이 순해, 현장에서 굳이 죽이지 않고 적을 제압하기에 완벽하다. 비교적 작은 크기 덕에 은닉 휴대를 선호하는 이들 사이에서도 충성스러운 인기를 얻었다: 렉싱턴은 코트 주머니나 핸드백에 쏙 들어간다. ^#9CD5F0;표준 탄약 사용 [9x19mm] / ^#
+
+EN: ^#9D2F32;God's gift to the inalienable right of self-defense.^reset; / The preferred pistol among Night City cops - light, wieldy and easy on the recoil, it's perfect for taking down enemies without necessarily killing t
+KO: ^#9D2F32;신이 주신 자기방어의 양도할 수 없는 권리.^reset; / 나이트 시티 경찰이 선호하는 권총 - 가볍고 다루기 쉬우며 반동이 순해, 현장에서 굳이 죽이지 않고 적을 제압하기에 완벽하다. 비교적 작은 크기 덕에 은닉 휴대를 선호하는 이들 사이에서도 충성스러운 인기를 얻었다: 렉싱턴은 코트 주머니나 핸드백에 쏙 들어간다. ^#9CD5F0;표준 탄약 사용 [9x19mm] / ^#
+
+EN: ^#9D2F32;Aiming takes time you might not have.^reset; / There was a pistol that started the smart revolution - the Yukimura, issued in the 2040s by Arasaka. With the Yukimura, you can shoot as poorly as the robots in a c
+KO: ^#9D2F32;조준은 네가 없을 수도 있는 시간을 잡아먹는다.^reset; / 스마트 혁명을 시작한 권총이 있었다 - 2040년대 아라사카가 발매한 유키무라다. 유키무라라면 20세기 말의 어느 장대한 우주 서사시의 로봇들처럼 못 쏴도 100% 명중률로 표적을 맞출 수 있다.  / ^#FFD83F;스마트 무기:^#D1A02E; 표적 추적에 스마트 링크 시스템 필요^reset; / ^green
+
+EN: ^#9D2F32;Aiming takes time you might not have.^reset; / There was a pistol that started the smart revolution - the Yukimura, issued in the 2040s by Arasaka. With the Yukimura, you can shoot as poorly as the robots in a c
+KO: ^#9D2F32;조준은 네가 없을 수도 있는 시간을 잡아먹는다.^reset; / 스마트 혁명을 시작한 권총이 있었다 - 2040년대 아라사카가 발매한 유키무라다. 유키무라라면 20세기 말의 어느 장대한 우주 서사시의 로봇들처럼 못 쏴도 100% 명중률로 표적을 맞출 수 있다.  / ^#FFD83F;스마트 무기:^#D1A02E; 스마트 링크 시스템 필요. 표적 추적^reset; / ^green
+
+EN: ^#9D2F32;Blast a hole through spacetime!^reset; / Budget Arms' Carnage possesses none of trivial qualities, like delicacy. Its designers followed one simple rule: bigger is better. The result? The Carnage is massive, dea
+KO: ^#9D2F32;시공간에 구멍을 뚫어라!^reset; / 버짓 암즈의 카니지는 섬세함 같은 사소한 품질이 전혀 없다. 설계자들은 하나의 단순한 규칙을 따랐다: 크면 좋다. 결과는? 카니지는 거대하고, 말도 안 되는 피해를 주며, 어깨를 소켓에서 빼버릴 반동을 가졌다. 고릴라 암즈 같은 적절한 사이버웨어 없이는, 글쎄, 시도하지 마라. ^#9CD5F0;커스텀 탄약 사용 [4게이지 벅샷] / ^
+
+EN: ^#9D2F32;High caliber, high damage, high recoil.^reset; / The Soviet arms giant Techtronika are driven by two core metrics: firepower and reliability. A simple design means fewer opportunity for breakage or jamming. The 
+KO: ^#9D2F32;대구경, 대피해, 대반동.^reset; / 소련 무기 거인 테크트로니카는 두 가지 핵심 지표로 움직인다: 화력과 신뢰성. 단순한 설계는 파손이나 걸림의 기회를 줄인다. 이 무기의 유일한 단점은 상대적으로 강한 반동이다. 반동을 흡수할 사이버웨어 투자를 고려해라. 테크트로니카는 사용자의 으깨진 뼈에 책임지지 않는다. ^#9CD5F0;커스텀 탄약 사용 [8게이지 벅샷] / ^#F
+
+EN: ^#9D2F32;Purrs like a kitten^reset; / Sometimes accuracy isn't all-important. Sometimes all you want to do is spray lead and witness the havoc wreaked once the smoke has cleared. In that case, seek no further than the Sh
+KO: ^#9D2F32;새끼 고양이처럼 야르릉^reset; / 때로 명중률이 전부는 아니다. 때로는 그저 납을 뿌리고 연기가 걷힌 뒤 벌어진 파괴를 보고 싶을 뿐이다. 그럴 땐 시구레 말고 더 볼 필요가 없다. 1분에 아라사카의 기소되지 않은 탈세 건수보다 더 많은 총알을 쏟아낼 수 있다. 많다는 뜻이다. ^#9CD5F0;표준 탄약 사용 [9x19mm]. / ^#FFD83F;파워 무기: ^#D1A0
+
+EN: No, Mr. Bond, I expect you to dye!
+KO: 아니, 본드 씨, 난 당신이 죽길 기대하는데요!
+
+EN: For when they just wont dye fast enough.
+KO: 염색이 아무리 해도 빨리 끝나지 않을 때를 위해.
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; / bolt-action sniper rifle manufactured by CheyTac USA, which can also be classified as an anti-materiel rifle. It is specifically chambered in either .408 Chey
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; / CheyTac USA가 제조한 볼트 액션 저격소총으로, 대물 소총으로도 분류된다. 전용으로 .408 Chey Tac 또는 .375 Chey Tac 탄약을 사용한다. CheyTac Inc.에 따르면 이 시스템은 최대 2500야드 거리에서 서브 MOA 명중률을 제공할 수 있다. / ^#850000;오래된 무기에 영혼이 깃들어 
+
+EN: ^#750000;Beyond Muenzuka, Coming From Another World.^reset; / The Compound Crossbow offers lower power stroke, better balance, and reduced vibration. The carbon riser and CNC machined aluminum flight track minimize weigh
+KO: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; / 컴파운드 크로스보우는 낮은 파워 스트로크, 더 나은 균형, 줄어든 진동을 제공한다. 카본 라이저와 CNC 가공 알루미늄 비행 레일이 무게를 최소화하고 강도를 높인다. 축소된 구조, 은밀한 외형, 330fps 속도를 가진 바넷 헤드헌터 크로스보우 패키지는 네 먹잇감을 그 자리에서 멈춰 세울 수 있다. / ^#683636;나무
+
+EN: ''I CAN NO LONGER SEE!'' /  / WW2-era white signal flare with a 5 minute burn duration. Can be held or thrown. /  / Thrown flares are capable of ^orange;IGNITING any target^reset; (friendly, enemy, or even yourself) affl
+KO: ''앞이 안 보여!'' /  / 5분간 타는 2차 대전 시대의 백색 신호 조명탄. 손에 들거나 던질 수 있다. /  / 던진 조명탄은 ^orange;기름 범벅^reset; 상태(주로 기름병 때문에)인 대상이라면 ^orange;누구든 불붙일 수 있다^reset;(아군, 적, 심지어 자기 자신까지).
+
+EN: Blue petals are commonly used by altas to create dyes for clothing and decorative purposes. The color extraction process is quite simple.
+KO: 파란 꽃잎은 알타들이 의복과 장식용 염료를 만드는 데 흔히 사용한다. 색소 추출 과정은 꽤 간단하다.
+
+EN: Red petals are popular in alta dye production, creating vibrant colors for textiles and decorative applications.
+KO: 빨간 꽃잎은 알타의 염료 생산에서 인기가 많으며, 직물과 장식용으로 선명한 색을 만들어낸다.
+
+EN: Yellow petals are valued for their bright dye potential. Altas often use them to create warm, cheerful colors in their crafts.
+KO: 노란 꽃잎은 밝은 염료 가능성으로 가치 있다. 알타들은 종종 수공예품에 따뜻하고 쾌활한 색을 만드는 데 쓴다.
+
+EN: Red clothing dye used across the universe. Altas appreciate red dye for accenting their garments, though they prefer their own altan and bion dye palettes.
+KO: 우주 전역에서 사용되는 빨간 의류 염료. 알타들은 자신들의 옷에 포인트를 줄 때 빨간 염료를 즐겨 쓰지만, 그래도 알탄과 비온 고유의 염료 팔레트를 더 선호한다.
+
+EN: Orange clothing dye common in alien fashion. While not traditional alta colors, orange has its uses for warm, visible accents.
+KO: 외계 패션에서 흔히 쓰이는 주황색 의류 염료. 전통적인 알타의 색은 아니지만, 주황색은 따뜻하고 눈에 띄는 포인트로 쓰인다.
+
+EN: Yellow clothing dye popular across species. Altas appreciate yellow's cheerful brightness, using it in casual clothing.
+KO: 종족을 불문하고 인기 있는 노란 의류 염료. 알타들은 노랑의 쾌활한 밝기를 좋아해서 캐주얼 의류에 쓴다.
+
+EN: Green clothing dye found throughout the universe. Altas favor green for its connection to nature and plant life.
+KO: 우주 곳곳에서 발견되는 초록색 옷 염료입니다. 알타는 자연 및 식물과의 연관성 때문에 초록색을 선호합니다.
+
+EN: Blue clothing dye, very popular in alta culture. Blue is the dominant alta color, reflected in their omniblue palette and plasma energy.
+KO: 파란색 의복 염료, 알타 문화에서 매우 인기가 많다. 파란색은 알타의 주요 색상으로, 그들의 옴니블루 색상 팔레트와 플라즈마 에너지에 반영되어 있다.
+
+EN: Purple clothing dye appreciated across species. Altas connect purple with enternia (ionic/dream energy) and enterash planets.
+KO: 여러 종족에게 사랑받는 보라색 옷 염료. 알타는 보라색을 에터니아(이온/꿈 에너지)와 엔테라시 행성과 연관 짓는다.
+
+EN: Pink clothing dye used in decorative fashion. Altas associate pink with stardust energy, the combination of all three alta energies.
+KO: 장식용 패션에 사용되는 분홍색 옷 염료다. 알타는 분홍색을 세 가지 알타 에너지가 결합된 스타더스트 에너지와 연관 짓는다.
+
+EN: Brown clothing dye common in practical garments. While functional, brown is rarely used in alta fashion which favors brighter energy-themed colors.
+KO: 실용적인 의복에 흔히 쓰이는 갈색 염료. 기능적이긴 하지만, 밝은 에너지 테마 색상을 선호하는 알타 패션에서는 갈색이 거의 쓰이지 않는다.
+
+EN: Black clothing dye for dark garments. Altas use black for bion and EDS armor coloring, giving a sleek professional appearance.
+KO: 어두운 의복용 검은색 염료. 알타는 바이온과 EDS 장갑 색상에 검은색을 사용해 세련되고 전문적인 인상을 준다.
+
+EN: White clothing dye for bright clean garments. Altas favor white for its purity and how it showcases their altan metallic sheen.
+KO: 밝고 깨끗한 의복용 흰색 염료. 알타들은 순수함과 그들의 알탄 금속 광택을 돋보이게 해준다는 이유로 흰색을 선호한다.
+
+EN: Grey clothing dye for neutral tones. Altas use grey for titanium-colored equipment and neutral professional wear.
+KO: 중립적인 톤을 위한 회색 옷 염료입니다. 알타는 티타늄색 장비와 중립적인 전문직 복장에 회색을 사용합니다.
+
+EN: Chemical solution that removes dye and restores original colors. Altas appreciate this restoration technology for preserving original altan and bion shades.
+KO: 염료를 제거하고 원래 색상을 복원하는 화학 용액. 알타들은 알탄과 바이온 고유의 색조를 보존해주는 이 복원 기술을 높이 평가한다.
+
+EN: ^yellow;Leader's Rally
+KO: ^yellow;지도자의 집결
+
+EN: Rally!
+KO: 집결!
+
+EN: She wasn't very loud, sure, but it don't matter much when your shootin' does the talkin'. /  / ^blue;When paired with Anne^reset;, Marie passively provides +20% Physical and Knockback Resistance.
+KO: 그녀는 별로 시끄럽지 않았어, 그래, 하지만 총질이 말을 대신할 땐 별로 중요하지 않지. /  / ^blue;앤과 짝지어지면^reset;, 마리는 패시브로 물리 및 넉백 저항 +20%를 제공한다.
+
+EN: The scintillium casing helps this sniper rifle maintain accuracy.
+KO: 신틸리움 외장 덕분에 이 저격소총은 정확도를 유지한다.
+
+EN: An azurium pistol, has increased accuracy, knockback and damage.
+KO: 아주리움 권총으로, 정확도와 넉백, 피해량이 증가했다.
+
+EN: An azurium pistol, has lowered damage and accuracy but can bounce up to 7 times.
+KO: 아주리움 권총으로, 피해량과 정확도는 낮지만 최대 7번까지 튕길 수 있다.
+
+EN: Only war can sustain this blade's thirst. ^green;Inflicts Sanguine.^reset; ^red;-40% Max HP while holding.^reset;
+KO: 오직 전쟁만이 이 검의 갈증을 채울 수 있다. ^green;생기 효과 부여.^reset; ^red;소지 시 최대 체력 -40%.^reset;
+
+EN: A simple maple colored hammer made with copper, iron and orange dye.
+KO: 구리와 철, 주황색 염료로 만든 단순한 단풍색 망치.
+
+EN: A simple maple colored launcher made with copper, iron and orange dye.
+KO: 구리와 철, 주황색 염료로 만든 단순한 단풍색 발사기.
+
+EN: ^#e160da;Suppression^reset;
+KO: ^#e160da;서프레션^reset;
+
+EN: An ice weapon of epic proportions. / ^yellow;Supreme frost power.^reset; / ^cyan;Large recoil. Crouch to minimize.^reset;
+KO: 장엄한 규모의 얼음 무기다. / ^yellow;최고의 서리의 힘.^reset; / ^cyan;반동이 크다. 웅크리면 줄어든다.^reset;
+
+EN: ^gray;A high damage, high recoil weapon of Avikan design.
+KO: ^gray;높은 피해와 높은 반동을 가진 아비칸식 무기.
+
+EN: A belt-fed battle rifle that's become infamous for its low accuracy and the carnage it leaves in its wake.
+KO: 낮은 명중률과 지나간 자리에 남기는 참상으로 악명을 떨치게 된 벨트 급탄식 전투 소총.
+
+EN: One of two bullpup rifles used by the U.S.C.M. Revered for its high accuracy and fire rate.
+KO: U.S.C.M.이 사용하던 두 종류의 불펍 소총 중 하나. 높은 명중률과 발사 속도로 높이 평가받는다.
+
+EN: The Knockbacker
+KO: 노크배커
+
+EN: The recoil is enough to throw you across a room, but it's worth turning anything into pink mist. Shotgun shells fit the chamber.
+KO: 반동에 방 건너편까지 날아갈 정도지만, 무엇이든 분홍 안개로 만드는 값어치는 있다. 약실에는 산탄총 탄약이 들어간다.
+
+EN: Condenses gravity into focused blasts. / ^cyan;Moves enemies. A lot.^reset; / ^yellow;Extreme Knockback (Alt)^reset;
+KO: 중력을 집중된 폭발로 압축합니다. / ^cyan;적을 크게 이동시킵니다.^reset; / ^yellow;극심한 넉백 (보조)^reset;
+
+EN: Miko clothing is traditionally handled with care. Guidelines for handling it include: ''Do not throw it'' (do not fling it off), ''Do not put it down'' (fold it immediately after putting it on and taking it off), and ''D
+KO: 무녀복은 전통적으로 조심스럽게 다뤄진다. 다루는 지침에는 다음이 포함된다: '던지지 말 것'(벗어 던지지 말 것), '내려놓지 말 것'(입고 벗은 즉시 접을 것), '넘어가지 말 것'(그 위로 넘어가는 것은 신들에 대한 불경한 행위임). 무녀들은 이 옷을 '부적처럼' 다루도록 배운다. / ^#F2B8EC;고도로 기도에 반응함 [풀 세트] - 근접 무기를 휘두르면 부적이 발사된다. / ^ora
+
+EN: A mage's hood. This variant has a different dyeable area.
+KO: 마법사의 후드. 염색 부위가 다른 변형.
+
+EN: A sorcerer's hood. This variant has a different dyeable area.
+KO: 마술사의 후드. 염색 부위가 다른 변형.
+
+EN: A bow stabilizer that increases accuracy and reduces draw time.
+KO: 정확도를 높이고 시위를 당기는 시간을 줄여 주는 활 안정기.
+
+EN: More accuracy gain while crouched, but less accuracy while moving.
+KO: 웅크린 상태에서는 명중률이 더 오르지만, 이동 중에는 명중률이 낮아진다.
+
+EN: Colourful yellow and orange dyes, used to create Avikan cloth.
+KO: 아비칸 천을 만드는 데 쓰이는 화려한 노랑·주황 염료입니다.
+
+EN: A purple dye often used by the Rhaiod.
+KO: 라이오드가 자주 사용하는 보라색 염료.
+
+EN: This coloured dye can be applied to a piece of armour or clothing with a right-click.
+KO: 이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.
+
+EN: Often used either in cooking, or in energy filters, depending on the type of grind and different mixes or aya variations, it also makes for a good edible dye. Read more about this: ^#3587ff;Ayaka Gardener's Notes^reset;
+KO: 분쇄 방식과 배합, 혹은 아야 변종에 따라 요리나 에너지 필터에 흔히 사용되며, 훌륭한 식용 색소로도 쓰인다. 더 알아보려면: ^#3587ff;아야카 정원사의 노트^reset;
+
+EN: Carel plants get saturated with edible dye and baked together with the dough, resulting in an interesting palette.
+KO: 카렐 식물은 식용 색소로 포화시킨 뒤 반죽과 함께 구워, 흥미로운 색감을 만들어낸다.
+
+EN: ^green;Immediately recover all HP; ATK +330% and Max HP +5000. Gradually lose HP (HP loss caps at 20%/second); Unlimited duration / After receiving fatal damage, continuously prevents HP from falling below 1. Retreat fro
+KO: ^green;모든 HP를 즉시 회복; 공격력 +330%, 최대 HP +5000. 서서히 HP 감소(초당 최대 20% 감소); 지속 시간 무제한 / 치명적인 피해를 받은 후 HP가 1 아래로 떨어지는 것을 지속적으로 방지한다. 8초 후 전장에서 후퇴
+
+EN: It's just nectar with yellow food dye? Restores 50 health over 10 sec.
+KO: 그냥 노란 식용 색소를 탄 꿀물인가? 10초에 걸쳐 체력 50을 회복시킨다.
+
+EN: Reference picture guide for how dyes affect clothes marked as ^#26ffff;dual colored^reset;. or it will be when it's actually done!
+KO: ^#26ffff;이중 색상^reset;으로 표시된 옷에 염료가 어떻게 적용되는지 보여주는 참고용 그림 가이드. 아니, 정확히는 완성되면 그렇게 될 예정!
+
+EN: When consumed, this elixir will imbue the drinker with earthen energy. /  / The drinker will be immune to some electrical effects, and will continuously slow the movement speed nearby enemies.
+KO: 이 비약을 마시면 대지의 기운이 몸에 깃든다. /  / 마신 사람은 일부 전기 효과에 면역이 되고, 주변 적의 이동 속도를 계속 늦춘다.
+
+EN: Grants the Anal Trained [+100 Max HP for 30 minutes] Status Effect when used with Anal Trainer. Grants Sexbux while having sex.
+KO: 애널 트레이너와 함께 사용하면 애널 트레인드[30분 동안 최대 체력 +100] 상태 효과를 부여합니다. 섹스 중에는 섹스벅스를 지급합니다.
+
+EN: Increases Max HP by 100 for 30 minutes.
+KO: 30분 동안 최대 체력을 100 증가시킵니다.
+
+EN: Gain access to Danger Close, a One-Handed Submachine Gun that has terrible accuracy but shreds while near enemies.
+KO: 데인저 클로즈 해금 - 정확도 끔찍하지만 근접 적 분쇄 한손 기관단총.
+
+EN: Gain access to Shredder, an SMG-Pistol hybrid with high accuracy, high damage, but low firerate.
+KO: 명중률과 피해량은 높지만 발사 속도가 낮은 기관단총·권총 혼합형 무기, 슈레더를 사용할 수 있습니다.
+
+EN: Increases Movement Speed.
+KO: 이동 속도를 증가시킵니다.
+
+EN: ^green;Starting From 20 Agility:^reset; / Classic Mode penalty for Movement Speed and Jump Height halved. / Specialization penalty for Movement Speed and Jump Height halved.
+KO: ^green;민첩 20부터:^reset; / 클래식 모드의 이동 속도·점프 높이 페널티 절반. / 전문화의 이동 속도·점프 높이 페널티 절반.
+
+EN: Increases Knockback Resistance.
+KO: 넉백 저항을 증가시킵니다.
+
+EN: Press [Special 1] to toggle Battle Aura. ^red;Dealing Damage builds Blood Aura, raising Power Multiplier (10%-200%). ^gray;Nearing enemies builds Iron Aura, raising Armor (5-50) and Physical Resistance (1%-25%). ^green;U
+KO: [Special 1]을 눌러 배틀 오라를 켜고 끕니다. ^red;피해를 주면 블러드 오라가 쌓여 파워 배율이 상승합니다 (10%-200%). ^gray;적에게 가까이 가면 아이언 오라가 쌓여 방어력(5-50)과 물리 저항(1%-25%)이 상승합니다. ^green;에너지를 사용하면 이오닉 오라가 쌓여 이동 속도(10%-50%)와 점프 높이(5%-25%)가 상승합니다. ^reset;한계에 도달한
+
+EN: Press [Special 1] to enter Berserk Mode: in Berserk Mode, you are immune to Knockback, and every percent of Health missing adds one percent to your Power Multiplier. In addition, while in Berserk Mode, if Health dips bel
+KO: [Special 1]을 눌러 광폭화 모드에 진입합니다: 광폭화 모드에서는 넉백에 면역이 되며, 잃은 체력 1%마다 파워 배율이 1% 증가합니다. 또한 광폭화 모드 중 체력이 최대 체력의 50% 아래로 떨어지면 속도 배율 20%와 추가 방어력 30을 얻습니다. / ^red;광폭화 모드 중에는 최대 체력과 에너지가 20% 감소합니다.
+
+EN: 120% Movement Speed
+KO: 이동 속도 120%
+
+EN: Press [Special 2] to toggle your mount: summoning it costs 100 Energy. / While mounted, Movement Speed, Jump Height, and Step Height are increased, and you gain 3x Base Energy and +100 Armor. Mount Health is equal to 2x 
+KO: [Special 2]를 눌러 탈것을 켜고 끕니다: 소환에는 에너지 100이 필요합니다. / 탑승 중에는 이동 속도, 점프 높이, 단차 높이가 증가하며, 기본 에너지 3배와 방어력 +100을 얻습니다. 탈것의 체력은 당신의 최대 체력의 2배이며 하차 중에 재생됩니다: 탑승 중에는 당신 대신 탈것이 피해를 입습니다. 탈것의 체력이 0에 도달하면 탈것이 사라지며, 5초 동안 체력이 재생되지 않습니
+
+EN: Jump while aerial to dash up to four times and spread dazing powder with each dash. Hold up while aerial to float, draining Energy as you do: while floating, nearby weakened monsters act friendly. Crouch for three second
+KO: 공중에서 점프하면 최대 네 번까지 돌진하며, 돌진할 때마다 현혹 가루를 뿌린다. 공중에서 위 키를 누르고 있으면 부유하며, 그동안 에너지를 소모한다: 부유하는 동안 근처의 약화된 몬스터는 우호적으로 행동한다. 피격 없이 3초간 웅크리면 그 자리에 뿌리내려 넉백 면역과 체력 재생을 얻는다. 웅크리기를 풀면 뿌리내림이 해제된다.
+
+EN: Press [Special 2] to activate Limit Break. During Limit Break, gain +100% Physical Resistance, Knockback Immunity, and Infinite Energy. Limit Break lasts for 10 Seconds and has a cooldown of 60 Seconds. For every enemy k
+KO: [Special 2]를 눌러 리미트 브레이크를 활성화합니다. 리미트 브레이크 중에는 물리 저항 +100%, 넉백 면역, 무한 에너지를 얻습니다. 리미트 브레이크는 10초간 지속되며 60초의 재사용 대기시간을 가집니다. 리미트 브레이크가 활성화된 동안 적을 처치할 때마다 지속 시간 2초를 얻고 재사용 대기시간이 5초 감소합니다. 지속 시간은 무한히 늘어날 수 있지만, 재사용 대기시간은 최소 3
+
+EN: Increased Movement Speed with Whips and War-Fans
+KO: 채찍과 전투부채 사용 시 이동 속도가 증가합니다
+
+EN: Pressing [Special 2] toggles Atlas' Burden, a buff that halves Shield Stamina and Jump Height, but provides bonuses for your shield. While Atlas' Burden is active, enemies that hit your Shield have a 25% chance to be stu
+KO: [Special 2]를 누르면 아틀라스의 짐을 켜고 끕니다. 이는 방패 스태미나와 점프 높이를 절반으로 줄이지만 방패에 보너스를 주는 버프입니다. 아틀라스의 짐이 활성화된 동안, 당신의 방패를 맞춘 적은 25% 확률로 0.5초 동안 기절합니다; 완벽 방어는 근처 모든 적을 1초간 기절시킵니다; 그리고 완벽 방어는 당신과 근처 아군에게 5초 동안 기본 파워 배율 110%, 방어력 120%, 넉
+
+EN: Primary Fire: Hold to fire bullets with an average rate of fire and accuracy.
+KO: 주 공격: 누르고 있으면 평균적인 발사 속도와 정확도로 탄환을 발사합니다.
+
+EN: +25% Knockback Resistance
+KO: 넉백 저항 +25%
+
+EN: Primary Fire: Hold to quickly fire bullets but with terrible accuracy.
+KO: 주 공격: 누르고 있으면 빠르게 탄환을 발사하지만 정확도가 형편없습니다.
+
+EN: Marie: a pistol with High RoF, Low Energy Usage, and Low Damage. Bullets pierce and cause bleed. Paired with Anne, gain +20% Physical and Knockback Resistance.
+KO: 마리: 높은 연사 속도, 낮은 에너지 소모, 낮은 피해량을 지닌 권총. 총알이 관통하며 출혈을 일으킨다. 앤과 짝지으면, 물리 저항과 넉백 저항 +20%를 얻는다.
+
+EN: Knight Slam Upgrade. / Mid-air jumps increased to 3. / Slam Knockback Increased. / ^red;Slam Damage Decreased.
+KO: 나이트 슬램 업그레이드. / 공중 점프 횟수가 3회로 증가한다. / 슬램 넉백이 증가한다. / ^red;슬램 피해량이 감소한다.
+
+EN: A pop. His gaze did not waver, nor did he flinch. His body unmoving and his breath steady, he slowly backed up. A 'black eye' turned to look at him as a piece of flesh sopped down from its 'jaw'. Plop. The disgusting, bl
+KO: 펑. 그의 시선은 흔들리지 않았고, 움찔하지도 않았다. 몸은 미동조차 없었고 숨결은 고르게 유지된 채, 그는 천천히 뒤로 물러섰다. '검은 눈'이 그를 향해 고개를 돌렸고, 그 '턱' 사이로 살점 한 조각이 뚝 떨어졌다. 철퍽. 역겹고 피투성이인 그 덩어리는 바닥에 부딪히며 사방으로 작은 붉은 방울들을 흩뿌렸다. 하나는 그의 잘 손질된 부츠의 매끈한 광택을 거의 더럽힐 뻔했지만, 그것이 닿기
+
+EN: Slide forward, protecting yourself with a large Icicle: you are immune to Physical Damage and Knockback while sliding. The icicle impales into walls and enemies: if it impales into an enemy, stop sliding and hop backward
+KO: 거대한 고드름으로 몸을 보호하며 앞으로 미끄러진다: 미끄러지는 동안 물리 피해와 넉백에 면역이 된다. 고드름은 벽과 적에게 꽂힌다: 적에게 꽂히면 미끄러지기를 멈추고 뒤로 튕겨 나간다.
+
+EN:  / Caine / Lorekeeper / Fylix / Aegis / MaximumDumb / Guilherme / Mightyfarmer3 / DocDewrill / DodgerJPS / Kurlya / Mightyfarmer3 / Arcadye1002 / Mathias / Refolde / ^green;Thanks for everything! :)
+KO: Caine / Lorekeeper / Fylix / Aegis / MaximumDumb / Guilherme / Mightyfarmer3 / DocDewrill / DodgerJPS / Kurlya / Mightyfarmer3 / Arcadye1002 / Mathias / Refolde / ^green;모든 것에 감사드려요! :)
+
+EN: Sells brushes and dyes.
+KO: 붓과 염료 판매.
+
+EN: Used to create fabrics, dyes, and synthetic wings.
+KO: 직물, 염료, 합성 날개 제작에 사용.
+
+EN: Allows crafting of fabrics, dyes, synthetic wings, and Saturnian clothing.
+KO: 직물, 염료, 합성 날개, 새터니안 의상을 제작할 수 있게 해준다.
+
+EN: A flower with bright red petals. Useful for making dye.
+KO: 밝은 빨간색 꽃잎이 있는 꽃입니다. 염료를 만들 때 유용합니다.
+
+EN: A flower with bright blue petals. Useful for making dye.
+KO: 밝은 파란색 꽃잎이 있는 꽃입니다. 염료를 만들 때 유용합니다.
+
+EN: A pretty blue flower, I can use this to make coloured dyes.
+KO: 예쁜 파란색 꽃이다. 이걸로 염료를 만들 수 있다.
+
+EN: Thoughtful. A blue flower. It has a practical use in creating dye.
+KO: 생각. 파란색 꽃이다. 염료를 만들 때 실용적으로 사용할 수 있다.
+
+EN: A red flower, used to make red dye. The best colour!
+KO: 빨간색 염료를 만들 때 쓰는 빨간색 꽃이다. 최고의 색깔이지!
+
+EN: This flower's petals can be used to make red dye, a versatile and powerful colour.
+KO: 꽃잎으로 빨간색 염료를 만들 수 있다. 여러 곳에 쓰일 수 있는 강렬한 색상이지.
+
+EN: Respectful. Red flower petals are used in the creation of red dye, a royal colour.
+KO: 존경. 빨간색 꽃잎은 귀족의 색인 빨간색 염료를 만들 때 쓰인다.
+
+EN: From this tiny flower I can make a rich red dye.
+KO: 작은 꽃에서 풍부한 빨간색 염료를 만들 수 있다.
+
+EN: A flower with bright yellow petals. Useful for making dye.
+KO: 밝은 노란색 꽃잎이 있는 꽃입니다. 염료를 만들 때 유용합니다.
+
+EN: The dye from yellow flowers is used a lot in Avian culture.
+KO: 노란색 꽃에서 뽑아낸 염료는 아비안 문화에서 많이 쓰인다.
+
+EN: An ^#b0e0fc;alta^reset; textile crafting station for sewing ^#60c0fc;clothing^reset;, ^#60c0fc;dyes^reset;, and soft decorations.
+KO: ^#60c0fc;의류^reset;, ^#60c0fc;염료^reset;, 부드러운 장식을 재봉하는 ^#b0e0fc;알타^reset; 섬유 제작대입니다.
+
+EN: The Alta Tailor is a tier 3 crafting station designed for textile work in the ^#b0e0fc;Arcolar^reset; fashion style. It features automated safety systems that protect operators from needle injuries while enabling precise
+KO: 알타 테일러는 ^#b0e0fc;아르콜라르^reset; 패션 스타일의 직물 작업을 위해 설계된 3등급 제작대다. 자동 안전 시스템을 갖춰 조작자를 바늘 부상으로부터 보호하는 동시에 ^#60c0fc;실크^reset;, ^#60c0fc;천^reset;, ^#60c0fc;바이온 화합물^reset;의 정밀한 재봉을 가능하게 한다. 의류 외에도, 이 시설은 ^#20f080;알테라시^reset; 식물로 
+
+EN: A sewing station! I can make all sorts of cute clothes, aya dyes, and even plushies here~ The safety features are really nice too!
+KO: 재봉 작업대야! 온갖 귀여운 옷이랑 아야 염료, 봉제인형까지 여기서 다 만들 수 있어~ 안전 기능도 정말 좋고!
+
+EN: Wall tapestry dyed a deep red colour.
+KO: 진한 빨강 염색 벽 태피스트리.
+
+EN: I wonder what plant the Avikan extract this red dye from.
+KO: 아비칸이 이 붉은 염료를 대체 어떤 식물에서 뽑아내는 건지 궁금하네.
+
+EN: Ohn no.. theres a dye in my vat
+KO: 앗 아니.. 통에 염료가 들어있어
+
+EN:  ^#b9b5b2;Textiles and dyes
+KO: ^#b9b5b2;직물과 염료들
+
+EN: An armchair with undyed silk cushions. The silk is woven a bit roughly.
+KO: 염색하지 않은 비단 쿠션이 있는 안락의자야. 비단이 좀 거칠게 짜였어.
+
+EN: The cushions on this chair are made from dyed silk.
+KO: 이 의자의 쿠션은 염색한 비단으로 만들어졌다.
+
+EN: It's sugar water dyed to look like honey.
+KO: 꿀처럼 보이게 색 입힌 설탕물이야.
+
+EN: I think this is just one of Solalei's banners, but dyed a different color.
+KO: 이건 그냥 솔라레이의 깃발 중 하나인데, 색만 다르게 염색한 것 같아.
+
+EN: This is so simple, a child could use it! And they could, if not for the Miniknog Suppression Fields.
+KO: 이건 너무 단순해서 아이도 쓸 수 있을 정도다! 미니크녹 억제장만 아니었다면 실제로 그랬을 것이다.
+
+EN: ''Passing entrance examinations, for who's sake? / For who's sake is the dynamite? / Fow who's sake? / They are for your liberation.'' / ''Tokyo Kid Brothers'' was a musical-theatrical collective formed in 1968, at the h
+KO: ''입학시험 합격은, 누구를 위한 것인가? / 다이너마이트는 누구를 위한 것인가? / 누구를 위한 것인가? / 그것은 너희의 해방을 위한 것이다.'' / ''도쿄 키드 브라더스''는 일본 대학 투쟁과 전 세계적인 신좌파 운동이 절정에 이르던 1968년에 결성된 뮤지컬·연극 집단이다. 가장 유명한 작품은 데라야마 슈지의 1971년 실험 극영화 ''책을 버리고 거리로 나가자''의 사운드트랙이다.
+
+EN: Nearby friendly, aggressive Monsters gain Significantly Increased Armor and Increased Power and Movement Speed. This effect gets stronger as your Health / Max Health ratio decreases.
+KO: 근처의 우호적이고 공격적인 몬스터는 방어력이 크게 증가하고 힘과 이동 속도가 증가합니다. 이 효과는 체력/최대 체력 비율이 낮아질수록 강해집니다.
+
+EN: After all of these are done, I've still got one job for you, a more personal one. I have an artist friend, and his birthday is coming up soon so I'm preparing a gift for him. There's a kind of ^green;Powder^reset; carrie
+KO: 이것들을 다 끝내면, 당신에게 마지막으로 한 가지 부탁이 남았어요, 좀 더 개인적인 부탁이에요. 예술가 친구가 있는데, 곧 생일이라 선물을 준비하고 있거든요. ^orange;다정한 행성^reset;의 몬스터들이 지니고 있는 일종의 ^green;가루^reset;가 있어요. 그 친구한테는 원료 염료가 잘 어울릴 거예요. 이 부탁 좀 들어줄 수 있나요?
+
+EN: ''Leap forward.'' /    / ^#96CBE7;Grants Four smaller jumps | ^green;Press [UP] to boost your jump^reset; | Consumes 25 Ability Mana
+KO: ''앞으로 도약하라.'' /    / ^#96CBE7;작은 점프 4회 부여 | ^green;[UP]을 눌러 점프를 가속한다^reset; | 능력 마나 25 소모
+
+EN: I've heard that Hylotls on ^green;Eminsnows^reset; master a kind of blade arts called Tsukikage, one known for its accuracy, speed and vehemence. Maybe the environment forms such skill there can inspire me on my new tech
+KO: ^green;에민스노우즈^reset;의 하이로틀들은 정확성, 속도, 격렬함으로 유명한 츠키카게라는 검술을 연마한다고 들었어. 어쩌면 그 환경이 그런 기술을 만들어낸 것이 내 새로운 기술에 영감을 줄지도 몰라. ^orange;뭔가 흥미로운 걸 찾는 걸 도와줄래?^reset;
+
+EN: Use this bottle to dye dye dye to your hearts content!
+KO: 이 병으로 마음껏 염색하고 염색하고 또 염색하자!
+
+EN: You gain 15% ^#82b0ff;movement speed^reset; per kill. Stacks up to 3 times.
+KO: 처치당 15% ^#82b0ff;이동 속도^reset; 획득. 최대 3회 중첩.
+
+EN: Enemies gain 10% ^#82b0ff;movement speed^reset;.
+KO: 적은 ^#82b0ff;이동 속도^reset; 10%를 얻습니다.
+
+EN: Lose ^#e8d7a9;Armor Protection^reset; but gain ^yellow;huge bonuses to^reset; ^#ff7575;Max Health, regeneration^reset;, ^#ff731c;Damage^reset; and ^#82b0ff;Movement Speed^reset;
+KO: ^#e8d7a9;방어구 보호^reset;를 잃지만 ^yellow;큰 보너스를^reset; ^#ff7575;최대 체력, 재생^reset;, ^#ff731c;피해량^reset;, ^#82b0ff;이동 속도^reset;에 얻는다
+
+EN: Enemies lose -95% ^#82b0ff;movement speed^reset; but gain extra +50% ^#ff7575;health^reset; and +35% ^#ff731c;damage^reset;.
+KO: 적은 ^#82b0ff;이동 속도^reset; -95%를 잃지만 추가로 ^#ff7575;체력^reset; +50%와 ^#ff731c;피해량^reset; +35%를 얻습니다.
+
+EN: Both, you and enemies lose -35%* ^#ff7575;health^reset;, but deal +250%* more ^#ff731c;damage^reset; and 15% ^#82b0ff;movement speed^reset;.
+KO: 당신과 적 모두 ^#ff7575;체력^reset;이 -35%* 감소하지만, ^#ff731c;피해^reset;는 +250%*, ^#82b0ff;이동 속도^reset;는 15% 증가한다.
+
+EN: ^shadow;^green;+1 STR, +30% Max HP^reset;
+KO: ^shadow;^green;+1 힘, +30% 최대 HP^reset;
+
+EN: ^shadow,green;+1 STR, +30% Max HP
+KO: ^shadow,green;+1 힘, +30% 최대 HP
+
+EN: ^#64a5d7;Archetype: Corpo^reset; / Archetype that focuses on high-tech weaponry. By utilizing advanced equipment and technology, you can unleash impressive combat efficiency.^reset; / ^#64a5d7;Species: Kappa^reset; / Ano
+KO: ^#64a5d7;아키타입: 코포^reset; / 첨단 무기에 집중하는 아키타입. 첨단 장비와 기술을 활용해 인상적인 전투 효율을 발휘할 수 있다.^reset; / ^#64a5d7;종족: 캇파^reset; / 겐소쿄 출신의 인류 아종. 키가 작고 기술 연구와 이익 추구에 큰 열정을 가지고 있다. /  / ^#64a5d7;에너제틱 립타이드 [능력]^reset; - 발사를 누르고 있으면 에너지 레
+
+EN: ^#EEE4AA;Archetype: Veteran-Wanderer^reset; / Alt-variant of the standard veteran archetype, sacrificing survivability in exchange for improved agility and battlefield controllability. Inflicts madness and lunatic on you
+KO: ^#EEE4AA;아키타입: 베테랑-방랑자^reset; / 표준 베테랑 아키타입의 대체 변형으로, 생존력을 희생하는 대신 기동성과 전장 지배력을 향상시켰다. 적에게, 그리고 자신에게 광기와 광란을 부여한다. /  / ^#EEE4AA;종족: 달토끼^reset; / 신비로운 달의 수도에서 온 탈영병 ― 그 영원한 ''주인''들을 섬기는 건 이제 충분했다. 이제부터는 자신의 운명을 위해 살 것이다.
+
+EN: Imperial Army [CHEST] [ELITE]: Summons one IJA STORMTROOPER when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 제국 육군 [CHEST] [ELITE]: 배치 명령 사용 시 IJA 돌격병 하나 소환 | 재사용 대기시간 60초.
+
+EN: Imperial Army [CHEST]: Summons one IJA RIFLEMAN when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 제국 육군 [CHEST]: 배치 명령 사용 시 IJA 소총병 하나 소환 | 재사용 대기시간 60초.
+
+EN: Imperial Army [HEAD] [ELITE]: Summons one IJA STORMTROOPER when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 제국 육군 [HEAD] [ELITE]: 배치 명령 사용 시 IJA 돌격병 하나 소환 | 재사용 대기시간 60초.
+
+EN: Imperial Army [HEAD]: Summons one IJA RIFLEMAN when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 제국 육군 [HEAD]: 배치 명령 사용 시 IJA 소총병 하나 소환 | 재사용 대기시간 60초.
+
+EN: Imperial Army [LEGS] [ELITE]: Summons one IJA STORMTROOPER when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 제국 육군 [LEGS] [ELITE]: 배치 명령 사용 시 IJA 돌격병 하나 소환 | 재사용 대기시간 60초.
+
+EN: Imperial Army [LEGS]: Summons one IJA RIFLEMAN when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 제국 육군 [LEGS]: 배치 명령 사용 시 IJA 소총병 하나 소환 | 재사용 대기시간 60초.
+
+EN: The Fox [CHEST] [ELITE]: Summons one CAMOUFLAGED IJA STORMTROOPER when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 여우 [CHEST] [ELITE]: 배치 명령 사용 시 위장 IJA 돌격병 1명 소환 | 재사용 대기시간 60초.
+
+EN: The Fox [CHEST]: Summons one CAMOUFLAGED IJA RIFLEMAN when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 여우 [CHEST]: 배치 명령 사용 시 위장 IJA 소총수 1명 소환 | 재사용 대기시간 60초.
+
+EN: The Fox [HEAD] [ELITE]: Summons one CAMOUFLAGED IJA STORMTROOPER when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 여우 [HEAD] [ELITE]: 배치 명령 사용 시 위장 IJA 돌격병 1명 소환 | 재사용 대기시간 60초.
+
+EN: The Fox [HEAD]: Summons one CAMOUFLAGED IJA RIFLEMAN when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 여우 [HEAD]: 배치 명령 사용 시 위장 IJA 소총수 1명 소환 | 재사용 대기시간 60초.
+
+EN: The Fox [LEGS] [ELITE]: Summons one CAMOUFLAGED IJA STORMTROOPER when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 여우 [LEGS] [ELITE]: 배치 명령 사용 시 위장 IJA 돌격병 1명 소환 | 재사용 대기시간 60초.
+
+EN: The Fox [LEGS]: Summons one CAMOUFLAGED IJA RIFLEMAN when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 여우 [LEGS]: 배치 명령 사용 시 위장 IJA 소총수 1명 소환 | 재사용 대기시간 60초.
+
+EN: Pacific Bulwark [CHEST] [ELITE]: Summons one PACIFIC IJA STORMTROOPER when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 퍼시픽 불워크 [CHEST] [ELITE]: 배치 명령 사용 시 PACIFIC IJA 돌격병 하나 소환 | 재사용 대기시간 60초.
+
+EN: Pacific Bulwark [CHEST]: Summons one PACIFIC IJA RIFLEMAN when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 퍼시픽 불워크 [CHEST]: 배치 명령 사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초.
+
+EN: Pacific Bulwark [HEAD] [ELITE]: Summons one PACIFIC IJA STORMTROOPER when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 퍼시픽 불워크 [HEAD] [ELITE]: 배치 명령 사용 시 PACIFIC IJA 돌격병 하나 소환 | 재사용 대기시간 60초.
+
+EN: Pacific Bulwark [HEAD]: Summons one PACIFIC IJA RIFLEMAN when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 퍼시픽 불워크 [HEAD]: 배치 명령 사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초.
+
+EN: Pacific Bulwark [LEGS] [ELITE]: Summons one PACIFIC IJA STORMTROOPER when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 퍼시픽 불워크 [LEGS] [ELITE]: 배치 명령 사용 시 PACIFIC IJA 돌격병 하나 소환 | 재사용 대기시간 60초.
+
+EN: Pacific Bulwark [LEGS]: Summons one PACIFIC IJA RIFLEMAN when using a DEPLOYMENT ORDER | 60s Cooldown.
+KO: 퍼시픽 불워크 [LEGS]: 배치 명령 사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초.
+
+EN: Battlefield Sprinter - +10% Movement Speed. Lose this bonus for 3s on taking more than 25 damage.
+KO: 전장 질주자 - 이동 속도 +10%. 25 이상 피해 시 3초간 보너스 상실.
+
+EN: Heavy Weapon Operator [CHEST] - 20% [EWS] Hit Chance, Accuracy, and Movement Speed while operating under the HEAVY WEIGHT WEAPON PENALTY.
+KO: 중화기 조작자 [CHEST] - 중량 무기 페널티 적용 중 [EWS] 명중률, 정확도, 이동 속도 20%.
+
+EN: Heavy Weapon Operator [HEAD] - 20% [EWS] Hit Chance, Accuracy, and Movement Speed while operating under the HEAVY WEIGHT WEAPON PENALTY.
+KO: 중화기 조작자 [HEAD] - 중량 무기 페널티 적용 중 [EWS] 명중률, 정확도, 이동 속도 20%.
+
+EN: Ambush - +100% General Weapon Proficiency. They're in the open!
+KO: 매복 - 일반 무기 숙련도 +100%. 놈들이 노출됐습니다!
+
+EN: Eye for an Eye - Gained +50% General Weapon Proficiency. Give no mercy.
+KO: 눈에는 눈 - 일반 무기 숙련 +50% 획득. 자비 없음.
+
+EN: Marked Lvl1 - Your vital points have been marked. -10% GENERAL RESISTANCE | -10% General Weapon Proficiency | -10% Dodge Chance
+KO: 표식됨 Lvl1 - 급소가 표시되었습니다. 일반 저항 -10% | 일반 무기 숙련 -10% | 회피 확률 -10%
+
+EN: Marked Lvl2 - Your vital points have been marked. -20% GENERAL RESISTANCE | -25% General Weapon Proficiency | -25% Dodge Chance
+KO: 표식됨 Lvl2 - 급소가 표시되었습니다. 일반 저항 -20% | 일반 무기 숙련 -25% | 회피 확률 -25%
+
+EN: Marked Lvl3 - Your vital points have been marked. -30% GENERAL RESISTANCE | -50% General Weapon Proficiency | -50% Dodge Chance
+KO: 표식됨 Lvl3 - 급소가 표시되었습니다. 일반 저항 -30% | 일반 무기 숙련 -50% | 회피 확률 -50%
+
+EN: Firing Position - 30% [EWS] Hit Chance and Accuracy multiplier while crouching.
+KO: 사격 위치 - 웅크린 동안 [EWS] 명중률 및 정확도 배율 30%.
+
+EN: Relocating - -30% Movement Speed.
+KO: 재배치 중 - 이동 속도 -30%.
+
+EN: Spectre Boon - +10% General Weapon Proficiency.
+KO: 유령의 축복 - 일반 무기 숙련 +10%.
+
+EN: Spectre Boon - +5HP/sec.
+KO: 유령의 축복 - 초당 체력 +5.
+
+EN: Mountain Guardian: +1% HP/sec. Immune to Light Bleeding and negate the first instance of Medium and Heavy Bleeding for 3 seconds when triggered. | 20s Cooldown
+KO: 산의 수호자: 초당 체력 +1%. 경출혈 면역, 발동 시 첫 중출혈과 중증출혈을 3초간 무효화. | 재사용 대기시간 20초
+
+EN: Tengu Synchronization: +1% HP/sec. +10% Movement Speed | +10% DODGE.
+KO: 텐구 동기화: 초당 체력 +1%. 이동 속도 +10% | 회피 +10%.
+
+EN: Tengu Synchronization: Infusion damage increased. +1% HP/sec. +10% Movement Speed. +10% DODGE Chance.
+KO: 텐구 동기화: 주입 피해 증가. 초당 체력 +1%. 이동 속도 +10%. 회피 확률 +10%.
+
+EN: Tengu Synchronization: Pistolier fires additional shots. +1% HP/sec. +10% Movement Speed. +10% DODGE Chance.
+KO: 텐구 동기화: 권총병이 추가 사격 발사. 초당 체력 +1%. 이동 속도 +10%. 회피 확률 +10%.
+
+EN: Tengu Synchronization: Ronin of Blades Cooldown set to 10s. +1% HP/sec. +10% Movement Speed. +10% DODGE Chance.
+KO: 텐구 동기화: 검의 낭인 재사용 대기시간 10초로 설정. 초당 체력 +1%. 이동 속도 +10%. 회피 확률 +10%.
+
+EN: Tengu Synchronization: Negate ARMOR WEIGHT PENALTY. +1% HP/sec. +10% Movement Speed. +10% DODGE Chance.
+KO: 텐구 동기화: 갑옷 무게 페널티 무효. 초당 체력 +1%. 이동 속도 +10%. 회피 확률 +10%.
+
+EN: Tengu Synchronization: Reduce cooldown with Magic Frenzy by 2s but deals -10 damage. +1% HP/sec. +10% Movement Speed | +10% DODGE.
+KO: 텐구 동기화: 마법 격분 재사용 대기시간 2초 감소, 단 피해 -10. 초당 체력 +1%. 이동 속도 +10% | 회피 +10%.
+
+EN: Blinding Smoke - Your eyes water from the surrounding vapors. -200% [EWS] Accuracy and Hit Chance. 60% DODGE Chance.
+KO: 실명 연기 - 주변 증기로 눈이 매워집니다. [EWS] 명중률과 적중 확률 -200%. 회피 확률 60%.
+
+EN: Brambles - The thorns dig into your skin. -50% Movement Speed. -60% DODGE Chance.
+KO: 가시덤불 - 가시가 살에 파고듭니다. 이동 속도 -50%. 회피 확률 -60%.
+
+EN: Divine Aura - +10HP/sec
+KO: 신성한 오라 - 초당 체력 +10
+
+EN: Green Potion - 5HP/sec for 5 seconds and -25% General Resistance for 10 seconds when hit.
+KO: 초록 물약 - 5초간 초당 체력 5, 맞으면 10초간 일반 저항 -25%.
+
+EN: Orange Potion - IMMUNE to BLEED. Gain 1 Hit Shield. | 30s Cooldown. -50% General Weapon Proficiency.
+KO: 주황 물약 - 출혈 면역. 피격 방패 1 획득. | 재사용 대기시간 30초. 일반 무기 숙련 -50%.
+
+EN: Potion Overload - -20% Movement Speed, Weapon Proficiency, General Resistance, and MAX HP. Drawbacks apply and increase by -20% for every potion buff above 1.
+KO: 물약 과다 복용 - 이동 속도, 무기 숙련, 일반 저항, 최대 체력 -20%. 물약 버프가 1개 초과할 때마다 페널티 -20%씩 적용 및 증가.
+
+EN: Purple Potion - +10% Movement Speed, +30% DODGE Chance, and -1HP/sec.
+KO: 보라 물약 - 이동 속도 +10%, 회피 확률 +30%, 초당 체력 -1.
+
+EN: Red Potion - -50% HP. +X% General Weapon Proficiency. X is equal to HP/3. (Max: 50%)
+KO: 빨간 물약 - 체력 -50%. 일반 무기 숙련 +X%. X는 체력/3과 동일. (최대: 50%)
+
+EN: Talisman of Blindness - You can't see anything beyond a few meters. -200% [EWS] Hit Chance and Accuracy.
+KO: 실명의 부적 - 몇 미터 너머는 아무것도 보이지 않습니다. [EWS] 적중 확률과 명중률 -200%.
+
+EN: Tanker's Tea - 5% Movement Speed, +25 HP, and IMMUNE to Suppression.
+KO: 탱커의 차 - 이동 속도 5%, 체력 +25, 제압 면역.
+
+EN: White Phosphorus - Your skin is burning. -200% [EWS] Accuracy and Hit Chance. -10% HP/sec. -50% Movement Speed. 60% DODGE Chance.
+KO: 백린 - 피부가 타고 있습니다. [EWS] 명중률과 적중 확률 -200%. 초당 체력 -10%. 이동 속도 -50%. 회피 확률 60%.
+
+EN: Rally - +25% EWS Accuracy and Hit and Dodge Chance.
+KO: 집결 - EWS 정확도, 명중률, 회피 확률 +25%.
+
+EN: Soul Binder - +200 Ability Mana. If Ability Mana reaches 0, immediately take 50 PSYCHIC damage to self.
+KO: 영혼 결속자 - 능력 마나 +200. 능력 마나가 0이 되면 즉시 자신에게 정신 피해 50.
+
+EN: Blitz Doctrine - +15% Light Weapon Proficiency. Gain +15% Light Weapon Proficiency when running. Worse Proficiency with Heavy Weapons
+KO: 전격전 교리 - 경무기 숙련도 +15%. 달릴 때 경무기 숙련도 +15% 획득. 중화기 숙련도 저하
+
+EN: Mark of Prey - Mark a single enemy within approximately 60 blocks. A new enemy is marked every 10s. Killing the marked enemy grants 10% Movement Speed, 1% HP/sec, and 10% DAMAGE RES for 5s.
+KO: 먹잇감 표식 - 약 60블록 내 적 하나에 표식을 남깁니다. 10초마다 새 적이 표시됩니다. 표식된 적 처치 시 5초간 이동 속도 10%, 초당 체력 1%, 피해 저항 10% 획득.
+
+EN: Call to Arms - 10% [EWS] Hit Chance and Accuracy multiplier. [Woodlands Weapon] 15% [EWS] Hit Chance and Accuracy multiplier.
+KO: 전투의 부름 - [EWS] 적중 확률과 명중률 배율 +10%. [우드랜즈 무기] [EWS] 적중 확률과 명중률 배율 +15%.
+
+EN: Castle Doctrine - +15% Medium Weapon Proficiency | +30% Heavy Weapon Proficiency
+KO: 성 교리 - 중형 무기 숙련도 +15% | 중화기 숙련도 +30%
+
+EN: Medical Supplier - If there is a nearby player or [GIC] Infantry Summon nearby, recover +10HP/sec for 5 seconds and cure BLEEDING upon reaching 50% HP. | 60s Cooldown
+KO: 의료 보급병 - 근처에 플레이어나 [GIC] 보병 소환이 있으면 5초간 초당 체력 +10 회복, 체력 50% 도달 시 출혈 치료. | 재사용 대기시간 60초
+
+EN: Oni Sake - +200 HP. -50% [EWS] Accuracy and Hit Chance. Penalty is reduced as the player loses HP. If the player has lost 250 HP or more, the penalty is completely negated.
+KO: 오니 사케 - 체력 +200. [EWS] 정확도와 명중률 -50%. 체력이 줄어들수록 페널티 감소. 체력을 250 이상 잃으면 페널티 완전 무효.
+
+EN: Royalist Medallion - Upon running out of Ability Mana, immediately restore all Ability Mana. | 45s Cooldown.
+KO: 왕당파 메달 - 능력 마나가 다 떨어지면 즉시 능력 마나 전부 회복. | 재사용 대기시간 45초.
+
+EN: Suspicious Mushroom - Randomly gain buffs or debuffs every 60 seconds. (Movement Speed, Weapon Proficiency, DODGE, MAX HP, REGEN, Resistance)
+KO: 수상한 버섯 - 60초마다 무작위 버프 또는 디버프 획득. (이동 속도, 무기 숙련, 회피, 최대 체력, 재생, 저항)
+
+EN: Suspicious Mushroom - General Weapon Proficiency boost.
+KO: 수상한 버섯 - 일반 무기 숙련 상승.
+
+EN: Suspicious Mushroom - Movement Speed boost.
+KO: 수상한 버섯 - 이동 속도 상승.
+
+EN: Triage Kit - +1HP/sec. If HP falls below 75%/50%, reduce max HP to those thresholds and increase regeneration by +2. Reset effect when at full HP at the given thresholds for 30s
+KO: 분류 키트 - 초당 체력 +1. 체력이 75%/50% 미만으로 떨어지면 최대 체력을 해당 임계치로 줄이고 재생 +2 증가. 주어진 임계치에서 30초간 최대 체력이면 효과 초기화
+
+EN: Triage Kit Lvl 3 - +5HP/sec. -50% MAX HP
+KO: 분류 키트 Lv3 - 초당 체력 +5. 최대 체력 -50%
+
+EN: Triage Kit Lvl 2 - +3HP/sec. -25% MAX HP
+KO: 분류 키트 Lv2 - 초당 체력 +3. 최대 체력 -25%
+
+EN: Rose Tea Maker - Gain the Tanker's Tea buff. [GIC] INFANTRY SUMMONS also gain the Tanker's Tea buff. (Tanker's Tea - 5% Movement Speed, +25 HP, and IMMUNE to Suppression)
+KO: 장미 차 제조기 - 탱커의 차 버프 획득. [GIC] 보병 소환도 탱커의 차 버프 획득. (탱커의 차 - 이동 속도 5%, 체력 +25, 제압 면역)
+
+EN: Wolf Blood - +20% Movement Speed, +2HP/sec, +25% DODGE Chance, +10% General Weapon Proficiency when under 50% HP.
+KO: 늑대 피 - 체력 50% 미만일 때 이동 속도 +20%, 초당 체력 +2, 회피 확률 +25%, 일반 무기 숙련 +10%.
+
+EN: Panic! - +25% Movement Speed | -25% ATK | Infantry will hesitate to use firearms.
+KO: 공황! - 이동 속도 +25% | 공격력 -25% | 보병이 화기 사용을 주저.
+
+EN: Grav-Inhibitor- -50% jump height | x5 fall damage. | -50% horizontal movement speed
+KO: 중력 억제기 - 점프 높이 -50% | 낙하 피해 x5 | 수평 이동 속도 -50%
+
+EN: Last Cigarette - +1% HP/s when smoking.
+KO: 마지막 담배 - 흡연 중 초당 체력 +1%.
+
+EN: Livi-tan - +10% Movement Speed, +25 Ability Mana.
+KO: 리비탄 - 이동 속도 +10%, 능력 마나 +25.
+
+EN: Technophile [기업 캇파 특성] - +15% Tech and Energy Weapon Proficiency.
+KO: 기술애호가 [기업 캇파 특성] - 테크 및 에너지 무기 숙련 +15%.
+
+EN: Lunatic Blitz [WANDERER TRAIT] - For each ADRENALINE stack: +5 Dodge Chance, +7.5% General Movement Speed | Holding 3 adrenaline stacks: Addtional +10% Dodge Chance, causes PANIC in nearby infantry.
+KO: 광기 질풍 [WANDERER TRAIT] - 아드레날린 중첩 하나당: 회피 확률 +5, 일반 이동 속도 +7.5% | 아드레날린 3중첩 보유 시: 추가 회피 확률 +10%, 주변 보병에게 공황 유발.
+
+EN: Cowardly: I'm too young to die! - -35% Weapon Proficiency and -20% Horizontal Movement Speed  WHEN BELOW 35% HP.
+KO: 겁쟁이: 난 죽기엔 너무 어려! - HP 35% 미만일 때 무기 숙련도 -35%, 수평 이동 속도 -20%.
+
+EN: Technophile: Technology brings prosperity, prosperity supports technology. - +15% Tech and Energy Weapon Proficiency. Such as Plasma Pistol, Rail Rifle.
+KO: 기술애호가: 기술이 번영을 가져오고, 번영이 기술을 지탱한다. - 테크 및 에너지 무기 숙련 +15%. 플라즈마 권총, 레일 소총 등.
+
+EN: Feel No Pain - Immune suppression effect, Ignore the [EWS] Hit Chance while bleeding.
+KO: 고통 불감 - 제압 효과 면역, 출혈 중 [EWS] 명중률 무시.
+
+EN: Ghoul - Your body has rotted，-20% Horizontal Movement Speed, -15% DODGE Chance, -10% ATK, -15% Max HP | Hard To Kill - when you taking 20+ damage, restore 66% HP in 9 seconds, 45s cooldown.
+KO: 구울 - 몸이 부패했습니다，수평 이동 속도 -20%, 회피 확률 -15%, 공격력 -10%, 최대 체력 -15% | 죽기 어려움 - 피해 20 이상을 받으면 9초간 체력 66% 회복, 재사용 대기시간 45초.
+
+EN: Extreme Recoil: Such recoil is injuring your physical health |  | -200% [EWS]HIT CHANCE and ACCURACY
+KO: 극심한 반동: 이런 반동은 신체 건강을 해친다 |  | -200% [EWS]명중률과 정확도
+
+EN: Hyper Recoil: -100% Weapon Proficiency | -300% ACCURACY
+KO: 과다 반동: 무기 숙련 -100% | 정확도 -300%
+
+EN: Shield Deployment - 5000HP STABILITY | -50% movement speed, can't jump. This Debuff can't remove.
+KO: 보호막 전개 - 안정성 5000HP | 이동 속도 -50%, 점프 불가. 이 디버프는 제거할 수 없음.
+
+EN: Attack is the best form of defence - -30% miss chance and inaccuracy with [EWS] guns | -15% resistance to most forms of damage.
+KO: 공격이 최선의 방어 - [EWS] 총기의 빗나감 확률과 부정확도 -30% | 대부분의 피해 유형에 대한 저항 -15%.
+
+EN: 66.6 pound Destroyer - -66% movement speed | when you try to shot on standing, It Will be miss | This Debuff can't remove.
+KO: 66.6파운드 파괴자 - 이동 속도 -66% | 선 채로 쏘면 빗나간다 | 이 약화 효과는 제거할 수 없다.
+
+EN: Oversize Battery - -35% Horizontal Movement Speed | -20% DODGE.
+KO: 대형 배터리 - 수평 이동 속도 -35% | 회피 -20%.
+
+EN: Jika-Tabi - [EWS/GiC] MEDIUM weapon movement penalty is negated | +10% Speed | -25% Knockback Resistance.
+KO: 지카타비 - [EWS/GiC] 중형 무기 이동 페널티 무효 | 속도 +10% | 넉백 저항 -25%.
+
+EN: ^#454545;Black Ops^reset; - Suppression Immune | +50% [EWS] Hit Chance and Accuracy
+KO: ^#454545;블랙 옵스^reset; - 제압 면역 | [EWS] 적중 확률과 명중률 +50%
+
+EN: ^#FFD83F;Reinforced Titanium Skeleton^reset; - ^green;[EWS] Armor movement penalties are negated | +15% Max HP^reset; | ^red;-10% movement speed
+KO: ^#FFD83F;강화 티타늄 골격^reset; - ^green;[EWS] 갑옷 이동 페널티 무효 | 최대 체력 +15%^reset; | ^red;이동 속도 -10%
+
+EN: ^#FFD83F;Nano-Regenerative Skeleton^reset; - ^green;Immune to most injuries | +10% Max HP^reset; | ^red;-5% movement speed
+KO: ^#FFD83F;나노 재생 골격^reset; - ^green;대부분의 상해 면역 | 최대 체력 +10%^reset; | ^red;이동 속도 -5%
+
+EN: ^#FFD83F;Epimorphic Skeleton^reset; - ^green;[EWS] Medium Armor movement penalties are negated | +30% Max HP^reset; | ^red;-15% movement speed
+KO: ^#FFD83F;에피모픽 골격^reset; - ^green;[EWS] 중형 갑옷 이동 페널티 무효 | 최대 체력 +30%^reset; | ^red;이동 속도 -15%
+
+EN: ^#FFD83F;Prototype Skeleton^reset; - ^green;[EWS] Reduce Cyberware penalties | +15% Max HP^reset;
+KO: ^#FFD83F;프로토타입 골격^reset; - ^green;[EWS] 사이버웨어 페널티 감소 | 최대 체력 +15%^reset;
+
+EN: ^#9D2F32;Complex-Technology^reset; - ^red;-50% EWS Hit Chance.^reset; Need ''Specialized technic'' to handle this weapon
+KO: ^#9D2F32;복합-기술^reset; - ^red;EWS 적중 확률 -50%.^reset; 이 무기를 다루려면 '전문 기술' 필요
+
+EN: Fatal Nervous system meltdown - 50HP base bleeding damage per second | -20% EWS Accuracy and Hit Chance.
+KO: 치명적 신경계 붕괴 - 초당 50HP 기본 출혈 피해 | EWS 정확도 및 명중률 -20%.
+
+EN: Circulatory System Breakdown - 10HP base bleeding damage per second | -20% EWS Accuracy and Hit Chance.
+KO: 순환계 붕괴 - 초당 10HP 기본 출혈 피해 | EWS 명중률과 적중 확률 -20%.
+
+EN: Complex Fracture - Your Arms was shattered. I told ya ^red;| -20% Max HP | 20HP base Bleed damage per second | -50% EWS Accuracy and Hit Chance.^reset;
+KO: 복합 골절 - 팔이 부서졌습니다. 말했잖아요 ^red;| 최대 HP -20% | 초당 20HP 기본 출혈 피해 | EWS 명중률과 적중 확률 -50%.^reset;
+
+EN: Rejection reaction Level 1: Body - ^red;-5% Max HP
+KO: 거부 반응 레벨 1: 신체 - ^red;최대 체력 -5%
+
+EN: Rejection reaction Level 2: Body - ^red;-15% Max HP
+KO: 거부 반응 레벨 2: 신체 - ^red;최대 체력 -15%
+
+EN: Rejection reaction Level 3: Body - ^red;-45% Max HP
+KO: 거부 반응 레벨 3: 신체 - ^red;최대 체력 -45%
+
+EN: Black Soul - +20% ATK Power | +20% Max HP | +20% [EWS] Hit Chance and Accuracy multiplier.
+KO: 검은 영혼 - 공격력 +20% | 최대 HP +20% | [EWS] 적중 확률과 명중률 배율 +20%.
+
+EN: Leaf Ring - +20% DODGE Chance, +25% general movement speed.
+KO: 잎 고리 - 회피 확률 +20%, 일반 이동 속도 +25%.
+
+EN: Wavefield Curtain - +100% DODGE Chance, +100HP, +45% Weapon Proficiency when crouching | on taking 10 or more damage, disabled for 10s after 1s.
+KO: 파동장 커튼 - 웅크릴 때 회피 확률 +100%, 체력 +100, 무기 숙련 +45% | 10 이상 피해를 받으면 1초 후 10초간 비활성화.
+
+EN: - Max HP
+KO: - 최대 체력
+
+EN: Hachimaki - Suppression Immunity at 100% HP.
+KO: 하치마키 - 체력 100%일 때 제압 면역.
+
+EN: Sandbag Armor - +10% SMALL-ARMS | +30% SMALL-ARMS THERMAL | Prevents Light Bleeding | -20% general movement speed.
+KO: 샌드백 방어구 - 소구경 +10% | 소구경 열 피해 +30% | 경미한 출혈 방지 | 전반 이동 속도 -20%.
+
+EN: White Lily Flower - +1% HP/s when coated in blood.
+KO: 하얀 백합꽃 - 피로 뒤덮였을 때 초당 체력 +1%.
+
+EN: Yurei TWS - -20% Movement Speed when using a firearm with this attachment equipped.
+KO: 유레이 TWS - 이 부착물 장착 화기 사용 시 이동 속도 -20%.
+
+EN: IJN Paratrooper Insignia - +10% Movement Speed and +5% DODGE when holding a LIGHT weapon
+KO: IJN 공수부대 휘장 - 경량 무기 보유 시 이동 속도 +10%, 회피 +5%
+
+EN: Imon-Bukuro - +20% Max HP.
+KO: 이몬부쿠로 - 최대 체력 +20%.
+
+EN: Imon-Ningyo - +6HP/s when under 50% HP.
+KO: 이몬닌교 - 체력 50% 미만일 때 초당 체력 +6.
+
+EN: Letter from Sulfur Island - +15% Hit Chance and Accuracy multiplier when stationary.
+KO: 유황 섬에서 온 편지 - 정지 상태일 때 명중률과 정확도 배율 +15%.
+
+EN: Lock On Specs [LFW] - +20% [EWS] Hit Chance and Accuracy.
+KO: 조준 고정 고글 [LFW] - [EWS] 명중률과 정확도 +20%.
+
+EN: Night Warfare Stripes - +10% to EWS stats and +25% Movement Speed when in darkness.
+KO: 야전 줄무늬 - 어둠 속에서 EWS 능력치 +10%, 이동 속도 +25%.
+
+EN: Scope Charm - ^orange;+25% Weapon Proficiency after 0.5s of not running, firing, or being shot.^reset
+KO: 조준경 부적 - ^orange;달리기, 사격, 피격을 하지 않은 지 0.5초 후 무기 숙련 +25%.^reset
+
+EN: Sight Charm - ^orange;+10% Weapon Proficiency.^reset;
+KO: 시야 부적 - ^orange;무기 숙련 +10%.^reset;
+
+EN: Hachimaki - SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY | Reduces cooldown of SECOND CHANCE by 20%.
+KO: 하치마키 - 두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득 | 두 번째 기회 재사용 대기시간 20% 감소.
+
+EN: Ise Talisman - Removes Jam Chances. | Each reload costs 50 Ability Mana.
+KO: 이세 부적 - 걸림 확률 제거. | 재장전할 때마다 능력 마나 50 소모.
+
+EN: Seifuku White Tie - ^orange;Crouching while TAKING FIRE grants +60% BALLISTIC RES and +20% DODGE, but -15% Weapon Proficiency for up to 5s | 10s cooldown.^reset;
+KO: 세이후쿠 화이트 타이 - ^orange;피격 중에 웅크리면 탄도 저항 +60%, 회피 +20%, 단 무기 숙련 -15%, 최대 5초 | 재사용 대기시간 10초.^reset;
+
+EN: Sky Blue Bow [LFW] - +5% Defense, Attack, GENERAL Resistance, and [EWS] Accuracy and Hit Chance.
+KO: 하늘색 활 [LFW] - 방어, 공격, 일반 저항 +5%, [EWS] 명중률과 적중 확률 +5%.
+
+EN: Suppression Immunity
+KO: 억제 면역
+
+EN: Suppression Immunity (Livi-tan)
+KO: 제압 면역 (리비탄)
+
+EN: Suppression Immunity (Sake)
+KO: 제압 면역 (사케)
+
+EN: Lock On Specs - +20% Weapon Proficiency.
+KO: 조준 고정 고글 - 무기 숙련 +20%.
+
+EN: Sky Blue Bow - +5% Defense, Attack, GENERAL Resistance, and Weapon Proficiency.
+KO: 하늘색 활 - 방어, 공격, 일반 저항, 무기 숙련 +5%.
+
+EN: ^red;Tremor - Slightly reduced movement speed. Stuns you when inflicted with Tremor Burst.
+KO: ^red;진동 - 이동 속도가 약간 감소. 진동 폭발에 걸리면 기절한다.
+
+EN: Anal Trained - Increases Max HP by 100 for 30 minutes
+KO: 애널 훈련됨 - 30분간 최대 HP 100 증가
+
+EN: Satisfied - Increases Max HP by 100 for 30 minutes.
+KO: 만족 - 30분간 최대 체력 100 증가.
+
+EN: Healing Suppression Field - Most healing items have a cooldown.
+KO: 치유 억제장 - 대부분의 치유 아이템에 재사용 대기시간이 있습니다.
+
+EN: Tank Terror - Enemies killed within approximately 60 blocks have a 1% chance to drop a Kawasaki T23 RPG.
+KO: 전차 공포 - 약 60블록 내에서 처치한 적이 1% 확률로 가와사키 T23 RPG 드롭.
+
+EN: Fire Support - Enemies killed within approximately 60 blocks have a 5% chance to drop a Osaka T89 50mm Mortar Shell.
+KO: 화력 지원 - 약 60블록 내에서 죽인 적이 5% 확률로 오사카 T89 50mm 박격포탄을 떨어뜨림.
+
+EN: [Double-Tap A or D, holding down on 2nd tap] | ^green;Press [UP] to boost your jump^reset; | Boost consumes 20 Ability Mana per second.
+KO: [A 또는 D 더블탭, 두 번째 탭에서 유지] | ^green;[UP]을 눌러 점프 부스트^reset; | 부스트는 초당 능력 마나 20 소모.
+
+EN: Press [Jump] to Fly | Max operate time: 4s | Reset operate time after landing | Slight reduces falling speed and fall damage | Press [Down] to Hover | Press [UP] to boost | Boost consumes 25 Ability Mana per second
+KO: [Jump]를 눌러 비행 | 최대 작동 시간: 4초 | 착지 후 작동 시간 초기화 | 낙하 속도와 낙하 피해 약간 감소 | [Down]을 눌러 정지 비행 | [UP]을 눌러 부스트 | 부스트는 초당 능력 마나 25 소모
+
+EN: Four smaller jumps | ^green;Press [UP] to boost your jump^reset; | 25 Ability Mana per boost
+KO: 작은 점프 4회 | ^green;[UP]을 눌러 점프를 강화^reset; | 강화마다 능력 마나 25
+
+EN: Provides a boost in movement speed and jumping power!
+KO: 이동 속도와 점프력을 증가시킨다!
+
+EN: Provides a boost in movement speed!
+KO: 이동 속도를 증가시킨다!
+
+EN: Further upgrade of the AK-400 platform, this rifle and it's rechambers have improved accuracy and higher firerate.
+KO: AK-400 기반을 한층 개량해 이 소총과 파생 구경 모델의 명중률과 발사 속도를 높였습니다.
+
+EN: A second generation of "Assassin" SMG, with higher firerate, but a little worse accuracy.
+KO: 발사 속도는 더 빠르지만 정확도는 조금 떨어지는 2세대 "어쌔신" 기관단총.
+
+EN: Luckily it's weight benefits to recoil reduction.
+KO: 다행히 무게가 반동 감소에 도움이 된다.
+
+EN: An attempt at cramming the rifle into a smaller frame while keeping the accuracy and damage.
+KO: 정확도와 피해량을 유지하면서 소총을 더 작은 프레임에 욱여넣으려 한 시도작이다.
+
+EN: A complicated, but sturdy assault rifle with a good recoil reduction system.
+KO: 복잡하지만 튼튼한 돌격소총입니다. 반동 감소 성능이 뛰어납니다.
+
+EN: A 100-series AK with a BARS barrel, reducing recoil quite a lot.
+KO: BARS 총열을 달아 반동을 꽤 줄인 100 시리즈 AK.
+
+EN: An Izhmash prototype of AK-12, featuring a balanced recoil system and an experimental drum magazine, but no hyperburst..
+KO: 균형 반동 체계와 실험적인 드럼 탄창을 탑재했지만 하이퍼버스트는 없는 이즈마시 AK-12 시제품입니다.
+
+EN: Why's the recoil upside-down?
+KO: 왜 반동이 거꾸로야?
+
+EN: AK platform, updated to fire the less powerful 5.45x39 round, allowing for better penetration and less recoil.
+KO: 덜 강력한 5.45x39 탄을 발사하도록 개조된 AK 플랫폼으로, 더 나은 관통력과 더 적은 반동을 제공한다.
+
+EN: An AKM, modified by Hammer Munitions with a few enhancements, such as a 3-round burst, and reduced overall recoil.
+KO: 해머 뮤니션스가 3점사 기능과 전반적으로 줄어든 반동 등 몇 가지 개량을 더해 개조한 AKM.
+
+EN: It's overall just an AK-47 with more controllable recoil, and cheaper to produce.
+KO: 전반적으로 반동을 더 쉽게 제어할 수 있고 생산 비용도 저렴한 AK-47이다.
+
+EN: An improved version of the M16. Slightly reduced rate of fire, but better accuracy.
+KO: 개량된 M16이다. 연사 속도는 약간 낮아졌지만 정확도가 향상되었다.
+
+EN: An improved version of the M16. Slightly reduced rate of fire, but better accuracy. Comes with a noob tube.
+KO: 개량된 M16이다. 연사 속도는 약간 낮아졌지만 정확도가 향상되었다. 유탄 발사기가 딸려 있다.
+
+EN: A big, heavy .308 Winchester AK rifle, with a bipod for better accuracy and a carrying handle.
+KO: 정확도를 높이는 양각대와 운반 손잡이가 달린, 크고 무거운 .308 윈체스터 AK 소총.
+
+EN: An AR-15 chambered in 9x19 Parabellum. Fast rate of fire, bad recoil.
+KO: 9x19 파라벨룸으로 재구경된 AR-15. 발사 속도가 빠르지만 반동이 나쁘다.
+
+EN: Semi-Automatic version with better accuracy and damage.
+KO: 정확도와 피해량이 향상된 반자동 버전.
+
+EN: A powerful .50 AE pistol, designed to stop a target for good. Best used in close range combat, due to it's inaccuracy.
+KO: 목표를 완전히 멈춰 세우기 위해 설계된 강력한 .50 AE 권총. 부정확한 만큼 근접전에서 사용하는 것이 가장 좋다.
+
+EN: A version of the standard issue NCR service rifle with a scope and a front handguard for improved accuracy. / ^green;AP rounds loaded. ^reset;
+KO: 정확도 향상을 위해 스코프와 전방 손잡이 덮개가 달린, 표준 제식 NCR 서비스 라이플의 버전. / ^green;철갑탄 장전됨. ^reset;

@@ -1,0 +1,262 @@
+================================================================================
+/codex/LEGACY/gic_spaceinfantry/gic_spaceinfantry.codex.patch /contentPages/0
+--EN--
+
+--KO--
+전쟁은 무한하다
+
+우주 보병 부대의 임무는 중력 전투 내의 전투와 크게 다릅니다. 모든 각도는 incoming fire의 잠재적 경로이며, 이미 부피가 큰 산소 슈트의 특성상 갑옷은 쓸모가 없습니다.
+
+우리 차원의 최종 전쟁의 전선은 여기 있으며, 우리는 이미 22세기부터 우주 전쟁에 참여해 왔습니다.
+================================================================================
+/_ZBversioning.config.patch /welcome
+--EN--
+
+Welcome to ^orange;Ztarbound^reset;; A mod that aims to improve some of the untouched by mods vanilla aspects and add some more tools for modders to play with!
+
+^orange;Updated to 1.05c:^reset;
+^green;>^reset; Some research tree fixed and QoL improvements
+
+This window, added by this mod, is here to notify you when a mod (using this feature) was updated, as well as guide new and old users through some basic mod info and important changes, including, but not limited to, changelogs, extra information, and credits.*
+
+Normally, these windows cannot be closed instantly when called by a mods update, a newly created character(Because of limitations), or when installing a new mod.
+
+But don't worry, if only one mod is updated/added, you can close the window after a short timer that appears in the bottom left corner.**
+
+If multiple mods were updated/added, the pane will be closeable after you've viewed all the mods.** (Via the 'previous'/'next' buttons)
+
+You can open this window manually through SAIL, or the quickbar. (provided by StardutLib/QuickbarMini)
+
+Want your mod to use this feature? Not a problem! Head on to the 'Information' tab, you'll find everything you need there.
+
+Be advised - 
+--KO--
+^orange;Ztarbound^reset;에 온 걸 환영해; 모드가 건드리지 않은 바닐라 요소들을 개선하고 모더들이 가지고 놀 도구를 더하는 걸 목표로 하는 모드야!
+
+^orange;1.05c로 업데이트됨:^reset;
+^green;>^reset; 일부 연구 트리 수정과 편의성 개선
+
+이 모드가 추가한 이 창은, (이 기능을 사용하는) 모드가 업데이트됐을 때 알려주고, 변경로그, 추가 정보, 크레딧 등 기본적인 모드 정보와 중요한 변경점을 신규·기존 사용자에게 안내하기 위한 거야.*
+
+보통 이 창들은 모드 업데이트로 호출되거나, 새로 만든 캐릭터로 호출되거나(제한 때문에), 새 모드를 설치했을 때는 바로 닫을 수 없어.
+
+하지만 걱정 마, 업데이트/추가된 모드가 하나뿐이라면 왼쪽 아래에 나타나는 짧은 타이머 후에 창을 닫을 수 있어.**
+
+여러 모드가 업데이트/추가됐다면, 모든 모드를 다 보고 나서야 창을 닫을 수 있어.** ('이전'/'다음' 버튼으로)
+
+이 창은 SAIL이나 퀵바를 통해 수동으로 열 수 있어. (StardutLib/QuickbarMini 제공)
+
+네 모드에서 이 기능을 쓰고 싶다고? 문제없어! '정보' 탭으로 가면 필요한 게 다 있어.
+
+참고 - 이 모드는 Frackin' Universe에 통합되어 있어서 독립 버전이 필요 없어. FU와 함께 독립 버전이 설치되어 있다면, 스타바운드 로딩 속도 저하와 잠재적 문제를 막기 위해 독립 버전을 제거해줘.
+
+고마워, 그리고 재밌게 놀아! :)
+
+* - 제공되는 정보는 해당 모드가 이 기능을 사용하는지에 따라 달라지며, 정보 자체는 그 모드의 제작자가 제공해.
+
+** - 사실 창을 닫을 수는 있지만, 다시 열리면서 타이머가 초기화돼. :)
+================================================================================
+/_ZBversioning.config.patch /welcome
+--EN--
+
+--KO--
+
+지타바운드에 오신 것을 환영합니다 ^orange;지타바운드^reset;; 모드 바닐라에서 손대지 않은 몇 가지 측면을 개선하고 모더들이 플레이할 수 있는 도구를 더 추가하는 것을 목표로 하는 모드!
+
+^orange;1.05c로 업데이트되었습니다:^reset;
+^green;>^reset; 일부 리서치 트리 수정 및 품질 개선
+
+이 모드로 추가된 이 창은 (이 기능을 사용하는) 모드가 업데이트되었을 때 알려주고, 변경 로그, 추가 정보, 크레딧 등 몇 가지 기본 모드 정보와 중요한 변경 사항을 신규 및 기존 사용자에게 안내하기 위한 창입니다. *일반적으로 이 창은 모드 업데이트, 새로 생성한 캐릭터(제한 사항으로 인해) 또는 새 모드 설치 시 호출되면 즉시 닫을 수 없습니다.
+
+단, 하나의 모드만 업데이트/추가된 경우 왼쪽 하단에 표시되는 짧은 타이머가 지나면 창을 닫을 수 있으니 걱정하지 마세요. **여러 개의 모드가 업데이트/추가된 경우 모든 모드를 본 후에 창을 닫을 수 있습니다.** ('이전'/'다음' 버튼을 통해)
+
+이 창은 SAIL 또는 퀵바를 통해 수동으로 열 수 있습니다. (스타웃라이브/퀵바미니에서 제공)
+
+모드에서 이 기능을 사용하고 싶으신가요? 문제없습니다! '정보' 탭으로 이동하면 필요한 모든 것을 찾을 수 있습니다.
+
+주의 - 이 모드는 Frackin' Universe에 통합되어 있으며 독립형 버전이 필요하지 않습니다. FU와 함께 독립 실행형 버전을 설치한 경우, 스타바운드 로딩 시간을 늦추지 않고 잠재적인 문제를 방지하기 위해 독립 실행형 버전을 제거하세요.
+
+감사하고 즐거운 시간 보내세요! :)
+
+* - 제공되는 정보는 해당 모드가 이 기능을 사용하고 있는지 여부에 따라 다르며, 정보 자체는 해당 모드 작성자가 제공합니다.
+
+** - 기술적으로 창을 닫을 수는 있지만 다시 열리고 타이머가 reset됩니다.) 
+
+================================================================================
+/items/WEAPONS/RANGED/ROCKET_LAUNCHER/gic_m1a1bazooka/gic_m1a1bazooka.activeitem.patch /description
+--EN--
+
+--KO--
+뭐, 뭐라고... 대체 이런 걸 어디서 구한 거야?! 이게 1세대 로켓 발사기라는 거 알아?! M1A1은 그 초기 형태 중 하나였고, 지금에 와서는 보병을 그럭저럭 처리하거나 아주 가벼운 차량 몇 대를 상대하는 것 외에는 별 쓸모가 없어. 전차는 아예 상대할 생각도 하지 마, 어차피 안 통하니까. 이 늙은 전마(戰馬)는 박물관에 고이 모셔두는 게 최선일 거야.
+  
+^orange;고폭탄과 M10 폭발 연막)을 장전한다. 실패 확률은 무기 숙련도에 따라 달라진다.
+================================================================================
+/items/generic/drinks/beer/kilvratjug.consumable.patch /description
+--EN--
+
+--KO--
+다단계 테네브레가 마시기 위한 공격적으로 강한 술입니다. 
+^cyan;+^white;120 ^cyan;HP^gray;, ^pink;진흙^gray;, ^pink;슬라임^gray;, ^pink;얼음^gray;, ^pink;눈^cyan;면역^gray;(^white;90초^gray;)
+^red;해머드 ^gray;(^white;2분^gray;^reset;
+================================================================================
+/items/generic/food/phaseshake/phaseshake.consumable.patch /description
+--EN--
+
+--KO--
+플라즈마 쉐이크. 맛만큼이나 위험합니다.
+^cyan;+^white;20% ^cyan;EP ^gray;(^white;175초^gray;)
+^cyan;+^white;20% ^cyan;속도 ^gray;(^white;50초^gray;)
+^red;불탐 ^gray;5초^gray;)^reset;
+================================================================================
+/codex/other/PBthanksdearcustomer.codex.patch /contentPages/41
+--EN--
+
+--KO--
+^yellow;모니카 봉제인형^white;
+- 모니카 인형
+
+^yellow;Nyatsumi^white;
+- 케리 인형
+
+^yellow;R4YL0 #0555^white;
+- 뮤츠 인형
+
+(코드 작성:) ^yellow;실버 소콜로바 플러시^white;
+- 포르투나타 페르사브퀴 인형
+- 안내자 인형
+- 실버 소콜로바 인형
+================================================================================
+/ivrpgtext.config.patch /lore/children/specialization/children/darktemplar/children
+--EN--
+Sudden pressure bending metal -
+Forcing bothered dust to settle.
+^red;Shhh: do you hear that?^reset;
+
+Fervid death erupts from ashes,
+Stealing thought and tearing gashes.
+^blue;Shhhh: do you hear that?^reset;
+
+Spreading out and creeping in:
+A sentient husk entrenched in sin.
+^red;Shhhhh: do you hear that?^reset;
+
+Runes engrave in ruined flesh;
+Whispers clash: a garbled mesh.
+^blue;Shhhhhh: do you hear that?^reset;
+
+Well...
+!.5@3^red;d^reset;:6=;1,^blue;o^reset;@7#*6(^red;y^reset;}&6-_[5^blue;o^reset;2*?0^red;u^reset;,5@!5!^blue;?^reset;+7]3#
+--KO--
+갑작스런 압력이 금속을 휘게 하니 -
+성가신 먼지를 가라앉힌다.
+^red;쉿: 저 소리 들리는가?^reset;
+
+타오르는 죽음이 잿더미에서 솟구쳐,
+생각을 훔치고 상처를 찢는다.
+^blue;쉬잇: 저 소리 들리는가?^reset;
+
+퍼져 나가며 스며든다:
+죄악에 사로잡힌 지각 있는 껍데기.
+^red;쉬이잇: 저 소리 들리는가?^reset;
+
+룬 문자가 부서진 살에 새겨지고;
+속삭임이 부딪친다: 뒤엉킨 잡음.
+^blue;쉬이이잇: 저 소리 들리는가?^reset;
+
+음...
+!.5@3^red;d^reset;:6=;1,^blue;o^reset;@7#*6(^red;y^reset;}&6-_[5^blue;o^reset;2*?0^red;u^reset;,5@!5!^blue;?^reset;+7]3#
+================================================================================
+/objects/friskyfelin_sxb/friskyfelin_sxb.object.patch /shortdescription
+--EN--
+Frisky Felin Dancer, Special Edition! (Female version.
+--KO--
+프리스키 펠린 댄서, 스페셜 에디션! (여성 버전.
+================================================================================
+/items/generic/crafting/fusioncore.item.patch /description
+--EN--
+
+--KO--
+이 핵은 끊임없이 융합을 겪고 있다.\\n^red;만지면 치명적으로 뜨겁다.^reset;
+================================================================================
+/objects/upgrade/techconsole/techconsole.object.patch /description
+--EN--
+
+--KO--
+이 콘솔을 통해 기술을 장착하고 강화할 수 있습니다. \n^red;파괴하면 회수할 수 없습니다.
+================================================================================
+/objects/upgrade/techconsole/techconsole.object.patch /description
+--EN--
+
+--KO--
+이 스테이션에서 기술을 장착하고 강화하세요.
+================================================================================
+/codex/pharitu/pharitu1.codex.patch /contentPages/1
+--EN--
+
+--KO--
+유일한 예외이며, 이마저도 대기 조건에 문제가 있습니다. 사실, 환경이 너무 적대적이어서 파리투족조차도 매우 특정한 기상 조건을 제외하고는 지하 지역을 고수합니다 (나중에 전체 장에서 자세히 설명합니다.
+================================================================================
+/codex/pharitu/pharitu7.codex.patch /contentPages/0
+--EN--
+
+--KO--
+파리투는 일을 서두르지 않는 '느린' 종족으로, 결정을 내리기 전에 모든 잠재적 결과를 고려하는 타입입니다.  파리투가 수행하는 모든 행동은 계산되고 신중하게 결정됩니다(한 번의 잘못된 터널링 제스처가
+================================================================================
+/items/MECH_PARTS/esc_90mm_pershing.item.patch /description
+--EN--
+
+--KO--
+''박살 내 버려!''
+장갑 표적을 상대하는 90mm 포. 대전차탄을 쓰면 주력 전차의 장갑도 관통할 수 있다.
+^#EA3C0B;슈퍼 사격): 관통력이 강한 고속 철갑탄을 쏜다. 여러 겹의 엄폐물을 뚫을 수 있으며, 맞을 때마다 파편을 흩뿌린다.^reset;
+================================================================================
+/items/WEAPONS/MELEE/HALBERD/gic_nue_naginata/gic_nue_naginata.activeitem.patch /description
+--EN--
+
+--KO--
+나기나타라는 용어는 헤이안 우박폭풍) 역사 문서에 처음 등장했습니다.
+^orange;타격마다 피해 증가.
+^yellow;패링 [ALT-FIRE]: 0.6초 패링 창 | 안정성 50HP.^white;
+^#FFEEC6;헤이안 우박 [SHIFT]: 공중으로 뛰어 커서로 잠수해 목표에 화살 우박 소환. 후속으로 자신 위치에 추가 화살 소환하는 찌르기 수행 | 재사용 대기 30초.^white;
+================================================================================
+/codex/pharitu/pharitu4.codex.patch /contentPages/1
+--EN--
+
+--KO--
+하지만 모든 파리투가 다른 사람들과 소통하는 방식입니다), 또는 극한의 거리에서 서로 (그들의 샤크타에 큰 소모가 있습니다) 돌과 금속을 형성하고 심지어 배의 연료 역할을 할 수있는 고체 물질로 만든 구조물 (배, 물질로 만든 배)을 만들기도합니다.
+================================================================================
+/codex/pharitu/pharitu4.codex.patch /contentPages/4
+--EN--
+
+--KO--
+짧은 항해에 연료를 공급하기 위해 수천 파운드의 보석이 필요하다는 것은 얼마나 끔찍한 일인지 상상할 수 있습니다). 따라서 그들은 '평범한' 우주선 부품을 만드는 데 필요한 부품을 얻기 위해 은하계 시장에서 거래하는 데 열중하고 있습니다. 표준 픽셀이 부족하기 때문에 이들에게 이것은 큰 번거로움이 아닙니다.
+================================================================================
+/codex/pharitu/pharitu7.codex.patch /contentPages/1
+--EN--
+
+--KO--
+잘못된 터널링 제스처가 치명적인 붕괴를 초래할 수 있는 적대적인 환경의 잔재일 수 있습니다.) 일부에서는 사이오닉 능력에 (제한적으로) 미래를 볼 수 있는 능력이 포함된다는 소문이 돌기도 했습니다. 이로 인해 다른 종족들, 특히 젊은 종족들 사이에서 이들에 대한 공포와 오해를 불러일으켰습니다.
+================================================================================
+/codex/pharitu/pharitu1.codex.patch /contentPages/2
+--EN--
+
+--KO--
+장에서 자세히 설명합니다). 일상 생활의 고단함을 진정으로 이해할 수 있는 종은 거의 없습니다(수천 년 전보다 지금은 문제가 덜합니다). 대부분의 기술이 대기권에서 과부하가 걸릴 위험이 크기 때문에 이 세계를 방문한 사람은 거의 없습니다,
+================================================================================
+/codex/elder/thesubstance.codex.patch /contentPages/4
+--EN--
+
+--KO--
+그들의 말은 알아들을 수 없지만, 해로운 것은 없는 것 같습니다(어쨌든 대부분). 정신이 덜 안정된 사람들에게는 상황이 훨씬 더 어두울 수 있다는 이야기를 들었습니다). 대부분의 경우, 마치 천상의 존재, 전능자의 종을 만나는 것과 같습니다. 하지만 여러분이 무엇을 하든 그들을 이해할 수는 없을 것입니다.
+================================================================================
+/codex/nightar/funightardoc1.codex.patch /contentPages/2
+--EN--
+
+--KO--
+제대로 기능하지 못합니다. 이로 인해 많은 문화적 특색(특히 종교와 관련하여)이 생겼습니다. 이들은 태양을 신격화하지 않고 마을화하는 유일한 종족으로 알려져 있습니다.) 예를 들어 그들의 결혼식을 생각해 보세요. 달이 없는 밤에만 '생명 결합'을 하는 것이 관습입니다.
+================================================================================
+/codex/shadow/shadow3.codex.patch /contentPages/2
+--EN--
+
+--KO--
+예 또는 아니오로 대답하지 않는 질문에 긍정 또는 부정으로 응답합니다.) 이 종 역시 마찬가지로 화를 내는 것이 불가능해 보입니다. 이들은 자기들끼리 싸우지 않으며, 정당한 이유 없이 다른 사람을 비난하는 일도 거의 없습니다. 우리가 정의할 수 있는 어떠한 외적 감정도 드러내지 않기 때문에 많은 사람들이 하이브 마인드를 중심에 둔 무의미한 자동 로봇이라고 믿습니다. 그러나 이는 잘못된 생각입니다.

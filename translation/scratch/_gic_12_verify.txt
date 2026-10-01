@@ -1,0 +1,109 @@
+== /items/armors/WILDLANDS/POLICE/gic_old_police_detective1/gic_vintage_police_detective1.chest.patch ==
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "A simple button up dress shirt with a detecives badge & pistol holster. Nothing really unique here.\r\n\r\n^#DBC5A6;DEF: +20% BLEED.\r\n\r\n^#93B5FF;Bullet-In Board [FULL SET] - Refer to the Detective's Glasses.^reset;"
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "탐정 배지와 권총 홀스터 달린 단순한 단추 정장 셔츠. 딱히 특별한 건 없다.\n\n^#DBC5A6;방어력: 출혈 +20%.\n\n^#93B5FF;불릿인 보드 [풀 세트] - 탐정의 안경 참조.^reset;"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Detective Button-Up Shirt"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": 
+
+== /objects/gic_payphone/gic_payphone.object.patch ==
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Payphone."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "공중전화."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Payphone"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "공중전화"
+    }
+  ]
+]
+
+== /objects/gic_payphone/gic_payphone_koishi.object.patch ==
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Payphone."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "공중전화."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Payphone"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "공중전화"
+    }
+  ]
+]
+
+ASSETS:
+/cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_afflicted.cinematic.patch
+/cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_complete.cinematic.patch
+/cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_eskhatos.cinematic.patch
+/cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_intro.cinematic.patch
+/cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_khurtovyna.cinematic.patch
+/cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_protected.cinematic.patch
+/cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_subterranean.cinematic.patch
+/cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_wartorn.cinematic.patch
+/cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_wildlands.cinematic.patch
+/items/armors/WILDLANDS/POLICE/gic_old_police_detective1/gic_vintage_police_detective1.chest.patch
+/items/armors/WILDLANDS/POLICE/gic_old_police_detective1/gic_vintage_police_detective1.head.patch
+/items/armors/WILDLANDS/POLICE/gic_old_police_detective1/gic_vintage_police_detective1.legs.patch
+/items/armors/WILDLANDS/POLICE/gic_old_police_detective2/gic_vintage_police_detective2.chest.patch
+/items/armors/YAMAXANADU_FORCES/INFANTRY/gic_yama_lightinfantry/gic_yama_lightinfantry.chest.patch
+/items/armors/YAMAXANADU_FORCES/INFANTRY/gic_yama_lightinfantry/gic_yama_lightinfantry.head.patch
+/items/armors/YAMAXANADU_FORCES/INFANTRY/gic_yama_lightinfantry/gic_yama_lightinfantry.legs.patch
+/objects/gic_payphone/gic_payphone.object.patch
+/objects/gic_payphone/gic_payphone_koishi.object.patch
+/quests/KOISHI_KOMEIJI/gic_koishikomeiji_payphone_afflicted.questtemplate.patch
+/quests/KOISHI_KOMEIJI/gic_koishikomeiji_payphone_complete.questtemplate.patch
+/quests/KOISHI_KOMEIJI/gic_koishikomeiji_payphone_eskhatos.questtemplate.patch
+/quests/KOISHI_KOMEIJI/gic_koishikomeiji_payphone_intro.questtemplate.patch
+/quests/KOISHI_KOMEIJI/gic_koishikomeiji_payphone_khurtovyna.questtemplate.patch
+/quests/KOISHI_KOMEIJI/gic_koishikomeiji_payphone_protected.questtemplate.patch
+/quests/KOISHI_KOMEIJI/gic_koishikomeiji_payphone_subterranean.questtemplate.patch
+/quests/KOISHI_KOMEIJI/gic_koishikomeiji_payphone_wartorn.questtemplate.patch
+/quests/KOISHI_KOMEIJI/gic_koishikomeiji_payphone_wildlands.questtemplate.patch

@@ -1,0 +1,272 @@
+@@@ 444
+Ballistic Weaving
+@@@ 445
+Extra bags for the piles of scrap one will inevitably amass. Piles upon piles, unending.
+
+^orange;Increases Metal-Blooded Scrounger's passive scrap drop rate by an additional 10% | Must wear at least one armor piece.
+@@@ 446
+Extra Salvage Bags
+@@@ 447
+A quiver bag attached to the hip via belt or other means in order to facilitate quick access to ammunition during engagements. There seems to be a lot in here, because you've never seen the damned thing empty.
+
+^orange;50% chance to recover a wooden arrow/bolt on launching any arrow/bolt.^reset;
+@@@ 448
+Hip Quiver
+@@@ 449
+Additional metal plating installed under an existing piece of armor or uniform. Such armor is improvised in nature. You'll be able to take more hits with this and even deflect a few blows outright, but it will definitely weigh you down in the process.
+
+^orange;Taking DMG triggers parry effects | +25 MAX HP | -20% Movement Speed.^reset;
+@@@ 450
+Metal Plating
+@@@ 451
+''Modern medicine predicates itself upon thousands of years of medical sciences practiced in battlefield medical tents and complex herbal mixtures refined in unfathomably ancient workshops.'' - Anonymous Researcher
+^orange;When below 70% HP: Bestows 2HP/s for 20s (40HP), draining 2 Mana/s (40 AM) | Base mana regen rate outpaces capsule's drain | Healing ceases if mana is drained | 30s cooldown.^reset;
+@@@ 452
+Moonlight Capsule
+@@@ 453
+''Your quarrel is with me, aristocrat.'' - Tale of the Footlancer, Vol.1
+
+Also known as a jousting shield, these implements were attached to plate armor to help deflect heavy lance hits while on horseback.
+
+^orange;Slows nearby enemies and self by -50% when engaged in close-combat | +40 MAX HP for bearer when in close-combat.^reset;
+@@@ 454
+Noble Ecranche
+@@@ 455
+You swear there's always more shots to grab from the bag, but such concerns over ammunition are frivolous compared to the concern of reloading while under fire.
+^orange;Chance to recover shots when firing certain weapons:^reset;
+Standard - 35%
+.57 Cal Minie - 35%
+.60 Cal Paper - 30%
+.577 Cal Snider - 25%
+.36 Cal Paper - 25%
+@@@ 456
+Powder Bag
+@@@ 457
+''Countless billions have been spent attempting to augment soldiers' gear with non-invasive computer hardware for a minimum of a 5% combat performance increase. It sort of worked.'' - USCR Department of Munitions Representative
+
+^orange;Enemies are marked with a green ping.^reset;
+
+^orange;Tech Unlocks: Standard AR Optics^reset;
+@@@ 458
+Prototype AR Optics
+@@@ 459
+''We couldn't call it an auto-injector because those things are actually what people think of when they just think of a 'regular' injector.'' - Auto-Healer Researcher
+
+^orange;When below 50% HP: Bestows 5HP/s for 10s (50HP), draining 7 Ability Mana/s (70 AM) | Healing ceases if mana is drained | 30s cooldown.^reset;
+
+^orange;Tech Unlocks: Standard Auto-Healer^reset;
+@@@ 460
+Prototype Auto-Healer
+@@@ 461
+''The line is drawn wherever the javelin lands.''
+
+Sand taken from the ground of a world you've walked before. It is a reminder that inevitably, all things return to the sands of time.
+
+^orange;+75% Throwing Weapon Accuracy.^reset;
+@@@ 462
+Sand Vial
+@@@ 463
+A bandolier loaded with various shells. You've never seen the bandolier empty, but it's probably best not to question it.
+
+^orange;Chance to recover shotgun shells when firing certain weapons:^reset;
+20 Gauge - 50%
+12 Gauge - 35%
+6 Gauge (23x75mmR) - 20%
+
+^red;Does not function for pipe weapons.
+@@@ 464
+Shotgun Bandolier
+@@@ 465
+''Optical augments were once a decently common sight amongst most well-equipped armies of the past. Nowadays you'd be hard-pressed to find them in use by anyone but well-off mercenaries and lone-wolf type of fellows.'' - Unknown USCR Exile Logistician
+
+^orange;Nearest enemy is marked with a crosshair and takes +25% BALLISTIC DMG | All nearby enemies also marked with a green ping.^reset;
+^orange;Tech Unlocks: Advanced AR Optics^reset;
+@@@ 466
+Standard AR Optics
+@@@ 467
+''People might not think too much of it, but our first versions were just small machines strapped to the arms of folk that jabbed you on a trigger. Really it was the trigger that was the hard part. How exactly do you know when to jab a soldier with performance-enhancing drugs without their direct input?'' - Auto-Healer Researcher
+^orange;When below 40% HP: Bestows 20HP/s for 5s (100HP), draining 25 Ability Mana/s (125 AM) | Healing ceases if mana is drained | 20s cooldown.^reset;
+@@@ 468
+Standard Auto-Healer
+@@@ 469
+''Assassins like us were in the odd middle-ground between it all. Elites versus the People. Free-Thinkers versus the Gestalt. We'd take payment from anyone. The Elites paid us in coin. The People paid us in booze and women. Even the Gestalt would ask for our services and in return we would be rewarded. They'd offer us coin, booze, and women. All at once.''
+
+^green;0.1x fall damage multiplier.^reset;
+@@@ 470
+Assassin's Elixir
+@@@ 471
+''You cannot hide from a hunter! I smell your heresy on the wind!''
+Glitch-Hunters are no strangers to warfare and many initiates are tasked with scouting and subversion of Gestalt Crusader forces. After enough time hunting Crusaders, many Glitch-Hunters develop a similar zeal, which they then apply toward enforcing anti-Gestalt propaganda removing troublesome independent elements.
+^green;+25% Movement Speed.^reset;
+@@@ 472
+Seal of Zeal
+@@@ 473
+''Whether the gun or the staff, a battle must be concluded immediately else we all fall!''
+Some incenses may in themselves be blessed, giving them an enhancing effect on those exposed to the altered air. There are some who prefer the rush of combat, for it grants them an opportunity to utilize their magic to the greatest extent.
+^orange;Increases OCCULT FORCE buildup per shot by a further +3% | Expunges an additional -15% OCCULT FORCE on magic weapon reloads | Occultist only.
+@@@ 474
+Accelerative Incense
+@@@ 475
+''This fort can't fall. Else, who will give us our booze?''
+
+A small satchel said to provide divine protection. This one belonged to an unknown ashigaru who was felled in battle.
+
+^orange;Firing a muzzle-loader charges the player for up to 30s. Using a SPECIAL MELEE ATTACK or initiating a successful MELEE COUNTER-ATTACK will send out a whirlwind of slashes around the player (up to 400 DMG per side). Buff is consumed on trigger.^reset;
+@@@ 476
+Ashigaru's Omamori
+@@@ 477
+Allegedly the skull of a truly demonic youkai, one of many that hunted those who dwelled too far from the village. The 'youkai' of Gensokyo could never fathom that their ancestors were malformed beasts born from the collective fears of mankind.
+
+^orange;On taking damage, reduce incoming DMG by 50% for the next 3s (refreshes upon taking further damage). Once the defensive buff expires, all incoming damage to wearer is increased by 15% for 5s, blocking the next proc of the defensive buff.
+@@@ 478
+Youkai Skull
+@@@ 479
+Shogunate society is modeled quite closely to that of Feudal Japan, or at least some version of it. A focus on martial arts is one that still dominated their high society even as the Shogunate began to modernize around them. Unlike actual Japan, the reformations came from within rather than from foreign trade.
+
+^orange;Bleeding enemies take +33% MELEE DMG.
+@@@ 480
+Bloodstained Scroll
+@@@ 481
+There were a handful of creative individuals who attempted to harness the power of the soul stones for more practical means. A targeting system was devised by a handful of ashigaru riflemen with a shed and some spare time, giving birth to an adaptable iron sight system for use with any gun. Though it was superseded by newer rifles already coming equipped with ironsights.
+
+^orange;+5% Weapon Proficiency | +75% Weapon Accuracy (reduced projectile deviation).
+@@@ 482
+Crystalline Targeting System
+@@@ 483
+The Shogunate attempted many avenues of weaponizing the soul stones that were harnessed from their territories following the end of their own warring period. Early alchemical experiments and machines were combined with the stones simply to ''see what would happen''. Most of the time, the answer was a mundane ''nothing''.
+
+^orange;Lowers requirement of psychic melee slashes from Occult Force Buildup from +60% to +20% (Occultist Only) | -50 Ability Mana.
+@@@ 484
+Energy Diversion Crystal
+@@@ 485
+''Some say that humanity's legendary weapons are one and the same. That the fabled Excalibur sword took on multiple forms during history. Who's to say that such a weapon of power isn't already in the form of a mundane revolver?''
+
+^orange;+25% Revolver Proficiency. Lose this bonus for 7s on reload.^reset;
+@@@ 486
+Gunslinger's Ring
+@@@ 487
+^#C24500;Executed Sun Tachishige with a slashing weapon.^reset;
+
+Japanese culture has always focused on loyalty above all else, and many ancient soldiers would reflect their code of honor by sacrificing everything of themselves for the state, or their Lord.
+
+^orange;Send out a secondary air slash 1s after a successful MELEE COUNTER-ATTACK, dealing up to 400 SLASH DMG.^reset;
+@@@ 488
+Loyal Soldier's Ring
+@@@ 489
+The Holy Machinarius Empire is an alliance of various separate kingdoms who align with the ''Machinarius Doctrine'', a religion that believes that scientific progress is the only true prayer towards God. It is a rite to have children assemble a cross of the Doctrine with anything deemed 'technologically progressive' such as wood or metal.
+^orange;Every 15% of Weapon Proficiency bonus gained above base stats also grants +10HP and +1HP/s, up to a 5x bonus | Effect only functions whilst a firearm is held.^reset;
+@@@ 490
+Machinarius Cross
+@@@ 491
+''When the stars disappeared from the skies, the only thing we had left were the magnetic poles to guide us.''
+A compass that belonged to Thomas Vane, former pirate and admiral of the Machinarius Navy. He was sentenced for treason after engaging in a disastrous battle against the Shogunate navy and losing the first Machiniarius battleship.
+^orange;Performing a parry creates stars around the player that passively damages enemies touching them. Each star expires after 6s.
+@@@ 492
+Naval Officer's Compass
+@@@ 493
+''Our ancestors travelled across the sunless sky from a lost land. The Seven Unholy Sages gave us our false promises, promising a perfect but stagnant world. It was He who led us towards the Doctrine. We struggled across the oceans to build our own empire. One not of 'perfect' stagnancy, but of raw human progress. Progress towards our God.''
+
+^orange;+33% SHIELD DEF Effectiveness | +15 STABILITY.^reset;
+@@@ 494
+Machinarius Torquata
+@@@ 495
+Katana Sheath that belonged to Takuchi Moya, an officer of the Shinsengumi. Takuchi was incredibly loyal to his country, despite the nature of his work. Misdirection, Spying, Assassinations. All means justified a prosperous nation, no matter what. For the sake of unity.
+
+^orange;Performing a succesful Counter-Attack weakens nearby enemies for 3s, increasing MELEE DMG dealt by +50% and BLEED DMG by +100%^reset;
+@@@ 496
+Ornate Katana Sheath
+@@@ 497
+''Not to do any evil; to cultivate good; to purify one's heart - this is the teaching of all the Buddhas.''
+
+A loop of small beads held when praying to Buddha.
+
+^orange;Enemies within 80 blocks take +25% PSYCHIC DAMAGE.^reset;
+@@@ 498
+Prayer Beads
+@@@ 499
+Hina, the Goddess of Misfortune, came from a foreign land. Simple prayers to ward away misfortune turned to begging for mercy as the fields ran red. The cries of young and old called out to anyone in a world that abandoned them to ravenous beasts. Sympathy betrayed her magical being, and so she took the form of a saint.
+^orange;When under 100 HP, drain 30 Ability Mana per hit, resisting MELEE DMG | Only partially resists ballistic DMG (80%) | Does not function if Mana is drained | Restores 5 Mana on parry whilst defended if above 30 Mana.
+@@@ 500
+Ribbon of the Mother-Protector
+@@@ 501
+''The greatest enemy of a good plan, is the dream of a perfect plan.''
+
+A book detailing the history of the Earth-based Prussian military and government of the 19th century. A strange find in this land...
+
+^orange;Sniper Rifles now count as Muzzle-Loaders, triggering their effects.^reset;
+@@@ 502
+Prussian Military Theory
+@@@ 503
+''The rats scurry beneath us, but they hear and see everything. Understand them, and they will understand you.'' - Nazrin
+
+^orange;Performing a Blink-Assassination summons a small group of rats to fight for you | Increases Mana Cost by 20 | 5s cooldown.
+@@@ 504
+Rat Skull
+@@@ 505
+''I shall follow in the footsteps of my father-in-law, and preserve our family's honor!''
+A small satchel that's said to provide divine protection. This belonged to Sun Tachishige, a samurai assigned to a backwater province still technologically behind the rest of the Shogunate's national development.
+^orange;Successful MELEE COUNTER-ATTACKS or using a SPECIAL MELEE ATTACK grants +100% WEAPON PROFICIENCY for the next shot | Expires if not shot after 30s.^reset;
+@@@ 506
+Samurai's Omamori
+@@@ 507
+Historically, pet trades were not uncommon in the past, especially given the lack of regulations with an invasive animal species. Insects and arachnids are no different, and it wouldn't be a rare sight to see a foreign species accept a new environment.
+^orange;Enemies within 60 blocks and within a SMOKE GRENADE CLOUD are afflicted with ^#6FB55F;RAPID CORROSION (-30% DMG RES | 10 CORROSION DMG/s)^reset; | ^#D85D5D;Also deals 20 BLEED DMG/s to enemies in the cloud and lingers for 5s when out of it.
+@@@ 508
+Scorpion Stinger
+@@@ 509
+''For every so-called honorable samurai, there are ten shinobi under his employ.''
+
+A ceremonial Tantō that has seen use in assassinations against the enemies of the Shogunate state.
+
+^orange;Nearby enemies who die explode into a blood-smoke cloud upon death^reset; | ^#D85D5D;Blood-smoke only lasts for 4s. Procs regular smoke effects.^reset;
+@@@ 510
+Shinobi Blood Tanto
+@@@ 511
+''Expel the Barbarians.''
+At its peak, the historical Japanese Shinsengumi had around 300 members and allowed non-samurai to join their ranks. However it should be noted that non-samurai shinsengumi were the exception, not the rule, and the majority were born samurai.
+
+^orange;Special Melee Attacks grant +100% DMG RES against physical-based attacks and 10HP/s for 5s, but increases the minimum cooldown of any Special Melee Attack to 35s.^reset;
+@@@ 512
+Shinsengumi Banner
+@@@ 513
+''A woman who cannot be written down, but she knows happiness for the first time. The red cheeks that betray the eyes of those who fear the end. The eyes that yearn for her husband are those of a woman. Without saying goodbye, she disappeared to protect the country.''
+
+^orange;Nearby enemies within 20 blocks receive -50% PSYCHIC RES.
+@@@ 514
+Shrine-Maiden's Ring
+@@@ 515
+''There is a degree of control that must be maintained even whilst under the duress of a force that threatens your very being. Learn to vent this force properly. Learn to become the steam that rises and the water that falls.''
+
+^orange;+15 Max HP and Ability Mana.
+@@@ 516
+Tome of Controlled Fury
+@@@ 517
+A simple field manual on the use of cover and concealment while out on the field. But when you don't have any cover to get behind, you gotta reduce your own profile and hit the fuckin' dirt.
+
+^orange;Hit the Dirt! - Crouching while TAKING FIRE grants +80% BALLISTIC RES for up to 5s | Expires if standing up | 15s Cooldown per activation.^reset;
+@@@ 518
+Combat Preservation Manual
+@@@ 519
+''The World is the Purpose. The Purpose is to reach the Station. The Purpose must continue. The Goal is the end of Purpose. The Goal must not be reached. The Kingdom will not break. The Ships will not come. We will be fulfilled.''
+
+^orange;Attacking with a ranged or melee weapon has a chance to send out a homing bolt that deals 75 THRUST + 75 BLEED DMG. Chance dependent on weapon class.^reset;
+@@@ 520
+Cursed Bolt
+@@@ 521
+''In pursuit of perfection.''
+
+^orange;Parries restores 2HP/s for 2s.^reset;
+@@@ 522
+Duellist's Coat-of-Arms
+@@@ 523
+''Enter through the narrow gate; for the gate is wide and the way is broad that leads to destruction, and there are many who enter through it. For the gate is small and the way is narrow that leads to life, and there are few who find it'' - Matthew 7:13-14
+A cross made of gold, Given by an unknown young man from New Holbeck to you and Kasa.
+^orange;Gain a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 55s cooldown | Entering cooldown procs 1s of DMG IMMUNITY | Stacks with other ^#C8FAFA;HIT-SHIELDS.^reset;
+@@@ 524
+Golden Cross
+@@@ 525
+''Cattle die, kindred die, every man is mortal: but the good name never dies of one who has done well.''
+
+A rune that was embedded on Haraldr, The Bellwatcher. Memorizing it upon your own body seems to grant you strength.
+
+^orange;Using a SPECIAL MELEE ATTACK refreshes the cooldown 4s after a combo | 40s cooldown.

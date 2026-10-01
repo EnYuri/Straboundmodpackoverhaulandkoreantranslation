@@ -1,0 +1,7 @@
+/objects/crafting/ironanvil/ironanvil.object.patch
+[{"op": "test", "path": "/description", "value": "Can be used to produce armour and weapons."}, {"op": "replace", "path": "/description", "value": "갑옷과 무기를 만드는 데 쓸 수 있다."}, {"op": "test", "path": "/shortdescription", "value": "^orange;Iron Anvil^white;"}, {"op": "replace", "path": "/shortdescription", "value": "^orange;철 모루^white;"}, {"op": "test", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": " Iron Anvil"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "철 모루"}, {"op": "test", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": " ^#b9b5b2;Armour and weapons"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;무기와 방어구들"}]
+
+/species/penguin.species.patch
+[{"op": "test", "path": "/charCreationTooltip/title", "value": "Penguin"}, {"op": "replace", "path": "/charCreationTooltip/title", "value": "펭귄"}, {"op": "test", "path": "/charCreationTooltip/description", "value": "No idea what to put here"}, {"op": "replace", "path": "/charCreationTooltip/description", "value": "여기에 뭘 써야 할지 모르겠다"}]
+
+MISSING /items/active/weapons/melee/broadsword/bruiserbroadsword.activeitem.patch

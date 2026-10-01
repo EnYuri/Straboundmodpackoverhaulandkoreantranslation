@@ -1,0 +1,165 @@
+==========================================================================================
+/dialog/eldermerchant.config.patch /merchantStart/default/default/0
+필랴 울냐르!
+==========================================================================================
+/dialog/eldermerchant.config.patch /merchantEnd/default/default/2
+우아아 시하' 우'이글!
+==========================================================================================
+/dialog/eldermerchant.config.patch /merchantEnd/default/default/3
+불그트라글른 므게폭드른!
+==========================================================================================
+/dialog/eldermerchant.config.patch /follow/default/default/0
+을을 노그 야...
+==========================================================================================
+/dialog/eldermerchant.config.patch /welcome/default/default/0
+크' 프응글루이 크' 므게프나 우'이글!
+==========================================================================================
+/dialog/eldermerchant.config.patch /tout/default/default/3
+이' 헙 노그 를리에 을을 슈그나호스!
+==========================================================================================
+/dialog/eldermerchant.config.patch /beacon/default/default/0
+아, 아 파프?
+==========================================================================================
+/dialog/eldermerchant.config.patch /enclosedArea/default/default/0
+이놈들아, 이놈들아!
+==========================================================================================
+/dialog/eldermerchant.config.patch /final/default/default/0
+아이! Ia!
+==========================================================================================
+/dialog/eldermerchant.config.patch /final/default/default/1
+안 돼!
+==========================================================================================
+/dialog/eldermerchant.config.patch /merchantEnd/default/default/0
+크' 프응글루이 크' 므게프나 우'이글!
+==========================================================================================
+/dialog/eldermerchant.config.patch /merchantEnd/default/default/1
+무슨 일이야?
+==========================================================================================
+/dialog/eldermerchant.config.patch /merchantEnd/default/default/4
+노게파이 파이!
+==========================================================================================
+/dialog/eldermerchant.config.patch /merchantStart/default/default/1
+더 읽어보기 ...
+==========================================================================================
+/dialog/eldermerchant.config.patch /merchantStart/default/default/2
+지금 바로 주문하세요!
+==========================================================================================
+/dialog/eldermerchant.config.patch /merchantStart/default/default/3
+귀하의 이메일 주소를 입력하십시오.
+==========================================================================================
+/dialog/eldermerchant.config.patch /otherDeed/default/default/0
+이제 시작하세요!
+==========================================================================================
+/dialog/eldermerchant.config.patch /rent/default/default/0
+쓰레드독은 더 많은 정보를 제공합니다!
+==========================================================================================
+/dialog/eldermerchant.config.patch /severe/default/default/0
+오그트롯은 이제 끝났습니다!
+==========================================================================================
+/dialog/eldermerchant.config.patch /tagCriteria/default/default/0
+이봐요!
+==========================================================================================
+/dialog/eldermerchant.config.patch /tout/default/default/0
+더 많은 픽셀!
+==========================================================================================
+/dialog/eldermerchant.config.patch /tout/default/default/1
+아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아악!
+==========================================================================================
+/dialog/eldermerchant.config.patch /tout/default/default/2
+안돼, 안돼!
+==========================================================================================
+/dialog/eldermerchant.config.patch /welcome/default/default/1
+어떻게 해야 하나요?
+==========================================================================================
+/dialog/eldermerchant.config.patch /welcome/default/default/2
+안녕하세요!
+==========================================================================================
+/items/COMMODITIES/GUN_MATERIALS/gicexp_458arkit/gicexp_458arkit.item.patch /category
+^#E0EAFF;변환 키트^reset;
+==========================================================================================
+/items/COMMODITIES/GUN_MATERIALS/gicexp_458arkit/gicexp_458arkit.item.patch /shortdescription
+페어리-TAC '스카우트' 키트
+==========================================================================================
+/items/COMMODITIES/GUN_MATERIALS/gicexp_458arkit/gicexp_458arkit.item.patch /description
+'페어리-TAC '스카우트'' 키트는 다이나미코어 AR 사냥용 라이플 516과 헌팅 라이플 223)을 12.7x45mm로 재구경할 수 있다.
+==========================================================================================
+/items/MECH_PARTS/esc_90mm_pershing.item.patch /shortdescription
+^orange;'퍼싱' 90mm 캐논^white;
+==========================================================================================
+/items/MECH_PARTS/esc_90mm_pershing.item.patch /description
+''박살 내 버려!''
+장갑 표적을 상대하는 90mm 포. 대전차탄을 쓰면 주력 전차의 장갑도 관통할 수 있다.
+^#EA3C0B;슈퍼 사격): 관통력이 강한 고속 철갑탄을 쏜다. 여러 겹의 엄폐물을 뚫을 수 있으며, 맞을 때마다 파편을 흩뿌린다.^reset;
+==========================================================================================
+/items/WEAPONS/MELEE/HALBERD/gic_nue_naginata/gic_nue_naginata.activeitem.patch /shortdescription
+누에 나기나타
+==========================================================================================
+/items/WEAPONS/MELEE/HALBERD/gic_nue_naginata/gic_nue_naginata.activeitem.patch /altAbility/name
+헤이안 우박폭풍
+==========================================================================================
+/items/WEAPONS/MELEE/HALBERD/gic_nue_naginata/gic_nue_naginata.activeitem.patch /description
+나기나타라는 용어는 헤이안 우박폭풍) 역사 문서에 처음 등장했습니다.
+^orange;타격마다 피해 증가.
+^yellow;패링 [ALT-FIRE]: 0.6초 패링 창 | 안정성 50HP.^white;
+^#FFEEC6;헤이안 우박 [SHIFT]: 공중으로 뛰어 커서로 잠수해 목표에 화살 우박 소환. 후속으로 자신 위치에 추가 화살 소환하는 찌르기 수행 | 재사용 대기 30초.^white;
+==========================================================================================
+/items/WEAPONS/RANGED/ROCKET_LAUNCHER/gic_m1a1bazooka/gic_m1a1bazooka.activeitem.patch /shortdescription
+M1A1 바주카
+==========================================================================================
+/items/WEAPONS/RANGED/ROCKET_LAUNCHER/gic_m1a1bazooka/gic_m1a1bazooka.activeitem.patch /description
+뭐, 뭐라고... 대체 이런 걸 어디서 구한 거야?! 이게 1세대 로켓 발사기라는 거 알아?! M1A1은 그 초기 형태 중 하나였고, 지금에 와서는 보병을 그럭저럭 처리하거나 아주 가벼운 차량 몇 대를 상대하는 것 외에는 별 쓸모가 없어. 전차는 아예 상대할 생각도 하지 마, 어차피 안 통하니까. 이 늙은 전마(戰馬)는 박물관에 고이 모셔두는 게 최선일 거야.
+  
+^orange;고폭탄과 M10 폭발 연막)을 장전한다. 실패 확률은 무기 숙련도에 따라 달라진다.
+==========================================================================================
+/items/generic/drinks/beer/kilvratjug.consumable.patch /description
+다단계 테네브레가 마시기 위한 공격적으로 강한 술입니다. 
+^cyan;+^white;120 ^cyan;HP^gray;, ^pink;진흙^gray;, ^pink;슬라임^gray;, ^pink;얼음^gray;, ^pink;눈^cyan;면역^gray;(^white;90초^gray;)
+^red;해머드 ^gray;(^white;2분^gray;^reset;
+==========================================================================================
+/items/generic/drinks/beer/kilvratjug.consumable.patch /shortdescription
+테네브레익 킬브라트
+==========================================================================================
+/items/generic/food/phaseshake/phaseshake.consumable.patch /description
+플라즈마 쉐이크. 맛만큼이나 위험합니다.
+^cyan;+^white;20% ^cyan;EP ^gray;(^white;175초^gray;)
+^cyan;+^white;20% ^cyan;속도 ^gray;(^white;50초^gray;)
+^red;불탐 ^gray;5초^gray;)^reset;
+==========================================================================================
+/items/generic/food/phaseshake/phaseshake.consumable.patch /shortdescription
+페이즈 쉐이크
+==========================================================================================
+/ivrpgMonsterLoreUnlocks.config.patch /ivrpg_hungryparasprite
+미니보스 - 미니보스 사전 - 굶주린 파라스프라이트
+==========================================================================================
+/ivrpgMonsterLoreUnlocks.config.patch /ivrpg_shieldedtrifangle
+미니보스 - 미니보스 사전 - 보호막 두른 트라이앵글
+==========================================================================================
+/ivrpgMonsterLoreUnlocks.config.patch /ivrpg_shieldedchiropterror
+미니보스 - 미니보스 사전 - 보호막 두른 키롭테러
+==========================================================================================
+/ivrpgMonsterLoreUnlocks.config.patch /ivrpg_giantelectricpetricub
+미니보스 - 미니보스 사전 - 자이언트 일렉트릭 페트리컵
+==========================================================================================
+/ivrpgMonsterLoreUnlocks.config.patch /ivrpg_demonicspookit
+악마형 적 - 데모닉 스푸킷
+==========================================================================================
+/ivrpgMonsterLoreUnlocks.config.patch /ivrpg_hardenedmasteroid
+미니보스 - 미니보스 사전 - 경화 마스터로이드
+==========================================================================================
+/ivrpgMonsterLoreUnlocks.config.patch /ivrpg_hardenedmasteroidmid
+미니보스 - 미니보스 사전 - 경화 마스터로이드 (중))
+==========================================================================================
+/ivrpgMonsterLoreUnlocks.config.patch /ivrpg_giantmandraflora
+미니보스 - 미니보스 사전 - 거대 만드라플로라
+==========================================================================================
+/ivrpgMonsterLoreUnlocks.config.patch /ivrpg_gianticenarfin
+미니보스 - 미니보스 사전 - 거대 얼음 나르핀
+==========================================================================================
+/ivrpgMonsterLoreUnlocks.config.patch /ivrpg_giantfirelumoth
+미니보스 - 미니보스 사전 - 거대 불 루모스
+==========================================================================================
+/ivrpgMonsterLoreUnlocks.config.patch /ivrpg_holywisper
+성스러운 적 - 홀리 위스퍼
+==========================================================================================
+/ivrpgMonsterLoreUnlocks.config.patch /ivrpg_corruptedscandroid
+타락한 적들 - 타락한 스캔드로이드

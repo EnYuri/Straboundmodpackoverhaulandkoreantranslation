@@ -1,0 +1,240 @@
+asset	field	en	ko	src
+/items/armors/backitems/v-electricprotection/v-electricprotection.back	description	This EPP creates an insulation field around the wearer. Helpful on ^red;dangerously conductive^reset; planets.		
+/items/armors/backitems/v-electricprotection/v-electricprotection.back	shortdescription	Insulating EPP		
+/items/armors/backitems/v-fireprotection/v-fireprotection.back	description	This EPP mitigates ultraviolet ray exposure. Helpful on planets with ^red;solar radiation^reset;.		
+/items/armors/backitems/v-fireprotection/v-fireprotection.back	shortdescription	Sunblocking EPP		
+/items/armors/backitems/v-frostbiteprotection/v-frostbiteprotection.back	description	This EPP dampens drops in body temperature. Helpful on ^red;ludicrously cold^reset; planets.		
+/items/armors/backitems/v-frostbiteprotection/v-frostbiteprotection.back	shortdescription	Thermoregulator EPP		
+/items/armors/backitems/v-poisonprotection/v-poisonprotection.back	description	This EPP partially filters out atmospheric mycotoxins. Helpful on ^red;mycotoxic^reset; planets.		
+/items/armors/backitems/v-poisonprotection/v-poisonprotection.back	shortdescription	Mycotoxin Filter EPP		
+/items/armors/backitems/v-poisonprotectionupgraded/v-poisonprotectionupgraded.back	description	This EPP greatly filters out atmospheric mycotoxins. Helpful on ^red;mycotoxic^reset; planets.		
+/items/armors/backitems/v-poisonprotectionupgraded/v-poisonprotectionupgraded.back	shortdescription	Mycotoxin Filter EPP+		
+/items/armors/tier7/v-ancient/v-ancient.chest	description	"A highly protective and old chestplate.
+^cyan;Set Bonus: Attack Runes"		
+/items/armors/tier7/v-ancient/v-ancient.chest	shortdescription	Ancient Chestplate		
+/items/armors/tier7/v-ancient/v-ancient.head	description	"An antique helmet that offers high-end protection.
+^cyan;Set Bonus: Attack Runes"		
+/items/armors/tier7/v-ancient/v-ancient.head	shortdescription	Ancient Helmet		
+/items/armors/tier7/v-ancient/v-ancient.legs	description	"Old greaves providing high protection.
+^cyan;Set Bonus: Attack Runes"		
+/items/armors/tier7/v-ancient/v-ancient.legs	shortdescription	Ancient Greaves		
+/items/armors/tier8/v-aurorite/v-aurorite.chest	description	"A chestplate for protecting against the cold.
+^cyan;Set Bonus: Frigid Shell"		
+/items/armors/tier8/v-aurorite/v-aurorite.chest	shortdescription	Aurorite Chestplate		
+/items/armors/tier8/v-aurorite/v-aurorite.head	description	"A mask fitted with plates from Numbgnat shells.
+^cyan;Set Bonus: Frigid Shell"		
+/items/armors/tier8/v-aurorite/v-aurorite.head	shortdescription	Aurorite Mask		
+/items/armors/tier8/v-aurorite/v-aurorite.legs	description	"A pair of greaves that are resilient to cold.
+^cyan;Set Bonus: Frigid Shell"		
+/items/armors/tier8/v-aurorite/v-aurorite.legs	shortdescription	Aurorite Greaves		
+/items/armors/tier8/v-infernite/v-infernite.chest	description	"A chestplate with the ability to channel thermal energy.
+^cyan;Set Bonus: Infernal Bash"		
+/items/armors/tier8/v-infernite/v-infernite.chest	shortdescription	Infernite Chestplate		
+/items/armors/tier8/v-infernite/v-infernite.head	description	"A mask with a sun sigil on the front.
+^cyan;Set Bonus: Infernal Bash"		
+/items/armors/tier8/v-infernite/v-infernite.head	shortdescription	Infernite Mask		
+/items/armors/tier8/v-infernite/v-infernite.legs	description	"Leggings that protect against the heat.
+^cyan;Set Bonus: Infernal Bash"		
+/items/armors/tier8/v-infernite/v-infernite.legs	shortdescription	Infernite Greaves		
+/items/armors/tier8/v-nullium/v-nullium.chest	description	"A chestpiece bearing the sigil of a spiral, representative of the void.
+^cyan;Set Bonus: Call of the Void"		
+/items/armors/tier8/v-nullium/v-nullium.chest	shortdescription	Nullium Chestplate		
+/items/armors/tier8/v-nullium/v-nullium.head	description	"A pillar of eyes peering in all directions.
+^cyan;Set Bonus: Call of the Void"		
+/items/armors/tier8/v-nullium/v-nullium.head	shortdescription	Nullium Pillar		
+/items/armors/tier8/v-nullium/v-nullium.legs	description	"A pair of leggings imbued with the power of the void.
+^cyan;Set Bonus: Call of the Void"		
+/items/armors/tier8/v-nullium/v-nullium.legs	shortdescription	Nullium Greaves		
+/items/armors/tier8/v-toxikite/v-toxikite.chest	description	"A chestplate that protects against poison.
+^cyan;Set Bonus: Poison Touch"		
+/items/armors/tier8/v-toxikite/v-toxikite.chest	shortdescription	Toxikite Chestplate		
+/items/armors/tier8/v-toxikite/v-toxikite.head	description	"A helmet specialized to protect the wearer from poison.
+^cyan;Set Bonus: Poison Touch"		
+/items/armors/tier8/v-toxikite/v-toxikite.head	shortdescription	Toxikite Helmet		
+/items/armors/tier8/v-toxikite/v-toxikite.legs	description	"These greaves provide airtight insulation from toxins.
+^cyan;Set Bonus: Poison Touch"		
+/items/armors/tier8/v-toxikite/v-toxikite.legs	shortdescription	Toxikite Greaves		
+/items/armors/tier8/v-voltite/v-voltite.chest	description	"A chestpiece designed to protect against physical and electrical hazards.
+^cyan;Set Bonus: Electric Thorns"		
+/items/armors/tier8/v-voltite/v-voltite.chest	shortdescription	Voltite Chestplate		
+/items/armors/tier8/v-voltite/v-voltite.head	description	"A helmet with voltite nodes attached and insulating rubber underneath.
+^cyan;Set Bonus: Electric Thorns"		
+/items/armors/tier8/v-voltite/v-voltite.head	shortdescription	Voltite Helmet		
+/items/armors/tier8/v-voltite/v-voltite.legs	description	"These leggings will protect the wearer from electricity among other threats.
+^cyan;Set Bonus: Electric Thorns"		
+/items/armors/tier8/v-voltite/v-voltite.legs	shortdescription	Voltite Greaves		
+/items/armors/tier9/v-electrotoxic/v-electrotoxic.chest	description	"This chestpiece protects against both electricity and poison.
+^cyan;Set Bonus: Poison Touch & Electric Thorns"		
+/items/armors/tier9/v-electrotoxic/v-electrotoxic.chest	shortdescription	^cyan;Electro^green;chem ^cyan;Chest^green;plate^reset;		
+/items/armors/tier9/v-electrotoxic/v-electrotoxic.head	description	"A helmet designed for protection against electrical and poisonous hazards.
+^cyan;Set Bonus: Poison Touch & Electric Thorns"		
+/items/armors/tier9/v-electrotoxic/v-electrotoxic.head	shortdescription	^cyan;Electro^green;chem ^cyan;Hel^green;met^reset;		
+/items/armors/tier9/v-electrotoxic/v-electrotoxic.legs	description	"Greaves designed to insulate the wearer from electricity and poison.
+^cyan;Set Bonus: Poison Touch & Electric Thorns"		
+/items/armors/tier9/v-electrotoxic/v-electrotoxic.legs	shortdescription	^cyan;Electro^green;chem ^cyan;Gre^green;aves^reset;		
+/items/currency/v-aimableblinktechchipnotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-aimableblinktechchipnotifier.currency	shortdescription	^#0000;1 - ^green;Aimable Blink tech unlocked!^#0000;		
+/items/currency/v-aimabledashtechchipnotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-aimabledashtechchipnotifier.currency	shortdescription	^#0000;1 - ^green;Aimable Dash tech unlocked!^#0000;		
+/items/currency/v-aimablemultidashtechchipnotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-aimablemultidashtechchipnotifier.currency	shortdescription	^#0000;1 - ^cyan;Multi-Dash tech equipped!^#0000;		
+/items/currency/v-aquagrapplespheretechchipnotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-aquagrapplespheretechchipnotifier.currency	shortdescription	^#0000;1 - ^cyan;Aqua Grapple Sphere tech equipped!^#0000;		
+/items/currency/v-beamaxealreadyupgradednotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-beamaxealreadyupgradednotifier.currency	shortdescription	^#0000;1 - ^green;Matter Manipulator already upgraded.^#0000;		
+/items/currency/v-beamaxeslotemptynotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-beamaxeslotemptynotifier.currency	shortdescription	^#0000;1 - ^red;Equip item to upgrade in Matter Manipulator slot.^#0000;		
+/items/currency/v-beamaxeupgradedpowernotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-beamaxeupgradedpowernotifier.currency	shortdescription	^#0000;1 - ^green;Increased matter deconstruction rate by 100%!^#0000;		
+/items/currency/v-beamaxeupgradedrangenotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-beamaxeupgradedrangenotifier.currency	shortdescription	^#0000;1 - ^green;Increased effective range by 2 tiles!^#0000;		
+/items/currency/v-beamaxeupgradedsizenotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-beamaxeupgradedsizenotifier.currency	shortdescription	^#0000;1 - ^red;Increased area of effect by 1x1 tiles!^#0000;		
+/items/currency/v-grapplespheretechchipnotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-grapplespheretechchipnotifier.currency	shortdescription	^#0000;1 - ^green;Grapple Sphere tech unlocked!^#0000;		
+/items/currency/v-multijump2techchipnotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-multijump2techchipnotifier.currency	shortdescription	^#0000;1 - ^green;Multi Jump Mk II tech unlocked!^#0000;		
+/items/currency/v-rocketbootstechchipnotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-rocketbootstechchipnotifier.currency	shortdescription	^#0000;1 - ^green;Rocket Boots tech unlocked!^#0000;		
+/items/currency/v-techalreadyunlockednotifier.currency	description	This item should be given directly to the player.		
+/items/currency/v-techalreadyunlockednotifier.currency	shortdescription	^#0000;1 - ^green;This tech is already unlocked.^#0000;		
+/items/materials/v-bigwirematerial.matitem	description	A spool of extremely thick and insulated wire.	극도로 두껍고 절연 처리된 전선 타래.	reuse
+/items/materials/v-bigwirematerial.matitem	shortdescription	Thick Wire	굵은 전선	reuse
+/items/materials/v-briniclefleshmaterial.matitem	description	Repulsive, blue flesh from a brinicle barnacle.	브리니클 따개비에서 나온, 혐오스러운 파란 살점.	reuse
+/items/materials/v-briniclefleshmaterial.matitem	shortdescription	Brinicle Flesh	브리니클 살점	reuse
+/items/materials/v-briniclestomachmaterial.matitem	description	The cold stomach lining of a brinicle barnacle.	브리니클 따개비의 차가운 위벽.	reuse
+/items/materials/v-briniclestomachmaterial.matitem	shortdescription	Brinicle Stomach	브리니클 위장	reuse
+/items/materials/v-brittleicematerial.matitem	description	A delicate, icy formation that breaks at the slightest touch.	살짝만 건드려도 부서지는, 섬세한 얼음 결정입니다.	reuse
+/items/materials/v-brittleicematerial.matitem	shortdescription	Brittle Permafrost	부서지기 쉬운 영구동토	reuse
+/items/materials/v-burningmeteoritematerial.matitem	description	Meteorite rock that has become red-hot.	새빨갛게 달아오른 운석암.	reuse
+/items/materials/v-burningmeteoritematerial.matitem	shortdescription	Burning Meteorite	불타는 운석	reuse
+/items/materials/v-chargedstonematerial.matitem	description	Electrons arranged into a crystalline structure.	결정 구조로 배열된 전자.	reuse
+/items/materials/v-chargedstonematerial.matitem	shortdescription	Crystallized Electricity	결정화된 전기	reuse
+/items/materials/v-concreterubblematerial.matitem	description	A pile of concrete rubble.	콘크리트 잔해 더미입니다.	reuse
+/items/materials/v-concreterubblematerial.matitem	shortdescription	Concrete Rubble	콘크리트 잔해	reuse
+/items/materials/v-copperrockmaterial.matitem	description	Extremely copper-rich rock.	극도로 구리가 풍부한 암석.	reuse
+/items/materials/v-copperrockmaterial.matitem	shortdescription	Copper Rock	구리 바위	reuse
+/items/materials/v-coppersandmaterial.matitem	description	A sample of naturally-occurring powderized copper.	자연적으로 생성된 분말 구리 샘플.	reuse
+/items/materials/v-coppersandmaterial.matitem	shortdescription	Copper Sand	구리 모래	reuse
+/items/materials/v-darkashmaterial.matitem	shortdescription	Dark Ash	다크 애시	reuse
+/items/materials/v-deepcopperrockmaterial.matitem	description	Extremely copper-rich rock that is densely packed together.	촘촘하게 뭉쳐진 극도로 구리가 풍부한 암석.	reuse
+/items/materials/v-deepcopperrockmaterial.matitem	shortdescription	Packed Copper Rock	포장된 구리암	reuse
+/items/materials/v-frozencrosshatchmaterial.matitem	description	A simple lattice made of frozen wood.	얼어붙은 나무로 만든 단순한 격자.	reuse
+/items/materials/v-frozencrosshatchmaterial.matitem	shortdescription	Frozen Lattice	얼어붙은 격자	reuse
+/items/materials/v-frozenfencematerial.matitem	description	A fence made of frozen wood.	얼어붙은 나무로 만든 울타리입니다.	reuse
+/items/materials/v-frozenfencematerial.matitem	shortdescription	Frozen Fence	얼어붙은 울타리	reuse
+/items/materials/v-frozenlogmaterial.matitem	description	A log of crystalline wood from an icicle tree. It lacks its icy bark.	고드름 나무에서 나온 결정질 목재 통나무입니다. 얼음 껍질은 없습니다.	reuse
+/items/materials/v-frozenlogmaterial.matitem	shortdescription	Frozen Log	얼어붙은 통나무	reuse
+/items/materials/v-frozenwoodmaterial.matitem	description	Frozen logs turned into planks.	얼어붙은 통나무를 가공해 만든 판자.	reuse
+/items/materials/v-frozenwoodmaterial.matitem	shortdescription	Frozen Wood	얼어붙은 나무	reuse
+/items/materials/v-frozenwoodplatform.matitem	description	A platform made of frozen wood.	얼어붙은 나무로 만든 발판입니다.	reuse
+/items/materials/v-frozenwoodplatform.matitem	shortdescription	Frozen Wood Platform	얼어붙은 나무 발판	reuse
+/items/materials/v-fungusplatform.matitem	description	The platform is slimy with fungal roots. Better be careful not to slip!	발판에 버섯 뿌리의 점액이 묻어 있다. 미끄러지지 않게 조심해!	reuse
+/items/materials/v-fungusplatform.matitem	shortdescription	Mycelial Platform	균사 플랫폼	reuse
+/items/materials/v-icestonematerial.matitem	description	A tough stone encased in ice.	얼음에 갇힌 단단한 돌.	reuse
+/items/materials/v-icestonematerial.matitem	shortdescription	Icestone		
+/items/materials/v-ironrockmaterial.matitem	description	Extremely iron-rich rock.	극도로 철이 풍부한 암석.	reuse
+/items/materials/v-ironrockmaterial.matitem	shortdescription	Iron Rock	철 원석	reuse
+/items/materials/v-killerbeewaxmaterial.matitem	description	Tough, sticky wax made from ground-up rock and saliva.	빻은 암석과 침으로 만든 질기고 끈적한 밀랍.	reuse
+/items/materials/v-killerbeewaxmaterial.matitem	shortdescription	Bee Wax	밀랍	reuse
+/items/materials/v-moltenrockmaterial.matitem	description	Red-hot rock in a semi-liquid state.	반액체 상태의 시뻘겋게 달아오른 바위.	reuse
+/items/materials/v-moltenrockmaterial.matitem	shortdescription	Molten Rock	용암석	reuse
+/items/materials/v-oxidizedcopperrockmaterial.matitem	description	Extremely copper-rich rock in oxidized form.	산화된 형태의 극도로 구리가 풍부한 암석.	reuse
+/items/materials/v-oxidizedcopperrockmaterial.matitem	shortdescription	Oxidized Copper Rock	산화 구리암	reuse
+/items/materials/v-oxidizedcoppersandmaterial.matitem	description	Naturally-occurring oxidized copper powder.	자연적으로 생성된 산화 구리 가루.	reuse
+/items/materials/v-oxidizedcoppersandmaterial.matitem	shortdescription	Oxidized Copper Sand	산화 구리 모래	reuse
+/items/materials/v-oxidizeddeepcopperrockmaterial.matitem	description	Rock rich in oxidized copper that is densely packed together.	산화된 구리가 풍부하게 조밀히 뭉친 바위.	reuse
+/items/materials/v-oxidizeddeepcopperrockmaterial.matitem	shortdescription	Ox. Packed Copper Rock	산화 압축 구리암	reuse
+/items/materials/v-permafrostbrickmaterial.matitem	description	Large slabs carved out of a tough, cold substance.	질기고 차가운 물질을 깎아 만든 큰 석판.	reuse
+/items/materials/v-permafrostbrickmaterial.matitem	shortdescription	Permafrost Slab	영구동토 판	reuse
+/items/materials/v-permafrostbricksmallmaterial.matitem	description	Bricks carved out of a tough, cold substance.	단단하고 차가운 물질로 깎아낸 벽돌.	reuse
+/items/materials/v-permafrostbricksmallmaterial.matitem	shortdescription	Permafrost Bricks	영구동토 벽돌	reuse
+/items/materials/v-permafrostmaterial.matitem	description	A tough, cold substance.	단단하고 차가운 물질.	reuse
+/items/materials/v-permafrostmaterial.matitem	shortdescription	Permafrost		
+/items/materials/v-permafrostpillarmaterial.matitem	shortdescription	Permafrost Pillar	영구동토 기둥	reuse
+/items/materials/v-permafrostpillarmaterial.matitem	description	A refined column of a tough, cold substance.	단단하고 차가운 물질로 만든 정제된 기둥.	reuse
+/items/materials/v-permafrostplatform.matitem	description	A platform made of an icy material.	얼음 같은 재료로 만든 발판입니다.	reuse
+/items/materials/v-permafrostplatform.matitem	shortdescription	Permafrost Platform	영구동토 발판	reuse
+/items/materials/v-rottingfungusmaterial.matitem	description	Dead, rotting fungus.	죽어서 썩어가는 균류.	reuse
+/items/materials/v-rottingfungusmaterial.matitem	shortdescription	Decomposing Fungus	부패한 균류	reuse
+/items/materials/v-rubberblock2material.matitem	description	Dark, rubbery insulation material.	어둡고 고무 같은 단열재.	reuse
+/items/materials/v-rubberblock2material.matitem	shortdescription	Rubber Block	고무 블록	reuse
+/items/materials/v-rubberblockmaterial.matitem	description	Dark, rubbery insulation material molded into a slope.	경사면으로 성형한 어둡고 고무 같은 단열재.	reuse
+/items/materials/v-rubberblockmaterial.matitem	shortdescription	Sloped Rubber Block	경사형 고무 블록	reuse
+/items/materials/v-rustedironrockmaterial.matitem	description	Extremely iron-rich rock that has rusted away.	녹슬어 버린, 극도로 철이 풍부한 암석.	reuse
+/items/materials/v-rustedironrockmaterial.matitem	shortdescription	Rusted Iron Rock	녹슨 철 바위	reuse
+/items/materials/v-stonysoilmaterial.matitem	description	A firm, grayish-red soil.	단단한 회적색 흙입니다.	reuse
+/items/materials/v-stonysoilmaterial.matitem	shortdescription	Stony Soil	돌 많은 흙	reuse
+/items/materials/v-sunspotbrick1material.matitem	shortdescription	Sunspot Slab	선스팟 판석	reuse
+/items/materials/v-sunspotbrick1material.matitem	description	A slab of tough, unmeltable stone.	녹지 않는 튼튼한 돌 덩어리.	reuse
+/items/materials/v-sunspotbrick2material.matitem	shortdescription	Sunspot Bricks	선스팟 벽돌	reuse
+/items/materials/v-sunspotbrick2material.matitem	description	Small bricks made of heat-resistant rocks and containing Avian hieroglyphs.	내열성 바위로 만들어졌으며 아비안 상형문자가 새겨진 작은 벽돌.	reuse
+/items/materials/v-sunspotbrick3material.matitem	shortdescription	Sunspot Engraving	선스팟 조각	reuse
+/items/materials/v-sunspotbrick3material.matitem	description	Giant slabs of heat-resistant rock with drawings engraved into the surface.	표면에 그림을 새긴 커다란 내열 암석 판입니다.	reuse
+/items/materials/v-sunspotglassmaterial.matitem	description	Glass wrapped in a heat-resistant frame.	내열 틀로 감싼 유리입니다.	reuse
+/items/materials/v-sunspotglassmaterial.matitem	shortdescription	Sunspot Glass	선스팟 유리	reuse
+/items/materials/v-sunspotpillarmaterial.matitem	shortdescription	Sunspot Pillar	선스팟 기둥	reuse
+/items/materials/v-sunspotpillarmaterial.matitem	description	A refined column of material, unable to melt under solar heat.	태양열에도 녹지 않는, 정제된 소재로 만든 기둥.	reuse
+/items/materials/v-sunspotplatform.matitem	description	A platform made of a material that cannot be melted by the sun.	태양으로도 녹지 않는 재료로 만든 발판입니다.	reuse
+/items/materials/v-sunspotplatform.matitem	shortdescription	Sunspot Platform	선스팟 발판	reuse
+/items/materials/v-sunspotstonematerial.matitem	description	A tough, rocky substance with an incredibly high melting point.	녹는점이 믿을 수 없을 만큼 높은, 단단하고 바위 같은 물질.	reuse
+/items/materials/v-sunspotstonematerial.matitem	shortdescription	Sunspot Stone	선스팟 돌	reuse
+/items/materials/v-toxicfungusgillsmaterial.matitem	description	Spore-emitting gills from a giant mushroom.	거대 버섯에서 나온, 포자를 내뿜는 아가미.	reuse
+/items/materials/v-toxicfungusgillsmaterial.matitem	shortdescription	Spore Gills	포자 아가미	reuse
+/items/materials/v-toxicfungusmaterial.matitem	description	This fungus constantly emits deadly toxins.	이 균류는 치명적인 독소를 계속 뿜어낸다.	reuse
+/items/materials/v-toxicfungusmaterial.matitem	shortdescription	Toxic Fungus	독성 균류	reuse
+/items/materials/v-toxicfungusstemmaterial.matitem	description	The stem of a large mushroom.	커다란 버섯의 자루.	reuse
+/items/materials/v-toxicfungusstemmaterial.matitem	shortdescription	Fungal Stem	균류 줄기	reuse
+/items/materials/v-toxicmyceliummaterial.matitem	description	A tangled mess of mycelia.	얽히고설킨 균사 덩어리.	reuse
+/items/materials/v-toxicmyceliummaterial.matitem	shortdescription	Fungal Roots	균류 뿌리	reuse
+/items/materials/v-toxicplantmaterial.matitem	description	A thick chunk of twisting vines.	뒤틀린 덩굴이 두껍게 뭉친 덩어리.	reuse
+/items/materials/v-toxicplantmaterial.matitem	shortdescription	Twisting Bramble	뒤틀리는 가시덤불	reuse
+/items/materials/v-toxicsoilmaterial.matitem	description	This soil is laced with a variety of toxins.	이 흙에는 여러 독소가 섞여 있다.	reuse
+/items/materials/v-toxicsoilmaterial.matitem	shortdescription	Toxic Soil	독성 토양	reuse
+/items/materials/v-toxicstonematerial.matitem	description	A piece of stone that is toxic.	독성을 띤 돌 조각입니다.	reuse
+/items/materials/v-toxicstonematerial.matitem	shortdescription	Toxic Stone	독성 암석	reuse
+/items/materials/v-toxicstonetoughmaterial.matitem	description	Poisonous stone compressed into a small space.	작은 공간에 압축된 독성 돌.	reuse
+/items/materials/v-toxicstonetoughmaterial.matitem	shortdescription	Packed Toxic Stone	포장된 유독석	reuse
+/items/materials/v-voidstone2material.matitem	description	A stone from a place beyond our universe.	우리 우주 너머의 어느 곳에서 온 돌.	reuse
+/items/materials/v-voidstone2material.matitem	shortdescription	Porestone		
+/items/materials/v-voidstonematerial.matitem	shortdescription	Voidstone		
+/items/throwables/v-ice19bomb.thrownitem	shortdescription	Ice-19 Bomb		
+/items/throwables/v-ice19bomb.thrownitem	description	Explodes into a large sphere of ice on impact.		
+/items/throwables/v-missilebloom.thrownitem	shortdescription	Missilebloom Pod		
+/items/throwables/v-missilebloom.thrownitem	description	A pod from a missile bloom. Consumes 3 per use.		
+/items/throwables/v-mutanteelsummoner.thrownitem	shortdescription	Big Puffer Chum		
+/items/throwables/v-mutanteelsummoner.thrownitem	description	A bucket of chum made from a Big Puffer. Toss in Mutant Eel territory to lure an Eel.		
+/items/throwables/v-solarflare.thrownitem	shortdescription	Solar Flare		
+/items/throwables/v-solarflare.thrownitem	description	Lights up caves. If allowed enough air time, will paralyze nearby enemies on impact.		
+/items/throwables/v-sunspotice19bomb.thrownitem	shortdescription	Sunspot Ice-19 Bomb		
+/items/throwables/v-sunspotice19bomb.thrownitem	description	Explodes into a large sphere of ice wrapped in Sunspot Stone on impact.		
+/items/throwables/v-teslagrenade.thrownitem	shortdescription	Tesla Grenade	테슬라 수류탄	reuse
+/items/throwables/v-teslagrenade.thrownitem	description	A grenade that discharges immense amounts of electricity on impact.		
+/objects/crafting/v-ancientfabricator/v-ancientfabricator.object	description	An ancient machine used to craft advanced weapons and armor.	고급 무기와 방어구 제작에 쓰는 고대 기계입니다.	reuse
+/objects/crafting/v-ancientfabricator/v-ancientfabricator.object	shortdescription	^orange;Ancient Fabricator^reset;	^orange;고대 패브리케이터^reset;	reuse
+/objects/crafting/v-ancientfurnace/v-ancientfurnace.object	description	An ancient furnace. Used for smelting high-grade materials.	고급 재료 제련에 쓰는 고대 용광로입니다.	reuse
+/objects/crafting/v-ancientfurnace/v-ancientfurnace.object	shortdescription	^orange;Ancient Furnace^reset;	^orange;고대 용광로^reset;	reuse
+/objects/crafting/v-ancientfurnace/v-ancientfurnace.object	title	 Ancient Furnace	 고대 용광로	reuse
+/objects/crafting/v-ancientfurnace/v-ancientfurnace.object	subtitle	 ^#b9b5b2;More things to smelt	 ^#b9b5b2;녹일 것들이 더 있어	reuse
+/objects/crafting/v-ancientfurniturestation/v-ancientfurniturestation.object	description	Can be used to produce advanced materials and objects.	고급 자재와 오브젝트를 생산하는 데 사용할 수 있다.	reuse
+/objects/crafting/v-ancientfurniturestation/v-ancientfurniturestation.object	shortdescription	^orange;Ancient Assembly^reset;	^orange;고대 어셈블리^reset;	reuse
+/objects/farmables/v-dotefruitseed/v-dotefruitseed.object	description	Seeds for a poison-treating plant. Its fruit tastes like soap.	독을 치료하는 식물의 씨앗. 열매에서 비누 맛이 난다.	reuse
+/objects/farmables/v-dotefruitseed/v-dotefruitseed.object	shortdescription	'Dotefruit Seed	'도트프루트 씨앗	reuse
+/objects/farmables/v-dotefruitseed/v-wilddotefruitseed.object	description	Seeds for a poison-treating plant. Its fruit tastes like soap.	독을 치료하는 식물의 씨앗. 열매에서 비누 맛이 난다.	reuse
+/objects/farmables/v-dotefruitseed/v-wilddotefruitseed.object	shortdescription	'Dotefruit Seed	'도트프루트 씨앗	reuse
+/objects/farmables/v-loquatseed/v-loquatseed.object	description	Seeds for a copper plant that produces metallic, charged fruit.	전기를 머금은 금속성 열매를 맺는 구리 식물의 씨앗.	reuse
+/objects/farmables/v-loquatseed/v-loquatseed.object	shortdescription	Jacob's Loquat Seed	제이콥의 비파 씨앗	reuse
+/objects/farmables/v-loquatseed/v-wildloquatseed.object	description	Seeds for a copper plant that produces metallic, charged fruit.	전기를 머금은 금속성 열매를 맺는 구리 식물의 씨앗.	reuse
+/objects/farmables/v-loquatseed/v-wildloquatseed.object	shortdescription	Coppervine Seed	코퍼바인 씨앗	reuse
+/objects/farmables/v-vitalisseed/v-vitalisseed.object	description	A plant that produces a regenerative fruit. Changes color depending on location.	재생 효과가 있는 열매를 맺는 식물. 자라는 장소에 따라 색이 변한다.	reuse
+/objects/farmables/v-vitalisseed/v-vitalisseed.object	shortdescription	Vitalis Seed	비탈리스 씨앗	reuse
+/objects/farmables/v-vitalisseed/v-wildvitalisseed.object	description	A plant that produces a regenerative fruit. Changes color depending on location.	재생 효과가 있는 열매를 맺는 식물. 자라는 장소에 따라 색이 변한다.	reuse
+/objects/farmables/v-vitalisseed/v-wildvitalisseed.object	shortdescription	Vitalis Seed	비탈리스 씨앗	reuse
+/objects/space/stationhatch/v-stationhatchnosensor.object	description	A large, sleek automated hatch, made from the same materials found on the exterior of space stations.	우주정거장 외부에서 흔히 찾아볼 수 있는 소재로 만든, 세련된 대형 자동 해치입니다.	reuse
+/objects/space/stationhatch/v-stationhatchnosensor.object	shortdescription	Station Hatch	정거장 해치	reuse
+/stats/effects/heal/v-upgradedmedkitheal.statuseffect	label	Healing	치유	reuse
+/stats/effects/heal/v-upgradednanowrapheal.statuseffect	label	Healing	치유	reuse
+/stats/effects/v-invisible/v-invisible.statuseffect	label	Invisible		
+/stats/effects/v-solarflarestun/v-solarflarestun.statuseffect	label	Paralyzed		
+/stats/effects/v-spearskewer/v-spearskewer.statuseffect	label	Skewed		
+/stats/effects/v-titanteleport/v-titanteleport.statuseffect	label	Teleporting		

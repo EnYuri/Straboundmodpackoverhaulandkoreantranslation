@@ -1,0 +1,186 @@
+asset	field	en	ko	src
+/collections/starburst/combat/pf_biomeweapons.collection	title	Plasma Assault Rifle	플라즈마 돌격소총	reuse
+/collections/starburst/combat/pf_biomeweapons.collection	description	"^white;Found In: ^#a451c4;Space Encounters ^#d5c300;[Tier 6]^reset; 
+One of Letheia's flagship weapons. Works effectively in the cold vacuum of space, just as much as it does on the ground. Its said that it comes with a ""giant alien arachnid free ship"" guarantee!"		
+/collections/starburst/combat/pf_enhancementpacks.collection	title	Medic Backpack		
+/collections/starburst/combat/pf_enhancementpacks.collection	description	"^white;Obtained From: Merchants ^lightgray;[Any Tier]^reset; 
+An old piece of human history, its USCM surplus. Made for medics on the field, it was a necessary job for a military corporation. Though its often said that many medics defected to the Protectorate when it was formed."		
+/collections/starburst/combat/pf_otherworldlyweapons.collection	title	Ex Machina		
+/collections/starburst/combat/pf_otherworldlyweapons.collection	description	"^white;Found On: ^#00ff00;Toxic Planets ^#d5c300;[Tier 6]^reset; 
+The Hylotl's urban blight upon these worlds seems to have caused some existing data to be refined further with its origin. Now it takes a different shape from its native data, and grows stronger from it."		
+/collections/starburst/combat/pf_throwingweapons.collection	title	Neo Chakram	네오 차크람	reuse
+/collections/starburst/combat/pf_throwingweapons.collection	description	"^white;Recipe From: Any Planet ^#00a5d5;[Tier 3]^white; ~ ^#d5c300;[Tier 6]^reset; 
+A couple hundred microthrusters and a lot of ram does wonders to keep a spinning metal disk in the air. Especially flashy bounty hunters enjoy this one, some even use it as an ID or calling card."		
+/collections/starburst/combat/pf_uniqueweapons.collection	title	Magnorbs		
+/collections/starburst/combat/pf_uniqueweapons.collection	description	"^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+The Hylotl often use strange weapons as a show of finesse, this is one of them. Using the mind to manipulate orbs of steel is seen as a feat only a few of extreme focus can handle."		
+/collections/starburst/exploration/pf_farmables.collection	title	Boltbulb		
+/collections/starburst/exploration/pf_farmables.collection	description	"^white;Commonly Found On: ^#969696;Midnight Planets^reset; 
+A relative of the eggshoot. Without light, they had to take in the electricity from the air itself. Without photosynthesis and a metallic shape, one must wonder if this thing is even still alive anymore..."		
+/collections/starburst/exploration/pf_hazardprotection.collection	title	Antistatic EPP		
+/collections/starburst/exploration/pf_hazardprotection.collection	description	"^white;Obtained From: ^orange;Hazard Research Station^reset; 
+A permanent violium shield is built within this EPP, completely removing any and all risk of ambient static from even entering the system that is the wearer."		
+/collections/starburst/exploration/pf_minerals.collection	title	Halite		
+/collections/starburst/exploration/pf_minerals.collection	description	"^white;Commonly Found On: ^#0000ff;Ocean Planets^reset; 
+Pure table salt, sodium chloride, straight from the ground. Formed from ancient or current oceans, the salt there has been deposited over eons. Its one of the few safe rocks you can consume! Completely non-organic!"		
+/collections/starburst/exploration/pf_tools.collection	title	Ore Detector	광물 탐지기	reuse
+/collections/starburst/exploration/pf_tools.collection	description	"^white;Found On: ^orange;Agricultural Station^reset; 
+Every mineral and rock in the universe has a distinct and unique resonance. By vibrating the walls with a specific sound, one can dowse for any valuable material one desires. This extremely precise tool is a marvel on its own."		
+/items/armors/backitems/pf_aquaristandard/pf_aquaristandard.back	description	A back-mounted banner made of aquari. Can coalesce water around it to empower the wearer's attacks.		
+/items/armors/backitems/pf_aquaristandard/pf_aquaristandard.back	shortdescription	Aquari Battlestandard		
+/items/armors/backitems/pf_aquaristandard/pf_aquaristandard.back	subtitle	Enhancement Pack		
+/items/armors/backitems/pf_auriumshield/pf_auriumshield.back	description	A durable and heroic shield made of aurium, able to resist any elemental attacks that comes its way.		
+/items/armors/backitems/pf_auriumshield/pf_auriumshield.back	shortdescription	Aurium Defender		
+/items/armors/backitems/pf_auriumshield/pf_auriumshield.back	subtitle	Enhancement Pack		
+/items/armors/backitems/pf_lightningprotection/pf_lightningprotectionicon.back	description	This EPP cancels out ambient electricity in the air. Use it on planets with ^red;deadly static levels^reset;.		
+/items/armors/backitems/pf_lightningprotection/pf_lightningprotectionicon.back	shortdescription	Antistatic EPP		
+/items/armors/backitems/pf_poisonprotection/pf_poisonprotection.back	description	This EPP neutralizes toxins in the air to safe levels. Use it on planets with ^red;deadly toxicity levels.^reset;.		
+/items/armors/backitems/pf_poisonprotection/pf_poisonprotection.back	shortdescription	Neutralizing EPP		
+/items/armors/backitems/pf_universalprotection/pf_universalprotection.back	description	This EPP uses ancient energy to create a field of complete habitability. ^red;All planetary hazards are blocked.^reset;		
+/items/armors/backitems/pf_universalprotection/pf_universalprotection.back	shortdescription	Universal EPP		
+/items/armors/backitems/pf_uraniumpack/pf_uraniumpack.back	description	A portable nuclear generator that can be worn on the back. Increases energy capabilities massively!		
+/items/armors/backitems/pf_uraniumpack/pf_uraniumpack.back	shortdescription	Uranium Porta-Generator		
+/items/armors/backitems/pf_uraniumpack/pf_uraniumpack.back	subtitle	Enhancement Pack		
+/items/armors/backitems/pf_vermilliumshell/pf_vermilliumshell.back	description	A flower-like shell plated with vermillium petals. Releases its poisonous dust when struck.		
+/items/armors/backitems/pf_vermilliumshell/pf_vermilliumshell.back	shortdescription	Vermillium Shell		
+/items/armors/backitems/pf_vermilliumshell/pf_vermilliumshell.back	subtitle	Enhancement Pack		
+/items/armors/backitems/pf_violiumclimbing/pf_violiumclimbing.back	description	A pack of climbing gear plated with violium. The built in pulse generator can stop falls before impact.		
+/items/armors/backitems/pf_violiumclimbing/pf_violiumclimbing.back	shortdescription	Violium Climbing Gear		
+/items/armors/backitems/pf_violiumclimbing/pf_violiumclimbing.back	subtitle	Enhancement Pack		
+/items/armors/biome/stormy/pf_stormgear/pf_stormgear.back	description	A backpack installed with weather meters. Includes a fog light and protection equipment. ^orange;Resists all mild planet hazards.		
+/items/armors/biome/stormy/pf_stormgear/pf_stormgear.back	shortdescription	Stormchaser's Pack		
+/items/armors/biome/stormy/pf_stormgear/pf_stormgear.back	subtitle	Enhancement Pack		
+/items/armors/biome/stormy/pf_stormgear/pf_stormgear.chest	description	A very insulated jacket to protect against freezing high altitude weather, while keeping conductive material low.		
+/items/armors/biome/stormy/pf_stormgear/pf_stormgear.chest	shortdescription	Stormchaser Windbreaker		
+/items/armors/biome/stormy/pf_stormgear/pf_stormgear.head	description	Some safety goggles that are sure to protect you from hail or tornado debris.		
+/items/armors/biome/stormy/pf_stormgear/pf_stormgear.head	shortdescription	Stormchaser's Goggles		
+/items/armors/biome/stormy/pf_stormgear/pf_stormgear.legs	description	Insulated and padded pants that protect against rocks and potential hail.		
+/items/armors/biome/stormy/pf_stormgear/pf_stormgear.legs	shortdescription	Stormchaser Pants		
+/items/armors/decorative/hats/pf_pixelflamehat/pf_pixelflamehat.head	description	A little Pixelflame, to keep your planets pretty and unique. Bwaa.		
+/items/armors/decorative/hats/pf_pixelflamehat/pf_pixelflamehat.head	shortdescription	Pixelflame Hat		
+/items/armors/decorative/hats/pf_robotankhat/pf_robotankhat.head	description	A helmet made out of a salvaged Autotank head. Sadly the aiming reticle module is broken.		
+/items/armors/decorative/hats/pf_robotankhat/pf_robotankhat.head	shortdescription	Autotank Helmet		
+/items/armors/decorative/hats/pf_warphat/pf_warphat.head	description	A cap worn by the cleanup crew of WARP Corp. Their meddling of dimensions makes the existence of this hat here, unsurprising.		
+/items/armors/decorative/hats/pf_warphat/pf_warphat.head	shortdescription	WARP Cap		
+/items/augments/back/biomeprotection/pf_biomecoldaugment.augment	description	An EPP module that makes you immune to Mild Planet Cold.		
+/items/augments/back/biomeprotection/pf_biomecoldaugment.augment	shortdescription	Cold Resist Augment		
+/items/augments/back/biomeprotection/pf_biomeheataugment.augment	description	An EPP module that makes you immune to Mild Planet Heat.		
+/items/augments/back/biomeprotection/pf_biomeheataugment.augment	shortdescription	Heat Resist Augment		
+/items/augments/back/biomeprotection/pf_biomeoxygenaugment.augment	description	An EPP module that makes you immune to Airless environments.		
+/items/augments/back/biomeprotection/pf_biomeoxygenaugment.augment	shortdescription	Oxygen Augment		
+/items/augments/back/biomeprotection/pf_biomepoisonaugment.augment	description	An EPP module that makes you immune to Mild Planet Toxicity.		
+/items/augments/back/biomeprotection/pf_biomepoisonaugment.augment	shortdescription	Toxic Resist Augment		
+/items/augments/back/biomeprotection/pf_biomeradiationaugment.augment	description	An EPP module that makes you immune to Mild Planet Radiation.		
+/items/augments/back/biomeprotection/pf_biomeradiationaugment.augment	shortdescription	Radiation Resist Augment		
+/items/augments/back/biomeprotection/pf_biomestaticaugment.augment	description	An EPP module that makes you immune to Mild Planet Static.		
+/items/augments/back/biomeprotection/pf_biomestaticaugment.augment	shortdescription	Static Resist Augment		
+/items/augments/back/biomeprotection/pf_envprotectionaugment.augment	description	An EPP module that makes you immune to all planet hazards.		
+/items/augments/back/biomeprotection/pf_envprotectionaugment.augment	shortdescription	Universal Augment		
+/items/augments/back/pf_antifluidaugment.augment	description	An EPP module that makes you immune to all fluids except lava and poison.		
+/items/augments/back/pf_antifluidaugment.augment	shortdescription	Hydrophobic Augment		
+/items/augments/back/pf_fallaugment.augment	description	An EPP module that makes you take half damage when falling from great heights.		
+/items/augments/back/pf_fallaugment.augment	shortdescription	Light Fall Augment		
+/items/augments/back/pf_hungeraugment.augment	description	An EPP module that reduces hunger drain by a third.		
+/items/augments/back/pf_hungeraugment.augment	shortdescription	Metabolism Augment		
+/items/augments/back/pf_lavaaugment.augment	description	An EPP module that makes you immune to the effects of lava.		
+/items/augments/back/pf_lavaaugment.augment	shortdescription	Lava Resist Augment		
+/items/augments/back/pf_novaaugment.augment	description	An EPP module that creates a fiery explosion whenever you're damaged.		
+/items/augments/back/pf_novaaugment.augment	shortdescription	Nova Augment		
+/items/augments/back/pf_pirateaugment1.augment	description	A contraband EPP module that increases your stats by 10% at the cost of 20% defense.		
+/items/augments/back/pf_pirateaugment1.augment	shortdescription	Outlaw Augment I		
+/items/augments/back/pf_pirateaugment2.augment	description	A contraband EPP module that increases your stats by 15% at the cost of 30% defense.		
+/items/augments/back/pf_pirateaugment2.augment	shortdescription	Outlaw Augment II		
+/items/augments/back/pf_pirateaugment3.augment	description	A contraband EPP module that increases your stats by 25% at the cost of 50% defense.		
+/items/augments/back/pf_pirateaugment3.augment	shortdescription	Outlaw Augment III		
+/items/augments/back/pf_radiationblockaugment.augment	description	An EPP module that makes you immune to Deadly Planet Radiation.		
+/items/augments/back/pf_radiationblockaugment.augment	shortdescription	Radiation Block Augment		
+/items/materials/pf_bamboodried.matitem	shortdescription	Dried Bamboo Panel	말린 대나무 패널	reuse
+/items/materials/pf_bamboodried.matitem	description	A panel of dried bamboo. Surprisingly sturdy.	말린 대나무 패널입니다. 놀라울 만큼 튼튼합니다.	reuse
+/items/materials/pf_bamboolog.matitem	shortdescription	Bamboo Stalks	대나무 줄기들	reuse
+/items/materials/pf_bamboolog.matitem	description	Bound stalks of freshly cut bamboo. Can hold a ton.	갓 벤 대나무 줄기를 묶은 것. 엄청 많이 담을 수 있다.	reuse
+/items/materials/pf_bambooroofing.matitem	shortdescription	Bamboo Roofing	대나무 지붕	reuse
+/items/materials/pf_bambooroofing.matitem	description	Roofing tiles made out of bamboo. Sure to keep the rain off.	대나무로 만든 지붕 기와. 비를 확실히 막아준다.	reuse
+/items/materials/pf_basalt.matitem	shortdescription	Basalt		
+/items/materials/pf_basalt.matitem	description	A collumn of weathered Basaltic rock.	풍화된 현무암 기둥.	reuse
+/items/materials/pf_basaltpillar.matitem	shortdescription	Basalt Pillar	현무암 기둥	reuse
+/items/materials/pf_basaltpillar.matitem	description	A hexagonal pillar of polished Basaltic rock.	광택을 낸 현무암으로 만든 육각 기둥입니다.	reuse
+/items/materials/pf_bonespineblock.matitem	shortdescription	Large Vertabra	대형 척추	reuse
+/items/materials/pf_bonespineblock.matitem	description	A massive vertabra, likely part of the spine of a titanic beast.	거대한 척추뼈로, 아마도 거대한 짐승의 척추 일부인 듯합니다.	reuse
+/items/materials/pf_fossilstone.matitem	shortdescription	Fossil Limestone	화석 석회암	reuse
+/items/materials/pf_fossilstone.matitem	description	A chunk of limestone made of many fossils of marine life.	수많은 해양 생물 화석으로 이루어진 석회암 덩어리.	reuse
+/items/materials/pf_layeredsandstone.matitem	shortdescription	Sandstone		
+/items/materials/pf_layeredsandstone.matitem	description	A rough chunk of sandstone, made from many layers of cemented sand.	여러 겹의 응고된 모래로 만든 거친 사암 덩어리.	reuse
+/items/materials/pf_layeredsandstonepolished.matitem	shortdescription	Polished Sandstone	연마된 사암	reuse
+/items/materials/pf_layeredsandstonepolished.matitem	description	A polished block of sandstone, made from many layers of cemented sand.	여러 겹의 응고된 모래로 만든, 매끄럽게 다듬어진 사암 블록.	reuse
+/items/materials/pf_peat.matitem	shortdescription	Peat		
+/items/materials/pf_peat.matitem	description	Decayed and nearly mineralized plant remains. The precursor to coal.	부패해서 거의 광물화된 식물 잔해입니다. 석탄의 전신입니다.	reuse
+/items/materials/pf_saltblock.matitem	shortdescription	Halite		
+/items/materials/pf_saltblock.matitem	description	A chunk of unrefined rock salt, created by oceans new and ancient.	새로 생긴 바다와 오래된 바다가 함께 만든 미정제 암염 덩어리.	reuse
+/items/materials/pf_saltbricks.matitem	shortdescription	Salt Bricks	소금 벽돌	reuse
+/items/materials/pf_saltbricks.matitem	description	A block of rock salt bricks. Lets light around it in via its translucent surface.	암염 벽돌 블록. 반투명한 표면으로 주변의 빛을 들여보낸다.	reuse
+/items/materials/pf_saltbrickslight.matitem	shortdescription	Glowing Salt Bricks	빛나는 소금 벽돌	reuse
+/items/materials/pf_saltbrickslight.matitem	description	A block of rock salt bricks. Embedded lights make the bricks glow.	암염 벽돌 블록. 박혀 있는 조명 덕에 벽돌이 빛난다.	reuse
+/items/materials/pf_slate.matitem	shortdescription	Slate		
+/items/materials/pf_slate.matitem	description	A chunk of strong and flat slate.	튼튼하고 평평한 점판암 조각.	reuse
+/items/materials/pf_slatepolished.matitem	shortdescription	Polished Slate	연마된 점판암	reuse
+/items/materials/pf_slatepolished.matitem	description	A polished tile of strong and flat slate.	단단하고 평평한 슬레이트를 매끄럽게 다듬은 타일.	reuse
+/items/materials/pf_slopedboneblock.matitem	shortdescription	Large Bone Material	대형 뼈 재료	reuse
+/items/materials/pf_slopedboneblock.matitem	description	Massive bone, likely belonging to some larger creature.	거대한 뼈로, 아마 더 큰 생물의 것으로 보인다.	reuse
+/items/materials/pf_slopedsandstone.matitem	shortdescription	Smooth Sandstone	매끄러운 사암	reuse
+/items/materials/pf_slopedsandstone.matitem	description	Extremly smooth sandstone made from centuries of weathering.	수백 년의 풍화를 거쳐 극도로 매끄러워진 사암.	reuse
+/items/materials/pf_volcanicdirt.matitem	shortdescription	Andisol		
+/items/materials/pf_volcanicdirt.matitem	description	A compact block of silicate volcanic ash converted into soil. Plants love this stuff.	규산질 화산재를 흙으로 바꾼 소형 블록입니다. 식물이 아주 좋아합니다.	reuse
+/items/throwables/pf_aquarishuriken.thrownitem	shortdescription	Aquari Shuriken		
+/items/throwables/pf_aquarishuriken.thrownitem	description	A torrential shuriken made from Aquari. Whirls up a maelstrom when thrown.		
+/items/throwables/pf_ashapplebomb.thrownitem	shortdescription	Ash Apple Bomb		
+/items/throwables/pf_ashapplebomb.thrownitem	description	An ash apple with a wick inside of it. Explodes with fiery ashen death.		
+/items/throwables/pf_auriumkukri.thrownitem	shortdescription	Aurium Kukri		
+/items/throwables/pf_auriumkukri.thrownitem	description	A sharp throwing kukri made from aurium. Slices through enemies and leaves them bleeding.		
+/items/throwables/pf_blueicehatchet.thrownitem	shortdescription	Blue Ice Hatchet		
+/items/throwables/pf_blueicehatchet.thrownitem	description	A strong hatchet made from blue ice. Really heavy but hits hard and slows targets.		
+/items/throwables/pf_bottledpoison.thrownitem	shortdescription	Poison Flask		
+/items/throwables/pf_bottledpoison.thrownitem	description	A flask of poison that can be thrown at enemies. Poisons them with toxic fluids. Not for consumption!		
+/items/throwables/pf_erebiumkunai.thrownitem	shortdescription	Erebium Kunai		
+/items/throwables/pf_erebiumkunai.thrownitem	description	An offputting kunai made of erebium. Its shadowy power homes in on life nearby.		
+/items/throwables/pf_flaskoil.thrownitem	shortdescription	Oil Flask		
+/items/throwables/pf_flaskoil.thrownitem	description	A flask of sticky oil that can be thrown at enemies. Covers them in oil, does not make things fly in rain.		
+/items/throwables/pf_flaskswamp.thrownitem	shortdescription	Contaminated Flask		
+/items/throwables/pf_flaskswamp.thrownitem	description	A flask of swamp water that can be thrown at enemies. Swamps them in contaminated water, not the bodily kind.		
+/items/throwables/pf_flaskwater.thrownitem	shortdescription	Water Flask		
+/items/throwables/pf_flaskwater.thrownitem	description	A flask of water that can be thrown at enemies. Drenches them in water.		
+/items/throwables/pf_heartwoodtomahawk.thrownitem	shortdescription	Heartwood Tomahawk		
+/items/throwables/pf_heartwoodtomahawk.thrownitem	description	A brutal tomahawk made from heartwood. Fairly hard to throw but hits enemies hard.		
+/items/throwables/pf_promethiumgrenade.thrownitem	shortdescription	Promethium Grenade		
+/items/throwables/pf_promethiumgrenade.thrownitem	description	A scorching grenade powered by promethium. Releases nuclear flames in all directions.		
+/items/throwables/pf_rubitemambele.thrownitem	shortdescription	Rubite Mambele		
+/items/throwables/pf_rubitemambele.thrownitem	description	A savage mambele made of rubite. It shreds through targets, making them bleed out.		
+/items/throwables/pf_sealingtalisman.thrownitem	shortdescription	Sealing Talismans		
+/items/throwables/pf_sealingtalisman.thrownitem	description	A bundle of spiritual talismans that contain the ghostly power to seal targets.		
+/items/throwables/pf_throwingenergyknife.thrownitem	shortdescription	Throwing Energy Knife		
+/items/throwables/pf_throwingenergyknife.thrownitem	description	A small energy knife powered by aegisalt, flies far and easy to throw from less weight.		
+/items/throwables/pf_uraniumgrenade.thrownitem	shortdescription	Uranium Grenuke		
+/items/throwables/pf_uraniumgrenade.thrownitem	description	A nuclear grenade powered by uranium. Explodes with extreme force and releases toxins.		
+/items/throwables/pf_vermilliumgrenade.thrownitem	shortdescription	Vermillium Gas Grenade		
+/items/throwables/pf_vermilliumgrenade.thrownitem	description	A toxic grenade filled with vermillium gas. It sprays toxic gas everywhere for some time.		
+/items/throwables/pf_xenojavelin.thrownitem	shortdescription	Xenocyte Javelin		
+/items/throwables/pf_xenojavelin.thrownitem	description	An alien javelin made out of xenocyte. Releases penetrating alien energy.		
+/objects/crafting/temperinganvil/pf_temperingforge.object	description	This forge can be used to improve many kinds of weapons, at the cost of strong enough materials.	이 대장간은 충분히 강한 재료를 대가로 여러 종류의 무기를 개선하는 데 쓸 수 있다.	reuse
+/objects/crafting/temperinganvil/pf_temperingforge.object	shortdescription	^orange;Tempering Forge^white;	^orange;담금질 대장간^white;	reuse
+/objects/crafting/upgradeablecraftingobjects/craftingplanetresist/pf_craftingplanetresist.object	description	A station used to create items that stave off Planet Hazards.	행성 위험을 막는 아이템 제작용 스테이션.	reuse
+/objects/crafting/upgradeablecraftingobjects/craftingplanetresist/pf_craftingplanetresist.object	shortdescription	^orange;Climate Research Station^white;	^orange;기후 연구소^white;	reuse
+/objects/crafting/upgradeablecraftingobjects/craftingplanetresist/pf_craftingplanetresist.object	title	 Climate Research Station		
+/objects/crafting/upgradeablecraftingobjects/craftingplanetresist/pf_craftingplanetresist.object	subtitle	 ^#b9b5b2;Planetary hazard blocking	^#b9b5b2;행성 위험 차단	reuse
+/objects/farmables/appletree/pf_appletreeseed.object	description	A small Apple tree made for off-Earth cultivation. Makes really juicy and sweet fruits.	지구 밖 재배를 위해 만들어진 작은 사과나무. 정말 즙 많고 달콤한 열매를 맺는다.	reuse
+/objects/farmables/appletree/pf_appletreeseed.object	shortdescription	Apple Mini-Sapling	사과 미니 묘목	reuse
+/objects/farmables/eggs/fluffaloegg/pf_radioactivefluffaloegg.object	description	Hatches into a vulnerable radioactive fluffalo calf - a good source of radioactive remnants once fully grown.	취약한 방사능 플루팔로 새끼로 부화합니다 - 다 자라면 좋은 방사능 잔해 공급원이 됩니다.	reuse
+/objects/farmables/eggs/fluffaloegg/pf_radioactivefluffaloegg.object	shortdescription	Radioactive Fluffalo Egg	방사능 플루팔로 알	reuse
+/objects/farmables/frostberry/pf_frostberryseed.object	description	Despite its name, its actually related to the Pearlpea. Same hard coating, just icy.	이름과 달리 사실 진주콩과 가까운 종이다. 단단한 껍질은 똑같고, 얼음으로 되어 있을 뿐이다.	reuse
+/objects/farmables/frostberry/pf_frostberryseed.object	shortdescription	Frostberry Seed	프로스트베리 씨앗	reuse
+/objects/farmables/frostberry/pf_wildfrostberryseed.object	description	Despite its name, its actually related to the Pearlpea. Same hard coating, just icy.	이름과 달리 사실 진주콩과 가까운 종이다. 단단한 껍질은 똑같고, 얼음으로 되어 있을 뿐이다.	reuse
+/objects/farmables/frostberry/pf_wildfrostberryseed.object	shortdescription	Frostberry Seed	프로스트베리 씨앗	reuse
+/objects/farmables/orangetree/pf_orangetreeseed.object	description	A small Orange tree made for off-Earth cultivation. The most tangy fruits in space.	지구 밖 재배를 위해 만들어진 작은 오렌지 나무. 우주에서 가장 톡 쏘는 맛의 열매를 맺는다.	reuse
+/objects/farmables/orangetree/pf_orangetreeseed.object	shortdescription	Orange Mini-Sapling	주황 미니 묘목	reuse
+/objects/farmables/tea/pf_teaseed.object	description	Tea is one of the most common drinks in the cosmos. For good reason.	차는 우주에서 가장 흔한 음료 중 하나다. 그럴 만한 이유가 있다.	reuse
+/objects/farmables/tea/pf_teaseed.object	shortdescription	Tea Seed	차 씨앗	reuse
+/objects/farmables/tea/pf_wildteaseed.object	description	Tea is one of the most common drinks in the cosmos. For good reason.	차는 우주에서 가장 흔한 음료 중 하나다. 그럴 만한 이유가 있다.	reuse
+/objects/farmables/tea/pf_wildteaseed.object	shortdescription	Tea Seed	차 씨앗	reuse

@@ -1,0 +1,669 @@
+asset	field	en	ko	src
+/ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_heat/giclfw_84mm_shell_heat.item	description	"84mm High-Explosive Anti-Tank to be used in destroying armored vehicles or otherwise penetrating deep fortifications.
+  
+This shell type has significantly less explosive payload than its HEDP counterpart, but also means it actively minimises collateral damage."		
+/ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_heat/giclfw_84mm_shell_heat.item	shortdescription	84mm Recoilless Rifle HEAT Shell	84mm 무반동총 대전차 고폭탄	reuse
+/ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_heat_dual_hardcase/giclfw_84mm_shell_heat_dual_hardcase.activeitem	description	"A sealed ammo hardcase that can be easily stacked with each other for your convenience.
+  
+  
+Contains 2x 84mm Recoilless Rifle HEAT Shells for the Carl Gustaf 8.4cm Recoilless Rifle
+
+
+^yellow;Use to open the hardcase.^reset;"		
+/ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_heat_dual_hardcase/giclfw_84mm_shell_heat_dual_hardcase.activeitem	shortdescription	84mm Recoilless Rifle Dual HEAT Shell Ammo Hardcase	84mm 무반동총 대전차 고폭탄 2발 탄약 하드케이스	reuse
+/ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_hedp/giclfw_84mm_shell_hedp.item	description	"84mm High-Explosive Dual-Purpose to be used in destroying bunkers, fortifications and light armor.
+  
+This shell type has an immense concussive blast, dealing significant damage through walls whilst retaining its anti-tank capabilities."		
+/ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_hedp/giclfw_84mm_shell_hedp.item	shortdescription	84mm Recoilless Rifle HE-DP Shell	84mm 무반동총 이중 목적 고폭탄	reuse
+/ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_hedp_dual_hardcase/giclfw_84mm_shell_hedp_dual_hardcase.activeitem	description	"A sealed ammo hardcase that can be easily stacked with each other for your convenience.
+  
+  
+Contains 2x 84mm Recoilless Rifle HE-DP Shell for the Carl Gustaf 8.4cm Recoilless Rifle
+
+
+^yellow;Use to open the hardcase.^reset;"		
+/ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_hedp_dual_hardcase/giclfw_84mm_shell_hedp_dual_hardcase.activeitem	shortdescription	84mm Recoilless Rifle Dual HE-DP Shell Ammo Hardcase	84mm 무반동총 이중 목적 고폭탄 2발 탄약 하드케이스	reuse
+/ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_pfab/giclfw_84mm_shell_pfab.item	description	84mm recoilless rifle shell fitted with a special ^#FFDD00;proximity fuze^reset; allowing it to detonate over valid hostile targets, showering enemies in a hail of shrapnel. Unsurprisingly, unlike its HEAT counterpart it ^#FFDD00;cannot effectively engage heavily-armored vehicles.^reset; This type of munition finds effectiveness in open warfare scenarios which allow for a much more predictable flight path for indirect engagements of enemies. ^#FFDD00;Only compatible with the Carl Gustaf 8.4cm Recoilless Rifle.^reset;		
+/ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_pfab/giclfw_84mm_shell_pfab.item	shortdescription	84mm Recoilless Rifle Proximity Fuze Shell ^#FFDD00;[Airburst]^reset;	84mm 무반동총 근접신관탄 ^#FFDD00;[공중 폭발]^reset;	reuse
+/ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_pfab_dual_hardcase/giclfw_84mm_shell_pfab_dual_hardcase.activeitem	description	"A sealed ammo hardcase that can be easily stacked with each other for your convenience.
+  
+  
+Contains 2x 84mm Recoilless Rifle Proximity Fuze Shell ^#FFDD00;[Airburst]^reset; for the Carl Gustaf 8.4cm Recoilless Rifle
+
+
+^yellow;Use to open the hardcase.^reset;"		
+/ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_pfab_dual_hardcase/giclfw_84mm_shell_pfab_dual_hardcase.activeitem	shortdescription	84mm Recoilless Rifle Dual PF-AB Shell Ammo Hardcase	84mm 무반동총 근접신관 공중폭발탄 2발 탄약 하드케이스	reuse
+/ITEMS/AMMUNITION/CZ75/giclfw_cz75_9x19mm_hollowpoint_mag.augment	description	"A magazine for the CZ 75 and CZ 75 Auto pistols that holds 17 rounds of 9x19mm Hollow Point. Can be used as a recoil foregrip for the CZ 75 series of pistols.
+^yellow;Only compatible as a foregrip attachment on the CZ 75 and CZ 75 Auto pistols.^reset;
+^green;+10% Standing Weapon Proficiency.^reset;
+^green;+15% Recoil Recovery Speed.^reset;
+
+^green;Right-click on the CZ 75 and CZ 75 Auto to attach.^reset;"		
+/ITEMS/AMMUNITION/CZ75/giclfw_cz75_9x19mm_hollowpoint_mag.augment	shortdescription	CZ 75 9x19mm Mag (HP)		
+/ITEMS/AMMUNITION/CZ75/giclfw_cz75_9x19mm_mag.augment	description	"A magazine for the CZ 75 and CZ 75 Auto pistols that holds 17 rounds of 9x19mm. Can be used as a recoil foregrip for the CZ 75 series of pistols.
+^yellow;Only compatible as a foregrip attachment on the CZ 75 and CZ 75 Auto pistols.^reset;
+^green;+10% Standing Weapon Proficiency.^reset;
+^green;+15% Recoil Recovery Speed.^reset;
+
+^green;Right-click on the CZ 75 and CZ 75 Auto to attach.^reset;"		
+/ITEMS/AMMUNITION/CZ75/giclfw_cz75_9x19mm_mag.augment	shortdescription	CZ 75 9x19mm Mag		
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mm_flechette_mag.item	description	"Fits the Mossberg 590M Shotgun. 10rnd Magazine.
+  
+  
+Flechettes deal less overall damage, but are capable of piercing walls and have higher bleed proc chance against enemies."		
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mm_flechette_mag.item	shortdescription	Mossberg 590M 10rnd [Flechette]	모스버그 590M 10발 [플레셰트]	reuse
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mm_mag.item	description	Fits the Mossberg 590M Shotgun. 10rnd Magazine.	모스버그 590M 산탄총용. 10발 탄창.	reuse
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mm_mag.item	shortdescription	Mossberg 590M 10rnd [Buck]	모스버그 590M 10발 [벅샷]	reuse
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mm_slug_mag.item	description	Fits the Mossberg 590M Shotgun. 10rnd Magazine.	모스버그 590M 산탄총용. 10발 탄창.	reuse
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mm_slug_mag.item	shortdescription	Mossberg 590M 10rnd [Slug]	모스버그 590M 10발 [슬러그]	reuse
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mmgic_1850x70mm_beanbag_mag.item	description	"Fits the Mossberg 590M Shotgun. 10rnd Magazine.
+  
+Beanbag rounds are *not* classified as ''Non-Lethal''. They are classified as ''Less-Lethal''.
+
+Base DMG: 50 BLUNT | Afflicts 2s STAGGER."		
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mmgic_1850x70mm_beanbag_mag.item	shortdescription	Mossberg 590M 10rnd [Beanbag]	모스버그 590M 10발 [빈백]	reuse
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mmgic_1850x70mm_highexplosive_mag.item	description	"Fits the Mossberg 590M Shotgun. 10rnd Magazine.
+  
+Specialized shotgun shell packed with a small high-explosive charged intended for breaching intermediate barriers and defeating light vehicles. The shell will ^#FFDD00;detonate on impact,^reset; causing ^#FFDD00;heavy bleeding^reset; to any unfortunate targets caught in the small blast."		
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mmgic_1850x70mm_highexplosive_mag.item	shortdescription	Mossberg 590M 10rnd [Explosive]	모스버그 590M 10발 [폭발탄]	reuse
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mmgic_1850x70mm_pennyshot_mag.item	description	"Fits the Mossberg 590M Shotgun. 10rnd Magazine.
+  
+Special homemade cartridge loaded with literal pennies which deal higher, if erratic damage. Shreds through body armor, but unreliable at range.
+
+Great for area saturation."		
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mmgic_1850x70mm_pennyshot_mag.item	shortdescription	Mossberg 590M 10rnd [Penny Shot]	모스버그 590M 10발 [페니샷]	reuse
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mmgic_1850x70mm_slug_whitephosphorus_mag.item	description	"Fits the Mossberg 590M Shotgun. 10rnd Magazine.
+  
+Specialized shotgun shell packed with a White Phosphorus charge that detonates shortly after leaving the barrel so-as to not accidentally burn the user. ^#FFDD00;White Phosphorus^reset; is capable of afflicting severe ^#FFDD00;IGNITION^reset; burning even underwater and sticks to anything it hits, both terrain and enemy.
+
+Cruel, but brutally efficient. Very dangerous to the user."		
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mmgic_1850x70mm_slug_whitephosphorus_mag.item	shortdescription	Mossberg 590M 10rnd [White Phosphorus]	모스버그 590M 10발 [백린탄]	reuse
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mmgic_1850x70mm_starshell_mag.item	description	"Fits the Mossberg 590M Shotgun. 10rnd Magazine.
+  
+A shell that launches a flare that descends slowly, illuminating the area for approximately 30s.
+  
+Close-ranged shots are capable of dealing ^orange;IGNITION^reset;, but deal significantly reduced direct damage. ^orange;Causes SUPPRESSION on nearby enemies for 30s.^reset;
+
+Unaffected by Weapon Proficiency."		
+/ITEMS/AMMUNITION/MOSSBERG_590M/giclfw_mossberg590m_1850x70mmgic_1850x70mm_starshell_mag.item	shortdescription	Mossberg 590M 10rnd [Starshell]	모스버그 590M 10발 [스타셸]	reuse
+/ITEMS/AMMUNITION/gicflw_arsmg_9x19mm_mag/gicflw_arsmg_9x19mm_beta_c_drum_mag.item	description	A massive and heavy 9x19mm drum magazine primarily used for AR platform submachine guns. Sometimes also referred to as the ''ballsack mag'' due to its rather ''unique'' design. Adopted by a variety of private firearms manufacturers. 100 rounds per drum magazine.	주로 AR 플랫폼 기관단총에 사용되는, 크고 무거운 9x19mm 드럼 탄창입니다. 다소 ''독특한'' 디자인 때문에 ''불알 탄창''이라고도 불립니다. 여러 민간 화기 제조사들이 채택했습니다. 드럼 탄창 하나당 100발입니다.	reuse
+/ITEMS/AMMUNITION/gicflw_arsmg_9x19mm_mag/gicflw_arsmg_9x19mm_beta_c_drum_mag.item	shortdescription	AR SMG 9x19mm Beta C Drum Magazine	AR SMG 9x19mm 베타 C 드럼 탄창	reuse
+/ITEMS/AMMUNITION/gicflw_arsmg_9x19mm_mag/gicflw_arsmg_9x19mm_drum_mag.item	description	9x19mm magazine primarily used for AR platform submachine guns. Adopted by a variety of private firearms manufacturers. 50 rounds per drum magazine.	주로 AR 플랫폼 기관단총에 쓰이는 9x19mm 탄창. 여러 민간 총기 제조사가 채택했다. 드럼 탄창 하나에 50발.	reuse
+/ITEMS/AMMUNITION/gicflw_arsmg_9x19mm_mag/gicflw_arsmg_9x19mm_drum_mag.item	shortdescription	AR SMG 9x19mm Drum Magazine	AR SMG 9x19mm 드럼 탄창	reuse
+/ITEMS/AMMUNITION/gicflw_arsmg_9x19mm_mag/gicflw_arsmg_9x19mm_hollowpoint_beta_c_drum_mag.item	description	"A massive and heavy 9x19mm drum magazine primarily used for AR platform submachine guns. Adopted by a variety of private firearms manufacturers. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor. 100 rounds per drum magazine.
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor."		
+/ITEMS/AMMUNITION/gicflw_arsmg_9x19mm_mag/gicflw_arsmg_9x19mm_hollowpoint_beta_c_drum_mag.item	shortdescription	AR SMG 9x19mm Beta C Drum Magazine (HP)	AR SMG 9x19mm 베타 C 드럼 탄창 (HP)	reuse
+/ITEMS/AMMUNITION/gicflw_arsmg_9x19mm_mag/gicflw_arsmg_9x19mm_hollowpoint_drum_mag.item	description	"9x19mm magazine primarily used for AR platform submachine guns. Adopted by a variety of private firearms manufacturers. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor. 50 rounds per drum magazine.
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor."		
+/ITEMS/AMMUNITION/gicflw_arsmg_9x19mm_mag/gicflw_arsmg_9x19mm_hollowpoint_drum_mag.item	shortdescription	AR SMG 9x19mm Drum Magazine (HP)	AR SMG 9x19mm 드럼 탄창 (HP)	reuse
+/ITEMS/AMMUNITION/gicflw_arsmg_9x19mm_mag/gicflw_arsmg_9x19mm_hollowpoint_mag.item	description	"9x19mm magazine primarily used for AR platform submachine guns. Adopted by a variety of private firearms manufacturers. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor. 30 rounds in a magazine.
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor."		
+/ITEMS/AMMUNITION/gicflw_arsmg_9x19mm_mag/gicflw_arsmg_9x19mm_hollowpoint_mag.item	shortdescription	AR SMG 9x19mm Magazine (HP)	AR SMG 9x19mm 탄창 (HP)	reuse
+/ITEMS/AMMUNITION/gicflw_arsmg_9x19mm_mag/gicflw_arsmg_9x19mm_mag.item	description	9x19mm magazine primarily used for AR platform submachine guns. Adopted by a variety of private firearms manufacturers. 30 rounds in a magazine.	주로 AR 플랫폼 기관단총에 쓰이는 9x19mm 탄창. 여러 민간 총기 제조사가 채택했다. 탄창 하나에 30발.	reuse
+/ITEMS/AMMUNITION/gicflw_arsmg_9x19mm_mag/gicflw_arsmg_9x19mm_mag.item	shortdescription	AR SMG 9x19mm Magazine	AR SMG 9x19mm 탄창	reuse
+/ITEMS/AMMUNITION/giclfw_9k38igla_missile/giclfw_9k38igla_missile.item	description	9K38 Igla Anti Aircaft Missile. Primarily used in the 9K38 Igla Man Portable Air Defense System (MANPADS) and in some Short Range Air Defense (SHORAD) Systems. This particular variant of the 9K38 missile is a more advanced and modernized variant that is more suitable for the space age as it is also fully capable of being used in the Void as well on top of its intended use in atmospheric conditions.	9K38 이글라 대공 미사일. 주로 9K38 이글라 휴대용 대공 방어 체계(MANPADS)와 일부 단거리 방공(SHORAD) 체계에 쓰인다. 이 9K38 미사일은 더 발전된 현대화 파생형으로, 원래 용도인 대기 환경은 물론 공허에서도 완벽하게 쓸 수 있어 우주 시대에 더 적합하다.	reuse
+/ITEMS/AMMUNITION/giclfw_9k38igla_missile/giclfw_9k38igla_missile.item	shortdescription	9K38 Igla Missile	9K38 이글라 미사일	reuse
+/ITEMS/AMMUNITION/giclfw_barrettm82_1270x108mm_mag/giclfw_barrettm82_1270x108mm_mag.item	description	10rnd 12.7x108mm magazine for the Barrett M82.		
+/ITEMS/AMMUNITION/giclfw_barrettm82_1270x108mm_mag/giclfw_barrettm82_1270x108mm_mag.item	shortdescription	Barrett M82 10rnd Magazine	배럿 M82 10발들이 탄창	reuse
+/ITEMS/AMMUNITION/giclfw_m60e4_762x51mm_mag/giclfw_m60e4_762x51mm_box_mag.item	description	100 rounds of 7.62x51mm ammunition box magazine for the M60E4.	M60E4용 7.62x51mm 탄약 100발들이 상자 탄창.	reuse
+/ITEMS/AMMUNITION/giclfw_m60e4_762x51mm_mag/giclfw_m60e4_762x51mm_box_mag.item	shortdescription	M60E4 7.62x51mm 100rnd Box Magazine]	M60E4 7.62x51mm 100발들이 상자형 탄창	reuse
+/ITEMS/AMMUNITION/giclfw_m60e4_762x51mm_mag/giclfw_m60e4_762x51mm_heavy_box_mag.item	description	200 rounds of 7.62x51mm ammunition heavy box magazine for the M60E4.	M60E4용 7.62x51mm 탄약 200발들이 대형 상자 탄창.	reuse
+/ITEMS/AMMUNITION/giclfw_m60e4_762x51mm_mag/giclfw_m60e4_762x51mm_heavy_box_mag.item	shortdescription	M60E4 7.62x51mm 200rnd Heavy Box Magazine	M60E4 7.62x51mm 200발들이 대형 상자형 탄창	reuse
+/ITEMS/AMMUNITION/giclfw_m60e4_762x51mm_mag/giclfw_m60e4_762x51mm_rambo_belt_mag.item	description	Ammo belts like these are typically used on vehicle-mounted platforms or in fixed fortified positions such as bunkers or pillboxes but can sometimes be used by infantry in after salvaging these long belts of ammo from disabled or destroyed vehicles. So whether you need to provide an extreme volume of suppressive fire to desperately fend off an enemy assault or to live out your action movie hero fantasies, always remember one thing; GIVE THOSE COMMIE BASTARDS A TASTE OF TRUE FREEDOM AND DEMOCRACY, SEND EM STRAIGHT TO HELL BOYS.	이런 탄약 벨트는 대체로 차량 탑재형 플랫폼이나 벙커, 토치카 같은 고정 요새화 진지에서 사용되지만, 가끔 기능 정지되거나 파괴된 차량에서 이렇게 긴 탄약 벨트를 회수한 보병들이 사용하기도 한다. 그러니 적의 공세를 필사적으로 막아내기 위해 극도로 많은 억제 사격을 퍼부어야 하든, 아니면 액션 영화 주인공의 판타지를 실현하고 싶든, 한 가지만은 항상 기억하라; 저 빨갱이 놈들에게 진정한 자유와 민주주의의 맛을 보여주고, 곧장 지옥으로 보내버려라, 친구들아.	reuse
+/ITEMS/AMMUNITION/giclfw_m60e4_762x51mm_mag/giclfw_m60e4_762x51mm_rambo_belt_mag.item	shortdescription	1000 Round 7.62x51mm M60E4 Rambo Belt	1000발 7.62x51mm M60E4 람보 탄띠	reuse
+/ITEMS/AMMUNITION/giclfw_pp19bizon201_9x19mm_mag/giclfw_pp19bizon201_9x19mm_hollowpoint_mag.item	description	"53 round 9x19mm ammunition helical magazine for the Pistolet Pulemyot 19 Bizon-2-01 Submachine Gun. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor."		
+/ITEMS/AMMUNITION/giclfw_pp19bizon201_9x19mm_mag/giclfw_pp19bizon201_9x19mm_hollowpoint_mag.item	shortdescription	PP-19 Bizon-2-01 53 rnd 9x19mm Helical Magazine (HP)	PP-19 바이존-2-01 9x19mm 53발들이 나선형 탄창 (HP)	reuse
+/ITEMS/AMMUNITION/giclfw_pp19bizon201_9x19mm_mag/giclfw_pp19bizon201_9x19mm_hollowpoint_mag_extended.item	description	"80 round 9x19mm ammunition extended helical magazine for the Pistolet Pulemyot 19 Bizon-2-01 Submachine Gun. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor."		
+/ITEMS/AMMUNITION/giclfw_pp19bizon201_9x19mm_mag/giclfw_pp19bizon201_9x19mm_hollowpoint_mag_extended.item	shortdescription	PP-19 Bizon-2-01 80 rnd 9x19mm Extended Helical Magazine (HP)	PP-19 바이존-2-01 9x19mm 80발들이 확장형 나선형 탄창 (HP)	reuse
+/ITEMS/AMMUNITION/giclfw_pp19bizon201_9x19mm_mag/giclfw_pp19bizon201_9x19mm_mag.item	description	53 round 9x19mm ammunition helical magazine for the Pistolet Pulemyot 19 Bizon-2-01 Submachine Gun.	피스톨레트 풀레묘트 19 비존-2-01 기관단총용 9x19mm 탄약 53발들이 나선형 탄창.	reuse
+/ITEMS/AMMUNITION/giclfw_pp19bizon201_9x19mm_mag/giclfw_pp19bizon201_9x19mm_mag.item	shortdescription	PP-19 Bizon-2-01 53 rnd 9x19mm Helical Magazine	PP-19 바이존-2-01 9x19mm 53발들이 나선형 탄창	reuse
+/ITEMS/AMMUNITION/giclfw_pp19bizon201_9x19mm_mag/giclfw_pp19bizon201_9x19mm_mag_extended.item	description	80 round 9x19mm ammunition extended helical magazine for the Pistolet Pulemyot 19 Bizon-2-01 Submachine Gun.	피스톨레트 풀레묘트 19 비존-2-01 기관단총용 9x19mm 탄약 80발들이 나선형 확장 탄창.	reuse
+/ITEMS/AMMUNITION/giclfw_pp19bizon201_9x19mm_mag/giclfw_pp19bizon201_9x19mm_mag_extended.item	shortdescription	PP-19 Bizon-2-01 80 rnd 9x19mm Extended Helical Magazine	PP-19 바이존-2-01 9x19mm 80발들이 확장형 나선형 탄창	reuse
+/ITEMS/AMMUNITION/giclfw_pp19bizon_9x18mm_mag/giclfw_pp19bizon_9x18mm_hollowpoint_mag.item	description	"64 round 9x18mm ammunition helical magazine for the Pistolet Pulemyot 19 Bizon Submachine Gun. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor."		
+/ITEMS/AMMUNITION/giclfw_pp19bizon_9x18mm_mag/giclfw_pp19bizon_9x18mm_hollowpoint_mag.item	shortdescription	PP-19 Bizon 64 rnd 9x18mm Helical Magazine (HP)	PP-19 바이존 9x18mm 64발들이 나선형 탄창 (HP)	reuse
+/ITEMS/AMMUNITION/giclfw_pp19bizon_9x18mm_mag/giclfw_pp19bizon_9x18mm_hollowpoint_mag_extended.item	description	"96 round 9x18mm ammunition extended helical magazine for the Pistolet Pulemyot 19 Bizon Submachine Gun. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor."		
+/ITEMS/AMMUNITION/giclfw_pp19bizon_9x18mm_mag/giclfw_pp19bizon_9x18mm_hollowpoint_mag_extended.item	shortdescription	PP-19 Bizon 96 rnd 9x18mm Extended Helical Magazine (HP)	PP-19 바이존 9x18mm 96발들이 확장형 나선형 탄창 (HP)	reuse
+/ITEMS/AMMUNITION/giclfw_pp19bizon_9x18mm_mag/giclfw_pp19bizon_9x18mm_mag.item	description	64 round 9x18mm ammunition helical magazine for the Pistolet Pulemyot 19 Bizon Submachine Gun.	피스톨레트 풀레묘트 19 비존 기관단총용 9x18mm 탄약 64발들이 나선형 탄창.	reuse
+/ITEMS/AMMUNITION/giclfw_pp19bizon_9x18mm_mag/giclfw_pp19bizon_9x18mm_mag.item	shortdescription	PP-19 Bizon 64 rnd 9x18mm Helical Magazine	PP-19 바이존 9x18mm 64발들이 나선형 탄창	reuse
+/ITEMS/AMMUNITION/giclfw_pp19bizon_9x18mm_mag/giclfw_pp19bizon_9x18mm_mag_extended.item	description	96 round 9x18mm ammunition extended helical magazine for the Pistolet Pulemyot 19 Bizon Submachine Gun.	피스톨레트 풀레묘트 19 비존 기관단총용 9x18mm 탄약 96발들이 나선형 확장 탄창.	reuse
+/ITEMS/AMMUNITION/giclfw_pp19bizon_9x18mm_mag/giclfw_pp19bizon_9x18mm_mag_extended.item	shortdescription	PP-19 Bizon 96 rnd 9x18mm Extended Helical Magazine	PP-19 바이존 9x18mm 96발들이 확장형 나선형 탄창	reuse
+/ITEMS/AMMUNITION/giclfw_remingtonm24a2sws_762x51mm_mag/giclfw_remingtonm24a2sws_762x51mm_mag.item	description	Magazine that holds 10 rounds of 7.62x51mm for the Remington M24A2 SWS.	레밍턴 M24A2 SWS용 7.62x51mm 10발이 든 탄창.	reuse
+/ITEMS/AMMUNITION/giclfw_remingtonm24a2sws_762x51mm_mag/giclfw_remingtonm24a2sws_762x51mm_mag.item	shortdescription	Remington M24A2 SWS 7.62x51mm Mag	레밍턴 M24A2 SWS 7.62x51mm 탄창	reuse
+/ITEMS/AMMUNITION/giclfw_sn7p_762x25mm_mag/giclfw_sn7p_762x25mm_hollowpoint_mag.item	description	"64 round 7x25mm ammunition helical magazine for the SN7P Submachine Gun. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor."		
+/ITEMS/AMMUNITION/giclfw_sn7p_762x25mm_mag/giclfw_sn7p_762x25mm_hollowpoint_mag.item	shortdescription	SN7P 64 rnd 7x25mm Helical Magazine (HP)	SN7P 64발들이 7x25mm 나선형 탄창 (HP)	reuse
+/ITEMS/AMMUNITION/giclfw_sn7p_762x25mm_mag/giclfw_sn7p_762x25mm_hollowpoint_mag_extended.item	description	"96 round 7x25mm ammunition extended helical magazine for the SN7P Submachine Gun. Loaded with Hollow-Point ammunition which shreds unarmored targets but deals less DMG against even basic armor.
+
+^orange;Hollow Point:^reset;
+If enemy TGT has less than 15% Small-Arms or 30% Thrust RES, then apply 3s Bleeding, 1s Rending, and +25 direct BLEED DMG. Deals reduced base DMG. Cannot apply bleed if TGT has armor."		
+/ITEMS/AMMUNITION/giclfw_sn7p_762x25mm_mag/giclfw_sn7p_762x25mm_hollowpoint_mag_extended.item	shortdescription	SN7P 96 rnd 7x25mm Extended Helical Magazine (HP)	SN7P 96발들이 7x25mm 나선형 확장 탄창 (HP)	reuse
+/ITEMS/AMMUNITION/giclfw_sn7p_762x25mm_mag/giclfw_sn7p_762x25mm_mag.item	description	64 round 7x25mm ammunition helical magazine for the SN7P Submachine Gun.	SN7P 기관단총용 7x25mm 탄약 64발들이 나선형 탄창.	reuse
+/ITEMS/AMMUNITION/giclfw_sn7p_762x25mm_mag/giclfw_sn7p_762x25mm_mag.item	shortdescription	SN7P 64 rnd 7x25mm Helical Magazine	SN7P 64발들이 7x25mm 나선형 탄창	reuse
+/ITEMS/AMMUNITION/giclfw_sn7p_762x25mm_mag/giclfw_sn7p_762x25mm_mag_extended.item	description	96 round 7x25mm ammunition extended helical magazine for the SN7P Submachine Gun.	SN7P 기관단총용 7x25mm 탄약 96발들이 나선형 확장 탄창.	reuse
+/ITEMS/AMMUNITION/giclfw_sn7p_762x25mm_mag/giclfw_sn7p_762x25mm_mag_extended.item	shortdescription	SN7P 96 rnd 7x25mm Extended Helical Magazine	SN7P 96발들이 7x25mm 나선형 확장 탄창	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag.item	description	7.62x54mm magazine for SVT-40. Holds 10 Rounds.	SVT-40용 7.62x54mm 탄창. 10발이 들어간다.	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag.item	shortdescription	SVT-40 7.62x54mm Magazine 10rnd	SVT-40 7.62x54mm 탄창 10발	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_ap.item	description	7.62x54mm Armor Piercing magazine for SVT-40. Holds 10 Rounds.	SVT-40용 7.62x54mm 철갑탄 탄창. 10발이 들어간다.	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_ap.item	shortdescription	SVT-40 7.62x54mm AP Magazine 10rnd	SVT-40 7.62x54mm AP 탄창 10발	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_ext.item	description	7.62x54mm extended magazine for SVT-40. Holds 20 Rounds.	SVT-40용 7.62x54mm 확장 탄창. 20발이 들어간다.	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_ext.item	shortdescription	SVT-40 7.62x54mm Extended Magazine 20rnd	SVT-40 7.62x54mm 확장 탄창 20발	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_ext_ap.item	description	7.62x54mm Armor Piercing extended magazine for SVT-40. Holds 20 Rounds.	SVT-40용 7.62x54mm 철갑탄 확장 탄창. 20발이 들어간다.	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_ext_ap.item	shortdescription	SVT-40 7.62x54mm AP Extended Magazine 20rnd	SVT-40 7.62x54mm AP 확장 탄창 20발	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_ext_het.item	description	7.62x54mm HE-T extended magazine for SVT-40. Holds 20 Rounds.	SVT-40용 7.62x54mm 고폭 예광탄 확장 탄창. 20발이 들어간다.	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_ext_het.item	shortdescription	SVT-40 7.62x54mm HE-T Extended Magazine 20rnd	SVT-40 7.62x54mm HE-T 확장 탄창 20발	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_ext_incendiarytracer.item	description	"7.62x54mm incendiary-tracer extended magazine for SVT-40. Holds 20 Rounds.
+  
+^orange;Incendiary-Tracers:^reset;
+Chance to proc 5s IGNITION (Base 10% chance, each 1% of THERMAL RES reduces proc chance by 1%) | Bullets will SUPPRESS targets whilst in flight, not just at the point of impact | Loses Wall-Piercing ability."		
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_ext_incendiarytracer.item	shortdescription	SVT-40 7.62x54mm Magazine 10rnd (Tracer)	SVT-40 7.62x54mm 탄창 10발 (예광)	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_het.item	description	7.62x54mm HE-T magazine for SVT-40. Holds 10 Rounds.	SVT-40용 7.62x54mm 고폭 예광탄 탄창. 10발이 들어간다.	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_het.item	shortdescription	SVT-40 7.62x54mm HE-T Magazine 10rnd	SVT-40 7.62x54mm HE-T 탄창 10발	reuse
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_incendiarytracer.item	description	"7.62x54mm incendiary-tracer magazine for SVT-40. Holds 10 Rounds.
+  
+^orange;Incendiary-Tracers:^reset;
+Chance to proc 5s IGNITION (Base 10% chance, each 1% of THERMAL RES reduces proc chance by 1%) | Bullets will SUPPRESS targets whilst in flight, not just at the point of impact | Loses Wall-Piercing ability."		
+/ITEMS/AMMUNITION/giclfw_svt40_mag/giclfw_svt40_mag_incendiarytracer.item	shortdescription	SVT-40 7.62x54mm Magazine 10rnd (Tracer)	SVT-40 7.62x54mm 탄창 10발 (예광)	reuse
+/ITEMS/AUGMENTS/TRINKETS/PMD/giclfw_defensescarf.augment	description	"''Wait, you're telling me that this flimsy piece of cloth will somehow protect me? I was expecting something like, you know, actual armor or at least something more sturdy than a scarf.''
+
+A peculiar scarf of unknown make, it somehow increases the user's defense and resistance even though it appears to be nothing more than a piece of cloth that provides nothing in the way of actual protection.
+^green;+10% GENERAL Resistance.^reset;"		
+/ITEMS/AUGMENTS/TRINKETS/PMD/giclfw_defensescarf.augment	shortdescription	Defense Scarf		
+/ITEMS/AUGMENTS/TRINKETS/PMD/giclfw_explorationteambadge.augment	description	"''A ONE, A TWO...A ONE-TWO-THREE
+ONE! DON'T SHIRK WORK!
+TWO! RUN AWAY AND PAY!
+THREE! SMILES GO FOR MILES!''
+
+A badge of unknown make that is typically issued to Explorers to prove their association with their respective Exploration Team Guilds and or the Exploration Team Federation.
+^green;Grants Tier 3 Vanilla Armour bonuses.^reset;"		
+/ITEMS/AUGMENTS/TRINKETS/PMD/giclfw_explorationteambadge.augment	shortdescription	Exploration Team Badge		
+/ITEMS/AUGMENTS/TRINKETS/PMD/giclfw_guildmasterbadge.augment	description	"''Don't you think that perhaps maybe the Guild Master likes Perfect Apples just a little bit *too* much?''
+A badge of unknown make that is typically issued to Guild Masters of an Exploration Team Guild or to highly esteemed and experienced veteran Explorers who has truly distinguished themselves.
+^green;Grants Tier 6 Vanilla Armour bonuses and provides oxygen and protection against all ^yellow;[VANILLA] ^green;Environmental Hazards.^reset;
+^cyan;If Frackin' Universe is installed, it provides ^orange;[Moderate Immunity] ^cyan;against Heat, Cold, and Radiation Environmental Hazards.^reset;"		
+/ITEMS/AUGMENTS/TRINKETS/PMD/giclfw_guildmasterbadge.augment	shortdescription	Guild Master Badge		
+/ITEMS/AUGMENTS/TRINKETS/PMD/giclfw_lockonspecs.augment	description	"''I look a little bit silly you say? Why, with these babies, I sure won't miss the next Gravlerock I throw! Now lets go talk to the brothers and stock up before we take the next job at that dungeon.''
+A peculiar pair of spectacles unknown make. It somehow makes the user more accurate even though it doesn't appear to possess any sort of smart targeting and tracking functionality such as those found on Ballistic CPUs or on an FCS unit.
+^green;Increases Weapon Proficiency by 20%^reset;"		
+/ITEMS/AUGMENTS/TRINKETS/PMD/giclfw_lockonspecs.augment	shortdescription	Lock On Specs		
+/ITEMS/AUGMENTS/TRINKETS/PMD/giclfw_pechascarf.augment	description	"''So, exactly how does this pink scarf protects me against poison?''
+A pink colored scarf of unknown make, it somehow protects the user from the effect of poison and other similar effects.
+^green;Grants immunity towards standard Vanilla Poison status effects, standard Vanilla Radiation, [GIC] Immense Radiation, and prevents certain [GIC] environmental hazards.^reset;
+^cyan;If Frackin' Universe is installed, it provides ^orange;[Moderate Immunity] ^cyan;against Radiation Environmental Hazards.^reset;"		
+/ITEMS/AUGMENTS/TRINKETS/PMD/giclfw_pechascarf.augment	shortdescription	Pecha Scarf		
+/ITEMS/AUGMENTS/TRINKETS/PMD/giclfw_skybluebow.augment	description	"''I know we just met, and you have amnesia and all that. But I think we make a great team back there, so I was wondering if well... you know, want to form an Exploration Team with me?''
+
+A sky blue colored bow of unknown make, it is said that it resonates deeply with those who possess a certain type of Aura.
+
+^green;Slightly increases Defense, Attack, GENERAL Resistance, and Weapon Proficiency by 5%.^reset;"		
+/ITEMS/AUGMENTS/TRINKETS/PMD/giclfw_skybluebow.augment	shortdescription	Sky Blue Bow		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/LEGACY/gic_hd33_sight.augment	description	"Seen as a cheaper counterpart and alternative to the more expensive EOTech sight, the HD-33 Holographic Sight is optimized for close to mid range target acquirement with an open circle and dot reticle for easy tracking of targets.
+  
+  
+^orange;+20% [EWS] Hit Chance and Accuracy when moving.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/LEGACY/gic_hd33_sight.augment	shortdescription	HD-33 Holo Sight [LFW]		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/LEGACY/gic_pu_scope.augment	description	"The PU Scope is a simple 3.5× power (that can be increased to 6.5× power through the use of an aftermarket objective lens which this one sadly does not have) magnified sniper scope that was originally introduced on Earth in 1940 with the SVT-40 rifle.
+  
+^orange;+10% [EWS] Hit Chance and Accuracy when stationary.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/LEGACY/gic_pu_scope.augment	shortdescription	PU Scope		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/LEGACY_ARTILLERY/gic_goshawk_hydra_rocket_pods_strafe_artillerycoordinator.augment	description	"''This is Station to Observer coordinates received, friendly Goshawk is inbound for a rocket run.''
+
+^orange;Hydra 70 Rocket Strafe:^reset; Fires a ^yellow;non-damaging beacon^reset; that ^orange;calls upon a Goshawk Fightercraft with Hydra 70 Rocket Pods to strafe the target zone.^reset; Strafing begins from left-to-right.
+^yellow;Requires decent space, but can work underground | Reloads using Cracked Red Suns.^reset;
+^orange;Tap Right-Click to Fire/Reload the Coordinator.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/LEGACY_ARTILLERY/gic_goshawk_hydra_rocket_pods_strafe_artillerycoordinator.augment	shortdescription	Goshawk Hydra 70 Rocket Strafe Coordinator [LFW]		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/LEGACY_ARTILLERY/gic_zsu_23_4_shilka_ciws_artillerycoordinator.augment	description	"''I don't care or give a shit if it's a magical pony flying through the sky, JUST SHOOT IT DOWN!'' 
+ZSU-23-4 Shilka Turret Close in Weapons System (starship point defense replica production model): Fires a ^yellow;non-damaging beacon^reset; that ^orange;directs your ship to fire a short barrage of high explosive 23mm shells at the impact site of the beacon.^reset;
+^yellow;Requires decent space, but can work underground via use of teleporter munitions | Reloads using Healing Flasks.^reset;
+^orange;Tap Right-Click to Fire/Reload the Coordinator.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/LEGACY_ARTILLERY/gic_zsu_23_4_shilka_ciws_artillerycoordinator.augment	shortdescription	ZSU-23-4 Shilka 23mm HE Autocannon CIWS Coordinator [LFW]		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_atacsgs_scope.augment	description	"The Advanced Tactical Smart Gunsight is a high-magnification sight with a built-in ballistic CPU and rangefinder that can accurately measure out to 10km. Intended to help track and engage targets at extreme ranges with CCIP (Constantly Computed Impact Point), the ATACS-GS is useful for those wishing to push the maximum effective range of their weapons to their absolute limits.
+^orange;+25% Weapon Proficiency after 0.5s of not running, firing, or being shot.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_atacsgs_scope.augment	shortdescription	ATACS-GS Scope		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_darkstalker_thermal_scope.augment	description	"''Now. Take your talons, rip open your stomach, and show everyone what you're really like inside. Pour out your life on this stage.''
+An advanced thermal smart scope that allows the user to stalk and engage targets in complete darkness.
+^#96CBE7;Highlights targets in a 50-degree angle from the gun | 100 Block Range | Cannot see through walls.^reset;
+^orange;+15% Standing Weapon Proficiency.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_darkstalker_thermal_scope.augment	shortdescription	Pyrrhia Military Industries Darkstalker Scope		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_falke_le_sight.augment	description	"''The compact design of the FALKE LE, combined with its integrated quick-release Picatinny mount, creates a seamless connection with virtually any platform. Its waterproof construction and sealed electronics are protected within a shock-resistant metal housing.'' - FALKE Online Shopping Catalogue
+  
+^orange;+10% Weapon Proficiency.^reset;
+  
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_falke_le_sight.augment	shortdescription	FALKE LE Reflex Sight		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_hd33_sight.augment	description	"Seen as a cheaper counterpart and alternative to the more expensive EOTech sight, the HD-33 Holographic Sight is optimized for close to mid range target acquirement with an open circle and dot reticle for easy tracking of targets.
+  
+^orange;+10% Weapon Proficiency.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_hd33_sight.augment	shortdescription	HD-33 Holo Sight		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_krechet_sight.augment	description	"A simple yet robust sight that offers a clear viewing solution on target. The Krechet is a sight that was intended to replace some of the older optics in the Russian inventory and bring the infantry units of Russian Military into the modern age.
+  
+^orange;+10% Weapon Proficiency.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_krechet_sight.augment	shortdescription	Krechet Sight		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_leupold_deltapoint_sight.augment	description	"''The DeltaPoint Pro is proof that you don't have to compromise performance on a small sight. Whether it's topping your AR, shotgun, or pistol, the DeltaPoint Pro gives you a clear field of view and the bold aiming point you need in high-pressure situations. Crafted from aircraft-grade aluminum, this sight is made to handle abuse.'' - Leupold Online Shopping Catalogue
+  
+^orange;+10% Weapon Proficiency.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_leupold_deltapoint_sight.augment	shortdescription	Leupold DeltaPoint Pro Compact Reflex Sight		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_leupold_mark_5hd_scope.augment	description	"''The Leupold Mark 5HD 5-25x56 rifle scope is known for being a lighter and more efficient optic than other scopes in its class. Featuring optical glass, full multi-coated lenses and an advanced light management system, the scope offers low-glare, high-contrast imaging.'' - Old Earth marketing brochure.
+  
+^orange;+25% Weapon Proficiency after 0.5s of not running, firing, or being shot.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_leupold_mark_5hd_scope.augment	shortdescription	Leupold Mark 5HD Scope		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_mp155ultima_thermal_sight.augment	description	"A thermal camera system that is only compatible with the MP-155 Ultima Shotgun
+  
+  
+
+^#96CBE7;Highlights targets in a 50-degree angle from the gun | 100 Block Range | Cannot see through walls.^reset;
+^orange;+15% Standing Weapon Proficiency.^reset;
+^green;Right-click on the MP-155 Ultima to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_mp155ultima_thermal_sight.augment	shortdescription	MP-155 Ultima Camera Thermal Sight		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_nydar_sight.augment	description	"One of the first commercially successful reflex sights, the Nydar Model 47, was made by the Swain Nelson company and introduced in 1945, just a little bit right after the end of the Second World War. It was initially intended as a sight for shotgun hunters to aid in firing at flying birds, but it has also found limited use in the early days of old school tactical weapon modifications.
+^orange;+10% Weapon Proficiency.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_nydar_sight.augment	shortdescription	Nydar Model 47		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_pk120_sight.augment	description	"The PK-120 (GRAU index 1P87) is a sight that was part of the Russian Ratnik program in order to bring the Russian Armed Forces into the modern age. The PK-120 is intended to be the Russian answer to the American made EOTech sight after observing a noticeable improvement to overall combat effectiveness in units equipped with such a optic when compared those that are not equipped with any optics.
+^orange;+10% Weapon Proficiency.^reset; 
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_pk120_sight.augment	shortdescription	PK-120 (1P87) Sight		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_pkaa_sight.augment	description	"The PK-AA is a more advanced version of the PK-A reflex sight manufactured by BelOMO (Belarusian Optical & Mechanical Association). The PK-AA sight was developed specifically for the needs of Venezuela to withstand the country's humid climate, high temperature, and tropical weather conditions.
+  
+^orange;+10% Weapon Proficiency.^reset;
+  
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_pkaa_sight.augment	shortdescription	PK-AA Sight		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_pkas_sight.augment	description	"The PK-AS is an advanced reflex sight manufactured by BelOMO (Belarusian Optical & Mechanical Association). It is a unique advanced scope as it is powered, but if the battery dies, the red dot becomes a black dot, allowing the wielder to still know where they are aiming if their sight loses power. It is used quite frequently by the Russian army. 
+^orange;+10% Weapon Proficiency.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_pkas_sight.augment	shortdescription	PK-AS Sight		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_pu_scope.augment	description	"The PU Scope (Pritsel Ukorochennyy ''Scope short-cut'') is a simple 3.5× power (that can be increased to 6.5× power through the use of an aftermarket objective lens which this one sadly does not have) magnified sniper scope that was originally introduced on Earth in 1940 with the SVT-40 rifle.
+^orange;+25% Weapon Proficiency after 0.5s of not running, firing, or being shot.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_pu_scope.augment	shortdescription	PU Scope		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_sig_romeo5xdr_sight.augment	description	"''The SIG Sauer ROMEO 5 XDR compact red dot sights provide civilians and armed professionals a robust 1x aiming solution for any situation. Ultra-low parallax so point-of-aim is point-of-impact and the red dot remains parallel to the bore of your firearm, no matter what your viewing angle is relative to the optical axis of the sight.'' - SIG Sauer Online Shopping Catalogue 
+^orange;+10% Weapon Proficiency.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_sig_romeo5xdr_sight.augment	shortdescription	SIG Sauer ROMEO 5 XDR Predator Sight		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_sig_romeo8t_sight.augment	description	"''Customers appreciate the clear sight picture, simple zeroing process, and diverse reticle choices, including a useful circle-dot configuration. The large viewing window allows for easy use from either side, and it performs well with night vision devices. Users highlight the robust build quality and long battery life, though some wish for a quick-detach mount.'' - Old Earth marketing brochure.
+^orange;+10% Weapon Proficiency.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_sig_romeo8t_sight.augment	shortdescription	SIG Sauer ROMEO 8T Sight		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_sig_tango6t_scope.augment	description	"''Selected by the U.S. Army for both the Squad Designated Marksman Rifle System and for U.S. Special Forces, the TANGO6T is available in the commercial market. Designed for today's common MSR/AR and bolt action platforms, this scope is the ideal solution for CQB / mid-range tactical engagements.'' - SIG Sauer Online Shopping Catalogue
+^orange;+25% Weapon Proficiency after 0.5s of not running, firing, or being shot.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_sig_tango6t_scope.augment	shortdescription	SIG Sauer TANGO6T Scope		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_srs_sight.augment	description	"''The Trijicon SRS Sealed Reflex Sight is compact and takes up less rail space while maintaining durability and performance. The large 38mm aperture allows for a wide field of view and rapid target engagement. The Trijicon SRS Sealed Reflex Sight features a 1.75 MOA dot for precision and includes 10 brightness settings. The SRS is powered by a solar cell and a single AA battery.'' - Trijicon Online Shopping Catalogue
+^orange;+10% Weapon Proficiency.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_srs_sight.augment	shortdescription	SRS-02 Reflex Sight		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_vortex_razor_hd_scope.augment	description	"''Razor HD Gen II-E delivers enhanced performance in a lightweight, streamlined package for MIL/LE professionals and competitive shooters. Top-tier precision. Faster handling. Designed for those who demand superior optical clarity and mobility in high-speed, high-pressure engagements.'' - Vortex Online Shopping Catalogue
+^orange;+25% Weapon Proficiency after 0.5s of not running, firing, or being shot.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_vortex_razor_hd_scope.augment	shortdescription	Vortex Razor HD Scope		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_vortex_uh1_sight.augment	description	"''An unbeatable combination of speed, accuracy, and durability, the AMG UH-1 Gen II is trusted by MIL/LE professionals and advanced competitors. Combat-tested. Night-vision compatible. Engineered for endurance, with a precision-marked holographic reticle to amplify accuracy.'' - Vortex Online Shopping Catalogue
+  
+^orange;+10% Weapon Proficiency.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_vortex_uh1_sight.augment	shortdescription	Vortex AMG UH-1 Holo Sight		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_vudu_scope.augment	description	"''EOTech's FFP Vudu scopes give shooters complete precision across magnification ranges. The scaling reticle ensures reliable ballistic data, while superior glass, construction, and tactical versatility make them a trusted choice for precision and professional use.'' - Old Earth marketing brochure.
+  
+^orange;+25% Weapon Proficiency after 0.5s of not running, firing, or being shot.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"		
+/ITEMS/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/giclfw_vudu_scope.augment	shortdescription	Vudu Scope		
+/ITEMS/MECH_PARTS/giclfw_dcafgl40_mech.item	description	Built and developed by Dynami-Core Shipbuilders, the Dynami-Core AFGL-40 is a ^yellow;40mm fully Automatic Flare Grenade Launcher ^white;designed to be used on a standard Mech Hardpoint. The AFGL-40 is a utility mech tool marketed toward the civilian mech pilot market designed to ^yellow;provide illumination in low light conditions by firing 40mm flares^white;. This mech ''weapon'' was never intended to be used as an actual weapon, but despite what its intended peaceful uses are, a 40mm projectile will inevitably ^orange;deal some damage^white; to whatever it hits regardless of what its original purpose was.	다이나미코어 조선소에서 제작 및 개발한 다이나미코어 AFGL-40은, 표준 메크 하드포인트에 장착하도록 설계된 ^yellow;40mm 완전자동 조명탄 유탄 발사기^white;입니다. AFGL-40은 민간 메크 조종사 시장을 겨냥한 유틸리티 메크 도구로, ^yellow;40mm 조명탄을 발사해 저조도 환경에서 조명을 제공^white;하도록 설계되었습니다. 이 메크 '무기'는 실제 무기로 사용될 의도가 전혀 없었지만, 그 평화적 용도와는 무관하게 40mm 발사체는 명중하는 무엇에든 원래 목적과 상관없이 ^orange;어느 정도의 피해^white;를 불가피하게 입힙니다.	reuse
+/ITEMS/MECH_PARTS/giclfw_dcafgl40_mech.item	shortdescription	^orange;Dynami-Core AFGL-40	^orange;다이나미-코어 AFGL-40	reuse
+/ITEMS/MECH_PARTS/giclfw_dcagl40_mech.item	description	Built and developed by Dynami-Core Shipbuilders, the Dynami-Core AGL-40 is a ^yellow;40mm fully Automatic Grenade Launcher ^white;designed to be used on a standard Mech Hardpoint. The AGL-40 excels in an ^yellow;anti-infantry and light-skinned vehicle destroyer role^white;, though it may struggle against aircraft and more heavily armored vehicles such as tanks, IFVs, APCs, SPAAs, SPGs, and even against more heavily armored mechs.		
+/ITEMS/MECH_PARTS/giclfw_dcagl40_mech.item	shortdescription	^orange;Dynami-Core AGL-40	^orange;다이나미-코어 AGL-40	reuse
+/ITEMS/MECH_PARTS/giclfw_quadmachineguns_mech.item	description	"The Quad Machine Gun Mech Weapon simply consists of ^orange;four small-caliber solenoid-powered ballistic machineguns that rapidly fire kinetic projectiles.^white; The continous hail of projectiles these guns fire are relatively easy to keep on-target and serve well as a general ^orange;anti-infantry and as a makeshift anti aircraft^white; weapon.
+
+^orange;Miss Chance:^white; 50% per shot.
+Miss chance is the chance for a shot to effectively become harmless, yielding only suppressive effects on ground targets."		
+/ITEMS/MECH_PARTS/giclfw_quadmachineguns_mech.item	shortdescription	^orange;Quad Machine Gun	^orange;쿼드 기관총	reuse
+/ITEMS/MECH_PARTS/giclfw_sm180_wp_mech.item	description	"''Geneva Convention? More like ^red;Geneva Suggestion^reset;.''
+This variant of the Vympel 180mm Cannon fires a ^orange;180mm HE-VT White Phosphorus Shell ^reset;capable of dealing immense direct damage and spraying the surrounding area in a ^orange;field of intense shrapnel and ^red;White Phosphorus ^orange;that burns all organic matter in the surrounding area into the ground turning them to nothing but ash and dust.^reset;
+^red;This weapon was not designed to be used on a mech and every shot causes the mech to tear itself apart from the excessive kinetic force of the gun firing. ^yellow;Make each and every shot count."		
+/ITEMS/MECH_PARTS/giclfw_sm180_wp_mech.item	shortdescription	^orange;SM-180WP Mod.0 Vympel Sacred Fire	^orange;SM-180WP Mod.0 빔펠 신성한 불	reuse
+/ITEMS/MECH_PARTS/giclfw_zu_23_2_mech.item	description	Originally a towed dual 23mm Anti-Aircraft autocannon from an Nation that was once known as the Union of Soviet Socialist Republics, this weapon has been modified to be crudely attached to a mech hardpoint. With a combined rate of fire of 2000 rounds per minute of ^orange;23mm HE-VT-Fuse shells ^white;that are capable of shredding any air targets and turning them into scrap metal. Despite its rather primitive nature, the towed version of this weapon is still used all over the Galaxy to this day as a budget AAA solution when more advanced AA systems are unavailable.	한때 소비에트 사회주의 공화국 연방으로 알려졌던 국가의 견인식 이중 23mm 대공 자동포였던 이 무기는, 메카 하드포인트에 조잡하게 부착되도록 개조되었다. 분당 2000발의 합산 발사 속도로 ^orange;23mm HE-VT 신관 포탄^white;을 퍼부어 어떤 공중 표적이든 고철로 만들어버릴 수 있다. 다소 원시적인 특성에도 불구하고, 이 무기의 견인식 버전은 더 발전된 대공 체계를 구할 수 없을 때 저렴한 대공 대안으로 오늘날까지도 은하 전역에서 사용되고 있다.	reuse
+/ITEMS/MECH_PARTS/giclfw_zu_23_2_sergey_mech.item	description	This variant of the ZU-23-2 is equipped with ^orange;standard 23mm High Explosive shells that detonates on impact^reset; for use in a ^yellow;ground support role^reset;. As it happens to turn out, a 23mm anti-aircraft autocannon isn't just only good for shooting down aircraft; it is also really good at turning enemy infantry into ^red;red mist^reset; and absolutely shredding all but the most ^yellow;heavily armored^reset; vehicles into scrap metal. It is pretty common practice for underfunded organizations to haphazardly bolt the ZU-23-2 onto some vehicles in order to create a makeshift SPAA or some sort of pseudo IFV.	이 ZU-23-2 변형은 ^yellow;지상 지원 역할^reset;용 ^orange;표준 23mm 충격 폭발식 고폭탄^reset;을 장착했다. 결국 23mm 대공 기관포는 항공기를 격추하는 것만 잘하는 게 아니었다; 적 보병을 ^red;붉은 안개^reset;로 바꾸고 ^yellow;중장갑^reset;이 아닌 한 모든 차량을 고철로 찢어버리는 데도 아주 좋다. 자금 부족 조직이 ZU-23-2를 차량에 대충 볼트로 고정해 즉석 SPAA나 유사 IFV를 만드는 건 꽤 흔한 관행이다.	reuse
+/ITEMS/MECH_PARTS/giclfw_zu_23_2_sergey_mech.item	shortdescription	^orange;ZU-23-2 Sergey	^orange;ZU-23-2 세르게이	reuse
+/ITEMS/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_beta_c_drum_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_beta_c_drum_mag_unpackbundle.activeitem	shortdescription	Unload AR SMG 9x19mm 100 Round Beta C Drum Mag	AR SMG 9x19mm 100발 베타 C 드럼 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_drum_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_drum_mag_unpackbundle.activeitem	shortdescription	Unload AR SMG 9x19mm 50 Round Drum Mag	AR SMG 9x19mm 50발 드럼 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_hollowpoint_beta_c_drum_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_hollowpoint_beta_c_drum_mag_unpackbundle.activeitem	shortdescription	Unload AR SMG Hollow Point 9x19mm 100 Round Beta C Drum Mag	AR SMG 할로 포인트 9x19mm 100발 베타 C 드럼 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_hollowpoint_drum_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_hollowpoint_drum_mag_unpackbundle.activeitem	shortdescription	Unload AR SMG Hollow Point 9x19mm 50 Round Drum Mag	AR SMG 할로 포인트 9x19mm 50발 드럼 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_hollowpoint_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_hollowpoint_mag_unpackbundle.activeitem	shortdescription	Unload AR SMG Hollow Point 9x19mm Mag	AR SMG 할로 포인트 9x19mm 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/gicflw_arsmg_9x19mm_mag_unpackbundle.activeitem	shortdescription	Unload AR SMG 9x19mm Mag	AR SMG 9x19mm 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_barrettm82_1270x108mm_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_barrettm82_1270x108mm_mag_unpackbundle.activeitem	shortdescription	Unload Barrett M82 12.7x108mm Mag	바렛 M82 12.7x108mm 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_cz75_9x19mm_hollowpoint_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_cz75_9x19mm_hollowpoint_mag_unpackbundle.activeitem	shortdescription	Unload CZ 75 Hollow Point 9x19mm Mag	CZ 75 할로 포인트 9x19mm 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_cz75_9x19mm_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_cz75_9x19mm_mag_unpackbundle.activeitem	shortdescription	Unload CZ 75 9x19mm Mag	CZ 75 9x19mm 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_m60e4_762x51mm_box_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_m60e4_762x51mm_box_mag_unpackbundle.activeitem	shortdescription	Unload M60E4 100 Round 7.62x51mm Box Mag	M60E4 100발 7.62x51mm 상자형 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_m60e4_762x51mm_heavy_box_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_m60e4_762x51mm_heavy_box_mag_unpackbundle.activeitem	shortdescription	Unload M60E4 200 Round 7.62x51mm Heavy Box Mag	M60E4 200발 7.62x51mm 중형 상자형 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_m60e4_762x51mm_rambo_belt_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_m60e4_762x51mm_rambo_belt_mag_unpackbundle.activeitem	shortdescription	Unload M60E4 1000 Round 7.62x51mm Rambo Belt	M60E4 1000발 7.62x51mm 람보 벨트 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mm_flechette_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mm_flechette_mag_unpackbundle.activeitem	shortdescription	Unload 10 Round Mossberg 590M Magazine [Flechette]	모스버그 590M 10발 탄창 비우기 [플레셰트]	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mm_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mm_mag_unpackbundle.activeitem	shortdescription	Unload 10 Round Mossberg 590M Magazine [Buck]	모스버그 590M 10발 탄창 비우기 [벅샷]	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mm_slug_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mm_slug_mag_unpackbundle.activeitem	shortdescription	Unload 10 Round Mossberg 590M Magazine [Slug]	모스버그 590M 10발 탄창 비우기 [슬러그]	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_beanbag_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_beanbag_mag_unpackbundle.activeitem	shortdescription	Unload 10 Round Mossberg 590M Magazine [Beanbag]	모스버그 590M 10발 탄창 비우기 [빈백]	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_highexplosive_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_highexplosive_mag_unpackbundle.activeitem	shortdescription	Unload 10 Round Mossberg 590M Magazine [Explosive]	모스버그 590M 10발 탄창 비우기 [폭발탄]	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_pennyshot_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_pennyshot_mag_unpackbundle.activeitem	shortdescription	Unload 10 Round Mossberg 590M Magazine [Penny Shot]	모스버그 590M 10발 탄창 비우기 [페니샷]	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_slug_whitephosphorus_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_slug_whitephosphorus_mag_unpackbundle.activeitem	shortdescription	Unload 10 Round Mossberg 590M Magazine [White Phosphorus]	모스버그 590M 10발 탄창 비우기 [백린탄]	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_starshell_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_mossberg590m_1850x70mmgic_1850x70mm_starshell_mag_unpackbundle.activeitem	shortdescription	Unload 10 Round Mossberg 590M Magazine [Starshell]	모스버그 590M 10발 탄창 비우기 [스타셸]	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon201_9x19mm_hollowpoint_mag_extended_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon201_9x19mm_hollowpoint_mag_extended_unpackbundle.activeitem	shortdescription	Unload PP-19 Bizon-2-01 80 Round Hollow Point Extended Mag	PP-19 비존-2-01 80발 할로 포인트 확장 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon201_9x19mm_hollowpoint_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon201_9x19mm_hollowpoint_mag_unpackbundle.activeitem	shortdescription	Unload PP-19 Bizon-2-01 53 Round Hollow Point 9x19mm Mag	PP-19 비존-2-01 53발 할로 포인트 9x19mm 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon201_9x19mm_mag_extended_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon201_9x19mm_mag_extended_unpackbundle.activeitem	shortdescription	Unload PP-19 Bizon-2-01 80 Round 9x19mm Extended Mag	PP-19 비존-2-01 80발 9x19mm 확장 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon201_9x19mm_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon201_9x19mm_mag_unpackbundle.activeitem	shortdescription	Unload PP-19 Bizon-2-01 53 Round 9x19mm Mag	PP-19 비존-2-01 53발 9x19mm 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon_9x18mm_hollowpoint_mag_extended_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon_9x18mm_hollowpoint_mag_extended_unpackbundle.activeitem	shortdescription	Unload PP-19 Bizon 64 Round Hollow Point 9x18mm Extended Mag	PP-19 비존 64발 홀로포인트 9x18mm 확장 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon_9x18mm_hollowpoint_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon_9x18mm_hollowpoint_mag_unpackbundle.activeitem	shortdescription	Unload PP-19 Bizon 64 Round Hollow Point 9x18mm Extended Mag	PP-19 비존 64발 홀로포인트 9x18mm 확장 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon_9x18mm_mag_extended_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon_9x18mm_mag_extended_unpackbundle.activeitem	shortdescription	Unload PP-19 Bizon 96 Round 9x18mm Extended Mag	PP-19 비존 96발 9x18mm 확장 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon_9x18mm_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_pp19bizon_9x18mm_mag_unpackbundle.activeitem	shortdescription	Unload PP-19 Bizon 64 Round 9x18mm Mag	PP-19 비존 64발 9x18mm 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_remingtonm24a2sws_762x51mm_mag_unpackbundle.activeitem	description	^#orange;Use to return/salvage the bullet and scrap cost of a magazine.	^#orange;탄창의 탄환과 고철 비용 반환/회수에 사용.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_remingtonm24a2sws_762x51mm_mag_unpackbundle.activeitem	shortdescription	Unload Remington M24A2 SWS 7.62x51mm Mag	레밍턴 M24A2 SWS 7.62x51mm 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_sn7p_762x25mm_hollowpoint_mag_extended_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_sn7p_762x25mm_hollowpoint_mag_extended_unpackbundle.activeitem	shortdescription	Unload SN7P 96 Round Hollow Point 7.62x25mm Extended Mag	SN7P 96발 할로 포인트 7.62x25mm 확장 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_sn7p_762x25mm_hollowpoint_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_sn7p_762x25mm_hollowpoint_mag_unpackbundle.activeitem	shortdescription	Unload SN7P 64 Round Hollow Point 7.62x25mm Mag	SN7P 64발 할로 포인트 7.62x25mm 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_sn7p_762x25mm_mag_extended_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_sn7p_762x25mm_mag_extended_unpackbundle.activeitem	shortdescription	Unload SN7P 96 Round 7.62x25mm Extended Mag	SN7P 96발 7.62x25mm 확장 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_sn7p_762x25mm_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_sn7p_762x25mm_mag_unpackbundle.activeitem	shortdescription	Unload SN7P 64 Round 7.62x25mm Mag	SN7P 64발 7.62x25mm 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_svt40_mag_ap_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_svt40_mag_ap_unpackbundle.activeitem	shortdescription	Unload SVT-40 7.62x54mm AP Mag	SVT-40 7.62x54mm AP 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_svt40_mag_ext_ap_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_svt40_mag_ext_ap_unpackbundle.activeitem	shortdescription	Unload SVT-40 7.62x54mm AP Extended Mag	SVT-40 7.62x54mm AP 확장 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_svt40_mag_ext_het_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_svt40_mag_ext_het_unpackbundle.activeitem	shortdescription	Unload SVT-40 7.62x54mm HE-T Extended Mag	SVT-40 7.62x54mm HE-T 확장 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_svt40_mag_ext_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_svt40_mag_ext_unpackbundle.activeitem	shortdescription	Unload SVT-40 Extended Mag	SVT-40 확장 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_svt40_mag_het_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_svt40_mag_het_unpackbundle.activeitem	shortdescription	Unload SVT-40 7x62x54mm HE-T Mag	SVT-40 7x62x54mm HE-T 탄창 비우기	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_svt40_mag_unpackbundle.activeitem	description	^orange;Use to return/salvage the bullet and scrap cost of a magazine.	^orange;사용하면 탄창에 쓰인 탄약과 스크랩을 돌려받습니다.	reuse
+/ITEMS/UNPACK_BUNDLE/giclfw_svt40_mag_unpackbundle.activeitem	shortdescription	Unload SVT-40 Mag	SVT-40 탄창 비우기	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_aek971/giclfw_aek971.activeitem	description	"This weapon employs a specialized recoil canceling counterweight system to maximize fully automatic fire with almost no felt recoil. Manufatured in limited numbers because of its expenisve price tag, it is currently in use by certian select special forces units due to its high rate of fire, versatility, and full auto accuracy. Accepts AK 5.45x39mm Magazines.
+^orange;Double-Tap [SHIFT] to fold the stock to increase mobility and speed at a cost to ergonomics and handling.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_aek971/giclfw_aek971_folded_stock.activeitem	description	"This weapon employs a specialized recoil canceling counterweight system to maximize fully automatic fire with almost no felt recoil. Manufatured in limited numbers because of its expenisve price tag, it is currently in use by certian select special forces units due to its high rate of fire, versatility, and full auto accuracy. Accepts AK 5.45x39mm Magazines.
+^orange;Double-Tap [SHIFT] to deploy the stock to increase ergonomics and handling at a cost to mobility and speed.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_aek971/giclfw_aek971_folded_stock.activeitem	shortdescription	AEK-971 (Folded Stock)	AEK-971 (접이식 개머리판)	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_aek973/giclfw_aek973.activeitem	description	"''Shit, the Ministry of Internal Affairs mobilized Spetsnaz Units.''
+The 7.62x39mm variant of the AEK-971. Due to its expensive price tag and higher maintenance cost, other AK variants are prefered over this weapon even with its superior full auto accuracy and its blistering high rate of fire of 900 rounds per minute.
+Accepts AK 7.62x39mm Magazines.
+^orange;Double-Tap [SHIFT] to fold the stock to increase mobility and speed at a cost to ergonomics and handling.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_aek973/giclfw_aek973_folded_stock.activeitem	description	"''THEY SENT IN THE FUCKING SPETSNAZ, SHOOT!''
+The 7.62x39mm variant of the AEK-971. Due to its expensive price tag and higher maintenance cost, other AK variants are prefered over this weapon even with its superior full auto accuracy and its blistering high rate of fire of 900 rounds per minute.
+Accepts AK 7.62x39mm Magazines.
+^orange;Double-Tap [SHIFT] to deploy the stock to increase ergonomics and handling at a cost to mobility and speed.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_aek973/giclfw_aek973_folded_stock.activeitem	shortdescription	AEK-973 (Folded Sotck)	AEK-973 (접이식 개머리판)	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_ak5c/giclfw_ak5c.activeitem	description	"A carbine rifle that withstood the test of time for countless years for it was once the standard issue rifle of a nation called Sweden. Originally a variant the FN FNC, it has been adapted to be used in harsh wintery conditions, the ruggedness of this weapon makes it an ideal choice for any armed forces operating in cold climates. Accepts STANAG NATO 5.56x45mm magazines.
+^orange;Double-Tap [SHIFT] to fold the stock to increase mobility and speed at a cost to ergonomics and handling.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_ak5c/giclfw_ak5c_folded_stock.activeitem	description	"A carbine rifle that withstood the test of time for countless years for it was once the standard issue rifle of a nation called Sweden. Originally a variant the FN FNC, it has been adapted to be used in harsh wintery conditions, the ruggedness of this weapon makes it an ideal choice for any armed forces operating in cold climates. Accepts STANAG NATO 5.56x45mm magazines.
+^orange;Double-Tap [SHIFT] to deploy the stock to increase ergonomics and handling at a cost to mobility and speed.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_ak5c/giclfw_ak5c_folded_stock.activeitem	shortdescription	Ak 5C (Folded Stock)	Ak 5C (접이식 개머리판)	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_g36c/giclfw_g36c.activeitem	description	"The carbine variant of a long time standard issue assault rifle of the German Bundeswehr that is still being used by many colonial troops and law enforcement officers *right now*. It was created as a replacement for the older G3, intended to bring the German Bundeswehr into the modern age. While successful and praised for its revolutionary design and use of lightweight polymer materials, it faced issues with reliability and overheating during sustained firefights. Accepts STANAG NATO 5.56x45mm magazines.
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_g36c/giclfw_g36c.activeitem	shortdescription	Kurtz Gewehr 36C	쿠르츠 게베어 36C	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_giatfamasg2/giclfw_giatfamasg2.activeitem	description	"''Ugh... Argh... French...''
+Known for its absurdly high cyclic rate of fire of 1100 rounds per minute, this bullpup assault rifle has its origins traced back to the late 20th century as the standard issue service rifle of a nation called France. This rifle has has remained in use all over the Galaxy by many governments, militaries, and law enforcment agencies alike even to this day.
+Accepts STANAG NATO (including 20rnd) 5.56x45mm magazines.
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_giatfamasg2/giclfw_giatfamasg2.activeitem	shortdescription	GIAT FAMAS G2		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_iwigalilarm/giclfw_iwigalilarm.activeitem	description	"''Our existence is an affront to them. Stop them at all costs.''
+Based on the AK platform, the IWI Galil ARM was once the standard issue rifle of many nations everywhere originating from an nation called Israel. Renowned for its ruggedness and reliability as with any other AK derivative weapons, it still sees widespread use all over the Galaxy to this day as a budget 5.56x45mm caliber weapon. Accepts STANAG NATO 5.56x45mm magazines.
+^orange;Double-Tap [SHIFT] to fold the stock to increase mobility and speed at a cost to ergonomics and handling.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_iwigalilarm/giclfw_iwigalilarm.activeitem	shortdescription	IWI Galil ARM	IWI 갈릴 ARM	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_iwigalilarm/giclfw_iwigalilarm_folded_stock.activeitem	description	"''We may have fended them off for now, but this isn't over yet.''
+Based on the AK platform, the IWI Galil ARM was once the standard issue rifle of many nations everywhere originating from an nation called Israel. Renowned for its ruggedness and reliability as with any other AK derivative weapons, it still sees widespread use all over the Galaxy to this day as a budget 5.56x45mm caliber weapon. Accepts STANAG NATO 5.56x45mm magazines.
+^orange;Double-Tap [SHIFT] to deploy the stock to increase ergonomics and handling at a cost to mobility and speed.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_iwigalilarm/giclfw_iwigalilarm_folded_stock.activeitem	shortdescription	IWI Galil ARM (Folded Stock)	IWI 갈릴 ARM (접이식 개머리판)	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_iwigalilsar/giclfw_iwigalilsar.activeitem	description	"A more ''modernized,'' ''Short Automatic Rifle'' variant of the Galil ARM, the Galil SAR is typically issued to vehicle crews, army staff, and specialty troops. Extremely reliable, as with any other AK derivative weapon, it still sees widespread use along side the Galil ARM all over the Galaxy to this day as a budget 5.56x45mm caliber weapon. Accepts STANAG NATO 5.56x45mm magazines.
+^orange;Double-Tap [SHIFT] to fold the stock to increase mobility and speed at a cost to ergonomics and handling.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_iwigalilsar/giclfw_iwigalilsar.activeitem	shortdescription	IWI Galil SAR	IWI 갈릴 SAR	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_iwigalilsar/giclfw_iwigalilsar_folded_stock.activeitem	description	"A more ''modernized,'' ''Short Automatic Rifle'' variant of the Galil ARM, the Galil SAR is typically issued to vehicle crews, army staff, and specialty troops. Extremely reliable, as with any other AK derivative weapon, it still sees widespread use along side the Galil ARM all over the Galaxy to this day as a budget 5.56x45mm caliber weapon. Accepts STANAG NATO 5.56x45mm magazines.
+^orange;Double-Tap [SHIFT] to deploy the stock to increase ergonomics and handling at a cost to mobility and speed.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_iwigalilsar/giclfw_iwigalilsar_folded_stock.activeitem	shortdescription	IWI Galil SAR (Folded Stock)	IWI 갈릴 SAR (접이식 개머리판)	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_iwitavorx95/giclfw_iwitavorx95.activeitem	description	"''This is Element to TOC, Suspect is down, requesting TEMS.''
+The IWI Tavor X95 is an Israeli compact, lightweight bullpup carbine rifle that was created from the need to replace its aging inventory of legacy Galil rifles and to create a new rifle that can be used more effectively in confined spaces by mechanized infantry dismounting from cramped vehicles and in close-quarters combat in tight spaces when compared to larger full sized rifles. Accepts STANAG NATO 5.56x45mm magazines.
+^green;Hold ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_iwitavorx95/giclfw_iwitavorx95.activeitem	shortdescription	IWI Tavor X95	IWI 타보르 X95	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_iwitavorx95/giclfw_iwitavorx95r.activeitem	description	"''Suspect is armed and dangerous, moving in to engage.''
+The IWI Tavor X95-R is a variant of the Israeli IWI Tavor X95, chambered for the Soviet, then Russian 5.45x39mm intermediate rifle cartridge instead of the standard 5.56x45mm cartridge. It is intended for the export market or for use when capturing enemy ammunition stockpiles that commonly use weapons of Soviet or Russian origin when standard NATO calibers aren't available. Accepts AK 5.45x39mm magazines.
+^green;Hold ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_iwitavorx95/giclfw_iwitavorx95r.activeitem	shortdescription	IWI Tavor X95-R	IWI 타보르 X95-R	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_m4a3/giclfw_m4a3.activeitem	description	"''As they always say: If it ain't broke, DON'T FIX IT.''
+A World War & Colonial classic. The standard issue carbine rifle of the United States military that is effectively just a shortened, lighter M16. Introduced into service since 1994, it has since seen extensive service over the course of a millennia, from the fields of Europe during the Third World War, to the American space colonies, and everything after & inbetween. It remains both reliable, and affordable. Uses STANAG NATO 5.56x45mm magazines.
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_mk18cqbr/giclfw_mk18cqbr.activeitem	description	"''Man, what kind of fucked up shit show have we gotten ourselves into this time? Nevermind, let's just get it over with.''
+The Mk 18 Close Quarter Battle Receiver (CQBR) is a shortened M4 carbine, designed to be more effective in confined, close-quarters environments such as the inside of houses, apartment complexes, or other facilities with small and tight sightlines, whereas an SMG would not provide sufficient firepower. Uses STANAG NATO 5.56x45mm magazines.
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_norincotype97/giclfw_norincotype97.activeitem	description	"''Worry not, for we will take back what is rightfully ours.''
+The QBZ Type-97 is an bullpup assault rifle chambered for the 5.56x45mm caliber. It is orginally based off the People's Rebublic of China's standard issue service rifle: the QBZ/Type-95 rifle. According to ancient documents, the QBZ/Type-97 is an export variant of the of the QBZ/Type-95 rifle chambered for the 5.56x45mm cartridge over the domestic 5.8x42mm cartridge.
+Accepts STANAG NATO 5.56x45mm magazines.
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_norincotype97/giclfw_norincotype97.activeitem	shortdescription	Norinco QBZ/Type-97	노린코 QBZ/타입-97	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_remingtonacr/giclfw_remingtonacr.activeitem	description	"The Remington Adaptive Combat Rifle (ACR) is a modular assault rifle designed to replace the aging M4 rifles of the United States Army in the Individual Carbine competition. While the competition was eventually canceled due to complications, the Remington ACR did pave the way for new design philosophy for similar weapons in the future. Uses STANAG NATO 5.56x45mm magazines.
+^orange;Double-Tap [SHIFT] to fold the stock to increase mobility and speed at a cost to ergonomics and handling.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_remingtonacr/giclfw_remingtonacr.activeitem	shortdescription	Remington ACR	레밍턴 ACR	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_remingtonacr/giclfw_remingtonacr_folded_stock.activeitem	description	"The Remington Adaptive Combat Rifle (ACR) is a modular assault rifle designed to replace the aging M4 rifles of the United States Army in the Individual Carbine competition. While the competition was eventually canceled due to complications, the Remington ACR did pave the way for new design philosophy for similar weapons in the future. Uses STANAG NATO 5.56x45mm magazines.
+^orange;Double-Tap [SHIFT] to deploy the stock to increase ergonomics and handling at a cost to mobility and speed.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_remingtonacr/giclfw_remingtonacr_folded_stock.activeitem	shortdescription	Remington ACR (Folded Stock)	레밍턴 ACR (접이식 개머리판)	reuse
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_steyrauga3/giclfw_steyrauga3.activeitem	description	"The Styer Armee Universal Gewehr (AUG) is considered by most to be the ''best bullpup rifle ever made'' due to its accuracy, reliability, and ruggedness when compared to other contemporary bullpup rifles of its type. First adopted by Austria under the Sturmgewehr 77 (StG 77) designation in 1977, the Styer AUG still sees use by countless different nations and colonial militaries all across the Galaxy even to this very day. 
+Accepts STANAG NATO 5.56x45mm magazines.
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_steyrauga3/giclfw_steyrauga3.activeitem	shortdescription	Steyr AUG A3	슈타이어 AUG A3	reuse
+/ITEMS/WEAPONS/RANGED/BATTLE_RIFLE/giclfw_svt40/giclfw_svt40.activeitem	description	"''REMEMBER WHAT THEY DID TO STALINGRAD, GIVE THEM NO QUARTER.''
+A semi-automatic rifle of antiquated design that was chambered for the hefty 7.62x54mm cartridge. This rifle was initially meant to replace the older bolt action M1891 Mosin Nagant rifles as a semi-automatic infantry and sniper rifle. However, it came up short due to complexity, cost, and the fact that it suffered from issues regarding first-shot accuracy, making it ill-suited for its supposed sniper role.
+Accepts 7.62x54mm SVT-40 Magazines."		
+/ITEMS/WEAPONS/RANGED/LIGHT_MACHINEGUN/giclfw_m60e4/giclfw_m60e4.activeitem	description	"''GOOD MORNING VIETNAM''
+Chambered in the hefty 7.62x51mm round, this legendary general-purpose machine gun has withstood the test of time since its initial introduction in 1957. From the jungles of Vietnam to the otherworldly jungles and forests of countless alien planets. This weapon and its variants still sees widespread use all over the Galaxy to this day. Supports the 100rnd and 200rnd Box designed specifically for the M60E4 and can also accept MG3 magazines.
+^orange;Gun gains Weapon Proficiency the longer the trigger is held."		
+/ITEMS/WEAPONS/RANGED/PISTOL/giclfw_cz75/giclfw_cz75.activeitem	description	"The CZ 75 is a Czechoslovakian semi-automatic pistol that was first introduced in 1975, it is one of the original ''wonder nines'' and features a staggered-column magazine, all-steel construction, and a hammer forged barrel. It still sees use to this day all across the Galaxy by various Military, Law Enforcement, and Government entities. It's also popular as a self-defense weapon on the civilian market. Accepts 17 round 9x19mm CZ 75 Magazines.
+
+^green;Double tap Shift to switch to a versatile one-handed grip.^reset;"		
+/ITEMS/WEAPONS/RANGED/PISTOL/giclfw_cz75/giclfw_cz75.activeitem	shortdescription	CZ 75 (Two-Handed)	CZ 75 (양손)	reuse
+/ITEMS/WEAPONS/RANGED/PISTOL/giclfw_cz75/giclfw_cz75_onehanded.activeitem	description	"The CZ 75 is a Czechoslovakian semi-automatic pistol that was first introduced in 1975, it is one of the original ''wonder nines'' and features a staggered-column magazine, all-steel construction, and a hammer forged barrel. It still sees use to this day all across the Galaxy by various Military, Law Enforcement, and Government entities. It's also popular as a self-defense weapon on the civilian market. Accepts 17 round 9x19mm CZ 75 Magazines.
+^green;Double tap Shift to switch to a comfortable two-handed grip.^reset;"		
+/ITEMS/WEAPONS/RANGED/PISTOL/giclfw_cz75/giclfw_cz75_onehanded.activeitem	shortdescription	CZ 75 (One-Handed)	CZ 75 (한손)	reuse
+/ITEMS/WEAPONS/RANGED/PISTOL/giclfw_cz75_auto/giclfw_cz75_auto.activeitem	description	"A selective-fire variant of the CZ 75 introduced in 1992, this variant of the CZ 75 is intended for law enforcement and military use. The CZ 75 Auto is typically issued to SWAT Units, Special Forces, Government Security Forces, Vehicle Crewmen, Special Agents and Covert Operatives. Capable of firing at a blistering 1000 rounds per minute, the CZ 75 Auto is a rather difficult weapon to control and handle, only making it effective at very close-range engagements. Accepts 17 round 9x19mm CZ 75 Magazines.
+^green;Double tap Shift to switch to a versatile one-handed grip.^reset;"		
+/ITEMS/WEAPONS/RANGED/PISTOL/giclfw_cz75_auto/giclfw_cz75_auto.activeitem	shortdescription	CZ 75 Auto (Two-Handed)	CZ 75 오토 (양손)	reuse
+/ITEMS/WEAPONS/RANGED/PISTOL/giclfw_cz75_auto/giclfw_cz75_auto_onehanded.activeitem	description	"A selective-fire variant of the CZ 75 introduced in 1992, this variant of the CZ 75 is intended for law enforcement and military use. The CZ 75 Auto is typically issued to SWAT Units, Special Forces, Government Security Forces, Vehicle Crewmen, Special Agents and Covert Operatives. Capable of firing at a blistering 1000 rounds per minute, the CZ 75 Auto is a rather difficult weapon to control and handle, only making it effective at very close-range engagements. Accepts 17 round 9x19mm CZ 75 Magazines.
+^green;Double tap Shift to switch to a comfortable two-handed grip.^reset;"		
+/ITEMS/WEAPONS/RANGED/PISTOL/giclfw_cz75_auto/giclfw_cz75_auto_onehanded.activeitem	shortdescription	CZ 75 Auto (One-Handed)	CZ 75 오토 (한손)	reuse
+/ITEMS/WEAPONS/RANGED/PISTOL/giclfw_m45/giclfw_m45.activeitem	description	"''Ol' reliable .45 Old School, it's the only thing that you'll ever need. It'll never fail you when you need it the most.''
+Extremely common ballistic pistol chambered in 11.43x23mm (.45) ammunition and accepts 7 round M1911A1 magazines. Based on the old ancient but reliable Colt Government Model 1911 (M1911) design. Infinite amounts of copies exist of this gun, which combines the most common aspects of classic handpistols with modern engineering to provide a solid personal defense weapon.
+^green;Double tap Shift to switch to a versatile one-handed grip.^reset;"		
+/ITEMS/WEAPONS/RANGED/PISTOL/giclfw_m45/giclfw_m45.activeitem	shortdescription	M45 (Two-Handed)	M45 (양손)	reuse
+/ITEMS/WEAPONS/RANGED/PISTOL/giclfw_m45/giclfw_m45_onehanded.activeitem	description	"''Ol' reliable .45 Old School, it's the only thing that you'll ever need. It'll never fail you when you need it the most.''
+Extremely common ballistic pistol chambered in 11.43x23mm (.45) ammunition and accepts 7 round M1911A1 magazines. Based on the old ancient but reliable Colt Government Model 1911 (M1911) design. Infinite amounts of copies exist of this gun, which combines the most common aspects of classic handpistols with modern engineering to provide a solid personal defense weapon.
+^green;Double tap Shift to switch to a comfortable two-handed grip.^reset;"		
+/ITEMS/WEAPONS/RANGED/PISTOL/giclfw_m45/giclfw_m45_onehanded.activeitem	shortdescription	M45 (One-Handed)	M45 (한손)	reuse
+/ITEMS/WEAPONS/RANGED/REVOLVER/giclfw_rsh9/giclfw_rsh9.activeitem	description	"''SHOW ME THE FRONT AND BACK OF YOUR HANDS!''
+A big heavy frame double-action assault revolver chambered in 9x39mm rifle cartridge. This specific model is the ''lighter'' and ''lower-caliber'' variant of the heavier RSh-12. This revolver holds five rounds of the same intermediate 9x39mm rifle round found in other rifles such as the AS ''Val'' and has been seen within the hands of law enforcement SWAT Units or specialized military forces due to its famed reliability and accuracy.
+^green;Double-Tap [SHIFT] to switch to a one-handed grip.^reset;"		
+/ITEMS/WEAPONS/RANGED/REVOLVER/giclfw_rsh9/giclfw_rsh9_onehanded.activeitem	description	"A big heavy frame double-action assault revolver chambered in 9x39mm rifle cartridge. This specific model is the ''lighter'' and ''lower-caliber'' variant of the heavier RSh-12. This revolver holds five rounds of the same intermediate 9x39mm rifle round found in other rifles such as the AS ''Val'' and has been seen within the hands of law enforcement SWAT Units or specialized military forces due to its famed reliability and accuracy.
+^orange;Reloads slower than usual.^reset;
+^green;Double-Tap [SHIFT] to switch to a two-handed grip.^reset;"		
+/ITEMS/WEAPONS/RANGED/REVOLVER/giclfw_rsh9/giclfw_rsh9_onehanded.activeitem	shortdescription	RSh-9 (One-Handed)	RSh-9 (한손)	reuse
+/ITEMS/WEAPONS/RANGED/REVOLVER/giclfw_smithwessonmpr8/giclfw_smithwessonmpr8.activeitem	description	"At first glance, the S&W M&P R8 is a relatively unassuming and unremarkable revolver that is chambered for the 9x33mm (.357) round, and isn't really anything special. However, it does have one key defining feature that sets it apart from other contemporary revolvers of its class; it has a capacity of eight rounds in its cylinder. Marketed as a ''high capacity'' revolver that allows one to be more liberal with their shot placements than if you were to use a standard six or five shooter.
+^green;Double-Tap [SHIFT] to switch to a one-handed grip.^reset;"		
+/ITEMS/WEAPONS/RANGED/REVOLVER/giclfw_smithwessonmpr8/giclfw_smithwessonmpr8.activeitem	shortdescription	Smith & Wesson M&P R8	스미스 & 웨슨 M&P R8	reuse
+/ITEMS/WEAPONS/RANGED/REVOLVER/giclfw_smithwessonmpr8/giclfw_smithwessonmpr8_onehanded.activeitem	description	"At first glance, the S&W M&P R8 is a relatively unassuming and unremarkable revolver that is chambered for the 9x33mm (.357) round, and isn't really anything special. However, it does have one key defining feature that sets it apart from other contemporary revolvers of its class; it has a capacity of eight rounds in its cylinder. Marketed as a ''high capacity'' revolver that allows one to be more liberal with their shot placements than if you were to use a standard six or five shooter. ^orange;Reloads slower than usual.^reset;
+^green;Double-Tap [SHIFT] to switch to a two-handed grip.^reset;"		
+/ITEMS/WEAPONS/RANGED/REVOLVER/giclfw_smithwessonmpr8/giclfw_smithwessonmpr8_onehanded.activeitem	shortdescription	Smith & Wesson M&P R8 (1H)	스미스 & 웨슨 M&P R8 (1H)	reuse
+/ITEMS/WEAPONS/RANGED/ROCKET_LAUNCHER/giclfw_9k38igla/giclfw_9k38igla.activeitem	description	"''It's a magical pony flying through the sky on a magical journey t- FUCKING SHOOT IT DOWN CYKA BLYAT.''
+The 9K3 Igla is the main primary Man Portable Air Defense System (MANPADS) fielded by the United Systems. This weapon and its variants has scored countless kills throughout history as a reliable and cheap means to take out enemy air assets. While capable of being mounted on vehicles and used in the Void, it is mainly intended to be used in atmospheric conditions by infantry on the ground. ^orange;Reloads using 9K38 Igla Missiles."		
+/ITEMS/WEAPONS/RANGED/ROCKET_LAUNCHER/giclfw_9k38igla/giclfw_9k38igla.activeitem	shortdescription	9K38 Igla	9K38 이글라	reuse
+/ITEMS/WEAPONS/RANGED/ROCKET_LAUNCHER/giclfw_carlgustaf/giclfw_carlgustaf.activeitem	description	"''BACKBLAST CLEAR''
+Also known as the MAAWS (Multi-Role Anti-Armor Anti-Personnel Weapon System), the Carl Gustaf is an 84mm recoilless rifle that is capable of engaging a multitude of different ground targets ranging from enemy personnel, soft-skinned and heavily armored vehicles, to even busting enemy bunkers to a certain extent. Despite its rather primitive and simplistic nature compared to its contemporary rocket-propelled counterparts, it still sees current use across the Galaxy. ^orange;Reloads using 84mm recoilless rifle shells."		
+/ITEMS/WEAPONS/RANGED/ROCKET_LAUNCHER/giclfw_carlgustaf/giclfw_carlgustaf.activeitem	shortdescription	Carl Gustaf 8.4cm Recoilless Rifle	칼 구스타프 8.4cm 무반동포	reuse
+/ITEMS/WEAPONS/RANGED/ROCKET_LAUNCHER/giclfw_fim92stinger/giclfw_fim92stinger.activeitem	description	"''Enemy aircraft inbound, grab the Stinger and get ready to shoot him down, the bastard won't know what hit him.''
+A modern disposable anti aircraft missile launcher that fires a massive infrared homing guided missile. This weapon and its variants has scored countless kills throughout history as a reliable and cheap means to take out enemy air assets. While capable of being mounted on vehicles and used in the Void, it is mainly intended to be used in atmospheric conditions by infantry on the ground. It is currently still in use all across the Galaxy."		
+/ITEMS/WEAPONS/RANGED/ROCKET_LAUNCHER/giclfw_fim92stinger/giclfw_fim92stinger.activeitem	shortdescription	^yellow;FIM-92 Stinger Disposable Launcher	^yellow;FIM-92 스팅어 일회용 발사기	reuse
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_browningauto5/giclfw_browningauto5.activeitem	description	"The Browning Automatic 5, most often Auto-5 or simply A-5, is a recoil-operated semi-automatic shotgun designed by John Browning in 1898 and manufactured by Fabrique Nationale de Herstal from 1902. It was the first successful practical and first-ever mass-produced semi-automatic shotgun design, and has remained in production with different variants and reproductions of the Auto 5, such as the A5 series, to this day. Accepts 12 Gauge shells.
+^orange;Can jam, unlike other shotguns.^reset;"		
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_browningauto5/giclfw_browningauto5.activeitem	shortdescription	Browning Auto 5		
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_ithacamodel37stakeout/giclfw_ithacamodel37stakeout.activeitem	description	"The Ithaca Model 37 Stakeout is a compact pump-action shotgun made in large numbers for the civilian, law enforcement and military markets. Based on a 1915 patent by firearms designer John Browning for a shotgun initially marketed as the Remington Model 17, it utilizes a novel combination ejection/loading port on the bottom of the gun which leaves the sides closed to the elements. 
+
+Uses 12 Gauge Shotgun Shells."		
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_ithacamodel37stakeout/giclfw_ithacamodel37stakeout.activeitem	shortdescription	Ithaca Model 37 Stakeout	이타카 모델 37 스테이크아웃	reuse
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_mossberg590/giclfw_mossberg590.activeitem	description	Designed in 1961, the Mossberg 500 series of shotguns was created mainly for use by hunters, but quickly was in use by law enforcement because of its reliability and low cost. The Mossberg 590 is a variant of the Mossberg 500 series designed specifically for military use. Seen as a low-cost option for a combat shotgun compared to its contemporaries, such as the Benelli M4 and Saiga-12, the Mossberg 590 is widely used across the Galaxy and is particularly popular with organizations and institutions operating on a tight budget. Accepts 12 Gauge shells.	1961년에 설계된 모스버그 500 시리즈 샷건은 주로 사냥꾼용으로 만들어졌지만, 신뢰성과 저렴한 비용 덕분에 곧 법 집행 기관에서도 사용되기 시작했습니다. 모스버그 590은 모스버그 500 시리즈 중 군용으로 특별히 설계된 파생형입니다. 베넬리 M4나 사이가-12 같은 동시대 제품에 비해 저비용 전투 샷건 옵션으로 여겨지는 모스버그 590은 은하 전역에서 널리 사용되며, 특히 예산이 빠듯한 조직과 기관 사이에서 인기가 높습니다. 12게이지 탄을 사용합니다.	reuse
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_mossberg590/giclfw_mossberg590.activeitem	shortdescription	Mossberg 590	모스버그 590	reuse
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_mossberg590m/giclfw_mossberg590m.activeitem	description	"''There may be one or multiple active shooters on site. Move quickly and clear the area.''
+A variant of the Mossberg 590 shotgun that has been fitted with a detachable magazine. Popular with Law Enforcement, Private Security, and Military organizations across the Galaxy due to its relatively high capacity and its ability to fire any shotgun shell that can be used in any other pump-action shotguns.
+Accepts 12 Gauge Mossberg 590M Magazines and is also compatible with Saiga-12 Magazines as well."		
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_mossberg590m/giclfw_mossberg590m.activeitem	shortdescription	Mossberg 590M	모스버그 590M	reuse
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_mp155/giclfw_mp155.activeitem	description	"The MP-155 is a Russian-made semi-automatic shotgun that was originally made for the civilian sporting market, such as hunting, competition, and recreational shooting activities, but has found its way into limited use by law enforcement and military organizations as a cheap anti-drone and close-quarters room-clearing option. Popular with European and Russian civilian shooters. Its long barrel length was required for legal civilian ownership due to Russian firearm laws at the time.
+Accepts 12 Gauge shells. ^orange;Can jam, unlike other shotguns.^reset;"		
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_mp155/giclfw_mp155.activeitem	shortdescription	Baikal MP-155	바이칼 MP-155	reuse
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_mp155ultima/giclfw_mp155ultima.activeitem	description	"''Why does my shotgun need to connect to Bluetooth and Wi-Fi?''
+Russia's first ''Smart Shotgun'' the MP-155 Ultima is essentially a very fancy furniture kit for the MP-155 semi-automatic shotgun that adds various sorts of enhanced capabilities that includes a built-in computer and camera system with wireless connectivity with various sorts of other devices. Accepts 12 Gauge shells.
+^cyan;Comes with a thermal camera sight that can optionally be removed and replaced with other sight attachments.^reset;
+^orange;Can jam, unlike other shotguns.^reset;"		
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_mp155ultima/giclfw_mp155ultima.activeitem	shortdescription	Kalashnikov Concern MP-155 Ultima	칼라시니코프 컨선 MP-155 울티마	reuse
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_sjogreninertia/giclfw_sjogreninertia.activeitem	description	"The Sjögren Inertia Shotgun is a semi-automatic shotgun of Swedish origin that implemented the then-new and innovative inertia-operated system. While only a small number of this shotgun was initially produced in the early 20th century, the novelty and unique design of the shotgun have seen a resurgence in recent times in new reproduction models. 
+  
+Accepts 12 Gauge shells.
+^orange;Can jam, unlike other shotguns.^reset;"		
+/ITEMS/WEAPONS/RANGED/SHOTGUN/giclfw_sjogreninertia/giclfw_sjogreninertia.activeitem	shortdescription	Sjögren Inertia Shotgun	셰그렌 이너시아 샷건	reuse
+/ITEMS/WEAPONS/RANGED/SNIPER_RIFLE/giclfw_barrettm82/giclfw_barrettm82.activeitem	description	"A heavy semi-automatic anti-material rifle that is intended to shoot through cover, destroy light armored vehicles, sensitive equipment such as radar installations, or high-value targets. This weapon is typically used when you want something, or someone, really, *really* dead as hell, usually at extreme ranges. This particular variant of the Barrett M82 is chambered for the more common 12.7x108mm round over its original 12.7×99mm NATO (also more commonly known as ''.50 BMG'').
+Accepts 10rnd 12.7x108mm Barrett M82 magazines."		
+/ITEMS/WEAPONS/RANGED/SNIPER_RIFLE/giclfw_barrettm82/giclfw_barrettm82.activeitem	shortdescription	Barrett M82	배럿 M82	reuse
+/ITEMS/WEAPONS/RANGED/SNIPER_RIFLE/giclfw_ots03asvua/giclfw_ots03asvua.activeitem	description	"''Do you know what an artist and a sniper have in common? Details. Like when a touch of color is out of place. When a shadow does not match with its surroundings. Or when a shape is not where it is supposed to be. The only difference is the stakes. Mine are higher.'' - Glaz
+The OTs-03A SVU-A is a Russian bullpup DMR/Sniper rifle that was developed in the 1990s to meet the needs of special Russian security forces. Accepts both Dragunov and SVT-40 Magazines.
+^green;Hold down ""Alt Fire"" to switch between Semi-Auto and Full Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/SNIPER_RIFLE/giclfw_remington700/giclfw_remington700.activeitem	description	"A legendary bolt-action hunting rifle that has stood the test of time since its original inception in 1962. The Remington Model 700, sometimes referred to as the R700 or M700, is the best friend of countless Woodsmen, Hunters, Survivalists, and Outdoorsmen all across the Galaxy for its reliability, ruggedness, and accuracy. The Remington 700 has taken down countless prey since then, ranging from small to medium to even big game, from the forests of North America to distant alien planets many light-years away.
+Loads individual 7.62x51mm rounds."		
+/ITEMS/WEAPONS/RANGED/SNIPER_RIFLE/giclfw_remington700/giclfw_remington700.activeitem	shortdescription	Remington 700	레밍턴 700	reuse
+/ITEMS/WEAPONS/RANGED/SNIPER_RIFLE/giclfw_remington700/giclfw_remington700p.activeitem	description	"''Be advised, the suspects are holding civilians hostage.''
+A variant of the Remington 700 hunting rifle that is tailor made for law enforcement, the Remington 700 Police is especially made for the needs and requirements of many law enforcement agencies all across the Galaxy. From Colonial Police and Sheriff Departments to Park Rangers to Tactical SWAT Units and Hostage Rescue Teams, the Remington 700P has established a venerable reputation for itself among countless law enforcement agencies as it still sees use to this very day. Uses individual 7.62x51mm rounds."		
+/ITEMS/WEAPONS/RANGED/SNIPER_RIFLE/giclfw_remington700/giclfw_remington700p.activeitem	shortdescription	Remington 700P	레밍턴 700P	reuse
+/ITEMS/WEAPONS/RANGED/SNIPER_RIFLE/giclfw_remingtonm24a2sws/giclfw_remingtonm24a2sws.activeitem	description	The Remington 700 was originally a hunting rifle for the civilian market first and foremost. However, that didn't stop US Army Snipers during the Vietnam War from purchasing these hunting rifles out of their own pockets, for they were vastly superior and more accurate than their standard issue sniper rifles at the time. Remington took notice of this and developed a specialized military sniper variant of their hunting rifle that was thus dubbed the M24 Sniper Weapon System (SWS). Uses 10rnd Remington M24A2 SWS 7.62x51mm magazines but can also accept L115A2 magazines.	레밍턴 700은 원래 무엇보다 민간 시장을 위한 사냥용 소총이었다. 그러나 그것도 베트남 전쟁 당시 미 육군 저격수들이 사비를 들여 이 사냥용 소총을 구입하는 것을 막지는 못했는데, 당시 표준 지급 저격소총보다 훨씬 뛰어나고 정확했기 때문이다. 레밍턴은 이를 주목해 자사의 사냥용 소총을 기반으로 한 전문 군용 저격 변형을 개발했고, 이는 M24 저격 무기 체계(SWS)라 불리게 되었다. 10발 레밍턴 M24A2 SWS 7.62x51mm 탄창을 사용하지만 L115A2 탄창도 사용할 수 있습니다.	reuse
+/ITEMS/WEAPONS/RANGED/SNIPER_RIFLE/giclfw_remingtonm24a2sws/giclfw_remingtonm24a2sws.activeitem	shortdescription	Remington M24A2 SWS	레밍턴 M24A2 SWS	reuse
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_btapc9/giclfw_btapc9.activeitem	description	"''SHOW ME THE FRONT AND BACK OF YOUR HANDS!''
+The B&T APC9 (Advanced Police Carbine) is a submachine gun designed with the ergonomics of AR-style controls, allowing operators trained on the AR platform to easily pick up this weapon with minimal retraining. Possesses a high cyclic rate of fire of 1080 rounds per minute. Accepts 9x19mm AR-SMG Magazines.
+^green;Double-Tap [SHIFT] to switch to a questionable one-handed stance.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_btapc9/giclfw_btapc9_onehanded.activeitem	description	"''Ready for court.''
+
+The B&T APC9 (Advanced Police Carbine) is a submachine gun designed with the ergonomics of AR-style controls, allowing operators trained on the AR platform to easily pick up this weapon with minimal retraining. Possesses a high cyclic rate of fire of 1080 rounds per minute. Accepts 9x19mm AR-SMG Magazines.
+
+^green;Double-Tap [SHIFT] to switch to a comfortable two-handed grip.^reset;"		
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_btapc9sd/giclfw_btapc9sd.activeitem	description	"''This is Element to TOC, Suspect is deceased. Requesting Trailers.''
+A variant of the B&T APC9 fitted with an integral suppressor that massively dampens firing sound for covert stealth operations. Accepts 9x19mm AR-SMG Magazines. ^yellow;Can't accept HP Magazines.^reset;
+^orange;Afflicts hit targets with SUDDEN-STRIKE, granting subsequent shots +50% DMG. If the target is not hit again for 0.5s (integrally-suppressed), the target becomes RESISTANT to SUDDEN-STRIKE for 480s.^white;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_coltm635/giclfw_coltm635.activeitem	description	"''Entry team, suspects have taken refuge in the area and are refusing to cooperate. Move in.''
+A submachine gun that was built based on the M16 series of assault rifles and is used extensively by countless militaries, law enforcement, security, and special forces groups all over the Galaxy. The M635 is known for its ergonomics, as with any other AR-style weapon, and its high cyclic rate of fire of 1000 rounds per minute. Accepts 9x19mm AR-SMG Magazines.
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Burst Fire.^reset;"		
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_coltm635/giclfw_coltm635.activeitem	shortdescription	Colt M635 9mm SMG		
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_czscorpionevo/giclfw_czscorpionevo.activeitem	description	"''DO NOT REACH OR GRAB FOR ANYTHING!''
+The CZ Scorpion Evo 3 is a next generation submachine gun that possesses a more robust, reliable, and modular design to maximize flexibility and a blistering high rate of fire of 1200 rounds per minute. It is currently in use with many militaries, law enforcement, security, and special forces groups all over the Galaxy. Accepts 9x19mm AR-SMG Magazines.
+
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_czscorpionevo/giclfw_czscorpionevo.activeitem	shortdescription	CZ Scorpion Evo 3	CZ 스콜피온 에보 3	reuse
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_m3a1greasegun/giclfw_m3a1greasegun.activeitem	description	"''The hell is this? This is just an over glorified shitty sheet metal tube that shoots .45 caliber bullets.''
+
+Effectively a pipe gun that fires heavy 11.43x23mm pistol cartridges, the M3A1 Grease Gun was designed to cut costs as much as possible. With its cheaper and simpler sheet metal construction, this weapon was intended to replace the significantly more expensive and heavier Thompson submachine gun. Accepts 30rnd M1A1 stick magazines."		
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_m3a1greasegun/giclfw_m3a1greasegun.activeitem	shortdescription	M3A1 Grease Gun	M3A1 그리스건	reuse
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_pp1901vityaz/giclfw_pp1901vityaz.activeitem	description	"''These soldiers think their training will keep them alive. They break down doors and come through windows, weapons drawn. They check the corners, watch each other's backs, and give the all clear. But it's too late. They forgot the first rule of survival. A real hunter always watches where he steps.'' -Kapkan
+Accepts 9x19mm AR-SMG, MP5 magazines, and 71rnd MP41r drums.
+^green;Double-Tap [SHIFT] to switch to a questionable one-handed stance.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_pp1901vityaz/giclfw_pp1901vityaz.activeitem	shortdescription	PP-19-01 Vityaz	PP-19-01 비탸지	reuse
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_pp1901vityaz/giclfw_pp1901vityaz_onehanded.activeitem	description	"''These soldiers think their training will keep them alive. They break down doors and come through windows, weapons drawn. They check the corners, watch each other's backs, and give the all clear. But it's too late. They forgot the first rule of survival. A real hunter always watches where he steps.'' -Kapkan
+Accepts 9x19mm AR-SMG Magazines, MP5 9x19mm 35rnd magazines, and 71rnd MP41r drums.
+
+^green;Double-Tap [SHIFT] to switch to a comfortable two-handed grip.^reset;"		
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_pp1901vityaz/giclfw_pp1901vityaz_onehanded.activeitem	shortdescription	PP-19-01 Vityaz (1H)	PP-19-01 비탸지 (1H)	reuse
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_pp19bizon/giclfw_pp19bizon.activeitem	description	"The PP-19 Bizon Submachine Gun is a weapon that was developed for law enforcement, security, special forces, and select specialized infantry units. A light weight weapon that is capable of light supressive fire capabilities due to its very high magazine capacity making it ideal for scenarios that require close range spray and pray tactics. Only accepts the unique 9x18mm PP-19 Bizon Helical Magazines.
+
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_pp19bizon/giclfw_pp19bizon.activeitem	shortdescription	PP-19 Bizon	PP-19 바이존	reuse
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_pp19bizon201/giclfw_pp19bizon201.activeitem	description	"The 9x19mm variant of the PP-19 Bizon Submachine Gun offers higher overall factory-quality standards over it's predecessor. Rechambered for the 9x19mm caliber round which results in a slightly smaller magazine capacity when compared to its 9x18mm predecessor. But, this weapon has a competitive performance when compared to other higher end SMGs of its class. Only accepts the unique 9x19mm PP-19 Bizon-2-01 Helical Magazines.
+
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_pp19bizon201/giclfw_pp19bizon201.activeitem	shortdescription	PP-19 Bizon-2-01	PP-19 바이존-2-01	reuse
+/ITEMS/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_sn7p/giclfw_sn7p.activeitem	description	"The SN7P is a Vietnamese copy of the Russian PP-19 Bizon submachine gun that is rechambered for the 7.62x25mm round over the 9x18mm and 9x19mm rounds due to a massive surplus and oversupply of the 7.62x25mm round for the Soviet TT-33 Tokarev, North Korean Type 68, and Chinese Type 54 ''Black Star'' Pistols supplied during the Vietnam War. Only accepts the unique 7.62x25mm SN7P Helical Magazines.
+Has ^orange;dangerously high penetration^reset; for a SMG, classed as a ^yellow;PDW^reset;.
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"		
+/OBJECTS/wired/giclfw_musicplayerradio/giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver.object	objectName	giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver		
+/OBJECTS/wired/giclfw_musicplayerradio/giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver.object	description	[RADIO - Monster Hunter - Proof of a Hero (Black Lute Version) - Capcom]	[라디오 - 몬스터 헌터 - 영웅의 증거 (검은 류트 버전) - 캡콤]	reuse
+/OBJECTS/wired/giclfw_musicplayerradio/giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver.object	shortdescription	Radio: Monster Hunter - Proof of a Hero Black Lute Ver - Capcom	라디오: Monster Hunter - Proof of a Hero Black Lute Ver - Capcom	reuse
+/OBJECTS/wired/giclfw_musicplayerradio/giclfw_musicplayerradio_War_Thunder_Nuclear_Thunder_Ost_2.object	description	[RADIO - War Thunder - Nuclear Thunder Ost 2 - Gaijin Entertainment]	[라디오 - 워 썬더 - Nuclear Thunder Ost 2 - 가이진 엔터테인먼트]	reuse
+/OBJECTS/wired/giclfw_musicplayerradio/giclfw_musicplayerradio_War_Thunder_Nuclear_Thunder_Ost_2.object	shortdescription	Radio: War Thunder Nuclear Thunder Ost 2 - Gaijin Entertainment	라디오: War Thunder Nuclear Thunder Ost 2 - Gaijin Entertainment	reuse
+/STATS/EFFECTS/gic_defensescarf/gic_defensescarf.statuseffect	label	Defense Scarf [LFW] - +10% GENERAL Resistance.	방어 스카프 [LFW] - 일반 저항 +10%.	reuse
+/STATS/EFFECTS/gic_explorationteambadge/gic_explorationteambadge.statuseffect	label	Exploration Team Badge [LFW] - Grants Tier 3 Vanilla Armour bonuses.	탐사대 배지 [LFW] - 바닐라 3단계 방어구 보너스 부여.	reuse
+/STATS/EFFECTS/gic_guildmasterbadge/gic_guildmasterbadge.statuseffect	label	Guild Master Badge [LFW] - Grants Tier 6 Vanilla Armour bonuses and provides oxygen and protection against all Vanilla Environmental Hazards.	길드 마스터 배지 [LFW] - 바닐라 6단계 방어구 보너스 부여, 산소와 모든 바닐라 환경 위험 보호 제공.	reuse
+/STATS/EFFECTS/gic_lockonspecs/gic_lockonspecs.statuseffect	label	Lock On Specs [LFW] - +20% [EWS] Hit Chance and Accuracy.	조준 고정 고글 [LFW] - [EWS] 명중률과 정확도 +20%.	reuse
+/STATS/EFFECTS/gic_pechascarf/gic_pechascarf.statuseffect	label	Pecha Scarf [LFW] - Prevents Vanilla Poisoned Status, immunity towards Vanilla Radiation and [GIC] Immense Radiation, and prevents certain [GIC] Environmental Hazards.	페차 스카프 [LFW] - 바닐라 중독 상태 방지, 바닐라 방사능과 [GIC] 강력 방사능 면역, 특정 [GIC] 환경 위험 방지.	reuse
+/STATS/EFFECTS/gic_skybluebow/gic_skybluebow.statuseffect	label	Sky Blue Bow [LFW] - +5% Defense, Attack, GENERAL Resistance, and [EWS] Accuracy and Hit Chance.	하늘색 활 [LFW] - 방어, 공격, 일반 저항 +5%, [EWS] 명중률과 적중 확률 +5%.	reuse
+/STATS/EFFECTS/giclfw_defensescarf/giclfw_defensescarf.statuseffect	label	Defense Scarf - +10% GENERAL Resistance.	방어 스카프 - 일반 저항 +10%.	reuse
+/STATS/EFFECTS/giclfw_explorationteambadge/giclfw_explorationteambadge.statuseffect	label	Exploration Team Badge - Grants Tier 3 Vanilla Armour bonuses.	탐사대 배지 - 바닐라 3단계 방어구 보너스 부여.	reuse
+/STATS/EFFECTS/giclfw_guildmasterbadge/giclfw_guildmasterbadge.statuseffect	label	Guild Master Badge - Grants Tier 6 Vanilla Armour bonuses and provides oxygen and protection against all Vanilla Environmental Hazards.	길드 마스터 배지 - 바닐라 6단계 방어구 보너스 부여, 산소와 모든 바닐라 환경 위험 보호 제공.	reuse
+/STATS/EFFECTS/giclfw_lockonspecs/giclfw_lockonspecs.statuseffect	label	Lock On Specs - +20% Weapon Proficiency.	조준 고정 고글 - 무기 숙련 +20%.	reuse
+/STATS/EFFECTS/giclfw_pechascarf/giclfw_pechascarf.statuseffect	label	Pecha Scarf - Prevents Vanilla Poisoned Status, immunity towards Vanilla Radiation and [GIC] Immense Radiation, and prevents certain [GIC] Environmental Hazards.	페차 스카프 - 바닐라 중독 상태 방지, 바닐라 방사능과 [GIC] 강력 방사능 면역, 특정 [GIC] 환경 위험 방지.	reuse
+/STATS/EFFECTS/giclfw_skybluebow/giclfw_skybluebow.statuseffect	label	Sky Blue Bow - +5% Defense, Attack, GENERAL Resistance, and Weapon Proficiency.	하늘색 활 - 방어, 공격, 일반 저항, 무기 숙련 +5%.	reuse

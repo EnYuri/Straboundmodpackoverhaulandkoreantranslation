@@ -1,0 +1,11 @@
+asset	field	en	ko	src
+/items/active/throwables/bodysize_grownade.thrownitem	shortdescription	^cyan;Grow-nade^reset;		
+/items/active/throwables/bodysize_grownade.thrownitem	description	Tym Particle altering grenade that ^cyan;Grows^reset; entities really fast.		
+/items/active/throwables/bodysize_shrinknade.thrownitem	shortdescription	^yellow;Shrink-nade^reset;		
+/items/active/throwables/bodysize_shrinknade.thrownitem	description	Tym Particle altering grenade that ^yellow;Shrinks^reset; entities really fast.		
+/stats/effects/activesizechanger/growbodysize.statuseffect	label	Growing		
+/stats/effects/activesizechanger/growbodysize_by100.statuseffect	label	Growing		
+/stats/effects/activesizechanger/growbodysize_heal.statuseffect	label	Growing		
+/stats/effects/activesizechanger/shrinkbodysize.statuseffect	label	Shrinking		
+/stats/effects/activesizechanger/shrinkbodysize_by100.statuseffect	label	Shrinking		
+/stats/effects/activesizechanger/shrinkbodysize_damage.statuseffect	label	Shrinking		

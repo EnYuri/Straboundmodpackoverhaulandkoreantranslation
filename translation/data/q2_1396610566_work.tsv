@@ -1,0 +1,9 @@
+asset	field	en	ko	src
+/items/generic/food/tier2/mk_mochi.consumable	description	Mochi.		
+/items/generic/food/tier2/mk_mochi.consumable	shortdescription	Mochi		
+/items/generic/food/tier2/mk_tofu.consumable	description	Tofu.		
+/items/generic/food/tier2/mk_tofu.consumable	shortdescription	Tofu		
+/items/generic/produce/mk_soybean.item	description	Soybean.		
+/items/generic/produce/mk_soybean.item	shortdescription	Soybean		
+/objects/farmables/mk_soybean/mk_soybeanseed.object	description	Grows soybeans, used for a variety of dishes.	다양한 요리에 쓰이는 콩을 재배합니다.	reuse
+/objects/farmables/mk_soybean/mk_soybeanseed.object	shortdescription	Soybean Seed	콩 씨앗	reuse

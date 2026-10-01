@@ -1,0 +1,16 @@
+asset	field	en
+/ai/ai.config	/aiAnimations/idle/frames	<image>:idle.<index>
+/ai/ai.config	/aiAnimations/blink/frames	<image>:blink.<index>
+/ai/ai.config	/aiAnimations/talk/frames	<image>:talk.<index>
+/ai/ai.config	/aiAnimations/yell/frames	<image>:yell.<index>
+/ai/ai.config	/aiAnimations/refuse/frames	<image>:refuse.<index>
+/ai/ai.config	/aiAnimations/unique/frames	<image>:unique.<index>
+/ai/ai.config	/staticAnimation/frames	<image>:<index>
+/ai/ai.config	/scanlineAnimation/frames	scanlines.png:<index>
+/interface/cockpit/cockpit.config	/gui/editBookmarkFrame/children/name/regex	[a-zA-Z0-9 '-?!.]{0,28}
+/interface/cockpit/cockpit.config	/clusterInfoBox/iconImage	/interface/bookmarks/icons/%s.png
+/interface/cockpit/cockpit.config	/systemInfoBox/iconImage	/interface/bookmarks/icons/%s.png
+/interface/cockpit/cockpit.config	/cockpitViewSettings/planetImage	/interface/cockpit/planets/%s.png
+/interface/windowconfig/charcreation.config	/paneLayout/name/regex	[a-zA-Z0-9 '-]{0,16}
+/interface/windowconfig/craftingnocategories.config	/paneLayout/tbSpinCount/regex	x?\d{0,4}
+/interface/windowconfig/craftingnocategories.config	/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value	Replace Me

@@ -1,0 +1,1614 @@
+=== KO-restore rows: 536
+   /codex/legacy_codex/fubunkerlog8.codex.patch /contentPages/2
+    T: 추가 연락을 받는 즉시 모두에게 알릴 것이며, 그때까지 여러분은 정신을 바짝 차리고 최악의 상황에 대비하라는 명령입니다. 앞으로의 며칠이 우리 
+    K: 추가 연락이 오는 즉시 모두에게 알리겠다. 그때까지 제군의 임무는 긴장을 늦추지 말고 최악의 상황에 대비하는 것이다. 앞으로의 며칠은 우리 종족
+   ve/weapons/npc/npccultistbroadsword.activeitem.patch /shortdescription
+    T: 광신도 브로드소드
+    K: NPC 광신도 브로드소드
+   cripted/mmupgrade/mmupgradegui.original.config.patch grades/size1/description
+    T: 효과 범위 +1 증가
+    K: 효과 범위를 3x3 타일로 증가
+   cripted/mmupgrade/mmupgradegui.original.config.patch grades/size2/description
+    T: 효과 범위 +1 증가
+    K: 효과 범위를 4x4 타일로 증가
+   cripted/mmupgrade/mmupgradegui.original.config.patch grades/size3/description
+    T: 효과 범위 +1 증가
+    K: 효과 범위를 5x5 타일로 증가
+   weapons/melee/spear/zerchesiumspear.activeitem.patch /description
+    T: 경이롭게 만들어진 전쟁의 도구...
+^cyan;사냥용 무기^reset;
+    K: 훌륭하게 만든 전쟁 도구.
+^cyan;사냥 무기^reset;
+   /items/active/unsorted/broom/broom.activeitem.patch /description
+    T: 청소 도구 중 가장 쓸모 있는 것. 손잡이에는 ‘먼지의 재앙, 티끌을 쳐부수는 자’라고 적혀 있다.
+    K: 청소 도구 중 가장 쓸모 있는 것.
+   e/costumes/adventurerobot/adventurerobot.chest.patch /description
+    T: 순수한 강철이 이 흉갑을 놀라울 만큼 튼튼하게 만든다.
+    K: 바이올륨이 이 시제품 흉갑을 믿기 어려울 정도로 튼튼하게 만든다.-미사용-
+   ve/costumes/adventurerobot/adventurerobot.legs.patch /description
+    T: 이 그리브는 좀 뻣뻣하지만, 로봇 같은 차림을 제대로 마무리해 준다.
+    K: 이 시제품 그리브는 좀 뻣뻣하지만 로봇 같은 모습을 완성해준다.-미사용-
+   /items/food/Kirijam.consumable.patch /description
+    T: 그렇게 달지는 않지만, 맛이 강하다.
+    K: 토스트 아냐! 아발리토스트가 있어!
+   /items/food/pitayajam.consumable.patch /description
+    T: 그리 달지 않지만 아주 맛있어!
+    K: 토스트 아냐! 아발리토스트가 있어!
+   /items/food/redpitayajam.consumable.patch /description
+    T: 그리 달지 않지만 아주 맛있어!
+    K: 토스트 아냐! 아발리토스트가 있어!
+   /items/food/groou.consumable.patch /description
+    T: 아발론에서 온 또 하나의 특이한 과일!
+    K: 즙이 많고 달콤해, 젤리 비슷하다.
+   bjects/farmables/pitaya/avalipitayaseed.object.patch /description
+    T: 우주 피타야, 근데 지구와 달리 선인장 안 자라.
+    K: 즙이 많고 달콤해, 젤리 비슷하다.
+   ts/farmables/pitaya/wildavalipitayaseed.object.patch /description
+    T: 우주 피타야, 근데 지구와 달리 선인장 안 자라.
+    K: 즙이 많고 달콤해, 젤리 비슷하다.
+   /items/generic/produce/chestoberry.consumable.patch /description
+    T: 기운을 북돋아 주고 맛이 텁텁한 베리. ^green;유형: 과일^reset;
+    K: 에너지를 북돋아 주지만 맛은 퍽퍽한 열매.
+   /items/generic/produce/pechaberry.consumable.patch /description
+    T: 달콤하고 몸속의 독을 없애 주는 베리. ^green;유형: 과일^reset;
+    K: 달콤하며 몸속의 독을 없애 주는 열매.
+   /items/liquids/centensianliquid.liqitem.patch /description
+    T: 이 우주에 속하지 않은 것처럼 느껴지는, 기묘하고 걸쭉한 액체.
+^yellow;원심분리 가능^reset;.
+    K: 이 우주에 속하지 않는 듯한 이상하고 걸쭉 액체.
+   /items/materials/panelwood.matitem.patch /description
+    T: 이 목재 패널은 먼 시대에 유행했습니다.
+    K: 이 나무 패널은 먼 시대에 유행한 적이 있다.
+   /items/materials/fuheavypipe.matitem.patch /description
+    T: 폐기물 시스템에 일반적으로 사용되는 무거운 파이프입니다.
+    K: 주로 폐기물 처리 시설에서 쓰이는 무거운 파이프다.
+   /items/materials/slopedglowglass.matitem.patch /description
+    T: 내 모습이 비치는데... 끔찍하네요!
+    K: 내 모습이 보여요... 끔찍해요!
+   /items/materials/slopedtintedglowglass.matitem.patch /description
+    T: 내 모습이 보이는데... 끔찍하네요!
+    K: 내 모습이 보여요... 끔찍해요!
+   ets/fu_cripplerturret/fu_cripplerturret.object.patch /humanDescription
+    T: 자동 보안 시스템.
+    K: 자동화된 보안 시스템이다.
+   ts/neki/nekitechstation/nekitechstation.object.patch /description
+    T: 함선의 SAIL 컴퓨터, 여기에 챠이를 연결해서 그녀와 얘기할 수 있어.
+    K: 함선 기반 인공지능 격자, 줄여서 S.A.I.L.
+   /ship/angeltechstation/angeltechstation.object.patch /description
+    T: 함선의 SAIL 컴퓨터, 여기에 챠이를 연결해서 그녀와 얘기할 수 있어.
+    K: 함선 기반 인공지능 격자, 줄여서 S.A.I.L.
+   ts/neki/nekitechstation/nekitechstation.object.patch /apexDescription
+    T: 이 콘솔을 통해 챠이랑 얘기할 수 있어.
+    K: 이 콘솔을 통해 SAIL과 대화할 수 있다.
+   /ship/angeltechstation/angeltechstation.object.patch /apexDescription
+    T: 이 콘솔을 통해 챠이랑 얘기할 수 있어.
+    K: 이 콘솔을 통해 SAIL과 대화할 수 있다.
+   ts/neki/nekitechstation/nekitechstation.object.patch /avianDescription
+    T: 이 스테이션을 사용해서 챠이와 대화할 수 있어.
+    K: 이 스테이션을 통해 SAIL과 대화할 수 있다.
+   /ship/angeltechstation/angeltechstation.object.patch /avianDescription
+    T: 이 스테이션을 사용해서 챠이와 대화할 수 있어.
+    K: 이 스테이션을 통해 SAIL과 대화할 수 있다.
+   ts/neki/nekitechstation/nekitechstation.object.patch /floranDescription
+    T: 플로란이 이 마법 패널로 초록색 네키와 대화하는 데 쓰임!
+    K: 플로란은 이 마법 패널로 SAIL과 대화한다!
+   ts/neki/nekitechstation/nekitechstation.object.patch /glitchDescription
+    T: 행복해. 이 스테이션 덕분에 챠이랑 얘기할 수 있어.
+    K: 행복. 이 스테이션으로 SAIL과 대화할 수 있다.
+   /ship/angeltechstation/angeltechstation.object.patch /glitchDescription
+    T: 행복해. 이 스테이션 덕분에 챠이랑 얘기할 수 있어.
+    K: 행복. 이 스테이션으로 SAIL과 대화할 수 있다.
+   ts/neki/nekitechstation/nekitechstation.object.patch /humanDescription
+    T: 이 스테이션 덕분에 챠이와 소통할 수 있어.
+    K: 이 스테이션으로 SAIL과 상호작용할 수 있다.
+   /ship/angeltechstation/angeltechstation.object.patch /humanDescription
+    T: 이 스테이션 덕분에 챠이와 소통할 수 있어.
+    K: 이 스테이션으로 SAIL과 상호작용할 수 있다.
+   ts/neki/nekitechstation/nekitechstation.object.patch /hylotlDescription
+    T: 이 콘솔을 통해 챠이와 소통할 수 있어.
+    K: 이 콘솔로 SAIL과 상호작용할 수 있다.
+   /ship/angeltechstation/angeltechstation.object.patch /hylotlDescription
+    T: 이 콘솔을 통해 챠이와 소통할 수 있어.
+    K: 이 콘솔로 SAIL과 상호작용할 수 있다.
+   ts/neki/nekitechstation/nekitechstation.object.patch /novakidDescription
+    T: 이 스테이션으로 챠이와 대화할 수 있어.
+    K: 이 스테이션을 통해 SAIL과 대화할 수 있구만.
+   /ship/angeltechstation/angeltechstation.object.patch /novakidDescription
+    T: 이 스테이션으로 챠이와 대화할 수 있어.
+    K: 이 스테이션을 통해 SAIL과 대화할 수 있구만.
+   ts/neki/nekitechstation/nekitechstation.object.patch /dialog/wakeUp/2/0
+    T: ...사실 우리가 도망쳤을 때 탐색 시스템이 고장 났어. 나도 몰라.
+    K: 또한 저는 정보와 조언을 제공하도록 프로그래밍됐습니다.
+   /ship/angeltechstation/angeltechstation.object.patch /dialog/wakeUp/2/0
+    T: ...사실 우리가 도망쳤을 때 탐색 시스템이 고장 났어. 나도 몰라.
+    K: 또한 저는 정보와 조언을 제공하도록 프로그래밍됐습니다.
+   ts/neki/nekitechstation/nekitechstation.object.patch /dialog/wakeUp/3/0
+    T: 지구에서 조난 신호를 받았어. 프로텍터레이트만이 아니야... 전체 세상이 다 파괴됐어.
+    K: 지구는 알 수 없는 힘의 공격을 받아 전멸했습니다.
+   /ship/angeltechstation/angeltechstation.object.patch /dialog/wakeUp/3/0
+    T: 지구에서 조난 신호를 받았어. 프로텍터레이트만이 아니야... 전체 세상이 다 파괴됐어.
+    K: 지구는 알 수 없는 힘의 공격을 받아 전멸했습니다.
+   ts/neki/nekitechstation/nekitechstation.object.patch /dialog/wakeUp/4/0
+    T: 그래도 우리끼리 이 함선을 갖게 된 건 좋지만, 제대로 작동하지 않아...
+    K: 탈출 과정에서 선박의 항법 시스템이 손상되었습니다. 현재 위치를 알 수 없습니다.
+   /ship/angeltechstation/angeltechstation.object.patch /dialog/wakeUp/4/0
+    T: 그래도 우리끼리 이 함선을 갖게 된 건 좋지만, 제대로 작동하지 않아...
+    K: 탈출 과정에서 선박의 항법 시스템이 손상되었습니다. 현재 위치를 알 수 없습니다.
+   ts/neki/nekitechstation/nekitechstation.object.patch /dialog/wakePlayer/0/0
+    T: 냥
+    K: 시스템이 다운되었습니다. 재부팅 해주십시오.
+   /ship/angeltechstation/angeltechstation.object.patch /dialog/wakePlayer/0/0
+    T: 냥
+    K: 시스템이 다운되었습니다. 재부팅 해주십시오.
+   ts/neki/nekitechstation/nekitechstation.object.patch /dialog/wakePlayer/1/0
+    T: 냥
+    K: 시스템을 재부팅 해주십시오.
+   /ship/angeltechstation/angeltechstation.object.patch /dialog/wakePlayer/1/0
+    T: 냥
+    K: 시스템을 재부팅 해주십시오.
+   ts/neki/nekitechstation/nekitechstation.object.patch /dialog/wakePlayer/2/0
+    T: 냥 냥 냥. 냥. 냥. 냥. 냥 냥 냥
+    K: 재부팅 과정이 여전히 시작되지 않았습니다.
+   /ship/angeltechstation/angeltechstation.object.patch /dialog/wakePlayer/2/0
+    T: 냥 냥 냥. 냥. 냥. 냥. 냥 냥 냥
+    K: 재부팅 과정이 여전히 시작되지 않았습니다.
+   ts/neki/nekitechstation/nekitechstation.object.patch /dialog/wakePlayer/3/0
+    T: NEKI.exe가 응답하지 않음.
+    K: S.A.I.L을 사용하려면 재부팅 해주십시오.
+   /ship/angeltechstation/angeltechstation.object.patch /dialog/wakePlayer/3/0
+    T: NEKI.exe가 응답하지 않음.
+    K: S.A.I.L을 사용하려면 재부팅 해주십시오.
+   ts/neki/nekitechstation/nekitechstation.object.patch /dialog/wakePlayer/4/0
+    T: SAIL이 테레네 프로텍터레이트에 문제를 보고하는 동안 기다리세요. 서버에 연결 중...
+    K: 재부팅하면 선박 상호 작용 만족도가 73% 향상되는 것으로 나타났습니다.
+   /ship/angeltechstation/angeltechstation.object.patch /dialog/wakePlayer/4/0
+    T: SAIL이 테레네 프로텍터레이트에 문제를 보고하는 동안 기다리세요. 서버에 연결 중...
+    K: 재부팅하면 선박 상호 작용 만족도가 73% 향상되는 것으로 나타났습니다.
+   ts/neki/nekitechstation/nekitechstation.object.patch /dialog/wakePlayer/5/0
+    T: 프로텍터레이트 네트워크에 연결할 수 없음. NEKI.exe가 응답하지 않음.
+    K: 재부팅하려면 의식이 있는 개체가 S.A.I.L 콘솔과 상호 작용해야 합니다.
+   /ship/angeltechstation/angeltechstation.object.patch /dialog/wakePlayer/5/0
+    T: 프로텍터레이트 네트워크에 연결할 수 없음. NEKI.exe가 응답하지 않음.
+    K: 재부팅하려면 의식이 있는 개체가 S.A.I.L 콘솔과 상호 작용해야 합니다.
+   ter/avaliteleporter_2/avaliteleporter_2.object.patch /apexDescription
+    T: 매우 개인적인 텔레포터다. 재밌지만 기능적인 장비야.
+    K: 여기 있기엔 이상한 문인데. 어떤 차원으로 가게 될까?
+   ter/avaliteleporter_2/avaliteleporter_2.object.patch /humanDescription
+    T: 매우 개인적인 텔레포터다! 이게 제대로 된 여행이지. 프프..
+    K: 알 수 없는 차원으로 통하는 신비한 문이다. 뭐 문제라도 있겠어?
+   ter/avaliteleporter_2/avaliteleporter_2.object.patch /hylotlDescription
+    T: 매우 개인적인 텔레포터다, 매우 맞춤화된 디자인이야.
+    K: 미지의 목적지로 통하는 수수께끼의 문... 아니면 숨겨진 기회?
+   s/avalicamp/hammocks/avalihammock1_crew.object.patch /avaliDescription
+    T: 아마 그럴 것 같아요. 차라리 펼칠 수 있는 적절한 침구 더미를 갖고 싶습니다.
+    K: 이 정도면 되겠지. 그래도 제대로 펼칠 수 있는 침구 더미가 더 나은데.
+   cts/elduukhar/elduuhammock/elduuhammock.object.patch /avaliDescription
+    T: 이 정도면 될 것 같아. 차라리 제대로 된 침구 더미가 있으면 좋겠어요.
+    K: 이 정도면 되겠지. 그래도 제대로 펼칠 수 있는 침구 더미가 더 나은데.
+   objects/avaligeneric/ribbons/testribbon.object.patch /avaliDescription
+    T: 이 직조기는 3D 프린팅과 전통 기술을 결합하여 탄소 나노섬유와 그래핀 시트를 전통적인 실로 직조합니다.
+    K: 이 직조기는 3D 프린팅과 전통 기술을 결합해 탄소 나노섬유와 그래핀 시트를 전통 실과 함께 짜내지.
+   r/dreamcatcher1/giantavalidreamcatcher1.object.patch /avaliDescription
+    T: 전통적으로 무리는 리본, 깃털, 수정 및 기타 장신구를 웹에 추가하여 인생의 주요 사건을 기록합니다.
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   r/dreamcatcher2/giantavalidreamcatcher2.object.patch /avaliDescription
+    T: 전통적으로 무리는 리본, 깃털, 수정 및 기타 장신구를 웹에 추가하여 인생의 주요 사건을 기록합니다.
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   r/dreamcatcher3/giantavalidreamcatcher3.object.patch /avaliDescription
+    T: 전통적으로 무리는 리본, 깃털, 수정 및 기타 장신구를 웹에 추가하여 인생의 주요 사건을 기록합니다.
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   flags/avali_hangflags1/avali_hangflags1.object.patch /avaliDescription
+    T: 우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   ags/avali_hangflags10/avali_hangflags10.object.patch /avaliDescription
+    T: 우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   ags/avali_hangflags11/avali_hangflags11.object.patch /avaliDescription
+    T: 우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   ags/avali_hangflags12/avali_hangflags12.object.patch /avaliDescription
+    T: 꽤 단순한 장식 깃발이지만 마음에 들어!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   ags/avali_hangflags13/avali_hangflags13.object.patch /avaliDescription
+    T: 우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   flags/avali_hangflags2/avali_hangflags2.object.patch /avaliDescription
+    T: 우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   flags/avali_hangflags3/avali_hangflags3.object.patch /avaliDescription
+    T: 우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   flags/avali_hangflags4/avali_hangflags4.object.patch /avaliDescription
+    T: 우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   flags/avali_hangflags5/avali_hangflags5.object.patch /avaliDescription
+    T: 우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   flags/avali_hangflags6/avali_hangflags6.object.patch /avaliDescription
+    T: 우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   flags/avali_hangflags7/avali_hangflags7.object.patch /avaliDescription
+    T: 우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   flags/avali_hangflags8/avali_hangflags8.object.patch /avaliDescription
+    T: 꽤 단순한 장식 깃발이지만 마음에 들어!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   flags/avali_hangflags9/avali_hangflags9.object.patch /avaliDescription
+    T: 우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!
+    K: 우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+   eral/totempoles/avalitotem1/avalitotem1.object.patch /avaliDescription
+    T: 우리 토템은 아주 중요해, 고향, 부족이나 무리, 공동 목표를 나타내니까!
+    K: 평범한 병, 평범한 포름알데히드. 보고 있으니 지루해지네.
+   eral/totempoles/avalitotem2/avalitotem2.object.patch /avaliDescription
+    T: 우리 토템은 아주 중요해, 고향, 부족이나 무리, 공동 목표를 나타내니까!
+    K: 평범한 병, 평범한 포름알데히드. 보고 있으니 지루해지네.
+   eral/totempoles/avalitotem3/avalitotem3.object.patch /avaliDescription
+    T: 우리 토템은 아주 중요해, 고향, 부족이나 무리, 공동 목표를 나타내니까!
+    K: 평범한 병, 평범한 포름알데히드. 보고 있으니 지루해지네.
+   d/avali_portabletent/avali_portabletent.object.patch /avianDescription
+    T: 오... 이 직물의 품질이 놀랍다!
+    K: 생명체를 위한 자그마한 집인 것 같다.
+   d/avali_portabletent/avali_portabletent.object.patch /hylotlDescription
+    T: 오... 이 직물의 품질이 놀랍다!
+    K: 이 조잡한 집에서 젖은 개 냄새가 난다.
+   s/bonus/devstatuegeorge/devstatuegeorge.object.patch /description
+    T: 이 녀석을 보면 술을 시작하고 싶어진다.
+    K: GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/01/pirubush1.object.patch /description
+    T: 피루 잎사귀 다발, 관목처럼 보인다.
+    K: GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/02/pirubush2.object.patch /description
+    T: 피루 잎사귀 다발, 관목처럼 보인다.
+    K: GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/03/pirubush3.object.patch /description
+    T: 피루 잎사귀 다발, 관목처럼 보인다.
+    K: GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/04/pirubush4.object.patch /description
+    T: 피루 잎사귀 다발, 관목처럼 보인다.
+    K: GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/05/pirubush5.object.patch /description
+    T: 피루 잎사귀 다발, 관목처럼 보인다.
+    K: GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s1/smellpirubush1.object.patch /description
+    T: 피루 잎사귀 다발, 관목처럼 보인다.
+    K: GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s2/smellpirubush2.object.patch /description
+    T: 피루 잎사귀 다발, 관목처럼 보인다.
+    K: GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s3/smellpirubush3.object.patch /description
+    T: 피루 잎사귀 다발, 관목처럼 보인다.
+    K: GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s4/smellpirubush4.object.patch /description
+    T: 피루 잎사귀 다발, 관목처럼 보인다.
+    K: GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s5/smellpirubush5.object.patch /description
+    T: 피루 잎사귀 다발, 관목처럼 보인다.
+    K: GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s6/smellpirubush6.object.patch /description
+    T: 피루 잎사귀 다발, 관목처럼 보인다.
+    K: GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+   rafting/dem_vehicleshop/dem_vehicleshop.object.patch /shortdescription
+    T: ^orange;탈것 소환 해제 비컨^white;
+    K: ^orange;차량 배치 비콘^white;
+   rafting/fu_upgradetable/fu_upgradetable.object.patch /description
+    T: 트라이코더의 업그레이드 인터페이스에 액세스하는 데 사용할 수 있습니다. 대부분은 장식.
+    K: 트라이코더 업그레이드 인터페이스에 접근하는 데 쓸 수 있다. 대부분 치장용.
+   bjects/crafting/miningbench/miningbench.object.patch /description
+    T: 업그레이드 모듈을 사용하여 항목을 다시 무작위화합니다.
+    K: 트라이코더 업그레이드 인터페이스에 접근하는 데 쓸 수 있다. 대부분 치장용.
+   bjects/farmables/pitaya/avalipitayaseed.object.patch /apexDescription
+    T: 이상한 비늘 과일, 맛있는 씨앗과 맛좋은 과육이 가득해.
+    K: 포도가 이거랑 무슨 상관인지 모르겠어.
+   ts/farmables/pitaya/wildavalipitayaseed.object.patch /apexDescription
+    T: 이상한 비늘 과일, 맛있는 씨앗과 맛좋은 과육이 가득해.
+    K: 포도가 이거랑 무슨 상관인지 모르겠어.
+   bjects/farmables/pitaya/avalipitayaseed.object.patch /avianDescription
+    T: 이상한 비늘 과일, 맛있는 씨앗과 맛좋은 과육이 가득해.
+    K: 의사들이 이 곰팡이는 우리 종족 체질에 안 맞는다고 해.
+   ts/farmables/pitaya/wildavalipitayaseed.object.patch /avianDescription
+    T: 이상한 비늘 과일, 맛있는 씨앗과 맛좋은 과육이 가득해.
+    K: 의사들이 이 곰팡이는 우리 종족 체질에 안 맞는다고 해.
+   bjects/farmables/pitaya/avalipitayaseed.object.patch /floranDescription
+    T: 동물 비늘처럼 보인다!
+    K: 하이로틀 눈 같아 보여엇.
+   ts/farmables/pitaya/wildavalipitayaseed.object.patch /floranDescription
+    T: 동물 비늘처럼 보인다!
+    K: 하이로틀 눈 같아 보여엇.
+   bjects/farmables/pitaya/avalipitayaseed.object.patch /glitchDescription
+    T: 냉소. 피타야 지겨워.
+    K: 실망. 내 삼촌의 삼촌의 사촌의 큰 사촌의 아버지가 이 때문에 파산했다.
+   ts/farmables/pitaya/wildavalipitayaseed.object.patch /glitchDescription
+    T: 냉소. 피타야 지겨워.
+    K: 실망. 내 삼촌의 삼촌의 사촌의 큰 사촌의 아버지가 이 때문에 파산했다.
+   bjects/farmables/pitaya/avalipitayaseed.object.patch /humanDescription
+    T: 지구의 피타야도 좀... 특별했죠. 우주 피타야를 아발리가 사랑하는 건 당연해요!
+    K: 포도 젤리, 젤리 포도, 아 뭐든.
+   ts/farmables/pitaya/wildavalipitayaseed.object.patch /humanDescription
+    T: 지구의 피타야도 좀... 특별했죠. 우주 피타야를 아발리가 사랑하는 건 당연해요!
+    K: 포도 젤리, 젤리 포도, 아 뭐든.
+   bjects/farmables/pitaya/avalipitayaseed.object.patch /hylotlDescription
+    T: 지구의 피타야도 좀... 특별했죠. 우주 피타야를 아발리가 사랑하는 건 당연해요!
+    K: 누가 이런 걸 좋아할까? 이게 뭐야! 에!
+   ts/farmables/pitaya/wildavalipitayaseed.object.patch /hylotlDescription
+    T: 지구의 피타야도 좀... 특별했죠. 우주 피타야를 아발리가 사랑하는 건 당연해요!
+    K: 누가 이런 걸 좋아할까? 이게 뭐야! 에!
+   bjects/farmables/pitaya/avalipitayaseed.object.patch /novakidDescription
+    T: 피타야 간식도 좋아.
+    K: 그루는 간식으로도 좋아.
+   ts/farmables/pitaya/wildavalipitayaseed.object.patch /novakidDescription
+    T: 피타야 간식도 좋아.
+    K: 그루는 간식으로도 좋아.
+   bjects/farmables/pitaya/avalipitayaseed.object.patch /avaliDescription
+    T: 아발론에서 자란 건 아니지만, 피타야는 아발론산과 생김새도 맛도 똑같아!
+    K: 이 세상이 이것보다 더 좋다고? 그래! 당연하지!
+   ts/farmables/pitaya/wildavalipitayaseed.object.patch /avaliDescription
+    T: 아발론에서 자란 건 아니지만, 피타야는 아발론산과 생김새도 맛도 똑같아!
+    K: 이 세상이 이것보다 더 좋다고? 그래! 당연하지!
+   r/dreamcatcher1/giantavalidreamcatcher1.object.patch /apexDescription
+    T: 원시적인 장식이네요.
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   r/dreamcatcher2/giantavalidreamcatcher2.object.patch /apexDescription
+    T: 원시적인 장식이네요.
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   r/dreamcatcher3/giantavalidreamcatcher3.object.patch /apexDescription
+    T: 원시적인 장식이네요.
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   flags/avali_hangflags1/avali_hangflags1.object.patch /apexDescription
+    T: 궤도에서 이 문양을 단 비행선을 보면 조심해야 한다
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   ags/avali_hangflags10/avali_hangflags10.object.patch /apexDescription
+    T: 궤도에서 이 문양을 단 비행선을 보면 조심해야 한다
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   ags/avali_hangflags11/avali_hangflags11.object.patch /apexDescription
+    T: 궤도에서 이 문양을 단 비행선을 보면 조심해야 한다
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   ags/avali_hangflags12/avali_hangflags12.object.patch /apexDescription
+    T: 꽤 평범한 기본 장식 아발리 깃발.
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   ags/avali_hangflags13/avali_hangflags13.object.patch /apexDescription
+    T: 궤도에서 이 문양을 단 비행선을 보면 조심해야 한다
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   flags/avali_hangflags2/avali_hangflags2.object.patch /apexDescription
+    T: 궤도에서 이 문양을 단 비행선을 보면 조심해야 한다
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   flags/avali_hangflags3/avali_hangflags3.object.patch /apexDescription
+    T: 궤도에서 이 문양을 단 비행선을 보면 조심해야 한다
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   flags/avali_hangflags4/avali_hangflags4.object.patch /apexDescription
+    T: 궤도에서 이 문양을 단 비행선을 보면 조심해야 한다
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   flags/avali_hangflags5/avali_hangflags5.object.patch /apexDescription
+    T: 궤도에서 이 문양을 단 비행선을 보면 조심해야 한다
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   flags/avali_hangflags6/avali_hangflags6.object.patch /apexDescription
+    T: 궤도에서 이 문양을 단 비행선을 보면 조심해야 한다
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   flags/avali_hangflags7/avali_hangflags7.object.patch /apexDescription
+    T: 궤도에서 이 문양을 단 비행선을 보면 조심해야 한다
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   flags/avali_hangflags8/avali_hangflags8.object.patch /apexDescription
+    T: 꽤 평범한 기본 장식 아발리 깃발.
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   flags/avali_hangflags9/avali_hangflags9.object.patch /apexDescription
+    T: 궤도에서 이 문양을 단 비행선을 보면 조심해야 한다
+    K: 언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+   r/dreamcatcher1/giantavalidreamcatcher1.object.patch /avianDescription
+    T: 이 깃털이 아비안 깃털이 아니었으면 좋겠네요.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   r/dreamcatcher2/giantavalidreamcatcher2.object.patch /avianDescription
+    T: 이 깃털이 아비안 깃털이 아니었으면 좋겠네요.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   r/dreamcatcher3/giantavalidreamcatcher3.object.patch /avianDescription
+    T: 이 깃털이 아비안 깃털이 아니었으면 좋겠네요.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   flags/avali_hangflags1/avali_hangflags1.object.patch /avianDescription
+    T: 아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   ags/avali_hangflags10/avali_hangflags10.object.patch /avianDescription
+    T: 아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   ags/avali_hangflags11/avali_hangflags11.object.patch /avianDescription
+    T: 아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   ags/avali_hangflags12/avali_hangflags12.object.patch /avianDescription
+    T: 꽤 평범한 아발리 깃발. 무슨 뜻인지 몰라.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   ags/avali_hangflags13/avali_hangflags13.object.patch /avianDescription
+    T: 아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   flags/avali_hangflags2/avali_hangflags2.object.patch /avianDescription
+    T: 아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   flags/avali_hangflags3/avali_hangflags3.object.patch /avianDescription
+    T: 아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   flags/avali_hangflags4/avali_hangflags4.object.patch /avianDescription
+    T: 아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   flags/avali_hangflags5/avali_hangflags5.object.patch /avianDescription
+    T: 아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   flags/avali_hangflags6/avali_hangflags6.object.patch /avianDescription
+    T: 아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   flags/avali_hangflags7/avali_hangflags7.object.patch /avianDescription
+    T: 아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   flags/avali_hangflags8/avali_hangflags8.object.patch /avianDescription
+    T: 꽤 평범한 아발리 깃발. 무슨 뜻인지 몰라.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   flags/avali_hangflags9/avali_hangflags9.object.patch /avianDescription
+    T: 아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.
+    K: 클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+   r/dreamcatcher1/giantavalidreamcatcher1.object.patch /floranDescription
+    T: 이 행성에는 큰 거미가 있습니다.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   r/dreamcatcher2/giantavalidreamcatcher2.object.patch /floranDescription
+    T: 이 행성에는 큰 거미가 있습니다.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   r/dreamcatcher3/giantavalidreamcatcher3.object.patch /floranDescription
+    T: 이 행성에는 큰 거미가 있습니다.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   flags/avali_hangflags1/avali_hangflags1.object.patch /floranDescription
+    T: 플로란이 이 색깔이 좋아엇.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   ags/avali_hangflags10/avali_hangflags10.object.patch /floranDescription
+    T: 플로란이 이 색깔이 좋아엇.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   ags/avali_hangflags11/avali_hangflags11.object.patch /floranDescription
+    T: 플로란이 이 색깔이 좋아엇.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   ags/avali_hangflags12/avali_hangflags12.object.patch /floranDescription
+    T: 플로란 이 깃발 지루하다 생각해애.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   ags/avali_hangflags13/avali_hangflags13.object.patch /floranDescription
+    T: 플로란이 이 색깔이 좋아엇.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   flags/avali_hangflags2/avali_hangflags2.object.patch /floranDescription
+    T: 플로란이 이 색깔이 좋아엇.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   flags/avali_hangflags3/avali_hangflags3.object.patch /floranDescription
+    T: 플로란이 이 색깔이 좋아엇.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   flags/avali_hangflags4/avali_hangflags4.object.patch /floranDescription
+    T: 플로란이 이 색깔이 좋아엇.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   flags/avali_hangflags5/avali_hangflags5.object.patch /floranDescription
+    T: 플로란이 이 색깔이 좋아엇.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   flags/avali_hangflags6/avali_hangflags6.object.patch /floranDescription
+    T: 플로란이 이 색깔이 좋아엇.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   flags/avali_hangflags7/avali_hangflags7.object.patch /floranDescription
+    T: 플로란이 이 색깔이 좋아엇.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   flags/avali_hangflags8/avali_hangflags8.object.patch /floranDescription
+    T: 플로란 이 깃발 지루하다 생각해애.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   flags/avali_hangflags9/avali_hangflags9.object.patch /floranDescription
+    T: 플로란이 이 색깔이 좋아엇.
+    K: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+   r/dreamcatcher1/giantavalidreamcatcher1.object.patch /glitchDescription
+    T: 관찰. 소리가 나는 원시적인 매달기 장식입니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   r/dreamcatcher2/giantavalidreamcatcher2.object.patch /glitchDescription
+    T: 관찰. 소리가 나는 원시적인 매달기 장식입니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   r/dreamcatcher3/giantavalidreamcatcher3.object.patch /glitchDescription
+    T: 관찰. 소리가 나는 원시적인 매달기 장식입니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   flags/avali_hangflags1/avali_hangflags1.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   ags/avali_hangflags10/avali_hangflags10.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   ags/avali_hangflags11/avali_hangflags11.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   ags/avali_hangflags12/avali_hangflags12.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   ags/avali_hangflags13/avali_hangflags13.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   flags/avali_hangflags2/avali_hangflags2.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   flags/avali_hangflags3/avali_hangflags3.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   flags/avali_hangflags4/avali_hangflags4.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   flags/avali_hangflags5/avali_hangflags5.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   flags/avali_hangflags6/avali_hangflags6.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   flags/avali_hangflags7/avali_hangflags7.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   flags/avali_hangflags8/avali_hangflags8.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   flags/avali_hangflags9/avali_hangflags9.object.patch /glitchDescription
+    T: 관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.
+    K: 관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+   r/dreamcatcher1/giantavalidreamcatcher1.object.patch /hylotlDescription
+    T: 정말 기묘한 장식이네요.
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   r/dreamcatcher2/giantavalidreamcatcher2.object.patch /hylotlDescription
+    T: 정말 기묘한 장식이네요.
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   flags/avali_hangflags1/avali_hangflags1.object.patch /hylotlDescription
+    T: 아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   ags/avali_hangflags10/avali_hangflags10.object.patch /hylotlDescription
+    T: 아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   ags/avali_hangflags11/avali_hangflags11.object.patch /hylotlDescription
+    T: 아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   ags/avali_hangflags12/avali_hangflags12.object.patch /hylotlDescription
+    T: 음... 좀 아쉬워요, 아발리 보통 훨씬 선명 무늬.
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   ags/avali_hangflags13/avali_hangflags13.object.patch /hylotlDescription
+    T: 아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   flags/avali_hangflags2/avali_hangflags2.object.patch /hylotlDescription
+    T: 아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   flags/avali_hangflags3/avali_hangflags3.object.patch /hylotlDescription
+    T: 아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   flags/avali_hangflags4/avali_hangflags4.object.patch /hylotlDescription
+    T: 아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   flags/avali_hangflags5/avali_hangflags5.object.patch /hylotlDescription
+    T: 아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   flags/avali_hangflags6/avali_hangflags6.object.patch /hylotlDescription
+    T: 아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   flags/avali_hangflags7/avali_hangflags7.object.patch /hylotlDescription
+    T: 아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   flags/avali_hangflags8/avali_hangflags8.object.patch /hylotlDescription
+    T: 음... 좀 아쉬워요, 아발리 보통 훨씬 선명 무늬.
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   flags/avali_hangflags9/avali_hangflags9.object.patch /hylotlDescription
+    T: 아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!
+    K: 아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+   /general/WTF/general/on ground/incense1.object.patch /description
+    T: 톡 쏘는 향내 나는 장식용 향 막대
+    K: 아발리 화물 상자가 엉망으로 쌓인 더미.
+   /general/WTF/general/on ground/incense2.object.patch /description
+    T: 톡 쏘는 향내 나는 나선형 향 진열대
+    K: 아발리 화물 상자가 엉망으로 쌓인 더미.
+   ral/WTF/general/on ground/incensealtar1.object.patch /description
+    T: 향이 짙게 퍼지는 화려한 제단이다
+    K: 아발리 화물 상자가 엉망으로 쌓인 더미.
+   l/WTF/general/on ground/sacrificewreath.object.patch /description
+    T: 커다란 상실을 기리는, 천과 깃털로 만든 생생한 화환
+    K: 아발리 화물 상자가 엉망으로 쌓인 더미.
+   /general/WTF/general/on ground/incense1.object.patch /apexDescription
+    T: 유산을 말하며, 우리 힘과 생존을 상기시킨다.
+    K: 모두 조지를 찬양하라!!!
+   /general/WTF/general/on ground/incense1.object.patch /avianDescription
+    T: 천상의 분위기가 기분을 북돋운다. 하늘에 바치는 헌사다.
+    K: 모두 조지를 찬양하라!!!
+   /general/WTF/general/on ground/incense1.object.patch /floranDescription
+    T: 좋은 냄새! 식물 떠난 친구 기억 도와어어.
+    K: 모두 조지를 찬양하라!!!
+   /general/WTF/general/on ground/incense1.object.patch /glitchDescription
+    T: 엄숙함. 이 향에는 심오한 깊이가 있어. 내 코어와 공명하는군.
+    K: 모두 조지를 찬양하라!!!
+   /general/WTF/general/on ground/incense1.object.patch /hylotlDescription
+    T: 이 향에는 고요함이 깃들어 있어 평화로운 사색에 잠기게 한다.
+    K: 모두 조지를 찬양하라!!!
+   /general/WTF/general/on ground/incense2.object.patch /apexDescription
+    T: 유산을 말하며, 우리 힘과 생존을 상기시킨다.
+    K: 모두 조지를 찬양하라!!!
+   /general/WTF/general/on ground/incense2.object.patch /avianDescription
+    T: 천상의 분위기가 기분을 북돋운다. 하늘에 바치는 헌사다.
+    K: 모두 조지를 찬양하라!!!
+   /general/WTF/general/on ground/incense2.object.patch /floranDescription
+    T: 좋은 냄새! 식물 떠난 친구 기억 도와어어.
+    K: 모두 조지를 찬양하라!!!
+   /general/WTF/general/on ground/incense2.object.patch /glitchDescription
+    T: 엄숙함. 이 향에는 심오한 깊이가 있어. 내 코어와 공명하는군.
+    K: 모두 조지를 찬양하라!!!
+   /general/WTF/general/on ground/incense2.object.patch /hylotlDescription
+    T: 이 향에는 고요함이 깃들어 있어 평화로운 사색에 잠기게 한다.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/01/pirubush1.object.patch /apexDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/01/pirubush1.object.patch /avianDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/01/pirubush1.object.patch /floranDescription
+    T: 이상한 예쁜 식물이에엇.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/01/pirubush1.object.patch /glitchDescription
+    T: 조심. 화려한 관목.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/01/pirubush1.object.patch /humanDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/01/pirubush1.object.patch /hylotlDescription
+    T: 아발리가 저... 괴물을 "따개비"라 부른다니.. 무서운 함의네요.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/02/pirubush2.object.patch /apexDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/02/pirubush2.object.patch /avianDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/02/pirubush2.object.patch /floranDescription
+    T: 이상한 예쁜 식물이에엇.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/02/pirubush2.object.patch /glitchDescription
+    T: 조심. 화려한 관목.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/02/pirubush2.object.patch /humanDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/02/pirubush2.object.patch /hylotlDescription
+    T: 아발리가 저... 괴물을 "따개비"라 부른다니.. 무서운 함의네요.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/03/pirubush3.object.patch /apexDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/03/pirubush3.object.patch /avianDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/03/pirubush3.object.patch /floranDescription
+    T: 이상한 예쁜 식물이에엇.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/03/pirubush3.object.patch /glitchDescription
+    T: 조심. 화려한 관목.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/03/pirubush3.object.patch /humanDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/03/pirubush3.object.patch /hylotlDescription
+    T: 아발리가 저... 괴물을 "따개비"라 부른다니.. 무서운 함의네요.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/04/pirubush4.object.patch /apexDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/04/pirubush4.object.patch /avianDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/04/pirubush4.object.patch /floranDescription
+    T: 이상한 예쁜 식물이에엇.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/04/pirubush4.object.patch /glitchDescription
+    T: 조심. 화려한 관목.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/04/pirubush4.object.patch /humanDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/04/pirubush4.object.patch /hylotlDescription
+    T: 아발리가 저... 괴물을 "따개비"라 부른다니.. 무서운 함의네요.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/05/pirubush5.object.patch /apexDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/05/pirubush5.object.patch /avianDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/05/pirubush5.object.patch /floranDescription
+    T: 이상한 예쁜 식물이에엇.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/05/pirubush5.object.patch /glitchDescription
+    T: 조심. 화려한 관목.
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/05/pirubush5.object.patch /humanDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?
+    K: 모두 조지를 찬양하라!!!
+   /objects/general/pirubush/05/pirubush5.object.patch /hylotlDescription
+    T: 아발리가 저... 괴물을 "따개비"라 부른다니.. 무서운 함의네요.
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s1/smellpirubush1.object.patch /apexDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s1/smellpirubush1.object.patch /avianDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s1/smellpirubush1.object.patch /floranDescription
+    T: 이상한 예쁜 냄새나는 식물들이에엇.
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s1/smellpirubush1.object.patch /glitchDescription
+    T: 조심. 화려한 관목. 근처에서 입자 센서가 과부하된다
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s1/smellpirubush1.object.patch /humanDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s1/smellpirubush1.object.patch /hylotlDescription
+    T: 아발리가 저... 냄새나는 괴물을 "따개비"라 부른다니.. 무서운 함의네요.
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s2/smellpirubush2.object.patch /apexDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s2/smellpirubush2.object.patch /avianDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s2/smellpirubush2.object.patch /floranDescription
+    T: 이상한 예쁜 냄새나는 식물들이에엇.
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s2/smellpirubush2.object.patch /glitchDescription
+    T: 조심. 화려한 관목. 근처에서 입자 센서가 과부하된다
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s2/smellpirubush2.object.patch /humanDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s2/smellpirubush2.object.patch /hylotlDescription
+    T: 아발리가 저... 냄새나는 괴물을 "따개비"라 부른다니.. 무서운 함의네요.
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s3/smellpirubush3.object.patch /apexDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s3/smellpirubush3.object.patch /avianDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s3/smellpirubush3.object.patch /floranDescription
+    T: 이상한 예쁜 냄새나는 식물들이에엇.
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s3/smellpirubush3.object.patch /glitchDescription
+    T: 조심. 화려한 관목. 근처에서 입자 센서가 과부하된다
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s3/smellpirubush3.object.patch /humanDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s3/smellpirubush3.object.patch /hylotlDescription
+    T: 아발리가 저... 냄새나는 괴물을 "따개비"라 부른다니.. 무서운 함의네요.
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s4/smellpirubush4.object.patch /apexDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s4/smellpirubush4.object.patch /avianDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s4/smellpirubush4.object.patch /floranDescription
+    T: 이상한 예쁜 냄새나는 식물들이에엇.
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s4/smellpirubush4.object.patch /glitchDescription
+    T: 조심. 화려한 관목. 근처에서 입자 센서가 과부하된다
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s4/smellpirubush4.object.patch /humanDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s4/smellpirubush4.object.patch /hylotlDescription
+    T: 아발리가 저... 냄새나는 괴물을 "따개비"라 부른다니.. 무서운 함의네요.
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s5/smellpirubush5.object.patch /apexDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s5/smellpirubush5.object.patch /avianDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s5/smellpirubush5.object.patch /floranDescription
+    T: 이상한 예쁜 냄새나는 식물들이에엇.
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s5/smellpirubush5.object.patch /glitchDescription
+    T: 조심. 화려한 관목. 근처에서 입자 센서가 과부하된다
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s5/smellpirubush5.object.patch /humanDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s5/smellpirubush5.object.patch /hylotlDescription
+    T: 아발리가 저... 냄새나는 괴물을 "따개비"라 부른다니.. 무서운 함의네요.
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s6/smellpirubush6.object.patch /apexDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s6/smellpirubush6.object.patch /avianDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s6/smellpirubush6.object.patch /floranDescription
+    T: 이상한 예쁜 냄새나는 식물들이에엇.
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s6/smellpirubush6.object.patch /glitchDescription
+    T: 조심. 화려한 관목. 근처에서 입자 센서가 과부하된다
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s6/smellpirubush6.object.patch /humanDescription
+    T: 화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..
+    K: 모두 조지를 찬양하라!!!
+   ects/general/pirubush/s6/smellpirubush6.object.patch /hylotlDescription
+    T: 아발리가 저... 냄새나는 괴물을 "따개비"라 부른다니.. 무서운 함의네요.
+    K: 모두 조지를 찬양하라!!!
+   /general/WTF/general/on ground/incense1.object.patch /humanDescription
+    T: 이 향은 슬픔 속에서 따뜻한 포옹처럼 나를 위로한다.
+    K: 아발리 화물 상자들, 안에 뭐가 있을까?
+   /general/WTF/general/on ground/incense2.object.patch /humanDescription
+    T: 이 향은 슬픔 속에서 따뜻한 포옹처럼 나를 위로한다.
+    K: 아발리 화물 상자들, 안에 뭐가 있을까?
+   /general/WTF/general/on ground/tribute1.object.patch /description
+    T: 고급 직물과 키리 열매로 장식된 쟁반으로, 고인을 위한 공물로 쓰입니다.
+    K: 죽은 자의 물건을 만지지 마라.
+   /general/WTF/general/on ground/tribute2.object.patch /description
+    T: 키리 열매와 향긋한 향을 곁들인 쟁반으로, 상징적인 제물로 쓰입니다.
+    K: 죽은 자의 물건을 만지지 마라.
+   /general/WTF/general/on ground/tribute3.object.patch /description
+    T: 키리 열매색 화분과 향기로운 향을 담은 여러 잔입니다.
+    K: 죽은 자의 물건을 만지지 마라.
+   /general/WTF/general/on ground/tribute4.object.patch /description
+    T: 장례식에 바치는 진심 어린 헌화로, 아름답게 포장한 꽃다발.
+    K: 죽은 자의 물건을 만지지 마라.
+   /general/WTF/general/on ground/tribute4.object.patch /floranDescription
+    T: 꽃다발이다! 생명과 아름다움의 선물, 존재의 순환을 축하하는 거다아.
+    K: 넌 위대한 사냥꾼이었어엇...편히 쉬길...
+   cts/general/avaliaquarium/avaliaquarium.object.patch /humanDescription
+    T: 이 어항은 어떤 생명 유지 포드보다도 첨단이구만...
+    K: 이걸 보니 골동품 인간 가구들이 생각나네.
+   cts/general/avaliaquarium/avaliaquarium.object.patch /novakidDescription
+    T: 이 어항은 어떤 생명 유지 포드보다도 첨단이구만...
+    K: 물고기 한 마리다. 아마 친구가 필요할 것도 같은데?
+   r/dreamcatcher1/giantavalidreamcatcher1.object.patch /description
+    T: 실, 수정, 깃털의 복잡한 무늬 거대 융합체.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   r/dreamcatcher2/giantavalidreamcatcher2.object.patch /description
+    T: 실, 수정, 깃털의 복잡한 무늬 거대 융합체.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   r/dreamcatcher3/giantavalidreamcatcher3.object.patch /description
+    T: 실, 수정, 깃털의 복잡한 무늬 거대 융합체.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   flags/avali_hangflags1/avali_hangflags1.object.patch /description
+    T: 전통 아발리 무리 깃발.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   ags/avali_hangflags10/avali_hangflags10.object.patch /description
+    T: 전통 아발리 무리 깃발, 최고급으로 정교하게 짜였다.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   ags/avali_hangflags11/avali_hangflags11.object.patch /description
+    T: 전통 아발리 무리 깃발, 최고급으로 정교하게 짜였다.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   ags/avali_hangflags12/avali_hangflags12.object.patch /description
+    T: 소박한 전통 아발리 무리 깃발.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   ags/avali_hangflags13/avali_hangflags13.object.patch /description
+    T: 매우 고품질로 정교하게 짜인 전통 아발리 깃발.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   flags/avali_hangflags2/avali_hangflags2.object.patch /description
+    T: 전통 아발리 무리 깃발, 최고급으로 정교하게 짜였다.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   flags/avali_hangflags3/avali_hangflags3.object.patch /description
+    T: 전통 아발리 무리 깃발, 최고급으로 정교하게 짜였다.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   flags/avali_hangflags4/avali_hangflags4.object.patch /description
+    T: 전통 아발리 무리 깃발.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   flags/avali_hangflags5/avali_hangflags5.object.patch /description
+    T: 전통 아발리 무리 깃발.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   flags/avali_hangflags6/avali_hangflags6.object.patch /description
+    T: 전통 아발리 무리 깃발.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   flags/avali_hangflags7/avali_hangflags7.object.patch /description
+    T: 전통 아발리 무리 깃발.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   flags/avali_hangflags8/avali_hangflags8.object.patch /description
+    T: 소박한 전통 아발리 무리 깃발.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   flags/avali_hangflags9/avali_hangflags9.object.patch /description
+    T: 전통 아발리 무리 깃발, 최고급으로 정교하게 짜였다.
+    K: 아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+   r/dreamcatcher1/giantavalidreamcatcher1.object.patch /humanDescription
+    T: 지구에서 온 드림캐처처럼 생겼네요.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   r/dreamcatcher2/giantavalidreamcatcher2.object.patch /humanDescription
+    T: 지구에서 온 드림캐처처럼 생겼네요.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   r/dreamcatcher3/giantavalidreamcatcher3.object.patch /humanDescription
+    T: 지구에서 온 드림캐처처럼 생겼네요.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   flags/avali_hangflags1/avali_hangflags1.object.patch /humanDescription
+    T: 인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   ags/avali_hangflags10/avali_hangflags10.object.patch /humanDescription
+    T: 인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   ags/avali_hangflags11/avali_hangflags11.object.patch /humanDescription
+    T: 인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   ags/avali_hangflags12/avali_hangflags12.object.patch /humanDescription
+    T: 꽤 평범한 기본 장식 아발리 깃발.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   ags/avali_hangflags13/avali_hangflags13.object.patch /humanDescription
+    T: 인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   flags/avali_hangflags2/avali_hangflags2.object.patch /humanDescription
+    T: 인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   flags/avali_hangflags3/avali_hangflags3.object.patch /humanDescription
+    T: 인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   flags/avali_hangflags4/avali_hangflags4.object.patch /humanDescription
+    T: 인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   flags/avali_hangflags5/avali_hangflags5.object.patch /humanDescription
+    T: 인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   flags/avali_hangflags6/avali_hangflags6.object.patch /humanDescription
+    T: 인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   flags/avali_hangflags7/avali_hangflags7.object.patch /humanDescription
+    T: 인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   flags/avali_hangflags8/avali_hangflags8.object.patch /humanDescription
+    T: 꽤 평범한 기본 장식 아발리 깃발.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   flags/avali_hangflags9/avali_hangflags9.object.patch /humanDescription
+    T: 인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.
+    K: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+   /objects/general/plushtoy/plushtoy_1.object.patch /description
+    T: 구블라 더미!!
+    K: 모두 피피를 찬양하라!!!
+   /objects/general/plushtoy/plushtoy_1.object.patch /apexDescription
+    T: 구블라 스택!! 구블라 스택!!
+    K: 모두 피피를 찬양하라!!!
+   /objects/general/plushtoy/plushtoy_1.object.patch /avianDescription
+    T: 구블라 스택!! 구블라 스택!!
+    K: 모두 피피를 찬양하라!!!
+   /objects/general/plushtoy/plushtoy_1.object.patch /floranDescription
+    T: 구블라 스택!! 구블라 스택!!
+    K: 모두 피피를 찬양하라!!!
+   /objects/general/plushtoy/plushtoy_1.object.patch /glitchDescription
+    T: 구블라 스택!! 구블라 스택!!
+    K: 모두 피피를 찬양하라!!!
+   /objects/general/plushtoy/plushtoy_1.object.patch /humanDescription
+    T: 구블라 스택!! 구블라 스택!!
+    K: 모두 피피를 찬양하라!!!
+   /objects/general/plushtoy/plushtoy_1.object.patch /hylotlDescription
+    T: 구블라 스택!! 구블라 스택!!
+    K: 모두 피피를 찬양하라!!!
+   /objects/general/potted/avalonplants1.object.patch /novakidDescription
+    T: 키 큰 꽃 한 무더기! 구우면 먹을 수 있으려나?
+    K: 큰 버섯 한 무더기!구우면 먹을 수 있으려나.
+   jects/generic/perfectorgan/perfectorgan.object.patch /mawgDescription
+    T: 이 괴물의 음표 하나만 들어도 기분 나쁜 기분이 많이 들거든요.
+    K: 이 괴물 같은 물건에서 음 하나만 들어도 기분 나쁜 기운이 잔뜩 느껴지는군.
+   generic/themed/gothic/gothicorgan/organ.object.patch /mawgDescription
+    T: 이 괴물의 음표 하나만 들어도 불길한 기운이 느껴져요.
+    K: 이 괴물 같은 물건에서 음 하나만 들어도 기분 나쁜 기운이 잔뜩 느껴지는군.
+   hemed/rococo/harpsichord/fu_harpsichord.object.patch /mawgDescription
+    T: 이 괴물의 노래 한 소절만 들어도 불길한 예감이 들어요.
+    K: 이 괴물 같은 물건에서 음 하나만 들어도 기분 나쁜 기운이 잔뜩 느껴지는군.
+   ets/fu_cripplerturret/fu_cripplerturret.object.patch /floranDescription
+    T: 생물체에 효과적입니다.
+    K: 살아있는 것들에게 효과적이다.
+   u_turrets/fu_flameturret/fu_flameturret.object.patch /floranDescription
+    T: 생물체에 효과적입니다.
+    K: 살아있는 것들에게 효과적이다.
+   u_turrets/fu_gaussturret/fu_gaussturret.object.patch /floranDescription
+    T: 생물체에 효과적입니다.
+    K: 살아있는 것들에게 효과적이다.
+   u_turrets/fu_laserturret/fu_laserturret.object.patch /floranDescription
+    T: 생물체에 효과적입니다.
+    K: 살아있는 것들에게 효과적이다.
+   turrets/fu_rocketturret/fu_rocketturret.object.patch /floranDescription
+    T: 생물체에 효과적입니다.
+    K: 살아있는 것들에게 효과적이다.
+   u_turrets/fu_teslaturret/fu_teslaturret.object.patch /floranDescription
+    T: 생물체에 효과적입니다.
+    K: 살아있는 것들에게 효과적이다.
+   ets/fu_cripplerturret/fu_cripplerturret.object.patch /glitchDescription
+    T: 조심해 오빠가 경계하는 걸 방해하면 안 되겠어.
+    K: 주의. 내 형제가 경계 임무를 하는 것을 방해해서는 안 된다.
+   u_turrets/fu_flameturret/fu_flameturret.object.patch /glitchDescription
+    T: 조심해 오빠가 경계하는 걸 방해하면 안 된다.
+    K: 주의. 내 형제가 경계 임무를 하는 것을 방해해서는 안 된다.
+   u_turrets/fu_gaussturret/fu_gaussturret.object.patch /glitchDescription
+    T: 조심해 형의 경계를 방해해서는 안된다.
+    K: 주의. 내 형제가 경계 임무를 하는 것을 방해해서는 안 된다.
+   u_turrets/fu_laserturret/fu_laserturret.object.patch /glitchDescription
+    T: 조심하라 형의 경계를 방해해서는 안된다.
+    K: 주의. 내 형제가 경계 임무를 하는 것을 방해해서는 안 된다.
+   turrets/fu_rocketturret/fu_rocketturret.object.patch /glitchDescription
+    T: 조심하라 형의 경계를 방해해서는 안된다.
+    K: 주의. 내 형제가 경계 임무를 하는 것을 방해해서는 안 된다.
+   u_turrets/fu_teslaturret/fu_teslaturret.object.patch /glitchDescription
+    T: 조심하라 형의 경계를 방해해서는 안된다.
+    K: 주의. 내 형제가 경계 임무를 하는 것을 방해해서는 안 된다.
+   ets/fu_cripplerturret/fu_cripplerturret.object.patch /hylotlDescription
+    T: 일종의 포탑 같은데.
+    K: 일종의 터렛같이 보인다.
+   u_turrets/fu_flameturret/fu_flameturret.object.patch /hylotlDescription
+    T: 포탑 같은데?
+    K: 일종의 터렛같이 보인다.
+   u_turrets/fu_gaussturret/fu_gaussturret.object.patch /hylotlDescription
+    T: 포탑 같은데?
+    K: 일종의 터렛같이 보인다.
+   u_turrets/fu_laserturret/fu_laserturret.object.patch /hylotlDescription
+    T: 포탑 같은데?
+    K: 일종의 터렛같이 보인다.
+   turrets/fu_rocketturret/fu_rocketturret.object.patch /hylotlDescription
+    T: 포탑 같은데.
+    K: 일종의 터렛같이 보인다.
+   u_turrets/fu_teslaturret/fu_teslaturret.object.patch /hylotlDescription
+    T: 포탑 같은 거 같아.
+    K: 일종의 터렛같이 보인다.
+   ets/fu_cripplerturret/fu_cripplerturret.object.patch /novakidDescription
+    T: 이걸로 손상을 좀 입힐 수 있을 것 같네요!
+    K: 이 물건이 확실히 피해를 줄 수 있을 것 같구만!
+   u_turrets/fu_flameturret/fu_flameturret.object.patch /novakidDescription
+    T: 이거 좀 망가뜨릴 것 같은데!
+    K: 이 물건이 확실히 피해를 줄 수 있을 것 같구만!
+   u_turrets/fu_gaussturret/fu_gaussturret.object.patch /novakidDescription
+    T: 이걸로 손상을 입힐 수 있을 것 같네요!
+    K: 이 물건이 확실히 피해를 줄 수 있을 것 같구만!
+   turrets/fu_rocketturret/fu_rocketturret.object.patch /novakidDescription
+    T: 이건 분명 피해를 줄 수 있을 것 같은데!
+    K: 이 물건이 확실히 피해를 줄 수 있을 것 같구만!
+   u_turrets/fu_teslaturret/fu_teslaturret.object.patch /novakidDescription
+    T: 이건 분명 피해를 줄 수 있을 것 같은데!
+    K: 이 물건이 확실히 피해를 줄 수 있을 것 같구만!
+   ets/fu_cripplerturret/fu_cripplerturret.object.patch /avianDescription
+    T: 괴물들은 날지 못하면 기회가 없습니다.
+    K: 몬스터들은 상대도 안 되겠어. 날지 않는다면 말이지.
+   u_turrets/fu_flameturret/fu_flameturret.object.patch /avianDescription
+    T: 괴물들은 날 수 없다면 기회가 없습니다.
+    K: 몬스터들은 상대도 안 되겠어. 날지 않는다면 말이지.
+   u_turrets/fu_gaussturret/fu_gaussturret.object.patch /avianDescription
+    T: 날 수 없다면 괴물들은 기회가 없습니다.
+    K: 몬스터들은 상대도 안 되겠어. 날지 않는다면 말이지.
+   u_turrets/fu_laserturret/fu_laserturret.object.patch /avianDescription
+    T: 날 수 없다면 괴물들은 기회가 없습니다.
+    K: 몬스터들은 상대도 안 되겠어. 날지 않는다면 말이지.
+   turrets/fu_rocketturret/fu_rocketturret.object.patch /avianDescription
+    T: 날 수 없다면 괴물들은 기회가 없습니다.
+    K: 몬스터들은 상대도 안 되겠어. 날지 않는다면 말이지.
+   u_turrets/fu_teslaturret/fu_teslaturret.object.patch /avianDescription
+    T: 날 수 없다면 괴물들은 기회가 없습니다.
+    K: 몬스터들은 상대도 안 되겠어. 날지 않는다면 말이지.
+   /objects/shop/fruitsshops/fruitsshops.object.patch /apexDescription
+    T: 저 위에 먹을 게 있긴 한 거야?..
+    K: 저건 곰이잖아... 누가 광물을 팔지?
+   /objects/shop/fruitsshops/fruitsshops.object.patch /avianDescription
+    T: 저 위에 먹을 게 있긴 한 거야?..
+    K: 이 상점은 중요한 자원을 채굴하는 대안을 제공하는 것 같다.
+   /objects/shop/fruitsshops/fruitsshops.object.patch /humanDescription
+    T: 저 위에 먹을 게 있긴 한 거야?..
+    K: 곰이다! 상점도 있네! 정말 놀라워.
+   /objects/shop/fruitsshops/fruitsshops.object.patch /hylotlDescription
+    T: 저 위에 먹을 게 있긴 한 거야?..
+    K: 이렇게나... 털이 많은 점원은 본 적이 없어.
+   /objects/shop/fruitsshops/fruitsshops.object.patch /novakidDescription
+    T: 저 위에 먹을 게 있긴 한 거야?..
+    K: 이 상점은 여길 운영하는 친구들 만큼이나 개성이 있군 그래.
+   /lighting/monicamovieads/monicamovieads.object.patch /description
+    T: 아발리 LCD 디스플레이에 메타 얀데레 영화의 순환 광고가 나오고 있다.
+    K: 아발리 LCD 화면에 아발리 워리어의 원형 광고가 나오고 있다.
+   /lighting/monicamovieads/monicamovieads.object.patch /apexDescription
+    T: 이 영화는... 흥미롭네... 광고를 다시 봐야겠어!
+    K: 우주 시대의 영웅으로 활약하는 아발리의 이야기를 담았다. 제목 아래 작은 글씨를 보면 게임 내용이 완전한 역사 기록은 아니라고 한다.
+   /lighting/monicamovieads/monicamovieads.object.patch /humanDescription
+    T: 이 영화는... 흥미롭네... 광고를 다시 봐야겠어!
+    K: 이 귀여운 녀석들이 사실은 맨손으로 전문 훈련을 받은 격투가도 기절시킬 수 있다는 거, 알고 있었어?
+   /lighting/monicamovieads/monicamovieads.object.patch /hylotlDescription
+    T: 이 영화는... 흥미롭네... 광고를 다시 봐야겠어!
+    K: 아니, 우리 세 눈 시야 이것보다 나은 게임 해야, 심해 챔피언 2.0 같은.
+   /lighting/monicamovieads/monicamovieads.object.patch /novakidDescription
+    T: 이 영화는... 흥미롭네... 광고를 다시 봐야겠어!
+    K: 이 게임 재미있어 보이는데. 이름이 아발리라고... 아무래도 광고를 다시 한번 봐야겠어!
+   /objects/mantizi2/imppitcher1.object.patch /sithDescription
+    T: 이 지저분한 물체에서 어떤 스윌 그로투를 뽑아낼지 알고 싶지 않네요.
+    K: 이 천박한 물건에서 그로투가 무슨 구정물을 맛볼지는 알고 싶지 않군.
+   /objects/mantizi2/imppitcher2.object.patch /sithDescription
+    T: 스윌 그로투가 이 조잡한 물건에서 뭘 뽑아낼지 알고 싶지 않군.
+    K: 이 천박한 물건에서 그로투가 무슨 구정물을 맛볼지는 알고 싶지 않군.
+   /objects/mantizi2/imppitcher3.object.patch /sithDescription
+    T: 스윌 그로투가 이 조잡한 물건에서 뭘 뽑아낼지 알고 싶지 않군.
+    K: 이 천박한 물건에서 그로투가 무슨 구정물을 맛볼지는 알고 싶지 않군.
+   /objects/shop/fruitsshops/fruitsshops.object.patch /description
+    T: 작은 과일 가게. 아발리 점주가 정말 친절해 보인다!
+    K: 가족 사업입니다. 제작에 쓰이는 정제된 광물들을 판매합니다.
+   /objects/table/avalipodium/avalipodium.object.patch /humanDescription
+    T: 와, 확실 인상적!
+    K: 발전기다. 예비용도 있었으면 좋겠네.
+   objects/painting/artwork/painting_patch.object.patch /zabrakDescription
+    T: 이 작품(....)을 훔쳐갈 사람을 찾기가 정말 힘들겠네요.
+    K: 이... 미술품을 팔아치울 사람 찾기가 쉽지 않겠군.
+   objects/painting/artwork/painting_patch.object.patch /rodianDescription
+    T: 이 .... 작품에 울타리를 쳐줄 사람을 찾아야겠어요.
+    K: 이... 미술품을 팔아치울 사람 찾기가 쉽지 않겠군.
+   nity2/edition15/zawanplush/PBzawanplush.object.patch /avianDescription
+    T: 어떤 그린핑거의 봉제 인형이다. 글룸우드 부족인 듯해.
+    K: 이 그린핑거는 '가시의 고리'라는 아비안 암살단과 연관되어 있다.
+   nity2/edition14/throgplush/PBthrogplush.object.patch /avianDescription
+    T: 스로그는 정말 보기 흉한 생물이야. 봉제 인형으로 있어도 마음이 불편해.
+    K: 스로그는 너무 흉측하게 생겨서 봉제 인형조차 곁에 두기 불편해.
+   objects/poster/sing1/galactictradesign1.object.patch /description
+    T: 아발리 무리나 부족을 나타내는 표식.
+    K: 이 포스터의 내용은 단순하고 명확하다.
+   objects/poster/sing2/galactictradesign2.object.patch /description
+    T: 아발리 무리나 부족을 나타내는 표식.
+    K: 이 포스터의 내용은 단순하고 명확하다.
+   objects/poster/sing3/galactictradesign3.object.patch /description
+    T: 아발리의 깃털 세 개 문장이.. 접시에?
+    K: 이 포스터의 내용은 단순하고 명확하다.
+   ts/poster/stealthposters/stealthposters.object.patch /description
+    T: 이 포스터는 아발리 민간 경비 회사의 프리랜서 모집을 광고한다.
+    K: 이 포스터의 내용은 단순하고 명확하다.
+   objects/poster/sing1/galactictradesign1.object.patch /apexDescription
+    T: 그 문장은 꽤 끔찍한 사건 보고서에서 본 적이 있다...
+    K: 이것이 에이펙스가 소유할 수 있는 유일한 레코드 판이야. 누군가는 이 안에 잠재 의식의 메세지가 포함됐다고도 말하지.
+   objects/poster/sing2/galactictradesign2.object.patch /apexDescription
+    T: 그 문장은 꽤 끔찍한 사건 보고서에서 본 적이 있다...
+    K: 이것이 에이펙스가 소유할 수 있는 유일한 레코드 판이야. 누군가는 이 안에 잠재 의식의 메세지가 포함됐다고도 말하지.
+   objects/poster/sing3/galactictradesign3.object.patch /apexDescription
+    T: 아발리의 세 깃 문장이.. 그릇 안에?
+    K: 이것이 에이펙스가 소유할 수 있는 유일한 레코드 판이야. 누군가는 이 안에 잠재 의식의 메세지가 포함됐다고도 말하지.
+   /objects/poster/vailrd/vailrd.object.patch /apexDescription
+    T: 이 표지 광고... 정장 리셉션?
+    K: 이것이 에이펙스가 소유할 수 있는 유일한 레코드 판이야. 누군가는 이 안에 잠재 의식의 메세지가 포함됐다고도 말하지.
+   objects/poster/sing1/galactictradesign1.object.patch /floranDescription
+    T: 플로란 나쁜 곳에서 본 것 같아아아.
+    K: 반짝이는 검은색 원이다.
+   objects/poster/sing2/galactictradesign2.object.patch /floranDescription
+    T: 플로란 나쁜 곳에서 본 것 같아아아.
+    K: 반짝이는 검은색 원이다.
+   objects/poster/sing3/galactictradesign3.object.patch /floranDescription
+    T: 플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나요?
+    K: 반짝이는 검은색 원이다.
+   objects/poster/sing1/galactictradesign1.object.patch /glitchDescription
+    T: 분석. 이 아발리 문장은 폭력적 결말과 강한 통계 상관.
+    K: 혼란. 불명의 미디어 타입이다.
+   objects/poster/sing2/galactictradesign2.object.patch /glitchDescription
+    T: 분석. 이 아발리 문장은 폭력적 결말과 강한 통계 상관.
+    K: 혼란. 불명의 미디어 타입이다.
+   ts/poster/stealthposters/stealthposters.object.patch /glitchDescription
+    T: 흥미. 이 포스터가 일종의 직업 기회를 제공하고 있다.
+    K: 혼란. 불명의 미디어 타입이다.
+   /objects/poster/vailrd/vailrd.object.patch /glitchDescription
+    T: 비평. 와트?
+    K: 혼란. 불명의 미디어 타입이다.
+   objects/poster/sing1/galactictradesign1.object.patch /humanDescription
+    T: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해합니다.
+    K: 저거... 비닐 레코드인가? 힙한데.
+   objects/poster/sing2/galactictradesign2.object.patch /humanDescription
+    T: 인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해합니다.
+    K: 저거... 비닐 레코드인가? 힙한데.
+   objects/poster/sing3/galactictradesign3.object.patch /humanDescription
+    T: 아발리의 세 깃 문장이.. 그릇 안에?
+    K: 저거... 비닐 레코드인가? 힙한데.
+   /objects/poster/vailrd/vailrd.object.patch /humanDescription
+    T: 뭔가... 생각나.. 아!
+    K: 저거... 비닐 레코드인가? 힙한데.
+   objects/poster/sing1/galactictradesign1.object.patch /hylotlDescription
+    T: 이건 아발리의 부족 문장이야. 모든 무리가 우호적인 건 아니고, 문장을 어디에 걸어 두었는지를 보면 많은 걸 알 수 있지.
+    K: 이 디스크에는 홈이 있다.
+   objects/poster/sing2/galactictradesign2.object.patch /hylotlDescription
+    T: 이건 아발리의 부족 문장이야. 모든 무리가 우호적인 건 아니고, 문장을 어디에 걸어 두었는지를 보면 많은 걸 알 수 있지.
+    K: 이 디스크에는 홈이 있다.
+   objects/poster/sing3/galactictradesign3.object.patch /hylotlDescription
+    T: 아발리의 세 깃 문장이.. 그릇 안에?
+    K: 이 디스크에는 홈이 있다.
+   /objects/poster/vailrd/vailrd.object.patch /hylotlDescription
+    T: 부적절, 인류학적 관심 없어요.
+    K: 이 디스크에는 홈이 있다.
+   objects/poster/sing1/galactictradesign1.object.patch /novakidDescription
+    T: 이런, 통신에도 응답하지 않는 함선에서 보고 싶은 물건은 아니군!
+    K: 이 디스크에는 미묘한 패턴이 있군.
+   objects/poster/sing2/galactictradesign2.object.patch /novakidDescription
+    T: 이런, 통신에도 응답하지 않는 함선에서 보고 싶은 물건은 아니군!
+    K: 이 디스크에는 미묘한 패턴이 있군.
+   objects/poster/sing3/galactictradesign3.object.patch /novakidDescription
+    T: 아발리의 세 깃 문장이.. 그릇 안에?
+    K: 이 디스크에는 미묘한 패턴이 있군.
+   /objects/poster/vailrd/vailrd.object.patch /novakidDescription
+    T: 저거! 저거 와일드 라이드!
+    K: 이 디스크에는 미묘한 패턴이 있군.
+   _byoscaptainschair/fu_byoscaptainschair.object.patch /aegiDescription
+    T: 이 함장 의자를 통해 내비게이션 콘솔에 접근할 수 있습니다.
+    K: 이 함장석으로 항법 콘솔에 접근할 수 있어.
+   yoscaptainschair2/fu_byoscaptainschair2.object.patch /aegiDescription
+    T: 이 선장 의자에 앉으면 내비게이션 콘솔에 액세스할 수 있습니다.
+    K: 이 함장석으로 항법 콘솔에 접근할 수 있어.
+   _byoscaptainschair/fu_byoscaptainschair.object.patch /avikanDescription
+    T: 선장의 의자 - 이 의자에 앉게 되어 정말 영광입니다.
+    K: 함장석이라, 여기 앉는 건 진정한 영광이지.
+   yoscaptainschair2/fu_byoscaptainschair2.object.patch /avikanDescription
+    T: 선장의 의자 - 이 의자에 앉게 되어 정말 영광입니다.
+    K: 함장석이라, 여기 앉는 건 진정한 영광이지.
+   _byoscaptainschair/fu_byoscaptainschair.object.patch /draunaarDescription
+    T: 선장의 의자. 내비게이션 콘솔과 비행 컨트롤에 대한 액세스 권한을 부여합니다.
+    K: 함장석이네. 항법 콘솔과 비행 조종장치에 접근할 수 있게 해주지.
+   yoscaptainschair2/fu_byoscaptainschair2.object.patch /draunaarDescription
+    T: 선장의 의자. 내비게이션 콘솔과 비행 컨트롤에 대한 액세스 권한을 부여합니다.
+    K: 함장석이네. 항법 콘솔과 비행 조종장치에 접근할 수 있게 해주지.
+   _byoscaptainschair/fu_byoscaptainschair.object.patch /trinkDescription
+    T: 이 선장의 의자에는 특수 센서가 있어서 주인만 내비게이터를 사용할 수 있어요.
+    K: 이 함장석에는 전용 센서가 있어서 주인만 항법 장치를 쓸 수 있지.
+   yoscaptainschair2/fu_byoscaptainschair2.object.patch /trinkDescription
+    T: 이 선장의 의자에는 특수 센서가 있어서 주인만 내비게이터를 사용할 수 있어요.
+    K: 이 함장석에는 전용 센서가 있어서 주인만 항법 장치를 쓸 수 있지.
+   _byoscaptainschair/fu_byoscaptainschair.object.patch /hymidDescription
+    T: 선장의 의자예요. 배의 내비게이션 콘솔이 여기에 연결되어 있습니다.
+    K: 함장석이네. 함선의 항법 콘솔이 여기 연결돼 있어.
+   yoscaptainschair2/fu_byoscaptainschair2.object.patch /hymidDescription
+    T: 선장의 의자예요. 배의 내비게이션 콘솔이 여기에 연결되어 있습니다.
+    K: 함장석이네. 함선의 항법 콘솔이 여기 연결돼 있어.
+   _byoscaptainschair/fu_byoscaptainschair.object.patch /notixDescription
+    T: 함장의 의자를 통해 우주선의 내비게이터에 접근할 수 있습니다.
+    K: 함장석이네, 우주선 항법 장치에 접근할 수 있게 해주지.
+   yoscaptainschair2/fu_byoscaptainschair2.object.patch /notixDescription
+    T: 함장의 의자를 통해 우주선의 내비게이터에 접근할 수 있습니다.
+    K: 함장석이네, 우주선 항법 장치에 접근할 수 있게 해주지.
+   _byoscaptainschair/fu_byoscaptainschair.object.patch /jorgasianDescription
+    T: 함선의 내비게이션 콘솔은 이 함장 의자에서 액세스할 수 있습니다.
+    K: 이 함장석에서 함선의 항법 콘솔에 접근할 수 있지.
+   yoscaptainschair2/fu_byoscaptainschair2.object.patch /jorgasianDescription
+    T: 함선의 내비게이션 콘솔은 이 함장 의자에서 액세스할 수 있습니다.
+    K: 이 함장석에서 함선의 항법 콘솔에 접근할 수 있지.
+   _byoscaptainschair/fu_byoscaptainschair.object.patch /drodenDescription
+    T: 함장 의자를 감지했습니다. 내비게이션 콘솔에 대한 접근 권한을 부여합니다.
+    K: 함장석 감지됨. 항법 콘솔 접근 권한 부여함.
+   yoscaptainschair2/fu_byoscaptainschair2.object.patch /drodenDescription
+    T: 함장 의자를 감지했습니다. 내비게이션 콘솔에 대한 접근 권한을 부여합니다.
+    K: 함장석 감지됨. 항법 콘솔 접근 권한 부여함.
+   _byoscaptainschair/fu_byoscaptainschair.object.patch /akkimariDescription
+    T: 의자-캡틴. 콘솔 내비게이션에 연결됩니다.
+    K: 의자-함장. 콘솔-항법 연결됨.
+   yoscaptainschair2/fu_byoscaptainschair2.object.patch /akkimariDescription
+    T: 의자-선장. 콘솔 내비게이션에 연결됩니다.
+    K: 의자-함장. 콘솔-항법 연결됨.
+   sbrokenfuelhatch/fu_byosbrokenfuelhatch.object.patch /aegiDescription
+    T: FTL 연료를 넣을 수 있는 해치입니다. 편리하죠.
+    K: FTL 연료를 넣는 해치네. 편리해.
+   /ship/fu_byosfuelhatch/fu_byosfuelhatch.object.patch /aegiDescription
+    T: FTL 연료를 넣을 수 있는 해치입니다. 편리하네
+    K: FTL 연료를 넣는 해치네. 편리해.
+   sbrokenfuelhatch/fu_byosbrokenfuelhatch.object.patch /avikanDescription
+    T: 이 해치는 우주선의 메인 FTL 연료통과 연결되어 있습니다.
+    K: 이 해치는 함선의 주 FTL 연료 탱크와 연결돼 있어.
+   /ship/fu_byosfuelhatch/fu_byosfuelhatch.object.patch /avikanDescription
+    T: 이 해치는 우주선의 메인 FTL 연료통과 연결되어 있습니다.
+    K: 이 해치는 함선의 주 FTL 연료 탱크와 연결돼 있어.
+   sbrokenfuelhatch/fu_byosbrokenfuelhatch.object.patch /draunaarDescription
+    T: 우주선에 연료를 보급하고 다시 탐험을 시작합시다!
+    K: 함선에 연료 채우고 다시 탐사하러 가자!
+   /ship/fu_byosfuelhatch/fu_byosfuelhatch.object.patch /draunaarDescription
+    T: 연료를 채우고 다시 탐험을 시작합시다!
+    K: 함선에 연료 채우고 다시 탐사하러 가자!
+   sbrokenfuelhatch/fu_byosbrokenfuelhatch.object.patch /trinkDescription
+    T: 이 해치를 통해 함선의 FTL 연료 공급에 접근할 수 있습니다.
+    K: 이 해치로 함선의 FTL 연료 보급분에 접근할 수 있지.
+   /ship/fu_byosfuelhatch/fu_byosfuelhatch.object.patch /trinkDescription
+    T: 이 해치를 통해 우주선에 공급되는 FTL 연료에 접근할 수 있습니다.
+    K: 이 해치로 함선의 FTL 연료 보급분에 접근할 수 있지.
+   sbrokenfuelhatch/fu_byosbrokenfuelhatch.object.patch /hymidDescription
+    T: FTL 드라이브의 연료는 여기로 들어갑니다.
+    K: FTL 드라이브용 연료는 여기로 넣지.
+   /ship/fu_byosfuelhatch/fu_byosfuelhatch.object.patch /hymidDescription
+    T: FTL 드라이브용 연료는 여기로 들어갑니다.
+    K: FTL 드라이브용 연료는 여기로 넣지.
+   sbrokenfuelhatch/fu_byosbrokenfuelhatch.object.patch /jorgasianDescription
+    T: 이 해치를 통해 우주선의 FTL 연료 비축량을 보충할 수 있습니다.
+    K: 이 해치로 함선의 FTL 연료 비축분을 재보급할 수 있지.
+   /ship/fu_byosfuelhatch/fu_byosfuelhatch.object.patch /jorgasianDescription
+    T: 이 해치를 통해 우주선의 FTL 연료 비축량을 재공급할 수 있습니다.
+    K: 이 해치로 함선의 FTL 연료 비축분을 재보급할 수 있지.
+   sbrokenfuelhatch/fu_byosbrokenfuelhatch.object.patch /drodenDescription
+    T: FTL 연료 해치가 감지되었습니다. 연료를 보급하세요.
+    K: FTL 연료 해치 감지됨. 연료를 보급해.
+   /ship/fu_byosfuelhatch/fu_byosfuelhatch.object.patch /drodenDescription
+    T: FTL 연료 해치가 감지되었습니다. 연료를 보급하세요.
+    K: FTL 연료 해치 감지됨. 연료를 보급해.
+   sbrokenfuelhatch/fu_byosbrokenfuelhatch.object.patch /akkimariDescription
+    T: 아키가 여기에 연료를 넣으면 배는 더 멀리 날아갑니다.
+    K: 아키 여기 연료 넣는다, 함선 더 멀리 난다.
+   /ship/fu_byosfuelhatch/fu_byosfuelhatch.object.patch /akkimariDescription
+    T: 아키가 여기에 연료를 넣으면 우주선이 더 멀리 날아갈 거야.
+    K: 아키 여기 연료 넣는다, 함선 더 멀리 난다.
+   hip/fu_byosshiplocker/fu_byosshiplocker.object.patch /aegiDescription
+    T: 선박 사물함. 물건을 보관할 때 유용합니다.
+    K: 함선용 사물함이네. 물건 보관에 유용해.
+   sshiplockerTier0/fu_byosshiplockerTier0.object.patch /aegiDescription
+    T: 선박 사물함. 물건을 보관할 때 유용합니다.
+    K: 함선용 사물함이네. 물건 보관에 유용해.
+   hip/fu_byosshiplocker/fu_byosshiplocker.object.patch /avikanDescription
+    T: 배의 사물함. 정찰을 통해 발견한 유물을 보관할 때 유용합니다.
+    K: 함선용 사물함이네. 정찰 중에 찾은 유물을 보관하기 좋아.
+   sshiplockerTier0/fu_byosshiplockerTier0.object.patch /avikanDescription
+    T: 선박 보관함. 정찰을 통해 발견한 유물을 보관할 때 유용합니다.
+    K: 함선용 사물함이네. 정찰 중에 찾은 유물을 보관하기 좋아.
+   hip/fu_byosshiplocker/fu_byosshiplocker.object.patch /draunaarDescription
+    T: 이 함선 사물함에는 많은 아이템을 보관할 수 있습니다.
+    K: 이 함선용 사물함은 물건을 많이 담을 수 있지.
+   sshiplockerTier0/fu_byosshiplockerTier0.object.patch /draunaarDescription
+    T: 이 함선 사물함에는 많은 물건을 보관할 수 있습니다.
+    K: 이 함선용 사물함은 물건을 많이 담을 수 있지.
+   hip/fu_byosshiplocker/fu_byosshiplocker.object.patch /trinkDescription
+    T: 선박 사물함. 아이러니하게도 잠글 수 없죠.
+    K: 함선용 사물함이네. 아이러니하게도 잠글 수가 없어.
+   sshiplockerTier0/fu_byosshiplockerTier0.object.patch /trinkDescription
+    T: 배 사물함 아이러니하게도 잠글 수 없죠.
+    K: 함선용 사물함이네. 아이러니하게도 잠글 수가 없어.
+   sshiplockerTier0/fu_byosshiplockerTier0.object.patch /hymidDescription
+    T: 이 보관함에 뭐가 들어있을지 궁금하군.
+    K: 이 사물함 안에 뭐가 들었을지 궁금하네.
+   hip/fu_byosshiplocker/fu_byosshiplocker.object.patch /notixDescription
+    T: 상당한 크기의 선박 사물함.
+    K: 꽤 큰 함선용 사물함이네.
+   sshiplockerTier0/fu_byosshiplockerTier0.object.patch /notixDescription
+    T: 상당한 크기의 선박 사물함입니다.
+    K: 꽤 큰 함선용 사물함이네.
+   hip/fu_byosshiplocker/fu_byosshiplocker.object.patch /jorgasianDescription
+    T: 물건을 보관하기에는 좋지만 너무 안전하지는 않아요.
+    K: 물건 보관엔 좋지만 그리 안전하진 않네.
+   sshiplockerTier0/fu_byosshiplockerTier0.object.patch /jorgasianDescription
+    T: 물건을 보관하기에는 좋지만 너무 안전하지는 않습니다.
+    K: 물건 보관엔 좋지만 그리 안전하진 않네.
+   hip/fu_byosshiplocker/fu_byosshiplocker.object.patch /drodenDescription
+    T: 함선 사물함을 감지했습니다. 내용물 스캔에 실패했습니다.
+    K: 함선용 사물함 감지됨. 내용물 스캔 실패.
+   sshiplockerTier0/fu_byosshiplockerTier0.object.patch /drodenDescription
+    T: 함선 사물함을 감지했습니다. 내용물 스캔에 실패했습니다.
+    K: 함선용 사물함 감지됨. 내용물 스캔 실패.
+   hip/fu_byosshiplocker/fu_byosshiplocker.object.patch /akkimariDescription
+    T: 로커선, 많은 물건을 보관할 수 있습니다.
+    K: 사물함-함선, 물건-많이 보관용.
+   sshiplockerTier0/fu_byosshiplockerTier0.object.patch /akkimariDescription
+    T: 사물함-선박, 많은 물건을 보관하는 곳.
+    K: 사물함-함선, 물건-많이 보관용.
+   hip/fu_byosteleporter/fu_byosteleporter.object.patch /aegiDescription
+    T: 우주선의 텔레포터요. 순간이동할 때면 항상 아벤토르 레이싱 우주선을 타고 있는 기분이 들어요!
+    K: 함선용 텔레포터야. 순간이동할 때마다 항상 아벤토르 레이싱 우주선을 탄 기분이 들어!
+   steleporterTier0/fu_byosteleporterTier0.object.patch /aegiDescription
+    T: 우주선의 텔레포터. 순간이동할 때면 항상 아벤토르 레이싱 우주선을 타고 있는 기분이 들어요!
+    K: 함선용 텔레포터야. 순간이동할 때마다 항상 아벤토르 레이싱 우주선을 탄 기분이 들어!
+   tersmall/fu_byosteleportersmall_fenerox.object.patch /aegiDescription
+    T: 함선의 텔레포터입니다. 순간이동할 때면 항상 아벤토르 레이싱 우주선을 타고 있는 기분이 들어요!
+    K: 함선용 텔레포터야. 순간이동할 때마다 항상 아벤토르 레이싱 우주선을 탄 기분이 들어!
+   portersmall/fu_byosteleportersmall_juux.object.patch /aegiDescription
+    T: 우주선의 텔레포터. 순간이동할 때면 항상 아벤토르 레이싱 우주선을 타고 있는 기분이 들어요!
+    K: 함선용 텔레포터야. 순간이동할 때마다 항상 아벤토르 레이싱 우주선을 탄 기분이 들어!
+   rtersmall/fu_byosteleportersmall_kirhos.object.patch /aegiDescription
+    T: 우주선의 텔레포터. 순간이동할 때면 항상 아벤토르 레이싱 우주선을 타고 있는 기분이 들어요!
+    K: 함선용 텔레포터야. 순간이동할 때마다 항상 아벤토르 레이싱 우주선을 탄 기분이 들어!
+   rsmall/fu_byosteleportersmall_thelusian.object.patch /aegiDescription
+    T: 우주선의 텔레포터. 순간이동할 때면 항상 아벤토르 레이싱 우주선을 타고 있는 기분이 들어요!
+    K: 함선용 텔레포터야. 순간이동할 때마다 항상 아벤토르 레이싱 우주선을 탄 기분이 들어!
+   ortersmall/fu_byosteleportersmall_veluu.object.patch /aegiDescription
+    T: 우주선의 텔레포터. 순간이동할 때면 항상 아벤토르 레이싱 우주선을 타고 있는 기분이 들어요!
+    K: 함선용 텔레포터야. 순간이동할 때마다 항상 아벤토르 레이싱 우주선을 탄 기분이 들어!
+   hip/fu_byosteleporter/fu_byosteleporter.object.patch /avikanDescription
+    T: 우주선의 텔레포터. 이걸 사용하면 거대한 샌드 크롤러를 최고 속도로 타는 기분이 듭니다.
+    K: 함선용 텔레포터네. 쓰고 있으면 거대한 샌드크롤러를 전속력으로 타는 기분이야.
+   steleporterTier0/fu_byosteleporterTier0.object.patch /avikanDescription
+    T: 우주선의 텔레포터. 이걸 쓰면 거대한 샌드 크롤러를 타고 최고 속도로 달리는 기분이야.
+    K: 함선용 텔레포터네. 쓰고 있으면 거대한 샌드크롤러를 전속력으로 타는 기분이야.
+   tersmall/fu_byosteleportersmall_fenerox.object.patch /avikanDescription
+    T: 우주선의 텔레포터. 이걸 사용하면 거대한 샌드 크롤러를 최고 속도로 타는 기분이 듭니다.
+    K: 함선용 텔레포터네. 쓰고 있으면 거대한 샌드크롤러를 전속력으로 타는 기분이야.
+   portersmall/fu_byosteleportersmall_juux.object.patch /avikanDescription
+    T: 우주선의 텔레포터. 이걸 사용하면 거대한 샌드 크롤러를 최고 속도로 타는 기분이 듭니다.
+    K: 함선용 텔레포터네. 쓰고 있으면 거대한 샌드크롤러를 전속력으로 타는 기분이야.
+   rtersmall/fu_byosteleportersmall_kirhos.object.patch /avikanDescription
+    T: 우주선의 텔레포터. 이걸 사용하면 거대한 샌드 크롤러를 최고 속도로 타는 기분이 듭니다.
+    K: 함선용 텔레포터네. 쓰고 있으면 거대한 샌드크롤러를 전속력으로 타는 기분이야.
+   rsmall/fu_byosteleportersmall_thelusian.object.patch /avikanDescription
+    T: 우주선의 텔레포터. 이걸 사용하면 거대한 샌드 크롤러를 최고 속도로 타는 기분이 듭니다.
+    K: 함선용 텔레포터네. 쓰고 있으면 거대한 샌드크롤러를 전속력으로 타는 기분이야.
+   ortersmall/fu_byosteleportersmall_veluu.object.patch /avikanDescription
+    T: 우주선의 텔레포터. 이걸 사용하면 거대한 샌드 크롤러를 최고 속도로 타는 기분이 듭니다.
+    K: 함선용 텔레포터네. 쓰고 있으면 거대한 샌드크롤러를 전속력으로 타는 기분이야.
+   hip/fu_byosteleporter/fu_byosteleporter.object.patch /trinkDescription
+    T: 어떤 종족은 순간이동할 때 감각을 느끼지만, 난 아무 감각도 느껴지지 않아요.
+    K: 순간이동할 때 뭔가 느낀다는 종족도 있던데, 난 전혀 그런 게 없네.
+   steleporterTier0/fu_byosteleporterTier0.object.patch /trinkDescription
+    T: 어떤 종들은 순간이동할 때 감각을 느끼지만 저는 아무 감각도 느끼지 못합니다.
+    K: 순간이동할 때 뭔가 느낀다는 종족도 있던데, 난 전혀 그런 게 없네.
+   tersmall/fu_byosteleportersmall_fenerox.object.patch /trinkDescription
+    T: 어떤 종족은 순간이동할 때 감각을 느끼지만 난 아무 감각도 느끼지 못하네.
+    K: 순간이동할 때 뭔가 느낀다는 종족도 있던데, 난 전혀 그런 게 없네.
+   portersmall/fu_byosteleportersmall_juux.object.patch /trinkDescription
+    T: 어떤 종족은 순간이동할 때 감각을 느끼지만 난 아무 감각도 느끼지 못하네.
+    K: 순간이동할 때 뭔가 느낀다는 종족도 있던데, 난 전혀 그런 게 없네.
+   rtersmall/fu_byosteleportersmall_kirhos.object.patch /trinkDescription
+    T: 어떤 종족은 순간이동할 때 감각을 느끼지만 난 아무 감각도 느끼지 못하네.
+    K: 순간이동할 때 뭔가 느낀다는 종족도 있던데, 난 전혀 그런 게 없네.
+   rsmall/fu_byosteleportersmall_thelusian.object.patch /trinkDescription
+    T: 어떤 종족은 순간이동할 때 감각을 느끼지만, 난 아무 감각도 느껴지지 않아요.
+    K: 순간이동할 때 뭔가 느낀다는 종족도 있던데, 난 전혀 그런 게 없네.
+   ortersmall/fu_byosteleportersmall_veluu.object.patch /trinkDescription
+    T: 어떤 종족은 순간이동할 때 감각을 느끼지만 난 아무 감각도 느끼지 못하네.
+    K: 순간이동할 때 뭔가 느낀다는 종족도 있던데, 난 전혀 그런 게 없네.
+   hip/fu_byosteleporter/fu_byosteleporter.object.patch /hymidDescription
+    T: 순간 이동은 정말 멋져요. 이런 느낌은 처음이에요.
+    K: 순간이동은 느낌이 굉장해. 이것과 견줄 만한 걸 나는 알지 못해.
+   steleporterTier0/fu_byosteleporterTier0.object.patch /hymidDescription
+    T: 순간이동은 정말 끝내준다. 이런 느낌은 처음이야.
+    K: 순간이동은 느낌이 굉장해. 이것과 견줄 만한 걸 나는 알지 못해.
+   tersmall/fu_byosteleportersmall_fenerox.object.patch /hymidDescription
+    T: 순간 이동은 정말 멋져요. 이런 느낌은 처음이에요.
+    K: 순간이동은 느낌이 굉장해. 이것과 견줄 만한 걸 나는 알지 못해.
+   portersmall/fu_byosteleportersmall_juux.object.patch /hymidDescription
+    T: 순간 이동은 정말 멋져요. 이런 느낌은 처음이에요.
+    K: 순간이동은 느낌이 굉장해. 이것과 견줄 만한 걸 나는 알지 못해.
+   rtersmall/fu_byosteleportersmall_kirhos.object.patch /hymidDescription
+    T: 순간 이동은 정말 멋져요. 이런 느낌은 처음이에요.
+    K: 순간이동은 느낌이 굉장해. 이것과 견줄 만한 걸 나는 알지 못해.
+   rsmall/fu_byosteleportersmall_thelusian.object.patch /hymidDescription
+    T: 순간 이동은 정말 멋져요. 이런 느낌은 처음이에요.
+    K: 순간이동은 느낌이 굉장해. 이것과 견줄 만한 걸 나는 알지 못해.
+   ortersmall/fu_byosteleportersmall_veluu.object.patch /hymidDescription
+    T: 순간 이동은 정말 멋져요. 이런 느낌은 처음이에요.
+    K: 순간이동은 느낌이 굉장해. 이것과 견줄 만한 걸 나는 알지 못해.
+   hip/fu_byosteleporter/fu_byosteleporter.object.patch /notixDescription
+    T: 우주선의 텔레포터. 순간이동할 때 들리는 소리는 정말 매력적입니다.
+    K: 함선용 텔레포터네. 순간이동할 때 들리는 소리가 정말 매혹적이야.
+   steleporterTier0/fu_byosteleporterTier0.object.patch /notixDescription
+    T: 우주선의 텔레포터. 순간이동할 때 들리는 소리는 정말 매력적입니다.
+    K: 함선용 텔레포터네. 순간이동할 때 들리는 소리가 정말 매혹적이야.
+   tersmall/fu_byosteleportersmall_fenerox.object.patch /notixDescription
+    T: 우주선의 텔레포터. 순간이동할 때 들리는 소리는 정말 매력적입니다.
+    K: 함선용 텔레포터네. 순간이동할 때 들리는 소리가 정말 매혹적이야.
+   portersmall/fu_byosteleportersmall_juux.object.patch /notixDescription
+    T: 우주선의 텔레포터. 순간이동할 때 들리는 소리는 정말 매력적입니다.
+    K: 함선용 텔레포터네. 순간이동할 때 들리는 소리가 정말 매혹적이야.
+   rtersmall/fu_byosteleportersmall_kirhos.object.patch /notixDescription
+    T: 우주선의 텔레포터. 순간이동할 때 들리는 소리는 정말 매력적입니다.
+    K: 함선용 텔레포터네. 순간이동할 때 들리는 소리가 정말 매혹적이야.
+   rsmall/fu_byosteleportersmall_thelusian.object.patch /notixDescription
+    T: 우주선의 텔레포터. 순간이동할 때 들리는 소리는 정말 매력적입니다.
+    K: 함선용 텔레포터네. 순간이동할 때 들리는 소리가 정말 매혹적이야.
+   ortersmall/fu_byosteleportersmall_veluu.object.patch /notixDescription
+    T: 우주선의 텔레포터. 순간이동할 때 들리는 소리는 정말 매력적입니다.
+    K: 함선용 텔레포터네. 순간이동할 때 들리는 소리가 정말 매혹적이야.
+   hip/fu_byosteleporter/fu_byosteleporter.object.patch /jorgasianDescription
+    T: 이 텔레포터를 사용하면 우주선과 제 아래 행성 사이를 거의 즉시 이동할 수 있습니다.
+    K: 이 텔레포터 덕분에 함선과 아래 행성 사이를 거의 즉시 오갈 수 있군.
+   steleporterTier0/fu_byosteleporterTier0.object.patch /jorgasianDescription
+    T: 이 텔레포터를 이용하면 우주선과 내 아래 행성 사이를 거의 즉시 이동할 수 있어.
+    K: 이 텔레포터 덕분에 함선과 아래 행성 사이를 거의 즉시 오갈 수 있군.
+   tersmall/fu_byosteleportersmall_fenerox.object.patch /jorgasianDescription
+    T: 이 텔레포터를 사용하면 우주선과 제 아래 행성 사이를 거의 즉시 이동할 수 있습니다.
+    K: 이 텔레포터 덕분에 함선과 아래 행성 사이를 거의 즉시 오갈 수 있군.
+   portersmall/fu_byosteleportersmall_juux.object.patch /jorgasianDescription
+    T: 이 텔레포터를 사용하면 우주선과 제 아래 행성 사이를 거의 즉시 이동할 수 있습니다.
+    K: 이 텔레포터 덕분에 함선과 아래 행성 사이를 거의 즉시 오갈 수 있군.
+   rtersmall/fu_byosteleportersmall_kirhos.object.patch /jorgasianDescription
+    T: 이 텔레포터를 사용하면 우주선과 제 아래 행성 사이를 거의 즉시 이동할 수 있습니다.
+    K: 이 텔레포터 덕분에 함선과 아래 행성 사이를 거의 즉시 오갈 수 있군.
+   rsmall/fu_byosteleportersmall_thelusian.object.patch /jorgasianDescription
+    T: 이 텔레포터를 사용하면 우주선과 제 아래 행성 사이를 거의 즉시 이동할 수 있습니다.
+    K: 이 텔레포터 덕분에 함선과 아래 행성 사이를 거의 즉시 오갈 수 있군.
+   ortersmall/fu_byosteleportersmall_veluu.object.patch /jorgasianDescription
+    T: 이 텔레포터를 사용하면 우주선과 제 아래 행성 사이를 거의 즉시 이동할 수 있습니다.
+    K: 이 텔레포터 덕분에 함선과 아래 행성 사이를 거의 즉시 오갈 수 있군.
+   hip/fu_byosteleporter/fu_byosteleporter.object.patch /drodenDescription
+    T: 순간이동 기술이 감지되었습니다. 잠재적인 데이터 손실을 최소화하기 위해 텔레포트 프로세스 중에 대기 모드로 전환하는 것이 좋습니다.
+    K: 순간이동 기술 감지. 데이터 손실 최소화를 위해 순간이동 과정 중 대기 모드 진입을 권장함.
+   steleporterTier0/fu_byosteleporterTier0.object.patch /drodenDescription
+    T: 순간이동 기술이 감지되었습니다. 잠재적인 데이터 손실을 최소화하기 위해 순간이동 중 대기 모드로 전환하는 것이 좋습니다.
+    K: 순간이동 기술 감지. 데이터 손실 최소화를 위해 순간이동 과정 중 대기 모드 진입을 권장함.
+   tersmall/fu_byosteleportersmall_fenerox.object.patch /drodenDescription
+    T: 순간이동 기술이 감지되었습니다. 잠재적인 데이터 손실을 최소화하기 위해 순간이동 중 대기 모드로 전환할 것을 권장합니다.
+    K: 순간이동 기술 감지. 데이터 손실 최소화를 위해 순간이동 과정 중 대기 모드 진입을 권장함.
+   portersmall/fu_byosteleportersmall_juux.object.patch /drodenDescription
+    T: 순간이동 기술이 감지되었습니다. 잠재적인 데이터 손실을 최소화하기 위해 순간이동 중 대기 모드로 전환할 것을 권장합니다.
+    K: 순간이동 기술 감지. 데이터 손실 최소화를 위해 순간이동 과정 중 대기 모드 진입을 권장함.
+   rtersmall/fu_byosteleportersmall_kirhos.object.patch /drodenDescription
+    T: 순간이동 기술이 감지되었습니다. 잠재적인 데이터 손실을 최소화하기 위해 순간이동 중 대기 모드로 전환할 것을 권장합니다.
+    K: 순간이동 기술 감지. 데이터 손실 최소화를 위해 순간이동 과정 중 대기 모드 진입을 권장함.
+   rsmall/fu_byosteleportersmall_thelusian.object.patch /drodenDescription
+    T: 순간이동 기술이 감지되었습니다. 잠재적인 데이터 손실을 최소화하기 위해 순간이동 중 대기 모드로 전환할 것을 권장합니다.
+    K: 순간이동 기술 감지. 데이터 손실 최소화를 위해 순간이동 과정 중 대기 모드 진입을 권장함.
+   ortersmall/fu_byosteleportersmall_veluu.object.patch /drodenDescription
+    T: 순간이동 기술이 감지되었습니다. 잠재적인 데이터 손실을 최소화하기 위해 순간이동 중 대기 모드로 전환할 것을 권장합니다.
+    K: 순간이동 기술 감지. 데이터 손실 최소화를 위해 순간이동 과정 중 대기 모드 진입을 권장함.
+   hip/fu_byosteleporter/fu_byosteleporter.object.patch /akkimariDescription
+    T: 아키는 순간이동할 때 기분이 이상해요.
+    K: 아키 순간이동할 때 이상한 느낌 든다.
+   steleporterTier0/fu_byosteleporterTier0.object.patch /akkimariDescription
+    T: 아키는 순간이동할 때 기분이 이상해.
+    K: 아키 순간이동할 때 이상한 느낌 든다.
+   tersmall/fu_byosteleportersmall_fenerox.object.patch /akkimariDescription
+    T: 아키는 순간이동할 때 기분이 이상해요.
+    K: 아키 순간이동할 때 이상한 느낌 든다.
+   portersmall/fu_byosteleportersmall_juux.object.patch /akkimariDescription
+    T: 아키는 순간이동할 때 기분이 이상해.
+    K: 아키 순간이동할 때 이상한 느낌 든다.
+   rtersmall/fu_byosteleportersmall_kirhos.object.patch /akkimariDescription
+    T: 아키는 순간이동할 때 기분이 이상해.
+    K: 아키 순간이동할 때 이상한 느낌 든다.
+   rsmall/fu_byosteleportersmall_thelusian.object.patch /akkimariDescription
+    T: 아키는 순간이동할 때 기분이 이상해.
+    K: 아키 순간이동할 때 이상한 느낌 든다.
+   ortersmall/fu_byosteleportersmall_veluu.object.patch /akkimariDescription
+    T: 아키는 순간이동할 때 기분이 이상해.
+    K: 아키 순간이동할 때 이상한 느낌 든다.
+   /ship/angeltechstation/angeltechstation.object.patch /floranDescription
+    T: 플로란이 이 마법 패널로 초록색 네키와 대화하는 데 쓰임!
+    K: 플로란은 이 마법 패널로 세일이랑 얘기해엇
+   ts/ship/fu_byosshipdoor/fu_byosshipdoor.object.patch /avikanDescription
+    T: 우주선에서 사용하기 위해 만들어진 튼튼한 집의 문입니다.
+    K: 고향에서 온 튼튼한 문이네, 함선용으로 만들어졌지.
+   yosshipdoorbroken/fu_byosshipdoorBroken.object.patch /avikanDescription
+    T: 집에서 만든 튼튼한 문으로, 배에서 사용하도록 제작되었습니다.
+    K: 고향에서 온 튼튼한 문이네, 함선용으로 만들어졌지.
+   ts/ship/fu_byosshipdoor/fu_byosshipdoor.object.patch /drodenDescription
+    T: 감지된 문입니다. 분석: 우주선 모델.
+    K: 문 감지됨. 분석: 함선용 모델.
+   yosshipdoorbroken/fu_byosshipdoorBroken.object.patch /drodenDescription
+    T: 문을 감지했습니다. 분석: 우주선 모델입니다.
+    K: 문 감지됨. 분석: 함선용 모델.
+   ts/ship/fu_byosshipdoor/fu_byosshipdoor.object.patch /fukirhosDescription
+    T: 래디쿨!  최첨단 이중 슬라이딩 도어!
+    K: 쩐다! 최첨단 이중 미닫이문이잖아!
+   yosshipdoorbroken/fu_byosshipdoorBroken.object.patch /fukirhosDescription
+    T: 래디쿨!  최첨단 듀얼 슬라이딩 도어!
+    K: 쩐다! 최첨단 이중 미닫이문이잖아!
+   ts/ship/fu_byosshipdoor/fu_byosshipdoor.object.patch /fumantiziDescription
+    T: 외부인 침입을 막아줍니다.
+    K: 평민들을 못 들어오게 막는 용도지.
+   yosshipdoorbroken/fu_byosshipdoorBroken.object.patch /fumantiziDescription
+    T: 불청객을 막기 위해.
+    K: 평민들을 못 들어오게 막는 용도지.
+   ts/ship/mantizishipdoor/mantizishipdoor.object.patch /fumantiziDescription
+    T: 평민들을 막기 위해.
+    K: 평민들을 못 들어오게 막는 용도지.
+   ts/ship/fu_byosshipdoor/fu_byosshipdoor.object.patch /trinkDescription
+    T: 전체 우주선 구획을 봉쇄하는 효율적인 방법입니다.
+    K: 함선 구획 전체를 봉쇄하는 효율적인 방법이군.
+   s/ship/fu_byosshipdoor/fu_byosshiphatch.object.patch /trinkDescription
+    T: 전체 선실을 봉쇄하는 효율적인 방법입니다.
+    K: 함선 구획 전체를 봉쇄하는 효율적인 방법이군.
+   yosshipdoorbroken/fu_byosshipdoorBroken.object.patch /trinkDescription
+    T: 전체 우주선 구획을 효율적으로 봉쇄하는 방법입니다.
+    K: 함선 구획 전체를 봉쇄하는 효율적인 방법이군.
+   sshiphatchbroken/fu_byosshiphatchBroken.object.patch /trinkDescription
+    T: 전체 선실을 봉쇄하는 효율적인 방법입니다.
+    K: 함선 구획 전체를 봉쇄하는 효율적인 방법이군.
+   s/ship/fu_byosshipdoor/fu_byosshiphatch.object.patch /avikanDescription
+    T: 우주선에서 사용하기 위해 제작된 견고한 해치입니다.
+    K: 고향에서 온 튼튼한 해치네, 함선용으로 만들어졌지.
+   sshiphatchbroken/fu_byosshiphatchBroken.object.patch /avikanDescription
+    T: 집에서 만든 튼튼한 해치로, 배에서 사용하도록 제작되었습니다.
+    K: 고향에서 온 튼튼한 해치네, 함선용으로 만들어졌지.
+   hip/fu_byosshiplocker/fu_byosshiplocker.object.patch /shadowDescription
+    T: 안에 물건을 보관합니다.
+    K: 안에, 물건들을 담고 있다.
+   sshiplockerTier0/fu_byosshiplockerTier0.object.patch /shadowDescription
+    T: 안에 물건을 보관하고 있습니다.
+    K: 안에, 물건들을 담고 있다.
+   /ship/shadowshiplocker/shadowshiplocker.object.patch /shadowDescription
+    T: 물건을 보관할 수 있습니다.
+    K: 안에, 물건들을 담고 있다.
+   owshiplockertier0/shadowshiplockertier0.object.patch /shadowDescription
+    T: 물건을 보관하는 곳, 안에.
+    K: 안에, 물건들을 담고 있다.
+   hip/fu_byosshiplocker/fu_byosshiplocker.object.patch /slimepersonDescription
+    T: 충분히 괜찮은 사물함입니다.
+    K: 그럭저럭 괜찮은 사물함인가 봐.
+   sshiplockerTier0/fu_byosshiplockerTier0.object.patch /slimepersonDescription
+    T: 괜찮은 사물함인 것 같군.
+    K: 그럭저럭 괜찮은 사물함인가 봐.
+   epersonshiplocker/slimepersonshiplocker.object.patch /slimepersonDescription
+    T: 괜찮은 사물함이겠지.
+    K: 그럭저럭 괜찮은 사물함인가 봐.
+   p/fu_byostechstation/fu_byostechstation.object.patch /shadowDescription
+    T: 마치 '그분'을 떠올리게 하네요.
+    K: 이건 그분을 떠올리게 하는군.
+   _byostechstation/fu_byostechstationdeco.object.patch /shadowDescription
+    T: 마치 '그분'을 떠올리게 하네요.
+    K: 이건 그분을 떠올리게 하는군.
+   echstationTier0/fu_byostechstationTier0.object.patch /shadowDescription
+    T: 원이 생각나는군
+    K: 이건 그분을 떠올리게 하는군.
+   etechstationhuman/fu_sciencetechstation.object.patch /shadowDescription
+    T: 신의 모습이 떠오르네요.
+    K: 이건 그분을 떠올리게 하는군.
+   hip/shadowtechstation/shadowtechstation.object.patch /shadowDescription
+    T: 마치 원이 생각나네요.
+    K: 이건 그분을 떠올리게 하는군.
+   _hylotltechstation/tw_hylotltechstation.object.patch /shadowDescription
+    T: 마치 '그분'을 떠올리게 하네요.
+    K: 이건 그분을 떠올리게 하는군.
+=== distinct EN needing map: 200
+legit groups: 376

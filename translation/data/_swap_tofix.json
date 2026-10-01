@@ -1,0 +1,800 @@
+[
+ {
+  "asset": "/interface/windowconfig/knightfall_weaponscraftingstation.config.patch",
+  "pointer": "/paneLayout/windowtitle/title",
+  "test": "^#63a2ff;KNIGHTFALL WEAPONS CRAFTING STATION^reset;",
+  "replace": "^#63a2ff;나이트폴 무기 제작대^reset;"
+ },
+ {
+  "asset": "/objects/knightfall/crafting/knightfall_weaponscraftingstation/knightfall_weaponscraftingstation.object.patch",
+  "pointer": "/shortdescription",
+  "test": "^#63a2ff;Knightfall Weapons Station^reset;",
+  "replace": "^#63a2ff;나이트폴 무기 제작대^reset;"
+ },
+ {
+  "asset": "/items/armors/lustling/modifyed/shellguard/sgmerchantjacket/pilot.chest.patch",
+  "pointer": "/description",
+  "test": "A stylish brown flight jacket, with standard Shellguard armour underneath. A faded nametag on the inside reads \"Merchant\".",
+  "replace": "겨드랑이 부분이 약간 닳은 것을 보니, 바람을 맞을 일이 많았나 봅니다."
+ },
+ {
+  "asset": "/items/armors/lustling/modifyed/vanilla/decorative/costumes/pilot/pilot.chest.patch",
+  "pointer": "/description",
+  "test": "The armpits are a little frayed, this coat must have seen a lot of flapping.",
+  "replace": "겨드랑이 부분이 약간 닳은 것을 보니, 바람을 맞을 일이 많았나 봅니다."
+ },
+ {
+  "asset": "/items/armors/lustling/modifyed/shellguard/sgmerchantjacket/pilot.legs.patch",
+  "pointer": "/description",
+  "test": "Casual Trousers with shellguard armour strapped over the top.",
+  "replace": "이 바지는 착용자가 '이륙 준비 완료!'라고 외치고 싶게 만듭니다."
+ },
+ {
+  "asset": "/items/armors/lustling/modifyed/vanilla/decorative/costumes/pilot/pilot.legs.patch",
+  "pointer": "/description",
+  "test": "These trousers will make the wearer want to shout, 'Top Ho Squiffy!'",
+  "replace": "이 바지는 착용자가 '이륙 준비 완료!'라고 외치고 싶게 만듭니다."
+ },
+ {
+  "asset": "/items/armors/saturn/Mage Robes/saturn-t3 Void Mage Robes/classic/saturnVoidMageB.chest.patch",
+  "pointer": "/description",
+  "test": "Void Mages are best known for their teleportation magic, but they're also among the best lightning wizards.",
+  "replace": "공허 마법사는 순간이동 마법으로 가장 유명하지만, 최고의 번개 마법사들이기도 하다."
+ },
+ {
+  "asset": "/items/armors/saturn/Mage Robes/saturn-t3 Void Mage Robes/classic/saturnVoidMageB.head.patch",
+  "pointer": "/description",
+  "test": "Void Mages are best known for their teleportation magic, but they're also among the best lightning wizards.",
+  "replace": "공허 마법사는 순간이동 마법으로 가장 유명하지만, 최고의 번개 마법사들이기도 하다."
+ },
+ {
+  "asset": "/items/armors/saturn/Mage Robes/saturn-t3 Void Mage Robes/saturnVoidMage.chest.patch",
+  "pointer": "/description",
+  "test": "Void Mages often carry staff manuals with them.",
+  "replace": "공허 마법사는 순간이동 마법으로 가장 유명하지만, 최고의 번개 마법사들이기도 하다."
+ },
+ {
+  "asset": "/items/armors/saturn/Mage Robes/saturn-t3 Void Mage Robes/saturnVoidMage.head.patch",
+  "pointer": "/description",
+  "test": "The cotton ball attached to the end is said to magically make the hood protective.",
+  "replace": "공허 마법사는 순간이동 마법으로 가장 유명하지만, 최고의 번개 마법사들이기도 하다."
+ },
+ {
+  "asset": "/objects/alliance/crafting/alliancefurnace/alliancefurnace.object.patch",
+  "pointer": "/apexDescription",
+  "test": "A primitive furnace. I can smelt things here.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/alliance/crafting/alliancefurnace/alliancefurnace.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+  "test": "A primitive furnace. I can smelt things here.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/avikan/crafting/avikanfurnace/avikanfurnace.object.patch",
+  "pointer": "/apexDescription",
+  "test": "A primitive furnace. I can smelt things here.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/avikan/crafting/avikanfurnace/avikanfurnace.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+  "test": "A primitive furnace. I can smelt things here.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/crafting/sb_variants/scififurnace/scififurnace.object.patch",
+  "pointer": "/apexDescription",
+  "test": "An atomic furnace. I can create incredibly strong alloys with this.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/crafting/sb_variants/scififurnace2/scififurnace.object.patch",
+  "pointer": "/apexDescription",
+  "test": "An atomic furnace. I can create incredibly strong alloys with this.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/apexDescription",
+  "test": "A primitive furnace. I can smelt things here.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+  "test": "A primitive furnace. I can smelt things here.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+  "test": "An industrial furnace. I can smelt titanium and other materials here.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+  "test": "An atomic furnace. I can create incredibly strong alloys with this.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/apexDescription",
+  "test": "A primitive furnace. I can smelt things here.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+  "test": "A primitive furnace. I can smelt things here.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+  "test": "An industrial furnace. I can smelt titanium and other materials here.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+  "test": "An atomic furnace. I can create incredibly strong alloys with this.",
+  "replace": "원시적인 용광로다. 여기서 물건들을 제련할 수 있다."
+ },
+ {
+  "asset": "/objects/alliance/crafting/alliancefurnace/alliancefurnace.object.patch",
+  "pointer": "/floranDescription",
+  "test": "Furnace flamess hissss, burn. Floran brave it.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/alliance/crafting/alliancefurnace/alliancefurnace.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+  "test": "Furnace flamess hissss, burn. Floran brave it.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/avikan/crafting/avikanfurnace/avikanfurnace.object.patch",
+  "pointer": "/floranDescription",
+  "test": "Furnace flamess hissss, burn. Floran brave it.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/avikan/crafting/avikanfurnace/avikanfurnace.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+  "test": "Furnace flamess hissss, burn. Floran brave it.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/crafting/sb_variants/scififurnace/scififurnace.object.patch",
+  "pointer": "/floranDescription",
+  "test": "Shiny thing ssspin, ssspin, ssspin. Make sstronger shiny thingsss.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/crafting/sb_variants/scififurnace2/scififurnace.object.patch",
+  "pointer": "/floranDescription",
+  "test": "Shiny thing ssspin, ssspin, ssspin. Make sstronger shiny thingsss.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/nmm_mvg/terraria/lihzahrd/lihzahrdfurnace.object.patch",
+  "pointer": "/floranDescription",
+  "test": "Furnace flamess hissss, burn. Can ssmelt powerful barss.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/floranDescription",
+  "test": "Furnace flamess hisss, burn. Floran brave it.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+  "test": "Furnace flamess hissss, burn. Floran brave it.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+  "test": "Furnace flamess hissss, burn. Can ssmelt powerful barss.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+  "test": "Shiny thing ssspin, ssspin, ssspin. Make sstronger shiny thingsss.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/floranDescription",
+  "test": "Furnace flamess hisss, burn. Floran brave it.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+  "test": "Furnace flamess hissss, burn. Floran brave it.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+  "test": "Furnace flamess hissss, burn. Can ssmelt powerful barss.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+  "test": "Shiny thing ssspin, ssspin, ssspin. Make sstronger shiny thingsss.",
+  "replace": "용광로 불꽃은 쉬익하고 불탄다. 플로란은 용감하게 맞선다."
+ },
+ {
+  "asset": "/objects/alliance/crafting/alliancefurnace/alliancefurnace.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Impressed. This furnace is the perfect temperature for smelting basic ores.",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/alliance/crafting/alliancefurnace/alliancefurnace.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+  "test": "Impressed. This furnace is the perfect temperature for smelting basic ores.",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/avikan/crafting/avikanfurnace/avikanfurnace.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Impressed. This furnace is the perfect temperature for smelting basic ores",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/avikan/crafting/avikanfurnace/avikanfurnace.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+  "test": "Impressed. This furnace is the perfect temperature for smelting basic ores",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/crafting/sb_variants/scififurnace/scififurnace.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Amazed. This atomic furnace is advanced enough to combine ores into alloys.",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/crafting/sb_variants/scififurnace2/scififurnace.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Amazed. This atomic furnace is advanced enough to combine ores into alloys.",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Impressed. This furnace is the perfect temperature for smelting basic ores",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+  "test": "Impressed. This furnace is the perfect temperature for smelting basic ores",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+  "test": "Pleased. The furnace is the perfect temperature for creating titanium and stronger alloys.",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+  "test": "Amazed. This atomic furnace is advanced enough to combine ores into alloys.",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Impressed. This furnace is the perfect temperature for smelting basic ores",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+  "test": "Impressed. This furnace is the perfect temperature for smelting basic ores",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+  "test": "Pleased. The furnace is the perfect temperature for creating titanium and stronger alloys.",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+  "test": "Amazed. This atomic furnace is advanced enough to combine ores into alloys.",
+  "replace": "인상적. 이 용광로는 기본적인 광물들을 제련하기에 완벽한 온도를 유지하고 있다."
+ },
+ {
+  "asset": "/objects/alliance/crafting/alliancefurnace/alliancefurnace.object.patch",
+  "pointer": "/novakidDescription",
+  "test": "Basic lookin' furnace, for smeltin' ore.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/alliance/crafting/alliancefurnace/alliancefurnace.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+  "test": "Basic lookin' furnace, for smeltin' ore.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/avikan/crafting/avikanfurnace/avikanfurnace.object.patch",
+  "pointer": "/novakidDescription",
+  "test": "Basic lookin' furnace, for smeltin' ore.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/avikan/crafting/avikanfurnace/avikanfurnace.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+  "test": "Basic lookin' furnace, for smeltin' ore.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/crafting/sb_variants/scififurnace/scififurnace.object.patch",
+  "pointer": "/novakidDescription",
+  "test": "Could refine some mighty powerful alloys with this 'ere atomic furnace.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/crafting/sb_variants/scififurnace2/scififurnace.object.patch",
+  "pointer": "/novakidDescription",
+  "test": "Could refine some mighty powerful alloys with this 'ere atomic furnace.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/nmm_mvg/terraria/lihzahrd/lihzahrdfurnace.object.patch",
+  "pointer": "/novakidDescription",
+  "test": "The heat radiating is intense. If I could sweat, I reckon I'd be sweatin' alright.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/novakidDescription",
+  "test": "Basic lookin' furnace, for smeltin' ore.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+  "test": "Basic lookin' furnace, for smeltin' ore.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+  "test": "The heat radiating is intense. If I could sweat, I reckon I'd be sweatin' alright.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/sgCraftArmoryCraftingTable/sgarmorycraftingtable.object.patch",
+  "pointer": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+  "test": "Could refine some mighty powerful alloys with this 'ere atomic furnace.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/novakidDescription",
+  "test": "Basic lookin' furnace, for smeltin' ore.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+  "test": "Basic lookin' furnace, for smeltin' ore.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+  "test": "The heat radiating is intense. If I could sweat, I reckon I'd be sweatin' alright.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/sgCraftCraftingTable/sgcraftingtable.object.patch",
+  "pointer": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+  "test": "Could refine some mighty powerful alloys with this 'ere atomic furnace.",
+  "replace": "광물을 제련할 수 있는, 기본적이게 생긴 용광로다."
+ },
+ {
+  "asset": "/objects/bed/avali_portabletent/avali_portabletent.object.patch",
+  "pointer": "/floranDescription",
+  "test": "Floran could use ssstrong fabric for lot of things!",
+  "replace": "플로란은 생명체가 돌아올 때까지 집에 숨어있다가, 찌른다!"
+ },
+ {
+  "asset": "/objects/nmm_starbound/forums/paintedkennel/paintedkennel.object.patch",
+  "pointer": "/floranDescription",
+  "test": "Floran hide in house till creature come back, then ssstab!",
+  "replace": "플로란은 생명체가 돌아올 때까지 집에 숨어있다가, 찌른다!"
+ },
+ {
+  "asset": "/objects/bed/avali_portabletent/avali_portabletent.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Intrigued. This textile is definitively not textile",
+  "replace": "행복. 이 개집은 귀여운 로봇 개의 집이 되어줄 수 있을 것이다."
+ },
+ {
+  "asset": "/objects/nmm_starbound/forums/paintedkennel/paintedkennel.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Happy. This kennel could house an adorable robot dog.",
+  "replace": "행복. 이 개집은 귀여운 로봇 개의 집이 되어줄 수 있을 것이다."
+ },
+ {
+  "asset": "/objects/bed/avali_portabletent/avali_portabletent.object.patch",
+  "pointer": "/novakidDescription",
+  "test": "Wouldn't sleep in that, doesn't look like it would stop a bullet!",
+  "replace": "애완동물용 개집이구만! 약간 기울었지만 뭐 어떻겠나?"
+ },
+ {
+  "asset": "/objects/nmm_starbound/forums/paintedkennel/paintedkennel.object.patch",
+  "pointer": "/novakidDescription",
+  "test": "A pet kennel! A lil on the crooked side but who's complainin'?",
+  "replace": "애완동물용 개집이구만! 약간 기울었지만 뭐 어떻겠나?"
+ },
+ {
+  "asset": "/objects/crafting/arcana_crafting_anvil_1/arcana_crafting_anvil_1.object.patch",
+  "pointer": "/description",
+  "test": "An anvil infused with basic elemental magic.",
+  "replace": "황금의 힘이 깃든 최고 등급 무기·방어구 인쇄소."
+ },
+ {
+  "asset": "/objects/crafting/arcana_crafting_anvil_1/arcana_crafting_anvil_1.object.patch",
+  "pointer": "/upgradeStages/3/itemSpawnParameters/description",
+  "test": "The highest tier of weapon and armor printing station imbued with gold.",
+  "replace": "황금의 힘이 깃든 최고 등급 무기·방어구 인쇄소."
+ },
+ {
+  "asset": "/objects/crafting/arcana_crafting_cookingStation_2/arcana_crafting_cookingStation_2.object.patch",
+  "pointer": "/description",
+  "test": "A basic kitchen for cooking food.",
+  "replace": "최고급 소모품을 만들 수 있는 현대식 주방입니다."
+ },
+ {
+  "asset": "/objects/crafting/arcana_crafting_cookingStation_2/arcana_crafting_cookingStation_2.object.patch",
+  "pointer": "/upgradeStages/2/itemSpawnParameters/description",
+  "test": "A modern kitchen, where you can produce top quality consumeables.",
+  "replace": "최고급 소모품을 만들 수 있는 현대식 주방입니다."
+ },
+ {
+  "asset": "/objects/crafting/arcana_crafting_essenceExtractor_1/arcana_crafting_essenceExtractor_1.object.patch",
+  "pointer": "/description",
+  "test": "A basic extractor for extracting arcane essence.",
+  "replace": "대부분의 재료에서 정수를 추출할 수 있는 궁극의 정수 추출기."
+ },
+ {
+  "asset": "/objects/crafting/arcana_crafting_essenceExtractor_1/arcana_crafting_essenceExtractor_1.object.patch",
+  "pointer": "/upgradeStages/3/itemSpawnParameters/description",
+  "test": "The ultimate essence extractor that can extract most types of essence from materials.",
+  "replace": "대부분의 재료에서 정수를 추출할 수 있는 궁극의 정수 추출기."
+ },
+ {
+  "asset": "/objects/crafting/arcana_crafting_furnace_2/arcana_crafting_furnace_2.object.patch",
+  "pointer": "/description",
+  "test": "A furnace infused with arcane magic.",
+  "replace": "아우레올라 봉으로 만든, 거의 모든 것을 처리할 수 있는 제련로."
+ },
+ {
+  "asset": "/objects/crafting/arcana_crafting_furnace_2/arcana_crafting_furnace_2.object.patch",
+  "pointer": "/upgradeStages/2/itemSpawnParameters/description",
+  "test": "A smelter that can process just about everything, made with Aureola bars.",
+  "replace": "아우레올라 봉으로 만든, 거의 모든 것을 처리할 수 있는 제련로."
+ },
+ {
+  "asset": "/objects/crafting/arcana_crafting_main_1/arcana_crafting_main_1.object.patch",
+  "pointer": "/description",
+  "test": "A table that allows you to craft various useful arcane inventions.",
+  "replace": "아우레올라 봉으로 만든, 모든 발명대 가운데 가장 뛰어난 것."
+ },
+ {
+  "asset": "/objects/crafting/arcana_crafting_main_1/arcana_crafting_main_1.object.patch",
+  "pointer": "/upgradeStages/3/itemSpawnParameters/description",
+  "test": "The most capable inventing table of all, made from Aureola bars.",
+  "replace": "아우레올라 봉으로 만든, 모든 발명대 가운데 가장 뛰어난 것."
+ },
+ {
+  "asset": "/objects/crafting/mwhaddon_crafting_alchemist/mwhaddon_crafting_alchemist.object.patch",
+  "pointer": "/description",
+  "test": "A table that allows you to craft useful alchemic stuff.",
+  "replace": "가장 훌륭한 물약을 만들기 위해 아우레올라 봉으로 만든 최고의 제작대."
+ },
+ {
+  "asset": "/objects/crafting/mwhaddon_crafting_alchemist/mwhaddon_crafting_alchemist.object.patch",
+  "pointer": "/upgradeStages/3/itemSpawnParameters/description",
+  "test": "The best station made from Aureola bars to creat the most wonderful potions.",
+  "replace": "가장 훌륭한 물약을 만들기 위해 아우레올라 봉으로 만든 최고의 제작대."
+ },
+ {
+  "asset": "/objects/crafting/upgradeablecraftingobjects/lucarioloom/lucarioloom.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "The Hylotl consider spinning yarn an art-form.",
+  "replace": "하이로틀은 방적을 예술의 형태 중 하나로 본다."
+ },
+ {
+  "asset": "/objects/outpost/outpostsewingmachine/outpostsewingmachine.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "It may not be as traditional, but a sewing machine is certainly a lot more efficient.",
+  "replace": "하이로틀은 방적을 예술의 형태 중 하나로 본다."
+ },
+ {
+  "asset": "/objects/viera/crafting/upgradeablecraftingobjects/tailory/vierayarnspinner.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "The Hylotl consider spinning yarn an art-form.",
+  "replace": "하이로틀은 방적을 예술의 형태 중 하나로 본다."
+ },
+ {
+  "asset": "/objects/viera/crafting/upgradeablecraftingobjects/tailory/vierayarnspinner.object.patch",
+  "pointer": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+  "test": "It may not be as traditional, but a sewing machine is certainly a lot more efficient.",
+  "replace": "하이로틀은 방적을 예술의 형태 중 하나로 본다."
+ },
+ {
+  "asset": "/objects/general/WTF/general/on background/avalicenterpiece.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "The Avali's three-feather symbol reminds me of the three-eye symbol our flag displays.",
+  "replace": "아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다."
+ },
+ {
+  "asset": "/objects/general/dreamcatcher/dreamcatcher3/giantavalidreamcatcher3.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "More than a quaint decoration, a work of art and symbolism.",
+  "replace": "아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다."
+ },
+ {
+  "asset": "/objects/generic/flagavali/flagavali.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "The Avali's three-feather symbol reminds me of the three-eye symbol our flag displays.",
+  "replace": "아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다."
+ },
+ {
+  "asset": "/objects/general/WTF/general/on ground/tribute1.object.patch",
+  "pointer": "/avianDescription",
+  "test": "The platter is a remembrance, a way to honor lives that once soared with us.",
+  "replace": "크루세스가 네 영혼을 인도하길... 친구여..."
+ },
+ {
+  "asset": "/objects/general/WTF/general/on ground/tribute2.object.patch",
+  "pointer": "/avianDescription",
+  "test": "An offering of fruits and incense, a gentle way to celebrate the beauty of life.",
+  "replace": "크루세스가 네 영혼을 인도하길... 친구여..."
+ },
+ {
+  "asset": "/objects/general/WTF/general/on ground/tribute3.object.patch",
+  "pointer": "/avianDescription",
+  "test": "An offering of pots and cups, inviting harmony and unity among those gathered.",
+  "replace": "크루세스가 네 영혼을 인도하길... 친구여..."
+ },
+ {
+  "asset": "/objects/general/WTF/general/on ground/tribute4.object.patch",
+  "pointer": "/avianDescription",
+  "test": "Flowers wrapped in love, a tribute to the ones who soared above and left their mark.",
+  "replace": "크루세스가 네 영혼을 인도하길... 친구여..."
+ },
+ {
+  "asset": "/objects/general/WTF/grave/grave1/grave1.object.patch",
+  "pointer": "/avianDescription",
+  "test": "May cruces guide your soul...My friend...",
+  "replace": "크루세스가 네 영혼을 인도하길... 친구여..."
+ },
+ {
+  "asset": "/objects/general/WTF/grave/grave2/grave2.object.patch",
+  "pointer": "/avianDescription",
+  "test": "May cruces guide your soul...My friend...",
+  "replace": "크루세스가 네 영혼을 인도하길... 친구여..."
+ },
+ {
+  "asset": "/objects/general/WTF/grave/grave3/grave3.object.patch",
+  "pointer": "/avianDescription",
+  "test": "May cruces guide your soul...My friend...",
+  "replace": "크루세스가 네 영혼을 인도하길... 친구여..."
+ },
+ {
+  "asset": "/objects/general/WTF/grave/grave4/grave4.object.patch",
+  "pointer": "/avianDescription",
+  "test": "May cruces guide your soul...My friend...",
+  "replace": "크루세스가 네 영혼을 인도하길... 친구여..."
+ },
+ {
+  "asset": "/objects/general/WTF/general/on ground/tribute1.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "This tribute platter reflects our respect, a gentle homage to those we've lost.",
+  "replace": "편히 쉬어... 저세상에서는 아무런 고통도 없기를..."
+ },
+ {
+  "asset": "/objects/general/WTF/general/on ground/tribute2.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "This platter emanates tranquility, using fruits and incense to invoke calm and respect.",
+  "replace": "편히 쉬어... 저세상에서는 아무런 고통도 없기를..."
+ },
+ {
+  "asset": "/objects/general/WTF/general/on ground/tribute3.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "This array brings calm, merging incense's essence with cups to share in thoughtful reflection.",
+  "replace": "편히 쉬어... 저세상에서는 아무런 고통도 없기를..."
+ },
+ {
+  "asset": "/objects/general/WTF/general/on ground/tribute4.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "This floral offering carries the essence of tranquility, honoring memories with grace.",
+  "replace": "편히 쉬어... 저세상에서는 아무런 고통도 없기를..."
+ },
+ {
+  "asset": "/objects/general/WTF/grave/grave1/grave1.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "R.I.P...May there be no pain in the other world...",
+  "replace": "편히 쉬어... 저세상에서는 아무런 고통도 없기를..."
+ },
+ {
+  "asset": "/objects/general/WTF/grave/grave2/grave2.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "R.I.P...May there be no pain in the other world...",
+  "replace": "편히 쉬어... 저세상에서는 아무런 고통도 없기를..."
+ },
+ {
+  "asset": "/objects/general/WTF/grave/grave3/grave3.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "R.I.P...May there be no pain in the other world...",
+  "replace": "편히 쉬어... 저세상에서는 아무런 고통도 없기를..."
+ },
+ {
+  "asset": "/objects/general/WTF/grave/grave4/grave4.object.patch",
+  "pointer": "/hylotlDescription",
+  "test": "R.I.P...May there be no pain in the other world...",
+  "replace": "편히 쉬어... 저세상에서는 아무런 고통도 없기를..."
+ },
+ {
+  "asset": "/objects/lawQuest4HQmissions/lawquest4mission.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Intrigued. Does this shop provide an alternative to mining for materials?",
+  "replace": "흥미. 이 상점은 재료를 채굴할 수 있는 대안을 제공하는 건가?"
+ },
+ {
+  "asset": "/objects/lawQuest4PBImissions/lawquest4PBImissions.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Intrigued. Does this shop provide an alternative to mining for materials?",
+  "replace": "흥미. 이 상점은 재료를 채굴할 수 있는 대안을 제공하는 건가?"
+ },
+ {
+  "asset": "/objects/lawQuestBadgeStation/lawquestbadgestation.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Intrigued. Does this shop provide an alternative to mining for materials?",
+  "replace": "흥미. 이 상점은 재료를 채굴할 수 있는 대안을 제공하는 건가?"
+ },
+ {
+  "asset": "/objects/lawQuestBadgeStation/lawquestbadgestationTEST.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Intrigued. Does this shop provide an alternative to mining for materials?",
+  "replace": "흥미. 이 상점은 재료를 채굴할 수 있는 대안을 제공하는 건가?"
+ },
+ {
+  "asset": "/objects/nmm_starbound/custom/storesigns/ursaminersign.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Intrigued. Does this shop provide an alternative to mining for materials?",
+  "replace": "흥미. 이 상점은 재료를 채굴할 수 있는 대안을 제공하는 건가?"
+ },
+ {
+  "asset": "/objects/sgQuestUWmissionsD4/sgQuestUWmissionsD4.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Intrigued. Does this shop provide an alternative to mining for materials?",
+  "replace": "흥미. 이 상점은 재료를 채굴할 수 있는 대안을 제공하는 건가?"
+ },
+ {
+  "asset": "/objects/sgQuestUWmissionsD6/sgQuestUWmissionsD6.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Intrigued. Does this shop provide an alternative to mining for materials?",
+  "replace": "흥미. 이 상점은 재료를 채굴할 수 있는 대안을 제공하는 건가?"
+ },
+ {
+  "asset": "/objects/shop/fruitsshops/fruitsshops.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Nervous. These fruits look... corrosive.",
+  "replace": "흥미. 이 상점은 재료를 채굴할 수 있는 대안을 제공하는 건가?"
+ },
+ {
+  "asset": "/objects/lighting/avaliwarriorsign/avaliwarriorsign.object.patch",
+  "pointer": "/floranDescription",
+  "test": "Floran love raptor friendssss' games, which are much more fun than thossse of the three-eyed fish, sssuch as deepwater champion 2.0.",
+  "replace": "플로란은 랩터 친구들의 게임을 사랑해. 세 눈 물고기들의 게임, 그러니까 심해 챔피언 2.0 같은 것보다 훨씬 재밌거든."
+ },
+ {
+  "asset": "/objects/lighting/monicamovieads/monicamovieads.object.patch",
+  "pointer": "/floranDescription",
+  "test": "Floran doesn't underssstand the interessst.. How do you eat in the Metaverssse?",
+  "replace": "플로란은 랩터 친구들의 게임을 사랑해. 세 눈 물고기들의 게임, 그러니까 심해 챔피언 2.0 같은 것보다 훨씬 재밌거든."
+ },
+ {
+  "asset": "/objects/lighting/avaliwarriorsign/avaliwarriorsign.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "This game even supports external devices on our shell, which allows us to achieve a perfect game experience similar to that of the avali.",
+  "replace": "이 게임은 우리 껍질에 연결하는 외부 장치까지 지원해서, 아발리가 즐기는 것과 다름없는 완벽한 게임 경험을 누릴 수 있다."
+ },
+ {
+  "asset": "/objects/lighting/monicamovieads/monicamovieads.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Interested. I will watch the AD again and record it... for further analysis!",
+  "replace": "이 게임은 우리 껍질에 연결하는 외부 장치까지 지원해서, 아발리가 즐기는 것과 다름없는 완벽한 게임 경험을 누릴 수 있다."
+ },
+ {
+  "asset": "/objects/outpost/outpostgenerator1/outpostgenerator1.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Cheery. This generates enough power for everybody.",
+  "replace": "행복. 이 발전기는 모두가 쓸 수 있는 양의 동력을 생산한다."
+ },
+ {
+  "asset": "/objects/sheilaworkshop/black_furniture/titansteelgenerator/titansteelgenerator.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Cheery. This generates enough power for everybody.",
+  "replace": "행복. 이 발전기는 모두가 쓸 수 있는 양의 동력을 생산한다."
+ },
+ {
+  "asset": "/objects/table/avalipodium/avalipodium.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Hesitant. This uses a lot of power, but it is very detailed.",
+  "replace": "행복. 이 발전기는 모두가 쓸 수 있는 양의 동력을 생산한다."
+ },
+ {
+  "asset": "/objects/outpost/outpostreplicator/outpostreplicator.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Neutral. I can make equipment and more with this.",
+  "replace": "자랑. 글리치는 이러한 모루에서 모든 종류의 무기들을 만든다. 심지어 이런 모루에서 모루를 만들기도 한다."
+ },
+ {
+  "asset": "/objects/viera/crafting/upgradeablecraftingobjects/vieraanvil/vieracraftinganvil.object.patch",
+  "pointer": "/glitchDescription",
+  "test": "Proud. The Glitch craft all sorts of weapons on these anvils. They even craft anvils on these anvils.",
+  "replace": "자랑. 글리치는 이러한 모루에서 모든 종류의 무기들을 만든다. 심지어 이런 모루에서 모루를 만들기도 한다."
+ },
+ {
+  "asset": "/objects/viera/crafting/upgradeablecraftingobjects/vieraanvil/vieracraftinganvil.object.patch",
+  "pointer": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+  "test": "Proud. The Glitch craft all sorts of weapons on these anvils. They even craft anvils on these anvils.",
+  "replace": "자랑. 글리치는 이러한 모루에서 모든 종류의 무기들을 만든다. 심지어 이런 모루에서 모루를 만들기도 한다."
+ },
+ {
+  "asset": "/objects/viera/crafting/upgradeablecraftingobjects/vieraanvil/vieracraftinganvil.object.patch",
+  "pointer": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+  "test": "Eager. I can make titanium equipment and more here.",
+  "replace": "자랑. 글리치는 이러한 모루에서 모든 종류의 무기들을 만든다. 심지어 이런 모루에서 모루를 만들기도 한다."
+ },
+ {
+  "asset": "/objects/viera/crafting/upgradeablecraftingobjects/vieraanvil/vieracraftinganvil.object.patch",
+  "pointer": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+  "test": "Neutral. I can make equipment and more with this.",
+  "replace": "자랑. 글리치는 이러한 모루에서 모든 종류의 무기들을 만든다. 심지어 이런 모루에서 모루를 만들기도 한다."
+ },
+ {
+  "asset": "/objects/plushies/community2/edition15/valderplush/PBvalderplush.object.patch",
+  "pointer": "/harpyDescription",
+  "test": "Valder is... complicated. Much like that Felheim Legion itself.",
+  "replace": "메르시아는 여왕이 되고 나서 꽤 잘해내고 있어. 평화를 지켜야 한다는 부담이 너무 무겁지 않았으면 좋겠네."
+ },
+ {
+  "asset": "/objects/plushies/community2/edition8/merciaplush/PBmerciaplush.object.patch",
+  "pointer": "/harpyDescription",
+  "test": "Mercia has done quite well when she became queen. I hope the pressure to keep the peace isn't too crushing for her.",
+  "replace": "메르시아는 여왕이 되고 나서 꽤 잘해내고 있어. 평화를 지켜야 한다는 부담이 너무 무겁지 않았으면 좋겠네."
+ },
+ {
+  "asset": "/quests/story/alliance/alliancestorystart.questtemplate.patch",
+  "pointer": "/text",
+  "test": "This quest serves as an introduction to the Alliance storyline. You shouldn't be able to see this in your log.",
+  "replace": "행운을 빕니다, 대사님. 새 임무가 준비되면 다시 연락하겠습니다."
+ },
+ {
+  "asset": "/quests/story/alliance/alliancestorystart.questtemplate.patch",
+  "pointer": "/scriptConfig/radioMessages/endMessage/text",
+  "test": "Good luck, ambassador. I will contact you again once I have a new assignment ready for you.",
+  "replace": "행운을 빕니다, 대사님. 새 임무가 준비되면 다시 연락하겠습니다."
+ }
+]

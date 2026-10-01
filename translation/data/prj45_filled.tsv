@@ -1,0 +1,406 @@
+asset	field	en	ko	src
+/items/augments/project45-gunmods/ability/project45-armadillomod/project45-armadillomod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-armadillomod/project45-armadillomod.augment	description	A shield attachment that can generate an adaptive-reactive mobile defense light orb around its user. 	총에 장착하는 방패 부착물로, 사용자 주위에 적응-반응형 이동 방어 광구를 생성한다. 	
+/items/augments/project45-gunmods/ability/project45-armadillomod/project45-armadillomod.augment	shortdescription	A.R.M.D.L.O. Shield	A.R.M.D.L.O. 방패	reuse
+/items/augments/project45-gunmods/ability/project45-bayonetgripmod/project45-bayonetgripmod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-bayonetgripmod/project45-bayonetgripmod.augment	description	Its handle is designed as an ergonomic foregrip, so it's difficult to use as a dagger.	손잡이가 인체공학적 전방 손잡이로 설계되어 단검로 쓰기는 어렵다.	
+/items/augments/project45-gunmods/ability/project45-bayonetgripmod/project45-bayonetgripmod.augment	shortdescription	Bayonet Grip	총검 그립	
+/items/augments/project45-gunmods/ability/project45-chainsawmod/project45-chainsawmod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-chainsawmod/project45-chainsawmod.augment	description	A portable chainsaw with gears customized for warfare.	전투용으로 개조한 톱니를 단 휴대용 전기톱.	
+/items/augments/project45-gunmods/ability/project45-chainsawmod/project45-chainsawmod.augment	shortdescription	Underbarrel Chainsaw	총열 하부 전기톱	reuse
+/items/augments/project45-gunmods/ability/project45-enemyradarmod/project45-enemyradarmod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-enemyradarmod/project45-enemyradarmod.augment	description	Detects vital signs of nearby enemies and allies. Oddly detects inorganics, too.	근처 적과 아군의 생명 신호를 탐지한다. 이상하게도 무생물도 탐지된다.	
+/items/augments/project45-gunmods/ability/project45-enemyradarmod/project45-enemyradarmod.augment	shortdescription	Enemy Radar	적 레이더	reuse
+/items/augments/project45-gunmods/ability/project45-flashlasermod/project45-flashlasermod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-flashlasermod/project45-flashlasermod.augment	description	A compact high-intensity flashlight and green laser. Very tacticool.	소형 고휘도 손전등과 녹색 레이저. 제법 택티컬하다.	
+/items/augments/project45-gunmods/ability/project45-flashlasermod/project45-flashlasermod.augment	shortdescription	Military Flashlight Mod	군용 손전등 모드	
+/items/augments/project45-gunmods/ability/project45-grenadelaunchermod/project45-grenadelaunchermod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-grenadelaunchermod/project45-grenadelaunchermod.augment	description	A portable launcher attached under a gun's barrel. Includes a trajectory predictor for easier bombing.	총열 아래에 장착하는 휴대용 발사기. 폭격을 돕는 탄도 예측기가 포함된다.	
+/items/augments/project45-gunmods/ability/project45-grenadelaunchermod/project45-grenadelaunchermod.augment	shortdescription	Grenade Launcher	유탄 발사기	reuse
+/items/augments/project45-gunmods/ability/project45-gunscopemod/project45-gunscopemod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-gunscopemod/project45-gunscopemod.augment	description	Easily aim at faraway targets. Also includes weak nightvision and a purple laser.	멀리 있는 표적을 손쉽게 조준한다. 약한 야간투시와 자주색 레이저도 포함.	
+/items/augments/project45-gunmods/ability/project45-gunscopemod/project45-gunscopemod.augment	shortdescription	Scope Mod	조준경 모드	
+/items/augments/project45-gunmods/ability/project45-gunshieldmod/project45-gunshieldmod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-gunshieldmod/project45-gunshieldmod.augment	description	A shield that can be attached on a gun.	총에 장착할 수 있는 방패.	
+/items/augments/project45-gunmods/ability/project45-gunshieldmod/project45-gunshieldmod.augment	shortdescription	Gun Shield	총기 보호막	reuse
+/items/augments/project45-gunmods/ability/project45-manualreloadmod/project45-manualreloadmod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-manualreloadmod/project45-manualreloadmod.augment	description	Enables you to manually reload your weapon.	무기를 수동으로 재장전할 수 있게 한다.	
+/items/augments/project45-gunmods/ability/project45-manualreloadmod/project45-manualreloadmod.augment	shortdescription	Manual Reload	수동 재장전	reuse
+/items/augments/project45-gunmods/ability/project45-mlgscopemod/project45-mlgscopemod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-mlgscopemod/project45-mlgscopemod.augment	description	"^#d93a3a;I walk the road alone, ^#96cbe7;but my hope will never die.
+
+^#d1e160;- 420SniperDragon"	"^#d93a3a;나는 홀로 길을 걷지만, ^#96cbe7;내 희망은 결코 꺼지지 않는다.
+
+^#d1e160;- 420SniperDragon"	
+/items/augments/project45-gunmods/ability/project45-mlgscopemod/project45-mlgscopemod.augment	shortdescription	^#d93a3a;M^reset;L^#96cbe7;G^#d1e160; Scope	^#d93a3a;M^reset;L^#96cbe7;G^#d1e160; 스코프	
+/items/augments/project45-gunmods/ability/project45-orbitaltranspondermod/project45-orbitaltranspondermod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-orbitaltranspondermod/project45-orbitaltranspondermod.augment	description	A small transponder to request ordinance. Just point and click.	군수품을 요청하는 소형 트랜스폰더. 가리키고 클릭하면 끝이다.	
+/items/augments/project45-gunmods/ability/project45-orbitaltranspondermod/project45-orbitaltranspondermod.augment	shortdescription	Orbital Transponder	궤도 트랜스폰더	
+/items/augments/project45-gunmods/ability/project45-phaseshiftmod/project45-phaseshiftmod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-phaseshiftmod/project45-phaseshiftmod.augment	description	Technology that utilizes Erchius, allowing you to transfer between planes of reality.	에르키우스를 활용해 현실의 차원 사이를 이동할 수 있게 하는 기술.	
+/items/augments/project45-gunmods/ability/project45-phaseshiftmod/project45-phaseshiftmod.augment	shortdescription	Phase Shifter	위상 변환기	reuse
+/items/augments/project45-gunmods/ability/project45-supergunscopemod/project45-supergunscopemod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-supergunscopemod/project45-supergunscopemod.augment	description	A high-tech scope mod equipped with gyrostabilizers that help manage recoil and accuracy.	반동과 명중률을 잡아주는 자이로안정기를 갖춘 첨단 조준경 모드.	
+/items/augments/project45-gunmods/ability/project45-supergunscopemod/project45-supergunscopemod.augment	shortdescription	Hi-tech Scope	첨단 조준경	
+/items/augments/project45-gunmods/ability/project45-underbarrelshotgunmod/project45-underbarrelshotgunmod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/ability/project45-underbarrelshotgunmod/project45-underbarrelshotgunmod.augment	description	A small underbarrel shotgun that siphons its bullets from the gun.	총열 아래에 장착하는 소형 산탄총. 총에서 탄약을 받아 쓴다.	
+/items/augments/project45-gunmods/ability/project45-underbarrelshotgunmod/project45-underbarrelshotgunmod.augment	shortdescription	Modular Shotgun	모듈식 산탄총	
+/items/augments/project45-gunmods/ammo/project45-bladedarrowsmod/project45-bladedarrowsmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-bladedarrowsmod/project45-bladedarrowsmod.augment	description	Broadhead arrows that can inflict large lacerations.	큰 열상을 입힐 수 있는 브로드헤드 화살.	
+/items/augments/project45-gunmods/ammo/project45-bladedarrowsmod/project45-bladedarrowsmod.augment	shortdescription	Bladed Arrows	칼날 화살	
+/items/augments/project45-gunmods/ammo/project45-clustergrenademod/project45-clustergrenademod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-clustergrenademod/project45-clustergrenademod.augment	description	Geneva Convention? More like Geneva Suggestion.	제네바 협약이라고? 제네바 '제안'쯤 되는 거지.	
+/items/augments/project45-gunmods/ammo/project45-clustergrenademod/project45-clustergrenademod.augment	shortdescription	Cluster Grenades	집속 수류탄	
+/items/augments/project45-gunmods/ammo/project45-dragonsbreathmod/project45-dragonsbreathmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-dragonsbreathmod/project45-dragonsbreathmod.augment	description	Magnesium-sodium compound pellets in a fun-sized shell.	재미있는 크기의 탄피에 든 마그네슘-나트륨 화합물 탄알.	
+/items/augments/project45-gunmods/ammo/project45-dragonsbreathmod/project45-dragonsbreathmod.augment	shortdescription	Dragon's Breath	드래곤 브레스	reuse
+/items/augments/project45-gunmods/ammo/project45-elecammomod/project45-elecammomod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-elecammomod/project45-elecammomod.augment	description	Hi-conductivity laser configuration for maximum killing efficiency.	살상 효율을 극대화한 고전도 레이저 구성.	
+/items/augments/project45-gunmods/ammo/project45-elecammomod/project45-elecammomod.augment	shortdescription	Electro Lasers	전기 레이저	
+/items/augments/project45-gunmods/ammo/project45-elecarrowsmod/project45-elecarrowsmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-elecarrowsmod/project45-elecarrowsmod.augment	description	Weighty arrows fitted with high-voltage tasers for arrowheads.	화살촉에 고전압 테이저를 단 묵직한 화살.	
+/items/augments/project45-gunmods/ammo/project45-elecarrowsmod/project45-elecarrowsmod.augment	shortdescription	Electric Arrows	전기 화살	
+/items/augments/project45-gunmods/ammo/project45-explosiveammomod/project45-explosiveammomod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-explosiveammomod/project45-explosiveammomod.augment	description	Ballistic cartridges with stably-primed core fragment bullets.	안정적으로 기폭되는 코어 파편 탄을 쓰는 탄약.	
+/items/augments/project45-gunmods/ammo/project45-explosiveammomod/project45-explosiveammomod.augment	shortdescription	High-explosive Bullets	고폭탄	
+/items/augments/project45-gunmods/ammo/project45-explosivearrowsmod/project45-explosivearrowsmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-explosivearrowsmod/project45-explosivearrowsmod.augment	description	Weighty arrows fitted with impact arrowhead explosives.	화살촉에 충격 폭약을 단 묵직한 화살.	
+/items/augments/project45-gunmods/ammo/project45-explosivearrowsmod/project45-explosivearrowsmod.augment	shortdescription	Explosive Arrows	폭발 화살	
+/items/augments/project45-gunmods/ammo/project45-firebeammod/project45-firebeammod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-firebeammod/project45-firebeammod.augment	description	Overloaded beam configuration for energy guns. The power of the sun in the chamber of your gun.	에너지 총용 과부하 빔 구성. 네 총의 약실에 담긴 태양의 힘.	
+/items/augments/project45-gunmods/ammo/project45-firebeammod/project45-firebeammod.augment	shortdescription	Fire Beam	화염 빔	
+/items/augments/project45-gunmods/ammo/project45-flechettemod/project45-flechettemod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-flechettemod/project45-flechettemod.augment	description	Flechette-filled shells for maximum penetration.	관통력을 극대화하는 플레셰트 산탄.	
+/items/augments/project45-gunmods/ammo/project45-flechettemod/project45-flechettemod.augment	shortdescription	Flechette Shells	플레셰트 산탄	
+/items/augments/project45-gunmods/ammo/project45-fourgaugemod/project45-fourgaugemod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-fourgaugemod/project45-fourgaugemod.augment	description	This is just overkill.	이건 그냥 과잉 살상이다.	
+/items/augments/project45-gunmods/ammo/project45-fourgaugemod/project45-fourgaugemod.augment	shortdescription	4 GA. Shells	4게이지 산탄	
+/items/augments/project45-gunmods/ammo/project45-gasmod/project45-gasmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-gasmod/project45-gasmod.augment	description	Smells like ass. Next thing you know, you and everything in the surrounding area is dead.	구린내가 난다. 정신 차려보면 너도 주변의 모든 것도 죽어 있다.	
+/items/augments/project45-gunmods/ammo/project45-gasmod/project45-gasmod.augment	shortdescription	Gas Tank	가스 탱크	
+/items/augments/project45-gunmods/ammo/project45-gravbombmod/project45-gravbombmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-gravbombmod/project45-gravbombmod.augment	description	Technology replicated from the Precursors. More powerful than the version made by the Miniknog.	선구자에게서 재현한 기술. 미니크녹이 만든 판본보다 강력하다.	
+/items/augments/project45-gunmods/ammo/project45-gravbombmod/project45-gravbombmod.augment	shortdescription	Gravibombs	중력 폭탄	
+/items/augments/project45-gunmods/ammo/project45-gravpullmod/project45-gravpullmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-gravpullmod/project45-gravpullmod.augment	description	Developed based on ancient knowledge. Does not seem to affect the user.	고대 지식을 바탕으로 개발했다. 사용자에게는 영향이 없는 듯하다.	
+/items/augments/project45-gunmods/ammo/project45-gravpullmod/project45-gravpullmod.augment	shortdescription	Gravipulls	중력 견인탄	
+/items/augments/project45-gunmods/ammo/project45-haloburstmod/project45-haloburstmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-haloburstmod/project45-haloburstmod.augment	description	Technology adapted from Ancient Avian technology. Few materials, if any, can withstand Holy.	고대 에이비언 기술을 응용한 것. '성스러운' 힘을 견디는 물질은 거의 없다.	
+/items/augments/project45-gunmods/ammo/project45-haloburstmod/project45-haloburstmod.augment	shortdescription	Halobursts	헤일로 폭발	
+/items/augments/project45-gunmods/ammo/project45-homingbladesmod/project45-homingbladesmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-homingbladesmod/project45-homingbladesmod.augment	description	Intricately engineered sawblades that home in on identified enemies.	식별된 적을 향해 유도되는 정밀하게 설계된 톱날.	
+/items/augments/project45-gunmods/ammo/project45-homingbladesmod/project45-homingbladesmod.augment	shortdescription	Homing Blades	유도 톱날	
+/items/augments/project45-gunmods/ammo/project45-homingrocketmod/project45-homingrocketmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-homingrocketmod/project45-homingrocketmod.augment	description	The missile knows where it is, because it knows where it isn't.	미사일은 자신이 없는 곳을 알기에, 자신이 있는 곳을 안다.	
+/items/augments/project45-gunmods/ammo/project45-homingrocketmod/project45-homingrocketmod.augment	shortdescription	Homing Rockets	유도 로켓	
+/items/augments/project45-gunmods/ammo/project45-iceammomod/project45-iceammomod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-iceammomod/project45-iceammomod.augment	description	Sub-zero laser configuration: simply a violation of thermodynamic principles.	영하 레이저 구성: 말 그대로 열역학 원칙 위반이다.	
+/items/augments/project45-gunmods/ammo/project45-iceammomod/project45-iceammomod.augment	shortdescription	Cryo Lasers	냉각 레이저	
+/items/augments/project45-gunmods/ammo/project45-incendiaryammomod/project45-incendiaryammomod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-incendiaryammomod/project45-incendiaryammomod.augment	description	Standard-issue cartridges with magnesium-tipped bullets.	마그네슘 탄두를 쓴 표준 지급 탄약.	
+/items/augments/project45-gunmods/ammo/project45-incendiaryammomod/project45-incendiaryammomod.augment	shortdescription	Incendiary Bullets	소이탄	
+/items/augments/project45-gunmods/ammo/project45-incendiaryarrowsmod/project45-incendiaryarrowsmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-incendiaryarrowsmod/project45-incendiaryarrowsmod.augment	description	Standard-issue arrows with magnesium-coated arrowheads.	마그네슘 도포 화살촉을 단 표준 지급 화살.	
+/items/augments/project45-gunmods/ammo/project45-incendiaryarrowsmod/project45-incendiaryarrowsmod.augment	shortdescription	Incendiary Arrows	소이 화살	
+/items/augments/project45-gunmods/ammo/project45-itanorocketsmod/project45-itanorocketsmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-itanorocketsmod/project45-itanorocketsmod.augment	description	"""Why fire one missile when you launch a whole circus?""
+- Ichiro Itano"	"미사일 한 발 쏴서 뭐해? 곡예단을 통째로 날려버려야지.
+- 이치로 이타노"	
+/items/augments/project45-gunmods/ammo/project45-itanorocketsmod/project45-itanorocketsmod.augment	shortdescription	Itano Rockets	이타노 로켓	
+/items/augments/project45-gunmods/ammo/project45-jumpgrenademod/project45-jumpgrenademod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-jumpgrenademod/project45-jumpgrenademod.augment	description	Inspired by the tactics of Rick May, a legendary soldier from the past.	과거의 전설적인 군인 릭 메이의 전술에서 영감을 얻었다.	
+/items/augments/project45-gunmods/ammo/project45-jumpgrenademod/project45-jumpgrenademod.augment	shortdescription	Jump Grenades	점프 수류탄	
+/items/augments/project45-gunmods/ammo/project45-poisonammomod/project45-poisonammomod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-poisonammomod/project45-poisonammomod.augment	description	Custom-made cartridges with mercury-tipped bullets.	수은 탄두를 쓴 특제 탄약.	
+/items/augments/project45-gunmods/ammo/project45-poisonammomod/project45-poisonammomod.augment	shortdescription	Mercury-tipped Bullets	수은 탄두탄	
+/items/augments/project45-gunmods/ammo/project45-poisonarrowsmod/project45-poisonarrowsmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-poisonarrowsmod/project45-poisonarrowsmod.augment	description	Standard-issue arrows with toxin-filled arrowheads.	독을 채운 화살촉을 단 표준 지급 화살.	
+/items/augments/project45-gunmods/ammo/project45-poisonarrowsmod/project45-poisonarrowsmod.augment	shortdescription	Toxic Arrows	독 화살	
+/items/augments/project45-gunmods/ammo/project45-poisonbeammod/project45-poisonbeammod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-poisonbeammod/project45-poisonbeammod.augment	description	Radiation beam configuration. Sometimes used as an on-field MRE cooking config.	방사선 빔 구성. 때때로 야전 전투식량 조리 구성으로도 쓰인다.	
+/items/augments/project45-gunmods/ammo/project45-poisonbeammod/project45-poisonbeammod.augment	shortdescription	Radiation Beam	방사선 빔	
+/items/augments/project45-gunmods/ammo/project45-sanguineammomod/project45-sanguineammomod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-sanguineammomod/project45-sanguineammomod.augment	description	These cartridges are tipped with crimson bullets that steal vitality.	생기를 훔치는 진홍 탄두를 쓴 탄약.	
+/items/augments/project45-gunmods/ammo/project45-sanguineammomod/project45-sanguineammomod.augment	shortdescription	Sanguine Bullets	혈홍 탄	
+/items/augments/project45-gunmods/ammo/project45-slugshellsmod/project45-slugshellsmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-slugshellsmod/project45-slugshellsmod.augment	description	Slug shells. Shells with slugs. Slug shells.	슬러그탄. 슬러그가 든 산탄. 슬러그탄.	
+/items/augments/project45-gunmods/ammo/project45-slugshellsmod/project45-slugshellsmod.augment	shortdescription	Slug shells	슬러그탄	
+/items/augments/project45-gunmods/ammo/project45-splitbladesmod/project45-splitbladesmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-splitbladesmod/project45-splitbladesmod.augment	description	Three sawblades coupled together by a mechanism that allows them to separate in flight.	비행 중 분리되는 기구로 세 톱날이 결합된 탄두.	
+/items/augments/project45-gunmods/ammo/project45-splitbladesmod/project45-splitbladesmod.augment	shortdescription	Splitblades	분리 톱날	
+/items/augments/project45-gunmods/ammo/project45-tarmod/project45-tarmod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-tarmod/project45-tarmod.augment	description	Spews black tar that slows enemies and makes them vulnerable.	적을 느리게 하고 취약하게 만드는 검은 타르를 뿜어낸다.	
+/items/augments/project45-gunmods/ammo/project45-tarmod/project45-tarmod.augment	shortdescription	Tar Tank	타르 탱크	
+/items/augments/project45-gunmods/ammo/project45-testammomod/project45-testammomod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-testammomod/project45-testammomod.augment	description	Bob, please add technical info.	밥, 기술 정보 좀 추가해줘.	
+/items/augments/project45-gunmods/ammo/project45-testammomod/project45-testammomod.augment	shortdescription	Test Projectiles	테스트 발사체	
+/items/augments/project45-gunmods/ammo/project45-thermitegrenademod/project45-thermitegrenademod.augment	subtitle	Ammo Mod	탄약 개조	reuse
+/items/augments/project45-gunmods/ammo/project45-thermitegrenademod/project45-thermitegrenademod.augment	description	These are just grenade casings designed to work like molotovs.	화염병처럼 작동하도록 설계된 수류탄 케이스다.	
+/items/augments/project45-gunmods/ammo/project45-thermitegrenademod/project45-thermitegrenademod.augment	shortdescription	Thermite Grenades	테르밋 수류탄	
+/items/augments/project45-gunmods/mods/project45-aegisaltmod/project45-aegisaltmod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-aegisaltmod/project45-aegisaltmod.augment	description	Replacement parts made from a lightweight alloy.	경량 합금으로 만든 교체 부품.	
+/items/augments/project45-gunmods/mods/project45-aegisaltmod/project45-aegisaltmod.augment	shortdescription	Aegisalt Alloy Parts	에지솔트 합금 부품	
+/items/augments/project45-gunmods/mods/project45-alofsmagmod/project45-alofsmagmod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-alofsmagmod/project45-alofsmagmod.augment	description	A magazine for break-action shotguns. Uses a spring mechanism to chamber rounds.	중절식 산탄총용 탄창. 스프링 장치로 탄을 장전한다.	
+/items/augments/project45-gunmods/mods/project45-alofsmagmod/project45-alofsmagmod.augment	shortdescription	Alof's Magazine	알로프의 탄창	
+/items/augments/project45-gunmods/mods/project45-autofiremod/project45-autofiremod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-autofiremod/project45-autofiremod.augment	description	Turns semi/burst weapons full auto. Just don't tell the UATF you installed this gun mod.	반자동/점사 무기를 완전 자동으로 바꾼다. 이 총기 모드를 달았다고 UATF에 알리지만 않으면 된다.	
+/items/augments/project45-gunmods/mods/project45-autofiremod/project45-autofiremod.augment	shortdescription	Automatic Receiver	자동 리시버	
+/items/augments/project45-gunmods/mods/project45-bowstabilizermod/project45-bowstabilizermod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-bowstabilizermod/project45-bowstabilizermod.augment	description	A long rod that prevents incessant motion. Comes with a nifty laser!	끊임없는 흔들림을 막아주는 긴 막대. 근사한 레이저도 달렸다!	
+/items/augments/project45-gunmods/mods/project45-bowstabilizermod/project45-bowstabilizermod.augment	shortdescription	Bow Stabilizer	활 안정기	
+/items/augments/project45-gunmods/mods/project45-chokemod/project45-chokemod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-chokemod/project45-chokemod.augment	description	Tightens the spread of pellets.	산탄의 퍼짐을 좁혀준다.	
+/items/augments/project45-gunmods/mods/project45-chokemod/project45-chokemod.augment	shortdescription	Choke	초크	
+/items/augments/project45-gunmods/mods/project45-convergermod/project45-convergermod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-convergermod/project45-convergermod.augment	description	A muzzle implement that concentrates energy rays, but gives shots a bit more kick.	에너지 광선을 집속하는 총구 장치. 대신 반동이 조금 세진다.	
+/items/augments/project45-gunmods/mods/project45-convergermod/project45-convergermod.augment	shortdescription	Converger	집속기	
+/items/augments/project45-gunmods/mods/project45-customnockmod/project45-customnockmod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-customnockmod/project45-customnockmod.augment	description	A custom nock that allows you to quickly fire multiple arrows in succession.	여러 화살을 빠르게 연속 발사할 수 있게 하는 특제 화살깃.	
+/items/augments/project45-gunmods/mods/project45-customnockmod/project45-customnockmod.augment	shortdescription	Custom Nock	특제 화살깃	
+/items/augments/project45-gunmods/mods/project45-extendedbarrelmod/project45-extendedbarrelmod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-extendedbarrelmod/project45-extendedbarrelmod.augment	description	Isn't it weird that regardless of caliber, this magically fits on so many weapons?	구경과 상관없이 수많은 무기에 마법처럼 딱 맞다니, 이상하지 않은가?	
+/items/augments/project45-gunmods/mods/project45-extendedbarrelmod/project45-extendedbarrelmod.augment	shortdescription	Extended Barrel	연장 총열	
+/items/augments/project45-gunmods/mods/project45-extendedmagmod/project45-extendedmagmod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-extendedmagmod/project45-extendedmagmod.augment	description	If shooting it won't make it go away, shoot it more.	쏴서 안 없어지면, 더 쏴라.	
+/items/augments/project45-gunmods/mods/project45-extendedmagmod/project45-extendedmagmod.augment	shortdescription	Extended Magazines	확장 탄창	
+/items/augments/project45-gunmods/mods/project45-feroziummod/project45-feroziummod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-feroziummod/project45-feroziummod.augment	description	Replacement parts made from a mysterious alloy.	신비한 합금으로 만든 교체 부품.	
+/items/augments/project45-gunmods/mods/project45-feroziummod/project45-feroziummod.augment	shortdescription	Ferozium Alloy Parts	페로지움 합금 부품	
+/items/augments/project45-gunmods/mods/project45-gripmod/project45-gripmod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-gripmod/project45-gripmod.augment	description	Provides better handling of the gun, reducing recoil by a significant amount.	총기 조작성을 높여 반동을 상당히 줄여준다.	
+/items/augments/project45-gunmods/mods/project45-gripmod/project45-gripmod.augment	shortdescription	Vertical Grip	수직 손잡이	
+/items/augments/project45-gunmods/mods/project45-lasermod/project45-lasermod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-lasermod/project45-lasermod.augment	description	A laser that can't be turned off. It oddly never runs out of battery.	끌 수 없는 레이저. 이상하게도 배터리가 닳지 않는다.	
+/items/augments/project45-gunmods/mods/project45-lasermod/project45-lasermod.augment	shortdescription	Laser Beam	레이저 광선	reuse
+/items/augments/project45-gunmods/mods/project45-multinockmod/project45-multinockmod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-multinockmod/project45-multinockmod.augment	description	A custom nock that allows you to fire multiple arrows at once.	여러 화살을 한 번에 발사할 수 있게 하는 특제 화살깃.	
+/items/augments/project45-gunmods/mods/project45-multinockmod/project45-multinockmod.augment	shortdescription	Multi-nock	다중 화살깃	
+/items/augments/project45-gunmods/mods/project45-multithreadermod/project45-multithreadermod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-multithreadermod/project45-multithreadermod.augment	description	Turns semi/burst energy weapons full auto. It's hard on the ammo capacitor.	반자동/점사 에너지 무기를 완전 자동으로 바꾼다. 탄약 축전기에는 무리가 간다.	
+/items/augments/project45-gunmods/mods/project45-multithreadermod/project45-multithreadermod.augment	shortdescription	Multithreader	멀티스레더	
+/items/augments/project45-gunmods/mods/project45-muzzlebrakemod/project45-muzzlebrakemod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-muzzlebrakemod/project45-muzzlebrakemod.augment	description	Makes exiting gas counteract the muzzle rise, reducing recoil.	배출 가스로 총구 상승을 상쇄해 반동을 줄인다.	
+/items/augments/project45-gunmods/mods/project45-muzzlebrakemod/project45-muzzlebrakemod.augment	shortdescription	Muzzle Brake	총구 제퇴기	
+/items/augments/project45-gunmods/mods/project45-overampmod/project45-overampmod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-overampmod/project45-overampmod.augment	description	If shooting it won't make it go away, shoot it more.	쏴서 안 없어지면, 더 쏴라.	
+/items/augments/project45-gunmods/mods/project45-overampmod/project45-overampmod.augment	shortdescription	Overamped Batteries	과충전 배터리	
+/items/augments/project45-gunmods/mods/project45-reflexsightsmod/project45-reflexsightsmod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-reflexsightsmod/project45-reflexsightsmod.augment	description	Attachment that exploits reflective properties to acquire targets faster.	반사 특성을 활용해 표적을 더 빨리 포착하는 부착물.	
+/items/augments/project45-gunmods/mods/project45-reflexsightsmod/project45-reflexsightsmod.augment	shortdescription	Reflex Sights	반사 조준기	
+/items/augments/project45-gunmods/mods/project45-silencermod/project45-silencermod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-silencermod/project45-silencermod.augment	description	Dissipates existing gas, reducing gunshot noise and recoil. Also hides muzzle flash.	배출 가스를 흩어 발사음과 반동을 줄인다. 총구 화염도 가려준다.	
+/items/augments/project45-gunmods/mods/project45-silencermod/project45-silencermod.augment	shortdescription	Silencer	소음기	
+/items/augments/project45-gunmods/mods/project45-solariummod/project45-solariummod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-solariummod/project45-solariummod.augment	description	Replacement parts made from a material more valuable than gold.	금보다 귀한 재료로 만든 교체 부품.	
+/items/augments/project45-gunmods/mods/project45-solariummod/project45-solariummod.augment	shortdescription	Solarium Alloy Parts	솔라리움 합금 부품	
+/items/augments/project45-gunmods/mods/project45-speedloadermod/project45-speedloadermod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-speedloadermod/project45-speedloadermod.augment	description	A speedloader for revolver cylinders. Uses a spring mechanism to hold rounds together.	리볼버 실린더용 속장전기. 스프링 장치로 탄을 묶어둔다.	
+/items/augments/project45-gunmods/mods/project45-speedloadermod/project45-speedloadermod.augment	shortdescription	Speedloader	속장전기	
+/items/augments/project45-gunmods/mods/project45-splittermod/project45-splittermod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-splittermod/project45-splittermod.augment	description	A muzzle implement that splits energy rays without affecting their intensity.	세기에 영향을 주지 않고 에너지 광선을 분할하는 총구 장치.	
+/items/augments/project45-gunmods/mods/project45-splittermod/project45-splittermod.augment	shortdescription	Splitter	분할기	
+/items/augments/project45-gunmods/mods/project45-stockmod/project45-stockmod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-stockmod/project45-stockmod.augment	shortdescription	Padded Stock	패딩 개머리판	
+/items/augments/project45-gunmods/mods/project45-stockmod/project45-stockmod.augment	description	Gun stock padded with mooshi leather, cushioned with fluffalo wool.	무시 가죽 패딩에 플루팔로 털 완충재를 넣은 개머리판.	
+/items/augments/project45-gunmods/mods/project45-syringeloadermod/project45-syringeloadermod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-syringeloadermod/project45-syringeloadermod.augment	description	"It's named as such because you ""inject"" shells into tube magazines with it."	튜브 탄창에 탄을 '주입'한다고 해서 붙은 이름이다.	
+/items/augments/project45-gunmods/mods/project45-syringeloadermod/project45-syringeloadermod.augment	shortdescription	Syringe Loader	주입 장전기	
+/items/augments/project45-gunmods/mods/project45-violiummod/project45-violiummod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-violiummod/project45-violiummod.augment	description	Replacement parts made from a durable alloy.	내구성 합금으로 만든 교체 부품.	
+/items/augments/project45-gunmods/mods/project45-violiummod/project45-violiummod.augment	shortdescription	Violium Alloy Parts	바이올륨 합금 부품	
+/items/augments/project45-gunmods/mods/project45-weightmod/project45-weightmod.augment	subtitle	Gun Mod	총기 모드	
+/items/augments/project45-gunmods/mods/project45-weightmod/project45-weightmod.augment	description	Replacement parts made from a lightweight alloy.	경량 합금으로 만든 교체 부품.	
+/items/augments/project45-gunmods/mods/project45-weightmod/project45-weightmod.augment	shortdescription	^#d93a3a;(!)^reset; Aegisalt Alloy Parts	^#d93a3a;(!)^reset; 에지솔트 합금 부품	
+/items/augments/project45-gunmods/other/converter/project45-beamconverter/project45-beamconverter.augment	subtitle	Converter Mod	변환 모드	
+/items/augments/project45-gunmods/other/converter/project45-beamconverter/project45-beamconverter.augment	description	Converts bullets fired to beam ones.	발사된 탄환을 빔으로 변환한다.	
+/items/augments/project45-gunmods/other/converter/project45-beamconverter/project45-beamconverter.augment	shortdescription	Beam Conversion	빔 변환	
+/items/augments/project45-gunmods/other/converter/project45-hitscanconverter/project45-hitscanconverter.augment	subtitle	Converter Mod	변환 모드	
+/items/augments/project45-gunmods/other/converter/project45-hitscanconverter/project45-hitscanconverter.augment	description	Converts bullets fired to hitscan ones.	발사된 탄환을 히트스캔으로 변환한다.	
+/items/augments/project45-gunmods/other/converter/project45-hitscanconverter/project45-hitscanconverter.augment	shortdescription	Hitscan Conversion	히트스캔 변환	
+/items/augments/project45-gunmods/other/converter/project45-projectileconverter/project45-projectileconverter.augment	subtitle	Converter Mod	변환 모드	
+/items/augments/project45-gunmods/other/converter/project45-projectileconverter/project45-projectileconverter.augment	description	Converts bullets fired to projectile ones.	발사된 탄환을 발사체로 변환한다.	
+/items/augments/project45-gunmods/other/converter/project45-projectileconverter/project45-projectileconverter.augment	shortdescription	Projectile Conversion	발사체 변환	
+/items/augments/project45-gunmods/other/converter/project45-summonconverter/project45-summonconverter.augment	subtitle	Converter Mod	변환 모드	
+/items/augments/project45-gunmods/other/converter/project45-summonconverter/project45-summonconverter.augment	description	Converts bullets fired to summoned ones.	발사된 탄환을 소환체로 변환한다.	
+/items/augments/project45-gunmods/other/converter/project45-summonconverter/project45-summonconverter.augment	shortdescription	Summon Conversion	소환 변환	
+/items/augments/project45-gunmods/other/project45-elementoil/project45-elementoil.augment	subtitle	Applied Utility	적용 유틸리티	
+/items/augments/project45-gunmods/other/project45-elementoil/project45-elementoil.augment	description	Applies a random vanilla element onto a weapon. Brought to you by Letheia Corp.	무기에 무작위 바닐라 속성을 부여한다. 레테이아 사 제공.	
+/items/augments/project45-gunmods/other/project45-elementoil/project45-elementoil.augment	shortdescription	Elementoil© Vanilla Flavour	엘레멘토일© 바닐라 맛	
+/items/augments/project45-gunmods/other/project45-logger.augment	description	Prints shit.	잡동사니를 출력한다.	
+/items/augments/project45-gunmods/other/project45-logger.augment	shortdescription	DEBUG: Logger Tool	DEBUG: 로거 도구	
+/items/augments/project45-gunmods/other/project45-modhider/project45-modhider.augment	description	Hides mods installed on weapons. ^#ea9931;(Rail, Sight, Muzzle, Underbarrel, Stock)^reset;	무기에 장착된 모드를 숨긴다. ^#ea9931;(레일, 조준기, 총구, 총열 하부, 개머리판)^reset;	
+/items/augments/project45-gunmods/other/project45-modhider/project45-modhider.augment	shortdescription	Attachment Glamour	부착물 글래머	
+/items/augments/project45-gunmods/passive/project45-shiftreloadmod/project45-shiftreloadmod.augment	subtitle	Ability Mod	능력 모드	
+/items/augments/project45-gunmods/passive/project45-shiftreloadmod/project45-shiftreloadmod.augment	description	Enables you to manually reload your weapon. ^#d93a3a;Overrides crouch actions of ability mods.^reset;	무기를 수동으로 재장전할 수 있게 한다. ^#d93a3a;능력 모드의 웅크리기 동작을 덮어쓴다.^reset;	
+/items/augments/project45-gunmods/passive/project45-shiftreloadmod/project45-shiftreloadmod.augment	shortdescription	Shift Reload	시프트 재장전	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchanceaddmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchanceaddmod.augment	description	Increases Crit Chance by 5%	치명타 확률 5% 증가	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchanceaddmod.augment	shortdescription	^#f4988c;(!)^reset; ^#D93A3A;Crit Chance T1	^#f4988c;(!)^reset; ^#D93A3A;치명타 확률 T1	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchanceaddmod1.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchanceaddmod1.augment	description	Increases Crit Chance by 5%	치명타 확률 5% 증가	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchanceaddmod1.augment	shortdescription	^#D93A3A;Crit Chance T1	^#D93A3A;치명타 확률 T1	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchanceaddmod2.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchanceaddmod2.augment	description	Increases Crit Chance by 12.5%	치명타 확률 12.5% 증가	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchanceaddmod2.augment	shortdescription	^#D93A3A;Crit Chance T2	^#D93A3A;치명타 확률 T2	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchanceaddmod3.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchanceaddmod3.augment	description	Increases Crit Chance by 20%	치명타 확률 20% 증가	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchanceaddmod3.augment	shortdescription	^#D93A3A;Crit Chance T3	^#D93A3A;치명타 확률 T3	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchancemultmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchancemultmod.augment	description	Increases Crit Chance by 20% of base.	치명타 확률 기본치의 20% 증가	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchancemultmod.augment	shortdescription	^#f4988c;(!)^reset; ^#D93A3A;Crit Chance X1	^#f4988c;(!)^reset; ^#D93A3A;치명타 확률 X1	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchancemultmod1.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchancemultmod1.augment	description	Increases Crit Chance by 20% of base.	치명타 확률 기본치의 20% 증가	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchancemultmod1.augment	shortdescription	^#D93A3A;Crit Chance X1	^#D93A3A;치명타 확률 X1	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchancemultmod2.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchancemultmod2.augment	description	Increases Crit Chance by 50% of base.	치명타 확률 기본치의 50% 증가	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchancemultmod2.augment	shortdescription	^#D93A3A;Crit Chance X2	^#D93A3A;치명타 확률 X2	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchancemultmod3.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchancemultmod3.augment	description	Increases Crit Chance by 80% of base.	치명타 확률 기본치의 80% 증가	
+/items/augments/project45-gunmods/stat/project45-critchancemod/project45-critchancemultmod3.augment	shortdescription	^#D93A3A;Crit Chance X3	^#D93A3A;치명타 확률 X3	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamageaddmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamageaddmod.augment	description	Increases Crit Damage by 0.1.	치명타 피해량 0.1 증가	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamageaddmod.augment	shortdescription	^#f4988c;(!)^reset; ^#D93A3A;Crit Damage T1	^#f4988c;(!)^reset; ^#D93A3A;치명타 피해량 T1	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamageaddmod1.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamageaddmod1.augment	description	Increases Crit Damage by 0.1.	치명타 피해량 0.1 증가	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamageaddmod1.augment	shortdescription	^#D93A3A;Crit Damage T1	^#D93A3A;치명타 피해량 T1	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamageaddmod2.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamageaddmod2.augment	description	Increases Crit Damage by 0.25.	치명타 피해량 0.25 증가	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamageaddmod2.augment	shortdescription	^#D93A3A;Crit Damage T2	^#D93A3A;치명타 피해량 T2	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamageaddmod3.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamageaddmod3.augment	description	Increases Crit Damage by 0.4.	치명타 피해량 0.4 증가	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamageaddmod3.augment	shortdescription	^#D93A3A;Crit Damage T3	^#D93A3A;치명타 피해량 T3	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamagemultmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamagemultmod.augment	description	Increases Crit Damage by 20% of base.	치명타 피해량 기본치의 20% 증가	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamagemultmod.augment	shortdescription	^#f4988c;(!)^reset; ^#D93A3A;Crit Damage X1	^#f4988c;(!)^reset; ^#D93A3A;치명타 피해량 X1	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamagemultmod1.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamagemultmod1.augment	description	Increases Crit Damage by 20% of base.	치명타 피해량 기본치의 20% 증가	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamagemultmod1.augment	shortdescription	^#D93A3A;Crit Damage X1	^#D93A3A;치명타 피해량 X1	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamagemultmod2.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamagemultmod2.augment	description	Increases Crit Damage by 50% of base.	치명타 피해량 기본치의 50% 증가	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamagemultmod2.augment	shortdescription	^#D93A3A;Crit Damage X2	^#D93A3A;치명타 피해량 X2	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamagemultmod3.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamagemultmod3.augment	description	Increases Crit Damage by 80% of base.	치명타 피해량 기본치의 80% 증가	
+/items/augments/project45-gunmods/stat/project45-critdamagemod/project45-critdamagemultmod3.augment	shortdescription	^#D93A3A;Crit Damage X3	^#D93A3A;치명타 피해량 X3	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damageaddmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damageaddmod.augment	description	Increases Base Damage by 0.2.	기본 피해량 0.2 증가	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damageaddmod.augment	shortdescription	^#f4988c;(!)^reset; ^#EA9931;Base Damage T1	^#f4988c;(!)^reset; ^#EA9931;기본 피해량 T1	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damageaddmod1.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damageaddmod1.augment	description	Increases Base Damage by 0.2.	기본 피해량 0.2 증가	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damageaddmod1.augment	shortdescription	^#EA9931;Base Damage T1	^#EA9931;기본 피해량 T1	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damageaddmod2.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damageaddmod2.augment	description	Increases Base Damage by 0.5.	기본 피해량 0.5 증가	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damageaddmod2.augment	shortdescription	^#EA9931;Base Damage T2	^#EA9931;기본 피해량 T2	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damageaddmod3.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damageaddmod3.augment	description	Increases Base Damage by 0.8.	기본 피해량 0.8 증가	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damageaddmod3.augment	shortdescription	^#EA9931;Base Damage T3	^#EA9931;기본 피해량 T3	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damagemultmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damagemultmod.augment	description	Increases Base Damage by 30% of base.	기본 피해량 기본치의 30% 증가	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damagemultmod.augment	shortdescription	^#f4988c;(!)^reset; ^#EA9931;Base Damage X1	^#f4988c;(!)^reset; ^#EA9931;기본 피해량 X1	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damagemultmod1.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damagemultmod1.augment	description	Increases Base Damage by 30% of base.	기본 피해량 기본치의 30% 증가	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damagemultmod1.augment	shortdescription	^#EA9931;Base Damage X1	^#EA9931;기본 피해량 X1	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damagemultmod2.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damagemultmod2.augment	description	Increases Base Damage by 75% of base.	기본 피해량 기본치의 75% 증가	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damagemultmod2.augment	shortdescription	^#EA9931;Base Damage X2	^#EA9931;기본 피해량 X2	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damagemultmod3.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damagemultmod3.augment	description	Increases Base Damage by 120% of base.	기본 피해량 기본치의 120% 증가	
+/items/augments/project45-gunmods/stat/project45-damagemod/project45-damagemultmod3.augment	shortdescription	^#EA9931;Base Damage X3	^#EA9931;기본 피해량 X3	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimeaddmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimeaddmod.augment	description	Decreases Fire Time by 10ms.	발사 시간 10ms 감소	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimeaddmod.augment	shortdescription	^#f4988c;(!)^reset; ^#E2C344;Fire Time T1	^#f4988c;(!)^reset; ^#E2C344;발사 시간 T1	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimeaddmod1.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimeaddmod1.augment	description	Decreases Fire Time by 10ms.	발사 시간 10ms 감소	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimeaddmod1.augment	shortdescription	^#E2C344;Fire Time T1	^#E2C344;발사 시간 T1	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimeaddmod2.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimeaddmod2.augment	description	Decreases Fire Time by 25ms.	발사 시간 25ms 감소	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimeaddmod2.augment	shortdescription	^#E2C344;Fire Time T2	^#E2C344;발사 시간 T2	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimeaddmod3.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimeaddmod3.augment	description	Decreases Fire Time by 40ms.	발사 시간 40ms 감소	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimeaddmod3.augment	shortdescription	^#E2C344;Fire Time T3	^#E2C344;발사 시간 T3	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimemultmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimemultmod.augment	description	Increases Fire Time denominator by 0.2.	발사 시간 분모 0.2 증가	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimemultmod.augment	shortdescription	^#f4988c;(!)^reset; ^#E2C344;Fire Time X1	^#f4988c;(!)^reset; ^#E2C344;발사 시간 X1	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimemultmod1.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimemultmod1.augment	description	Increases Fire Time denominator by 0.2.	발사 시간 분모 0.2 증가	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimemultmod1.augment	shortdescription	^#E2C344;Fire Time X1	^#E2C344;발사 시간 X1	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimemultmod2.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimemultmod2.augment	description	Increases Fire Time denominator by 0.5.	발사 시간 분모 0.5 증가	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimemultmod2.augment	shortdescription	^#E2C344;Fire Time X2	^#E2C344;발사 시간 X2	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimemultmod3.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimemultmod3.augment	description	Increases Fire Time denominator by 0.8.	발사 시간 분모 0.8 증가	
+/items/augments/project45-gunmods/stat/project45-firetimemod/project45-firetimemultmod3.augment	shortdescription	^#E2C344;Fire Time X3	^#E2C344;발사 시간 X3	
+/items/augments/project45-gunmods/stat/project45-godmod/project45-adminmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-godmod/project45-adminmod.augment	description	You're not supposed to have this.	이걸 가지고 있으면 안 된다.	
+/items/augments/project45-gunmods/stat/project45-godmod/project45-adminmod.augment	shortdescription	^#fdd14d;The Admin Mod^reset;	^#fdd14d;관리자 모드^reset;	
+/items/augments/project45-gunmods/stat/project45-godmod/project45-godmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-godmod/project45-godmod.augment	description	One mod to rule them all.	모두를 지배하는 단 하나의 모드.	
+/items/augments/project45-gunmods/stat/project45-godmod/project45-godmod.augment	shortdescription	^#fdd14d;The God Mod^reset;	^#fdd14d;갓 모드^reset;	
+/items/augments/project45-gunmods/stat/project45-godmod/project45-teststatmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-godmod/project45-teststatmod.augment	description	Mod used to test statmod.lua.	statmod.lua 테스트에 쓰는 모드.	
+/items/augments/project45-gunmods/stat/project45-godmod/project45-teststatmod.augment	shortdescription	Test statMod	테스트 statMod	
+/items/augments/project45-gunmods/stat/project45-levelmod/project45-levelmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-levelmod/project45-levelmod.augment	description	Increments weapon level, up to a maximum level of 10.	무기 레벨을 최대 10까지 올린다.	
+/items/augments/project45-gunmods/stat/project45-levelmod/project45-levelmod.augment	shortdescription	^#a8e6e2;Level Upgrade	^#a8e6e2;레벨 업그레이드	
+/items/augments/project45-gunmods/stat/project45-levelmod/project45-maxlevelmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-levelmod/project45-maxlevelmod.augment	description	Maximizes weapon level to 10.	무기 레벨을 10으로 최대화한다.	
+/items/augments/project45-gunmods/stat/project45-levelmod/project45-maxlevelmod.augment	shortdescription	^#a8e6e2;Max Level Upgrade	^#a8e6e2;최대 레벨 업그레이드	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostaddmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostaddmod.augment	description	Decreases Reload Cost by 3 energy.	재장전 비용 에너지 3 감소	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostaddmod.augment	shortdescription	^#f4988c;(!)^reset; ^#9BBA3D;Reload Cost T1	^#f4988c;(!)^reset; ^#9BBA3D;재장전 비용 T1	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostaddmod1.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostaddmod1.augment	description	Decreases Reload Cost by 3 energy.	재장전 비용 에너지 3 감소	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostaddmod1.augment	shortdescription	^#9BBA3D;Reload Cost T1	^#9BBA3D;재장전 비용 T1	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostaddmod2.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostaddmod2.augment	description	Decreases Reload Cost by 7.5 energy.	재장전 비용 에너지 7.5 감소	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostaddmod2.augment	shortdescription	^#9BBA3D;Reload Cost T2	^#9BBA3D;재장전 비용 T2	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostaddmod3.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostaddmod3.augment	description	Decreases Reload Cost by 12 energy.	재장전 비용 에너지 12 감소	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostaddmod3.augment	shortdescription	^#9BBA3D;Reload Cost T3	^#9BBA3D;재장전 비용 T3	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostmultmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostmultmod.augment	description	Increases Reload Cost denominator by 0.2.	재장전 비용 분모 0.2 증가	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostmultmod.augment	shortdescription	^#f4988c;(!)^reset; ^#9BBA3D;Reload Cost X1	^#f4988c;(!)^reset; ^#9BBA3D;재장전 비용 X1	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostmultmod1.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostmultmod1.augment	description	Increases Reload Cost denominator by 0.2.	재장전 비용 분모 0.2 증가	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostmultmod1.augment	shortdescription	^#9BBA3D;Reload Cost X1	^#9BBA3D;재장전 비용 X1	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostmultmod2.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostmultmod2.augment	description	Increases Reload Cost denominator by 0.5.	재장전 비용 분모 0.5 증가	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostmultmod2.augment	shortdescription	^#9BBA3D;Reload Cost X2	^#9BBA3D;재장전 비용 X2	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostmultmod3.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostmultmod3.augment	description	Increases Reload Cost denominator by 0.8.	재장전 비용 분모 0.8 증가	
+/items/augments/project45-gunmods/stat/project45-reloadcostmod/project45-reloadcostmultmod3.augment	shortdescription	^#9BBA3D;Reload Cost X3	^#9BBA3D;재장전 비용 X3	
+/items/augments/project45-gunmods/stat/project45-wildcardstatmod/project45-wildcardstatmod.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-wildcardstatmod/project45-wildcardstatmod.augment	description	A mod that provides random stat bonuses.	무작위 스탯 보너스를 주는 모드.	
+/items/augments/project45-gunmods/stat/project45-wildcardstatmod/project45-wildcardstatmod.augment	shortdescription	^#d29ce7;Wildcard Mod	^#d29ce7;와일드카드 모드	
+/items/augments/project45-gunmods/stat/project45-wildcardstatmod/project45-wildcardstatmodssr.augment	subtitle	Stat Mod	스탯 모드	
+/items/augments/project45-gunmods/stat/project45-wildcardstatmod/project45-wildcardstatmodssr.augment	description	A mod that provides random positive stat bonuses.	무작위 양의 스탯 보너스를 주는 모드.	
+/items/augments/project45-gunmods/stat/project45-wildcardstatmod/project45-wildcardstatmodssr.augment	shortdescription	^#e2c344;SSR Wildcard Mod	^#e2c344;SSR 와일드카드 모드	
+/items/augments/project45-gunmods/util/project45-ammostock/project45-ammostock.augment	subtitle	Applied Utility	적용 유틸리티	
+/items/augments/project45-gunmods/util/project45-ammostock/project45-ammostock.augment	description	"^#e2c344;Contains 50 rounds.^reset;
+Use on weapon to stock up to ^#e2c344;6x max ammo capacity^reset;. Can be used on Stock Ammo to stack them."	"^#e2c344;탄환 50발 포함.^reset;
+무기에 사용하면 ^#e2c344;최대 탄약 용량의 6배^reset;까지 비축된다. 비축 탄약에도 사용해 중첩시킬 수 있다."	
+/items/augments/project45-gunmods/util/project45-ammostock/project45-ammostock.augment	shortdescription	Stock Ammo	비축 탄약	
+/items/augments/project45-gunmods/util/project45-essentialgunoil/project45-essentialgunoil.augment	subtitle	Applied Utility	적용 유틸리티	
+/items/augments/project45-gunmods/util/project45-essentialgunoil/project45-essentialgunoil.augment	description	Gun oil made from Ancient Essence. ^#d29ce7;Allows your weapon to be upgraded in an Upgrade Anvil.^reset;	고대 정수로 만든 총기 오일. ^#d29ce7;무기를 업그레이드 모루에서 강화할 수 있게 한다.^reset;	
+/items/augments/project45-gunmods/util/project45-essentialgunoil/project45-essentialgunoil.augment	shortdescription	Essential Gun Oil	정수 총기 오일	
+/items/augments/project45-gunmods/util/project45-gachapull/project45-gachapull.augment	subtitle	Applied Utility	적용 유틸리티	
+/items/augments/project45-gunmods/util/project45-gachapull/project45-gachapull.augment	description	A round key for the Supply Transponder's channel. ^#d29ce7;Provides 1 pull.^reset;	보급 트랜스폰더 채널용 둥근 열쇠. ^#d29ce7;1회 뽑기 제공.^reset;	
+/items/augments/project45-gunmods/util/project45-gachapull/project45-gachapull.augment	shortdescription	Partial Cipher Key	부분 암호 열쇠	
+/items/augments/project45-gunmods/util/project45-gachapull/project45-gachapull10.augment	subtitle	Applied Utility	적용 유틸리티	
+/items/augments/project45-gunmods/util/project45-gachapull/project45-gachapull10.augment	description	A complete decryption key for the Supply Transponder's channel. ^#d29ce7;Provides 10 pulls.^reset;	보급 트랜스폰더 채널용 완전한 해독 열쇠. ^#d29ce7;10회 뽑기 제공.^reset;	
+/items/augments/project45-gunmods/util/project45-gachapull/project45-gachapull10.augment	shortdescription	Full Cipher Key	완전 암호 열쇠	
+/items/augments/project45-gunmods/util/project45-gunrepairkit/project45-gunrepairkit.augment	subtitle	Applied Utility	적용 유틸리티	
+/items/augments/project45-gunmods/util/project45-gunrepairkit/project45-gunrepairkit.augment	description	A one-time-use kit for repairing your weapon in case of a bad reload.	재장전 실패에 대비해 무기를 수리하는 일회용 키트.	
+/items/augments/project45-gunmods/util/project45-gunrepairkit/project45-gunrepairkit.augment	shortdescription	Gun Repair Kit	총기 수리 키트	
+/items/augments/project45-gunmods/util/project45-portablegdk/project45-portablegdk.augment	subtitle	Applied Utility	적용 유틸리티	
+/items/augments/project45-gunmods/util/project45-portablegdk/project45-portablegdk.augment	description	A portablized Gun Disassembly Kit. ^#FF9000;Apply on modified Project 45 weapons to disassemble them.^reset;	휴대용 총기 분해 키트. ^#FF9000;개조된 Project 45 무기에 사용하면 분해된다.^reset;	
+/items/augments/project45-gunmods/util/project45-portablegdk/project45-portablegdk.augment	shortdescription	Portable G.D.K.	휴대용 G.D.K.	
+/items/throwables/project45-enemyflare/project45-enemyflare.thrownitem	shortdescription	Enemy Flare	적 조명탄	
+/items/throwables/project45-enemyflare/project45-enemyflare.thrownitem	description	Calls down enemies in a 10 block radius.	반경 10블록 안에 적을 불러낸다.	
+/objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/project45replicatoraddon/project45replicatoraddon.object	description	A module that adds Project 45 items and miscellany to the replicator.	복제기에 프로젝트 45의 아이템과 잡화를 추가하는 모듈입니다.	reuse
+/objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/project45replicatoraddon/project45replicatoraddon.object	shortdescription	^orange;Gunsmith Addon^white;	^orange;총기공 애드온^white;	reuse
+/stats/effects/project45bleed/project45bleed.statuseffect	label	Bleeding.	출혈 중.	
+/stats/effects/project45freeze/project45freeze.statuseffect	label	Frozen	빙결	reuse
+/stats/effects/project45knightfallmelting/project45knightfallmelting.statuseffect	label	Heatsurge	열폭주	
+/stats/effects/project45knightfallstasis/project45knightfallstasis.statuseffect	label	Stasis	정지	
+/stats/effects/project45tarred/project45tarred.statuseffect	label	Tarred	타르 범벅	

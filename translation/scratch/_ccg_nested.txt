@@ -1,0 +1,109 @@
+/collections/sb_music.collection | title | 'Poptop Humming'
+  /collectables/poptop/title
+/collections/sb_music.collection | description | 'Toby Fox'
+  /collectables/forest/description
+  /collectables/home-concept/description
+  /collectables/title-theme-concept-old/description
+  /collectables/sb_underground/description
+  /collectables/jukebox/description
+  /collectables/clubdecks2/description
+/items/active/starbound/guns/randomgenerated/shattergun/shattergun.activeitem | subtitle | 'Shattergun'
+  /tooltipFields/subtitle
+/items/active/starbound/weapons/daggers/nightstick.activeitem | subtitle | 'Nightstick'
+  /tooltipFields/subtitle
+/items/active/starbound/weapons/randomlygenerated/glitchsmallmace.activeitem | subtitle | 'Mace'
+  /tooltipFields/subtitle
+/items/augments/sb_abilitymod/randomabilitymod.augment | subtitle | 'Weapon Mod'
+  /tooltipFields/subtitle
+/items/augments/sb_debug.augment | subtitle | 'Apply with right-click'
+  /tooltipFields/subtitle
+/items/augments/sb_elementmod/elementmod.augment | subtitle | 'Weapon Mod'
+  /tooltipFields/subtitle
+/items/augments/sb_misc/blankscandata.augment | subtitle | 'Other'
+  /tooltipFields/subtitle
+/items/augments/sb_misc/copybook.augment | subtitle | 'Other'
+  /tooltipFields/subtitle
+/items/augments/sb_misc/flashfreeze.augment | subtitle | 'Other'
+  /tooltipFields/subtitle
+/items/augments/sb_misc/paint.augment | subtitle | 'Other'
+  /tooltipFields/subtitle
+/items/augments/sb_misc/preservatives.augment | subtitle | 'Other'
+  /tooltipFields/subtitle
+/items/augments/sb_misc/wrappingpaper.augment | subtitle | 'Other'
+  /tooltipFields/subtitle
+/items/augments/sb_repair/copper.augment | subtitle | 'Repair Item'
+  /tooltipFields/subtitle
+/items/augments/sb_repair/diamond.augment | subtitle | 'Repair Item'
+  /tooltipFields/subtitle
+/items/augments/sb_repair/rubium.augment | subtitle | 'Repair Item'
+  /tooltipFields/subtitle
+/items/augments/sb_repair/titanium.augment | subtitle | 'Repair Item'
+  /tooltipFields/subtitle
+/items/augments/sb_weaponupgrade/2.augment | subtitle | 'Weapon Upgrade Kit'
+  /tooltipFields/subtitle
+/items/augments/sb_weaponupgrade/3.augment | subtitle | 'Weapon Upgrade Kit'
+  /tooltipFields/subtitle
+/items/augments/sb_weaponupgrade/4.augment | subtitle | 'Weapon Upgrade Kit'
+  /tooltipFields/subtitle
+/items/augments/sb_weaponupgrade/5.augment | subtitle | 'Weapon Upgrade Kit'
+  /tooltipFields/subtitle
+/items/augments/sb_weaponupgrade/6.augment | subtitle | 'Weapon Upgrade Kit'
+  /tooltipFields/subtitle
+/objects/crafting/sb_codex/codex.object | subtitle | 'Storage'
+  /tooltipFields/subtitle
+/objects/crafting/sb_old/sb_skyrail/skyrailrailtable.object | title | 'SKYRAIL RAIL TABLE'
+  /interactData/paneLayoutOverride/windowtitle/title
+/objects/crafting/sb_old/sb_skyrail/skyrailrailtable.object | subtitle | 'Build your very own Skyrail and Rail networks to travel in 
+  /interactData/paneLayoutOverride/windowtitle/subtitle
+/objects/crafting/sb_old/sb_skyrail/skyrailtable.object | title | 'Skyrail Table'
+  /interactData/paneLayoutOverride/windowtitle/title
+/objects/crafting/sb_old/sb_skyrail/skyrailtable.object | subtitle | 'Build your very own Skyrail network to travel in style!'
+  /interactData/paneLayoutOverride/windowtitle/subtitle
+/objects/crafting/sb_variants/acceleratortable/acceleratortable.object | title | " Accelerator's Table"
+  /interactData/paneLayoutOverride/windowtitle/title
+/objects/crafting/sb_variants/acceleratortable/acceleratortable.object | subtitle | ' Armour and weapons'
+  /interactData/paneLayoutOverride/windowtitle/subtitle
+/objects/crafting/sb_variants/ironanvil/ironanvil.object | title | ' Iron Anvil'
+  /interactData/paneLayoutOverride/windowtitle/title
+/objects/crafting/sb_variants/ironanvil/ironanvil.object | subtitle | ' Turn metals into strong weapons and armor!'
+  /interactData/paneLayoutOverride/windowtitle/subtitle
+/objects/crafting/sb_variants/manipulatortable/manipulatortable.object | title | " Manipulator's Table"
+  /interactData/paneLayoutOverride/windowtitle/title
+/objects/crafting/sb_variants/manipulatortable/manipulatortable.object | subtitle | ' Armour and weapons'
+  /interactData/paneLayoutOverride/windowtitle/subtitle
+/objects/crafting/sb_variants/scifianvil/scifianvil.object | title | ' Replicator'
+  /interactData/paneLayoutOverride/windowtitle/title
+/objects/crafting/sb_variants/scifianvil/scifianvil.object | subtitle | ' Armour and weapons'
+  /interactData/paneLayoutOverride/windowtitle/subtitle
+/objects/crafting/sb_variants/scififurnace/scififurnace.object | title | ' Atomic Furnace'
+  /interactData/paneLayoutOverride/windowtitle/title
+/objects/crafting/sb_variants/scififurnace/scififurnace.object | subtitle | ' ^#b9b5b2;Bars and ingredients'
+  /interactData/paneLayoutOverride/windowtitle/subtitle
+/objects/crafting/sb_variants/scififurnace2/scififurnace.object | title | ' Atomic Furnace'
+  /interactData/paneLayoutOverride/windowtitle/title
+/objects/crafting/sb_variants/scififurnace2/scififurnace.object | subtitle | ' ^#b9b5b2;Bars and ingredients'
+  /interactData/paneLayoutOverride/windowtitle/subtitle
+/objects/crafting/sb_variants/separatortable/separatortable.object | title | " Separator's Table"
+  /interactData/paneLayoutOverride/windowtitle/title
+/objects/crafting/sb_variants/separatortable/separatortable.object | subtitle | ' Armour and weapons'
+  /interactData/paneLayoutOverride/windowtitle/subtitle
+/objects/crafting/sb_variants/stonefurnace/stonefurnace.object | title | 'Stout Furnace'
+  /interactData/paneLayoutOverride/windowtitle/title
+/objects/crafting/sb_variants/stonefurnace/stonefurnace.object | subtitle | '^#b9b5b2;Old-fashioned Smelting'
+  /interactData/paneLayoutOverride/windowtitle/subtitle
+/objects/crafting/sb_woodencookingtable/woodencookingtable.object | title | ' Wooden Cooking Table'
+  /interactData/paneLayoutOverride/windowtitle/title
+/objects/crafting/sb_wrappingtable/wrappingtable.object | subtitle | 'Other'
+  /tooltipFields/subtitle
+/objects/crafting/upgradeablecraftingobjects/sb_craftingtool/craftingtool.object | description | 'This table has arms! The extra precision allows me to craft
+  /upgradeStages/2/itemSpawnParameters/description
+/objects/crafting/upgradeablecraftingobjects/sb_craftingtool/craftingtool.object | shortdescription | '^orange;Robotic Tool Table^reset;'
+  /upgradeStages/2/itemSpawnParameters/shortdescription
+/objects/crafting/upgradeablecraftingobjects/sb_craftingtool/craftingtool.object | title | 'Robotic Tool Table'
+  /upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title
+/objects/crafting/upgradeablecraftingobjects/sb_craftingtool/craftingtool.object | subtitle | 'High-tech crafting!'
+  /upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle
+/sb_definitions/buster.config | subtitle | 'Blaster'
+  /tooltipFields/subtitle
+/sb_definitions/revolver.config | subtitle | 'Revolver'
+  /tooltipFields/subtitle

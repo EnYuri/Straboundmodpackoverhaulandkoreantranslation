@@ -1,0 +1,300 @@
+
+===== 영주님  (14) =====
+  /dialog/atprk_devouttenant.config.patch//beacon/default/default/2
+    EN: Polite. How can I help you, landlord?
+    KO: 예의 바름. 무엇을 도와드릴까요, 영주님?
+  /dialog/merchant.config.patch//beacon/nightar/default/0
+    EN: 
+    KO: 저 왔습니다, 영주님!
+  /dialog/merchant.config.patch//enclosedArea/nightar/default/0
+    EN: 
+    KO: 이건 장사에 도움이 안 됩니다, 영주님. 내 상점의 벽을 수리해야 합니다.
+  /dialog/merchant.config.patch//follow/nightar/default/0
+    EN: 
+    KO: 영주님, 저와 함께 가시죠. 보여드릴 좋은 물건이 있으니까요.
+  /dialog/merchant.config.patch//follow/nightar/default/4
+    EN: 
+    KO: 이쪽입니다, 영주님.
+  /dialog/merchant.config.patch//merchantEnd/nightar/default/0
+    EN: 
+    KO: 곧 다시 오시겠습니까, 영주님?
+  /dialog/merchant.config.patch//rent/nightar/default/1
+    EN: 
+    KO: 수익의 일부를 영주님과 나누게 되어 기쁩니다.
+  /dialog/merchant.config.patch//welcome/nightar/nightar/0
+    EN: 
+    KO: 환영합니다, 영주님.
+  /npcs/foolcook.npctype.patch//scriptConfig/dialog/merchant/welcome/default/default/2
+    EN: 
+    KO: 불성실하군 좋은 식사 한 끼 대접해도 될까요, 영주님?
+  /npcs/foolcook.npctype.patch//scriptConfig/dialog/merchant/welcome/default/glitch/default/2
+    EN: 
+    KO: 불성실하군 좋은 식사 한 끼 대접해도 될까요, 영주님?
+  /npcs/foolcook.npctype.patch//scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/default/default/1
+    EN: 
+    KO: Pained. 오, 영주님! 이 보잘것없는 바보가 오늘 당신을 위해 무엇을 할 수 있습니까?
+  /npcs/foolcook.npctype.patch//scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/default/default/2
+    EN: 
+    KO: 불성실. 근사한 식사를 대접해도 될까요, 영주님?
+  /npcs/foolcook.npctype.patch//scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/glitch/default/1
+    EN: 
+    KO: 고통스럽군 오, 영주님! 이 하찮은 바보가 오늘은 뭘 해드릴까요?
+  /npcs/foolcook.npctype.patch//scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/glitch/default/2
+    EN: 
+    KO: 불성실. 근사한 식사를 대접해도 될까요, 영주님?
+
+===== 집주인  (14) =====
+  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_mission_12_1_homelessman_1_original.cinematic.patch//panels/3/text
+    EN: 
+    KO: 저희를 도와주실 수 있나요, 나리? 주유소 지난 집에 대해 아시는 게 있나요? 집주인 브래들리 골드먼을 찾고 있어요. 잠재적 관심 대상이 될 만한 사람이 있었나요?
+  /codex/other/colonystoryFull.codex.patch//title
+    EN: How I Became A Landlord
+    KO: 내가 집주인이 된 방법
+  /codex/other/colonystoryFull.codex.patch//description
+    EN: The journal of an explorer who became a landlord. The complete compilation in one tome.
+    KO: 집주인이 된 탐험가의 일지. 모든 내용을 한 권에 모았다.
+  /dialog/atprk_devouttenant.config.patch//converse/default/default/8
+    EN: Calm. You're not a K'Rakoth, but I acknowledge you as my landlord. For now.
+    KO: 침착함. 넌 크라코스는 아니지만, 내 집주인으로 인정한다. 지금은.
+  /dialog/atprk_devouttenant.config.patch//rent/default/default/2
+    EN: Grateful. You seem to be a responsible landlord. Thank you for letting me stay here.
+    KO: 감사함. 책임감 있는 집주인인 것 같네. 여기 머물게 해줘서 고마워.
+  /dialog/catgrumble.config.patch//final/cat/default/0
+    EN: 
+    KO: 이젠 지긋지긋해! 당신은 끔찍한 집주인입니다.
+  /dialog/catgrumble.config.patch//severe/cat/default/0
+    EN: 
+    KO: 우리 고양이는 집주인에게 훨씬 더 많은 노력을 요구해.
+  /items/WEAPONS/MELEE/PLAYER/cp_sladge_hammer/cp_sladge_hammer.activeitem.patch//shortdescription
+    EN: Landlord's Lump-Lender
+    KO: 집주인의 복수자
+  /items/WEAPONS/MELEE/PLAYER/cp_sladge_hammer/cp_sladge_hammer_old.activeitem.patch//shortdescription
+    EN: Landlord's Lump-Lender
+    KO: 집주인의 복수자
+  /items/WEAPONS/MELEE/PLAYER/gic_psychic_landlordslumplender/gic_psychic_landlordslumplender_player_old.activeitem.patch//shortdescription
+    EN: 
+    KO: 집주인의 복수자
+  /npcs/tenants/bandito.npctype.patch//scriptConfig/dialog/tenant/grumbles/otherDeed/novakid/default/0
+    EN: Listen, landlord. This house ain't big enough fer the two of us!
+    KO: 잘 들어, 집주인. 이 집은 우리 둘이 살기엔 너무 좁아!
+  /objects/colonysystem2/colonydeedmk2/colonydeedmk2.object.patch//humanDescription
+    EN: 
+    KO: 이걸로 진짜 집주인이 될 수 있어.
+  /objects/colonysystem2/colonydeedmk2/colonydeedmk2tiny.object.patch//humanDescription
+    EN: 
+    KO: 이걸로 진짜 집주인이 될 수 있어.
+  /quests/sb_outpost1.questtemplate.patch//text
+    EN: My landlord is a jerk! He's going to kick me out of my place if I don't get him a bar of ^orange;chocolate^reset;. ^green;They sell them at Infinity E
+    KO: 집주인이 진짜 짜증나! ^orange;초콜릿^reset; 한 개를 안 갖다주면 날 쫓아낼 거래. ^green;인피니티 익스프레스에서 파는데^reset;, 나한테 픽셀이 하나도 없어! 좀 도와줄래?
+
+===== 애나  (2) =====
+  /items/WEAPONS/RANGED/PISTOL/gic_glock17/gic_glock17.activeitem.patch//description
+    EN: 
+    KO: "''나, 조슈아 타리시는, 맹세하건대, 우리 주권자이신 왕 폐하를, 편애나 애정, 악의나 적의 없이, 경찰관으로서 진실하고 성실하게 섬길 것입니다. 신이시여 도와주소서.''
+  /items/generic/food/chocolate/choccyanider.consumable.patch//description
+    EN: ...Great? The bottle's covered in chocolate. Well, at least the Cyanider inside is still tasty.
+    KO: ...좋다고? 병이 초콜릿 범벅이야. 뭐, 적어도 안에 든 사이애나이더는 여전히 맛있네.
+
+===== 안나  (3) =====
+  /items/generic/dyes/koanitedye.augment.patch//shortdescription
+    EN: 
+    KO: 코안나이트 염료
+  /objects/plushies/community2/edition1/annadullahplush/PBannadullahplush.object.patch//shortdescription
+    EN: Anna Dullah Plushie
+    KO: 안나 둘라 봉제 인형
+  /radiomessages/ffs2_radiomessages.radiomessages.patch//ffs2_6_16/text
+    EN: ^white;Anna's location has been detected. 
+    KO: ^white;안나의 위치가 탐지됐다.
+
+===== 컬트 추종자  (1) =====
+  /radiomessages/ffs2_radiomessages.radiomessages.patch//ffs2_6_14/text
+    EN: ^white;..When I was injected with something by the cultists, My arm.. It turned into something else. And now, I can't move. Protect me while I cut thi
+    KO: ^white;..컬트 추종자들한테 뭔가를 주입당했을 때, 내 팔이.. 딴 게 돼버렸어. 그리고 지금은 움직일 수가 없어. 이.. 망할 놈을 잘라내는 동안 지켜줘.
+
+===== 이병  (1) =====
+  /codex/documents/scienceoutpost_kevin.codex.patch//contentPages/60
+    EN: 
+    KO: 4월 2일 - 케빈이 화석 복원 프로젝트에 대한 소식을 듣고 함께하고 싶다고 했습니다. 그래서 케빈에게 트릴로바이트 화석을 주었고, 놀랍게도 케빈은 잘 해냈습니다. 안타깝게도 우리는 그가 아래층에 전시할 다음 화석을 선택하게 하는 실수를 저질렀어요. 면회 온 홀릭스 이
+
+===== 시험 제조 공장  (3) =====
+  /quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch//scriptConfig/targets/4/description
+    EN: Destory the ^green;Test Manufacturing Shop^reset;
+    KO: ^green;시험 제조 공장^reset;을 파괴하라
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_4_5/text
+    EN: "Partner, we've got the map of the factory. Your position is the nearest to the... ""Test Manufacturing Shop"". Go downstairs, head east, and you'll f
+    KO: 파트너, 공장 지도를 손에 넣었어. 네 위치에서 가장 가까운 건... '시험 제조 공장'이야. 아래층으로 내려가서 동쪽으로 가면, 그리로 가는 엘리베이터를 찾을 수 있을 거야.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_4_9/text
+    EN: Partner! Are you ok? In the time we've been out of communication, we've basically wiped out the entire factory. We'll meet to the east of Test Manufac
+    KO: 파트너! 괜찮아? 우리 통신이 끊긴 사이에, 공장을 거의 다 쓸어버렸어. 시험 제조 공장 동쪽에서 만나자.
+
+===== 시험 제작소  (1) =====
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_4_8/text
+    EN: Up there is the Test Manufacturing Shop, my people will stay here to hold off enemies. The rest is up to you!
+    KO: 저 위에 시험 제작소가 있다. 우리 사람들은 여기 남아 적을 막을 거다. 나머지는 너에게 달렸어!
+
+===== 점프제트  (2) =====
+  /radiomessages/thea-instances.radiomessages.patch//vanguardmechunlock4/text
+    EN: Your Krahl is equipped with powerful jumpjets. You can activate them by jumping while in the air.
+    KO: 네 크랄에는 강력한 점프제트가 달렸다. 공중에서 점프하면 발동된다.
+  /radiomessages/thea-instances.radiomessages.patch//vanguardmechunlock5/text
+    EN: Your Krahl's jumpjets have good range, but they cannot be used indefinitely. Always mind the amount of time you spend in the air.
+    KO: 네 크랄의 점프제트는 사거리가 좋지만 무한히 쓸 수는 없다. 공중에 머무는 시간을 항상 살펴라.
+
+===== 점프젯  (1) =====
+  /radiomessages/thea-instances.radiomessages.patch//vanguardmechunlock8/text
+    EN: The Krahl's jumpjets can also be used for horizontal flight. Try to fly to the other side.
+    KO: 크랄의 점프젯은 수평 비행에도 사용할 수 있다. 반대편으로 날아가 봐.
+
+===== 탈출 포드  (2) =====
+  /npcs/mission/atprk_devoutattackpenguin.npctype.patch//scriptConfig/dialog/converse/default/default/12
+    EN: Where're the escape pods? Are there any?
+    KO: 탈출 포드는 어디야? 있긴 해?
+  /objects/mission/v-electrotoxicfacility/v-escapepodbg/v-escapepodbg.object.patch//description
+    EN: escape pod background
+    KO: 탈출 포드 배경
+
+===== 드롭 포드  (3) =====
+  /objects/GICEXP/gicexp_ntdroppod/gicexp_ntdroppod.object.patch//shortdescription
+    EN: Drop Pod
+    KO: 드롭 포드
+  /objects/GICEXP/gicexp_ntdroppod/gicexp_ntdroppod_up.object.patch//shortdescription
+    EN: Drop Pod
+    KO: 드롭 포드
+  /objects/minibiome/precursor/precursordroppod/precursordroppod.object.patch//shortdescription
+    EN: 
+    KO: 선구자 드롭 포드
+
+===== 재배치기  (9) =====
+  /items/active/alta/tools/grab/relocator/ct_alta_relocator.activeitem.patch//shortdescription
+    EN: Alta Relocator
+    KO: 알타 재배치기
+  /items/active/alta/tools/grab/relocator/ct_alta_relocator.activeitem.patch//upgradeParameters/shortdescription
+    EN: 
+    KO: 재배치기-M ^#8020f0;^reset;
+  /items/active/unsorted/omech_relocator1/omech_relocator1.activeitem.patch//shortdescription
+    EN: Mega Relocator
+    KO: 메가 재배치기
+  /items/active/unsorted/relocator/relocator.activeitem.patch//shortdescription
+    EN: 
+    KO: 재배치기
+  /items/active/unsorted/relocator/relocator.activeitem.patch//upgradeParameters/shortdescription
+    EN: 
+    KO: 재배치기 II ^cyan;^reset;
+  /items/active/unsorted/relocator/relocator.activeitem.patch//upgradeParameters2/shortdescription
+    EN: 
+    KO: 재배치기 III ^red;^reset;
+  /items/active/unsorted/relocator/relocator.activeitem.patch//upgradeParameters3/shortdescription
+    EN: 
+    KO: 재배치기 IV ^#e43774;^reset;
+  /objects/alta/crafting/bestiarium/ct_alta_bestiarium.object.patch//longdescription
+    EN: The Alta Bestiarium is a tier 6 comprehensive xenobiology workshop dedicated to the study and care of alien creatures. This station produces creature 
+    KO: 알타 베스티아리움은 외계 생물의 연구와 보살핌에 전념하는 6등급 종합 외계생물학 작업장이다. 이 시설은 ^#60c0fc;재배치기^reset;와 포획 포드 같은 생물 포획 도구를 제작하고, AI 마인드프레임을 갖춘 첨단 ^#60c0fc;반려동물 목걸이^reset;를 제작
+  /radiomessages/lofty_irisil_pickmeup.radiomessages.patch//lofty_irisil_pickMeUp_welcomeToOurHome_2/text
+    EN: You look like an adventurer, so you should know how to use a ^green;Relocator^reset; and ^green;Grappling Hook^reset;, right?
+    KO: 모험가처럼 보이는데, ^green;재배치기^reset;와 ^green;갈고리 걸이^reset; 사용법은 알지?
+
+===== 리로케이터  (1) =====
+  /radiomessages/lofty_irisil_pickmeup.radiomessages.patch//lofty_irisil_pickMeUp_completeRedRoom/text
+    EN: Cool. Use your ^green;Relocator^reset; to pick me up, then let's get out of here.
+    KO: 멋지다. ^green;리로케이터^reset;로 나를 집어 들고, 여기서 나가자.
+
+===== 전차 선로  (1) =====
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter3_1_10/text
+    EN: The tram track breaks off here. Looks like we'll have to run the rest of the way.
+    KO: 전차 선로가 여기서 끊겼어. 나머지 길은 뛰어야겠는데.
+
+===== 흡수했다고  (1) =====
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter2_3_10/text
+    EN: It's me, Nereus! ^orange;Sally absorbed crystal again?^reset; And more, we've got something worse than that now!
+    KO: 나야, 네레우스! ^orange;샐리가 또 결정을 흡수했다고?^reset; 게다가, 지금 그보다 더 나쁜 게 생겼어!
+
+===== 결정을 흡수  (1) =====
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter2_3_10/text
+    EN: It's me, Nereus! ^orange;Sally absorbed crystal again?^reset; And more, we've got something worse than that now!
+    KO: 나야, 네레우스! ^orange;샐리가 또 결정을 흡수했다고?^reset; 게다가, 지금 그보다 더 나쁜 게 생겼어!
+
+===== 수정을 흡수  (0) =====
+
+===== 늑고위  (2) =====
+  /items/WEAPONS/MELEE/SWORD/gic_wolfguardian_scimitar/gic_wolfguardian_scimitar_playerpose.activeitem.patch//shortdescription
+    EN: 
+    KO: 늑고위 수호자 시미터 플레이어 자세
+  /items/WEAPONS/MELEE/SWORD/gic_wolfguardian_scimitar/gic_wolfguardian_scimitar_playerpose_backhand.activeitem.patch//shortdescription
+    EN: 
+    KO: 늑고위 수호자 시미터 역수 자세
+
+===== 그랜드 수호자  (5) =====
+  /objects/protectorate/objects/protectorategardenbench/protectorategardenbench.object.patch//slimepersonDescription
+    EN: 
+    KO: 명판에는 '에스더 브라이트'라고 적혀 있어. 전임 그랜드 수호자였던 게 확실해.
+  /objects/protectorate/objects/protectorateportrait3/protectorateportrait3.object.patch//slimepersonDescription
+    EN: 
+    KO: 인간이 아닌 그랜드 수호자가 없었다면 저는 수호자가 될 기회조차 얻지 못했을 거다.
+  /objects/protectorate/objects/protectorateportraitold/protectorateportraitold.object.patch//avianDescription
+    EN: 
+    KO: 젊은 시절 그랜드 수호자 시절의 에스더 브라이트 여사님이다.
+  /objects/protectorate/objects/protectorateportraitold/protectorateportraitold.object.patch//description
+    EN: 
+    KO: 전 그랜드 수호자 에스더 브라이트의 초상화입니다.
+  /objects/protectorate/objects/protectorateportraitold/protectorateportraitold.object.patch//hylotlDescription
+    EN: 
+    KO: 그랜드 수호자 시절의 우아한 마담 브라이트의 초상화이다. 왜 전시하지 않았는지 모르겠네.
+
+===== 수호자레이트  (19) =====
+  /codex/LEGACY/THE_WAR_ON_MARS/CHAPTER_0/3_CRASH/gic_twom_guerilla/gic_twom_guerilla.codex.patch//contentPages/0
+    EN: 
+    KO: "우리는 유나이티드 시스템즈의 단순한 전술적 후퇴에 굴복하지 않을 것이다. 우리의 상급자들은 수호자레이트 점령 공간에서 철수하기로 완전한 결정을 내렸다. 그들의 트리아지 선언은 우리를 이 척박한 행성에 몇 백만 명 남겨두었다.
+  /monsters/LEGACY/gic_oldversion_protectorateknight/gic_oldversion_protectorateknight.monstertype.patch//shortdescription
+    EN: 
+    KO: [수호자레이트 기사]
+  /objects/STANDARD/gic_proweaponcratelarge/gic_proweaponcratelarge.object.patch//description
+    EN: 
+    KO: 수호자레이트에서 사용하는 금속-파란색 무기 상자.
+  /objects/STANDARD/gic_proweaponcratemedium/gic_proweaponcratemedium.object.patch//description
+    EN: 
+    KO: 수호자레이트에서 사용하는 금속-파란색 무기 상자.
+  /objects/STATIC_VEHICLES/SPAWNABLES/gic_mg2750_turret_spawnerobject/gic_mg2750_turret_spawnerobject.object.patch//description
+    EN: 
+    KO: 3D 프린터를 포함하고 있으며, 이 프린터는 터렛 부품을 조립할 수 있는 3D 프린터를 출력함. 해커들이 유머 감각이 있군...^green;먼저 물체로 배치한 후, 활성화하여 터렛 부품을 생성해야 합니다. 터렛을 조립하려면 렌치로 타격하여 유지보수를 수행하세요. 고장이
+  /objects/STATIC_VEHICLES/gic_protectorate_beluga/gic_protectorate_beluga.object.patch//shortdescription
+    EN: 
+    KO: 벨루가 수호자레이트 반발기
+  /objects/STATIC_VEHICLES/gic_protectorate_bobcat/gic_protectorate_bobcat.object.patch//description
+    EN: 
+    KO: 수호자레이트의 경량 드론으로, 대부분의 개방된 전장에서 사용됨.
+  /objects/STATIC_VEHICLES/gic_protectorate_bobcat/gic_protectorate_bobcat.object.patch//shortdescription
+    EN: 
+    KO: 수호자레이트 보브캣
+  /objects/STATIC_VEHICLES/gic_protectorate_skydancer_floatingwreck/gic_protectorate_skydancer_floatingwreck.object.patch//description
+    EN: 
+    KO: 대기 및 우주에서 모두 작전 가능한 경량 전투 드론. 수호자레이트의 표식이 보임...
+  /objects/STATIC_VEHICLES/gic_protectorate_skydancer_floatingwreck/gic_protectorate_skydancer_floatingwreck.object.patch//shortdescription
+    EN: 
+    KO: 수호자레이트 스카이댄서
+  /objects/TOMBS/gic_loyalistmemorial/gic_loyalistmemorial.object.patch//description
+    EN: 
+    KO: 수호자레이트의 충성스러운 추종자들을 기리는 기념비. 별들이 그들의 영혼을 사후 세계로 인도하길.
+  /objects/ship/gic_protectorateship_human/gic_protectorateship_human.object.patch//description
+    EN: 
+    KO: 수호자레이트 아카데미의 배.
+  /objects/ship/gic_protectorateship_human/gic_protectorateship_human.object.patch//shortdescription
+    EN: 
+    KO: 수호자레이트 배
+  /objects/wired/gic_spiritsummon/gic_spiritsummon_protectoratefootsoldier.object.patch//description
+    EN: 
+    KO: 소환 - 수호자레이트 보병
+  /objects/wired/gic_spiritsummon/gic_spiritsummon_protectoratefootsoldier.object.patch//shortdescription
+    EN: 
+    KO: 소환 - 수호자레이트 보병
+  /objects/wired/gic_spiritsummon/gic_spiritsummon_protectorateundeadknight.object.patch//description
+    EN: 
+    KO: 소환 - 수호자레이트 언데드 기사
+  /objects/wired/gic_spiritsummon/gic_spiritsummon_protectorateundeadknight.object.patch//shortdescription
+    EN: 
+    KO: 소환 - 수호자레이트 언데드 기사
+  /objects/wired/gic_spiritsummon/gic_spiritsummon_protectorateundeadpaladin.object.patch//description
+    EN: 
+    KO: 소환 - 수호자레이트 언데드 팔라딘
+  /objects/wired/gic_spiritsummon/gic_spiritsummon_protectorateundeadpaladin.object.patch//shortdescription
+    EN: 
+    KO: 소환 - 수호자레이트 언데드 팔라딘

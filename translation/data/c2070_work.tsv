@@ -1,0 +1,220 @@
+asset	field	en	ko	src
+/items/armors/lawEventJudgeDredd/Judge.chest	description	A uniform worn by the Judges, the emblem has your name on it.	판사들이 입는 제복. 문장에는 네 이름이 있다.	reuse
+/items/armors/lawEventJudgeDredd/Judge.chest	shortdescription	Judge Uniform	판사 제복	reuse
+/items/armors/lawEventJudgeDredd/Judge.head	description	This helmet obscures all of your face, except for your mouth and jaw.		
+/items/armors/lawEventJudgeDredd/Judge.head	shortdescription	Judge Helmet		
+/items/armors/lawEventJudgeDredd/Judge.legs	description	The boots and pants only worn by Judges. 	판사만이 입는 부츠와 바지.	reuse
+/items/armors/lawEventJudgeDredd/Judge.legs	shortdescription	Judge Pants	판사 바지	reuse
+/items/armors/lawEventPoliceGhostCap/lawpoliceghost.head	description	"I'm the l... a ghost !
+
+Effect : ^blue;Ghostly character^reset;"		
+/items/armors/lawEventPoliceGhostCap/lawpoliceghost.head	shortdescription	^#ff9a2e;Spectral Police Hat		
+/items/armors/lawEventPoliceNoel/lawpolicenoel.chest	description	"I'm not Santa but almost !
+
+Effect : ^blue;Christmas Snow^reset;"	산타는 아니지만 거의 비슷해!\n효과: ^blue;크리스마스 눈^reset;	reuse
+/items/armors/lawEventPoliceNoel/lawpolicenoel.chest	shortdescription	^#ff9a2e;Christmas Police Jacket	^#ff9a2e;크리스마스 경찰 재킷	reuse
+/items/armors/lawEventPoliceNoel/lawpolicenoel.head	description	"I'm not Santa but almost !
+
+Effect : ^blue;Christmas Snow^reset;"	산타는 아니지만 거의 비슷해!\n효과: ^blue;크리스마스 눈^reset;	reuse
+/items/armors/lawEventPoliceNoel/lawpolicenoel.head	shortdescription	^#ff9a2e;Christmas Police Hat		
+/items/armors/lawEventPoliceNoel/lawpolicenoel.legs	description	"I'm not Santa but almost !
+
+Effect : ^blue;Christmas Snow^reset;"	산타는 아니지만 거의 비슷해!\n효과: ^blue;크리스마스 눈^reset;	reuse
+/items/armors/lawEventPoliceNoel/lawpolicenoel.legs	shortdescription	^#ff9a2e;Christmas Police Pants	^#ff9a2e;크리스마스 경찰 바지	reuse
+/items/armors/lawHaloEffectBoss/haloefectboss.back	itemName	lawHaloEeffectBossBack		
+/items/armors/lawHaloEffectBoss/haloefectboss.back	description	I'm not a ghost, i'm just a Boss !		
+/items/armors/lawHaloEffectBoss/haloefectboss.back	shortdescription	Red halo for LAW Boss		
+/items/armors/lawHumanDroneP1078armor_FriendlyNPC/P1078.chest	description	"Enforce the law...
+
+Augment slot : ^orange;1^reset;"	법을 집행하라...\n증강 슬롯: ^orange;1^reset;	reuse
+/items/armors/lawHumanDroneP1078armor_FriendlyNPC/P1078.chest	shortdescription	P1078 Drone Chest	P1078 드론 흉갑	reuse
+/items/armors/lawHumanDroneP1078armor_FriendlyNPC/P1078.head	description	"Ongoing analysis...
+
+Augment slot : ^orange;1^reset;"		
+/items/armors/lawHumanDroneP1078armor_FriendlyNPC/P1078.head	shortdescription	P1078 Drone Head		
+/items/armors/lawHumanDroneP1078armor_FriendlyNPC/P1078.legs	description	"Intercept the suspect...
+
+Augment slot : ^orange;1^reset;"	용의자를 가로채라...\n증강 슬롯: ^orange;1^reset;	reuse
+/items/armors/lawHumanDroneP1078armor_FriendlyNPC/P1078.legs	shortdescription	P1078 Drone Legs	P1078 드론 다리 갑옷	reuse
+/items/armors/lawHumanDroneP1078armor_HostileNPC/P1078.chest	itemName	lawP1078HchestNPC		
+/items/armors/lawHumanDroneP1078armor_HostileNPC/P1078.chest	description	Enforce the law...		
+/items/armors/lawHumanDroneP1078armor_HostileNPC/P1078.chest	shortdescription	Hostile P1078 Drone Chest		
+/items/armors/lawHumanDroneP1078armor_HostileNPC/P1078.head	itemName	lawP1078HheadNPC		
+/items/armors/lawHumanDroneP1078armor_HostileNPC/P1078.head	description	Ongoing analysis...		
+/items/armors/lawHumanDroneP1078armor_HostileNPC/P1078.head	shortdescription	Hostile P1078 Drone Head		
+/items/armors/lawHumanDroneP1078armor_HostileNPC/P1078.legs	itemName	lawP1078HlegsNPC		
+/items/armors/lawHumanDroneP1078armor_HostileNPC/P1078.legs	description	Intercept the suspect...		
+/items/armors/lawHumanDroneP1078armor_HostileNPC/P1078.legs	shortdescription	Hostile P1078 Drone Legs		
+/items/armors/lawHumanDroneP1078armor_Player/P1078.back	description	"You won't get away with this...
+
+Augment slot : ^orange;1^reset;"		
+/items/armors/lawHumanDroneP1078armor_Player/P1078.back	shortdescription	P1078 Drone Back		
+/items/armors/lawHumanDroneP1078armor_Player/P1078.chest	description	"Enforce the law...
+
+Augment slot : ^orange;1^reset;"	법을 집행하라...\n증강 슬롯: ^orange;1^reset;	reuse
+/items/armors/lawHumanDroneP1078armor_Player/P1078.chest	shortdescription	P1078 Drone Chest	P1078 드론 흉갑	reuse
+/items/armors/lawHumanDroneP1078armor_Player/P1078.head	description	"Ongoing analysis...
+
+Augment slot : ^orange;1^reset;"		
+/items/armors/lawHumanDroneP1078armor_Player/P1078.head	shortdescription	P1078 Drone Head		
+/items/armors/lawHumanDroneP1078armor_Player/P1078.legs	description	"Intercept the suspect...
+
+Augment slot : ^orange;1^reset;"	용의자를 가로채라...\n증강 슬롯: ^orange;1^reset;	reuse
+/items/armors/lawHumanDroneP1078armor_Player/P1078.legs	shortdescription	P1078 Drone Legs	P1078 드론 다리 갑옷	reuse
+/items/armors/lawHumanDroneP1078armor_Player/exemple.chest	itemName	IDdutorse		
+/items/armors/lawHumanDroneP1078armor_Player/exemple.chest	description	Description de l'objet		
+/items/armors/lawHumanDroneP1078armor_Player/exemple.chest	shortdescription	Titre de l'objet		
+/items/armors/lawJohnCastellaUniform/captainjohn.chest	description	A fine chest and a symbol of authority for Commanders. '^orange;by swefpifh^reset;'	지휘관의 권위를 상징하는 훌륭한 흉갑. '^orange;by swefpifh^reset;'	reuse
+/items/armors/lawJohnCastellaUniform/captainjohn.chest	shortdescription	John Castella Jacket	존 카스텔라 재킷	reuse
+/items/armors/lawJohnCastellaUniform/captainjohn.head	description	A fine hat and a symbol of authority for Commanders. '^orange;by swefpifh^reset;'		
+/items/armors/lawJohnCastellaUniform/captainjohn.head	shortdescription	John Castella's ID		
+/items/armors/lawJohnCastellaUniform/captainjohn.legs	description	A fine pants and a symbol of authority for Commanders. '^orange;by swefpifh^reset;'	지휘관의 권위를 상징하는 훌륭한 바지. '^orange;by swefpifh^reset;'	reuse
+/items/armors/lawJohnCastellaUniform/captainjohn.legs	shortdescription	John Castella Trousers	존 카스텔라 바지	reuse
+/items/armors/lawM01Bandits/banditblackcostume.chest	description	No comment.	코멘트 없음.	reuse
+/items/armors/lawM01Bandits/banditblackcostume.chest	shortdescription	Bandit Suit Chest	산적 옷 흉갑	reuse
+/items/armors/lawM01Bandits/banditblackcostume.head	description	No comment.	코멘트 없음.	reuse
+/items/armors/lawM01Bandits/banditblackcostume.head	shortdescription	Bandit Suit Glasses		
+/items/armors/lawM01Bandits/banditblackcostume.legs	description	No comment.	코멘트 없음.	reuse
+/items/armors/lawM01Bandits/banditblackcostume.legs	shortdescription	Bandit Suit Pants	산적 옷 바지	reuse
+/items/armors/lawM01Boss/bosswhitecostume.chest	description	No comment.	코멘트 없음.	reuse
+/items/armors/lawM01Boss/bosswhitecostume.chest	shortdescription	Don Mafia Chest	돈 마피아 흉갑	reuse
+/items/armors/lawM01Boss/bosswhitecostume.head	description	No comment.	코멘트 없음.	reuse
+/items/armors/lawM01Boss/bosswhitecostume.head	shortdescription	Don Mafia Hat		
+/items/armors/lawM01Boss/bosswhitecostume.legs	description	No comment.	코멘트 없음.	reuse
+/items/armors/lawM01Boss/bosswhitecostume.legs	shortdescription	Don Mafia Pants	돈 마피아 바지	reuse
+/items/armors/lawM02DangerousPrisoners/dangerprisoners.chest	description	You can read the prisoner's I.D. number.	죄수의 수인 번호가 보인다.	reuse
+/items/armors/lawM02DangerousPrisoners/dangerprisoners.chest	shortdescription	Dangerous Prisoner Jacket	위험한 죄수 재킷	reuse
+/items/armors/lawM02DangerousPrisoners/dangerprisoners.legs	description	Pretty worn out with community service.	사회봉사로 꽤 낡았다.	reuse
+/items/armors/lawM02DangerousPrisoners/dangerprisoners.legs	shortdescription	Dangerous Prisoner Trousers	위험한 죄수 바지	reuse
+/items/armors/lawM02SimplePrisoners/simpleprisoners.chest	description	You can read the prisoner's I.D. number.	죄수의 수인 번호가 보인다.	reuse
+/items/armors/lawM02SimplePrisoners/simpleprisoners.chest	shortdescription	Simple Prisoner Jacket	일반 죄수 재킷	reuse
+/items/armors/lawM02SimplePrisoners/simpleprisoners.legs	description	Pretty worn out with community service.	사회봉사로 꽤 낡았다.	reuse
+/items/armors/lawM02SimplePrisoners/simpleprisoners.legs	shortdescription	Simple Prisoner Trousers	일반 죄수 바지	reuse
+/items/armors/lawM03Boss/BossM03.chest	itemName	lawBosspolicechest		
+/items/armors/lawM03Boss/BossM03.chest	description	To Protect and To Serve.	보호하고 섬기기 위해.	reuse
+/items/armors/lawM03Boss/BossM03.chest	shortdescription	Police Uniform	경찰 제복	reuse
+/items/armors/lawM03Boss/BossM03.legs	itemName	lawBosspolicepants		
+/items/armors/lawM03Boss/BossM03.legs	description	I'm gettin too old for this shit.	이런 일 하기엔 너무 늙었어.	reuse
+/items/armors/lawM03Boss/BossM03.legs	shortdescription	Police Pants	경찰 바지	reuse
+/items/armors/lawPBIagents/lawPBIagents.chest	itemName	lawPBIagentschest		
+/items/armors/lawPBIagents/lawPBIagents.chest	shortdescription	PBI Bulletproof	PBI 방탄복	reuse
+/items/armors/lawPBIagents/lawPBIagents.head	itemName	lawPBIagentsglasses		
+/items/armors/lawPBIagents/lawPBIagents.head	shortdescription	PBI Glasses		
+/items/armors/lawPBIagents/lawPBIagents.legs	itemName	lawPBIagentspants		
+/items/armors/lawPBIagents/lawPBIagents.legs	shortdescription	PBI Pants	PBI 바지	reuse
+/items/armors/lawmotorcyclehelmet/lawmotorcyclehelmet.head	description	This helmet has unique design features which result in superior fit, comfort, and cooling.		
+/items/armors/lawmotorcyclehelmet/lawmotorcyclehelmet.head	shortdescription	Motocycle Helmet		
+/items/armors/lawpoliceuniform/lawpoliceuniform.chest	description	To Protect and To Serve.	보호하고 섬기기 위해.	reuse
+/items/armors/lawpoliceuniform/lawpoliceuniform.chest	shortdescription	Police Uniform	경찰 제복	reuse
+/items/armors/lawpoliceuniform/lawpoliceuniform.head	description	I'm the LAW !		
+/items/armors/lawpoliceuniform/lawpoliceuniform.head	shortdescription	Police Hat		
+/items/armors/lawpoliceuniform/lawpoliceuniform.legs	description	I'm gettin too old for this shit.	이런 일 하기엔 너무 늙었어.	reuse
+/items/armors/lawpoliceuniform/lawpoliceuniform.legs	shortdescription	Police Pants	경찰 바지	reuse
+/items/armors/lawriothelmet/lawswatuniform.head	description	This helmet really demands attenSHUN!		
+/items/armors/lawriothelmet/lawswatuniform.head	shortdescription	Riot Helmet		
+/items/armors/lawswatuniform/lawswatuniform.chest	description	A soldier's padded uniform chestpiece.	군인의 솜 넣은 제복 흉갑.	reuse
+/items/armors/lawswatuniform/lawswatuniform.chest	shortdescription	SWAT Chest	SWAT 흉갑	reuse
+/items/armors/lawswatuniform/lawswatuniform.head	description	This helmet really demands attenSHUN!		
+/items/armors/lawswatuniform/lawswatuniform.head	shortdescription	SWAT Helmet		
+/items/armors/lawswatuniform/lawswatuniform.legs	description	Tough trousers from a soldier's uniform.	군인 제복의 튼튼한 바지.	reuse
+/items/armors/lawswatuniform/lawswatuniform.legs	shortdescription	SWAT Pants	SWAT 바지	reuse
+/items/armors/lawtest/test.back	itemName	lawTESTback		
+/items/armors/lawtest/test.back	description	"You won't get away with this...
+
+Augment slot : ^orange;1^reset;"		
+/items/armors/lawtest/test.back	shortdescription	P1078 Drone Back		
+/items/augments/back/lawCyberNano1swat.augment	description	An Cyber augment that increases your ^orange;health regeneration^reset; and ^orange;stop the hunger^reset;.		
+/items/augments/back/lawCyberNano1swat.augment	shortdescription	Augment : NanoTech I		
+/items/augments/back/lawCyberNano2swat.augment	description	An Cyber augment that increases your ^orange;running speed^reset; and your ^orange;jump height^reset;.		
+/items/augments/back/lawCyberNano2swat.augment	shortdescription	Augment : ExoTech I		
+/items/augments/back/lawCyberNano3swat.augment	description	An Cyber augment that create an ^orange;immunity for all liquids^reset;.		
+/items/augments/back/lawCyberNano3swat.augment	shortdescription	Augment : ArmouredTech I		
+/items/augments/back/lawTactical1police.augment	description	An EPP module that increases your defense (^orange;+5^reset;).		
+/items/augments/back/lawTactical1police.augment	shortdescription	Augment : Police Armor I		
+/items/augments/back/lawTactical2police.augment	description	An EPP module that increases your defense (^orange;+10^reset;).		
+/items/augments/back/lawTactical2police.augment	shortdescription	Augment : Police Armor II		
+/items/augments/back/lawTactical3police.augment	description	An EPP module that increases your defense (^orange;+15^reset;).		
+/items/augments/back/lawTactical3police.augment	shortdescription	Augment : Police Armor III		
+/items/augments/back/lawTactical4swat.augment	description	An EPP module that increases your defense (^orange;+25^reset;).		
+/items/augments/back/lawTactical4swat.augment	shortdescription	Augment : SWAT Armor IV		
+/items/collar/tacticcollar1.augment	description	A collar that add ^blue;+15 DEF^reset; and ^orange;+4 ATK^reset; for your pet.		
+/items/collar/tacticcollar1.augment	shortdescription	Pet Collar : Tactic I		
+/items/collar/tacticcollar2.augment	description	A collar that add ^blue;+20 DEF^reset; and ^orange;+8 ATK^reset; for your pet.		
+/items/collar/tacticcollar2.augment	shortdescription	Pet Collar : Tactic II		
+/items/collar/thornscollar1.augment	description	^orange;Reflects 100% of the received damage back^reset; at every enemy in melee range.		
+/items/collar/thornscollar1.augment	shortdescription	Collar Pet : Thorns I		
+/items/mechs/throwables/lawmechenergypack.thrownitem	shortdescription	Mech Battery Recharge		
+/items/mechs/throwables/lawmechenergypack.thrownitem	description	^orange;Restore 100% of energy for your mech		
+/items/money/lawXP.currency	description	lawxp are an unique currency. They can also be used for Law Enforcement.		
+/items/money/lawXP.currency	shortdescription	Law Experience		
+/items/money/leEToken.currency	itemName	leEToken		
+/items/money/leEToken.currency	description	This token allows you to purchase items related to celebrations and other events.		
+/items/money/leEToken.currency	shortdescription	^orange;Police Event Token		
+/items/money/leInsign.currency	itemName	leInsign		
+/items/money/leInsign.currency	description	This insign reveals your performance in law enforcement.		
+/items/money/leInsign.currency	shortdescription	^orange;Insign of Law		
+/items/money/leInsign2.currency	itemName	leInsign2		
+/items/money/leInsign2.currency	description	This insign reveals your performance in law enforcement.		
+/items/money/leInsign2.currency	shortdescription	^orange;Insign of Intervention		
+/items/others/lawReinforcementCall/lawCarrierHC99.thrownitem	shortdescription	Backup : HC99 Drones Carrier		
+/items/others/lawReinforcementCall/lawCarrierHC99.thrownitem	description	Call one Police HC99 Drones Carrier for temporary support. ^orange;Single-use item.		
+/items/others/lawReinforcementCall/lawDogK9.thrownitem	shortdescription	Backup : K9 Dog		
+/items/others/lawReinforcementCall/lawDogK9.thrownitem	description	Call one K9 Dog for temporary support you in an aera. ^orange;Single-use item.		
+/items/others/lawReinforcementCall/lawDroneH80.thrownitem	shortdescription	Backup : H80-Drone		
+/items/others/lawReinforcementCall/lawDroneH80.thrownitem	description	Call one SWAT H80-Drone for temporary support you in an aera. ^orange;Single-use item.		
+/items/others/lawReinforcementCall/lawDroneH90.thrownitem	shortdescription	Backup : H90-Drone		
+/items/others/lawReinforcementCall/lawDroneH90.thrownitem	description	Call one SWAT H90-Drone for temporary support you in an aera. ^orange;Single-use item.		
+/items/others/lawReinforcementCall/lawDroneL42.thrownitem	shortdescription	Backup : L42-Drone		
+/items/others/lawReinforcementCall/lawDroneL42.thrownitem	description	Call one Police L42-Drone for temporary support you in an aera. ^orange;Single-use item.		
+/items/others/lawReinforcementCall/lawDroneM69.thrownitem	shortdescription	Backup : M69-Drone		
+/items/others/lawReinforcementCall/lawDroneM69.thrownitem	description	Call one Police M69-Drone for temporary support you in an aera. ^orange;Single-use item.		
+/items/others/lawReinforcementCall/lawGrenadeNPC_P1078.thrownitem	itemName	lawGrenadeNPC_P1078		
+/items/others/lawReinforcementCall/lawGrenadeNPC_P1078.thrownitem	shortdescription	Backup : P1078 Drone		
+/items/others/lawReinforcementCall/lawGrenadeNPC_P1078.thrownitem	description	Call one P1078 Drone for temporary support you in an aera. ^orange;Single-use item.		
+/items/others/lawReinforcementCall/lawGrenadeNPC_PoliceOfficer.thrownitem	itemName	lawGrenadeNPC_PoliceOfficer		
+/items/others/lawReinforcementCall/lawGrenadeNPC_PoliceOfficer.thrownitem	shortdescription	Backup : Police Officer		
+/items/others/lawReinforcementCall/lawGrenadeNPC_PoliceOfficer.thrownitem	description	Call one Police Officer for temporary support you in an aera. ^orange;Single-use item.		
+/items/others/lawReinforcementCall/lawGrenadeNPC_swatUnit.thrownitem	itemName	lawGrenadeNPC_swatUnit		
+/items/others/lawReinforcementCall/lawGrenadeNPC_swatUnit.thrownitem	shortdescription	Backup : SWAT Unit		
+/items/others/lawReinforcementCall/lawGrenadeNPC_swatUnit.thrownitem	description	Call one SWAT Unit for temporary support you in an aera. ^orange;Single-use item.		
+/items/others/lawReinforcementCall/lawTurretS26.thrownitem	shortdescription	Backup : S26 Defensive Turret		
+/items/others/lawReinforcementCall/lawTurretS26.thrownitem	description	Call one Police S26 Defensive Turret for temporary support. ^orange;Single-use item.		
+/items/weapons/lawAK47npc/lawAK47npc.activeitem	description	It's an very old weapon used by few intervention squads.	소수의 개입 부대가 사용한 아주 오래된 무기다.	reuse
+/items/weapons/lawP90SWAT/lawP90exploSWAT01.activeitem	description	Equipped with a flashlight, it's an very old weapon used by few intervention squads.	손전등이 장착된, 소수의 개입 부대만이 사용하는 아주 오래된 무기다.	reuse
+/items/weapons/lawneoUMP/lawneoump.activeitem	description	Weapon design created for P1078 Units.	P1078 유닛용으로 설계된 무기 도안.	reuse
+/items/weapons/lawneoUMP/lawneoump.activeitem	shortdescription	Neo UMP-911	네오 UMP-911	reuse
+/items/weapons/lawneoUMP/lawneoumpnpc.activeitem	description	Weapon created for P1078 Units.	P1078 유닛용으로 만들어진 무기.	reuse
+/items/weapons/lawneoUMP/lawneoumpnpc.activeitem	shortdescription	Neo UMP-911 NPC	네오 UMP-911 NPC	reuse
+/items/weapons/lawpistol1/lawpistol.activeitem	description	An ultra modern regulatory pistol for law enforcement.	법집행용 초현대식 규제 권총.	reuse
+/items/weapons/lawpistol1/lawpistol.activeitem	shortdescription	Rookie's pistol I	루키 권총 I	reuse
+/items/weapons/lawpistol1/lawpistol_npc.activeitem	description	An ultra modern regulatory pistol for law enforcement.	법집행용 초현대식 규제 권총.	reuse
+/items/weapons/lawpistol1/lawpistol_npc.activeitem	shortdescription	Rookie's pistol I	루키 권총 I	reuse
+/items/weapons/lawpistol2/lawpistol.activeitem	description	An ultra modern regulatory pistol for law enforcement.	법집행용 초현대식 규제 권총.	reuse
+/items/weapons/lawpistol2/lawpistol.activeitem	shortdescription	Detective's pistol II	형사의 권총 II	reuse
+/items/weapons/lawpistol3/lawpistol.activeitem	description	An ultra modern regulatory pistol for law enforcement.	법집행용 초현대식 규제 권총.	reuse
+/items/weapons/lawpistol3/lawpistol.activeitem	shortdescription	Captain's pistol III	함장의 권총 III	reuse
+/items/weapons/lawpistol4/lawpistol.activeitem	description	An ultra modern regulatory pistol for law enforcement.	법집행용 초현대식 규제 권총.	reuse
+/items/weapons/lawpistol4/lawpistol.activeitem	shortdescription	Judge's pistol IV	저지의 권총 IV	reuse
+/items/weapons/lawriotshieldPolice/lawpoliceshield.activeitem	description	A bastion of order in an uncertain world.	불확실한 세계에 서있는, 질서라는 이름의 요새입니다.	reuse
+/items/weapons/lawriotshieldPolice/lawpoliceshield.activeitem	shortdescription	Riot Shield - Police	라이엇 실드 - 경찰	reuse
+/items/weapons/lawriotshieldSWAT/lawriotshield.activeitem	description	A bastion of order in an uncertain world.	불확실한 세계에 서있는, 질서라는 이름의 요새입니다.	reuse
+/items/weapons/lawriotshieldSWAT/lawriotshield.activeitem	shortdescription	Riot Shield - SWAT	라이엇 실드 - SWAT	reuse
+/items/weapons/lawshotgun/lawshotgun.activeitem	description	An ultra modern regulatory shotgun for law enforcement.	법집행용 초현대식 규제 산탄총.	reuse
+/items/weapons/lawshotgun/lawshotgun.activeitem	shortdescription	Rookie's Shotgun I	루키의 샷건 I	reuse
+/items/weapons/lawshotgun/lawshotgun2.activeitem	description	An ultra modern regulatory shotgun for law enforcement.	법집행용 초현대식 규제 산탄총.	reuse
+/items/weapons/lawshotgun/lawshotgun2.activeitem	shortdescription	Detective's Shotgun II	형사의 샷건 II	reuse
+/items/weapons/lawshotgun/lawshotgun3.activeitem	description	An ultra modern regulatory shotgun for law enforcement.	법집행용 초현대식 규제 산탄총.	reuse
+/items/weapons/lawshotgun/lawshotgun3.activeitem	shortdescription	Captain's Shotgun III	함장의 샷건 III	reuse
+/items/weapons/lawshotgun/lawshotgun4.activeitem	description	An ultra modern regulatory shotgun for law enforcement.	법집행용 초현대식 규제 산탄총.	reuse
+/items/weapons/lawshotgun/lawshotgun4.activeitem	shortdescription	Judge's Shotgun IV	저지의 샷건 IV	reuse
+/items/weapons/lawshotgun/npclawshotgun.activeitem	description	'...because in the end, Doom is all that counts.'	...끝에는 결국, 종말만이 남을 뿐이니까.	reuse
+/items/weapons/lawshotgun/npclawshotgun.activeitem	shortdescription	Neo Magnum	네오 매그넘	reuse
+/items/weapons/lawswatplasmarifle1/lawswatplasmarifle.activeitem	description	"An assault rifle used by SWAT Forces. 
+Primary : ^orange;Plasma Ricochet^reset;
+Alt : ^red;Electric Cloud Grenade^reset;"	"SWAT 부대가 사용하는 돌격소총입니다. 
+주 발사: ^orange;플라스마 도탄^reset;
+보조 발사: ^red;전기 구름 수류탄^reset;"	reuse
+/items/weapons/lawswatplasmarifle1/lawswatplasmarifle.activeitem	shortdescription	SWAT Assault Rifle ^yellow;^reset;	SWAT 돌격소총 ^yellow;^reset;	reuse
+/items/weapons/lawtaser/lawtaser.activeitem	description	Electrical weapon used by law enforcement.	법 집행 기관이 사용하는 전기 무기.	reuse
+/items/weapons/lawtaser/lawtaser.activeitem	shortdescription	Taser Gun	테이저건	reuse
+/items/weapons/lawtonfa/lawtonfa.activeitem	shortdescription	Police Tonfa	경찰 톤파	reuse

@@ -1,0 +1,237 @@
+/codex/moogle/mooglediary1.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Moogle's Log"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "모글의 기록"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "The diary of a lost soul."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "길을 잃은 영혼의 일기."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/contentPages/0",
+      "value": "Lore here."
+    },
+    {
+    /codex/moogle/moogleshipfurniture.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Moogle Ship Furniture"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "모글 함선 가구"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "A book of plans detailing how to craft various Moogle ship furniture."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "여러 가지 모글 함선 가구를 만드는 방법을 자세히 적은 설계서."
+    }
+  ],
+  [
+    {
+      "op": "test",
+ /codex/viera/crafting/armor/freelancer1pattern.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Pattern : Treerunner's Vestments"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "도안: 트리러너 예복"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Sewing patterns and instructions for crafting Viera clothing."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "비에라 의상 제작용 재봉 도안과 설명서."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "p/codex/viera/crafting/armor/freelancer2pattern.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Pattern : Woodtrekker's Vestments"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "도안: 우드트레커 예복"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Sewing patterns and instructions for crafting Viera clothing."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "비에라 의상 제작용 재봉 도안과 설명서."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      /codex/viera/crafting/armor/freelancer3pattern.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Pattern : Sylvan Vestments"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "도안: 실반 예복"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Sewing patterns and instructions for crafting Viera clothing."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "비에라 의상 제작용 재봉 도안과 설명서."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "//codex/viera/crafting/armor/freelancer4pattern.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Pattern : Knothide Vestments"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "도안: 노트하이드 예복"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Sewing patterns and instructions for crafting Viera clothing."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "비에라 의상 제작용 재봉 도안과 설명서."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path/codex/viera/crafting/armor/freelancer5pattern.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Pattern : Zamorria Vestments"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "도안: 자모리아 예복"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Sewing patterns and instructions for crafting Viera clothing."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "비에라 의상 제작용 재봉 도안과 설명서."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path"/codex/viera/crafting/armor/salvemakerpattern.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Pattern : Salve Maker Plate"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "도안: 살브 메이커 판금"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Sewing patterns and instructions for crafting Viera clothing."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "비에라 의상 제작용 재봉 도안과 설명서."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path

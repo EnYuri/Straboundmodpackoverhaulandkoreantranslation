@@ -1,0 +1,5 @@
+asset	field	en	ko	src
+/objects/crafting/macrochipworkstation/gui/macrochipworkstationgui.config	title	  Macrochip Workstation	  매크로칩 작업대	
+/objects/crafting/macrochipworkstation/gui/macrochipworkstationgui.config	subtitle	  ^#b9b5b2;Virtual Circuit Management	^#b9b5b2;가상 회로 관리	reuse
+/objects/crafting/macrochipworkstation/macrochipworkstation.object	description	A workstation specifically designed for macrochip data management.	매크로칩 데이터 관리를 위해 특별히 설계된 작업대.	reuse
+/objects/crafting/macrochipworkstation/macrochipworkstation.object	shortdescription	^orange;Macrochip Workstation^white;	^orange;매크로칩 워크스테이션^white;	reuse

@@ -1,0 +1,13 @@
+asset	field	en	ko	src
+/items/generic/tradegoods/fu_4dgoods.currency	description	A sealed crate of extradimensional objects, valuable for interstellar trade.	성간 무역에서 가치 있는, 차원 밖 물체들이 담긴 밀봉 상자.	reuse
+/items/generic/tradegoods/fu_4dgoods.currency	shortdescription	4D Anomalies	4차원 이상 현상	reuse
+/items/generic/tradegoods/fu_fossilgoods.currency	description	A sealed crate of fossilized bones, valuable for interstellar trade.	성간 무역에서 가치 있는, 화석화된 뼈들이 담긴 밀봉 상자.	reuse
+/items/generic/tradegoods/fu_fossilgoods.currency	shortdescription	Alien Fossils	외계 화석	reuse
+/items/generic/tradegoods/fu_loregoods.currency	description	A sealed crate of historical books and knowledge, valuable for interstellar trade.	성간 무역에서 가치 있는, 역사적인 서적과 지식이 담긴 밀봉 상자.	reuse
+/items/generic/tradegoods/fu_loregoods.currency	shortdescription	Historical Records	역사 기록	reuse
+/items/generic/tradegoods/fu_relicgoods.currency	description	A sealed crate of rare and unusual items, valuable for interstellar trade.	성간 무역에서 가치 있는, 희귀하고 특이한 물건들이 담긴 밀봉 상자.	reuse
+/items/generic/tradegoods/fu_relicgoods.currency	shortdescription	Minor Artifacts	마이너 아티팩트	reuse
+/objects/crafting/atprk_fuassistantdrone/atprk_fuassistantdrone.object	description	"An immobile thinking machine capable of analyzing items.
+^cyan;Research Rate^reset;: 5% (0.5%), 0.8s"	"아이템을 분석할 수 있는 움직이지 않는 사고 기계다.
+^cyan;연구 속도^reset;: 5% (0.5%), 0.8초"	reuse
+/objects/crafting/atprk_fuassistantdrone/atprk_fuassistantdrone.object	shortdescription	Elder Research Assistant	장로 연구 보조원	reuse

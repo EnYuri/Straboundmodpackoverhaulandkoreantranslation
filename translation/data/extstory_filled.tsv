@@ -1,0 +1,100 @@
+asset	field	en	ko	src
+/items/armors/backitems/ancienteppback/ancientepp.back	description	Prevents any low or high temperatures, neutralizes high levels of radiation, and provides oxygen to the wearer.	모든 저온과 고온을 차단하고, 고농도 방사선을 중화하며, 착용자에게 산소를 공급한다.	
+/items/armors/backitems/ancienteppback/ancientepp.back	shortdescription	Ancient EPP	고대 EPP	
+/items/armors/backitems/antiroteppback/antirotepp.back	description	Permanent immunity to the putrid air of the forgotten biome.	잊혀진 바이옴의 부패한 공기에 영구 면역.	
+/items/armors/backitems/antiroteppback/antirotepp.back	shortdescription	Anti-Rot EPP	부패 방지 EPP	
+/items/armors/backitems/darkmattereppback/darkmatterepp.back	description	Completely resistant to every element.	모든 속성에 완전 저항.	
+/items/armors/backitems/darkmattereppback/darkmatterepp.back	shortdescription	Dark Matter EPP	암흑물질 EPP	
+/items/armors/other/ancient/ancient.chest	description	"A piece of armor that happens to survive the test of time.
+^cyan;Elemental damage reduction and deals damage to enemies."	"우연히 시간의 시험을 견뎌낸 갑옷 조각.
+^cyan;속성 피해 감소와 적 피해."	
+/items/armors/other/ancient/ancient.chest	shortdescription	Ancient Chestplate	고대 흉갑	
+/items/armors/other/ancient/ancient.head	description	"A worn out helm that is well crafted and can survive time.
+^cyan;Elemental damage reduction and deals damage to enemies."	"잘 만들어졌고 시간을 견뎌낼 수 있는 낡은 헬멧.
+^cyan;속성 피해 감소와 적 피해."	
+/items/armors/other/ancient/ancient.head	shortdescription	Ancient Helm	고대 헬멧	
+/items/armors/other/ancient/ancient.legs	description	"This object's age is beyond comprehension.
+^cyan;Elemental damage reduction and deals damage to enemies."	"이 물건의 연대는 상상을 초월한다.
+^cyan;속성 피해 감소와 적 피해."	
+/items/armors/other/ancient/ancient.legs	shortdescription	Ancient Greaves	고대 그리브	
+/items/armors/other/destructium/destructium.chest	description	"Destructium shaped into a chestplate.
+^cyan;Lower defense, higher damage!"	"디스트럭튬으로 빚은 흉갑.
+^cyan;낮은 방어, 높은 피해!"	
+/items/armors/other/destructium/destructium.chest	shortdescription	Destructium Chestplate	디스트럭튬 흉갑	
+/items/armors/other/destructium/destructium.head	description	"A helmet made of destructium.
+^cyan;Lower defense, higher damage!"	"디스트럭튬으로 만든 헬멧.
+^cyan;낮은 방어, 높은 피해!"	
+/items/armors/other/destructium/destructium.head	shortdescription	Destructium Helmet	디스트럭튬 헬멧	
+/items/armors/other/destructium/destructium.legs	description	"A pair of destructium leggings.
+^cyan;Lower defense, higher damage!"	"디스트럭튬 레깅스 한 벌.
+^cyan;낮은 방어, 높은 피해!"	
+/items/armors/other/destructium/destructium.legs	shortdescription	Destructium Leggings	디스트럭튬 레깅스	
+/items/armors/other/infernium/infernium.chest	description	A chestplate made of fire and infernal rock.	화염과 지옥의 암석으로 만든 흉갑.	
+/items/armors/other/infernium/infernium.chest	shortdescription	Infernium Chestplate	인페르노 흉갑	
+/items/armors/other/infernium/infernium.head	description	A very protective helmet made of infernal rock.	지옥의 암석으로 만든 매우 보호적인 헬멧.	
+/items/armors/other/infernium/infernium.head	shortdescription	Infernium Helmet	인페르노 헬멧	
+/items/armors/other/infernium/infernium.legs	description	A pair of leggings with Blazing Essence infused into it. Also made of infernal rock.	불타는 에센스가 주입된 레깅스 한 벌. 지옥의 암석으로도 만들었다.	
+/items/armors/other/infernium/infernium.legs	shortdescription	Infernium Greaves	인페르노 그리브	
+/items/armors/other/oceanguardian/oceanguardian.chest	description	"Really strong breastplate designed for higher mobility underwater.
+^cyan;Immune to suffocation and higher swimming mobility."	"수중 기동성을 높이도록 설계된 정말 튼튼한 흉갑.
+^cyan;질식 면역과 수영 기동성 향상."	
+/items/armors/other/oceanguardian/oceanguardian.chest	shortdescription	Ocean Guardian's Breastplate	바다 수호자의 흉갑	
+/items/armors/other/oceanguardian/oceanguardian.head	description	"A helm that was forged in the ocean!
+^cyan;Immune to suffocation and higher swimming mobility."	"바다에서 단조된 헬멧!
+^cyan;질식 면역과 수영 기동성 향상."	
+/items/armors/other/oceanguardian/oceanguardian.head	shortdescription	Ocean Guardian's Helm	바다 수호자의 헬멧	
+/items/armors/other/oceanguardian/oceanguardian.legs	description	"Extremely hard armor made of pure ocean metal.
+^cyan;Immune to suffocation and higher swimming mobility."	"순수한 바다 금속으로 만든 극도로 단단한 갑옷.
+^cyan;질식 면역과 수영 기동성 향상."	
+/items/armors/other/oceanguardian/oceanguardian.legs	shortdescription	Ocean Guardian's Greaves	바다 수호자의 그리브	
+/items/armors/other/rotten/rotten.chest	description	"A chestplate made entirely of bacteria and rotting goo. Gross.
+^cyan;Causes nearby monsters to decay after taking damage."	"전부 박테리아와 썩은 물질로 만든 흉갑. 징그럽다.
+^cyan;근처 괴물이 피해를 입으면 부패하게 만든다."	
+/items/armors/other/rotten/rotten.chest	shortdescription	Rotten Chestplate	부패 흉갑	
+/items/armors/other/rotten/rotten.head	description	"A funky-smelling helmet made of rotten sludge and alien bacteria.
+^cyan;Causes nearby monsters to decay after taking damage."	"썩은 찌꺼기와 외계 박테리아로 만든 괴상한 냄새의 헬멧.
+^cyan;근처 괴물이 피해를 입으면 부패하게 만든다."	
+/items/armors/other/rotten/rotten.head	shortdescription	Rotten Helmet	부패 헬멧	
+/items/armors/other/rotten/rotten.legs	description	"A pair of rotting pants. It smells awful.
+^cyan;Causes nearby monsters to decay after taking damage."	"썩어가는 바지 한 벌. 냄새가 지독하다.
+^cyan;근처 괴물이 피해를 입으면 부패하게 만든다."	
+/items/armors/other/rotten/rotten.legs	shortdescription	Rotten Pants	부패 바지	
+/items/armors/other/ultimatium/ultimatium.chest	description	"A chestplate that has extreme durability. 
+^cyan;Emits a protective shield.^reset;
+^red;Not dyeable^reset;"	"극도의 내구성을 가진 흉갑. 
+^cyan;보호 방패를 발산한다.^reset;
+^red;염색 불가^reset;"	
+/items/armors/other/ultimatium/ultimatium.chest	shortdescription	Ultimatium Chestplate	궁극물질 흉갑	
+/items/armors/other/ultimatium/ultimatium.head	description	"A helmet made of the strongest known material. 
+^cyan;Emits a protective shield.^reset;
+^red;Not dyeable^reset;"	"알려진 가장 강력한 물질로 만든 헬멧. 
+^cyan;보호 방패를 발산한다.^reset;
+^red;염색 불가^reset;"	
+/items/armors/other/ultimatium/ultimatium.head	shortdescription	Ultimatium Helmet	궁극물질 헬멧	
+/items/armors/other/ultimatium/ultimatium.legs	description	"The single strongest pair of pants available. 
+^cyan;Emits a protective shield.^reset;
+^red;Not dyeable^reset;"	"가능한 것 중 가장 강력한 바지 한 벌. 
+^cyan;보호 방패를 발산한다.^reset;
+^red;염색 불가^reset;"	
+/items/armors/other/ultimatium/ultimatium.legs	shortdescription	Ultimatium Leggings	궁극물질 레깅스	
+/items/armors/other/umbrium/umbrium.chest	description	A chestplate with a sort of gem-like eye lodged into the chest.	가슴에 보석 같은 눈이 박힌 흉갑.	
+/items/armors/other/umbrium/umbrium.chest	shortdescription	Umbrium Chestplate	암브리움 흉갑	
+/items/armors/other/umbrium/umbrium.head	description	A mask that covers the facial region with an eye! Creepy!	눈이 달려 얼굴을 가리는 마스크! 소름 끼친다!	
+/items/armors/other/umbrium/umbrium.head	shortdescription	Umbrium Mask	암브리움 마스크	
+/items/armors/other/umbrium/umbrium.legs	description	A pair of leggings with Abyssal Magic infused into it.	심연의 마법이 주입된 레깅스 한 벌.	
+/items/armors/other/umbrium/umbrium.legs	shortdescription	Umbrium Greaves	암브리움 그리브	
+/items/augments/back/destroyerspawnblock.augment	description	An EPP module that makes you invisible to the Destroyer of Worlds.	세계의 파괴자에게 너를 투명하게 만드는 EPP 모듈.	
+/items/augments/back/destroyerspawnblock.augment	shortdescription	Destroyer Camo Augment	파괴자 위장 증강	
+/items/materials/chargedsand.matitem	description	A pile of sand that is electrically charged. ^cyan;Currently decorative only.^reset;	전기를 띤 모래 더미. ^cyan;현재는 장식용.^reset;	
+/items/materials/chargedsand.matitem	shortdescription	Electrified Sand	대전된 모래	
+/items/materials/darkobsidianrail.matitem	description	A rail carved from dark obsidian.	검은 흑요석으로 깎은 레일.	
+/items/materials/darkobsidianrail.matitem	shortdescription	Dark Obsidian Rail	검은 흑요석 레일	
+/items/materials/iceplatform.matitem	description	Platforms that are made entirely of ice. It's unknown how these are sturdy or never melt.	전부 얼음으로 만든 발판. 어떻게 튼튼하고 녹지 않는지는 불명.	
+/items/materials/iceplatform.matitem	shortdescription	Ice Platform	얼음 플랫폼	reuse
+/items/materials/livinglightning.matitem	description	A living lightning bolt! ^cyan;Currently decorative only.^reset;	살아있는 번개! ^cyan;현재는 장식용.^reset;	
+/items/materials/livinglightning.matitem	shortdescription	Living Lightning	살아있는 번개	
+/items/materials/supervoidblock.matitem	description	A block found in the Supervoid.	초공허에서 발견되는 블록.	
+/items/materials/supervoidblock.matitem	shortdescription	Supervoid Block	초공허 블록	
+/items/throwables/ancientgrenade.thrownitem	description	Handheld ancient grenades. Careful! They're very deadly.	휴대용 고대 수류탄. 조심! 아주 치명적이다.	
+/items/throwables/destroyersummoner.thrownitem	shortdescription	Destruction Orb	파괴 구체	
+/items/throwables/destroyersummoner.thrownitem	description	This orb emits a destructive aura. ^yellow;Summons the destroyer^reset;	이 구체는 파괴적인 기운을 발산한다. ^yellow;파괴자를 소환한다^reset;	

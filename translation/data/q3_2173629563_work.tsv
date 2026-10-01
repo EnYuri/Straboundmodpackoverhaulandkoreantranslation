@@ -1,0 +1,11 @@
+asset	field	en	ko	src
+/items/augments/back/kawaii.augment	itemName	AAkawaiiaugment		
+/items/augments/back/kawaii.augment	description	Gives +9000 moe. ^red;Now you can BE the anime girl of your dreams.^white;		
+/items/augments/back/kawaii.augment	shortdescription	Kawaii Augment		
+/items/augments/back/vanguard.augment	itemName	AAvanguardaugment		
+/items/augments/back/vanguard.augment	description	Increases run speed and damage. Charge at your enemies without fear.		
+/items/augments/back/vanguard.augment	shortdescription	Vanguard Augment		
+/objects/crafting/smugglingshop/smugglingshop.object	objectName	AAsmugglingshop		
+/objects/crafting/smugglingshop/smugglingshop.object	description	Exchange treasure with Sonokawa for a higher price. Probably not illegal.	소노카와와 보물을 교환해 더 높은 가격을 받으세요. 아마 불법은 아닐 겁니다.	reuse
+/objects/crafting/smugglingshop/smugglingshop.object	shortdescription	^red;Sonokawa's Shop^white;	^red;소노카와의 상점^white;	reuse
+/objects/crafting/smugglingshop/smugglingshop.object	subtitle	Sell treasure on the black market.	암시장에서 보물을 파세요.	reuse

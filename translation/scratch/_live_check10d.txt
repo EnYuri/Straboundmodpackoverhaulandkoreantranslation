@@ -1,0 +1,16 @@
+gic_beret.head.patch /description => 전쟁광들이 그런 식인 건 그들의 싸움이 장기화된 탓이다. 쓸만한 기술 수준을 유지하는 데 필요한 교육받은 전문가들은 이미 도망쳤거나 죽었을 가능성이 높다.
+^#DBC5A6;방어력: 열 +20%^reset; | ^#FFCE6D;전투원 [머리]: 돌격소총 숙련 +10% | 돌격소총 탄 퍼짐 -20%.
+^#F2B8EC;부시 용병 [풀 세트 3개 필요] - 일반 
+gic_beret.head.patch /shortdescription => 베레모
+gic_colonialresistance.chest.patch /description => 두더지 클랜은 색다른 영업 방식을 가지고 있다. 두더지 클랜은 영토로의 저항 불가능한 침입으로 악명 높은데, 들어선 곳의 기존 주민을 내쫓고 보급품을 약탈해 임시 기지를 만든다. 두더지 클랜의 거점을 뿌리 뽑는 건 엄청나게 어려워서, 갱단은 보통 그냥 내버려 두는 편을 택한다.
+^#DBC5A6;방어력: 소화기 +30% | 참격 +25% | 찌르기 15% |
+gic_colonialresistance.chest.patch /shortdescription => 두더지 클랜 몸통갑옷
+gic_imperialshinobi.head.patch /description => ''워터본의 지도자들은 마주한 시련에 쓰러지고.
+까마귀의 환상은 파괴와 변화로 돌아서고.
+노바는 자유로이 태어난 전사들 덕에 살아남고.
+독수리와 곰은 버티고 승리를 향해 계속 행진하고.
+유인원은 진흙과 배신에 미쳐가고.
+네이티브는 순수한 야만으로 무승부를 거두고.
+게슈탈트는 무리로 싸우며 먹잇감을 쓰러뜨리고.
+그리고 인류는 살아남았지만, 몹시 괴롭고 불구가
+gic_imperialshinobi.head.patch /shortdescription => 제국 시노비 가면

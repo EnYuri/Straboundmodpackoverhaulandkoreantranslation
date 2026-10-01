@@ -1,0 +1,188 @@
+/cinematics/respawn/viera/respawncasual.cinematic.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/panels/2/text",
+      "value": "10% of Pixels Lost"
+    },
+    {
+      "op": "replace",
+      "path": "/panels/2/text",
+      "value": "픽셀의 10% 손실"
+    }
+  ]
+]/cinematics/respawn/viera/respawnhardcore.cinematic.patch
+[
+  [
+    {
+      "op": "replace",
+      "path": "/panels/2/text",
+      "value": "픽셀의 50%를 잃었습니다"
+    }
+  ]
+]/cinematics/respawn/viera/respawnsurvival.cinematic.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/panels/2/text",
+      "value": "30% of Pixels Lost"
+    },
+    {
+      "op": "replace",
+      "path": "/panels/2/text",
+      "value": "픽셀의 30% 손실"
+    }
+  ]
+]/codex/viera/argoshipdeed.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Deed of Ownership"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "소유권 증서"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "A formal deed of ownership the Argo."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "아르고 호의 공식 소유권 증서입니다."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/contentPages/0",
+      "value": "At the Common Warren of the noble Airleas, Chieftain of Ennea Hodoi in the month of Branca, as writ with a/codex/viera/crafting/armor/freelancer1pattern.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Pattern : Treerunner's Vestments"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "도안: 트리러너 예복"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Sewing patterns and instructions for crafting Viera clothing."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "비에라 의상 제작용 재봉 도안과 설명서."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/contentPages/0",
+      "value": "This Sew-plicity pattern is patented by the honorable Lydea/codex/viera/crafting/armor/freelancer2pattern.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Pattern : Woodtrekker's Vestments"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "도안: 우드트레커 예복"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Sewing patterns and instructions for crafting Viera clothing."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "비에라 의상 제작용 재봉 도안과 설명서."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/contentPages/0",
+      "value": "This Sew-plicity pattern is patented by the honorable Lyd/codex/viera/crafting/armor/freelancer3pattern.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Pattern : Sylvan Vestments"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "도안: 실반 예복"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Sewing patterns and instructions for crafting Viera clothing."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "비에라 의상 제작용 재봉 도안과 설명서."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/contentPages/0",
+      "value": "This Sew-plicity pattern is patented by the honorable Lydea of the /codex/viera/crafting/armor/freelancer4pattern.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Pattern : Knothide Vestments"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "도안: 노트하이드 예복"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Sewing patterns and instructions for crafting Viera clothing."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "비에라 의상 제작용 재봉 도안과 설명서."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/contentPages/0",
+      "value": "This Sew-plicity pattern is patented by the honorable Lydea of

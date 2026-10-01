@@ -1,0 +1,76 @@
+BARE	/codex/precursor/precursorcodex1.codex.patch	/contentPages/2	et;에 대한 추가 정보를 얻었습니다. 안타깝게도 포털은 불안정합니다. red;<알 수 없음>^reset;에 대한 우리의 노력에도 불구하고, 이 포털은
+BARE	/items/WEAPONS/MELEE/PLAYER/A_TESTING/gic_altcharge_demo/gic_altcharge_demo.activeitem.patch	/description	green;[ALT-FIRE]를 눌러 패링.^white;
+
+^yellow;리포스트:
+NOSEMI	/items/active/unsorted/NeutralChestNoSpikeUnlock/NNCSU.activeitem.patch	/description	^red;|중성 가슴 스파이크 없음|^white 가슴 유형의 레시피를 해금한다.
+NOSEMI	/items/armors/GICEXP/esc_armor_coalition_vdv/esc_armor_coalition_vdv.head.patch	/description	레모를 쓰고 전장에 나섰다.
+^#DBC5A6;방어력: 회피 +15% | ^#CCD8B6+무기 숙련 +10%.^reset;
+^#96CBE7;낙하산병 [머리]: 
+NOSEMI	/items/armors/GICEXP/esc_armor_comm_commando/esc_armor_comm_commando.head.patch	/description	A6;방어력: 소화기 +15% | 중화기·근접 +10%^reset; | ^#CCD8B6+무기 숙련 +10%.^reset; | ^#799E4B;특정 [GIC] 
+NOSEMI	/items/armors/GICEXP/esc_armor_commonwealth/ALT_1/esc_armor_commonwealth_alt1.head.patch	/description	5A6;방어력: 소화기 +15% | 중화기·근접 +5%^reset; | ^#CCD8B6+무기 숙련 +10%.^reset;
+^#eee2aa;위대한 시대에 태어나
+NOSEMI	/items/armors/GICEXP/esc_armor_commonwealth/esc_armor_commonwealth.head.patch	/description	5A6;방어력: 소화기 +15% | 중화기·근접 +5%^reset; | ^#CCD8B6+무기 숙련 +10%.^reset;
+^#eee2aa;위대한 시대에 태어나
+NOSEMI	/items/armors/GICEXP/esc_armor_commonwealth/esc_armor_commonwealth.legs.patch	/description	어력: 소화기 +25% | 소화기·중화기·근접 +10%^reset; | ^#CCD8B6+무기 숙련 +10%.^reset;
+^#eee2aa;위대한 시대에 태어나
+NOSEMI	/items/armors/GICEXP/esc_armor_uiu/esc_armor_uiu.chest.patch	/description	방어력: 소화기·사이킥 +30% | 둔기·참격 +20%^reset; | ^#CCD8B6+권총 돌격소총·기관단총·마법 숙련 +10%. | 전방 조명 장착^res
+NOSEMI	/items/armors/GICEXP/esc_armor_uiu/esc_armor_uiu.legs.patch	/description	C5A6;방어력: 열 +30% | 사이킥·회피 +15%^reset; | ^#CCD8B6+권총 돌격소총·기관단총·마법 숙련 +10%.^reset; | ^#FFC
+NOSEMI	/items/armors/GICEXP/gicexp_armor_ntsec/gicexp_armor_ntsec.head.patch	/description	화기 +20% | 풀 세트 착용 시 거대 방사선 보호.^reset; | ^#CCD8B6+무기 숙련 +30%.^reset;
+^#ffffa7;위브필드 투영기 [풀
+NOSEMI	/items/foods/scavenger/gic_plantfibresalad.consumable.patch	/description	지만 상황이 위급할 때는 도움이 될 것입니다. 
+^green;유형: 식물^reset
+NOSEMI	/items/foods/scavenger/gic_sawdustbread.consumable.patch	/description	더 이상 빵으로 분류할 수 없는 빵입니다.
+^green;유형: Grain^reset
+NOSEMI	/npcs/furniture/naked.npctype.patch	/scriptConfig/dialog/converse/hylotl/default/62	가! ^red;«^white 
+가! ^red;«^white
+가!^red;«^white 아!^red;
+NOSEMI	/npcs/furniture/naked.npctype.patch	/scriptConfig/dialog/converse/hylotl/default/62	가! ^red;«^white 
+가! ^red;«^white
+가!^red;«^white 아!^red;«^white 아!^red;«^
+NOSEMI	/npcs/furniture/naked.npctype.patch	/scriptConfig/dialog/converse/hylotl/default/62	! ^red;«^white 
+가! ^red;«^white
+가!^red;«^white 아!^red;«^white 아!^red;«^white 
+가버려어어어!!
+NOSEMI	/npcs/furniture/naked.npctype.patch	/scriptConfig/dialog/converse/hylotl/default/62	
+가! ^red;«^white
+가!^red;«^white 아!^red;«^white 아!^red;«^white 
+가버려어어어!!
+NOSEMI	/npcs/furniture/naked.npctype.patch	/scriptConfig/dialog/converse/hylotl/default/62	e
+가!^red;«^white 아!^red;«^white 아!^red;«^white 
+가버려어어어!!
+NOSEMI	/npcs/furniture/naked.npctype.patch	/scriptConfig/dialog/converse/hylotl/default/63	하아 ^red;«^white 내 안에도 정액을 쏟아부어줘... ^red;«^white 하아 ^red
+NOSEMI	/npcs/furniture/naked.npctype.patch	/scriptConfig/dialog/converse/hylotl/default/63	아 ^red;«^white 내 안에도 정액을 쏟아부어줘... ^red;«^white 하아 ^red;«
+NOSEMI	/objects/lawDecos/lawenforcementheadquarters01c/lawenforcementheadquarters01c.object.patch	/shortdescription	^blue;법 집행 본부 P01cb^white^white;
+NOSEMI	/objects/lawDecos/lawenforcementheadquarters01d/lawenforcementheadquarters01d.object.patch	/shortdescription	^blue;법 집행 본부 P01d^white^white;
+NOSEMI	/objects/lawDecos/lawenforcementheadquarters02c/lawenforcementheadquarters02c.object.patch	/shortdescription	^blue;법 집행 본부 P02cb^white^white;
+NOSEMI	/objects/lawDecos/lawenforcementheadquarters02d/lawenforcementheadquarters02d.object.patch	/shortdescription	^blue;법 집행 본부 P02d^white^white;
+NOSEMI	/objects/power/manufacturing/mfgstation.object.patch	/description	자재를 완제품으로 가공하기 위한 조립 라인입니다.
+^orange;140J^cyan이 필요합니다. 공예 당 힘의.^reset;
+BARE	/quests/fu_questlines/battle/gear/plebiancap.questtemplate.patch	/text	여기서 만들 수 있는 갑옷과 무기는 다양합니다. orange;플레비안 모자^reset;을 제작하여 테스트해 봅시다.
+BARE	/quests/fu_questlines/other/frozenwastes/shoggoth_wagner.questtemplate.patch	/text	친구에게 연락할 방법을 모르겠어요. orange;델타 프레야 2호로 연결되는 모든 텔레포터^reset; 가 다운된 것 같
+BARE	/quests/fu_questlines/outpost/bees/10industrialcentrifuge.questtemplate.patch	/text	이제 출력을 최대화할 차례입니다. orange;산업용 원심분리기^reset; 를 만드세요. 필요한 유리를 만들려면 ^o
+BARE	/quests/fu_questlines/outpost/bees/1beestation.questtemplate.patch	/text	n;꿀벌을 키우고 ^green;수익을 거두는 삶을 시도하고 싶으신가요? orange;양봉장 제작소^reset; 를 건설하면 시작할 수 있습니다.
+BARE	/quests/fu_questlines/outpost/bees/2apiary.questtemplate.patch	/completionText	orange;양봉장^reset; 은 양봉가에게 필수입니다. 하나 이상 필요할 수도 있
+BARE	/quests/fu_questlines/outpost/bees/9alveary.questtemplate.patch	/text	이제 조금 더 모험을 해볼 수 있습니다. orange;대형 양봉장^reset; 을 생성하여 양봉장 잠재력을 두 배로 늘리세요.
+NOSEMI	/quests/fu_questlines/outpost/booze/1boozekit.questtemplate.patch	/scriptConfig/turnInDescription	^orange;술 키트^reset; 를 ^orange;과학 전초기지^reset에 있는 저에게 가져다주세요;
+NOSEMI	/quests/fu_questlines/science/physics/create_protocite.questtemplate.patch	/scriptConfig/turnInDescription	range;프로토사이트 주괴^reset; 를 ^orange;과학 전초기지^reset에 있는 외눈박이 하이로틀에게 가져가세요;
+NOSEMI	/quests/optionalhardmode/fu_t10_apex_mission2.questtemplate.patch	/scriptConfig/descriptions/turnIn	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요
+NOSEMI	/quests/optionalhardmode/fu_t10_avian_mission2.questtemplate.patch	/scriptConfig/descriptions/turnIn	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요
+NOSEMI	/quests/optionalhardmode/fu_t10_floran_mission2.questtemplate.patch	/scriptConfig/descriptions/turnIn	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요
+NOSEMI	/quests/optionalhardmode/fu_t10_floranarena1.questtemplate.patch	/scriptConfig/descriptions/turnIn	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요
+NOSEMI	/quests/optionalhardmode/fu_t10_floranarena2.questtemplate.patch	/scriptConfig/descriptions/turnIn	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요
+NOSEMI	/quests/optionalhardmode/fu_t10_floranarena3.questtemplate.patch	/scriptConfig/descriptions/turnIn	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요
+NOSEMI	/quests/optionalhardmode/fu_t10_gaterepair.questtemplate.patch	/scriptConfig/descriptions/findEsther	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요
+NOSEMI	/quests/optionalhardmode/fu_t10_glitch_mission2.questtemplate.patch	/scriptConfig/descriptions/turnIn	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요
+NOSEMI	/quests/optionalhardmode/fu_t10_human_mission1.questtemplate.patch	/scriptConfig/descriptions/turnIn	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 ^orange;암흑 에르키
+NOSEMI	/quests/optionalhardmode/fu_t10_hylotl_mission2.questtemplate.patch	/scriptConfig/descriptions/turnIn	^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요
+NOSEMI	/quests/optionalhardmode/fu_t10_precursor.questtemplate.patch	/scriptConfig/descriptions/turnIn	^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요
+BARE	/quests/scripts/neb-damagetypekills.questtemplat.patch	/title	orange;안녕, 난 밥이야.
+NOSEMI	/radiomessages/ffs_radiomessages_hc.radiomessages.patch	/ffs0_1_4_hc/text	게 행동한다,
+^orange;해적의 탄환도 이제는 더 빠른 일반탄이다.
+^green: 그래도 여전히 유리대포다. 대체로. 트루퍼 제외하고는.
+^white:
+NOSEMI	/radiomessages/ffs_radiomessages_hc.radiomessages.patch	/ffs0_1_4_hc/text	
+^green: 그래도 여전히 유리대포다. 대체로. 트루퍼 제외하고는.
+^white: 행운을 빈다.
+NOSEMI	/stats/effects/gic_rsr_gun_omamori/gic_scope_charm.statuseffect.patch	/label	;달리기, 사격, 피격을 하지 않은 지 0.5초 후 무기 숙련 +25%.^reset

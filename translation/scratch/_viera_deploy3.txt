@@ -1,0 +1,289 @@
+/codex/moogle/mooglediary1.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Moogle's Log"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "모글의 기록"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "The diary of a lost soul."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "길을 잃은 영혼의 일기."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/contentPages/0",
+      "value": "Lore here."
+    },
+    {
+      "op": "replace",
+      "path": "/contentPages/0",
+      "value": "로어 여기."
+    }
+  ]
+]/codex/moogle/moogleshipfurniture.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "Moogle Ship Furniture"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "모글 함선 가구"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "A book of plans detailing how to craft various Moogle ship furniture."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "여러 가지 모글 함선 가구를 만드는 방법을 자세히 적은 설계서."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/contentPages/0",
+      "value": "This book details the processes and plans for creating a variety of Moogle ship furniture. "
+    },
+    {
+      "op": "replace",
+      "path": "/content/dialog/moogle.config.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/greeting/default/default/0",
+      "value": "What brings you to this place, kupo?"
+    },
+    {
+      "op": "replace",
+      "path": "/greeting/default/default/0",
+      "value": "뭐 때문에 여기 왔니쿠포?"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/greeting/default/default/1",
+      "value": "Welcome to this part of the world, kupo!"
+    },
+    {
+      "op": "replace",
+      "path": "/greeting/default/default/1",
+      "value": "이 세상 구역에 온 걸 환영해쿠포!"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/greeting/default/default/2",
+      "value": "Greetings, kupo!"
+    },
+    {
+      "op": "replace",
+      "path": "/greeting/default/defau/items/MATERIALS/dalmascanbrick.matitem.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Dalmascan Brick"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "달마스칸 벽돌"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Bricks formed using the techniques of molding sandstone."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "사암을 성형하는 기법으로 만든 벽돌."
+    }
+  ]
+]/items/MATERIALS/dalmascanfence1.matitem.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Dalmascan Stone Fence"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "달마스칸 돌 울타리"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "The ornate carvings of Dalmasca handed resonate still."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "달마스카의 화려한 조각이 아직도 울림을 전한다."
+    }
+  ]
+]/items/MATERIALS/dalmascanfence2.matitem.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Dalmascan Iron Fence"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "달마스칸 철제 울타리"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Iron and marble combine to shape this curve-topped fence."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "철과 대리석이 결합해 곡선 상단을 이루는 울타리입니다."
+    }
+  ]
+]/items/MATERIALS/dalmascanfence3.matitem.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Dalmascan Iron Fence II"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "달마스칸 철제 울타리 II"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "A molded iron fence."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "주조 철제 울타리입니다."
+    }
+  ]
+]/items/MATERIALS/dalmascanfence4.matitem.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Dalmascan Iron Fence III"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "달마스칸 철제 울타리 III"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "A molded iron fence with spokes."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "살대가 있는 주조 철제 울타리입니다."
+    }
+  ]
+]/items/MATERIALS/dalmascanfiligreestripe.matitem.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Dalmascan Filigree"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "달마스칸 필리그리"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Worn gold and painted stone create an ornate moulding."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "낡은 금과 색칠된 돌이 화려한 몰딩을 만든다."
+    }
+  ]
+]/items/MATERIALS/dalmascanfiligreestripe2.matitem.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Dalmascan Stripe Stone"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "달마스칸 줄무늬 돌"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Metalwork and colored stone."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "금속 세공품과 색채석."
+    }
+  ]
+]

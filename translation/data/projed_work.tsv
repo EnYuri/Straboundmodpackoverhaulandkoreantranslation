@@ -1,0 +1,39 @@
+asset	field	en	ko	src
+/items/armors/biome/midnight/r-darkguard/r-darkguard.head	description	The material in this mask is expelling pure darkness.		
+/items/armors/biome/midnight/r-darkguard/r-darkguard.head	shortdescription	Dark Mask		
+/items/armors/other/r-ancientmask/r-ancientmask.head	description	An ancient mask fashioned into the face of a great being.		
+/items/armors/other/r-ancientmask/r-ancientmask.head	shortdescription	Ancient Mask		
+/items/armors/other/r-heavypeacekeeper/r-heavypeacekeeper.chest	description	Meant to make you look big and tough.		
+/items/armors/other/r-heavypeacekeeper/r-heavypeacekeeper.chest	shortdescription	Heavy Peacekeeper Chest		
+/items/armors/other/r-heavypeacekeeper/r-heavypeacekeeper.head	description	Its durable visor strikes an authoritative appearance.		
+/items/armors/other/r-heavypeacekeeper/r-heavypeacekeeper.head	shortdescription	Heavy Peacekeeper Helm		
+/items/armors/other/r-heavypeacekeeper/r-heavypeacekeeper.legs	description	The sturdy design of these legs help you stand firm.		
+/items/armors/other/r-heavypeacekeeper/r-heavypeacekeeper.legs	shortdescription	Heavy Peacekeeper Legs		
+/items/armors/other/r-platinum/r-platinum.chest	description	A shiny chestpiece made almost entirely of platinum.	거의 전체가 플래티넘으로 만들어진 반짝이는 흉갑.	reuse
+/items/armors/other/r-platinum/r-platinum.chest	shortdescription	Platinum Chestpiece	플래티넘 흉갑	reuse
+/items/armors/other/r-platinum/r-platinum.head	description	A shiny platinum plated helmet.		
+/items/armors/other/r-platinum/r-platinum.head	shortdescription	Platinum Helmet		
+/items/armors/other/r-platinum/r-platinum.legs	description	Shiny greaves covered in platinum.	플래티넘으로 덮인 반짝이는 그리브.	reuse
+/items/armors/other/r-platinum/r-platinum.legs	shortdescription	Platinum Greaves	플래티넘 그리브	reuse
+/items/armors/other/r-sunborn/r-sunborn.back	description	Used by Sunborn warriors to achieve powered flight. If only its avolite crystals weren't inert...		
+/items/armors/other/r-sunborn/r-sunborn.back	shortdescription	Sunborn Jetwings		
+/items/armors/other/r-sunborn/r-sunborn.chest	description	A protective breastplate only bestowed to Kluex's chosen warriors.	클루엑스의 선택받은 전사에게만 하사되는 수호 흉갑.	reuse
+/items/armors/other/r-sunborn/r-sunborn.chest	shortdescription	Sunborn Breastplate	선본 흉갑	reuse
+/items/armors/other/r-sunborn/r-sunborn.head	description	An intimidating mask fashioned in the image of Kluex.		
+/items/armors/other/r-sunborn/r-sunborn.head	shortdescription	Sunborn Mask		
+/items/armors/other/r-sunborn/r-sunborn.legs	description	Protective greaves only granted to Kluex's most worthy.	클루엑스의 가장 자격 있는 자에게만 부여되는 수호 그리브.	reuse
+/items/armors/other/r-sunborn/r-sunborn.legs	shortdescription	Sunborn Greaves	선본 그리브	reuse
+/items/augments/back/r-protectorateaugment.augment	description	An advanced EPP module that grants physical resistance through an energy shield.		
+/items/augments/back/r-protectorateaugment.augment	shortdescription	Protector's Augment		
+/items/throwables/r-poisonballoon.thrownitem	shortdescription	Poison Balloon		
+/items/throwables/r-poisonballoon.thrownitem	description	Originally a water balloon, just with poison added.		
+/items/tools/r-blueflashlight.flashlight	description	A blue flashlight! Its light fills you with hope.		
+/items/tools/r-blueflashlight.flashlight	shortdescription	Flashlight		
+/items/tools/r-orangeflashlight.flashlight	description	A orange flashlight! Makes the world glimmer like gold.		
+/items/tools/r-orangeflashlight.flashlight	shortdescription	Flashlight		
+/items/tools/r-pinkflashlight.flashlight	description	A pink flashlight! Spread the love.		
+/items/tools/r-pinkflashlight.flashlight	shortdescription	Flashlight		
+/objects/crafting/r-platingcrucible/r-platingcrucible.object	description	This forge utilizes melted down Impervium to reinforce armor pieces.	이 대장간은 녹여낸 임페르비움으로 갑옷 조각을 강화한다.	reuse
+/objects/crafting/r-platingcrucible/r-platingcrucible.object	shortdescription	^orange;Magmatic Forge^white;	^orange;마그마 대장간^white;	reuse
+/objects/crafting/r-platingcrucible/r-platingcrucible.object	subtitle	Upgrades Armor	갑옷 업그레이드	reuse
+/stats/effects/r-ancientrage/r-ancientrage.statuseffect	label	Might		

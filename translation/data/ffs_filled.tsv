@@ -1,0 +1,49 @@
+asset	field	en	ko	src
+/ffs_armors/Infantrycombatarmor/Infantrycombatarmor.head	itemName	Infantrycombathelmet	Infantrycombathelmet	
+/ffs_armors/Infantrycombatarmor/Infantrycombatarmor.head	description	Standard combat helmet for Human Infantry.	인간 보병용 표준 전투 헬멧.	
+/ffs_armors/Infantrycombatarmor/Infantrycombatarmor.head	shortdescription	ACH-9 with goggles and side armor	고글과 측면 장갑이 달린 ACH-9	
+/ffs_armors/Infantrycombatarmor/Infantrycombatpack.back	itemName	Infantrycombatpack	Infantrycombatpack	
+/ffs_armors/Infantrycombatarmor/Infantrycombatpack.back	description	Standard backpack for Human Infantry.	인간 보병용 표준 배낭.	
+/ffs_armors/Infantrycombatarmor/Infantrycombatpack.back	shortdescription	FCV-11 Combatpack	FCV-11 전투팩	
+/ffs_armors/Infantrycombatarmor/Infantrycombatpants.legs	itemName	Infantrycombatpants	Infantrycombatpants	
+/ffs_armors/Infantrycombatarmor/Infantrycombatpants.legs	description	Combat Trousers for Human soldiers.	인간 병사용 전투 바지.	
+/ffs_armors/Infantrycombatarmor/Infantrycombatpants.legs	shortdescription	ACU-88 Trousers	ACU-88 바지	
+/ffs_armors/Infantrycombatarmor/Infantrycombatvest.chest	itemName	Infantrycombatvest	Infantrycombatvest	
+/ffs_armors/Infantrycombatarmor/Infantrycombatvest.chest	description	standard bulletproof vests for Human soldiers.	인간 병사용 표준 방탄 조끼.	
+/ffs_armors/Infantrycombatarmor/Infantrycombatvest.chest	shortdescription	BAS system	BAS 시스템	
+/ffs_armors/ffsea_PF/ffsea_PF.head	itemName	ffsea_PFhead	ffsea_PFhead	
+/ffs_armors/ffsea_PF/ffsea_PF.head	description	^green;Avali, Head Slot. ^white; Special helmet for ADF scouts unit.	^green;아발리, 두구 슬롯. ^white;ADF 정찰대용 특수 헬멧.	
+/ffs_armors/ffsea_PF/ffsea_PF.head	shortdescription	Pathfinder Helmet	패스파인더 헬멧	
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.back	itemName	ffsea_SEAUpowerpack	ffsea_SEAUpowerpack	
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.back	description	Micro fusion reactor.	소형 융합 원자로.	
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.back	shortdescription	SEAU powerpack	SEAU 동력팩	
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.chest	itemName	ffsea_SEAUchest	ffsea_SEAUchest	
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.chest	description	S.E.A.U stand for ^#00FFFF;S^white;pecial ^#00FFFF;E^white;vent ^#00FFFF;A^white;ction ^#00FFFF;U^white;nit.	S.E.A.U는 ^#00FFFF;S^white;pecial ^#00FFFF;E^white;vent ^#00FFFF;A^white;ction ^#00FFFF;U^white;nit의 약자다.	
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.chest	shortdescription	S.E.A.U Chestguard	S.E.A.U 흉갑	
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.head	itemName	ffsea_SEAUhead	ffsea_SEAUhead	
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.head	description	Heavy combat helmet for S.E.A.U member.	S.E.A.U 대원용 중전투 헬멧.	
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.head	shortdescription	S.E.A.U Helm	S.E.A.U 헬멧	
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.legs	itemName	ffsea_SEAUpants	ffsea_SEAUpants	
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.legs	description	Power Armor for Human Special Force.	인간 특수부대용 동력 갑옷.	
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.legs	shortdescription	S.E.A.U Trousers	S.E.A.U 바지	
+/ffs_armors/head1/Infantrycombatarmor1.head	itemName	Infantrycombathelmet1	Infantrycombathelmet1	
+/ffs_armors/head1/Infantrycombatarmor1.head	description	Standard combat helmet for Human Infantry.	인간 보병용 표준 전투 헬멧.	
+/ffs_armors/head1/Infantrycombatarmor1.head	shortdescription	ACH9 with side armor	측면 장갑이 달린 ACH9	
+/ffs_armors/head2/Infantrycombatarmor2.head	itemName	Infantrycombathelmet2	Infantrycombathelmet2	
+/ffs_armors/head2/Infantrycombatarmor2.head	description	Standard combat helmet for Human Infantry.	인간 보병용 표준 전투 헬멧.	
+/ffs_armors/head2/Infantrycombatarmor2.head	shortdescription	ACH-9 with gasmask	방독면이 달린 ACH-9	
+/ffs_armors/head3/Infantrycombatarmor3.head	itemName	Infantrycombathelmet3	Infantrycombathelmet3	
+/ffs_armors/head3/Infantrycombatarmor3.head	description	Standard combat helmet for Human Infantry.	인간 보병용 표준 전투 헬멧.	
+/ffs_armors/head3/Infantrycombatarmor3.head	shortdescription	ACH9 Combat Helmet	ACH9 전투 헬멧	
+/ffs_armors/head4/Infantrycombatarmor4.head	itemName	Infantrycombathelmet4	Infantrycombathelmet4	
+/ffs_armors/head4/Infantrycombatarmor4.head	description	Standard combat helmet for Human Infantry.	인간 보병용 표준 전투 헬멧.	
+/ffs_armors/head4/Infantrycombatarmor4.head	shortdescription	ACH-9 with goggles	고글이 달린 ACH-9	
+/ffs_armors/hs/Infantrycombatarmor1.head	itemName	Infantrycombathelmet_hs	Infantrycombathelmet_hs	
+/ffs_armors/hs/Infantrycombatarmor1.head	description	Heavy combat helmet.	중전투 헬멧.	
+/ffs_armors/hs/Infantrycombatarmor1.head	shortdescription	ACH-10 Heavy Combat Helmet	ACH-10 중전투 헬멧	
+/ffs_armors/hs/Infantrycombatpants2.legs	itemName	Infantrycombatpants_hs	Infantrycombatpants_hs	
+/ffs_armors/hs/Infantrycombatpants2.legs	description	Combat Trousers for Human soldiers.	인간 병사용 전투 바지.	
+/ffs_armors/hs/Infantrycombatpants2.legs	shortdescription	Infantry Combat Trousers	보병 전투 바지	
+/ffs_armors/hs/Infantrycombatvest2.chest	itemName	Infantrycombatvest_hs	Infantrycombatvest_hs	
+/ffs_armors/hs/Infantrycombatvest2.chest	description	Heavy bulletproof vests.	중형 방탄 조끼.	
+/ffs_armors/hs/Infantrycombatvest2.chest	shortdescription	Heavycombatvest	중전투조끼	

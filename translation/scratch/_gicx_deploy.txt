@@ -1,0 +1,105 @@
+== /items/ARMOR_BUNDLE/esc_armorbundle_uiu.activeitem.patch ==
+[
+  [
+    {
+      "op": "test",
+      "path": "/category",
+      "value": "^#FFE460;Armor Bundle"
+    },
+    {
+      "op": "replace",
+      "path": "/category",
+      "value": "^#FFE460;갑옷 묶음"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "''FIDELITY ꞏ BRAVERY ꞏ INTEGRITY''\r\nA combat outfit belonging to an Star Dust Federal Unusual Incidents Unit agent—where did he even get it?\r\n^#FFCE6D;Unusual Agent [FULL SET x3 REQUIRED]- +100% BALLISTIC and PSYCHIC RES when firing, drop to 50% after 1.5s, 25% after 4s, expire after 7.5s | +25% General Movement and immune to suppression for 10s | +3HP/S During Cooldown | Cooldown 30s^reset;"
+    },
+    {
+      "
+
+== /items/AUGMENTS/TRINKETS/esc_counterraider.augment.patch ==
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Calculate incoming projectiles' trajectories to assist users to counterattack.\r\n\r\n^#818aad;Countermeasures - When Suppressed or taking Damage, mark the target in sight, -75% target DMG RES. +25% [EWS] Accuracy and Hit Chance.\r\n^green;+15% Weapon Proficiency."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "날아오는 발사체의 궤적을 계산해 사용자의 반격을 돕는다.\n\n^#818aad;대응책 - 제압당하거나 피해를 받을 때 시야 내 표적을 표시, 표적 피해 저항 -75%. [EWS] 정확도와 명중률 +25%.\n^green;무기 숙련 +15%."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "^#B6A793;Counter Ballistic Raider"
+    },
+    
+
+== /items/AUGMENTS/TRINKETS/esc_pa_lock.augment.patch ==
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Control system for distributing the dynamic of power armor, allowing the user to sprint like a humanoid tank.\r\n\r\n^#818aad;Rooting - Require Power Battery, Must be installed on an activated power armor. When stationary, +10% BALLISTIC RES, +100HP, +100% KNOCKBACK Resistance, Immunity to Suppression"
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "파워 아머의 동력을 분배하는 제어 시스템으로, 사용자가 인간형 전차처럼 질주하게 한다.\n\n^#818aad;뿌리내림 - 동력 배터리 필요, 활성화된 파워 아머에 장착해야 함. 정지 상태일 때 탄도 저항 +10%, +100HP, 넉백 저항 +100%, 제압 면역"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value
+
+== /items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/esc_ftac_ironrain.augment.patch ==
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "^orange;Afflicts hit targets with Barrel BALLSTIC-STORM effect for 0.1 seconds, granting subsequent shots +60% DMG. decreases to +20% DMG after 0.08 seconds.^white;\r\n\r\n^yellow;Alters the gun's firing sound.^white;\r\n\r\n^green;Right-click on a compatible GiC Weapon to attach.^reset;"
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "^orange;피격 표적에 0.1초간 통신구 탄도-폭풍 효과를 부여해 이후 사격 피해 +60%. 0.08초 후 +20% 피해로 감소.^white;\n\n^yellow;총기 발사음을 변경한다.^white;\n\n^green;호환 GiC 무기에 우클릭으로 부착.^reset;"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "FTAC 
+
+== /items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/esc_ftac_ironrain_fde.augment.patch ==
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "^orange;Afflicts hit targets with Barrel BALLSTIC-STORM effect for 0.1 seconds, granting subsequent shots +60% DMG. decreases to +20% DMG after 0.08 seconds.^white;\r\n\r\n^yellow;Alters the gun's firing sound.^white;\r\n\r\n^green;Right-click on a compatible GiC Weapon to attach.^reset;"
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "^orange;피격 표적에 0.1초간 통신구 탄도-폭풍 효과를 부여해 이후 사격 피해 +60%. 0.08초 후 +20% 피해로 감소.^white;\n\n^yellow;총기 발사음을 변경한다.^white;\n\n^green;호환 GiC 무기에 우클릭으로 부착.^reset;"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "FTAC 
+

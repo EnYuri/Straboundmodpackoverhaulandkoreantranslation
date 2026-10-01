@@ -1,0 +1,10 @@
+header: ['asset', 'pointer', 'english', 'korean']
+['/IFD_statuseffects.config.patch', '/effectConfigTypes/healthAmount/label', 'Max Health', '최대 체력']
+['/IFD_statuseffects.config.patch', '/effectConfigTypes/energyAmount/label', 'Max Energy', '최대 에너지량']
+['/IFD_statuseffects.config.patch', '/effectConfigTypes/healTime/label', 'Health Regen', '체력 재생']
+'/_ZBversioning.config.patch' '/welcome' '^orange;Ztarbound^reset;에 온 걸 환영해; 모드가 건드리지 않은 바닐라 요소들을 개선하고 모더들이 가지고 놀 도구를 더하는 '
+'/_ZBversioning.config.patch' '/credits' '- ^orange;Sayter^reset; - 원본 UI 디자이너\n- ^orange;[fox emoji]^reset; - 새 SAIL용 일부 스'
+'/_ZBversioning.config.patch' '/welcome' '\n지타바운드에 오신 것을 환영합니다 ^orange;지타바운드^reset;; 모드 바닐라에서 손대지 않은 몇 가지 측면을 개선하고 모더들이 플레이'
+'/_ZBversioning.config.patch' '/info' '^orange;Ztarbound^reset;에 온 걸 환영해; 모드가 건드리지 않은 바닐라 요소들을 개선하고 모더들이 가지고 놀 도구를 더하는 '
+'/items/generic/crafting/fusioncore.item.patch' '/description' '이 핵은 끊임없이 융합을 겪고 있다.\\\\n^red;만지면 치명적으로 뜨겁다.^reset;'
+'/items/generic/crafting/fusioncore.item.patch' '/shortdescription' '융합 핵'

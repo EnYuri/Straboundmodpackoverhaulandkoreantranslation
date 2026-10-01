@@ -1,0 +1,207 @@
+### '아이리실' -> 4 hits
+       2  /codex/lofty_irisil/lofty_irisil_guide.codex.patch
+       1  /codex/lofty_irisil/lofty_irisil_apex.codex.patch
+       1  /codex/lofty_irisil/lofty_irisil_itemids.codex.patch
+      e.g. /codex/lofty_irisil/lofty_irisil_apex.codex.patch /title: 아이리실 연구 기록
+      e.g. /codex/lofty_irisil/lofty_irisil_guide.codex.patch /title: 아이리실 야전 안내서
+      e.g. /codex/lofty_irisil/lofty_irisil_itemids.codex.patch /title: 프로젝트 아이리실 - 모드 ID
+### '이리실' -> 25 hits
+      13  /codex/lofty_irisil/lofty_irisil_guide.codex.patch
+       6  /codex/lofty_irisil/lofty_irisil_apex.codex.patch
+       3  /codex/lofty_irisil/lofty_irisil_itemids.codex.patch
+       1  /items/fossils/lofty_irisilfossil_head.item.patch
+       1  /items/fossils/lofty_irisilfossil_legs.item.patch
+       1  /items/fossils/lofty_irisilfossil_torso.item.patch
+      e.g. /codex/lofty_irisil/lofty_irisil_apex.codex.patch /title: 아이리실 연구 기록
+      e.g. /codex/lofty_irisil/lofty_irisil_guide.codex.patch /title: 아이리실 야전 안내서
+      e.g. /codex/lofty_irisil/lofty_irisil_itemids.codex.patch /title: 프로젝트 아이리실 - 모드 ID
+      e.g. /items/fossils/lofty_irisilfossil_head.item.patch /completeSetDescriptions/description: 수천 년에 걸쳐 이리실의 잔해가 퍼진 행성에서 가끔 보존됐다.
+      e.g. /items/fossils/lofty_irisilfossil_legs.item.patch /completeSetDescriptions/description: 수천 년에 걸쳐 이리실의 잔해가 퍼진 행성에서 가끔 보존됐다.
+      e.g. /items/fossils/lofty_irisilfossil_torso.item.patch /completeSetDescriptions/description: 수천 년에 걸쳐 이리실의 잔해가 퍼진 행성에서 가끔 보존됐다.
+### '아이리사' -> 11 hits
+       6  /codex/lofty_irisil/lofty_irisil_itemids.codex.patch
+       2  /codex/lofty_irisil/lofty_irisil_threadTheNeedleLore.codex.patch
+       1  /items/fossils/lofty_irisilfossil_head.item.patch
+       1  /items/fossils/lofty_irisilfossil_legs.item.patch
+       1  /items/fossils/lofty_irisilfossil_torso.item.patch
+      e.g. /codex/lofty_irisil/lofty_irisil_itemids.codex.patch /contentPages/3: ^cyan;복장 파츠^reset;: |  | lofty_irisil_clingy | ^#888888;아이리사 배낭^reset;
+      e.g. /codex/lofty_irisil/lofty_irisil_threadTheNeedleLore.codex.patch /contentPages/3: ^#888888;다음 장은 비늘 조각의 얇은 막으로 뒤덮여 있다 - 저자가 아이리사의 비듬을 스크랩북하려 한 듯하다. 보기만 해도 손이 가려워질 정도다.^reset; |  | 너와 내가 | 함께 시간을 보낼 수 있을지도. | 물론
+      e.g. /items/fossils/lofty_irisilfossil_head.item.patch /completeSetDescriptions/shortdescription: 아이리사 화석
+      e.g. /items/fossils/lofty_irisilfossil_legs.item.patch /completeSetDescriptions/shortdescription: 아이리사 화석
+      e.g. /items/fossils/lofty_irisilfossil_torso.item.patch /completeSetDescriptions/shortdescription: 아이리사 화석
+### '이리사' -> 31 hits
+       6  /codex/lofty_irisil/lofty_irisil_itemids.codex.patch
+       3  /codex/lofty_irisil/lofty_irisil_guide.codex.patch
+       2  /codex/lofty_irisil/lofty_irisil_threadTheNeedleLore.codex.patch
+       2  /items/fossils/lofty_irisilfossil_head.item.patch
+       2  /items/fossils/lofty_irisilfossil_legs.item.patch
+       2  /items/fossils/lofty_irisilfossil_torso.item.patch
+       2  /objects/bonus/irisastatue/lofty_irisil_irisastatue.object.patch
+       2  /objects/lofty_irisil/irisaplushie/irisaplushie.object.patch
+       2  /objects/lofty_irisil/lurkingirisa/lurkingirisa.object.patch
+       1  /codex/lofty_irisil/lofty_irisil_silvergoestothestore.codex.patch
+       1  /items/generic/crafting/monsterdrops/lofty_irisileye.item.patch
+       1  /objects/actionfigure/lofty_irisil/lofty_irisilaf.object.patch
+       1  /objects/lofty_irisil/eyetrophy/eyetrophy.object.patch
+       1  /objects/lofty_irisil/irisamerchantv1/irisamerchantv1.object.patch
+       1  /quests/outpost/lofty_irisil_techscientist1.questtemplate.patch
+       1  /radiomessages/lofty_irisil_irisamorphtech.radiomessages.patch
+       1  /tech/lofty_irisil_irisamorph/lofty_irisil_irisamorph.tech.patch
+      e.g. /codex/lofty_irisil/lofty_irisil_guide.codex.patch /contentPages/1: ^yellow;소개^reset; |  | 최근 발견된 이래로, ^cyan;이리실^reset;(단수 이리사)은 수많은 성간 집단에서 뜨거운 관심의 대상이 되었다. 순해 보이는 외모와 장난꾸러기 같은 체구는 이리실을 수많은 팬
+      e.g. /codex/lofty_irisil/lofty_irisil_itemids.codex.patch /contentPages/3: ^cyan;복장 파츠^reset;: |  | lofty_irisil_clingy | ^#888888;아이리사 배낭^reset;
+      e.g. /codex/lofty_irisil/lofty_irisil_silvergoestothestore.codex.patch /contentPages/0: 호환 모드를 설치했다면 이리사 상인의 인벤토리에 자동으로 활성화되는 레시피를 가진 아이템의 예시다! 이 코덱스는 나중에 재미있는 픽션으로 갱신될 예정이다 — 그동안은, 안녕 실버.
+      e.g. /codex/lofty_irisil/lofty_irisil_threadTheNeedleLore.codex.patch /contentPages/3: ^#888888;다음 장은 비늘 조각의 얇은 막으로 뒤덮여 있다 - 저자가 아이리사의 비듬을 스크랩북하려 한 듯하다. 보기만 해도 손이 가려워질 정도다.^reset; |  | 너와 내가 | 함께 시간을 보낼 수 있을지도. | 물론
+      e.g. /items/fossils/lofty_irisilfossil_head.item.patch /shortdescription: 이리사 두개골
+      e.g. /items/fossils/lofty_irisilfossil_legs.item.patch /shortdescription: 이리사 다리
+      e.g. /items/fossils/lofty_irisilfossil_torso.item.patch /shortdescription: 이리사 몸통
+      e.g. /items/generic/crafting/monsterdrops/lofty_irisileye.item.patch /shortdescription: 이리사 눈
+### '로퍼니' -> 7 hits
+       5  /codex/lucario/lucarioorigins.codex.patch
+       1  /recipes/cbstation/summonball_lopunnyF.recipe.patch
+       1  /recipes/cbstation/summonball_lopunnyM.recipe.patch
+      e.g. /codex/lucario/lucarioorigins.codex.patch /contentPages/3: 로퍼니라는 종족에게서 보고서를 받았는데, 우리가 거의 모르는 컬티베이터에 관한 신화 체계 전체에 의문을 제기하는 내용이야. 더 밝혀질 게 있을지도 모르지만, 그래도 앞뒤가 맞을지는 모르겠어.
+      e.g. /recipes/cbstation/summonball_lopunnyF.recipe.patch /output/parameters/shortdescription: 로퍼니 (암컷) 포켓볼
+      e.g. /recipes/cbstation/summonball_lopunnyM.recipe.patch /output/parameters/shortdescription: 로퍼니 (수컷) 포켓볼
+### '로푸니' -> 1 hits
+       1  /codex/lucario/lucarioorigins.codex.patch
+      e.g. /codex/lucario/lucarioorigins.codex.patch /contentPages/4: 에스더가 어디 있는지 누가 알았다면, 더 많은 답을 얻을 수 있었을지도 모르지만, 그녀는 오래전에 사라졌어. 그 이후로 그녀를 본 사람은 거의 없어, 아마도 컬티베이터에 대해 알아내는 데 집착했기 때문일 거야. 그럼
+### 'Tiuny' -> 1 hits
+       1  /codex/lustling/lustlingadd.codex.patch
+      e.g. /codex/lustling/lustlingadd.codex.patch /contentPages/4: 몇 주 후, 우리는 다시 Tiuny를 찾아갑니다. 그녀의 정장은 흐트러지고 찢겨 가슴이 드러나 있습니다. Tiuny의 팔은 뒤로 묶여 있습니다. 그녀는 지쳐 있고 무너져 있습니다. 그녀는 유전자 치료를 받는 중입니다
+### '레다 포르티아' -> 13 hits
+       6  /objects/protectorate/objects/protectoratebrokenportrait5/protectoratebrokenportrait5.object.patch
+       5  /objects/nmm_starbound/protectorate/protectorateportraits/portrait9.object.patch
+       1  /codex/lustling/lustlingView.codex.patch
+       1  /quests/ttpp_questhub/ttpp_questhub_7.questtemplate.patch
+      e.g. /codex/lustling/lustlingView.codex.patch /contentPages/8: K: 좋아요 교수님 오늘은 여기까지 할 것 같은데, 마지막으로 하고 싶은 말씀 있으신가요? |  | H: 그래, 레다 포르티아는 그녀에게서 큰 가능성을 봤어. 여기 학원에 있는 우리 모두 그녀의 미래에서 대단한 걸 보고 있
+      e.g. /objects/nmm_starbound/protectorate/protectorateportraits/portrait9.object.patch /description: 레다 포르티아... 전 고위 수호자.
+      e.g. /objects/protectorate/objects/protectoratebrokenportrait5/protectoratebrokenportrait5.object.patch /description: 고위 수호자, 레다 포르티아.
+      e.g. /quests/ttpp_questhub/ttpp_questhub_7.questtemplate.patch /completionText: 레다 포르티아를 찾았어!
+### '레다 포르샤' -> 8 hits
+       7  /radiomessages/ttppmission.radiomessages.patch
+       1  /npcs/ttpp_quests/ttppledaportia.npctype.patch
+      e.g. /npcs/ttpp_quests/ttppledaportia.npctype.patch /npcname: 레다 포르샤
+      e.g. /radiomessages/ttppmission.radiomessages.patch /ttppmission2d1/text: 궁금하네, 제 데이터에 따르면 현재 고위 수호자인 레다 포르샤 님의 초상화가 사라졌어.
+### 'Bill-C48i' -> 2 hits
+       1  /codex/lustling/lustlinghistory2.codex.patch
+       1  /codex/lustling/lustlinghistory3.codex.patch
+      e.g. /codex/lustling/lustlinghistory2.codex.patch /contentPages/4: 라타시아 사회의 모든 부문이 붕괴 직전에 있었고, 라타시아 정부는 종족 인구 감소에 대한 통제권을 되찾기 위해 극단적인 방법을 취했다. |    |   Bill-C48i라 불리는 법안이 발의되어 서둘러 통과되었다. 겉보기에
+      e.g. /codex/lustling/lustlinghistory3.codex.patch /contentPages/3: 야사 박사는 라보에족의 출산율을 높이고 임신 기간을 10분의 1로 줄이는 유전자 치료법을 개발했다. |  |   Bill-C48i는 모든 라보에족에게 야사 박사의 유전자 치료를 강제로 받게 하기 위해 만들어졌으며, 이 시기
+### '빌-C48i' -> 4 hits
+       2  /codex/lustling/lustlinghistory2.codex.patch
+       1  /codex/lustling/lustlingadd.codex.patch
+       1  /codex/lustling/lustlinghistory3.codex.patch
+      e.g. /codex/lustling/lustlingadd.codex.patch /contentPages/0: 이것은 빌-C48i가 통과되기 전의 라타시아 보관 광고다:  |  | 우리는 책과 법률 문서 같은 것들이 놓인 책상에 앉은 정장 차림의 티우니를 본다. 그녀 뒤에는 티우니 어소시에이츠를 선전하는 간판이 있다.
+      e.g. /codex/lustling/lustlinghistory2.codex.patch /contentPages/5: 빌-C48i는 간단히 말해 라타시아 사회에서 라보에가 가졌던 모든 권리를 박탈하는 법안이었다. 놀랍게도 대다수 라보에는 빌-C48i를 지지했고, 반대하는 이들을 조롱했다. |    |   당시의 생각은, 치료법을 개발하거나
+      e.g. /codex/lustling/lustlinghistory3.codex.patch /contentPages/2: 라타시아 사회를 타락으로 몰아넣은 것은 바이러스나 빌-C48i가 아니라, 유전자 치료를 연구한 이블린 야사 박사였다. |    |   그녀는 유전자 편집이라는 변두리 기술을 연구한 해당 분야의 천재였다.
+### '나아이' -> 1 hits
+       1  /codex/lustling/lustlingadd.codex.patch
+      e.g. /codex/lustling/lustlingadd.codex.patch /contentPages/11: 왜냐면, 나아이 말로는, 나 같은 멍청한 잡것도 집이 필요하대. 다정하지 않아? 내 가격은 (태그를 내려다보며) 바보야 나 이제 글을 읽지 못해...
+### '라보에' -> 16 hits
+       4  /codex/lustling/lustlinghistory2.codex.patch
+       4  /codex/lustling/lustlinghistory3.codex.patch
+       4  /codex/lustling/lustlinghistory4.codex.patch
+       3  /codex/lustling/lustlingadd.codex.patch
+       1  /codex/lustling/lustlinghistory1.codex.patch
+      e.g. /codex/lustling/lustlingadd.codex.patch /contentPages/7: 그 개자식 칼은 내가 훌륭한 창녀가 될 거라고 계속 말해, 근데 난 누구의 창녀도 되지 않을 거야. 난 저 보에들보다 강해. 다른 라보에들처럼 되지 않을 거야. 저항할 거야. 걔네는 내 정신을 지워버리고 싶어해...
+      e.g. /codex/lustling/lustlinghistory1.codex.patch /contentPages/2: 라타시아인들은 성간 여행을 눈앞에 두고 있었으며, 문화적으로 풍요롭고 다양한 사람들의 고향이었다. 그 당시 그들을 봤다면 러스틀링과 완전히 다른 종족으로 착각했다고 해서 비웃을 수는 없었을 것이다. |  | 여성(라보에라 
+      e.g. /codex/lustling/lustlinghistory2.codex.patch /contentPages/2: 약 800년 전 라타시아의 여름에, 서쪽 대륙의 라보에 한 명이 매우 전염성 강한 바이러스에 감염되었다. |    |   바이러스는 빠르게 퍼지고 빠르게 변이했으며, 라타시아력으로 한 달 만에 행성의 모든 라보에가 감염되었
+      e.g. /codex/lustling/lustlinghistory3.codex.patch /contentPages/3: 야사 박사는 라보에족의 출산율을 높이고 임신 기간을 10분의 1로 줄이는 유전자 치료법을 개발했다. |  |   Bill-C48i는 모든 라보에족에게 야사 박사의 유전자 치료를 강제로 받게 하기 위해 만들어졌으며, 이 시기
+      e.g. /codex/lustling/lustlinghistory4.codex.patch /contentPages/1: 이제 보에가 자신들의 더 나은 성(性)을 완전히 통제하게 되고, 규제되거나 의심받지 않는 유전자 치료가 있었으니, 보에가 자신들의 라보에 파트너를 순종적인 성 노예로 바꾸는 데 오래 걸리지 않았다. |    |   보에들은
+### '라-보' -> 1 hits
+       1  /codex/lustling/lustlingadd.codex.patch
+      e.g. /codex/lustling/lustlingadd.codex.patch /contentPages/2: 글쎄, 티우니 어소시에이츠가 여러분 곁에 있습니다. 우리는 보와 수컷 소유 사업체가 라-보를 동물처럼 대하는 것에 대한 소송을 전문으로 합니다. 지금 라타시아 의회에 우리의 생명체 지위 자체를 박탈하려 위협하는 입법
+### '시그누스' -> 2 hits
+       1  /celestial/names.config.patch
+       1  /codex/missions/letheiafacility2.codex.patch
+      e.g. /celestial/names.config.patch /systemNames/131/1: 시그누스 X-1
+      e.g. /codex/missions/letheiafacility2.codex.patch /contentPages/1: 제타 시그누스 II 달 연구소에서의 차질 이후, 우리는 격리 시스템과 절차를 강화했다. 오카서스 구성원에게 지나치게 높은 권한을 부여하지 않도록 주의하고, 모든 엔지니어에게 자신들의 제안에 보안 백도어가 없는지 확인
+### '시그너스' -> 5 hits
+       2  /codex/missions/letheiafacility3.codex.patch
+       1  /cinematics/fuCore/kevin/kevin.cinematic.patch
+       1  /codex/missions/letheiafacility2.codex.patch
+       1  /interface/scripted/fm_musicplayer/musiclist.config.patch
+      e.g. /cinematics/fuCore/kevin/kevin.cinematic.patch /panels/13/text: 한번은 정말 멋진 샌드위치를 만들어서 제 이름이 시그너스 이그니 IV의 ^orange;샌드위치의 전당^reset; 에 영원히 새겨진 적이 있습니다. 찾아보세요. ^red;#$@%$^reset; 동상 같은 것도 있네요
+      e.g. /codex/missions/letheiafacility2.codex.patch /contentPages/1: 달 실험실인 제타 시그너스 2호의 좌절 이후, 우리는 격리 시스템과 절차를 강화했습니다. 어떤 Occasus 멤버도 너무 높은 권한을 갖지 않도록 주의하고 있으며, 모든 엔지니어가 보안 백도어에 대한 제안을 확인하도
+      e.g. /codex/missions/letheiafacility3.codex.patch /contentPages/1: 우리는 J-11에 대해 최대 격리 조치를 명했다. 제타 시그너스 II에서의 일을 반복할 수 없다. 좌절과 불운한 사건에 이미 충분한 시간과 돈이 낭비됐다; 고위 경영진은 결과를, 그것도 곧 원한다. 그 결과는 이미 
+      e.g. /interface/scripted/fm_musicplayer/musiclist.config.patch /Starbound/16/name: 시그너스 X1
+### '호라이즌' -> 222 hits
+       6  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch
+       5  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_side/story_side_list.config.patch
+       5  /npcs/factions/horizon/arcana_npc_horizon_pyroHoplite/arcana_npc_horizon_pyroHoplite.npctype.patch
+       4  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_voyage/story_voyage_list.config.patch
+       4  /npcs/factions/horizon/arcana_npc_horizon_cryoHoplite/arcana_npc_horizon_cryoHoplite.npctype.patch
+       4  /npcs/factions/horizon/arcana_npc_horizon_cryoHoplite/arcana_npc_horizon_cryomancer.npctype.patch
+       4  /npcs/factions/horizon/arcana_npc_horizon_erexenoFencer/arcana_npc_horizon_erexenoFencer.npctype.patch
+       4  /npcs/factions/horizon/arcana_npc_horizon_erexenoHunter/arcana_npc_horizon_erexenoHunter.npctype.patch
+       4  /npcs/factions/horizon/arcana_npc_horizon_voltabolt/arcana_npc_horizon_voltabolt.npctype.patch
+       4  /npcs/factions/horizon/arcana_npc_horizon_voltabolt/arcana_npc_horizon_voltaboltmission.npctype.patch
+       4  /npcs/factions/horizon/mwhaddon_npc_horizon_cryoHopliteNoBadge/mwhaddon_npc_horizon_cryoHopliteNoBadge.npctype.patch
+       4  /quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_2.questtemplate.patch
+       3  /codex/arcana_codex_horizon/arcana_codex_horizon_1.codex.patch
+       3  /interface/scripted/mwhaddon_challenge/missionRevisit/falkeHorizon_1/config.config.patch
+       3  /interface/scripted/mwhaddon_challenge/missionRevisit/falkeHorizon_2/config.config.patch
+       3  /interface/scripted/mwhaddon_challenge/missionRevisit/falkeHorizon_3/config.config.patch
+       3  /interface/scripted/mwhaddon_challenge/missionRevisit/falkeHorizon_4/config.config.patch
+       3  /npcs/factions/exousia/mwhaddon_npc_exousia_generalFalke_2.npctype.patch
+       3  /npcs/factions/horizon/arcana_npc_horizon_horizonDiscipleLeader/arcana_npc_horizon_horizonDiscipleLeader.npctype.patch
+       3  /quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_3.questtemplate.patch
+       3  /quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_4.questtemplate.patch
+       3  /quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch
+       3  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch
+       2  /codex/arcana_codex_horizon/arcana_codex_horizon_2.codex.patch
+       2  /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_2.codex.patch
+       2  /items/blueprints/arcana_blueprint_horizon.activeitem.patch
+       2  /items/generic/arcana_misc/arcana_misc_horizonDiscipleBadge.item.patch
+       2  /items/generic/arcana_misc/arcana_misc_horizonEliteBadge.item.patch
+       2  /items/generic/arcana_misc/arcana_misc_horizonSpecialistBadge.item.patch
+       2  /monsters/arcana_misc/mwhaddon_execration_ar_grenade_monster/mwhaddon_execration_ar_grenade_monster.monstertype.patch
+      e.g. /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_2.codex.patch /contentPages/5: 반면, 소름 끼치는 ^#D03AD7;호라이즌 함대^white;는 전혀 우호적이지 않습니다. 이 위험한 테러리스트들은 근처의 어떤 여행자든 가리지 않고 공격합니다. | ^#D03AD7;호라이즌 함대^white; 이야기가 
+      e.g. /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_5.codex.patch /contentPages/4: ^#e951d3;루이너스^white; |  | 월드 호라이즌의 영향에 감염된 ^#e951d3;루이너스^white;는 이제 역병과 대재앙의 공기에 휩싸여 있다. 행성의 지표 전체가 그림자에 갇혀, 하늘은 영원한 어둠 속에 있
+      e.g. /codex/arcana_codex_horizon/arcana_codex_horizon_1.codex.patch /title: 호라이즌 함대
+      e.g. /codex/arcana_codex_horizon/arcana_codex_horizon_2.codex.patch /description: 호라이즌이 월드 호라이즌을 깨우려 한 동기를 설명하는 문서입니다.
+      e.g. /codex/mwhaddon_codex_boss/mwhaddon_codex_brutol.codex.patch /contentPages/0: 브루톨의 초기 행적은 더는 추적할 수 없다. 그는 원래 미니크녹 병사였고, 나중에 반란군에 합류했으며, 약 15~20년 전 마침내 호라이즌에 들어갔다.
+      e.g. /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_1.codex.patch /description: 호라이즌 함선의 최근 기록. 얼마 전에 작성된 것으로 보인다.
+      e.g. /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_2.codex.patch /description: 고대 정수가 왜 필요한지 다룬 책. 호라이즌 함대 안에서만 돌고 있는 것 같다.
+      e.g. /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_3.codex.patch /contentPages/3: 함께 싸울 수 있는 것들에 대해 알게 되는 건 언제나 힘이 되며, 우리 종족이 더 효율적으로 일하도록 격려할 수도 있다. |  | 호라이즌을 위하여!
+### '지평선' -> 17 hits
+       2  /interface/scripted/fm_musicplayer/musiclist.config.patch
+       1  /cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_wartorn.cinematic.patch
+       1  /codex/arcana_codex_horizon/arcana_codex_horizon_2.codex.patch
+       1  /codex/documents/randombook6.codex.patch
+       1  /codex/mwhaddon_codex_boss/mwhaddon_codex_receipt_execration.codex.patch
+       1  /codex/nightar/funightardoc1.codex.patch
+       1  /interface/scripted/arcana_musicbox/music.config.patch
+       1  /items/WEAPONS/GICEXP/gicexp_nthmg/esc_nthmg_hellgunner.activeitem.patch
+       1  /items/WEAPONS/GICEXP/gicexp_nthmg/gicexp_nthmg.activeitem.patch
+       1  /items/active/weapons/artifact_weapons/artifact_katana_judgement/artifact_katana_judgement.activeitem.patch
+       1  /items/active/weapons/ranged/unique/eventhorizon/centens-eventhorizon.activeitem.patch
+       1  /npcs/factions/horizon/arcana_npc_horizon_horizonLiberator/arcana_npc_horizon_horizonLiberator.npctype.patch
+       1  /objects/EMBLEMS_AND_SIGNS/esc_nt_holo_poster/esc_nt_holo_poster6.object.patch
+       1  /objects/alta/special/paintings/ct_astera_art.object.patch
+       1  /objects/arttrophies/newhorizonspainting/pf_newhorizonspainting.object.patch
+       1  /objects/human/prisongraffiti2/prisongraffiti2.object.patch
+      e.g. /cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_wartorn.cinematic.patch /panels/2/text: 기름으로 채워진 지평선이 보여요. 분쟁에 잃어버린 마을을 덮는 기름 물든 모래가. |  | 언니, 왜 이걸 우리에게 숨겼어?
+      e.g. /codex/arcana_codex_horizon/arcana_codex_horizon_2.codex.patch /title: 세계의 지평선
+      e.g. /codex/documents/randombook6.codex.patch /contentPages/4: 피를 확보한 후, 라인카르드 달의 빛 아래서 그 피를 마셔야 합니다. 안타깝게도, 이는 충분히 숙성된 블랙홀의 사건 지평선 내에서만 발생합니다. 블랙홀을 찾으면 다음 단계로 넘어갈 수 있습니다...[2,000페이지가
+      e.g. /codex/mwhaddon_codex_boss/mwhaddon_codex_receipt_execration.codex.patch /contentPages/0: ^yellow;엑세크레이션, 지평선의 전투 기계^reset; |  | 디자이너 : Minewithhim (MWH) | 프로그래머 : Minewithhim (MWH) | 텍스처 디자이너 : kumochan, Rusteel |  | 음악 :
+      e.g. /codex/nightar/funightardoc1.codex.patch /contentPages/3: 태양의 사악한 힘이 결합을 파멸로 이끌지 않기 위해 달이 없는 밤에만 행합니다. 신랑과 신부는 지평선에 햇빛이 조금이라도 비치면 결합을 완성하는 것이 금지됩니다. 단, 달이 반달 이하인 달이 뜨는 밤에는 예외가 적용
+      e.g. /interface/scripted/arcana_musicbox/music.config.patch /music/19/name: 봄 지평선 너머
+      e.g. /interface/scripted/fm_musicplayer/musiclist.config.patch /Starbound/26/name: 사건의 지평선
+      e.g. /items/WEAPONS/GICEXP/gicexp_nthmg/esc_nthmg_hellgunner.activeitem.patch /description: ''어리석은 이방인들은 신과 신앙을 믿으라지. 난 연료를 가득 채운 배와 탁 트인 지평선을 믿으니까.'' | 원래는 휴대용 채굴 레이저 장치였으나, 파괴적인 고출력 레이저 빔 절단기로 재설계했다. 이제는 바위와 돌 대신
+### '서펀트' -> 3 hits
+       1  /codex/mwhaddon_codex_misc/mwhaddon_codex_fable_1.codex.patch
+       1  /codex/mwhaddon_codex_misc/mwhaddon_codex_fable_2.codex.patch
+       1  /codex/mwhaddon_codex_misc/mwhaddon_codex_fable_3.codex.patch
+      e.g. /codex/mwhaddon_codex_misc/mwhaddon_codex_fable_1.codex.patch /contentPages/3: 모든 도움 덕에. 서펀트의 첫 아이가 평화롭게 태어날 수 있었다.
+      e.g. /codex/mwhaddon_codex_misc/mwhaddon_codex_fable_2.codex.patch /contentPages/2: 시간이 흐르며, 서펀트는 네 명의 아이를 더 낳았고, 각각은 서펀트의 힘의 일부를 물려받았다. 그리고 이번에도, 그들은 열정적인 그 뱀에게 길러졌다. |  | 가드너는 그들에게 정원의 소박한 한구석을 살 곳으로 내주었고, 
+      e.g. /codex/mwhaddon_codex_misc/mwhaddon_codex_fable_3.codex.patch /contentPages/2: 정원사도 그것을 서둘러 복구할 생각이 없었다. 정원의 현재 상태는 그의 목적에 새로운 기회를 제공했다. 서펀트의 아이들은 생존을 위해 몸부림쳤지만, 그는 그저 지켜보기만 했다.
+### '서펜트' -> 4 hits
+       1  /codex/mwhaddon_codex_misc/mwhaddon_codex_fable_1.codex.patch
+       1  /monsters/dungeon/sb_serpentdroid/serpentdroid.monstertype.patch
+       1  /npcs/quests/sg_Quests_JTealc.npctype.patch
+       1  /objects/actionfigure/sb_serpentdroid/serpentdroidAF.object.patch
+      e.g. /codex/mwhaddon_codex_misc/mwhaddon_codex_fable_1.codex.patch /contentPages/2: 서펜트를 깨우기 위해, 정원사는 네 마리의 뱀을 데려와 도왔다. |  | 한 마리는 자비롭고, 한 마리는 용감하고, 한 마리는 영리하고, 한 마리는 열정적이었다.
+      e.g. /monsters/dungeon/sb_serpentdroid/serpentdroid.monstertype.patch /shortdescription: 서펜트 드로이드
+      e.g. /npcs/quests/sg_Quests_JTealc.npctype.patch /scriptConfig/dialog/converse/default/default/0: 서펜트 경비병, 호루스 경비병, 세테시 경비병이 중립 행성에서 만났는데...
+      e.g. /objects/actionfigure/sb_serpentdroid/serpentdroidAF.object.patch /shortdescription: 서펜트 드로이드 피규어

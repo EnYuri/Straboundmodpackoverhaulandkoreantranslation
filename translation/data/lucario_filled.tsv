@@ -1,0 +1,515 @@
+asset	field	en	ko	src
+/items/armors/backitems/backpack/backpack.back	description	A pack to keep your goods.	물품을 넣어 다니는 가방.	
+/items/armors/backitems/backpack/backpack.back	shortdescription	Backpack	백팩	
+/items/armors/backitems/lsu/lsu.back	description	A Lucario Survival Unit, good for water and space exploration	루카리오 서바이벌 유닛. 물속과 우주 탐사에 좋다.	
+/items/armors/backitems/lucario-tier4EX/tailf/t4tailf.back	description	This is an armor plated tail cover, infused with Aura Tech.	오라 테크가 주입된 장갑판 꼬리 덮개다.	
+/items/armors/backitems/lucario-tier4EX/tailf/t4tailf.back	shortdescription	Auracle Tail	오라클 테일	
+/items/armors/backitems/lucario-tier4EX/tailfa/t4tailfa.back	description	This is an armor plated tail cover with appendage covers, infused with Aura Tech.	오라 테크가 주입된 부속지 덮개가 달린 장갑판 꼬리 덮개다.	
+/items/armors/backitems/lucario-tier4EX/tailfa/t4tailfa.back	shortdescription	Auracle Tail	오라클 테일	
+/items/armors/backitems/lucario-tier4EX/taill/t4taill.back	description	This is an armor plated tail cover, infused with Aura Tech.	오라 테크가 주입된 장갑판 꼬리 덮개다.	
+/items/armors/backitems/lucario-tier4EX/taill/t4taill.back	shortdescription	Auracle Tail	오라클 테일	
+/items/armors/backitems/lucario-tier4EX/tailla/t4tailla.back	description	This is an armor plated tail cover with appendage covers, infused with Aura Tech.	오라 테크가 주입된 부속지 덮개가 달린 장갑판 꼬리 덮개다.	
+/items/armors/backitems/lucario-tier4EX/tailla/t4tailla.back	shortdescription	Auracle Tail	오라클 테일	
+/items/armors/backitems/lucario-tier4EX/tailr/t4tailr.back	description	This is an armor plated tail cover, infused with Aura Tech.	오라 테크가 주입된 장갑판 꼬리 덮개다.	
+/items/armors/backitems/lucario-tier4EX/tailr/t4tailr.back	shortdescription	Auracle Tail	오라클 테일	
+/items/armors/backitems/lucario-tier4EX/tailra/t4tailra.back	description	This is an armor plated tail cover with appendage covers, infused with Aura Tech.	오라 테크가 주입된 부속지 덮개가 달린 장갑판 꼬리 덮개다.	
+/items/armors/backitems/lucario-tier4EX/tailra/t4tailra.back	shortdescription	Auracle Tail	오라클 테일	
+/items/armors/backitems/travelpack/travelpack.back	description	A pack to keep your goods, its even got a light now.	물품을 넣어 다니는 가방. 이제 조명도 달렸다.	
+/items/armors/backitems/travelpack/travelpack.back	shortdescription	Travel Pack	여행 가방	
+/items/armors/dev/ochiru/ochiruchestx.chest	description	Ochiru Yuki's sleeves, for those kind of people	오치루 유키의 소매, 그런 취향의 사람들을 위해.	
+/items/armors/dev/ochiru/ochiruchestx.chest	shortdescription	Ochiru arms	오치루 팔	
+/items/armors/dev/ochiru/ochiruheadx.head	description	You can now be Ochiru Yuki... be wearing his head 0.0...	이제 너도 오치루 유키가 될 수 있다... 그의 머리를 쓰면 0.0...	
+/items/armors/dev/ochiru/ochiruheadx.head	shortdescription	Ochiru Head	오치루 머리	
+/items/armors/dev/ochiru/ochirupantsx.legs	description	Wear the coat of Ochiru Yuki	오치루 유키의 코트를 입어라	
+/items/armors/dev/ochiru/ochirupantsx.legs	shortdescription	Ochiru body	오치루 몸통	
+/items/armors/dev/zancuno/zancunochest.chest	itemName	zancuno chest	잔쿠노 흉갑	reuse
+/items/armors/dev/zancuno/zancunochest.chest	description	Zancunos arms..... did they get cut off?...	잔쿠노의 팔..... 잘려 나온 건 아니겠지?...	
+/items/armors/dev/zancuno/zancunochest.chest	shortdescription	Zancuno arms	잔쿠노 팔	
+/items/armors/dev/zancuno/zancunohead.head	itemName	zancuno head	잔쿠노 투구	reuse
+/items/armors/dev/zancuno/zancunohead.head	description	You can now be Zancuno... be wearing his head 0.0...	이제 너도 잔쿠노가 될 수 있다... 그의 머리를 쓰면 0.0...	
+/items/armors/dev/zancuno/zancunohead.head	shortdescription	Zancuno Head	잔쿠노 머리	
+/items/armors/dev/zancuno/zancunopants.legs	itemName	zancuno pants	잔쿠노 바지	reuse
+/items/armors/dev/zancuno/zancunopants.legs	description	Wear the shirts of zancuno... shaved off of course...	잔쿠노의 셔츠를 입어라... 털은 밀어놓고...	
+/items/armors/dev/zancuno/zancunopants.legs	shortdescription	Zancuno body	잔쿠노 몸통	
+/items/armors/dev/zancunoOld/zancunochestx.chest	description	Zancunos arms..... did they get cut off?...	잔쿠노의 팔..... 잘려 나온 건 아니겠지?...	
+/items/armors/dev/zancunoOld/zancunochestx.chest	shortdescription	Zancuno arms	잔쿠노 팔	
+/items/armors/dev/zancunoOld/zancunoheadx.head	description	You can now be Zancuno... be wearing his head 0.0...	이제 너도 잔쿠노가 될 수 있다... 그의 머리를 쓰면 0.0...	
+/items/armors/dev/zancunoOld/zancunoheadx.head	shortdescription	Zancuno Head	잔쿠노 머리	
+/items/armors/dev/zancunoOld/zancunopantsx.legs	description	Wear the shirts of zancuno... shaved off of course...	잔쿠노의 셔츠를 입어라... 털은 밀어놓고...	
+/items/armors/dev/zancunoOld/zancunopantsx.legs	shortdescription	Zancuno body	잔쿠노 몸통	
+/items/armors/lucario/commanderL/commanderL/commanderL.chest	description	Standard issue Commander sleeves.	표준 지급 지휘관 소매.	
+/items/armors/lucario/commanderL/commanderL/commanderL.chest	shortdescription	Commander Sleeves	지휘관 소매	
+/items/armors/lucario/commanderL/commanderL/commanderL.legs	description	Standard issue Commander suit.	표준 지급 지휘관 제복.	
+/items/armors/lucario/commanderL/commanderL/commanderL.legs	shortdescription	Commander Suit	지휘관 제복	
+/items/armors/lucario/commanderL/commanderLN/commanderLN.chest	description	"^red;|Neutral Spiked|^white;
+  Standard issue Commander sleeves."	"^red;|중성 스파이크 있음|^white;
+  표준 지급 지휘관 소매."	
+/items/armors/lucario/commanderL/commanderLN/commanderLN.chest	shortdescription	^orange;|NCU|^white;Commander Sleeves 	^orange;|NCU|^white;지휘관 소매 	
+/items/armors/lucario/commanderL/commanderLN/commanderLN.legs	description	"^red;|Neutral Spiked|^white;
+  Standard issue Commander suit."	"^red;|중성 스파이크 있음|^white;
+  표준 지급 지휘관 제복."	
+/items/armors/lucario/commanderL/commanderLN/commanderLN.legs	shortdescription	^orange;|NCU|^white;Commander Suit	^orange;|NCU|^white;지휘관 제복	
+/items/armors/lucario/commanderL/commanderLNNPS/commanderLNNPS.chest	description	"^red;|Neutral No Paw Spike|^white;
+  Standard issue Commander sleeves."	"^red;|중성 발 스파이크 없음|^white;
+  표준 지급 지휘관 소매."	
+/items/armors/lucario/commanderL/commanderLNNPS/commanderLNNPS.chest	shortdescription	^orange;|NCNPSU|^white;Commander Sleeves 	^orange;|NCNPSU|^white;지휘관 소매 	
+/items/armors/lucario/commanderL/commanderLNNPS/commanderLNNPS.legs	description	"^red;|Neutral No Paw Spike|^white;
+  Standard issue Commander suit."	"^red;|중성 발 스파이크 없음|^white;
+  표준 지급 지휘관 제복."	
+/items/armors/lucario/commanderL/commanderLNNPS/commanderLNNPS.legs	shortdescription	^orange;|NCNPSU|^white;Commander Suit	^orange;|NCNPSU|^white;지휘관 제복	
+/items/armors/lucario/commanderL/commanderLNPS/commanderLNPS.chest	description	"^red;|Gender No Paw Spike|^white;
+  Standard issue Commander sleeves."	"^red;|유성 발 스파이크 없음|^white;
+  표준 지급 지휘관 소매."	
+/items/armors/lucario/commanderL/commanderLNPS/commanderLNPS.chest	shortdescription	^cyan;|GCNPSU|^white;Commander Sleeves 	^cyan;|GCNPSU|^white;지휘관 소매 	
+/items/armors/lucario/commanderL/commanderLNPS/commanderLNPS.legs	description	"^red;|Gender No Paw Spike|^white;
+  Standard issue Commander suit."	"^red;|유성 발 스파이크 없음|^white;
+  표준 지급 지휘관 제복."	
+/items/armors/lucario/commanderL/commanderLNPS/commanderLNPS.legs	shortdescription	^cyan;|GCNPSU|^white;Commander Suit	^cyan;|GCNPSU|^white;지휘관 제복	
+/items/armors/lucario/commanderL/commanderLNns/commanderLNns.chest	description	"^red;|Neutral No Chest Spike|^white;
+  Standard issue Commander sleeves."	"^red;|중성 가슴 스파이크 없음|^white;
+  표준 지급 지휘관 소매."	
+/items/armors/lucario/commanderL/commanderLNns/commanderLNns.chest	shortdescription	^orange;|NCNSU|^white;Commander Sleeves 	^orange;|NCNSU|^white;지휘관 소매 	
+/items/armors/lucario/commanderL/commanderLNns/commanderLNns.legs	description	"^red;|Neutral No Chest Spike|^white;
+  Standard issue Commander suit."	"^red;|중성 가슴 스파이크 없음|^white;
+  표준 지급 지휘관 제복."	
+/items/armors/lucario/commanderL/commanderLNns/commanderLNns.legs	shortdescription	^orange;|NCNSU|^white;Commander Suit	^orange;|NCNSU|^white;지휘관 제복	
+/items/armors/lucario/commanderL/commanderLNnsNPS/commanderLNnsNPS.chest	description	"^red;|Neutral No Spike|^white;
+  Standard issue Commander sleeves."	"^red;|중성 스파이크 없음|^white;
+  표준 지급 지휘관 소매."	
+/items/armors/lucario/commanderL/commanderLNnsNPS/commanderLNnsNPS.chest	shortdescription	^orange;|NCNSNPSU|^white;Commander Sleeves 	^orange;|NCNSNPSU|^white;지휘관 소매 	
+/items/armors/lucario/commanderL/commanderLNnsNPS/commanderLNnsNPS.legs	description	"^red;|Neutral No Spike|^white;
+  Standard issue Commander suit."	"^red;|중성 스파이크 없음|^white;
+  표준 지급 지휘관 제복."	
+/items/armors/lucario/commanderL/commanderLNnsNPS/commanderLNnsNPS.legs	shortdescription	^orange;|NCNSNPSU|^white;Commander Suit	^orange;|NCNSNPSU|^white;지휘관 제복	
+/items/armors/lucario/commanderL/commanderLns/commanderLns.chest	description	"^red;|Gender No Chest Spike|^white;
+  Standard issue Commander sleeves."	"^red;|유성 가슴 스파이크 없음|^white;
+  표준 지급 지휘관 소매."	
+/items/armors/lucario/commanderL/commanderLns/commanderLns.chest	shortdescription	^cyan;|GCNSU|^white;Commander Sleeves 	^cyan;|GCNSU|^white;지휘관 소매 	
+/items/armors/lucario/commanderL/commanderLns/commanderLns.legs	description	"^red;|Gender No Chest Spike|^white;
+  Standard issue Commander suit."	"^red;|유성 가슴 스파이크 없음|^white;
+  표준 지급 지휘관 제복."	
+/items/armors/lucario/commanderL/commanderLns/commanderLns.legs	shortdescription	^cyan;|GCNSU|^white;Commander Suit 	^cyan;|GCNSU|^white;지휘관 제복 	
+/items/armors/lucario/commanderL/commanderLnsNPS/commanderLnsNPS.chest	description	"^red;|Gender No Spike|^white;
+  Standard issue Commander sleeves."	"^red;|유성 스파이크 없음|^white;
+  표준 지급 지휘관 소매."	
+/items/armors/lucario/commanderL/commanderLnsNPS/commanderLnsNPS.chest	shortdescription	^cyan;|GCNSNPSU|^white;Commander Sleeves 	^cyan;|GCNSNPSU|^white;지휘관 소매 	
+/items/armors/lucario/commanderL/commanderLnsNPS/commanderLnsNPS.legs	description	"^red;|Gender No Spike|^white;
+  Standard issue Commander suit."	"^red;|유성 스파이크 없음|^white;
+  표준 지급 지휘관 제복."	
+/items/armors/lucario/commanderL/commanderLnsNPS/commanderLnsNPS.legs	shortdescription	^cyan;|GCNSNPSU|^white;Commander Suit 	^cyan;|GCNSNPSU|^white;지휘관 제복 	
+/items/armors/lucario/lcommander/lucariocommander/lucariocommander.chest	description	A standard issue Apex commander jacket fitted for a Lucario.	루카리오에 맞게 제작된 표준 지급 에이펙스 지휘관 재킷.	
+/items/armors/lucario/lcommander/lucariocommander/lucariocommander.chest	shortdescription	Commander Jacket 	지휘관 재킷 	
+/items/armors/lucario/lcommander/lucariocommander/lucariocommander.legs	description	Standard issue Apex Commander pants fitted for a Lucario.	루카리오에 맞게 제작된 표준 지급 에이펙스 지휘관 바지.	
+/items/armors/lucario/lcommander/lucariocommander/lucariocommander.legs	shortdescription	Apex Commander Pants 	에이펙스 지휘관 바지 	
+/items/armors/lucario/lcommander/lucariocommanderN/lucariocommanderN.chest	description	"^red;|Neutral Spiked|^white;
+  A standard issue Apex commander jacket fitted for a Lucario."	"^red;|중성 스파이크 있음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 지휘관 재킷."	
+/items/armors/lucario/lcommander/lucariocommanderN/lucariocommanderN.chest	shortdescription	^orange;|NCU|^white;Commander Jacket 	^orange;|NCU|^white;지휘관 재킷 	
+/items/armors/lucario/lcommander/lucariocommanderN/lucariocommanderN.legs	description	"^red;|Neutral Legs|^white;
+  Standard issue Apex Commander pants fitted for a Lucario."	"^red;|중성 다리|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 지휘관 바지."	
+/items/armors/lucario/lcommander/lucariocommanderN/lucariocommanderN.legs	shortdescription	^orange;|NLU|^white;Apex Commander Pants	^orange;|NLU|^white;에이펙스 지휘관 바지	
+/items/armors/lucario/lcommander/lucariocommanderNNPS/lucariocommanderNNPS.chest	description	"^red;|Neutral No Paw Spike|^white;
+  A standard issue Apex commander jacket fitted for a Lucario."	"^red;|중성 발 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 지휘관 재킷."	
+/items/armors/lucario/lcommander/lucariocommanderNNPS/lucariocommanderNNPS.chest	shortdescription	^orange;|NCNPSU|^white;Commander Jacket 	^orange;|NCNPSU|^white;지휘관 재킷 	
+/items/armors/lucario/lcommander/lucariocommanderNPS/lucariocommanderNPS.chest	description	"^red;|Gender No Paw Spike|^white;
+  A standard issue Apex commander jacket fitted for a Lucario."	"^red;|유성 발 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 지휘관 재킷."	
+/items/armors/lucario/lcommander/lucariocommanderNPS/lucariocommanderNPS.chest	shortdescription	^cyan;|GCNPSU|^white;Commander Jacket 	^cyan;|GCNPSU|^white;지휘관 재킷 	
+/items/armors/lucario/lcommander/lucariocommanderNns/lucariocommanderNns.chest	description	"^red;|Neutral No Chest Spike|^white;
+  A standard issue Apex commander jacket fitted for a Lucario."	"^red;|중성 가슴 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 지휘관 재킷."	
+/items/armors/lucario/lcommander/lucariocommanderNns/lucariocommanderNns.chest	shortdescription	^orange;|NCNSU|^white;Commander Jacket 	^orange;|NCNSU|^white;지휘관 재킷 	
+/items/armors/lucario/lcommander/lucariocommanderNnsNPS/lucariocommanderNnsNPS.chest	description	"^red;|Neutral No Spike|^white;
+  A standard issue Apex commander jacket fitted for a Lucario."	"^red;|중성 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 지휘관 재킷."	
+/items/armors/lucario/lcommander/lucariocommanderNnsNPS/lucariocommanderNnsNPS.chest	shortdescription	^orange;|NCNSNPSU|^white;Commander Jacket 	^orange;|NCNSNPSU|^white;지휘관 재킷 	
+/items/armors/lucario/lcommander/lucariocommanderns/lucariocommanderns.chest	description	"^red;|Gender No Chest Spike|^white;
+  A standard issue Apex commander jacket fitted for a Lucario."	"^red;|유성 가슴 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 지휘관 재킷."	
+/items/armors/lucario/lcommander/lucariocommanderns/lucariocommanderns.chest	shortdescription	^cyan;|GCNSU|^white;Commander Jacket	^cyan;|GCNSU|^white;지휘관 재킷	
+/items/armors/lucario/lcommander/lucariocommandernsNPS/lucariocommandernsNPS.chest	description	"^red;|Gender No Spike|^white;
+  A standard issue Apex commander jacket fitted for a Lucario."	"^red;|유성 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 지휘관 재킷."	
+/items/armors/lucario/lcommander/lucariocommandernsNPS/lucariocommandernsNPS.chest	shortdescription	^cyan;|GCNSNPSU|^white;Commander Jacket	^cyan;|GCNSNPSU|^white;지휘관 재킷	
+/items/armors/lucario/lnavy/lucarionavy/lucarionavy.chest	description	A standard issue Apex navy jacket fitted for a Lucario.	루카리오에 맞게 제작된 표준 지급 에이펙스 해군 재킷.	
+/items/armors/lucario/lnavy/lucarionavy/lucarionavy.chest	shortdescription	Navy Jacket	해군 재킷	reuse
+/items/armors/lucario/lnavy/lucarionavy/lucarionavy.legs	description	Standard issue Apex Navy pants fitted for a Lucario.	루카리오에 맞게 제작된 표준 지급 에이펙스 해군 바지.	
+/items/armors/lucario/lnavy/lucarionavy/lucarionavy.legs	shortdescription	Apex Navy Pants	에이펙스 해군 바지	
+/items/armors/lucario/lnavy/lucarionavyN/lucarionavyN.chest	description	"^red;|Neutral Spiked|^white;
+  A standard issue Apex navy jacket fitted for a Lucario."	"^red;|중성 스파이크 있음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 해군 재킷."	
+/items/armors/lucario/lnavy/lucarionavyN/lucarionavyN.chest	shortdescription	^orange;|NCU|^white;Navy Jacket	^orange;|NCU|^white;해군 재킷	
+/items/armors/lucario/lnavy/lucarionavyN/lucarionavyN.legs	description	"^red;|Neutral Legs|^white;
+  Standard issue Apex Navy pants fitted for a Lucario."	"^red;|중성 다리|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 해군 바지."	
+/items/armors/lucario/lnavy/lucarionavyN/lucarionavyN.legs	shortdescription	^orange;|NLU|^white;Apex Navy Pants	^orange;|NLU|^white;에이펙스 해군 바지	
+/items/armors/lucario/lnavy/lucarionavyNNPS/lucarionavyNNPS.chest	description	"^red;|Neutral No Paw Spike|^white;
+  A standard issue Apex navy jacket fitted for a Lucario."	"^red;|중성 발 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 해군 재킷."	
+/items/armors/lucario/lnavy/lucarionavyNNPS/lucarionavyNNPS.chest	shortdescription	^orange;|NCNPSU|^white;Navy Jacket	^orange;|NCNPSU|^white;해군 재킷	
+/items/armors/lucario/lnavy/lucarionavyNPS/lucarionavyNPS.chest	description	"^red;|Gender No Paw Spike|^white;
+  A standard issue Apex navy jacket fitted for a Lucario."	"^red;|유성 발 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 해군 재킷."	
+/items/armors/lucario/lnavy/lucarionavyNPS/lucarionavyNPS.chest	shortdescription	^cyan;|GCNPSU|^white;Navy Jacket	^cyan;|GCNPSU|^white;해군 재킷	
+/items/armors/lucario/lnavy/lucarionavyNns/lucarionavyNns.chest	description	"^red;|Neutral No Chest Spike|^white;
+  A standard issue Apex navy jacket fitted for a Lucario."	"^red;|중성 가슴 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 해군 재킷."	
+/items/armors/lucario/lnavy/lucarionavyNns/lucarionavyNns.chest	shortdescription	^orange;|NCNSU|^white;Navy Jacket	^orange;|NCNSU|^white;해군 재킷	
+/items/armors/lucario/lnavy/lucarionavyNnsNPS/lucarionavyNnsNPS.chest	description	"^red;|Neutral No Spike|^white;
+  A standard issue Apex navy jacket fitted for a Lucario."	"^red;|중성 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 해군 재킷."	
+/items/armors/lucario/lnavy/lucarionavyNnsNPS/lucarionavyNnsNPS.chest	shortdescription	^orange;|NCNSNPSU|^white;Navy Jacket	^orange;|NCNSNPSU|^white;해군 재킷	
+/items/armors/lucario/lnavy/lucarionavyns/lucarionavyns.chest	description	"^red;|Gender No Chest Spike|^white;
+  A standard issue Apex navy jacket fitted for a Lucario."	"^red;|유성 가슴 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 해군 재킷."	
+/items/armors/lucario/lnavy/lucarionavyns/lucarionavyns.chest	shortdescription	^cyan;|GCNSU|^white;Navy Jacket	^cyan;|GCNSU|^white;해군 재킷	
+/items/armors/lucario/lnavy/lucarionavynsNPS/lucarionavynsNPS.chest	description	"^red;|Gender No Spike|^white;
+  A standard issue Apex navy jacket fitted for a Lucario."	"^red;|유성 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 해군 재킷."	
+/items/armors/lucario/lnavy/lucarionavynsNPS/lucarionavynsNPS.chest	shortdescription	^cyan;|GCNSNPSU|^white;Navy Jacket	^cyan;|GCNSNPSU|^white;해군 재킷	
+/items/armors/lucario/lofficer/lucarioofficer/lucarioofficer.chest	description	A standard issue Apex officer jacket fitted for a Lucario.	루카리오에 맞게 제작된 표준 지급 에이펙스 장교 재킷.	
+/items/armors/lucario/lofficer/lucarioofficer/lucarioofficer.chest	shortdescription	Officer Jacket	장교 재킷	reuse
+/items/armors/lucario/lofficer/lucarioofficer/lucarioofficer.legs	description	Standard issue Apex Officer pants fitted for a Lucario.	루카리오에 맞게 제작된 표준 지급 에이펙스 장교 바지.	
+/items/armors/lucario/lofficer/lucarioofficer/lucarioofficer.legs	shortdescription	Apex Officer Pants 	에이펙스 장교 바지 	
+/items/armors/lucario/lofficer/lucarioofficerN/lucarioofficerN.chest	description	"^red;|Neutral Spiked|^white;
+  A standard issue Apex officer jacket fitted for a Lucario."	"^red;|중성 스파이크 있음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 장교 재킷."	
+/items/armors/lucario/lofficer/lucarioofficerN/lucarioofficerN.chest	shortdescription	^orange;|NCU|^white;Officer Jacket	^orange;|NCU|^white;장교 재킷	
+/items/armors/lucario/lofficer/lucarioofficerN/lucarioofficerN.legs	description	"^red;|Neutral Legs|^white;
+  Standard issue Apex Officer pants fitted for a Lucario."	"^red;|중성 다리|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 장교 바지."	
+/items/armors/lucario/lofficer/lucarioofficerN/lucarioofficerN.legs	shortdescription	^orange;|NLU|^white;Apex Officer Pants 	^orange;|NLU|^white;에이펙스 장교 바지 	
+/items/armors/lucario/lofficer/lucarioofficerNNPS/lucarioofficerNNPS.chest	description	"^red;|Neutral No Paw Spike|^white;
+  A standard issue Apex officer jacket fitted for a Lucario."	"^red;|중성 발 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 장교 재킷."	
+/items/armors/lucario/lofficer/lucarioofficerNNPS/lucarioofficerNNPS.chest	shortdescription	^orange;|NCNPSU|^white;Officer Jacket	^orange;|NCNPSU|^white;장교 재킷	
+/items/armors/lucario/lofficer/lucarioofficerNPS/lucarioofficerNPS.chest	description	"^red;|Gender No Paw Spike|^white;
+  A standard issue Apex officer jacket fitted for a Lucario."	"^red;|유성 발 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 장교 재킷."	
+/items/armors/lucario/lofficer/lucarioofficerNPS/lucarioofficerNPS.chest	shortdescription	^cyan;|GCNPSU|^white;Officer Jacket	^cyan;|GCNPSU|^white;장교 재킷	
+/items/armors/lucario/lofficer/lucarioofficerNns/lucarioofficerNns.chest	description	"^red;|Neutral No Chest Spike|^white;
+  A standard issue Apex officer jacket fitted for a Lucario."	"^red;|중성 가슴 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 장교 재킷."	
+/items/armors/lucario/lofficer/lucarioofficerNns/lucarioofficerNns.chest	shortdescription	^orange;|NCNSU|^white;Officer Jacket	^orange;|NCNSU|^white;장교 재킷	
+/items/armors/lucario/lofficer/lucarioofficerNnsNPS/lucarioofficerNnsNPS.chest	description	"^red;|Neutral No Spike|^white;
+  A standard issue Apex officer jacket fitted for a Lucario."	"^red;|중성 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 장교 재킷."	
+/items/armors/lucario/lofficer/lucarioofficerNnsNPS/lucarioofficerNnsNPS.chest	shortdescription	^orange;|NCNSNPSU|^white;Officer Jacket	^orange;|NCNSNPSU|^white;장교 재킷	
+/items/armors/lucario/lofficer/lucarioofficerns/lucarioofficerns.chest	description	"^red;|Gender No Chest Spike|^white;
+  A standard issue Apex officer jacket fitted for a Lucario."	"^red;|유성 가슴 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 장교 재킷."	
+/items/armors/lucario/lofficer/lucarioofficerns/lucarioofficerns.chest	shortdescription	^cyan;|GCNSU|^white;Officer Jacket 	^cyan;|GCNSU|^white;장교 재킷 	
+/items/armors/lucario/lofficer/lucarioofficernsNPS/lucarioofficernsNPS.chest	description	"^red;|Gender No Spike|^white;
+  A standard issue Apex officer jacket fitted for a Lucario."	"^red;|유성 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 장교 재킷."	
+/items/armors/lucario/lofficer/lucarioofficernsNPS/lucarioofficernsNPS.chest	shortdescription	^cyan;|GCNSNPSU|^white;Officer Jacket 	^cyan;|GCNSNPSU|^white;장교 재킷 	
+/items/armors/lucario/lspecialist/lucariospecialist/lucariospecialist.chest	description	A standard issue Apex specialist jacket fitted for a Lucario.	루카리오에 맞게 제작된 표준 지급 에이펙스 전문가 재킷.	
+/items/armors/lucario/lspecialist/lucariospecialist/lucariospecialist.chest	shortdescription	Specialist Jacket	전문가 바지	reuse
+/items/armors/lucario/lspecialist/lucariospecialist/lucariospecialist.legs	description	"^red;|Gender Legs|^white;
+  Standard issue Apex Specialist pants fitted for a Lucario."	"^red;|유성 다리|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 전문가 바지."	
+/items/armors/lucario/lspecialist/lucariospecialist/lucariospecialist.legs	shortdescription	^cyan;|GLU|^white;Apex Specialist Pants	^cyan;|GLU|^white;에이펙스 전문가 바지	
+/items/armors/lucario/lspecialist/lucariospecialistN/lucariospecialistN.chest	description	"^red;|Neutral Spiked|^white;
+  A standard issue Apex specialist jacket fitted for a Lucario."	"^red;|중성 스파이크 있음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 전문가 재킷."	
+/items/armors/lucario/lspecialist/lucariospecialistN/lucariospecialistN.chest	shortdescription	^orange;|NCU|^white;Specialist Jacket	^orange;|NCU|^white;전문가 재킷	
+/items/armors/lucario/lspecialist/lucariospecialistN/lucariospecialistN.legs	description	"^red;|Neutral Legs|^white;
+  Standard issue Apex Specialist pants fitted for a Lucario."	"^red;|중성 다리|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 전문가 바지."	
+/items/armors/lucario/lspecialist/lucariospecialistN/lucariospecialistN.legs	shortdescription	^orange;|NLU|^white;Apex Specialist Pants	^orange;|NLU|^white;에이펙스 전문가 바지	
+/items/armors/lucario/lspecialist/lucariospecialistNNPS/lucariospecialistNNPS.chest	description	"^red;|Neutral No Paw Spike|^white;
+  A standard issue Apex specialist jacket fitted for a Lucario."	"^red;|중성 발 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 전문가 재킷."	
+/items/armors/lucario/lspecialist/lucariospecialistNNPS/lucariospecialistNNPS.chest	shortdescription	^orange;|NCNPSU|^white;Specialist Jacket	^orange;|NCNPSU|^white;전문가 재킷	
+/items/armors/lucario/lspecialist/lucariospecialistNPS/lucariospecialistNPS.chest	description	"^red;|Gender No Paw Spike|^white;
+  A standard issue Apex specialist jacket fitted for a Lucario."	"^red;|유성 발 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 전문가 재킷."	
+/items/armors/lucario/lspecialist/lucariospecialistNPS/lucariospecialistNPS.chest	shortdescription	^cyan;|GCNPSU|^white;Specialist Jacket	^cyan;|GCNPSU|^white;전문가 재킷	
+/items/armors/lucario/lspecialist/lucariospecialistNns/lucariospecialistNns.chest	description	"^red;|Neutral No Chest Spike|^white;
+  A standard issue Apex specialist jacket fitted for a Lucario."	"^red;|중성 가슴 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 전문가 재킷."	
+/items/armors/lucario/lspecialist/lucariospecialistNns/lucariospecialistNns.chest	shortdescription	^orange;|NCNSU|^white;Specialist Jacket	^orange;|NCNSU|^white;전문가 재킷	
+/items/armors/lucario/lspecialist/lucariospecialistNnsNPS/lucariospecialistNnsNPS.chest	description	"^red;|Neutral No Spike|^white;
+  A standard issue Apex specialist jacket fitted for a Lucario."	"^red;|중성 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 전문가 재킷."	
+/items/armors/lucario/lspecialist/lucariospecialistNnsNPS/lucariospecialistNnsNPS.chest	shortdescription	^orange;|NCNSNPSU|^white;Specialist Jacket	^orange;|NCNSNPSU|^white;전문가 재킷	
+/items/armors/lucario/lspecialist/lucariospecialistns/lucariospecialistns.chest	description	"^red;|Gender No Chest Spike|^white;
+  A standard issue Apex specialist jacket fitted for a Lucario."	"^red;|유성 가슴 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 전문가 재킷."	
+/items/armors/lucario/lspecialist/lucariospecialistns/lucariospecialistns.chest	shortdescription	^cyan;|GCNSU|^white;Specialist Jacket	^cyan;|GCNSU|^white;전문가 재킷	
+/items/armors/lucario/lspecialist/lucariospecialistnsNPS/lucariospecialistnsNPS.chest	description	"^red;|Gender No Spike|^white;
+  A standard issue Apex specialist jacket fitted for a Lucario."	"^red;|유성 스파이크 없음|^white;
+  루카리오에 맞게 제작된 표준 지급 에이펙스 전문가 재킷."	
+/items/armors/lucario/lspecialist/lucariospecialistnsNPS/lucariospecialistnsNPS.chest	shortdescription	^cyan;|GCNSNPSU|^white;Specialist Jacket	^cyan;|GCNSNPSU|^white;전문가 재킷	
+/items/armors/lucario/lucario-tier5accelerator/lucariotier5accelerator.chest	description	This is a temporary measure until the armor is finished.	갑옷이 완성될 때까지의 임시 조치다.	
+/items/armors/lucario/lucario-tier5accelerator/lucariotier5accelerator.chest	shortdescription	Tier5 Accelerator Implant	5티어 가속장치 임플란트	
+/items/armors/lucario/lucario-tier5accelerator/lucariotier5accelerator.head	description	This is a temporary measure until the armor is finished.	갑옷이 완성될 때까지의 임시 조치다.	
+/items/armors/lucario/lucario-tier5accelerator/lucariotier5accelerator.head	shortdescription	Tier5 Accelerator Implant	5티어 가속장치 임플란트	
+/items/armors/lucario/lucario-tier5accelerator/lucariotier5accelerator.legs	description	This is a temporary measure until the armor is finished.	갑옷이 완성될 때까지의 임시 조치다.	
+/items/armors/lucario/lucario-tier5accelerator/lucariotier5accelerator.legs	shortdescription	Tier5 Accelerator Implant	5티어 가속장치 임플란트	
+/items/armors/lucario/lucario-tier5manipluator/lucariotier5manipulator.chest	description	This is a temporary measure until the armor is finished.!	갑옷이 완성될 때까지의 임시 조치다!	
+/items/armors/lucario/lucario-tier5manipluator/lucariotier5manipulator.chest	shortdescription	Tier5 Manipulator Implant	5티어 조작장치 임플란트	
+/items/armors/lucario/lucario-tier5manipluator/lucariotier5manipulator.head	description	This is a temporary measure until the armor is finished.	갑옷이 완성될 때까지의 임시 조치다.	
+/items/armors/lucario/lucario-tier5manipluator/lucariotier5manipulator.head	shortdescription	Tier5 Manipulator Implant	5티어 조작장치 임플란트	
+/items/armors/lucario/lucario-tier5manipluator/lucariotier5manipulator.legs	description	This is a temporary measure until the armor is finished.	갑옷이 완성될 때까지의 임시 조치다.	
+/items/armors/lucario/lucario-tier5manipluator/lucariotier5manipulator.legs	shortdescription	Tier5 Manipulator Implant	5티어 조작장치 임플란트	
+/items/armors/lucario/lucario-tier5separator/lucariotier5separator.chest	description	This is a temporary measure until the armor is finished.!	갑옷이 완성될 때까지의 임시 조치다!	
+/items/armors/lucario/lucario-tier5separator/lucariotier5separator.chest	shortdescription	Tier5 Separator Implant	5티어 분리장치 임플란트	
+/items/armors/lucario/lucario-tier5separator/lucariotier5separator.head	description	This is a temporary measure until the armor is finished.!	갑옷이 완성될 때까지의 임시 조치다!	
+/items/armors/lucario/lucario-tier5separator/lucariotier5separator.head	shortdescription	Tier5 Separator Implant	5티어 분리장치 임플란트	
+/items/armors/lucario/lucario-tier5separator/lucariotier5separator.legs	description	This is a temporary measure until the armor is finished.!	갑옷이 완성될 때까지의 임시 조치다!	
+/items/armors/lucario/lucario-tier5separator/lucariotier5separator.legs	shortdescription	Tier5 Separator Implant	5티어 분리장치 임플란트	
+/items/armors/lucario/lucario-tier6accelerator/lucariotier6accelerator.chest	description	This is a temporary measure until the armor is finished.	갑옷이 완성될 때까지의 임시 조치다.	
+/items/armors/lucario/lucario-tier6accelerator/lucariotier6accelerator.chest	shortdescription	Tier6 Accelerator Implant	6티어 가속장치 임플란트	
+/items/armors/lucario/lucario-tier6accelerator/lucariotier6accelerator.head	description	This is a temporary measure until the armor is finished.	갑옷이 완성될 때까지의 임시 조치다.	
+/items/armors/lucario/lucario-tier6accelerator/lucariotier6accelerator.head	shortdescription	Tier6 Accelerator Implant	6티어 가속장치 임플란트	
+/items/armors/lucario/lucario-tier6accelerator/lucariotier6accelerator.legs	description	This is a temporary measure until the armor is finished..	갑옷이 완성될 때까지의 임시 조치다..	
+/items/armors/lucario/lucario-tier6accelerator/lucariotier6accelerator.legs	shortdescription	Tier6 Accelerator Implant	6티어 가속장치 임플란트	
+/items/armors/lucario/lucario-tier6manipluator/lucariotier6manipulator.chest	description	This is a temporary measure until the armor is finished.!	갑옷이 완성될 때까지의 임시 조치다!	
+/items/armors/lucario/lucario-tier6manipluator/lucariotier6manipulator.chest	shortdescription	Tier6 Manipulator Implant	6티어 조작장치 임플란트	
+/items/armors/lucario/lucario-tier6manipluator/lucariotier6manipulator.head	description	This is a temporary measure until the armor is finished.!	갑옷이 완성될 때까지의 임시 조치다!	
+/items/armors/lucario/lucario-tier6manipluator/lucariotier6manipulator.head	shortdescription	Tier6 Manipulator Implant	6티어 조작장치 임플란트	
+/items/armors/lucario/lucario-tier6manipluator/lucariotier6manipulator.legs	description	This is a temporary measure until the armor is finished.!	갑옷이 완성될 때까지의 임시 조치다!	
+/items/armors/lucario/lucario-tier6manipluator/lucariotier6manipulator.legs	shortdescription	Tier6 Manipulator Implant	6티어 조작장치 임플란트	
+/items/armors/lucario/lucario-tier6separator/lucariotier6separator.chest	description	This is a temporary measure until the armor is finished.!	갑옷이 완성될 때까지의 임시 조치다!	
+/items/armors/lucario/lucario-tier6separator/lucariotier6separator.chest	shortdescription	Tier6 Separator Implant	6티어 분리장치 임플란트	
+/items/armors/lucario/lucario-tier6separator/lucariotier6separator.head	description	This is a temporary measure until the armor is finished.!	갑옷이 완성될 때까지의 임시 조치다!	
+/items/armors/lucario/lucario-tier6separator/lucariotier6separator.head	shortdescription	Tier6 Separator Implant	6티어 분리장치 임플란트	
+/items/armors/lucario/lucario-tier6separator/lucariotier6separator.legs	description	This is a temporary measure until the armor is finished.!	갑옷이 완성될 때까지의 임시 조치다!	
+/items/armors/lucario/lucario-tier6separator/lucariotier6separator.legs	shortdescription	Tier6 Separator Implant	6티어 분리장치 임플란트	
+/items/armors/lucario/no-gearL/nogearL.chest	description	Be one with your inner nature.	내면의 자연과 하나가 되어라.	
+/items/armors/lucario/no-gearL/nogearL.chest	shortdescription	No Gear	장비 없음	
+/items/armors/lucario/no-gearL/nohatL.head	description	Be proud of your fluffy ears!	폭신한 귀를 자랑스러워하라!	
+/items/armors/lucario/no-gearL/nohatL.head	shortdescription	No Hat	모자 없음	
+/items/armors/lucario/no-gearL/nopantsL.legs	description	Feel that earth beneath your vary feet.	발바닥 아래 대지를 느껴라.	
+/items/armors/lucario/no-gearL/nopantsL.legs	shortdescription	No Pants	바지 없음	
+/items/armors/lucario/tier1/lucario-tier1/lucariotier1.chest	description	A simple piece of body armor and gloves for your training.	훈련용으로 단순한 흉갑과 장갑 한 벌.	
+/items/armors/lucario/tier1/lucario-tier1/lucariotier1.chest	shortdescription	Page Cuirass	시종 흉갑	
+/items/armors/lucario/tier1/lucario-tier1/lucariotier1.head	description	A simple training armor for what is to come.	앞으로 닥칠 일을 위한 단순한 훈련용 갑옷.	
+/items/armors/lucario/tier1/lucario-tier1/lucariotier1.head	shortdescription	Page Helmet	시종 헬멧	
+/items/armors/lucario/tier1/lucario-tier1/lucariotier1.legs	description	A somewhat protective fauld and boots set for training..	훈련용으로 다소 보호되는 고관갑과 장화 세트..	
+/items/armors/lucario/tier1/lucario-tier1/lucariotier1.legs	shortdescription	Page Fauld Set	시종 고관갑 세트	
+/items/armors/lucario/tier1/lucario-tier1N/lucariotier1N.chest	description	"^red;|Neutral Spiked|^white;
+  A simple piece of body armor and gloves for your training."	"^red;|중성 스파이크 있음|^white;
+  훈련용으로 단순한 흉갑과 장갑 한 벌."	
+/items/armors/lucario/tier1/lucario-tier1N/lucariotier1N.chest	shortdescription	^orange;|NCU|^white;Page Cuirass 	^orange;|NCU|^white;시종 흉갑 	
+/items/armors/lucario/tier1/lucario-tier1N/lucariotier1N.legs	description	"^red;|Neutral Legs|^white;
+  A somewhat protective fauld and boots set for training.."	"^red;|중성 다리|^white;
+  훈련용으로 다소 보호되는 고관갑과 장화 세트.."	
+/items/armors/lucario/tier1/lucario-tier1N/lucariotier1N.legs	shortdescription	^orange;|NLU|^white;Page fauld Set 	^orange;|NLU|^white;시종 고관갑 세트 	
+/items/armors/lucario/tier1/lucario-tier1NNPS/lucariotier1NNPS.chest	description	"^red;|Neutral No Paw Spike|^white;
+  A simple piece of body armor and gloves for your training."	"^red;|중성 발 스파이크 없음|^white;
+  훈련용으로 단순한 흉갑과 장갑 한 벌."	
+/items/armors/lucario/tier1/lucario-tier1NNPS/lucariotier1NNPS.chest	shortdescription	^orange;|NCNPSU|^white;Page Cuirass 	^orange;|NCNPSU|^white;시종 흉갑 	
+/items/armors/lucario/tier1/lucario-tier1NPS/lucariotier1NPS.chest	description	"^red;|Gender No Paw Spike|^white;
+  A simple piece of body armor and gloves for your training."	"^red;|유성 발 스파이크 없음|^white;
+  훈련용으로 단순한 흉갑과 장갑 한 벌."	
+/items/armors/lucario/tier1/lucario-tier1NPS/lucariotier1NPS.chest	shortdescription	^cyan;|GCNPSU|^white;Page Cuirass 	^cyan;|GCNPSU|^white;시종 흉갑 	
+/items/armors/lucario/tier1/lucario-tier1Nns/lucariotier1Nns.chest	description	"^red;|Neutral No Chest Spike|^white;
+  A simple piece of body armor and gloves for your training."	"^red;|중성 가슴 스파이크 없음|^white;
+  훈련용으로 단순한 흉갑과 장갑 한 벌."	
+/items/armors/lucario/tier1/lucario-tier1Nns/lucariotier1Nns.chest	shortdescription	^orange;|NCNSU|^white;Page Cuirass 	^orange;|NCNSU|^white;시종 흉갑 	
+/items/armors/lucario/tier1/lucario-tier1NnsNPS/lucariotier1NnsNPS.chest	description	"^red;|Neutral No Spike|^white;
+  A simple piece of body armor and gloves for your training."	"^red;|중성 스파이크 없음|^white;
+  훈련용으로 단순한 흉갑과 장갑 한 벌."	
+/items/armors/lucario/tier1/lucario-tier1NnsNPS/lucariotier1NnsNPS.chest	shortdescription	^orange;|NCNSNPSU|^white;Page Cuirass 	^orange;|NCNSNPSU|^white;시종 흉갑 	
+/items/armors/lucario/tier1/lucario-tier1ns/lucariotier1ns.chest	description	"^red;|Gender No Chest Spike|^white;
+  A simple piece of body armor and gloves for your training."	"^red;|유성 가슴 스파이크 없음|^white;
+  훈련용으로 단순한 흉갑과 장갑 한 벌."	
+/items/armors/lucario/tier1/lucario-tier1ns/lucariotier1ns.chest	shortdescription	^cyan;|GCNSU|^white;Page Cuirass 	^cyan;|GCNSU|^white;시종 흉갑 	
+/items/armors/lucario/tier1/lucario-tier1nsNPS/lucariotier1nsNPS.chest	description	"^red;|Gender No Spike|^white;
+  A simple piece of body armor and gloves for your training."	"^red;|유성 스파이크 없음|^white;
+  훈련용으로 단순한 흉갑과 장갑 한 벌."	
+/items/armors/lucario/tier1/lucario-tier1nsNPS/lucariotier1nsNPS.chest	shortdescription	^cyan;|GCNSNPSU|^white;Page Cuirass 	^cyan;|GCNSNPSU|^white;시종 흉갑 	
+/items/armors/lucario/tier2/lucario-tier2/lucariotier2.chest	description	The uniform of the Aura Guardians now an armor.	오라 수호자의 제복이 이제 갑옷이 되었다.	
+/items/armors/lucario/tier2/lucario-tier2/lucariotier2.chest	shortdescription	Guardian Tunic 	수호자 튜닉 	
+/items/armors/lucario/tier2/lucario-tier2/lucariotier2.head	description	The Uniform of the Aura Guardians with a rather sturdy hat.	오라 수호자의 제복과 꽤 튼튼한 모자.	
+/items/armors/lucario/tier2/lucario-tier2/lucariotier2.head	shortdescription	Guardian Hat	수호자 모자	
+/items/armors/lucario/tier2/lucario-tier2/lucariotier2.legs	description	The uniform of the Aura Guardians as the lower armor.	오라 수호자의 제복이 하의 갑옷이 되었다.	
+/items/armors/lucario/tier2/lucario-tier2/lucariotier2.legs	shortdescription	Guardian Uniform 	수호자 제복 	
+/items/armors/lucario/tier2/lucario-tier2N/lucariotier2N.chest	description	"^red;|Neutral Spiked|^white;
+  The uniform of the Aura Guardians now an armor."	"^red;|중성 스파이크 있음|^white;
+  오라 수호자의 제복이 이제 갑옷이 되었다."	
+/items/armors/lucario/tier2/lucario-tier2N/lucariotier2N.chest	shortdescription	^orange;|NCU|^white;Guardian Tunic	^orange;|NCU|^white;수호자 튜닉	
+/items/armors/lucario/tier2/lucario-tier2N/lucariotier2N.legs	description	"^red;|Neutral Legs|^white;
+  The uniform of the Aura Guardians as the lower armor."	"^red;|중성 다리|^white;
+  오라 수호자의 제복이 하의 갑옷이 되었다."	
+/items/armors/lucario/tier2/lucario-tier2N/lucariotier2N.legs	shortdescription	^orange;|NLU|^white;Guardian Uniform 	^orange;|NLU|^white;수호자 제복 	
+/items/armors/lucario/tier2/lucario-tier2NNPS/lucariotier2NNPS.chest	description	"^red;|Neutral No Paw Spike|^white;
+  The uniform of the Aura Guardians now an armor."	"^red;|중성 발 스파이크 없음|^white;
+  오라 수호자의 제복이 이제 갑옷이 되었다."	
+/items/armors/lucario/tier2/lucario-tier2NNPS/lucariotier2NNPS.chest	shortdescription	^orange;|NCNPSU|^white;Guardian Tunic 	^orange;|NCNPSU|^white;수호자 튜닉 	
+/items/armors/lucario/tier2/lucario-tier2NPS/lucariotier2NPS.chest	description	"^red;|Gender No Paw Spike|^white;
+  The uniform of the Aura Guardians now an armor."	"^red;|유성 발 스파이크 없음|^white;
+  오라 수호자의 제복이 이제 갑옷이 되었다."	
+/items/armors/lucario/tier2/lucario-tier2NPS/lucariotier2NPS.chest	shortdescription	^cyan;|GCNPSU|^white;Guardian Tunic	^cyan;|GCNPSU|^white;수호자 튜닉	
+/items/armors/lucario/tier2/lucario-tier2Nns/lucariotier2Nns.chest	description	"^red;|Neutral No Chest Spike|^white;
+  The uniform of the Aura Guardians now an armor."	"^red;|중성 가슴 스파이크 없음|^white;
+  오라 수호자의 제복이 이제 갑옷이 되었다."	
+/items/armors/lucario/tier2/lucario-tier2Nns/lucariotier2Nns.chest	shortdescription	^orange;|NCNSU|^white;Guardian Tunic	^orange;|NCNSU|^white;수호자 튜닉	
+/items/armors/lucario/tier2/lucario-tier2NnsNPS/lucariotier2NnsNPS.chest	description	"^red;|Neutral No Spike|^white;
+  The uniform of the Aura Guardians now an armor."	"^red;|중성 스파이크 없음|^white;
+  오라 수호자의 제복이 이제 갑옷이 되었다."	
+/items/armors/lucario/tier2/lucario-tier2NnsNPS/lucariotier2NnsNPS.chest	shortdescription	^orange;|NCNSNPSU|^white;Guardian Tunic	^orange;|NCNSNPSU|^white;수호자 튜닉	
+/items/armors/lucario/tier2/lucario-tier2ns/lucariotier2ns.chest	description	"^red;|Gender No Chest Spike|^white;
+  The uniform of the Aura Guardians now an armor."	"^red;|유성 가슴 스파이크 없음|^white;
+  오라 수호자의 제복이 이제 갑옷이 되었다."	
+/items/armors/lucario/tier2/lucario-tier2ns/lucariotier2ns.chest	shortdescription	^cyan;|GCNSU|^white;Guardian Tunic	^cyan;|GCNSU|^white;수호자 튜닉	
+/items/armors/lucario/tier2/lucario-tier2nsNPS/lucariotier2nsNPS.chest	description	"^red;|Gender No Spike|^white;
+  The uniform of the Aura Guardians now an armor."	"^red;|유성 스파이크 없음|^white;
+  오라 수호자의 제복이 이제 갑옷이 되었다."	
+/items/armors/lucario/tier2/lucario-tier2nsNPS/lucariotier2nsNPS.chest	shortdescription	^cyan;|GCNSNPSU|^white;Guardians Tunic	^cyan;|GCNSNPSU|^white;수호자 튜닉	
+/items/armors/lucario/tier3/lucario-tier3/lucariotier3.chest	description	Armor designed for surviving hostile environments for the tracking of aura waves.	오라 파를 추적하며 험악한 환경에서 살아남기 위해 설계된 갑옷.	
+/items/armors/lucario/tier3/lucario-tier3/lucariotier3.chest	shortdescription	Tracker's Suit	추적자의 슈트	
+/items/armors/lucario/tier3/lucario-tier3/lucariotier3.head	description	With a visual display for aura tracking, it can show all dangers.	오라 추적용 시각 표시로 모든 위험을 보여준다.	
+/items/armors/lucario/tier3/lucario-tier3/lucariotier3.head	shortdescription	Tracker's Helm	추적자의 헬멧	
+/items/armors/lucario/tier3/lucario-tier3/lucariotier3.legs	description	Extra armor covering the legs helps any tracker shrug off minor obstacles.	다리를 덮는 추가 장갑으로 어떤 추적자든 작은 장애물을 털어낼 수 있다.	
+/items/armors/lucario/tier3/lucario-tier3/lucariotier3.legs	shortdescription	Tracker's Trousers 	추적자의 바지 	
+/items/armors/lucario/tier3/lucario-tier3N/lucariotier3N.chest	description	"^red;|Neutral Spiked|^white;
+  Armor designed for surviving hostile environments for the tracking of aura waves."	"^red;|중성 스파이크 있음|^white;
+  오라 파를 추적하며 험악한 환경에서 살아남기 위해 설계된 갑옷."	
+/items/armors/lucario/tier3/lucario-tier3N/lucariotier3N.chest	shortdescription	^orange;|NCU|^white;Tracker's Suit 	^orange;|NCU|^white;추적자의 슈트 	
+/items/armors/lucario/tier3/lucario-tier3N/lucariotier3N.legs	description	"^red;|Neutral Legs|^white;
+  Extra armor covering the legs helps any tracker shrug off minor obstacles."	"^red;|중성 다리|^white;
+  다리를 덮는 추가 장갑으로 어떤 추적자든 작은 장애물을 털어낼 수 있다."	
+/items/armors/lucario/tier3/lucario-tier3N/lucariotier3N.legs	shortdescription	^orange;|NLU|^white;Tracker's Trousers 	^orange;|NLU|^white;추적자의 바지 	
+/items/armors/lucario/tier3/lucario-tier3NNPS/lucariotier3NNPS.chest	description	"^red;|Neutral No Paw Spike|^white;
+  Armor designed for surviving hostile environments for the tracking of aura waves."	"^red;|중성 발 스파이크 없음|^white;
+  오라 파를 추적하며 험악한 환경에서 살아남기 위해 설계된 갑옷."	
+/items/armors/lucario/tier3/lucario-tier3NNPS/lucariotier3NNPS.chest	shortdescription	^orange;|NCNPSU|^white;Tracker's Suit 	^orange;|NCNPSU|^white;추적자의 슈트 	
+/items/armors/lucario/tier3/lucario-tier3NPS/lucariotier3NPS.chest	description	"^red;|Gender No Paw Spike|^white;
+  Armor designed for surviving hostile environments for the tracking of aura waves."	"^red;|유성 발 스파이크 없음|^white;
+  오라 파를 추적하며 험악한 환경에서 살아남기 위해 설계된 갑옷."	
+/items/armors/lucario/tier3/lucario-tier3NPS/lucariotier3NPS.chest	shortdescription	^cyan;|GCNPSU|^white;Tracker's Suit	^cyan;|GCNPSU|^white;추적자의 슈트	
+/items/armors/lucario/tier3/lucario-tier3Nns/lucariotier3Nns.chest	description	"^red;|Neutral No Chest Spike|^white;
+  Armor designed for surviving hostile environments for the tracking of aura waves."	"^red;|중성 가슴 스파이크 없음|^white;
+  오라 파를 추적하며 험악한 환경에서 살아남기 위해 설계된 갑옷."	
+/items/armors/lucario/tier3/lucario-tier3Nns/lucariotier3Nns.chest	shortdescription	^orange;|NCNSU|^white;Tracker's Suit	^orange;|NCNSU|^white;추적자의 슈트	
+/items/armors/lucario/tier3/lucario-tier3NnsNPS/lucariotier3NnsNPS.chest	description	"^red;|Neutral No Spike|^white;
+  Armor designed for surviving hostile environments for the tracking of aura waves."	"^red;|중성 스파이크 없음|^white;
+  오라 파를 추적하며 험악한 환경에서 살아남기 위해 설계된 갑옷."	
+/items/armors/lucario/tier3/lucario-tier3NnsNPS/lucariotier3NnsNPS.chest	shortdescription	^orange;|NCNSNPSU|^white;Tracker's Suit	^orange;|NCNSNPSU|^white;추적자의 슈트	
+/items/armors/lucario/tier3/lucario-tier3ns/lucariotier3ns.chest	description	"^red;|Gender No Chest Spike|^white;
+  Armor designed for surviving hostile environments for the tracking of aura waves."	"^red;|유성 가슴 스파이크 없음|^white;
+  오라 파를 추적하며 험악한 환경에서 살아남기 위해 설계된 갑옷."	
+/items/armors/lucario/tier3/lucario-tier3ns/lucariotier3ns.chest	shortdescription	^cyan;|GCNSU|^white;Tracker's Suit 	^cyan;|GCNSU|^white;추적자의 슈트 	
+/items/armors/lucario/tier3/lucario-tier3nsNPS/lucariotier3nsNPS.chest	description	"^red;|Gender No Spike|^white;
+  Armor designed for surviving hostile environments for the tracking of aura waves."	"^red;|유성 스파이크 없음|^white;
+  오라 파를 추적하며 험악한 환경에서 살아남기 위해 설계된 갑옷."	
+/items/armors/lucario/tier3/lucario-tier3nsNPS/lucariotier3nsNPS.chest	shortdescription	^cyan;|GCNSNPSU|^white;Tracker's Suit 	^cyan;|GCNSNPSU|^white;추적자의 슈트 	
+/items/armors/lucario/tier4/lucario-tier4/lucariotier4.chest	description	The chest armor of a lucario who has merged aura with technology.	오라를 기술과 융합한 루카리오의 흉갑.	
+/items/armors/lucario/tier4/lucario-tier4/lucariotier4.chest	shortdescription	Auracle Chest	오라클 흉갑	
+/items/armors/lucario/tier4/lucario-tier4/lucariotier4.head	description	This helmet was designed upon the age of space to influence Aura Tech.	우주 시대에 오라 테크에 영향을 주도록 설계된 헬멧.	
+/items/armors/lucario/tier4/lucario-tier4/lucariotier4.head	shortdescription	Auracle Helm	오라클 헬멧	
+/items/armors/lucario/tier4/lucario-tier4/lucariotier4.legs	description	Using Aura Tech, the user is able to survive hostile areas on it's life aura.	오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다.	
+/items/armors/lucario/tier4/lucario-tier4/lucariotier4.legs	shortdescription	Auracle Suit	오라클 슈트	
+/items/armors/lucario/tier4/lucario-tier4N/lucariotier4N.chest	description	"^red;|Neutral Spiked|^white;
+  The chest armor of a lucario who has merged aura with technology."	"^red;|중성 스파이크 있음|^white;
+  오라를 기술과 융합한 루카리오의 흉갑."	
+/items/armors/lucario/tier4/lucario-tier4N/lucariotier4N.chest	shortdescription	^orange;|NCU|^white;Auracle Chest	^orange;|NCU|^white;오라클 흉갑	
+/items/armors/lucario/tier4/lucario-tier4N/lucariotier4N.legs	description	"^red;|Neutral Legs|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|중성 다리|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4N/lucariotier4N.legs	shortdescription	^orange;|NLU|^white;Auracle Suit	^orange;|NLU|^white;오라클 슈트	
+/items/armors/lucario/tier4/lucario-tier4NNPS/lucariotier4NNPS.chest	description	"^red;|Neutral No Paw Spike|^white;
+  The chest armor of a lucario who has merged aura with technology."	"^red;|중성 발 스파이크 없음|^white;
+  오라를 기술과 융합한 루카리오의 흉갑."	
+/items/armors/lucario/tier4/lucario-tier4NNPS/lucariotier4NNPS.chest	shortdescription	^orange;|NCNPSU|^white;Auracle Chest	^orange;|NCNPSU|^white;오라클 흉갑	
+/items/armors/lucario/tier4/lucario-tier4NPS/lucariotier4NPS.chest	description	"^red;|Gender No Paw Spike|^white;
+  The chest armor of a lucario who has merged aura with technology."	"^red;|유성 발 스파이크 없음|^white;
+  오라를 기술과 융합한 루카리오의 흉갑."	
+/items/armors/lucario/tier4/lucario-tier4NPS/lucariotier4NPS.chest	shortdescription	^cyan;|GCNPSU|^white;Auracle Chest	^cyan;|GCNPSU|^white;오라클 흉갑	
+/items/armors/lucario/tier4/lucario-tier4Nftail/lucariotier4Nf.legs	description	"^red;|Neutral Legs Fluffy Tail|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|중성 다리 폭신 꼬리|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4Nftail/lucariotier4Nf.legs	shortdescription	^orange;|NLU||FTUN|^white;Auracle Suit	^orange;|NLU||FTUN|^white;오라클 슈트	
+/items/armors/lucario/tier4/lucario-tier4Nftaila/lucariotier4Nfa.legs	description	"^red;|Neutral Legs Fluffy Tail A|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|중성 다리 폭신 꼬리 A|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4Nftaila/lucariotier4Nfa.legs	shortdescription	^orange;|NLU||FTUN|^white;Auracle Suit A	^orange;|NLU||FTUN|^white;오라클 슈트 A	
+/items/armors/lucario/tier4/lucario-tier4Nltail/lucariotier4Nl.legs	description	"^red;|Neutral Legs Lucario Tail|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|중성 다리 루카리오 꼬리|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4Nltail/lucariotier4Nl.legs	shortdescription	^orange;|NLU||LTUN|^white;Auracle Suit	^orange;|NLU||LTUN|^white;오라클 슈트	
+/items/armors/lucario/tier4/lucario-tier4Nltaila/lucariotier4Nla.legs	description	"^red;|Neutral Legs Lucario Tail A|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|중성 다리 루카리오 꼬리 A|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4Nltaila/lucariotier4Nla.legs	shortdescription	^orange;|NLU||LTUN|^white;Auracle Suit A	^orange;|NLU||LTUN|^white;오라클 슈트 A	
+/items/armors/lucario/tier4/lucario-tier4Nns/lucariotier4Nns.chest	description	"^red;|Neutral No Chest Spike|^white;
+  The chest armor of a lucario who has merged aura with technology."	"^red;|중성 가슴 스파이크 없음|^white;
+  오라를 기술과 융합한 루카리오의 흉갑."	
+/items/armors/lucario/tier4/lucario-tier4Nns/lucariotier4Nns.chest	shortdescription	^orange;|NCNSU|^white;Auracle Chest	^orange;|NCNSU|^white;오라클 흉갑	
+/items/armors/lucario/tier4/lucario-tier4NnsNPS/lucariotier4NnsNPS.chest	description	"^red;|Neutral No Spike|^white;
+  The chest armor of a lucario who has merged aura with technology."	"^red;|중성 스파이크 없음|^white;
+  오라를 기술과 융합한 루카리오의 흉갑."	
+/items/armors/lucario/tier4/lucario-tier4NnsNPS/lucariotier4NnsNPS.chest	shortdescription	^orange;|NCNSNPSU|^white;Auracle Chest 	^orange;|NCNSNPSU|^white;오라클 흉갑 	
+/items/armors/lucario/tier4/lucario-tier4Nrtail/lucariotier4Nr.legs	description	"^red;|Neutral Legs Riolu Tail|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|중성 다리 리오르 꼬리|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4Nrtail/lucariotier4Nr.legs	shortdescription	^orange;|NLU||RTUN|^white;Auracle Suit	^orange;|NLU||RTUN|^white;오라클 슈트	
+/items/armors/lucario/tier4/lucario-tier4Nrtaila/lucariotier4Nra.legs	description	"^red;|Neutral Legs Rilou Tail A|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|중성 다리 리오르 꼬리 A|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4Nrtaila/lucariotier4Nra.legs	shortdescription	^orange;|NLU||RTUN|^white;Auracle Suit A	^orange;|NLU||RTUN|^white;오라클 슈트 A	
+/items/armors/lucario/tier4/lucario-tier4ftail/lucariotier4f.legs	description	"^red;|Gender Legs Fluffy Tail|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|유성 다리 폭신 꼬리|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4ftail/lucariotier4f.legs	shortdescription	^cyan;|GLU||FTU|^white;Auracle Suit 	^cyan;|GLU||FTU|^white;오라클 슈트 	
+/items/armors/lucario/tier4/lucario-tier4ftaila/lucariotier4fa.legs	description	"^red;|Gender Legs Fluffy Tail A|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|유성 다리 폭신 꼬리 A|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4ftaila/lucariotier4fa.legs	shortdescription	^cyan;|GLU||FTU|^white;Auracle Suit A	^cyan;|GLU||FTU|^white;오라클 슈트 A	
+/items/armors/lucario/tier4/lucario-tier4ltail/lucariotier4l.legs	description	"^red;|Gender Legs Lucario Tail|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|유성 다리 루카리오 꼬리|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4ltail/lucariotier4l.legs	shortdescription	^cyan;|GLU||LTU|^white;Auracle Suit	^cyan;|GLU||LTU|^white;오라클 슈트	
+/items/armors/lucario/tier4/lucario-tier4ltaila/lucariotier4la.legs	description	"^red;|Gender Legs Lucario Tail A|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|유성 다리 루카리오 꼬리 A|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4ltaila/lucariotier4la.legs	shortdescription	^cyan;|GLU||LTU|^white;Auracle Suit A	^cyan;|GLU||LTU|^white;오라클 슈트 A	
+/items/armors/lucario/tier4/lucario-tier4ns/lucariotier4ns.chest	description	"^red;|Gender No Spike|^white;
+  The chest armor of a lucario who has merged aura with technology."	"^red;|유성 스파이크 없음|^white;
+  오라를 기술과 융합한 루카리오의 흉갑."	
+/items/armors/lucario/tier4/lucario-tier4ns/lucariotier4ns.chest	shortdescription	^cyan;|GCNSU|^white;Auracle Chest	^cyan;|GCNSU|^white;오라클 흉갑	
+/items/armors/lucario/tier4/lucario-tier4nsNPS/lucariotier4nsNPS.chest	description	"^red;|Gender No Spike|^white;
+  The chest armor of a lucario who has merged aura with technology."	"^red;|유성 스파이크 없음|^white;
+  오라를 기술과 융합한 루카리오의 흉갑."	
+/items/armors/lucario/tier4/lucario-tier4nsNPS/lucariotier4nsNPS.chest	shortdescription	^cyan;|GCNSNPSU|^white;Auracle Chest	^cyan;|GCNSNPSU|^white;오라클 흉갑	
+/items/armors/lucario/tier4/lucario-tier4rtail/lucariotier4r.legs	description	"^red;|Gender Legs Riolu Tail|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|유성 다리 리오르 꼬리|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4rtail/lucariotier4r.legs	shortdescription	^cyan;|GLU||RTU|^white;Auracle Suit	^cyan;|GLU||RTU|^white;오라클 슈트	
+/items/armors/lucario/tier4/lucario-tier4rtaila/lucariotier4ra.legs	description	"^red;|Gender Legs Riolu Tail A|^white;
+  Using Aura Tech, the user is able to survive hostile areas on it's life aura."	"^red;|유성 다리 리오르 꼬리 A|^white;
+  오라 테크로 착용자는 생명 오라로 험악한 지역에서 살아남을 수 있다."	
+/items/armors/lucario/tier4/lucario-tier4rtaila/lucariotier4ra.legs	shortdescription	^cyan;|GLU||RTU|^white;Auracle Suit A	^cyan;|GLU||RTU|^white;오라클 슈트 A	
+/items/armors/lucario/undies/undies.legs	description	Now you too can be peoples.	이제 너도 사람들이 될 수 있다.	
+/items/armors/lucario/undies/undies.legs	shortdescription	Undies	속옷	
+/items/throwables/chestolight.thrownitem	shortdescription	Chesto Berry Light	먹나열매 조명	
+/items/throwables/chestolight.thrownitem	description	A drop light created with the energy stored within Chesto Berries. It can temporarily light dark areas.	먹나열매에 저장된 에너지로 만든 휴대 조명. 일시적으로 어두운 곳을 밝힐 수 있다.	
+/objects/crafting/auracitecrystallizer/auracitecrystallizer.object	title	  AURACITE CRYSTALLIZER	오라사이트 결정화기	reuse
+/objects/crafting/auracitecrystallizer/auracitecrystallizer.object	subtitle	  Turn ores into crystals via Aura Crystallization!	광석을 오라 결정화로 수정으로!	reuse
+/objects/crafting/auracitecrystallizer/auracitecrystallizer.object	description	Harnessing your Aura, you can recreate elements into refined Auracite Crystals with aura embedded within.	당신의 오라를 활용해, 원소를 오라가 깃든 정제된 오라사이트 크리스탈로 재구성할 수 있습니다.	reuse
+/objects/crafting/auracitecrystallizer/auracitecrystallizer.object	shortdescription	Auracite Crystallizer	오라사이트 결정화기	reuse
+/objects/crafting/dangift/dangift.object	description	A gift to a special beta user.	특별한 베타 사용자에게 주는 선물입니다.	reuse
+/objects/crafting/dangift/dangift.object	shortdescription	Dan's Gift Box	댄의 선물 상자	reuse
+/objects/crafting/dangift/dangift.object	subtitle	  Those gifts for a special user!	특별한 사용자를 위한 선물!	reuse
+/objects/crafting/movechamber/movechamber.object	title	  MOVE CHAMBER	이동 챔버	reuse
+/objects/crafting/movechamber/movechamber.object	subtitle	  Regain what was lost or learn anew!	잃어버린 것을 되찾거나 새로 배우세요!	reuse
+/objects/crafting/movechamber/movechamber.object	description	A chamber that teaches what was lost or what's new.	잃어버린 것과 새로운 것을 가르쳐 주는 방.	reuse
+/objects/crafting/movechamber/movechamber.object	shortdescription	Move Chamber	이동 챔버	reuse
+/objects/crafting/upgradeablecraftingobjects/auraciteAnvil/auraciteAnvil.object	objectName	auraciteAnvil	오라사이트 모루	
+/objects/crafting/upgradeablecraftingobjects/auraciteAnvil/auraciteAnvil.object	description	The replicator is used to produce armour and weapons from fabric and ores.	직물과 광물로 방어구와 무기를 만들 수 있는 복제기입니다.	reuse
+/objects/crafting/upgradeablecraftingobjects/auraciteAnvil/auraciteAnvil.object	shortdescription	^orange;Auracite Replicator^white;	^orange;아우라사이트 복제기^white;	reuse
+/objects/crafting/upgradeablecraftingobjects/lucarioloom/lucarioloom.object	description	The sewing machine is used to produce clothing, fabrics and other crafting ingredients.	옷과 옷감, 다른 제작 재료들을 생산할 수 있는 바느질 기계입니다.	reuse
+/objects/crafting/upgradeablecraftingobjects/lucarioloom/lucarioloom.object	shortdescription	^orange;Lucario Textile Machine^white;	^orange;루카리오 방직기^white;	reuse
+/objects/farmables/chestoberry/chestoberryseed.object	description	A berry with a dry flavour and energy providing attributes.	퍽퍽한 맛과 에너지 제공 특성의 베리.	reuse
+/objects/farmables/chestoberry/chestoberryseed.object	shortdescription	Chesto Berry Seed	체스토 베리 씨앗	reuse
+/objects/farmables/chestoberry/wildchestoberryseed.object	description	A berry with a dry flavour and energy providing attributes.	퍽퍽한 맛과 에너지 제공 특성의 베리.	reuse
+/objects/farmables/chestoberry/wildchestoberryseed.object	shortdescription	Chesto Berry Seed	체스토 베리 씨앗	reuse
+/objects/farmables/pechaberry/pechaberryseed.object	description	A berry that is sweet and removes poison from the body.	달콤하며 몸속의 독을 없애 주는 열매.	reuse
+/objects/farmables/pechaberry/pechaberryseed.object	shortdescription	Pecha Berry Seed	페차 베리 씨앗	reuse
+/objects/farmables/pechaberry/wildpechaberryseed.object	description	A berry that is sweet and removes poison from the body.	달콤하며 몸속의 독을 없애 주는 열매.	reuse
+/objects/farmables/pechaberry/wildpechaberryseed.object	shortdescription	Pecha Berry Seed	페차 베리 씨앗	reuse

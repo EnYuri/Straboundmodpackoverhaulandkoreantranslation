@@ -1,0 +1,32 @@
+[
+ {
+  "op": "test",
+  "path": "/description",
+  "value": "Its handle is designed as an ergonomic foregrip, so it's difficult to use as a dagger."
+ },
+ {
+  "op": "replace",
+  "path": "/description",
+  "value": "손잡이가 인체공학적 전방 손잡이로 설계되어 단검로 쓰기는 어렵다."
+ },
+ {
+  "op": "test",
+  "path": "/shortdescription",
+  "value": "Bayonet Grip"
+ },
+ {
+  "op": "replace",
+  "path": "/shortdescription",
+  "value": "총검 그립"
+ },
+ {
+  "op": "test",
+  "path": "/tooltipFields/subtitle",
+  "value": "Ability Mod"
+ },
+ {
+  "op": "replace",
+  "path": "/tooltipFields/subtitle",
+  "value": "능력 모드"
+ }
+]

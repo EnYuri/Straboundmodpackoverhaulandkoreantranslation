@@ -1,7 +1,7 @@
 # Starbound 한국어화 작업 폴더
 
 활성 모드의 미번역 문자열을 한국어로 옮기는 작업 폴더다. 번역 원본은 `translations/*.tsv`이다.
-적용된 번역은 `mods/female_translation.pak`(sbkor·FU_KO·localeko 계열 병합 + 신규 번역)이며,
+적용된 번역은 `mods/zz_translation_female.pak`(sbkor·FU_KO·localeko 계열 병합 + 신규 번역)이며,
 갱신 적용은 `apply_rest.py`가 오버레이 생성과 모드 pak 재패킹으로 수행한다. 이 폴더는
 2026-09-26에 `tmp/`에서 `translation/`로 이동했다.
 
@@ -13,12 +13,85 @@
 - `../../../MOD_MAINTENANCE_HANDOFF_2026-09-21.md`: 모드 유지보수 전체 인계 문서
 - `docs/batch_log.md`: 배치별 작업 메모(최신순). 새 배치 기록은 이 파일 맨 위에 추가한다.
 - `docs/project_history.md`: 기준선 추출·정렬·오버레이 시험 등 초기 이력(2026-09-21 ~ 09-23)
-- `translation_glossary.tsv`: `qa_glossary.py`가 강제하는 고정 용어
+- `data/translation_glossary.tsv`: `qa_glossary.py`가 강제하는 고정 용어
 - `drafts/0359_0370/`: 배치 0359~0370의 검수된 병합 초안과 0365 긴 항목 생성 스크립트 보관
 - `drafts/review_2/`: 2차 재검수 때 쓴 변환·스캔 스크립트와 검토 출력물 보관(`_` 접두사 일괄)
 
-## 진행 현황 (최신 갱신: 2026-09-29, deployed through batch 34)
+## 폴더 구조 (2026-09-30 재편)
 
+루트에는 문서(`README.md`·`AGENTS.md`·`LICENSE`)와 아래 디렉터리만 둔다.
+
+- `tools/`: 모든 파이썬 스크립트 — 유지보수 도구(`extract_pak_pairs.py`·`write_pak.py`·
+  `qa_pak_*.py`·`qa_structure.py`·`qa_glossary.py`)와 이미 적용이 끝난 `fix_*_batchNN.py`
+  패치 기록. 스크립트는 **반드시 이 폴더가 아닌 저장소 루트에서** 실행한다
+  (`python tools/qa_pak_glossary.py`처럼). 데이터 파일 참조는 `data/` 접두사 기준.
+- `data/`: 활성 데이터 — `pak_pairs.tsv`(pak 추출 쌍), `rest_worklist.tsv`·워크리스트,
+  `translation_glossary.tsv`, QA 리포트, `approved_names.txt` 등 레지스트리.
+- `archive/`: 참조가 끊긴 완료 캠페인 중간산출물(구 워크리스트·glitch/novakid 재작성
+  출력·stale pending 스냅샷 등). 삭제 대신 보관.
+- `backup_paks/`: pak 백업과 구 스테이징 산출물(`*.REVIEW_PENDING`·`*.NEW*`·
+  `*.NORMALIZED`·`*.deployed-bak` 등). 2026-09-30 정리에서 내용은 전량 삭제하고
+  디렉터리만 유지한다 — 롤백이 필요하면 현재 배포 pak과 git 커밋 이력이 기준점이다.
+- `scratch/`: 일회성 분석 스크립트·덤프·검증 출력(`_` 접두사). 유지보수 경로에서
+  참조되는 것만 남겼다(`_dialog_polite_dryrun.py` 등).
+- `translations/`·`drafts/`·`docs/`·`alignment/`·`corpus/`·`inventory/`·`qa_review/`:
+  기존 위치 그대로.
+
+상위 `translation/` 폴더의 구형 작업 디렉터리 4개(`translation-fix-20260921`,
+`noneki-spanedit-20260922`, `replaced-installed-20260922`, `translation-overlays-20260921`)는
+`../_archive/` 아래로 통합했다가, 2026-09-30 디스크 정리에서 `_archive/`째로 전량
+삭제했다. 롤백 백업까지 포함해 삭제한 근거: 모든 번역 결과가 배포 pak
+(`mods/zz_translation_female.pak`)에 반영돼 있고 TSV 원본은 git 이력에 있다.
+이후 `replaced-installed-20260922` 등을 참조하는 구 스크립트·문서 기술은 이력 기록으로만
+취급한다.
+
+주의: `tools/fix_dialog_polite_batch39.py`는 `scratch/_dialog_polite_dryrun.py`를
+임포트하며, 그 모듈은 `data/style_mix_*.tsv`·`data/pak_pairs.tsv`·`tools/fix_race_polite.py`에
+의존한다 — 루트에서 실행해야 경로가 맞다.
+
+## 진행 현황 (최신 갱신: 2026-09-29, energyFormat MJ 단위 누락 계열 버그 전량 수정(28차) 완료)
+
+- **[해결됨] EN/KO 단위·포맷 지정자 전면 대조(28차, 3건)**: 27차에서 발견한 `energyFormat`
+  MJ 단위 누락이 다른 자산에도 반복됐는지 확인하기 위해 pak_pairs.tsv 전체
+  186,213쌍에 대해 printf 포맷 지정자(%d 등, 불일치 0건)와 단위 토큰(MJ·kg·%·HP 등)
+  대조를 실행. 노이즈(HP-조사 결합 시 단어 경계 정규식 오탐 등)를 걷어내고 나니
+  같은 "Energy: %d MJ" → MJ 누락 패턴이 `sgspidermechstation`·`xscm_config`(2개)
+  자산 3곳에 각각 독립적으로 반복돼 있던 것을 확인, 전부 수정. 이로써 pak 내
+  `energyFormat` 계열 MJ 누락 버그(총 4자산)는 전량 해결됨. 상세는 `docs/batch_log.md`
+  "2026-09-29 (28차): fix_glossary_batch23" 항목.
+- **[해결됨] sbkor.tsv 메인 pak 전체 대조(27차, 1건)**: NonEKI 검수에서 효과를 봤던
+  "바닐라 sbkor.tsv EN 원문 대조" 기법을 메인 pak(pak_pairs.tsv 326,000쌍)에 처음
+  적용. EN 완전일치 640건 중 대부분은 이 pak이 독자 번역이라 생기는 정상적 문체 차이로
+  확인됐고, 단위/플레이스홀더(MJ·kg·%·HP 등) 손실만 정규식으로 재필터해 진짜 버그 1건
+  발견: `arcana_mechassemblygui.config.patch`의 `/energyFormat`에서 "MJ" 단위가
+  누락돼 있던 것을 확인·수정(같은 자산의 `/drainFormat`은 정상 유지해 비일관성으로
+  발견). 이 기법은 메인 pak 전체 대상으로는 신호 대 잡음비가 낮아(640건 중 1건) 향후
+  전면 재적용보다는 좁힌 후보군에 대한 보조 기법으로 활용 예정. 상세는
+  `docs/batch_log.md` "2026-09-29 (27차): fix_glossary_batch22" 항목.
+- **[해결됨] 용어집 재스캔(25차, 37건) + 구조 QA 신규 기법 도입·콘텐츠 불일치 1건 수정(26차)**:
+  23차 커스텀 종족 캠페인 이후 `qa_pak_glossary.py`를 재실행해 스캔 사각지대에 있던
+  최신 위반 37건(주로 커스텀 종족 설명문에 실린 확정 용어 미준수)을 발견, `fix_glossary_
+  batch20.py`로 전량 수정해 위반 0건 확인. 이어서 `qa_pak_context.py`의 기존 카테고리
+  (UNTRANSLATED/TRUNCATED/DUP_PARTICLE/LITERAL)를 재점검했으나 모두 확립된 오탐 포화
+  상태였고, STYLE_MIX(오브젝트 조사 대사 어조 혼입)는 사용자 지시로 후순위 처리 중이라
+  새 검증 기법을 시도: pak_pairs.tsv 279,703쌍 전체에 `^color;` 태그·`<Token>`·
+  `[Bracket]` 힌트의 EN/KO 멀티셋 대조(`_qa_pak_structure.py`)를 실행해, 후보 약
+  9,200건 중 실제 EN이 존재하는 것만 추려 육안 검토한 결과 진짜 버그 1건을 발견:
+  `esc_realisticapex.species.patch`의 캐릭터 생성 툴팁이 고유 영문 로어 대신
+  `apex.species.patch`(빈-EN 자체 추가 flavor)의 한국어를 그대로 복사해 전혀 다른
+  내용이 노출되고 있었음. `fix_glossary_batch21.py`로 해당 자산만 스코프 지정해 수정
+  (동일 문자열이 두 자산에 우연히 일치해 첫 실행 시 둘 다 바뀌는 것을 확인 후 재수정).
+  나머지 구조 QA 후보는 전부 EN 소스 자체 오탈자이거나 대괄호 UI 라벨의 의도적 번역
+  관례로 확인돼 수정하지 않음. 상세는 `docs/batch_log.md` "2026-09-29 (25차):
+  fix_glossary_batch20" 및 "2026-09-29 (26차): fix_glossary_batch21" 항목.
+- **[해결됨] NonEKI 별도 검수**: 오랫동안 "미실행"으로 기록돼 있던 `repack_noneki_
+  translation.py` 파이프라인을 재점검하려다, 설치된 `mods/NonEKI_9_FU_compat.pak`을
+  직접 열어보니 **이미 거의 전량(표시 문장 93/98) 한국어로 번역돼 있음**을 발견(과거
+  기록이 stale했던 것으로 추정). 바닐라/FrackinUniverse/Saturnians 등 원본 pak과 대조해
+  심하게 깨진 기계번역 17건(함선 업그레이드 면허 퀘스트 9건 + 미션 좌표 무전 7건 + 1건)을
+  발견, 전부 바닐라 원문과 동일함을 확인해 sbkor.tsv의 기존 고품질 번역으로 교체(용어집
+  충돌 1건만 "미니크녹 요새"로 보정). 나머지 76건은 자연스러운 의역으로 확인돼 추가 수정
+  없음. 상세는 `docs/batch_log.md` "2026-09-29 (NonEKI 별도 검수)" 항목.
 - **[DEPLOYED] Pak re-review (batches 22-34)**: The reviewed pending pak was promoted to
   `mods/female_translation.pak` after final approval. The pass corrected contextual glossary misuse,
   proper names, source-content mismatches, malformed input tokens, repeated mistranslations,
@@ -69,11 +142,13 @@
   (SPECIES→원형 오역, abyssvortex 오타, DUELLIST 특성 라벨 미번역) 수정. 상세는
   `docs/batch_log.md` "2026-09-28 (20~21차)" 항목. **실게임 검증은 전체 검수 완료
   후 최종 단계로 보류(사용자 지시)**.
-- **후속 보류(판단 필요 전역 패스, 오브젝트 조사 대사류는 후순위)**: the Ancients→고대인
-  코덱스 잔여 21건, Eithne 표기 4형, 크라코/크라코스, Magicite 전역 분화(아이템 정의
-  패스), 플랫 패치 3,680개 중 원본 미복원 잔여분(cinematic류 비-strict JSON 등 기술적
-  한계), NonEKI 별도 검수. 22차에서 발견한 `gic_militarytransport.object.patch`와
-  `alta/wired/logic/latch.object.patch` 개별 버그 2건은 24차에서 해결했다.
+- **후속 보류 갱신**: the Ancients/Eithne/Magicite/K'Rakoth 표기 통일은 batches 22-25에서
+  해결됐고(Eithne 44건→에이트네, the Ancients 95건, Magicite 136건→마기사이트, K'Rakoth
+  잔여 표기), `gic_militarytransport.object.patch`/`alta/wired/logic/latch.object.patch`
+  버그 2건은 24차, NonEKI는 2026-09-29 별도 검수에서 해결돼 이 문단의 과거 보류 목록은
+  전부 소진됐다. 남은 것은 플랫 패치 3,680개 중 원본 미복원 잔여분(cinematic류 비-strict
+  JSON 등 기술적 한계)뿐이며, 오브젝트 조사 대사류(글리치/노바키드 description) 검수는
+  여전히 후순위다.
 
 - **[해결됨] fork 기반 정독 QA 그룹0·그룹1(15자산, 14건)**: 용어집 기계 대조 방식이 반복
   재실행에도 신규 발견이 없이 정체되자, 사용자가 "우린 비효율적으로 간다"/"이 거 번역한
@@ -259,10 +334,12 @@
   `female_translation.pak`에 병합돼 `mods/`에서 사라졌다.** `load_coverage()`는 `if not p.exists():
   continue`로 존재하지 않는 pak을 건너뛰므로 목록에 이름이 남아 있어도 무해하며, `female_translation.pak`
   항목이 이미 그 커버리지를 대신 제공한다. 상세는 `docs/batch_log.md` "2026-09-28 (4차)" 참고.)
-- 게임 적용: `mods/female_translation.pak`(sbkor·FU_KO·localeko legacy 3종·
+- 게임 적용: `mods/zz_translation_female.pak`(구 `female_translation.pak`,
+  2026-09-30 개명 — sbkor·FU_KO·localeko legacy 3종·
   zz_localeko_postload 병합 + `rest`/`batch`/`missed` 계열 신규 번역 + Elithian/K'Rakoth/nuggubs/
   Plushbound 4대 모드 병합, 2026-09-28 (4차))이 활성 번역 pak이다. `.patch`
-  자산 속 문자열은 169개 pak을 스팬 편집으로 재패킹해 구워 넣었다(백업: `../replaced-installed-20260922/`).
+  자산 속 문자열은 169개 pak을 스팬 편집으로 재패킹해 구워 넣었다(백업: `../replaced-installed-20260922/`에
+  있었으나 2026-09-30 디스크 정리로 삭제 — 유일본은 현행 배포 pak).
   비번역 로컬 수정은 `mods/zz_female_overhaul.pak`으로 통합했다. 상세는 `../HANDOFF.md` 0절.
 - 스타일 재검수: `style_worklist.tsv` 전량 완료(telegraphic → 자연어), 후속 성인 콘텐츠
   완곡어·오역 교정도 반영됨.

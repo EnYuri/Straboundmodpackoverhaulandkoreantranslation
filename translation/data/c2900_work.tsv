@@ -1,0 +1,25 @@
+asset	field	en	ko	src
+/items/armors/foxhimeuniverse/deaphox/deaphox.back	description	"Phox Moli's tail. So fluffy!
+^green;Fall damage resist, HP +10 
+^blue;Provides oxygen^reset;"		
+/items/armors/foxhimeuniverse/deaphox/deaphox.back	shortdescription	Moli's Tail & Hair		
+/items/armors/foxhimeuniverse/phmoli/phmoli.back	description	"Phox Moli's tail. So fluffy!
+^green;Fall damage resist, HP+10 
+^blue;Provides oxygen^reset;"		
+/items/armors/foxhimeuniverse/phmoli/phmoli.back	shortdescription	Moli's Tail & Hair		
+/items/augments/back/fhu_immortalaugment.augment	description	Generates a psionic shield that can take at least 9 shots if fully recharged, and protects you from death.		
+/items/augments/back/fhu_immortalaugment.augment	shortdescription	The Immortal Fox		
+/items/augments/back/fhu_overkillaugment.augment	description	"Dark magic. Transfers painfulness from the dead to the next victim.
+^red;Dynamic damage boost with a maximum of 50%^reset;"		
+/items/augments/back/fhu_overkillaugment.augment	shortdescription	Overkiller		
+/items/throwables/psipowder.thrownitem	shortdescription	Psi Powder		
+/items/throwables/psipowder.thrownitem	description	"A cup of explosive powder. Unsuitable for ingestion.
+^red;WARNING: HIGH EXPLOSIVE^reset;"		
+/objects/farmables/jasmine/jasmineseed.object	description	Jasmine has great vitality. It emits relaxing fragrance.	자스민 생명력 강해. 편안 향 발산.	reuse
+/objects/farmables/jasmine/jasmineseed.object	shortdescription	Jasmine Seed	자스민 씨앗	reuse
+/objects/farmables/jasmine/wildjasmineseed.object	description	Jasmine has great vitality. It emits relaxing fragrance.	자스민 생명력 강해. 편안 향 발산.	reuse
+/objects/farmables/jasmine/wildjasmineseed.object	shortdescription	Jasmine Seed	자스민 씨앗	reuse
+/stats/effects/fhu_overkill/fhu_overkill.statuseffect	label	Overkill		
+/stats/effects/rage/molirage.statuseffect	label	Rage	분노	reuse
+/stats/effects/regeneration/moliregeneration.statuseffect	label	Regeneration		
+/stats/effects/regeneration/tearegeneration.statuseffect	label	Regeneration		

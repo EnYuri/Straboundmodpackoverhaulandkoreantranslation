@@ -1,0 +1,44 @@
+avikanramblings.codex.patch/contentPages/1 | 우연히 이 유적을 발견했어. 커다란 샌드스토커를 사냥하던 중이었는데, 그 녀석이 날 바로 이 유적으로 이끌었지. 처음엔 딱히 특별해 보이지 않았어: 세월과 풍파에 시달렸지만 여전히 난공불락인 거대한 금속 큐브 몇 개뿐이었으니까. 그
+sb_humanprologue.codex.patch/contentPages/0 | 니, 마침내 내 함선은 이름도 모를 행성의 궤도에서 연료가 떨어졌다.\n\n태워 온 작은 외계 생물에게는 조금 미안하다. 배고픈 그 녀석이 내 친구들을 모두 먹어 치운 뒤 에어록 밖으로 내보냈다. 하지만 이미 흘린 피를 두고 울어 봐야 소용없지? 엎지른 연료라면 또 모르지만...
+lunarmission1.codex.patch/contentPages/0 | 우린 그걸 에르키우스 호러라고 부른다. 우린 시설이 폐쇄된 이후로 쭉 여기에 갇혀 있었는데, '공포'라는 말이 그 녀석의 본성을 완벽하게 묘사한다.\n\n에르키우스 수정 깊은 곳에서 그걸 발견했고, 밖으로 꺼내자 깨어났다. 처음에는 지각이 있는 수정이라고 생각해서, 채광용 레
+allianceoutpost.config.patch/converse/trink/generic/21 | 예전에 켈벳한테 박치기를 당한 적이 있어. 불쌍하게도 그 녀석이 오히려 심하게 다쳤지.
+esc_yffsrationpack.activeitem.patch/description | ''예전에 우리 전투식량 세 봉지를 인간 병사 전투식량 한 봉지랑 바꾼 적이 있는데, 다음번엔 그 녀석이 다섯 봉지를 달라더라.''\nYFFS 직원용 즉석 전투식량. 맛은 끔찍하지만 열량은 엄청나게 높다.\n\n상호작용하여 연다.
+esc_sgthecatia.activeitem.patch/description | ''저 녀석들은 파워 아머만 있으면 무적인 줄 알지. 곧 틀렸다는 걸 깨닫게 될 거야!''\n중장갑 표적에게 심각한 피해를 줄 수 있는 대구경 대물 저격소총. 아무리 
+cp_malorian.activeitem.patch/description | ^#9D2F32;조니 실버핸드를 위한 맞춤 제작품. 그 녀석은 취향이 좋았다.^reset;\n로커보이 조니 실버핸드만을 위해 특별히 제작된 단 하나뿐인 총. 반자동이며 시제품 스마트 링크를 달았고 여러 탄약을 쓸 수
+cp_malorian_onehanded.activeitem.patch/description | ^#9D2F32;조니 실버핸드를 위한 맞춤 제작품. 그 녀석은 취향이 좋았다.^reset;\n로커보이 조니 실버핸드만을 위해 특별히 제작된 단 하나뿐인 총. 반자동이며 시제품 스마트 링크를 달았고 여러 탄약을 쓸 수
+om_starrycultist.npctype.patch/scriptConfig/dialog/converse/default/default/34 | 우누스트렐로한테 다시 가봐야겠어... 그 녀석이랑 얘기하는 게 정말 좋아 - 최고거든!
+om_starrycultist.npctype.patch/scriptConfig/dialog/converse/glitch/default/34 | 만족. 우누스트렐로를 다시 찾아가야겠어... 그 녀석과 이야기하는 게 좋아. 최고거든!
+om_starrycultist.npctype.patch/scriptConfig/dialog/converse/novakid/default/34 | 우누스트렐로한테 다시 가봐야겠어... 그 녀석이랑 얘기하는 게 정말 좋아 - 최고거든!
+om_starrycultistcafe.npctype.patch/scriptConfig/dialog/converse/novakid/default/33 | 그래, 왜 ^magenta;우누스트렐로^reset;가 저렇게 이상하게 생겼는지 알지. 그 녀석 이제 "^green;성점술사^reset;"거든. 너 같은 파트너가 알 수준을 넘어서는 일이지.
+crewmembersobffo.npctype.patch/scriptConfig/dialog/crewmember/fieldBenefit/novakid/default/2 | 저 녀석들한테 공포를 줄 거야!
+crewmembersobffo.npctype.patch/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/2 | 저 녀석들한테 공포를 줄 거야!
+xraiizy_starforge.npctype.patch/scriptConfig/dialog/converse/default/default/34 | 며칠 전 죽은 산적한테서 희한하게 생긴 소총을 발견했는데, 알고 보니 AK와 '차르'를 섞어놓은 거였어. 그 녀석은 확실히 죽어 마땅했네.
+mwhaddon_npc_mission_seekerSurvivor_2.npctype.patch/scriptConfig/dialog/converse/default/default/2 | 우린 겨우 그 녀석을 물리쳤지만, 녀석이 너무 교활해서 후퇴할 때 어둠 속에서 우리를 물어뜯었어.
+xraiizy_gundealer.npctype.patch/scriptConfig/dialog/merchant/end/default/default/4 | 이제 저 녀석 죽여!
+ct_eds_turret.object.patch/floranDescription | 참 밝은 레이저다. 저 녀석 시야에 들어가고 싶지 않다.
+turret.object.patch/floranDescription | 참 밝은 레이저다. 저 녀석 시야에 들어가고 싶지 않다.
+marinesign.object.patch/humanDescription | USCM이라고? 저 녀석들은 행성 보호국을 그리 좋아하지 않았지.
+marinesign.object.patch/novakidDescription | 저 녀석들은 잘 모르지만, 이 표지로 보아 말하건대, 사라진 지 좀 된 것 같구만.
+huntingchampionstatue.object.patch/novakidDescription | 저 녀석은 분명히 훌륭한 사냥꾼이었겠구만!
+marinesign.object.patch/humanDescription | USCM이라고? 저 녀석들은 행성 보호국을 그리 좋아하지 않았지.
+sf_mechanicrepairo_black.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_brown.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_cherryred.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_darkgreen.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_gold.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_green.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_indigo.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_lavender.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_lightblue.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_lightoceaneblue.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_navyblue.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_oldpink.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_red.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_sweetpink.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_violet.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+sf_mechanicrepairo_whitegold.object.patch/novakidDescription | 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+floran_mission1.questtemplate.patch/scriptConfig/radioMessages/uniqueProgress/ixolingpike/text | 저 생명체는 이 장소 주변에는 서식하지 않아. 내 분류 기록을 살펴봐서 저 녀석의 기원과 중요성을 알아보도록 할게.
+arcana_quests_cassidy_mwhaddon_arena_1_2.questtemplate.patch/completionText | 돌아왔군, 하! 사실대로 말하면, 난 항상 널 높이 평가했어. 여기 그 녀석의 멋진 총이야, 네가 벌어들인 거지.
+floranarena3.questtemplate.patch/text |  도전이 남았어! ^orange;템플러 인페르노^white;라고 불리우는 갑옷 입은 소름끼치는 녀석이 너랑 싸우고 싶다던데. 그 녀석은 불을 좋아해. 아주 많이 말이야. 불타는 몬스터 무리를 막으려면 화상 스프레이를 챙기는 편이 좋을거야... ^green;어쨌든, 갈 준비가 됐으면 나한
+penguin1.questtemplate.patch/text | 하들에게서 도망다니느라 장사가 잘 되질 않아! ^green;가서 드레드윙을 처치^white;해주겠나? 준비가 되면 말하라고, 그 녀석에게 바로 보내줄테니!
+total shown: 43

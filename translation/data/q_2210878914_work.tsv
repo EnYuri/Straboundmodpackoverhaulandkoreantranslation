@@ -1,0 +1,10 @@
+asset	field	en	ko	src
+/interface/objectcrafting/dem_biostation.config	caption	Refine		
+/interface/objectcrafting/dem_recycler.config	caption	Refine		
+/items/armors/dem_gunbehind/dem_gunbehind.back	shortdescription	Gun Behind the Back		
+/objects/utopia/dem_distressradio/dem_distressradio.object	shortdescription	Radio		
+/objects/utopia/dem_flagprop/dem_flagprop.object	shortdescription	Flag		
+/objects/utopia/dem_reactorpart/dem_reactorpart.object	shortdescription	Reactor		
+/objects/utopia/dem_terminal121/dem_terminal121.object	shortdescription	Terminal-121		
+/stats/effects/b_viruseffect/b_viruseffect.statuseffect	label	Infected		
+/stats/effects/frostslow/superfrostslow.statuseffect	label	Slow	느려짐	reuse

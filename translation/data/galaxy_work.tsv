@@ -1,0 +1,37 @@
+asset	field	en	ko	src
+/interface/windowconfig/LEGACY/gic_archivist_largebase.config	subtitle	  Make sharp things.	날카로운 것들을 만듭니다.	reuse
+/interface/windowconfig/LEGACY/gic_archivist_largebase.config	caption	Cancel	취소	reuse
+/interface/windowconfig/LEGACY/gic_automarket_tradeterminal.config	subtitle	  Make sharp things.	날카로운 것들을 만듭니다.	reuse
+/interface/windowconfig/LEGACY/gic_automarket_tradeterminal.config	caption	Cancel	취소	reuse
+/interface/windowconfig/LEGACY/gic_crafting_largebase_currencyexchangemachine.config	subtitle	  Make sharp things.	날카로운 것들을 만듭니다.	reuse
+/interface/windowconfig/LEGACY/gic_crafting_largebase_currencyexchangemachine.config	caption	Cancel	취소	reuse
+/interface/windowconfig/LEGACY/gic_tradeterminal_economyflow.config	subtitle	  Make sharp things.	날카로운 것들을 만듭니다.	reuse
+/interface/windowconfig/LEGACY/gic_tradeterminal_economyflow.config	caption	Cancel	취소	reuse
+/interface/windowconfig/LEGACY/gic_tradeterminal_largebase.config	subtitle	  Make sharp things.	날카로운 것들을 만듭니다.	reuse
+/interface/windowconfig/LEGACY/gic_tradeterminal_largebase.config	caption	Cancel	취소	reuse
+/interface/windowconfig/LEGACY/gic_wasteprocessing_largebase.config	subtitle	  Make sharp things.	날카로운 것들을 만듭니다.	reuse
+/interface/windowconfig/LEGACY/gic_wasteprocessing_largebase.config	caption	Cancel	취소	reuse
+/items/WEAPONS/LEGACY/gic_6p41mg/gic_6p41mg_npc.activeitem	description	Primary light machinegun of the United Systems, chambered in a heavy 7.62x54mm round. Based on an extremely old firearm originating from Earth, built using modern materials. Only supports the unique 100rnd Box designed specifically for the 6P41MG.	연합 시스템의 주력 경기관총으로, 강력한 7.62x54mm 탄을 사용한다. 지구에서 기원한 매우 오래된 화기를 기반으로, 현대적인 재료를 사용해 제작되었다. 6P41MG 전용으로 설계된 고유 100발 박스만 지원한다.	reuse
+/items/WEAPONS/LEGACY/gic_dcmk51/gic_dcmk51_npc.activeitem	description	Primary light machinegun of Dynami-Core's Corporate Security Forces, chambered in a heavy 7.62x51mm round. Only supports the unique 100rnd Box designed specifically for the DCMK51.	다이나미-코어 기업 보안군의 주 경기관총으로, 무거운 7.62x51mm탄 사용. DCMK51 전용 고유 100발 탄통만 지원.	reuse
+/items/WEAPONS/LEGACY/gic_dcmk51/gic_dcmk51_npc.activeitem	shortdescription	Dynami-Core Mk51 (NPC)	다이나미-코어 Mk51 (NPC)	reuse
+/items/WEAPONS/LEGACY/gic_m2055/gic_m2055_npc.activeitem	description	Standard ballistic pistol.	표준 탄도 권총.	reuse
+/items/armors/UNUSED_LEGACY/gic_afflictedstoneknight/gic_afflictedstoneknight.head	shortdescription	Knight's Helm	기사의 투구	reuse
+/items/armors/UNUSED_LEGACY/gic_genecultist/gic_genecultist.chest	description	It's woolly in order to retain warmth, and yet it doesn't cover much skin. Curious!	따뜻함을 유지하려고 털이 가득하지만, 피부는 거의 덮지 않는 코트. 신기하네요!	reuse
+/items/armors/UNUSED_LEGACY/gic_genecultist/gic_genecultist.chest	shortdescription	Prehistoric Woolly Coat	선사 시대 털 코트	reuse
+/items/armors/UNUSED_LEGACY/gic_genecultist/gic_genecultist.legs	description	These will keep a very small amount of the wearer warm.	착용자가 아주 조금 따뜻해지는 바지.	reuse
+/items/armors/UNUSED_LEGACY/gic_genecultist/gic_genecultist.legs	shortdescription	Prehistoric Woolly Pants	선사 시대 털 바지	reuse
+/stats/effects/MEDICAL/SYRINGE_GUN/gic_syringegun_crudesyrette.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/SYRINGE_GUN/gic_syringegun_crudesyrette_self.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/SYRINGE_GUN/gic_syringegun_mk1syrette.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/SYRINGE_GUN/gic_syringegun_mk1syrette_self.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/SYRINGE_GUN/gic_syringegun_mk2syrette.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/SYRINGE_GUN/gic_syringegun_mk2syrette_self.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/SYRINGE_GUN/gic_syringegun_mk3syrette.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/SYRINGE_GUN/gic_syringegun_mk3syrette_self.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/gic_herbalointment_medkitheal.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/gic_medicinalpellet_medkitheal.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/gic_militarybandage_medkitheal.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/gic_spefak_medkitheal.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/gic_usmifak_medkitheal.statuseffect	label	Healing	치유	reuse
+/stats/effects/MEDICAL/gic_wolffak_medkitheal.statuseffect	label	Healing	치유	reuse
+/stats/gic_TESTMANAPOTION/gic_test_manapotion.statuseffect	label	Healing	치유	reuse

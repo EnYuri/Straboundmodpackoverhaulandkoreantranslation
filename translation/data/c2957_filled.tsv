@@ -1,0 +1,270 @@
+asset	field	en	ko	src
+/cinematics/mwhaddon/mwhaddon_pOr_intro/OLD/old.cinematic	text	I'll be right out front. If you're done, please come to me.	바로 앞에 있을게. 다 끝나면 나한테 와줘.	reuse
+/collections/arcana_collections/arcana_collection_artifact.collection	title	Milia Arma	밀리아 아르마	reuse
+/collections/arcana_collections/arcana_collection_essence.collection	title	Master Alchemist	연금술 대가	reuse
+/collections/arcana_collections/arcana_collection_mineral.collection	title	Mineral Hoarder	광물 수집가	reuse
+/collections/arcana_collections/arcana_collection_weapon_arcane.collection	title	Forge of Stars - Arcane	별들의 대장간 - 아케인	reuse
+/collections/arcana_collections/arcana_collection_weapon_elemental.collection	title	Forge of Stars - Elemental	별들의 대장간 - 원소	reuse
+/collections/arcana_collections/arcana_collection_weapon_stellar.collection	title	Forge of Stars - Stellar	별들의 대장간 - 스텔라	reuse
+/collections/arcana_collections/mwhaddon_arcana_collection_weapon_boss.collection	title	Forge of Stars - Monarch	별들의 대장간 - 모나크	reuse
+/collections/arcana_collections/mwhaddon_arcana_collection_weapon_exousia.collection	title	Forge of Stars - Unitary	별들의 대장간 - 유니터리	reuse
+/collections/arcana_collections/mwhaddon_arcana_collection_weapon_trinity.collection	title	Forge of Stars - Trinity	별들의 대장간 - 트리니티	reuse
+/collections/arcana_collections/mwhaddon_collection_food.collection	title	Gourmet Sanctuary	미식가 성역	reuse
+/collections/arcana_collections/mwhaddon_collection_keyItem.collection	title	Legend Teller	전설 전달자	reuse
+/collections/arcana_collections/mwhaddon_collection_material_basic.collection	title	Sorcery Mystery	마법의 신비	reuse
+/collections/arcana_collections/mwhaddon_collection_material_boss.collection	title	Tyrants' Legacy	폭군의 유산	reuse
+/collections/arcana_collections/mwhaddon_collection_material_teaIngredient.collection	title	Lovely Tea-time	사랑스러운 티타임	reuse
+/collections/arcana_collections/mwhaddon_collection_material_tech.collection	title	Technology Miraculous	기적의 기술	reuse
+/collections/arcana_collections/mwhaddon_collection_mechpart.collection	title	Vajra Torso	바즈라 몸통	reuse
+/collections/arcana_collections/mwhaddon_collection_potion.collection	title	Borderless Excellence	경계 없는 탁월함	reuse
+/collections/arcana_collections/mwhaddon_collection_teacup.collection	title	Ceramic Haven	도자기 안식처	reuse
+/collections/arcana_collections/mwhaddon_collection_tech_normal.collection	title	Ability Embedded - Regular Tech	능력 내장 - 일반 테크	
+/collections/arcana_collections/mwhaddon_collection_weapon_aurea.collection	title	Forge of Stars - Aurum	별들의 대장간 - 아우룸	reuse
+/collections/arcana_collections/mwhaddon_collection_weapon_crafting.collection	title	Smithing Perfection	대장 완성도	reuse
+/collections/arcana_collections/mwhaddon_collection_weapon_misc.collection	title	Forge of Stars - Epics	별들의 대장간 - 에픽	reuse
+/collections/arcana_collections/mwhaddon_collection_weapon_nightmare_3.collection	title	Marve Armo - Courage	마르브 아르모 - 용기	reuse
+/interface/scripted/mwhaddon_soyo/mwhaddon_soyorin.config	caption	Exchange	교환	
+/items/armors/arcana_backitems/mwhaddon_back_alterOrionCape/mwhaddon_back_alterOrionCape.back	itemName	mwhaddon_back_alterOrionCape	mwhaddon_back_alterOrionCape	
+/items/armors/arcana_backitems/mwhaddon_back_alterOrionCape/mwhaddon_back_alterOrionCape.back	description	A cape worn by Orion officers.	오리온 장교들이 두르는 망토.	reuse
+/items/armors/arcana_backitems/mwhaddon_back_alterOrionCape/mwhaddon_back_alterOrionCape.back	shortdescription	Orion Cape Alt	오리온 망토 대안	
+/items/armors/arcana_backitems/mwhaddon_back_aureaProstheticWing/mwhaddon_back_aureaProstheticWing.back	itemName	mwhaddon_back_aureaProstheticWing	mwhaddon_back_aureaProstheticWing	
+/items/armors/arcana_backitems/mwhaddon_back_aureaProstheticWing/mwhaddon_back_aureaProstheticWing.back	description	An artifical pair of wing designed by Aurea Collective. Work as a ^orange;Superstorm EPP^reset; with base healing over time.	아우레아 콜렉티브가 설계한 인공 날개 한 쌍. 기본 지속 회복과 함께 ^orange;슈퍼스톰 EPP^reset;로 작동한다.	
+/items/armors/arcana_backitems/mwhaddon_back_aureaProstheticWing/mwhaddon_back_aureaProstheticWing.back	shortdescription	Aurea Prosthetic Wing	아우레아 보형 날개	
+/items/armors/arcana_backitems/mwhaddon_back_aureaProstheticWingEX/mwhaddon_back_aureaProstheticWingEX.back	itemName	mwhaddon_back_aureaProstheticWingEX	mwhaddon_back_aureaProstheticWingEX	
+/items/armors/arcana_backitems/mwhaddon_back_aureaProstheticWingEX/mwhaddon_back_aureaProstheticWingEX.back	description	A pair of augmented artifical wing. Work as a ^orange;Tripolar EPP^reset; with base healing over time.	증강된 인공 날개 한 쌍. 기본 지속 회복과 함께 ^orange;트라이폴라 EPP^reset;로 작동한다.	
+/items/armors/arcana_backitems/mwhaddon_back_aureaProstheticWingEX/mwhaddon_back_aureaProstheticWingEX.back	shortdescription	Aurea Augmented Wing	아우레아 증강 날개	
+/items/armors/arcana_backitems/mwhaddon_back_exousiaPack/mwhaddon_back_exousiaPack.back	itemName	mwhaddon_back_exousiaPack	mwhaddon_back_exousiaPack	
+/items/armors/arcana_backitems/mwhaddon_back_exousiaPack/mwhaddon_back_exousiaPack.back	description	A custom ^orange;Tripolar EPP^reset; from Exousia. Grants ^green;+150 max health and +100% Exousian weapon damage^reset;.	엑수시아의 커스텀 ^orange;트라이폴라 EPP^reset;. ^green;최대 체력 +150과 엑수시안 무기 피해 +100%^reset;를 부여한다.	
+/items/armors/arcana_backitems/mwhaddon_back_exousiaPack/mwhaddon_back_exousiaPack.back	shortdescription	Exousian Battle Pack	엑수시안 전투 팩	
+/items/armors/arcana_backitems/mwhaddon_back_orionBooster/mwhaddon_back_orionBooster.back	itemName	mwhaddon_back_orionBooster	mwhaddon_back_orionBooster	
+/items/armors/arcana_backitems/mwhaddon_back_orionBooster/mwhaddon_back_orionBooster.back	description	A Booster manufactured by Orion Cybernetics. Grants jump and run boost, also works as an^orange; Superstorm EPP^reset;.	오리온 사이버네틱스가 만든 부스터. 점프와 질주 강화를 주며 ^orange;슈퍼스톰 EPP^reset;로도 작동한다.	
+/items/armors/arcana_backitems/mwhaddon_back_orionBooster/mwhaddon_back_orionBooster.back	shortdescription	^#bbbdce;OC Booster^reset;	^#bbbdce;OC 부스터^reset;	
+/items/armors/arcana_backitems/mwhaddon_back_orionBoosterEx/mwhaddon_back_orionBoosterEx.back	itemName	mwhaddon_back_orionBoosterEx	mwhaddon_back_orionBoosterEx	
+/items/armors/arcana_backitems/mwhaddon_back_orionBoosterEx/mwhaddon_back_orionBoosterEx.back	description	A reinforced OC Booster. Grants max health, energy, jump and run boost, also works as a ^orange;Tripolar EPP^reset;.	강화된 OC 부스터. 최대 체력, 에너지, 점프, 질주 강화를 주며 ^orange;트라이폴라 EPP^reset;로도 작동한다.	
+/items/armors/arcana_backitems/mwhaddon_back_orionBoosterEx/mwhaddon_back_orionBoosterEx.back	shortdescription	^red;Reinforced^#bbbdce; OC Booster^reset;	^red;강화된^#bbbdce; OC 부스터^reset;	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_diskrubbish/mwhaddon_head_diskrubbish.head	description	"^gray;Doesn't feel as good as Genshin. 
+^orange;[diskRubbish], the beloved pioneer^reset;"	"^gray;원신만큼 기분 좋진 않네. 
+^orange;[diskRubbish], 사랑받는 개척자^reset;"	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_diskrubbish/mwhaddon_head_diskrubbish.head	shortdescription	Rainbow Pigeon Hat	무지개 비둘기 모자	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_exousia_armyCap/mwhaddon_head_exousia_armyCap.head	description	"Cap worn by Exousian military officials. 
+^orange;[Minewithhim], the author of ^yellow;Voyage Mod^reset;"	"엑수시안 군 장교들이 쓰는 모자. 
+^orange;[Minewithhim], ^yellow;보야지 모드^reset;의 제작자"	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_exousia_armyCap/mwhaddon_head_exousia_armyCap.head	shortdescription	Exousian Army Cap	엑수시안 군모	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_glitchAvaliHelmet/mwhaddon_head_glitchAvaliHelmet.head	itemName	mwhaddon_head_glitchAvaliHelmet	mwhaddon_head_glitchAvaliHelmet	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_glitchAvaliHelmet/mwhaddon_head_glitchAvaliHelmet.head	description	"Transformed in both body and soul, it re-explores the nature of its own existence. 
+^orange;[Rusteel], lead spriter of ^yellow;Voyage Mod^reset;"	"몸도 영혼도 변형되어, 자기 존재의 본질을 다시 탐구한다. 
+^orange;[Rusteel], ^yellow;보야지 모드^reset;의 수석 스프라이터"	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_glitchAvaliHelmet/mwhaddon_head_glitchAvaliHelmet.head	shortdescription	Glitch Avali Helmet	글리치 아발리 투구	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_moonshineBamboohat/mwhaddon_head_moonshineBamboohat.head	itemName	mwhaddon_head_moonshineBamboohat	mwhaddon_head_moonshineBamboohat	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_moonshineBamboohat/mwhaddon_head_moonshineBamboohat.head	description	"An accessory to simulate a fox's mood. 
+^orange;[Kumochan], coder, artist, and fox lover^reset;"	"여우의 기분을 흉내내는 액세서리. 
+^orange;[Kumochan], 코더이자 아티스트이자 여우 애호가^reset;"	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_moonshineBamboohat/mwhaddon_head_moonshineBamboohat.head	shortdescription	Moonshine Bamboohat	문샤인 대나무 모자	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_plantera/mwhaddon_head_plantera.head	description	"A Plantera's bud, it's safe to wear it.
+^orange;[plantera], author of Titancorp Expansion^reset;"	"플란테라의 꽃봉오리로, 써도 안전하다.
+^orange;[plantera], 타이탄코프 확장 제작자^reset;"	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_plantera/mwhaddon_head_plantera.head	shortdescription	^#9B005A;Plantera's hat	^#9B005A;플란테라의 모자	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_slimecatHat/mwhaddon_head_moonshineBamboohat.head	description	"Nya?
+^orange;[SUZL], coder, artist, and droid lover^reset;"	"냐?
+^orange;[SUZL], 코더이자 아티스트이자 드로이드 애호가^reset;"	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_slimecatHat/mwhaddon_head_moonshineBamboohat.head	shortdescription	Slimecat Hat	슬라임캣 모자	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_solReflection/mwhaddon_head_solReflection.head	itemName	mwhaddon_head_solReflection	mwhaddon_head_solReflection	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_solReflection/mwhaddon_head_solReflection.head	description	"It looks familiar, but the discernment of those eyes makes you feel uneasy.
+^orange;[SolReflection], lead spriter of ^yellow;Voyage Mod^reset;"	"어딘가 낯익지만, 저 눈의 통찰력은 괜히 불안하게 만든다.
+^orange;[SolReflection], ^yellow;보야지 모드^reset;의 수석 스프라이터"	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_solReflection/mwhaddon_head_solReflection.head	shortdescription	SolReflection	솔리플렉션	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_trailblazer/mwhaddon_head_trailblazer.head	description	"Hat of a trailblazer. May this journey lead you starward. 
+^orange;[Minewithhim], the author of ^yellow;Voyage Mod^reset;"	"개척자의 모자. 이 여정이 너를 별로 이끌기를. 
+^orange;[Minewithhim], ^yellow;보야지 모드^reset;의 제작자"	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_trailblazer/mwhaddon_head_trailblazer.head	shortdescription	Trailblazer's Hat	개척자의 모자	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_triceratops/mwhaddon_head_triceratops.head	description	"A helmet that mimics an extinct creature.
+^orange;[seaoyaosuen], the miraculous artist^reset;"	"멸종된 생물을 모사한 투구.
+^orange;[seaoyaosuen], 기적의 아티스트^reset;"	
+/items/armors/arcana_cosmetics/contributors/mwhaddon_head_triceratops/mwhaddon_head_triceratops.head	shortdescription	Triceratops Head	트리케라톱스 머리	
+/items/armors/arcana_cosmetics/mwhaddon_clothes_brigade/mwh_armor_brigade.legs	description	Durable enough to withstand all circumstance during your hunts.	사냥 중 어떤 상황에서도 견딜 만큼 튼튼하다.	
+/items/armors/arcana_cosmetics/mwhaddon_clothes_brigade/mwh_armor_brigade.legs	shortdescription	Brigade Pants	브리게이드 바지	
+/items/armors/arcana_cosmetics/mwhaddon_clothes_brigade/mwhaddon_armor_brigade.chest	description	Only for those who make their own contribution to the Guild. 	길드에 직접 공헌한 자들만을 위한 것.	
+/items/armors/arcana_cosmetics/mwhaddon_clothes_brigade/mwhaddon_armor_brigade.chest	shortdescription	Brigade Coat	브리게이드 코트	
+/items/armors/arcana_cosmetics/mwhaddon_clothes_brigade/mwhaddon_armor_brigade.head	description	You are the Sapphire Star guiding our way!	넌 우리 길을 비추는 사파이어 스타다!	
+/items/armors/arcana_cosmetics/mwhaddon_clothes_brigade/mwhaddon_armor_brigade.head	shortdescription	Brigade Hat	브리게이드 모자	
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyDeel/mwhaddon_head_tinyDeel.head	itemName	mwhaddon_head_tinyDeel	mwhaddon_head_tinyDeel	
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyDeel/mwhaddon_head_tinyDeel.head	description	"A Tiny Folklorist! Your best friend!
+^orange;[Minewithhim], the author of ^yellow;Voyage Mod^reset;"	"작은 민속학자! 네 최고의 친구!
+^orange;[Minewithhim], ^yellow;보야지 모드^reset;의 제작자"	
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyDeel/mwhaddon_head_tinyDeel.head	shortdescription	Tiny Folklorist	작은 민속학자	
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyMerel/mwhaddon_head_tinyMerel.head	itemName	mwhaddon_head_tinyMerel	mwhaddon_head_tinyMerel	
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyMerel/mwhaddon_head_tinyMerel.head	description	"A Tiny Merel.
+^orange;[Minewithhim], the author of ^yellow;Voyage Mod^reset;"	"작은 메렐.
+^orange;[Minewithhim], ^yellow;보야지 모드^reset;의 제작자"	
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyMerel/mwhaddon_head_tinyMerel.head	shortdescription	Tiny Merel	작은 메렐	
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyOlminga/mwhaddon_head_tinyOlminga.head	itemName	mwhaddon_head_tinyOlminga	mwhaddon_head_tinyOlminga	
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyOlminga/mwhaddon_head_tinyOlminga.head	description	"A Tiny... and yet Evil Olminga!
+^orange;[Rusteel], lead spriter of ^yellow;Voyage Mod^reset;"	"작은... 하지만 사악한 올밍가!
+^orange;[Rusteel], ^yellow;보야지 모드^reset;의 수석 스프라이터"	
+/items/armors/arcana_cosmetics/mwhaddon_head_tinyOlminga/mwhaddon_head_tinyOlminga.head	shortdescription	Tiny Olminga	작은 올밍가	
+/items/armors/mwhaddon_armor_arbiter/mwhaddon_armor_arbiter.chest	description	"A suit only worn by the most ruthless officers. ^green;+5% Fire and Ice RES.^reset; 
+
+^orange;Set Bonus:^reset;
+Grants ^green;+15% Execration Weapon damage^reset;, ^green;Ruinous Immunity^reset; and ^green;+15% Abyss RES^reset; but ^red;-5% Lumen RES^reset;."	"가장 무자비한 장교들만이 입는 슈트. ^green;화염 및 냉기 저항 +5%.^reset; 
+
+^orange;세트 보너스:^reset;
+^green;익서크레이션 무기 피해 +15%^reset;, ^green;파멸 면역^reset;, ^green;심연 저항 +15%^reset;를 부여하지만 ^red;루멘 저항 -5%^reset;."	
+/items/armors/mwhaddon_armor_arbiter/mwhaddon_armor_arbiter.chest	shortdescription	^#e160da;Arbiter Suit^reset;	^#e160da;아비터 슈트^reset;	
+/items/armors/mwhaddon_armor_arbiter/mwhaddon_armor_arbiter.head	description	"A helmet only worn by the most ruthless officers. ^green;+5% Physical Res.^reset; 
+
+^orange;Set Bonus:^reset;
+Grants ^green;+15% Execration Weapon damage^reset;, ^green;Ruinous Immunity^reset; and ^green;+15% Abyss RES^reset; but ^red;-5% Lumen RES^reset;."	"가장 무자비한 장교들만이 쓰는 투구. ^green;물리 저항 +5%.^reset; 
+
+^orange;세트 보너스:^reset;
+^green;익서크레이션 무기 피해 +15%^reset;, ^green;파멸 면역^reset;, ^green;심연 저항 +15%^reset;를 부여하지만 ^red;루멘 저항 -5%^reset;."	
+/items/armors/mwhaddon_armor_arbiter/mwhaddon_armor_arbiter.head	shortdescription	^#e160da;Arbiter Helmet^reset;	^#e160da;아비터 투구^reset;	
+/items/armors/mwhaddon_armor_arbiter/mwhaddon_armor_arbiter.legs	description	"Leggings only worn by the most ruthless officers. ^green;+5% Electric and Poison Res.^reset; 
+
+^orange;Set Bonus:^reset;
+Grants ^green;+15% Execration Weapon damage^reset;, ^green;Ruinous Immunity^reset; and ^green;+15% Abyss RES^reset; but ^red;-5% Lumen RES^reset;."	"가장 무자비한 장교들만이 입는 각반. ^green;전기 및 독 저항 +5%.^reset; 
+
+^orange;세트 보너스:^reset;
+^green;익서크레이션 무기 피해 +15%^reset;, ^green;파멸 면역^reset;, ^green;심연 저항 +15%^reset;를 부여하지만 ^red;루멘 저항 -5%^reset;."	
+/items/armors/mwhaddon_armor_arbiter/mwhaddon_armor_arbiter.legs	shortdescription	^#e160da;Arbiter Leggings^reset;	^#e160da;아비터 각반^reset;	
+/items/armors/mwhaddon_armor_cardinal/mwhaddon_armor_arbiter.chest	description	"A suit only worn by the most ruthless officers. ^green;+5% Fire and Ice RES.^reset; 
+
+^orange;Set Bonus:^reset;
+Grants ^green;+15% Execration Weapon damage^reset;, ^green;Ruinous Immunity^reset; and ^green;+15% Abyss RES^reset; but ^red;-5% Lumen RES^reset;."	"가장 무자비한 장교들만이 입는 슈트. ^green;화염 및 냉기 저항 +5%.^reset; 
+
+^orange;세트 보너스:^reset;
+^green;익서크레이션 무기 피해 +15%^reset;, ^green;파멸 면역^reset;, ^green;심연 저항 +15%^reset;를 부여하지만 ^red;루멘 저항 -5%^reset;."	
+/items/armors/mwhaddon_armor_cardinal/mwhaddon_armor_arbiter.chest	shortdescription	^#e160da;Arbiter Suit^reset;	^#e160da;아비터 슈트^reset;	
+/items/armors/mwhaddon_armor_cardinal/mwhaddon_armor_arbiter.head	description	"A helmet only worn by the most ruthless officers. ^green;+5% Physical Res.^reset; 
+
+^orange;Set Bonus:^reset;
+Grants ^green;+15% Execration Weapon damage^reset;, ^green;Ruinous Immunity^reset; and ^green;+15% Abyss RES^reset; but ^red;-5% Lumen RES^reset;."	"가장 무자비한 장교들만이 쓰는 투구. ^green;물리 저항 +5%.^reset; 
+
+^orange;세트 보너스:^reset;
+^green;익서크레이션 무기 피해 +15%^reset;, ^green;파멸 면역^reset;, ^green;심연 저항 +15%^reset;를 부여하지만 ^red;루멘 저항 -5%^reset;."	
+/items/armors/mwhaddon_armor_cardinal/mwhaddon_armor_arbiter.head	shortdescription	^#e160da;Arbiter Helmet^reset;	^#e160da;아비터 투구^reset;	
+/items/armors/mwhaddon_armor_cardinal/mwhaddon_armor_arbiter.legs	description	"Leggings only worn by the most ruthless officers. ^green;+5% Electric and Poison Res.^reset; 
+
+^orange;Set Bonus:^reset;
+Grants ^green;+15% Execration Weapon damage^reset;, ^green;Ruinous Immunity^reset; and ^green;+15% Abyss RES^reset; but ^red;-5% Lumen RES^reset;."	"가장 무자비한 장교들만이 입는 각반. ^green;전기 및 독 저항 +5%.^reset; 
+
+^orange;세트 보너스:^reset;
+^green;익서크레이션 무기 피해 +15%^reset;, ^green;파멸 면역^reset;, ^green;심연 저항 +15%^reset;를 부여하지만 ^red;루멘 저항 -5%^reset;."	
+/items/armors/mwhaddon_armor_cardinal/mwhaddon_armor_arbiter.legs	shortdescription	^#e160da;Arbiter Leggings^reset;	^#e160da;아비터 각반^reset;	
+/items/armors/mwhaddon_armor_covenant/mwhaddon_armor_covenant.chest	description	Tops given to registered arcane apprentices by the Covenant.	성약이 등록된 비전 견습생에게 주는 상의.	
+/items/armors/mwhaddon_armor_covenant/mwhaddon_armor_covenant.chest	shortdescription	Covenant Apprentice Robe	성약 견습생 로브	
+/items/armors/mwhaddon_armor_covenant/mwhaddon_armor_covenant.legs	description	Bottoms given to registered arcane apprentices by the Covenant. 	성약이 등록된 비전 견습생에게 주는 하의. 	
+/items/armors/mwhaddon_armor_covenant/mwhaddon_armor_covenant.legs	shortdescription	Covenant Apprentice Bottoms	성약 견습생 하의	
+/items/armors/scavengers/mwhaddon_armor_scrapsewnHeavy/mwhaddon_armor_scrapsewnHeavy.head	itemName	mwhaddon_armor_scrapsewnHeavy_head	mwhaddon_armor_scrapsewnHeavy_head	
+/items/armors/scavengers/mwhaddon_armor_scrapsewnHeavy/mwhaddon_armor_scrapsewnHeavy.head	description	"A heavy mask made from scavenged scrap parts. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Ranged damage.^reset;"	"모아온 고철 부품으로 만든 무거운 가면. 
+
+^orange;세트 보너스:^reset; 
+^green;원거리 피해 +10%^reset;를 부여한다."	
+/items/armors/scavengers/mwhaddon_armor_scrapsewnHeavy/mwhaddon_armor_scrapsewnHeavy.head	shortdescription	Heavy Scrapsewn Mask	중형 스크랩숀 가면	
+/items/throwables/mwhaddon_throwable_alchemicalExplosive.thrownitem	itemName	mwhaddon_throwable_alchemicalExplosive	mwhaddon_throwable_alchemicalExplosive	
+/items/throwables/mwhaddon_throwable_alchemicalExplosive.thrownitem	shortdescription	^mwhabombrank07;Alchemical Explosive	^mwhabombrank07;연금술 폭약	
+/items/throwables/mwhaddon_throwable_alchemicalExplosive.thrownitem	description	Destroy a range of tiles on collide. ^red;May harm yourself!^reset;	충돌 시 일정 범위의 타일을 파괴한다. ^red;자신도 다칠 수 있다!^reset;	
+/items/throwables/mwhaddon_throwable_alchemicalExplosive_greater.thrownitem	itemName	mwhaddon_throwable_alchemicalExplosive_greater	mwhaddon_throwable_alchemicalExplosive_greater	
+/items/throwables/mwhaddon_throwable_alchemicalExplosive_greater.thrownitem	shortdescription	^mwhabombrank09;Greater Alchemical Explosive	^mwhabombrank09;상급 연금술 폭약	
+/items/throwables/mwhaddon_throwable_alchemicalExplosive_greater.thrownitem	description	Destroy a wide range of tiles on collide.	충돌 시 넓은 범위의 타일을 파괴한다.	
+/items/throwables/mwhaddon_throwable_alchemicalExplosive_lesser.thrownitem	itemName	mwhaddon_throwable_alchemicalExplosive_lesser	mwhaddon_throwable_alchemicalExplosive_lesser	
+/items/throwables/mwhaddon_throwable_alchemicalExplosive_lesser.thrownitem	shortdescription	^mwhabombrank04;Lesser Alchemical Explosive	^mwhabombrank04;하급 연금술 폭약	
+/items/throwables/mwhaddon_throwable_alchemicalExplosive_lesser.thrownitem	description	Destroy a small range of tiles on collide. ^red;May harm yourself!^reset;	충돌 시 좁은 범위의 타일을 파괴한다. ^red;자신도 다칠 수 있다!^reset;	
+/items/throwables/mwhaddon_throwable_alchemicalGrenade.thrownitem	itemName	mwhaddon_throwable_alchemicalGrenade	mwhaddon_throwable_alchemicalGrenade	
+/items/throwables/mwhaddon_throwable_alchemicalGrenade.thrownitem	shortdescription	^mwhathrowrank02;Alchemical Grenade	^mwhathrowrank02;연금술 수류탄	
+/items/throwables/mwhaddon_throwable_alchemicalGrenade.thrownitem	description	Use this magical grenade to blow up your enemies!	이 마법 수류탄으로 적들을 날려버려라!	
+/items/throwables/mwhaddon_throwable_arcana.thrownitem	shortdescription	^pink;Absolute Arcana^reset;	^pink;앱솔루트 아르카나^reset;	
+/items/throwables/mwhaddon_throwable_arcana.thrownitem	description	Abandoned.	버려짐.	
+/items/throwables/mwhaddon_throwable_arcana.thrownitem	subtitle	^green;Summon Item^#reset;	^green;소환 아이템^#reset;	reuse
+/items/throwables/mwhaddon_throwable_azureCrate.thrownitem	itemName	mwhaddon_throwable_azureCrate	mwhaddon_throwable_azureCrate	
+/items/throwables/mwhaddon_throwable_azureCrate.thrownitem	shortdescription	^mwhabombrank10;^#4bb4ca;Alchemical Creation Box^reset;	^mwhabombrank10;^#4bb4ca;연금술 창조 상자^reset;	
+/items/throwables/mwhaddon_throwable_azureCrate.thrownitem	description	Throw it to summon an Azure Golem fights for you.	던지면 널 위해 싸우는 아주르 골렘을 소환한다.	
+/items/throwables/mwhaddon_throwable_azureVortex.thrownitem	itemName	mwhaddon_throwable_azureVortex	mwhaddon_throwable_azureVortex	
+/items/throwables/mwhaddon_throwable_azureVortex.thrownitem	shortdescription	^mwhathrowrank11;^#4bb4ca;Azure Vortex^reset;	^mwhathrowrank11;^#4bb4ca;아주르 소용돌이^reset;	
+/items/throwables/mwhaddon_throwable_azureVortex.thrownitem	description	Create a vortex that draws enemies and projectiles nearby to it.	주변의 적과 발사체를 끌어당기는 소용돌이를 만든다.	
+/items/throwables/mwhaddon_throwable_bigPoisonBomb.thrownitem	itemName	mwhaddon_throwable_bigPoisonBomb	mwhaddon_throwable_bigPoisonBomb	
+/items/throwables/mwhaddon_throwable_bigPoisonBomb.thrownitem	shortdescription	^mwhabombrank08;Catalyzed Poison Bomb	^mwhabombrank08;촉매 독 폭탄	
+/items/throwables/mwhaddon_throwable_bigPoisonBomb.thrownitem	description	Burst lots of Poison on collide.	충돌 시 다량의 독을 폭발시킨다.	
+/items/throwables/mwhaddon_throwable_boss_cNeL.thrownitem	shortdescription	^pink;Price of Prosperity^reset;	^pink;번영의 대가^reset;	
+/items/throwables/mwhaddon_throwable_boss_cNeL.thrownitem	description	Abandoned.	버려짐.	
+/items/throwables/mwhaddon_throwable_boss_cNeL.thrownitem	subtitle	^green;Summon Item^#reset;	^green;소환 아이템^#reset;	reuse
+/items/throwables/mwhaddon_throwable_boss_execration.thrownitem	shortdescription	^#e160da;Extremity Beacon^reset;	^#e160da;극한 비컨^reset;	
+/items/throwables/mwhaddon_throwable_boss_execration.thrownitem	description	Abandoned.	버려짐.	
+/items/throwables/mwhaddon_throwable_boss_execration.thrownitem	subtitle	^green;Summon Item^#reset;	^green;소환 아이템^#reset;	reuse
+/items/throwables/mwhaddon_throwable_boss_execration_nomusic.thrownitem	shortdescription	^#e160da;Silenced Beacon^reset;	^#e160da;침묵 비컨^reset;	
+/items/throwables/mwhaddon_throwable_boss_execration_nomusic.thrownitem	description	Abandoned.	버려짐.	
+/items/throwables/mwhaddon_throwable_boss_execration_nomusic.thrownitem	subtitle	^green;Summon Item^#reset;	^green;소환 아이템^#reset;	reuse
+/items/throwables/mwhaddon_throwable_copperOreBomb.thrownitem	itemName	mwhaddon_throwable_copperOreBomb	mwhaddon_throwable_copperOreBomb	
+/items/throwables/mwhaddon_throwable_copperOreBomb.thrownitem	shortdescription	^mwhabombrank01;Copper Ore Bomb	^mwhabombrank01;구리 광석 폭탄	
+/items/throwables/mwhaddon_throwable_copperOreBomb.thrownitem	description	A bomb that turns tiles within range into copper ores. ^red;May not work.^reset;	범위 내 타일을 구리 광석으로 바꾸는 폭탄. ^red;안 먹힐 수도 있다.^reset;	
+/items/throwables/mwhaddon_throwable_corrodiumKnife.thrownitem	itemName	mwhaddon_throwable_corrodiumKnife	mwhaddon_throwable_corrodiumKnife	
+/items/throwables/mwhaddon_throwable_corrodiumKnife.thrownitem	shortdescription	^mwhathrowrank08;Corrodium Knife	^mwhathrowrank08;코로디움 나이프	
+/items/throwables/mwhaddon_throwable_corrodiumKnife.thrownitem	description	Inflict acid burning on enemy hit.	적을 맞히면 산성 화상을 입힌다.	
+/items/throwables/mwhaddon_throwable_discus.thrownitem	shortdescription	^mwhathrowrank12;^yellow;Discus^reset;	^mwhathrowrank12;^yellow;디스커스^reset;	
+/items/throwables/mwhaddon_throwable_discus.thrownitem	description	Despite its name, this grenade will explode your enemies with light magic!	이름과 달리 이 수류탄은 빛 마법으로 적들을 폭발시킨다!	
+/items/throwables/mwhaddon_throwable_flaskOfEvo.thrownitem	shortdescription	^mwhathrowrank05;Flask of Evo	^mwhathrowrank05;에보 플라스크	
+/items/throwables/mwhaddon_throwable_flaskOfEvo.thrownitem	description	Explode into posion clouds when contact. Can bounce.	접촉 시 독구름으로 폭발한다. 튕길 수 있다.	
+/items/throwables/mwhaddon_throwable_flaskOfTimeless.thrownitem	itemName	mwhaddon_throwable_flaskOfTimeless	mwhaddon_throwable_flaskOfTimeless	
+/items/throwables/mwhaddon_throwable_flaskOfTimeless.thrownitem	shortdescription	^mwhathrowrank09;Flask of Timeless	^mwhathrowrank09;타임리스 플라스크	
+/items/throwables/mwhaddon_throwable_flaskOfTimeless.thrownitem	description	Create a zone that freeze your enemies' time, then explodes after a while.	적들의 시간을 얼리는 구역을 만들고, 잠시 후 폭발한다.	
+/items/throwables/mwhaddon_throwable_fluorescenceStem.thrownitem	itemName	mwhaddon_throwable_fluorescenceStem	mwhaddon_throwable_fluorescenceStem	
+/items/throwables/mwhaddon_throwable_fluorescenceStem.thrownitem	shortdescription	^mwhathrowrank01;Fluorescence Stem	^mwhathrowrank01;형광 줄기	
+/items/throwables/mwhaddon_throwable_fluorescenceStem.thrownitem	description	A light stick made of plants and Arcane magic that can float in the air.	식물과 비전 마법으로 만든, 공중에 뜨는 라이트스틱.	
+/items/throwables/mwhaddon_throwable_illuminatedBomb.thrownitem	itemName	mwhaddon_throwable_illuminatedBomb	mwhaddon_throwable_illuminatedBomb	
+/items/throwables/mwhaddon_throwable_illuminatedBomb.thrownitem	shortdescription	^mwhabombrank05;Illuminated Bomb	^mwhabombrank05;일루미네이티드 폭탄	
+/items/throwables/mwhaddon_throwable_illuminatedBomb.thrownitem	description	Burst into a pool of Illuminated Water on collide.	충돌 시 일루미네이티드 물 웅덩이로 폭발한다.	
+/items/throwables/mwhaddon_throwable_illuminatedSpikes.thrownitem	itemName	mwhaddon_throwable_illuminatedSpikes	mwhaddon_throwable_illuminatedSpikes	
+/items/throwables/mwhaddon_throwable_illuminatedSpikes.thrownitem	shortdescription	^mwhathrowrank06;Illuminated Spikes	^mwhathrowrank06;일루미네이티드 스파이크	
+/items/throwables/mwhaddon_throwable_illuminatedSpikes.thrownitem	description	Throw a cluster of illuminated spikes that linger on the ground.	바닥에 오래 남는 발광 가시 다발을 던진다.	
+/items/throwables/mwhaddon_throwable_ironOreBomb.thrownitem	itemName	mwhaddon_throwable_ironOreBomb	mwhaddon_throwable_ironOreBomb	
+/items/throwables/mwhaddon_throwable_ironOreBomb.thrownitem	shortdescription	^mwhabombrank02;Iron Ore Bomb	^mwhabombrank02;철 광석 폭탄	
+/items/throwables/mwhaddon_throwable_ironOreBomb.thrownitem	description	A bomb that turns tiles within range into iron ores. ^red;May not work.^reset;	범위 내 타일을 철 광석으로 바꾸는 폭탄. ^red;안 먹힐 수도 있다.^reset;	
+/items/throwables/mwhaddon_throwable_kitsunetou.thrownitem	shortdescription	^mwhathrowrank04;Kitsunetou	^mwhathrowrank04;키츠네토	
+/items/throwables/mwhaddon_throwable_kitsunetou.thrownitem	description	A lamp that shoots flame to nearby enemies.	근처 적에게 불꽃을 쏘는 등불.	
+/items/throwables/mwhaddon_throwable_meltedCrystalBomb.thrownitem	itemName	mwhaddon_throwable_meltedCrystalBomb	mwhaddon_throwable_meltedCrystalBomb	
+/items/throwables/mwhaddon_throwable_meltedCrystalBomb.thrownitem	shortdescription	^mwhabombrank11;^#e99763;Melted Crystal Bomb^reset;	^mwhabombrank11;^#e99763;녹은 수정 폭탄^reset;	
+/items/throwables/mwhaddon_throwable_meltedCrystalBomb.thrownitem	description	A bomb that creates a range of Solite Crystal Blocks on collide.	충돌 시 일정 범위의 솔라이트 수정 블록을 만드는 폭탄.	
+/items/throwables/mwhaddon_throwable_orionBeacon.thrownitem	itemName	mwhaddon_throwable_orionBeacon	mwhaddon_throwable_orionBeacon	
+/items/throwables/mwhaddon_throwable_orionBeacon.thrownitem	shortdescription	^mwhathrowrank07;Orion Beacon	^mwhathrowrank07;오리온 비컨	
+/items/throwables/mwhaddon_throwable_orionBeacon.thrownitem	description	This beacon will call an air strike at its position.	이 비컨은 그 위치로 공습을 요청한다.	
+/items/throwables/mwhaddon_throwable_ruinousBomb.thrownitem	itemName	mwhaddon_throwable_ruinousBomb	mwhaddon_throwable_ruinousBomb	
+/items/throwables/mwhaddon_throwable_ruinousBomb.thrownitem	shortdescription	^mwhabombrank06;Ruinous Bomb	^mwhabombrank06;파멸의 폭탄	
+/items/throwables/mwhaddon_throwable_ruinousBomb.thrownitem	description	Burst into a pool of Ruinous Water on collide.	충돌 시 파멸의 물 웅덩이로 폭발한다.	
+/items/throwables/mwhaddon_throwable_sunlitDragonbreath.thrownitem	itemName	mwhaddon_throwable_sunlitDragonbreath	mwhaddon_throwable_sunlitDragonbreath	
+/items/throwables/mwhaddon_throwable_sunlitDragonbreath.thrownitem	shortdescription	^mwhathrowrank10;^#e99763;Sunlit Dragonbreath^reset;	^mwhathrowrank10;^#e99763;선릿 드래곤브레스^reset;	
+/items/throwables/mwhaddon_throwable_sunlitDragonbreath.thrownitem	description	Create an explosive homing dragonbeam.	폭발성 유도 드래곤빔을 만든다.	
+/items/throwables/mwhaddon_throwable_tungstenOreBomb.thrownitem	itemName	mwhaddon_throwable_tungstenOreBomb	mwhaddon_throwable_tungstenOreBomb	
+/items/throwables/mwhaddon_throwable_tungstenOreBomb.thrownitem	shortdescription	^mwhabombrank03;Tungsten Ore Bomb	^mwhabombrank03;텅스텐 광석 폭탄	
+/items/throwables/mwhaddon_throwable_tungstenOreBomb.thrownitem	description	A bomb that turns tiles within range into tungsten ores. ^red;May not work.^reset;	범위 내 타일을 텅스텐 광석으로 바꾸는 폭탄. ^red;안 먹힐 수도 있다.^reset;	
+/items/throwables/mwhaddon_throwable_windBag.thrownitem	shortdescription	^mwhathrowrank03;Wind Bag	^mwhathrowrank03;바람 주머니	
+/items/throwables/mwhaddon_throwable_windBag.thrownitem	description	Create a wind field that makes everything float!	모든 것을 띄우는 바람 장을 만든다!	
+/items/tools/mwhaddon_orionFlashlight.flashlight	itemName	mwhaddon_orionFlashlight	mwhaddon_orionFlashlight	
+/items/tools/mwhaddon_orionFlashlight.flashlight	description	A standard flashlight fabricated by Orion Cybernetics.	오리온 사이버네틱스가 제작한 표준 손전등.	
+/items/tools/mwhaddon_orionFlashlight.flashlight	shortdescription	Orion Flashlight	오리온 손전등	
+/objects/arcana/npcs/mwhaddon_dungeon_misc/mwhaddon_dungeon_misc_npc_sally/mwhaddon_dungeon_misc_npc_sally_mCpt3_1_1.object	shortdescription	Sally	샐리	
+/objects/crafting/mwhaddon_crafting_alchemist/mwhaddon_crafting_alchemist.object	description	The best station made from Aureola bars to creat the most wonderful potions.	가장 훌륭한 물약을 만들기 위해 아우레올라 봉으로 만든 최고의 제작대.	reuse
+/objects/crafting/mwhaddon_crafting_alchemist/mwhaddon_crafting_alchemist.object	shortdescription	^#dfcf4e;Grandsorcerer's Table^reset;	^#dfcf4e;그랜드소서러의 작업대^reset;	reuse
+/objects/crafting/mwhaddon_crafting_horizonFurnace/mwhaddon_crafting_horizonFurnace.object	objectName	mwhaddon_crafting_horizonFurnace	mwhaddon_crafting_horizonFurnace	
+/objects/crafting/mwhaddon_crafting_horizonFurnace/mwhaddon_crafting_horizonFurnace.object	description	An advanced smelter used by the Horizon to efficiently smelt Necroium and construct armory.	호라이즌이 네크로이움을 효율적으로 제련하고 무기고를 건설하는 데 쓰는 고급 제련소입니다.	reuse
+/objects/crafting/mwhaddon_crafting_horizonFurnace/mwhaddon_crafting_horizonFurnace.object	shortdescription	^#e160da;Necroium Ultismelter^reset;	^#e160da;네크로이움 얼티멜터^reset;	reuse
+/objects/crafting/mwhaddon_crafting_mechCrafting/mwhaddon_crafting_mechCrafting.object	objectName	mwhaddon_crafting_mechCrafting	mwhaddon_crafting_mechCrafting	
+/objects/crafting/mwhaddon_crafting_mechCrafting/mwhaddon_crafting_mechCrafting.object	description	A station to craft advanced mech parts!	첨단 메카 부품을 제작하는 스테이션!	reuse
+/objects/crafting/mwhaddon_crafting_mechCrafting/mwhaddon_crafting_mechCrafting.object	shortdescription	^#e160da;Mech Parts Crafting^reset;	^#e160da;메크 부품 제작^reset;	reuse
+/objects/crafting/mwhaddon_crafting_mechCrafting/mwhaddon_crafting_mechCrafting_alt.object	objectName	mwhaddon_crafting_mechCrafting_alt	mwhaddon_crafting_mechCrafting_alt	
+/objects/crafting/mwhaddon_crafting_mechCrafting/mwhaddon_crafting_mechCrafting_alt.object	description	Used to produce advanced modular mech components.	고급 모듈식 메크 부품을 만드는 데 쓰인다.	reuse
+/objects/crafting/mwhaddon_crafting_mechCrafting/mwhaddon_crafting_mechCrafting_alt.object	shortdescription	^#e160da;Advanced Mech Station^reset;	^#e160da;고급 메크 스테이션^reset;	reuse
+/objects/crafting/mwhaddon_crafting_memoryForge/mwhaddon_crafting_memoryForge.object	objectName	mwhaddon_crafting_memoryForge	mwhaddon_crafting_memoryForge	
+/objects/crafting/mwhaddon_crafting_memoryForge/mwhaddon_crafting_memoryForge.object	description	A forge that use memories as raw materials.	기억을 원재료로 사용하는 대장간입니다.	reuse
+/objects/crafting/mwhaddon_crafting_memoryForge/mwhaddon_crafting_memoryForge.object	shortdescription	Memory Forge	기억 대장간	reuse
+/objects/crafting/mwhaddon_crafting_memoryForge/mwhaddon_crafting_memoryForge_test.object	objectName	mwhaddon_crafting_memoryForge_test	mwhaddon_crafting_memoryForge_test	
+/stats/effects/heal/arcana_mwhaddon_heal_1.statuseffect	label	Healing	치유	reuse
+/stats/effects/heal/arcana_mwhaddon_heal_2.statuseffect	label	Healing	치유	reuse
+/stats/effects/heal/arcana_mwhaddon_heal_3.statuseffect	label	Healing	치유	reuse
+/stats/effects/heal/arcana_mwhaddon_heal_4.statuseffect	label	Healing	치유	reuse
+/stats/effects/heal/arcana_mwhaddon_heal_5.statuseffect	label	Healing	치유	reuse
+/stats/effects/heal/mwhaddon_heal_aureaStandardMedkit.statuseffect	label	Healing	치유	reuse
+/stats/effects/mwhaddon_usable/mwhaddon_usable_electrolitePill/mwhaddon_usable_electrolitePill.statuseffect	label	Overelectrified	과전기	
+/stats/effects/mwhaddon_usable/mwhaddon_usable_unmatched/mwhaddon_usable_unmatched.statuseffect	label	Unmatched	무적	
+/stats/effects/mwhaddon_usable/mwhaddon_usable_windcatcher/mwhaddon_usable_windcatcher.statuseffect	label	Windcatcher	윈드캐처	

@@ -1,0 +1,57 @@
+asset	field	en	ko	src
+/items/armors/decorative/costumes/om_starrybrand/om_starrybrand.head	description	"A strange type of ""brand"" only found on ""^green;Astromancer^reset;"" Novakids."	"^green;아스트로맨서^reset; 노바키드에게만 발견되는 이상한 종류의 ""낙인""."	
+/items/armors/decorative/costumes/om_starrybrand/om_starrybrand.head	shortdescription	Star Brand	별 낙인	
+/items/armors/decorative/costumes/om_starrycape/om_starrycape.back	description	A sparkly, wondrous cape often worn by ^green;Starry Cultists^reset;.	^green;스타리 컬티스트^reset;들이 자주 쓰는 반짝이고 신비한 망토.	
+/items/armors/decorative/costumes/om_starrycape/om_starrycape.back	shortdescription	Starry Cultist Cape	스타리 컬티스트 망토	
+/items/armors/decorative/costumes/om_starryclip/om_starryclip.head	description	Accentuate your awesome hairstyle with this beautiful star hairclip!	이 아름다운 별 머리핀으로 멋진 헤어스타일을 강조하라!	
+/items/armors/decorative/costumes/om_starryclip/om_starryclip.head	shortdescription	Star Clip	별 핀	
+/items/armors/decorative/costumes/om_starrycrown/om_starrycrown.head	description	A royal crown fitting for the most starry and sparkly.	가장 별스럽고 반짝이는 이에게 어울리는 왕관.	
+/items/armors/decorative/costumes/om_starrycrown/om_starrycrown.head	shortdescription	Star Crown	별 왕관	
+/items/armors/decorative/costumes/om_starrycultist/om_starrycultist.chest	description	The top part of the ^green;Starry Cultist ^reset;outfit!	^green;스타리 컬티스트 ^reset;복장의 상의!	
+/items/armors/decorative/costumes/om_starrycultist/om_starrycultist.chest	shortdescription	Starry Robe Top	스타리 로브 상의	
+/items/armors/decorative/costumes/om_starrycultist/om_starrycultist.head	description	For the more mysterious ^green;Starry Cultists^reset;.	좀 더 신비로운 ^green;스타리 컬티스트^reset;를 위해.	
+/items/armors/decorative/costumes/om_starrycultist/om_starrycultist.head	shortdescription	Starry Cultist Hood	스타리 컬티스트 후드	
+/items/armors/decorative/costumes/om_starrycultist/om_starrycultist.legs	description	The bottom part of the ^green;Starry Cultist ^reset;outfit!	^green;스타리 컬티스트 ^reset;복장의 하의!	
+/items/armors/decorative/costumes/om_starrycultist/om_starrycultist.legs	shortdescription	Starry Robe Bottoms	스타리 로브 하의	
+/items/armors/decorative/costumes/om_starrysailor/om_starrysailor.chest	description	A sparkly coat and star accessory, perfect for starry seas.	반짝이는 코트와 별 장신구, 별의 바다에 완벽하다.	
+/items/armors/decorative/costumes/om_starrysailor/om_starrysailor.chest	shortdescription	Starry Sailor Top	스타리 세일러 상의	
+/items/armors/decorative/costumes/om_starrysailor/om_starrysailor.legs	description	Thick boots and a shiny, flowing long coat that blows in the breezes of stardust.	두꺼운 장화와 별가루 바람에 휘날리는 빛나는 긴 코트.	
+/items/armors/decorative/costumes/om_starrysailor/om_starrysailor.legs	shortdescription	Starry Sailor Pants	스타리 세일러 바지	
+/items/armors/om_starryplanet/om_starryarmor/om_starryarmor.chest	description	This chestpiece is made out of nebulathite, a material seemingly related to nebulae.	이 흉갑은 성운과 관련된 듯한 물질, 네뷸라사이트로 만들었다.	
+/items/armors/om_starryplanet/om_starryarmor/om_starryarmor.chest	shortdescription	Nebula Chestpiece	네뷸라 흉갑	
+/items/armors/om_starryplanet/om_starryarmor/om_starryarmor.head	description	This nebulathite helm glitters with stars.	이 네뷸라사이트 헬멧은 별들로 반짝인다.	
+/items/armors/om_starryplanet/om_starryarmor/om_starryarmor.head	shortdescription	Nebula Helm	네뷸라 헬멧	
+/items/armors/om_starryplanet/om_starryarmor/om_starryarmor.legs	description	These nebulathite trousers sparkle as you walk. How wondrous!	걸을 때마다 반짝이는 네뷸라사이트 바지. 경이롭다!	
+/items/armors/om_starryplanet/om_starryarmor/om_starryarmor.legs	shortdescription	Nebula Trousers	네뷸라 바지	
+/items/materials/om_starryplanet_dirt.matitem	description	Dirt with little stars in it.	작은 별들이 박힌 흙.	reuse
+/items/materials/om_starryplanet_dirt.matitem	shortdescription	Starry Dirt	별빛 흙	reuse
+/items/materials/om_starryplanet_rock.matitem	description	This rock is glowing..somehow.	이 바위 빛나..왠지.	reuse
+/items/materials/om_starryplanet_rock.matitem	shortdescription	Blue Glowing Rock	파란 발광석	reuse
+/items/materials/om_starryplanet_rock2.matitem	description	This rock is glowing..somehow.	이 바위 빛나..왠지.	reuse
+/items/materials/om_starryplanet_rock2.matitem	shortdescription	Pink Glowing Rock	핑크 발광석	reuse
+/items/materials/om_starryplanetbrick1.matitem	description	Starry stone slabs, perfect for building a pastel palace.	별빛 무늬 석판. 파스텔 궁전을 짓기에 딱 좋다.	reuse
+/items/materials/om_starryplanetbrick1.matitem	shortdescription	Starry Blue Brick	별빛 파란 벽돌	reuse
+/items/materials/om_starryplanetbrick2.matitem	description	Starry stone slabs, perfect for building a pastel palace.	별빛 무늬 석판. 파스텔 궁전을 짓기에 딱 좋다.	reuse
+/items/materials/om_starryplanetbrick2.matitem	shortdescription	Starry Pink Brick	별빛 분홍 벽돌	reuse
+/items/materials/om_starryplanetlog.matitem	description	A starry log. Good for building colorful structures.	별무늬 통나무. 알록달록한 구조물을 짓기에 좋다.	reuse
+/items/materials/om_starryplanetlog.matitem	shortdescription	Starry Log	별빛 통나무	reuse
+/items/materials/om_starryplanetplatform1.matitem	shortdescription	Starry Platform	별빛 발판	reuse
+/items/materials/om_starryplanetplatform1.matitem	description	A platform made from starry timber and actual stars.	별빛 목재와 실제 별로 만든 발판입니다.	reuse
+/items/materials/om_starryplanetsand.matitem	description	Soft, luminous sand.	부드럽고 은은히 빛나는 모래.	reuse
+/items/materials/om_starryplanetsand.matitem	shortdescription	Starry Sand	별빛 모래	reuse
+/items/materials/om_starryplanetsandstone.matitem	description	Tough, glowing sandstone.	단단하고 빛나는 사암.	reuse
+/items/materials/om_starryplanetsandstone.matitem	shortdescription	Starry Sandstone	별빛 사암	reuse
+/items/materials/om_starryplanetwood.matitem	description	Starry wood that has been prepared for building colorful structures!	화려한 구조물을 짓기 위해 손질된 별빛 목재!	reuse
+/items/materials/om_starryplanetwood.matitem	shortdescription	Starry Timber	별빛 목재	reuse
+/items/materials/om_starrysandstoneblock.matitem	description	Glowing bricks made from smoothed starry sandstone.	매끈하게 다듬은 별빛 사암으로 만든 빛나는 벽돌입니다.	reuse
+/items/materials/om_starrysandstoneblock.matitem	shortdescription	Starry Sandstone Bricks	별빛 사암 벽돌	reuse
+/items/throwables/om_starrythrowable.thrownitem	shortdescription	Throwing Star	투척 별	
+/items/throwables/om_starrythrowable.thrownitem	description	It's like playing 'hot potato' with an actual star!	진짜 별로 '뜨거운 감자' 놀이를 하는 것 같다!	
+/items/throwables/om_starrythrowable2.thrownitem	shortdescription	Bursting Throwing Star	폭발 투척 별	
+/items/throwables/om_starrythrowable2.thrownitem	description	"This star is gonna burst into MORE stars!
+Quick, throw it!"	"이 별은 더 많은 별로 폭발할 거다!
+빨리 던져라!"	
+/objects/farmables/om_starrystarfruit/om_starrystarfruit.object	description	A remarkable plant that glows like the stars above!	밤하늘의 별처럼 빛나는 놀라운 식물!	reuse
+/objects/farmables/om_starrystarfruit/om_starrystarfruit.object	shortdescription	Starfruit Seed	별열매 씨앗	reuse
+/objects/farmables/om_starrystarfruit/om_starrystarfruitseed.object	description	A remarkable plant that glows like the stars above!	밤하늘의 별처럼 빛나는 놀라운 식물!	reuse
+/objects/farmables/om_starrystarfruit/om_starrystarfruitseed.object	shortdescription	Starfruit Seed	별열매 씨앗	reuse

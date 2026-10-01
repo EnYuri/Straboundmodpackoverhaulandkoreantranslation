@@ -1,0 +1,62 @@
+[Woodlands] /abilities/weapons/gico_woodlands_weapon.statuseffect.patch
+EN: Woodland Weapon - Using a weapon from the Woodlands Planet.
+KO: 삼림 무기 - 우드랜즈 행성의 무기 사용 중.
+
+[Daitengu] /cinematics/CHARACTERS/CELESTIAL/gico_celestial_boss_intro_human_path.cinematic.patch
+EN: Are you here for the daitengus?
+KO: 다이텐구들 때문에 오신 건가요?
+
+[Lunarian] /dialog/esc_corpus_empolyee.config.patch
+EN: The superior technology of Lunarian and other ancient civilizations will not be a mystery forever,one day we will comprehend and surpass it, same as we have surpassed the technology of human.
+KO: 루나리안과 다른 고대 문명의 뛰어난 기술도 영원히 수수께끼로 남지는 않는다. 언젠가 우리는 그것을 이해하고 뛰어넘을 것이다. 인간의 기술을 이미 뛰어넘었듯이.
+
+[Suppression] /items/AMMUNITION/35MM/gic_35mm_flare_grenade/gic_35mm_shell_flare_grenade.item.patch
+EN: 35mm ammunition firing white illumination flares with little parachutes attached to the base. Used to provide light during the night time.
+  
+Flare round descends slowly in atmosphere, and lasts for approximately 60s. Causes ^orange;SUPPRESSION on nearby enemies for 30s.^reset;
+  
+Close-ranged shots are capable of dealing ^orange;IGNITION^reset
+KO: 밑부분에 작은 낙하산이 달린 백색 조명탄을 쏘는 35mm 탄약. 밤중에 빛을 밝히는 데 쓴다.
+ 
+조명탄은 대기 중에서 천천히 내려오며 약 60초간 지속된다. ^orange;주변 적에게 30초간 제압 효과를 건다.^reset;
+ 
+근거리에서 쏘면 ^orange;점화^reset; 효과를 줄 수 있다.
+
+[Spell Catalyst] /items/AMMUNITION/YOUKAI/gico_catalyst/gico_catalyst.item.patch
+EN: Spell Catalyst
+KO: 주문 촉매
+
+[magirocket] /items/AMMUNITION/YOUKAI/gico_magirocket/gico_magirocket_blunt.item.patch
+EN: Blunt Magirocket
+KO: 무딘 마기로켓
+
+[DEPLOYMENT ORDER] /items/WEAPONS/UTILITY/gic_rsr_deploywhistle/gic_rsr_deploywhistle.activeitem.patch
+EN: TESTING TESTING TESTING
+  
+^orange;Activates DEPLOYMENT ORDER which will spawn any eligible summon not on cooldown on the player's position. Only summons that are called by DEPLOYMENT ORDER will be spawned. Does not do anything if there are no eligible summons equipped.
+KO: 테스트 테스트 테스트
+  
+^orange;쿨다운 중이 아닌 모든 소환 가능한 소환수를 플레이어 위치에 생성하는 배치 명령을 발동한다. 배치 명령으로 호출되는 소환수만 생성된다. 장착된 소환 가능한 소환수가 없으면 아무 효과도 없다.
+
+[BUILD ORDER] /items/WEAPONS/UTILITY/gico_buildpda/gico_buildpda.activeitem.patch
+EN: ''Deploying sentries!''
+A multi-purpose device that can be used to link up to all sorts of equipment if the user has them around.
+
+
+^orange;Activates BUILD ORDER which will spawn any eligible summon not on cooldown on the player's position. Only summons that are called by BUILD ORDER will be spawned. Does not do anything if there are no eligible su
+KO: ''센트리 배치!''
+사용자 주변에 장비가 있다면 온갖 장비와 연동할 수 있는 다목적 장치.
+
+
+^orange;빌드 오더를 발동해, 재사용 대기 중이 아닌 모든 소환 가능 대상을 플레이어 위치에 소환한다. 빌드 오더로 호출되는 소환물만 소환된다. 장착한 소환물 중 조건에 맞는 것이 없으면 아무 일도 일어나지 않는다.
+
+[SET BONUS] /items/active/weapons/chakram/cutechakram.activeitem.patch
+EN: ^yellow;Bounces off walls^reset;
+^yellow;Counts as 'energy' for set bonuses^reset;
+KO: ^yellow;벽에 튕긴다^reset;
+^yellow;세트 보너스에서 '에너지' 무기로 취급^reset;
+
+[Infantry Summons] /stats/TRINKETS/gico_assaultdoctrine/gico_assaultdoctrine.statuseffect.patch
+EN: RE Assault Package - Rose Assault Infantry Summons now have access to S1 Typewriter submachine guns.
+KO: RE 돌격 패키지 - ROSE 돌격 보병 소환이 S1 타자기 기관단총을 사용할 수 있습니다.
+

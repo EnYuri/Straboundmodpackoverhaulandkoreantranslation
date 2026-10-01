@@ -1,0 +1,31 @@
+asset	field	en	ko	src
+/items/armors/foxhimeuniverse/deaphox/deaphox.back	description	"Phox Moli's tail. So fluffy!
+^green;Fall damage resist, HP +10 
+^blue;Provides oxygen^reset;"	"폭스 몰리의 꼬리. 너무 폭신폭신해!
+^green;낙하 피해 저항, HP +10 
+^blue;산소 제공^reset;"	
+/items/armors/foxhimeuniverse/deaphox/deaphox.back	shortdescription	Moli's Tail & Hair	몰리의 꼬리와 머리	
+/items/armors/foxhimeuniverse/phmoli/phmoli.back	description	"Phox Moli's tail. So fluffy!
+^green;Fall damage resist, HP+10 
+^blue;Provides oxygen^reset;"	"폭스 몰리의 꼬리. 너무 폭신폭신해!
+^green;낙하 피해 저항, HP+10 
+^blue;산소 제공^reset;"	
+/items/armors/foxhimeuniverse/phmoli/phmoli.back	shortdescription	Moli's Tail & Hair	몰리의 꼬리와 머리	
+/items/augments/back/fhu_immortalaugment.augment	description	Generates a psionic shield that can take at least 9 shots if fully recharged, and protects you from death.	완전 충전 시 최소 9발을 견디는 사이오닉 방패를 생성하고 죽음에서 너를 지킨다.	
+/items/augments/back/fhu_immortalaugment.augment	shortdescription	The Immortal Fox	불사의 여우	
+/items/augments/back/fhu_overkillaugment.augment	description	"Dark magic. Transfers painfulness from the dead to the next victim.
+^red;Dynamic damage boost with a maximum of 50%^reset;"	"어둠의 마법. 고통을 죽은 자에게서 다음 희생자에게 옮긴다.
+^red;최대 50%의 동적 피해 강화^reset;"	
+/items/augments/back/fhu_overkillaugment.augment	shortdescription	Overkiller	과잉살상자	
+/items/throwables/psipowder.thrownitem	shortdescription	Psi Powder	사이 가루	
+/items/throwables/psipowder.thrownitem	description	"A cup of explosive powder. Unsuitable for ingestion.
+^red;WARNING: HIGH EXPLOSIVE^reset;"	"폭발성 가루 한 컵. 섭취 부적합.
+^red;경고: 고폭약^reset;"	
+/objects/farmables/jasmine/jasmineseed.object	description	Jasmine has great vitality. It emits relaxing fragrance.	자스민 생명력 강해. 편안 향 발산.	reuse
+/objects/farmables/jasmine/jasmineseed.object	shortdescription	Jasmine Seed	자스민 씨앗	reuse
+/objects/farmables/jasmine/wildjasmineseed.object	description	Jasmine has great vitality. It emits relaxing fragrance.	자스민 생명력 강해. 편안 향 발산.	reuse
+/objects/farmables/jasmine/wildjasmineseed.object	shortdescription	Jasmine Seed	자스민 씨앗	reuse
+/stats/effects/fhu_overkill/fhu_overkill.statuseffect	label	Overkill	과잉살상	
+/stats/effects/rage/molirage.statuseffect	label	Rage	분노	reuse
+/stats/effects/regeneration/moliregeneration.statuseffect	label	Regeneration	재생	
+/stats/effects/regeneration/tearegeneration.statuseffect	label	Regeneration	재생	

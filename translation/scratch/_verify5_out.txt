@@ -1,0 +1,195 @@
+  /cinematics/CHARACTERS/SHRINEMAIDEN/gico_shrinemaiden_meeting_human_path.cinematic.patch//panels/4/text
+    EN: Howell already gave me a run down on what happened. I'm impressed. Name's Kayori. Just your usual shrine maiden who got dragged into this war.
+    KO: 하웰이 무슨 일이 있었는지 벌써 알려줬어요. 인상 깊네요. 제 이름은 카요리예요. 이 전쟁에 휘말린 그저 평범한 무녀랍니다.
+  /dialog/avikanoutpost.config.patch//converse/avikan/glitch/11
+    EN: I doubt the Starsight Inn offers anything you can even drink, machine.
+    KO: 스타사이트 여관이 네가 마실 수 있는 걸 팔지는 의심스럽군, 기계.
+  /dialog/avikanoutpost.config.patch//converse/avikan/avikan/17
+    EN: Could you vow for me at the Council? I've issued a request for admission as a Fleet captain, and I need all the support I can get!
+    KO: 평의회에서 저를 위해 찬성표를 던져 줄 수 있나? 함대 선장 자격을 신청했는데, 최대한 많은 지지가 필요해!
+  /dialog/avikanoutpost.config.patch//converse/avikan/trink/11
+    EN: I doubt the Starsight Inn offers anything you can even drink, machine.
+    KO: 스타사이트 여관이 네가 마실 수 있는 걸 팔지는 의심스럽군, 기계.
+  /dialog/bartenderwoofie.config.patch//merchantEnd/avian/default/0
+    EN: What a flying visit. I hope to see you again soon.
+    KO: 번개 같은 방문이었네. 곧 다시 보길 바라.
+  /dialog/combat.config.patch//outOfSight/fenerox/default/2
+    EN: 
+    KO: 적이 보입니까? 교전할 수 없습니다.
+  /dialog/esc_corpus_empolyee.config.patch//converse/default/default/5
+    EN: R&D says they got a shipment of Lunar-tech warsuits.
+    KO: 연구개발 루나-테크 전투복 납품 받았대.
+  /dialog/esc_corpus_empolyee.config.patch//greeting/default/default/7
+    EN: R&D says they got a shipment of Lunar-tech warsuits.
+    KO: 연구개발 루나-테크 전투복 납품 받았대.
+  /dialog/lucario.config.patch//converse/default/human/6
+    EN: You have your own power, do not rely on me or others for everything.
+    KO: 너만의 힘이 있으니 모든 일을 내나 남에게 의존하지 마.
+  /dialog/lucario.config.patch//converse/default/apex/15
+    EN: Your fur is so curly while mine is straight, odd.
+    KO: 네 털은 이렇게 곱슬곱슬한데 내 털은 곧네. 신기하군.
+  /dialog/lucario.config.patch//beacon/default/default/7
+    EN: Oh! welcome! I didn't realise I had a quest.
+    KO: 오! 어서 와! 나한테 퀘스트가 있는 줄도 몰랐네.
+  /dialog/saturnspaceconverse.config.patch//spacesaturnian/saturn/arachne/6
+    EN: Are you friendly, spider?
+    KO: 넌 온순한 편이야, 거미야?
+  /dialog/saturnspaceconverse.config.patch//spacesaturnian/saturn/satkyterran/7
+    EN: It's not often we see other species from Myrasyl.
+    KO: 미라실 바깥의 다른 종족을 보는 일은 흔치 않아.
+  /dialog/sexbound/en/notifications.config.patch//plugins/pregnant/abortion/0/default
+    EN: Maybe mindlessly fucking while pregnant wasn't the best idea... You are no longer pregnant. Cum gives, and cum takes.
+    KO: 임신 중에 생각 없이 섹스한 건 최선의 생각이 아니었을지도... 더 이상 임신 상태가 아니야. 정액이 주기도 하고, 정액이 빼앗기도 하지.
+  /dialog/sexbound/en/notifications.config.patch//plugins/pregnant/abortion/1/default
+    EN: Maybe mindlessly fucking while pregnant wasn't the best idea...
+    KO: 임신 중에 생각 없이 섹스한 건 최선의 생각이 아니었을지도...
+  /dialog/tentacles/human-pregnant.config.patch//7/text
+    EN: I'm in a pickle here. Hmm... pickles.
+    KO: 곤란 처지네. 흠... 피클.
+  /dialog/tentacles/human-pregnant.config.patch//24/text
+    EN: Being pregnant in a tentacle hive is, like, totally totally surreal!
+    KO: 촉수 무리 안에서 임신한다는 건, 그니까, 완전 완전 비현실적이야!
+  /dialog/tentacles/pregnant.config.patch//7/text
+    EN: I'm in a pickle here. Hmm... pickles.
+    KO: 곤란 처지네. 흠... 피클.
+  /dialog/unboundvillagesecurity.config.patch//hail/default/default/0
+    EN: This is a no conflict zone, stranger.
+    KO: 이곳은 무분쟁 구역이다, 이방인.
+  /dialog/unboundvillagesecurity.config.patch//hail/apex/default/6
+    EN: This is a no conflict zone, please make no trouble.
+    KO: 이곳은 무분쟁 구역이다. 소란은 피우지 마라.
+  /dialog/viera.config.patch//wwvillagergreeting/default/default/8
+    EN: We do not take your presence lightly. She watches you, outsider.
+    KO: 네 존재를 가볍게 안 봐. 그녀가 지켜봐, 외부인.
+  /dialog/viera.config.patch//wwwayfarergreeting/default/default/8
+    EN: We do not take your presence lightly. She watches you, outsider.
+    KO: 네 존재를 가볍게 안 봐. 그녀가 지켜봐, 외부인.
+  /items/MATERIALS/tentacleblock.matitem.patch//shortdescription
+    EN: 
+    KO: 촉수 무리
+  /objects/cult_pillory/cult_pillory.object.patch//description
+    EN: A pillory made out of petrified tentacles.
+    KO: 화석화된 촉수로 만든 칼(형틀)입니다.
+  /objects/ship/aegi/aegishiplight/aegishiplightbroken.object.patch//avikanDescription
+    EN: This light isn't working properly. The ship engineer should take a look at it.
+    KO: 이 조명이 제대로 작동을 안 하네. 함선 기관사가 한번 봐야겠어.
+  /objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object.patch//avikanDescription
+    EN: This light isn't working properly. The ship engineer should take a look at it.
+    KO: 이 조명이 제대로 작동을 안 하네. 함선 기관사가 한번 봐야겠어.
+  /objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object.patch//avikanDescription
+    EN: This light isn't working properly. The ship engineer should take a look at it.
+    KO: 이 조명이 제대로 작동을 안 하네. 함선 기관사가 한번 봐야겠어.
+  /objects/themed/sushibar/sushibarmenu/sushibarmenu.object.patch//avianDescription
+    EN: 
+    KO: 이 요리 중 어떤 요리가 내 뱃속에 가장 쉬운 지 궁금하다 ...
+  /radiomessages/arcana_mission_seekerIntro.radiomessages.patch//arcana_mission_seekerIntro_3_2/text
+    EN: While the pistol doesn't do much damage compared to our standard combat equipment, ^orange;it fires a bouncy projectile when you hold down the fire button.^reset; See the
+    KO: 이 권총은 우리 표준 전투 장비에 비해 피해가 크지 않지만, ^orange;발사 버튼을 누르고 있으면 튀는 탄환을 쏜다.^reset; 저기 벽 뒤의 표적 보여? 총의 튀는 탄환으로 맞혀봐!
+  /radiomessages/atprk_planetpincomments.radiomessages.patch//atprk_planetpincomment_ocean3/text
+    EN: Unimpressed. Well yes, they are. It doesn't negate the fact that they are also painfully inconvenient in many ways.
+    KO: 무관심. 글쎄, 그렇긴 하지. 하지만 여러모로 따분하게 불편하다는 사실이 달라지진 않아.
+  /radiomessages/atprk_planetpincomments.radiomessages.patch//atprk_planetpincomment_alien4/text
+    EN: Unfazed. I guess? My point still stands though.
+    KO: 동요 없음. 내 말인데? 어쨌든 내 요점은 변하지 않아.
+  /radiomessages/ffs2_radiomessages.radiomessages.patch//ffs2_9_5/text
+    EN: ^white;Good thing Chiquita was still around to help.
+    KO: ^white;치키타가 남아서 도와준 게 천만다행이야.
+  /radiomessages/ffs2_radiomessages.radiomessages.patch//ffs2_lastboss_1_19/senderName
+    EN: White Crow Crew
+    KO: 화이트 크로 크루
+  /radiomessages/ffs2_radiomessages.radiomessages.patch//ffs2_lastboss_2_5/senderName
+    EN: White Crow Crew
+    KO: 화이트 크로 크루
+  /radiomessages/ffs2_radiomessages_hc.radiomessages.patch//ffs2_5_6b_3_hc/text
+    EN: Instead of a long slog, I'm just going to make you fight a bunch of tough guys instead!
+    KO: 긴 여정 대신에, 그냥 강한 놈들 한 무더기랑 싸우게 해줄게!
+  /radiomessages/ffs_mission_radiomessages.radiomessages.patch//ffs_cultistmission_lastline2/text
+    EN: ^white;The Ruin is dead, and so are you!!
+    KO: ^white;루인은 죽었고, 너도 그렇다!!
+  /radiomessages/gicexp_missions.radiomessages.patch//esc_exp_story_1/text
+    EN: You're here for the ‘ device ’ like YFFS- turn back. You're not one of them. I don't want to be your enemy.
+    KO: YFFS처럼 '장치' 때문에 온 거지 - 돌아가. 넌 그들과 달라. 적이 되고 싶지 않아.
+  /radiomessages/gicexp_missions.radiomessages.patch//esc_exp_story_rebel_3/text
+    EN: Kaly, Get your men over here quick- I'm gonna shoot this terrorist down now!
+    KO: 케일리, 부하들 빨리 이리 데려와- 지금 이 테러리스트 쏴버릴 거야!
+  /radiomessages/gico_messages.radiomessages.patch//gico_lion_village_arena_meetup/text
+    EN: So you're the one responsible for tearing through those humans and traitorous youkai. The chief would like to talk with you. She believes you may be of use to her.
+    KO: 네가 바로 그 인간들과 반역한 요괴들을 찢어발긴 장본인이구나. 족장님이 너와 얘기하고 싶어하셔. 네가 자신에게 쓸모 있을 거라 믿고 계셔.
+  /radiomessages/lofty_irisil_pickmeup.radiomessages.patch//lofty_irisil_pickMeUp_welcomeToOurHome_2/text
+    EN: You look like an adventurer, so you should know how to use a ^green;Relocator^reset; and ^green;Grappling Hook^reset;, right?
+    KO: 모험가처럼 보이는데, ^green;재배치기^reset;와 ^green;갈고리 걸이^reset; 사용법은 알지?
+  /radiomessages/lofty_irisil_pickmeup.radiomessages.patch//lofty_irisil_pickMeUp_completeRedRoom/text
+    EN: Cool. Use your ^green;Relocator^reset; to pick me up, then let's get out of here.
+    KO: 멋지다. ^green;리로케이터^reset;로 나를 집어 들고, 여기서 나가자.
+  /radiomessages/lofty_irisil_pickmeup.radiomessages.patch//lofty_irisil_pickMeUp_gravityChatter2/text
+    EN: DO YOU WANT TO HEAR A SONG I WROTE ABOUT GRAVITY
+    KO: 내가 중력에 대해 쓴 노래를 듣고 싶어
+  /radiomessages/lofty_irisil_pickmeup.radiomessages.patch//lofty_irisil_pickMeUp_redBunnyPuzzleInstructions/text
+    EN: This one's for me- you'll need to get me in through the top so you can press the button. Let's get this over with.
+    KO: 이건 나용이다 — 위로 날 들여보내서 버튼을 누르게 해 줘야 해. 어서 끝내자.
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter2_1_7/text
+    EN: But I'm a bit puzzled - ^green;I didn't notice these corridors when I looked up from below earlier.^reset;
+    KO: 그런데 좀 당황스럽네 - ^green;아까 아래에서 올려다봤을 때는 이 복도들이 안 보였거든.^reset;
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter2_3_5/text
+    EN: Clear the path!
+    KO: 길을 비켜라!
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter2_3_10/text
+    EN: It's me, Nereus! ^orange;Sally absorbed crystal again?^reset; And more, we've got something worse than that now!
+    KO: 나야, 네레우스! ^orange;샐리가 또 결정을 흡수했다고?^reset; 게다가, 지금 그보다 더 나쁜 게 생겼어!
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter3_1_10/text
+    EN: The tram track breaks off here. Looks like we'll have to run the rest of the way.
+    KO: 전차 선로가 여기서 끊겼어. 나머지 길은 뛰어야겠는데.
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter3_3_5/text
+    EN: What happened? Is the operation exposed? ^orange;We just observed a viol-
+    KO: 무슨 일이야? 작전이 노출됐어? ^orange;방금 폭력적인 반응을 관측했-
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_2_10/text
+    EN: Recuperation room? Looks like that's where their somebody is.
+    KO: 요양실? 저기 누군가 있는 것 같다.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_2_11/text
+    EN: The map indicates ^green;the recuperation room at the east end of the base^reset;. The control panel here should open the way for you.
+    KO: 지도에는 ^green;기지 동쪽 끝의 회복실^reset;이 표시돼 있다. 여기 있는 제어판으로 길을 열 수 있을 거야.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_4/text
+    EN: Another group of mine is detected.
+    KO: 또 다른 무리가 감지되었다.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_4_8/text
+    EN: Up there is the Test Manufacturing Shop, my people will stay here to hold off enemies. The rest is up to you!
+    KO: 저 위에 시험 제작소가 있다. 우리 사람들은 여기 남아 적을 막을 거다. 나머지는 너에게 달렸어!
+  /radiomessages/thea-instances.radiomessages.patch//remnantsplinter-foundgoal/text
+    EN: This seems to be the source of the strange energies here. You'd better tell Ayala what you've found.
+    KO: 이곳의 이상한 에너지들의 근원인 듯하다. 발견한 걸 아얄라에게 알리는 게 좋겠다.
+  /radiomessages/thea-instances.radiomessages.patch//vanguardmechunlock8/text
+    EN: The Krahl's jumpjets can also be used for horizontal flight. Try to fly to the other side.
+    KO: 크랄의 점프젯은 수평 비행에도 사용할 수 있다. 반대편으로 날아가 봐.
+  /radiomessages/thea-instances.radiomessages.patch//vanguardmechunlock10/text
+    EN: The Krahl will not fit through this small door. Jump out to proceed to the teleporter.
+    KO: 크랄은 이 작은 문을 통과할 수 없다. 뛰어나가서 텔레포터로 이동해.
+  /radiomessages/ttppmission.radiomessages.patch//ttppmission1e2/text
+    EN: SHUT UP!!! GIVE ME BACK MY COOCK!!!
+    KO: 닥쳐!!! 내 수탉 돌려줘!!!
+  /radiomessages/ttppmission.radiomessages.patch//ttppmission2f1/text
+    EN: Oh my, look at that tree! It's positively bursting with friends having the time of their lives, all tangled up in tentacle fun!
+    KO: 오 이런, 저 나무 좀 봐! 촉수 놀이에 뒤엉킨 채 신나게 즐기는 친구들로 완전히 터질 것 같네!
+  /radiomessages/ttppmission.radiomessages.patch//ttppmission3u5/text
+    EN: Bigger! Bigger!! BIGGER!!!
+    KO: 더 커! 더 커!! 더 커졌어!!!
+
+NOT FOUND:
+  /dialog/tentacles/hylotl-pregnant.config.patch//21/text
+  /dialog/tentacles/hylotl-pregnant.config.patch//23/text
+  /dialog/tentacles/hylotl-pregnant.config.patch//41/text
+  /radiomessages/ffs2_radiomessages.radiomessages.patch//ffs2_8_12/text
+  /radiomessages/ffs2_radiomessages.radiomessages.patch//ffs2_9_1/text
+  /radiomessages/ffs2_radiomessages.radiomessages.patch//ffs2_f3_9/text
+  /radiomessages/ffs2_radiomessages.radiomessages.patch//ffs2_f4_23/text
+  /radiomessages/ffs2_radiomessages.radiomessages.patch//ffs2_lastboss_0_8/text
+  /radiomessages/ffs2_radiomessages.radiomessages.patch//ffs2_lastboss_1_18/text
+  /radiomessages/ffs2_radiomessages.radiomessages.patch//ffs2_lastboss_2_8/text
+  /radiomessages/ffs_radiomessages.radiomessages.patch//ffs0_0_0/text
+  /radiomessages/ffs_radiomessages.radiomessages.patch//ffs0_3_1/text
+  /radiomessages/ffs_radiomessages.radiomessages.patch//ffs0_5_15/text
+  /radiomessages/ffs_radiomessages.radiomessages.patch//ffs0_lastboss_0_2/text
+  /radiomessages/ffs_radiomessages.radiomessages.patch//ffs_breadnut1_0_0/text
+  /radiomessages/ffs_radiomessages_hc.radiomessages.patch//ffs0_0_0_hc/text
+  /radiomessages/hellishdemon.radiomessages.patch//hellishdemon33/text
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_2_2/text
+  /radiomessages/ttppmission.radiomessages.patch//ttppmission1e/text

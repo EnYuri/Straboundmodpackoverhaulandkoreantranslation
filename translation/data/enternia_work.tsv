@@ -1,0 +1,447 @@
+asset	field	en	ko	src
+/deprecated/ct_deprecation_station.object	description	Get rewards for deprecated or lost items from Enternia mod.		
+/deprecated/ct_deprecation_station.object	shortdescription	^orange;Deprecation Station^reset;		
+/deprecated/items/ct_cetereye.item	shortdescription	^#2080f0;Cetereye^reset;		
+/deprecated/items/ct_cetereye.item	description	Ashal', Ceterai.		
+/deprecated/items/ct_orchid.codex	title	Little Star and The Starflower Order	작은 별과 별꽃 기사단	reuse
+/deprecated/items/ct_orchid.codex	description	An ebook about a fallen little star.	떨어진 작은 별에 관한 전자책이다.	reuse
+/deprecated/items/ct_stardust_collar.augment	description	A collar that makes your pet immune to Alternia, Enternia and Void effects.		
+/deprecated/items/ct_stardust_collar.augment	shortdescription	Stardust Collar		
+/deprecated/items/ct_starfire.item	description	You feel a familiar presence.		
+/deprecated/items/ct_starfire.item	shortdescription	Starfire Essence		
+/deprecated/items/ct_starmatter.item	description	Fabric of dreams.		
+/deprecated/items/ct_starmatter.item	shortdescription	Starmatter Tissue		
+/deprecated/items/ct_starsteel.item	description	Steel forged from memories.		
+/deprecated/items/ct_starsteel.item	shortdescription	Starsteel Bar		
+/items/active/alta/spawners/androids/alta.activeitem	shortdescription	Android		
+/items/active/alta/tools/capture/pod/ct_alta_capture_pod.thrownitem	shortdescription	Capture Pod		
+/items/active/alta/tools/capture/pod/ct_alta_capture_pod.thrownitem	description	Throw it at a monster to forcefully capture it and bring it to a new home.		
+/items/active/alta/tools/lights/flashlight/ct_alta_flashlight.flashlight	shortdescription	Enhanced Flashlight ^#8020f0;^reset;		
+/items/active/alta/tools/lights/flashlight/ct_alta_flashlight.flashlight	description	A handy flashlight!		
+/items/active/alta/tools/lights/illuminator/ct_alta_illuminator.flashlight	shortdescription	Alta Illuminator		
+/items/active/alta/tools/lights/illuminator/ct_alta_illuminator.flashlight	description	A pretty powerful flashlight.		
+/items/active/alta/tools/plant/ct_colorful_grass_seeds.thrownitem	shortdescription	Colorful Grass Seeds		
+/items/active/alta/tools/plant/ct_colorful_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow differently-colored grass!		
+/items/active/alta/tools/plant/ct_crimson_grass_seeds.thrownitem	shortdescription	Crimson Grass Seeds		
+/items/active/alta/tools/plant/ct_crimson_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow crimson-colored grass!		
+/items/active/alta/tools/plant/ct_flowery_grass_seeds.thrownitem	shortdescription	Flowery Grass Seeds		
+/items/active/alta/tools/plant/ct_flowery_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow flowery grass!		
+/items/active/alta/tools/plant/ct_grass_seeds.thrownitem	shortdescription	Grass Seeds	잔디 씨앗	reuse
+/items/active/alta/tools/plant/ct_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow grass.		
+/items/active/alta/tools/plant/ct_lush_grass_seeds.thrownitem	shortdescription	Lush Grass Seeds		
+/items/active/alta/tools/plant/ct_lush_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow jungle-like grass!		
+/items/active/alta/tools/plant/ct_mical_grass_seeds.thrownitem	shortdescription	Mical Growth Seeds		
+/items/active/alta/tools/plant/ct_mical_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow tiny mical crystals!		
+/items/active/alta/tools/plant/ct_thick_grass_seeds.thrownitem	shortdescription	Thick Grass Seeds		
+/items/active/alta/tools/plant/ct_thick_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow very dense grass!		
+/items/active/alta/tools/plant/ct_warped_grass_seeds.thrownitem	shortdescription	Warped Grass Seeds		
+/items/active/alta/tools/plant/ct_warped_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow tiny warped roots!		
+/items/active/alta/tools/plant/nade/ct_alta_grass_nade.thrownitem	shortdescription	Alta Grass Nade		
+/items/active/alta/tools/plant/nade/ct_alta_grass_nade.thrownitem	description	Toss these on any ground to explode with various grass.		
+/items/active/alta/tools/plant/omni/ct_colorful_grass_seeds.thrownitem	shortdescription	Omni Colorful Seeds ^#8020f0;^reset;		
+/items/active/alta/tools/plant/omni/ct_colorful_grass_seeds.thrownitem	description	Toss these on any ground to grow differently-colored grass!		
+/items/active/alta/tools/plant/omni/ct_crimson_grass_seeds.thrownitem	shortdescription	Omni Crimson Seeds ^#8020f0;^reset;		
+/items/active/alta/tools/plant/omni/ct_crimson_grass_seeds.thrownitem	description	Toss these on any ground to grow crimson-colored grass!		
+/items/active/alta/tools/plant/omni/ct_flowery_grass_seeds.thrownitem	shortdescription	Omni Flowery Seeds ^#2080f0;^reset;		
+/items/active/alta/tools/plant/omni/ct_flowery_grass_seeds.thrownitem	description	Toss these on any ground to grow flowery grass!		
+/items/active/alta/tools/plant/omni/ct_grass_seeds.thrownitem	shortdescription	Omni Grass Seeds ^#2080f0;^reset;		
+/items/active/alta/tools/plant/omni/ct_grass_seeds.thrownitem	description	Toss these on any ground to grow grass.		
+/items/active/alta/tools/plant/omni/ct_lush_grass_seeds.thrownitem	shortdescription	Omni Lush Seeds ^#2080f0;^reset;		
+/items/active/alta/tools/plant/omni/ct_lush_grass_seeds.thrownitem	description	Toss these on any ground to grow jungle-like grass!		
+/items/active/alta/tools/plant/omni/ct_mical_grass_seeds.thrownitem	shortdescription	Omni Mical Seeds ^#8020f0;^reset;		
+/items/active/alta/tools/plant/omni/ct_mical_grass_seeds.thrownitem	description	Toss these on on any ground to grow tiny mical crystals!		
+/items/active/alta/tools/plant/omni/ct_thick_grass_seeds.thrownitem	shortdescription	Omni Thick Seeds		
+/items/active/alta/tools/plant/omni/ct_thick_grass_seeds.thrownitem	description	Toss these on any ground to grow very dense grass!		
+/items/active/alta/tools/plant/omni/ct_warped_grass_seeds.thrownitem	shortdescription	Omni Warped Seeds ^#8020f0;^reset;		
+/items/active/alta/tools/plant/omni/ct_warped_grass_seeds.thrownitem	description	Toss these on any ground to grow tiny warped roots!		
+/items/active/alta/toys/dart/ct_alta_dart.thrownitem	shortdescription	Alta Dart		
+/items/active/alta/toys/dart/ct_alta_dart.thrownitem	description	A throwing dart, aim for the bullseye.		
+/items/active/alta/toys/dart/ct_alta_dart_ceterteal.thrownitem	shortdescription	Ceterteal Dart		
+/items/active/alta/toys/dart/ct_alta_dart_ceterteal.thrownitem	description	A throwing dart, aim for the bullseye.		
+/items/active/alta/toys/dart/ct_alta_dart_ionic.thrownitem	shortdescription	Ionic Dart		
+/items/active/alta/toys/dart/ct_alta_dart_ionic.thrownitem	description	A throwing dart, aim for the bullseye.		
+/items/active/alta/toys/dart/ct_alta_dart_omniblue.thrownitem	shortdescription	Omniblue Dart		
+/items/active/alta/toys/dart/ct_alta_dart_omniblue.thrownitem	description	A throwing dart, aim for the bullseye.		
+/items/active/alta/toys/fireworks/ct_alta_firework.thrownitem	shortdescription	Alta Firework		
+/items/active/alta/toys/fireworks/ct_alta_firework.thrownitem	description	Time for a celebration!		
+/items/active/alta/toys/fireworks/ct_stardust_firework.thrownitem	shortdescription	Stardust Firework		
+/items/active/alta/toys/fireworks/ct_stardust_firework.thrownitem	description	Time for a celebration!		
+/items/active/alta/toys/flashlight/ct_alta_flashlight.flashlight	shortdescription	Toy Alta Flashlight		
+/items/active/alta/toys/flashlight/ct_alta_flashlight.flashlight	description	A handy toy flashlight!		
+/items/active/alta/toys/paper/plane/ct_alta_plane.thrownitem	shortdescription	Alta Plane		
+/items/active/alta/toys/paper/plane/ct_alta_plane.thrownitem	description	A small plane made out of ayaka paper. Just don't be too wasteful!		
+/items/active/alta/toys/paper/plane/ct_alta_plane_cool.thrownitem	shortdescription	Cool Alta Plane		
+/items/active/alta/toys/paper/plane/ct_alta_plane_cool.thrownitem	description	A small aerodynamic plane from colored alta paper made for competitive paper plane throwing.		
+/items/active/alta/toys/paper/plane/ct_alta_plane_pretty.thrownitem	shortdescription	Pretty Alta Plane		
+/items/active/alta/toys/paper/plane/ct_alta_plane_pretty.thrownitem	description	A small plane made out of colored ayaka paper. Just don't be too wasteful!		
+/items/active/alta/toys/paper/plane/ct_ayaka_plane.thrownitem	shortdescription	Ayaka Plane		
+/items/active/alta/toys/paper/plane/ct_ayaka_plane.thrownitem	description	A small plane made out of ayaka paper. Just don't be too wasteful!		
+/items/active/alta/toys/soft/ct_alta_toy_iso_ball.thrownitem	shortdescription	Izo Ball		
+/items/active/alta/toys/soft/ct_alta_toy_iso_ball.thrownitem	description	This ball bounces when thrown.		
+/items/active/alta/toys/soft/ct_alta_toy_pet_ball.thrownitem	shortdescription	Little Pet Toy Ball		
+/items/active/alta/toys/soft/ct_alta_toy_pet_ball.thrownitem	description	I'd bet my pet would love playing with this.		
+/items/active/alta/toys/soft/ct_alta_toy_runeva_ball.thrownitem	shortdescription	Runeva Ball		
+/items/active/alta/toys/soft/ct_alta_toy_runeva_ball.thrownitem	description	It's an inflatable tricolor ball.		
+/items/active/alta/toys/soft/ct_alta_toy_ryushay_ball.thrownitem	shortdescription	Ryushay Ball		
+/items/active/alta/toys/soft/ct_alta_toy_ryushay_ball.thrownitem	description	It's a colorful inflatable beachball.		
+/items/active/alta/toys/soft/ct_alta_toy_vizhus_worm.thrownitem	shortdescription	Vizhus Worm Plushie		
+/items/active/alta/toys/soft/ct_alta_toy_vizhus_worm.thrownitem	description	What have we here?		
+/items/active/alta/toys/soft/ct_alta_toy_warpball.thrownitem	shortdescription	Warpball		
+/items/active/alta/toys/soft/ct_alta_toy_warpball.thrownitem	description	Sounds like a name of a sports game. A neat pet ball.		
+/items/armors/alta/clothing/artist_croptop/ct_alta_artist_croptop.chest	shortdescription	Artistic Crop-Top		
+/items/armors/alta/clothing/artist_croptop/ct_alta_artist_croptop.chest	description	"A perfect wear for ^#b0e0fc;altas^reset; who love to express themselves.
+
+Created by Perizhad alta designers with comfort in mind."		
+/items/armors/alta/clothing/artist_shorts/ct_alta_artist_shorts.legs	shortdescription	Artistic Shorts		
+/items/armors/alta/clothing/artist_shorts/ct_alta_artist_shorts.legs	description	A small pair of shorts that helps you feel free and alive.		
+/items/armors/alta/clothing/artist_sweater/ct_alta_artist_sweater.chest	shortdescription	Artistic Sweater		
+/items/armors/alta/clothing/artist_sweater/ct_alta_artist_sweater.chest	description	A stricking yet elegant shoulderless sweater for people of self-expression. Boosts your creativity stat by 20.		
+/items/armors/alta/clothing/light_shirt/ct_alta_light_shirt.chest	shortdescription	Light Shirt		
+/items/armors/alta/clothing/light_shirt/ct_alta_light_shirt.chest	description	A simple casual shirt worn by many altas. It smells of home and peace.		
+/items/armors/alta/clothing/light_skirt/ct_alta_light_skirt.legs	shortdescription	Light Skirt		
+/items/armors/alta/clothing/light_skirt/ct_alta_light_skirt.legs	description	A basic casual skirt worn by many altas. Nice and simple.		
+/items/armors/alta/clothing/light_sweater/ct_alta_light_sweater.chest	shortdescription	Light Sweater Vest		
+/items/armors/alta/clothing/light_sweater/ct_alta_light_sweater.chest	description	A cozy goodness that will make any ^#b0e0fc;alta^reset; feel at home.		
+/items/armors/alta/clothing/official_jacket/ct_alta_official_jacket.chest	shortdescription	Light Official Jacket		
+/items/armors/alta/clothing/official_jacket/ct_alta_official_jacket.chest	description	A top often used by ^#b0e0fc;alta^reset; representatives and officials. A choice of taking responsibility.		
+/items/armors/alta/clothing/official_skirt/ct_alta_official_skirt.legs	shortdescription	Light Official Skirt		
+/items/armors/alta/clothing/official_skirt/ct_alta_official_skirt.legs	description	A tidy layered skirt. A symbol of responsibility.		
+/items/armors/alta/clothing/official_tights/ct_alta_official_tights.legs	shortdescription	Light Official Tights		
+/items/armors/alta/clothing/official_tights/ct_alta_official_tights.legs	description	A pair of tidy dark tights with sharp footwear. Light yet very official.		
+/items/armors/alta/clothing/researcher_coat/ct_alta_researcher_coat.chest	shortdescription	^#f02020;EDS^reset; Researcher Coat		
+/items/armors/alta/clothing/researcher_coat/ct_alta_researcher_coat.chest	description	An official EDS researcher's coat. Practical and well thought-out.		
+/items/armors/alta/clothing/researcher_skirt/ct_alta_researcher_skirt.legs	shortdescription	^#f02020;EDS^reset; Researcher Skirt		
+/items/armors/alta/clothing/researcher_skirt/ct_alta_researcher_skirt.legs	description	An official EDS researcher's legwear. Practical and well thought-out.		
+/items/armors/alta/clothing/service_jacket/ct_alta_service_jacket.chest	shortdescription	Light Service Jacket		
+/items/armors/alta/clothing/service_jacket/ct_alta_service_jacket.chest	description	A typical jacket worn by ^#b0e0fc;alta^reset; servicers of different establishments.		
+/items/armors/alta/clothing/service_pants/ct_alta_service_pants.legs	shortdescription	Light Service Pants		
+/items/armors/alta/clothing/service_pants/ct_alta_service_pants.legs	description	A bottom issue for ^#b0e0fc;alta^reset; servicers who prefer trousers over skirts.		
+/items/armors/alta/clothing/service_skirt/ct_alta_service_skirt.legs	shortdescription	Light Service Skirt		
+/items/armors/alta/clothing/service_skirt/ct_alta_service_skirt.legs	description	A bottom issue for ^#b0e0fc;alta^reset; servicers who prefer skirts over trousers.		
+/items/armors/alta/clothing/social_bottom/ct_alta_social_bottom.legs	shortdescription	Social Worker Bottom		
+/items/armors/alta/clothing/social_bottom/ct_alta_social_bottom.legs	description	Shorts yet sturdy for safety and ease of movement!		
+/items/armors/alta/clothing/social_top/ct_alta_social_top.chest	shortdescription	Social Worker Top		
+/items/armors/alta/clothing/social_top/ct_alta_social_top.chest	description	A top usually worn by the most altruistic ^#b0e0fc;altas^reset;.		
+/items/armors/alta/events/jinxies/cyclop/ct_jinxies_cyclop.head	shortdescription	Cyclop's Eye		
+/items/armors/alta/events/jinxies/cyclop/ct_jinxies_cyclop.head	description	That's one face of an eye...		
+/items/armors/alta/events/jinxies/noface/ct_jinxies_noface.head	shortdescription	Noface		
+/items/armors/alta/events/jinxies/noface/ct_jinxies_noface.head	description	More like noeyes, am I right?!		
+/items/armors/alta/events/sonaveil/alta_scarf/ct_alta_scarf.head	shortdescription	Alta Scarf		
+/items/armors/alta/events/sonaveil/alta_scarf/ct_alta_scarf.head	description	A soft, cozy scarf in alta colors - perfect for keeping warm.		
+/items/armors/alta/events/sonaveil/scarf/ct_sonaveil_scarf.head	shortdescription	Sonaveil Scarf		
+/items/armors/alta/events/sonaveil/scarf/ct_sonaveil_scarf.head	description	Better wrap up - wouldn't want you catching a cold out there.		
+/items/armors/alta/other/backpack/ct_alta_backpack.back	shortdescription	Tidy Backpack		
+/items/armors/alta/other/backpack/ct_alta_backpack.back	description	A carefully packed backpack. You can wear it and feel a sense of meaning behind your back.		
+/items/armors/alta/other/eds_beret/ct_eds_beret.head	shortdescription	^#f02020;EDS^reset; Duty Beret		
+/items/armors/alta/other/eds_beret/ct_eds_beret.head	description	Decorative on-duty ^#b0e0fc;alta^reset; ^#f02020;EDS^reset; headwear.		
+/items/armors/alta/other/eds_visor/ct_eds_visor.head	shortdescription	Sky Visor		
+/items/armors/alta/other/eds_visor/ct_eds_visor.head	description	A light version of the original EDS visor.		
+/items/armors/alta/other/energy_mask/ct_alta_energy_mask.head	shortdescription	Energy Mask		
+/items/armors/alta/other/energy_mask/ct_alta_energy_mask.head	description	Developed by Tserera, this device provides visual analysis right to your eyes!		
+/items/armors/alta/other/halogen_pack/ct_alta_halogen_pack.back	shortdescription	Altered Halogen Pack		
+/items/armors/alta/other/halogen_pack/ct_alta_halogen_pack.back	description	A backpack with an attached halogen light. It's very bright!		
+/items/armors/alta/other/hologlasses/ct_alta_hologlasses.head	shortdescription	Hologlasses		
+/items/armors/alta/other/hologlasses/ct_alta_hologlasses.head	description	High-tech sunglasses created by ^#b0e0fc;alta^reset; researchers on ^#20f080;Alterash^reset;.		
+/items/armors/alta/other/industrial_collar/ct_alta_industrial_collar.head	shortdescription	Industrial Collar		
+/items/armors/alta/other/industrial_collar/ct_alta_industrial_collar.head	description	This collar provides health monitoring and a way of communication. Designed for any industrial environments.		
+/items/armors/alta/other/oxygen_mask/ct_alta_oxygen_mask.head	shortdescription	Oxygen Mask		
+/items/armors/alta/other/oxygen_mask/ct_alta_oxygen_mask.head	description	Developed by Tserera, this device provides visual analysis right to your eyes!		
+/items/armors/alta/other/pilot_helmet/ct_alta_pilot_helmet.head	shortdescription	Pilot Helmet		
+/items/armors/alta/other/pilot_helmet/ct_alta_pilot_helmet.head	description	Developed by Tserera, this device provides visual analysis right to your eyes!		
+/items/armors/alta/other/protective_collar/ct_alta_protective_collar.head	shortdescription	Protective Collar		
+/items/armors/alta/other/protective_collar/ct_alta_protective_collar.head	description	This collar provides an energy shield to prevent you from receiving damage.		
+/items/armors/alta/other/respiratory_mask/ct_alta_respiratory_mask.head	shortdescription	Respiratory Mask		
+/items/armors/alta/other/respiratory_mask/ct_alta_respiratory_mask.head	description	A simple but effective filtering mask to help you not breath dust.		
+/items/armors/alta/other/respiratory_mask_colorful/ct_alta_respiratory_mask_colorful.head	shortdescription	Colored Respiratory Mask		
+/items/armors/alta/other/respiratory_mask_colorful/ct_alta_respiratory_mask_colorful.head	description	A simple but effective filtering mask. Now in colors!		
+/items/armors/alta/other/science_ocular/ct_alta_science_ocular.head	shortdescription	Scientific Visor		
+/items/armors/alta/other/science_ocular/ct_alta_science_ocular.head	description	Developed by Tserera, this device provides visual analysis right to your eyes!		
+/items/armors/alta/other/science_pack/ct_alta_science_pack.back	shortdescription	Scientific Backpack		
+/items/armors/alta/other/science_pack/ct_alta_science_pack.back	description	A Tserera's development. This way the most important things are always happening right behind you.		
+/items/armors/alta/other/state_beret/ct_alta_state_beret.head	shortdescription	State Beret		
+/items/armors/alta/other/state_beret/ct_alta_state_beret.head	description	Decorative parade ^#b0e0fc;alta^reset; headwear.		
+/items/armors/alta/other/visor/ct_alta_visor.head	shortdescription	Omniblue Visor		
+/items/armors/alta/other/visor/ct_alta_visor.head	description	A visor with an omniblue lightsource. Helps you see in the dark.		
+/items/armors/alta/other/vr_headset/ct_alta_vr_headset.head	shortdescription	VR Headset	VR 헤드셋	reuse
+/items/armors/alta/other/vr_headset/ct_alta_vr_headset.head	description	A virtual reality headwear.		
+/items/armors/alta/tier3/scout/lightwear/ct_alta_scout_lightwear.chest	shortdescription	Protea's Jacket ^#8020f0;^reset;		
+/items/armors/alta/tier3/scout/lightwear/ct_alta_scout_lightwear.chest	description	"This protective jacket is encrusted with ^#ffa8e8;stardust^reset;. Label on the inner side reads ""From Protea «""."		
+/items/armors/alta/tier3/scout/mask/ct_alta_scout_mask.head	shortdescription	Protea's Mask ^#8020f0;^reset;		
+/items/armors/alta/tier3/scout/mask/ct_alta_scout_mask.head	description	A mask worn by Protea - a staris ^#b0e0fc;alta^reset; scout known for her vigilance and agility. Hairs on the back are made of ^#ffa8e8;stardust^reset;.		
+/items/armors/alta/tier3/scout/velocity_eaters/ct_alta_scout_velocity_eaters.legs	shortdescription	Protea's Vectors ^#8020f0;^reset;		
+/items/armors/alta/tier3/scout/velocity_eaters/ct_alta_scout_velocity_eaters.legs	description	These protective leggings with ^#ffa8e8;stardust^reset; crystals once belonged to Protea. They're yours now. Enjoy!		
+/items/armors/alta/tier4/elin/helmet/ct_elin_helmet.head	shortdescription	Elin Guard Helmet ^#20f080;^reset;		
+/items/armors/alta/tier4/elin/helmet/ct_elin_helmet.head	description	A helmet overgrown with ^#20f080;yaara^reset;. Worn by some Elin Garden guards.		
+/items/armors/alta/tier4/proto/helmet/ct_protohelmet.head	shortdescription	Protohelmet		
+/items/armors/alta/tier4/proto/helmet/ct_protohelmet.head	description	An energy-driven full electronic helmet used by some ^#b0e0fc;alta^reset; protoscouts.		
+/items/armors/alta/tier4/security/captain_helmet/ct_alta_security_captain_helmet.head	shortdescription	Security Captain's Helmet ^#20f080;^reset;		
+/items/armors/alta/tier4/security/captain_helmet/ct_alta_security_captain_helmet.head	description	A standard protocol helmet worn by ^#b0e0fc;alta^reset; security captains.		
+/items/armors/alta/tier4/security/chest/ct_alta_security_chest.chest	shortdescription	GR Guard ^#8020f0;^reset;		
+/items/armors/alta/tier4/security/chest/ct_alta_security_chest.chest	description	"A ^#ffa8e8;stardust^reset;-infused piece of armor made from bionix. Label on the inner side reads ""From Kora «""."		
+/items/armors/alta/tier4/security/droid_back/ct_alta_security_droid_back.back	shortdescription	Security Droid Powermod ^#20f080;^reset;		
+/items/armors/alta/tier4/security/droid_back/ct_alta_security_droid_back.back	description	A standard protocol power module of an ^#b0e0fc;alta^reset; security droid.		
+/items/armors/alta/tier4/security/droid_head/ct_alta_security_droid_head.head	shortdescription	Security Droid Head ^#20f080;^reset;		
+/items/armors/alta/tier4/security/droid_head/ct_alta_security_droid_head.head	description	A standard protocol head of an ^#b0e0fc;alta^reset; security droid.		
+/items/armors/alta/tier4/security/helmet/ct_alta_security_helmet.head	shortdescription	"GR ""Animus"" ^#8020f0;^reset;"		
+/items/armors/alta/tier4/security/helmet/ct_alta_security_helmet.head	description	"A high-tech enternia artifact that hides unknown power. And your face with it.  
+Has built-in ^#b0e0fc;breath protection^reset;."		
+/items/armors/alta/tier4/security/helmet_mk2/ct_alta_security_helmet_mk2.head	shortdescription	Security MkII Helmet ^#20f080;^reset;		
+/items/armors/alta/tier4/security/helmet_mk2/ct_alta_security_helmet_mk2.head	description	A slightly upgraded version of ^#b0e0fc;alta^reset; security helmets.		
+/items/armors/alta/tier4/security/legwear/ct_alta_security_legwear.legs	shortdescription	GR Stands ^#8020f0;^reset;		
+/items/armors/alta/tier4/security/legwear/ct_alta_security_legwear.legs	description	These protective greaves with ^#ffa8e8;stardust^reset; layers once belonged to Kora. They're yours now. Enjoy!		
+/items/armors/alta/tier4/security/pack/ct_alta_security_pack.back	shortdescription	GR Supply ^#8020f0;^reset;		
+/items/armors/alta/tier4/security/pack/ct_alta_security_pack.back	description	A compact ^#ffa8e8;stardust^reset;-enhanced life support system once worn by Kora.		
+/items/armors/alta/tier5/arco/android_head/ct_arco_android_head.head	shortdescription	Enviro Android Head ^#2080f0;^reset;		
+/items/armors/alta/tier5/arco/android_head/ct_arco_android_head.head	description	A head of an advanced android prototype for the ^#f08f20;Enviro Android Set^reset; series.		
+/items/armors/alta/tier5/arco/chest/ct_arco_chest.chest	shortdescription	Envirosuit Chestpiece		
+/items/armors/alta/tier5/arco/chest/ct_arco_chest.chest	description	Created for work in unstable and hazardous environments.		
+/items/armors/alta/tier5/arco/helmet/ct_arco_helmet.head	shortdescription	Envirosuit Helmet		
+/items/armors/alta/tier5/arco/helmet/ct_arco_helmet.head	description	Comes as part of the Envirosuit.		
+/items/armors/alta/tier5/arco/helmet_mk2/ct_arco_helmet_mk2.head	shortdescription	Envirosuit MkII Helmet ^#2080f0;^reset;		
+/items/armors/alta/tier5/arco/helmet_mk2/ct_arco_helmet_mk2.head	description	An improved version of the ^#f08f20;Envirosuit Helmet^reset; with added armor capabilities.		
+/items/armors/alta/tier5/arco/legwear/ct_arco_legwear.legs	shortdescription	Alta Lab Guard Pads		
+/items/armors/alta/tier5/arco/legwear/ct_arco_legwear.legs	description	A piece of equipment worn by ^#b0e0fc;alta lab guards^reset; in most ^#b0e0fc;alta laboratories^reset;.		
+/items/armors/alta/tier5/arco/protector/ct_arco_protector.back	shortdescription	Enviroprotector ^#2080f0;^reset;		
+/items/armors/alta/tier5/arco/protector/ct_arco_protector.back	description	Provides life support and enhanced protection.		
+/items/armors/alta/tier5/arco/rebreather/ct_arco_rebreather.head	shortdescription	Envirosuit Rebreather ^#2080f0;^reset;		
+/items/armors/alta/tier5/arco/rebreather/ct_arco_rebreather.head	description	Has an extended view as well as clearer vision and additional breath protection.		
+/items/armors/alta/tier5/combat/android_head/ct_combat_android_head.head	shortdescription	Combat Android Head ^#2080f0;^reset;		
+/items/armors/alta/tier5/combat/android_head/ct_combat_android_head.head	description	A head of an advanced android prototype for the ^#10b4ef;Combat Android Set^reset; series.		
+/items/armors/alta/tier5/combat/chest/ct_combat_chest.chest	shortdescription	Sona Jacketarmor ^#2080f0;^reset;		
+/items/armors/alta/tier5/combat/chest/ct_combat_chest.chest	description	A warm, armored uniform jacket usually used by ^#b0e0fc;sona soldiers^reset; and ^#60c0fc;arknightss^reset;.		
+/items/armors/alta/tier5/combat/helmet/ct_combat_helmet.head	shortdescription	Combat Helmet ^#2080f0;^reset;		
+/items/armors/alta/tier5/combat/helmet/ct_combat_helmet.head	description	A full ^#b0e0fc;alta^reset; army helmet, covering the head completely. Provides additional breath protection.		
+/items/armors/alta/tier5/combat/legwear/ct_combat_legwear.legs	shortdescription	Sona Legarmor ^#2080f0;^reset;		
+/items/armors/alta/tier5/combat/legwear/ct_combat_legwear.legs	description	Warm, armored uniform bottoms usually used by ^#b0e0fc;sona soldiers^reset; and ^#60c0fc;arknightss^reset;.		
+/items/armors/alta/tier5/combat/mask/ct_combat_mask.head	shortdescription	Albino Mask		
+/items/armors/alta/tier5/combat/mask/ct_combat_mask.head	description	A mask typically worn by ^#b0e0fc;alta medics^reset;. It provides medical insights and first aid instructions to the wearer.		
+/items/armors/alta/tier5/combat/mask_mk2/ct_combat_mask_mk2.head	shortdescription	Faceless Mask ^#8020f0;^reset;		
+/items/armors/alta/tier5/combat/mask_mk2/ct_combat_mask_mk2.head	description	A mask of an unknown alta, presumably a spacedrifter, one of many who used stardust to fuel their artifacts, like this one. Has built-in ^#b0e0fc;breath protection^reset;.		
+/items/armors/alta/tier5/eds/android_back/ct_eds_android_back.back	shortdescription	^#f02020;EDS^reset; Android Defensystem ^#2080f0;^reset;		
+/items/armors/alta/tier5/eds/android_back/ct_eds_android_back.back	description	A modularized defense system of an advanced ^#f02020;EDS Android Set^reset;.		
+/items/armors/alta/tier5/eds/android_head/ct_eds_android_head.head	shortdescription	^#f02020;EDS^reset; Android Head ^#2080f0;^reset;		
+/items/armors/alta/tier5/eds/android_head/ct_eds_android_head.head	description	A head of an advanced android prototype for the ^#f02020;EDS Android Set^reset; series.		
+/items/armors/alta/tier5/eds/chest/ct_eds_chest.chest	shortdescription	Thermoarmor ^#20f080;^reset;		
+/items/armors/alta/tier5/eds/chest/ct_eds_chest.chest	description	A power ranger body protection often used by riverside alta scouts.		
+/items/armors/alta/tier5/eds/helmet/ct_eds_helmet.head	shortdescription	Thermo Helmet ^#20f080;^reset;		
+/items/armors/alta/tier5/eds/helmet/ct_eds_helmet.head	description	A power ranger helmet often used by riverside alta scouts.		
+/items/armors/alta/tier5/eds/helmet_mk2/ct_eds_helmet_mk2.head	shortdescription	^#f02020;EDS^reset; MkII Helmet ^#2080f0;^reset;		
+/items/armors/alta/tier5/eds/helmet_mk2/ct_eds_helmet_mk2.head	description	An improved version of the ^#f02020;EDS Helmet^reset; with added energy capabilities.		
+/items/armors/alta/tier5/eds/legwear/ct_eds_legwear.legs	shortdescription	Thermoleggings ^#20f080;^reset;		
+/items/armors/alta/tier5/eds/legwear/ct_eds_legwear.legs	description	A power ranger legwear often used by riverside alta scouts.		
+/items/armors/alta/tier5/eds/proto_helmet/ct_eds_proto_helmet.head	shortdescription	^#f02020;EDS^reset; Proto Helmet ^#2080f0;^reset;		
+/items/armors/alta/tier5/eds/proto_helmet/ct_eds_proto_helmet.head	description	A heavy ^#f02020;EDS^reset; headwear with enhanced power, protection and breath protection in exchange for energy.		
+/items/armors/alta/tier5/misc/bishyn/helmet/ct_bishyn_helmet.head	shortdescription	Bishyn Helmet ^#2080f0;^reset;		
+/items/armors/alta/tier5/misc/bishyn/helmet/ct_bishyn_helmet.head	description	A helmet powered by poisonous ^#378754;bishyn^reset; crystals.		
+/items/armors/alta/tier5/misc/companion/helmet/ct_companion_helmet.head	shortdescription	Companion Helmet		
+/items/armors/alta/tier5/misc/companion/helmet/ct_companion_helmet.head	description	A helmet resembling a companion android's head.		
+/items/armors/alta/tier5/misc/industrial/helmet/ct_alta_industrial_helmet.head	shortdescription	Industrial Dura-Helmet		
+/items/armors/alta/tier5/misc/industrial/helmet/ct_alta_industrial_helmet.head	description	This helmet provides full protection from ^#80f020;poison^reset; and ^#f08020;fire^reset; hazards of industrial environment.		
+/items/armors/alta/tier5/misc/sona/helmet/ct_sona_helmet.head	shortdescription	Sona Soldier Helmet		
+/items/armors/alta/tier5/misc/sona/helmet/ct_sona_helmet.head	description	A camouflaged full helmet that provides clear vision in snowy environments.		
+/items/armors/alta/tier6/alternia/epp/ct_alternia_epp.back	shortdescription	^#2080f0;Alter^reset;-EPP		
+/items/armors/alta/tier6/alternia/epp/ct_alternia_epp.back	description	"An EPP with an augment slot. Adds 20% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#2080f0;Plasma Immunity^reset;.  
+^#838383;Starburst Rework^reset;^gray;: ^reset;^#7733aa;Mild Static^reset;^gray; immunity.^reset;"		
+/items/armors/alta/tier6/ceterai/android_head/ct_ceterai_android_head.head	shortdescription	^#2080f0;C.T.^reset; Android Head ^#8020f0;^reset;		
+/items/armors/alta/tier6/ceterai/android_head/ct_ceterai_android_head.head	description	A head of a heavy android prototype for the ^#2080f0;C.T. Android Set^reset; series.		
+/items/armors/alta/tier6/ceterai/chest/ct_ceterai_chest.chest	shortdescription	^#2080f0;C.T.^reset; Suit		
+/items/armors/alta/tier6/ceterai/chest/ct_ceterai_chest.chest	description	Provides enhanced energy flow in exchange for protection.		
+/items/armors/alta/tier6/ceterai/core/ct_ceterai_core.back	shortdescription	^#2080f0;C.T.^reset; Energy Core		
+/items/armors/alta/tier6/ceterai/core/ct_ceterai_core.back	description	This back part of the ^#2080f0;C.T. Set^reset; generates additional energy for the wearer. Has an augment slot.		
+/items/armors/alta/tier6/ceterai/helmet/ct_ceterai_helmet.head	shortdescription	Space Helmet		
+/items/armors/alta/tier6/ceterai/helmet/ct_ceterai_helmet.head	description	A piece of equipment worn by alta researchers and workers in ^#6f6c66;Astera Ordis^reset;. Can sometimes be found on a spacedrifter as well.		
+/items/armors/alta/tier6/ceterai/legwear/ct_ceterai_legwear.legs	shortdescription	^#2080f0;C.T.^reset; Walkers		
+/items/armors/alta/tier6/ceterai/legwear/ct_ceterai_legwear.legs	description	This alternia-enhanced legwear provides additional energy to its wearer.		
+/items/armors/alta/tier6/ceterai/mindframe/ct_ceterai_mindframe.head	shortdescription	^#2080f0;C.T.^reset; Mindframe ^#8020f0;^reset;		
+/items/armors/alta/tier6/ceterai/mindframe/ct_ceterai_mindframe.head	description	A misterious device, that you can put on your head. What is its purpose? The label on the side reads 'Mark II'. Has built-in ^#b0e0fc;breath protection^reset;.		
+/items/armors/alta/tier6/ceternia/epp/ct_ceternia_epp.back	shortdescription	^#20f080;Ceter^reset;-EPP		
+/items/armors/alta/tier6/ceternia/epp/ct_ceternia_epp.back	description	An EPP with an augment slot. Adds 25% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#20f080;Impulse Immunity^reset;.		
+/items/armors/alta/tier6/dreamer/android_head/ct_dreamer_android_head.head	shortdescription	Dreamer Android Head ^#8020f0;^reset;		
+/items/armors/alta/tier6/dreamer/android_head/ct_dreamer_android_head.head	description	A head of a heavy android prototype for the ^#8020f0;Dreamer Android Set^reset; series.		
+/items/armors/alta/tier6/dreamer/chest/ct_dreamer_chest.chest	shortdescription	Dreamer's Plating		
+/items/armors/alta/tier6/dreamer/chest/ct_dreamer_chest.chest	description	Will protect you with ^#8020f0;ionic^reset; bursts whenever you receive damage.		
+/items/armors/alta/tier6/dreamer/enhancer/ct_dreamer_enhancer.back	shortdescription	Thermo Thrusters ^#20f080;^reset;		
+/items/armors/alta/tier6/dreamer/enhancer/ct_dreamer_enhancer.back	description	These camo-painted backthrusters blend in perfectly with koywa fields! Almost perfectly. Often used by riverside scouts.		
+/items/armors/alta/tier6/dreamer/helmet/ct_dreamer_helmet.head	shortdescription	Sunset Heart		
+/items/armors/alta/tier6/dreamer/helmet/ct_dreamer_helmet.head	description	Some fashionable altas like to wear this stylish safety helmet when riding scouting and traveling hoverbikes, and so can you!		
+/items/armors/alta/tier6/dreamer/legwear/ct_dreamer_legwear.legs	shortdescription	Dreamer's Footwear		
+/items/armors/alta/tier6/dreamer/legwear/ct_dreamer_legwear.legs	description	This energy legwear refills your energy when you loose your health.		
+/items/armors/alta/tier6/elite/android_head/ct_elite_android_head.head	shortdescription	^#20f080;Elite^reset; Android Head ^#8020f0;^reset;		
+/items/armors/alta/tier6/elite/android_head/ct_elite_android_head.head	description	A head of a heavy android prototype for the ^#20f080;Elite Android Set^reset; series.		
+/items/armors/alta/tier6/elite/chest/ct_elite_chest.chest	shortdescription	Alta Lab Guard Armor		
+/items/armors/alta/tier6/elite/chest/ct_elite_chest.chest	description	A piece of equipment worn by ^#b0e0fc;alta lab guards^reset; in most ^#b0e0fc;alta laboratories^reset;.		
+/items/armors/alta/tier6/elite/generator/ct_elite_generator.back	shortdescription	Imperial Generator ^#8020f0;^reset;		
+/items/armors/alta/tier6/elite/generator/ct_elite_generator.back	description	Worn by ^#b0e0fc;elite guards^reset; protecting different ^#b0e0fc;alta capitals^reset; around Io.		
+/items/armors/alta/tier6/elite/helmet/ct_elite_helmet.head	shortdescription	Imperial Guard Helmet		
+/items/armors/alta/tier6/elite/helmet/ct_elite_helmet.head	description	Worn by ^#b0e0fc;elite guards^reset; protecting different ^#b0e0fc;alta capitals^reset; around Io.		
+/items/armors/alta/tier6/elite/legwear/ct_elite_legwear.legs	shortdescription	Imperial Greaves		
+/items/armors/alta/tier6/elite/legwear/ct_elite_legwear.legs	description	Worn by ^#b0e0fc;elite guards^reset; protecting different ^#b0e0fc;alta capitals^reset; around Io.		
+/items/armors/alta/tier6/elite/protector/ct_elite_protector.back	shortdescription	^#20f080;Elite^reset; Protector		
+/items/armors/alta/tier6/elite/protector/ct_elite_protector.back	description	Automatically applies a static shield whenever HP is down to 20%. Provides a life support system. Has an augment slot.		
+/items/armors/alta/tier6/enternia/epp/ct_enternia_epp.back	shortdescription	^#8020f0;Enter^reset;-EPP		
+/items/armors/alta/tier6/enternia/epp/ct_enternia_epp.back	description	"An EPP with an augment slot. Adds 18% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#8020f0;Ionic Immunity^reset;.  
+^#838383;Starburst Rework^reset;^gray;: ^reset;^#7733aa;Deadly Static^reset;^gray; immunity.^reset;"		
+/items/armors/alta/tier6/ghearun/back/ct_ghearun_back.back	shortdescription	Ghearun M1 Forcefield		
+/items/armors/alta/tier6/ghearun/back/ct_ghearun_back.back	description	Automatically applies a rechargable shield. Provides enviro protection. Has an augment slot. Runs on ^#a7e001;gheatsyn^reset;.		
+/items/armors/alta/tier6/ghearun/chest/ct_ghearun_chest.chest	shortdescription	Ghearun M1 Chest		
+/items/armors/alta/tier6/ghearun/chest/ct_ghearun_chest.chest	description	An armored suit with an exosceleton that runs on ^#a7e001;gheatsyn^reset; and provides power improvements.		
+/items/armors/alta/tier6/ghearun/helmet/ct_ghearun_helmet.head	shortdescription	Ghearun M1 Helm		
+/items/armors/alta/tier6/ghearun/helmet/ct_ghearun_helmet.head	description	A full helmet with additional visors. ^#a7e001;Ghearun^reset; suits are often worn by certain ^#b0e0fc;alta^reset; research groups. Runs on ^#a7e001;gheatsyn^reset;. Has built-in ^#b0e0fc;breath protection^reset;.		
+/items/armors/alta/tier6/ghearun/legwear/ct_ghearun_legwear.legs	shortdescription	Ghearun M1 Greaves		
+/items/armors/alta/tier6/ghearun/legwear/ct_ghearun_legwear.legs	description	Exoskeleton pipes on these greaves increase overall mobility of the suit. Run on ^a7e001;gheatsyn^reset;.		
+/items/armors/alta/tier6/stardust_epp/ct_alta_stardust_epp.back	shortdescription	Ceterai's Stardust EPP		
+/items/armors/alta/tier6/stardust_epp/ct_alta_stardust_epp.back	description	Electric, Enternia and Void status immunity. +20% electric resistance. Made by Ceterai to safely travel to stardust planets.		
+/items/armors/misc/ct_invisible/back/ct_alta_no_back.back	shortdescription	Invisible Backpack		
+/items/armors/misc/ct_invisible/back/ct_alta_no_back.back	description	Where did you go?!		
+/items/armors/misc/ct_invisible/chest/ct_alta_no_body.chest	shortdescription	Invisible Shirt	투명 셔츠	reuse
+/items/armors/misc/ct_invisible/chest/ct_alta_no_body.chest	description	Where did you go?!		
+/items/armors/misc/ct_invisible/head/ct_alta_no_head.head	shortdescription	Invisible Mask		
+/items/armors/misc/ct_invisible/head/ct_alta_no_head.head	description	Where did you go?!		
+/items/armors/misc/ct_invisible/legs/ct_alta_no_legs.legs	shortdescription	Invisible Skirt		
+/items/armors/misc/ct_invisible/legs/ct_alta_no_legs.legs	description	Where did you go?!		
+/items/armors/misc/ct_misc_crystal_pillar_hat/ct_misc_crystal_pillar_hat.head	shortdescription	Crystal Pillar Hat		
+/items/armors/misc/ct_misc_crystal_pillar_hat/ct_misc_crystal_pillar_hat.head	description	A bright blue crystal that you can put on your head.		
+/items/armors/misc/ct_misc_deprecation_device/ct_misc_deprecation_device.back	shortdescription	Deprecation Device		
+/items/armors/misc/ct_misc_deprecation_device/ct_misc_deprecation_device.back	description	Please accept this small gift for all that you've lost.		
+/items/armors/misc/ct_misc_deprecation_horns/ct_misc_deprecation_horns.head	shortdescription	Deprecation Horns		
+/items/armors/misc/ct_misc_deprecation_horns/ct_misc_deprecation_horns.head	description	A chaotic wig with horns and crystals. No one likes losing things.		
+/items/armors/my_enternia/trophies/crippit_head/ct_crippit.head	shortdescription	Crippihead		
+/items/armors/my_enternia/trophies/crippit_head/ct_crippit.head	description	A set of mysterious eyes hiding underneath a moonrock.		
+/items/armors/my_enternia/trophies/impulse_bobfae_head/ct_impulse_bobfae.head	shortdescription	Impulse Bobmask		
+/items/armors/my_enternia/trophies/impulse_bobfae_head/ct_impulse_bobfae.head	description	A fairly sturdy mask with a green visor embedded in it. Smells like flowers.		
+/items/augments/back/ct_alternia_augment.augment	shortdescription	^#2080f0;Alternia^reset; Augment ^#8020f0;^reset;		
+/items/augments/back/ct_alternia_augment.augment	description	"^#2080f0;Alter-EPP^reset;, condensed into an augment.
+Adds 20% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#2080f0;Plasma Immunity^reset;.  
+^gray;Starburst Rework: ^reset;^#7733aa;Mild Static^reset;^gray; immunity.^reset;"		
+/items/augments/back/ct_arco_augment.augment	shortdescription	Enviro Augment		
+/items/augments/back/ct_arco_augment.augment	description	An EPP module that slightly boosts your ^#f08020;fire^reset; and ^#80f020;poison^reset; resistance by 15%.		
+/items/augments/back/ct_arco_blockade_augment.augment	shortdescription	Enviroblockade Augment ^#2080f0;^reset;		
+/items/augments/back/ct_arco_blockade_augment.augment	description	An EPP module that boosts your ^#7733aa;electric resistance^reset; by 15% and gives ^#7733aa;Electric Immunity^reset;.		
+/items/augments/back/ct_astera_augment.augment	shortdescription	Astera Augment		
+/items/augments/back/ct_astera_augment.augment	description	An ^#6f6c66;Astera^reset; EPP module that gives you additional protection.		
+/items/augments/back/ct_bionid_augment.augment	shortdescription	Bionid Augment		
+/items/augments/back/ct_bionid_augment.augment	description	This luminous EPP module gives you electric protection and makes you highly illuminated.		
+/items/augments/back/ct_bishyn_augment.augment	shortdescription	Bishyn Augment ^#2080f0;^reset;		
+/items/augments/back/ct_bishyn_augment.augment	description	An EPP module infused with charged poisonous crystals. Increases swimming speed and adds ^#80f020;poison^reset; resistance.		
+/items/augments/back/ct_ceterai_augment.augment	shortdescription	^#2080f0;C.T.^reset; Augment ^#8020f0;^reset;		
+/items/augments/back/ct_ceterai_augment.augment	description	An EPP module that adds ^#2080f0;Sensitive Electronics^reset; and ^#2080f0;Force Field Autoshielder^reset;.		
+/items/augments/back/ct_ceternia_augment.augment	shortdescription	^#20f080;Ceternia^reset; Augment ^#8020f0;^reset;		
+/items/augments/back/ct_ceternia_augment.augment	description	"^#20f080;Ceter-EPP^reset;, condensed into an augment.
+Adds 25% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#20f080;Impulse Immunity^reset;."		
+/items/augments/back/ct_combat_augment.augment	shortdescription	Combat Augment		
+/items/augments/back/ct_combat_augment.augment	description	An EPP module that slightly boosts your power and movement speed.		
+/items/augments/back/ct_combat_power_augment.augment	shortdescription	Combat Power Augment ^#2080f0;^reset;		
+/items/augments/back/ct_combat_power_augment.augment	description	An EPP module that slightly boosts your power and overall mobility.		
+/items/augments/back/ct_dreamer_augment.augment	shortdescription	Dreamer's Augment ^#8020f0;^reset;		
+/items/augments/back/ct_dreamer_augment.augment	description	An EPP module that adds ^#8020f0;Ionic Clouds^reset; and ^#2080f0;Autoprotection^reset;.		
+/items/augments/back/ct_eds_aimbot_augment.augment	shortdescription	^#f02020;EDS^reset; Aimbot Augment ^#2080f0;^reset;		
+/items/augments/back/ct_eds_aimbot_augment.augment	description	An EPP module that slightly boosts your physical and electric protection.		
+/items/augments/back/ct_eds_augment.augment	shortdescription	^#f02020;EDS^reset; Augment		
+/items/augments/back/ct_eds_augment.augment	description	An EPP module that slightly boosts your physical and electric protection.		
+/items/augments/back/ct_elite_augment.augment	shortdescription	^#20f080;Elite^reset; Augment ^#8020f0;^reset;		
+/items/augments/back/ct_elite_augment.augment	description	An EPP module that adds ^#20f080;Autorepeller^reset; and ^#2080f0;Emergency Healer^reset;.		
+/items/augments/back/ct_enternia_augment.augment	shortdescription	^#8020f0;Enternia^reset; Augment ^#8020f0;^reset;		
+/items/augments/back/ct_enternia_augment.augment	description	"^#8020f0;Enter-EPP^reset;, condensed into an augment.
+Adds 18% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#8020f0;Ionic Immunity^reset;.  
+^gray;Starburst Rework: ^reset;^#7733aa;Deadly Static^reset;^gray; immunity.^reset;"		
+/items/augments/back/ct_hevika_augment.augment	shortdescription	Hevika Augment ^#2080f0;^reset;		
+/items/augments/back/ct_hevika_augment.augment	description	An EPP module that gives ^#0050c0;Hevikai Status Immunity^reset; and adds ^#0050c0;Overcharged Crystals^reset;.		
+/items/augments/back/ct_impulse_augment.augment	shortdescription	Impulse Augment ^#2080f0;^reset;		
+/items/augments/back/ct_impulse_augment.augment	description	An EPP module that makes you periodically burst with ionic clouds.		
+/items/augments/back/ct_ion_core_augment.augment	shortdescription	Ioncore Augment ^#2080f0;^reset;		
+/items/augments/back/ct_ion_core_augment.augment	description	This ^#4f4c46;obsidian^reset; EPP module fills you with ^#20f080;Overcharged Crystals^reset; and makes you burst with ^#8020f0;Ionic Clouds^reset;.		
+/items/augments/back/ct_ionic_augment.augment	shortdescription	Ionic Augment ^#2080f0;^reset;		
+/items/augments/back/ct_ionic_augment.augment	description	An EPP module that makes you periodically burst with ionic clouds.		
+/items/augments/back/ct_phospholion_augment.augment	shortdescription	Phospholion Augment		
+/items/augments/back/ct_phospholion_augment.augment	description	This mildly irradiated EPP module gives fire protection and makes you glow.		
+/items/augments/back/ct_plasma_augment.augment	shortdescription	Plasma Augment ^#2080f0;^reset;		
+/items/augments/back/ct_plasma_augment.augment	description	An EPP module that makes you periodically burst with plasma.		
+/items/augments/back/ct_warped_augment.augment	shortdescription	Warped Augment ^#20f080;^reset;		
+/items/augments/back/ct_warped_augment.augment	description	This mutated EPP module gives you ^#80f020;poison^reset; protection and makes you burst with ^#9b2d3f;warped^reset; ^#80f020;Poison Clouds^reset;.		
+/items/augments/pet/ct_accumulator_collar.augment	shortdescription	Accumulator Collar		
+/items/augments/pet/ct_accumulator_collar.augment	description	A collar that makes your pet immune to electric effects and repel enemies with energy waves when attacked. Made from ^#a7e001;gheatsyn^reset;.		
+/items/augments/pet/ct_aric_collar.augment	shortdescription	Toxic Spores Collar ^#2080f0;^reset;		
+/items/augments/pet/ct_aric_collar.augment	description	An ^#3baf2f;aric^reset; collar that causes your pet to periodically spray ^#80f020;Poison Clouds^reset; around it and gives it ^#80f020;poison^reset; protection.		
+/items/augments/pet/ct_eva_collar.augment	shortdescription	Evarus Collar		
+/items/augments/pet/ct_eva_collar.augment	description	A collar that makes your pet immune to ^#8020f0;Enternia^reset; effects.		
+/items/augments/pet/ct_mindframe_collar.augment	shortdescription	Mindframe Collar		
+/items/augments/pet/ct_mindframe_collar.augment	description	A collar that causes your pet to damage nearby enemies with electricity and protects it with a force shield when low on health.		
+/items/augments/pet/ct_warped_collar.augment	shortdescription	Poison Cloud Collar		
+/items/augments/pet/ct_warped_collar.augment	description	A collar that causes your pet to periodically spray poison clouds around it.		
+/items/augments/pet/ct_yaara_collar.augment	shortdescription	Conscious Collar		
+/items/augments/pet/ct_yaara_collar.augment	description	A collar that boosts your pet's ^#7733aa;electric resistance^reset; by 15% and gives it ^#7733aa;Electric Immunity^reset;.		
+/items/buildscripts/ct_mimics/back.back	shortdescription	Alta Antennas		
+/items/buildscripts/ct_mimics/back.back	description	A set of protected hitech appendages with an unclear purpose.		
+/items/buildscripts/ct_mimics/body.chest	shortdescription	Archiver Top		
+/items/buildscripts/ct_mimics/body.chest	description	A top half of a scientific coat used by alta archivers. Has lots of pockets for storing all the science goods!		
+/items/buildscripts/ct_mimics/head.head	shortdescription	Stardust Hood		
+/items/buildscripts/ct_mimics/head.head	description	This magical hood is glittering with stardust colors!		
+/items/buildscripts/ct_mimics/legs.legs	shortdescription	Archiver Bottom		
+/items/buildscripts/ct_mimics/legs.legs	description	A bottom half of a scientific coat used by alta archivers. Has lots of pockets for storing all the science goods!		
+/items/buildscripts/ct_mimics/proj.thrownitem	shortdescription	Alta Kinetic Javelin		
+/items/buildscripts/ct_mimics/proj.thrownitem	description	A simple toy dart that you can throw at a target. Or horibly miss it instead, whatever.		
+/items/generic/dyes/alta/ct_alta_dye.augment	shortdescription	Alta Dye		
+/items/generic/dyes/alta/ct_alta_dye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/alta/ct_bion_dye.augment	shortdescription	Bion Dye		
+/items/generic/dyes/alta/ct_bion_dye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/alta/ct_eds_dye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/alta/ct_titanium_dye.augment	shortdescription	Titanium Dye		
+/items/generic/dyes/alta/ct_titanium_dye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/food/events/jinxies/ct_jinxies_nade.thrownitem	shortdescription	Sweet Surprise		
+/items/generic/food/events/jinxies/ct_jinxies_nade.thrownitem	description	An innocent-looking candy that totally won't explode. Definitely food. Trust us. ^#f02080;«^reset;		
+/items/generic/food/other/WIP/ct_alliana_cake_slice.consumable	description	Runeva alta cuisine. The empress loves and cares for you! Though this cake can't express it fully, this time it got very close.		
+/items/generic/food/other/WIP/ct_alliana_cake_slice.consumable	shortdescription	Alliana's Love ^#8020f0;^reset;	알리아나의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_allie_cake.consumable	description	Runeva alta cuisine. The empress loves and cares for you! Though this cake can't express it fully, this time it got very close.		
+/items/generic/food/other/WIP/ct_allie_cake.consumable	shortdescription	Alliana's Love ^#8020f0;^reset;	알리아나의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_crystal_cake_slice.consumable	description	Calin alta cuisine. The mother of stars looks at you with love through the crystal specs in this masterpiece of a cake.		
+/items/generic/food/other/WIP/ct_crystal_cake_slice.consumable	shortdescription	Celestia's Love ^#8020f0;^reset;	셀레스티아의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_fortune_flower.consumable	description	Yava alta cuisine. A bouquet of flavors on a plate. These palopias turned out better than ever! Check the fortune afterwards!		
+/items/generic/food/other/WIP/ct_fortune_flower.consumable	shortdescription	Blooming Palopias ^#8020f0;^reset;	만개한 팔로피아스 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_ion_cake_slice.consumable	description	Nia alta cuisine. This well-made ion caked is beyond all praises! Surely it deserves the Al'deron's commander name next to it.		
+/items/generic/food/other/WIP/ct_ion_cake_slice.consumable	shortdescription	Mira's Love ^#8020f0;^reset;	미라의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_onitti_cake_slice.consumable	description	Yava alta cuisine. Multiple layers of pure love and care for all altas in existence. It melts your heart with essence of love.		
+/items/generic/food/other/WIP/ct_onitti_cake_slice.consumable	shortdescription	Elin's Love ^#8020f0;^reset;	엘린의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_pavolda_cake_slice.consumable	description	Calin alta cuisine. The mother of stars looks at you with love through the crystal specs in this masterpiece of a cake.		
+/items/generic/food/other/WIP/ct_pavolda_cake_slice.consumable	shortdescription	Celestia's Love ^#8020f0;^reset;	셀레스티아의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_special_mimosa_slice.consumable	description	Runeva alta cuisine. A very special mimosa that tastes exactly like that one time! That one time...		
+/items/generic/food/other/WIP/ct_special_mimosa_slice.consumable	shortdescription	Lenn's Mimosa ^#8020f0;^reset;		
+/items/generic/food/other/WIP/ct_trans_cake_slice.consumable	description	Runeva alta cuisine. The empress loves and cares for you! Though this cake can't express it fully, this time it got very close.		
+/items/generic/food/other/WIP/ct_trans_cake_slice.consumable	shortdescription	Alliana's Love ^#8020f0;^reset;	알리아나의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_warped_apple.consumable	description	Calin alta cuisine. An extra-warpy drink that will warp your perception of drinks as a concept.		
+/items/generic/food/other/WIP/ct_warped_apple.consumable	shortdescription	Glowarp ^#8020f0;^reset;	글로워프 ^#8020f0;^reset;	reuse
+/items/throwables/ct_alta_testing_ball.thrownitem	shortdescription	Gyrocore		
+/items/throwables/ct_alta_testing_ball.thrownitem	description	A large heavy metal ball with crystal panels and energy lines. Can be used for testing or as part of big mechanisms.		
+/items/throwables/ct_astera_tear.thrownitem	shortdescription	Astera's Tear		
+/items/throwables/ct_astera_tear.thrownitem	description	A launchable spear made out of ^#ffa8e8;stardust^reset; asteroids. ^#6f6c66;Astera^reset;'s gift.		
+/items/throwables/ct_bishyn_nade.thrownitem	shortdescription	Bishyn Nade		
+/items/throwables/ct_bishyn_nade.thrownitem	description	A poison crystal shrapnel blast device. 2 in 1.		
+/items/throwables/ct_gheatsyn_shard.thrownitem	shortdescription	Gheatsyn Shard		
+/items/throwables/ct_gheatsyn_shard.thrownitem	description	A liquid ^#a7e001;gheatsyn^reset; crystal shard that can be used as a throwable poisonous charge or as a crafting material.		
+/items/throwables/ct_hevika_flare.thrownitem	shortdescription	Hevika Flare		
+/items/throwables/ct_hevika_flare.thrownitem	description	Good for lighting up a dark cave before you dive into it. Lasts 60 seconds.		
+/items/throwables/ct_hevika_javelin.thrownitem	shortdescription	Hevika Javelin		
+/items/throwables/ct_hevika_javelin.thrownitem	description	A throwing spear made out of ^#0050c0;hevika^reset; crystals. Can be used for hunting or upgraded at an ^#b0e0fc;alta crafting station^reset;.		
+/items/throwables/ct_impulse_nade.thrownitem	shortdescription	Impulse Nade		
+/items/throwables/ct_impulse_nade.thrownitem	description	A condensed electric ^#20f080;impulse^reset; blast that will be released on impact or after 4 seconds of flight.		
+/items/throwables/ct_ion_javelin.thrownitem	shortdescription	Ion Javelin ^#8020f0;^reset;		
+/items/throwables/ct_ion_javelin.thrownitem	description	An improved and reinforced ^#0050c0;hevika^reset; javelin full of freed alternia and enternia energy. Commonly used by ^#8020f0;dreamers^reset; for hunting.		
+/items/throwables/ct_ionic_nade.thrownitem	shortdescription	Ion Nade		
+/items/throwables/ct_ionic_nade.thrownitem	description	A grenade that creates a localised static field that stuns and damages enemies.		
+/items/throwables/ct_isoslime_ball.thrownitem	shortdescription	Isoslime		
+/items/throwables/ct_isoslime_ball.thrownitem	description	A chunk of ^#7ddcde;isoslime^reset; (a.k.a. izoslime) that you can maliciously throw at someone to cover them in cryonic goo. Or make jam out of it.		
+/items/throwables/ct_phosphonade.thrownitem	shortdescription	Phosphonade		
+/items/throwables/ct_phosphonade.thrownitem	description	A dangerous ^#ceffd7;phospholion^reset; device that bursts with radioactive waves on impact.		
+/items/throwables/ct_plasma_nade.thrownitem	shortdescription	Plasma Nade		
+/items/throwables/ct_plasma_nade.thrownitem	description	A blast device that bursts with ^#2080f0;plasma^reset; on impact. Provides lasting damage from blobs of plasma.		
+/items/throwables/ct_thermomix_nade.thrownitem	shortdescription	Thermofrag Nade		
+/items/throwables/ct_thermomix_nade.thrownitem	description	A highly combustable substance made from modified ^#b0e0fc;thermomix^reset; nades. Sometimes used by riverside scouts.		
+/items/throwables/ct_tonna.thrownitem	shortdescription	Tonna		
+/items/throwables/ct_tonna.thrownitem	description	A ^#c1ebf8;tonnova^reset; fruit. Feels lighter than a coconut. You can throw it at someone or cook it!		
+/items/throwables/ct_vortex_nade.thrownitem	shortdescription	Vortex Nade ^#2080f0;^reset;		
+/items/throwables/ct_vortex_nade.thrownitem	description	A grenade that creates a localised vortex field that slows and damages enemies. Covered with signature ^#ffe364;Faradea^reset; stripes.		
+/items/throwables/ct_warped_glowbomb.thrownitem	shortdescription	Warped Fumes		
+/items/throwables/ct_warped_glowbomb.thrownitem	description	For when you need a quick light source.		
+/items/throwables/ct_warped_hive.thrownitem	shortdescription	Warped Hive		
+/items/throwables/ct_warped_hive.thrownitem	description	A hive of ^#9b2d3f;warped flies^reset;. These tiny poisonous creatures can become quite a threat when a hive is disturbed.		
+/stats/effects/asirai/ct_intension/ct_intension.statuseffect	label	Intension		
+/stats/effects/asirai/ct_overtension/ct_overtension.statuseffect	label	Overtension		

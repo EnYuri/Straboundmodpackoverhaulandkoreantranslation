@@ -1,0 +1,49 @@
+asset	field	en	ko	src
+/ffs_armors/Infantrycombatarmor/Infantrycombatarmor.head	itemName	Infantrycombathelmet		
+/ffs_armors/Infantrycombatarmor/Infantrycombatarmor.head	description	Standard combat helmet for Human Infantry.		
+/ffs_armors/Infantrycombatarmor/Infantrycombatarmor.head	shortdescription	ACH-9 with goggles and side armor		
+/ffs_armors/Infantrycombatarmor/Infantrycombatpack.back	itemName	Infantrycombatpack		
+/ffs_armors/Infantrycombatarmor/Infantrycombatpack.back	description	Standard backpack for Human Infantry.		
+/ffs_armors/Infantrycombatarmor/Infantrycombatpack.back	shortdescription	FCV-11 Combatpack		
+/ffs_armors/Infantrycombatarmor/Infantrycombatpants.legs	itemName	Infantrycombatpants		
+/ffs_armors/Infantrycombatarmor/Infantrycombatpants.legs	description	Combat Trousers for Human soldiers.		
+/ffs_armors/Infantrycombatarmor/Infantrycombatpants.legs	shortdescription	ACU-88 Trousers		
+/ffs_armors/Infantrycombatarmor/Infantrycombatvest.chest	itemName	Infantrycombatvest		
+/ffs_armors/Infantrycombatarmor/Infantrycombatvest.chest	description	standard bulletproof vests for Human soldiers.		
+/ffs_armors/Infantrycombatarmor/Infantrycombatvest.chest	shortdescription	BAS system		
+/ffs_armors/ffsea_PF/ffsea_PF.head	itemName	ffsea_PFhead		
+/ffs_armors/ffsea_PF/ffsea_PF.head	description	^green;Avali, Head Slot. ^white; Special helmet for ADF scouts unit.		
+/ffs_armors/ffsea_PF/ffsea_PF.head	shortdescription	Pathfinder Helmet		
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.back	itemName	ffsea_SEAUpowerpack		
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.back	description	Micro fusion reactor.		
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.back	shortdescription	SEAU powerpack		
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.chest	itemName	ffsea_SEAUchest		
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.chest	description	S.E.A.U stand for ^#00FFFF;S^white;pecial ^#00FFFF;E^white;vent ^#00FFFF;A^white;ction ^#00FFFF;U^white;nit.		
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.chest	shortdescription	S.E.A.U Chestguard		
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.head	itemName	ffsea_SEAUhead		
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.head	description	Heavy combat helmet for S.E.A.U member.		
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.head	shortdescription	S.E.A.U Helm		
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.legs	itemName	ffsea_SEAUpants		
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.legs	description	Power Armor for Human Special Force.		
+/ffs_armors/ffsea_SEAUset/ffsea_SEAUset.legs	shortdescription	S.E.A.U Trousers		
+/ffs_armors/head1/Infantrycombatarmor1.head	itemName	Infantrycombathelmet1		
+/ffs_armors/head1/Infantrycombatarmor1.head	description	Standard combat helmet for Human Infantry.		
+/ffs_armors/head1/Infantrycombatarmor1.head	shortdescription	ACH9 with side armor		
+/ffs_armors/head2/Infantrycombatarmor2.head	itemName	Infantrycombathelmet2		
+/ffs_armors/head2/Infantrycombatarmor2.head	description	Standard combat helmet for Human Infantry.		
+/ffs_armors/head2/Infantrycombatarmor2.head	shortdescription	ACH-9 with gasmask		
+/ffs_armors/head3/Infantrycombatarmor3.head	itemName	Infantrycombathelmet3		
+/ffs_armors/head3/Infantrycombatarmor3.head	description	Standard combat helmet for Human Infantry.		
+/ffs_armors/head3/Infantrycombatarmor3.head	shortdescription	ACH9 Combat Helmet		
+/ffs_armors/head4/Infantrycombatarmor4.head	itemName	Infantrycombathelmet4		
+/ffs_armors/head4/Infantrycombatarmor4.head	description	Standard combat helmet for Human Infantry.		
+/ffs_armors/head4/Infantrycombatarmor4.head	shortdescription	ACH-9 with goggles		
+/ffs_armors/hs/Infantrycombatarmor1.head	itemName	Infantrycombathelmet_hs		
+/ffs_armors/hs/Infantrycombatarmor1.head	description	Heavy combat helmet.		
+/ffs_armors/hs/Infantrycombatarmor1.head	shortdescription	ACH-10 Heavy Combat Helmet		
+/ffs_armors/hs/Infantrycombatpants2.legs	itemName	Infantrycombatpants_hs		
+/ffs_armors/hs/Infantrycombatpants2.legs	description	Combat Trousers for Human soldiers.		
+/ffs_armors/hs/Infantrycombatpants2.legs	shortdescription	Infantry Combat Trousers		
+/ffs_armors/hs/Infantrycombatvest2.chest	itemName	Infantrycombatvest_hs		
+/ffs_armors/hs/Infantrycombatvest2.chest	description	Heavy bulletproof vests.		
+/ffs_armors/hs/Infantrycombatvest2.chest	shortdescription	Heavycombatvest		

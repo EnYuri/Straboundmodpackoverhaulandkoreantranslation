@@ -1,0 +1,255 @@
+=== /codex/documents/scienceoutpost_kevin.codex.patch | /longContentPages/2 | lost:{'^EDB347;': 1}
+EN: ^EDB347;8월 4일^#FFFFFF; - 누군가 공기 시스템에 익소 알을 넣었습니다. 이제 약 900마리의 익소링이 부엌에서 난동을 부리고 있습니다. 케빈은 그들을 '진정시키기' 위해 분노 가루 4파운드를 추가했습니다. 4. 4파운드요 어디서 그렇게 많은 양의 1급 마약을 구한 거죠?!?!
+
+^#EDB347;Aug 8^#FFFFFF; - 케빈의 또 다른 '뚱보' 농담. 그는 튜바 연주 소리를 녹음했어요. 제가 움직일 때마다 그는 재생을 누릅니다. 7월 16일부터 계속되고 있는데 더 이상 참을 수 없어요.
+
+^#EDB347;Aug 12^#FFFFFF; - 다른 사람의 헤어 제품을 황산으로 대체하는 것이 어떻게 우스운 일인지 정말 모르겠어요. 내 피부가 면역력이 있는지 모르겠지만, 이제 대머리가 되어서 신생아 엉덩이처럼 생겼어요.
+
+^#EDB347;Aug 22^#FFFFFF; - 드디어 톤을 낮춘 것 같아요...12일 이후로 아무것도 없어요.
+
+^#EDB347;Aug 23^#FFFFFF; - 젠장. 내가 너무 빨리 말했어. 그는 우리 안에 있는 타조 알을 모두 랩터 알로 바꾼 것 같습니다. 그들은 부화하여 새끼들을 먹었습니다. 우리가 화를 냈을 때 그는 '알들이 외로워서. 알들에게 친구를 만들어줬어요'
+
+^#EDB347;Aug 26^#FFFFFF; - 케빈은 아무도 랩터 근처에 못 오게 했어요. 그는 랩터들에게 작은 발레리나 투투를 입히고 그들을 '학생'이라고 부릅니다.
+KO: ^#EDB347;8월 4일^#FFFFFF; - 누군가 환기 시스템에 익소알을 넣었다. 지금 주방에는 익소링 약 900마리가 날뛰고 있다. '진정시킨다'며 케빈이 레이지 파우더를 4파운드나 넣었다. 4파운드. 그 정도 양의 1급 마약을 대체 어디서 구한 거지?!?!
+
+^#EDB347;8월 8일^#FFFFFF; - 케빈이 또 '뚱보' 농담을 했다. 튜바 연주 소리를 녹음해놨다. 내가 움직일 때마다 재생 버튼을 누른다. 7월 16일부터 계속되고 있는데, 더는 못 참겠다.
+
+^#EDB347;8월 12일^#FFFFFF; - 누군가의 헤어 제품을 물에 희석한 황산으로 바꿔놓는 게 어떻게 웃긴 건지 정말 모르겠다. 내 피부는 면역일지 몰라도, 이제 나는 대머리가 되어 갓난아기 엉덩이처럼 보인다.
+
+^#EDB347;8월 22일^#FFFFFF; - 마침내 자중한 모양이다...12일 이후로 아무 일도 없었다.
+
+^#EDB347;8월 23일^#FFFFFF; - 젠장. 성급했다. 그가 사육장의 타조알을 전부 랩터 알로 바꿔놓은 모양이다. 알들이 부화해 새끼들을 잡아먹었다. 우리가 화를 내자, 그는 '알들이 외로워했어. 친구를 만들어줬지'라고 설명했다.
+
+^#EDB347;8월 26일^#FFFFFF; - 케빈이 아무도 랩터 근처에 못 가게 한다. 랩터들에게 전부 조그만 발레리나 튀튀를 입혀놓고 자기 '제자들'이라고 부른다.
+
+=== /items/active/weapons/bow/zerchesiumbow/zerchesiumbow.activeitem.patch | /description | lost:{'^rseet;': 1}
+EN: 서늘한 위협으로 가득합니다.
+^cyan;적을 둔화시킵니다^rseet;
+KO: 서늘한 위협으로 가득합니다.
+^cyan;적을 둔화시킵니다^reset;
+
+=== /items/active/weapons/melee/hammer/mystichammer.activeitem.patch | /description | lost:{'^red;': 1, '^reset;': 1}
+EN: 신비롭군.
+^red;물리 피해를 입힘^reset;
+KO: 정말 신비롭다.
+
+=== /items/armors/alta/tier4/security/helmet/ct_alta_security_helmet.head.patch | /presets/stardust/description | lost:{'^#b0e0fc;': 1, '^reset;': 1}
+EN: An Animus prototype that uses pure stardust energy to run, instead of relying on enternia.  
+Has built-in ^#b0e0fc;breath protection^reset;.
+KO: 엔터니아 대신 순수 성운 에너지로 작동하는 아니무스 프로토타입. |내장...
+
+=== /items/armors/alta/tier4/security/helmet/ct_alta_security_helmet.head.patch | /presets/orchid/description | lost:{'^#b0e0fc;': 1, '^reset;': 1}
+EN: An Animus prototype that uses pure void energy to run, instead of relying on enternia.  
+Has built-in ^#b0e0fc;breath protection^reset;.
+KO: 엔터니아 대신 순수 공허 에너지로 작동하는 아니무스 프로토타입. |내장...
+
+=== /items/armors/alta/tier4/security/helmet/ct_alta_security_helmet.head.patch | /presets/celestia/description | lost:{'^#b0e0fc;': 1, '^reset;': 1}
+EN: An Animus prototype that uses celestial energy to run, instead of relying on enternia.  
+Has built-in ^#b0e0fc;breath protection^reset;.
+KO: 엔터니아 대신 천체 에너지로 작동하는 아니무스 프로토타입. |내장...
+
+=== /items/armors/alta/tier4/security/helmet/ct_alta_security_helmet.head.patch | /presets/omni/description | lost:{'^#b0e0fc;': 1, '^reset;': 1}
+EN: An Animus prototype that uses omni-stardust energy to run, instead of relying on enternia.  
+Has built-in ^#b0e0fc;breath protection^reset;.
+KO: 엔터니아 대신 옴니-성운 에너지로 작동하는 아니무스 프로토타입. |내장...
+
+=== /items/armors/alta/tier6/ceterai/helmet/ct_ceterai_helmet.head.patch | /description | lost:{'^#b0e0fc;': 1, '^reset;': 1}
+EN: A C.T. series helmet. Has a built-in 'Omniblue' lightsource. The label on the side reads 'Mark I'. Has built-in ^#b0e0fc;breath protection^reset;.
+KO: C.T. 시리즈 헬멧. '옴니블루' 광원 내장. 옆 라벨에 'Mark I'라고 쓰여 있다.
+
+=== /items/armors/alta/tier6/dreamer/helmet/ct_dreamer_helmet.head.patch | /description | lost:{'^reset;': 1}
+EN: Mask worn by the one who's able to withstand the consuming power of enternia. Has built-in ^#b0e0fc;breath protection^reset;.
+KO: 엔터니아의 소모적 힘을 견딜 수 있는 자가 쓰는 마스크. 내장 ^#b0e0fc;...
+
+=== /items/buildscripts/ct_mimics/head.head.patch | /presets/bandana/description | lost:{'^reset;': 2, '^#b0e0fc;': 1}
+EN: A simple bandana used by some artists to keep hair or other things out of their face.  
+^gray;Where to find:^reset; ^#b0e0fc;Alta Artist^reset;
+KO: 일부 예술가가 머리카락이나 다른 것을 얼굴에서 치우려고 쓰는 소박한 반다나. |^gray;어디...
+
+=== /items/generic/drinks/chestojuice/chestojuice.consumable.patch | /description | lost:{'^green;': 1, '^reset;': 1}
+EN: 기운을 북돋아주는 차가운 음료입니다. ^green;유형: 과일^reset;
+KO: 활력을 주는 시원한 음료.
+
+=== /items/generic/drinks/pechajuice/pechajuice.consumable.patch | /description | lost:{'^green;': 1, '^reset;': 1}
+EN: 차갑고 달콤한 음료입니다. ^green;유형: 과일^reset;
+KO: 차갑고 달콤한 음료.
+
+=== /items/generic/produce/chestoberry.consumable.patch | /description | lost:{'^green;': 1, '^reset;': 1}
+EN: 에너지 부스트를 제공하고 드라이한 맛을 내는 베리입니다. ^green;유형: 과일^reset;
+KO: 에너지를 북돋아 주지만 맛은 퍽퍽한 열매.
+
+=== /items/generic/produce/pechaberry.consumable.patch | /description | lost:{'^green;': 1, '^reset;': 1}
+EN: 달콤하고 몸의 독을 제거하는 열매입니다. ^green;유형: 과일^reset;
+KO: 달콤하며 몸속의 독을 없애 주는 열매.
+
+=== /items/liquids/akkimariacid.liqitem.patch | /description | lost:{'^yellow;': 1, '^reset;': 1}
+EN: 부식성이 강한 유기 물질입니다.
+^yellow;원심분리 가능^reset;.
+KO: 고부식성 유기 물질.
+
+=== /items/liquids/centensianliquid.liqitem.patch | /description | lost:{'^yellow;': 1, '^reset;': 1}
+EN: 이 우주에 속하지 않는 것처럼 느껴지는 이상하고 진한 액체입니다.
+^yellow;원심분리 가능^reset;.
+KO: 이 우주에 속하지 않는 듯한 이상하고 걸쭉 액체.
+
+=== /objects/avalicamp/hammocks/avalihammock1_crew.object.patch | /description | lost:{'^reset;': 1, '^red;': 1}
+EN: 공중에 매달려 잠을 자면서 소름 끼치는 크롤링을 속이세요. ^yellow;승무원 +1^reset;. 증서로 간주됩니다. ^red;BYOS 전용^reset;
+KO: 공중에 매달려 자며 기어다니는 벌레를 속여. ^yellow;승무원 +1^reset;. 호적 등록으로 계산...
+
+=== /objects/crafting/matterassembler/prototyper.object.patch | /upgradeStages/2/itemSpawnParameters/shortdescription | lost:{'^#orange;': 1}
+EN: ^#orange;물질 어셈블러^reset;
+KO: ^orange;물질 조립기^reset;
+
+=== /objects/crafting/medievalworkstation/medievalworkstation.object.patch | /shortdescription | lost:{'^cyan;': 1, '^reset;': 1}
+EN: ^cyan;업그레이드 테이블^reset;
+KO: 중세식 작업대
+
+=== /objects/minibiome/precursor/precursordatabox/precursordatabox.object.patch | /description | lost:{'^reset;': 1}
+EN: 이것은 삽입된 아이템을 분석하기 위해 선구자 데이터에 액세스하는 방법을 제공하는 것으로 보입니다.
+^cyan;연구 속도^reset;: 5% (0.5%), 0.5s
+KO: 삽입된 아이템을 분석할 선구자 데이터 접근 방법을 제공하는 것 같다.|^cyan;연구 속도^...
+
+=== /objects/outpost/gunsmithshop/gunsmithshop.object.patch | /shortdescription | lost:{'^orange;': 1, '^reset;': 1}
+EN: ^orange;총기 상점^reset;
+KO: 총기 제작 가게
+
+=== /objects/power/isn_thermalgenerator/isn_thermalgenerator.object.patch | /description | lost:{'^orange;': 1, '^reset;': 2, '^blue;': 1}
+EN: 다용도 연료 연소 발전기입니다. 최대 ^orange;12W^reset;, 연료 종류에 따라 소비율이 결정됩니다. ^orange;가열, 열에 따라 출력 결정.^reset; ^blue;왼쪽 입력^reset;: 켜기/끄기 스위치
+KO: 다목적 연료 연소 발전기. 최대 ^orange;12W^reset; 생산, 연료 종류에 따라 소모...
+
+=== /objects/power/makeshiftreactor/makeshiftreactor.object.patch | /description | lost:{'^reset;': 2, '^red;': 1, '^blue;': 1}
+EN: 수소 동위원소에서 ^orange;15-360w^reset; 전력을 생성합니다. 각 슬롯은 독립적으로 출력합니다. ^red;냉각수 필요^reset; ^blue;왼쪽 입력^reset;: 켜기/끄기 스위치
+KO: 수소 동위원소로 ^orange;15-360w^reset; 전력 생산. 각 슬롯이 독립 출력. ^Red...
+
+=== /objects/skath/skathfusionreactor/skathfusionreactor.object.patch | /description | lost:{'^reset;': 2, '^red;': 1, '^blue;': 1}
+EN: 주황색, 35-600W^reset; 수소 동위원소로부터 전력을 생산합니다. 각 슬롯은 독립적으로 출력합니다. ^red;냉각수 필요^reset; ^blue;왼쪽 입력^reset;: 켜기/끄기 스위치
+KO: 수소 동위원소로 ^orange;35-600w^reset; 전력 생산. 각 슬롯이 독립 출력. ^Red...
+
+=== /radiomessages/shpd.radiomessages.patch | /shpd_dart/text | lost:{'^oange;': 1}
+EN: You discovered a ^green;dart^reset;. These are useful tools due to their ability to be ^oange;tipped^reset; with alchemy seeds or cleaned at an ^green;alchemy pot^reset;.
+KO: ^green;다트^reset;를 발견했다. ^orange;연금술 씨앗을 바르거나^reset; ^green;연금술 가마^reset;에서 정화할 수 있어 유용한 도구다.
+
+=== /species/arcanian.species.patch | /charCreationTooltip/description | lost:{'^#50c5b5;': 1, '^#00A9FF;': 4, '^white;': 5, '^darkgray;': 5}
+EN: ^#50c5b5;아르카니안^reset;은 거친 환경 탓에 단련된 사막 거주 종족이다. 그들은 아케인에 대한 타고난 감각을 지니도록 진화했다. 이제 오아시스에서 쉬며, 그들은 아케인과 학문의 문제를 추구한다.
+    ^#00A9FF;능력치^reset;
+^white;최대 체력^reset;: ^red;-10%^reset;
+^white;최대 에너지^reset;: ^green;+10%^reset;
+^darkgray;에너지 재생: -^reset;
+^darkgray;공격 배율: -^reset;
+^darkgray;방어력: -^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^green;+10%^reset;
+^darkgray;전기 저항: -^reset;
+^darkgray;독 저항: -^reset;
+^white;냉기 저항^reset;: ^red;-20%^reset;
+^white;물리 저항^reset;: ^green;+10%^reset;
+    ^#00A9FF;면역^reset;: -
+    ^#00A9FF;종족 특성^reset;: -
+KO: 가혹한 환경에 단련된 사막 거주 종족. 이들은 자연스럽게 신비로운 힘에 대한 감각을 진화시켰다. 이제는 오아시스에 정착하여 신비로운 학문과 학구적인 일들을 추구한다.
+
+  ^orange;식성^reset;: 잡식성
+
+^orange;장점^reset;:
+  에너지 x^green;1.1^reset;, 속도 +^green;10^reset;%, 매력 x^green;1.1^reset;
+  ^green;저항^reset;: 물리 +^green;10^reset;%, 전기 +^green;15^reset;%, 화염 +^green;20^reset;%
+  ^green;타고난 신비 지식^reset;으로 ^cyan;기술^reset; ^green;신비 활력 부여^reset;를 사용할 수 있다
+
+^orange;환경^reset;:
+  ^green;더운^reset; 생물군계: 체력 x^green;1.2^reset;, 에너지 x^green;1.2^reset;
+  ^red;추운^reset; 생물군계: 체력 x^red;0.9^reset;, 에너지 x^red;0.8^reset;, 속도 x^red;0.9^reset;
+
+^orange;무기^reset;:
+  완드/스태프: 피해량 x^green;1.15^reset;, 치명타 확률 +^green;10^reset;%, 에너지 재생 x^green;1.05^reset;%
+  단검: 방어력 x^green;1.1^reset;
+
+^red;약점^reset;:
+  체력 x^red;0.9^reset;
+  ^red;저항^reset;: 냉기 -^red;40^reset;%, 독 -^red;15^reset;%
+
+=== /species/lamia.species.patch | /charCreationTooltip/description | lost:{'^orange;': 3, '^green;': 3, '^cyan;': 1, '^red;': 3}
+EN: 빠르고 위험한 뱀족. 효율적인 신진대사로 거의 먹지 않고도 활동할 수 있으며, 강력한 꼬리로 힘차게 도약할 수 있습니다.
+
+ ^orange;음식 유형^reset;: 육식동물
+
+^orange;특전^reset;:
+ 에너지 +^green;20^reset;%, +^green;12^reset;% 점프, -^green;50^reset;% 허기 소모량
+ ^green;저항^reset;: +물리, +^green;10^reset;% 화염, +^green;20^reset;% 독 및 그림자 저항
+ ^cyan;면역^reset;: 정글, 검은 타르
+
+^orange;무기^reset;:
+ 라미아의 조준: 에너지가 높으면 활의 치명타 확률이 증가합니다.
+ 활 마스터리: +^green;25^reset;%
+ 채찍 숙련도: +^green;20^reset;%
+ 차크람: 피해 +^green;10^reset;%, 생명력 +^green;10^reset;% 및 +^green;12^reset;% 넉백 저항
+ 듀얼 차크람: 피해 +^green;10^reset;%
+
+
+^red;약점^reset;:
+ 체력 x^red;0.8^reset;
+ ^red;저항^reset;: -^red;40^reset;% 얼음, -^red;20^reset;% 코스믹
+KO: 이 씨발 우주선에 있는 씨발 뱀놈들은 이제 지긋지긋해
+    ^#00A9FF;능력치^reset;
+^darkgray;최대 체력: -^reset;
+^darkgray;최대 기력: -^reset;
+^white;기력 재생^reset;: ^green;+10%^reset;
+^white;공격 배율^reset;: ^green;+5%^reset;
+^darkgray;방어력: -^reset;
+    ^#00A9FF;저항^reset;
+^white;화염 저항^reset;: ^green;+5%^reset;
+^darkgray;전기 저항: -^reset;
+^white;독 저항^reset;: ^green;+25%^reset;
+^white;냉기 저항^reset;: ^red;-5%^reset;
+^darkgray;물리 저항: -^reset;
+    ^#00A9FF;면역^reset;: ^green;식중독, 슬라임
+    ^#00A9FF;종족 특성^reset;: -
+^white;낙하 피해^reset;: ^green;-5%^reset;, ^white;넉백 저항^reset;: ^green;+2%^reset;, ^white;이동 속도^reset;: ^green;+10%^reset;, ^white;점프 높이^reset;: ^red;-10%^reset;, ^white;최대 호흡^reset;: ^green;+25.0^reset;
+
+=== /species/veluu.species.patch | /charCreationTooltip/description | lost:{'^reset;': 1}
+EN: 분열된 고양이 종족입니다. 절반은 평화를 사랑하는 자유사상가이고, 나머지는 전쟁에 굶주린 괴물입니다.
+
+ ^orange;음식 유형^reset;: 잡식성, 날고기를 먹을 수 있습니다.
+
+^orange;특성^reset;:
+ 체력: x^green;1.05^reset;, 피해량 x^green;1.05^reset;
+ 이득 ^green;13^reset;% 점프 및 ^green;6^reset;% 달리기 속도^reset;, 추락 데미지 x^green;0.8^reset;
+ 저항^reset;
+ ^green; 저항^reset;: +^cyan;15^reset;% 얼음,+^cyan;5^reset;% 전기
+ ^cyan;나이트비전^reset;
+ 기술: ^green;면도날 발톱^reset;
+ ^green;면역^reset;: 정글, 진흙
+
+^orange;환경^reset;:
+ ^green;정글, 원시, 숲, 열대우림, 사막^reset;: 체력 x^green;1.1^reset;, 에너지 x^green;1.1^reset;
+ ^green;불모지, 유황, 지옥^reset;: 체력 x^red;0.8^reset;, 에너지 x^red;0.8^reset;
+
+^orange;무기^reset;:
+ 주먹 마스터리: +^green;20^reset;%
+ 단검 마스터리: ^green;15^reset;%
+ 암 캐논 숙련도: +^green;15^reset;%
+
+^red;약점^reset;:
+ ^red;저항^reset;: -^red;10^reset;% 화염, 독, 방사능, -^red;5^reset;% 물리
+KO: 분열된 고양이 종족입니다. 절반은 평화를 사랑하는 자유사상가이고, 나머지는 전쟁에 굶주린 괴물입니다.
+
+ ^orange;음식 유형^reset;: 잡식성, 날고기를 먹을 수 있습니다.
+
+^orange;특성^reset;:
+ 체력: x^green;1.05^reset;, 피해량 x^green;1.05^reset;
+ 이득 ^green;13^reset;% 점프 및 ^green;6^reset;% 달리기 속도^reset;, 추락 데미지 x^green;0.8^reset;
+ ^green;저항^reset;: +^cyan;15^reset;% 얼음,+^cyan;5^reset;% 전기
+ ^cyan;나이트비전^reset;
+ 기술: ^green;면도날 발톱^reset;
+ ^green;면역^reset;: 정글, 진흙
+
+^orange;환경^reset;:
+ ^green;정글, 원시, 숲, 열대우림, 사막^reset;: 체력 x^green;1.1^reset;, 에너지 x^green;1.1^reset;
+ ^green;불모지, 유황, 인퍼너스^reset;: 체력 x^red;0.8^reset;, 에너지 x^red;0.8^reset;
+
+^orange;무기^reset;:
+ 주먹 마스터리: +^green;20^reset;%
+ 단검 마스터리: ^green;15^reset;%
+ 암 캐논 숙련도: +^green;15^reset;%
+
+^red;약점^reset;:
+ ^red;저항^reset;: -^red;10^reset;% 화염, 독, 방사능, -^red;5^reset;% 물리
+

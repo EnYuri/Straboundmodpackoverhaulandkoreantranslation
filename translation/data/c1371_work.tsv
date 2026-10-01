@@ -1,0 +1,45 @@
+asset	field	en	ko	src
+/items/armor/mkiotntgear/mk_bandanagoggle2/mk_bandanagoggle2.head	description	Bandana & goggles		
+/items/armor/mkiotntgear/mk_bandanagoggle2/mk_bandanagoggle2.head	shortdescription	Bandana & goggles		
+/items/armor/mkiotntgear/mk_bandanagoogle1/mk_bandanagoggle1.head	description	Bandana & goggles		
+/items/armor/mkiotntgear/mk_bandanagoogle1/mk_bandanagoggle1.head	shortdescription	Bandana & goggles		
+/items/armor/mkiotntgear/mk_bandanascarf/mk_bandanascarf.head	description	Bandana & scarf		
+/items/armor/mkiotntgear/mk_bandanascarf/mk_bandanascarf.head	shortdescription	Bandana & scarf		
+/items/armor/mkiotntgear/mk_battlevest/mk_battlevest.chest	description	Late-Eclipse Ops armored combat jacket		
+/items/armor/mkiotntgear/mk_battlevest/mk_battlevest.chest	shortdescription	Late-Eclipse Ops Armored Jacket		
+/items/armor/mkiotntgear/mk_bpvest/mk_bpchest.chest	description	Late-Eclipse Ops standard combat jacket		
+/items/armor/mkiotntgear/mk_bpvest/mk_bpchest.chest	shortdescription	Late-Eclipse Ops Jacket		
+/items/armor/mkiotntgear/mk_bpvest/mk_bppants1.legs	description	Late-Eclipse Ops standard combat trousers		
+/items/armor/mkiotntgear/mk_bpvest/mk_bppants1.legs	shortdescription	Late-Eclipse Ops Trousers		
+/items/armor/mkiotntgear/mk_bpvest/mk_bppants2.legs	description	Late-Eclipse Ops trousers for men, shorts for women		
+/items/armor/mkiotntgear/mk_bpvest/mk_bppants2.legs	shortdescription	Late-Eclipse Ops Trousers		
+/items/armor/mkiotntgear/mk_fullheadgear1/mk_fullheadgear1.head	description	Late Eclipse Full Headgear		
+/items/armor/mkiotntgear/mk_fullheadgear1/mk_fullheadgear1.head	shortdescription	Late Eclipse Full Headgear		
+/items/armor/mkiotntgear/mk_fullheadgear2/mk_fullheadgear2.head	description	Late Eclipse Full Headgear		
+/items/armor/mkiotntgear/mk_fullheadgear2/mk_fullheadgear2.head	shortdescription	Late Eclipse Full Headgear		
+/items/armor/mkiotntgear/mk_goggles1/mk_goggles1.head	description	Protection Goggles		
+/items/armor/mkiotntgear/mk_goggles1/mk_goggles1.head	shortdescription	Protection Goggles		
+/items/armor/mkiotntgear/mk_goggles2/mk_goggles2.head	description	Always protect yourself before doing SCIENCE!		
+/items/armor/mkiotntgear/mk_goggles2/mk_goggles2.head	shortdescription	Protection Goggles		
+/items/armor/mkiotntgear/mk_longscarf/mk_longscarfback.back	description	A long scarf		
+/items/armor/mkiotntgear/mk_longscarf/mk_longscarfback.back	shortdescription	Long Scarf		
+/items/armor/mkiotntgear/mk_longscarf/mk_longscarfhead.head	description	A piece of the scarf covering you neck		
+/items/armor/mkiotntgear/mk_longscarf/mk_longscarfhead.head	shortdescription	Long Scarf		
+/items/armor/mkiotntgear/mk_scarfgoggle1/mk_scarfgoggle1.head	description	Scarf & Goggles		
+/items/armor/mkiotntgear/mk_scarfgoggle1/mk_scarfgoggle1.head	shortdescription	Scarf & Goggles		
+/items/armor/mkiotntgear/mk_scarfgoggle2/mk_scarfgoggle2.head	description	Scarf & Goggles		
+/items/armor/mkiotntgear/mk_scarfgoggle2/mk_scarfgoggle2.head	shortdescription	Scarf & Goggles		
+/items/armor/mkiotntgear/mk_swiftvest/mk_swiftpants.legs	description	Late-Eclipse Ops swift suit		
+/items/armor/mkiotntgear/mk_swiftvest/mk_swiftpants.legs	shortdescription	Late-Eclipse Ops Swift Suit		
+/items/armor/mkiotntgear/mk_swiftvest/mk_swiftvest.chest	description	Late-Eclipse Ops light shirt		
+/items/armor/mkiotntgear/mk_swiftvest/mk_swiftvest.chest	shortdescription	Late-Eclipse Ops Swift Shirt		
+/objects/crafting/mk_furnituredyestation/mk_furnituredyestation.object	description	Furniture Dye Station		
+/objects/crafting/mk_furnituredyestation/mk_furnituredyestation.object	shortdescription	^orange;Furniture Dye Station^white;	^orange;가구 염색대^white;	reuse
+/objects/crafting/mk_furnituredyestation/mk_furnituredyestation.object	title	Furniture Dye Station		
+/objects/crafting/mkioworkshopcrafting/mkioworkshopcrafting.object	description	MkioTNT Workshop		
+/objects/crafting/mkioworkshopcrafting/mkioworkshopcrafting.object	shortdescription	^orange;MkioTNT Workshop^white;	^orange;MkioTNT 작업장^white;	reuse
+/objects/crafting/mkioworkshopcrafting/mkioworkshopcrafting.object	title	MkioTNT Workshop		
+/objects/crafting/mkioworkshopcrafting/mkioworkshopcraftingmini.object	description	MkioTNT Workshop		
+/objects/crafting/mkioworkshopcrafting/mkioworkshopcraftingmini.object	shortdescription	^orange;MkioTNT Workshop^white;	^orange;MkioTNT 작업장^white;	reuse
+/objects/crafting/mkioworkshopcrafting/mkioworkshopcraftingmini.object	title	MkioTNT Workshop		
+/stats/effects/mk_bluoplasma/mk_bluoplasma.statuseffect	label	BluoPlasma		

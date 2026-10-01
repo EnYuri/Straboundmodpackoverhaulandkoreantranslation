@@ -1,0 +1,71 @@
+welcome" : "Frackin' Universe has introduced a new ^orange;Research System^reset; as of version 6.0.0 (October, 2020). 
+
+This change completely revamps game progression from the ground up, letting users choose what they want to learn, and when, at their own pace. It also brings with it a slowed down early-game and a more trackable progression chain from mid-game and onward.
+You will be required to interact directly with the ^orange;Research System^reset; to do this, however.
+
+To access the ^orange;Research System^reset; menu, the following are options:
+
+- Your ^orange;Personal Tricorder^reset;, via the ^green;Green Beaker^reset; icon. This is the most immediate method, and is available as soon as you start your ships computer.\n
+- Via your ^orange;SAIL^reset; on your ship, in the ^green;MISC^reset; menu.\n
+- Via the ^orange;Quickbar^reset;, if you use that mod. We highly recommend it.\n
+
+^cyan;Read the Guide books in your ships storage^reset; for more detailed help about game mechanics and features.
+
+NOTE: ^red;You should no longer have Frackin Races^reset; installed if using Frackin Universe. This will cause problems.
+
+^orange;If using BYOS mode with custom races^reset;: you must install the addon located on Steam/CF Forums (FU BYOS Race Addon).
+^orange;If using Custom Races with FU SAIL^reset;: Install theaddon via Steam or CF Forums (FU SAIL Modded Race Support).
+
+You can open this window manually if you have the StardustLib or QuickBar mod installed via the !Updates button.
+Please make sure you are not using anything included in the RED (and ideally the other colors too) on the Info tab below.
+",
+
+
+
+	"credits" : "#file#/_FUcredits.config",
+	
+	"info" : "
+^orange;Incompatible Mods^reset;
+
+For a list of incompatible mods, check the wiki on Miraheze (NOT Fandom). It is linked on the main menu of the game. It is the most direct place to get the most updated information.
+
+
+^orange;Frequently Asked Questions^reset;
+
+Q: Where is the official wiki?
+A: frackinuniverse.miraheze.org is the address. The Fandom one is incorrect, and horribly outdated. They merely want your ad revenue.
+
+Q: Is there a social hub for FU users such as myself?
+A: Yes, there is a Discord server. Check the mods page for a link.
+
+Q: Where can I report issues/bugs, contribute, or make suggestions?
+A: The FU discord server
+
+"
+	
+}
+
+================================================================================
+welcome" : "
+Welcome to ^orange;Ztarbound^reset;; A mod that aims to improve some of the untouched by mods vanilla aspects and add some more tools for modders to play with!
+
+^orange;Updated to 1.05c:^reset;
+^green;>^reset; Some research tree fixed and QoL improvements
+
+This window, added by this mod, is here to notify you when a mod (using this feature) was updated, as well as guide new and old users through some basic mod info and important changes, including, but not limited to, changelogs, extra information, and credits.*
+
+Normally, these windows cannot be closed instantly when called by a mods update, a newly created character(Because of limitations), or when installing a new mod.
+
+But don't worry, if only one mod is updated/added, you can close the window after a short timer that appears in the bottom left corner.**
+
+If multiple mods were updated/added, the pane will be closeable after you've viewed all the mods.** (Via the 'previous'/'next' buttons)
+
+You can open this window manually through SAIL, or the quickbar. (provided by StardutLib/QuickbarMini)
+
+Want your mod to use this feature? Not a problem! Head on to the 'Information' tab, you'll find everything you need there.
+
+Be advised - This mod is integrated into Frackin' Universe, and does not require the standalone version. If you have the standalone version installed alongside FU, remove the standalone version as to not slow down Starbounds loading time, and to prevent potential issues.
+
+Thanks, and have fun! :)
+
+* - The information provided depends on whether the mod in question is using thi

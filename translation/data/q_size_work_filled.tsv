@@ -1,0 +1,11 @@
+asset	field	en	ko	src
+/items/active/throwables/bodysize_grownade.thrownitem	shortdescription	^cyan;Grow-nade^reset;	^cyan;성장네이드^reset;	
+/items/active/throwables/bodysize_grownade.thrownitem	description	Tym Particle altering grenade that ^cyan;Grows^reset; entities really fast.	개체를 아주 빠르게 ^cyan;성장^reset;시키는 팀 입자 변형 수류탄.	
+/items/active/throwables/bodysize_shrinknade.thrownitem	shortdescription	^yellow;Shrink-nade^reset;	^yellow;축소네이드^reset;	
+/items/active/throwables/bodysize_shrinknade.thrownitem	description	Tym Particle altering grenade that ^yellow;Shrinks^reset; entities really fast.	개체를 아주 빠르게 ^yellow;축소^reset;시키는 팀 입자 변형 수류탄.	
+/stats/effects/activesizechanger/growbodysize.statuseffect	label	Growing	커지는 중	
+/stats/effects/activesizechanger/growbodysize_by100.statuseffect	label	Growing	커지는 중	
+/stats/effects/activesizechanger/growbodysize_heal.statuseffect	label	Growing	커지는 중	
+/stats/effects/activesizechanger/shrinkbodysize.statuseffect	label	Shrinking	작아지는 중	
+/stats/effects/activesizechanger/shrinkbodysize_by100.statuseffect	label	Shrinking	작아지는 중	
+/stats/effects/activesizechanger/shrinkbodysize_damage.statuseffect	label	Shrinking	작아지는 중	

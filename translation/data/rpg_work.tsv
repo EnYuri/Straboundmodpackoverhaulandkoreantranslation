@@ -1,0 +1,313 @@
+asset	field	en	ko	src
+/items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken.thrownitem	shortdescription	Aether		
+/items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken.thrownitem	description	Aether, a shadowy shuriken that duplicates using dark energy.		
+/items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken2.thrownitem	shortdescription	Shadow Aether	섀도우 에테르	reuse
+/items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken2.thrownitem	description	Shadow Aether, a sharper, shadowy shuriken that duplicates using dark energy.		
+/items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken3.thrownitem	shortdescription	^red;Blood Aether	^red;피의 에테르	reuse
+/items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken3.thrownitem	description	Feed me.	먹이를 줘.	reuse
+/items/active/classweapons/wizardstaff/novastatus/starfall.statuseffect	label	Starfall		
+/items/active/classweapons/wizardstaff/novastatus/wizardnovastatus.statuseffect	label	Starfall		
+/items/active/specweapons/fae/rooted/rooted.statuseffect	label	Rooted		
+/items/active/specweapons/hunter/arrows/flamearrow/sear/sear.statuseffect	label	Burning	화상	reuse
+/items/active/specweapons/wraith/combos/cursed.statuseffect	label	Cursed		
+/items/active/weapons/ivrpg_grimoire/abilities/nosferatu/monster/ivrpg_nosferatu.statuseffect	label	Nosferatu		
+/items/armors/patreonspiritmask.head	description	This mask makes you look quite spooky!		
+/items/armors/patreonspiritmask.head	shortdescription	Spirit Mask		
+/items/throwables/caltrops/caltrops.thrownitem	shortdescription	Caltrops		
+/items/throwables/caltrops/caltrops.thrownitem	description	Thrown weapons believed to be inspired by an ancient childrens' toy.		
+/items/throwables/caltrops/gravitrops.thrownitem	shortdescription	Gravitrops		
+/items/throwables/caltrops/gravitrops.thrownitem	description	Caltrops infused with phase matter, making them more effective against flying enemies.		
+/items/throwables/shurikens/arcshuriken/arcshuriken.thrownitem	shortdescription	Arc Shuriken		
+/items/throwables/shurikens/arcshuriken/arcshuriken.thrownitem	description	A humming shuriken, sure to shock enemies.		
+/items/throwables/shurikens/cryoshuriken/cryoshuriken.thrownitem	shortdescription	Cryo Shuriken		
+/items/throwables/shurikens/cryoshuriken/cryoshuriken.thrownitem	description	A freezing shuriken, sure to stop enemies in their tracks.		
+/items/throwables/shurikens/durasteelshuriken/durasteelshuriken.thrownitem	shortdescription	Durasteel Shuriken		
+/items/throwables/shurikens/durasteelshuriken/durasteelshuriken.thrownitem	description	A shuriken, pocket-sized and deadly.		
+/items/throwables/shurikens/infernalshuriken/infernalshuriken.thrownitem	shortdescription	Infernal Shuriken		
+/items/throwables/shurikens/infernalshuriken/infernalshuriken.thrownitem	description	A fiery shuriken, sure to burn enemies.		
+/items/throwables/shurikens/toxicshuriken/toxicshuriken.thrownitem	shortdescription	Toxic Shuriken		
+/items/throwables/shurikens/toxicshuriken/toxicshuriken.thrownitem	description	An infested shuriken, sure to poison enemies.		
+/ivrpg_specs/abilities/adept/agilemagic.statuseffect	label	Fluctuation		
+/ivrpg_specs/abilities/assassin/predator.statuseffect	label	Predator		
+/ivrpg_specs/abilities/conquistador/inquisition.statuseffect	label	Inquisition		
+/ivrpg_specs/abilities/crusader/purity.statuseffect	label	Purity		
+/ivrpg_specs/abilities/darktemplar/corrupted.statuseffect	label	Corrupted		
+/ivrpg_specs/abilities/darktemplar/corruption.statuseffect	label	Corruption	오염체	reuse
+/ivrpg_specs/abilities/dragoon/flightless.statuseffect	label	Flightless		
+/ivrpg_specs/abilities/hunter/cloak.statuseffect	label	Cloak		
+/ivrpg_specs/abilities/juggernaut/inertia.statuseffect	label	Inertia		
+/ivrpg_specs/abilities/mechanist/fortify.statuseffect	label	Fortify		
+/ivrpg_specs/abilities/necromancer/undead.statuseffect	label	Undead		
+/ivrpg_specs/abilities/saboteur/ambidextrous.statuseffect	label	Ambidextrous		
+/ivrpg_specs/abilities/technomancer/biohazardous.statuseffect	label	Biohazardous		
+/ivrpg_specs/techs/elementress/electric/ultimate/ivrpg_lightning.statuseffect	label	Electrocution		
+/ivrpg_specs/techs/elementress/ice/ultimate/ivrpg_freeze.statuseffect	label	Frozen	빙결	reuse
+/ivrpg_specs/techs/necromancer/sacrifice/bonemonster.statuseffect	label	Undead		
+/ivrpg_specs/techs/necromancer/sacrifice/sacrifice.statuseffect	label	Cursed		
+/ivrpg_specs/techs/shade/quasarcamouflage.statuseffect	label	Quasar		
+/ivrpg_specs/techs/valkyrie/status/einherjar.statuseffect	label	Einherjar		
+/ivrpg_specs/techs/vigilante/desperadostatus.statuseffect	label	Desperado		
+/ivrpg_specs/techs/wanderer/soliloquy.statuseffect	label	Soliloquy		
+/monsters/ivrpgElementEffects/ivrpgembrittle/ivrpgembrittle.statuseffect	label	Slow	느려짐	reuse
+/monsters/ivrpgElementEffects/ivrpgoverload/ivrpgoverload.statuseffect	label	Electrified	감전	reuse
+/monsters/ivrpgElementEffects/ivrpgsear/ivrpgsear.statuseffect	label	Burning	화상	reuse
+/monsters/ivrpgElementEffects/ivrpgtoxify/ivrpgtoxify.statuseffect	label	Poisoned	중독	reuse
+/monsters/rpgmonsters/debuffs/noability.statuseffect	label	Silenced		
+/monsters/soldierstun/ivrpgstun.statuseffect	label	Stunned	기절	reuse
+/objects/affinity/affinitytype.currency	description	Points that change your Affinity.		
+/objects/affinity/affinitytype.currency	shortdescription	Affinity Type		
+/objects/class/classtype.currency	description	A droplet of mysterious power.		
+/objects/class/classtype.currency	shortdescription	Class Droplet		
+/objects/experience/currentlevel.currency	description	Levels.		
+/objects/experience/currentlevel.currency	shortdescription	Levels.		
+/objects/experience/experienceorb.currency	description	Experience orbs used to level up.		
+/objects/experience/experienceorb.currency	shortdescription	Experience Orb		
+/objects/mastery/masterypoint.currency	description	Mastery Points. Used to attain peak strength!		
+/objects/mastery/masterypoint.currency	shortdescription	Mastery Point		
+/objects/profession/proftype.currency	description	A droplet of occupational knowledge.		
+/objects/profession/proftype.currency	shortdescription	Profession Droplet		
+/objects/skillbook/skillbookopen.currency	description	Prevents the Skill Book from being opened multiple times.		
+/objects/skillbook/skillbookopen.currency	shortdescription	Dev Hack		
+/objects/specialization/spectype.currency	description	A droplet of specialized knowledge.		
+/objects/specialization/spectype.currency	shortdescription	Specialization Droplet		
+/objects/stats/agilitypoint.currency	description	Agility		
+/objects/stats/agilitypoint.currency	shortdescription	Agility		
+/objects/stats/dexteritypoint.currency	description	Dexterity		
+/objects/stats/dexteritypoint.currency	shortdescription	Dexterity		
+/objects/stats/endurancepoint.currency	description	Endurance		
+/objects/stats/endurancepoint.currency	shortdescription	Endurance		
+/objects/stats/intelligencepoint.currency	description	Intelligence		
+/objects/stats/intelligencepoint.currency	shortdescription	Intelligence		
+/objects/stats/statpoint.currency	description	Stat Point		
+/objects/stats/statpoint.currency	shortdescription	Stat Point		
+/objects/stats/strengthpoint.currency	description	Strength		
+/objects/stats/strengthpoint.currency	shortdescription	Strength		
+/objects/stats/vigorpoint.currency	description	Vigor		
+/objects/stats/vigorpoint.currency	shortdescription	Vigor		
+/objects/stats/vitalitypoint.currency	description	Vitality		
+/objects/stats/vitalitypoint.currency	shortdescription	Vitality		
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed1.thrownitem	shortdescription	Dragon's Breath I	드래곤즈 브레스 I	reuse
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed1.thrownitem	description	Increases Power Multiplier and Bleed Chance by 20% when Energy is below max. Dissipates when Energy refills.		
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed2.thrownitem	shortdescription	Dragon's Breath II	드래곤즈 브레스 II	reuse
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed2.thrownitem	description	Increases Power Multiplier and Bleed Chance by 20% when Energy is below max. Applies Dragon's Breath I when effect expires.		
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed3.thrownitem	shortdescription	Dragon's Breath III	드래곤즈 브레스 III	reuse
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed3.thrownitem	description	Increases Power Multiplier and Bleed Chance by 20% when Energy is below max. Applies Dragon's Breath II when effect expires.		
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed4.thrownitem	shortdescription	Dragon's Breath IV	드래곤즈 브레스 IV	reuse
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed4.thrownitem	description	Increases Power Multiplier and Bleed Chance by 20% when Energy is below max. Applies Dragon's Breath III when effect expires.		
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed5.thrownitem	shortdescription	Dragon's Breath V	드래곤즈 브레스 V	reuse
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed5.thrownitem	description	Increases Power Multiplier and Bleed Chance by 20% when Energy is below max. Applies Dragon's Breath IV when effect expires.		
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage1.thrownitem	shortdescription	Dragon's Blood I	용의 피 I	reuse
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage1.thrownitem	description	Increases Power Multiplier by 100% for the next attack. Expires after dealing damage.		
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage2.thrownitem	shortdescription	Dragon's Blood II	용의 피 II	reuse
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage2.thrownitem	description	Increases Power Multiplier by 100% for the next attack. Applies Dragon's Blood I when effect expires.		
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage3.thrownitem	shortdescription	Dragon's Blood III	용의 피 III	reuse
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage3.thrownitem	description	Increases Power Multiplier by 100% for the next attack. Applies Dragon's Blood II when effect expires.		
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage4.thrownitem	shortdescription	Dragon's Blood IV	용의 피 IV	reuse
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage4.thrownitem	description	Increases Power Multiplier by 100% for the next attack. Applies Dragon's Blood III when effect expires.		
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage5.thrownitem	shortdescription	Dragon's Blood V	용의 피 V	reuse
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage5.thrownitem	description	Increases Power Multiplier by 100% for the next attack. Applies Dragon's Blood IV when effect expires.		
+/professions/alchemist/potions/damagedown/ivrpg_alchemicbane_damagedown1.thrownitem	shortdescription	Damage Down I	피해 감소 I	reuse
+/professions/alchemist/potions/damagedown/ivrpg_alchemicbane_damagedown1.thrownitem	description	Lowers Enemy Power by 10% for 30 Seconds.		
+/professions/alchemist/potions/damagedown/ivrpg_alchemicbane_damagedown2.thrownitem	shortdescription	Damage Down II	피해 감소 II	reuse
+/professions/alchemist/potions/damagedown/ivrpg_alchemicbane_damagedown2.thrownitem	description	Lowers Enemy Power by 25% for 30 Seconds. Stacks with lower tiers.		
+/professions/alchemist/potions/damagedown/ivrpg_alchemicbane_damagedown3.thrownitem	shortdescription	Damage Down III	피해 감소 III	reuse
+/professions/alchemist/potions/damagedown/ivrpg_alchemicbane_damagedown3.thrownitem	description	Lowers Enemy Power by 50% for 30 Seconds. Stacks with lower tiers.		
+/professions/alchemist/potions/defense/ivrpg_alchemicpotion_defense1.thrownitem	shortdescription	Iron Skin I	철 피부 I	reuse
+/professions/alchemist/potions/defense/ivrpg_alchemicpotion_defense1.thrownitem	description	Increases Physical Resistance by 20% for one hit.		
+/professions/alchemist/potions/defense/ivrpg_alchemicpotion_defense2.thrownitem	shortdescription	Iron Skin II	철 피부 II	reuse
+/professions/alchemist/potions/defense/ivrpg_alchemicpotion_defense2.thrownitem	description	Increases Physical Resistance by 20% for one hit. Applies Iron Skin I when effect expires.		
+/professions/alchemist/potions/defense/ivrpg_alchemicpotion_defense3.thrownitem	shortdescription	Iron Skin III	철 피부 III	reuse
+/professions/alchemist/potions/defense/ivrpg_alchemicpotion_defense3.thrownitem	description	Increases Physical Resistance by 20% for one hit. Applies Iron Skin II when effect expires.		
+/professions/alchemist/potions/defensedown/ivrpg_alchemicbane_defensedown1.thrownitem	shortdescription	Defense Down I	방어 다운 I	reuse
+/professions/alchemist/potions/defensedown/ivrpg_alchemicbane_defensedown1.thrownitem	description	Decreases Enemy Physical Resistance by 10% for 30 Seconds.		
+/professions/alchemist/potions/defensedown/ivrpg_alchemicbane_defensedown2.thrownitem	shortdescription	Defense Down II	방어 다운 II	reuse
+/professions/alchemist/potions/defensedown/ivrpg_alchemicbane_defensedown2.thrownitem	description	Decreases Enemy Physical Resistance by 15% for 30 Seconds. Stacks with lower tiers.		
+/professions/alchemist/potions/defensedown/ivrpg_alchemicbane_defensedown3.thrownitem	shortdescription	Defense Down III	방어 다운 III	reuse
+/professions/alchemist/potions/defensedown/ivrpg_alchemicbane_defensedown3.thrownitem	description	Decreases Enemy Physical Resistance by 25% for 30 Seconds. Stacks with lower tiers.		
+/professions/alchemist/potions/fairy/ivrpg_alchemicpotion_fairy1.thrownitem	shortdescription	Fairy Dust I	요정 가루 I	reuse
+/professions/alchemist/potions/fairy/ivrpg_alchemicpotion_fairy1.thrownitem	description	Grants Feather Falling and slows descent for 30 Seconds.		
+/professions/alchemist/potions/fairy/ivrpg_alchemicpotion_fairy2.thrownitem	shortdescription	Fairy Dust II	요정 가루 II	reuse
+/professions/alchemist/potions/fairy/ivrpg_alchemicpotion_fairy2.thrownitem	description	Grants Feather Falling and slows descent for 30 Seconds. Applies Fairy Dust I when effect expires.		
+/professions/alchemist/potions/fairy/ivrpg_alchemicpotion_fairy3.thrownitem	shortdescription	Fairy Dust III	요정 가루 III	reuse
+/professions/alchemist/potions/fairy/ivrpg_alchemicpotion_fairy3.thrownitem	description	Grants Feather Falling and slows descent for 30 Seconds. Applies Fairy Dust II when effect expires.		
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal1.thrownitem	shortdescription	Auto Heal I	자동 치유 I	reuse
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal1.thrownitem	description	Regenerates 33% Max Health when Health falls below 50%, then expires.		
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal2.thrownitem	shortdescription	Auto Heal II	자동 치유 II	reuse
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal2.thrownitem	description	Regenerates 33% Max Health when Health falls below 50%, then expires. Applies Auto Heal I when effect expires.		
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal3.thrownitem	shortdescription	Auto Heal III	자동 치유 III	reuse
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal3.thrownitem	description	Regenerates 33% Max Health when Health falls below 50%, then expires. Applies Auto Heal II when effect expires.		
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal4.thrownitem	shortdescription	Auto Heal IV	자동 치유 IV	reuse
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal4.thrownitem	description	Regenerates 33% Max Health when Health falls below 50%, then expires. Applies Auto Heal III when effect expires.		
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal5.thrownitem	shortdescription	Auto Heal V	자동 치유 V	reuse
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal5.thrownitem	description	Regenerates 33% Max Health when Health falls below 50%, then expires. Applies Auto Heal IV when effect expires.		
+/professions/alchemist/potions/instantdefense/ivrpg_alchemictincture_instantdefense1.thrownitem	shortdescription	Instant Defense I	즉시 방어 I	reuse
+/professions/alchemist/potions/instantdefense/ivrpg_alchemictincture_instantdefense1.thrownitem	description	Grants +10 Protection for 30 Seconds.		
+/professions/alchemist/potions/instantdefense/ivrpg_alchemictincture_instantdefense2.thrownitem	shortdescription	Instant Defense II	즉시 방어 II	reuse
+/professions/alchemist/potions/instantdefense/ivrpg_alchemictincture_instantdefense2.thrownitem	description	Grants +15 Protection for 30 Seconds. Stacks with lower tiers.		
+/professions/alchemist/potions/instantdefense/ivrpg_alchemictincture_instantdefense3.thrownitem	shortdescription	Instant Defense III	즉시 방어 III	reuse
+/professions/alchemist/potions/instantdefense/ivrpg_alchemictincture_instantdefense3.thrownitem	description	Grants +25 Protection for 30 Seconds. Stacks with lower tiers.		
+/professions/alchemist/potions/instantenergy/ivrpg_alchemictincture_instantenergy1.thrownitem	shortdescription	Instant Energy I	즉시 에너지 I	reuse
+/professions/alchemist/potions/instantenergy/ivrpg_alchemictincture_instantenergy1.thrownitem	description	Instantly restores 5% Maximum Energy. Lasts for 5 Seconds.		
+/professions/alchemist/potions/instantenergy/ivrpg_alchemictincture_instantenergy2.thrownitem	shortdescription	Instant Energy II	즉시 에너지 II	reuse
+/professions/alchemist/potions/instantenergy/ivrpg_alchemictincture_instantenergy2.thrownitem	description	Instantly restores 10% Maximum Energy. Lasts for 5 Seconds.		
+/professions/alchemist/potions/instantenergy/ivrpg_alchemictincture_instantenergy3.thrownitem	shortdescription	Instant Energy III	즉시 에너지 III	reuse
+/professions/alchemist/potions/instantenergy/ivrpg_alchemictincture_instantenergy3.thrownitem	description	Instantly restores 20% Maximum Energy. Lasts for 5 Seconds.		
+/professions/alchemist/potions/instantheal/ivrpg_alchemictincture_instantheal1.thrownitem	shortdescription	Instant Health I		
+/professions/alchemist/potions/instantheal/ivrpg_alchemictincture_instantheal1.thrownitem	description	Instantly restores 5% Maximum Health. Lasts for 5 Seconds.		
+/professions/alchemist/potions/instantheal/ivrpg_alchemictincture_instantheal2.thrownitem	shortdescription	Instant Health II		
+/professions/alchemist/potions/instantheal/ivrpg_alchemictincture_instantheal2.thrownitem	description	Instantly restores 10% Maximum Health. Lasts for 5 Seconds.		
+/professions/alchemist/potions/instantheal/ivrpg_alchemictincture_instantheal3.thrownitem	shortdescription	Instant Health III		
+/professions/alchemist/potions/instantheal/ivrpg_alchemictincture_instantheal3.thrownitem	description	Instantly restores 20% Maximum Health. Lasts for 5 Seconds.		
+/professions/alchemist/potions/resist/ivrpg_alchemicpotion_resist1.thrownitem	shortdescription	Status Resist I	상태 저항 I	reuse
+/professions/alchemist/potions/resist/ivrpg_alchemicpotion_resist1.thrownitem	description	Strips the four elemental statuses and grants +50% Resistance to the matching Element for 60 seconds.		
+/professions/alchemist/potions/resist/ivrpg_alchemicpotion_resist2.thrownitem	shortdescription	Status Resist II	상태 저항 II	reuse
+/professions/alchemist/potions/resist/ivrpg_alchemicpotion_resist2.thrownitem	description	Strips the four elemental statuses and grants +50% Resistance to the matching Element for 60 seconds. Applies Status Resist I when effect expires.		
+/professions/alchemist/potions/resist/ivrpg_alchemicpotion_resist3.thrownitem	shortdescription	Status Resist III	상태 저항 III	reuse
+/professions/alchemist/potions/resist/ivrpg_alchemicpotion_resist3.thrownitem	description	Strips the four elemental statuses and grants +50% Resistance to the matching Element for 60 seconds. Applies Status Resist II when effect expires.		
+/professions/alchemist/potions/resistdown/ivrpg_alchemicbane_resistdown1.thrownitem	shortdescription	Resist Down I	저항 감소 I	reuse
+/professions/alchemist/potions/resistdown/ivrpg_alchemicbane_resistdown1.thrownitem	description	Decreases Enemy Element Resistance by 10% for 30 Seconds.		
+/professions/alchemist/potions/resistdown/ivrpg_alchemicbane_resistdown2.thrownitem	shortdescription	Resist Down II	저항 감소 II	reuse
+/professions/alchemist/potions/resistdown/ivrpg_alchemicbane_resistdown2.thrownitem	description	Decreases Enemy Element Resistance by 15% for 30 Seconds. Stacks with lower tiers.		
+/professions/alchemist/potions/resistdown/ivrpg_alchemicbane_resistdown3.thrownitem	shortdescription	Resist Down III	저항 감소 III	reuse
+/professions/alchemist/potions/resistdown/ivrpg_alchemicbane_resistdown3.thrownitem	description	Decreases Enemy Element Resistance by 25% for 30 Seconds. Stacks with lower tiers.		
+/professions/alchemist/potions/vile/ivrpg_alchemicpotion_vile.thrownitem	shortdescription	Vile Vial	사악 병	reuse
+/professions/alchemist/potions/vile/ivrpg_alchemicpotion_vile.thrownitem	description	Causes enemies to de-aggro for 5 Seconds.		
+/professions/alchemist/status/ivrpgalchemiststatus.statuseffect	label	Alchemist		
+/professions/engineer/status/ivrpgengineerstatus.statuseffect	label	Engineer		
+/professions/jeweler/jewelry/anklet/aegisaltanklet.augment	description	Fashionable Aegisalt Anklet that slightly boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;		
+/professions/jeweler/jewelry/anklet/aegisaltanklet.augment	shortdescription	Aegisalt Anklet		
+/professions/jeweler/jewelry/anklet/bronzeanklet.augment	description	Fashionable Bronze Anklet that slightly boosts your Max Health. ^green;Provides +2.5 Max Health. ^blue;		
+/professions/jeweler/jewelry/anklet/bronzeanklet.augment	shortdescription	Bronze Anklet		
+/professions/jeweler/jewelry/anklet/electrumanklet.augment	description	Fashionable Electrum Anklet that slightly boosts your Max Energy. ^green;Provides +2.5 Max Energy. ^blue;		
+/professions/jeweler/jewelry/anklet/electrumanklet.augment	shortdescription	Electrum Anklet		
+/professions/jeweler/jewelry/anklet/feroziumanklet.augment	description	Fashionable Ferozium Anklet that boosts your Max Health. ^green;Provides +5 Max Health. ^blue;		
+/professions/jeweler/jewelry/anklet/feroziumanklet.augment	shortdescription	Ferozium Anklet		
+/professions/jeweler/jewelry/anklet/hermesanklet.augment	description	An Anklet with white, velvet wings that has magical properties. ^green;Provides 5% Fall Damage Resistance. ^blue;Jewelers can wear two to gain Feather Falling.		
+/professions/jeweler/jewelry/anklet/hermesanklet.augment	shortdescription	Hermes' Anklet		
+/professions/jeweler/jewelry/anklet/riptideanklet.augment	description	An Anklet with a cool wave design. Putting it up to your ear, you can hear people say it's not an earring. ^green;Provides 10% Ice Resistance. ^blue;Jewelers can wear two to gain Swift Swim.		
+/professions/jeweler/jewelry/anklet/riptideanklet.augment	shortdescription	Riptide Anklet		
+/professions/jeweler/jewelry/anklet/soulfireanklet.augment	description	Despite the heat emanating from within, the metal feels cold to the touch. ^green;Provides 10% Fire Resistance. ^blue;Jewelers can wear two to gain Lava Immunity.		
+/professions/jeweler/jewelry/anklet/soulfireanklet.augment	shortdescription	Soulfire Anklet		
+/professions/jeweler/jewelry/anklet/steelanklet.augment	description	Fashionable Steel Anklet that slightly boosts your Powerful Multiplier. ^green;Provides +2.5% Power Multiplier. ^blue;		
+/professions/jeweler/jewelry/anklet/steelanklet.augment	shortdescription	Steel Anklet		
+/professions/jeweler/jewelry/anklet/violiumanklet.augment	description	Fashionable Violium Anklet that boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;		
+/professions/jeweler/jewelry/anklet/violiumanklet.augment	shortdescription	Violium Anklet		
+/professions/jeweler/jewelry/belt/aegisaltbelt.augment	description	Fashionable Aegisalt Belt that boosts your Max Energy. ^green;Provides +10 Max Energy. ^blue;		
+/professions/jeweler/jewelry/belt/aegisaltbelt.augment	shortdescription	Aegisalt Belt		
+/professions/jeweler/jewelry/belt/bronzebelt.augment	description	Fashionable Bronze Belt that slightly boosts your Max Health. ^green;Provides +5 Max Health. ^blue;		
+/professions/jeweler/jewelry/belt/bronzebelt.augment	shortdescription	Bronze Belt		
+/professions/jeweler/jewelry/belt/electrumbelt.augment	description	Fashionable Electrum Belt that slightly boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;		
+/professions/jeweler/jewelry/belt/electrumbelt.augment	shortdescription	Electrum Belt		
+/professions/jeweler/jewelry/belt/emeraldbelt.augment	description	Infused with Life Energy, Bright Green Diamonds adorned to this belt grant good Karma to its wearer. ^green;Provides +20% Holy Resistance. ^blue;Jewelers gain Holy Status Immunity.		
+/professions/jeweler/jewelry/belt/emeraldbelt.augment	shortdescription	Emerald Belt		
+/professions/jeweler/jewelry/belt/feroziumbelt.augment	description	Fashionable Ferozium Belt that boosts your Max Health. ^green;Provides +10 Max Health. ^blue;		
+/professions/jeweler/jewelry/belt/feroziumbelt.augment	shortdescription	Ferozium Belt		
+/professions/jeweler/jewelry/belt/rubybelt.augment	description	Infused with Infernal Energy, Blood Red Diamonds adorned to this belt help warm its wearer up. ^green;Provides +20% Ice Resistance. ^blue;Jewelers gain Ice Status Immunity.		
+/professions/jeweler/jewelry/belt/rubybelt.augment	shortdescription	Ruby Belt		
+/professions/jeweler/jewelry/belt/sapphirebelt.augment	description	Infused with Cryo Energy, Dark Blue Diamonds adorned to this belt help cool its wearer down. ^green;Provides +20% Fire Resistance. ^blue;Jewelers gain Fire Status Immunity.		
+/professions/jeweler/jewelry/belt/sapphirebelt.augment	shortdescription	Sapphire Belt		
+/professions/jeweler/jewelry/belt/steelbelt.augment	description	Fashionable Steel Belt that slightly boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;		
+/professions/jeweler/jewelry/belt/steelbelt.augment	shortdescription	Steel Belt		
+/professions/jeweler/jewelry/belt/violiumbelt.augment	description	Fashionable Violium Belt that boosts your Powerful Multiplier. ^green;Provides +10% Power Multiplier. ^blue;		
+/professions/jeweler/jewelry/belt/violiumbelt.augment	shortdescription	Violium Belt		
+/professions/jeweler/jewelry/earring/aegisaltearring.augment	description	Fashionable Aegisalt Earring that boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;		
+/professions/jeweler/jewelry/earring/aegisaltearring.augment	shortdescription	Aegisalt Earring		
+/professions/jeweler/jewelry/earring/bronzeearring.augment	description	Fashionable Bronze Earring that slightly boosts your Max Health. ^green;Provides +2.5 Max Health. ^blue;		
+/professions/jeweler/jewelry/earring/bronzeearring.augment	shortdescription	Bronze Earring		
+/professions/jeweler/jewelry/earring/dawnsearring.augment	description	A bright red earring that evokes the warm radiance of the sun. ^green;Provides +10% Fire Resistance. ^blue;Jewelers can wear two to gain +25% Power Multiplier during daytime.		
+/professions/jeweler/jewelry/earring/dawnsearring.augment	shortdescription	Dawn's Earring		
+/professions/jeweler/jewelry/earring/dusksearring.augment	description	A light blue earring that evokes the cool brilliance of the moon. ^green;Provides +10% Ice Resistance. ^blue;Jewelers can wear two to gain +25% Power Multiplier during nighttime.		
+/professions/jeweler/jewelry/earring/dusksearring.augment	shortdescription	Dusk's Earring		
+/professions/jeweler/jewelry/earring/eaglesearring.augment	description	A tribal earring for those who hunt their pray from afar with keen eyes. ^green;Provides +2.5% Bleed Chance. ^blue;Jewelers can wear two to gain increased Dexterity Scaling.		
+/professions/jeweler/jewelry/earring/eaglesearring.augment	shortdescription	Eagle's Earring		
+/professions/jeweler/jewelry/earring/electrumearring.augment	description	Fashionable Electrum Earring that slightly boosts your Max Energy. ^green;Provides +2.5 Max Energy. ^blue;		
+/professions/jeweler/jewelry/earring/electrumearring.augment	shortdescription	Electrum Earring		
+/professions/jeweler/jewelry/earring/feroziumearring.augment	description	Fashionable Ferozium Earring that boosts your Max Health. ^green;Provides +5 Max Health. ^blue;		
+/professions/jeweler/jewelry/earring/feroziumearring.augment	shortdescription	Ferozium Earring		
+/professions/jeweler/jewelry/earring/steelearring.augment	description	Fashionable Steel Earring that slightly boosts your Powerful Multiplier. ^green;Provides +2.5% Power Multiplier. ^blue;		
+/professions/jeweler/jewelry/earring/steelearring.augment	shortdescription	Steel Earring		
+/professions/jeweler/jewelry/earring/violiumearring.augment	description	Fashionable Violium Earring that boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;		
+/professions/jeweler/jewelry/earring/violiumearring.augment	shortdescription	Violium Earring		
+/professions/jeweler/jewelry/necklace/aegisaltnecklace.augment	description	Fashionable Aegisalt Necklace that boosts your Max Energy. ^green;Provides +10 Max Energy. ^blue;		
+/professions/jeweler/jewelry/necklace/aegisaltnecklace.augment	shortdescription	Aegisalt Necklace		
+/professions/jeweler/jewelry/necklace/bronzenecklace.augment	description	Fashionable Bronze Necklace that slightly boosts your Max Health. ^green;Provides +5 Max Health. ^blue;		
+/professions/jeweler/jewelry/necklace/bronzenecklace.augment	shortdescription	Bronze Necklace		
+/professions/jeweler/jewelry/necklace/electrumnecklace.augment	description	Fashionable Electrum Necklace that slightly boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;		
+/professions/jeweler/jewelry/necklace/electrumnecklace.augment	shortdescription	Electrum Necklace		
+/professions/jeweler/jewelry/necklace/feroziumnecklace.augment	description	Fashionable Ferozium Necklace that boosts your Max Health. ^green;Provides +10 Max Health. ^blue;		
+/professions/jeweler/jewelry/necklace/feroziumnecklace.augment	shortdescription	Ferozium Necklace		
+/professions/jeweler/jewelry/necklace/memorylocket.augment	description	To remind you of those you love and those you lost. ^green;Provides +5 Max Health and +5 Max Energy. ^blue;Jewelers gain +5 Protection.		
+/professions/jeweler/jewelry/necklace/memorylocket.augment	shortdescription	Memory Locket		
+/professions/jeweler/jewelry/necklace/purifyingpendant.augment	description	This Pendant uses magical energy (and science!) to purify surrounding toxins. ^green;Provides +20% Poison Resistance. ^blue;Jewelers gain Poison Status Immunity.		
+/professions/jeweler/jewelry/necklace/purifyingpendant.augment	shortdescription	Purifying Pendant		
+/professions/jeweler/jewelry/necklace/saintlycharm.augment	description	A Holy Charm sewn from Living Root and Silk that wards off Demonic Spirits. ^green;Provides +20% Demonic Resistance. ^blue;Jewelers gain Demonic Status Immunity.		
+/professions/jeweler/jewelry/necklace/saintlycharm.augment	shortdescription	Saintly Charm		
+/professions/jeweler/jewelry/necklace/steelnecklace.augment	description	Fashionable Steel Necklace that slightly boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;		
+/professions/jeweler/jewelry/necklace/steelnecklace.augment	shortdescription	Steel Necklace		
+/professions/jeweler/jewelry/necklace/violiumnecklace.augment	description	Fashionable Violium Necklace that boosts your Powerful Multiplier. ^green;Provides +10% Power Multiplier. ^blue;		
+/professions/jeweler/jewelry/necklace/violiumnecklace.augment	shortdescription	Violium Necklace		
+/professions/jeweler/jewelry/ring/aegisaltring.augment	description	Fashionable Aegisalt Ring that boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;		
+/professions/jeweler/jewelry/ring/aegisaltring.augment	shortdescription	Aegisalt Ring		
+/professions/jeweler/jewelry/ring/bronzering.augment	description	Fashionable Bronze Ring that slightly boosts your Max Health. ^green;Provides +2.5 Max Health. ^blue;		
+/professions/jeweler/jewelry/ring/bronzering.augment	shortdescription	Bronze Ring		
+/professions/jeweler/jewelry/ring/electrumring.augment	description	Fashionable Electrum Ring that slightly boosts your Max Energy. ^green;Provides +2.5 Max Energy. ^blue;		
+/professions/jeweler/jewelry/ring/electrumring.augment	shortdescription	Electrum Ring		
+/professions/jeweler/jewelry/ring/feroziumring.augment	description	Fashionable Ferozium Ring that boosts your Max Health. ^green;Provides +5 Max Health. ^blue;		
+/professions/jeweler/jewelry/ring/feroziumring.augment	shortdescription	Ferozium Ring		
+/professions/jeweler/jewelry/ring/fluxring.augment	description	A Ring that, despite its minute size, emulates a Faraday Cage. ^green;Provides +10% Electric Resistance. ^blue;Jewelers can wear two to gain Electric Status Immunity.		
+/professions/jeweler/jewelry/ring/fluxring.augment	shortdescription	Flux Ring		
+/professions/jeweler/jewelry/ring/ghostlyring.augment	description	An eering ring that glows green.		
+/professions/jeweler/jewelry/ring/ghostlyring.augment	shortdescription	Ghostly Ring		
+/professions/jeweler/jewelry/ring/spitefulring.augment	description	This Ring holds a rather extreme grudge towards those that attempt to harm its master. ^green;Provides +3% Power Multiplier. ^blue;Jewelers can wear two to gain Thorns.		
+/professions/jeweler/jewelry/ring/spitefulring.augment	shortdescription	Spiteful Ring		
+/professions/jeweler/jewelry/ring/steelring.augment	description	Fashionable Steel Ring that slightly boosts your Powerful Multiplier. ^green;Provides +2.5% Power Multiplier. ^blue;		
+/professions/jeweler/jewelry/ring/steelring.augment	shortdescription	Steel Ring		
+/professions/jeweler/jewelry/ring/violiumring.augment	description	Fashionable Violium Ring that boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;		
+/professions/jeweler/jewelry/ring/violiumring.augment	shortdescription	Violium Ring		
+/professions/jeweler/jewelry/watch/aegisaltwatch.augment	description	Fashionable Aegisalt Watch that boosts your Max Energy. ^green;Provides +10 Max Energy. ^blue;		
+/professions/jeweler/jewelry/watch/aegisaltwatch.augment	shortdescription	Aegisalt Watch		
+/professions/jeweler/jewelry/watch/bronzewatch.augment	description	Fashionable Bronze Watch that slightly boosts your Max Health. ^green;Provides +5 Max Health. ^blue;		
+/professions/jeweler/jewelry/watch/bronzewatch.augment	shortdescription	Bronze Watch		
+/professions/jeweler/jewelry/watch/electrumwatch.augment	description	Fashionable Electrum Watch that slightly boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;		
+/professions/jeweler/jewelry/watch/electrumwatch.augment	shortdescription	Electrum Watch		
+/professions/jeweler/jewelry/watch/feroziumwatch.augment	description	Fashionable Ferozium Watch that boosts your Max Health. ^green;Provides +10 Max Health. ^blue;		
+/professions/jeweler/jewelry/watch/feroziumwatch.augment	shortdescription	Ferozium Watch		
+/professions/jeweler/jewelry/watch/hitechwatch.augment	description	This has a ton of awesome features, but its rather bright glow is what's really impressive. ^green;Provides Glow. ^blue;Jewelers gain increased Intelligence Scaling.		
+/professions/jeweler/jewelry/watch/hitechwatch.augment	shortdescription	Hi-Tech Watch		
+/professions/jeweler/jewelry/watch/mechanicalwatch.augment	description	A purely mechanical watch; watching the gears spin is quite invigorating. ^green;Provides -0.1 Energy Regen Delay. ^blue;Jewelers gain increased Vigor Scaling.		
+/professions/jeweler/jewelry/watch/mechanicalwatch.augment	shortdescription	Mechanical Watch		
+/professions/jeweler/jewelry/watch/solarpoweredwatch.augment	description	This watch is self-sustaining. Neat! ^green;Provides +15 Max Energy. ^blue;Jewelers gain minor Energy Regen.		
+/professions/jeweler/jewelry/watch/solarpoweredwatch.augment	shortdescription	Solar-Powered Watch		
+/professions/jeweler/jewelry/watch/steelwatch.augment	description	Fashionable Steel Watch that slightly boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;		
+/professions/jeweler/jewelry/watch/steelwatch.augment	shortdescription	Steel Watch		
+/professions/jeweler/jewelry/watch/violiumwatch.augment	description	Fashionable Violium Watch that boosts your Powerful Multiplier. ^green;Provides +10% Power Multiplier. ^blue;		
+/professions/jeweler/jewelry/watch/violiumwatch.augment	shortdescription	Violium Watch		
+/professions/jeweler/status/ivrpgjewelerstatus.statuseffect	label	Jeweler		
+/professions/medic/status/ivrpgmedicstatus.statuseffect	label	Medic		
+/professions/miner/status/ivrpgminerstatus.statuseffect	label	Miner		
+/professions/smith/status/ivrpgsmithstatus.statuseffect	label	Smith		
+/professions/tamer/items/advancedcapturepod.thrownitem	shortdescription	Advanced Capture Pod		
+/professions/tamer/items/advancedcapturepod.thrownitem	description	This Capture Pod automatically seeks enemies until it hits a block.		
+/professions/tamer/status/ivrpgtamerstatus.statuseffect	label	Tamer		
+/professions/tamer/status/regen/ivrpgtamermonsterregen.statuseffect	label	Tamer		
+/professions/tamer/status/regen/ivrpgtamermonsterregenarmor.statuseffect	label	Tamer		
+/professions/tamer/status/regen/ivrpgtamermonsterregendamage.statuseffect	label	Tamer		
+/professions/tamer/status/regen/ivrpgtamermonsterregenhealth.statuseffect	label	Tamer		
+/projectiles/grenades/shock/shockcharge.thrownitem	shortdescription	Shock Charge		
+/projectiles/grenades/shock/shockcharge.thrownitem	description	Shocks your enemies... for a price.		
+/projectiles/grenades/skitter/skittergrenade.thrownitem	shortdescription	Skitter		
+/projectiles/grenades/skitter/skittergrenade.thrownitem	description	Warning! Releases disorienting and toxic gas.		
+/projectiles/grenades/stun/stungrenade.thrownitem	shortdescription	Stun Grenade		
+/projectiles/grenades/stun/stungrenade.thrownitem	description	What doesn't kill you makes you vulnerable.		
+/projectiles/grenades/tripmine/tripmine.thrownitem	shortdescription	Tripmine		
+/projectiles/grenades/tripmine/tripmine.thrownitem	description	Watch your step.		
+/stats/effects/camouflage/ivrpgcamouflage.statuseffect	label	Camouflage	위장	reuse
+/stats/effects/camouflage/ivrpgjumpcamouflage.statuseffect	label	Camouflage	위장	reuse
+/stats/effects/ivrpg_slumber/slumber.statuseffect	label	Slumber		
+/stats/effects/rpg_corporeal/ivrpgcorporeal.statuseffect	label	Corporeal		
+/stats/effects/rpg_launched/ivrpglaunched.statuseffect	label	Launched		
+/stats/effects/rpg_slammed/ivrpgslammed.statuseffect	label	Slammed		
+/tech/ninjatech/vanishsphere/camouflageninja.statuseffect	label	Camouflage	위장	reuse
+/tech/ninjatech/vanishsphere/ghost/ninjavanishsphereghost.statuseffect	label	Ghost		
+/tech/roguetech/roguetoxicsphere/hunger/roguetoxicsphereconsume.statuseffect	label	Consume		
+/tech/soldiertech/soldiertanksphere/shield/soldiertanksphereimmune.statuseffect	label	Tank		

@@ -1,0 +1,1028 @@
+@@@ 0
+
+
+^#f74dff;Arcane Blaster: Firing this weapon also fires 1-5 arcane bolts that deal 1-30 PSYCHIC damage at a random angle. ^reset;^red;CANNOT be removed.^reset;
+@@@ 1
+
+
+^green;+15% GENERAL Resistance.^reset;
+@@@ 2
+
+
+^orange;Lost Empire: Cannot parry | 400hp blocking power.^reset;
+^#D6DFFF;Shield Bash: Moving at great speeds and colliding with an enemy will deal damage based on the speed of the user.^white;
+@@@ 3
+
+  
+^#96CBE7;UNYIELDING BULWARK - On taking FATAL Damage, gain 4s of INVULNERABILITY | BASE 120s cooldown.^reset;
+@@@ 4
+
+  
+^green;+10% GENERAL Resistance.^reset;
+@@@ 5
+
+  
+^green;+15% GENERAL Resistance.^reset;
+@@@ 6
+
+  
+^green;+20% MELEE Resistance^reset;
+@@@ 7
+
+  
+^orange;Bloodwish: +25% Movement Speed when under Medium Bleeding.^reset;
+@@@ 8
+<beeData>
+@@@ 9
+Acta deos numquam mortalia fallunt.
+@@@ 10
+Bird-brained.
+@@@ 11
+Blood.
+@@@ 12
+Companion.
+@@@ 13
+Coral.
+@@@ 14
+Description.
+@@@ 15
+Driftwood.
+@@@ 16
+Empty...
+@@@ 17
+FFS : 엘리베이터.
+이 엘리베이터는 Episode.0의 엘리베이터와 연결되어 있다.
+@@@ 18
+FFS Episode0 메인 로비.
+이 물체를 사용하여 로비에 접근할 수 있다.
+@@@ 19
+FFS Episode1 메인 로비.
+이 물체를 사용하여 로비에 접근할 수 있다.
+@@@ 20
+Feesh.
+@@@ 21
+Grineer.
+@@@ 22
+Horrifying...
+@@@ 23
+Lies.
+@@@ 24
+Mmmm.
+@@@ 25
+Moment.
+@@@ 26
+Monaayyy.
+@@@ 27
+Monnaay.
+@@@ 28
+Plutonium.
+@@@ 29
+Scrap.
+@@@ 30
+Seaweed.
+@@@ 31
+Shelter.
+@@@ 32
+Stop.
+@@@ 33
+Stylish.
+@@@ 34
+Uncanny...
+@@@ 35
+Waaagh.
+@@@ 36
+Wood.
+@@@ 37
+Yeehaw.
+@@@ 38
+^#3455eb;''The gun is mightier than the sword. Do not forget that.''^reset;
+
+A bullet that is said to always be loaded in the chamber of whatever gun the user is using. They say those who have the Marksman's favor will never run out of bullets no matter how many rounds they fire.
+
+^green;Infinite EWS Reload^reset;
+^red;You will live by the bullet and die by the bullet | -99% ATK multiplier.^reset;
+@@@ 39
+^#ffb73b;제조사: 베레타
+^#7c7c7c;1티어 : 민간 제식
+^#7c7c7c;조준 속도 : ^white;0.1s
+^#7c7c7c;장착 속도 : ^green;0.5s
+^#7c7c7c;LMB=사격 : ^white;9×19mm Parabellum
+
+^#7c7c7c;자동 재장전 속도 : ^white;1s
+^#7c7c7c;탄도 사양 : 7.45g × 380m/s × 1/1000 = 2.831 = ^white;2.8/발
+^#7c7c7c;탄도 효과 : FMJ = ^#fff700;20% 치명타
+^#7c7c7c;유효 사거리·명중률 : ^white;50블록 & 90%
+^#7c7c7c;방아쇠 기구 : 직동 슬라이드 = ^white;0.2s/발
+^#7c7c7c;급탄 : 박스 탄창 = ^white;8발
+^#7c7c7c;부착물 : ^white;한손, ^red;1H 명중률 페널티!
+@@@ 40
+^white;Bought From: ^magenta;Peacekeeper Store^reset; 
+A Peacekeeper specialty, the energy cell based revolver. The final and lethal option in a crisis situation, and it does it quite well. A Class C firearm, this is the version given to rookies.
+@@@ 41
+^white;Bought From: ^magenta;Peacekeeper Store^reset; 
+Affectionally known in the Peacekeepers as the "Halt Gun," this is what you use when the person you've already cuffed tries to run away. Though also works well on rats, of both kinds. The donuts are safe!
+@@@ 42
+^white;Bought From: ^magenta;Peacekeeper Store^reset; 
+The Class A variant of the Neo Magnum. Only veteran Peacekeepers begin to wield these weapons. By proving their worth, they've earned the greater durability and strength of this gun. Though its not the best.
+@@@ 43
+^white;Bought From: ^magenta;Peacekeeper Store^reset; 
+The Class B variant of the Neo Magnum. Gaining this one is a writ of passage to becoming an experienced Peacekeeper. The plasma charges are even more lethal, because you now understand when it is required.
+@@@ 44
+^white;Bought From: ^magenta;Peacekeeper Store^reset; 
+The final, Class S upgrade of the signature Neo Magnum. Only those who have shown superior valour and sense of justice are allowed to touch the golden exterior. Its said Noble dual wields these, and has 2 as backup.
+@@@ 45
+^white;Bought From: ^magenta;Peacekeeper Store^reset; 
+The weapon the criminal underworld fears most. The Peacekeeper Lazercaster is only used in extreme cases, or "lost causes." Criminals who aren't worth locking up will often face a full charge proton cannon at their door.
+@@@ 46
+^white;Bought From: ^orange;Treasured Trophies^reset; 
+The ultimate hunting platform! A maglev crossbow that fires bolts of any element, as well as having gravity manipulating bolts. No prey, hot or cold, fast or slow, can escape you with this!
+@@@ 47
+^white;Commonly Found In: ^brown;Swamp Biomes^reset; 
+The geologic form of rot. The precursor to coal, this material is made of countless dead plants and mosses that have built up over centuries. Can be burnt on its own, but modern technology can refine it into coal.
+@@@ 48
+^white;Commonly Found In: ^cyan;Colourful Biomes^reset; 
+A juicy fruit that comes in bunches. A favorite of Humanity and Apex for centuries. Put into punch, wines, fruit salads. The satisfying burst when you bite into it is iconic at this point.
+@@@ 49
+^white;Commonly Found In: ^cyan;Steamspring Biomes^reset; 
+Though it resembles a potato, it doesn't even have the same lifecycle. Its often seen harvesting heat and water. To survive, it steams itself to keep itself warm and keep its internal chemistry working.
+@@@ 50
+^white;Commonly Found In: ^green;Mushroom Biomes^reset; 
+Mushrooms, they will either kill you, or be a wonderful delicacy. There is no in-between. A common additive to many dishes, the unique texture is what draws many species to them. As long as they know where to look.
+@@@ 51
+^white;Commonly Found In: ^green;Spring Biomes^reset; 
+Sugar, the one thing every living being needs. Glucose is found in every single biological lifeforms, and even Glitch still need to burn it. A staple of thousands of food recipes, though too much is generally unhealthy.
+@@@ 52
+^white;Commonly Found In: ^lightgray;Bone Biomes^reset; 
+An odd plant, only naturally grows in places full of calcium cabonate. Boneboo is most famous for its vague resemblance to a skull. Though, in reality, its just pareidolia. Still spooky.
+@@@ 53
+^white;Commonly Found In: ^red;Flesh Caves^reset; 
+Perhaps the least adored fruit in the galaxy, not because of its taste, but how it looks. The white insides are gooey and full of sugars, its very structure makes many lose their appetite when preparing it. Chefs hate it.
+@@@ 54
+^white;Commonly Found In: ^white;Eyepatch Biomes^reset; 
+Is it a lemon, or a melon? Its actually both and neither. An unsettling, yet popular fruit in recent times, nearly completely phasing out the lemon. Not actually an eye, the pupil is actually a large seed. The iris is the most sour part.
+@@@ 55
+^white;Commonly Found On: ^#0000ff;Ocean Planets^reset; 
+Limestone is often the biggest way that life affects the structure of the planet it resides upon. There are thousands of caves, mountains of calcite, and you can trace them all back to quintillions of dead lifeforms. Its like a graveyard...
+@@@ 56
+^white;Commonly Found On: ^#00c800;Lush Planets^reset; 
+Cotton has been a staple of fabrics for eons at this point, easily cultivated, and easily woven. Can be used in wools, linens, canvas. Perhaps the most common fiber beyond artificial textiles.
+@@@ 57
+^white;Commonly Found On: ^#00c800;Lush Planets^reset; 
+Despite its name, the pearlpea isn't very similar to a pea. Its actually a berry! Inside the hard, pearlescent shell, is a jelly like substance with the seeds. Boiling it often creates a sweet slurry.
+@@@ 58
+^white;Commonly Found On: ^#00c800;Lush Planets^reset; 
+Rice is a staple of many dishes. A lot simpler to prepare than wheat, its good as a survival food. Hylotl particularly like it, as a similar crop evolved on their homeworld with the high moisture.
+@@@ 59
+^white;Commonly Found On: ^#00c800;Lush Planets^reset; 
+The classic grain crop, famous around the galaxy for humanity's bread. Though this is not Terran wheat, merely convergent evolution that functions like wheat. As most interstellar crops are.
+@@@ 60
+^white;Commonly Found On: ^#00c800;Lush Planets^reset; 
+The humble potato, the first superfood discovered by humans. You can do anything with them, and you can get all the calories you'd ever want from them. Often used in space travel as canned rations in emergencies.
+@@@ 61
+^white;Commonly Found On: ^#00c800;Lush Planets^reset; 
+Though it doesn't look like it, corn is just really tall grass. Avians in particular tend to like it as pecking at the cob is satisfying to them. Just don't get lost in fields of it, the ears listen.
+@@@ 62
+^white;Commonly Found On: ^#00d53c;Desert Planets^reset; 
+Practically the main "grain" crop for Avian culture, the many seeds packed within its beak-like shell can be used for many purposes. Considered a delicacy by them. For everyone without beaks, its annoying.
+@@@ 63
+^white;Commonly Found On: ^#00d53c;Desert Planets^reset; 
+Sandstone, what one often thinks of when thinking of a sedimentary rock. Layered stone born from countless grains of sand cemented together by eons of pressure. Sand on top of sand, eventually making the new bedrock.
+@@@ 64
+^white;Commonly Found On: ^#00d53c;Desert Planets^reset; 
+The famous hot food. When dehydrated and crushed, it makes an amazing spice for any meal. Though, due to what makes it spicy, Avians famously cannot taste the heat and often put a lot on their dishes.
+@@@ 65
+^white;Commonly Found On: ^#00d53c;Desert Planets^reset; 
+While not the best source of food, these succulents are hiding large amounts of watery juice and flesh ripe for the taking. In the vast oceans of dunes and sand, its the quenchiest!
+@@@ 66
+^white;Commonly Found On: ^#00ff00;Toxic Planets^reset; 
+A pineapple that evolved to survive the polluted environment. The internal acids have become actively toxic. Doesn't stop most species, especially Hylotl. Are they proud of themselves for this creation? Probably not.
+@@@ 67
+^white;Commonly Found On: ^#329632;Forest Planets^reset; 
+Despite popular mythos, carrots cannot allow you to see in the dark, but they are healthy. Easily grown and prepared, its sweet taste and crunch is quite popular with all species with jaws.
+@@@ 68
+^white;Commonly Found On: ^#329632;Forest Planets^reset; 
+Not many species can resist a juicy tomato. Eat it raw, cook it until its juicy, turn it into a sauce. There's a lot one can do with it. Just don't put it on toxic tableware, that gave the Glitch a few problems.
+@@@ 69
+^white;Commonly Found On: ^#329632;Forest Planets^reset; 
+Perhaps humanity's greatest discovery, according to them. The main ingredient in chocolate. The bitter taste when combined with sugar is like heaven in your mouth, or beak, or glowing membrane. Universal taste!
+@@@ 70
+^white;Commonly Found On: ^#329632;Forest Planets^reset; 
+The favorite of many species, tea. By steeping tea leaves or flowers in boiling water, one can make a variety of beverages. Hylotl prefer it hot and floral. Novakids prefer it cold and sweet. Everyone has their own.
+@@@ 71
+^white;Commonly Found On: ^#960000;Volcanic Planets^reset; 
+Andesite is formed from cooling lava in open air, in between the silica-rich granitic lava and iron-rich basaltic lava. One of the more common igneous rocks on many planets, as even the most mafic planets hold some amount of silica.
+@@@ 72
+^white;Commonly Found On: ^#960000;Volcanic Planets^reset; 
+Highly explosive, and impossible to eat normally. You wouldn't think anyone would try to eat an Ash Apple. But by activating the dust inside, it creates an extreme spice... that still tastes kind of like ash.
+@@@ 73
+^white;Commonly Found On: ^#960000;Volcanic Planets^reset; 
+Perhaps one of the most famous igneous rocks; basalt is known for large columns and floods that cover continents. Formed from iron-rich lava slowly cooling in the open air. It can look quite nice as a cliff face
+@@@ 74
+^white;Commonly Found On: ^#960000;Volcanic Planets^reset; 
+Pure silica, one of the most common minerals in the universe. Though its often seen in its other forms, it requires intrusions of silica-rich magma to make such large crystals. Also found in geodes in the form of agate!
+@@@ 75
+^white;Commonly Found On: ^#960000;Volcanic Planets^reset; 
+Though it doesn't initially look like it, obsidian is one of the few forms of natural glass. Formed when silica-rich lava is quickly cooled, forming an amorphous glass. Favored by Avians as a traditional blade material.
+@@@ 76
+^white;Commonly Found On: ^#960000;Volcanic Planets^reset; 
+Volcanic soil is known by the Glitch and ancient Humanity to be one of the best for crop yields. The fresh minerals from the silica-rich volcanic ash allows for healthy plants. Its about the only reason to live next to active volcanoes.
+@@@ 77
+^white;Commonly Found On: ^#b4b4b4;Tundra Planets^reset; 
+The eggshoot seems out of place, a green plant amongst a frozen wasteland. However, most of the nutrients and insides are centered in the "yolk" inside of the plant. It merely tastes like an egg by coincidence. Can't make an omelette.
+@@@ 78
+^white;Commonly Found On: ^#c832c8;Jungle Planets^reset; 
+An Apex's best friend! Ever since they were discovered by the Apex, its been a staple in their culture for centuries. Though Avians and Humans discovered them first. An amazing source of potassium, and vaguely radioactive.
+@@@ 79
+^white;Commonly Found On: ^#c832c8;Jungle Planets^reset; 
+Coffee, a universal drink. For the overworked Hylotl, for the Human getting up in the morning, for the Apex dealing with beureaucracy. Every species can respect its high caffiene content. Except Novakids, they go a little crazy.
+@@@ 80
+^white;Commonly Found On: ^#c832c8;Jungle Planets^reset; 
+Commonly known as the wonderfruit. With any amount of preparation, its myriad of chemicals within its juicy flesh can make it taste like anything. The Avians named it after the heavens for a reason.
+@@@ 81
+^white;Commonly Found On: ^#c832c8;Jungle Planets^reset; 
+Pineapple, or Ananas, depending on who you ask. The staple of tropical dishes, and a hot debate for pizza. It has a kick so strong that it actually breaks down meat. Its very popular as a garnish for that specific reason.
+@@@ 82
+^white;Commonly Found On: ^#c89696;Scorched Planets^reset; 
+Once considered a pest by the natives, this hardy weed is about the only plantlife that has survived the apocalypse. It tastes kind of bad, but in a survival situation, you can't really complain.
+@@@ 83
+^white;Commonly Found On: ^#ff00ff;Alien Planets^reset; 
+One of the few mutated plants that one can eat and not get poisoned or disappointed. Its said to give your tongue a warm zap, like its been hit with radiation. Though no adverse effects have been seen.
+@@@ 84
+^white;Commonly Found On: ^#ff00ff;Alien Planets^reset; 
+The uncommon biology of mutated worlds makes most chemicals that define taste to be incompatible with the tastebuds of most species. Some say dirturchin has a unique and exotic taste, most of the time, its bland.
+@@@ 85
+^white;Commonly Found On: ^#ffc800;Savannah Planets^reset; 
+Out of most plants, this one seems like the biggest "don't eat" out of all of them. However, if you can get past the thorns, thorn fruit are an amazing source of hydration and have a unique flavor!
+@@@ 86
+^white;Commonly Found On: ^#ffc800;Savannah Planets^reset; 
+Savannahs are mostly dry, but have wet seasons with massive storms. Currentcorn often feeds off of static and the lightning, storing it in its acidic insides. Only Glitch really get a kick out of it.
+@@@ 87
+^white;Commonly Found On: ^#ffffff;Snowy Planets^reset; 
+A relative of the Pearlpea, still holding that outside shell with juicy insides. Its outer shell is formed from ice, which often gives it the appearance of "melting" when cooked. Apex still sometimes eat it raw.
+@@@ 88
+^white;Commonly Found On: ^#ffffff;Snowy Planets^reset; 
+Many plants in extreme environments evolved to protect themselves by growing an outer skin of metal. Automatos are an extreme form of that. The Glitch say its healthy, everyone else says its like eating coins.
+@@@ 89
+^white;Commonly Found On: ^#ffffff;Snowy Planets^reset; 
+Mudrock is what you get when mud and clay is cemented into rocks. When one heats said mudrock, you get slate. Often found where there was once rivers and such to break down such rocks. Though due to the age, are likely long gone.
+@@@ 90
+^white;Dropped By: Bounty Targets ^lightgray;[Any Tier]^reset; 
+An impressive design by Letheia, this is one of the few energy weapons that uses the whole battery. Though the ammo can be quite costly. One battery per shot vs the 10 of the popular Neo Pistol. Packs a punch though!
+@@@ 91
+^white;Dropped By: Bounty Targets ^lightgray;[Any Tier]^reset; 
+One of Letheia's most popular mass-produced weapons. Great for hi-tech self defense. Though in reality, its often used against victims of criminal gangs who can buy them on the cheap.
+@@@ 92
+^white;Dropped By: Bounty Targets ^lightgray;[Any Tier]^reset; 
+Perhaps an unintentionally ironic design choice by Letheia. Like its Terran namesake, its most famous for being used by the most ruthless gangsters. This even carried to movies, which Letheia didn't care much about.
+@@@ 93
+^white;Dropped By: Bounty Targets ^lightgray;[Any Tier]^reset; 
+The full-auto version of Letheia's Neo platform of firearm, based on Terran design. This weapon's ability to handle high fire rates is quite good, if the battery magazine wasn't as long as the gun itself.
+@@@ 94
+^white;Dropped By: ^red;Floran Hunters^reset; 
+A perhaps crude method of taming wildlife to suit the needs of the Floran. Though one cannot deny the effectiveness of multiple poisonous insects homing in on you.
+@@@ 95
+^white;Found In: ^#a451c4;Space Encounters ^#d5c300;[Tier 6]^reset; 
+Spacefaring Glitch are few and far between, but for those who seek the void between realms, there are riches to behold. These drill polearms often double as movement and asteroid mining tools, highly efficient when given little.
+@@@ 96
+^white;Found In: ^#a451c4;Space Encounters ^lightgray;[Any Tier]^reset; 
+Considered a relic by current technology standards by many races, these guns were the original plasma launchers. They can still be effective in combat, but the unstable plasma projectiles can be hard to aim.
+@@@ 97
+^white;Found In: ^#a451c4;Space Encounters ^lightgray;[Any Tier]^reset; 
+Letheia is no stranger to doing business with some unsavory clients, none moreso than the Miniknog. Commissioned for their Insurgence Elimination squads, these batons stun foes when taking them alive is preferred.
+@@@ 98
+^white;Found In: ^#fff15e;Bioluminescent Biomes ^#00d53c;[Tier 3]^reset; 
+A bow made from native bioluminescent plant material. Though the luminescent arrows are only marginally effective in combat, they can be used to light darkness much like a flare gun. 
+@@@ 99
+^white;Found In: ^#fff15e;Bioluminescent Biomes^reset; 
+Unlike the bioluminescent plantlife around it, Neonmelons evolved a glowing interior. Likely to attract animals to come eat it when its ripe and ready. Sapient species say it tastes oddly like bubblegum.
+@@@ 100
+^white;Found In: ^blue;Oasis Biomes^reset; 
+An offputting fruit to many, the kiwi's furry exterior almost makes it on par with Oculemons to non-Humans. The green insides are very sweet and juicy almost to compensate. A staple of any tropical fruit dish.
+@@@ 101
+^white;Found In: ^blue;Oasis Biomes^reset; 
+Though it has evolved on Desert worlds, it doesn't take the heat too well. Its unique growing conditions and unique look, make it a rare delicacy amongst Avians. Often used in dishes made for ceremonial or unique occassions.
+@@@ 102
+^white;Found In: ^brown;Mini Villages^reset; 
+The False Gnome species has been known to exist on many worlds. Intelligent enough to build entire civilizations underground. However, none have been able to speak with them, maybe because their houses keep getting crushed!
+@@@ 103
+^white;Found In: ^cyan;Colourful Biomes ^#00d5a0;[Tier 2+]^reset; 
+The visage of this cape is famous due to the Rainbow Rogues, a guild of flamboyant jailbroken Glitch. Often fighting for free Glitch and being a thorn in the side of House Steamcrow. They are quite the colourful characters.
+@@@ 104
+^white;Found In: ^cyan;Steamspring Biomes ^#00d53c;[Tier 3+]^reset; 
+The Steampunks of the Novakids are an odd group, often foregoing their warm and lush evironments for cold and desolate. They use the massive amounts of hidden water to power grand designs, and often use these for self power.
+@@@ 105
+^white;Found In: ^lightgrey;Avian Temples^reset; 
+Wings of pure blades often represent the wrath of Kluex, and the importance of blood in the Avian religion. Guardians and warriors wear these to put fear into the eyes of enemies, and to tell others to respect the spaces they guard.
+@@@ 106
+^white;Found In: ^lightgrey;Avian Tombs^reset; 
+A set of purely ceremonial wings, Prophets and High Priests often wear these during massive festivals. The spectacle of lifelike wings often puts the fear of Kluex in onlookers, gliding from high heights flawlessly like a spirit.
+@@@ 107
+^white;Found In: ^lightgrey;Avian Tombs^reset; 
+Acolytes are the bottom ladder of the Avolian clergy, often doing day to day tasks. Keeping tombs and temples, making sure the ornamentation is in top order, seeing visitors. Upon memorizing the Avoscript, they often grow into Priests.
+@@@ 108
+^white;Found In: ^lightgrey;Avian Tombs^reset; 
+Priests are the main admins of the Avolista religion, organizing festivals and holding services. A Priest is often seen running a whole Winged village, or multiple in the case of tombs. However, they always answer to a Prophet.
+@@@ 109
+^white;Found In: ^lightgrey;Avian Tombs^reset; 
+Worn by the pinnacle of the Avolian clergy. Most times, they reside on Avos to recieve orders directly from the High Priests. Only ever leaving for ceremonies. These members don't just recite scripture, they define and write it.
+@@@ 110
+^white;Found In: ^lightgrey;Glitch Dungeons^reset; 
+Can't beat the basic sack for arrows method of storing ammunition. Any species that uses bows often uses quivers. This one's geometric designs call to the Glitch in particular, one of the main users of bows.
+@@@ 111
+^white;Found In: ^lightgrey;Hylotl Castles^reset; 
+Talismans are a large part of Hylotl culture. Said to be filled with a spiritual energy by powerful Fuchi, they can do many things. In this case, weaken foes with a potent sealing power.
+@@@ 112
+^white;Found In: ^yellow;Ceremonial Hunting Caverns^reset; 
+A ceremonial item worn by Floran during a hunt. Said to mimic a reptilian predator species from the Floran homeworlds, their massive sails were seen as one of the most fearsome sights on the hunting grounds.
+@@@ 113
+^white;Found On:  ^#00ff00;Toxic Planets ^#d5c300;[Tier 6]^reset; 
+Depleted uranium bullets are surprisingly common among species when they discover nuclear energy. Nowadays, it's not too common to see today under Terrene jurisdiction, but there's nothing stopping you anymore!
+@@@ 114
+^white;Found On:  ^#c89696;Scorched Planets ^#d5c300;[Tier 6]^reset; 
+The fires of promethium are a dangerous one, once set alight, it will not stop emitting gamma radiation until it decays. Nothing would fear you more wielding this rifle, for the fires of hell are yours to unleash.
+@@@ 115
+^white;Found On: Any Planet  ^#3cd500;[Tier 4]^white; ~ ^#b4d500;[Tier 5]^reset; 
+This drill is unique in the fact that it has a platinum-cobalt magnet within its motor. This upgrade to a normal drill has enough torque and heat resistance to break through nearly anything, eventually.
+@@@ 116
+^white;Found On: Any Planet & Space ^lightgray;[Any Tier]^reset; 
+An extremely common rock that can be formed in many different ways. Due to large deposits of calcium carbonate, these can be either made from geological deposits, or deposits of trillions of dead microorganisms.
+@@@ 117
+^white;Found On: Any Planet & Space ^lightgray;[Any Tier]^reset; 
+Copper, atomic number 29. Only ever found in its raw state, its one of the most common elements within the geology of celestial bodies. Its also the most used, from tools to electronic components.
+@@@ 118
+^white;Found On: Any Planet & Space ^lightgray;[Any Tier]^reset; 
+Gold, atomic number 47. The most precious metal, well, not so much anymore. Though its shine has been valued for centuries, nowadays its used for its high conductivity and high-power computer components.
+@@@ 119
+^white;Found On: Any Planet & Space ^lightgray;[Any Tier]^reset; 
+Silver, atomic number 47. While overshadowed by its cousin, Gold, it still is useful to this day. Advances in metallurgy make it useful for weight bearing alloys in structures, often paired with titanium or durasteel.
+@@@ 120
+^white;Found On: Any Planet ^#00a5d5;[Tier 1+]^reset; 
+A rock found in the cores of nearly all active planets. Often called a solidified "soup" of the planet's mantle. Can explode when crushed or heated, which made deep mining highly dangerous. Now used in nearly every explosive!
+@@@ 121
+^white;Found On: Any Planet ^#00a5d5;[Tier 1+]^reset; 
+An allotrope of carbon, considered rare, but not really. Its not the fact that they're diamonds that makes them rare. The conditions in the mantles of many planets allow for perfect shapes for lenses, thats why they're valuable.
+@@@ 122
+^white;Found On: Any Planet ^#00a5d5;[Tier 1+]^reset; 
+Coal, the primary source of carbon, atomic number 6, for pretty much every species. Formed from incomplete decay of plant-life after being buried under the ground, then placed under years of pressure and heat
+@@@ 123
+^white;Found On: Any Planet ^#00a5d5;[Tier 1+]^reset; 
+Iron, atomic number 26, the bane of stars, and a major element. Its only formed in its many oxide states, and can tarnish easily. In spite of this, its the single most important metal to any species. Besides maybe aluminium.
+@@@ 124
+^white;Found On: Any Planet ^#00a5d5;[Tier 1]^reset; 
+The most basic form of javelin, a hardened stick with a piece of stone at the end of it. Though not Floran levels of sharp and balance, it'll take out any prey species without difficulty.
+@@@ 125
+^white;Found On: Any Planet ^#00a5d5;[Tier 1]^reset; 
+The simple dart, nowadays used for bar games, it was once useful as a thrown weapon. Ever heard of lawn darts? Don't underestimate them, especially when thrown hard enough.
+@@@ 126
+^white;Found On: Any Planet ^#00a5d5;[Tier 1]^white; ~ ^#00d5a0;[Tier 2]^reset; 
+A long feared weapons system from the modern age of Earth. From clearing trenches to foliage, you can't go wrong with a helping of napalm against any foe.
+@@@ 127
+^white;Found On: Any Planet ^#00a5d5;[Tier 1]^white; ~ ^#00d5a0;[Tier 2]^reset; 
+A weapon and tool with a long history. Favored by Novakids for herding, a finesse weapon by Hylotl, and prisoner punishment by the Apex!
+@@@ 128
+^white;Found On: Any Planet ^#00a5d5;[Tier 1]^white; ~ ^#00d5a0;[Tier 2]^reset; 
+Pneumatic drills in the space age much easier to make than most devices. The copper exterior does not do this drill's durability any favors, but you can't deny how cost efficient it is.
+@@@ 129
+^white;Found On: Any Planet ^#00a5d5;[Tier 1]^white; ~ ^#00d5a0;[Tier 2]^reset; 
+The beginner's pickaxe, a cheap and quick solution to needing to break rocks. Been around since antiquity for all species, this kind of pickaxe is easy to recast once it breaks. Hence why its so common.
+@@@ 130
+^white;Found On: Any Planet ^#00a5d5;[Tier 1]^white; ~ ^#00d5a0;[Tier 2]^reset; 
+Tipping projectiles in poison is not a foreign concept by any means. Nearly every species does it to some degree. Doesn't mean its not effective, far from it.
+@@@ 131
+^white;Found On: Any Planet ^#00a5d5;[Tier 1]^white; ~ ^#00d5a0;[Tier 2]^reset; 
+Weaponized fumigation against alien life is a very Human idea. Originally used by USCM scouts to exterminate wildlife with extreme prejudice, it worked sometimes.
+@@@ 132
+^white;Found On: Any Planet ^#00a5d5;[Tier 1]^white; ~ ^#3cd500;[Tier 4]^reset; 
+A highly effective method for using your fists, hard and protective at the same time. A surprisingly versatile basis for a variety of attachments.
+@@@ 133
+^white;Found On: Any Planet ^#00a5d5;[Tier 1]^white; ~ ^#3cd500;[Tier 4]^reset; 
+A stick that comes back to you. The first step many races take in understanding aerodynamics. Though now the design doesn't matter, thanks to new microthruster technology. However, it is still versatile.
+@@@ 134
+^white;Found On: Any Planet ^#00a5d5;[Tier 1]^white; ~ ^#3cd500;[Tier 4]^reset; 
+One would think throwing sharp rings of metal would be a bad idea, but its surprisingly effective. A favorite of Avians for how it flies through the air and slices targets. There are many variations.
+@@@ 135
+^white;Found On: Any Planet ^#00d53c;[Tier 3+]^reset; 
+Titanium, a material fit for mythological Titans, atomic number 21. Mostly found in its oxide form, its famous for its use in space vessels. As its very lightweight and resistant to warping, nearly every space vessel is surrounded in the stuff.
+@@@ 136
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^reset; 
+The favorite of the elusive, yet stalwart Alpaca. To wield a throwing axe is a great feat of strength and finesse, some say masters can throw them as far as an arrow. Its heft will break bones and cleave flesh.
+@@@ 137
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^reset; 
+These dedicated throwing knives are balanced perfectly, and able to be thrown with great precision. More of a novelty, as species able to manufacture these often have better options. However, its still very lethal.
+@@@ 138
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+A Terran inventor once invented a wireless transmission of electricity, but was long forgotten. Centuries later, another inventor took this technology and weaponized it. Now, he shall have his revenge!
+@@@ 139
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+A mystical blade embroiled in many stories. Its said these were once made for clocktowers on the Novakid homeworld, all made from a strange metal that could manipulate space and time.
+@@@ 140
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+A strange experiment by the Miniknog. It was an attempt to connect one's perception to a new biological body. It was too disorienting to really matter in the end.
+@@@ 141
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+A tamed giant alien worm that can be thrown. Floran on alien planets can be quite resourceful, even with deadly creatures in the mix.
+@@@ 142
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+Biogenesis often focuses on technology, but sometimes a curious Greenfinger tries to mesh animal tissue and plants. The result is a strange weapon made from a ribcage that fires bones.
+@@@ 143
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+Mutated life on mutated alien worlds, though scary sounding, can be useful. Who wouldn't love a biogun that fires flesh eating worms?
+@@@ 144
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+The intestines of every species (exluding Glitch and Floran) is made of muscle. Muscle fibers are stretchy and elastic... You see the thought process behind this?
+@@@ 145
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+The overall design doesn't give any clues to who made it, however the craftsmanship speaks highly of Hylotl. During their first "seabound" era, this was likely used for later expeditions of the previously toxic continents.
+@@@ 146
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+Though a seemingly simple concept, this weapon was made from Floran Biogenesis. The whip itself is alive in order to maintain its poisonous sting. Make sure to give it plenty of sun.
+@@@ 147
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+While a golden pickaxe has been a joke used by miners for centuries, this model is not as dumb as it sounds. This pickaxe is made from a titanium-gold alloy, allowing for strength and hardness greater than either material.
+@@@ 148
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+While broadswords are uncommon in Avian weaponry, this is an exception. The crystal in the center gathers the blood of those slain, giving it a darker aura. Kluex had no hand in this blade.
+@@@ 149
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+While tungesten-carbide is perhaps the most popular power drill material, at this size, it would be very heavy. The titanium-gold bit allows this drill to be lighter, but about as effective.
+@@@ 150
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#3cd500;[Tier 4]^reset; 
+Yes, this is a living gnome. And yes, he pukes rainbows. He has some digestive issues according to the doctor...
+@@@ 151
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#d5c300;[Tier 6]^reset; 
+Born from a world who's code has been shattered beyond all belief. The information carried over to this world quite well. Perhaps the concept of the Matter Manipulator allowed it to attune itself easily.
+@@@ 152
+^white;Found On: Any Planet ^#00d53c;[Tier 3]^white; ~ ^#d5c300;[Tier 6]^reset; 
+Within the deepest corners of the Outernet, its said data from other dimensions sometimes crosses over into this one from the universe rearranging itself. In this case, however, the data broke itself through dimensions to here.
+@@@ 153
+^white;Found On: Any Planet ^#00d53c;[Tier 5+]^reset; 
+A salt made from conditions not found on stable planets. A highly ionic compound that is used in batteries, often in solution with acid. It can gain, store, then release ungodly amounts of energy.
+@@@ 154
+^white;Found On: Any Planet ^#00d53c;[Tier 5]^reset; 
+The bread and butter of old Hylotl Shinobi, crafted to be silent, sharp, and powerful. Precise enough to hit pressure spots from a distance, these can be surprisingly deadly despite its size.
+@@@ 155
+^white;Found On: Any Planet ^#00d5a0;[Tier 2+]^reset; 
+Tungsten, sometimes called Wolfram, is atomic number 74. Found in conjunction with Iron and Maganese, its known as one of the densest and hardest metals. Its thermal resistance and toughness makes it perfect for starships.
+@@@ 156
+^white;Found On: Any Planet ^#00d5a0;[Tier 2]^reset; 
+Daggers like these are often used in throwing stunts or general use. Glitch love the spectacle these bring during festivals. Its not balanced to perfection like throwing knives, but it will do its job well.
+@@@ 157
+^white;Found On: Any Planet ^#00d5a0;[Tier 2]^reset; 
+The more modern take on the hunting spear. Well balanced, and the tip stabs the target smoothly without getting unecessarily stuck. Can even take on the strong hides of megafauna without too much issue.
+@@@ 158
+^white;Found On: Any Planet ^#00d5a0;[Tier 2]^white; ~ ^#00d53c;[Tier 3]^reset; 
+Despite its silvered exterior, this is probably the simplest electric drill one can make. Need more digging power? Simply make a bigger motor. Less parts and still decent, but incredibly inefficient.
+@@@ 159
+^white;Found On: Any Planet ^#00d5a0;[Tier 2]^white; ~ ^#00d53c;[Tier 3]^reset; 
+Silver is known as a highly soft and ductile metal, however this pickaxe is made from Zinag alloy. Advances in metallurgy allows it to function just fine under stress, while still being flexible enough to not shatter.
+@@@ 160
+^white;Found On: Any Planet ^#3cd500;[Tier 4+]^reset; 
+This unique steel is formed from a very specific isotope of Iron. Iron-60 is often found in space in nearby supernovae remnants, often full of cosmic rays. This isotope allows for greater density, creating this wonder material.
+@@@ 161
+^white;Found On: Any Planet ^#3cd500;[Tier 4]^reset; 
+If one seeks to discover the unique biology of toxic, biohazardous worlds, they need protection. This airtank has built-in graphene mesh air filters, allowing for the purging of most toxins and gasses.
+@@@ 162
+^white;Found On: Any Planet ^#3cd500;[Tier 4]^reset; 
+Originally a masonry tool, its piercing power cannot be understated. Hylotl Shinobi use these as close quarters weapons, and occassionally a distant finisher. Sometimes attached to a rope to climb walls.
+@@@ 163
+^white;Found On: Any Planet ^#3cd500;[Tier 4]^reset; 
+Though appearing like any other Javelin, these were crafted by Floran artisans. Their centuries long techniques grants this hunting javelin superior piercing power and balance.
+@@@ 164
+^white;Found On: Any Planet ^#3cd500;[Tier 4]^white; ~ ^#b4d500;[Tier 5]^reset; 
+Platinum has had very few uses in metallurgy during the modern era, however more exotic materials have made platinum quite strong. Platinum's high heat tolerance makes it nice for deep mining operations for cheap.
+@@@ 165
+^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+A highly dangerous lifeform. Only the most daring Floran beastmasters have tried to tame. Its very vision releases gamma radiation that can kill its prey in seconds.
+@@@ 166
+^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+A legendary blade, maker unknown. Channels the powers of friendship and self expression to rip space in half! Note: homosexuality is said to make the blade 9001% more powerful.
+@@@ 167
+^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+A mysterious energy blade made by a master artisan, taking elements from many powerful blades. The maker's name leads to no known person. Best guess, they changed their name and appearance. Good for them.
+@@@ 168
+^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+A simple, yet highly effective design. Placing bomb traps has always been a part of highly tech warfare. For who needs one at a time detonations, when you can do them all at once!
+@@@ 169
+^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+An almost legendary pickaxe idea, using the hardest material in the universe, and turning it into an excavation tool. Sadly, this is not pure, merely durasteel coated with diamonds. Even with legends, one must be realistic.
+@@@ 170
+^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+Its said that the Ancients held some power over the cosmos themselves, this blade holds a piece of that power. However, they are also said to be a peaceful species, so what would compel them to make this powerful blade?
+@@@ 171
+^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+Much like in human history, early Glitch executions were done using axes. It was higly ineffective and brutal. The axe never went through on the first try. Doubt an old axe such as this will go through without effort.
+@@@ 172
+^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+One experiment that the Miniknog wishes it could forget. A cybernetic melding that is highly compatible with any species, too compatible, often overtaking the host's biology. Luckily this one seems safe.
+@@@ 173
+^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+The humble tesla coil, a Terran invention that is seen in science classrooms. Give it a pinpoint air ionizer and an extreme amount of voltage, and you have a powerful weapon that can control lightning itself!
+@@@ 174
+^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+The pinnacle of mining technology! Originally a standard Solarium Broadsword projector, it was modified to form a near indestructible pickaxe. It will break rock and everything it can, while being perfectly stable.
+@@@ 175
+^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+The ultimate form of a whip. An Apex scientist named Lucaine masterfully used magnetic fields to control plasma into an expanding and flexible energy force. Hits with a distinct burn!
+@@@ 176
+^white;Found On: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+The ultimate status symbol as a miner, the massive diamond tipped drill looks as shiny as an actual diamond. Grinds down rocks and stones like no other drill can. Just be careful about heat, because diamonds can burn in oxygen.
+@@@ 177
+^white;Found On: Any Planet ^#b4d500;[Tier 6]^reset; 
+A projectile of unparalleled power. Even when thrown normally, the core in its head can accelerate it fast enough to ignite the air around it. The penulimate hunting weapon, nothing comes close to matching it.
+@@@ 178
+^white;Found On: Any Planet ^#d5c300;[Tier 6]^reset; 
+A uniquely Avian design for a drone. The core of it allows for incredible amounts of energy generation and transfer, creating a powerful mining laser in a small package. Won't last long, but that's not what they were made for.
+@@@ 179
+^white;Found On: Any Planet ^#d5c300;[Tier 6]^reset; 
+The mysterious dark metal that seems to surround around dim, dying stars. Not much is ultimately known about it. Thought to be some sort of natural alloy. Its incredibly resistant to tarnishing, giving it the title of "timeless metal".
+@@@ 180
+^white;Found On: Any Planet ^#d5c300;[Tier 6]^reset; 
+While most mining lasers are used on mechs, this one is an exception. Long ranged and powerful compared to other tools, but the high power often causes the internals to break down faster. Amazing while it lasts though!
+@@@ 181
+^white;Found On: Any Planet ^^#00a5d5;[Tier 1+]^reset; 
+Lead, atomic number 82, is a very common and dense metal. Though its not used as much anymore, as it is a potent neurotoxin in high enough densities. Nowadays it is only really used as a radiation protection method.
+@@@ 182
+^white;Found On: Any Planet ^lightgray;[Any Tier]^reset; 
+An improvised weapon used by particularly rowdy species, such as Humans and Apex. A simple napalm bomb, nothing more than oil in a glass bottle, though a symbol of resistance throughout the galaxy.
+@@@ 183
+^white;Found On: Any Planet ^lightgray;[Any Tier]^reset; 
+Back mounted batteries are not a foreign concept by any stretch of the imagination, but you must admit that this gigantic AA Battery is particularly rediculous. Still works, however.
+@@@ 184
+^white;Found On: Any Planet ^lightgray;[Any Tier]^reset; 
+Flashlights are never colored without some good reason. Green lights are more easily to illuminate certain spaces without as much power draw. Human eyes are well suited for capturing green light, allowing for greater effect.
+@@@ 185
+^white;Found On: Any Planet ^lightgray;[Any Tier]^reset; 
+One of the least bright colors, but that's what makes it useful for stealth situations. Many species with dark vision often lose it when looking at bright lights, with the exception of red. Making night excursions much easier.
+@@@ 186
+^white;Found On: Any Planet ^lightgray;[Any Tier]^reset; 
+Perhaps one of the most important tools for an aspiring cave explorer. No matter what you think you can see, you cannot differentiate between a hump and a pit in pitch black darkness. Throw a flare down before you do it yourself.
+@@@ 187
+^white;Found On: Any Planet ^lightgray;[Any Tier]^reset; 
+Quite the relic you have, many older flashlights give off a warm yellow glow. This is because they use icandescent lightbulbs rather than LEDs or other modern lighting methods. Just hope you never need to replace it.
+@@@ 188
+^white;Found On: Any Planet ^lightgray;[Any Tier]^reset; 
+The first invention using core fragments, the simple core bomb. Packs quite a punch for its size, but doesn't leave much behind in its wake. Good for blowing things up, not if you want anything from it.
+@@@ 189
+^white;Found On: ^#0000ff;Ocean Planets ^#00d53c;[Tier 3]^reset; 
+A common ingredient in Hylotl cuisine, the unique texture when its dried cannot be found in any other greens. Sushi, salads, seafood, on its own as a snack. There's a lot it can do.
+@@@ 190
+^white;Found On: ^#0000ff;Ocean Planets ^#00d53c;[Tier 3]^reset; 
+An odd plant that defies culinary labelling. This plant wants to be eaten by carnivores, as they can't digest its seeds. This leads it to looking and tasting like a crustacean. Hey, at least the pacifists are happy!
+@@@ 191
+^white;Found On: ^#0000ff;Ocean Planets ^#00d53c;[Tier 3]^reset; 
+Most sea plants don't go the fruit route, mostly spreading their seeds through spores. Filling itself with seawater, these pods often float through the water to find new homes. As a result, its kind of salty.
+@@@ 192
+^white;Found On: ^#0000ff;Ocean Planets ^#00d53c;[Tier 3]^reset; 
+Some say that crystals hold some special power within them. This one is one of the few that likely do. Aquari seems to hold some power over water, often drawing it in like a vaccuum. Hylotl say that aquari is solidified "spiritual water".
+@@@ 193
+^white;Found On: ^#0000ff;Ocean Planets ^#00d53c;[Tier 3]^reset; 
+The Hylotl's technology to manipulate water was almost mythical to most species. A simple infantry weapon like this could draw many enemies inwards for a decisive strike. Not seen very often nowadays.
+@@@ 194
+^white;Found On: ^#0000ff;Ocean Planets ^#00d53c;[Tier 3]^reset; 
+The most basic answer to the issue of lack of air, large tanks of air. Most effective underwater. This was the default answer for nearly every species, especially the Hylotl when they first came back to the water.
+@@@ 195
+^white;Found On: ^#0000ff;Ocean Planets ^#00d53c;[Tier 3]^reset; 
+The powers of its origin seem to flood through with this shield, like a rift... When used in tandem with its weapon, deeper concepts and data from its origin flood through. A staggering display to be sure...
+@@@ 196
+^white;Found On: ^#0000ff;Ocean Planets ^#00d53c;[Tier 3]^reset; 
+Though a naval weapon, the data is very attuned to the idea of the ocean itself. A deep resonance and "light" can be felt within it. A wrathful one, full of pride and obsession. Perhaps its attuned to yet more concepts...
+@@@ 197
+^white;Found On: ^#0000ff;Ocean Planets ^#00d53c;[Tier 3]^reset; 
+While old in mechanism, it was the pinnacle of old Hylotl technology. A volley of high caliber bullets that tore holes in the sides of ships, without a cannon. The Floran-Hylotl conflict made such powerful weapons necessary.
+@@@ 198
+^white;Found On: ^#00c800;Lush Planets ^#00a5d5;[Tier 1]^reset; 
+A remnant of the kingdoms that once lived on these garden worlds. Nobody knows exactly who they were, it could be that they have some connection to the Glitch.
+@@@ 199
+^white;Found On: ^#00c800;Lush Planets ^#00a5d5;[Tier 1]^reset; 
+A technological oddity for a species of its age, plasma weaponry usually comes during the Early Space Age for most cultures. Perhaps outside forces made it possible.
+@@@ 200
+^white;Found On: ^#00ff00;Toxic Planets ^#d5c300;[Tier 6]^reset; 
+Long ago, the Floran once found these polluted ocean worlds while seeking the Hylotl. Though where most saw ruin, they saw opportunity. This backpack was made using Biogenesis on a flowering plant on these worlds.
+@@@ 201
+^white;Found On: ^#00ff00;Toxic Planets ^#d5c300;[Tier 6]^reset; 
+This is not a naturally occuring form of uranium, atomic number 92. Instead of being found as Uraninite, this was found enriched and pure. It shows how little care was taken by the previous natives in disposing of it.
+@@@ 202
+^white;Found On: ^#00ff00;Toxic Planets ^#d5c300;[Tier 6]^reset; 
+Though it looks very light and agile, its actually not. The entire blade is made of depleted uranium, making it dense and toxic. The ornate designs are reminiscent of Hylotl, though not in their usual style.
+@@@ 203
+^white;Found On: ^#329632;Forest Planets ^#00d5a0;[Tier 2]^reset; 
+A very curious and honestly silly design at a glance. Though the leaves of subterranean plantlife is like flint. Sharp and chips easily, meaning its more dangerous than it looks.
+@@@ 204
+^white;Found On: ^#329632;Forest Planets ^#00d5a0;[Tier 2]^reset; 
+Petrifying wood isn't a unique geological process. However, this material was formed in a moist and hot environment, causing parts of it to be carbonized. This keeps the tensility of the wood, while being stronger as a result.
+@@@ 205
+^white;Found On: ^#329632;Forest Planets ^#00d5a0;[Tier 2]^reset; 
+The power of the Floran, the ability to shape plants into any form they desire is a great boon. Though what makes this blade unique is the Hylotl iconography, uncommon in Floran culture.
+@@@ 206
+^white;Found On: ^#592a6e;Anabatic Planets ^#b4d500;[Tier 5]^reset; 
+Magnum rounds became more commonplace as humanity moved to more hazardous worlds, hardier life requires bigger bullets. This one is even infused with Violium! The flashlight is useful too.
+@@@ 207
+^white;Found On: ^#592a6e;Anabatic Planets ^#b4d500;[Tier 5]^reset; 
+Stormchasers are a diverse group, all with different reasons for being part. As they seek strongest storms, they must be prepared for anything. Though imperfect, you cannot deny that they are prepared.
+@@@ 208
+^white;Found On: ^#592a6e;Anabatic Planets ^#b4d500;[Tier 5]^reset; 
+The concepts here are quite similar to what this world seems to offer, though an indifference can be felt. It is indeed interesting that this concept wasn't implemented into this world's. Perhaps a schism occurred before it could...
+@@@ 209
+^white;Found On: ^#592a6e;Anabatic Planets ^#b4d500;[Tier 5]^reset; 
+While it might look normal, this ice pick has a mean edge from the violium field around it. It won't be moving from any spot you put it in. A perfect companion for a climber.
+@@@ 210
+^white;Found On: ^#960000;Volcanic Planets ^#b4d500;[Tier 5]^reset; 
+A symbol of tyranny for a past era of the Glitch. Those who once roamed the Volcanic wastes of the realms, subjugating or burning anyone that got in their way. Its said the leader, the Fire Lord met an icy fate, ending this era forever.
+@@@ 211
+^white;Found On: ^#960000;Volcanic Planets ^#b4d500;[Tier 5]^reset; 
+An odd piece of technology, though quite remarkable. Nobody except the Foundry Workers could make a casting tool so intricate as to forge rockets from nothing but raw material.
+@@@ 212
+^white;Found On: ^#960000;Volcanic Planets ^#b4d500;[Tier 5]^reset; 
+Despite the fact that data and concepts intermingle, this weapon is mostly based on data. Despite whatever concepts it might've held, the way it functions seems to work closer to how it was created. The concept must be quite old.
+@@@ 213
+^white;Found On: ^#960000;Volcanic Planets ^#b4d500;[Tier 5]^reset; 
+The nature of the volcanic civilizations are a mystery. The design of this blade is slightly reminiscent of Glitch Execution tools, though with technology unseen from them. Perhaps a tyrant ruled over them at one point.
+@@@ 214
+^white;Found On: ^#969696;Lunar Planets ^#9c9c9c;[Tier ?]^reset; 
+The very foundation of all FTL technology, yet none know of how it functions. The exotic particles its made of seem to gather around gravity wells. The best theory suggests it might come from another dimension.
+@@@ 215
+^white;Found On: ^#969696;Midnight Planets ^#d5c300;[Tier 6]^reset; 
+It is theorized that Erebium was some kind of ancient material once used by the Shadow people. Though, it does not explain its origin... ^red;it's like that it was always there, and always will be... Remnants of something dying.
+@@@ 216
+^white;Found On: ^#969696;Midnight Planets ^#d5c300;[Tier 6]^reset; 
+Shadow weapons are extremely rare and unknown to most areas of science. Many describe the sensation as a consuming force that removes your very being. Not much can substantiate these claims, its simply ^red;impossible to know.
+@@@ 217
+^white;Found On: ^#969696;Midnight Planets ^#d5c300;[Tier 6]^reset; 
+^red;The harbinger of the end, the beholder of the final truth. Stare into the abyss and you will see eternity staring back. You'll see the blood of reality seeping into the crevices of nothing, and it will be beautiful.
+@@@ 218
+^white;Found On: ^#b4b4b4;Tundra Planets ^#b4d500;[Tier 5]^reset; 
+The Alpaca runes on this claymore suggest that the one who wielded this blade was once a great hero. The snowflake design is merely a projection of its extreme chill.
+@@@ 219
+^white;Found On: ^#b4b4b4;Tundra Planets ^#b4d500;[Tier 5]^reset; 
+The ability for this axe to return to the wielder is completely inexplicable beyond practically being magic itself. At least it is loyal to the one who throws it.
+@@@ 220
+^white;Found On: ^#c832c8;Jungle Planets ^#3cd500;[Tier 4]^reset; 
+A more technological outcome of Biogenesis. The weapon itself creates its own ammunition from the thorns on the rose-like vines. A truly renewable weapon, only requiring sunlight and air.
+@@@ 221
+^white;Found On: ^#c832c8;Jungle Planets ^#3cd500;[Tier 4]^reset; 
+The concept of rot is universal, especially in woodlands. Vermillium is the byproduct of dying plants. It seems to hold atmospheric toxins, keeping them locked away. Likely as a method to keep the jungle from becoming inhospitable.
+@@@ 222
+^white;Found On: ^#c832c8;Jungle Planets ^#3cd500;[Tier 4]^reset; 
+This weapon appears to have been infused with the limited ability to command plants. While miraculous, the fact it was Avian made is another miraculous detail. Perhaps a collaboration of sorts was done.
+@@@ 223
+^white;Found On: ^#c89696;Scorched Planets ^#d5c300;[Tier 6]^reset; 
+A distant, far-off concept from the world that we currently residing within. Perhaps within a period of change, this world had grown more dark, and the fires of war brought it here from its origin dimension.
+@@@ 224
+^white;Found On: ^#c89696;Scorched Planets ^#d5c300;[Tier 6]^reset; 
+Promethium is a technology that most would rather not use. To put it in a combat knife, is considered to be mad engineering, if not outright barbaric. The old civilization must've desired death more than anything.
+@@@ 225
+^white;Found On: ^#c89696;Scorched Planets ^#d5c300;[Tier 6]^reset; 
+Promethium, atomic number 61, is unique. It's one of the few materials that only exists artificially. Seems like the warlike species found a way to make a hyperfertile isotope of it. Some would call it the mineralized version of wrath.
+@@@ 226
+^white;Found On: ^#ff00ff;Alien Planets ^#3cd500;[Tier 4]^reset; 
+Alien worlds are quite unique in how "organic" everything seems to be. The unique ecology and dangers posed make it a common science spot, sometimes leading to weapons such as this. Is it alive? By all measures of study... maybe.
+@@@ 227
+^white;Found On: ^#ff00ff;Alien Planets ^#3cd500;[Tier 4]^reset; 
+An interesting take on the Ray Gun formula, using extra energy to create another energy bullet to balance out the other. Its not very often that the Apex make something so flashy.
+@@@ 228
+^white;Found On: ^#ff00ff;Alien Planets ^#3cd500;[Tier 4]^reset; 
+This strange material that's not a mineral, or even a mineraloid. This is actually a colony of microorganisms that eat metal deposits. Even stranger, is the fact that it can be used in alloys, making a self-repairing material.
+@@@ 229
+^white;Found On: ^#ff00ff;Alien Planets ^#3cd500;[Tier 4]^reset; 
+Unlike the pieces of data that was attuned to existing concepts. It appears a new concept drew in this one in with the new opening. I wonder if its surrounding concepts were based on its origin and was merely drawn in...
+@@@ 230
+^white;Found On: ^#ffc800;Desert Planets ^#00d53c;[Tier 3]^reset; 
+Avian warriors are perhaps one of the stranger types out there. Using staff technology with your basic weaponry is something unique to them. Some say their techniques grow stronger while midair.
+@@@ 231
+^white;Found On: ^#ffc800;Desert Planets ^#00d53c;[Tier 3]^reset; 
+Despite its name, its not actually Ruby. It is more of a form of Calcite from ancient oceans and lakes. Lauded by the Avians for centuries, its very commonly found on Avos. Noted to have a strange affinity for blood.
+@@@ 232
+^white;Found On: ^#ffc800;Desert Planets ^#00d53c;[Tier 3]^reset; 
+Its not too often you see pure Avolite away from the Avian homeworlds. Though, it seems you found it abandoned and not out to kill you. Many pirates would kill for this luck.
+@@@ 233
+^white;Found On: ^#ffc800;Savannah Planets ^#00d5a0;[Tier 2]^reset; 
+A core powder interior with a thorn fruit exterior. The hard and spikey exterior has a lot of fragmentation potential, and is much, much more lethal than even a manufactured fragmentation grenade.
+@@@ 234
+^white;Found On: ^#ffc800;Savannah Planets ^#00d5a0;[Tier 2]^reset; 
+Not exactly a creation of the locals, but more of a hunting tool used by old human explorers. It is very much over the top for a Bowie Knife, and that is on purpose.
+@@@ 235
+^white;Found On: ^#ffc800;Savannah Planets ^#00d5a0;[Tier 2]^reset; 
+Originally a great scientific mystery, as aurium appeared to be gold, yet very strong. Then they discovered what it was made out of, which only led to more confusion. How a mainly gold alloy could do this is still a mystery.
+@@@ 236
+^white;Found On: ^#ffc800;Savannah Planets ^#00d5a0;[Tier 2]^reset; 
+The gilded exterior is not actually gold. Some similar material is used to strengthen the bow, its said to make people go crazy. Though it does pierce very well.
+@@@ 237
+^white;Found On: ^#ffffff;Snowy Planets ^#00d53c;[Tier 3]^reset; 
+Ice of this kind is quite rare in the universe. While it has the same composition as normal water, eons of compaction and freezing have made this kind especially dense, allowing it to stay solid and cold in hot temperatures.
+@@@ 238
+^white;Found On: ^#ffffff;Snowy Planets ^#00d53c;[Tier 3]^reset; 
+Its a tale as old as the arctic itself. Wherever there are icicles, one must spear someone else with it. This shortsword is a testament to that tale. Perhaps not as refined as metal, but enough to freeze.
+@@@ 239
+^white;Found On: ^#ffffff;Snowy Planets ^#00d53c;[Tier 3]^reset; 
+The pinnacle of snow fight technology. Putting lit volatile powder into a snowball cannon, creating snow grenades! Doubt the engineer who made this was invited to many of them.
+@@@ 240
+^white;Found On: ^cyan;Cold Planets ^#00d53c;[Tier 5]^reset; 
+The standalone member of a family of minerals known as "Electic". This is perhaps one of the purest, as it has few other elements inside of it. Its unique properties allows it to manipulate energy and release it in a controlled manner.
+@@@ 241
+^white;Found On: ^cyan;Hot Planets ^#00d53c;[Tier 5]^reset; 
+A member of the Electic family, this one is radioactive due to uranium within it. The constant beta decay within the ionized material makes it always hot to the touch. This energy production means it can supercharge energy projection.
+@@@ 242
+^white;Found On: ^darkgreen;Alpine Biomes^reset; 
+Alpaca competitions are known to be fierce. Much like the Human Caber Toss, particularly aggressive Alpaca throw boulders up rocky cliffs to prove who is the strongest. Death is not uncommon when it fails to reach the top.
+@@@ 243
+^white;Found On: ^orange;Agricultural Station^reset; 
+Perhaps one of the most advanced radars in the world. The very subtle ways that the sound vibrates surfaces can tell where there are holes in the rock itself. Extremely precise, but a useful tool for many geologists.
+@@@ 244
+^white;Found On: ^purple;Static Planets ^#00d53c;[Tier 5]^reset; 
+Perhaps the most famous Electic mineral, this one follows the idea of the family perfectly. The compounds within give it a hard, crystalline shell. With a high enough voltage, it will release all that energy in a large blast.
+@@@ 245
+^white;Found On:^#ffffff;Snowy Planets ^#00d53c;[Tier 3]^reset; 
+The concept from this shovel is very rudimentary. Many parts of its design seem to come from other pieces within this world that lay untouched. Interesting, very interesting...
+@@@ 246
+^white;Obtained From: ^cyan;Hand Crafting^reset; 
+A bottle of poison, the greatest part of an assassin's kit. Well, assuming you don't chuck it at your enemies... That's what you're going to do, isn't it?
+@@@ 247
+^white;Obtained From: ^cyan;Hand Crafting^reset; 
+A universal climbing tool, a rope attached to some kind of anchor point. Toss it up to climb up steep walls, toss it below you to descend down pits safely. Its very versatile if you know how to us it.
+@@@ 248
+^white;Obtained From: ^cyan;Hand Crafting^reset; 
+Oil can be used for anything, lighting lanterns, making petrochemicals. However, its obvious what one would do with an easily throwable flask of oil.
+@@@ 249
+^white;Obtained From: ^cyan;Hand Crafting^reset; 
+Specifically made to be thrown, this water bottle spreads water everywhere. Its nice on a hot day, but can be lethal in colder or static conditions.
+@@@ 250
+^white;Obtained From: ^cyan;Hand Crafting^reset; 
+The toxins from the microorganisms within this flask make it a bad choice to drink. However, coating your enemy's wounds with it will likely do wonders.
+@@@ 251
+^white;Obtained From: ^magenta;Peacekeeper Store^reset; 
+Unlike usual concussion grenades, these grenades create energy field that paralyzes targets. For Peacekeepers, this is a preferred room clearing method, as its much easier to arrest an immobile criminal.
+@@@ 252
+^white;Obtained From: ^orange;Agricultural Station^reset; 
+A basic upgrade to just throwing flares around, this flare launcher can lob flares much further. As well, it comes with flares that stick into surfaces! No more lighting problems again.
+@@@ 253
+^white;Obtained From: ^orange;Agricultural Station^reset; 
+Making a pickaxe with such a rare and powerful metal seems a bit overkill. The incredible durability holds its edge for what seems like an eternity. Won't tarnish or rust either, truly a near forever pickaxe.
+@@@ 254
+^white;Obtained From: ^orange;Agricultural Station^reset; 
+One step below an actual plasma miner, the extreme heat resistance of the chronium allows for a controlled hardlight generator. Hardlight has no durability of its own, meaning the only thing wearing down is the housing itself!
+@@@ 255
+^white;Obtained From: ^orange;Agricultural Station^reset; 
+The largest handheld drill you've ever seen! Specifically made to dig out mining caverns, these make digging through rock a sinch as it has a large mining area. Don't neglect your Matter Manipulator too much!
+@@@ 256
+^white;Obtained From: ^orange;Agricultural Station^reset; 
+The standard issue for most Protectorate missions, often used during search and rescue for cave-ins or landslides. The durasteel head lasts a lot longer than most tools of its type, and excavates quite quickly.
+@@@ 257
+^white;Obtained From: ^orange;Agricultural Station^reset; 
+When a simple rope and anchor won't cut it. A speedy option with a slightly less versatility than a normal rope. With enough finesse, one can swing around with it and traverse rough terrain within seconds.
+@@@ 258
+^white;Obtained From: ^orange;Agricultural Station^reset; 
+While most metal drills of this size would not be able to be handheld, this one has a workaround. The head itself utilizes the strength of durasteel, and is completely hollow on the inside without risking the durability.
+@@@ 259
+^white;Obtained From: ^orange;Anvil^reset; 
+A symbol of the outdoors. The light weight and sharp retention properties of Aurium make this bush weapon an amazing friend, its even able to be thrown with ease.
+@@@ 260
+^white;Obtained From: ^orange;Anvil^reset; 
+Aurium was once favored by the Glitch during its early days, a strong and ductile material that appeared like gold. Many weapons and armor made for nobility are still made from Aurium all these years later.
+@@@ 261
+^white;Obtained From: ^orange;Anvil^reset; 
+Its not often that Florans make throwing axes, this is the exception. The hefty, stonelike properties of Heartwood make it ideal for being turned into a throwing axe. Cuts through flesh easily.
+@@@ 262
+^white;Obtained From: ^orange;Anvil^reset; 
+Perhaps the most basic that a mounted light source can get, a tree branch and a lantern. Commonly seen on Glitch and Human travelers as its quite cheap.
+@@@ 263
+^white;Obtained From: ^orange;Foraging Table^reset; 
+Been around since gas lamps were phased out, a super handly torch to light any direction in front of you. Just make sure to occassionally point the light behind you, in case there's anything there. Never know what's in the dark...
+@@@ 264
+^white;Obtained From: ^orange;Foraging Table^reset; 
+Gear driven drills, one of the most basic and time tested designs. Still seen in power drills to this day, however this one is much bigger. There's better tech out there, but it does fine.
+@@@ 265
+^white;Obtained From: ^orange;Foraging Table^reset; 
+The bottom of the "reasonable technology" ladder, a basic pickaxe made from iron. A lot more durable than what most other pickaxes are made from, yet not the most efficient rock breaker. You don't see these too often.
+@@@ 266
+^white;Obtained From: ^orange;Foraging Table^reset; 
+The most basic, long-term lighting implement one can possibly make. A wick and oil. While many other tools nowadays output more lumens, you can't beat fire in terms of simplicity. Just try not to put it on a table next to wood.
+@@@ 267
+^white;Obtained From: ^orange;Forge^reset; 
+Long before the discovery of Avolite, Avians used these brutal talon-like weapons. A single hit causes targets to bleed profusely, its said those that killed many sapients gained a mind of their own.
+@@@ 268
+^white;Obtained From: ^orange;Forge^reset; 
+Once worn by Hylotl generals during the Hylotlian Imperial Era. The banner rallied the troops to fight onwards. Its said that on rainy days, the Floran never won a fight when in the presence of this.
+@@@ 269
+^white;Obtained From: ^orange;Forge^reset; 
+These ice hatchets are traditionally modelled after the great axes of old Alpaca heroes. Its said that their axes were so loyal that they always returned to the wielder. Sadly, these don't, but it still carries their legacy.
+@@@ 270
+^white;Obtained From: ^orange;Forge^reset; 
+Though a simple throwing weapon at a glance, these old Hylotl weapons were once used in naval combat. The whirling design makes the aquari gather moisture into a maelstrom, hitting ships like a typhoon from close range.
+@@@ 271
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+Applies a neutralizing field around the pack it is applied to, breaking down and halting any toxins from entering through contact.
+@@@ 272
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+Augments the capabilities of certain packs to absorb heat from its wearer, like a radiator. Allowing for permanent protection from heat exhaustion.
+@@@ 273
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+Gives packs another route for current to go, stopping ambient static discharge from building up and eventually harming the wearer.
+@@@ 274
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+Grants the pack it is insalled on a basic alpha and beta particle shield. Will protect against most minor forms of radiation.
+@@@ 275
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+Not enough oxygen? Bring an oxygen tank. Might only be a temporary solution, but its not like you wish to reside in such places for long.
+@@@ 276
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+Poisons are generally made from natural compounds. Carbon can easily neutralize and absorb such compounds. By consuming it, one can purge many poisons from their body.
+@@@ 277
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+Reroutes the power generation of certain packs to create a basic heating effect. Staving off hypothermia for as long as it is active.
+@@@ 278
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+Some padding woven with some copper wire can help halt static electricity buildup. Even if the air is static, one must let the energy pass through to survive it.
+@@@ 279
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+Surviving the heat requires a bit more than just hydration. It requires temperature regulation. Adding ice to the hydration can work well enough.
+@@@ 280
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+The first of the standard EPP models made by the Protectorate. Was once made to improve upon ECS technology, this pack gives you a completely self sufficient field of air.
+@@@ 281
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+The hands and feet are often the first parts of the body to freeze. Using some stabilized core powder in a pouch does wonders to halt that.
+@@@ 282
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+The most basic of oxygen capture and release in a small chip. Allows any pack to gain the properties of an air tank, allowing for breath.
+@@@ 283
+^white;Obtained From: ^orange;Hazard Lab Table^reset; 
+Used in x-ray treatments for awhile. If there's a little too much ambient radiation, some lead reinforcements can halt that just fine.
+@@@ 284
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+A complex augment that grants the wearer a rudimentary ferozium control generator, allowing for any infrared energy to be redirected.
+@@@ 285
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+A simple concept for environment protection. Practically a hi-tech air purifier, this EPP draws toxic compounds within the air into its vents, before capturing it via microorganisms.
+@@@ 286
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+A tiny nuclear generator hooked up to an invisible hardlight field. It doubles as both a particle shield, and a destructive interference limiter for any gamma rays in the air.
+@@@ 287
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+A very rudimentary nuclear generator. Sounds like fighting fire with fire, but in reality, it just makes an energy shield that halts alpha and beta radiation. The lead is there for gamma.
+@@@ 288
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+Air conditioning technology has improved immensely over the years. The cooling fluid in this unit can absorb the sorts of temperatures you find in an oven.
+@@@ 289
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+Anti-venoms and antidotes are often very specific, though in some crazy alien life, they carry a cocktail of so many. Making an antidote off of that blocks nearly everything!
+@@@ 290
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+By using selective high-energy fields, this augment can lock onto and break apart any toxic compounds in the air that its aligned to. Its automatic chemistry at work.
+@@@ 291
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+Lightning rods are used to attract lightning, to make sure it hits nothing else. This generator can create a shield of negative ions to completely repel it! Hitting everything else...
+@@@ 292
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+One of the smallest heaters that could possibly be made. Transmits heat energy to the pack its installed on through the decaying solarium within it.
+@@@ 293
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+Practically a portable combustion engine on its own. This scorching heater can pump out enough energy to handle hundreds of degrees below freezing, for some time.
+@@@ 294
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+The larger version of radiation shielding. Blocking most radiation by making a dense hardlight field around the wearer, allowing it to completely block all radiation that enters.
+@@@ 295
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+The solarium core within this EPP constantly heats up the wearer's equipment directly. By simply adding energy to the system, it can offset any heat loss that the air gives.
+@@@ 296
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+This EPP is less of a shield, and more of an ambient temperature regulator. Using ferozium, it can siphon the heat from the air and store it inside itself. Cooling the air extremely fast.
+@@@ 297
+^white;Obtained From: ^orange;Hazard Research Station^reset; 
+This augment creates an energy barrier around the wearer that can completely neutralize and redirect electric charges. You can parry the lightning!
+@@@ 298
+^white;Obtained From: ^orange;Moth Traps^reset; 
+Ever since the advent of silky moths on many planets, it made the silk industry boom, since harvesting was easy. Now its not as luxurious as before, but its still quite a comfortable fabric. Especially adored by Hylotl.
+@@@ 299
+^white;Obtained From: ^orange;Replicator [Any Add-On]^reset; 
+A necessary kit for a space age mountain climber. The violium pulse generator built into the pack will immediately attempt to break falls before impact. Its not perfect however, as the pulse of energy is limited.
+@@@ 300
+^white;Obtained From: ^orange;Replicator [Any Add-On]^reset; 
+A very illegal explosive. This grenade spreads molten promethium in all directions, burning hotter than a plasma torch. If weapons such as these were commonplace, its no wonder the Deadbeats' planets were scorched.
+@@@ 301
+^white;Obtained From: ^orange;Replicator [Any Add-On]^reset; 
+Erebium's strange, life-seeking properties are on full display with this kunai. It seeks living things to cease it. This shadowy tool of death would make even the Shinen's strongest warriors blush.
+@@@ 302
+^white;Obtained From: ^orange;Replicator [Any Add-On]^reset; 
+Nuclear weapons were phased out on Earth centuries ago after the Last War, the miniknog still has stores of interstellar missiles. This one is handheld! Be careful, lest you destroy the world with you on it.
+@@@ 303
+^white;Obtained From: ^orange;Replicator [Any Add-On]^reset; 
+The space age answer to the throwing knife. Tiny aegisalt generators within create a hot plasma that can burn through armor. As a bonus, they're exceptionally lightweight.
+@@@ 304
+^white;Obtained From: ^orange;Replicator [Any Add-On]^reset; 
+While a back mounted nuclear generator in an age with Violium, Erchius, and Fusion generators, is seen as insane. The high energy density and without need of particle acceleration is a boon a few can have.
+@@@ 305
+^white;Obtained From: ^orange;Replicator^reset; 
+A longstanding Human design, originally used by USCM scouts in the early days of space exploration. Still used nowadays by a few explorers and the standard issue for Protectorate gear.
+@@@ 306
+^white;Obtained From: ^orange;Replicator^reset; 
+A more modern creation, an experiment to see if one could make superior piercing weapon. The alien energy within the xenocyte did work effectively, but it was soon phased out by Kinetic Javelins.
+@@@ 307
+^white;Obtained From: ^orange;Replicator^reset; 
+The Graxus XenonTM Pack, a commissioned Protectorate replicator schematic. This waterproof, energy-efficient light can be a great boon to any explorer. The crystalline lamp puts out more lumens than your ordinary halogen pack!
+@@@ 308
+^white;Obtained From: ^orange;Replicator^reset; 
+The highly toxic and granular properties of vermillium are often used by Florans as traps. Stepping onto a vermillium trap oftentimes killed the target within 5 minutes afterwards. Attaching it to your back is certainly a ... choice.
+@@@ 309
+^white;Obtained From: ^orange;Replicator^reset; 
+Though locked away, the toxic aerosols within vermillium can be released once more through controlled heating of the material. Turning a simple puck of it into poisonous gas. This is why you shouldn't burn down Jungles!
+@@@ 310
+^white;Obtained From: ^orange;Spinning Wheel^reset;
+Hardly better than your own fists, but they work in a pinch against certain targets. Remember, alien wilderness is not a boxing ring, there is no trophy to win!
+@@@ 311
+^white;Obtained From: ^orange;Terramart^reset; 
+An actual, genuine, terran apple. Favored for its sweetness and tangy flavor. There's about a thousand different kinds, but these have been specifically bred for hardiness and off-world cultivation. So its unimportant.
+@@@ 312
+^white;Obtained From: ^orange;Terramart^reset; 
+What came first, the color or the fruit? It was actually the color. This definition of a color is known for its definitionally sweet and sour flavor. High in Vitamin C, Vitamin Avi, and Anti-Ferrant, it is quite the boon.
+@@@ 313
+^white;Obtained From: ^red;Asra Nox^reset; 
+The density required to handle a Solarium energy generator directly is immense. Only Hylotl craftsman work could ever hope to handle the pressure. Ironic then that Asra Nox made it, when it was never a human's design to begin with.
+@@@ 314
+^white;Obtained From: ^red;Big Ape^reset; 
+It seems the Miniknog looking into dimensional manipulation. Despite the small footprint, it's interior is larger on the inside, able to fit multiple rockets inside. Either way, its an amazing piece of engineering.
+@@@ 315
+^white;Obtained From: ^red;Bone Dragon^reset; 
+A weapon salvaged from the flame generator of the robotic Bone Dragon. Able to charge and fire balls of flaming gas that explode on contact. Has a penguin insignia on the side of it...
+@@@ 316
+^white;Obtained From: ^red;Erchius Horror^reset; 
+In hushed whispers were talks of the unexplained cosmic power of Erchius. Even more hushed were the potential entities summoned by it. Perhaps it was less of a rumor than once thought. Not that Letheia cares...
+@@@ 317
+^white;Obtained From: ^red;Ixodoom^reset; 
+Ixodoom (Tetrapoda Magnusa) is the largest arachnid-like species in the galaxy. Originating from the Floran homeworlds, they are often seen as the greatest challenge a Floran hunter can face.
+@@@ 318
+^white;Obtained From: ^red;Kluex Avatar^reset; 
+A holy relic of Avos. Once wielded by a Great Prophet, the Avolite within its core is said to contain a shard of the Will of Kluex. Fitting then, that this device channeled the energy of the Avatar's powercore.
+@@@ 319
+^white;Obtained From: ^yellow;Baron^reset; 
+The Protectorate Peacekeeping Blade back to its full glory! Many species came together to make this powerful hybrid sword, worthy for the few warriors of the Protectorate. Its yours now, may it be a symbol of unity forevermore!
+@@@ 320
+^white;Obtained From: ^yellow;Koichi^reset; 
+One of the great relics of Hylotl's history! Once wielded by the legendary Blue Blade against the Floran invaders. Said to use the water itself like as a weapon to tear foes apart. Its a wonder how Koichi got this...
+@@@ 321
+^white;Obtained From: ^yellow;Nuru^reset; 
+A powerful blade crafted by a long lost Glitch empire. Though not as strong as the Lord's blade, these were used by his elite Fire Knights. Its hot internal core launched hot flames, melting any Glitch who got in their way.
+@@@ 322
+^white;Obtained From: ^yellow;Nuru^reset; 
+An original gun created on Earth, quite old in fact. A favorite of collectors, if they aren't hoarding USCM Pulserifles. Still works quite well for its intended purpose, though its clearly a patchjob.
+@@@ 323
+^white;Recipe From: Any Planet ^#00a5d5;[Tier 3]^white; ~ ^#d5c300;[Tier 6]^reset; 
+A taser attachment for a gauntlet is a popular one by all races. Many civilians use it for self defense, but the Terrene Peacekeepers often use it as a CQC option for non-lethal strikes.
+@@@ 324
+^white;Recipe From: Any Planet ^#00a5d5;[Tier 3]^white; ~ ^#d5c300;[Tier 6]^reset; 
+Coating the wings of a boomerang with cryogenic fluid allows it to freeze the air as it travels. Just, make sure to use gloves with it, lest your hands face the same fate.
+@@@ 325
+^white;Recipe From: Any Planet ^#00a5d5;[Tier 3]^white; ~ ^#d5c300;[Tier 6]^reset; 
+Florans aren't any stranger to completely changing a piece of tech. In this case, using living vines as a grappling and long reaching option compared to other gauntlets.
+@@@ 326
+^white;Recipe From: Any Planet ^#00a5d5;[Tier 3]^white; ~ ^#d5c300;[Tier 6]^reset; 
+Installing a molten core into the center of a boomerang causes its weight and energy density within to increase twofold. Its flames make it more useful for combat, rather than hunting.
+@@@ 327
+^white;Recipe From: Any Planet ^#00a5d5;[Tier 3]^white; ~ ^#d5c300;[Tier 6]^reset; 
+The most common gauntlet variant used by Hylotl fighters. Favored by highly mobile monks and bounty hunters when they would rather not be held back by a blade.
+@@@ 328
+^white;Recipe From: Any Planet ^#00a5d5;[Tier 3]^white; ~ ^#d5c300;[Tier 6]^reset; 
+The strange properties of phase matter make this boomerang fly further, yet very fragile. However, it can mend itself back together like it was never shattered to begin with. Spooky.
+@@@ 329
+^white;Recipe From: Any Planet ^#00a5d5;[Tier 3]^white; ~ ^#d5c300;[Tier 6]^reset; 
+This chakram isn't as much of a slicing weapon, as it is the throwing version of a hammer. A few Glitch warriors utilize such implements to deal with plate armor, the gear design is holy to them.
+@@@ 330
+^white;Recipe From: Any Planet ^#00a5d5;[Tier 3]^white; ~ ^#d5c300;[Tier 6]^reset; 
+This is especially a bad idea. Throwing self-rotating sawblades should not be something you choose to do. Though as a trap, its decent if you don't lose your hand.
+@@@ 331
+^white;Recipe From: Any Planet ^#b4d500;[Tier 5]^white; ~ ^#d5c300;[Tier 6]^reset; 
+Likely the largest fist you've ever seen! Imbued with cosmic power, this gauntlet hits combatants with enough force to turn the very air into plasma. Punch them so hard they nova!
+@@@ 332
+^white;Recipe From: ^#592a6e;Anabatic Planets ^#b4d500;[Tier 5]^reset; 
+One would think a railgun grappling hook would be a bit overkill, however this model is especially popular with hikers. The extended reach allows for quick traversal of cliffsides and crevices with little issue.
+@@@ 333
+^white;Recipe From: ^yellow;Ash Apple^rset; 
+You usually don't think of a fruit being explosive, the Ash Apple is an exception. The highly combustible, ashen flesh of the fruit often violently explode into flames. Add a wick, and you can control it!
+@@@ 334
+^white;Recipe From: ^yellow;Bone^reset; 
+The most primitive form of throwing weapon, even moreso than spears. But hey, in some cases, blunt force trauma is often better than technology.
+@@@ 335
+^white;Recipe From: ^yellow;Snowflake^reset; 
+The logical conclusion of fine ice crystals being weaponized. Most well known from the Hylotl's Yuki Assassins. These shurikens leave no trace once they melt, merely the mark they made.
+@@@ 336
+^white;Starter Equipment^reset;
+A Protectorate Peacekeeping Blade far beyond its prime. Found in a rush, its clear its previous user went through some serious danger before coming back. Bad timing...
+@@@ 337
+비문에는 이렇게 적혀 있습니다: ''Tlihui, 최고의 테스트 더미.''
+@@@ 338
+안드로스는 아직 치명적인 실수를 저지르지 않았습니다. 그 실수를 만들어보세요. Shift + Alt Fire로 전환하세요.
+@@@ 339
+오랜 세월 동안 격동의 역사를 겪었음에도 불구하고, 인간은 삶과 우주에 대해 가벼운 마음과 낙관적인 태도를 유지하는 경향이 있습니다. 인류는 우주의 사람들을 하나로 묶는 사회를 형성하기 시작했습니다 - 테레인 보호대(The Terrene Protectorate).
+@@@ 340
+외계 기술로 장식된 매우 오래된 SG 라이플. Shift + Alt Fire로 모드를 전환하세요.
+@@@ 341
+외계 기술로 장식된 매우 오래된 SG 라이플. Shift + Mouse2로 모드를 전환하세요.
+@@@ 342
+이 레코드 플레이어는 Eraser Cat의 생존자 테마를 재생합니다.
+@@@ 343
+이 레코드 플레이어는 Eraser Cat의 오래된 셸가드 허브 테마를 재생합니다.
+@@@ 344
+이 레코드 플레이어는 Eraser Cat의 최신 셸가드 허브 테마를 재생합니다.
+@@@ 345
+이 레코드 플레이어는 Loib의 건쉽 테마를 재생합니다.
+@@@ 346
+이 레코드 플레이어는 Loib의 오래된 건쉽 테마를 재생합니다.

@@ -1,0 +1,81 @@
+#!/usr/bin/env python3
+# gen_0873: non-description low-priority rows
+import json, csv, re
+
+T = {
+'125587':'^green;솔라리움 스타 배달',
+'125589':'^green;누가 우리 촉수를 훔쳐 갔어요!',
+'125590':'^green;누군가 만들어야 해',
+'125591':'^green;우주 전문가 잉키',
+'125593':'^green;매콤한 재료',
+'125609':'^green;흔들지 말고 저어서',
+'125610':'^green;스트렐리치아의 보급품',
+'125611':'^green;힘^reset; (1)',
+'125612':'^green;힘^reset; (10)',
+'125613':'^green;힘^reset; (2)',
+'125614':'^green;힘^reset; (3)',
+'125615':'^green;힘^reset; (4)',
+'125616':'^green;힘^reset; (5)',
+'125617':'^green;힘^reset; (6)',
+'125618':'^green;힘^reset; (7)',
+'125619':'^green;힘^reset; (8)',
+'125620':'^green;힘^reset; (9)',
+'125621':'^green;바위에 갇힘',
+'125622':'^green;설탕 배달',
+'125631':'^green;비상하기',
+'125632':'^green;쓰레기 치우기',
+'125635':'^green;차 달이기 감정가 III^reset;',
+'125636':'^green;차 달이기 감정가 II^reset;',
+'125637':'^green;차 달이기 감정가 IV^reset;',
+'125638':'^green;차 달이기 감정가 I^reset;',
+'125639':'^green;영토 탈환.',
+'125641':'^green;고대 신전^reset;',
+'125642':'^green;아케인 정수^reset;',
+'125643':'^green;천상의 회랑^reset;',
+'125644':'^green;극저온 무덤',
+'125645':'^green;겨울의 포옹',
+'125647':'^green;재미있는 면',
+'125648':'^green;경전',
+'125649':'^green;이웃의 풀밭이 더 푸르다',
+'125650':'^green;해로잉',
+'125651':'^green;영웅의 집결',
+'125652':'^green;영웅의 완수',
+'125653':'^green;사냥꾼',
+'125654':'^green;일루미네이티드 정수^reset;',
+'125656':'^green;조커와 도둑',
+'125658':'^green;마지막 단계^reset;',
+'125659':'^green;잃어버린 양동이',
+'125660':'^green;잃어버린 선물',
+'125661':'^green;행운의 여신의 축복받은 기계',
+'125663':'^green;슈퍼스톰 정수^reset;',
+'125664':'^green;튜브 녀석들에게 윤활유가 필요하다',
+'125665':'^green;그늘',
+'125666':'^green;선봉대의 탈것들',
+'125668':'^green;농장 연금술사의 길',
+'125673':'^green;논문 난파 I',
+'125674':'^green;논문 난파 II',
+'125675':'^green;논문 난파 III',
+'125677':'^green;목마른, 목마른 잉키',
+'125679':'^green;이게 내 노래야!',
+'125680':'^green;이 무기는 탄약을 사용할 수 있다',
+}
+
+TAG = re.compile(r'\^[a-zA-Z]+;|\^#[0-9a-fA-F,]+;')
+src = {}
+with open('data/rest_worklist.tsv', encoding='utf-8-sig', newline='') as f:
+    for r in csv.DictReader(f, delimiter='\t'):
+        if r['id'] in T:
+            src[r['id']] = r['englishText']
+bad = []
+for i, ko in T.items():
+    s = src.get(i)
+    if s is None:
+        bad.append(('MISSING', i)); continue
+    if TAG.findall(s) != TAG.findall(ko):
+        bad.append(('TAG', i))
+    if s.count('\n') != ko.count('\n'):
+        bad.append(('NL', i))
+print('bad:', bad)
+print(len(T))
+with open('priority_0873.json', 'w', encoding='utf-8') as f:
+    json.dump(T, f, ensure_ascii=False, indent=0)

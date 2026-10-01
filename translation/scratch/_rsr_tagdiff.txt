@@ -1,0 +1,161 @@
+=== 102
+EN tags: ['^red;', '^reset;', '^red;', '^reset;', '^yellow;', '^reset;', '^orange;', '^reset;']
+KO tags: ['^red;', '^reset;', '^yellow;', '^reset;', '^orange;', '^reset;']
+EN nl=3  KO nl=3
+EN: Well... Look, as long as all essential moving parts are in place, the gun still works. ''Obrez'' is a weapon that was shortened in length (by cutting barrel and stock) for purpose of concealment. People usually do that with shotguns, but rifle obrez also makes for a powerful tool. It's substantially lighter, but is ^red;much less accurate^reset;, as it has ^red;no barrel.^reset;<NL>Chambered for ^yellow;7.7x58mm Ammo.^reset;<NL><NL>^orange;Eagle has Landed: Double-tap Shift to assemble the rifle.^reset;
+KO: 음... 봐, 필수 부품만 제자리에 있으면 총은 쏠 수 있어. '오브레즈'는 은닉을 위해 (총열과 개머리판을 잘라) 길이를 줄인 총기다. 보통은 산탄총에 하지만, 소총 오브레즈도 강력한 도구다. 훨씬 가볍지만, 총열이 없어서^red; 훨씬 부정확하다^reset;.\n^yellow;7.7x58mm 탄약 사용.^reset;\n \n^orange;독수리 착륙: Shift를 두 번 눌러 소총 조립.^reset;
+
+=== 170
+EN tags: ['^#DBC5A6;', '^reset;', '^#C9C2B2;', '[HEAD]', '^reset;', '^orange;', '^reset;', '^#C9C2B2;', '^reset;']
+KO tags: ['^#DBC5A6;', '^reset;', '^#C9C2B2;', '[HEAD]', '^reset;']
+EN nl=2  KO nl=2
+EN: Type 92 helmet with flaps, camo net and foliage. Despite their fanatic patriotism, IJA soldiers were also fanatically loyal to orders. Some isolated pockets of resistance carried on the fight simply because they weren't told to surrender by their superior officers.<NL>^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED | +10% DODGE^reset;<NL>^#C9C2B2;The Fox [HEAD]: Summons one CAMOUFLAGED IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown.^reset;
+KO: 햇빛가리개, 위장망, 풀잎을 얹은 92식 철모. 광적인 애국심 못지않게 IJA 병사들은 명령에 광적으로 충성했다. 고립된 저항 거점들이 싸움을 이어간 것은 상급 장교가 항복하라고 시키지 않았기 때문인 경우도 많았다.\n^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5% | 회피 +10%^reset;\n^#C9C2B2;여우 [HEAD]: 배치 명령 사용 시 위장 IJA 소총수 1명 소환 | 재사용 대기시간 60초.^reset;
+
+=== 172
+EN tags: ['^#DBC5A6;', '^reset;', '^#C9C2B2;', '[HEAD]', '^reset;', '^orange;', '^reset;', '^#C9C2B2;', '^reset;']
+KO tags: ['^#DBC5A6;', '^reset;', '^#C9C2B2;', '[HEAD]', '^reset;']
+EN nl=3  KO nl=3
+EN: Modern sighting tech makes conventional camouflage largely obsolete. With thermal sighting systems, you're never really hidden, unless you use any funky thermal camo. Keep that in mind.<NL><NL>^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED | +10% DODGE^reset;<NL>^#C9C2B2;The Fox [HEAD]: Summons one CAMOUFLAGED IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown.^reset;
+KO: 현대의 관측 기술은 기존 위장을 대부분 무용지물로 만든다. 열상 감지 체계 앞에서는 괴상한 열 위장을 쓰지 않는 한 결코 숨을 수 없다. 명심해 둬라.\n \n^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5% | 회피 +10%^reset;\n^#C9C2B2;여우 [HEAD]: 배치 명령 사용 시 위장 IJA 소총수 1명 소환 | 재사용 대기시간 60초.^reset;
+
+=== 213
+EN tags: ['^#5D6A59;', '[CHEST]', '^reset;', '^orange;', '^reset;', '^#5D6A59;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+KO tags: ['^#5D6A59;', '[CHEST]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+EN nl=1  KO nl=1
+EN: Imperial Japanese Navy officer's cotton tunic. The unwillingness of two branches of Japanese Armed Forces to be in any way codependent led to Navy making its own land forces, tanks, air branch and paratroopers. Similarly, Army posessed it's own marine detachments and even ships.<NL>^#5D6A59;Imperial Navy [CHEST]: Summons one SNLF RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#5D6A59;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: 일본 제국 해군 장교의 면제 튜닉. 일본군 양 군종이 서로 어떤 식으로든 의존하기를 거부한 탓에, 해군은 자체 육전대, 전차, 항공대, 낙하산병을 만들었다. 마찬가지로 육군도 자체 해상 분견대와 심지어 선박을 보유했다.\n^#5D6A59;제국 해군 [CHEST]: 배치 명령 사용 시 SNLF 소총병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 215
+EN tags: ['^#5D6A59;', '[HEAD]', '^reset;', '^orange;', '^reset;', '^#5D6A59;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[HEAD]', '^reset;']
+KO tags: ['^#5D6A59;', '[HEAD]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[HEAD]', '^reset;']
+EN nl=1  KO nl=1
+EN: Imperial Japanese Navy officer's field cap. High rank is denoted by two black stripes. Japanese Navy was advanced in its thinking and tech, and its Yamato-class battleships were the largest, most powerful battleships in history. But what use of it, if the war is unwinnable to begin with? <NL>^#5D6A59;Imperial Navy [HEAD]: Summons one SNLF RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#5D6A59;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [HEAD]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: 일본 제국 해군 장교의 야전모. 두 개의 검은 띠가 고위 계급을 나타낸다. 일본 해군은 사고와 기술에서 앞서 있었고, 야마토급 전함은 역사상 가장 크고 강력한 전함이었다. 하지만 애초에 이길 수 없는 전쟁이라면 그게 무슨 소용인가?\n^#5D6A59;제국 해군 [HEAD]: 배치 명령 사용 시 SNLF 소총병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [HEAD]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 217
+EN tags: ['^#5D6A59;', '[LEGS]', '^reset;', '^orange;', '^reset;', '^#5D6A59;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[LEGS]', '^reset;']
+KO tags: ['^#5D6A59;', '[LEGS]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[LEGS]', '^reset;']
+EN nl=1  KO nl=1
+EN: IJN Land Forces officer's pants with Kaigunto (Navy Sword) sheath. For all the interservice rivalry, the sailors and the soldiers were equal in their ruthlessness and brutality, since they shared the same ideology. Naval Land Forces also shared tactics with IJA, so the banzai charges were common too.<NL>^#5D6A59;Imperial Navy [LEGS]: Summons one SNLF RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#5D6A59;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [LEGS]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: 해군도(카이군토) 칼집이 달린 IJN 육전대 장교 바지. 군종 라이벌 관계가 아무리 심했어도, 수병과 육병은 같은 이념을 공유한 만큼 잔혹함에서도 대등했다. 해군 육전대도 IJA와 전술을 공유했기에 반자이 돌격도 흔했다.\n^#5D6A59;제국 해군 [LEGS]: 배치 명령 사용 시 SNLF 소총병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [LEGS]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 238
+EN tags: ['^#EAC0CE;', '[CHEST]', '^reset;', '^orange;', '^reset;', '^#EAC0CE;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+KO tags: ['^#EAC0CE;', '[CHEST]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+EN nl=1  KO nl=1
+EN: Maidens-Soldiers of H-Kikan were formally organised into a company-sized element, and had their own chain of command. The head priestesses were appointed not necessarily for their Shinto lore knowledge, but more for their managerial and leadership skills.<NL>^#EAC0CE;Miko-tai [CHEST]: Summons one MAIDEN-SOLDIER when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#EAC0CE;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE | +10% PSYCHIC. |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: H기관의 무녀병들은 공식적으로 중대급 조직으로 편성됐고, 자체 지휘 계통을 가졌다. 수석 무녀의 임명은 신토 지식보다는 관리 능력과 지도력을 보고 이뤄졌다.\n^#EAC0CE;미코타이 [CHEST]: 배치 명령 사용 시 무녀병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% | 사이킥 +10%. |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 240
+EN tags: ['^#EAC0CE;', '[HEAD]', '^reset;', '^orange;', '^reset;', '^#EAC0CE;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[HEAD]', '^reset;']
+KO tags: ['^#EAC0CE;', '[HEAD]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[HEAD]', '^reset;']
+EN nl=2  KO nl=2
+EN: ''It was surreal at times. We were exploring a bizarre yet familiar world, with fantastical creatures, magic, rich lore and kind people, and I was stuck in a damp room writing procurement forms and signing after-action reports! It's like I never left my office job.''<NL><NL>^#EAC0CE;Miko-tai [HEAD]: Summons one MAIDEN-SOLDIER when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#EAC0CE;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE | +10% PSYCHIC. |^reset; ^#FFCE6D;Frontline Command [HEAD]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: ''가끔은 초현실적이었어. 기묘하면서도 익숙한 세계를 탐험하고, 환상적인 생물과 마법과 풍부한 지식과 따뜻한 사람들이 있는데, 나는 축축한 방에 갇혀 조달 서류를 쓰고 작전 보고서에 서명만 하고 있었지! 사무직을 떠난 적이 없는 것 같았어.''\n \n^#EAC0CE;미코타이 [HEAD]: 배치 명령 사용 시 무녀병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% | 사이킥 +10%. |^reset; ^#FFCE6D;전선 지휘 [HEAD]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 242
+EN tags: ['^#EAC0CE;', '[LEGS]', '^reset;', '^orange;', '^reset;', '^#EAC0CE;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[LEGS]', '^reset;']
+KO tags: ['^#EAC0CE;', '[LEGS]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[LEGS]', '^reset;']
+EN nl=2  KO nl=2
+EN: A rare few of Miko-hei officers held the rank of chief priestesses during WW2, when all the male clergy got conscripted, which meant they were already experienced in both religious and bureaucratic rituals.<NL><NL>^#EAC0CE;Miko-tai [LEGS]: Summons one MAIDEN-SOLDIER when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#EAC0CE;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE | +10% PSYCHIC. |^reset; ^#FFCE6D;Frontline Command [LEGS]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: 제2차 세계대전 중 남성 성직자가 모두 징집됐을 때, 드물게 미코헤이 장교 중에는 수석 무녀 계급을 지닌 자가 있었다 — 종교 의례와 관료 의례 양쪽에 이미 익숙했다는 뜻이다.\n \n^#EAC0CE;미코타이 [LEGS]: 배치 명령 사용 시 무녀병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% | 사이킥 +10%. |^reset; ^#FFCE6D;전선 지휘 [LEGS]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 280
+EN tags: ['^#FFCE6D;', '[CHEST]', '^#7C7957;', '[CHEST]', '^reset;', '^orange;', '^reset;', '^#7C7957;', '^reset;']
+KO tags: ['^#FFCE6D;', '[CHEST]', '^#7C7957;', '[CHEST]', '^reset;']
+EN nl=2  KO nl=2
+EN: Standard IJA jungle fatigues introduced in 1960, with such necessary attributes of an officer as a map case, compass pouch and a pistol holster. There were two types of officers in India, the bloodthirsty ''old breed'' and the cowardly ''new breed''. Neither were really liked by their troops.<NL>^#FFCE6D;Taicho '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.<NL>^#7C7957;Hohei '60 [CHEST]: Summons one HOHEI '60 RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#7C7957;60s Cooldown.^reset;
+KO: 1960년 도입된 표준 IJA 정글 전투복에 지도 통, 나침반 주머니, 권총 홀스터 같은 장교 필수품을 달았다. 인도에는 두 부류의 장교가 있었다 — 피에 굶주린 '구세대'와 겁쟁이 '신세대'. 어느 쪽도 부하들에게 그다지 사랑받지 못했다.\n^#FFCE6D;타이초 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.\n^#7C7957;호헤이 '60 [CHEST]: 배치 명령 사용 시 호헤이 '60 소총병 하나 소환 | 재사용 대기시간 60초.^reset;
+
+=== 282
+EN tags: ['^#DBC5A6;', '^reset;', '^#7C7957;', '[HEAD]', '^reset;', '^orange;', '^reset;', '^#7C7957;', '^reset;']
+KO tags: ['^#DBC5A6;', '^reset;', '^#7C7957;', '[HEAD]', '^reset;']
+EN nl=3  KO nl=3
+EN: ''Who's the commanding officer? Ain't you!?''<NL>In order to allow IJA officers and NCOs to be identified by troops while not drawing attention from enemy snipers, some common items like packs of cigarettes or playing cards were attached to helmets. Exact rules differed from unit to unit, with SNLF detachments ignoring this convention altogether.<NL>^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;<NL>^#7C7957;Hohei '60 [HEAD]: Summons one HOHEI '60 RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#7C7957;60s Cooldown.^reset;
+KO: ''지휘관이 누구야? 너 아냐!?''\nIJA 장교와 부사관이 부하들에게는 식별되면서도 적 저격수 눈은 끌지 않도록, 담배 갑이나 카드 같은 흔한 물건을 철모에 붙였다. 세부 규칙은 부대마다 달랐고, SNLF 분견대는 이 관례를 아예 무시했다.\n^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;\n^#7C7957;호헤이 '60 [HEAD]: 배치 명령 사용 시 호헤이 '60 소총병 하나 소환 | 재사용 대기시간 60초.^reset;
+
+=== 284
+EN tags: ['^#FFCE6D;', '[LEGS]', '^#7C7957;', '[LEGS]', '^reset;', '^orange;', '^reset;', '^#7C7957;', '^reset;']
+KO tags: ['^#FFCE6D;', '[LEGS]', '^#7C7957;', '[LEGS]', '^reset;']
+EN nl=2  KO nl=2
+EN: Japanese stopped producing Shin-Gunto swords for NCOs and lower officers in the 50s, but it wasn't prohibited to carry them in combat. As such, those who displayed swords on their person were venerated as ''the old breed''. They also didn't live long, them being prized targets for guerrilla snipers.<NL>^#FFCE6D;Taicho '60 [LEGS]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.<NL>^#7C7957;Hohei '60 [LEGS]: Summons one HOHEI '60 RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#7C7957;60s Cooldown.^reset;
+KO: 부사관과 하급 장교용 신군도 생산은 50년대에 중단됐지만, 전투에서 휴대하는 것 자체가 금지된 건 아니었다. 그래서 검을 차고 다니는 자들은 '구세대'로 존경받았다. 수명도 짧았지만 — 게릴라 저격수들이 노리는 값진 표적이었으니까.\n^#FFCE6D;타이초 '60 [LEGS]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.\n^#7C7957;호헤이 '60 [LEGS]: 배치 명령 사용 시 호헤이 '60 소총병 하나 소환 | 재사용 대기시간 60초.^reset;
+
+=== 344
+EN tags: ['^#C9C2B2;', '[CHEST]', '^reset;', '^orange;', '^reset;', '^#C9C2B2;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+KO tags: ['^#C9C2B2;', '[CHEST]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+EN nl=1  KO nl=1
+EN: Unlike your typical cruel but cowardly officers that send troops to certain death, IJA commanders were quite eager to meet death themselves. But the smarter officers would rather prolong the fight, becoming guerillas that would haunt the Allies long after the battle (or war, for that matter) was lost.<NL>^#C9C2B2;The Fox [CHEST]: Summons one CAMOUFLAGED IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: 병사들을 죽음으로 내모는 전형적인 잔인하고 비겁한 장교와 달리, IJA 지휘관들은 스스로 죽음을 맞길 열망했다. 하지만 더 영리한 장교들은 싸움을 질질 끌어, 전투가 (아니, 전쟁이) 진 뒤에도 오래 연합군을 괴롭히는 게릴라가 되는 쪽을 택했다.\n^#C9C2B2;여우 [CHEST]: 배치 명령 사용 시 위장 IJA 소총수 1명 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 346
+EN tags: ['^#C9C2B2;', '[LEGS]', '^reset;', '^orange;', '^reset;', '^#C9C2B2;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+KO tags: ['^#C9C2B2;', '[LEGS]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+EN nl=2  KO nl=2
+EN: ''My aim is to win the war. You just want to die. One must be ready to die. But we must fight to win, not to die. Our job is to kill the enemy and lead our army to victory. Don't ever forget that.'' <NL>  <NL>^#C9C2B2;The Fox [LEGS]: Summons one CAMOUFLAGED IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: ''내 목표는 전쟁에서 이기는 거다. 너희는 그냥 죽고 싶은 거고. 죽을 각오는 해야 해. 하지만 우린 죽으러가 아니라 이기러 싸워야 한다. 우리 일은 적을 죽이고 군대를 승리로 이끄는 거야. 절대 잊지 마.''\n  \n^#C9C2B2;여우 [LEGS]: 배치 명령 사용 시 위장 IJA 소총수 1명 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 357
+EN tags: ['^#7F6044;', '[CHEST]', '^reset;', '^orange;', '^reset;', '^#7F6044;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+KO tags: ['^#7F6044;', '[CHEST]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+EN nl=2  KO nl=2
+EN: Type 98 cotton tunic with officer gear. Commanding officers often have to risk their lives on the battlefield, much like the men under their command. You want to win the battle? Then get your boots on the ground and lead your men!<NL>  <NL>^#7F6044;Imperial Army [CHEST]: Summons one IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#7F6044;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: 장교 장비를 갖춘 98식 면제 튜닉. 지휘관도 부하들처럼 전장에서 목숨을 걸어야 하는 경우가 많다. 전투에서 이기고 싶다고? 그럼 장화 끈을 묶고 부하들을 이끌어!\n  \n^#7F6044;제국 육군 [CHEST]: 배치 명령 사용 시 IJA 소총병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 359
+EN tags: ['^#7F6044;', '[HEAD]', '^reset;', '^orange;', '^reset;', '^#7F6044;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[HEAD]', '^reset;']
+KO tags: ['^#7F6044;', '[HEAD]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[HEAD]', '^reset;']
+EN nl=1  KO nl=1
+EN: Imperial Japanese Army officer's field cap. Japanese officers had to procure their uniforms themselves. Because of this, there was a great variety of uniforms that followed the same pattern but had different coloration, materials and overall quality, depending on how much money the officer was ready to spend. <NL>^#7F6044;Imperial Army [HEAD]: Summons one IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#7F6044;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [HEAD]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: 일본 제국 육군 장교 야전모. 일본군 장교는 제복을 직접 구해야 했다. 덕분에 같은 패턴이면서도 장교가 쓸 돈에 따라 색, 재료, 품질이 다른 다양한 제복이 나왔다.\n^#7F6044;제국 육군 [HEAD]: 배치 명령 사용 시 IJA 소총병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [HEAD]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 361
+EN tags: ['^#7F6044;', '[LEGS]', '^reset;', '^orange;', '^reset;', '^#7F6044;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[LEGS]', '^reset;']
+KO tags: ['^#7F6044;', '[LEGS]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[LEGS]', '^reset;']
+EN nl=2  KO nl=2
+EN: Type 98 pants with a (decorative) Shin-Gunto on the belt. More ''battle-hardened'' NCO's preferred to carry their swords on the back, because it turns out that you have to crawl a lot on modern battlefield. Officers, however, don't crawl.<NL>  <NL>^#7F6044;Imperial Army [LEGS]: Summons one IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#7F6044;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [LEGS]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: 허리에 (장식용) 신군도를 찬 98식 바지. 더 '전투 경험' 있는 부사관들은 검을 등에 멨다 — 현대 전장에서 기어야 하는 일이 많다는 게 밝혀졌으니까. 하지만 장교는 기지 않는다.\n  \n^#7F6044;제국 육군 [LEGS]: 배치 명령 사용 시 IJA 소총병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [LEGS]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 373
+EN tags: ['^#C9C2B2;', '[CHEST]', '^reset;', '^orange;', '^reset;', '^#C9C2B2;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+KO tags: ['^#C9C2B2;', '[CHEST]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+EN nl=1  KO nl=1
+EN: NCO's Type 98 tropical shirt, with 2/3 sleeves. As in every other nation in the world, NCOs in Japan came from enlisted personnel, unlike proper officers. If your average soldier a was stubborn fanatic, you can guess who were the people that lead them into battles. <NL>^#C9C2B2;Pacific Bulwark [CHEST]: Summons one PACIFIC IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: 소매가 3분의 2 길이인 부사관용 98식 열대 셔츠. 세계 모든 군대와 마찬가지로 일본의 부사관도 정규 장교와 달리 병 출신이다. 평범한 병사가 고집 센 광신병자라면, 그들을 전투로 이끄는 자들은 어땠을지 짐작할 수 있다.\n^#C9C2B2;퍼시픽 불워크 [CHEST]: 배치 명령 사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 375
+EN tags: ['^#C9C2B2;', '[HEAD]', '^reset;', '^orange;', '^reset;', '^#C9C2B2;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+KO tags: ['^#C9C2B2;', '[HEAD]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+EN nl=2  KO nl=2
+EN: ''Death is now inevitable. As men of the Empire, it is now time to sacrifice ourselves and deal a blow to the Americans, creating with our very bones an impenetrable barrier in the Pacific. Shame not yourself in choosing life and be taken prisoner over death.'' <NL>  <NL>^#C9C2B2;Pacific Bulwark [HEAD]: Summons one PACIFIC IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: ''이제 죽음은 피할 수 없다. 제국의 남자로서, 이제 우리 자신을 바쳐 미국인에게 타격을 주고, 우리 뼈로 태평양의 무적의 방벽을 세울 시간이다. 죽음 대신 삶을 택해 포로가 되는 수치를 스스로 짓지 마라.''\n  \n^#C9C2B2;퍼시픽 불워크 [HEAD]: 배치 명령 사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 377
+EN tags: ['^#C9C2B2;', '[LEGS]', '^reset;', '^orange;', '^reset;', '^#C9C2B2;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+KO tags: ['^#C9C2B2;', '[LEGS]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+EN nl=1  KO nl=1
+EN: Type 98 pants with a sword scabbard. Swords in WW2 were more of a badge of honor than actual weapons, as infantry tactics favoured firepower over melee charges several decades prior. But if nothing else, it sure is a morale boost to see your leader charge the enemy head-first with a sword in hands.<NL>^#C9C2B2;Pacific Bulwark [LEGS]: Summons one PACIFIC IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: 검집이 달린 98식 바지. 제2차 세계대전의 검은 실전 무기라기보다 명예의 휘장에 가까웠고, 보병 전술이 근접 돌격보다 화력을 우선한 건 수십 년 전이다. 그래도 칼 든 지휘관이 적진을 향해 돌진하는 걸 보면 확실히 사기는 오른다.\n^#C9C2B2;퍼시픽 불워크 [LEGS]: 배치 명령 사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 379
+EN tags: ['^#C9C2B2;', '[CHEST]', '^reset;', '^orange;', '^reset;', '^#C9C2B2;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+KO tags: ['^#C9C2B2;', '[CHEST]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+EN nl=2  KO nl=2
+EN: ''A word to you about escape. There is no barbed wire. No stockade. No watchtower. They are not necessary. We are an island in the jungle. Escape is impossible. You would die.''<NL><NL>^#C9C2B2;Pacific Bulwark [CHEST]: Summons one PACIFIC IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: ''탈출에 대해 한마디 하지. 철조망도 없어. 수용소도 없어. 망루도 없어. 필요가 없으니까. 우리는 정글 속의 섬이야. 탈출은 불가능해. 넌 죽을 거야.''\n \n^#C9C2B2;퍼시픽 불워크 [CHEST]: 배치 명령 사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 381
+EN tags: ['^#C9C2B2;', '[LEGS]', '^reset;', '^orange;', '^reset;', '^#C9C2B2;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+KO tags: ['^#C9C2B2;', '[LEGS]', '^reset;', '^reset;', '^#DBC5A6;', '^reset;', '^#FFCE6D;', '[CHEST]', '^reset;']
+EN nl=2  KO nl=2
+EN: Standard-issued IJA shorts. Many contemporary militaries used shorts in tropical and desert climates. Japanese troops in WW2 occupied large territories close to Earth's equator, and had to adapt it's equipment accordingly.<NL><NL>^#C9C2B2;Pacific Bulwark [LEGS]: Summons one PACIFIC IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;
+KO: 표준 지급 IJA 반바지. 당대 많은 군대가 열대와 사막 기후에서 반바지를 썼다. 제2차 세계대전의 일본군은 지구 적도 부근의 넓은 지역을 점령했고, 그에 맞게 장비를 적응시켜야 했다.\n \n^#C9C2B2;퍼시픽 불워크 [LEGS]: 배치 명령 사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초.^reset; |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;
+
+=== 353
+EN tags: ['^#DBC5A6;', '^reset;', '^#96CBE7;', '[CHEST]', '^reset;']
+KO tags: ['^#DBC5A6;', '^reset;', '^#96CBE7;', '[CHEST]', '^reset;']
+EN nl=3  KO nl=4
+EN: <NL>  <NL>^#DBC5A6;DEF: +20% THERMAL^reset;<NL>^#96CBE7;The Vow to Fight On [CHEST]: Slightly reduces hunger rate.^reset;
+KO:  \n \n  \n^#DBC5A6;방어: 열 +20%^reset;\n^#96CBE7;항전의 서약 [CHEST]: 배고픔 속도를 약간 감소.^reset;
+

@@ -1,0 +1,1296 @@
+asset	field	en	ko	src
+/collections/thea_weapons.collection	title	Blighted Splinter	피물 파편	
+/collections/thea_weapons.collection	description	An ancient stone-like artefact thrumming with unnatural power.	비자연적인 힘이 울려 나오는 고대의 돌 같은 유물.	
+/items/armors/aegi/clothing/aegi-asacoat/aegi-asacoat.chest	description	^green;Aegi. ^white;A high quality coat for high-ranking ASA officials.	^green;에이지. ^white;고위급 ASA 관리를 위한 고급 코트.	
+/items/armors/aegi/clothing/aegi-asacoat/aegi-asacoat.chest	shortdescription	ASA Coat	ASA 코트	
+/items/armors/aegi/clothing/aegi-asacoat/aegi-asacoat.legs	description	^green;Aegi. ^white;A skirt often worn by high-ranking ASA officials.	^green;에이지. ^white;고위급 ASA 관리들이 자주 입는 스커트.	
+/items/armors/aegi/clothing/aegi-asacoat/aegi-asacoat.legs	shortdescription	ASA Skirt	ASA 스커트	
+/items/armors/aegi/clothing/aegi-asauniform/aegi-asauniform.chest	description	^green;Aegi. ^white;The official ASA uniform jacket.	^green;에이지. ^white;공식 ASA 유니폼 재킷.	
+/items/armors/aegi/clothing/aegi-asauniform/aegi-asauniform.chest	shortdescription	ASA Jacket	ASA 재킷	
+/items/armors/aegi/clothing/aegi-asauniform/aegi-asauniform.head	description	^green;Aegi. ^white;The signature hat of ASA officials, it has become a symbol in the Alliance.	^green;에이지. ^white;ASA 관리의 상징적인 모자로, 얼라이언스의 상징이 되었다.	
+/items/armors/aegi/clothing/aegi-asauniform/aegi-asauniform.head	shortdescription	ASA Hat	ASA 모자	
+/items/armors/aegi/clothing/aegi-asauniform/aegi-asauniform.legs	description	^green;Aegi. ^white;All ASA officials wear these uniforms.	^green;에이지. ^white;모든 ASA 관리가 입는 유니폼.	
+/items/armors/aegi/clothing/aegi-asauniform/aegi-asauniform.legs	shortdescription	ASA Trousers	ASA 바지	
+/items/armors/aegi/clothing/aegi-baggy/aegi-baggy.legs	description	^green;Aegi. ^white;Baggy trousers popular amongst Union citizens.	^green;에이지. ^white;유니온 시민들에게 인기 있는 헐렁한 바지.	
+/items/armors/aegi/clothing/aegi-baggy/aegi-baggy.legs	shortdescription	Baggy Trousers	헐렁한 바지	
+/items/armors/aegi/clothing/aegi-brandshirtaventor/aegi-brandshirtaventor.chest	description	^green;Aegi. ^white;A promotional Aventor shirt.	^green;에이지. ^white;아벤토르 홍보용 셔츠.	
+/items/armors/aegi/clothing/aegi-brandshirtaventor/aegi-brandshirtaventor.chest	shortdescription	Aventor T-Shirt	아벤토르 티셔츠	
+/items/armors/aegi/clothing/aegi-brandshirtfroza/aegi-brandshirtfroza.chest	description	^green;Aegi. ^white;A promotional Froza shirt.	^green;에이지. ^white;프로자 홍보용 셔츠.	
+/items/armors/aegi/clothing/aegi-brandshirtfroza/aegi-brandshirtfroza.chest	shortdescription	Froza T-Shirt	프로자 티셔츠	
+/items/armors/aegi/clothing/aegi-brandshirtgame/aegi-brandshirtgame.chest	description	^green;Aegi. ^white;A promotional shirt for the game New Space Inquisition.	^green;에이지. ^white;게임 '뉴 스페이스 인퀴지션'의 홍보용 셔츠.	
+/items/armors/aegi/clothing/aegi-brandshirtgame/aegi-brandshirtgame.chest	shortdescription	NSI T-Shirt	NSI 티셔츠	
+/items/armors/aegi/clothing/aegi-casual/aegi-casual.legs	description	^green;Aegi. ^white;Trousers and shoes popular amongst Union citizens.	^green;에이지. ^white;유니온 시민들에게 인기 있는 바지와 신발.	
+/items/armors/aegi/clothing/aegi-casual/aegi-casual.legs	shortdescription	Casual Trousers	캐주얼 바지	
+/items/armors/aegi/clothing/aegi-formal/aegi-formal.chest	description	^green;Aegi. ^white;The perfect attire for a formal evening.	^green;에이지. ^white;격식 있는 저녁 자리에 완벽한 의상.	
+/items/armors/aegi/clothing/aegi-formal/aegi-formal.chest	shortdescription	Formal Union Attire	정장 유니온 의상	
+/items/armors/aegi/clothing/aegi-formal/aegi-formal.legs	description	^green;Aegi. ^white;The perfect attire for a formal evening.	^green;에이지. ^white;격식 있는 저녁 자리에 완벽한 의상.	
+/items/armors/aegi/clothing/aegi-formal/aegi-formal.legs	shortdescription	Formal Union Attire	정장 유니온 의상	
+/items/armors/aegi/clothing/aegi-shirt/aegi-shirt.chest	description	^green;Aegi. ^white;A simple but comfortable shirt.	^green;에이지. ^white;단순하지만 편안한 셔츠.	
+/items/armors/aegi/clothing/aegi-shirt/aegi-shirt.chest	shortdescription	Belted T-Shirt	벨트 티셔츠	
+/items/armors/aegi/clothing/aegi-shorts/aegi-shorts.legs	description	^green;Aegi. ^white;Shorts and shoes popular amongst Union citizens.	^green;에이지. ^white;유니온 시민들에게 인기 있는 반바지와 신발.	
+/items/armors/aegi/clothing/aegi-shorts/aegi-shorts.legs	shortdescription	Shorts and Shoes	반바지와 신발	
+/items/armors/aegi/clothing/aegi-swimwear/aegi-swimwear.chest	description	^green;Aegi. ^white;Attire well-suited when going swimming.	^green;에이지. ^white;수영을 갈 때 어울리는 의상.	
+/items/armors/aegi/clothing/aegi-swimwear/aegi-swimwear.chest	shortdescription	Swimwear Top	수영복 상의	
+/items/armors/aegi/clothing/aegi-swimwear/aegi-swimwear.legs	description	^green;Aegi. ^white;Attire well-suited when going swimming.	^green;에이지. ^white;수영을 갈 때 어울리는 의상.	
+/items/armors/aegi/clothing/aegi-swimwear/aegi-swimwear.legs	shortdescription	Swimwear Bottom	수영복 하의	
+/items/armors/aegi/clothing/aegi-tanktop/aegi-tanktop.chest	description	^green;Aegi. ^white;A tanktop and belt, popular amongst the Aegi.	^green;에이지. ^white;에이지들에게 인기 있는 탱크톱과 벨트.	
+/items/armors/aegi/clothing/aegi-tanktop/aegi-tanktop.chest	shortdescription	Belted Tanktop	벨트 탱크톱	
+/items/armors/aegi/clothing/aegi-warmjacket/aegi-warmjacket.chest	description	^green;Aegi. ^white;A warm, padded jacket.	^green;에이지. ^white;따뜻한 누빔 재킷.	
+/items/armors/aegi/clothing/aegi-warmjacket/aegi-warmjacket.chest	shortdescription	Warm Jacket	누빔 재킷	
+/items/armors/aegi/clothing/aegi-wintercoat/aegi-wintercoat.chest	description	^green;Aegi. ^white;A warm coat for those cold winter nights.	^green;에이지. ^white;추운 겨울밤을 위한 따뜻한 코트.	
+/items/armors/aegi/clothing/aegi-wintercoat/aegi-wintercoat.chest	shortdescription	Winter Coat	윈터 코트	
+/items/armors/aegi/decorative/aegi-admiral/aegi-admiral.chest	description	^green;Aegi. ^white;The official attire of an admiral of the Aeginian Federal Union.	^green;에이지. ^white;에이지니언 연합의 제독 공식 의복.	
+/items/armors/aegi/decorative/aegi-admiral/aegi-admiral.chest	shortdescription	Admiral's Attire	제독 의복	
+/items/armors/aegi/decorative/aegi-admiral/aegi-admiral.head	description	^green;Aegi. ^white;The official attire of an admiral of the Aeginian Federal Union.	^green;에이지. ^white;에이지니언 연합의 제독 공식 의복.	
+/items/armors/aegi/decorative/aegi-admiral/aegi-admiral.head	shortdescription	Admiral's Hat	제독 모자	
+/items/armors/aegi/decorative/aegi-admiral/aegi-admiral.legs	description	^green;Aegi. ^white;The official attire of an admiral of the Aeginian Federal Union.	^green;에이지. ^white;에이지니언 연합의 제독 공식 의복.	
+/items/armors/aegi/decorative/aegi-admiral/aegi-admiral.legs	shortdescription	Admiral's Attire	제독 의복	
+/items/armors/aegi/decorative/aegi-allianceuniform/aegi-allianceuniform.chest	description	^green;Aegi. ^white;The official uniform of Elithian Alliance officials.	^green;에이지. ^white;엘리시안 얼라이언스 관리의 공식 유니폼.	
+/items/armors/aegi/decorative/aegi-allianceuniform/aegi-allianceuniform.chest	shortdescription	Alliance Uniform Top	얼라이언스 유니폼 상의	
+/items/armors/aegi/decorative/aegi-allianceuniform/aegi-allianceuniform.head	description	^green;Aegi. ^white;The official uniform of Elithian Alliance officials.	^green;에이지. ^white;엘리시안 얼라이언스 관리의 공식 유니폼.	
+/items/armors/aegi/decorative/aegi-allianceuniform/aegi-allianceuniform.head	shortdescription	Alliance Uniform Hat	얼라이언스 유니폼 모자	
+/items/armors/aegi/decorative/aegi-allianceuniform/aegi-allianceuniform.legs	description	^green;Aegi. ^white;The official uniform of Elithian Alliance officials.	^green;에이지. ^white;엘리시안 얼라이언스 관리의 공식 유니폼.	
+/items/armors/aegi/decorative/aegi-allianceuniform/aegi-allianceuniform.legs	shortdescription	Alliance Uniform Leggings	얼라이언스 유니폼 레깅스	
+/items/armors/aegi/decorative/aegi-briggs/aegi-briggs.chest	description	^green;Aegi. ^white;A simple tanktop often worn by Briggs construction workers.	^green;에이지. ^white;브릭스 건설 노동자들이 자주 입는 단순한 탱크톱.	
+/items/armors/aegi/decorative/aegi-briggs/aegi-briggs.chest	shortdescription	Briggs Tanktop	브릭스 탱크톱	
+/items/armors/aegi/decorative/aegi-briggs/aegi-briggs.head	description	^green;Aegi. ^white;A protective helmet worn by Briggs construction workers.	^green;에이지. ^white;브릭스 건설 노동자가 쓰는 보호용 안전모.	
+/items/armors/aegi/decorative/aegi-briggs/aegi-briggs.head	shortdescription	Briggs Hard Hat	브릭스 안전모	
+/items/armors/aegi/decorative/aegi-briggs/aegi-briggs.legs	description	^green;Aegi. ^white;Rugged working trousers often worn by Briggs construction workers.	^green;에이지. ^white;브릭스 건설 노동자들이 자주 입는 튼튼한 작업 바지.	
+/items/armors/aegi/decorative/aegi-briggs/aegi-briggs.legs	shortdescription	Briggs Work Pants	브릭스 작업 바지	
+/items/armors/aegi/decorative/aegi-briggsguardian/aegi-briggsguardian.chest	description	^green;Aegi. ^white;A reinforced piece of chest armour worn by Briggs Guardians.	^green;에이지. ^white;브릭스 수호자가 입는 강화 흉갑.	
+/items/armors/aegi/decorative/aegi-briggsguardian/aegi-briggsguardian.chest	shortdescription	Briggs Guardian Cuirass	브릭스 수호자 흉갑	
+/items/armors/aegi/decorative/aegi-briggsguardian/aegi-briggsguardian.head	description	^green;Aegi. ^white;A reinforced hard hat worn by Briggs Guardians.	^green;에이지. ^white;브릭스 수호자가 쓰는 강화 안전모.	
+/items/armors/aegi/decorative/aegi-briggsguardian/aegi-briggsguardian.head	shortdescription	Briggs Guardian Helmet	브릭스 수호자 헬멧	
+/items/armors/aegi/decorative/aegi-captain/aegi-captain.chest	description	^green;Aegi. ^white;Attire often worn by ship captains of the Union.	^green;에이지. ^white;유니온 함선 선장들이 자주 입는 의복.	
+/items/armors/aegi/decorative/aegi-captain/aegi-captain.chest	shortdescription	Captain's Attire	선장 의복	
+/items/armors/aegi/decorative/aegi-captain/aegi-captain.head	description	^green;Aegi. ^white;Attire often worn by ship captains of the Union.	^green;에이지. ^white;유니온 함선 선장들이 자주 입는 의복.	
+/items/armors/aegi/decorative/aegi-captain/aegi-captain.head	shortdescription	Captain's Hat	선장 모자	
+/items/armors/aegi/decorative/aegi-captain/aegi-captain.legs	description	^green;Aegi. ^white;Attire often worn by ship captains of the Union.	^green;에이지. ^white;유니온 함선 선장들이 자주 입는 의복.	
+/items/armors/aegi/decorative/aegi-captain/aegi-captain.legs	shortdescription	Captain's Attire	선장 의복	
+/items/armors/aegi/decorative/aegi-cook/aegi-cook.chest	description	^green;Aegi. ^white;The upper part of a master chef's outfit.	^green;에이지. ^white;수석 요리사 의상의 상의.	
+/items/armors/aegi/decorative/aegi-cook/aegi-cook.chest	shortdescription	Culinarian's Top	요리사 상의	
+/items/armors/aegi/decorative/aegi-cook/aegi-cook.head	description	^green;Aegi. ^white;A hat worn by chefs of the Union.	^green;에이지. ^white;유니온 요리사들이 쓰는 모자.	
+/items/armors/aegi/decorative/aegi-cook/aegi-cook.head	shortdescription	Culinarian's Hat	요리사 모자	
+/items/armors/aegi/decorative/aegi-cook/aegi-cook.legs	description	^green;Aegi. ^white;The lower part of a master chef's outfit.	^green;에이지. ^white;수석 요리사 의상의 하의.	
+/items/armors/aegi/decorative/aegi-cook/aegi-cook.legs	shortdescription	Culinarian's Skirt	요리사 스커트	
+/items/armors/aegi/decorative/aegi-enerth/aegi-enerth.chest	description	^green;Aegi. ^white;A working short worn by Enerth Engineers.	^green;에이지. ^white;에너스 기술자가 입는 작업용 셔츠.	
+/items/armors/aegi/decorative/aegi-enerth/aegi-enerth.chest	shortdescription	Enerth Engineer's Shirt	에너스 기술자 셔츠	
+/items/armors/aegi/decorative/aegi-enerth/aegi-enerth.head	description	^green;Aegi. ^white;A protective faceplate worn by Enerth Engineers.	^green;에이지. ^white;에너스 기술자가 쓰는 보호용 안면판.	
+/items/armors/aegi/decorative/aegi-enerth/aegi-enerth.head	shortdescription	Enerth Faceplate	에너스 안면판	
+/items/armors/aegi/decorative/aegi-enerth/aegi-enerth.legs	description	^green;Aegi. ^white;Working trousers worn by Enerth Engineers.	^green;에이지. ^white;에너스 기술자가 입는 작업 바지.	
+/items/armors/aegi/decorative/aegi-enerth/aegi-enerth.legs	shortdescription	Enerth Work Pants	에너스 작업 바지	
+/items/armors/aegi/decorative/aegi-mechpilot/aegi-mechpilot.chest	description	^green;Aegi. ^white;A lightweight cuirass worn by Union mech pilots.	^green;에이지. ^white;유니온 메크 조종사가 입는 가벼운 흉갑.	
+/items/armors/aegi/decorative/aegi-mechpilot/aegi-mechpilot.chest	shortdescription	Union Mech Pilot Cuirass	유니온 메크 조종사 흉갑	
+/items/armors/aegi/decorative/aegi-mechpilot/aegi-mechpilot.head	description	^green;Aegi. ^white;A helmet with an integrated HUD, used by Union mech pilots.	^green;에이지. ^white;유니온 메크 조종사가 쓰는 HUD 내장 헬멧.	
+/items/armors/aegi/decorative/aegi-mechpilot/aegi-mechpilot.head	shortdescription	Union Mech Pilot Helmet	유니온 메크 조종사 헬멧	
+/items/armors/aegi/decorative/aegi-medic/aegi-medic.chest	description	^green;Aegi. ^white;The uniform worn by Union medical workers.	^green;에이지. ^white;유니온 의료진이 입는 유니폼.	
+/items/armors/aegi/decorative/aegi-medic/aegi-medic.chest	shortdescription	Meditek Uniform	메디텍 유니폼	
+/items/armors/aegi/decorative/aegi-medic/aegi-medic.head	description	^green;Aegi. ^white;Hair caps worn by Union medical workers.	^green;에이지. ^white;유니온 의료진이 쓰는 헤어캡.	
+/items/armors/aegi/decorative/aegi-medic/aegi-medic.head	shortdescription	Meditek Hair Cap	메디텍 헤어캡	
+/items/armors/aegi/decorative/aegi-medic/aegi-medic.legs	description	^green;Aegi. ^white;Trousers worn by Union medical workers.	^green;에이지. ^white;유니온 의료진이 입는 바지.	
+/items/armors/aegi/decorative/aegi-medic/aegi-medic.legs	shortdescription	Meditek Trousers	메디텍 바지	
+/items/armors/aegi/decorative/aegi-police/aegi-police.chest	description	^green;Aegi. ^white;The uniform worn by Union law enforcement.	^green;에이지. ^white;유니온 법집행관이 입는 유니폼.	
+/items/armors/aegi/decorative/aegi-police/aegi-police.chest	shortdescription	P-ASA Uniform	P-ASA 유니폼	
+/items/armors/aegi/decorative/aegi-police/aegi-police.head	description	^green;Aegi. ^white;The standard hat of the Union law enforcement.	^green;에이지. ^white;유니온 법집행관의 표준 모자.	
+/items/armors/aegi/decorative/aegi-police/aegi-police.head	shortdescription	P-ASA Hat	P-ASA 모자	
+/items/armors/aegi/decorative/aegi-police/aegi-police.legs	description	^green;Aegi. ^white;Leggings worn by Union law enforcement.	^green;에이지. ^white;유니온 법집행관이 입는 레깅스.	
+/items/armors/aegi/decorative/aegi-police/aegi-police.legs	shortdescription	P-ASA Leggings	P-ASA 레깅스	
+/items/armors/aegi/decorative/aegi-president/aegi-president.chest	description	^green;Aegi. ^white;The official attire of the president of the Aeginian Federal Union.	^green;에이지. ^white;에이지니언 연합 대통령의 공식 의복.	
+/items/armors/aegi/decorative/aegi-president/aegi-president.chest	shortdescription	President's Attire	대통령 의복	
+/items/armors/aegi/decorative/aegi-president/aegi-president.head	description	^green;Aegi. ^white;The official attire of the president of the Aeginian Federal Union.	^green;에이지. ^white;에이지니언 연합 대통령의 공식 의복.	
+/items/armors/aegi/decorative/aegi-president/aegi-president.head	shortdescription	President's Hat	대통령 모자	
+/items/armors/aegi/decorative/aegi-president/aegi-president.legs	description	^green;Aegi. ^white;The official attire of the president of the Aeginian Federal Union.	^green;에이지. ^white;에이지니언 연합 대통령의 공식 의복.	
+/items/armors/aegi/decorative/aegi-president/aegi-president.legs	shortdescription	President's Attire	대통령 의복	
+/items/armors/aegi/decorative/aegi-protectorate/aegi-protectorate.head	description	^green;Aegi. ^white;An ASA hat adorned with the Protectorate emblem.	^green;에이지. ^white;보호국 문장이 달린 ASA 모자.	
+/items/armors/aegi/decorative/aegi-protectorate/aegi-protectorate.head	shortdescription	Protectorate Hat	보호국 모자	
+/items/armors/aegi/decorative/aegi-rimdweller/aegi-rimdweller.chest	description	^green;Aegi. ^white;Lightweight armour worn by inhabitants of the Rim.	^green;에이지. ^white;림의 주민들이 입는 가벼운 갑옷.	
+/items/armors/aegi/decorative/aegi-rimdweller/aegi-rimdweller.chest	shortdescription	Rimdweller Cuirass	림 주민 흉갑	
+/items/armors/aegi/decorative/aegi-rimdweller/aegi-rimdweller.head	description	^green;Aegi. ^white;A visor with a high-tech HUD often worn by inhabitants of the Rim.	^green;에이지. ^white;림의 주민들이 자주 쓰는 첨단 HUD 바이저.	
+/items/armors/aegi/decorative/aegi-rimdweller/aegi-rimdweller.head	shortdescription	Rimdweller Visor	림 주민 바이저	
+/items/armors/aegi/decorative/aegi-rimdweller/aegi-rimdweller.legs	description	^green;Aegi. ^white;Heavy leggings with magnetics boots for spacewalking.	^green;에이지. ^white;우주 유영용 자력 부츠가 달린 중량 레깅스.	
+/items/armors/aegi/decorative/aegi-rimdweller/aegi-rimdweller.legs	shortdescription	Rimdweller Leggings	림 주민 레깅스	
+/items/armors/aegi/decorative/aegi-rimsoldier/aegi-rimsoldier.chest	description	^green;Aegi. ^white;Powerful body armour worn by combatants in the Rim.	^green;에이지. ^white;림의 전투원이 입는 강력한 몸통 갑옷.	
+/items/armors/aegi/decorative/aegi-rimsoldier/aegi-rimsoldier.chest	shortdescription	Rim Battlesuit	림 전투복	
+/items/armors/aegi/decorative/aegi-rimsoldier/aegi-rimsoldier.head	description	^green;Aegi. ^white;A highly resilient full-face helmet worn by combatants in the Rim.	^green;에이지. ^white;림의 전투원이 쓰는 매우 튼튼한 전면 헬멧.	
+/items/armors/aegi/decorative/aegi-rimsoldier/aegi-rimsoldier.head	shortdescription	Rim Battlehelmet	림 전투 헬멧	
+/items/armors/aegi/decorative/aegi-rimsoldier/aegi-rimsoldier.legs	description	^green;Aegi. ^white;Armoured leggings and magnetic boots worn by combatants in the Rim.	^green;에이지. ^white;림의 전투원이 입는 장갑 레깅스와 자력 부츠.	
+/items/armors/aegi/decorative/aegi-rimsoldier/aegi-rimsoldier.legs	shortdescription	Rim Battlelegs	림 전투 레깅스	
+/items/armors/aegi/decorative/aegi-soldier/aegi-soldier.chest	description	^green;Aegi. ^white;The standard chest armour of Union military personnel.	^green;에이지. ^white;유니온 군인의 표준 흉갑.	
+/items/armors/aegi/decorative/aegi-soldier/aegi-soldier.chest	shortdescription	M-ASA Cuirass	M-ASA 흉갑	
+/items/armors/aegi/decorative/aegi-soldier/aegi-soldier.head	description	^green;Aegi. ^white;The standard helmet of Union military personnel.	^green;에이지. ^white;유니온 군인의 표준 헬멧.	
+/items/armors/aegi/decorative/aegi-soldier/aegi-soldier.head	shortdescription	M-ASA Helmet	M-ASA 헬멧	
+/items/armors/aegi/decorative/aegi-soldier/aegi-soldier.legs	description	^green;Aegi. ^white;The standard leggings of Union military personnel.	^green;에이지. ^white;유니온 군인의 표준 레깅스.	
+/items/armors/aegi/decorative/aegi-soldier/aegi-soldier.legs	shortdescription	M-ASA Leggings	M-ASA 레깅스	
+/items/armors/aegi/decorative/aegi-storeclerk/aegi-storeclerk.chest	description	^green;Aegi. ^white;The upper part of a store clerk's outfit.	^green;에이지. ^white;점원 의상의 상의.	
+/items/armors/aegi/decorative/aegi-storeclerk/aegi-storeclerk.chest	shortdescription	Store Clerk Apron	점원 앞치마	
+/items/armors/aegi/decorative/aegi-storeclerk/aegi-storeclerk.legs	description	^green;Aegi. ^white;The lower part of a store clerk's outfit.	^green;에이지. ^white;점원 의상의 하의.	
+/items/armors/aegi/decorative/aegi-storeclerk/aegi-storeclerk.legs	shortdescription	Store Clerk Apron	점원 앞치마	
+/items/armors/aegi/decorative/aegi-suit/aegi-suit.chest	description	^green;Aegi. ^white;A stylish suit for the fashionable Aegi.	^green;에이지. ^white;멋을 아는 에이지를 위한 세련된 슈트.	
+/items/armors/aegi/decorative/aegi-suit/aegi-suit.chest	shortdescription	Designer Suit	디자이너 슈트	
+/items/armors/aegi/decorative/aegi-suit/aegi-suit.legs	description	^green;Aegi. ^white;Stylish pants for the fashionable Aegi.	^green;에이지. ^white;멋을 아는 에이지를 위한 세련된 바지.	
+/items/armors/aegi/decorative/aegi-suit/aegi-suit.legs	shortdescription	Designer Pants	디자이너 바지	
+/items/armors/aegi/hats/aegi-beanie/aegi-beanie.head	description	^green;Aegi. ^white;A warm and comfortable beanie.	^green;에이지. ^white;따뜻하고 편안한 비니.	
+/items/armors/aegi/hats/aegi-beanie/aegi-beanie.head	shortdescription	Union Beanie	유니온 비니	
+/items/armors/aegi/hats/aegi-cap/aegi-cap.head	description	^green;Aegi. ^white;A simple cap for a casual look.	^green;에이지. ^white;캐주얼한 단순한 모자.	
+/items/armors/aegi/hats/aegi-cap/aegi-cap.head	shortdescription	Union Cap	유니온 캡	
+/items/armors/aegi/hats/aegi-fedora/aegi-fedora.head	description	^green;Aegi. ^white;A classy fedora.	^green;에이지. ^white;고급스러운 페도라.	
+/items/armors/aegi/hats/aegi-fedora/aegi-fedora.head	shortdescription	Union Fedora	유니온 페도라	
+/items/armors/aegi/hats/aegi-hood/aegi-hood.head	description	^green;Aegi. ^white;A large waterproof hood, useful in the rain.	^green;에이지. ^white;비를 막아주는 커다란 방수 후드.	
+/items/armors/aegi/hats/aegi-hood/aegi-hood.head	shortdescription	Union Hood	유니온 후드	
+/items/armors/aegi/tiered/tier1/aegi-tier1.chest	description	^green;Aegi. ^white;A simplistic chestplate attached to a tanktop shirt.	^green;에이지. ^white;탱크톱 위에 붙인 단순한 흉갑.	
+/items/armors/aegi/tiered/tier1/aegi-tier1.chest	shortdescription	Patroller's Chestplate	순찰자 흉갑	
+/items/armors/aegi/tiered/tier1/aegi-tier1.head	description	^green;Aegi. ^white;A nicely tailored hat.	^green;에이지. ^white;잘 재단된 모자.	
+/items/armors/aegi/tiered/tier1/aegi-tier1.head	shortdescription	Patroller's Hat	순찰자 모자	
+/items/armors/aegi/tiered/tier1/aegi-tier1.legs	description	^green;Aegi. ^white;Well-fitting boots and comfortable trousers.	^green;에이지. ^white;잘 맞는 부츠와 편안한 바지.	
+/items/armors/aegi/tiered/tier1/aegi-tier1.legs	shortdescription	Patroller's Leggings	순찰자 레깅스	
+/items/armors/aegi/tiered/tier2/aegi-tier2.chest	description	^green;Aegi. ^white;A durable chestplate often worn by Aeginian navigators.	^green;에이지. ^white;에이지니언 항해자들이 자주 입는 튼튼한 흉갑.	
+/items/armors/aegi/tiered/tier2/aegi-tier2.chest	shortdescription	Navigator's Chestplate	항해자 흉갑	
+/items/armors/aegi/tiered/tier2/aegi-tier2.head	description	^green;Aegi. ^white;A hat and goggles often worn by Aeginian navigators.	^green;에이지. ^white;에이지니언 항해자들이 자주 쓰는 고글 달린 모자.	
+/items/armors/aegi/tiered/tier2/aegi-tier2.head	shortdescription	Navigator's Hat	항해자 모자	
+/items/armors/aegi/tiered/tier2/aegi-tier2.legs	description	^green;Aegi. ^white;Wide pants and armoured boots often worn by Aeginian navigators.	^green;에이지. ^white;에이지니언 항해자들이 자주 입는 넓은 바지와 장갑 부츠.	
+/items/armors/aegi/tiered/tier2/aegi-tier2.legs	shortdescription	Navigator's Pants	항해자 바지	
+/items/armors/aegi/tiered/tier3/aegi-tier3.chest	description	^green;Aegi. ^white;An armoured chestplate worn by some Aeginian ground troops.	^green;에이지. ^white;일부 에이지니언 지상군이 입는 장갑 흉갑.	
+/items/armors/aegi/tiered/tier3/aegi-tier3.chest	shortdescription	Trooper's Chestplate	돌격병 흉갑	
+/items/armors/aegi/tiered/tier3/aegi-tier3.head	description	^green;Aegi. ^white;An armoured helmet worn by some Aeginian ground troops.	^green;에이지. ^white;일부 에이지니언 지상군이 쓰는 장갑 헬멧.	
+/items/armors/aegi/tiered/tier3/aegi-tier3.head	shortdescription	Trooper's Helmet	돌격병 헬멧	
+/items/armors/aegi/tiered/tier3/aegi-tier3.legs	description	^green;Aegi. ^white;Armoured leggings worn by some Aeginian ground troops.	^green;에이지. ^white;일부 에이지니언 지상군이 입는 장갑 레깅스.	
+/items/armors/aegi/tiered/tier3/aegi-tier3.legs	shortdescription	Trooper's Leggings	돌격병 레깅스	
+/items/armors/aegi/tiered/tier4/aegi-tier4.chest	description	^green;Aegi. ^white;A strong metal chestpiece worn by Aeginian commandos.	^green;에이지. ^white;에이지니언 코만도가 입는 견고한 금속 흉갑.	
+/items/armors/aegi/tiered/tier4/aegi-tier4.chest	shortdescription	Commando's Chestplate	코만도 흉갑	
+/items/armors/aegi/tiered/tier4/aegi-tier4.head	description	^green;Aegi. ^white;A strong metal helmet worn by Aeginian commandos.	^green;에이지. ^white;에이지니언 코만도가 쓰는 견고한 금속 헬멧.	
+/items/armors/aegi/tiered/tier4/aegi-tier4.head	shortdescription	Commando's Helmet	코만도 헬멧	
+/items/armors/aegi/tiered/tier4/aegi-tier4.legs	description	^green;Aegi. ^white;A balistic skirt and metal boots, worn by Aeginian commandos.	^green;에이지. ^white;에이지니언 코만도가 입는 방탄 스커트와 금속 부츠.	
+/items/armors/aegi/tiered/tier4/aegi-tier4.legs	shortdescription	Commando's Leggings	코만도 레깅스	
+/items/armors/aegi/tiered/tier5a/aegi-tier5a.chest	description	^green;Aegi. ^white;A segmented metal chestpiece for greater mobility. Energetic version.	^green;에이지. ^white;기동성을 높인 분절 금속 흉갑. 기력 사양.	
+/items/armors/aegi/tiered/tier5a/aegi-tier5a.chest	shortdescription	Explorer's Cuirass Type-A	탐험가 흉갑 A형	
+/items/armors/aegi/tiered/tier5a/aegi-tier5a.head	description	^green;Aegi. ^white;A helmet with a large visor of durable plastics. Energetic version.	^green;에이지. ^white;튼튼한 플라스틱의 커다란 바이저가 달린 헬멧. 기력 사양.	
+/items/armors/aegi/tiered/tier5a/aegi-tier5a.head	shortdescription	Explorer's Helmet Type-A	탐험가 헬멧 A형	
+/items/armors/aegi/tiered/tier5a/aegi-tier5a.legs	description	^green;Aegi. ^white;Segmented metal leggings for greater mobility. Energetic version.	^green;에이지. ^white;기동성을 높인 분절 금속 레깅스. 기력 사양.	
+/items/armors/aegi/tiered/tier5a/aegi-tier5a.legs	shortdescription	Explorer's Greaves Type-A	탐험가 그리브 A형	
+/items/armors/aegi/tiered/tier5m/aegi-tier5m.chest	description	^green;Aegi. ^white;A segmented metal chestpiece for greater mobility. Powerful version.	^green;에이지. ^white;기동성을 높인 분절 금속 흉갑. 파워 사양.	
+/items/armors/aegi/tiered/tier5m/aegi-tier5m.chest	shortdescription	Explorer's Cuirass Type-M	탐험가 흉갑 M형	
+/items/armors/aegi/tiered/tier5m/aegi-tier5m.head	description	^green;Aegi. ^white;A helmet with a large visor of durable plastics. Powerful version.	^green;에이지. ^white;튼튼한 플라스틱의 커다란 바이저가 달린 헬멧. 파워 사양.	
+/items/armors/aegi/tiered/tier5m/aegi-tier5m.head	shortdescription	Explorer's Helmet Type-M	탐험가 헬멧 M형	
+/items/armors/aegi/tiered/tier5m/aegi-tier5m.legs	description	^green;Aegi. ^white;Segmented metal leggings for greater mobility. Powerful version.	^green;에이지. ^white;기동성을 높인 분절 금속 레깅스. 파워 사양.	
+/items/armors/aegi/tiered/tier5m/aegi-tier5m.legs	shortdescription	Explorer's Greaves Type-M	탐험가 그리브 M형	
+/items/armors/aegi/tiered/tier5s/aegi-tier5s.chest	description	^green;Aegi. ^white;A segmented metal chestpiece for greater mobility. Vigorous version.	^green;에이지. ^white;기동성을 높인 분절 금속 흉갑. 활력 사양.	
+/items/armors/aegi/tiered/tier5s/aegi-tier5s.chest	shortdescription	Explorer's Cuirass Type-S	탐험가 흉갑 S형	
+/items/armors/aegi/tiered/tier5s/aegi-tier5s.head	description	^green;Aegi. ^white;A helmet with a large visor of durable plastics. Vigorous version.	^green;에이지. ^white;튼튼한 플라스틱의 커다란 바이저가 달린 헬멧. 활력 사양.	
+/items/armors/aegi/tiered/tier5s/aegi-tier5s.head	shortdescription	Explorer's Helmet Type-S	탐험가 헬멧 S형	
+/items/armors/aegi/tiered/tier5s/aegi-tier5s.legs	description	^green;Aegi. ^white;Segmented metal leggings for greater mobility. Vigorous version.	^green;에이지. ^white;기동성을 높인 분절 금속 레깅스. 활력 사양.	
+/items/armors/aegi/tiered/tier5s/aegi-tier5s.legs	shortdescription	Explorer's Greaves Type-S	탐험가 그리브 S형	
+/items/armors/aegi/tiered/tier6a/aegi-tier6a.chest	description	^green;Aegi. ^white;An extremely durable metal chestpiece. Energetic version.	^green;에이지. ^white;매우 튼튼한 금속 흉갑. 기력 사양.	
+/items/armors/aegi/tiered/tier6a/aegi-tier6a.chest	shortdescription	Union Battlesuit Type-A	유니온 전투복 A형	
+/items/armors/aegi/tiered/tier6a/aegi-tier6a.head	description	^green;Aegi. ^white;An extremely durable metal helmet. Energetic version.	^green;에이지. ^white;매우 튼튼한 금속 헬멧. 기력 사양.	
+/items/armors/aegi/tiered/tier6a/aegi-tier6a.head	shortdescription	Union Battlehelmet Type-A	유니온 전투 헬멧 A형	
+/items/armors/aegi/tiered/tier6a/aegi-tier6a.legs	description	^green;Aegi. ^white;Extremely durable ballistic leggings and metal boots. Energetic version.	^green;에이지. ^white;매우 튼튼한 방탄 레깅스와 금속 부츠. 기력 사양.	
+/items/armors/aegi/tiered/tier6a/aegi-tier6a.legs	shortdescription	Union Battlelegs Type-A	유니온 전투 레깅스 A형	
+/items/armors/aegi/tiered/tier6m/aegi-tier6m.chest	description	^green;Aegi. ^white;An extremely durable metal chestpiece. Powerful version.	^green;에이지. ^white;매우 튼튼한 금속 흉갑. 파워 사양.	
+/items/armors/aegi/tiered/tier6m/aegi-tier6m.chest	shortdescription	Union Battlesuit Type-M	유니온 전투복 M형	
+/items/armors/aegi/tiered/tier6m/aegi-tier6m.head	description	^green;Aegi. ^white;An extremely durable metal helmet. Powerful version.	^green;에이지. ^white;매우 튼튼한 금속 헬멧. 파워 사양.	
+/items/armors/aegi/tiered/tier6m/aegi-tier6m.head	shortdescription	Union Battlehelmet Type-M	유니온 전투 헬멧 M형	
+/items/armors/aegi/tiered/tier6m/aegi-tier6m.legs	description	^green;Aegi. ^white;Extremely durable ballistic leggings and metal boots. Powerful version.	^green;에이지. ^white;매우 튼튼한 방탄 레깅스와 금속 부츠. 파워 사양.	
+/items/armors/aegi/tiered/tier6m/aegi-tier6m.legs	shortdescription	Union Battlelegs Type-M	유니온 전투 레깅스 M형	
+/items/armors/aegi/tiered/tier6s/aegi-tier6s.chest	description	^green;Aegi. ^white;An extremely durable metal chestpiece. Vigorous version.	^green;에이지. ^white;매우 튼튼한 금속 흉갑. 활력 사양.	
+/items/armors/aegi/tiered/tier6s/aegi-tier6s.chest	shortdescription	Union Battlesuit Type-S	유니온 전투복 S형	
+/items/armors/aegi/tiered/tier6s/aegi-tier6s.head	description	^green;Aegi. ^white;An extremely durable metal helmet. Vigorous version.	^green;에이지. ^white;매우 튼튼한 금속 헬멧. 활력 사양.	
+/items/armors/aegi/tiered/tier6s/aegi-tier6s.head	shortdescription	Union Battlehelmet Type-S	유니온 전투 헬멧 S형	
+/items/armors/aegi/tiered/tier6s/aegi-tier6s.legs	description	^green;Aegi. ^white;Extremely durable ballistic leggings and metal boots. Vigorous version.	^green;에이지. ^white;매우 튼튼한 방탄 레깅스와 금속 부츠. 활력 사양.	
+/items/armors/aegi/tiered/tier6s/aegi-tier6s.legs	shortdescription	Union Battlelegs Type-S	유니온 전투 레깅스 S형	
+/items/armors/akkimari/brutenpc/akkimari-brutecaptain/akkimari-brutecaptain.back	description	^green;Akkimari. ^white;A fuel tank worn by Kelraaki Captains.	^green;아키마리. ^white;켈라키 선장이 메는 연료 탱크.	
+/items/armors/akkimari/brutenpc/akkimari-brutecaptain/akkimari-brutecaptain.back	shortdescription	Brute Captain's Pack	브루트 선장 배낭	
+/items/armors/akkimari/brutenpc/akkimari-brutecaptain/akkimari-brutecaptain.chest	description	^green;Akkimari. ^white;A hard cuirass worn by Kelraaki captains.	^green;아키마리. ^white;켈라키 선장이 입는 단단한 흉갑.	
+/items/armors/akkimari/brutenpc/akkimari-brutecaptain/akkimari-brutecaptain.chest	shortdescription	Brute Captain's Cuirass	브루트 선장 흉갑	
+/items/armors/akkimari/brutenpc/akkimari-brutecaptain/akkimari-brutecaptain.head	description	^green;Akkimari. ^white;A large, brutish helmet worn by captains of the Kelraaki.	^green;아키마리. ^white;켈라키 선장이 쓰는 크고 투박한 헬멧.	
+/items/armors/akkimari/brutenpc/akkimari-brutecaptain/akkimari-brutecaptain.head	shortdescription	Brute Captain's Helmet	브루트 선장 헬멧	
+/items/armors/akkimari/brutenpc/akkimari-brutecaptain/akkimari-brutecaptain.legs	description	^green;Akkimari. ^white;Hardened metal hip-plates worn by captains of the Kelraaki.	^green;아키마리. ^white;켈라키 선장이 차는 경질 금속 골반판.	
+/items/armors/akkimari/brutenpc/akkimari-brutecaptain/akkimari-brutecaptain.legs	shortdescription	Brute Captain's Plates	브루트 선장 판금	
+/items/armors/akkimari/brutenpc/akkimari-brutesmith/akkimari-brutesmith.chest	description	^green;Akkimari. ^white;A loose sling worn by smiths.	^green;아키마리. ^white;대장장이가 두르는 헐렁한 걸이천.	
+/items/armors/akkimari/brutenpc/akkimari-brutesmith/akkimari-brutesmith.chest	shortdescription	Brute Smith's Sling	브루트 대장장이 걸이천	
+/items/armors/akkimari/brutenpc/akkimari-brutesmith/akkimari-brutesmith.legs	description	^green;Akkimari. ^white;A long skirt worn by smiths.	^green;아키마리. ^white;대장장이가 입는 긴 치마.	
+/items/armors/akkimari/brutenpc/akkimari-brutesmith/akkimari-brutesmith.legs	shortdescription	Brute Smith's Skirt	브루트 대장장이 치마	
+/items/armors/akkimari/clothing/akkimari-clerk/akkimari-clerk.chest	description	^green;Akkimari. ^white;A silken shirt worn by the clerks of the Justiciary.	^green;아키마리. ^white;사법부 서기가 입는 비단 셔츠.	
+/items/armors/akkimari/clothing/akkimari-clerk/akkimari-clerk.chest	shortdescription	Clerk's Shirt	서기 셔츠	
+/items/armors/akkimari/clothing/akkimari-clerk/akkimari-clerk.legs	description	^green;Akkimari. ^white;A silken satchel and belt worn by the clerks of the Justiciary.	^green;아키마리. ^white;사법부 서기가 차는 비단 가방과 벨트.	
+/items/armors/akkimari/clothing/akkimari-clerk/akkimari-clerk.legs	shortdescription	Clerk's Satchel	서기 가방	
+/items/armors/akkimari/clothing/akkimari-forger/akkimari-forger.chest	description	^green;Akkimari. ^white;A silken cloth worn by those who work the forges.	^green;아키마리. ^white;용광로에서 일하는 이들이 두르는 비단 천.	
+/items/armors/akkimari/clothing/akkimari-forger/akkimari-forger.chest	shortdescription	Forger's Sling	단조공 걸이천	
+/items/armors/akkimari/clothing/akkimari-forger/akkimari-forger.legs	description	^green;Akkimari. ^white;A silken loincloth worn by those who work the forges.	^green;아키마리. ^white;용광로에서 일하는 이들이 입는 비단 훈도시.	
+/items/armors/akkimari/clothing/akkimari-forger/akkimari-forger.legs	shortdescription	Forger's Loincloth	단조공 훈도시	
+/items/armors/akkimari/clothing/akkimari-trader/akkimari-trader.chest	description	^green;Akkimari. ^white;A silken poncho worn by traders of the Covenant.	^green;아키마리. ^white;성약 상인이 입는 비단 판초.	
+/items/armors/akkimari/clothing/akkimari-trader/akkimari-trader.chest	shortdescription	Trader's Poncho	상인 판초	
+/items/armors/akkimari/clothing/akkimari-trader/akkimari-trader.legs	description	^green;Akkimari. ^white;Silken shorts worn by traders of the Covenant.	^green;아키마리. ^white;성약 상인이 입는 비단 반바지.	
+/items/armors/akkimari/clothing/akkimari-trader/akkimari-trader.legs	shortdescription	Trader's Shorts	상인 반바지	
+/items/armors/akkimari/clothing/akkimari-weaver/akkimari-weaver.chest	description	^green;Akkimari. ^white;A silken cloth worn by silk-weavers.	^green;아키마리. ^white;비단 직공이 두르는 비단 천.	
+/items/armors/akkimari/clothing/akkimari-weaver/akkimari-weaver.chest	shortdescription	Weaver's Sling	직공 걸이천	
+/items/armors/akkimari/clothing/akkimari-weaver/akkimari-weaver.legs	description	^green;Akkimari. ^white;A silken skirt worn by silk-weavers.	^green;아키마리. ^white;비단 직공이 입는 비단 치마.	
+/items/armors/akkimari/clothing/akkimari-weaver/akkimari-weaver.legs	shortdescription	Weaver's Skirt	직공 치마	
+/items/armors/akkimari/decorative/akkimari-combat/akkimari-combat.head	description	^green;Akkimari. ^white;A heavy helmet offering outstanding protection in combat.	^green;아키마리. ^white;전투에서 뛰어난 보호력을 제공하는 무거운 헬멧.	
+/items/armors/akkimari/decorative/akkimari-combat/akkimari-combat.head	shortdescription	Combat Helmet	전투 헬멧	
+/items/armors/akkimari/decorative/akkimari-lurker/akkimari-lurker.head	description	^green;Akkimari. ^white;A hood worn by Akkimari who hide in the shadows.	^green;아키마리. ^white;그림자 속에 숨어다니는 아키마리가 쓰는 후드.	
+/items/armors/akkimari/decorative/akkimari-lurker/akkimari-lurker.head	shortdescription	Lurker's Hood	잠복자 후드	
+/items/armors/akkimari/decorative/akkimari-protectorate/akkimari-protectorate.chest	description	^green;Akkimari. ^white;A modified Terrene Protectorate uniform, tailored specifically for an Akkimari.	^green;아키마리. ^white;아키마리 전용으로 특별 재단한 개조 보호국 유니폼.	
+/items/armors/akkimari/decorative/akkimari-protectorate/akkimari-protectorate.chest	shortdescription	Protectorate Top	보호국 상의	
+/items/armors/akkimari/decorative/akkimari-protectorate/akkimari-protectorate.legs	description	^green;Akkimari. ^white;A modified Terrene Protectorate uniform, tailored specifically for an Akkimari.	^green;아키마리. ^white;아키마리 전용으로 특별 재단한 개조 보호국 유니폼.	
+/items/armors/akkimari/decorative/akkimari-protectorate/akkimari-protectorate.legs	shortdescription	Protectorate Leggings	보호국 레깅스	
+/items/armors/akkimari/decorative/akkimari-rebreather/akkimari-rebreather.head	description	^green;Akkimari. ^white;A rebreather built to allow the Akkimari to breathe on alien planets.	^green;아키마리. ^white;아키마리가 외계 행성에서 숨 쉴 수 있게 해주는 재호흡기.	
+/items/armors/akkimari/decorative/akkimari-rebreather/akkimari-rebreather.head	shortdescription	Rebreather	재호흡기	
+/items/armors/akkimari/decorative/akkimari-scavenger/akkimari-scavenger.chest	description	^green;Akkimari. ^white;A scrap metal cuirass worn by Akkimari scavengers.	^green;아키마리. ^white;아키마리 스캐빈저가 입는 고철 흉갑.	
+/items/armors/akkimari/decorative/akkimari-scavenger/akkimari-scavenger.chest	shortdescription	Scavenger's Cuirass	스캐빈저 흉갑	
+/items/armors/akkimari/decorative/akkimari-scavenger/akkimari-scavenger.head	description	^green;Akkimari. ^white;A scrap metal helmet worn by Akkimari scavengers.	^green;아키마리. ^white;아키마리 스캐빈저가 쓰는 고철 헬멧.	
+/items/armors/akkimari/decorative/akkimari-scavenger/akkimari-scavenger.head	shortdescription	Scavenger's Helmet	스캐빈저 헬멧	
+/items/armors/akkimari/decorative/akkimari-scavenger/akkimari-scavenger.legs	description	^green;Akkimari. ^white;Scrap metal hip plates worn by Akkimari scavengers.	^green;아키마리. ^white;아키마리 스캐빈저가 차는 고철 골반판.	
+/items/armors/akkimari/decorative/akkimari-scavenger/akkimari-scavenger.legs	shortdescription	Scavenger's Plates	스캐빈저 판금	
+/items/armors/akkimari/decorative/akkimari-scavenger2/akkimari-scavenger2.chest	description	^green;Akkimari. ^white;A scrap metal chest plate worn by Akkimari scavengers.	^green;아키마리. ^white;아키마리 스캐빈저가 입는 고철 흉판.	
+/items/armors/akkimari/decorative/akkimari-scavenger2/akkimari-scavenger2.chest	shortdescription	Scavenger's Chestplate	스캐빈저 흉판	
+/items/armors/akkimari/decorative/akkimari-scavenger2/akkimari-scavenger2.head	description	^green;Akkimari. ^white;A scrap metal helmet worn by Akkimari scavengers.	^green;아키마리. ^white;아키마리 스캐빈저가 쓰는 고철 헬멧.	
+/items/armors/akkimari/decorative/akkimari-scavenger2/akkimari-scavenger2.head	shortdescription	Scavenger's Helmet	스캐빈저 헬멧	
+/items/armors/akkimari/decorative/akkimari-scavenger2/akkimari-scavenger2.legs	description	^green;Akkimari. ^white;Scrap metal greaves worn by Akkimari scavengers.	^green;아키마리. ^white;아키마리 스캐빈저가 입는 고철 그리브.	
+/items/armors/akkimari/decorative/akkimari-scavenger2/akkimari-scavenger2.legs	shortdescription	Scavenger's Greaves	스캐빈저 그리브	
+/items/armors/akkimari/decorative/akkimari-scavenger3/akkimari-scavenger3.head	description	^green;Akkimari. ^white;A scrap metal helmet worn by Akkimari scavengers.	^green;아키마리. ^white;아키마리 스캐빈저가 쓰는 고철 헬멧.	
+/items/armors/akkimari/decorative/akkimari-scavenger3/akkimari-scavenger3.head	shortdescription	Scavenger's Helmet	스캐빈저 헬멧	
+/items/armors/akkimari/decorative/akkimari-scavenger3/akkimari-scavenger3.legs	description	^green;Akkimari. ^white;Scrap metal greaves and hip plates worn by Akkimari scavengers.	^green;아키마리. ^white;아키마리 스캐빈저가 입는 고철 그리브와 골반판.	
+/items/armors/akkimari/decorative/akkimari-scavenger3/akkimari-scavenger3.legs	shortdescription	Scavenger's Legwear	스캐빈저 다리갑옷	
+/items/armors/akkimari/decorative/akkimari-scavenger4/akkimari-scavenger4.head	description	^green;Akkimari. ^white;A scrap metal helmet worn by Akkimari scavengers.	^green;아키마리. ^white;아키마리 스캐빈저가 쓰는 고철 헬멧.	
+/items/armors/akkimari/decorative/akkimari-scavenger4/akkimari-scavenger4.head	shortdescription	Scavenger's Helmet	스캐빈저 헬멧	
+/items/armors/akkimari/decorative/akkimari-shaman/akkimari-shaman.chest	description	^green;Akkimari. ^white;A top worn by Shalakka shamans.	^green;아키마리. ^white;샬라카 주술사가 입는 상의.	
+/items/armors/akkimari/decorative/akkimari-shaman/akkimari-shaman.chest	shortdescription	Shalakka Top	샬라카 상의	
+/items/armors/akkimari/decorative/akkimari-shaman/akkimari-shaman.head	description	^green;Akkimari. ^white;A mask worn by Shalakka shamans.	^green;아키마리. ^white;샬라카 주술사가 쓰는 가면.	
+/items/armors/akkimari/decorative/akkimari-shaman/akkimari-shaman.head	shortdescription	Shalakka Mask	샬라카 가면	
+/items/armors/akkimari/decorative/akkimari-shaman/akkimari-shaman.legs	description	^green;Akkimari. ^white;A skirt worn by Shalakka shamans.	^green;아키마리. ^white;샬라카 주술사가 입는 치마.	
+/items/armors/akkimari/decorative/akkimari-shaman/akkimari-shaman.legs	shortdescription	Shalakka Skirt	샬라카 치마	
+/items/armors/akkimari/decorative/akkimari-skulker/akkimari-skulker.head	description	^green;Akkimari. ^white;A helmet with integrated night and heat vision, worn by Akkimari skulkers.	^green;아키마리. ^white;야간·열상 시야를 통합한 아키마리 잠복자용 헬멧.	
+/items/armors/akkimari/decorative/akkimari-skulker/akkimari-skulker.head	shortdescription	Skulker's Helmet	잠복자 헬멧	
+/items/armors/akkimari/tiered/tier1/akkimari-tier1.chest	description	^green;Akkimari. ^white;A roughly made chestplate with a belt of silk.	^green;아키마리. ^white;비단 허리띠를 맨 대충 만든 흉갑.	
+/items/armors/akkimari/tiered/tier1/akkimari-tier1.chest	shortdescription	Scoundrel's Rags	무뢰배 누더기	
+/items/armors/akkimari/tiered/tier1/akkimari-tier1.head	description	^green;Akkimari. ^white;A roughly made scarf that wraps around the head.	^green;아키마리. ^white;머리를 감싸는 대충 만든 스카프.	
+/items/armors/akkimari/tiered/tier1/akkimari-tier1.head	shortdescription	Scoundrel's Scarf	무뢰배 스카프	
+/items/armors/akkimari/tiered/tier1/akkimari-tier1.legs	description	^green;Akkimari. ^white;A roughly made skirt.	^green;아키마리. ^white;대충 만든 치마.	
+/items/armors/akkimari/tiered/tier1/akkimari-tier1.legs	shortdescription	Scoundrel's Skirt	무뢰배 치마	
+/items/armors/akkimari/tiered/tier2/akkimari-tier2.chest	description	^green;Akkimari. ^white;A chestplate and scarf worn by those who scrap alien ships for parts.	^green;아키마리. ^white;외계 함선을 해체해 부품을 캐는 이들이 입는 흉갑과 스카프.	
+/items/armors/akkimari/tiered/tier2/akkimari-tier2.chest	shortdescription	Vandal's Cuirass	약탈자 흉갑	
+/items/armors/akkimari/tiered/tier2/akkimari-tier2.head	description	^green;Akkimari. ^white;A hood worn by those who scrap alien ships for parts.	^green;아키마리. ^white;외계 함선을 해체해 부품을 캐는 이들이 쓰는 후드.	
+/items/armors/akkimari/tiered/tier2/akkimari-tier2.head	shortdescription	Vandal's Hood	약탈자 후드	
+/items/armors/akkimari/tiered/tier2/akkimari-tier2.legs	description	^green;Akkimari. ^white;A skirt and greaves worn by those who scrap alien ships for parts.	^green;아키마리. ^white;외계 함선을 해체해 부품을 캐는 이들이 입는 치마와 그리브.	
+/items/armors/akkimari/tiered/tier2/akkimari-tier2.legs	shortdescription	Vandal's Greaves	약탈자 그리브	
+/items/armors/akkimari/tiered/tier3/akkimari-tier3.chest	description	^green;Akkimari. ^white;A sturdy chestpiece to protect against heavy impacts.	^green;아키마리. ^white;강한 충격을 막아주는 튼튼한 흉갑.	
+/items/armors/akkimari/tiered/tier3/akkimari-tier3.chest	shortdescription	Ransacker's Cuirass	습격자 흉갑	
+/items/armors/akkimari/tiered/tier3/akkimari-tier3.head	description	^green;Akkimari. ^white;A cloth mask with metal plates built to protect against debris.	^green;아키마리. ^white;파편을 막도록 금속판을 붙인 천 가면.	
+/items/armors/akkimari/tiered/tier3/akkimari-tier3.head	shortdescription	Ransacker's Mask	습격자 가면	
+/items/armors/akkimari/tiered/tier3/akkimari-tier3.legs	description	^green;Akkimari. ^white;Metal boots and a skirt built to protect against debris.	^green;아키마리. ^white;파편을 막도록 만들어진 금속 부츠와 치마.	
+/items/armors/akkimari/tiered/tier3/akkimari-tier3.legs	shortdescription	Ransacker's Greaves	습격자 그리브	
+/items/armors/akkimari/tiered/tier4/akkimari-tier4.chest	description	^green;Akkimari. ^white;A tactical vest and chestplate worn by cunning raiders.	^green;아키마리. ^white;교활한 약탈꾼이 입는 전술 조끼와 흉갑.	
+/items/armors/akkimari/tiered/tier4/akkimari-tier4.chest	shortdescription	Marauder's Cuirass	약탈꾼 흉갑	
+/items/armors/akkimari/tiered/tier4/akkimari-tier4.head	description	^green;Akkimari. ^white;A tactical visor worn by cunning raiders.	^green;아키마리. ^white;교활한 약탈꾼이 쓰는 전술 바이저.	
+/items/armors/akkimari/tiered/tier4/akkimari-tier4.head	shortdescription	Marauder's Visor	약탈꾼 바이저	
+/items/armors/akkimari/tiered/tier4/akkimari-tier4.legs	description	^green;Akkimari. ^white;Greaves and a tactical belt worn by cunning raiders.	^green;아키마리. ^white;교활한 약탈꾼이 입는 그리브와 전술 벨트.	
+/items/armors/akkimari/tiered/tier4/akkimari-tier4.legs	shortdescription	Marauder's Greaves	약탈꾼 그리브	
+/items/armors/akkimari/tiered/tier5a/akkimari-tier5a.chest	description	^green;Akkimari. ^white;A combat cuirass made of durable metals. Energetic version.	^green;아키마리. ^white;튼튼한 금속으로 만든 전투 흉갑. 기력 사양.	
+/items/armors/akkimari/tiered/tier5a/akkimari-tier5a.chest	shortdescription	Ravager's Cuirass r.A	탐식자 흉갑 r.A	
+/items/armors/akkimari/tiered/tier5a/akkimari-tier5a.head	description	^green;Akkimari. ^white;A combat helmet with a tactical visor. Energetic version.	^green;아키마리. ^white;전술 바이저가 달린 전투 헬멧. 기력 사양.	
+/items/armors/akkimari/tiered/tier5a/akkimari-tier5a.head	shortdescription	Ravager's Helmet r.A	탐식자 헬멧 r.A	
+/items/armors/akkimari/tiered/tier5a/akkimari-tier5a.legs	description	^green;Akkimari. ^white;Combat greaves made of durable metals. Energetic version.	^green;아키마리. ^white;튼튼한 금속으로 만든 전투 그리브. 기력 사양.	
+/items/armors/akkimari/tiered/tier5a/akkimari-tier5a.legs	shortdescription	Ravager's Greaves r.A	탐식자 그리브 r.A	
+/items/armors/akkimari/tiered/tier5m/akkimari-tier5m.chest	description	^green;Akkimari. ^white;A combat cuirass made of durable metals. Powerful version.	^green;아키마리. ^white;튼튼한 금속으로 만든 전투 흉갑. 파워 사양.	
+/items/armors/akkimari/tiered/tier5m/akkimari-tier5m.chest	shortdescription	Ravager's Cuirass r.M	탐식자 흉갑 r.M	
+/items/armors/akkimari/tiered/tier5m/akkimari-tier5m.head	description	^green;Akkimari. ^white;A combat helmet with a tactical visor. Powerful version.	^green;아키마리. ^white;전술 바이저가 달린 전투 헬멧. 파워 사양.	
+/items/armors/akkimari/tiered/tier5m/akkimari-tier5m.head	shortdescription	Ravager's Helmet r.M	탐식자 헬멧 r.M	
+/items/armors/akkimari/tiered/tier5m/akkimari-tier5m.legs	description	^green;Akkimari. ^white;Combat greaves made of durable metals. Powerful version.	^green;아키마리. ^white;튼튼한 금속으로 만든 전투 그리브. 파워 사양.	
+/items/armors/akkimari/tiered/tier5m/akkimari-tier5m.legs	shortdescription	Ravager's Greaves r.M	탐식자 그리브 r.M	
+/items/armors/akkimari/tiered/tier5s/akkimari-tier5s.chest	description	^green;Akkimari. ^white;A combat cuirass made of durable metals. Vigorous version.	^green;아키마리. ^white;튼튼한 금속으로 만든 전투 흉갑. 활력 사양.	
+/items/armors/akkimari/tiered/tier5s/akkimari-tier5s.chest	shortdescription	Ravager's Cuirass r.S	탐식자 흉갑 r.S	
+/items/armors/akkimari/tiered/tier5s/akkimari-tier5s.head	description	^green;Akkimari. ^white;A combat helmet with a tactical visor. Vigorous version.	^green;아키마리. ^white;전술 바이저가 달린 전투 헬멧. 활력 사양.	
+/items/armors/akkimari/tiered/tier5s/akkimari-tier5s.head	shortdescription	Ravager's Helmet r.S	탐식자 헬멧 r.S	
+/items/armors/akkimari/tiered/tier5s/akkimari-tier5s.legs	description	^green;Akkimari. ^white;Combat greaves made of durable metals. Vigorous version.	^green;아키마리. ^white;튼튼한 금속으로 만든 전투 그리브. 활력 사양.	
+/items/armors/akkimari/tiered/tier5s/akkimari-tier5s.legs	shortdescription	Ravager's Greaves r.S	탐식자 그리브 r.S	
+/items/armors/akkimari/tiered/tier6a/akkimari-tier6a.chest	description	^green;Akkimari. ^white;A high-tech combat suit worn by Akkimari elites. Energetic version.	^green;아키마리. ^white;아키마리 정예가 입는 첨단 전투복. 기력 사양.	
+/items/armors/akkimari/tiered/tier6a/akkimari-tier6a.chest	shortdescription	Vanquisher Cuirass r.A	정복자 흉갑 r.A	
+/items/armors/akkimari/tiered/tier6a/akkimari-tier6a.head	description	^green;Akkimari. ^white;A high-tech combat helmet worn by Akkimari elites. Energetic version.	^green;아키마리. ^white;아키마리 정예가 쓰는 첨단 전투 헬멧. 기력 사양.	
+/items/armors/akkimari/tiered/tier6a/akkimari-tier6a.head	shortdescription	Vanquisher Helmet r.A	정복자 헬멧 r.A	
+/items/armors/akkimari/tiered/tier6a/akkimari-tier6a.legs	description	^green;Akkimari. ^white;A high-tech combat suit worn by Akkimari elites. Energetic version.	^green;아키마리. ^white;아키마리 정예가 입는 첨단 전투복. 기력 사양.	
+/items/armors/akkimari/tiered/tier6a/akkimari-tier6a.legs	shortdescription	Vanquisher Greaves r.A	정복자 그리브 r.A	
+/items/armors/akkimari/tiered/tier6m/akkimari-tier6m.chest	description	^green;Akkimari. ^white;A high-tech combat suit worn by Akkimari elites. Powerful version.	^green;아키마리. ^white;아키마리 정예가 입는 첨단 전투복. 파워 사양.	
+/items/armors/akkimari/tiered/tier6m/akkimari-tier6m.chest	shortdescription	Vanquisher Cuirass r.M	정복자 흉갑 r.M	
+/items/armors/akkimari/tiered/tier6m/akkimari-tier6m.head	description	^green;Akkimari. ^white;A high-tech combat helmet worn by Akkimari elites. Powerful version.	^green;아키마리. ^white;아키마리 정예가 쓰는 첨단 전투 헬멧. 파워 사양.	
+/items/armors/akkimari/tiered/tier6m/akkimari-tier6m.head	shortdescription	Vanquisher Helmet r.M	정복자 헬멧 r.M	
+/items/armors/akkimari/tiered/tier6m/akkimari-tier6m.legs	description	^green;Akkimari. ^white;A high-tech combat suit worn by Akkimari elites. Powerful version.	^green;아키마리. ^white;아키마리 정예가 입는 첨단 전투복. 파워 사양.	
+/items/armors/akkimari/tiered/tier6m/akkimari-tier6m.legs	shortdescription	Vanquisher Greaves r.M	정복자 그리브 r.M	
+/items/armors/akkimari/tiered/tier6s/akkimari-tier6s.chest	description	^green;Akkimari. ^white;A high-tech combat suit worn by Akkimari elites. Vigorous version.	^green;아키마리. ^white;아키마리 정예가 입는 첨단 전투복. 활력 사양.	
+/items/armors/akkimari/tiered/tier6s/akkimari-tier6s.chest	shortdescription	Vanquisher Cuirass r.S	정복자 흉갑 r.S	
+/items/armors/akkimari/tiered/tier6s/akkimari-tier6s.head	description	^green;Akkimari. ^white;A high-tech combat helmet worn by Akkimari elites. Vigorous version.	^green;아키마리. ^white;아키마리 정예가 쓰는 첨단 전투 헬멧. 활력 사양.	
+/items/armors/akkimari/tiered/tier6s/akkimari-tier6s.head	shortdescription	Vanquisher Helmet r.S	정복자 헬멧 r.S	
+/items/armors/akkimari/tiered/tier6s/akkimari-tier6s.legs	description	^green;Akkimari. ^white;A high-tech combat suit worn by Akkimari elites. Vigorous version.	^green;아키마리. ^white;아키마리 정예가 입는 첨단 전투복. 활력 사양.	
+/items/armors/akkimari/tiered/tier6s/akkimari-tier6s.legs	shortdescription	Vanquisher Greaves r.S	정복자 그리브 r.S	
+/items/armors/avikan/clothes/avikan-cloaked/avikan-cloaked.chest	description	^green;Avikan. ^white;A large robe worn by those few who dare brave Kadavan's deepest deserts.	^green;아비칸. ^white;카다반 가장 깊은 사막에 감히 도전하는 소수가 입는 커다란 로브.	
+/items/armors/avikan/clothes/avikan-cloaked/avikan-cloaked.chest	shortdescription	Deep Desert Robes	깊은 사막 로브	
+/items/armors/avikan/clothes/avikan-cloaked/avikan-cloaked.head	description	^green;Avikan. ^white;A protective cloak worn by those few who dare brave Kadavan's deepest deserts.	^green;아비칸. ^white;카다반 가장 깊은 사막에 감히 도전하는 소수가 입는 보호용 망토.	
+/items/armors/avikan/clothes/avikan-cloaked/avikan-cloaked.head	shortdescription	Deep Desert Cloak	깊은 사막 망토	
+/items/armors/avikan/clothes/avikan-cloaked/avikan-cloaked.legs	description	^green;Avikan. ^white;A long skirt worn by those few who dare brave Kadavan's deepest deserts.	^green;아비칸. ^white;카다반 가장 깊은 사막에 감히 도전하는 소수가 입는 긴 치마.	
+/items/armors/avikan/clothes/avikan-cloaked/avikan-cloaked.legs	shortdescription	Deep Desert Skirt	깊은 사막 치마	
+/items/armors/avikan/clothes/avikan-council/avikan-council.chest	description	^green;Avikan. ^white;Leather wraps worn by Nomada officials.	^green;아비칸. ^white;노마다 관리가 두르는 가죽 옷.	
+/items/armors/avikan/clothes/avikan-council/avikan-council.chest	shortdescription	Councillor's Robes	평의원 로브	
+/items/armors/avikan/clothes/avikan-council/avikan-council.head	description	^green;Avikan. ^white;A leather cloak worn by Nomada officials.	^green;아비칸. ^white;노마다 관리가 입는 가죽 망토.	
+/items/armors/avikan/clothes/avikan-council/avikan-council.head	shortdescription	Councillor's Cloak	평의원 망토	
+/items/armors/avikan/clothes/avikan-council/avikan-council.legs	description	^green;Avikan. ^white;A leather skirt worn by Nomada officials.	^green;아비칸. ^white;노마다 관리가 입는 가죽 치마.	
+/items/armors/avikan/clothes/avikan-council/avikan-council.legs	shortdescription	Councillor's Skirt	평의원 치마	
+/items/armors/avikan/clothes/avikan-elder/avikan-elder.chest	description	^green;Avikan. ^white;Decorated leather robes, a symbol of the Avikan clan elders.	^green;아비칸. ^white;아비칸 일족 장로의 상징인 장식 가죽 로브.	
+/items/armors/avikan/clothes/avikan-elder/avikan-elder.chest	shortdescription	Elder's Robes	장로 로브	
+/items/armors/avikan/clothes/avikan-elder/avikan-elder.head	description	^green;Avikan. ^white;A decorated leather cloak, a favourite amongst desert merchants.	^green;아비칸. ^white;사막 상인들이 즐기는 장식 가죽 망토.	
+/items/armors/avikan/clothes/avikan-elder/avikan-elder.head	shortdescription	Elder's Cloak	장로 망토	
+/items/armors/avikan/clothes/avikan-elder/avikan-elder.legs	description	^green;Avikan. ^white;A decorated leather skirt, worn by the Elders of the Avikan clans.	^green;아비칸. ^white;아비칸 일족의 장로가 입는 장식 가죽 치마.	
+/items/armors/avikan/clothes/avikan-elder/avikan-elder.legs	shortdescription	Elder's Skirt	장로 치마	
+/items/armors/avikan/clothes/avikan-festive/avikan-festive.chest	description	^green;Avikan. ^white;Colourful robes worn during festive events.	^green;아비칸. ^white;축제 행사 때 입는 알록달록한 로브.	
+/items/armors/avikan/clothes/avikan-festive/avikan-festive.chest	shortdescription	Festive Robes	축제 로브	
+/items/armors/avikan/clothes/avikan-festive/avikan-festive.legs	description	^green;Avikan. ^white;A colourful skirt worn during festive events.	^green;아비칸. ^white;축제 행사 때 입는 알록달록한 치마.	
+/items/armors/avikan/clothes/avikan-festive/avikan-festive.legs	shortdescription	Festive Skirt	축제 치마	
+/items/armors/avikan/clothes/avikan-hatchmother/avikan-hatchmother.chest	description	^green;Avikan. ^white;The robes of an Avikan hatchmother.	^green;아비칸. ^white;아비칸 부화모의 로브.	
+/items/armors/avikan/clothes/avikan-hatchmother/avikan-hatchmother.chest	shortdescription	Hatchmother's Robe	부화모 로브	
+/items/armors/avikan/clothes/avikan-hatchmother/avikan-hatchmother.head	description	^green;Avikan. ^white;The cloak of an Avikan hatchmother.	^green;아비칸. ^white;아비칸 부화모의 망토.	
+/items/armors/avikan/clothes/avikan-hatchmother/avikan-hatchmother.head	shortdescription	Hatchmother's Cloak	부화모 망토	
+/items/armors/avikan/clothes/avikan-hatchmother/avikan-hatchmother.legs	description	^green;Avikan. ^white;The skirt of an Avikan hatchmother.	^green;아비칸. ^white;아비칸 부화모의 치마.	
+/items/armors/avikan/clothes/avikan-hatchmother/avikan-hatchmother.legs	shortdescription	Hatchmother's Skirt	부화모 치마	
+/items/armors/avikan/clothes/avikan-merchant/avikan-merchant.chest	description	^green;Avikan. ^white;A decorated leather shirt, preferred by the merchants of the desert.	^green;아비칸. ^white;사막 상인들이 선호하는 장식 가죽 셔츠.	
+/items/armors/avikan/clothes/avikan-merchant/avikan-merchant.chest	shortdescription	Merchant's Shirt	상인 셔츠	
+/items/armors/avikan/clothes/avikan-merchant/avikan-merchant.head	description	^green;Avikan. ^white;A decorated leather cloak, a favourite amongst desert merchants.	^green;아비칸. ^white;사막 상인들이 즐기는 장식 가죽 망토.	
+/items/armors/avikan/clothes/avikan-merchant/avikan-merchant.head	shortdescription	Merchant's Cloak	상인 망토	
+/items/armors/avikan/clothes/avikan-merchant/avikan-merchant.legs	description	^green;Avikan. ^white;A decorated leather skirt, favoured by merchants of the desert.	^green;아비칸. ^white;사막 상인들이 선호하는 장식 가죽 치마.	
+/items/armors/avikan/clothes/avikan-merchant/avikan-merchant.legs	shortdescription	Merchant's Skirt	상인 치마	
+/items/armors/avikan/clothes/avikan-modern/avikan-modern.chest	description	^green;Avikan. ^white;Leather wraps worn by Nomada civilians.	^green;아비칸. ^white;노마다 시민이 두르는 가죽 옷.	
+/items/armors/avikan/clothes/avikan-modern/avikan-modern.chest	shortdescription	Modern Wraps	현대식 겉옷	
+/items/armors/avikan/clothes/avikan-modern/avikan-modern.head	description	^green;Avikan. ^white;A leather cloak worn by Nomada civilians.	^green;아비칸. ^white;노마다 시민이 입는 가죽 망토.	
+/items/armors/avikan/clothes/avikan-modern/avikan-modern.head	shortdescription	Modern Cloak	현대식 망토	
+/items/armors/avikan/clothes/avikan-modern/avikan-modern.legs	description	^green;Avikan. ^white;A leather skirt worn by Nomada civilians.	^green;아비칸. ^white;노마다 시민이 입는 가죽 치마.	
+/items/armors/avikan/clothes/avikan-modern/avikan-modern.legs	shortdescription	Modern Skirt	현대식 치마	
+/items/armors/avikan/clothes/avikan-nomadic/avikan-nomadic.chest	description	^green;Avikan. ^white;Leather wraps to protect against desert winds. Favoured by the nomads of the Kadavan deserts.	^green;아비칸. ^white;사막 바람을 막아주는 가죽 겉옷. 카다반 사막의 유랑자들이 선호.	
+/items/armors/avikan/clothes/avikan-nomadic/avikan-nomadic.chest	shortdescription	Nomad's Wraps	유랑자 겉옷	
+/items/armors/avikan/clothes/avikan-nomadic/avikan-nomadic.head	description	^green;Avikan. ^white;A leather cloak, provides ample protection against the desert winds.	^green;아비칸. ^white;사막 바람을 충분히 막아주는 가죽 망토.	
+/items/armors/avikan/clothes/avikan-nomadic/avikan-nomadic.head	shortdescription	Nomad's Cloak	유랑자 망토	
+/items/armors/avikan/clothes/avikan-nomadic/avikan-nomadic.legs	description	^green;Avikan. ^white;A leather skirt, favoured by the nomads of the Kadavan desert.	^green;아비칸. ^white;카다반 사막의 유랑자들이 선호하는 가죽 치마.	
+/items/armors/avikan/clothes/avikan-nomadic/avikan-nomadic.legs	shortdescription	Nomad's Rags	유랑자 누더기	
+/items/armors/avikan/clothes/avikan-scribe/avikan-scribe.chest	description	^green;Avikan. ^white;A necklace worn by scribes of the Nomada.	^green;아비칸. ^white;노마다 필경사가 차는 목걸이.	
+/items/armors/avikan/clothes/avikan-scribe/avikan-scribe.chest	shortdescription	Scribe's Necklace	필경사 목걸이	
+/items/armors/avikan/clothes/avikan-scribe/avikan-scribe.head	description	^green;Avikan. ^white;A pair of clear goggles worn by scribes of the Nomada.	^green;아비칸. ^white;노마다 필경사가 쓰는 투명 고글.	
+/items/armors/avikan/clothes/avikan-scribe/avikan-scribe.head	shortdescription	Scribe's Goggles	필경사 고글	
+/items/armors/avikan/clothes/avikan-scribe/avikan-scribe.legs	description	^green;Avikan. ^white;A leather skirt worn by scribes of the Nomada.	^green;아비칸. ^white;노마다 필경사가 입는 가죽 치마.	
+/items/armors/avikan/clothes/avikan-scribe/avikan-scribe.legs	shortdescription	Scribe's Skirt	필경사 치마	
+/items/armors/avikan/clothes/avikan-traveller/avikan-traveller.chest	description	^green;Avikan. ^white;A durable leather vest wrapped in white fabric For travelling through the desert.	^green;아비칸. ^white;흰 천을 두른 튼튼한 가죽 조끼. 사막 여행용.	
+/items/armors/avikan/clothes/avikan-traveller/avikan-traveller.chest	shortdescription	Traveller's Robes	여행자 로브	
+/items/armors/avikan/clothes/avikan-traveller/avikan-traveller.head	description	^green;Avikan. ^white;A white scarf worn by those who travel the desert.	^green;아비칸. ^white;사막을 여행하는 이들이 두르는 흰 스카프.	
+/items/armors/avikan/clothes/avikan-traveller/avikan-traveller.head	shortdescription	Traveller's Scarf	여행자 스카프	
+/items/armors/avikan/clothes/avikan-traveller/avikan-traveller.legs	description	^green;Avikan. ^white;A durable leather skirt, ideal for desert travellers.	^green;아비칸. ^white;사막 여행자에게 이상적인 튼튼한 가죽 치마.	
+/items/armors/avikan/clothes/avikan-traveller/avikan-traveller.legs	shortdescription	Traveller's Skirt	여행자 치마	
+/items/armors/avikan/decorative/avikan-astronaut/avikan-astronaut.back	description	^green;Avikan. ^white;An old astronaut's backpack used by early Avikan astronauts.	^green;아비칸. ^white;초기 아비칸 우주비행사가 쓰던 낡은 우주비행사 배낭.	
+/items/armors/avikan/decorative/avikan-astronaut/avikan-astronaut.back	shortdescription	Astronaut's Backpack	우주비행사 배낭	
+/items/armors/avikan/decorative/avikan-astronaut/avikan-astronaut.chest	description	^green;Avikan. ^white;An old astronaut's suit used by early Avikan astronauts.	^green;아비칸. ^white;초기 아비칸 우주비행사가 입던 낡은 우주복.	
+/items/armors/avikan/decorative/avikan-astronaut/avikan-astronaut.chest	shortdescription	Astronaut's Suit	우주비행사 슈트	
+/items/armors/avikan/decorative/avikan-astronaut/avikan-astronaut.head	description	^green;Avikan. ^white;An old design, this type of helmet was worn by early Avikan astronauts.	^green;아비칸. ^white;초기 아비칸 우주비행사가 쓰던 낡은 디자인의 헬멧.	
+/items/armors/avikan/decorative/avikan-astronaut/avikan-astronaut.head	shortdescription	Astronaut's Helmet	우주비행사 헬멧	
+/items/armors/avikan/decorative/avikan-astronaut/avikan-astronaut.legs	description	^green;Avikan. ^white;An old astronaut's suit used by early Avikan astronauts.	^green;아비칸. ^white;초기 아비칸 우주비행사가 입던 낡은 우주복.	
+/items/armors/avikan/decorative/avikan-astronaut/avikan-astronaut.legs	shortdescription	Astronaut's Leggings	우주비행사 레깅스	
+/items/armors/avikan/decorative/avikan-captain/avikan-captain.chest	description	^green;Avikan. ^white;Armour plating worn by Honoured Captains of the Nomada.	^green;아비칸. ^white;노마다의 명예로운 선장이 입는 갑판.	
+/items/armors/avikan/decorative/avikan-captain/avikan-captain.chest	shortdescription	Honoured Captain's Armor	명예 선장 갑옷	
+/items/armors/avikan/decorative/avikan-captain/avikan-captain.head	description	^green;Avikan. ^white;A helmet worn by Honoured Captains of the Nomada.	^green;아비칸. ^white;노마다의 명예로운 선장이 쓰는 헬멧.	
+/items/armors/avikan/decorative/avikan-captain/avikan-captain.head	shortdescription	Honoured Captain's Helmet	명예 선장 헬멧	
+/items/armors/avikan/decorative/avikan-centlar/avikan-centlar.chest	description	^green;Avikan. ^white;An unusual chest piece worn by Avikan Centlars. It is made of Centensian metal.	^green;아비칸. ^white;아비칸 센틀라가 입는 특이한 흉갑. 센텐시안 금속으로 만들어졌다.	
+/items/armors/avikan/decorative/avikan-centlar/avikan-centlar.chest	shortdescription	Centlar's Plate	센틀라 판금	
+/items/armors/avikan/decorative/avikan-centlar/avikan-centlar.head	description	^green;Avikan. ^white;A curiously shaped helmet worn by Avikan Centlars. It is made of Centensian metal.	^green;아비칸. ^white;아비칸 센틀라가 쓰는 기묘한 형태의 헬멧. 센텐시안 금속으로 만들어졌다.	
+/items/armors/avikan/decorative/avikan-centlar/avikan-centlar.head	shortdescription	Centlar's Helmet	센틀라 헬멧	
+/items/armors/avikan/decorative/avikan-centlar/avikan-centlar.legs	description	^green;Avikan. ^white;A long skirt worn by Avikan Centlars.	^green;아비칸. ^white;아비칸 센틀라가 입는 긴 치마.	
+/items/armors/avikan/decorative/avikan-centlar/avikan-centlar.legs	shortdescription	Centlar's Skirt	센틀라 치마	
+/items/armors/avikan/decorative/avikan-desertpriest/avikan-desertpriest.chest	description	^green;Avikan. ^white;A poncho worn by members followers of the Rhaiod in the deeper deserts.	^green;아비칸. ^white;깊은 사막에서 라이오드를 따르는 자들이 입는 판초.	
+/items/armors/avikan/decorative/avikan-desertpriest/avikan-desertpriest.chest	shortdescription	Desert Rhaiod Poncho	사막 라이오드 판초	
+/items/armors/avikan/decorative/avikan-desertpriest/avikan-desertpriest.head	description	^green;Avikan. ^white;A mask worn by members followers of the Rhaiod in the deeper deserts.	^green;아비칸. ^white;깊은 사막에서 라이오드를 따르는 자들이 쓰는 가면.	
+/items/armors/avikan/decorative/avikan-desertpriest/avikan-desertpriest.head	shortdescription	Desert Rhaiod Mask	사막 라이오드 가면	
+/items/armors/avikan/decorative/avikan-desertpriest/avikan-desertpriest.legs	description	^green;Avikan. ^white;A skirt worn by members followers of the Rhaiod in the deeper deserts.	^green;아비칸. ^white;깊은 사막에서 라이오드를 따르는 자들이 입는 치마.	
+/items/armors/avikan/decorative/avikan-desertpriest/avikan-desertpriest.legs	shortdescription	Desert Rhaiod Skirt	사막 라이오드 치마	
+/items/armors/avikan/decorative/avikan-engineer/avikan-engineer.chest	description	^green;Avikan. ^white;A tight-fitting vest worn by engineers of the Nomada.	^green;아비칸. ^white;노마다 기술자가 입는 몸에 딱 맞는 조끼.	
+/items/armors/avikan/decorative/avikan-engineer/avikan-engineer.chest	shortdescription	Engineer's Vest	기술자 조끼	
+/items/armors/avikan/decorative/avikan-engineer/avikan-engineer.head	description	^green;Avikan. ^white;A simple visor worn by Avikan engineers.	^green;아비칸. ^white;아비칸 기술자가 쓰는 단순한 바이저.	
+/items/armors/avikan/decorative/avikan-engineer/avikan-engineer.head	shortdescription	Engineer's Visor	기술자 바이저	
+/items/armors/avikan/decorative/avikan-engineer/avikan-engineer.legs	description	^green;Avikan. ^white;Small metal containers attached to a belt, great for carrying various tools.	^green;아비칸. ^white;벨트에 단 작은 금속 용기. 각종 도구를 나르기 좋다.	
+/items/armors/avikan/decorative/avikan-engineer/avikan-engineer.legs	shortdescription	Engineer's Belt	기술자 벨트	
+/items/armors/avikan/decorative/avikan-highpriest/avikan-highpriest.chest	description	^green;Avikan. ^white;A long robe worn by high priests of the Rhaiod.	^green;아비칸. ^white;라이오드의 대사제가 입는 긴 로브.	
+/items/armors/avikan/decorative/avikan-highpriest/avikan-highpriest.chest	shortdescription	Rhaiod Robe	라이오드 로브	
+/items/armors/avikan/decorative/avikan-hologram/avikan-hologram.chest	description	^green;Avikan. ^white;Makes you appear like an Avikan hologram.	^green;아비칸. ^white;아비칸 홀로그램처럼 보이게 해 준다.	
+/items/armors/avikan/decorative/avikan-hologram/avikan-hologram.chest	shortdescription	Holographic Arms	홀로그램 팔	
+/items/armors/avikan/decorative/avikan-hologram/avikan-hologram.head	description	^green;Avikan. ^white;Makes you appear like an Avikan hologram.	^green;아비칸. ^white;아비칸 홀로그램처럼 보이게 해 준다.	
+/items/armors/avikan/decorative/avikan-hologram/avikan-hologram.head	shortdescription	Holographic Head	홀로그램 머리	
+/items/armors/avikan/decorative/avikan-hologram/avikan-hologram.legs	description	^green;Avikan. ^white;Makes you appear like an Avikan hologram.	^green;아비칸. ^white;아비칸 홀로그램처럼 보이게 해 준다.	
+/items/armors/avikan/decorative/avikan-hologram/avikan-hologram.legs	shortdescription	Holographic Body	홀로그램 몸통	
+/items/armors/avikan/decorative/avikan-keffrider/avikan-keffrider.chest	description	^green;Avikan. ^white;Lightweight and streamlined armour worn by the Keffriders.	^green;아비칸. ^white;케프라이더가 입는 가볍고 유선형인 갑옷.	
+/items/armors/avikan/decorative/avikan-keffrider/avikan-keffrider.chest	shortdescription	Keffrider's Plate	케프라이더 판금	
+/items/armors/avikan/decorative/avikan-keffrider/avikan-keffrider.head	description	^green;Avikan. ^white;A lightweight and streamlined helmet worn by the Keffriders.	^green;아비칸. ^white;케프라이더가 쓰는 가볍고 유선형인 헬멧.	
+/items/armors/avikan/decorative/avikan-keffrider/avikan-keffrider.head	shortdescription	Keffrider's Helmet	케프라이더 헬멧	
+/items/armors/avikan/decorative/avikan-keffrider/avikan-keffrider.legs	description	^green;Avikan. ^white;A metal skirt and woven leggings worn by the Keffriders.	^green;아비칸. ^white;케프라이더가 입는 금속 치마와 직조 레깅스.	
+/items/armors/avikan/decorative/avikan-keffrider/avikan-keffrider.legs	shortdescription	Keffrider's Skirt	케프라이더 치마	
+/items/armors/avikan/decorative/avikan-mechpilot/avikan-mechpilot.head	description	^green;Avikan. ^white;A helmet built for interfacing with a mech's control systems.	^green;아비칸. ^white;메크 제어계와 연동되도록 만들어진 헬멧.	
+/items/armors/avikan/decorative/avikan-mechpilot/avikan-mechpilot.head	shortdescription	Mech Operator's Helmet	메크 조작사 헬멧	
+/items/armors/avikan/decorative/avikan-openhelmet/avikan-openhelmet.head	description	^green;Avikan. ^white;An Avikan helmet with built-in air filters, but no canopy.	^green;아비칸. ^white;공기 필터가 내장됐지만 캐노피가 없는 아비칸 헬멧.	
+/items/armors/avikan/decorative/avikan-openhelmet/avikan-openhelmet.head	shortdescription	Open Helmet	개방형 헬멧	
+/items/armors/avikan/decorative/avikan-priest/avikan-priest.chest	description	^green;Avikan. ^white;A necklace worn by priests of the Rhaiod.	^green;아비칸. ^white;라이오드 사제가 차는 목걸이.	
+/items/armors/avikan/decorative/avikan-priest/avikan-priest.chest	shortdescription	Rhaiod Necklace	라이오드 목걸이	
+/items/armors/avikan/decorative/avikan-priest/avikan-priest.legs	description	^green;Avikan. ^white;A skirt worn by priests of the Rhaiod.	^green;아비칸. ^white;라이오드 사제가 입는 치마.	
+/items/armors/avikan/decorative/avikan-priest/avikan-priest.legs	shortdescription	Rhaiod Skirt	라이오드 치마	
+/items/armors/avikan/decorative/avikan-protectorate/avikan-protectorate.chest	description	^green;Avikan. ^white;A modified Terrene Protectorate uniform, tailored specifically for an Avikan.	^green;아비칸. ^white;아비칸 전용으로 특별 재단한 개조 보호국 유니폼.	
+/items/armors/avikan/decorative/avikan-protectorate/avikan-protectorate.chest	shortdescription	Protectorate Top	보호국 상의	
+/items/armors/avikan/decorative/avikan-protectorate/avikan-protectorate.legs	description	^green;Avikan. ^white;A modified Terrene Protectorate uniform, tailored specifically for an Avikan.	^green;아비칸. ^white;아비칸 전용으로 특별 재단한 개조 보호국 유니폼.	
+/items/armors/avikan/decorative/avikan-protectorate/avikan-protectorate.legs	shortdescription	Protectorate Skirt	보호국 치마	
+/items/armors/avikan/decorative/avikan-rogue/avikan-rogue.chest	description	^green;Avikan. ^white;Robes favoured by those who wish to remain anonymous.	^green;아비칸. ^white;익명으로 남고 싶은 이들이 선호하는 로브.	
+/items/armors/avikan/decorative/avikan-rogue/avikan-rogue.chest	shortdescription	Rogue's Robes	도적 로브	
+/items/armors/avikan/decorative/avikan-rogue/avikan-rogue.head	description	^green;Avikan. ^white;A dark scarf worn by those who wish to remain anonymous.	^green;아비칸. ^white;익명으로 남고 싶은 이들이 두르는 어두운 스카프.	
+/items/armors/avikan/decorative/avikan-rogue/avikan-rogue.head	shortdescription	Rogue's Scarf	도적 스카프	
+/items/armors/avikan/decorative/avikan-rogue/avikan-rogue.legs	description	^green;Avikan. ^white;A nondescript leather skirt.	^green;아비칸. ^white;평범한 가죽 치마.	
+/items/armors/avikan/decorative/avikan-rogue/avikan-rogue.legs	shortdescription	Rogue's Skirt	도적 치마	
+/items/armors/avikan/decorative/avikan-rogue2/avikan-rogue2.chest	description	^green;Avikan. ^white;A chestplate and robes worn by those who deal in shady business.	^green;아비칸. ^white;수상한 일을 하는 이들이 입는 흉갑과 로브.	
+/items/armors/avikan/decorative/avikan-rogue2/avikan-rogue2.chest	shortdescription	Rogue's Plate	도적 판금	
+/items/armors/avikan/decorative/avikan-rogue2/avikan-rogue2.head	description	^green;Avikan. ^white;A dark mask, worn by those involved in shady businesses.	^green;아비칸. ^white;수상한 일에 관여하는 이들이 쓰는 어두운 가면.	
+/items/armors/avikan/decorative/avikan-rogue2/avikan-rogue2.head	shortdescription	Rogue's Mask	도적 가면	
+/items/armors/avikan/decorative/avikan-rogue2/avikan-rogue2.legs	description	^green;Avikan. ^white;Metal plates, for protecting your sides without limiting maneuverability.	^green;아비칸. ^white;기동성을 해치지 않으면서 옆구리를 보호해주는 금속판.	
+/items/armors/avikan/decorative/avikan-rogue2/avikan-rogue2.legs	shortdescription	Rogue's Hip Plates	도적 골반판	
+/items/armors/avikan/decorative/avikan-roguecaptain/avikan-roguecaptain.chest	description	^green;Avikan. ^white;Armour plating often worn by Captains who have left the Nomada.	^green;아비칸. ^white;노마다를 떠난 선장들이 자주 입는 갑판.	
+/items/armors/avikan/decorative/avikan-roguecaptain/avikan-roguecaptain.chest	shortdescription	Rogue Captain's Armor	망나니 선장 갑옷	
+/items/armors/avikan/decorative/avikan-roguecaptain/avikan-roguecaptain.head	description	^green;Avikan. ^white;A helmet often worn by Captains who have left the Nomada.	^green;아비칸. ^white;노마다를 떠난 선장들이 자주 쓰는 헬멧.	
+/items/armors/avikan/decorative/avikan-roguecaptain/avikan-roguecaptain.head	shortdescription	Rogue Captain's Helmet	망나니 선장 헬멧	
+/items/armors/avikan/decorative/avikan-seeker/avikan-seeker.chest	description	^green;Avikan. ^white;An unusual chest piece worn by Avikan Seekers.	^green;아비칸. ^white;아비칸 탐구자가 입는 특이한 흉갑.	
+/items/armors/avikan/decorative/avikan-seeker/avikan-seeker.chest	shortdescription	Seeker's Plate	탐구자 판금	
+/items/armors/avikan/decorative/avikan-seeker/avikan-seeker.head	description	^green;Avikan. ^white;A curiously shaped helmet worn by Avikan Seekers.	^green;아비칸. ^white;아비칸 탐구자가 쓰는 기묘한 형태의 헬멧.	
+/items/armors/avikan/decorative/avikan-seeker/avikan-seeker.head	shortdescription	Seeker's Helmet	탐구자 헬멧	
+/items/armors/avikan/decorative/avikan-seeker/avikan-seeker.legs	description	^green;Avikan. ^white;A long skirt worn by Avikan Seekers.	^green;아비칸. ^white;아비칸 탐구자가 입는 긴 치마.	
+/items/armors/avikan/decorative/avikan-seeker/avikan-seeker.legs	shortdescription	Seeker's Skirt	탐구자 치마	
+/items/armors/avikan/decorative/avikan-starfarer/avikan-starfarer.chest	description	^green;Avikan. ^white;A suit commonly worn by Avikan starfarers.	^green;아비칸. ^white;아비칸 성간 여행자들이 흔히 입는 슈트.	
+/items/armors/avikan/decorative/avikan-starfarer/avikan-starfarer.chest	shortdescription	Starfarer's Suit	성간여행자 슈트	
+/items/armors/avikan/decorative/avikan-starfarer/avikan-starfarer.head	description	^green;Avikan. ^white;A common helmet amongst captains and other starfarers.	^green;아비칸. ^white;선장과 성간 여행자들 사이에서 흔한 헬멧.	
+/items/armors/avikan/decorative/avikan-starfarer/avikan-starfarer.head	shortdescription	Starfarer's Helmet	성간여행자 헬멧	
+/items/armors/avikan/decorative/avikan-starfarer/avikan-starfarer.legs	description	^green;Avikan. ^white;Leggings often worn by Avikan starfarers.	^green;아비칸. ^white;아비칸 성간 여행자들이 자주 입는 레깅스.	
+/items/armors/avikan/decorative/avikan-starfarer/avikan-starfarer.legs	shortdescription	Starfarer's Leggings	성간여행자 레깅스	
+/items/armors/avikan/decorative/avikan-sunglass/avikan-sunglass.head	description	^green;Avikan. ^white;A simple darkened visor to protect your eyes from the sun.	^green;아비칸. ^white;태양으로부터 눈을 보호하는 단순한 어두운 바이저.	
+/items/armors/avikan/decorative/avikan-sunglass/avikan-sunglass.head	shortdescription	Avikan Sunglass	아비칸 선글라스	
+/items/armors/avikan/decorative/avikan-tactical/avikan-tactical.chest	description	^green;Avikan. ^white;Light weight armour for tactical operations.	^green;아비칸. ^white;전술 작전용 경량 갑옷.	
+/items/armors/avikan/decorative/avikan-tactical/avikan-tactical.chest	shortdescription	Tactical Plate	전술 판금	
+/items/armors/avikan/decorative/avikan-tactical/avikan-tactical.head	description	^green;Avikan. ^white;A high-tech visor displaying tactical information.	^green;아비칸. ^white;전술 정보를 표시하는 첨단 바이저.	
+/items/armors/avikan/decorative/avikan-tactical/avikan-tactical.head	shortdescription	Tactical Visor	전술 바이저	
+/items/armors/avikan/decorative/avikan-tactical/avikan-tactical.legs	description	^green;Avikan. ^white;A belt full of tactical equipment.	^green;아비칸. ^white;전술 장비가 가득한 벨트.	
+/items/armors/avikan/decorative/avikan-tactical/avikan-tactical.legs	shortdescription	Tactical Belt	전술 벨트	
+/items/armors/avikan/decorative/avikan-tactical2/avikan-tactical2.chest	description	^green;Avikan. ^white;Light weight armour for tactical operations.	^green;아비칸. ^white;전술 작전용 경량 갑옷.	
+/items/armors/avikan/decorative/avikan-tactical2/avikan-tactical2.chest	shortdescription	Tactical Plate	전술 판금	
+/items/armors/avikan/decorative/avikan-vanguard/avikan-vanguard.chest	description	^green;Avikan. ^white;Armor plating issued to soldiers of the Avikan Vanguard.	^green;아비칸. ^white;아비칸 뱅가드 병사에게 지급되는 갑판.	
+/items/armors/avikan/decorative/avikan-vanguard/avikan-vanguard.chest	shortdescription	Vanguard Armor	뱅가드 갑옷	
+/items/armors/avikan/decorative/avikan-vanguard/avikan-vanguard.head	description	^green;Avikan. ^white;A durable helmet issued to soldiers of the Avikan Vanguard.	^green;아비칸. ^white;아비칸 뱅가드 병사에게 지급되는 튼튼한 헬멧.	
+/items/armors/avikan/decorative/avikan-vanguard/avikan-vanguard.head	shortdescription	Vanguard Helmet	뱅가드 헬멧	
+/items/armors/avikan/decorative/avikan-vanguard/avikan-vanguard.legs	description	^green;Avikan. ^white;A skirt issued to soldiers of the Avikan Vanguard.	^green;아비칸. ^white;아비칸 뱅가드 병사에게 지급되는 치마.	
+/items/armors/avikan/decorative/avikan-vanguard/avikan-vanguard.legs	shortdescription	Vanguard Skirt	뱅가드 치마	
+/items/armors/avikan/decorative/avikan-warrior/avikan-warrior.chest	description	^green;Avikan. ^white;A large bone plate to protect the body.	^green;아비칸. ^white;몸을 보호하는 커다란 뼈 판금.	
+/items/armors/avikan/decorative/avikan-warrior/avikan-warrior.chest	shortdescription	Warrior's Chestpiece	전사 흉갑	
+/items/armors/avikan/decorative/avikan-warrior/avikan-warrior.legs	description	^green;Avikan. ^white;Rigid bone plates attached to a leather skirt, for protecting the legs without limiting mobility.	^green;아비칸. ^white;기동성을 해치지 않으면서 다리를 보호하도록 가죽 치마에 단단한 뼈 판을 부착했다.	
+/items/armors/avikan/decorative/avikan-warrior/avikan-warrior.legs	shortdescription	Warrior's Skirt	전사 치마	
+/items/armors/avikan/decorative/avikan-watcher/avikan-watcher.chest	description	^green;Avikan. ^white;Armor plating worn by Avikan Watchers.	^green;아비칸. ^white;아비칸 감시자가 입는 갑판.	
+/items/armors/avikan/decorative/avikan-watcher/avikan-watcher.chest	shortdescription	Watcher's Armor	감시자 갑옷	
+/items/armors/avikan/decorative/avikan-watcher/avikan-watcher.head	description	^green;Avikan. ^white;The helmet of an Avikan Watcher.	^green;아비칸. ^white;아비칸 감시자의 헬멧.	
+/items/armors/avikan/decorative/avikan-watcher/avikan-watcher.head	shortdescription	Watcher's Helmet	감시자 헬멧	
+/items/armors/avikan/decorative/avikan-watcher/avikan-watcher.legs	description	^green;Avikan. ^white;A skirt worn by the Avikan Watchers.	^green;아비칸. ^white;아비칸 감시자가 입는 치마.	
+/items/armors/avikan/decorative/avikan-watcher/avikan-watcher.legs	shortdescription	Watcher's Skirt	감시자 치마	
+/items/armors/avikan/decorative/avikan-welder/avikan-welder.head	description	^green;Avikan. ^white;A helmet designed to protect the face from embers, as well as the bright light of a welding flame.	^green;아비칸. ^white;불티와 용접 화염의 밝은 빛으로부터 얼굴을 보호하는 헬멧.	
+/items/armors/avikan/decorative/avikan-welder/avikan-welder.head	shortdescription	Welder's Helmet	용접공 헬멧	
+/items/armors/avikan/tiered/tier1/avikan-tier1.chest	description	^green;Avikan. ^white;A simple bone plate, worn by Avikan scavengers.	^green;아비칸. ^white;아비칸 스캐빈저가 입는 단순한 뼈 판금.	
+/items/armors/avikan/tiered/tier1/avikan-tier1.chest	shortdescription	Scavenger's Plate	청소꾼 판금	
+/items/armors/avikan/tiered/tier1/avikan-tier1.head	description	^green;Avikan. ^white;A simple skull with a leather strap, worn by Avikan scavengers.	^green;아비칸. ^white;가죽 끈을 단 단순한 두개골. 아비칸 스캐빈저가 쓴다.	
+/items/armors/avikan/tiered/tier1/avikan-tier1.head	shortdescription	Scavenger's Skull	청소꾼 두개골	
+/items/armors/avikan/tiered/tier1/avikan-tier1.legs	description	^green;Avikan. ^white;Bone padding and a simple leather skirt, worn by Avikan scavengers.	^green;아비칸. ^white;뼈 패딩과 단순한 가죽 치마. 아비칸 스캐빈저가 입는다.	
+/items/armors/avikan/tiered/tier1/avikan-tier1.legs	shortdescription	Scavenger's Skirt	청소꾼 치마	
+/items/armors/avikan/tiered/tier2/avikan-tier2.chest	description	^green;Avikan. ^white;A sturdy bone plate with leather sleeves, worn by Avikan hunters.	^green;아비칸. ^white;가죽 소매를 단 튼튼한 뼈 판금. 아비칸 사냥꾼이 입는다.	
+/items/armors/avikan/tiered/tier2/avikan-tier2.chest	shortdescription	Hunter's Plate	사냥꾼 판금	
+/items/armors/avikan/tiered/tier2/avikan-tier2.head	description	^green;Avikan. ^white;A sturdy skull with a leather strap, worn by Avikan hunters.	^green;아비칸. ^white;가죽 끈을 단 튼튼한 두개골. 아비칸 사냥꾼이 쓴다.	
+/items/armors/avikan/tiered/tier2/avikan-tier2.head	shortdescription	Hunter's Skull	사냥꾼 두개골	
+/items/armors/avikan/tiered/tier2/avikan-tier2.legs	description	^green;Avikan. ^white;Bone padding and a leather skirt, worn by Avikan hunters.	^green;아비칸. ^white;뼈 패딩과 가죽 치마. 아비칸 사냥꾼이 입는다.	
+/items/armors/avikan/tiered/tier2/avikan-tier2.legs	shortdescription	Hunter's Skirt	사냥꾼 치마	
+/items/armors/avikan/tiered/tier3/avikan-tier3.chest	description	^green;Avikan. ^white;A segmented bone plate with leather sleeves, worn by Avikan Keepers.	^green;아비칸. ^white;가죽 소매를 단 분절 뼈 판금. 아비칸 수호자가 입는다.	
+/items/armors/avikan/tiered/tier3/avikan-tier3.chest	shortdescription	Keeper's Plate	수호자 판금	
+/items/armors/avikan/tiered/tier3/avikan-tier3.head	description	^green;Avikan. ^white;A thick and bulky skull, worn by Avikan Keepers.	^green;아비칸. ^white;두껍고 육중한 두개골. 아비칸 수호자가 쓴다.	
+/items/armors/avikan/tiered/tier3/avikan-tier3.head	shortdescription	Keeper's Skull	수호자 두개골	
+/items/armors/avikan/tiered/tier3/avikan-tier3.legs	description	^green;Avikan. ^white;A leather skirt with bone plating, worn by Avikan Keepers.	^green;아비칸. ^white;뼈 판을 붙인 가죽 치마. 아비칸 수호자가 입는다.	
+/items/armors/avikan/tiered/tier3/avikan-tier3.legs	shortdescription	Keeper's Skirt	수호자 치마	
+/items/armors/avikan/tiered/tier4/avikan-tier4.chest	description	^green;Avikan. ^white;A segmented bone plate with shoulderpads made of bone, worn by Avikan Stalkers.	^green;아비칸. ^white;뼈로 만든 어깨갑을 단 분절 뼈 판금. 아비칸 추적자가 입는다.	
+/items/armors/avikan/tiered/tier4/avikan-tier4.chest	shortdescription	Stalker's Plate	추적자 판금	
+/items/armors/avikan/tiered/tier4/avikan-tier4.head	description	^green;Avikan. ^white;A sleek but sturdy skull, worn by Avikan Stalkers.	^green;아비칸. ^white;날렵하지만 튼튼한 두개골. 아비칸 추적자가 쓴다.	
+/items/armors/avikan/tiered/tier4/avikan-tier4.head	shortdescription	Stalker's Skull	추적자 두개골	
+/items/armors/avikan/tiered/tier4/avikan-tier4.legs	description	^green;Avikan. ^white;A skirt made of bone plates, worn by Avikan Stalkers.	^green;아비칸. ^white;뼈 판으로 만든 치마. 아비칸 추적자가 입는다.	
+/items/armors/avikan/tiered/tier4/avikan-tier4.legs	shortdescription	Stalker's Skirt	추적자 치마	
+/items/armors/avikan/tiered/tier5a/avikan-tier5a.chest	description	^green;Avikan. ^white;A metal chest piece with internal cooling. Energetic version.	^green;아비칸. ^white;내부 냉각 장치가 있는 금속 흉갑. 기력 사양.	
+/items/armors/avikan/tiered/tier5a/avikan-tier5a.chest	shortdescription	Nomada Armor Type-A	노마다 갑옷 A형	
+/items/armors/avikan/tiered/tier5a/avikan-tier5a.head	description	^green;Avikan. ^white;A metal helmet with internal cooling. Energetic version.	^green;아비칸. ^white;내부 냉각 장치가 있는 금속 헬멧. 기력 사양.	
+/items/armors/avikan/tiered/tier5a/avikan-tier5a.head	shortdescription	Nomada Helmet Type-A	노마다 헬멧 A형	
+/items/armors/avikan/tiered/tier5a/avikan-tier5a.legs	description	^green;Avikan. ^white;A leather skirt with metal plates on the side. Energetic version.	^green;아비칸. ^white;옆면에 금속판을 댄 가죽 치마. 기력 사양.	
+/items/armors/avikan/tiered/tier5a/avikan-tier5a.legs	shortdescription	Nomada Skirt Type-A	노마다 치마 A형	
+/items/armors/avikan/tiered/tier5m/avikan-tier5m.chest	description	^green;Avikan. ^white;A metal chest piece with internal cooling. Powerful version.	^green;아비칸. ^white;내부 냉각 장치가 있는 금속 흉갑. 파워 사양.	
+/items/armors/avikan/tiered/tier5m/avikan-tier5m.chest	shortdescription	Nomada Armor Type-M	노마다 갑옷 M형	
+/items/armors/avikan/tiered/tier5m/avikan-tier5m.head	description	^green;Avikan. ^white;A metal helmet with internal cooling. Powerful version.	^green;아비칸. ^white;내부 냉각 장치가 있는 금속 헬멧. 파워 사양.	
+/items/armors/avikan/tiered/tier5m/avikan-tier5m.head	shortdescription	Nomada Helmet Type-M	노마다 헬멧 M형	
+/items/armors/avikan/tiered/tier5m/avikan-tier5m.legs	description	^green;Avikan. ^white;A leather skirt with metal plates on the side. Powerful version.	^green;아비칸. ^white;옆면에 금속판을 댄 가죽 치마. 파워 사양.	
+/items/armors/avikan/tiered/tier5m/avikan-tier5m.legs	shortdescription	Nomada Skirt Type-M	노마다 치마 M형	
+/items/armors/avikan/tiered/tier5s/avikan-tier5s.chest	description	^green;Avikan. ^white;A metal chest piece with internal cooling. Vigorous version.	^green;아비칸. ^white;내부 냉각 장치가 있는 금속 흉갑. 활력 사양.	
+/items/armors/avikan/tiered/tier5s/avikan-tier5s.chest	shortdescription	Nomada Armor Type-S	노마다 갑옷 S형	
+/items/armors/avikan/tiered/tier5s/avikan-tier5s.head	description	^green;Avikan. ^white;A metal helmet with internal cooling. Vigorous version.	^green;아비칸. ^white;내부 냉각 장치가 있는 금속 헬멧. 활력 사양.	
+/items/armors/avikan/tiered/tier5s/avikan-tier5s.head	shortdescription	Nomada Helmet Type-S	노마다 헬멧 S형	
+/items/armors/avikan/tiered/tier5s/avikan-tier5s.legs	description	^green;Avikan. ^white;A leather skirt with metal plates on the side. Vigorous version.	^green;아비칸. ^white;옆면에 금속판을 댄 가죽 치마. 활력 사양.	
+/items/armors/avikan/tiered/tier5s/avikan-tier5s.legs	shortdescription	Nomada Skirt Type-S	노마다 치마 S형	
+/items/armors/avikan/tiered/tier6a/avikan-tier6a.chest	description	^green;Avikan. ^white;A superb-quality chestpiece worn by the Avikan Clanguard. Energetic version.	^green;아비칸. ^white;아비칸 일족수비대가 입는 최상급 품질의 흉갑. 기력 사양.	
+/items/armors/avikan/tiered/tier6a/avikan-tier6a.chest	shortdescription	Clanguard Armor Type-A	일족수비대 갑옷 A형	
+/items/armors/avikan/tiered/tier6a/avikan-tier6a.head	description	^green;Avikan. ^white;A superb-quality helmet worn by the Avikan Clanguard. Energetic version.	^green;아비칸. ^white;아비칸 일족수비대가 쓰는 최상급 품질의 헬멧. 기력 사양.	
+/items/armors/avikan/tiered/tier6a/avikan-tier6a.head	shortdescription	Clanguard Helmet Type-A	일족수비대 헬멧 A형	
+/items/armors/avikan/tiered/tier6a/avikan-tier6a.legs	description	^green;Avikan. ^white;A superb-quality metal skirt worn by the Avikan Clanguard. Energetic version.	^green;아비칸. ^white;아비칸 일족수비대가 입는 최상급 품질의 금속 치마. 기력 사양.	
+/items/armors/avikan/tiered/tier6a/avikan-tier6a.legs	shortdescription	Clanguard Skirt Type-A	일족수비대 치마 A형	
+/items/armors/avikan/tiered/tier6m/avikan-tier6m.chest	description	^green;Avikan. ^white;A superb-quality chestpiece worn by the Avikan Clanguard. Powerful version.	^green;아비칸. ^white;아비칸 일족수비대가 입는 최상급 품질의 흉갑. 파워 사양.	
+/items/armors/avikan/tiered/tier6m/avikan-tier6m.chest	shortdescription	Clanguard Armor Type-M	일족수비대 갑옷 M형	
+/items/armors/avikan/tiered/tier6m/avikan-tier6m.head	description	^green;Avikan. ^white;A superb-quality helmet worn by the Avikan Clanguard. Powerful version.	^green;아비칸. ^white;아비칸 일족수비대가 쓰는 최상급 품질의 헬멧. 파워 사양.	
+/items/armors/avikan/tiered/tier6m/avikan-tier6m.head	shortdescription	Clanguard Helmet Type-M	일족수비대 헬멧 M형	
+/items/armors/avikan/tiered/tier6m/avikan-tier6m.legs	description	^green;Avikan. ^white;A superb-quality metal skirt worn by the Avikan Clanguard. Powerful version.	^green;아비칸. ^white;아비칸 일족수비대가 입는 최상급 품질의 금속 치마. 파워 사양.	
+/items/armors/avikan/tiered/tier6m/avikan-tier6m.legs	shortdescription	Clanguard Skirt Type-M	일족수비대 치마 M형	
+/items/armors/avikan/tiered/tier6s/avikan-tier6s.chest	description	^green;Avikan. ^white;A superb-quality chestpiece worn by the Avikan Clanguard. Vigorous version.	^green;아비칸. ^white;아비칸 일족수비대가 입는 최상급 품질의 흉갑. 활력 사양.	
+/items/armors/avikan/tiered/tier6s/avikan-tier6s.chest	shortdescription	Clanguard Armor Type-S	일족수비대 갑옷 S형	
+/items/armors/avikan/tiered/tier6s/avikan-tier6s.head	description	^green;Avikan. ^white;A superb-quality helmet worn by the Avikan Clanguard. Vigorous version.	^green;아비칸. ^white;아비칸 일족수비대가 쓰는 최상급 품질의 헬멧. 활력 사양.	
+/items/armors/avikan/tiered/tier6s/avikan-tier6s.head	shortdescription	Clanguard Helmet Type-S	일족수비대 헬멧 S형	
+/items/armors/avikan/tiered/tier6s/avikan-tier6s.legs	description	^green;Avikan. ^white;A superb-quality metal skirt worn by the Avikan Clanguard. Vigorous version.	^green;아비칸. ^white;아비칸 일족수비대가 입는 최상급 품질의 금속 치마. 활력 사양.	
+/items/armors/avikan/tiered/tier6s/avikan-tier6s.legs	shortdescription	Clanguard Skirt Type-S	일족수비대 치마 S형	
+/items/armors/avikan/trophies/avikan-fangedskull/avikan-fangedskull.head	description	^green;Avikan. ^white;The skull of a fanged monster, modified to fit as a helmet. A nice trophy.	^green;아비칸. ^white;송곳니 몬스터의 두개골을 헬멧으로 개조한 것. 멋진 트로피다.	
+/items/armors/avikan/trophies/avikan-fangedskull/avikan-fangedskull.head	shortdescription	Fanged Monster Skull	송곳니 몬스터 두개골	
+/items/armors/avikan/trophies/avikan-fullskull/avikan-fullskull.head	description	^green;Avikan. ^white;The skull of a monster, modified to fit as a helmet. A nice trophy.	^green;아비칸. ^white;몬스터의 두개골을 헬멧으로 개조한 것. 멋진 트로피다.	
+/items/armors/avikan/trophies/avikan-fullskull/avikan-fullskull.head	shortdescription	Full Monster Skull	완전 몬스터 두개골	
+/items/armors/avikan/trophies/avikan-hornedskull/avikan-hornedskull.head	description	^green;Avikan. ^white;The skull of a horned monster, modified to fit as a helmet. A nice trophy.	^green;아비칸. ^white;뿔 달린 몬스터의 두개골을 헬멧으로 개조한 것. 멋진 트로피다.	
+/items/armors/avikan/trophies/avikan-hornedskull/avikan-hornedskull.head	shortdescription	Horned Monster Skull	뿔 몬스터 두개골	
+/items/armors/avikan/trophies/avikan-hornedskull2/avikan-hornedskull2.head	description	^green;Avikan. ^white;The skull of a horned monster, modified to fit as a helmet. A nice trophy.	^green;아비칸. ^white;뿔 달린 몬스터의 두개골을 헬멧으로 개조한 것. 멋진 트로피다.	
+/items/armors/avikan/trophies/avikan-hornedskull2/avikan-hornedskull2.head	shortdescription	Horned Monster Skull	뿔 몬스터 두개골	
+/items/armors/avikan/trophies/avikan-longskull/avikan-longskull.head	description	^green;Avikan. ^white;The skull of a monster, modified to fit as a helmet. A nice trophy.	^green;아비칸. ^white;몬스터의 두개골을 헬멧으로 개조한 것. 멋진 트로피다.	
+/items/armors/avikan/trophies/avikan-longskull/avikan-longskull.head	shortdescription	Long Monster Skull	긴 몬스터 두개골	
+/items/armors/avikan/trophies/avikan-simpleskull/avikan-simpleskull.head	description	^green;Avikan. ^white;The skull of a monster, modified to fit as a helmet. A nice trophy.	^green;아비칸. ^white;몬스터의 두개골을 헬멧으로 개조한 것. 멋진 트로피다.	
+/items/armors/avikan/trophies/avikan-simpleskull/avikan-simpleskull.head	shortdescription	Simple Monster Skull	단순한 몬스터 두개골	
+/items/armors/avikan/trophies/avikan-skullmask/avikan-skullmask.head	description	^green;Avikan. ^white;The skull of a monster, modified to fit as a mask. A nice trophy.	^green;아비칸. ^white;몬스터의 두개골을 가면으로 개조한 것. 멋진 트로피다.	
+/items/armors/avikan/trophies/avikan-skullmask/avikan-skullmask.head	shortdescription	Monster Skull Mask	몬스터 두개골 가면	
+/items/armors/backitems/aegi-soldierback/aegi-soldierback.back	description	^green;Aegi. ^white;The standard backpack issued to Union military personnel.	^green;에이지. ^white;유니온 군인에게 지급되는 표준 배낭.	
+/items/armors/backitems/aegi-soldierback/aegi-soldierback.back	shortdescription	M-ASA Backpack	M-ASA 배낭	
+/items/armors/backitems/akkimari-quiver/akkimari-quiver.back	description	^green;Akkimari. ^white;A simple but effective quiver. Increases damage dealt using bows.	^green;아키마리. ^white;단순하지만 효과적인 화살통. 활로 입히는 피해를 늘려 준다.	
+/items/armors/backitems/akkimari-quiver/akkimari-quiver.back	shortdescription	Akris Quiver	아크리스 화살통	
+/items/armors/backitems/akkimari-traderbackpack/akkimari-traderbackpack.back	description	^green;Akkimari. ^white;A large backpack worn by traders of the Covenant.	^green;아키마리. ^white;성약 상인이 메는 커다란 배낭.	
+/items/armors/backitems/akkimari-traderbackpack/akkimari-traderbackpack.back	shortdescription	Trader's Pack	상인 배낭	
+/items/armors/backitems/avikanbackpack/avikanbackpack.back	description	^green;Avikan. ^white;The backpack of an Avikan Nomad. For storing the essentials.	^green;아비칸. ^white;아비칸 유랑자의 배낭. 필수품 보관용.	
+/items/armors/backitems/avikanbackpack/avikanbackpack.back	shortdescription	Nomad's Pack	유랑자 배낭	
+/items/armors/backitems/avikancape/avikancape.back	description	^green;Avikan. ^white;An Avikan cape, made of two long sheets of leather.	^green;아비칸. ^white;긴 가죽 두 장으로 만든 아비칸 망토.	
+/items/armors/backitems/avikancape/avikancape.back	shortdescription	Avikan Cape	아비칸 망토	
+/items/armors/backitems/avikanmerchantpack/avikanmerchantpack.back	description	^green;Avikan. ^white;A large, decorated backpack used by the merchants of the desert.	^green;아비칸. ^white;사막 상인들이 쓰는 크고 장식된 배낭.	
+/items/armors/backitems/avikanmerchantpack/avikanmerchantpack.back	shortdescription	Merchant's Pack	상인 짐꾸러미	
+/items/armors/backitems/avikanmodernpack/avikanmodernpack.back	description	^green;Avikan. ^white;A lightweight but well protected metal chest designed to be worn on the back.	^green;아비칸. ^white;등에 메도록 만들어진 가볍지만 보호력 좋은 금속 상자.	
+/items/armors/backitems/avikanmodernpack/avikanmodernpack.back	shortdescription	Vanguard Pack	뱅가드 팩	
+/items/armors/backitems/avikanmodernquiver/avikanmodernquiver.back	description	^green;Avikan. ^white;A modern Nomada quiver with active drawing assistance. Increases damage dealt using Avikan bows.	^green;아비칸. ^white;능동 인발 보조 기능이 있는 현대식 노마다 화살통. 아비칸 활로 입히는 피해를 늘려 준다.	
+/items/armors/backitems/avikanmodernquiver/avikanmodernquiver.back	shortdescription	Nomada Quiver	노마다 화살통	
+/items/armors/backitems/avikanquiver/avikanquiver.back	description	^green;Avikan. ^white;A quiver full of bone arrows. Slightly increases damage dealt using Avikan bows.	^green;아비칸. ^white;뼈 화살이 가득한 화살통. 아비칸 활로 입히는 피해를 약간 늘려 준다.	
+/items/armors/backitems/avikanquiver/avikanquiver.back	shortdescription	Avikan Quiver	아비칸 화살통	
+/items/armors/backitems/avikanspearback/avikanspearback.back	description	^green;Avikan. ^white;A decorative bone spear, for wearing on your back.	^green;아비칸. ^white;등에 메는 장식용 뼈 창.	
+/items/armors/backitems/avikanspearback/avikanspearback.back	shortdescription	Avikan Back Spear	아비칸 등창	
+/items/armors/backitems/drodenantennapack/drodenantennapack.back	description	^green;Droden. ^white;A set of long range antennas and communications equipment found on non-sentient Droden units.	^green;드로덴. ^white;비지성 드로덴 유닛에 달린 장거리 안테나와 통신 장비 세트.	
+/items/armors/backitems/drodenantennapack/drodenantennapack.back	shortdescription	Legion Commpack	리전 통신팩	
+/items/armors/backitems/drodenswordback/drodenswordback.back	description	^green;Avikan. ^white;A Droden Longsword for wearing on the back.	^green;아비칸. ^white;등에 메는 드로덴 장검.	
+/items/armors/backitems/drodenswordback/drodenswordback.back	shortdescription	Droden Longsword	드로덴 롱소드	reuse
+/items/armors/backitems/environmentprotection/akkimaribreathprotection/akkimaribreathprotection.back	description	Produces breathable air. Helpful in places with ^red;no breathable atmosphere^reset;.	호흡 가능한 공기를 생산한다. ^red;호흡 가능한 대기가 없는^reset; 곳에서 유용하다.	
+/items/armors/backitems/environmentprotection/akkimaribreathprotection/akkimaribreathprotection.back	shortdescription	Breathing EPP	호흡 EPP	
+/items/armors/backitems/environmentprotection/akkimaricoldprotection/akkimaricoldprotection.back	description	This upgrade adds heat generation to your EPP's capabilities. Useful on ^red;dangerously cold^reset; planets.	이 업그레이드는 EPP에 발열 기능을 추가한다. ^red;위험할 정도로 추운^reset; 행성에서 유용하다.	
+/items/armors/backitems/environmentprotection/akkimaricoldprotection/akkimaricoldprotection.back	shortdescription	Heating EPP Upgrade	난방 EPP 업그레이드	
+/items/armors/backitems/environmentprotection/akkimariheatprotection/akkimariheatprotection.back	description	This upgrade adds cool air generation to your EPP's capabilities. Helpful on ^red;dangerously hot^reset; planets.	이 업그레이드는 EPP에 냉각 기능을 추가한다. ^red;위험할 정도로 더운^reset; 행성에서 유용하다.	
+/items/armors/backitems/environmentprotection/akkimariheatprotection/akkimariheatprotection.back	shortdescription	Cooling EPP Upgrade	냉각 EPP 업그레이드	
+/items/armors/backitems/environmentprotection/akkimariradiationprotection/akkimariradiationprotection.back	description	This upgrade adds radiation neutralisation to your EPP's capabilities. Use it on planets with ^red;high radiation levels^reset;.	이 업그레이드는 EPP에 방사선 중화 기능을 추가한다. ^red;방사선 수치가 높은^reset; 행성에서 쓰자.	
+/items/armors/backitems/environmentprotection/akkimariradiationprotection/akkimariradiationprotection.back	shortdescription	Radiation EPP Upgrade	방사선 EPP 업그레이드	
+/items/armors/backitems/environmentprotection/alliancebreathprotection/alliancebreathprotection.back	description	Produces breathable air. Helpful in places with ^red;no breathable atmosphere^reset;.	호흡 가능한 공기를 생산한다. ^red;호흡 가능한 대기가 없는^reset; 곳에서 유용하다.	
+/items/armors/backitems/environmentprotection/alliancebreathprotection/alliancebreathprotection.back	shortdescription	Breathing EPP	호흡 EPP	
+/items/armors/backitems/environmentprotection/alliancecoldprotection/alliancecoldprotection.back	description	This upgrade adds heat generation to your EPP's capabilities. Useful on ^red;dangerously cold^reset; planets.	이 업그레이드는 EPP에 발열 기능을 추가한다. ^red;위험할 정도로 추운^reset; 행성에서 유용하다.	
+/items/armors/backitems/environmentprotection/alliancecoldprotection/alliancecoldprotection.back	shortdescription	Heating EPP Upgrade	난방 EPP 업그레이드	
+/items/armors/backitems/environmentprotection/allianceheatprotection/allianceheatprotection.back	description	This upgrade adds cool air generation to your EPP's capabilities. Helpful on ^red;dangerously hot^reset; planets.	이 업그레이드는 EPP에 냉각 기능을 추가한다. ^red;위험할 정도로 더운^reset; 행성에서 유용하다.	
+/items/armors/backitems/environmentprotection/allianceheatprotection/allianceheatprotection.back	shortdescription	Cooling EPP Upgrade	냉각 EPP 업그레이드	
+/items/armors/backitems/environmentprotection/allianceradiationprotection/allianceradiationprotection.back	description	This upgrade adds radiation neutralisation to your EPP's capabilities. Use it on planets with ^red;high radiation levels^reset;.	이 업그레이드는 EPP에 방사선 중화 기능을 추가한다. ^red;방사선 수치가 높은^reset; 행성에서 쓰자.	
+/items/armors/backitems/environmentprotection/allianceradiationprotection/allianceradiationprotection.back	shortdescription	Radiation EPP Upgrade	방사선 EPP 업그레이드	
+/items/armors/backitems/environmentprotection/avikanbreathprotection/avikanbreathprotection.back	description	Produces breathable air. Helpful in places with ^red;no breathable atmosphere^reset;.	호흡 가능한 공기를 생산한다. ^red;호흡 가능한 대기가 없는^reset; 곳에서 유용하다.	
+/items/armors/backitems/environmentprotection/avikanbreathprotection/avikanbreathprotection.back	shortdescription	Breathing EPP	호흡 EPP	
+/items/armors/backitems/environmentprotection/avikancoldprotection/avikancoldprotection.back	description	This upgrade adds heat generation to your EPP's capabilities. Useful on ^red;dangerously cold^reset; planets.	이 업그레이드는 EPP에 발열 기능을 추가한다. ^red;위험할 정도로 추운^reset; 행성에서 유용하다.	
+/items/armors/backitems/environmentprotection/avikancoldprotection/avikancoldprotection.back	shortdescription	Heating EPP Upgrade	난방 EPP 업그레이드	
+/items/armors/backitems/environmentprotection/avikanheatprotection/avikanheatprotection.back	description	This upgrade adds cool air generation to your EPP's capabilities. Helpful on ^red;dangerously hot^reset; planets.	이 업그레이드는 EPP에 냉각 기능을 추가한다. ^red;위험할 정도로 더운^reset; 행성에서 유용하다.	
+/items/armors/backitems/environmentprotection/avikanheatprotection/avikanheatprotection.back	shortdescription	Cooling EPP Upgrade	냉각 EPP 업그레이드	
+/items/armors/backitems/environmentprotection/avikanradiationprotection/avikanradiationprotection.back	description	This upgrade adds radiation neutralisation to your EPP's capabilities. Use it on planets with ^red;high radiation levels^reset;.	이 업그레이드는 EPP에 방사선 중화 기능을 추가한다. ^red;방사선 수치가 높은^reset; 행성에서 쓰자.	
+/items/armors/backitems/environmentprotection/avikanradiationprotection/avikanradiationprotection.back	shortdescription	Radiation EPP Upgrade	방사선 EPP 업그레이드	
+/items/armors/backitems/environmentprotection/trinkbreathprotection/trinkbreathprotection.back	description	Produces breathable air. Helpful in places with ^red;no breathable atmosphere^reset;.	호흡 가능한 공기를 생산한다. ^red;호흡 가능한 대기가 없는^reset; 곳에서 유용하다.	
+/items/armors/backitems/environmentprotection/trinkbreathprotection/trinkbreathprotection.back	shortdescription	Circuit EPP-01	서킷 EPP-01	
+/items/armors/backitems/environmentprotection/trinkcoldprotection/trinkcoldprotection.back	description	This upgrade adds heat generation to your EPP's capabilities. Useful on ^red;dangerously cold^reset; planets.	이 업그레이드는 EPP에 발열 기능을 추가한다. ^red;위험할 정도로 추운^reset; 행성에서 유용하다.	
+/items/armors/backitems/environmentprotection/trinkcoldprotection/trinkcoldprotection.back	shortdescription	Circuit EPP-03	서킷 EPP-03	
+/items/armors/backitems/environmentprotection/trinkheatprotection/trinkheatprotection.back	description	This upgrade adds cool air generation to your EPP's capabilities. Helpful on ^red;dangerously hot^reset; planets.	이 업그레이드는 EPP에 냉각 기능을 추가한다. ^red;위험할 정도로 더운^reset; 행성에서 유용하다.	
+/items/armors/backitems/environmentprotection/trinkheatprotection/trinkheatprotection.back	shortdescription	Circuit EPP-04	서킷 EPP-04	
+/items/armors/backitems/environmentprotection/trinkradiationprotection/trinkradiationprotection.back	description	This upgrade adds radiation neutralisation to your EPP's capabilities. Use it on planets with ^red;high radiation levels^reset;.	이 업그레이드는 EPP에 방사선 중화 기능을 추가한다. ^red;방사선 수치가 높은^reset; 행성에서 쓰자.	
+/items/armors/backitems/environmentprotection/trinkradiationprotection/trinkradiationprotection.back	shortdescription	Circuit EPP-02	서킷 EPP-02	
+/items/armors/backitems/trinkmerchantback/trinkmerchantback.back	description	^green;Trink. ^white;A large crate, worn on the back by Trinkian merchants and travellers.	^green;트링크. ^white;트링키안 상인과 여행자가 등에 메는 커다란 상자.	
+/items/armors/backitems/trinkmerchantback/trinkmerchantback.back	shortdescription	Trinkian Merchant Crate	트링키안 상인 상자	
+/items/armors/backitems/zaheedswordback/zaheedswordback.back	description	^green;Avikan. ^white;Zaheed wears his sword on his back when not in use.	^green;아비칸. ^white;자히드는 쓰지 않을 때 검을 등에 멘다.	
+/items/armors/backitems/zaheedswordback/zaheedswordback.back	shortdescription	Zaheed's Sword	자히드의 검	
+/items/armors/droden/decorative/droden-banner/droden-banner.chest	description	^green;Droden. ^white;A leather banner worn by Droden to identify their owners.	^green;드로덴. ^white;소유주를 식별하기 위해 드로덴이 다는 가죽 배너.	
+/items/armors/droden/decorative/droden-banner/droden-banner.chest	shortdescription	Droden Banner	드로덴 배너	
+/items/armors/droden/decorative/droden-combat/droden-combat.chest	description	^green;Droden. ^white;A specialized Droden war frame, it is far more durable than regular frames.	^green;드로덴. ^white;특수 제작된 드로덴 전투 프레임. 일반 프레임보다 훨씬 튼튼하다.	
+/items/armors/droden/decorative/droden-combat/droden-combat.chest	shortdescription	Combat Frame Chest	전투 프레임 몸통	
+/items/armors/droden/decorative/droden-combat/droden-combat.head	description	^green;Droden. ^white;A specialized Droden war frame, it is far more durable than regular frames.	^green;드로덴. ^white;특수 제작된 드로덴 전투 프레임. 일반 프레임보다 훨씬 튼튼하다.	
+/items/armors/droden/decorative/droden-combat/droden-combat.head	shortdescription	Combat Frame Head	전투 프레임 머리	
+/items/armors/droden/decorative/droden-combat/droden-combat.legs	description	^green;Droden. ^white;A specialized Droden war frame, it is far more durable than regular frames.	^green;드로덴. ^white;특수 제작된 드로덴 전투 프레임. 일반 프레임보다 훨씬 튼튼하다.	
+/items/armors/droden/decorative/droden-combat/droden-combat.legs	shortdescription	Combat Frame Legs	전투 프레임 다리	
+/items/armors/droden/decorative/droden-hacked/droden-hacked.chest	description	^green;Droden. ^white;A Droden frame chassis, hacked by Thelean Vesomeyr.	^green;드로덴. ^white;텔레안 베소메이르가 해킹한 드로덴 프레임 몸통.	
+/items/armors/droden/decorative/droden-hacked/droden-hacked.chest	shortdescription	Violated Chassis	침해된 몸통	
+/items/armors/droden/decorative/droden-hacked/droden-hacked.head	description	^green;Droden. ^white;A Droden frame head, hacked by Thelean Vesomeyr.	^green;드로덴. ^white;텔레안 베소메이르가 해킹한 드로덴 프레임 머리.	
+/items/armors/droden/decorative/droden-hacked/droden-hacked.head	shortdescription	Violated Head	침해된 머리	
+/items/armors/droden/decorative/droden-hacked/droden-hacked.legs	description	^green;Droden. ^white;A pair of Droden frame legs, hacked by Thelean Vesomeyr.	^green;드로덴. ^white;텔레안 베소메이르가 해킹한 드로덴 프레임 다리.	
+/items/armors/droden/decorative/droden-hacked/droden-hacked.legs	shortdescription	Violated Legs	침해된 다리	
+/items/armors/droden/decorative/droden-heavy/droden-heavy.chest	description	^green;Droden. ^white;A heavy Droden war frame, built for ultimate durability.	^green;드로덴. ^white;궁극의 내구성을 위해 만들어진 중장 드로덴 전투 프레임.	
+/items/armors/droden/decorative/droden-heavy/droden-heavy.chest	shortdescription	Heavy War Frame Chest	중장 전투 프레임 몸통	
+/items/armors/droden/decorative/droden-heavy/droden-heavy.head	description	^green;Droden. ^white;A heavy Droden war frame, built for ultimate durability.	^green;드로덴. ^white;궁극의 내구성을 위해 만들어진 중장 드로덴 전투 프레임.	
+/items/armors/droden/decorative/droden-heavy/droden-heavy.head	shortdescription	Heavy War Frame Head	중장 전투 프레임 머리	
+/items/armors/droden/decorative/droden-heavy/droden-heavy.legs	description	^green;Droden. ^white;A heavy Droden war frame, built for ultimate durability.	^green;드로덴. ^white;궁극의 내구성을 위해 만들어진 중장 드로덴 전투 프레임.	
+/items/armors/droden/decorative/droden-heavy/droden-heavy.legs	shortdescription	Heavy War Frame Legs	중장 전투 프레임 다리	
+/items/armors/droden/decorative/droden-legion/droden-legion.chest	description	^green;Droden. ^white;A chassis replacement for Droden Legion units.	^green;드로덴. ^white;드로덴 리전 유닛용 몸통 교체부품.	
+/items/armors/droden/decorative/droden-legion/droden-legion.chest	shortdescription	Legion Chassis	리전 몸통	
+/items/armors/droden/decorative/droden-legion/droden-legion.head	description	^green;Droden. ^white;A head piece replacement for Droden Legion units.	^green;드로덴. ^white;드로덴 리전 유닛용 머리 교체부품.	
+/items/armors/droden/decorative/droden-legion/droden-legion.head	shortdescription	Legion Head	리전 머리	
+/items/armors/droden/decorative/droden-legion/droden-legion.legs	description	^green;Droden. ^white;A legs piece replacement for Droden Legion units.	^green;드로덴. ^white;드로덴 리전 유닛용 다리 교체부품.	
+/items/armors/droden/decorative/droden-legion/droden-legion.legs	shortdescription	Legion Legs	리전 다리	
+/items/armors/droden/decorative/droden-protectorate/droden-protectorate.chest	description	^green;Droden. ^white;A Protectorate-themed Droden chest piece.	^green;드로덴. ^white;보호국 테마의 드로덴 몸통 부품.	
+/items/armors/droden/decorative/droden-protectorate/droden-protectorate.chest	shortdescription	Protectorate Chassis	보호국 몸통	
+/items/armors/droden/decorative/droden-protectorate/droden-protectorate.head	description	^green;Droden. ^white;A Protectorate-themed Droden head piece.	^green;드로덴. ^white;보호국 테마의 드로덴 머리 부품.	
+/items/armors/droden/decorative/droden-protectorate/droden-protectorate.head	shortdescription	Protectorate Head	보호국 머리	
+/items/armors/droden/decorative/droden-protectorate/droden-protectorate.legs	description	^green;Droden. ^white;A Protectorate-themed Droden legs piece.	^green;드로덴. ^white;보호국 테마의 드로덴 다리 부품.	
+/items/armors/droden/decorative/droden-protectorate/droden-protectorate.legs	shortdescription	Protectorate Legs	보호국 다리	
+/items/armors/droden/decorative/droden-watcher/droden-watcher.chest	description	^green;Droden. ^white;A chassis replacement for Droden Watcher units.	^green;드로덴. ^white;드로덴 감시자 유닛용 몸통 교체부품.	
+/items/armors/droden/decorative/droden-watcher/droden-watcher.chest	shortdescription	Watcher Chassis	감시자 몸통	
+/items/armors/droden/decorative/droden-watcher/droden-watcher.head	description	^green;Droden. ^white;A head piece replacement for Droden Watcher units.	^green;드로덴. ^white;드로덴 감시자 유닛용 머리 교체부품.	
+/items/armors/droden/decorative/droden-watcher/droden-watcher.head	shortdescription	Watcher Head	감시자 머리	
+/items/armors/droden/decorative/droden-watcher/droden-watcher.legs	description	^green;Droden. ^white;A legs piece replacement for Droden Watcher units.	^green;드로덴. ^white;드로덴 감시자 유닛용 다리 교체부품.	
+/items/armors/droden/decorative/droden-watcher/droden-watcher.legs	shortdescription	Watcher Legs	감시자 다리	
+/items/armors/droden/tiered/tier1/droden-tier1.chest	description	^green;Droden. ^white;A basic iron chassis upgrade.	^green;드로덴. ^white;기본 철제 몸통 업그레이드.	
+/items/armors/droden/tiered/tier1/droden-tier1.chest	shortdescription	Iron Chassis	철제 몸통	
+/items/armors/droden/tiered/tier1/droden-tier1.head	description	^green;Droden. ^white;A basic iron head upgrade.	^green;드로덴. ^white;기본 철제 머리 업그레이드.	
+/items/armors/droden/tiered/tier1/droden-tier1.head	shortdescription	Iron Head	철제 머리	
+/items/armors/droden/tiered/tier1/droden-tier1.legs	description	^green;Droden. ^white;A basic iron legs upgrade.	^green;드로덴. ^white;기본 철제 다리 업그레이드.	
+/items/armors/droden/tiered/tier1/droden-tier1.legs	shortdescription	Iron Legs	철제 다리	
+/items/armors/droden/tiered/tier2/droden-tier2.chest	description	^green;Droden. ^white;A sturdy tungsten chassis upgrade.	^green;드로덴. ^white;튼튼한 텅스텐 몸통 업그레이드.	
+/items/armors/droden/tiered/tier2/droden-tier2.chest	shortdescription	Tungsten Chassis	텅스텐 몸통	
+/items/armors/droden/tiered/tier2/droden-tier2.head	description	^green;Droden. ^white;A sturdy tungsten head upgrade.	^green;드로덴. ^white;튼튼한 텅스텐 머리 업그레이드.	
+/items/armors/droden/tiered/tier2/droden-tier2.head	shortdescription	Tungsten Head	텅스텐 머리	
+/items/armors/droden/tiered/tier2/droden-tier2.legs	description	^green;Droden. ^white;A sturdy tungsten legs upgrade.	^green;드로덴. ^white;튼튼한 텅스텐 다리 업그레이드.	
+/items/armors/droden/tiered/tier2/droden-tier2.legs	shortdescription	Tungsten Legs	텅스텐 다리	
+/items/armors/droden/tiered/tier3/droden-tier3.chest	description	^green;Droden. ^white;A durable titanium chassis upgrade.	^green;드로덴. ^white;내구성 좋은 티타늄 몸통 업그레이드.	
+/items/armors/droden/tiered/tier3/droden-tier3.chest	shortdescription	Titanium Chassis	티타늄 몸통	
+/items/armors/droden/tiered/tier3/droden-tier3.head	description	^green;Droden. ^white;A durable titanium head upgrade.	^green;드로덴. ^white;내구성 좋은 티타늄 머리 업그레이드.	
+/items/armors/droden/tiered/tier3/droden-tier3.head	shortdescription	Titanium Head	티타늄 머리	
+/items/armors/droden/tiered/tier3/droden-tier3.legs	description	^green;Droden. ^white;A durable titanium legs upgrade.	^green;드로덴. ^white;내구성 좋은 티타늄 다리 업그레이드.	
+/items/armors/droden/tiered/tier3/droden-tier3.legs	shortdescription	Titanium Legs	티타늄 다리	
+/items/armors/droden/tiered/tier4/droden-tier4.chest	description	^green;Droden. ^white;A strong durasteel chassis upgrade.	^green;드로덴. ^white;강력한 듀라스틸 몸통 업그레이드.	
+/items/armors/droden/tiered/tier4/droden-tier4.chest	shortdescription	Durasteel Chassis	듀라스틸 몸통	
+/items/armors/droden/tiered/tier4/droden-tier4.head	description	^green;Droden. ^white;A strong durasteel head upgrade.	^green;드로덴. ^white;강력한 듀라스틸 머리 업그레이드.	
+/items/armors/droden/tiered/tier4/droden-tier4.head	shortdescription	Durasteel Head	듀라스틸 머리	
+/items/armors/droden/tiered/tier4/droden-tier4.legs	description	^green;Droden. ^white;A strong durasteel legs upgrade.	^green;드로덴. ^white;강력한 듀라스틸 다리 업그레이드.	
+/items/armors/droden/tiered/tier4/droden-tier4.legs	shortdescription	Durasteel Legs	듀라스틸 다리	
+/items/armors/droden/tiered/tier5a/droden-tier5a.chest	description	^green;Droden. ^white;A Nomada-approved chassis upgrade. Energetic version.	^green;드로덴. ^white;노마다 승인 몸통 업그레이드. 기력 사양.	
+/items/armors/droden/tiered/tier5a/droden-tier5a.chest	shortdescription	Nomada Chassis Type-A	노마다 몸통 A형	
+/items/armors/droden/tiered/tier5a/droden-tier5a.head	description	^green;Droden. ^white;A Nomada-approved head upgrade. Energetic version.	^green;드로덴. ^white;노마다 승인 머리 업그레이드. 기력 사양.	
+/items/armors/droden/tiered/tier5a/droden-tier5a.head	shortdescription	Nomada Head Type-A	노마다 머리 A형	
+/items/armors/droden/tiered/tier5a/droden-tier5a.legs	description	^green;Droden. ^white;A Nomada-approved legs upgrade. Energetic version.	^green;드로덴. ^white;노마다 승인 다리 업그레이드. 기력 사양.	
+/items/armors/droden/tiered/tier5a/droden-tier5a.legs	shortdescription	Nomada Legs Type-A	노마다 다리 A형	
+/items/armors/droden/tiered/tier5m/droden-tier5m.chest	description	^green;Droden. ^white;A Nomada-approved chassis upgrade. Powerful version.	^green;드로덴. ^white;노마다 승인 몸통 업그레이드. 파워 사양.	
+/items/armors/droden/tiered/tier5m/droden-tier5m.chest	shortdescription	Nomada Chassis Type-M	노마다 몸통 M형	
+/items/armors/droden/tiered/tier5m/droden-tier5m.head	description	^green;Droden. ^white;A Nomada-approved head upgrade. Powerful version.	^green;드로덴. ^white;노마다 승인 머리 업그레이드. 파워 사양.	
+/items/armors/droden/tiered/tier5m/droden-tier5m.head	shortdescription	Nomada Head Type-M	노마다 머리 M형	
+/items/armors/droden/tiered/tier5m/droden-tier5m.legs	description	^green;Droden. ^white;A Nomada-approved legs upgrade. Powerful version.	^green;드로덴. ^white;노마다 승인 다리 업그레이드. 파워 사양.	
+/items/armors/droden/tiered/tier5m/droden-tier5m.legs	shortdescription	Nomada Legs Type-M	노마다 다리 M형	
+/items/armors/droden/tiered/tier5s/droden-tier5s.chest	description	^green;Droden. ^white;A Nomada-approved chassis upgrade. Vigorous version.	^green;드로덴. ^white;노마다 승인 몸통 업그레이드. 활력 사양.	
+/items/armors/droden/tiered/tier5s/droden-tier5s.chest	shortdescription	Nomada Chassis Type-S	노마다 몸통 S형	
+/items/armors/droden/tiered/tier5s/droden-tier5s.head	description	^green;Droden. ^white;A Nomada-approved head upgrade. Vigorous version.	^green;드로덴. ^white;노마다 승인 머리 업그레이드. 활력 사양.	
+/items/armors/droden/tiered/tier5s/droden-tier5s.head	shortdescription	Nomada Head Type-S	노마다 머리 S형	
+/items/armors/droden/tiered/tier5s/droden-tier5s.legs	description	^green;Droden. ^white;A Nomada-approved legs upgrade. Vigorous version.	^green;드로덴. ^white;노마다 승인 다리 업그레이드. 활력 사양.	
+/items/armors/droden/tiered/tier5s/droden-tier5s.legs	shortdescription	Nomada Legs Type-S	노마다 다리 S형	
+/items/armors/droden/tiered/tier6a/droden-tier6a.chest	description	^green;Droden. ^white;A chassis upgrade for elite combat units. Energetic version.	^green;드로덴. ^white;정예 전투 유닛용 몸통 업그레이드. 기력 사양.	
+/items/armors/droden/tiered/tier6a/droden-tier6a.chest	shortdescription	Elite Chassis Type-A	정예 몸통 A형	
+/items/armors/droden/tiered/tier6a/droden-tier6a.head	description	^green;Droden. ^white;A head upgrade for elite combat units. Energetic version.	^green;드로덴. ^white;정예 전투 유닛용 머리 업그레이드. 기력 사양.	
+/items/armors/droden/tiered/tier6a/droden-tier6a.head	shortdescription	Elite Head Type-A	정예 머리 A형	
+/items/armors/droden/tiered/tier6a/droden-tier6a.legs	description	^green;Droden. ^white;A legs upgrade for elite combat units. Energetic version.	^green;드로덴. ^white;정예 전투 유닛용 다리 업그레이드. 기력 사양.	
+/items/armors/droden/tiered/tier6a/droden-tier6a.legs	shortdescription	Elite Legs Type-A	정예 다리 A형	
+/items/armors/droden/tiered/tier6m/droden-tier6m.chest	description	^green;Droden. ^white;A chassis upgrade for elite combat units. Powerful version.	^green;드로덴. ^white;정예 전투 유닛용 몸통 업그레이드. 파워 사양.	
+/items/armors/droden/tiered/tier6m/droden-tier6m.chest	shortdescription	Elite Chassis Type-M	정예 몸통 M형	
+/items/armors/droden/tiered/tier6m/droden-tier6m.head	description	^green;Droden. ^white;A head upgrade for elite combat units. Powerful version.	^green;드로덴. ^white;정예 전투 유닛용 머리 업그레이드. 파워 사양.	
+/items/armors/droden/tiered/tier6m/droden-tier6m.head	shortdescription	Elite Head Type-M	정예 머리 M형	
+/items/armors/droden/tiered/tier6m/droden-tier6m.legs	description	^green;Droden. ^white;A legs upgrade for elite combat units. Powerful version.	^green;드로덴. ^white;정예 전투 유닛용 다리 업그레이드. 파워 사양.	
+/items/armors/droden/tiered/tier6m/droden-tier6m.legs	shortdescription	Elite Legs Type-M	정예 다리 M형	
+/items/armors/droden/tiered/tier6s/droden-tier6s.chest	description	^green;Droden. ^white;A chassis upgrade for elite combat units. Vigorous version.	^green;드로덴. ^white;정예 전투 유닛용 몸통 업그레이드. 활력 사양.	
+/items/armors/droden/tiered/tier6s/droden-tier6s.chest	shortdescription	Elite Chassis Type-S	정예 몸통 S형	
+/items/armors/droden/tiered/tier6s/droden-tier6s.head	description	^green;Droden. ^white;A head upgrade for elite combat units. Vigorous version.	^green;드로덴. ^white;정예 전투 유닛용 머리 업그레이드. 활력 사양.	
+/items/armors/droden/tiered/tier6s/droden-tier6s.head	shortdescription	Elite Head Type-S	정예 머리 S형	
+/items/armors/droden/tiered/tier6s/droden-tier6s.legs	description	^green;Droden. ^white;A legs upgrade for elite combat units. Vigorous version.	^green;드로덴. ^white;정예 전투 유닛용 다리 업그레이드. 활력 사양.	
+/items/armors/droden/tiered/tier6s/droden-tier6s.legs	shortdescription	Elite legs Type-S	정예 다리 S형	
+/items/armors/events/harrowing/aegi-centens/aegi-centens.head	description	^green;Aegi. ^white;A Centens mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 센텐스 가면!	
+/items/armors/events/harrowing/aegi-centens/aegi-centens.head	shortdescription	Centens Mask	센텐스 가면	
+/items/armors/events/harrowing/aegi-pumpkin/aegi-pumpkin.head	description	^green;Aegi. ^white;A pumpkin mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 호박 가면!	
+/items/armors/events/harrowing/aegi-pumpkin/aegi-pumpkin.head	shortdescription	Pumpkin Mask	호박 가면	
+/items/armors/events/harrowing/aegi-spooky/aegi-spooky.head	description	^green;Aegi. ^white;A spooky mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 으스스한 가면!	
+/items/armors/events/harrowing/aegi-spooky/aegi-spooky.head	shortdescription	Spooky Mask	으스스한 가면	
+/items/armors/events/harrowing/aegi-trink/aegi-trink.head	description	^green;Aegi. ^white;A Trink mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 트링크 가면!	
+/items/armors/events/harrowing/aegi-trink/aegi-trink.head	shortdescription	Trink Mask	트링크 가면	
+/items/armors/events/harrowing/avikan-droden/avikan-droden.head	description	^green;Avikan. ^white;A Droden mask to celebrate the Harrowing!	^green;아비칸. ^white;해로잉을 기념하는 드로덴 가면!	
+/items/armors/events/harrowing/avikan-droden/avikan-droden.head	shortdescription	Droden Mask	드로덴 가면	
+/items/armors/events/harrowing/avikan-oculus/avikan-oculus.head	description	^green;Avikan. ^white;An Oculus mask to celebrate the Harrowing!	^green;아비칸. ^white;해로잉을 기념하는 오큘러스 가면!	
+/items/armors/events/harrowing/avikan-oculus/avikan-oculus.head	shortdescription	Oculus Mask	오큘러스 가면	
+/items/armors/events/harrowing/avikan-sandspitter/avikan-sandspitter.head	description	^green;Avikan. ^white;A sandspitter mask to celebrate the Harrowing!	^green;아비칸. ^white;해로잉을 기념하는 모래뱉기 가면!	
+/items/armors/events/harrowing/avikan-sandspitter/avikan-sandspitter.head	shortdescription	Sandspitter Mask	모래뱉기 가면	
+/items/armors/events/harrowing/avikan-thelean/avikan-thelean.head	description	^green;Avikan. ^white;A Thell mask to celebrate the Harrowing!	^green;아비칸. ^white;해로잉을 기념하는 텔 가면!	
+/items/armors/events/harrowing/avikan-thelean/avikan-thelean.head	shortdescription	Thell Mask	텔 가면	
+/items/armors/events/harrowing/bosses/aegi-asranox/aegi-asranox.head	description	^green;Aegi. ^white;An Asra Nox mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 아스라 녹스 가면!	
+/items/armors/events/harrowing/bosses/aegi-asranox/aegi-asranox.head	shortdescription	Asra Nox Mask	아스라 녹스 가면	
+/items/armors/events/harrowing/bosses/aegi-bigape/aegi-bigape.head	description	^green;Aegi. ^white;A Big Ape mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 빅 에이프 가면!	
+/items/armors/events/harrowing/bosses/aegi-bigape/aegi-bigape.head	shortdescription	Big Ape Mask	빅 에이프 가면	
+/items/armors/events/harrowing/bosses/aegi-bonedragon/aegi-bonedragon.head	description	^green;Aegi. ^white;A Bone Dragon mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 뼈 드래곤 가면!	
+/items/armors/events/harrowing/bosses/aegi-bonedragon/aegi-bonedragon.head	shortdescription	Bone Dragon Mask	뼈 드래곤 가면	
+/items/armors/events/harrowing/bosses/aegi-crystal/aegi-crystal.head	description	^green;Aegi. ^white;An Erchius Horror mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 에르키우스 호러 가면!	
+/items/armors/events/harrowing/bosses/aegi-crystal/aegi-crystal.head	shortdescription	Erchius Horror Mask	에르키우스 호러 가면	
+/items/armors/events/harrowing/bosses/aegi-ixodoom/aegi-ixodoom.head	description	^green;Aegi. ^white;An Ixodoom mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 익소둠 가면!	
+/items/armors/events/harrowing/bosses/aegi-ixodoom/aegi-ixodoom.head	shortdescription	Ixodoom Mask	익소둠 가면	
+/items/armors/events/harrowing/bosses/aegi-kluex/aegi-kluex.head	description	^green;Aegi. ^white;A Kluex Avatar mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 클루엑스 아바타 가면!	
+/items/armors/events/harrowing/bosses/aegi-kluex/aegi-kluex.head	shortdescription	Kluex Avatar Mask	클루엑스 아바타 가면	
+/items/armors/events/harrowing/droden-avikan/droden-avikan.head	description	^green;Droden. ^white;An Avikan mask to celebrate the Harrowing!	^green;드로덴. ^white;해로잉을 기념하는 아비칸 가면!	
+/items/armors/events/harrowing/droden-avikan/droden-avikan.head	shortdescription	Avikan Mask	아비칸 가면	
+/items/armors/events/harrowing/droden-drahl/droden-drahl.head	description	^green;Droden. ^white;A drahl mask to celebrate the Harrowing!	^green;드로덴. ^white;해로잉을 기념하는 드랄 가면!	
+/items/armors/events/harrowing/droden-drahl/droden-drahl.head	shortdescription	Drahl Mask	드랄 가면	
+/items/armors/events/harrowing/droden-sandcrawler/droden-sandcrawler.head	description	^green;Droden. ^white;A sandcrawler mask to celebrate the Harrowing!	^green;드로덴. ^white;해로잉을 기념하는 모래기어 가면!	
+/items/armors/events/harrowing/droden-sandcrawler/droden-sandcrawler.head	shortdescription	Sandcrawler Mask	모래기어 가면	
+/items/armors/events/harrowing/droden-skull/droden-skull.head	description	^green;Droden. ^white;A skull mask to celebrate the Harrowing!	^green;드로덴. ^white;해로잉을 기념하는 해골 가면!	
+/items/armors/events/harrowing/droden-skull/droden-skull.head	shortdescription	Skull Mask	해골 가면	
+/items/armors/events/harrowing/monsters/aegi-oogler/aegi-oogler.head	description	^green;Aegi. ^white;An Oogler mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 우글러 가면!	
+/items/armors/events/harrowing/monsters/aegi-oogler/aegi-oogler.head	shortdescription	Oogler Mask	우글러 가면	
+/items/armors/events/harrowing/monsters/aegi-poptop/aegi-poptop.head	description	^green;Aegi. ^white;A Poptop mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 팝톱 가면!	
+/items/armors/events/harrowing/monsters/aegi-poptop/aegi-poptop.head	shortdescription	Poptop Mask	팝톱 가면	
+/items/armors/events/harrowing/monsters/aegi-spookit/aegi-spookit.head	description	^green;Aegi. ^white;A Spookit mask to celebrate the Harrowing!	^green;에이지. ^white;해로잉을 기념하는 스푸킷 가면!	
+/items/armors/events/harrowing/monsters/aegi-spookit/aegi-spookit.head	shortdescription	Spookit Mask	스푸킷 가면	
+/items/armors/events/harrowing/trink-ghost/trink-ghost.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A ghost body to celebrate the Harrowing!	^green;트링크. ^orange;다리 슬롯. ^white;해로잉을 기념하는 유령 몸체!	
+/items/armors/events/harrowing/trink-ghost/trink-ghost.legs	shortdescription	Ghost Body	유령 몸체	
+/items/armors/events/harrowing/trink-notix/trink-notix.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A Notix body to celebrate the Harrowing!	^green;트링크. ^orange;다리 슬롯. ^white;해로잉을 기념하는 노틱스 몸체!	
+/items/armors/events/harrowing/trink-notix/trink-notix.legs	shortdescription	Notix Body	노틱스 몸체	
+/items/armors/events/harrowing/trink-pumpkin/trink-pumpkin.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A pumpkin body to celebrate the Harrowing!	^green;트링크. ^orange;다리 슬롯. ^white;해로잉을 기념하는 호박 몸체!	
+/items/armors/events/harrowing/trink-pumpkin/trink-pumpkin.legs	shortdescription	Pumpkin Body	호박 몸체	
+/items/armors/events/harrowing/trink-tentacle/trink-tentacle.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A tentacle body to celebrate the Harrowing!	^green;트링크. ^orange;다리 슬롯. ^white;해로잉을 기념하는 촉수 몸체!	
+/items/armors/events/harrowing/trink-tentacle/trink-tentacle.legs	shortdescription	Tentacle Body	촉수 몸체	
+/items/armors/events/landingfestival/aegi-pathfinder/aegi-pathfinder.chest	description	^green;Aegi. ^white;The costume of the Pathfinder, paragon of the Landing Festival!	^green;에이지. ^white;착륙제의 모범인 패스파인더의 의상!	
+/items/armors/events/landingfestival/aegi-pathfinder/aegi-pathfinder.chest	shortdescription	Pathfinder's Robes	패스파인더 로브	
+/items/armors/events/landingfestival/aegi-pathfinder/aegi-pathfinder.head	description	^green;Aegi. ^white;The costume of the Pathfinder, paragon of the Landing Festival!	^green;에이지. ^white;착륙제의 모범인 패스파인더의 의상!	
+/items/armors/events/landingfestival/aegi-pathfinder/aegi-pathfinder.head	shortdescription	Pathfinder's Hat	패스파인더 모자	
+/items/armors/events/landingfestival/aegi-pathfinder/aegi-pathfinder.legs	description	^green;Aegi. ^white;The costume of the Pathfinder, paragon of the Landing Festival!	^green;에이지. ^white;착륙제의 모범인 패스파인더의 의상!	
+/items/armors/events/landingfestival/aegi-pathfinder/aegi-pathfinder.legs	shortdescription	Pathfinder's Skirt	패스파인더 치마	
+/items/armors/events/landingfestival/aegi-pilgrim/aegi-pilgrim.chest	description	^green;Aegi. ^white;The costume of a pilgrim of the Landing Festival!	^green;에이지. ^white;착륙제의 순례자 의상!	
+/items/armors/events/landingfestival/aegi-pilgrim/aegi-pilgrim.chest	shortdescription	Pilgrim's Suit	순례자 슈트	
+/items/armors/events/landingfestival/aegi-pilgrim/aegi-pilgrim.head	description	^green;Aegi. ^white;The costume of a pilgrim of the Landing Festival!	^green;에이지. ^white;착륙제의 순례자 의상!	
+/items/armors/events/landingfestival/aegi-pilgrim/aegi-pilgrim.head	shortdescription	Pilgrim's Cap	순례자 모자	
+/items/armors/events/landingfestival/aegi-pilgrim/aegi-pilgrim.legs	description	^green;Aegi. ^white;The costume of a pilgrim of the Landing Festival!	^green;에이지. ^white;착륙제의 순례자 의상!	
+/items/armors/events/landingfestival/aegi-pilgrim/aegi-pilgrim.legs	shortdescription	Pilgrim's Leggings	순례자 레깅스	
+/items/armors/events/landingfestival/trink-snowball/trink-snowball.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;Snowball arms to celebrate the Landing Festival!	^green;트링크. ^orange;흉부 슬롯. ^white;착륙제를 기념하는 눈덩이 팔!	
+/items/armors/events/landingfestival/trink-snowball/trink-snowball.chest	shortdescription	Snowball Arms	눈덩이 팔	
+/items/armors/events/landingfestival/trink-snowball/trink-snowball.head	description	^green;Trink. ^orange;HEAD SLOT. ^white;A small Landing Festival tree to be worn as an antenna!	^green;트링크. ^orange;머리 슬롯. ^white;안테나로 쓰는 작은 착륙제 나무!	
+/items/armors/events/landingfestival/trink-snowball/trink-snowball.head	shortdescription	Pine Tree Antenna	소나무 안테나	
+/items/armors/events/landingfestival/trink-snowball/trink-snowball.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A snowball body to celebrate the Landing Festival!	^green;트링크. ^orange;다리 슬롯. ^white;착륙제를 기념하는 눈덩이 몸체!	
+/items/armors/events/landingfestival/trink-snowball/trink-snowball.legs	shortdescription	Snowball Body	눈덩이 몸체	
+/items/armors/other/thea-hidden/thea-hidden.back	description	A small device that hides armour in your backwear slot.	등 의상 슬롯의 갑옷을 숨겨주는 작은 장치.	
+/items/armors/other/thea-hidden/thea-hidden.back	shortdescription	Backwear Cloaker	등의상 은폐기	
+/items/armors/other/thea-hidden/thea-hidden.chest	description	A small device that hides armour in your chestwear slot.	흉부 의상 슬롯의 갑옷을 숨겨주는 작은 장치.	
+/items/armors/other/thea-hidden/thea-hidden.chest	shortdescription	Chestwear Cloaker	흉부의상 은폐기	
+/items/armors/other/thea-hidden/thea-hidden.head	description	A small device that hides armour in your headwear slot.	머리 의상 슬롯의 갑옷을 숨겨주는 작은 장치.	
+/items/armors/other/thea-hidden/thea-hidden.head	shortdescription	Headwear Cloaker	머리의상 은폐기	
+/items/armors/other/thea-hidden/thea-hidden.legs	description	A small device that hides armour in your legwear slot.	다리 의상 슬롯의 갑옷을 숨겨주는 작은 장치.	
+/items/armors/other/thea-hidden/thea-hidden.legs	shortdescription	Legwear Cloaker	다리의상 은폐기	
+/items/armors/other/thea-tiered/tier1/thea-tier1.chest	description	^green;Generic. ^white;An ultra-low intensity shield generator for protecting the chest.	^green;범용. ^white;흉부를 보호하는 초저강도 실드 발생기.	
+/items/armors/other/thea-tiered/tier1/thea-tier1.chest	shortdescription	UL-i Chest Shield	UL-i 흉부 실드	
+/items/armors/other/thea-tiered/tier1/thea-tier1.head	description	^green;Generic. ^white;An ultra-low intensity shield generator for protecting the head.	^green;범용. ^white;머리를 보호하는 초저강도 실드 발생기.	
+/items/armors/other/thea-tiered/tier1/thea-tier1.head	shortdescription	UL-i Head Shield	UL-i 머리 실드	
+/items/armors/other/thea-tiered/tier1/thea-tier1.legs	description	^green;Generic. ^white;An ultra-low intensity shield generator for protecting the legs.	^green;범용. ^white;다리를 보호하는 초저강도 실드 발생기.	
+/items/armors/other/thea-tiered/tier1/thea-tier1.legs	shortdescription	UL-i Legs Shield	UL-i 다리 실드	
+/items/armors/other/thea-tiered/tier2/thea-tier2.chest	description	^green;Generic. ^white;A low intensity shield generator for protecting the chest.	^green;범용. ^white;흉부를 보호하는 저강도 실드 발생기.	
+/items/armors/other/thea-tiered/tier2/thea-tier2.chest	shortdescription	L-i Chest Shield	L-i 흉부 실드	
+/items/armors/other/thea-tiered/tier2/thea-tier2.head	description	^green;Generic. ^white;A low intensity shield generator for protecting the head.	^green;범용. ^white;머리를 보호하는 저강도 실드 발생기.	
+/items/armors/other/thea-tiered/tier2/thea-tier2.head	shortdescription	L-i Head Shield	L-i 머리 실드	
+/items/armors/other/thea-tiered/tier2/thea-tier2.legs	description	^green;Generic. ^white;A low intensity shield generator for protecting the legs.	^green;범용. ^white;다리를 보호하는 저강도 실드 발생기.	
+/items/armors/other/thea-tiered/tier2/thea-tier2.legs	shortdescription	L-i Legs Shield	L-i 다리 실드	
+/items/armors/other/thea-tiered/tier3/thea-tier3.chest	description	^green;Generic. ^white;A medium intensity shield generator for protecting the chest.	^green;범용. ^white;흉부를 보호하는 중강도 실드 발생기.	
+/items/armors/other/thea-tiered/tier3/thea-tier3.chest	shortdescription	M-i Chest Shield	M-i 흉부 실드	
+/items/armors/other/thea-tiered/tier3/thea-tier3.head	description	^green;Generic. ^white;A medium intensity shield generator for protecting the head.	^green;범용. ^white;머리를 보호하는 중강도 실드 발생기.	
+/items/armors/other/thea-tiered/tier3/thea-tier3.head	shortdescription	M-i Head Shield	M-i 머리 실드	
+/items/armors/other/thea-tiered/tier3/thea-tier3.legs	description	^green;Generic. ^white;A medium intensity shield generator for protecting the legs.	^green;범용. ^white;다리를 보호하는 중강도 실드 발생기.	
+/items/armors/other/thea-tiered/tier3/thea-tier3.legs	shortdescription	M-i Legs Shield	M-i 다리 실드	
+/items/armors/other/thea-tiered/tier4/thea-tier4.chest	description	^green;Generic. ^white;A high intensity shield generator for protecting the chest.	^green;범용. ^white;흉부를 보호하는 고강도 실드 발생기.	
+/items/armors/other/thea-tiered/tier4/thea-tier4.chest	shortdescription	H-i Chest Shield	H-i 흉부 실드	
+/items/armors/other/thea-tiered/tier4/thea-tier4.head	description	^green;Generic. ^white;A high intensity shield generator for protecting the head.	^green;범용. ^white;머리를 보호하는 고강도 실드 발생기.	
+/items/armors/other/thea-tiered/tier4/thea-tier4.head	shortdescription	H-i Head Shield	H-i 머리 실드	
+/items/armors/other/thea-tiered/tier4/thea-tier4.legs	description	^green;Generic. ^white;A high intensity shield generator for protecting the legs.	^green;범용. ^white;다리를 보호하는 고강도 실드 발생기.	
+/items/armors/other/thea-tiered/tier4/thea-tier4.legs	shortdescription	H-i Legs Shield	H-i 다리 실드	
+/items/armors/other/thea-tiered/tier5a/thea-tier5a.chest	description	^green;Generic. ^white;A very high intensity shield generator for protecting the chest, with a balanced performance.	^green;범용. ^white;흉부를 보호하는 초고강도 실드 발생기. 균형 잡힌 성능.	
+/items/armors/other/thea-tiered/tier5a/thea-tier5a.chest	shortdescription	VH-i Balanced Chest Shield	VH-i 밸런스 흉부 실드	
+/items/armors/other/thea-tiered/tier5a/thea-tier5a.head	description	^green;Generic. ^white;A very high intensity shield generator for protecting the head, with a balanced performance.	^green;범용. ^white;머리를 보호하는 초고강도 실드 발생기. 균형 잡힌 성능.	
+/items/armors/other/thea-tiered/tier5a/thea-tier5a.head	shortdescription	VH-i Balanced Head Shield	VH-i 밸런스 머리 실드	
+/items/armors/other/thea-tiered/tier5a/thea-tier5a.legs	description	^green;Generic. ^white;A very high intensity shield generator for protecting the legs, with a balanced performance.	^green;범용. ^white;다리를 보호하는 초고강도 실드 발생기. 균형 잡힌 성능.	
+/items/armors/other/thea-tiered/tier5a/thea-tier5a.legs	shortdescription	VH-i Balanced Legs Shield	VH-i 밸런스 다리 실드	
+/items/armors/other/thea-tiered/tier5m/thea-tier5m.chest	description	^green;Generic. ^white;A very high intensity shield generator for protecting the chest, it provides high energy.	^green;범용. ^white;흉부를 보호하는 초고강도 실드 발생기. 높은 에너지 제공.	
+/items/armors/other/thea-tiered/tier5m/thea-tier5m.chest	shortdescription	VH-i Energetic Chest Shield	VH-i 기력 흉부 실드	
+/items/armors/other/thea-tiered/tier5m/thea-tier5m.head	description	^green;Generic. ^white;A very high intensity shield generator for protecting the head, it provides high energy.	^green;범용. ^white;머리를 보호하는 초고강도 실드 발생기. 높은 에너지 제공.	
+/items/armors/other/thea-tiered/tier5m/thea-tier5m.head	shortdescription	VH-i Energetic Head Shield	VH-i 기력 머리 실드	
+/items/armors/other/thea-tiered/tier5m/thea-tier5m.legs	description	^green;Generic. ^white;A very high intensity shield generator for protecting the legs, it provides high energy.	^green;범용. ^white;다리를 보호하는 초고강도 실드 발생기. 높은 에너지 제공.	
+/items/armors/other/thea-tiered/tier5m/thea-tier5m.legs	shortdescription	VH-i Energetic Legs Shield	VH-i 기력 다리 실드	
+/items/armors/other/thea-tiered/tier5s/thea-tier5s.chest	description	^green;Generic. ^white;A very high intensity shield generator for protecting the chest, it provides great protection.	^green;범용. ^white;흉부를 보호하는 초고강도 실드 발생기. 뛰어난 방어력 제공.	
+/items/armors/other/thea-tiered/tier5s/thea-tier5s.chest	shortdescription	VH-i Defensive Chest Shield	VH-i 방어 흉부 실드	
+/items/armors/other/thea-tiered/tier5s/thea-tier5s.head	description	^green;Generic. ^white;A very high intensity shield generator for protecting the head, it provides great protection.	^green;범용. ^white;머리를 보호하는 초고강도 실드 발생기. 뛰어난 방어력 제공.	
+/items/armors/other/thea-tiered/tier5s/thea-tier5s.head	shortdescription	VH-i Defensive Head Shield	VH-i 방어 머리 실드	
+/items/armors/other/thea-tiered/tier5s/thea-tier5s.legs	description	^green;Generic. ^white;A very high intensity shield generator for protecting the legs, it provides great protection.	^green;범용. ^white;다리를 보호하는 초고강도 실드 발생기. 뛰어난 방어력 제공.	
+/items/armors/other/thea-tiered/tier5s/thea-tier5s.legs	shortdescription	VH-i Defensive Legs Shield	VH-i 방어 다리 실드	
+/items/armors/other/thea-tiered/tier6a/thea-tier6a.chest	description	^green;Generic. ^white;An extremely high intensity shield generator for protecting the chest, with a balanced performance.	^green;범용. ^white;흉부를 보호하는 극고강도 실드 발생기. 균형 잡힌 성능.	
+/items/armors/other/thea-tiered/tier6a/thea-tier6a.chest	shortdescription	EH-i Balanced Chest Shield	EH-i 밸런스 흉부 실드	
+/items/armors/other/thea-tiered/tier6a/thea-tier6a.head	description	^green;Generic. ^white;An extremely high intensity shield generator for protecting the head, with a balanced performance.	^green;범용. ^white;머리를 보호하는 극고강도 실드 발생기. 균형 잡힌 성능.	
+/items/armors/other/thea-tiered/tier6a/thea-tier6a.head	shortdescription	EH-i Balanced Head Shield	EH-i 밸런스 머리 실드	
+/items/armors/other/thea-tiered/tier6a/thea-tier6a.legs	description	^green;Generic. ^white;An extremely high intensity shield generator for protecting the legs, with a balanced performance.	^green;범용. ^white;다리를 보호하는 극고강도 실드 발생기. 균형 잡힌 성능.	
+/items/armors/other/thea-tiered/tier6a/thea-tier6a.legs	shortdescription	EH-i Balanced Legs Shield	EH-i 밸런스 다리 실드	
+/items/armors/other/thea-tiered/tier6m/thea-tier6m.chest	description	^green;Generic. ^white;An extremely high intensity shield generator for protecting the chest, it provides high energy.	^green;범용. ^white;흉부를 보호하는 극고강도 실드 발생기. 높은 에너지 제공.	
+/items/armors/other/thea-tiered/tier6m/thea-tier6m.chest	shortdescription	EH-i Energetic Chest Shield	EH-i 기력 흉부 실드	
+/items/armors/other/thea-tiered/tier6m/thea-tier6m.head	description	^green;Generic. ^white;An extremely high intensity shield generator for protecting the head, it provides high energy.	^green;범용. ^white;머리를 보호하는 극고강도 실드 발생기. 높은 에너지 제공.	
+/items/armors/other/thea-tiered/tier6m/thea-tier6m.head	shortdescription	EH-i Energetic Head Shield	EH-i 기력 머리 실드	
+/items/armors/other/thea-tiered/tier6m/thea-tier6m.legs	description	^green;Generic. ^white;An extremely high intensity shield generator for protecting the legs, it provides high energy.	^green;범용. ^white;다리를 보호하는 극고강도 실드 발생기. 높은 에너지 제공.	
+/items/armors/other/thea-tiered/tier6m/thea-tier6m.legs	shortdescription	EH-i Energetic Legs Shield	EH-i 기력 다리 실드	
+/items/armors/other/thea-tiered/tier6s/thea-tier6s.chest	description	^green;Generic. ^white;An extremely high intensity shield generator for protecting the chest, it provides great protection.	^green;범용. ^white;흉부를 보호하는 극고강도 실드 발생기. 뛰어난 방어력 제공.	
+/items/armors/other/thea-tiered/tier6s/thea-tier6s.chest	shortdescription	EH-i Defensive Chest Shield	EH-i 방어 흉부 실드	
+/items/armors/other/thea-tiered/tier6s/thea-tier6s.head	description	^green;Generic. ^white;An extremely high intensity shield generator for protecting the head, it provides great protection.	^green;범용. ^white;머리를 보호하는 극고강도 실드 발생기. 뛰어난 방어력 제공.	
+/items/armors/other/thea-tiered/tier6s/thea-tier6s.head	shortdescription	EH-i Defensive Head Shield	EH-i 방어 머리 실드	
+/items/armors/other/thea-tiered/tier6s/thea-tier6s.legs	description	^green;Generic. ^white;An extremely high intensity shield generator for protecting the legs, it provides great protection.	^green;범용. ^white;다리를 보호하는 극고강도 실드 발생기. 뛰어난 방어력 제공.	
+/items/armors/other/thea-tiered/tier6s/thea-tier6s.legs	shortdescription	EH-i Defensive Legs Shield	EH-i 방어 다리 실드	
+/items/armors/thelean/thelean-hologram/thelean-hologram.chest	description	^green;Thelean. ^white;Makes you appear like an Avikan hologram.	^green;텔레안. ^white;아비칸 홀로그램처럼 보이게 해 준다.	
+/items/armors/thelean/thelean-hologram/thelean-hologram.chest	shortdescription	Holographic Arms	홀로그램 팔	
+/items/armors/thelean/thelean-hologram/thelean-hologram.head	description	^green;Thelean. ^white;Makes you appear like an Avikan hologram.	^green;텔레안. ^white;아비칸 홀로그램처럼 보이게 해 준다.	
+/items/armors/thelean/thelean-hologram/thelean-hologram.head	shortdescription	Holographic Head	홀로그램 머리	
+/items/armors/thelean/thelean-hologram/thelean-hologram.legs	description	^green;Thelean. ^white;Makes you appear like an Avikan hologram.	^green;텔레안. ^white;아비칸 홀로그램처럼 보이게 해 준다.	
+/items/armors/thelean/thelean-hologram/thelean-hologram.legs	shortdescription	Holographic Body	홀로그램 몸통	
+/items/armors/thelean/thelean-light/thelean-light.chest	description	^green;Thelean. ^white;Part of an exoskeleton built for scouts.	^green;텔레안. ^white;정찰용으로 만들어진 외골격의 일부.	
+/items/armors/thelean/thelean-light/thelean-light.chest	shortdescription	Vahn'en Exoskeleton	반엔 외골격	
+/items/armors/thelean/thelean-light/thelean-light.head	description	^green;Thelean. ^white;Part of an exoskeleton built for scouts.	^green;텔레안. ^white;정찰용으로 만들어진 외골격의 일부.	
+/items/armors/thelean/thelean-light/thelean-light.head	shortdescription	Vahn'en Exoskull	반엔 외골두	
+/items/armors/thelean/thelean-medium/thelean-medium.chest	description	^green;Thelean. ^white;Part of an exoskeleton built for combat use.	^green;텔레안. ^white;전투용으로 만들어진 외골격의 일부.	
+/items/armors/thelean/thelean-medium/thelean-medium.chest	shortdescription	Tha'vark Exoskeleton	타바크 외골격	
+/items/armors/thelean/thelean-medium/thelean-medium.head	description	^green;Thelean. ^white;Part of an exoskeleton built for combat use.	^green;텔레안. ^white;전투용으로 만들어진 외골격의 일부.	
+/items/armors/thelean/thelean-medium/thelean-medium.head	shortdescription	Tha'vark Exoskull	타바크 외골두	
+/items/armors/thelean/thelean-verylight/thelean-verylight.chest	description	^green;Thelean. ^white;Part of a minimalistic exoskeleton.	^green;텔레안. ^white;간결한 외골격의 일부.	
+/items/armors/thelean/thelean-verylight/thelean-verylight.chest	shortdescription	Keth Exoskeleton	케스 외골격	
+/items/armors/thelean/thelean-verylight/thelean-verylight.head	description	^green;Thelean. ^white;Part of a minimalistic exoskeleton.	^green;텔레안. ^white;간결한 외골격의 일부.	
+/items/armors/thelean/thelean-verylight/thelean-verylight.head	shortdescription	Keth Exoskull	케스 외골두	
+/items/armors/trink/trink-alliance/trink-alliance.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;An arm mod painted in the Elithian Alliance colours.	^green;트링크. ^orange;흉부 슬롯. ^white;엘리시안 얼라이언스 색으로 칠한 팔 부품.	
+/items/armors/trink/trink-alliance/trink-alliance.chest	shortdescription	Alliance Arm Mod	얼라이언스 팔 부품	
+/items/armors/trink/trink-alliance/trink-alliance.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A body mod painted in the Elithian Alliance colours.	^green;트링크. ^orange;다리 슬롯. ^white;엘리시안 얼라이언스 색으로 칠한 몸체 부품.	
+/items/armors/trink/trink-alliance/trink-alliance.legs	shortdescription	Alliance Body Mod	얼라이언스 몸체 부품	
+/items/armors/trink/trink-combat/trink-combat.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;An arm mod built for combat situations.	^green;트링크. ^orange;흉부 슬롯. ^white;전투 상황용으로 만들어진 팔 부품.	
+/items/armors/trink/trink-combat/trink-combat.chest	shortdescription	Combat Hull Arm Mod	전투 선체 팔 부품	
+/items/armors/trink/trink-combat/trink-combat.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A body mod built for combat situations.	^green;트링크. ^orange;다리 슬롯. ^white;전투 상황용으로 만들어진 몸체 부품.	
+/items/armors/trink/trink-combat/trink-combat.legs	shortdescription	Combat Hull Body Mod	전투 선체 몸체 부품	
+/items/armors/trink/trink-engineer/trink-engineer.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A body mod featuring reinforced eyes, for the engineer who wants to work safely.	^green;트링크. ^orange;다리 슬롯. ^white;강화 광학장치를 갖춘 몸체 부품. 안전하게 일하고 싶은 기술자용.	
+/items/armors/trink/trink-engineer/trink-engineer.legs	shortdescription	Engineer Body Mod	기술자 몸체 부품	
+/items/armors/trink/trink-golden/trink-golden.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;An arm mod made of solid gold. Precious.	^green;트링크. ^orange;흉부 슬롯. ^white;순금으로 만든 팔 부품. 귀중품.	
+/items/armors/trink/trink-golden/trink-golden.chest	shortdescription	Golden Arm Mod	황금 팔 부품	
+/items/armors/trink/trink-golden/trink-golden.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A body mod made of solid gold. Precious.	^green;트링크. ^orange;다리 슬롯. ^white;순금으로 만든 몸체 부품. 귀중품.	
+/items/armors/trink/trink-golden/trink-golden.legs	shortdescription	Golden Body Mod	황금 몸체 부품	
+/items/armors/trink/trink-painted/trink-painted.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;An arm mod painted in a single colour.	^green;트링크. ^orange;흉부 슬롯. ^white;단색으로 칠한 팔 부품.	
+/items/armors/trink/trink-painted/trink-painted.chest	shortdescription	Painted Arm Mod	단색 팔 부품	
+/items/armors/trink/trink-painted/trink-painted.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A body mod painted in a single colour.	^green;트링크. ^orange;다리 슬롯. ^white;단색으로 칠한 몸체 부품.	
+/items/armors/trink/trink-painted/trink-painted.legs	shortdescription	Painted Body Mod	단색 몸체 부품	
+/items/armors/trink/trink-paintedhalf/trink-paintedhalf.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A body mod painted in a single colour, for the bottom half only.	^green;트링크. ^orange;다리 슬롯. ^white;하반신만 단색으로 칠한 몸체 부품.	
+/items/armors/trink/trink-paintedhalf/trink-paintedhalf.legs	shortdescription	Half-Painted Body Mod	하반신 단색 몸체 부품	
+/items/armors/trink/trink-protectorate/trink-protectorate.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;An arm mod painted in the Terrane Protectorate colours.	^green;트링크. ^orange;흉부 슬롯. ^white;보호국 색으로 칠한 팔 부품.	
+/items/armors/trink/trink-protectorate/trink-protectorate.chest	shortdescription	Protectorate Arm Mod	보호국 팔 부품	
+/items/armors/trink/trink-protectorate/trink-protectorate.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A body mod painted in the Terrane Protectorate colours.	^green;트링크. ^orange;다리 슬롯. ^white;보호국 색으로 칠한 몸체 부품.	
+/items/armors/trink/trink-protectorate/trink-protectorate.legs	shortdescription	Protectorate Body Mod	보호국 몸체 부품	
+/items/armors/trink/trink-rags/trink-rags.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A ragged cloth worn by the Bolter.	^green;트링크. ^orange;다리 슬롯. ^white;볼터가 입는 너덜너덜한 천.	
+/items/armors/trink/trink-rags/trink-rags.legs	shortdescription	Bolter's Rags	볼터 누더기	
+/items/armors/trink/trink-rim/trink-rim.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;Arm modifications used by Trinks of the Rim.	^green;트링크. ^orange;흉부 슬롯. ^white;림의 트링크가 쓰는 팔 개조품.	
+/items/armors/trink/trink-rim/trink-rim.chest	shortdescription	Rimdweller Arm Mod	림 주민 팔 부품	
+/items/armors/trink/trink-rim/trink-rim.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;Body modifications used by Trink of the Rim.	^green;트링크. ^orange;다리 슬롯. ^white;림의 트링크가 쓰는 몸체 개조품.	
+/items/armors/trink/trink-rim/trink-rim.legs	shortdescription	Rimdweller Body Mod	림 주민 몸체 부품	
+/items/armors/trink/trink-striped/trink-striped.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;An arm mod with coloured stripes. For the fancy robot.	^green;트링크. ^orange;흉부 슬롯. ^white;색 줄무늬가 있는 팔 부품. 멋쟁이 로봇용.	
+/items/armors/trink/trink-striped/trink-striped.chest	shortdescription	Striped Arm Mod	줄무늬 팔 부품	
+/items/armors/trink/trink-striped/trink-striped.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A body mod with coloured stripes. For the fancy robot.	^green;트링크. ^orange;다리 슬롯. ^white;색 줄무늬가 있는 몸체 부품. 멋쟁이 로봇용.	
+/items/armors/trink/trink-striped/trink-striped.legs	shortdescription	Striped Body Mod	줄무늬 몸체 부품	
+/items/armors/trink/trink-tiered/tier1/trink-tier1.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;A low-grade iron arm mod.	^green;트링크. ^orange;흉부 슬롯. ^white;하급 철제 팔 부품.	
+/items/armors/trink/trink-tiered/tier1/trink-tier1.chest	shortdescription	Mark I Arm Mod	마크 I 팔 부품	
+/items/armors/trink/trink-tiered/tier1/trink-tier1.head	description	^green;Trink. ^orange;HEAD SLOT. ^white;A low-grade iron optics mod.	^green;트링크. ^orange;머리 슬롯. ^white;하급 철제 광학 부품.	
+/items/armors/trink/trink-tiered/tier1/trink-tier1.head	shortdescription	Mark I Optics Mod	마크 I 광학 부품	
+/items/armors/trink/trink-tiered/tier1/trink-tier1.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A low-grade iron body mod.	^green;트링크. ^orange;다리 슬롯. ^white;하급 철제 몸체 부품.	
+/items/armors/trink/trink-tiered/tier1/trink-tier1.legs	shortdescription	Mark I Body Mod	마크 I 몸체 부품	
+/items/armors/trink/trink-tiered/tier2/trink-tier2.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;A low-grade steel arm mod.	^green;트링크. ^orange;흉부 슬롯. ^white;하급 강철 팔 부품.	
+/items/armors/trink/trink-tiered/tier2/trink-tier2.chest	shortdescription	Mark II Arm Mod	마크 II 팔 부품	
+/items/armors/trink/trink-tiered/tier2/trink-tier2.head	description	^green;Trink. ^orange;HEAD SLOT. ^white;A low-grade steel optics mod.	^green;트링크. ^orange;머리 슬롯. ^white;하급 강철 광학 부품.	
+/items/armors/trink/trink-tiered/tier2/trink-tier2.head	shortdescription	Mark II Optics Mod	마크 II 광학 부품	
+/items/armors/trink/trink-tiered/tier2/trink-tier2.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A low-grade steel body mod.	^green;트링크. ^orange;다리 슬롯. ^white;하급 강철 몸체 부품.	
+/items/armors/trink/trink-tiered/tier2/trink-tier2.legs	shortdescription	Mark II Body Mod	마크 II 몸체 부품	
+/items/armors/trink/trink-tiered/tier3/trink-tier3.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;A medium-grade titanium arm mod.	^green;트링크. ^orange;흉부 슬롯. ^white;중급 티타늄 팔 부품.	
+/items/armors/trink/trink-tiered/tier3/trink-tier3.chest	shortdescription	Mark III Arm Mod	마크 III 팔 부품	
+/items/armors/trink/trink-tiered/tier3/trink-tier3.head	description	^green;Trink. ^orange;HEAD SLOT. ^white;A medium-grade titanium optics mod.	^green;트링크. ^orange;머리 슬롯. ^white;중급 티타늄 광학 부품.	
+/items/armors/trink/trink-tiered/tier3/trink-tier3.head	shortdescription	Mark III Optics Mod	마크 III 광학 부품	
+/items/armors/trink/trink-tiered/tier3/trink-tier3.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A medium-grade titanium body mod.	^green;트링크. ^orange;다리 슬롯. ^white;중급 티타늄 몸체 부품.	
+/items/armors/trink/trink-tiered/tier3/trink-tier3.legs	shortdescription	Mark III Body Mod	마크 III 몸체 부품	
+/items/armors/trink/trink-tiered/tier4/trink-tier4.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;A medium-grade durasteel arm mod.	^green;트링크. ^orange;흉부 슬롯. ^white;중급 듀라스틸 팔 부품.	
+/items/armors/trink/trink-tiered/tier4/trink-tier4.chest	shortdescription	Mark IV Arm Mod	마크 IV 팔 부품	
+/items/armors/trink/trink-tiered/tier4/trink-tier4.head	description	^green;Trink. ^orange;HEAD SLOT. ^white;A medium-grade durasteel optics mod.	^green;트링크. ^orange;머리 슬롯. ^white;중급 듀라스틸 광학 부품.	
+/items/armors/trink/trink-tiered/tier4/trink-tier4.head	shortdescription	Mark IV Optics Mod	마크 IV 광학 부품	
+/items/armors/trink/trink-tiered/tier4/trink-tier4.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A medium-grade durasteel body mod.	^green;트링크. ^orange;다리 슬롯. ^white;중급 듀라스틸 몸체 부품.	
+/items/armors/trink/trink-tiered/tier4/trink-tier4.legs	shortdescription	Mark IV Body Mod	마크 IV 몸체 부품	
+/items/armors/trink/trink-tiered/tier5a/trink-tier5a.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;A high-grade aegisalt arm mod.	^green;트링크. ^orange;흉부 슬롯. ^white;고급 에이지솔트 팔 부품.	
+/items/armors/trink/trink-tiered/tier5a/trink-tier5a.chest	shortdescription	Enforcer Arm Mod	인포서 팔 부품	
+/items/armors/trink/trink-tiered/tier5a/trink-tier5a.head	description	^green;Trink. ^orange;HEAD SLOT. ^white;A high-grade aegisalt optics mod.	^green;트링크. ^orange;머리 슬롯. ^white;고급 에이지솔트 광학 부품.	
+/items/armors/trink/trink-tiered/tier5a/trink-tier5a.head	shortdescription	Enforcer Optics Mod	인포서 광학 부품	
+/items/armors/trink/trink-tiered/tier5a/trink-tier5a.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A high-grade aegisalt body mod.	^green;트링크. ^orange;다리 슬롯. ^white;고급 에이지솔트 몸체 부품.	
+/items/armors/trink/trink-tiered/tier5a/trink-tier5a.legs	shortdescription	Enforcer Body Mod	인포서 몸체 부품	
+/items/armors/trink/trink-tiered/tier5m/trink-tier5m.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;A high-grade rubium arm mod.	^green;트링크. ^orange;흉부 슬롯. ^white;고급 루비움 팔 부품.	
+/items/armors/trink/trink-tiered/tier5m/trink-tier5m.chest	shortdescription	Utilitarian Arm Mod	실용주의 팔 부품	
+/items/armors/trink/trink-tiered/tier5m/trink-tier5m.head	description	^green;Trink. ^orange;HEAD SLOT. ^white;A high-grade rubium optics mod.	^green;트링크. ^orange;머리 슬롯. ^white;고급 루비움 광학 부품.	
+/items/armors/trink/trink-tiered/tier5m/trink-tier5m.head	shortdescription	Utilitarian Optics Mod	실용주의 광학 부품	
+/items/armors/trink/trink-tiered/tier5m/trink-tier5m.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A high-grade rubium body mod.	^green;트링크. ^orange;다리 슬롯. ^white;고급 루비움 몸체 부품.	
+/items/armors/trink/trink-tiered/tier5m/trink-tier5m.legs	shortdescription	Utilitarian Body Mod	실용주의 몸체 부품	
+/items/armors/trink/trink-tiered/tier5s/trink-tier5s.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;A high-grade violium arm mod.	^green;트링크. ^orange;흉부 슬롯. ^white;고급 바이올륨 팔 부품.	
+/items/armors/trink/trink-tiered/tier5s/trink-tier5s.chest	shortdescription	Vanguard Arm Mod	뱅가드 팔 부품	
+/items/armors/trink/trink-tiered/tier5s/trink-tier5s.head	description	^green;Trink. ^orange;HEAD SLOT. ^white;A high-grade violium optics mod.	^green;트링크. ^orange;머리 슬롯. ^white;고급 바이올륨 광학 부품.	
+/items/armors/trink/trink-tiered/tier5s/trink-tier5s.head	shortdescription	Vanguard Optics Mod	뱅가드 광학 부품	
+/items/armors/trink/trink-tiered/tier5s/trink-tier5s.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A high-grade violium body mod.	^green;트링크. ^orange;다리 슬롯. ^white;고급 바이올륨 몸체 부품.	
+/items/armors/trink/trink-tiered/tier5s/trink-tier5s.legs	shortdescription	Vanguard Body Mod	뱅가드 몸체 부품	
+/items/armors/trink/trink-tiered/tier6a/trink-tier6a.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;A very high-grade solarium-enhanced arm mod.	^green;트링크. ^orange;흉부 슬롯. ^white;최고급 솔라리움 강화 팔 부품.	
+/items/armors/trink/trink-tiered/tier6a/trink-tier6a.chest	shortdescription	Enforcer Arm Mod v2	인포서 팔 부품 v2	
+/items/armors/trink/trink-tiered/tier6a/trink-tier6a.head	description	^green;Trink. ^orange;HEAD SLOT. ^white;A very high-grade solarium-enhanced optics mod.	^green;트링크. ^orange;머리 슬롯. ^white;최고급 솔라리움 강화 광학 부품.	
+/items/armors/trink/trink-tiered/tier6a/trink-tier6a.head	shortdescription	Enforcer Optics Mod v2	인포서 광학 부품 v2	
+/items/armors/trink/trink-tiered/tier6a/trink-tier6a.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A very high-grade solarium-enhanced body mod.	^green;트링크. ^orange;다리 슬롯. ^white;최고급 솔라리움 강화 몸체 부품.	
+/items/armors/trink/trink-tiered/tier6a/trink-tier6a.legs	shortdescription	Enforcer Body Mod v2	인포서 몸체 부품 v2	
+/items/armors/trink/trink-tiered/tier6m/trink-tier6m.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;A very high-grade solarium-enhanced arm mod.	^green;트링크. ^orange;흉부 슬롯. ^white;최고급 솔라리움 강화 팔 부품.	
+/items/armors/trink/trink-tiered/tier6m/trink-tier6m.chest	shortdescription	Utilitarian Arm Mod v2	실용주의 팔 부품 v2	
+/items/armors/trink/trink-tiered/tier6m/trink-tier6m.head	description	^green;Trink. ^orange;HEAD SLOT. ^white;A very high-grade solarium-enhanced optics mod.	^green;트링크. ^orange;머리 슬롯. ^white;최고급 솔라리움 강화 광학 부품.	
+/items/armors/trink/trink-tiered/tier6m/trink-tier6m.head	shortdescription	Utilitarian Optics Mod v2	실용주의 광학 부품 v2	
+/items/armors/trink/trink-tiered/tier6m/trink-tier6m.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A very high-grade solarium-enhanced body mod.	^green;트링크. ^orange;다리 슬롯. ^white;최고급 솔라리움 강화 몸체 부품.	
+/items/armors/trink/trink-tiered/tier6m/trink-tier6m.legs	shortdescription	Utilitarian Body Mod v2	실용주의 몸체 부품 v2	
+/items/armors/trink/trink-tiered/tier6s/trink-tier6s.chest	description	^green;Trink. ^orange;CHEST SLOT. ^white;A very high-grade solarium-enhanced arm mod.	^green;트링크. ^orange;흉부 슬롯. ^white;최고급 솔라리움 강화 팔 부품.	
+/items/armors/trink/trink-tiered/tier6s/trink-tier6s.chest	shortdescription	Vanguard Arm Mod v2	뱅가드 팔 부품 v2	
+/items/armors/trink/trink-tiered/tier6s/trink-tier6s.head	description	^green;Trink. ^orange;HEAD SLOT. ^white;A very high-grade solarium-enhanced optics mod.	^green;트링크. ^orange;머리 슬롯. ^white;최고급 솔라리움 강화 광학 부품.	
+/items/armors/trink/trink-tiered/tier6s/trink-tier6s.head	shortdescription	Vanguard Optics Mod v2	뱅가드 광학 부품 v2	
+/items/armors/trink/trink-tiered/tier6s/trink-tier6s.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A very high-grade solarium-enhanced body mod.	^green;트링크. ^orange;다리 슬롯. ^white;최고급 솔라리움 강화 몸체 부품.	
+/items/armors/trink/trink-tiered/tier6s/trink-tier6s.legs	shortdescription	Vanguard Body Mod v2	뱅가드 몸체 부품 v2	
+/items/armors/trink/trink-welder/trink-welder.legs	description	^green;Trink. ^orange;LEG SLOT. ^white;A body mod for Trinkian welder units, featuring oversized and reinforced optics.	^green;트링크. ^orange;다리 슬롯. ^white;대형 강화 광학장치를 갖춘 트링키안 용접 유닛용 몸체 부품.	
+/items/armors/trink/trink-welder/trink-welder.legs	shortdescription	Welder Body Mod	용접 몸체 부품	
+/items/armors/unique/aegi-skullhelm/aegi-skullhelm.head	description	^green;Aegi. ^white;The helmet of the legendary Thellhunter. The built-in HUD automatically marks potential targets.	^green;에이지. ^white;전설적인 텔헌터의 헬멧. 내장 HUD가 잠재적 표적을 자동으로 표시한다.	
+/items/armors/unique/aegi-skullhelm/aegi-skullhelm.head	shortdescription	^orange;Thellhunter's Helmet^white;	^orange;텔헌터의 헬멧^white;	
+/items/armors/unique/aegi-wintersembrace/aegi-wintersembrace.chest	description	^green;Aegi. ^white;A strange chestplate imbued with the cold of winter. It freezes its surroundings.	^green;에이지. ^white;겨울의 냉기가 깃든 기묘한 흉갑. 주변을 얼어붙게 한다.	
+/items/armors/unique/aegi-wintersembrace/aegi-wintersembrace.chest	shortdescription	^orange;Winter's Embrace^reset;	^orange;겨울의 포옹^reset;	
+/items/armors/unique/akkimari-stalker/akkimari-stalker.chest	description	^green;Akkimari. ^white;A tactical chestpiece that turns the user invisible when health is critical.	^green;아키마리. ^white;체력이 위험할 때 사용자를 투명하게 만드는 전술 흉갑.	
+/items/armors/unique/akkimari-stalker/akkimari-stalker.chest	shortdescription	^orange;Akris Stalker Cuirass^white;	^orange;아크리스 추적자 흉갑^white;	
+/items/armors/unique/akkimari-stalker/akkimari-stalker.head	description	^green;Akkimari. ^white;A tactical helmet that marks enemies on the integrated HUD.	^green;아키마리. ^white;통합 HUD에 적을 표시하는 전술 헬멧.	
+/items/armors/unique/akkimari-stalker/akkimari-stalker.head	shortdescription	^orange;Akris Stalker Helmet^white;	^orange;아크리스 추적자 헬멧^white;	
+/items/armors/unique/akkimari-stalker/akkimari-stalker.legs	description	^green;Akkimari. ^white;Tactical greaves that activate a cloaking field after crouching for a short time.	^green;아키마리. ^white;잠시 웅크리면 은폐장을 발동시키는 전술 그리브.	
+/items/armors/unique/akkimari-stalker/akkimari-stalker.legs	shortdescription	^orange;Akris Stalker Greaves^white;	^orange;아크리스 추적자 그리브^white;	
+/items/armors/unique/avikan-exosuit/avikan-exosuit.legs	description	^green;Avikan. ^white;An exosuit built to enhance the agility of Vanguard soldiers. The reinforced spine also reduces fall damage.	^green;아비칸. ^white;뱅가드 병사의 기동성을 높이도록 만들어진 외골격복. 강화 척추는 낙하 피해도 줄여 준다.	
+/items/armors/unique/avikan-exosuit/avikan-exosuit.legs	shortdescription	^orange;Vanguard Exo-suit^white;	^orange;뱅가드 외골격복^white;	
+/items/armors/unique/avikan-rhadeihan/avikan-rhadeihan.chest	description	^green;Avikan. ^white;A chestpiece with an integrated regenerative matrix which starts healing its wearer shortly after taking damage.	^green;아비칸. ^white;피해를 입은 뒤 잠시 후 착용자를 치유하기 시작하는 재생 매트릭스 내장 흉갑.	
+/items/armors/unique/avikan-rhadeihan/avikan-rhadeihan.chest	shortdescription	^orange;Rhadeihan Chestpiece^white;	^orange;라데이한 흉갑^white;	
+/items/armors/unique/avikan-rhadeihan/avikan-rhadeihan.head	description	^green;Avikan. ^white;An exosuit helmet that quickly replenishes its wearer's energy reserves.	^green;아비칸. ^white;착용자의 에너지를 빠르게 회복시키는 외골격복 헬멧.	
+/items/armors/unique/avikan-rhadeihan/avikan-rhadeihan.head	shortdescription	^orange;Rhadeihan Helmet^white;	^orange;라데이한 헬멧^white;	
+/items/armors/unique/avikan-rhadeihan/avikan-rhadeihan.legs	description	^green;Avikan. ^white;Exosuit leggings that absorb impacts from falls, and activate fall breaker thrusters when falling.	^green;아비칸. ^white;낙하 충격을 흡수하고 낙하 시 추진기로 속도를 줄여 주는 외골격복 레깅스.	
+/items/armors/unique/avikan-rhadeihan/avikan-rhadeihan.legs	shortdescription	^orange;Rhadeihan Leggings^white;	^orange;라데이한 레깅스^white;	
+/items/armors/unique/avikan-thellhunter/avikan-thellhunter.head	description	^green;Avikan. ^white;The helmet of the legendary Thellhunter. The built-in HUD automatically marks potential targets.	^green;아비칸. ^white;전설적인 텔헌터의 헬멧. 내장 HUD가 잠재적 표적을 자동으로 표시한다.	
+/items/armors/unique/avikan-thellhunter/avikan-thellhunter.head	shortdescription	^orange;Thellhunter's Helmet^white;	^orange;텔헌터의 헬멧^white;	
+/items/augments/back/thea-bubbleshieldaugment1.augment	description	Provides a shield that absorbs a small amount of damage before breaking.	파괴되기 전에 소량의 피해를 흡수하는 실드를 제공한다.	
+/items/augments/back/thea-bubbleshieldaugment1.augment	shortdescription	Bubble Shield Augment I	버블 실드 증강 I	
+/items/augments/back/thea-bubbleshieldaugment2.augment	description	Provides a shield that absorbs a moderate amount of damage before breaking.	파괴되기 전에 중간 정도의 피해를 흡수하는 실드를 제공한다.	
+/items/augments/back/thea-bubbleshieldaugment2.augment	shortdescription	Bubble Shield Augment II	버블 실드 증강 II	
+/items/augments/back/thea-bubbleshieldaugment3.augment	description	Provides a shield that absorbs a large amount of damage before breaking.	파괴되기 전에 대량의 피해를 흡수하는 실드를 제공한다.	
+/items/augments/back/thea-bubbleshieldaugment3.augment	shortdescription	Bubble Shield Augment III	버블 실드 증강 III	
+/items/augments/back/thea-forceshieldaugment1.augment	description	Provides a slowly recharging shield that pushes away enemies and projectiles when broken.	천천히 재충전되는 실드를 제공하며, 파괴될 때 적과 발사체를 밀쳐낸다.	
+/items/augments/back/thea-forceshieldaugment1.augment	shortdescription	Force Shield Augment I	포스 실드 증강 I	
+/items/augments/back/thea-forceshieldaugment2.augment	description	Provides a recharging shield that pushes away enemies and projectiles when broken.	재충전되는 실드를 제공하며, 파괴될 때 적과 발사체를 밀쳐낸다.	
+/items/augments/back/thea-forceshieldaugment2.augment	shortdescription	Force Shield Augment II	포스 실드 증강 II	
+/items/augments/back/thea-forceshieldaugment3.augment	description	Provides a quickly recharging shield that pushes away enemies and projectiles when broken.	빠르게 재충전되는 실드를 제공하며, 파괴될 때 적과 발사체를 밀쳐낸다.	
+/items/augments/back/thea-forceshieldaugment3.augment	shortdescription	Force Shield Augment III	포스 실드 증강 III	
+/items/events/landingfestival/fireworks/landingfireworksblue.thrownitem	shortdescription	Blue Fireworks	파란 불꽃놀이	
+/items/events/landingfestival/fireworks/landingfireworksblue.thrownitem	description	Colourful fireworks to celebrate the Landing Festival!	착륙제를 기념하는 알록달록한 불꽃놀이!	
+/items/events/landingfestival/fireworks/landingfireworksgreen.thrownitem	shortdescription	Green Fireworks	초록 불꽃놀이	
+/items/events/landingfestival/fireworks/landingfireworksgreen.thrownitem	description	Colourful fireworks to celebrate the Landing Festival!	착륙제를 기념하는 알록달록한 불꽃놀이!	
+/items/events/landingfestival/fireworks/landingfireworkspurple.thrownitem	shortdescription	Purple Fireworks	보라 불꽃놀이	
+/items/events/landingfestival/fireworks/landingfireworkspurple.thrownitem	description	Colourful fireworks to celebrate the Landing Festival!	착륙제를 기념하는 알록달록한 불꽃놀이!	
+/items/events/landingfestival/fireworks/landingfireworksrainbow.thrownitem	shortdescription	Rainbow Fireworks	무지개 불꽃놀이	
+/items/events/landingfestival/fireworks/landingfireworksrainbow.thrownitem	description	Colourful fireworks to celebrate the Landing Festival!	착륙제를 기념하는 알록달록한 불꽃놀이!	
+/items/events/landingfestival/fireworks/landingfireworksred.thrownitem	shortdescription	Red Fireworks	빨간 불꽃놀이	
+/items/events/landingfestival/fireworks/landingfireworksred.thrownitem	description	Colourful fireworks to celebrate the Landing Festival!	착륙제를 기념하는 알록달록한 불꽃놀이!	
+/items/materials/akkimari/akkimaribars.matitem	shortdescription	Akris Bars	아크리스 창살	reuse
+/items/materials/akkimari/akkimaribars.matitem	description	Incredibly sturdy metal bars.	믿기 힘들 만큼 튼튼한 금속 막대.	reuse
+/items/materials/akkimari/akkimaribeam.matitem	shortdescription	Akris Beam Horizontal	아크리스 수평 빔	reuse
+/items/materials/akkimari/akkimaribeam.matitem	description	A strong metal beam.	강한 금속 들보.	reuse
+/items/materials/akkimari/akkimaribeamconnector.matitem	shortdescription	Akris Beam Connector	아크리스 빔 커넥터	reuse
+/items/materials/akkimari/akkimaribeamconnector.matitem	description	A sturdy beam connector piece.	튼튼한 들보 연결 부품.	reuse
+/items/materials/akkimari/akkimaribeamvert.matitem	shortdescription	Akris Beam Vertical	아크리스 수직 빔	reuse
+/items/materials/akkimari/akkimaribeamvert.matitem	description	A strong metal beam.	강한 금속 들보.	reuse
+/items/materials/akkimari/akkimarifoundation.matitem	shortdescription	Akris Inner Wall	아크리스 내벽	reuse
+/items/materials/akkimari/akkimarifoundation.matitem	description	Metal plating used as an inner wall.	내벽으로 사용되는 금속판.	reuse
+/items/materials/akkimari/akkimariglass.matitem	shortdescription	Akris Glass	아크리스 유리	reuse
+/items/materials/akkimari/akkimariglass.matitem	description	A transparent multi-coloured crystal.	투명하고 여러 색을 띤 결정.	reuse
+/items/materials/akkimari/akkimarigroundpanel.matitem	shortdescription	Akris Floor Panel	아크리스 바닥 패널	reuse
+/items/materials/akkimari/akkimarigroundpanel.matitem	description	Scrap metal panels acting as a floorboard.	바닥재 역할을 하는 고철 패널.	reuse
+/items/materials/akkimari/akkimarihullpanel.matitem	shortdescription	Akris Hull Panel	아크리스 선체 패널	reuse
+/items/materials/akkimari/akkimarihullpanel.matitem	description	Durable plating made from assorted scrap metal.	여러 고철로 만든 튼튼한 판재.	reuse
+/items/materials/akkimari/akkimariplatform.matitem	shortdescription	Akris Platform	아크리스 플랫폼	reuse
+/items/materials/akkimari/akkimariplatform.matitem	description	A metal platform built from plates of scrap metal.	고철 판으로 만든 금속 발판입니다.	reuse
+/items/materials/akkimari/akkimariplating.matitem	shortdescription	Akris Plating	아크리스 판금	reuse
+/items/materials/akkimari/akkimariplating.matitem	description	Durable plating made from assorted scrap metal.	여러 고철로 만든 튼튼한 판재.	reuse
+/items/materials/akkimari/akkimariplatingfront.matitem	shortdescription	Akris Plating (Front)	아크리스 판금 (전면)	reuse
+/items/materials/akkimari/akkimariplatingfront.matitem	description	Durable plating made from assorted scrap metal.	여러 고철로 만든 튼튼한 판재.	reuse
+/items/materials/akkimari/akkimariscrap.matitem	shortdescription	Scrap Metal	고철	reuse
+/items/materials/akkimari/akkimariscrap.matitem	description	A heap of scrap metal.	고철 더미입니다.	reuse
+/items/materials/akkimari/akkimariscrapplating.matitem	shortdescription	Akris Scrap Plating	아크리스 폐품 판금	reuse
+/items/materials/akkimari/akkimariscrapplating.matitem	description	Durable plating made from assorted scrap metal.	여러 고철로 만든 튼튼한 판재.	reuse
+/items/materials/akkimari/akkimariscrapplatingfront.matitem	shortdescription	Akris Scrap Plating (Front)	아크리스 폐품 판금 (전면)	reuse
+/items/materials/akkimari/akkimariscrapplatingfront.matitem	description	Durable plating made from assorted scrap metal.	여러 고철로 만든 튼튼한 판재.	reuse
+/items/materials/alliance/alliancebackpanel.matitem	shortdescription	Alliance Backpanel	얼라이언스 뒷패널	reuse
+/items/materials/alliance/alliancebackpanel.matitem	description	A metal wall panel.	금속 벽 패널입니다.	reuse
+/items/materials/alliance/allianceborderlessglass.matitem	shortdescription	Borderless Alliance Glass	테두리 없는 얼라이언스 유리	reuse
+/items/materials/alliance/allianceborderlessglass.matitem	description	Triple-pane glass-like plastic, perfectly insulated.	삼중 유리 같은 플라스틱, 완벽 단열.	reuse
+/items/materials/alliance/alliancedoublepanel.matitem	shortdescription	Double Alliance Panel	더블 얼라이언스 패널	reuse
+/items/materials/alliance/alliancedoublepanel.matitem	description	Multi-layered metal panels.	다층 금속 패널.	reuse
+/items/materials/alliance/alliancefarmpanel.matitem	shortdescription	Alliance Farming Block	얼라이언스 농업 블록	reuse
+/items/materials/alliance/alliancefarmpanel.matitem	description	A metal container filled with fertile dirt, ready for farming.	비옥 흙 채운 금속 용기, 농사 준비 완료.	reuse
+/items/materials/alliance/alliancefence.matitem	shortdescription	Alliance Fence	얼라이언스 울타리	reuse
+/items/materials/alliance/alliancefence.matitem	description	A sturdy metal fence.	튼튼 금속 울타리.	reuse
+/items/materials/alliance/allianceglass.matitem	shortdescription	Alliance Glass	얼라이언스 유리	reuse
+/items/materials/alliance/allianceglass.matitem	description	Triple-pane glass-like plastic, perfectly insulated.	삼중 유리 같은 플라스틱, 완벽 단열.	reuse
+/items/materials/alliance/alliancegroundpanel.matitem	shortdescription	Alliance Ground Panel	얼라이언스 지면 패널	reuse
+/items/materials/alliance/alliancegroundpanel.matitem	description	A metal panel often used to cover the floor.	바닥을 덮을 때 주로 쓰는 금속 패널.	reuse
+/items/materials/alliance/alliancehullpanel.matitem	shortdescription	Alliance Hull Panel	얼라이언스 선체 패널	reuse
+/items/materials/alliance/alliancehullpanel.matitem	description	Durable metal plating, often used in the construction of spacestations and spaceships.	튼튼한 금속 판재, 우주 정거장과 우주선 건설에 자주 쓰인다.	reuse
+/items/materials/alliance/allianceinterfacewall.matitem	shortdescription	Alliance Interface Wall	얼라이언스 인터페이스 벽	reuse
+/items/materials/alliance/allianceinterfacewall.matitem	description	An interface screen integrated into a wall panel.	벽 패널에 통합된 인터페이스 화면이다.	reuse
+/items/materials/alliance/alliancepavementstone.matitem	shortdescription	Alliance Pavement Slabs	얼라이언스 포장 슬래브	reuse
+/items/materials/alliance/alliancepavementstone.matitem	description	Stone slabs used as pavement.	포장용으로 쓰이는 돌 판석.	reuse
+/items/materials/alliance/alliancepipe.matitem	shortdescription	Alliance Pipe	얼라이언스 파이프	reuse
+/items/materials/alliance/alliancepipe.matitem	description	A heavy, thick pipe. This isn't going to leak.	무겁고 두꺼운 파이프. 샐 일은 없겠다.	reuse
+/items/materials/alliance/alliancepipehollow.matitem	shortdescription	Alliance Pipe (Hollow)	얼라이언스 파이프 (속 빈)	reuse
+/items/materials/alliance/alliancepipehollow.matitem	description	A heavy, thick pipe. Liquids can flow through it.	무겁고 두꺼운 파이프. 액체가 흐를 수 있어.	reuse
+/items/materials/alliance/allianceplatform.matitem	shortdescription	Alliance Platform	얼라이언스 플랫폼	reuse
+/items/materials/alliance/allianceplatform.matitem	description	A metal platform.	금속 발판입니다.	reuse
+/items/materials/alliance/allianceprefabwall.matitem	shortdescription	Alliance Prefab Wall	얼라이언스 조립식 벽	reuse
+/items/materials/alliance/allianceprefabwall.matitem	description	Part of a pre-fabricated wall.	조립식 벽의 일부.	reuse
+/items/materials/alliance/alliancereinforcement.matitem	shortdescription	Alliance Reinforcement	얼라이언스 보강재	reuse
+/items/materials/alliance/alliancereinforcement.matitem	description	A strong metal block, used to reinforce larger structures.	더 큰 구조물을 보강하는 데 쓰이는 튼튼한 금속 블록.	reuse
+/items/materials/alliance/alliancesewagebars.matitem	shortdescription	Alliance Sewage Bars	얼라이언스 하수구 창살	reuse
+/items/materials/alliance/alliancesewagebars.matitem	description	Metal bars.	금속 창살.	reuse
+/items/materials/alliance/allianceslopedglass.matitem	shortdescription	Alliance Sloped Glass	얼라이언스 경사 유리	reuse
+/items/materials/alliance/allianceslopedglass.matitem	description	Thick and strong glass-like plastic often used on board spaceships.	두껍고 강한 유리질 플라스틱, 우주선에 자주 사용.	reuse
+/items/materials/alliance/allianceslopedpanel.matitem	shortdescription	Alliance Sloped Panel	얼라이언스 경사 패널	reuse
+/items/materials/alliance/allianceslopedpanel.matitem	description	A sloped metal panel, perfect for buildings walls with.	건물 벽을 짓기에 딱 좋은 경사진 금속 패널.	reuse
+/items/materials/alliance/alliancesmoothpanel.matitem	shortdescription	Alliance Panel	얼라이언스 패널	reuse
+/items/materials/alliance/alliancesmoothpanel.matitem	description	Polished metal panels.	연마된 금속 패널.	reuse
+/items/materials/alliance/alliancestairsplatform.matitem	shortdescription	Alliance Stairs	얼라이언스 계단	reuse
+/items/materials/alliance/alliancestairsplatform.matitem	description	Sturdy metal stairs.	튼튼한 금속 계단.	reuse
+/items/materials/alliance/alliancestonebrick.matitem	shortdescription	Alliance Stone Bricks	얼라이언스 석재 벽돌	reuse
+/items/materials/alliance/alliancestonebrick.matitem	description	Heavy stone bricks.	무거운 돌 벽돌.	reuse
+/items/materials/alliance/alliancestonebrickrough.matitem	shortdescription	Alliance Rough Bricks	얼라이언스 거친 벽돌	reuse
+/items/materials/alliance/alliancestonebrickrough.matitem	description	Heavy stone bricks.	무거운 돌 벽돌.	reuse
+/items/materials/alliance/alliancestoneplatform.matitem	shortdescription	Alliance Stone Stairs	얼라이언스 석재 계단	reuse
+/items/materials/alliance/alliancestoneplatform.matitem	description	Stone stairs.	돌계단.	reuse
+/items/materials/alliance/alliancestripedpanel.matitem	shortdescription	Striped Alliance Panel	줄무늬 얼라이언스 패널	reuse
+/items/materials/alliance/alliancestripedpanel.matitem	description	A polished metal panel, decorated by a colourful stripe.	화려한 줄무늬로 장식된, 매끄럽게 다듬어진 금속 패널.	reuse
+/items/materials/alliance/alliancesupport.matitem	shortdescription	Alliance Support Beam	얼라이언스 지지대	reuse
+/items/materials/alliance/alliancesupport.matitem	description	Heavy structural support beams.	무거운 구조 지지보.	reuse
+/items/materials/alliance/alliancethickplatform.matitem	shortdescription	Thick Alliance Platform	두꺼운 얼라이언스 발판	reuse
+/items/materials/alliance/alliancethickplatform.matitem	description	A thick metal platform. Very sturdy.	두꺼운 금속 발판. 매우 튼튼하다.	reuse
+/items/materials/alliance/alliancethickstairsplatform.matitem	description	Sturdy metal stairs.	튼튼한 금속 계단.	reuse
+/items/materials/alliance/alliancethickstairsplatform.matitem	shortdescription	Thick Alliance Stairs	두꺼운 얼라이언스 계단	reuse
+/items/materials/alliance/alliancethinsupport.matitem	shortdescription	Alliance Support Grid	얼라이언스 지지 그리드	reuse
+/items/materials/alliance/alliancethinsupport.matitem	description	Light structural support beams.	가벼운 구조 지지 기둥.	reuse
+/items/materials/avikan/avikanborderlessfabric.matitem	shortdescription	Borderless Avikan Fabric	테두리 없는 아비칸 원단	reuse
+/items/materials/avikan/avikanborderlessfabric.matitem	description	Fabric tapestry for wall decoration and insulation.	벽 장식과 단열에 쓰는 천 태피스트리.	reuse
+/items/materials/avikan/avikanborderlessglass.matitem	shortdescription	Borderless Avikan Glass	테두리 없는 아비칸 유리	reuse
+/items/materials/avikan/avikanborderlessglass.matitem	description	Thick glass from Kadavan.	카다반 두꺼운 유리.	reuse
+/items/materials/avikan/avikanborderlessleather.matitem	shortdescription	Borderless Avikan Leather	테두리 없는 아비칸 가죽	reuse
+/items/materials/avikan/avikanborderlessleather.matitem	description	Leather tapestry for wall decoration and insulation.	벽 장식과 단열에 쓰는 가죽 태피스트리.	reuse
+/items/materials/avikan/avikanborderlesspurplefabric.matitem	shortdescription	Borderless Rhaiod Fabric	테두리 없는 라이오드 원단	reuse
+/items/materials/avikan/avikanborderlesspurplefabric.matitem	description	A fabric wall sheet decorated in the style of the Rhaiod.	라이오드 양식으로 장식한 천제 벽 가리개.	reuse
+/items/materials/avikan/avikanbrokenpanel.matitem	shortdescription	Broken Avikan Panel	고장난 아비칸 패널	reuse
+/items/materials/avikan/avikanbrokenpanel.matitem	description	A cracked metal panel.	금이 간 금속 패널입니다.	reuse
+/items/materials/avikan/avikandarkgroundpanel.matitem	description	A dark metal panel.	검은 금속 패널.	reuse
+/items/materials/avikan/avikandarkgroundpanel.matitem	shortdescription	Dark Avikan Floor	다크 아비칸 바닥	reuse
+/items/materials/avikan/avikandarkpanel.matitem	description	A dark metal panel.	검은 금속 패널.	reuse
+/items/materials/avikan/avikandarkpanel.matitem	shortdescription	Dark Avikan Panel	다크 아비칸 패널	reuse
+/items/materials/avikan/avikandarkplatform.matitem	description	A dark metal platform.	어두운 금속 플랫폼.	reuse
+/items/materials/avikan/avikandarkplatform.matitem	shortdescription	Dark Avikan Platform	다크 아비칸 발판	reuse
+/items/materials/avikan/avikanfabrictentpole.matitem	description	A sturdy metal tent pole.	튼튼한 금속 천막 기둥.	reuse
+/items/materials/avikan/avikanfabrictentpole.matitem	shortdescription	Avikan Tent Pole	아비칸 텐트 기둥	reuse
+/items/materials/avikan/avikanglass.matitem	description	Thick glass from Kadavan.	카다반 두꺼운 유리.	reuse
+/items/materials/avikan/avikanglass.matitem	shortdescription	Avikan Glass	아비칸 유리	reuse
+/items/materials/avikan/avikangroundpanel.matitem	description	A metal panel, coloured like sand.	모래색 금속 패널.	reuse
+/items/materials/avikan/avikangroundpanel.matitem	shortdescription	Avikan Floor	아비칸 바닥	reuse
+/items/materials/avikan/avikanheavypipe.matitem	shortdescription	Avikan Heavy Pipe	아비칸 중형 파이프	reuse
+/items/materials/avikan/avikanheavypipe.matitem	description	A heavy, thick pipe. This isn't going to leak.	무겁고 두꺼운 파이프. 샐 일은 없겠다.	reuse
+/items/materials/avikan/avikanheavypipehollow.matitem	shortdescription	Avikan Heavy Pipe (Hollow)	아비칸 중형 파이프 (속 빈)	reuse
+/items/materials/avikan/avikanheavypipehollow.matitem	description	A heavy, thick pipe. Liquids can flow through it.	무겁고 두꺼운 파이프. 액체가 흐를 수 있어.	reuse
+/items/materials/avikan/avikanpanel.matitem	description	A metal panel, coloured like sand.	모래색 금속 패널.	reuse
+/items/materials/avikan/avikanpanel.matitem	shortdescription	Avikan Panel	아비칸 패널	reuse
+/items/materials/avikan/avikanplatform.matitem	description	A metal platform, coloured like sand.	모래색 금속 플랫폼.	reuse
+/items/materials/avikan/avikanplatform.matitem	shortdescription	Avikan Platform	아비칸 발판	reuse
+/items/materials/avikan/avikanpowerpanel.matitem	shortdescription	Avikan Power Panel	아비칸 전력 패널	reuse
+/items/materials/avikan/avikanpowerpanel.matitem	description	A metal panel with power cables embedded in its plating.	외판에 전력 케이블이 매립된 금속 패널.	reuse
+/items/materials/avikan/avikanpowerpanel2.matitem	shortdescription	Avikan Power Panel (Glow)	아비칸 전력 패널 (발광)	reuse
+/items/materials/avikan/avikanpowerpanel2.matitem	description	A metal panel with power cables embedded in its plating.	외판에 전력 케이블이 매립된 금속 패널.	reuse
+/items/materials/avikan/avikanpurplefabric.matitem	description	A fabric wall sheet decorated in the style of the Rhaiod.	라이오드 양식으로 장식한 천제 벽 가리개.	reuse
+/items/materials/avikan/avikanpurplefabric.matitem	shortdescription	Rhaiod Fabric	라이오드 직물	reuse
+/items/materials/avikan/avikanpurplefabrictentpole.matitem	description	A sturdy metal tent pole.	튼튼한 금속 천막 기둥.	reuse
+/items/materials/avikan/avikanpurplefabrictentpole.matitem	shortdescription	Rhaiod Tent Pole	라이오드 텐트 기둥	reuse
+/items/materials/avikan/avikanshipfloor.matitem	shortdescription	Avikan Ship Floor	아비칸 함선 바닥	reuse
+/items/materials/avikan/avikanshipfloor.matitem	description	A metal panel, coloured like sand.	모래색 금속 패널.	reuse
+/items/materials/avikan/avikanshippanel.matitem	description	A metal panel with sharp edges, for use on ships.	날카로운 모서리를 가진, 함선용 금속 패널입니다.	reuse
+/items/materials/avikan/avikanshippanel.matitem	shortdescription	Avikan Ship Panel	아비칸 함선 패널	reuse
+/items/materials/avikan/avikanshipwall.matitem	shortdescription	Avikan Ship Wall	아비칸 함선 벽	reuse
+/items/materials/avikan/avikanshipwall.matitem	description	Strong metal plating, for the best protection.	강한 금속 판, 최고 보호.	reuse
+/items/materials/avikan/avikanslopedglass.matitem	shortdescription	Avikan Sloped Glass	아비칸 경사 유리	reuse
+/items/materials/avikan/avikanslopedglass.matitem	description	Thick and strong glass often used on board spaceships.	우주선에 흔히 쓰이는 두껍고 튼튼한 유리.	reuse
+/items/materials/avikan/avikanslopedpanel.matitem	shortdescription	Avikan Hull Panel	아비칸 선체 패널	reuse
+/items/materials/avikan/avikanslopedpanel.matitem	description	Durable metal plating, often used in the construction of spacestations and spaceships.	튼튼한 금속 판재, 우주 정거장과 우주선 건설에 자주 쓰인다.	reuse
+/items/materials/avikan/avikanslopedpanel2.matitem	shortdescription	Avikan Hull Panel Variant	아비칸 선체 패널 변형	reuse
+/items/materials/avikan/avikanslopedpanel2.matitem	description	Durable metal plating, often used in the construction of spacestations and spaceships.	튼튼한 금속 판재, 우주 정거장과 우주선 건설에 자주 쓰인다.	reuse
+/items/materials/avikan/avikansmoothpanel.matitem	description	A metal panel, coloured like sand.	모래색 금속 패널.	reuse
+/items/materials/avikan/avikansmoothpanel.matitem	shortdescription	Smooth Avikan Panel	매끄러운 아비칸 패널	reuse
+/items/materials/avikan/avikanstairsplatform.matitem	description	Sturdy metal stairs.	튼튼한 금속 계단.	reuse
+/items/materials/avikan/avikanstairsplatform.matitem	shortdescription	Avikan Stairs	아비칸 계단	reuse
+/items/materials/avikan/avikansupportpanel.matitem	description	A dark metal panel.	검은 금속 패널.	reuse
+/items/materials/avikan/avikansupportpanel.matitem	shortdescription	Avikan Support Panel	아비칸 지지 패널	reuse
+/items/materials/avikan/avikantentpole.matitem	description	A sturdy metal tent pole.	튼튼한 금속 천막 기둥.	reuse
+/items/materials/avikan/avikantentpole.matitem	shortdescription	Avikan Tent Pole	아비칸 텐트 기둥	reuse
+/items/materials/avikan/avikanthickplatform.matitem	description	A metal platform, coloured like sand.	모래색 금속 플랫폼.	reuse
+/items/materials/avikan/avikanthickplatform.matitem	shortdescription	Thick Avikan Platform	두꺼운 아비칸 발판	reuse
+/items/materials/avikan/avikanthickstairsplatform.matitem	description	Sturdy metal stairs.	튼튼한 금속 계단.	reuse
+/items/materials/avikan/avikanthickstairsplatform.matitem	shortdescription	Thick Avikan Stairs	두꺼운 아비칸 계단	reuse
+/items/materials/centens/centensblockpanel.matitem	description	A lightweight panel.	가벼운 패널.	reuse
+/items/materials/centens/centensblockpanel.matitem	shortdescription	Centensian Panel	센텐시안 패널	reuse
+/items/materials/centens/centensglowpanel.matitem	description	A glowing panel.	빛나는 패널.	reuse
+/items/materials/centens/centensglowpanel.matitem	shortdescription	Glowing Centensian Panel	빛나는 센텐시안 패널	reuse
+/items/materials/centens/centensglowpanel2.matitem	description	A glowing panel.	빛나는 패널.	reuse
+/items/materials/centens/centensglowpanel2.matitem	shortdescription	Glowing Centensian Panel	빛나는 센텐시안 패널	reuse
+/items/materials/centens/centensgroundpanel.matitem	description	A lightweight panel.	가벼운 패널.	reuse
+/items/materials/centens/centensgroundpanel.matitem	shortdescription	Centensian Floor	센텐시안 바닥	reuse
+/items/materials/centens/centenshoripanel.matitem	description	A lightweight panel.	가벼운 패널.	reuse
+/items/materials/centens/centenshoripanel.matitem	shortdescription	Horizontal Centensian Panel	수평형 센텐시안 패널	reuse
+/items/materials/centens/centensslopedpanel.matitem	shortdescription	Centensian Sloped Panel	센텐시안 경사 패널	reuse
+/items/materials/centens/centensslopedpanel.matitem	description	A sloped panel built with a lightweight but incredibly strong metal.	가볍지만 믿을 수 없을 만큼 튼튼한 금속으로 만든 경사진 패널.	reuse
+/items/materials/centens/centenssmoothpanel.matitem	description	A lightweight panel.	가벼운 패널.	reuse
+/items/materials/centens/centenssmoothpanel.matitem	shortdescription	Smooth Centensian Panel	매끄러운 센텐시안 패널	reuse
+/items/materials/centens/centensvertglowpanel.matitem	description	A glowing panel.	빛나는 패널.	reuse
+/items/materials/centens/centensvertglowpanel.matitem	shortdescription	Glowing Centensian Panel	빛나는 센텐시안 패널	reuse
+/items/materials/centens/centensvertglowpanel2.matitem	description	A glowing panel.	빛나는 패널.	reuse
+/items/materials/centens/centensvertglowpanel2.matitem	shortdescription	Glowing Centensian Panel	빛나는 센텐시안 패널	reuse
+/items/materials/centens/centensvertpanel.matitem	description	A lightweight panel.	가벼운 패널.	reuse
+/items/materials/centens/centensvertpanel.matitem	shortdescription	Vertical Centensian Panel	수직 센텐시안 패널	reuse
+/items/materials/generic/avikanthickpipebottom.matitem	shortdescription	Big Pipe Bottom	빅 파이프 아래	reuse
+/items/materials/generic/avikanthickpipebottom.matitem	description	A very thick metal pipe.	아주 두꺼운 금속 파이프.	reuse
+/items/materials/generic/avikanthickpipeleft.matitem	shortdescription	Big Pipe Left	빅 파이프 왼쪽	reuse
+/items/materials/generic/avikanthickpipeleft.matitem	description	A very thick metal pipe.	아주 두꺼운 금속 파이프.	reuse
+/items/materials/generic/avikanthickpiperight.matitem	shortdescription	Big Pipe Right	빅 파이프 오른쪽	reuse
+/items/materials/generic/avikanthickpiperight.matitem	description	A very thick metal pipe.	아주 두꺼운 금속 파이프.	reuse
+/items/materials/generic/avikanthickpipetop.matitem	shortdescription	Big Pipe Top	빅 파이프 위	reuse
+/items/materials/generic/avikanthickpipetop.matitem	description	A very thick metal pipe.	아주 두꺼운 금속 파이프.	reuse
+/items/materials/rails/akkimarirail.matitem	shortdescription	Akkimari Rail	아키마리 레일	reuse
+/items/materials/rails/akkimarirail.matitem	description	A rail made of assorted scrap metal.	여러 고철을 모아 만든 레일.	reuse
+/items/materials/rails/alliancerail.matitem	shortdescription	Alliance Rail	얼라이언스 레일	reuse
+/items/materials/rails/alliancerail.matitem	description	A strong reinforced rail.	튼튼한 강화 레일.	reuse
+/items/materials/rails/avikandarkrail.matitem	shortdescription	Dark Avikan Rail	다크 아비칸 레일	reuse
+/items/materials/rails/avikandarkrail.matitem	description	A strong reinforced rail.	튼튼한 강화 레일.	reuse
+/items/materials/rails/avikanrail.matitem	shortdescription	Avikan Rail	아비칸 레일	reuse
+/items/materials/rails/avikanrail.matitem	description	A strong reinforced rail.	튼튼한 강화 레일.	reuse
+/items/materials/rails/trinkrail.matitem	shortdescription	Trinkian Rail	트링키안 레일	reuse
+/items/materials/rails/trinkrail.matitem	description	A strong reinforced rail.	튼튼한 강화 레일.	reuse
+/items/materials/remnant/remnantglowrock.matitem	shortdescription	Glowing Rock	빛나는 바위	reuse
+/items/materials/remnant/remnantglowrock.matitem	description	An ancient rock with an eerie glow.	섬뜩한 빛을 내는 고대 바위입니다.	reuse
+/items/materials/rimdweller/rimdwellerhullpanel.matitem	shortdescription	Rim Hull Panel	림 선체 패널	reuse
+/items/materials/rimdweller/rimdwellerhullpanel.matitem	description	Worn metal plating found on the exterior of spaceships from the Rim.	림에서 온 우주선의 외부에서 발견된 낡은 금속 장판.	reuse
+/items/materials/rimdweller/rimdwellerpanel.matitem	shortdescription	Rim Panel	림 패널	reuse
+/items/materials/rimdweller/rimdwellerpanel.matitem	description	Rusty old metal panels.	녹슨 낡은 금속 패널.	reuse
+/items/materials/rimdweller/rimdwellerstairsplatform.matitem	shortdescription	Rim Stairs	림 계단	reuse
+/items/materials/rimdweller/rimdwellerstairsplatform.matitem	description	Sturdy metal stairs.	튼튼한 금속 계단.	reuse
+/items/materials/theagreenscreenplatform.matitem	description	No description.	설명 없음.	reuse
+/items/materials/theagreenscreenplatform.matitem	shortdescription	Green Screen Platform	초록 스크린 발판	reuse
+/items/materials/trink/trinkglass.matitem	shortdescription	Trinkian Glass	트링키안 유리	reuse
+/items/materials/trink/trinkglass.matitem	description	Thick glass.	두꺼운 유리.	reuse
+/items/materials/trink/trinkgroundpanel.matitem	shortdescription	Trinkian Floor	트링키안 바닥	reuse
+/items/materials/trink/trinkgroundpanel.matitem	description	A dark metal panel.	검은 금속 패널.	reuse
+/items/materials/trink/trinkhull.matitem	shortdescription	Trinkian Hull	트링키안 선체	reuse
+/items/materials/trink/trinkhull.matitem	description	A strong metal hull for ships and buildings alike.	함선과 건물 모두에 쓰이는 튼튼한 금속 외피.	reuse
+/items/materials/trink/trinkpanel.matitem	shortdescription	Trinkian Panel	트링키안 패널	reuse
+/items/materials/trink/trinkpanel.matitem	description	A smooth, dark metal panel.	매끈 어두운 금속 패널.	reuse
+/items/materials/trink/trinkpipe.matitem	shortdescription	Trinkian Pipe	트링키안 파이프	reuse
+/items/materials/trink/trinkpipe.matitem	description	A heavy, thick pipe. This isn't going to leak.	무겁고 두꺼운 파이프. 샐 일은 없겠다.	reuse
+/items/materials/trink/trinkpipehollow.matitem	shortdescription	Trinkian Pipe (Hollow)	트링키안 파이프 (중공)	reuse
+/items/materials/trink/trinkpipehollow.matitem	description	A heavy, thick pipe. Liquids can flow through it.	무겁고 두꺼운 파이프. 액체가 흐를 수 있어.	reuse
+/items/materials/trink/trinkplatform.matitem	shortdescription	Trinkian Platform	트링키안 발판	reuse
+/items/materials/trink/trinkplatform.matitem	description	A dark metal platform.	어두운 금속 플랫폼.	reuse
+/items/materials/trink/trinkslopedglass.matitem	shortdescription	Trinkian Sloped Glass	트링키안 경사 유리	reuse
+/items/materials/trink/trinkslopedglass.matitem	description	Thick and strong glass often used on board spaceships.	우주선에 흔히 쓰이는 두껍고 튼튼한 유리.	reuse
+/items/materials/trink/trinkslopedpanel.matitem	shortdescription	Trinkian Hull Panel	트링키안 선체 패널	reuse
+/items/materials/trink/trinkslopedpanel.matitem	description	Durable metal plating, often used in the construction of spacestations and spaceships.	튼튼한 금속 판재, 우주 정거장과 우주선 건설에 자주 쓰인다.	reuse
+/items/materials/trink/trinksmoothpanel.matitem	shortdescription	Smooth Trinkian Panel	매끄러운 트링키안 패널	reuse
+/items/materials/trink/trinksmoothpanel.matitem	description	A smooth, dark metal panel.	매끈 어두운 금속 패널.	reuse
+/items/materials/trink/trinksupportpanel.matitem	shortdescription	Trinkian Support Panel	트링키안 지지 패널	reuse
+/items/materials/trink/trinksupportpanel.matitem	description	A dark metal panel.	검은 금속 패널.	reuse
+/items/throwables/akrisgrassseeds.thrownitem	shortdescription	Valval Seeds	발발 씨앗	
+/items/throwables/akrisgrassseeds.thrownitem	description	Toss these on some damp tilled soil to grow valval, a grass native to Akris.	축축한 갈린 흙에 뿌리면 아크리스 토종 풀인 발발이 자란다.	
+/items/throwables/allianceflare.thrownitem	shortdescription	Alliance Flare	얼라이언스 조명탄	
+/items/throwables/allianceflare.thrownitem	description	A flare often used by the Alliance to signal important locations, or to light an area.	얼라이언스가 중요한 위치를 알리거나 지역을 밝히는 데 자주 쓰는 조명탄.	
+/items/throwables/avikanflare.thrownitem	shortdescription	Nomada Flare	노마다 조명탄	
+/items/throwables/avikanflare.thrownitem	description	A flare often used by the Nomada to signal important locations, or to light an area.	노마다가 중요한 위치를 알리거나 지역을 밝히는 데 자주 쓰는 조명탄.	
+/items/throwables/avikanglowstick.thrownitem	shortdescription	Nomada Glowstick	노마다 야광봉	
+/items/throwables/avikanglowstick.thrownitem	description	A long-lasting glow stick, cheap to produce but not as bright as a flare.	오래가는 야광봉. 싸게 만들 수 있지만 조명탄만큼 밝지는 않다.	
+/items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool	description	Describe things in the world and scan objects for printing. ^green;Quick select with [N] key.	세상의 사물을 설명하고 오브젝트를 스캔해 출력한다. ^green;[N] 키로 빠르게 선택.	
+/items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool	shortdescription	Scanning Mode	스캔 모드	
+/items/tools/manipulator/alliance/alliancescanmode.inspectiontool	description	Describe things in the world and scan objects for printing. ^green;Quick select with [N] key.	세상의 사물을 설명하고 오브젝트를 스캔해 출력한다. ^green;[N] 키로 빠르게 선택.	
+/items/tools/manipulator/alliance/alliancescanmode.inspectiontool	shortdescription	Scanning Mode	스캔 모드	
+/items/tools/manipulator/avikan/avikanscanmode.inspectiontool	description	Describe things in the world and scan objects for printing. ^green;Quick select with [N] key.	세상의 사물을 설명하고 오브젝트를 스캔해 출력한다. ^green;[N] 키로 빠르게 선택.	
+/items/tools/manipulator/avikan/avikanscanmode.inspectiontool	shortdescription	Scanning Mode	스캔 모드	
+/items/tools/manipulator/trink/trinkscanmode.inspectiontool	description	Describe things in the world and scan objects for printing. ^green;Quick select with [N] key.	세상의 사물을 설명하고 오브젝트를 스캔해 출력한다. ^green;[N] 키로 빠르게 선택.	
+/items/tools/manipulator/trink/trinkscanmode.inspectiontool	shortdescription	Scanning Mode	스캔 모드	
+/quests/story/akkimari/akkimaristoryhidden.questtemplate	title	Akkimari Story - Initial Setup	아키마리 이야기 - 초기 설정	reuse
+/quests/story/akkimari/akkimaristoryhidden.questtemplate	text	This quest acts as a prerequisite to the Akkimari storyline. You shouldn't be able to see this in your log.	이 퀘스트는 아키마리 스토리라인의 선행 조건 역할을 한다. 원래 기록에 표시되지 않아야 하는 항목이다.	reuse
+/quests/story/akkimari/akkimaristoryhidden.questtemplate	completionText	This quest acts as a prerequisite to the Akkimari storyline. You shouldn't be able to see this in your log.	이 퀘스트는 아키마리 스토리라인의 선행 조건 역할을 한다. 원래 기록에 표시되지 않아야 하는 항목이다.	reuse
+/quests/story/alliance/alliancestoryhidden.questtemplate	title	Alliance Story - Initial Setup	얼라이언스 이야기 - 초기 설정	reuse
+/quests/story/alliance/alliancestoryhidden.questtemplate	text	This quest acts as a prerequisite to the Alliance storyline. You shouldn't be able to see this in your log.	이 퀘스트는 얼라이언스 스토리라인의 선행 조건 역할을 한다. 원래 기록에 표시되지 않아야 하는 항목이다.	reuse
+/quests/story/alliance/alliancestoryhidden.questtemplate	completionText	This quest acts as a prerequisite to the Alliance storyline. You shouldn't be able to see this in your log.	이 퀘스트는 얼라이언스 스토리라인의 선행 조건 역할을 한다. 원래 기록에 표시되지 않아야 하는 항목이다.	reuse
+/quests/story/alliance/alliancestorystart.questtemplate	title	Alliance Story - Starting Messages	얼라이언스 이야기 - 시작 메시지	reuse
+/quests/story/alliance/alliancestorystart.questtemplate	text	Good luck, ambassador. I will contact you again once I have a new assignment ready for you.	행운을 빕니다, 대사님. 새 임무가 준비되면 다시 연락하겠습니다.	reuse
+/quests/story/alliance/alliancestorystart.questtemplate	completionText	This quest serves as an introduction to the Alliance storyline. You shouldn't be able to see this in your log.	이 퀘스트는 얼라이언스 스토리라인의 도입부 역할을 한다. 원래 기록에 표시되지 않아야 하는 항목이다.	reuse
+/quests/story/avikan/avikanstoryhidden.questtemplate	title	Avikan Story - Initial Setup	아비칸 이야기 - 초기 설정	reuse
+/quests/story/avikan/avikanstoryhidden.questtemplate	text	This quest acts as a prerequisite to the Avikan storyline. You shouldn't be able to see this in your log.	이 퀘스트는 아비칸 스토리라인의 선행 조건 역할을 한다. 원래 기록에 표시되지 않아야 하는 항목이다.	reuse
+/quests/story/avikan/avikanstoryhidden.questtemplate	completionText	This quest acts as a prerequisite to the Avikan storyline. You shouldn't be able to see this in your log.	이 퀘스트는 아비칸 스토리라인의 선행 조건 역할을 한다. 원래 기록에 표시되지 않아야 하는 항목이다.	reuse
+/stats/effects/akrisstalker-head/akrisstalker-marked/akrisstalker-marked.statuseffect	label	Marked	표식됨	
+/stats/effects/akrisstalker-head/akrisstalker-markedpassive/akrisstalker-markedpassive.statuseffect	label	Marked	표식됨	
+/stats/effects/avikanquiver/akkimariquiver.statuseffect	label	Quiver	화살통	
+/stats/effects/avikanquiver/avikanquiver.statuseffect	label	Quiver	화살통	
+/stats/effects/avikanquiver/avikanquiver2.statuseffect	label	Quiver	화살통	
+/stats/effects/centensianliquidslow/centensianliquidslow.statuseffect	label	Slow	느려짐	
+/stats/effects/frostlaser/frostlaserfreezing.statuseffect	label	Slow	느려짐	
+/stats/effects/frostlaser/frostlaserfreezingslow.statuseffect	label	Slow	느려짐	
+/stats/effects/frostlaser/frostlaserfrozen.statuseffect	label	Frozen	빙결	
+/stats/effects/heal/trinkrepairmoduleheal.statuseffect	label	Healing	치유	reuse
+/stats/effects/highlightenemies/highlightenemies.statuseffect	label	Marking	표식 중	
+/stats/effects/sandslowdown-monster/sandslowdown-monster.statuseffect	label	Slowed	느려짐	
+/stats/effects/sandslowdown-nodamage/sandslowdown-nodamage.statuseffect	label	Slowed	느려짐	
+/stats/effects/sandslowdown/sandslowdown.statuseffect	label	Quicksand	유사	
+/stats/effects/skulltrophyrage/skulltrophyrage.statuseffect	label	Feral	야수화	
+/stats/effects/strongelectrified/strongelectrified.statuseffect	label	Electrified	감전	
+/stats/effects/targethighlight/targethighlight-noweakness.statuseffect	label	Marked	표식됨	
+/stats/effects/targethighlight/targethighlight.statuseffect	label	Marked	표식됨	
+/stats/effects/targethighlight/targethighlightpassive.statuseffect	label	Marked	표식됨	
+/stats/effects/thea-bleeding/thea-bleeding.statuseffect	label	Bleeding	출혈	reuse
+/stats/effects/thea-bouncy/thea-bouncy.statuseffect	label	Bouncy	탄성	
+/stats/effects/thea-burning/thea-burning.statuseffect	label	Burning	화상	
+/stats/effects/thea-cloaking/thea-cloaking.statuseffect	label	Cloaked	은신	
+/stats/effects/thea-cloaking/thea-shadowcloak.statuseffect	label	Cloaked	은신	
+/stats/effects/thea-electricstun/thea-electricstun.statuseffect	label	Stunned	기절	
+/stats/effects/thea-hologram/thea-hologram.statuseffect	label	Holographic	홀로그램	
+/stats/effects/thea-meltdown/thea-meltdown.statuseffect	label	Meltdown	용융	
+/stats/effects/thea-poison/thea-poison.statuseffect	label	Poisoned	중독	
+/stats/effects/thea-powerboost/thea-powerboost.statuseffect	label	Rage	분노	
+/stats/effects/thea-repairpod/thea-repairpod.statuseffect	label	Repairing	수리 중	
+/stats/effects/thea-weakened/thea-heatsundered.statuseffect	label	Sundered	파열	
+/stats/effects/theleanviolation/theleanviolation.statuseffect	label	Violated	침해됨	
+/stats/effects/violatedionized/violatedionized.statuseffect	label	Ionized	이온화	
+/stats/effects/voidbound/voidbound.statuseffect	label	Void-Bound	공허 속박	
+/stats/effects/zaheedpower/zaheedpower.statuseffect	label	Empowered	강화됨	

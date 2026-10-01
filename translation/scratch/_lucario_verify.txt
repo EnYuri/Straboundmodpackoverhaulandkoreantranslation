@@ -1,0 +1,52 @@
+[
+ {
+  "op": "test",
+  "path": "/objectName",
+  "value": "auraciteAnvil"
+ },
+ {
+  "op": "replace",
+  "path": "/objectName",
+  "value": "오라사이트 모루"
+ },
+ {
+  "op": "test",
+  "path": "/description",
+  "value": "The anvil is used to produce armour and weapons from fabric and ores."
+ },
+ {
+  "op": "replace",
+  "path": "/description",
+  "value": "직물과 광물로 방어구와 무기를 만들 수 있는 복제기입니다."
+ },
+ {
+  "op": "test",
+  "path": "/shortdescription",
+  "value": "^orange; Auracite Anvil^white;"
+ },
+ {
+  "op": "replace",
+  "path": "/shortdescription",
+  "value": "^orange;아우라사이트 복제기^white;"
+ },
+ {
+  "op": "test",
+  "path": "/upgradeStages/2/itemSpawnParameters/description",
+  "value": "The replicator is used to produce armour and weapons from fabric and ores."
+ },
+ {
+  "op": "replace",
+  "path": "/upgradeStages/2/itemSpawnParameters/description",
+  "value": "직물과 광물로 방어구와 무기를 만들 수 있는 복제기입니다."
+ },
+ {
+  "op": "test",
+  "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+  "value": "^orange;Auracite Replicator^white;"
+ },
+ {
+  "op": "replace",
+  "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+  "value": "^orange;아우라사이트 복제기^white;"
+ }
+]

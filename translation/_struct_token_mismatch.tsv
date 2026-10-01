@@ -1,0 +1,868 @@
+﻿asset	pointer	english	korean
+/bees/frames/advanced.item.patch	/description		"양봉장용 고급 프레임.
+<beeData>"
+/bees/frames/basic.item.patch	/description		"양봉장의 기본 프레임입니다. 특별한 점은 없습니다.
+<beeData>"
+/bees/frames/computerised.item.patch	/description		"기술적인 여왕벌!
+<beeData>"
+/bees/frames/narcotic.item.patch	/description		"마약에 취한 드론.
+<beeData>"
+/blueprint.config.patch	/description		사용하면 <item> 제작법을 배웁니다.
+/dialog/SPACE_COLONY/gic_portallab_unlockdealer.config.patch	/greeting/default/default/13		스캔 완료... 이봐! <entityname>! 너한테 딱 맞는 좋은 일이 있어!
+/dialog/SPACE_COLONY/gic_portallab_unlockdealer.config.patch	/converse/default/default/0		의식에 맞춰 포털을 조율해야 해. 네 경험을 복제하는 데 쓸 수 있는 물건을 가져와, <entityname>.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailUnitan/default/default/5		너 같은 놈들은 항상 법을 지키는 줄 알았어. 내 눈앞에서 꺼져, <entityname>.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailAlliance/default/default/5		너 같은 놈들은 항상 법을 지키는 줄 알았어. 내 눈앞에서 꺼져, <entityname>.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailUnitan/default/default/6		너 같은 놈들은 항상 법을 지키는 줄 알았어. 갈 길 가, <entityname>.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailAlliance/default/default/6		너 같은 놈들은 항상 법을 지키는 줄 알았어. 갈 길 가, <entityname>.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailUnitan/default/default/0		스캔 완료. 넌 수배자야, <entityname>. 움직여.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailUnitan/default/default/1		스캔 완료, <entityname>. 여기서 나가.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailUnitan/default/default/2		<entityname>.... 그럼 지나가.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailUnitan/default/default/3		스캔 완료, <entityname>. 네 죄에서 도망칠 수 없어.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailUnitan/default/default/4		말썽 피우지 마 <entityname>.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailAlliance/default/default/0		스캔 완료. 넌 수배자야, <entityname>.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailAlliance/default/default/1		스캔 완료, <entityname>. 가.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailAlliance/default/default/2		<entityname>, 그렇군. 움직여.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailAlliance/default/default/3		스캔 완료, <entityname>. 말썽 피우지 마.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailAlliance/default/default/4		이상한 짓 하지 마 <entityname>.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailProtectorate/default/default/0		<entityname> 스캔됨. 보호자는 항상 법을 지키는 줄 알았는데. 내 눈앞에서 꺼져!
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailProtectorate/default/default/1		<entityname> 스캔됨. 보호자는 항상 법을 지키는 줄 알았는데. 그럼 지나가!
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailProtectorate/default/default/2		<entityname> 스캔됨. 보호자는 항상 법을 지키는 줄 알았는데. 가!
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailProtectorate/default/default/3		스캔 완료. 넌 수배자야, <entityname>. 내 눈앞에서 빌어먹을 꺼져.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_guard.config.patch	/hailProtectorate/default/default/4		스캔 완료, <entityname>. 가. 지금.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_khurtovyna_dealer.config.patch	/converse/default/default/0		일을 마치려면 식민지 수감자 데이터를 우리에게 가져와, <entityname>.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_protectedcolony_dealer.config.patch	/greeting/default/default/13		스캔 완료... 이봐! <entityname>! 너한테 딱 맞는 좋은 일이 있어!
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_protectedcolony_dealer.config.patch	/converse/default/default/0		요청한 모듈을 가져와 거래를 끝내자, <entityname>.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_razed_dealer.config.patch	/converse/default/default/0		내 시간 낭비하지 마, <entityname>. 임무는 이미 줬어.
+/dialog/SPACE_COLONY/gic_surfacecityspacecolonist_wildlands_dealer.config.patch	/converse/default/default/0		그래, 내 시간이나 낭비해 <entityname>. 기록 말이야, 친구.
+/dialog/catconverse.config.patch	/greeting/cat/default/11		야옹 안녕, 난 <selfname>이야!
+/dialog/combat.config.patch	/attack/nightar/default/7		<selfname>이 칼날과 부츠로 선두에 서겠습니다!
+/dialog/combat.config.patch	/attack/thelusian/default/4		<selfname>이 검과 부츠로 선두에 서겠습니다!
+/dialog/combat.config.patch	/cantReach/fenerox/default/0		주위에 적이다. 아직 살아있다. <selfname>이 알고 있다!
+/dialog/fuslimeperson.config.patch	/beacon/default/default/0		이봐, <entityname>. 뭐 필요한 거 있어?
+/dialog/fuslimeperson.config.patch	/beacon/default/default/2		안녕, <entityname>?
+/dialog/fuslimeperson.config.patch	/otherDeed/default/default/1		뭐 하는 거야, <entityname>?
+/dialog/fuslimeperson.config.patch	/rent/default/default/1		여기 있습니다, <entityname>.
+/dialog/fuslimeperson.config.patch	/severe/default/default/1		가자, <entityname>. 이렇게는 못 살겠어요.
+/dialog/quest.config.patch	/barter/trade/skath/default/0		이 물건들 가져다줘서 고마워. 여기 <receivedItems> <questGiver>가 필요한 게 있어요.
+/dialog/quest.config.patch	/borrow/giftProvided/skath/default/0		네, <questGiver>에게 제 <item>을 빌려드리겠습니다.
+/dialog/quest.config.patch	/borrow/giftProvided/skath/default/1		<퀘스트Giver>가 내 <item>이 필요하다면, 확실히 빌릴 수 있습니다.
+/dialog/quest.config.patch	/bribe/giftAccepted/skath/default/0		그럼 이제 <questGiver>가 뇌물에 의존하는 건가요? 좋아요, 그럼 감사 인사를 전해주세요.
+/dialog/quest.config.patch	/bribe/giftAccepted/skath/default/1		<questGiver>가 이 선물을 보낸 건가요? 아니면 뇌물에 더 가깝나요?
+/dialog/quest.config.patch	/bribe/giftAccepted2/skath/default/0		그래도 <questGiver>가 저에게 원하는 게 뭔지 알고 싶네요...
+/dialog/quest.config.patch	/collect_gift/giftProvided/skath/default/0		요청하신 <item>이 도착했습니다. <questGiver>에게 필요한 것이었으면 좋겠네요.
+/dialog/quest.config.patch	/collect_gift/giftProvided/skath/default/1		<questGiver>님이 요청하신 <item>입니다.
+/dialog/quest.config.patch	/escort/found/skath/default/0		길을 잃은 것 같아요... <questGiver>에게 다시 데려다 주실 수 있나요?
+/dialog/quest.config.patch	/escort/found/skath/default/1		길을 잃었어요... <questGiver>로 다시 데려다 주실 수 있나요?
+/dialog/quest.config.patch	/extort/giftProvided/skath/default/0		내가 패배한 건 알아요... 그럼 내 <item>은 가져가되 날 내버려둬!
+/dialog/quest.config.patch	/extort/giftProvided/skath/default/1		<questGiver>가 명예를 잃었어. 좋아, 그럼 <item>을 가져가!
+/dialog/quest.config.patch	/gift/giftAccepted/skath/default/0		이 선물은 정말 멋지네요! <questGiver>에게 감사의 인사를 전해주세요!
+/dialog/quest.config.patch	/gift/giftAccepted/skath/default/1		<questGiver>에게 감사의 인사를 전해주시겠어요? 이 선물 정말 멋져요!
+/dialog/quest.config.patch	/gift/giftAccepted2/skath/default/0		<questGiver>는 좋은 친구입니다.
+/dialog/quest.config.patch	/gift/giftAccepted2/skath/default/1		<questGiver>는 존경할 만한 사람이에요.
+/dialog/quest.config.patch	/hat/crafted/skath/default/0		여기 있습니다! 이걸 <questGiver>에게 가져다주세요.
+/dialog/quest.config.patch	/hat/crafted/skath/default/1		다 됐어요! 이걸 <questGiver>에게 가져다주겠니?
+/dialog/quest.config.patch	/helmet/crafted/skath/default/0		여기 있습니다! 이걸 <questGiver>에게 가져다줘.
+/dialog/quest.config.patch	/helmet/crafted/skath/default/1		다 만들었어! 이걸 <questGiver>에게 가져다주겠나?
+/dialog/quest.config.patch	/intimidate/intimidated/skath/default/0		알았어, 알았어 진정하고 그 <item>을 치워요.
+/dialog/quest.config.patch	/intimidate/notIntimidated/skath/default/1		정말이야? <questGiver>가 저걸로 날 겁주라고 명령했어? 시도는 좋았어.
+/dialog/quest.config.patch	/kidnapping/followHome/skath/default/0		날 <questGiver>에게 데려다줄래?
+/dialog/quest.config.patch	/kidnapping/followHome/skath/default/1		회복하려면 시간이 좀 필요해... <questGiver>에게 데려다줄래?
+/dialog/quest.config.patch	/kill_npcs/assistantIntro/skath/default/0		안녕하십니까. <questGiver>가 <enemy>과 싸울 수 있도록 도와달라고 부탁했습니다.
+/dialog/quest.config.patch	/new_stock/trade/skath/default/0		전달해 주셔서 감사합니다. <questGiver>에게 필요한 것은 다음과 같습니다.
+/dialog/quest.config.patch	/request_craft/giftProvided/skath/default/0		만들어 달라고 부탁하신 <item>입니다.
+/dialog/quest.config.patch	/request_craft/giftProvided/skath/default/1		이 <item>은 아까 만들었어. 제발 받아주세요!
+/dialog/quest.config.patch	/return_stolen/objectTaken/skath/default/0		제 명예를 걸고 맹세컨대, 그 <item>은 합법적으로 획득한 것입니다!
+/dialog/quest.config.patch	/return_stolen/objectTaken/skath/default/1		그 <item>은 허락을 받고 빌린 거예요 - 맹세해요!
+/dialog/quest.config.patch	/share_secret/pleaseTakeReply/skath/default/0		이 답장을 <questGiver>에게 전달해 주시겠어요?
+/dialog/slimenpchuman.config.patch	/beacon/default/default/0		이봐, <entityname>. 뭐 필요한 거 있어?
+/dialog/slimenpchuman.config.patch	/beacon/default/default/2		안녕, <entityname>?
+/dialog/slimenpchuman.config.patch	/otherDeed/default/default/1		뭐 하는 거야, <entityname>?
+/dialog/slimenpchuman.config.patch	/rent/default/default/1		여기 있습니다, <entityname>.
+/dialog/slimenpchuman.config.patch	/severe/default/default/1		가자, <entityname>. 이렇게는 못 살겠어요.
+/frackinship/configs/misc.config.patch	/unlockableShipNameModifier	<shipName>	<함선명>
+/interface/chests/cdx/chest60.config.patch	/gui/count/value		슬롯 <slots>칸
+/interface/chests/cdx/chest64.config.patch	/gui/count/value		슬롯 <slots>칸
+/interface/confirmation/hiremercenaryconfirmation.config.patch	/message		"^yellow;1 더블룬^white;으로 <name> 을(를) 승무원으로 고용할까요?^gray;
+
+^white;일:^gray;<role>
+^white;등급:^gray;<rank>
+^white;상태:^gray;<status>"
+/interface/confirmation/monstertradeconfirmation.config.patch	/subtitle		<questGiver> 이(가) 거래를 원합니다!
+/interface/confirmation/monstertradeconfirmation.config.patch	/message		"<questGiver> 이(가) <questGiver.pronoun.possessiveDet> <tradedMonster> 를 당신의 <monster> 와(과) 바꾸고 싶어합니다. 이 거래는 영구적입니다.
+
+거래하시겠습니까?"
+/interface/confirmation/recruitconfirmation.config.patch	/message		"<name> 이(가) <role> 역할을 맡은 승무원이 되길 원합니다. <name> 의 탑승을 허가할까요?^gray;
+
+^white;일:^gray;<role>
+^white;등급:^gray;<rank>
+^white;상태:^gray;<status>"
+/interface/scripted/bountyboard/bountyboardgui.config.patch	/assignmentFormat		^cyan;<systemName>^reset; 근처의 ^yellow;범죄 조직^reset;을 조사하십시오
+/interface/windowconfig/codex_original.config.patch	/selectText		<species> 코덱스 선택
+/interface/windowconfig/joinrequest.config.patch	/joinMessage		"디스코드 유저 ^green;<username>^reset; 가 게임 참가를 요청했습니다.
+
+승낙하시겠습니까?"
+/items/active/unsorted/fu_defaultunlockdiagnoser/fu_defaultunlockdiagnoser.activeitem.patch	/strings/numMissingUnlocks		누락된 기본 잠금 해제가 <numMissing>개 있습니다.
+/items/active/weapons/melee/abilities/hammer/elementalaura/elementalaura.weaponability.patch	/ability/name		<elementname> 오라
+/items/active/weapons/staff/abilities/controlprojectile/elementbouncer.weaponability.patch	/ability/name		<elementalName> 공
+/items/active/weapons/staff/abilities/controlprojectile/elementorb.weaponability.patch	/ability/name		<elementalName> 구체
+/items/active/weapons/staff/abilities/controlprojectile/elementportal.weaponability.patch	/ability/name		<elementalName> 포탈
+/items/active/weapons/staff/abilities/controlprojectile/elementrain.weaponability.patch	/ability/name		<elementalName> 비
+/items/active/weapons/staff/abilities/controlprojectile/elementswarm.weaponability.patch	/ability/name		<elementalName> 스웜
+/items/materials/v-briniclefleshmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-briniclefleshmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-briniclefleshmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-briniclestomachmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-briniclestomachmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-briniclestomachmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-brittleicematerial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-brittleicematerial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-brittleicematerial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-burningmeteoritematerial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-burningmeteoritematerial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-burningmeteoritematerial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-frozencrosshatchmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-frozencrosshatchmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-frozencrosshatchmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-frozenfencematerial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-frozenfencematerial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-frozenfencematerial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-frozenlogmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-frozenlogmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-frozenlogmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-frozenwoodmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-frozenwoodmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-frozenwoodmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-frozenwoodplatform.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-frozenwoodplatform.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-frozenwoodplatform.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-fungusplatform.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-fungusplatform.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-fungusplatform.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-icestonematerial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-icestonematerial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-icestonematerial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-moltenrockmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-moltenrockmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-moltenrockmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-permafrostbrickmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-permafrostbrickmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-permafrostbrickmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-permafrostbricksmallmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-permafrostbricksmallmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-permafrostbricksmallmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-permafrostmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-permafrostmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-permafrostmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-permafrostpillarmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-permafrostpillarmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-permafrostpillarmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-permafrostplatform.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-permafrostplatform.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-permafrostplatform.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-rottingfungusmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-rottingfungusmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-rottingfungusmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-sunspotbrick1material.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-sunspotbrick1material.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-sunspotbrick1material.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-sunspotbrick2material.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-sunspotbrick2material.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-sunspotbrick2material.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-sunspotbrick3material.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-sunspotbrick3material.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-sunspotbrick3material.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-sunspotglassmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-sunspotglassmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-sunspotglassmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-sunspotpillarmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-sunspotpillarmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-sunspotpillarmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-sunspotplatform.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-sunspotplatform.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-sunspotplatform.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-sunspotstonematerial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-sunspotstonematerial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-sunspotstonematerial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/materials/v-toxicfungusstemmaterial.matitem.patch	/glitchdescription	<unused>	<미사용>
+/items/materials/v-toxicfungusstemmaterial.matitem.patch	/florandescription	<unused>	<미사용>
+/items/materials/v-toxicfungusstemmaterial.matitem.patch	/novakiddescription	<unused>	<미사용>
+/items/throwables/beebriefcase/fu_beebriefcasecrucible.activeitem.patch	/activationText		"<playerName>에게
+
+코스믹 도가니에 벌이 없길래 벌로 바꿔 놓았다.
+
+케빈으로부터
+
+
+추신: 재미있게 죽길 바란다 :)"
+/npcs/crew/aegi/crewmemberaegimedic.npctype.patch	/scriptConfig/crew/ranks/2		<field> 의사
+/npcs/crew/aegi/crewmemberaegirimdweller.npctype.patch	/scriptConfig/crew/ranks/5		<field> 밀수꾼
+/npcs/crew/aegi/crewmemberaegisoldier.npctype.patch	/scriptConfig/crew/ranks/3		<field> 군인
+/npcs/crew/avikan/crewmemberavikanrogue.npctype.patch	/scriptConfig/crew/ranks/4		<role> 군인
+/npcs/crew/avikan/crewmembervanguard.npctype.patch	/scriptConfig/crew/ranks/3		<field> 군인
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/crew/ranks/0		말장난 마스터 <role>
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/crew/ranks/1		고양이 <field> 장교
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/crew/ranks/10		드레드노트 <field> 고양이
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/crew/ranks/11		고양이 <field> 마스터 마인드
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/crew/ranks/12		고양이 <role>
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/crew/ranks/13		믿음직한 <field> 고양이
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/crew/ranks/14		이론적 <field> 고양이
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/crew/ranks/15		믿음직한 <field> 고양이
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/crew/ranks/16		안락의자 <field> 고양이
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/crew/ranks/2		대리 <role> 고양이
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/crew/ranks/8		독립 <field> 고양이
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/crew/ranks/9		종속 <field> 고양이
+/npcs/crew/catcrewmember.npctype.patch	/scriptConfig/dialog/crewmember/offer/default/default/1		난 <selfname>이고, 이 행성을 떠나고 싶었어. 야옹이랑 같이 가도 될까요?
+/npcs/crew/crewmemberLoveliusSmythe.npctype.patch	/scriptConfig/dialog/crewmember/combatBenefit/default/default/0		전투에 임하라, <entityname>!
+/npcs/crew/crewmemberLoveliusSmythe.npctype.patch	/scriptConfig/dialog/crewmember/combatBenefit/default/default/1		<entityname>! 이 저주받은 적들을 정복하자!
+/npcs/crew/crewmemberLoveliusSmythe.npctype.patch	/scriptConfig/dialog/crewmember/follow/default/default/0		좋은 생각이야, <entityname>!
+/npcs/crew/crewmemberLoveliusSmythe.npctype.patch	/scriptConfig/dialog/crewmember/follow/default/default/1		가자, <entityname>!
+/npcs/crew/crewmemberLoveliusSmythe.npctype.patch	/scriptConfig/dialog/crewmember/follow/default/default/2		가자, <entityname>!
+/npcs/crew/crewmemberLoveliusSmythe.npctype.patch	/scriptConfig/dialog/crewmember/unfollow/default/default/0		난 여기 있을게. 내가 필요할 때 돌아와, <entityname>!
+/npcs/crew/crewmemberLoveliusSmythe.npctype.patch	/scriptConfig/dialog/crewmember/unfollow/default/default/1		당분간은 여기 있을게요, <entityname>.
+/npcs/crew/crewmemberLoveliusSmythe.npctype.patch	/scriptConfig/dialog/crewmember/unfollow/default/default/2		내가 여기 있어야 할까, <entityname>?
+/npcs/crew/crewmemberfubees.npctype.patch	/scriptConfig/dialog/crewmember/offer/default/default/1		저는 <selfname>이고 사람들에게 벌을 던지고 싶어요. 저를 고용하고 싶으신가요?
+/npcs/crew/crewmemberfubees.npctype.patch	/scriptConfig/dialog/crewmember/offer/floran/default/1		플로란은 <selfname>이라며 사람들에게 벌을 던지고 싶다고 해요. 플로란을 고용하고 싶으신가요?
+/npcs/crew/crewmemberfubees.npctype.patch	/scriptConfig/dialog/crewmember/offer/glitch/default/1		좋죠. 저는 <selfname>이고 사람들에게 벌을 던지고 싶어요. 저를 고용하고 싶으세요?
+/npcs/crew/crewmemberjanitor.npctype.patch	/scriptConfig/dialog/crewmember/roleDescription/default/default/0		저는 <selfname>입니다... 청소부입니다.
+/npcs/crew/crewmemberjanitor.npctype.patch	/scriptConfig/dialog/crewmember/roleDescription/default/default/1		이름은 <selfname>입니다... 청소부입니다
+/npcs/crew/crewmemberjanitor.npctype.patch	/scriptConfig/dialog/crewmember/roleDescription/floran/default/0		플로란은 <selfname>...입니다. 플로란은 청소하는 일을 해요. 많이요.
+/npcs/crew/crewmemberjanitor.npctype.patch	/scriptConfig/dialog/crewmember/roleDescription/floran/default/1		플로란의 이름은 <selfname>입니다. <selfname> 청소부.
+/npcs/crew/crewmemberjanitor.npctype.patch	/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0		지루함. 난 <selfname>... 청소부.
+/npcs/crew/crewmemberjanitor.npctype.patch	/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1		제 이름은 <selfname>, 청소부입니다. 여기서 할 수 있는 일은 뭐든지 하죠.
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/0		두 번째부터 마지막 <role>
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/1		3등 기술 보조 <field> 장교
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/10		사령부 주임원사 <field> 장교
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/11		독립 <field> 감사관
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/12		종속 <field> 감사관
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/13		드레드노트 <field> 장교
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/14		수련생 <field> 마스터 마인드
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/15		사소한 <field> 논쟁의 책임자
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/16		백업 <role>
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/17		믿음직한 <field> 심복
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/18		이론적 인 <field> 고문
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/19		믿음직한 <field> 심복
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/2		부조종사 <role> 남자/여자
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/20		<field> 운영 책임자
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/21		와일드카드 <role>
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/22		<field> 관계 책임자
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/24		<field> 외교 전문가
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/25		<field> 혁신 관리자
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/26		제멋대로 <role>
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/27		지역 <field> 디렉터
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/28		개인 <field> 수사관
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/29		임시 <field> 측량사
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/30		래디컬 <field> 혁신가
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/31		독립적인 <field> 운영 책임자
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/32		그냥 평범한 <role>
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/33		호비스트 <role>
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/34		<field> 물질의 마스터
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/35		대체 <field> 자문 담당자
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/36		러너 업 <field> 장교
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/37		비상 <field> 장교
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/38		일등 항해사의 이등 사촌의 세 번째 <role>
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/39		무급 <field> 인턴
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/4		임시 구호 <role>
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/40		<field> 학생
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/41		<field> 포럼 관리자
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/42		로그 <field> 프로피터
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/43		중립적인 제3자 <role>
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/44		저품질 <field> 협상
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/45		안락의자 <field> 전문가
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/5		제3 후방 중위 <role>
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/6		제64 제독 <role>
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/7		스탠딩 <field> 장교
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/8		앉아있는 <field> 장교
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/crew/ranks/9		임원 커피 제조 <role>
+/npcs/crew/fu_crewmember.npctype.patch	/scriptConfig/dialog/crewmember/offer/default/default/1		저는 <selfname>이고 배에 꼭 승선하고 싶어요. 저를 고용해 주시겠어요?
+/npcs/crew/thelean/crewmembertheleaninfiltrator.npctype.patch	/scriptConfig/crew/ranks/1		<field> 스카우트
+/npcs/crew/trink/crewmembertrinkrimdweller.npctype.patch	/scriptConfig/crew/ranks/5		<field> 밀수꾼
+/npcs/infiltration/infiltrationtavish.npctype.patch	/scriptConfig/dialog/converse/apex/default/0		아, 당신이 <entityname>이군요. 해안 기지에서 무전으로 네가 온다고 알려줬는데 오래 걸렸어.
+/npcs/mission/protectoratehallstaff.npctype.patch	/scriptConfig/dialog/speak/default/default/0		정말 시간이 촉박하네요, <entityname>. 긴급 회의가 시작되기 전에 서둘러 들어오세요.
+/npcs/scienceoutpost/fuoutpostcivilian.npctype.patch	/scriptConfig/dialog/converse/fukirhos/default/8		<entityname>! 만나서 반가워요. 언제 점심 같이 먹으면서 주식 얘기 좀 하자!
+/npcs/scienceoutpost/fuoutpostcivilian.npctype.patch	/scriptConfig/dialog/converse/fumantizi/default/15		<entityname>... 흥미로운 이름입니다. 우리 민족의 철학자 제프가 생각납니다. 그는 샌드위치 메이커라는 고귀한 직업을 생각해냈죠.
+/npcs/scienceoutpost/fuoutpostcivilian.npctype.patch	/scriptConfig/dialog/converse/fumantizi/default/3		<entityname>, 왜 그렇게 시체 수가 많지? 그냥 아무나 죽이고 돌아다니는 거야?
+/npcs/scienceoutpost/fuoutpostcivilian.npctype.patch	/scriptConfig/dialog/converse/fumantizi/default/30		내 근육 그만 쳐다봐, <entityname>.
+/npcs/scienceoutpost/fuoutpostcivilian.npctype.patch	/scriptConfig/dialog/converse/fumantizi/default/44		오랫동안 당신을 지켜봤어요, <entityname>. 당신은 여가 시간에 정말 이상한 짓을 하죠. 정말, 정말 이상하죠.
+/npcs/scienceoutpost/fuoutpostcivilian.npctype.patch	/scriptConfig/dialog/converse/fumantizi/default/6		난 <entityname>, <entityname>이야. 당신은 <entityname>일 수도 없어요. 이름을 바꿔요. 안 바꿀게요.
+/npcs/story/raziya.npctype.patch	/scriptConfig/dialog/ancientruinsworldstart/introduction/default/default/3		그래서 네 이름이 ^orange;<entityname>^white;구나. 네 이름에 대한 언급은 없어.
+/npcs/story/raziya.npctype.patch	/scriptConfig/dialog/ancientruinsworldobserve/leave/default/default/0		거기서 대단한 일을 했어, <entityname>. 뭘 고용하진 않겠지만, 아직 네가 해줬으면 하는 게 있어.
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer.object.patch	/apexDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer.object.patch	/avianDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer.object.patch	/floranDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer.object.patch	/glitchDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer.object.patch	/humanDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer.object.patch	/hylotlDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer.object.patch	/novakidDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer2.object.patch	/apexDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer2.object.patch	/avianDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer2.object.patch	/floranDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer2.object.patch	/glitchDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer2.object.patch	/humanDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer2.object.patch	/hylotlDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimer2.object.patch	/novakidDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite.object.patch	/apexDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite.object.patch	/avianDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite.object.patch	/floranDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite.object.patch	/glitchDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite.object.patch	/humanDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite.object.patch	/hylotlDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite.object.patch	/novakidDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite2.object.patch	/apexDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite2.object.patch	/avianDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite2.object.patch	/floranDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite2.object.patch	/glitchDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite2.object.patch	/humanDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite2.object.patch	/hylotlDescription	<unused>	<미사용>
+/objects/biome/v-toxicwasteland/v-poisongasprimer/v-poisongasprimerlite2.object.patch	/novakidDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens.object.patch	/description	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens.object.patch	/apexDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens.object.patch	/avianDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens.object.patch	/floranDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens.object.patch	/glitchDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens.object.patch	/humanDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens.object.patch	/hylotlDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens.object.patch	/novakidDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens2.object.patch	/description	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens2.object.patch	/apexDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens2.object.patch	/avianDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens2.object.patch	/floranDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens2.object.patch	/glitchDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens2.object.patch	/humanDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens2.object.patch	/hylotlDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlens/v-solarlens2.object.patch	/novakidDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlensinward/v-solarlensinward2.object.patch	/description	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlensinward/v-solarlensinward2.object.patch	/apexDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlensinward/v-solarlensinward2.object.patch	/avianDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlensinward/v-solarlensinward2.object.patch	/floranDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlensinward/v-solarlensinward2.object.patch	/glitchDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlensinward/v-solarlensinward2.object.patch	/humanDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlensinward/v-solarlensinward2.object.patch	/hylotlDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlensinward/v-solarlensinward2.object.patch	/novakidDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensor.object.patch	/description	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensor.object.patch	/apexDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensor.object.patch	/avianDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensor.object.patch	/floranDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensor.object.patch	/glitchDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensor.object.patch	/humanDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensor.object.patch	/hylotlDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensor.object.patch	/novakidDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensordecorative.object.patch	/description	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensordecorative.object.patch	/apexDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensordecorative.object.patch	/avianDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensordecorative.object.patch	/floranDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensordecorative.object.patch	/glitchDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensordecorative.object.patch	/humanDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensordecorative.object.patch	/hylotlDescription	<unused>	<미사용>
+/objects/dungeon/v-solarspire/v-solarlightsensor/v-solarlightsensordecorative.object.patch	/novakidDescription	<unused>	<미사용>
+/objects/wired/scanner/slimepersonscanner2.object.patch	/slimenpcDescription	<자기 이름>과 친구들의 눈동자 시계.	눈이 <selfname>과 친구들을 지켜본다.
+/player.config.patch	/blueprintUnlock		^green;<ItemName> 제작법을 알아냈습니다
+/player.config.patch	/blueprintAlreadyKnown		^green;이미 <ItemName> 제작법을 알고 있습니다.
+/player.config.patch	/collectableUnlock		^green;<collectable>^white;을(를) ^blue;<collection>^reset;에 추가했습니다
+/player.config.patch	/companionsConfig/recruitDescription		"^cyan;> 이름: ^white;<name>
+^cyan;> 일: ^white;<role>
+^cyan;> 등급: ^white;<rank>
+^cyan;> 상태: ^white;<status>"
+/player.config.patch	/blueprintUnlock		^green;<ItemName> 제작법을 알아냈습니다
+/player.config.patch	/blueprintAlreadyKnown		^green;이미 <ItemName> 제작법을 알고 있습니다.
+/player.config.patch	/collectableUnlock		^green;<collectable>^white;을(를) ^blue;<collection>^reset;에 추가했습니다
+/player.config.patch	/companionsConfig/recruitDescription		"^cyan;> 이름: ^white;<name>
+^cyan;> 일: ^white;<role>
+^cyan;> 등급: ^white;<rank>
+^cyan;> 상태: ^white;<status>"
+/quests/BAZAAR/gic_bazaarbetwixtrealms_dreamofconstantinexi_lament.questtemplate.patch	/scriptConfig/conditions/0/description		아이템 찾기: ^green;<current> / <required>^reset;
+/quests/CRUSADE/gic_hinamotherprotector_protectiveribbon.questtemplate.patch	/scriptConfig/conditions/0/description		아이템 찾기: ^green;<current> / <required>^reset;
+/quests/NITORI_KAWASHIRO/gic_nitorikawashiro_afflictedfuelrodquest.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;재앙받은 식민지^reset;에서 ^orange;<itemName>^reset; 찾기: ^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_afflicted.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_afflicted.questtemplate.patch	/scriptConfig/conditions/1/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_ancientvault_kiln.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_astraltemple.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_crusade.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_crusade.questtemplate.patch	/scriptConfig/conditions/1/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_protected.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_protected.questtemplate.patch	/scriptConfig/conditions/1/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_razed.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_razed.questtemplate.patch	/scriptConfig/conditions/1/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_undercolony.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_undercolony.questtemplate.patch	/scriptConfig/conditions/1/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_wartorn.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_wartorn.questtemplate.patch	/scriptConfig/conditions/1/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/BOSS_RUSH/gic_chapter2_bossrush_whitewolf.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/ESTHER/gic_esther_chapter_0_0_legacystoryline.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/ESTHER/gic_esther_chapter_0_0_technicalities.questtemplate.patch	/scriptConfig/conditions/0/description		아카이브를 찾으세요^yellow;식민지화된 황무지에서.^reset;^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/ESTHER/gic_esther_chapter_0_0_technicalities.questtemplate.patch	/scriptConfig/conditions/1/description		아카이비스트는 우주항의 주요 상업 허브에서 찾을 수 있습니다.^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/PLANET_INCENTIVES/gic_esther_planetincentive_1_afflicted.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;에서^orange;감염된 식민지에서^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/PLANET_INCENTIVES/gic_esther_planetincentive_2_wildlands.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;내에 있는^orange;야생지대 연구 수용소^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/PLANET_INCENTIVES/gic_esther_planetincentive_3_razed.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;에서^orange;파괴된 세계^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/PLANET_INCENTIVES/gic_esther_planetincentive_4_frosted.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;에서^orange;쿠르토비나 행성^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/PLANET_INCENTIVES/gic_esther_planetincentive_4_frosted.questtemplate.patch	/scriptConfig/conditions/1/description		찾기^orange;<itemName>^reset;에서^orange;쿠르토비나 행성^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/PLANET_INCENTIVES/gic_esther_planetincentive_5_protectedcolony.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;에서^orange;보호된 식민지^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/PLANET_INCENTIVES/gic_esther_planetincentive_6_wartorn.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;에서^orange;전쟁으로 황폐해진 행성^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/PLANET_INCENTIVES/gic_esther_planetincentive_6_wartorn.questtemplate.patch	/scriptConfig/conditions/1/description		찾기^orange;<itemName>^reset;에서^orange;옥카서스 병사들^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/gic_independent_chapter_1_2_crusade.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;에서^orange;성전 행성^reset;:^green;<current> / <required>^reset;
+/quests/STORY/LEGACY/gic_independent_chapter_1_2_crusade.questtemplate.patch	/scriptConfig/conditions/1/description		찾기^orange;<itemName>^reset;에서^orange;성전 행성^reset;:^green;<current> / <required>^reset;
+/quests/TYLIAN/DRAFT/gic_tylian_planetincentive_3_crusade.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;크루세이드 월드^reset;에서 ^orange;<itemName>^reset; 찾기: ^green;<current> / <required>^reset;
+/quests/TYLIAN/DRAFT/gic_tylian_planetincentive_3_crusade.questtemplate.patch	/scriptConfig/conditions/1/description		^orange;크루세이드 월드^reset;에서 ^orange;<itemName>^reset; 찾기: ^green;<current> / <required>^reset;
+/quests/TYLIAN/DRAFT/gic_tylian_planetincentive_4_wildlands.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;황야지대 레인저 전초기지^reset;에서 ^orange;<itemName>^reset; 찾기: ^green;<current> / <required>^reset;
+/quests/TYLIAN/DRAFT/gic_tylian_planetincentive_5_khurtovyna.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;쿠르토비난 런다운^reset;에서 ^orange;<itemName>^reset; 찾기: ^green;<current> / <required>^reset;
+/quests/TYLIAN/gic_tylian_planetincentive_khurtovyna_investigationquest.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;쿠르토비나^reset;에서 ^orange;<itemName>^reset; 찾기: ^green;<current> / <required>^reset;
+/quests/TYLIAN/gic_tylian_planetincentive_razed_investigationquest.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;에스카토스^reset;에서 ^orange;<itemName>^reset; 찾기: ^green;<current> / <required>^reset;
+/quests/UNUSED/gic_khurtovyna_dealer_repeatable.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;내에 있는^orange;쿠르토비나 감옥^reset;:^green;<current> / <required>^reset;
+/quests/UNUSED/gic_protectedcolony_dealer_repeatable.questtemplate.patch	/scriptConfig/conditions/0/description		획득^orange;<itemName>^reset;내에 있는^orange;보호된 식민지 연구소^reset;:^green;<current> / <required>^reset;
+/quests/UNUSED/gic_protectedcolony_dealer_repeatable.questtemplate.patch	/scriptConfig/conditions/1/description		획득^orange;<itemName>^reset;내에 있는^orange;보호된 식민지 연구소^reset;:^green;<current> / <required>^reset;
+/quests/UNUSED/gic_razed_dealer_repeatable.questtemplate.patch	/scriptConfig/conditions/0/description		획득^orange;<itemName>^reset;에서^orange;파괴된 암시장^reset;:^green;<current> / <required>^reset;
+/quests/UNUSED/gic_shiprepair_engineer.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/UNUSED/gic_shiprepair_engineer.questtemplate.patch	/scriptConfig/conditions/1/description		찾기^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/UNUSED/gic_wildlands_dealer_repeatable.questtemplate.patch	/scriptConfig/conditions/0/description		찾기^orange;<itemName>^reset;내에 있는^orange;야생지대 연구 수용소^reset;:^green;<current> / <required>^reset;
+/quests/UNUSED/gic_workshop_wildlands_vehicledealer.questtemplate.patch	/scriptConfig/conditions/0/description		획득^orange;<itemName>^reset;:^green;<current> / <required>^reset;
+/quests/WILDLANDS/gic_wildlands_ayastory_12_homelessman.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;노숙자^reset;에게 ^orange;<itemName>^reset; 주기: ^green;<current> / <required>^reset;
+/quests/WILDLANDS/gic_wildlands_ayastory_2_dockworker.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;부두 노동자^reset;에게 ^orange;<itemName>^reset; 주기: ^green;<current> / <required>^reset;
+/quests/bounty/clue_bounties.config.patch	/beamout/clues/scan/message		우주에는 도움이 되는 친구들이 많군 그래! 좌표를 받았네. 여기로 가보게! <next.coordinate.name>
+/quests/bounty/clue_items.config.patch	/papernote/diversion/0/parameters/noteText		"부하에게,
+
+물건을 안전한 곳으로 옮기도록.
+미행당하지 않도록 확실히 해.
+
+<bounty.name>
+
+추신, 잊어먹었을 것 같아서 다시 적어둔다. 읽고 나면 반드시 태워라 - <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/diversion/1/parameters/noteText		"<bounty.name>의 할 일 목록
+
+1. 우유 사기
+
+2. 세금 내기
+
+3. 신발 닦기
+
+4. 은신처로 가기: <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/diversion/2/parameters/noteText		"두목님께,
+
+전에 물건 드리는 거 까먹어서 죄송합니다.
+지금 만나러 가겠습니다.
+부디 화내지 말아주세요.
+
+추신: 잘 기억이 안 나서 그러는데, 여기 맞죠? <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/diversion/3/parameters/noteText		"일기장에게,
+
+오늘은 두목님께 물건을 전해드렸다.
+최근에 열심히 일했으니 보상금 좀 올려달라고 티를 냈는데, 두목님은 알아채지 못하신 것 같다.
+누군가 찾을 때를 대비해서 이 페이지는 숨겨놔야지.
+
+또 가야 할 곳 (잊지 말자!): <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/planetClue/0/parameters/noteText		"부하에게,
+
+물건을 안전한 곳으로 옮기도록.
+미행당하지 않도록 확실히 해.
+
+<bounty.name>
+
+추신, 잊어먹었을 것 같아서 다시 적어둔다. 읽고 나면 반드시 태워라 - <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/planetClue/1/parameters/noteText		"<bounty.name>의 할 일 목록
+
+1. 함선 연료 채우기
+
+2. 돈 세탁하기
+
+3. 속옷 빨기
+
+4. 은신처로 가기: <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/planetClue/2/parameters/noteText		"두목님께,
+
+전에 물건 드리는 거 까먹어서 죄송합니다.
+지금 만나러 가겠습니다.
+부디 화내지 말아주세요.
+
+추신: 잘 기억이 안 나서 그러는데, 여기 맞죠? <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/planetClue/3/parameters/noteText		"일기장에게,
+
+오늘은 두목님께 물건을 전해드렸다.
+이러면 보상금을 올려주시겠지!
+누군가 찾을 때를 대비해서 이 페이지는 숨겨놔야지.
+
+또 가야 할 곳 (잊지 말자!): <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/planetBounty/0/parameters/noteText		"부하에게,
+
+물건을 안전한 곳으로 옮기도록.
+미행당하지 않도록 확실히 해.
+
+<bounty.name>
+
+추신, 잊어먹었을 것 같아서 다시 적어둔다. 읽고 나면 반드시 태워라 - <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/planetBounty/1/parameters/noteText		"<bounty.name>의 할 일 목록
+
+1. 옷 다림질하기
+
+2. 내일 점심으로 먹을 샐러드 만들기
+
+3. 우유랑 달걀 사기
+
+4. 은신처로 가기: <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/planetBounty/2/parameters/noteText		"두목님께,
+
+전에 물건 드리는 거 까먹어서 죄송합니다.
+지금 만나러 가겠습니다.
+부디 화내지 말아주세요.
+
+추신: 잘 기억이 안 나서 그러는데, 여기 맞죠? <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/planetBounty/3/parameters/noteText		"일기장에게,
+
+오늘은 일하러 가는 길에 두목님과 시간을 좀 보냈다.
+농담을 했는데 웃어주셨다!
+언젠가 나를 부하 이상의 존재로 봐주셨으면 좋겠다.
+누군가 찾을 때를 대비해서 이 페이지는 숨겨놔야지.
+
+또 가야 할 곳 (잊지 말자!): <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/spaceBounty/0/parameters/noteText		"부하에게,
+
+물건을 안전한 곳으로 옮기도록.
+미행당하지 않도록 확실히 해.
+
+<bounty.name>
+
+추신, 잊어먹었을 것 같아서 다시 적어둔다. 읽고 나면 반드시 태워라 - <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/spaceBounty/1/parameters/noteText		"<bounty.name>의 할 일 목록
+
+1. 아침에 조깅하기
+
+2. 샌드위치 만들기
+
+3. 샌드위치 먹기
+
+4. 은신처로 가기: <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/spaceBounty/2/parameters/noteText		"두목님께,
+
+전에 물건 드리는 거 까먹어서 죄송합니다.
+지금 만나러 가겠습니다.
+부디 화내지 말아주세요.
+
+추신: 잘 기억이 안 나서 그러는데, 여기 맞죠? <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/spaceBounty/3/parameters/noteText		"일기장에게,
+
+오늘은 두목님께 물건을 전해드렸다.
+이러면 보상금을 올려주시겠지!
+누군가 찾을 때를 대비해서 이 페이지는 숨겨놔야지.
+
+또 가야 할 곳 (잊지 말자!): <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/spaceClue/0/parameters/noteText		"부하에게,
+
+물건을 안전한 곳으로 옮기도록.
+미행당하지 않도록 확실히 해.
+
+<bounty.name>
+
+추신, 잊어먹었을 것 같아서 다시 적어둔다. 읽고 나면 반드시 태워라 - <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/spaceClue/1/parameters/noteText		"<bounty.name>의 할 일 목록
+
+1. 무능한 부하 해고하기
+
+2. 더 나은 부하 고용하기
+
+3. 새 티셔츠 사기
+
+4. 은신처로 가기: <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/spaceClue/2/parameters/noteText		"두목님께,
+
+전에 물건 드리는 거 까먹어서 죄송합니다.
+지금 만나러 가겠습니다.
+부디 화내지 말아주세요.
+
+추신: 잘 기억이 안 나서 그러는데, 여기 맞죠? <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/spaceClue/3/parameters/noteText		"일기장에게,
+
+오늘은 두목님께 물건을 전해드렸다.
+이러면 보상금을 올려주시겠지!
+누군가 찾을 때를 대비해서 이 페이지는 숨겨놔야지.
+
+또 가야 할 곳 (잊지 말자!): <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/scan/0/parameters/noteText		"부하에게,
+
+물건을 안전한 곳으로 옮기도록.
+미행당하지 않도록 확실히 해.
+
+<bounty.name>
+
+추신, 잊어먹었을 것 같아서 다시 적어둔다. 읽고 나면 반드시 태워라 - <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/scan/1/parameters/noteText		"<bounty.name>의 할 일 목록
+
+1. 새 신발 사기
+
+2. 새 신발과 어울리는 양말 사기
+
+3. 새 신발과 양말이 어떤지 물어보기
+
+4. 은신처로 가기: <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/scan/2/parameters/noteText		"두목님께,
+
+전에 물건 드리는 거 까먹어서 죄송합니다.
+지금 만나러 가겠습니다.
+부디 화내지 말아주세요.
+
+추신: 잘 기억이 안 나서 그러는데, 여기 맞죠? <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/scan/3/parameters/noteText		"일기장에게,
+
+오늘은 두목님께 물건을 전해드렸다.
+이러면 보상금을 올려주시겠지!
+누군가 찾을 때를 대비해서 이 페이지는 숨겨놔야지.
+
+또 가야 할 곳 (잊지 말자!): <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/decoy/0/parameters/noteText		"동료들에게,
+
+내 말이 믿기지 않을 거다!
+내가 다른 사람인 척을 해서 피스키퍼를 완전히 속였거든!
+의심도 안하고 제대로 속았더라고.
+
+다음에 보자,
+<bounty.name>"
+/quests/bounty/clue_items.config.patch	/papernote/returnVaultItem/0/parameters/noteText		"부하들에게,
+
+마지막으로 말하는데, 금고 주변에 금고 비밀번호 좀 적어놓지 마라!
+왜 그러면 안 되는지 내가 직접 설명해줘야 하냐?
+만약 암호를 '또' 까먹었으면, 은신처로 와서 이름을 적어두도록 해.
+
+<bounty.name>
+
+추신, 은신처 위치도 까먹은 바보가 없길 바라지만, 만약을 위해 적어놓는다: <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/returnVaultItem/1/parameters/noteText		"메모:
+
+내가 금고 암호가 적힌 종이를 여기저기에 두고 다니니 두목님께서 엄청 화가 나셨다.
+남아있는 노트들은 그 곳에 조용히 보관해두자.
+
+메모: <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/returnVaultItem/2/parameters/noteText		"<bounty.name>의 금고 보안 가이드:
+
+1. 금고 암호를 잊어버리지 말 것!
+
+2. 금고 암호를 어딘가에 적어두지 말 것
+
+3.암호를 잊었으면, 은신처로 와서 다시 기억할 것!
+
+-> 은신처 위치도 잊지 말 것: <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/returnVaultObject/0/parameters/noteText		"중요한 공지사항!
+
+부하들은 종이에 금고 암호를 적어두지 말 것!
+이건 심각한 보안 취약점이고, 매우 귀중한 종이 낭비임!
+
+대신에, 암호는 ^green;은신처^reset;에 있는 컴퓨터 서버에 디지털 포맷으로 기록되어 있음.
+
+밀수 즐겁게 해라! - <bounty.name>
+
+
+혹시 은신처가 어딘지 아는 사람?
+ㄴ 여기로 가면 됨: <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/returnVaultObject/1/parameters/noteText		"조직의 정책 변화로 인해, 이제 모든 기록은 더욱 쉽게 보관하기 위해 디지털 포맷으로 변환한다. 업무를 해야 하면 은신처에 있는 컴퓨터 사무실로 갈 것:
+
+> 재정 기록 확인하기!
+
+> 분기별 평가 확인하기!
+
+> 보안 금고의 조합 기억하기!
+
+> 조직에서 사용하는 모자 요청하기!
+
+
+추신, 은신처가 어딘지 모를까봐 남겨둔다. 봤으면 이 부분을 잘라내서 파쇄하도록: <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/returnVaultNpc/0/parameters/noteText		"안녕하세요 두목님,
+
+금고 암호를 잊어버려서 은신처로 물어보러 가겠습니다.
+불편을 끼쳐드려 죄송합니다!
+
+추신: 정말 죄송한데, 은신처가 여기 맞나요? <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/returnVaultNpc/1/parameters/noteText		"< 조직 공지사항 >
+
+부하들이 금고 암호를 까먹어서 금고를 열지 못하는 일이 자주 일어나고 있다.
+만약 암호를 까먹었다면, 은신처로 가서 암호를 다시 듣도록.
+하지만 절대 어딘가에 적어두지는 마라! 그건 심각한 보안 취약점이라고!
+
+~ 두목
+
+혹시 은신처 어딨는지 아는 사람?
+ㄴ 22222
+ㄴ 여기로 가셈: <next.coordinate.name>"
+/quests/bounty/clue_items.config.patch	/papernote/vaultClue/0/parameters/noteText		"메모:
+
+금고의 암호는 <password>임.
+
+이 노트는 다른 곳에 두지 말기!"
+/quests/bounty/clue_items.config.patch	/papernote/vaultClue/1/parameters/noteText		"기밀 사항!
+
+금고의 암호는 다음과 같다:
+<password>
+
+
+보안을 위해, 이 노트는 5 메타클릭 후에 자동으로 불탄다.
+만약 자가 발화 잉크가 5 메타클릭 후에도 작동하지 않았다면, 내용을 읽을 수 없을 때까지 가장 가까운 모닥불에 태워주길 바란다."
+/quests/bounty/clue_items.config.patch	/papernote/vaultClue/2/parameters/noteText		"일기장에게,
+
+오늘 두목님께서 금고 암호가 <password>(이)라고 알려주셨다!
+신뢰받는 것 같아 기분이 좋다. 이 비밀이 적에게 넘어가지 않도록 조심해야지!"
+/quests/bounty/clue_npcs.config.patch	/interrogate/clues/vaultClue/message		^orange;<password>^reset;(이)라고? 금고로 가거든 잊지 말게나!
+/quests/bounty/clue_objects.config.patch	/bunkerconsole2/planetClue/dialog		>이전 배송 지점: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/bunkerconsole2/planetBounty/dialog		>정보 요청: 해당하는 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/bunkerconsole2/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/bunkerconsole2/spaceBounty/dialog		[성계 위치 확인됨] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/bunkerconsole2/vaultClue/dialog		>검색 결과: [위치] ^green;<next.coordinate.name>^reset; [금고.암호] ^green;<password>^reset;
+/quests/bounty/clue_objects.config.patch	/bunkerconsole2/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/lunarbaseconsole/planetClue/dialog		>검색 결과: 최근 배송지 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/lunarbaseconsole/planetBounty/dialog		>정보 요청: 해당하는 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/lunarbaseconsole/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/lunarbaseconsole/spaceBounty/dialog		[성계 위치 확인됨] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/lunarbaseconsole/vaultClue/dialog		>정보 검색 완료: ^green;<next.coordinate.name>^reset;의 금고 암호 = ^green;<password>^reset;
+/quests/bounty/clue_objects.config.patch	/lunarbaseconsole/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/stationconsole/planetClue/dialog		>요청 사항 [은신처 위치 확인]: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/stationconsole/planetBounty/dialog		>정보 요청: 해당하는 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/stationconsole/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/stationconsole/spaceBounty/dialog		[성계 위치 확인됨] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/stationconsole/vaultClue/dialog		>금고 위치: ^green;<next.coordinate.name>^reset; 금고 암호 (999일 후에 만료됨) = ^green;<password>^reset;
+/quests/bounty/clue_objects.config.patch	/stationconsole/vaultClue/message		암호는 <password>일세. 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/industrialcomputer/planetClue/dialog		>이전 배송 지역: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/industrialcomputer/planetBounty/dialog		>정보 요청: 해당하는 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/industrialcomputer/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/industrialcomputer/spaceBounty/dialog		[성계 위치 확인됨] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/industrialcomputer/vaultClue/dialog		>검색 결과: [위치] ^green;<next.coordinate.name>^reset; [금고.암호] ^green;<password>^reset;
+/quests/bounty/clue_objects.config.patch	/industrialcomputer/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/industrialdisplay/planetClue/dialog		>이전 배송 지역: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/industrialdisplay/planetBounty/dialog		>정보 요청: 해당하는 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/industrialdisplay/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/industrialdisplay/spaceBounty/dialog		[성계 위치 확인됨] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/industrialdisplay/vaultClue/dialog		>검색 결과: [위치] ^green;<next.coordinate.name>^reset; [금고.암호] ^green;<password>^reset;
+/quests/bounty/clue_objects.config.patch	/industrialdisplay/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/tier3switch/planetClue/dialog		>이전 배송 지역: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/tier3switch/planetBounty/dialog		>정보 요청: 해당하는 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/tier3switch/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/tier3switch/spaceBounty/dialog		[성계 위치 확인됨] 요청하는 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/tier3switch/vaultClue/dialog		>검색 결과: [위치] ^green;<next.coordinate.name>^reset; [금고.암호] ^green;<password>^reset;
+/quests/bounty/clue_objects.config.patch	/tier3switch/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/tier4switch/planetClue/dialog		>이전 배송 지역: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/tier4switch/planetBounty/dialog		>정보 요청: 요청하신 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/tier4switch/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/tier4switch/spaceBounty/dialog		[성계 위치 확인됨] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/tier4switch/vaultClue/dialog		>정보 검색 완료: ^green;<next.coordinate.name>^reset;의 금고 암호 = ^green;<password>^reset;
+/quests/bounty/clue_objects.config.patch	/tier4switch/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/tier5switch/planetClue/dialog		>이전 배송 지역: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/tier5switch/planetBounty/dialog		>정보 요청: 해당하는 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/tier5switch/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/tier5switch/spaceBounty/dialog		[성계 위치 확인됨] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/tier5switch/vaultClue/dialog		>바로 나야, 컴퓨터: ^green;<next.coordinate.name>^reset;의 금고 암호 = ^green;<password>^reset;
+/quests/bounty/clue_objects.config.patch	/tier5switch/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/tier6switch/planetClue/dialog		>이전 배송 지역: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/tier6switch/planetBounty/dialog		>정보 요청: 해당하는 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/tier6switch/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/tier6switch/spaceBounty/dialog		[성계 위치 확인됨] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/tier6switch/vaultClue/dialog		>정보 검색 완료: ^green;<next.coordinate.name>^reset;의 금고 암호 = ^green;<password>^reset;
+/quests/bounty/clue_objects.config.patch	/tier6switch/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/outpostsecurityconsole/planetClue/dialog		>이전 배송 지역: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/outpostsecurityconsole/planetBounty/dialog		>정보 요청: 해당하는 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/outpostsecurityconsole/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/outpostsecurityconsole/spaceBounty/dialog		[성계 위치 확인됨] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/outpostsecurityconsole/vaultClue/dialog		>컴퓨터님의 말씀: ^green;<next.coordinate.name>^reset;의 금고 암호 = ^green;<password>^reset;
+/quests/bounty/clue_objects.config.patch	/outpostsecurityconsole/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/apexconsole1/planetClue/dialog		>이전 배송 지역: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/apexconsole1/planetBounty/dialog		>정보 요청: 해당하는 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/apexconsole1/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/apexconsole1/spaceBounty/dialog		[성계 위치 확인됨] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/apexconsole1/vaultClue/dialog		[삐빅] ^green;<next.coordinate.name>^reset;의 금고 암호 = ^green;<password>^reset;[삐빅]
+/quests/bounty/clue_objects.config.patch	/apexconsole1/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/outpostconsole/planetClue/dialog		>이전 배송 지역: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/outpostconsole/planetBounty/dialog		>정보 요청: 해당하는 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/outpostconsole/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/outpostconsole/spaceBounty/dialog		[성계 위치 확인됨] 요청하신 인물의 위치가 ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/outpostconsole/vaultClue/dialog		[삐빅] ^green;<next.coordinate.name>^reset;의 금고 암호 = ^green;<password>^reset;[삐빅]
+/quests/bounty/clue_objects.config.patch	/outpostconsole/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/officecomputer/planetClue/dialog		>이전 배송 지역: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/officecomputer/planetBounty/dialog		>정보 요청: 해당하는 인물은 현재 이 장소에 있습니다 = ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/officecomputer/spaceClue/dialog		>성계 이름 (기밀 사항): ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/officecomputer/spaceBounty/dialog		[성계 위치 확인됨] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/officecomputer/vaultClue/dialog		[로그인_완료] ^green;<next.coordinate.name>^reset;의 금고 암호 = ^green;<password>^reset;[삐빅]
+/quests/bounty/clue_objects.config.patch	/officecomputer/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/darkcomputer/tutorial/dialog		[행성 검색 완료] 캡틴 이그노블의 위치 : ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/darkcomputer/planetClue/dialog		[위치_검색] 완료: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/darkcomputer/planetBounty/dialog		>사용자: ^green;관리자^reset; >위치: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/darkcomputer/spaceClue/dialog		>은신처_성계 위치: ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/darkcomputer/spaceBounty/dialog		[성계 검색 완료] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/darkcomputer/vaultClue/dialog		[환영합니다_새로운_사용자] ^green;<next.coordinate.name>^reset;의 금고 암호 = ^green;<password>^reset;[삐빅]
+/quests/bounty/clue_objects.config.patch	/darkcomputer/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/bounty/clue_objects.config.patch	/astroconsole/tutorial/dialog		[행성 검색 완료] 캡틴 이그노블의 위치 : ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/astroconsole/planetClue/dialog		[위치_검색] 완료: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/astroconsole/planetBounty/dialog		>사용자: ^green;관리자^reset; >위치: ^green;<next.coordinate.name>^reset;
+/quests/bounty/clue_objects.config.patch	/astroconsole/spaceClue/dialog		>은신처_성계 위치: ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/astroconsole/spaceBounty/dialog		[성계 검색 완료] 요청하신 인물의 위치 : ^green;<next.coordinate.systemName>^reset;
+/quests/bounty/clue_objects.config.patch	/astroconsole/vaultClue/dialog		[환영합니다_새로운_사용자] ^green;<next.coordinate.name>^reset;의 금고 암호 = ^green;<password>^reset;[삐빅]
+/quests/bounty/clue_objects.config.patch	/astroconsole/vaultClue/message		암호는 <password>일세! 이제 금고로 돌아가게, 파트너!
+/quests/esc_nt_chapter_1_1.questtemplate.patch	/scriptConfig/conditions/0/description		^#f0e6c8;달 유물^reset; 찾기: ^green;<current> / <required>^reset;
+/quests/esc_nt_chapter_2_1.questtemplate.patch	/scriptConfig/conditions/0/description		^#64a5d7;운영 기록: 탐험^reset; 찾기: ^green;<current> / <required>^reset;
+/quests/generated/templates/add_object_to_house.questtemplate.patch	/scriptConfig/objectives/0/text		집에 설치하기 - <object>
+/quests/generated/templates/barter.questtemplate.patch	/scriptConfig/objectives/0/text		<target>에게 주기 - <givenItems>
+/quests/generated/templates/barter.questtemplate.patch	/scriptConfig/objectives/1/text		<receivedItems>(을)를 <questGiver>에게 주기
+/quests/generated/templates/borrow.questtemplate.patch	/scriptConfig/objectives/0/text		<target>에게서 얻기 - <item>
+/quests/generated/templates/borrow.questtemplate.patch	/scriptConfig/objectives/1/text		<questGiver>에게 돌아가기
+/quests/generated/templates/bribe.questtemplate.patch	/scriptConfig/objectives/0/text		<target>에게 주기 - <gift>
+/quests/generated/templates/bribe.questtemplate.patch	/scriptConfig/addToHouseObjective/text		<target>의 집에 설치하기 - <gift>
+/quests/generated/templates/build_home.questtemplate.patch	/scriptConfig/objectListText		<itemName> <count>개
+/quests/generated/templates/capture_pet.questtemplate.patch	/scriptConfig/objectives/0/text		<monster> 포획하기
+/quests/generated/templates/capture_pet.questtemplate.patch	/scriptConfig/objectives/1/text		<monster> 건네주기
+/quests/generated/templates/collect_fine.questtemplate.patch	/scriptConfig/objectives/0/text		<target>에게서 <item> 받기
+/quests/generated/templates/collect_fine.questtemplate.patch	/scriptConfig/objectives/1/text		<questGiver>에게 돌아가기
+/quests/generated/templates/collect_gift.questtemplate.patch	/scriptConfig/objectives/0/text		<target>에게서 얻기 - <item>
+/quests/generated/templates/collect_gift.questtemplate.patch	/scriptConfig/objectives/1/text		<questGiver>에게 돌아가기
+/quests/generated/templates/escort.questtemplate.patch	/scriptConfig/objectives/0/text		<targetNpcType> 찾기
+/quests/generated/templates/escort_trade.questtemplate.patch	/scriptConfig/objectives/0/text		<questGiver>(을)를 <target>에게 데려가기
+/quests/generated/templates/escort_trade.questtemplate.patch	/scriptConfig/objectives/1/text		<questGiver>에게 돌아가기
+/quests/generated/templates/extort.questtemplate.patch	/scriptConfig/objectives/0/text		<target>에게서 <item> 얻기
+/quests/generated/templates/extort.questtemplate.patch	/scriptConfig/objectives/1/text		<questGiver>에게 돌아가기
+/quests/generated/templates/gift.questtemplate.patch	/scriptConfig/objectives/0/text		<target>에게 주기 - <gift>
+/quests/generated/templates/gift.questtemplate.patch	/scriptConfig/addToHouseObjective/text		<target>의 집 안에 설치하기 - <gift>
+/quests/generated/templates/hat.questtemplate.patch	/scriptConfig/objectives/0/text		<friend>에게 <clothingIngredients> 주기
+/quests/generated/templates/hat.questtemplate.patch	/scriptConfig/objectives/1/text		선물을 <questGiver>에게 주기
+/quests/generated/templates/helmet.questtemplate.patch	/scriptConfig/objectives/0/text		<friend>에게 주기 - <clothingIngredients>
+/quests/generated/templates/helmet.questtemplate.patch	/scriptConfig/objectives/1/text		선물을 전해주기 - <questGiver>
+/quests/generated/templates/intimidate.questtemplate.patch	/scriptConfig/objectives/0/text		<item> 장착하기
+/quests/generated/templates/intimidate.questtemplate.patch	/scriptConfig/objectives/1/text		<target> 위협하기
+/quests/generated/templates/intimidate.questtemplate.patch	/scriptConfig/objectives/2/text		<questGiver>에게 보고하기
+/quests/generated/templates/kidnapping.questtemplate.patch	/scriptConfig/objectives/0/text		<spawnPoint>(으)로 가기
+/quests/generated/templates/kidnapping.questtemplate.patch	/scriptConfig/objectives/1/text		<enemy> 처치하기
+/quests/generated/templates/kill_monster.questtemplate.patch	/scriptConfig/objectives/0/text		<monster> 사냥하기
+/quests/generated/templates/kill_monster.questtemplate.patch	/scriptConfig/objectives/1/text		<questGiver>에게 <items> 주기
+/quests/generated/templates/kill_monster_group.questtemplate.patch	/scriptConfig/objectives/0/text		<spawnPoint>(으)로 가기
+/quests/generated/templates/kill_monster_group.questtemplate.patch	/scriptConfig/objectives/1/text		<monster> 처치하기
+/quests/generated/templates/kill_monster_group.questtemplate.patch	/scriptConfig/objectives/2/text		<questGiver>에게 돌아가기
+/quests/generated/templates/kill_monster_single.questtemplate.patch	/scriptConfig/objectives/0/text		<spawnPoint>(으)로 가기
+/quests/generated/templates/kill_monster_single.questtemplate.patch	/scriptConfig/objectives/1/text		<monster> 처치하기
+/quests/generated/templates/kill_monster_single.questtemplate.patch	/scriptConfig/objectives/2/text		<questGiver>에게 돌아가기
+/quests/generated/templates/kill_npc.questtemplate.patch	/scriptConfig/objectives/0/text		<spawnPoint>(으)로 가기
+/quests/generated/templates/kill_npc.questtemplate.patch	/scriptConfig/objectives/1/text		<enemy.name>(을)를 죽이기
+/quests/generated/templates/kill_npc.questtemplate.patch	/scriptConfig/objectives/2/text		<questGiver>에게 돌아가기
+/quests/generated/templates/kill_npcs.questtemplate.patch	/scriptConfig/objectives/0/text		<spawnPoint>(으)로 가기
+/quests/generated/templates/kill_npcs.questtemplate.patch	/scriptConfig/objectives/1/text		<enemy>(을)를 죽이기
+/quests/generated/templates/kill_npcs.questtemplate.patch	/scriptConfig/objectives/2/text		<questGiver>에게 돌아가기
+/quests/generated/templates/new_stock1.questtemplate.patch	/scriptConfig/objectives/0/text		<target>에게 주기 - <tradedItems>
+/quests/generated/templates/new_stock1.questtemplate.patch	/scriptConfig/objectives/1/text		선물을 전해주기 - <questGiver>
+/quests/generated/templates/new_stock2.questtemplate.patch	/scriptConfig/objectives/0/text		<target>에게 주기 - <tradedItems>
+/quests/generated/templates/new_stock2.questtemplate.patch	/scriptConfig/objectives/1/text		선물을 전해주기 - <questGiver>
+/quests/generated/templates/protect.questtemplate.patch	/scriptConfig/objectives/0/text		<spawnPoint>(으)로 가기
+/quests/generated/templates/protect.questtemplate.patch	/scriptConfig/objectives/1/text		<threat> 죽이기
+/quests/generated/templates/protect.questtemplate.patch	/scriptConfig/objectives/2/text		<target> 안전하게 지키기
+/quests/generated/templates/recruit_guard.questtemplate.patch	/scriptConfig/objectives/2/text		<tag> 3개
+/quests/generated/templates/recruit_guard.questtemplate.patch	/scriptConfig/objectives/3/text		<guardObject> 1개
+/quests/generated/templates/request_craft.questtemplate.patch	/scriptConfig/objectives/0/text		<target>에게서 얻기 - <item>
+/quests/generated/templates/request_craft.questtemplate.patch	/scriptConfig/objectives/1/text		<questGiver>에게 돌아가기
+/quests/generated/templates/return_stolen.questtemplate.patch	/scriptConfig/objectives/0/text		<thief>의 집에서 <victim>의 <item> 얻기
+/quests/generated/templates/return_stolen.questtemplate.patch	/scriptConfig/objectives/1/text		<item>(을)를 <victim>의 집에 돌려놓기
+/quests/generated/templates/share_secret.questtemplate.patch	/scriptConfig/objectives/0/text		<target>에게 메세지 전달하기
+/quests/generated/templates/share_secret.questtemplate.patch	/scriptConfig/objectives/1/text		<questGiver>에게 답신 전달하기
+/quests/generated/templates/spread_rumors.questtemplate.patch	/scriptConfig/objectives/0/text		<target>에게 메세지 전달하기
+/quests/generated/templates/spread_rumors.questtemplate.patch	/scriptConfig/objectives/1/text		<questGiver>에게 답신 전달하기
+/quests/generated/templates/steal.questtemplate.patch	/scriptConfig/objectives/0/text		<victim>의 집에서 <objectItem> 훔치기
+/quests/generated/templates/steal.questtemplate.patch	/scriptConfig/objectives/1/text		<questGiver>에게 돌아가기
+/quests/generated/templates/themed_build.questtemplate.patch	/scriptConfig/objectives/2/text		<tag> 3개^reset;
+/quests/optionalhardmode/fu_t10_initial.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;<itemName>^reset; 가져오기: ^green;<current> / <required>^reset;
+/quests/outpost/shipupgrade/illegalshipupgrade1.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;<itemName>^reset; 찾기: ^green;<current>/<required>^reset;
+/quests/outpost/shipupgrade/illegalshipupgrade2.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;<itemName>^reset; 찾기: ^green;<current>/<required>^reset;
+/quests/outpost/shipupgrade/illegalshipupgrade3.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;<itemName>^reset; 찾기: ^green;<current>/<required>^reset;
+/quests/outpost/shipupgrade/illegalshipupgrade4.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;<itemName>^reset; 찾기: ^green;<current>/<required>^reset;
+/quests/outpost/shipupgrade/illegalshipupgrade5.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;<itemName>^reset; 찾기: ^green;<current>/<required>^reset;
+/quests/outpost/shipupgrade/shipupgrade1.questtemplate.patch	/scriptConfig/conditions/0/description		^orange;<itemName>^reset; 찾기: ^green;<current>/<required>^reset;
+/quests/quests.config.patch	/objectiveDescriptions/gatherItem		<itemName> <required>개 획득하기 - 현재 갯수: <current>
+/quests/quests.config.patch	/objectiveDescriptions/gatherItemTag		<tag> 종류 아이템 <required>개 찾기 - 현재 갯수: <current>
+/quests/quests.config.patch	/objectiveDescriptions/shipLevel		함선을 <current>에서 <required>(으)로 업그레이드하기
+/quests/quests.config.patch	/objectiveDescriptions/fetch		<itemName> <required>개 획득하기 - 현재 갯수: <current>
+/quests/quests.config.patch	/objectiveDescriptions/return		<questGiver>에게 돌아가기
+/quests/quests.config.patch	/objectiveDescriptions/nebDamageTypeKill		<damageType>으로 <current> / <required> 적 처치

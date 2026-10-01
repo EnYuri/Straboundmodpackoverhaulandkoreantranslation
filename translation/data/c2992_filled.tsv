@@ -1,0 +1,155 @@
+asset	field	en	ko	src
+/items/armors/back/UscmPackEnergy/koopUscmPackEnergy.back	itemName	koopUscmPackEnergy	koopUscmPackEnergy	
+/items/armors/back/UscmPackEnergy/koopUscmPackEnergy.back	description	An U.S.C.M. Backpack outfitted with ^green;enviromental protection^reset; and an energy pack which ^blue;boosts energy and provides electrical protection.^reset;	^green;환경 보호^reset;와 ^blue;에너지를 강화하고 전기 보호를 제공하는^reset; 에너지 팩을 갖춘 U.S.C.M. 백팩.	
+/items/armors/back/UscmPackEnergy/koopUscmPackEnergy.back	shortdescription	U.S.C.M. Energy Pack	U.S.C.M. 에너지 팩	
+/items/armors/back/UscmPackRadio/koopUscmPackRadio.back	itemName	koopUscmPackRadio	koopUscmPackRadio	
+/items/armors/back/UscmPackRadio/koopUscmPackRadio.back	description	An U.S.C.M. Backpack outfitted with ^green;enviromental protection^reset; and a radio for relaying enemy movement that ^blue;boosts damage and health.^reset;	^green;환경 보호^reset;와 적의 움직임을 중계해 ^blue;피해량과 체력을 강화하는^reset; 무전기를 갖춘 U.S.C.M. 백팩.	
+/items/armors/back/UscmPackRadio/koopUscmPackRadio.back	shortdescription	U.S.C.M. Radio Pack 	U.S.C.M. 무전 팩 	
+/items/armors/back/UscmPackSupply/koopUscmPackSupply.back	itemName	koopUscmPackSupply	koopUscmPackSupply	
+/items/armors/back/UscmPackSupply/koopUscmPackSupply.back	description	An U.S.C.M. Backpack outfitted with ^green;enviromental protection^reset; and supplies that ^red;regenerate health^reset; and ^orange;help with burns^reset;.	^green;환경 보호^reset;와 ^red;체력을 재생하며^reset; ^orange;화상 회복을 돕는^reset; 보급품을 갖춘 U.S.C.M. 백팩.	
+/items/armors/back/UscmPackSupply/koopUscmPackSupply.back	shortdescription	U.S.C.M. Supply Pack	U.S.C.M. 보급 팩	
+/items/armors/tier-1/koopScoutMk2Chest.chest	itemName	koopScoutMk2Chest	koopScoutMk2Chest	
+/items/armors/tier-1/koopScoutMk2Chest.chest	description	An upgraded version of the Scout armor.	스카우트 갑옷의 업그레이드 버전.	reuse
+/items/armors/tier-1/koopScoutMk2Chest.chest	shortdescription	Scout Mk2 Chestguard	스카우트 Mk2 흉갑	reuse
+/items/armors/tier-1/koopScoutMk2Head.head	itemName	koopScoutMk2Head	koopScoutMk2Head	
+/items/armors/tier-1/koopScoutMk2Head.head	description	An upgraded version of the Scout Headgear, now featuring a cap!	스카우트 헤드기어의 업그레이드 버전. 이제 모자도 달렸다!	
+/items/armors/tier-1/koopScoutMk2Head.head	shortdescription	Scout Mk2 Headgear	스카우트 Mk2 헤드기어	
+/items/armors/tier-1/koopScoutMk2Legs.legs	itemName	koopScoutMk2Legs	koopScoutMk2Legs	
+/items/armors/tier-1/koopScoutMk2Legs.legs	description	An upgraded version of the Scout Greaves that ^green;augments the user's speed.^reset;	사용자의 속도를 ^green;증강하는^reset; 스카우트 그리브의 업그레이드 버전.	reuse
+/items/armors/tier-1/koopScoutMk2Legs.legs	shortdescription	Scout Mk2 Greaves	스카우트 Mk2 그리브	reuse
+/items/armors/tier-2/koopDefenderChest.chest	itemName	koopDefenderChest	koopDefenderChest	
+/items/armors/tier-2/koopDefenderChest.chest	description	A basic chestplate used by the Medics of the U.S.C.M. that ^red;grants regeneration.^reset;	범우주 우주 기업군 의무병용 기본 흉갑. ^red;재생 부여.^reset;	reuse
+/items/armors/tier-2/koopDefenderChest.chest	shortdescription	Defender Mk1 Chestplate	디펜더 Mk1 흉갑	reuse
+/items/armors/tier-2/koopDefenderHelm.head	itemName	koopDefenderHelm	koopDefenderHelm	
+/items/armors/tier-2/koopDefenderHelm.head	description	A basic helmet used by the Medics of the U.S.C.M.	U.S.C.M. 의무병이 쓰는 기본형 헬멧.	
+/items/armors/tier-2/koopDefenderHelm.head	shortdescription	Defender Mk1 Helmet	디펜더 Mk1 헬멧	
+/items/armors/tier-2/koopDefenderLegs.legs	itemName	koopDefenderLegs	koopDefenderLegs	
+/items/armors/tier-2/koopDefenderLegs.legs	description	A basic chestplate used by the Medics of the U.S.C.M.	범우주 우주 기업군 의무병용 기본 레깅스.	reuse
+/items/armors/tier-2/koopDefenderLegs.legs	shortdescription	Defender Mk1 Leggings	디펜더 Mk1 레깅스	reuse
+/items/armors/tier-3/koopPilotChest.chest	itemName	koopPilotChest	koopPilotChest	
+/items/armors/tier-3/koopPilotChest.chest	description	A basic chestplate used by the pilots of the U.S.C.M. that ^green;grants a large energy boost.^reset;	범우주 우주 기업군 조종사용 기본 흉갑. ^green;큰 에너지 부스트 부여.^reset;	reuse
+/items/armors/tier-3/koopPilotChest.chest	shortdescription	Pilot's Chestguard	파일럿의 흉갑	reuse
+/items/armors/tier-3/koopPilotHelm.head	itemName	koopPilotHelm	koopPilotHelm	
+/items/armors/tier-3/koopPilotHelm.head	description	A Basic Helmet used by the pilots of the U.S.C.M.	U.S.C.M. 조종사가 쓰는 기본형 헬멧.	
+/items/armors/tier-3/koopPilotHelm.head	shortdescription	Pilot's Helmet	조종사의 헬멧	
+/items/armors/tier-3/koopPilotLegs.legs	itemName	koopPilotLegs	koopPilotLegs	
+/items/armors/tier-3/koopPilotLegs.legs	description	Basic leggings used by the pilots of the U.S.C.M.	범우주 우주 기업군 조종사용 기본 레깅스.	reuse
+/items/armors/tier-3/koopPilotLegs.legs	shortdescription	Pilot's Leggings	파일럿의 레깅스	reuse
+/items/armors/tier-4/ScavMk2/koopScavMk2Chest.chest	itemName	koopScavMk2Chest	koopScavMk2Chest	
+/items/armors/tier-4/ScavMk2/koopScavMk2Chest.chest	description	An upgraded version of the Scavenger Chestplate.	스캐빈저 흉갑의 업그레이드 버전.	reuse
+/items/armors/tier-4/ScavMk2/koopScavMk2Chest.chest	shortdescription	Scav. MK2 Chestplate	스캐브. MK2 흉갑	reuse
+/items/armors/tier-4/ScavMk2/koopScavMk2Helm.head	itemName	koopScavMk2Helm	koopScavMk2Helm	
+/items/armors/tier-4/ScavMk2/koopScavMk2Helm.head	description	An upgraded version of the Scavenger helmet.	스캐빈저 헬멧의 업그레이드 버전.	
+/items/armors/tier-4/ScavMk2/koopScavMk2Helm.head	shortdescription	Scav. MK2 Helmet 	스캐빈저 MK2 헬멧 	
+/items/armors/tier-4/ScavMk2/koopScavMk2Legs.legs	itemName	koopScavMk2Legs	koopScavMk2Legs	
+/items/armors/tier-4/ScavMk2/koopScavMk2Legs.legs	description	An upgraded version of the Scavenger Leggings	스캐빈저 레깅스의 업그레이드 버전.	reuse
+/items/armors/tier-4/ScavMk2/koopScavMk2Legs.legs	shortdescription	Scav. MK2 Leggings	스캐브. MK2 레깅스	reuse
+/items/armors/tier-4/ScavMk2Gas/koopScavMk2GasHelm.head	itemName	koopScavMk2GasHelm	koopScavMk2GasHelm	
+/items/armors/tier-4/ScavMk2Gas/koopScavMk2GasHelm.head	description	An upgraded version of the Scavenger helmet with a gas mask that ^green;helps protect against poison^reset; ^red;at the cost of speed.^reset;	^green;독 방호를 돕는^reset; 방독면이 달린 스캐빈저 헬멧의 업그레이드 버전. ^red;대신 속도가 떨어진다.^reset;	
+/items/armors/tier-4/ScavMk2Gas/koopScavMk2GasHelm.head	shortdescription	Scav. MK2 Helmet (Gas)	스캐빈저 MK2 헬멧 (방독면)	
+/items/armors/tier-4/ScavMk2Mask/koopScavMk2MaskHelm.head	itemName	koopScavMk2MaskHelm	koopScavMk2MaskHelm	
+/items/armors/tier-4/ScavMk2Mask/koopScavMk2MaskHelm.head	description	An upgraded version of the Scavenger helmet with a balaclava to ^blue;help protect from ice damage^reset; as well as ^green;providing an energy boost.^reset;	^blue;냉기 피해 방호를 돕고^reset; ^green;에너지 강화를 제공하는^reset; 발라클라바가 달린 스캐빈저 헬멧의 업그레이드 버전.	
+/items/armors/tier-4/ScavMk2Mask/koopScavMk2MaskHelm.head	shortdescription	Scav. MK2 Helmet (Mask)	스캐빈저 MK2 헬멧 (마스크)	
+/items/armors/tier-4/ScavMk2Visor/koopScavMk2VisorHelm.head	itemName	koopScavMk2VisorHelm	koopScavMk2VisorHelm	
+/items/armors/tier-4/ScavMk2Visor/koopScavMk2VisorHelm.head	description	An upgraded version of the Scavenger helmet with a visor that ^green;boosts health and mobility.^reset;	^green;체력과 기동성을 강화하는^reset; 바이저가 달린 스캐빈저 헬멧의 업그레이드 버전.	
+/items/armors/tier-4/ScavMk2Visor/koopScavMk2VisorHelm.head	shortdescription	Scav. MK2 Helmet (Visor)	스캐빈저 MK2 헬멧 (바이저)	
+/items/armors/tier-5/PathfinderMk2/koopPathfinderMk2Chest.chest	itemName	koopPathfinderMk2Chest	koopPathfinderMk2Chest	
+/items/armors/tier-5/PathfinderMk2/koopPathfinderMk2Chest.chest	description	An upgraded version of the Pathfinder Chestplate.	패스파인더 흉갑의 업그레이드 버전.	reuse
+/items/armors/tier-5/PathfinderMk2/koopPathfinderMk2Chest.chest	shortdescription	Pathfinder MK2 Chestplate	패스파인더 MK2 흉갑	reuse
+/items/armors/tier-5/PathfinderMk2/koopPathfinderMk2Helm.head	itemName	koopPathfinderMk2Helm	koopPathfinderMk2Helm	
+/items/armors/tier-5/PathfinderMk2/koopPathfinderMk2Helm.head	description	An upgraded version of the Pathfinder helmet, provides an airtight seal, allowing the user to ^blue;breathe in airless environments.^reset;	패스파인더 헬멧의 업그레이드 버전. 기밀 실이 있어 사용자가 ^blue;무공기 환경에서 호흡할 수 있다.^reset;	
+/items/armors/tier-5/PathfinderMk2/koopPathfinderMk2Helm.head	shortdescription	Pathfinder MK2 Helmet 	패스파인더 MK2 헬멧 	
+/items/armors/tier-5/PathfinderMk2/koopPathfinderMk2Legs.legs	itemName	koopPathfinderMk2Legs	koopPathfinderMk2Legs	
+/items/armors/tier-5/PathfinderMk2/koopPathfinderMk2Legs.legs	description	An upgraded version of the Pathfinder Leggings, these leggings give the user a ^green;speed boost.^reset;	패스파인더 레깅스의 업그레이드 버전. 사용자에게 ^green;속도 부스트^reset;를 준다.	reuse
+/items/armors/tier-5/PathfinderMk2/koopPathfinderMk2Legs.legs	shortdescription	Pathfinder MK2 Leggings	패스파인더 MK2 레깅스	reuse
+/items/armors/tier-6.5/DefenderMK3/koopDefenderMk3Chest.chest	itemName	koopDefenderMk3Chest	koopDefenderMk3Chest	
+/items/armors/tier-6.5/DefenderMK3/koopDefenderMk3Chest.chest	description	An Upgraded Defender MK2 Chestplate that ^red;grants regeneration,^reset; ^blue;ice resistance and damage reduction, ^reset; ^red;but makes the user slower.^reset;	업그레이드된 디펜더 MK2 흉갑. ^red;재생 부여,^reset; ^blue;냉기 저항과 피해 감소,^reset; ^red;다만 사용자가 느려진다.^reset;	reuse
+/items/armors/tier-6.5/DefenderMK3/koopDefenderMk3Chest.chest	shortdescription	Defender MK3 Chestplate	디펜더 MK3 흉갑	reuse
+/items/armors/tier-6.5/DefenderMK3/koopDefenderMk3Helm.head	itemName	koopDefenderMk3Helm	koopDefenderMk3Helm	
+/items/armors/tier-6.5/DefenderMK3/koopDefenderMk3Helm.head	description	An Upgraded Defender MK2 Helmet that ^blue;fliters poisons, provides oxygen, and grants damage reduction, ^reset; ^red;but makes the user slower.^reset;	^blue;독을 여과하고 산소를 공급하며 피해 감소를 주는^reset; 업그레이드 디펜더 MK2 헬멧. ^red;대신 사용자가 느려진다.^reset;	
+/items/armors/tier-6.5/DefenderMK3/koopDefenderMk3Helm.head	shortdescription	Defender MK3 Helm	디펜더 MK3 헬멧	
+/items/armors/tier-6.5/DefenderMK3/koopDefenderMk3Legs.legs	itemName	koopDefenderMk3Legs	koopDefenderMk3Legs	
+/items/armors/tier-6.5/DefenderMK3/koopDefenderMk3Legs.legs	description	Upgraded Defender MK2 Leggings that ^red;prevent burns,^reset; ^blue;give an energy boost, and damage reduction, ^reset; ^red;but make the user slower.^reset;	업그레이드된 디펜더 MK2 레깅스. ^red;화상 방지,^reset; ^blue;에너지 부스트와 피해 감소,^reset; ^red;다만 사용자가 느려진다.^reset;	reuse
+/items/armors/tier-6.5/DefenderMK3/koopDefenderMk3Legs.legs	shortdescription	Defender MK3 Greaves	디펜더 MK3 그리브	reuse
+/items/armors/tier-6.5/PathfinderMK3/koopPathfinderMk3Chest.chest	itemName	koopPathfinderMk3Chest	koopPathfinderMk3Chest	
+/items/armors/tier-6.5/PathfinderMK3/koopPathfinderMk3Chest.chest	description	An Upgraded Pathfinder MK2 Chestplate that ^blue;has an EPP, prevents cold damage, and has greatly increased damage ouput^reset; ^red;but lacks high defense.^reset;	업그레이드된 패스파인더 MK2 흉갑. ^blue;EPP 내장, 냉기 피해 방지, 화력 대폭 향상^reset; ^red;다만 방어력이 부족하다.^reset;	reuse
+/items/armors/tier-6.5/PathfinderMK3/koopPathfinderMk3Chest.chest	shortdescription	Pathfinder Mk3 Chestplate	패스파인더 Mk3 흉갑	reuse
+/items/armors/tier-6.5/PathfinderMK3/koopPathfinderMk3Helm.head	itemName	koopPathfinderMk3Helm	koopPathfinderMk3Helm	
+/items/armors/tier-6.5/PathfinderMK3/koopPathfinderMk3Helm.head	description	An Upgraded Pathfinder MK2 Helmet that ^blue;fliters poisons, provides oxygen, and has greatly increased damage ouput^reset; ^red;but lacks high defense.^reset;	^blue;독을 여과하고 산소를 공급하며 피해 출력이 크게 늘어난^reset; 업그레이드 패스파인더 MK2 헬멧. ^red;대신 방호력이 낮다.^reset;	
+/items/armors/tier-6.5/PathfinderMK3/koopPathfinderMk3Helm.head	shortdescription	Pathfinder MK3 Helmet	패스파인더 MK3 헬멧	
+/items/armors/tier-6.5/PathfinderMK3/koopPathfinderMk3Legs.legs	itemName	koopPathfinderMk3Legs	koopPathfinderMk3Legs	
+/items/armors/tier-6.5/PathfinderMK3/koopPathfinderMk3Legs.legs	description	An upgraded version of the Pathfinder MK2 Leggings that ^green;boost the user's mobility, damage output, and also prevents fall damage^reset; ^red;but lacks high defense.^reset;	사용자의 기동성·화력을 ^green;높여주고 낙하 피해도 방지하는^reset; 패스파인더 MK2 레깅스의 업그레이드 버전. ^red;다만 방어력이 부족하다.^reset;	reuse
+/items/armors/tier-6.5/PathfinderMK3/koopPathfinderMk3Legs.legs	shortdescription	Pathfinder MK3 Greaves	패스파인더 Mk3 그리브	reuse
+/items/armors/tier-6.5/ScavMK4/koopScavMk4Chest.chest	itemName	koopScavMk4Chest	koopScavMk4Chest	
+/items/armors/tier-6.5/ScavMK4/koopScavMk4Chest.chest	description	An upgraded version of the Scavenger MK3 Chestplate. This heavy duty armor ^green;boosts the user's health, strength, and has a built-in EPP.^reset;	스캐빈저 MK3 흉갑의 업그레이드 버전. 이 중갑은 사용자의 체력과 힘을 ^green;높여주고 EPP를 내장한다.^reset;	reuse
+/items/armors/tier-6.5/ScavMK4/koopScavMk4Chest.chest	shortdescription	Scav. MK4 Chestplate	스캐브. MK4 흉갑	reuse
+/items/armors/tier-6.5/ScavMK4/koopScavMk4Helm.head	itemName	koopScavMk4Helm	koopScavMk4Helm	
+/items/armors/tier-6.5/ScavMK4/koopScavMk4Helm.head	description	An upgraded version of the scav MK3 Helm, has an airtight seal that ^green;protects from poison^reset;, ^blue;cold damage, and airless environments.^reset;	스캐빈저 MK3 헬멧의 업그레이드 버전. ^green;독과^reset; ^blue;냉기 피해 및 무공기 환경에서 보호하는^reset; 기밀 실이 있다.	
+/items/armors/tier-6.5/ScavMK4/koopScavMk4Helm.head	shortdescription	Scav. MK4 Helm	스캐빈저 MK4 헬멧	
+/items/armors/tier-6.5/ScavMK4/koopScavMk4HelmVisor/koopScavMk4HelmVisor.head	itemName	koopScavMk4HelmVisor	koopScavMk4HelmVisor	
+/items/armors/tier-6.5/ScavMK4/koopScavMk4HelmVisor/koopScavMk4HelmVisor.head	description	An upgraded version of the scav MK3 Helm, has an airtight seal that ^green;protects from poison^reset;, ^blue;cold damage, and airless environments.^reset;	스캐빈저 MK3 헬멧의 업그레이드 버전. ^green;독과^reset; ^blue;냉기 피해 및 무공기 환경에서 보호하는^reset; 기밀 실이 있다.	
+/items/armors/tier-6.5/ScavMK4/koopScavMk4HelmVisor/koopScavMk4HelmVisor.head	shortdescription	Scav. MK4 Helm (Visor)	스캐빈저 MK4 헬멧 (바이저)	
+/items/armors/tier-6.5/ScavMK4/koopScavMk4Legs.legs	itemName	koopScavMk4Legs	koopScavMk4Legs	
+/items/armors/tier-6.5/ScavMK4/koopScavMk4Legs.legs	description	An upgraded version of the Scavenger MK3 Leggings that ^green;boost the user's energy and mobility, as well as preventing fall damage.^reset;	사용자의 에너지·기동성을 ^green;높여주고 낙하 피해도 방지하는^reset; 스캐빈저 MK3 레깅스의 업그레이드 버전.	reuse
+/items/armors/tier-6.5/ScavMK4/koopScavMk4Legs.legs	shortdescription	Scav. MK4 Leggings	스캐브. MK4 레깅스	reuse
+/items/armors/tier-6/DefenderMk2/koopDefenderMk2Chest.chest	itemName	koopDefenderMk2Chest	koopDefenderMk2Chest	
+/items/armors/tier-6/DefenderMk2/koopDefenderMk2Chest.chest	description	An Upgraded Defender MK1 Chestplate used by heavy troopers of the U.S.C.M. that ^red;grants regeneration.^reset;	범우주 우주 기업군 중무장 보병용 업그레이드된 디펜더 MK1 흉갑. ^red;재생 부여.^reset;	reuse
+/items/armors/tier-6/DefenderMk2/koopDefenderMk2Chest.chest	shortdescription	Defender Mk2 Chestplate	디펜더 Mk2 흉갑	reuse
+/items/armors/tier-6/DefenderMk2/koopDefenderMk2Helm.head	itemName	koopDefenderMk2Helm	koopDefenderMk2Helm	
+/items/armors/tier-6/DefenderMk2/koopDefenderMk2Helm.head	description	An Upgraded Defender MK1 Helmet used by heavy troopers of the U.S.C.M. It allows the user to ^blue;breathe in airless environments.^reset;	U.S.C.M. 중무장 병이 쓰는 업그레이드 디펜더 MK1 헬멧. 사용자가 ^blue;무공기 환경에서 호흡할 수 있다.^reset;	
+/items/armors/tier-6/DefenderMk2/koopDefenderMk2Helm.head	shortdescription	Defender Mk2 Helmet	디펜더 Mk2 헬멧	
+/items/armors/tier-6/DefenderMk2/koopDefenderMk2Legs.legs	itemName	koopDefenderMk2Legs	koopDefenderMk2Legs	
+/items/armors/tier-6/DefenderMk2/koopDefenderMk2Legs.legs	description	Upgraded Defender MK1 Leggings used by heavy troopers of the U.S.C.M.	범우주 우주 기업군 중무장 보병용 업그레이드된 디펜더 MK1 레깅스.	reuse
+/items/armors/tier-6/DefenderMk2/koopDefenderMk2Legs.legs	shortdescription	Defender Mk2 Leggings	디펜더 Mk2 레깅스	reuse
+/items/armors/tier-6/ScavMk3/koopScavMk3Chest.chest	itemName	koopScavMk3Chest	koopScavMk3Chest	
+/items/armors/tier-6/ScavMk3/koopScavMk3Chest.chest	description	An upgraded version of the Scavenger MK2 Chestplate.	스캐빈저 MK2 흉갑의 업그레이드 버전.	reuse
+/items/armors/tier-6/ScavMk3/koopScavMk3Chest.chest	shortdescription	Scav. MK3 Chestplate	스캐브. MK3 흉갑	reuse
+/items/armors/tier-6/ScavMk3/koopScavMk3Helm.head	itemName	koopScavMk3Helm	koopScavMk3Helm	
+/items/armors/tier-6/ScavMk3/koopScavMk3Helm.head	description	An upgraded version of the Scavenger MK2 helmet.	스캐빈저 MK2 헬멧의 업그레이드 버전.	
+/items/armors/tier-6/ScavMk3/koopScavMk3Helm.head	shortdescription	Scav. MK3 Helmet	스캐빈저 MK3 헬멧	
+/items/armors/tier-6/ScavMk3/koopScavMk3Legs.legs	itemName	koopScavMk3Legs	koopScavMk3Legs	
+/items/armors/tier-6/ScavMk3/koopScavMk3Legs.legs	description	An upgraded version of the Scavenger MK2 Leggings.	스캐빈저 MK2 레깅스의 업그레이드 버전.	reuse
+/items/armors/tier-6/ScavMk3/koopScavMk3Legs.legs	shortdescription	Scav. MK3 Leggings	스캐브. MK3 레깅스	reuse
+/items/armors/tier-6/ScavMk3Gas/koopScavMk3GasHelm.head	itemName	koopScavMk3GasHelm	koopScavMk3GasHelm	
+/items/armors/tier-6/ScavMk3Gas/koopScavMk3GasHelm.head	description	An upgraded version of the MK2 Scavenger helmet with a gas mask that ^green;helps protect against poison^reset; ^red;at the cost of speed.^reset;	^green;독 방호를 돕는^reset; 방독면이 달린 MK2 스캐빈저 헬멧의 업그레이드 버전. ^red;대신 속도가 떨어진다.^reset;	
+/items/armors/tier-6/ScavMk3Gas/koopScavMk3GasHelm.head	shortdescription	Scav. MK3 Helmet (Gas)	스캐빈저 MK3 헬멧 (방독면)	
+/items/armors/tier-6/ScavMk3Mask/koopScavMk3MaskHelm.head	itemName	koopScavMk3MaskHelm	koopScavMk3MaskHelm	
+/items/armors/tier-6/ScavMk3Mask/koopScavMk3MaskHelm.head	description	An upgraded version of the MK2 Scavenger helmet with a balaclava to ^blue;help protect from ice damage^reset; as well as ^green;providing an energy boost.^reset;	^blue;냉기 피해 방호를 돕고^reset; ^green;에너지 강화를 제공하는^reset; 발라클라바가 달린 MK2 스캐빈저 헬멧의 업그레이드 버전.	
+/items/armors/tier-6/ScavMk3Mask/koopScavMk3MaskHelm.head	shortdescription	Scav. MK3 Helmet (Mask)	스캐빈저 MK3 헬멧 (마스크)	
+/items/armors/tier-6/ScavMk3Visor/koopScavMk3VisorHelm.head	itemName	koopScavMk3VisorHelm	koopScavMk3VisorHelm	
+/items/armors/tier-6/ScavMk3Visor/koopScavMk3VisorHelm.head	description	An upgraded version of the MK2 Scavenger helmet with a visor that ^green;boosts health and mobility.^reset;	^green;체력과 기동성을 강화하는^reset; 바이저가 달린 MK2 스캐빈저 헬멧의 업그레이드 버전.	
+/items/armors/tier-6/ScavMk3Visor/koopScavMk3VisorHelm.head	shortdescription	Scav. MK3 Helmet (Visor)	스캐빈저 MK3 헬멧 (바이저)	
+/items/generic/dyes/koopUscmGreenDye.augment	itemName	koopUscmGreenDye	koopUscmGreenDye	
+/items/generic/dyes/koopUscmGreenDye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/koopUscmGreenDye.augment	shortdescription	U.S.C.M. Green Dye	U.S.C.M. 녹색 염료	
+/items/generic/uscmUpgrades/uscmWeaponUpgrade.augment	itemName	uscmWeaponUpgrade	uscmWeaponUpgrade	
+/items/generic/uscmUpgrades/uscmWeaponUpgrade.augment	subtitle	weapon upgrade	무기 업그레이드	
+/items/generic/uscmUpgrades/uscmWeaponUpgrade.augment	description	An U.S.C.M. Equipment Upgrade kit. Upgrades an item by 1 tier.	U.S.C.M. 장비 업그레이드 키트. 아이템을 1등급 강화한다.	
+/items/generic/uscmUpgrades/uscmWeaponUpgrade.augment	shortdescription	Equipment Upgrade Kit	장비 업그레이드 키트	
+/items/materials/koopUscmBaseBlock.matitem	itemName	koopUscmBaseBlockMaterial	koopUscmBaseBlockMaterial	
+/items/materials/koopUscmBaseBlock.matitem	description	This alloy typically used for lunar bases has been made tougher to be in line with U.S.C.M. Standards	달 기지에 일반적으로 쓰이는 이 합금은 U.S.C.M. 표준에 맞춰 더 단단하게 만들어졌다.	reuse
+/items/materials/koopUscmBaseBlock.matitem	shortdescription	U.S.C.M. Base Block	U.S.C.M. 기지 블록	reuse
+/items/materials/koopUscmBasePlatform.matitem	itemName	koopUscmBasePlatformMaterial	koopUscmBasePlatformMaterial	
+/items/materials/koopUscmBasePlatform.matitem	description	A military-grade metal platform made by the U.S.C.M.	U.S.C.M.이 제작한 군용급 금속 발판입니다.	reuse
+/items/materials/koopUscmBasePlatform.matitem	shortdescription	U.S.C.M. Platform	U.S.C.M. 발판	reuse
+/items/materials/koopUscmConcrete.matitem	itemName	koopUscmConcreteMaterial	koopUscmConcreteMaterial	
+/items/materials/koopUscmConcrete.matitem	description	A darker yet more durable mixture of concrete produced by the U.S.C.M.	USCM이 생산한, 더 어둡지만 내구성이 뛰어난 콘크리트 혼합물입니다.	reuse
+/items/materials/koopUscmConcrete.matitem	shortdescription	U.S.C.M. Concrete	U.S.C.M. 콘크리트	reuse
+/items/materials/koopUscmGlass.matitem	itemName	koopUscmGlassMaterial	koopUscmGlassMaterial	
+/items/materials/koopUscmGlass.matitem	description	A dark and incredibly durable panel of glass.	어둡고 믿기 힘들 만큼 내구성이 뛰어난 유리 패널입니다.	reuse
+/items/materials/koopUscmGlass.matitem	shortdescription	U.S.C.M. Glass Block	U.S.C.M. 유리 블록	reuse
+/items/materials/koopUscmOutpostConcrete.matitem	itemName	koopUscmOutpostConcreteMaterial	koopUscmOutpostConcreteMaterial	
+/items/materials/koopUscmOutpostConcrete.matitem	description	Outpost concrete that has been mixed with a special compound to make it stonger.	특수 화합물을 섞어 더 강하게 만든 전초기지 콘크리트.	reuse
+/items/materials/koopUscmOutpostConcrete.matitem	shortdescription	U.S.C.M. Base Wall	U.S.C.M. 기지 벽	reuse
+/items/materials/koopUscmOutpostWall.matitem	itemName	koopUscmOutpostWallMaterial	koopUscmOutpostWallMaterial	
+/items/materials/koopUscmOutpostWall.matitem	description	Military-grade U.S.C.M. wall designed to withstand harsh environments	가혹한 환경을 견디도록 설계된 군용 등급 U.S.C.M. 벽	reuse
+/items/materials/koopUscmOutpostWall.matitem	shortdescription	U.S.C.M. Thick Wall	U.S.C.M. 두꺼운 벽	reuse
+/items/materials/koopUscmSlopedHull.matitem	itemName	koopUscmSlopedHullMaterial	koopUscmSlopedHullMaterial	
+/items/materials/koopUscmSlopedHull.matitem	description	Strong hull panneling custom built by the U.S.C.M.	U.S.C.M.이 맞춤 제작한 강력한 선체 패널.	reuse
+/items/materials/koopUscmSlopedHull.matitem	shortdescription	U.S.C.M. Hull Panel	U.S.C.M. 선체 패널	reuse
+/items/materials/koopUscmWallPannel.matitem	itemName	koopUscmWallPannelMaterial	koopUscmWallPannelMaterial	
+/items/materials/koopUscmWallPannel.matitem	description	A sleek metal wall panel commonly used in U.S.C.M. Bases	U.S.C.M. 기지에서 흔히 사용되는 매끈한 금속 벽 패널	reuse
+/items/materials/koopUscmWallPannel.matitem	shortdescription	U.S.C.M. Wall Panel	U.S.C.M. 벽 패널	reuse
+/items/throwables/koopUscm/koopUscmIncendiaryGrenades.thrownitem	itemName	koopUscmIncendiaryGrenades	koopUscmIncendiaryGrenades	
+/items/throwables/koopUscm/koopUscmIncendiaryGrenades.thrownitem	shortdescription	U.S.C.M. Frag Grenade	U.S.C.M. 파편 수류탄	
+/items/throwables/koopUscm/koopUscmIncendiaryGrenades.thrownitem	description	A U.S.C.M. Frag Grenade, for all your explosive needs.	U.S.C.M. 파편 수류탄. 모든 폭발 필요에 대응한다.	

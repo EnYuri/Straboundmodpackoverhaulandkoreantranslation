@@ -1,0 +1,47 @@
+asset	field	en	ko	src
+/items/armors/legion/legionuniform/legionuniform.chest	description	A nullasteel forged battle-suit.		
+/items/armors/legion/legionuniform/legionuniform.chest	shortdescription	Legion Jaeger Suit		
+/items/armors/legion/legionuniform/legionuniform.head	description	A nullasteel forged helmet.		
+/items/armors/legion/legionuniform/legionuniform.head	shortdescription	Legion Jaeger Helmet		
+/items/armors/legion/legionuniform/legionuniform.legs	description	A nullasteel forged leggings.		
+/items/armors/legion/legionuniform/legionuniform.legs	shortdescription	Letheia Jaeger Leggings		
+/items/armors/legion/legionuniform1/legionuniform1.head	description	A nullasteel forged helmet.		
+/items/armors/legion/legionuniform1/legionuniform1.head	shortdescription	Legion Jaeger Helmet		
+/items/armors/letheia/letheiaengineer/letheiaengineer.chest	description	A commonly manufactured suit used by Letheia personnel. Provides moderate protection.		
+/items/armors/letheia/letheiaengineer/letheiaengineer.chest	shortdescription	Letheia Engineer Chest		
+/items/armors/letheia/letheiaengineer/letheiaengineer.head	description	A red high-tech visor, manufactured by the Letheia Corporation.		
+/items/armors/letheia/letheiaengineer/letheiaengineer.head	shortdescription	Letheia Engineer Visor		
+/items/armors/letheia/letheiaengineer/letheiaengineer.legs	description	A commonly manufactured suit used by Letheia personnel. Provides moderate protection.		
+/items/armors/letheia/letheiaengineer/letheiaengineer.legs	shortdescription	Letheia Engineer Leggings		
+/items/armors/letheia/letheiauniform/letheiauniform.chest	description	A minimal white Letheia uniform.		
+/items/armors/letheia/letheiauniform/letheiauniform.chest	shortdescription	Letheia Uniform Chest		
+/items/armors/letheia/letheiauniform/letheiauniform.legs	description	A standarized Letheia uniform leggings.		
+/items/armors/letheia/letheiauniform/letheiauniform.legs	shortdescription	Letheia Uniform Leggings		
+/items/materials/letheiaexpandedtile1.matitem	description	A metal flooring used in Letheia offices.	레테이아 사무실에서 사용하는 금속 바닥재입니다.	reuse
+/items/materials/letheiaexpandedtile1.matitem	shortdescription	Letheia Metal Flooring	레테이아 금속 바닥재	reuse
+/items/materials/letheiaexpandedtile10.matitem	description	A dark metal connector.	어두운 금속 연결부입니다.	reuse
+/items/materials/letheiaexpandedtile10.matitem	shortdescription	Dark Connector	다크 커넥터	reuse
+/items/materials/letheiaexpandedtile11.matitem	description	A light metal wall used in Letheia offices.	레테이아 사무실용 밝은 금속 벽.	reuse
+/items/materials/letheiaexpandedtile11.matitem	shortdescription	LLW Front Variant	LLW 프론트 배리언트	reuse
+/items/materials/letheiaexpandedtile12.matitem	description	A dark metal wall used in Letheia offices.	레테이아 사무실용 어두운 금속 벽.	reuse
+/items/materials/letheiaexpandedtile12.matitem	shortdescription	LDW Front Variant	LDW 프론트 배리언트	reuse
+/items/materials/letheiaexpandedtile13.matitem	description	A concrete street flooring tile.	콘크리트 도로 바닥 타일입니다.	reuse
+/items/materials/letheiaexpandedtile13.matitem	shortdescription	Letheia Street Flooring	레테이아 거리 바닥재	reuse
+/items/materials/letheiaexpandedtile14.matitem	description	A metal street fence.	금속 거리 울타리입니다.	reuse
+/items/materials/letheiaexpandedtile14.matitem	shortdescription	Letheia Street Fence	레테이아 거리 울타리	reuse
+/items/materials/letheiaexpandedtile2.matitem	description	A red and white flooring used in Letheia offices.	레테이아 사무실에서 사용되는 빨간색과 흰색이 섞인 바닥재.	reuse
+/items/materials/letheiaexpandedtile2.matitem	shortdescription	Letheia Red Flooring	레테이아 빨간 바닥재	reuse
+/items/materials/letheiaexpandedtile3.matitem	description	A light metal wall used in Letheia offices.	레테이아 사무실용 밝은 금속 벽.	reuse
+/items/materials/letheiaexpandedtile3.matitem	shortdescription	Letheia Light Wall	레테이아 조명 벽	reuse
+/items/materials/letheiaexpandedtile4.matitem	description	A dark metal wall used in Letheia offices.	레테이아 사무실용 어두운 금속 벽.	reuse
+/items/materials/letheiaexpandedtile4.matitem	shortdescription	Letheia Dark Wall	레테이아 어두운 벽	reuse
+/items/materials/letheiaexpandedtile5.matitem	description	A slim glass pane.	얇은 유리판.	reuse
+/items/materials/letheiaexpandedtile5.matitem	shortdescription	Slim Glass Block	슬림 유리 블록	reuse
+/items/materials/letheiaexpandedtile6.matitem	description	A metal railing.	금속 난간이다.	reuse
+/items/materials/letheiaexpandedtile6.matitem	shortdescription	Letheia Railing	레테이아 난간	reuse
+/items/materials/letheiaexpandedtile7.matitem	description	A pallasteel support beam.	팔라스틸 지지대입니다.	reuse
+/items/materials/letheiaexpandedtile7.matitem	shortdescription	Pallasteel Support	팔라스틸 지지대	reuse
+/items/materials/letheiaexpandedtile8.matitem	description	A dark metal support beam.	어두운 금속 지지빔.	reuse
+/items/materials/letheiaexpandedtile8.matitem	shortdescription	Dark Support	다크 지지대	reuse
+/items/materials/letheiaexpandedtile9.matitem	description	A light metal connector.	가벼운 금속 연결부입니다.	reuse
+/items/materials/letheiaexpandedtile9.matitem	shortdescription	Light Connector	라이트 커넥터	reuse

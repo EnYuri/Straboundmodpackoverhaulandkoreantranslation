@@ -1,0 +1,31 @@
+    Frackin' Universe는 버전 6.0.0(2020년 10월)부터 새로운 ^orange;연구 시스템^reset;을 도입했습니다.
+이 변경 사항은 게임 진행 방식을 완전히 개편하여 사용자가 원하는 학습 내용과 시기를 자신의 속도에 맞게 선택할 수 있도록 합니다. 또한 게임 초반의 진행 속도를 조정하고 게임 중반 이후의 진행 과정을 더욱 추적 가능하게 
+    이 가이드에서는 Frackin' Universe를 효과적으로 플레이하기 위해 알아야 할 사항을 간략하게 설명합니다. 스타바운드의 기본 플레이는 모드의 여러 측면에 의해 많이 변경되었다는 점을 염두에 두어야 합니다. 
+
+
+^blue;--------------------------------------------------^reset;
+^yellow;트라이코더
+    ^#b9b5b2;슬롯에 ???를 배치하여 범위 내 ??? 효과를 적용합니다.
+    ^#b9b5b2;슬롯에 ???를 배치하여 범위 내 ??? 효과를 적용합니다.
+PUNCT /items/MEDICAL/OLD/gic_us_medkit.consumable.patch /description |  개선된 혈액 수혈 장치가 추가되었다.. 이 키트 안의 장비는러시아 군대가제
+    의료 키트^white;연합 시스템의 모든 표준 군대에 지급됨.^white;연합 시스템^green;. 이 키트의 장비는 제3차 세계 대전 당시 러시아 군대가 제공한 것과 거의 동일하지만, 개선된 혈액 수혈 장치가 추가되었다.^white;. 이 키트 안의 장비는^yellow;러시아 군대^white;가^yellow;제3차 세계 대전^white;동안 사용한 같은 
+PUNCT /items/MEDICAL/gic_usmifak_medkit.consumable.patch /description |  개선된 혈액 수혈 장치가 추가되었다.. 이 키트에 포함된 장비는 제3차 세
+    의료 키트^white;연합 시스템의 모든 표준 군대에 지급됨.^white;연합 시스템^green;. 이 키트의 장비는 제3차 세계 대전 당시 러시아 군대가 제공한 것과 거의 동일하지만, 개선된 혈액 수혈 장치가 추가되었다.^white;. 이 키트에 포함된 장비는 제3차 세계대전 당시 러시아 군대가 제공한 것과 거의 동일하며, 개선된 수혈 장치가 추가된 점만
+PUNCT YER/gic_floran_katana/gic_floran_katana_npc.activeitem.patch /description | 들의 근접 방어를 압도할 수 있습니다..고대 무기고: 100hp 방어력.특별
+    그린핑거의 충성스러운 전사들 (또는 충성하던 전사들)이 사용하는 하이로틀 카타나의 플로란 모방입니다. 그 존재는 플로란이 어떤 문화적 전유를 했음을 시사합니다.^green;그 공격은 거짓 플로란 무술가들의 근접 방어를 압도할 수 있습니다.^white;.^yellow;고대 무기고: 100hp 방어력.^white;^green;특별할 것 없는: 신뢰성 있고 균형
+PUNCT oran_katana/gic_floran_katana_npc_onehanded.activeitem.patch /description | 들의 근접 방어를 압도할 수 있습니다..고대 무기고: 100hp 방어력.특별
+    그린핑거의 충성스러운 전사들 (또는 충성하던 전사들)이 사용하는 하이로틀 카타나의 플로란 모방입니다. 그 존재는 플로란이 어떤 문화적 전유를 했음을 시사합니다.^green;그 공격은 거짓 플로란 무술가들의 근접 방어를 압도할 수 있습니다.^white;.^yellow;고대 무기고: 100hp 방어력.^white;^green;특별할 것 없는: 신뢰성 있고 균형
+PUNCT n_katana/gic_floran_katana_player_onehanded.activeitem.patch /description | 들의 근접 방어를 압도할 수 있습니다..고대 무기고: 100hp 방어력.특별
+    그린핑거의 충성스러운 전사들 (또는 충성하던 전사들)이 사용하는 하이로틀 카타나의 플로란 모방입니다. 그 존재는 플로란이 어떤 문화적 전유를 했음을 시사합니다.^green;그 공격은 거짓 플로란 무술가들의 근접 방어를 압도할 수 있습니다.^white;.^yellow;고대 무기고: 100hp 방어력.^white;^green;특별할 것 없는: 신뢰성 있고 균형
+    고 구경. 매우 재미있습니다.
+^cyan;세트 보너스에 '플라즈마'로 계산됩니다.^reset;.
+^yellow;사냥용 무기로 계산됩니다.^reset;
+    고구경 탄환 발사.
+^yellow;높은 피해량 탄환 발사.^reset;.
+^green;세트 보너스에 '에너지'로 계산.^reset;
+    물리적 요소에 저항하는 EPP 모듈.
+^cyan;+10% 물리 및 밀쳐내기 저항.^reset;.
+    이 맛은 !@#!$!%! 놀라워요! ^green;유형: 설탕^reset;
+    이 맛은 !@#!$!%! 역겨워요.
+^red;-^white;5% ^red;HP ^gray;(^white;1m^gray;)^reset; 
+^green;유형: 야채^reset;

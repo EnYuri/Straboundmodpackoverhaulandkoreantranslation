@@ -1,0 +1,595 @@
+asset	field	en	ko	src
+/items/armors/CommunityClothingGathering/CCG_androidset/CCGandroidsbottomwear.legs	itemName	CCGandroidsbottomwear	안드로이드의 하의	
+/items/armors/CommunityClothingGathering/CCG_androidset/CCGandroidsbottomwear.legs	description	Bottomwear used by resistance androids	레지스탕스 안드로이드가 쓰는 하의.	
+/items/armors/CommunityClothingGathering/CCG_androidset/CCGandroidsbottomwear.legs	shortdescription	Android's Bottomwear	안드로이드의 하의	
+/items/armors/CommunityClothingGathering/CCG_androidset/CCGandroidstopwear.chest	itemName	CCGandroidstopwear	안드로이드의 상의	
+/items/armors/CommunityClothingGathering/CCG_androidset/CCGandroidstopwear.chest	description	Topwear used by resistance androids.	레지스탕스 안드로이드가 쓰는 상의.	
+/items/armors/CommunityClothingGathering/CCG_androidset/CCGandroidstopwear.chest	shortdescription	Android's Topwear	안드로이드의 상의	
+/items/armors/CommunityClothingGathering/CCG_antiriotset/CCGantiriothelmet.head	itemName	CCGantiriothelmet	진압 헬멧	
+/items/armors/CommunityClothingGathering/CCG_antiriotset/CCGantiriothelmet.head	description	Worn by those dedicated to suppress any form of defiance.	어떤 형태의 반항이든 진압하는 데 헌신하는 자들이 쓴다.	
+/items/armors/CommunityClothingGathering/CCG_antiriotset/CCGantiriothelmet.head	shortdescription	Anti-Riot Helmet	진압 헬멧	
+/items/armors/CommunityClothingGathering/CCG_antiriotset/CCGantiriottrousers.legs	itemName	CCGantiriottrousers	진압 바지	
+/items/armors/CommunityClothingGathering/CCG_antiriotset/CCGantiriottrousers.legs	description	"""To ensure peace and security.""..."	평화와 안전을 위해....	
+/items/armors/CommunityClothingGathering/CCG_antiriotset/CCGantiriottrousers.legs	shortdescription	Anti-Riot Trousers	진압 바지	
+/items/armors/CommunityClothingGathering/CCG_antiriotset/CCGantiriotvest.chest	itemName	CCGantiriotvest	진압 조끼	
+/items/armors/CommunityClothingGathering/CCG_antiriotset/CCGantiriotvest.chest	description	Used by the once loyal guards of the USCM prisons.	한때 충성스러웠던 USCM 교도소 경비들이 쓰던 물건.	
+/items/armors/CommunityClothingGathering/CCG_antiriotset/CCGantiriotvest.chest	shortdescription	Anti-Riot Vest	진압 조끼	
+/items/armors/CommunityClothingGathering/CCG_astrogunnerset/CCGastrogunnerschestplate.chest	itemName	CCGastrogunnerschestplate	아스트로거너의 흉갑	
+/items/armors/CommunityClothingGathering/CCG_astrogunnerset/CCGastrogunnerschestplate.chest	description	Crush your enemies with the unresting power of freedom and democracy!	쉬지 않는 자유와 민주주의의 힘으로 적을 짓밟아라!	
+/items/armors/CommunityClothingGathering/CCG_astrogunnerset/CCGastrogunnerschestplate.chest	shortdescription	AstroGunner's Chestplate	아스트로거너의 흉갑	
+/items/armors/CommunityClothingGathering/CCG_astrogunnerset/CCGastrogunnershelmet.head	itemName	CCGastrogunnershelmet	아스트로거너의 헬멧	
+/items/armors/CommunityClothingGathering/CCG_astrogunnerset/CCGastrogunnershelmet.head	description	Remember: never take your helmet off during combat training.	기억하라: 전투 훈련 중에는 절대 헬멧을 벗지 말 것.	
+/items/armors/CommunityClothingGathering/CCG_astrogunnerset/CCGastrogunnershelmet.head	shortdescription	AstroGunner's Helmet	아스트로거너의 헬멧	
+/items/armors/CommunityClothingGathering/CCG_astrogunnerset/CCGastrogunnerslegwear.legs	itemName	CCGastrogunnerslegwear	아스트로거너의 하의	
+/items/armors/CommunityClothingGathering/CCG_astrogunnerset/CCGastrogunnerslegwear.legs	description	Sturdy enough to tank an orbital drop!	궤도 강하도 견딜 만큼 튼튼하다!	
+/items/armors/CommunityClothingGathering/CCG_astrogunnerset/CCGastrogunnerslegwear.legs	shortdescription	AstroGunner's Legwear	아스트로거너의 하의	
+/items/armors/CommunityClothingGathering/CCG_astronautshelmet/CCGastronautshelmet.head	itemName	CCGastronautshelmet	우주비행사 헬멧	
+/items/armors/CommunityClothingGathering/CCG_astronautshelmet/CCGastronautshelmet.head	description	"""One small step for man, one giant leap for mankind""."	한 사람에게는 작은 발걸음이지만, 인류에게는 위대한 도약이다.	
+/items/armors/CommunityClothingGathering/CCG_astronautshelmet/CCGastronautshelmet.head	shortdescription	Astronaut's Helmet	우주비행사 헬멧	reuse
+/items/armors/CommunityClothingGathering/CCG_bigtoyhead/CCGbigtoyhead.head	itemName	CCGbigtoyhead	커다란 장난감 머리	
+/items/armors/CommunityClothingGathering/CCG_bigtoyhead/CCGbigtoyhead.head	shortdescription	Big Toy Head	커다란 장난감 머리	
+/items/armors/CommunityClothingGathering/CCG_blankie/CCGblankie.back	itemName	CCGblankie	포근 담요	
+/items/armors/CommunityClothingGathering/CCG_blankie/CCGblankie.back	description	Every sapient child has worn a blanket like this at least once.	지적인 아이들이라면 누구나 한 번쯤 이런 담요를 둘러본 적이 있다.	
+/items/armors/CommunityClothingGathering/CCG_blankie/CCGblankie.back	shortdescription	Blankie	포근 담요	
+/items/armors/CommunityClothingGathering/CCG_bo1tacticalset/CCGb01tacticalchestpiece.chest	description	A standard chestpiece to protect the hearts of democracy's soldiers.	민주주의 군인들의 심장을 지키는 표준 흉갑.	
+/items/armors/CommunityClothingGathering/CCG_bo1tacticalset/CCGb01tacticalchestpiece.chest	shortdescription	B-01 Tactical Chestpiece	B-01 전술 흉갑	
+/items/armors/CommunityClothingGathering/CCG_bo1tacticalset/CCGb01tacticalhelmet.head	description	A soldier needs to keep a cool head. This helmet makes sure that soldiers keep that cool head from being splattered.	군인은 냉정한 머리를 유지해야 한다. 이 헬멧은 그 냉정한 머리가 산산조각 나지 않게 지켜준다.	
+/items/armors/CommunityClothingGathering/CCG_bo1tacticalset/CCGb01tacticalhelmet.head	shortdescription	B-01 Tactical Helmet	B-01 전술 헬멧	
+/items/armors/CommunityClothingGathering/CCG_bo1tacticalset/CCGb01tacticaltrousers.legs	description	A super flexible pair of trousers, fit for the common soldier.	평범한 군인에게 딱 맞는 아주 유연한 바지.	
+/items/armors/CommunityClothingGathering/CCG_bo1tacticalset/CCGb01tacticaltrousers.legs	shortdescription	B-01 Tactical Trousers	B-01 전술 바지	
+/items/armors/CommunityClothingGathering/CCG_bommeledbeanie/CCGbommeledbeanie.head	itemName	CCGbommeledbeanie	보멜 비니	
+/items/armors/CommunityClothingGathering/CCG_bommeledbeanie/CCGbommeledbeanie.head	description	A comfy woven hat with a neat little bommel on top.	위에 반듯한 보멜이 달린 편안한 짜임 모자.	
+/items/armors/CommunityClothingGathering/CCG_bommeledbeanie/CCGbommeledbeanie.head	shortdescription	Bommeled Beanie	보멜 비니	
+/items/armors/CommunityClothingGathering/CCG_bonedragonskullV1/CCGbonedragonskullV1.head	itemName	CCGbonedragonskullV1	본 드래곤 두개골 V1	
+/items/armors/CommunityClothingGathering/CCG_bonedragonskullV1/CCGbonedragonskullV1.head	description	Now you too can disguise as a monstrous construct!	이제 너도 괴물 골렘으로 변장할 수 있다!	
+/items/armors/CommunityClothingGathering/CCG_bonedragonskullV1/CCGbonedragonskullV1.head	shortdescription	Bone Dragon Skull V1	본 드래곤 두개골 V1	
+/items/armors/CommunityClothingGathering/CCG_bonedragonskullV2/CCGbonedragonskullV2.head	itemName	CCGbonedragonskullV2	본 드래곤 두개골 V2	
+/items/armors/CommunityClothingGathering/CCG_bonedragonskullV2/CCGbonedragonskullV2.head	description	Now you too can disguise as a monstrous (and battle-worn) construct!	이제 너도 (전투로 닳은) 괴물 골렘으로 변장할 수 있다!	
+/items/armors/CommunityClothingGathering/CCG_bonedragonskullV2/CCGbonedragonskullV2.head	shortdescription	Bone Dragon Skull V2	본 드래곤 두개골 V2	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv1/CCGbrazilianuniformhat.head	itemName	CCGbrazilianuniformhat	브라질 군복 모자	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv1/CCGbrazilianuniformhat.head	description	A recreation of historical Brazilian military uniforms.	역사적인 브라질 군복의 재현품.	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv1/CCGbrazilianuniformhat.head	shortdescription	Brazilian Uniform Hat	브라질 군복 모자	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv1/CCGbrazilianuniformjacketv1.chest	itemName	CCGbrazilianuniformjacketv1	브라질 군복 재킷 V1	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv1/CCGbrazilianuniformjacketv1.chest	description	A recreation of historical Brazilian military uniforms.	역사적인 브라질 군복의 재현품.	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv1/CCGbrazilianuniformjacketv1.chest	shortdescription	Brazilian Uniform Jacket V1	브라질 군복 재킷 V1	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv1/CCGbrazilianuniformpantsv1.legs	itemName	CCGbrazilianuniformpantsv1	브라질 군복 바지 V1	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv1/CCGbrazilianuniformpantsv1.legs	description	A recreation of historical Brazilian military uniforms.	역사적인 브라질 군복의 재현품.	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv1/CCGbrazilianuniformpantsv1.legs	shortdescription	Brazilian Unifrom Pants V1	브라질 군복 바지 V1	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv2/CCGbrazilianuniformjacketv2.chest	itemName	CCGbrazilianuniformjacketv2	브라질 군복 재킷 V2	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv2/CCGbrazilianuniformjacketv2.chest	description	A recreation of historical Brazilian military uniforms.	역사적인 브라질 군복의 재현품.	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv2/CCGbrazilianuniformjacketv2.chest	shortdescription	Brazilian Uniform Jacket V2	브라질 군복 재킷 V2	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv2/CCGbrazilianuniformpantsv2.legs	itemName	CCGbrazilianuniformpantsv2	브라질 군복 바지 V2	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv2/CCGbrazilianuniformpantsv2.legs	description	A recreation of historical Brazilian military uniforms.	역사적인 브라질 군복의 재현품.	
+/items/armors/CommunityClothingGathering/CCG_brazilianuniformsetv2/CCGbrazilianuniformpantsv2.legs	shortdescription	Brazilian Uniform Pants V2	브라질 군복 바지 V2	
+/items/armors/CommunityClothingGathering/CCG_bukkanset/CCGbukkanarms.chest	itemName	CCGbukkanarms	부칸 팔	
+/items/armors/CommunityClothingGathering/CCG_bukkanset/CCGbukkanarms.chest	description	Part of the Bukkan Disguise. Fluffy to the touch!	부칸 변장의 일부. 만지면 폭신폭신하다!	
+/items/armors/CommunityClothingGathering/CCG_bukkanset/CCGbukkanarms.chest	shortdescription	Bukkan Arms	부칸 팔	
+/items/armors/CommunityClothingGathering/CCG_bukkanset/CCGbukkandisguise.legs	itemName	CCGbukkandisguise	부칸 변장	
+/items/armors/CommunityClothingGathering/CCG_bukkanset/CCGbukkandisguise.legs	description	A fuzzy disguise, resembling a bee-like individual. ^orange;(Insert into legs slot/Hides the wearer's body)	벌 같은 존재를 닮은 털복 터진 변장. ^orange;(하의 슬롯에 삽입/착용자의 몸을 가림)	
+/items/armors/CommunityClothingGathering/CCG_bukkanset/CCGbukkandisguise.legs	shortdescription	Bukkan Disguise	부칸 변장	
+/items/armors/CommunityClothingGathering/CCG_buzzycrown/CCGbuzzycrown.head	itemName	CCGbuzzycrown	윙윙 왕관	
+/items/armors/CommunityClothingGathering/CCG_buzzycrown/CCGbuzzycrown.head	description	The buzziest of them all!	모두 중에서 제일 윙윙거리는 녀석!	
+/items/armors/CommunityClothingGathering/CCG_buzzycrown/CCGbuzzycrown.head	shortdescription	Buzzy Crown	윙윙 왕관	
+/items/armors/CommunityClothingGathering/CCG_buzzyhead/CCGbuzzyhead.head	itemName	CCGbuzzyhead	윙윙 머리	
+/items/armors/CommunityClothingGathering/CCG_buzzyhead/CCGbuzzyhead.head	description	A simple but adorable bee-themed headpiece.	단순하지만 사랑스러운 벌 테마 머리 장식.	
+/items/armors/CommunityClothingGathering/CCG_buzzyhead/CCGbuzzyhead.head	shortdescription	Buzzy Head	윙윙 머리	
+/items/armors/CommunityClothingGathering/CCG_chemsuitset/CCGchemsuitboots.legs	itemName	CCGchemsuitboots	화학 슈트 장화	
+/items/armors/CommunityClothingGathering/CCG_chemsuitset/CCGchemsuitboots.legs	description	The more isolated your boots are, the safer you'll walk.	장화가 외부와 더 차단될수록 더 안전하게 걸을 수 있다.	
+/items/armors/CommunityClothingGathering/CCG_chemsuitset/CCGchemsuitboots.legs	shortdescription	Chemsuit Boots	화학 슈트 장화	
+/items/armors/CommunityClothingGathering/CCG_chemsuitset/CCGchemsuitgarment.chest	itemName	CCGchemsuitgarment	화학 슈트 의복	
+/items/armors/CommunityClothingGathering/CCG_chemsuitset/CCGchemsuitgarment.chest	description	These garments are designed to protect against a wide array of contaminants.	다양한 오염물질로부터 보호하도록 설계된 의복.	
+/items/armors/CommunityClothingGathering/CCG_chemsuitset/CCGchemsuitgarment.chest	shortdescription	Chemsuit Garment	화학 슈트 의복	
+/items/armors/CommunityClothingGathering/CCG_chemsuitset/CCGchemsuitoxygentank.back	itemName	CCGchemsuitoxygentank	화학 슈트 산소통	
+/items/armors/CommunityClothingGathering/CCG_chemsuitset/CCGchemsuitoxygentank.back	description	A special military oxygen tank, meant to be used along with a chemsuit.	화학 슈트와 함께 쓰도록 만들어진 특수 군용 산소통.	
+/items/armors/CommunityClothingGathering/CCG_chemsuitset/CCGchemsuitoxygentank.back	shortdescription	Chemsuit Oxygen Tank	화학 슈트 산소통	
+/items/armors/CommunityClothingGathering/CCG_chemsuitset/CCGchemsuitrespirator.head	itemName	CCGchemsuitrespirator	화학 슈트 호흡기	
+/items/armors/CommunityClothingGathering/CCG_chemsuitset/CCGchemsuitrespirator.head	description	A special C.B.R.N. respirator. Often used in hazardous enviroments by military forces.	특수 C.B.R.N. 호흡기. 군부대가 유해 환경에서 자주 사용한다.	
+/items/armors/CommunityClothingGathering/CCG_chemsuitset/CCGchemsuitrespirator.head	shortdescription	Chemsuit Respirator	화학 슈트 호흡기	
+/items/armors/CommunityClothingGathering/CCG_chunkofbutter/CCGchunkofbutter.head	itemName	CCGchunkofbutter	버터 덩어리	
+/items/armors/CommunityClothingGathering/CCG_chunkofbutter/CCGchunkofbutter.head	description	Hmmm, brainz...	음, 뇌가 드시고 싶다...	
+/items/armors/CommunityClothingGathering/CCG_chunkofbutter/CCGchunkofbutter.head	shortdescription	Chunk of Butter	버터 덩어리	
+/items/armors/CommunityClothingGathering/CCG_cleanerset/CCGcleanersarmour.chest	itemName	CCGcleanersarmour	클리너의 갑옷	
+/items/armors/CommunityClothingGathering/CCG_cleanerset/CCGcleanersarmour.chest	description	It is known.	알 건 다 안다고.	
+/items/armors/CommunityClothingGathering/CCG_cleanerset/CCGcleanersarmour.chest	shortdescription	Cleaner's Armour	클리너의 갑옷	
+/items/armors/CommunityClothingGathering/CCG_cleanerset/CCGcleanersfueltanks.back	itemName	CCGcleanersfueltanks	클리너의 연료통	
+/items/armors/CommunityClothingGathering/CCG_cleanerset/CCGcleanersfueltanks.back	description	Take care when receiving backshots!	등 뒤에서 오는 공격에 주의하라!	
+/items/armors/CommunityClothingGathering/CCG_cleanerset/CCGcleanersfueltanks.back	shortdescription	Cleaner's Fuel Tanks	클리너의 연료통	
+/items/armors/CommunityClothingGathering/CCG_colovianfurhelmet/CCGcolovianfurhelm.head	itemName	CCGcolovianfurhelm	콜로비안 모피 헬멧	
+/items/armors/CommunityClothingGathering/CCG_colovianfurhelmet/CCGcolovianfurhelm.head	description	Practical, yet stylish.	실용적이면서도 멋지다.	
+/items/armors/CommunityClothingGathering/CCG_colovianfurhelmet/CCGcolovianfurhelm.head	shortdescription	Colovian Fur Helm	콜로비안 모피 헬멧	
+/items/armors/CommunityClothingGathering/CCG_compressedmineral/CCGcompressedmineral.back	itemName	CCGcompressedmineral	압축 광물	
+/items/armors/CommunityClothingGathering/CCG_compressedmineral/CCGcompressedmineral.back	description	Look! We're rich!	봐! 우리 부자 됐어!	
+/items/armors/CommunityClothingGathering/CCG_compressedmineral/CCGcompressedmineral.back	shortdescription	Compressed Mineral	압축 광물	
+/items/armors/CommunityClothingGathering/CCG_coppermask/CCGcoppermask.head	itemName	CCGcoppermask	구리 가면	
+/items/armors/CommunityClothingGathering/CCG_coppermask/CCGcoppermask.head	description	Feels like tetanus.	파상풍 느낌이 난다.	
+/items/armors/CommunityClothingGathering/CCG_coppermask/CCGcoppermask.head	shortdescription	Copper Mask	구리 가면	
+/items/armors/CommunityClothingGathering/CCG_daringset/CCGdaringpants.legs	itemName	CCGdaringpants	데어링 바지	
+/items/armors/CommunityClothingGathering/CCG_daringset/CCGdaringpants.legs	description	A daringly baggy pair of comfortable pants.	과감하게 헐렁한 편안한 바지.	
+/items/armors/CommunityClothingGathering/CCG_daringset/CCGdaringpants.legs	shortdescription	Daring Pants	데어링 바지	
+/items/armors/CommunityClothingGathering/CCG_daringset/CCGdaringshirt.chest	itemName	CCGdaringshirt	데어링 셔츠	
+/items/armors/CommunityClothingGathering/CCG_daringset/CCGdaringshirt.chest	description	Comes with an extra satchel and a fluffy scarf. Only for the most daring of adventurers.	여분의 배낭과 폭신한 스카프가 딸려 있다. 가장 과감한 모험가만을 위해.	
+/items/armors/CommunityClothingGathering/CCG_daringset/CCGdaringshirt.chest	shortdescription	Daring Shirt	데어링 셔츠	
+/items/armors/CommunityClothingGathering/CCG_decocaptainset/CCGdecocaptainpants.legs	itemName	CCGdecocaptainpants	데코 대위 바지	
+/items/armors/CommunityClothingGathering/CCG_decocaptainset/CCGdecocaptainpants.legs	description	This pair of pants is more elegant than it is practical.	실용적이라기보다 우아한 바지.	
+/items/armors/CommunityClothingGathering/CCG_decocaptainset/CCGdecocaptainpants.legs	shortdescription	Deco Captain Pants	데코 대위 바지	
+/items/armors/CommunityClothingGathering/CCG_decocaptainset/CCGdecocaptainuniform.chest	itemName	CCGdecocaptainuniform	데코 대위 제복	
+/items/armors/CommunityClothingGathering/CCG_decocaptainset/CCGdecocaptainuniform.chest	description	This uniform is covered by a metal chestplate, which could at best protect its wearer's pride.	기껏해야 착용자의 자존심이나 지켜줄 금속 흉갑으로 덮인 제복.	
+/items/armors/CommunityClothingGathering/CCG_decocaptainset/CCGdecocaptainuniform.chest	shortdescription	Deco Captain Uniform	데코 대위 제복	
+/items/armors/CommunityClothingGathering/CCG_decocaptainuniformalt/CCGdecocaptainuniformalt.chest	itemName	CCGdecocaptainuniformalt	데코 대위 제복 변형	
+/items/armors/CommunityClothingGathering/CCG_decocaptainuniformalt/CCGdecocaptainuniformalt.chest	description	This uniform is covered by a metal chestplate, which could at best protect its wearer's pride.	기껏해야 착용자의 자존심이나 지켜줄 금속 흉갑으로 덮인 제복.	
+/items/armors/CommunityClothingGathering/CCG_decocaptainuniformalt/CCGdecocaptainuniformalt.chest	shortdescription	Deco Captain Uniform Alt.	데코 대위 제복 변형	
+/items/armors/CommunityClothingGathering/CCG_decocommissarpantsalt/CCGdecocommissarpantsalt.legs	itemName	CCGdecocommissarpantsalt	데코 장교 바지 (변형)	
+/items/armors/CommunityClothingGathering/CCG_decocommissarpantsalt/CCGdecocommissarpantsalt.legs	description	A comfortable pair of pants covered by a simple yet elegant coat.	단순하면서도 우아한 코트로 덮인 편안한 바지.	
+/items/armors/CommunityClothingGathering/CCG_decocommissarpantsalt/CCGdecocommissarpantsalt.legs	shortdescription	Deco Commissar Pants (Alt.)	데코 장교 바지 (변형)	
+/items/armors/CommunityClothingGathering/CCG_decocommissarset/CCGdecocommissarhat.head	itemName	CCGdecocommissarhat	데코 장교 모자	
+/items/armors/CommunityClothingGathering/CCG_decocommissarset/CCGdecocommissarhat.head	description	An eye-catching piece of headwear, topped off with a feather.	깃털로 마무리된 눈길을 끄는 모자.	
+/items/armors/CommunityClothingGathering/CCG_decocommissarset/CCGdecocommissarhat.head	shortdescription	Deco Commissar Hat	데코 장교 모자	
+/items/armors/CommunityClothingGathering/CCG_decocommissarset/CCGdecocommissarpants.legs	itemName	CCGdecocommissarpants	데코 장교 바지	
+/items/armors/CommunityClothingGathering/CCG_decocommissarset/CCGdecocommissarpants.legs	description	A comfortable pair of pants covered by a simple yet elegant coat.	단순하면서도 우아한 코트로 덮인 편안한 바지.	
+/items/armors/CommunityClothingGathering/CCG_decocommissarset/CCGdecocommissarpants.legs	shortdescription	Deco Commissar Pants	데코 장교 바지	
+/items/armors/CommunityClothingGathering/CCG_decocommissarset/CCGdecocommissaruniform.chest	itemName	CCGdecocommissaruniform	데코 장교 제복	
+/items/armors/CommunityClothingGathering/CCG_decocommissarset/CCGdecocommissaruniform.chest	description	A uniform, decorated with many different brass adornments.	여러 황동 장식으로 치장한 제복.	
+/items/armors/CommunityClothingGathering/CCG_decocommissarset/CCGdecocommissaruniform.chest	shortdescription	Deco Commissar Uniform	데코 장교 제복	
+/items/armors/CommunityClothingGathering/CCG_decoofficerset/CCGdecofficerpants.legs	itemName	CCGdecofficerpants	데코 경관 바지	
+/items/armors/CommunityClothingGathering/CCG_decoofficerset/CCGdecofficerpants.legs	description	Chasing after bothersome do-no-goods has never felt more stylish!	귀찮은 말썽꾸러기들을 쫓는 일이 이렇게 멋진 적은 없었다!	
+/items/armors/CommunityClothingGathering/CCG_decoofficerset/CCGdecofficerpants.legs	shortdescription	Deco Officer Pants	데코 경관 바지	
+/items/armors/CommunityClothingGathering/CCG_decoofficerset/CCGdecoofficerhat.head	itemName	CCGdecoofficerhat	데코 경관 모자	
+/items/armors/CommunityClothingGathering/CCG_decoofficerset/CCGdecoofficerhat.head	description	An easy way to show off authority.	권위를 뽐내기 쉬운 방법.	
+/items/armors/CommunityClothingGathering/CCG_decoofficerset/CCGdecoofficerhat.head	shortdescription	Deco Officer Hat	데코 경관 모자	
+/items/armors/CommunityClothingGathering/CCG_decoofficerset/CCGdecoofficeruniform.chest	itemName	CCGdecoofficeruniform	데코 경관 제복	
+/items/armors/CommunityClothingGathering/CCG_decoofficerset/CCGdecoofficeruniform.chest	description	If the fashion police were real, then they would likely wear something like this.	패션 경찰이 진짜 있다면 아마 이런 걸 입을 것이다.	
+/items/armors/CommunityClothingGathering/CCG_decoofficerset/CCGdecoofficeruniform.chest	shortdescription	Deco Officer Uniform	데코 경관 제복	
+/items/armors/CommunityClothingGathering/CCG_decoofficeruniformalt/CCGdecoofficeruniformalt.chest	itemName	CCGdecoofficeruniformalt	데코 경관 제복 변형	
+/items/armors/CommunityClothingGathering/CCG_decoofficeruniformalt/CCGdecoofficeruniformalt.chest	description	If the fashion police were real, then they would likely wear something like this.	패션 경찰이 진짜 있다면 아마 이런 걸 입을 것이다.	
+/items/armors/CommunityClothingGathering/CCG_decoofficeruniformalt/CCGdecoofficeruniformalt.chest	shortdescription	Deco Officer Uniform Alt.	데코 경관 제복 변형	
+/items/armors/CommunityClothingGathering/CCG_decoprivateset/CCGdecoprivatehat.head	itemName	CCGdecoprivatehat	데코 사병 모자	
+/items/armors/CommunityClothingGathering/CCG_decoprivateset/CCGdecoprivatehat.head	description	If you ever lose this spiked hat, better make sure that it isn't lying on where you want to sit.	이 뾰족한 모자를 잃어버리거든, 앉으려는 곳에 떨어져 있지 않은지 꼭 확인하라.	
+/items/armors/CommunityClothingGathering/CCG_decoprivateset/CCGdecoprivatehat.head	shortdescription	Deco Private Hat	데코 사병 모자	
+/items/armors/CommunityClothingGathering/CCG_decoprivateset/CCGdecoprivatepants.legs	itemName	CCGdecoprivatepants	데코 사병 바지	
+/items/armors/CommunityClothingGathering/CCG_decoprivateset/CCGdecoprivatepants.legs	description	The shining stripe on these pants makes an authorative impression.	이 바지의 반짝이는 줄무늬가 위엄 있는 인상을 준다.	
+/items/armors/CommunityClothingGathering/CCG_decoprivateset/CCGdecoprivatepants.legs	shortdescription	Deco Private Pants	데코 사병 바지	
+/items/armors/CommunityClothingGathering/CCG_decoprivateset/CCGdecoprivateuniform.chest	itemName	CCGdecoprivateuniform	데코 사병 제복	
+/items/armors/CommunityClothingGathering/CCG_decoprivateset/CCGdecoprivateuniform.chest	description	A formal uniform dotted with brass buttons and a dashing arm cloak.	황동 단추가 촘촘하고 근사한 팔 망토가 달린 정장 제복.	
+/items/armors/CommunityClothingGathering/CCG_decoprivateset/CCGdecoprivateuniform.chest	shortdescription	Deco Private Uniform	데코 사병 제복	
+/items/armors/CommunityClothingGathering/CCG_decoprivateuniformalt/CCGdecoprivateuniformalt.chest	itemName	CCGdecoprivateuniformalt	데코 사병 제복 (변형)	
+/items/armors/CommunityClothingGathering/CCG_decoprivateuniformalt/CCGdecoprivateuniformalt.chest	description	A formal uniform dotted with brass buttons and a lack of dashing arm cloak.	황동 단추가 촘촘하고 근사한 팔 망토가 없는 정장 제복.	
+/items/armors/CommunityClothingGathering/CCG_decoprivateuniformalt/CCGdecoprivateuniformalt.chest	shortdescription	Deco Private Uniform (Alt.)	데코 사병 제복 (변형)	
+/items/armors/CommunityClothingGathering/CCG_delinquentset/CCGdelinquenthat.head	itemName	CCGdelinquenthat	불량배 모자	
+/items/armors/CommunityClothingGathering/CCG_delinquentset/CCGdelinquenthat.head	description	Yare yare daze...	야레야레 다제...	
+/items/armors/CommunityClothingGathering/CCG_delinquentset/CCGdelinquenthat.head	shortdescription	Delinquent Hat	불량배 모자	
+/items/armors/CommunityClothingGathering/CCG_delinquentset/CCGdelinquentjacket.chest	itemName	CCGdelinquentjacket	불량배 재킷	
+/items/armors/CommunityClothingGathering/CCG_delinquentset/CCGdelinquentjacket.chest	description	Has plenty of space for class contraband and comics.	수업 중 몰래 볼 물건과 만화책을 넣을 공간이 넉넉하다.	
+/items/armors/CommunityClothingGathering/CCG_delinquentset/CCGdelinquentjacket.chest	shortdescription	Delinquent Jacket	불량배 재킷	
+/items/armors/CommunityClothingGathering/CCG_delinquentset/CCGdelinquentpants.legs	itemName	CCGdelinquentpants	불량배 바지	
+/items/armors/CommunityClothingGathering/CCG_delinquentset/CCGdelinquentpants.legs	description	Good for trekking through beach and desert!	해변과 사막을 가로질러 다니기 좋다!	
+/items/armors/CommunityClothingGathering/CCG_delinquentset/CCGdelinquentpants.legs	shortdescription	Delinquent Pants	불량배 바지	
+/items/armors/CommunityClothingGathering/CCG_desperadohats/CCG_desperadobandana/CCGdesperadobandana.head	itemName	CCGdesperadobandana	데스페라도 반다나	
+/items/armors/CommunityClothingGathering/CCG_desperadohats/CCG_desperadobandana/CCGdesperadobandana.head	description	An exceptionally long bandana, if you really want to stick out during a heist.	강도질에서 정말 눈에 띄고 싶다면 딱인 유난히 긴 반다나.	
+/items/armors/CommunityClothingGathering/CCG_desperadohats/CCG_desperadobandana/CCGdesperadobandana.head	shortdescription	Desperado Bandana	데스페라도 반다나	
+/items/armors/CommunityClothingGathering/CCG_desperadohats/CCG_desperadodisguise/CCGdesperadodisguise.head	itemName	CCGdesperadodisguise	데스페라도 변장	
+/items/armors/CommunityClothingGathering/CCG_desperadohats/CCG_desperadodisguise/CCGdesperadodisguise.head	description	A flat hat, paired with an exceptionally long bandana.	납작한 모자에 유난히 긴 반다나를 곁들인 차림.	
+/items/armors/CommunityClothingGathering/CCG_desperadohats/CCG_desperadodisguise/CCGdesperadodisguise.head	shortdescription	Desperado Disguise	데스페라도 변장	
+/items/armors/CommunityClothingGathering/CCG_desperadohats/CCG_desperadohat/CCGdesperadohat.head	itemName	CCGdesperadohat	데스페라도 모자	
+/items/armors/CommunityClothingGathering/CCG_desperadohats/CCG_desperadohat/CCGdesperadohat.head	description	A flat hat. Flat enough to balance a few tumblers on it.	납작한 모자. 탬블러 몇 개를 올려놓아도 될 만큼 납작하다.	
+/items/armors/CommunityClothingGathering/CCG_desperadohats/CCG_desperadohat/CCGdesperadohat.head	shortdescription	Desperado Hat	데스페라도 모자	
+/items/armors/CommunityClothingGathering/CCG_duelistset/CCGduelistcape.back	itemName	CCGduelistcape	결투사 망토	
+/items/armors/CommunityClothingGathering/CCG_duelistset/CCGduelistcape.back	description	A lightweight cape. Comes with a decorative buckler and rapier!	가벼운 망토. 장식용 버클러와 레이피어가 딸려 있다!	
+/items/armors/CommunityClothingGathering/CCG_duelistset/CCGduelistcape.back	shortdescription	Duelist Cape	결투사 망토	
+/items/armors/CommunityClothingGathering/CCG_duelistset/CCGduelistchestplate.chest	itemName	CCGduelistchestplate	결투사 흉갑	
+/items/armors/CommunityClothingGathering/CCG_duelistset/CCGduelistchestplate.chest	description	A fine steel chestplate for the aspiring duelist! ^yellow;(Dueling rapier sold separately)^white;	결투사 지망생을 위한 멋진 강철 흉갑! ^yellow;(결투용 레이피어는 별매)^white;	
+/items/armors/CommunityClothingGathering/CCG_duelistset/CCGduelistchestplate.chest	shortdescription	Duelist Chestplate	결투사 흉갑	
+/items/armors/CommunityClothingGathering/CCG_duelistset/CCGduelistpants.legs	itemName	CCGduelistpants	결투사 바지	
+/items/armors/CommunityClothingGathering/CCG_duelistset/CCGduelistpants.legs	description	Comes with a pair of light leather greaves.	가벼운 가죽 각반이 딸려 있다.	
+/items/armors/CommunityClothingGathering/CCG_duelistset/CCGduelistpants.legs	shortdescription	Duelist Pants	결투사 바지	
+/items/armors/CommunityClothingGathering/CCG_dutifulguardset/CCGdutifulguardcoat.chest	itemName	CCGdutifulguardcoat	충직한 경비 코트	
+/items/armors/CommunityClothingGathering/CCG_dutifulguardset/CCGdutifulguardcoat.chest	description	A sturdy coat with a high collar and brass shoulder pads.	높은 깃과 황동 견갑이 달린 튼튼한 코트.	
+/items/armors/CommunityClothingGathering/CCG_dutifulguardset/CCGdutifulguardcoat.chest	shortdescription	Dutiful Guard Coat	충직한 경비 코트	
+/items/armors/CommunityClothingGathering/CCG_dutifulguardset/CCGdutifulguardhelmet.head	itemName	CCGdutifulguardhelmet	충직한 경비 헬멧	
+/items/armors/CommunityClothingGathering/CCG_dutifulguardset/CCGdutifulguardhelmet.head	description	A morion with various brass ornaments and a feather on top.	여러 황동 장식과 깃털이 달린 모리온 투구.	
+/items/armors/CommunityClothingGathering/CCG_dutifulguardset/CCGdutifulguardhelmet.head	shortdescription	Dutiful Guard Helmet	충직한 경비 헬멧	
+/items/armors/CommunityClothingGathering/CCG_dutifulguardset/CCGdutifulguardpants.legs	itemName	CCGdutifulguardpants	충직한 경비 바지	
+/items/armors/CommunityClothingGathering/CCG_dutifulguardset/CCGdutifulguardpants.legs	description	Pants with a knee-deep coat and knee-high boots.	무릎까지 오는 코트와 무릎 높이 장화가 달린 바지.	
+/items/armors/CommunityClothingGathering/CCG_dutifulguardset/CCGdutifulguardpants.legs	shortdescription	Dutiful Guard Pants	충직한 경비 바지	
+/items/armors/CommunityClothingGathering/CCG_eveningsuitset/CCGeveningsuitjacket.chest	itemName	CCGeveningsuitjacket	이브닝 슈트 재킷	
+/items/armors/CommunityClothingGathering/CCG_eveningsuitset/CCGeveningsuitjacket.chest	description	Do you want to impose an unnecessarily tremendous amount of status? Well, this is the cheapest option.	불필요할 정도로 어마어마한 위엄을 과시하고 싶다고? 자, 이게 제일 싼 방법이다.	
+/items/armors/CommunityClothingGathering/CCG_eveningsuitset/CCGeveningsuitjacket.chest	shortdescription	Evening Suit Jacket	이브닝 슈트 재킷	
+/items/armors/CommunityClothingGathering/CCG_eveningsuitset/CCGeveningsuitpants.legs	itemName	CCGeveningsuitpants	이브닝 슈트 바지	
+/items/armors/CommunityClothingGathering/CCG_eveningsuitset/CCGeveningsuitpants.legs	description	Goes well with any tremendously overpriced-but-actually- cheap suit!	엄청나게 비싸 보이지만 사실 싼 어떤 슈트에도 잘 어울린다!	
+/items/armors/CommunityClothingGathering/CCG_eveningsuitset/CCGeveningsuitpants.legs	shortdescription	Evening Suit Pants	이브닝 슈트 바지	
+/items/armors/CommunityClothingGathering/CCG_exparrot/CCGexparrot.head	itemName	CCGexparrot	전 앵무새	
+/items/armors/CommunityClothingGathering/CCG_exparrot/CCGexparrot.head	description	Don't you see? This parrot is no more!	모르는 거야? 이 앵무새는 이제 없다고!	
+/items/armors/CommunityClothingGathering/CCG_exparrot/CCGexparrot.head	shortdescription	Ex-Parrot	전 앵무새	
+/items/armors/CommunityClothingGathering/CCG_fearlesscollar/CCGfearlesscollar.head	itemName	CCGfearlesscollar	불굴의 깃	
+/items/armors/CommunityClothingGathering/CCG_fearlesscollar/CCGfearlesscollar.head	description	A cape's collar, bearing the replica of a hero's symbol.	영웅의 상징 복제품을 달은 망토 깃.	
+/items/armors/CommunityClothingGathering/CCG_fearlesscollar/CCGfearlesscollar.head	shortdescription	Fearless Collar	불굴의 깃	
+/items/armors/CommunityClothingGathering/CCG_fearlesshat1/CCGfearlesshat1.head	itemName	CCGfearlesshat1	불굴의 모자 ^orange;(1)	
+/items/armors/CommunityClothingGathering/CCG_fearlesshat1/CCGfearlesshat1.head	description	A fine piece of headwear, designed after the one worn by a famous feline.	유명한 고양이가 쓰던 것을 본떠 만든 멋진 모자.	
+/items/armors/CommunityClothingGathering/CCG_fearlesshat1/CCGfearlesshat1.head	shortdescription	Fearless Hat ^orange;(1)	불굴의 모자 ^orange;(1)	
+/items/armors/CommunityClothingGathering/CCG_fearlesshat2/CCGfearlesshat2.head	itemName	CCGfearlesshat2	불굴의 모자 ^orange;(2)	
+/items/armors/CommunityClothingGathering/CCG_fearlesshat2/CCGfearlesshat2.head	description	A fine piece of headwear and a cape's collar, designed after those worn by a famous feline.	유명한 고양이가 쓰던 모자와 망토 깃을 본떠 만든 멋진 모자.	
+/items/armors/CommunityClothingGathering/CCG_fearlesshat2/CCGfearlesshat2.head	shortdescription	Fearless Hat ^orange;(2)	불굴의 모자 ^orange;(2)	
+/items/armors/CommunityClothingGathering/CCG_firefighterset/CCGfirefightershelmet.head	itemName	CCGfirefightershelmet	소방관의 헬멧	
+/items/armors/CommunityClothingGathering/CCG_firefighterset/CCGfirefightershelmet.head	description	Smells like smoke.	연기 냄새가 난다.	
+/items/armors/CommunityClothingGathering/CCG_firefighterset/CCGfirefightershelmet.head	shortdescription	Firefighter's Helmet	소방관의 헬멧	
+/items/armors/CommunityClothingGathering/CCG_firefighterset/CCGfirefighterspants.legs	itemName	CCGfirefighterspants	소방관의 바지	
+/items/armors/CommunityClothingGathering/CCG_firefighterset/CCGfirefighterspants.legs	description	How about them fires, huh? They're making me write these.	불들 말이야, 응? 얘네 때문에 내가 이런 걸 쓰고 있잖아.	
+/items/armors/CommunityClothingGathering/CCG_firefighterset/CCGfirefighterspants.legs	shortdescription	Firefighter's Pants	소방관의 바지	
+/items/armors/CommunityClothingGathering/CCG_firefighterset/CCGfirefightersshirt.chest	itemName	CCGfirefightersshirt	소방관의 셔츠	
+/items/armors/CommunityClothingGathering/CCG_firefighterset/CCGfirefightersshirt.chest	description	Do they ever fight back?	불이 반격이라도 한답니까?	
+/items/armors/CommunityClothingGathering/CCG_firefighterset/CCGfirefightersshirt.chest	shortdescription	Firefighter's Shirt	소방관의 셔츠	
+/items/armors/CommunityClothingGathering/CCG_flightlessset/CCGflightlessdrapings.chest	itemName	CCGflightlessdrapings	그라운디드 포단	
+/items/armors/CommunityClothingGathering/CCG_flightlessset/CCGflightlessdrapings.chest	description	A status symbol amongst the Grounded. And a comfortable one at that!	그라운디드 사이에서는 지위의 상징. 게다가 편하기까지 하다!	
+/items/armors/CommunityClothingGathering/CCG_flightlessset/CCGflightlessdrapings.chest	shortdescription	Flightless Drapings	그라운디드 포단	
+/items/armors/CommunityClothingGathering/CCG_flightlessset/CCGflightlessmask.head	itemName	CCGflightlessmask	그라운디드 가면	
+/items/armors/CommunityClothingGathering/CCG_flightlessset/CCGflightlessmask.head	description	A mask, designed after those that serve as warnings to the Grounded. Its bearers wear these with pride.	그라운디드에게 경고 역할을 하는 존재들을 본떠 만든 가면. 착용자들은 이를 자랑스레 쓴다.	
+/items/armors/CommunityClothingGathering/CCG_flightlessset/CCGflightlessmask.head	shortdescription	Flightless Mask	그라운디드 가면	
+/items/armors/CommunityClothingGathering/CCG_flightlessset/CCGflightlessskirt.legs	itemName	CCGflightlessskirt	그라운디드 스커트	
+/items/armors/CommunityClothingGathering/CCG_flightlessset/CCGflightlessskirt.legs	description	An ornate skirt, usually worn by highly regarded members of the Grounded.	그라운디드의 높은 지위를 가진 이들이 주로 입는 화려한 스커트.	
+/items/armors/CommunityClothingGathering/CCG_flightlessset/CCGflightlessskirt.legs	shortdescription	Flightless Skirt	그라운디드 스커트	
+/items/armors/CommunityClothingGathering/CCG_holyset/CCGholyepaulette.chest	itemName	CCGholyepaulette	신성 견장	
+/items/armors/CommunityClothingGathering/CCG_holyset/CCGholyepaulette.chest	description	A simple epaulette and necklace. Common among devotees of Kluex.	단순한 견장과 목걸이. 클루엑스 신도들 사이에서 흔하다.	
+/items/armors/CommunityClothingGathering/CCG_holyset/CCGholyepaulette.chest	shortdescription	Holy Epaulette	신성 견장	
+/items/armors/CommunityClothingGathering/CCG_holyset/CCGholyskirt.legs	itemName	CCGholyskirt	신성 스커트	
+/items/armors/CommunityClothingGathering/CCG_holyset/CCGholyskirt.legs	description	A large skirt worn in devotion to Kluex.	클루엑스에 대한 신앙으로 입는 큰 스커트.	
+/items/armors/CommunityClothingGathering/CCG_holyset/CCGholyskirt.legs	shortdescription	Holy Skirt	신성 스커트	
+/items/armors/CommunityClothingGathering/CCG_honouredguardset/CCGhonouredguardcoat.chest	itemName	CCGhonouredguardcoat	명예 경비 코트	
+/items/armors/CommunityClothingGathering/CCG_honouredguardset/CCGhonouredguardcoat.chest	description	Its wearer feels honoured to wear such an extravagant uniform.	이렇게 사치스러운 제복을 입어 영광스럽게 느끼는 착용자.	
+/items/armors/CommunityClothingGathering/CCG_honouredguardset/CCGhonouredguardcoat.chest	shortdescription	Honoured Guard Coat	명예 경비 코트	
+/items/armors/CommunityClothingGathering/CCG_honouredguardset/CCGhonouredguardhelmet.head	itemName	CCGhonouredguardhelmet	명예 경비 헬멧	
+/items/armors/CommunityClothingGathering/CCG_honouredguardset/CCGhonouredguardhelmet.head	description	A morion with various adornments, including a striking wax seal.	눈에 띄는 밀랍 인장을 포함한 여러 장식이 달린 모리온 투구.	
+/items/armors/CommunityClothingGathering/CCG_honouredguardset/CCGhonouredguardhelmet.head	shortdescription	Honoured Guard Helmet	명예 경비 헬멧	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset1/CCGhotzenplotzhat1.head	itemName	CCGhotzenplotzhat1	호첸플로츠 모자 ^orange;(1)	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset1/CCGhotzenplotzhat1.head	description	The iconic hat of Hotzenplotz, the mean brigand from a German children's book.	독일 동화책에 나오는 악독한 산적 호첸플로츠의 상징적인 모자.	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset1/CCGhotzenplotzhat1.head	shortdescription	Hotzenplotz Hat ^orange;(1)	호첸플로츠 모자 ^orange;(1)	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset1/CCGhotzenplotzpants1.legs	itemName	CCGhotzenplotzpants1	호첸플로츠 바지 ^orange;(1)	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset1/CCGhotzenplotzpants1.legs	description	Patched, raggedy pants for an equally raggedy brigand. Smells a bit like coffee...	깁고 너덜너덜한 바지로, 그 못지않게 너덜한 산적용. 커피 냄새가 살짝 난다...	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset1/CCGhotzenplotzpants1.legs	shortdescription	Hotzenplotz Pants ^orange;(1)	호첸플로츠 바지 ^orange;(1)	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset1/CCGhotzenplotzshirt1.chest	itemName	CCGhotzenplotzshirt1	호첸플로츠 셔츠 ^orange;(1)	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset1/CCGhotzenplotzshirt1.chest	description	A simple shirt with a bright patch and a large belt, stocked with a variety of knives.	밝은 패치와 큰 벨트가 달린 단순한 셔츠로, 온갖 칼이 꽂혀 있다.	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset1/CCGhotzenplotzshirt1.chest	shortdescription	Hotzenplotz Shirt ^orange;(1)	호첸플로츠 셔츠 ^orange;(1)	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset2/CCGhotzenplotzhat2.head	itemName	CCGhotzenplotzhat2	호첸플로츠 모자 ^orange;(2)	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset2/CCGhotzenplotzhat2.head	description	The iconic hat, somewhat less without the feather, of Hotzenplotz, the mean brigand from a German children's book.	상징적인 모자로, 깃털이 없어 다소 밋밋하다. 독일 동화책의 악독한 산적 호첸플로츠의 것.	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset2/CCGhotzenplotzhat2.head	shortdescription	Hotzenplotz Hat ^orange;(2)	호첸플로츠 모자 ^orange;(2)	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset2/CCGhotzenplotzpants2.legs	itemName	CCGhotzenplotzpants2	호첸플로츠 바지 ^orange;(2)	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset2/CCGhotzenplotzpants2.legs	description	Raggedy pants for an equally raggedy brigand. Smells a bit like coffee...	그 못지않게 너덜한 산적을 위한 너덜너덜한 바지. 커피 냄새가 살짝 난다...	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset2/CCGhotzenplotzpants2.legs	shortdescription	Hotzenplotz Pants ^orange;(2)	호첸플로츠 바지 ^orange;(2)	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset2/CCGhotzenplotzshirt2.chest	itemName	CCGhotzenplotzshirt2	호첸플로츠 셔츠 ^orange;(2)	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset2/CCGhotzenplotzshirt2.chest	description	A simple shirt with a bright patch and a large belt.	밝은 패치와 큰 벨트가 달린 단순한 셔츠.	
+/items/armors/CommunityClothingGathering/CCG_hotzenplotzset2/CCGhotzenplotzshirt2.chest	shortdescription	Hotzenplotz Shirt ^orange;(2)	호첸플로츠 셔츠 ^orange;(2)	
+/items/armors/CommunityClothingGathering/CCG_huntingrifle/CCGhuntingrifle.back	itemName	CCGhuntingrifle	사냥용 라이플	
+/items/armors/CommunityClothingGathering/CCG_huntingrifle/CCGhuntingrifle.back	description	It doesn't have any ammo, but it looks cool on your back.	탄약은 없지만 등에 메고 있으면 멋지다.	
+/items/armors/CommunityClothingGathering/CCG_huntingrifle/CCGhuntingrifle.back	shortdescription	Hunting Rifle	사냥용 라이플	reuse
+/items/armors/CommunityClothingGathering/CCG_imperfecthelm/CCGimperfecthelm.head	itemName	CCGimperfecthelm	미완성 헬멧	
+/items/armors/CommunityClothingGathering/CCG_imperfecthelm/CCGimperfecthelm.head	description	Not quite perfect, but it still looks good.	완벽하진 않지만 그래도 보기 좋다.	
+/items/armors/CommunityClothingGathering/CCG_imperfecthelm/CCGimperfecthelm.head	shortdescription	Imperfect Helm	미완성 헬멧	
+/items/armors/CommunityClothingGathering/CCG_incomprehensiblehelmet/CCGincomprehensiblehelmet.head	itemName	CCGincomprehensiblehelmet	불가해 헬멧	
+/items/armors/CommunityClothingGathering/CCG_incomprehensiblehelmet/CCGincomprehensiblehelmet.head	description	Nobody can quite tell what functionalities this odd helmet has to offer. Maybe it's simply cosmetic.	이 이상한 헬멧이 어떤 기능을 제공하는지 아무도 모른다. 그냥 장식일지도.	
+/items/armors/CommunityClothingGathering/CCG_incomprehensiblehelmet/CCGincomprehensiblehelmet.head	shortdescription	Incomprehensible Helmet	불가해 헬멧	
+/items/armors/CommunityClothingGathering/CCG_interfererset/CCGinterfererplate.chest	itemName	CCGinterfererplate	인터페어러 플레이트	
+/items/armors/CommunityClothingGathering/CCG_interfererset/CCGinterfererplate.chest	description	^green;Avikan. ^white;Barely armoured, but ensures great mobility.	^green;아비칸. ^white;장갑은 거의 없지만 뛰어난 기동성을 보장한다.	
+/items/armors/CommunityClothingGathering/CCG_interfererset/CCGinterfererplate.chest	shortdescription	Interferer Plate	인터페어러 플레이트	
+/items/armors/CommunityClothingGathering/CCG_interfererset/CCGinterfererskirt.legs	itemName	CCGinterfererskirt	인터페어러 스커트	
+/items/armors/CommunityClothingGathering/CCG_interfererset/CCGinterfererskirt.legs	description	^green;Avikan. ^white;A litte more elaborate than the usual rogue's skirt.	^green;아비칸. ^white;평범한 도적 스커트보다 조금 더 정교하다.	
+/items/armors/CommunityClothingGathering/CCG_interfererset/CCGinterfererskirt.legs	shortdescription	Interferer Skirt	인터페어러 스커트	
+/items/armors/CommunityClothingGathering/CCG_interfererset/CCGinterfererskullmask.head	itemName	CCGinterfererskullmask	인터페어러 해골 가면	
+/items/armors/CommunityClothingGathering/CCG_interfererset/CCGinterfererskullmask.head	description	^green;Avikan. ^white;Adorned with a piece of fabric, taken from an Honoured Captain.	^green;아비칸. ^white;명예 대위에게서 떼어낸 천으로 장식되어 있다.	
+/items/armors/CommunityClothingGathering/CCG_interfererset/CCGinterfererskullmask.head	shortdescription	Interferer Skull Mask	인터페어러 해골 가면	
+/items/armors/CommunityClothingGathering/CCG_interfererskullmaskalt/CCGinterfererskullmaskalt.head	itemName	CCGinterfererskullmaskalt	인터페어러 해골 가면 변형	
+/items/armors/CommunityClothingGathering/CCG_interfererskullmaskalt/CCGinterfererskullmaskalt.head	description	^green;Avikan. ^white;Adorned with a piece of fabric, taken from an Honoured Captain.	^green;아비칸. ^white;명예 대위에게서 떼어낸 천으로 장식되어 있다.	
+/items/armors/CommunityClothingGathering/CCG_interfererskullmaskalt/CCGinterfererskullmaskalt.head	shortdescription	Interferer Skull Mask Alt.	인터페어러 해골 가면 변형	
+/items/armors/CommunityClothingGathering/CCG_ixoset/CCGixochestplate.chest	itemName	CCGixochestplate	익소 흉갑	
+/items/armors/CommunityClothingGathering/CCG_ixoset/CCGixochestplate.chest	description	This armor is made with the remaining shell of a hunted Ixodoom, to celebrate the winner of the Hunt.	사냥의 승자를 기념해 잡은 익소둠의 남은 껍질로 만든 갑옷.	
+/items/armors/CommunityClothingGathering/CCG_ixoset/CCGixochestplate.chest	shortdescription	Ixo-Chestplate	익소 흉갑	
+/items/armors/CommunityClothingGathering/CCG_ixoset/CCGixojaw.head	itemName	CCGixojaw	뼈에 새긴 걸까, 아니면 진짜 익소둠 두개골일까?	
+/items/armors/CommunityClothingGathering/CCG_ixoset/CCGixojaw.head	description	Is it carved in bone? or is the actual skull of an Ixodoom?	뼈에 새긴 걸까, 아니면 진짜 익소둠 두개골일까?	
+/items/armors/CommunityClothingGathering/CCG_ixoset/CCGixolegwear.legs	itemName	CCGixolegwear	익소 하의	
+/items/armors/CommunityClothingGathering/CCG_ixoset/CCGixolegwear.legs	description	These garments have more of a ceremonial purpose and have rarely seen any combat.	이 의복은 의식용 성격이 강해서 실제 전투에 나선 적이 거의 없다.	
+/items/armors/CommunityClothingGathering/CCG_ixoset/CCGixolegwear.legs	shortdescription	Ixo-Legwear	익소 하의	
+/items/armors/CommunityClothingGathering/CCG_jackolantern/CCGjackolantern.head	itemName	CCGjackolantern	잭오랜턴	
+/items/armors/CommunityClothingGathering/CCG_jackolantern/CCGjackolantern.head	description	Wait, is it Halloween already?	잠깐, 벌써 할로윈이야?	
+/items/armors/CommunityClothingGathering/CCG_jackolantern/CCGjackolantern.head	shortdescription	Jack-o'-Lantern	잭오랜턴	
+/items/armors/CommunityClothingGathering/CCG_kettlehelmet/CCGkettlehelmet.head	itemName	CCGkettlehelmet	케틀 헬멧	
+/items/armors/CommunityClothingGathering/CCG_kettlehelmet/CCGkettlehelmet.head	description	Basically an armoured version of a brimmed hat.	기본적으로 챙 달린 모자의 장갑 버전.	
+/items/armors/CommunityClothingGathering/CCG_kettlehelmet/CCGkettlehelmet.head	shortdescription	Kettle Helmet	케틀 헬멧	
+/items/armors/CommunityClothingGathering/CCG_lonebanditosombrero/CCGlonebanditosombrero.head	itemName	CCGlonebanditosombrero	론 반디토 솜브레로	
+/items/armors/CommunityClothingGathering/CCG_lonebanditosombrero/CCGlonebanditosombrero.head	description	A mighty fine western hat, separated from the rest of the original set's headwear.	원래 세트의 나머지 두구와 분리된 훌륭한 웨스턴 모자.	
+/items/armors/CommunityClothingGathering/CCG_lonebanditosombrero/CCGlonebanditosombrero.head	shortdescription	Lone Bandito Sombrero	론 반디토 솜브레로	
+/items/armors/CommunityClothingGathering/CCG_lonebonesawhat/CCGlonebonesawhat.head	itemName	CCGlonebonesawhat	론 본소 모자	
+/items/armors/CommunityClothingGathering/CCG_lonebonesawhat/CCGlonebonesawhat.head	description	A mighty fine western hat, separated from the rest of the original set's headwear.	원래 세트의 나머지 두구와 분리된 훌륭한 웨스턴 모자.	
+/items/armors/CommunityClothingGathering/CCG_lonebonesawhat/CCGlonebonesawhat.head	shortdescription	Lone Bonesaw Hat	론 본소 모자	
+/items/armors/CommunityClothingGathering/CCG_lonebuzzycrown/CCGlonebuzzycrown.head	itemName	CCGlonebuzzycrown	론 윙윙 왕관	
+/items/armors/CommunityClothingGathering/CCG_lonebuzzycrown/CCGlonebuzzycrown.head	description	A royal crown, now without the buzz.	윙윙거림이 빠진 왕실 왕관.	
+/items/armors/CommunityClothingGathering/CCG_lonebuzzycrown/CCGlonebuzzycrown.head	shortdescription	Lone Buzzy Crown	론 윙윙 왕관	
+/items/armors/CommunityClothingGathering/CCG_loneclockworkhat/CCGloneclockworkhat.head	itemName	CCGloneclockworkhat	론 태엽 모자	
+/items/armors/CommunityClothingGathering/CCG_loneclockworkhat/CCGloneclockworkhat.head	description	A mighty fine western hat, separated from the rest of the original set's headwear.	원래 세트의 나머지 두구와 분리된 훌륭한 웨스턴 모자.	
+/items/armors/CommunityClothingGathering/CCG_loneclockworkhat/CCGloneclockworkhat.head	shortdescription	Lone Clockwork Hat	론 태엽 모자	
+/items/armors/CommunityClothingGathering/CCG_lonegamblerhat/CCGlonegamblerhat.head	itemName	CCGlonegamblerhat	론 도박사 모자	
+/items/armors/CommunityClothingGathering/CCG_lonegamblerhat/CCGlonegamblerhat.head	description	A mighty fine western hat, separated from the rest of the original set's headwear.	원래 세트의 나머지 두구와 분리된 훌륭한 웨스턴 모자.	
+/items/armors/CommunityClothingGathering/CCG_lonegamblerhat/CCGlonegamblerhat.head	shortdescription	Lone Gambler Hat	론 도박사 모자	
+/items/armors/CommunityClothingGathering/CCG_loneoutlawhat/CCGloneoutlawhat.head	itemName	CCGloneoutlawhat	론 무법자 모자	
+/items/armors/CommunityClothingGathering/CCG_loneoutlawhat/CCGloneoutlawhat.head	description	A mighty fine western hat, separated from the rest of the original set's headwear.	원래 세트의 나머지 두구와 분리된 훌륭한 웨스턴 모자.	
+/items/armors/CommunityClothingGathering/CCG_loneoutlawhat/CCGloneoutlawhat.head	shortdescription	Lone Outlaw Hat	론 무법자 모자	
+/items/armors/CommunityClothingGathering/CCG_lonesheriffhat/CCGlonesheriffhat.head	itemName	CCGlonesheriffhat	론 보안관 모자	
+/items/armors/CommunityClothingGathering/CCG_lonesheriffhat/CCGlonesheriffhat.head	description	A mighty fine western hat, separated from the rest of the original set's headwear.	원래 세트의 나머지 두구와 분리된 훌륭한 웨스턴 모자.	
+/items/armors/CommunityClothingGathering/CCG_lonesheriffhat/CCGlonesheriffhat.head	shortdescription	Lone Sheriff Hat	론 보안관 모자	
+/items/armors/CommunityClothingGathering/CCG_lonevarminthat/CCGlonevarminthat.head	itemName	CCGlonevarminthat	론 바민트 모자	
+/items/armors/CommunityClothingGathering/CCG_lonevarminthat/CCGlonevarminthat.head	description	A mighty fine western hat, separated from the rest of the original set's headwear.	원래 세트의 나머지 두구와 분리된 훌륭한 웨스턴 모자.	
+/items/armors/CommunityClothingGathering/CCG_lonevarminthat/CCGlonevarminthat.head	shortdescription	Lone Varmint Hat	론 바민트 모자	
+/items/armors/CommunityClothingGathering/CCG_lonewranglerhat/CCGlonewranglerhat.head	itemName	CCGlonewranglerhat	론 랭글러 모자	
+/items/armors/CommunityClothingGathering/CCG_lonewranglerhat/CCGlonewranglerhat.head	description	A mighty fine western hat, separated from the rest of the original set's headwear.	원래 세트의 나머지 두구와 분리된 훌륭한 웨스턴 모자.	
+/items/armors/CommunityClothingGathering/CCG_lonewranglerhat/CCGlonewranglerhat.head	shortdescription	Lone Wrangler Hat	론 랭글러 모자	
+/items/armors/CommunityClothingGathering/CCG_medicalmask/CCGmedicalmask.head	itemName	CCGmedicalmask	의료 마스크	
+/items/armors/CommunityClothingGathering/CCG_medicalmask/CCGmedicalmask.head	description	The elastic bands and adjustable nose clip ensure an anatomically correct fit.	탄성 밴드와 조절 가능한 코 클립이 해부학적으로 정확한 착용감을 보장한다.	
+/items/armors/CommunityClothingGathering/CCG_medicalmask/CCGmedicalmask.head	shortdescription	Medical Mask	의료 마스크	
+/items/armors/CommunityClothingGathering/CCG_medievaldoctorset/CCGmedievaldoctorrobe.chest	itemName	CCGmedievaldoctorrobe	중세 의사 로브	
+/items/armors/CommunityClothingGathering/CCG_medievaldoctorset/CCGmedievaldoctorrobe.chest	description	For all those who still think that lead alone is a efficient medicine. (It's not)	납만으로도 훌륭한 약이 된다고 아직도 믿는 이들을 위해. (안 되거든)	
+/items/armors/CommunityClothingGathering/CCG_medievaldoctorset/CCGmedievaldoctorrobe.chest	shortdescription	Medieval Doctor Robe	중세 의사 로브	
+/items/armors/CommunityClothingGathering/CCG_medievaldoctorset/CCGmedievaldoctorskirt.legs	itemName	CCGmedievaldoctorskirt	중세 의사 스커트	
+/items/armors/CommunityClothingGathering/CCG_medievaldoctorset/CCGmedievaldoctorskirt.legs	description	A good way of shielding your loins from getting soiled by others' innards.	남의 내장으로 허벅지가 더러워지는 걸 막기 좋은 방법.	
+/items/armors/CommunityClothingGathering/CCG_medievaldoctorset/CCGmedievaldoctorskirt.legs	shortdescription	Medieval Doctor Skirt	중세 의사 스커트	
+/items/armors/CommunityClothingGathering/CCG_medievaldoctorset/CCGvirtuousgeneralpantsalt.head	itemName	CCGmedievaldoctorhat	중세 의사 모자	
+/items/armors/CommunityClothingGathering/CCG_medievaldoctorset/CCGvirtuousgeneralpantsalt.head	description	A good start for going full on medieval in a clinical manner.	임상적으로 완전 중세스러워지기 위한 좋은 시작.	
+/items/armors/CommunityClothingGathering/CCG_medievaldoctorset/CCGvirtuousgeneralpantsalt.head	shortdescription	Medieval Doctor hat	중세 의사 모자	
+/items/armors/CommunityClothingGathering/CCG_oversizedshirt/CCGoversizedshirt.chest	itemName	CCGoversizedshirt	오버사이즈 셔츠	
+/items/armors/CommunityClothingGathering/CCG_oversizedshirt/CCGoversizedshirt.chest	description	It's a few... Many sizes too big for the average person.	몇 사이즈... 아니, 아주 많이 크다. 보통 사람 기준으로.	
+/items/armors/CommunityClothingGathering/CCG_oversizedshirt/CCGoversizedshirt.chest	shortdescription	Oversized Shirt	오버사이즈 셔츠	
+/items/armors/CommunityClothingGathering/CCG_peacekeeperhelmet/CCGpeacekeeperhelmet.head	itemName	CCGpeacekeeperhelmet	치안유지대 헬멧	
+/items/armors/CommunityClothingGathering/CCG_peacekeeperhelmet/CCGpeacekeeperhelmet.head	description	An old and heavy peacekeeper helmet. I wonder where the rest of the armor is...	낡고 무거운 치안유지대 헬멧. 나머지 갑옷은 어디 갔을까...	
+/items/armors/CommunityClothingGathering/CCG_peacekeeperhelmet/CCGpeacekeeperhelmet.head	shortdescription	Peacekeeper Helmet	치안유지대 헬멧	
+/items/armors/CommunityClothingGathering/CCG_perfectlygenerichat/CCGperfectlygenerichat.head	itemName	CCGperfectlygenerichat	완벽히 평범한 모자	
+/items/armors/CommunityClothingGathering/CCG_perfectlygenerichat/CCGperfectlygenerichat.head	description	Not actually perfectly generic, because it has been hollowed out to fit properly on the head.	사실 완벽히 평범하진 않다. 머리에 제대로 맞게 속을 파냈거든.	
+/items/armors/CommunityClothingGathering/CCG_perfectlygenerichat/CCGperfectlygenerichat.head	shortdescription	Perfectly Generic Hat	완벽히 평범한 모자	
+/items/armors/CommunityClothingGathering/CCG_pimpset/CCGpimppants.legs	itemName	CCGpimppants	뽐내는 바지	
+/items/armors/CommunityClothingGathering/CCG_pimpset/CCGpimppants.legs	description	A velvet pair of pants and slick cape.	벨벳 바지에 미끈한 망토.	
+/items/armors/CommunityClothingGathering/CCG_pimpset/CCGpimppants.legs	shortdescription	Pimp Pants	뽐내는 바지	
+/items/armors/CommunityClothingGathering/CCG_pimpset/CCGpimpsuit.chest	itemName	CCGpimpsuit	뽐내는 슈트	
+/items/armors/CommunityClothingGathering/CCG_pimpset/CCGpimpsuit.chest	description	A velvet suit lined with a puffy collar.	폭신한 칼라가 달린 벨벳 슈트.	
+/items/armors/CommunityClothingGathering/CCG_pimpset/CCGpimpsuit.chest	shortdescription	Pimp Suit	뽐내는 슈트	
+/items/armors/CommunityClothingGathering/CCG_platedrangerset/CCGplatedrangerhat.head	itemName	CCGplatedrangerhat	철판 레인저 모자	
+/items/armors/CommunityClothingGathering/CCG_platedrangerset/CCGplatedrangerhat.head	description	A ranger's hat covered with a skullcap helmet.	두개골 헬멧으로 덮인 레인저 모자.	
+/items/armors/CommunityClothingGathering/CCG_platedrangerset/CCGplatedrangerhat.head	shortdescription	Plated Ranger Hat	철판 레인저 모자	
+/items/armors/CommunityClothingGathering/CCG_platedrangerset/CCGplatedrangerpants.legs	itemName	CCGplatedrangerpants	철판 레인저 바지	
+/items/armors/CommunityClothingGathering/CCG_platedrangerset/CCGplatedrangerpants.legs	description	Keeps the dust away from the wearer's legs.	착용자의 다리에서 먼지를 떨어뜨려준다.	
+/items/armors/CommunityClothingGathering/CCG_platedrangerset/CCGplatedrangerpants.legs	shortdescription	Plated Ranger Pants	철판 레인저 바지	
+/items/armors/CommunityClothingGathering/CCG_platedrangerset/CCGplatedrangershirt.chest	itemName	CCGplatedrangershirt	철판 레인저 셔츠	
+/items/armors/CommunityClothingGathering/CCG_platedrangerset/CCGplatedrangershirt.chest	description	A lightly armoured shirt for ranger-related business.	레인저 관련 일을 위한 경장갑 셔츠.	
+/items/armors/CommunityClothingGathering/CCG_platedrangerset/CCGplatedrangershirt.chest	shortdescription	Plated Ranger Shirt	철판 레인저 셔츠	
+/items/armors/CommunityClothingGathering/CCG_poacherset/CCGpoacherhat.head	itemName	CCGpoacherhat	밀렵꾼 모자	
+/items/armors/CommunityClothingGathering/CCG_poacherset/CCGpoacherhat.head	description	A suede tricorn adorned with the purple feather of a starling.	찌르레기의 보라 깃털로 장식한 스웨이드 삼각모.	
+/items/armors/CommunityClothingGathering/CCG_poacherset/CCGpoacherhat.head	shortdescription	Poacher Hat	밀렵꾼 모자	
+/items/armors/CommunityClothingGathering/CCG_poacherset/CCGpoacherpants.legs	itemName	CCGpoacherpants	밀렵꾼 바지	
+/items/armors/CommunityClothingGathering/CCG_poacherset/CCGpoacherpants.legs	description	A pair of cotton trousers with leather boots.	가죽 장화가 달린 면 바지.	
+/items/armors/CommunityClothingGathering/CCG_poacherset/CCGpoacherpants.legs	shortdescription	Poacher Pants	밀렵꾼 바지	
+/items/armors/CommunityClothingGathering/CCG_poacherset/CCGpoacherschestwear.chest	itemName	CCGpoacherschestwear	밀렵꾼 흉의	
+/items/armors/CommunityClothingGathering/CCG_poacherset/CCGpoacherschestwear.chest	description	A thinly padded gambeson held together by strings and belts.	끈과 벨트로 묶은 얇게 솜을 댄 겜버슨.	
+/items/armors/CommunityClothingGathering/CCG_poacherset/CCGpoacherschestwear.chest	shortdescription	Poacher Chestwear	밀렵꾼 흉의	
+/items/armors/CommunityClothingGathering/CCG_priestset/CCGpriestdress.legs	itemName	CCGpriestdress	성직자 드레스	
+/items/armors/CommunityClothingGathering/CCG_priestset/CCGpriestdress.legs	description	An elegant silk dress with golden lining.	금색 안감을 댄 우아한 비단 드레스.	
+/items/armors/CommunityClothingGathering/CCG_priestset/CCGpriestdress.legs	shortdescription	Priest Dress	성직자 드레스	
+/items/armors/CommunityClothingGathering/CCG_priestset/CCGpriestrobes.chest	itemName	CCGpriestrobes	성직자 로브	
+/items/armors/CommunityClothingGathering/CCG_priestset/CCGpriestrobes.chest	description	A soft silk robe with striking shoulder ornaments.	눈에 띄는 어깨 장식이 달린 부드러운 비단 로브.	
+/items/armors/CommunityClothingGathering/CCG_priestset/CCGpriestrobes.chest	shortdescription	Priest Robes	성직자 로브	
+/items/armors/CommunityClothingGathering/CCG_protectoratecap/CCGprotectoratecap.head	itemName	CCGprotectoratecap	보호국 모자	
+/items/armors/CommunityClothingGathering/CCG_protectoratecap/CCGprotectoratecap.head	description	A well-worn cap, emblazoned with the logo of the Terrene Protectorate. It has been far across Earth, and shall now travel the stars.	지상 보호국 로고가 새겨진 낡은 모자. 지구 곳곳을 누볐고, 이제 별들을 여행할 것이다.	
+/items/armors/CommunityClothingGathering/CCG_protectoratecap/CCGprotectoratecap.head	shortdescription	Protectorate Cap	보호국 모자	
+/items/armors/CommunityClothingGathering/CCG_protectoratecombathelm1/CCGprotectoratecombathelm1.head	itemName	CCGprotectoratecombathelm1	보호국 전투 헬멧 1	
+/items/armors/CommunityClothingGathering/CCG_protectoratecombathelm1/CCGprotectoratecombathelm1.head	description	The first iteration of a Protectorate-issued helmet that never left its prototype stage.	시제품 단계를 벗어나지 못한 보호국 발급 헬멧의 첫 번째 버전.	
+/items/armors/CommunityClothingGathering/CCG_protectoratecombathelm1/CCGprotectoratecombathelm1.head	shortdescription	Protectorate Combat Helm 1	보호국 전투 헬멧 1	
+/items/armors/CommunityClothingGathering/CCG_protectoratecombathelm2/CCGprotectoratecombathelm2.head	itemName	CCGprotectoratecombathelm2	보호국 전투 헬멧 2	
+/items/armors/CommunityClothingGathering/CCG_protectoratecombathelm2/CCGprotectoratecombathelm2.head	description	The second iteration of a Protectorate-issued helmet that never left its prototype stage.	시제품 단계를 벗어나지 못한 보호국 발급 헬멧의 두 번째 버전.	
+/items/armors/CommunityClothingGathering/CCG_protectoratecombathelm2/CCGprotectoratecombathelm2.head	shortdescription	Protectorate Combat Helm 2	보호국 전투 헬멧 2	
+/items/armors/CommunityClothingGathering/CCG_rescuerset/CCGrescuerhelmet.head	itemName	CCGrescuerhelmet	구조대원 헬멧	
+/items/armors/CommunityClothingGathering/CCG_rescuerset/CCGrescuerhelmet.head	description	A helmet to protect you from any falling debris.	떨어지는 파편으로부터 너를 지켜주는 헬멧.	
+/items/armors/CommunityClothingGathering/CCG_rescuerset/CCGrescuerhelmet.head	shortdescription	Rescuer Helmet	구조대원 헬멧	
+/items/armors/CommunityClothingGathering/CCG_rescuerset/CCGrescuerjacket.chest	itemName	CCGrescuerjacket	구조대원 재킷	
+/items/armors/CommunityClothingGathering/CCG_rescuerset/CCGrescuerjacket.chest	description	A jacket often used by rescuers during disaster events.	재난 현장에서 구조대원들이 자주 쓰는 재킷.	
+/items/armors/CommunityClothingGathering/CCG_rescuerset/CCGrescuerjacket.chest	shortdescription	Rescuer Jacket	구조대원 재킷	
+/items/armors/CommunityClothingGathering/CCG_rescuerset/CCGrescuerpants.legs	itemName	CCGrescuerpants	구조대원 바지	
+/items/armors/CommunityClothingGathering/CCG_rescuerset/CCGrescuerpants.legs	description	Special pants used by rescuers during disaster events.	재난 현장에서 구조대원들이 쓰는 특수 바지.	
+/items/armors/CommunityClothingGathering/CCG_rescuerset/CCGrescuerpants.legs	shortdescription	Rescuer Pants	구조대원 바지	
+/items/armors/CommunityClothingGathering/CCG_rowdyhats/CCG_rowdybandana/CCGrowdybandana.head	itemName	CCGrowdybandana	무뢰 반다나	
+/items/armors/CommunityClothingGathering/CCG_rowdyhats/CCG_rowdybandana/CCGrowdybandana.head	description	A scarred bandana. The preferred choice for robbing banks.	흉터투성이 반다나. 은행 털이에 제일 인기 있는 선택.	
+/items/armors/CommunityClothingGathering/CCG_rowdyhats/CCG_rowdybandana/CCGrowdybandana.head	shortdescription	Rowdy Bandana	무뢰 반다나	
+/items/armors/CommunityClothingGathering/CCG_rowdyhats/CCG_rowdysombrero/CCGrowdysombrero.head	itemName	CCGrowdysombrero	무뢰 솜브레로	
+/items/armors/CommunityClothingGathering/CCG_rowdyhats/CCG_rowdysombrero/CCGrowdysombrero.head	description	A rather saggy sombrero, all on its own.	다소 축 처진 솜브레로, 홀로 덩그러니.	
+/items/armors/CommunityClothingGathering/CCG_rowdyhats/CCG_rowdysombrero/CCGrowdysombrero.head	shortdescription	Rowdy Sombrero	무뢰 솜브레로	
+/items/armors/CommunityClothingGathering/CCG_rowdyset/CCGrowdydisguise.head	itemName	CCGrowdydisguise	무뢰 변장	
+/items/armors/CommunityClothingGathering/CCG_rowdyset/CCGrowdydisguise.head	description	A rather saggy sombrero, accompanied by a scarred bandana.	다소 축 처진 솜브레로에 흉터투성이 반다나를 곁들인 차림.	
+/items/armors/CommunityClothingGathering/CCG_rowdyset/CCGrowdydisguise.head	shortdescription	Rowdy Disguise	무뢰 변장	
+/items/armors/CommunityClothingGathering/CCG_rowdyset/CCGrowdyponcho.chest	itemName	CCGrowdyponcho	무뢰 판초	
+/items/armors/CommunityClothingGathering/CCG_rowdyset/CCGrowdyponcho.chest	description	A rough-knit poncho, covering a worn, light jacket.	낡고 가벼운 재킷을 덮는 거칠게 뜬 판초.	
+/items/armors/CommunityClothingGathering/CCG_rowdyset/CCGrowdyponcho.chest	shortdescription	Rowdy Poncho	무뢰 판초	
+/items/armors/CommunityClothingGathering/CCG_rowdyset/CCGrowdytrousers.legs	itemName	CCGrowdytrousers	무뢰 바지	
+/items/armors/CommunityClothingGathering/CCG_rowdyset/CCGrowdytrousers.legs	description	Worn from chases through the rough prairie.	거친 대초원을 가로지르는 추격전에 닳은 바지.	
+/items/armors/CommunityClothingGathering/CCG_rowdyset/CCGrowdytrousers.legs	shortdescription	Rowdy Trousers	무뢰 바지	
+/items/armors/CommunityClothingGathering/CCG_royalguardpantsalt/CCGroyalguardpantsalt.legs	itemName	CCGroyalguardpantsalt	왕실 근위 바지 변형	
+/items/armors/CommunityClothingGathering/CCG_royalguardpantsalt/CCGroyalguardpantsalt.legs	description	The lined boots are the most striking element of this legwear.	안감 댄 장화가 이 하의의 가장 눈에 띄는 요소다.	
+/items/armors/CommunityClothingGathering/CCG_royalguardpantsalt/CCGroyalguardpantsalt.legs	shortdescription	Royal Guard Pants Alt.	왕실 근위 바지 변형	
+/items/armors/CommunityClothingGathering/CCG_royalguardset/CCGroyalguardcape.back	itemName	CCGroyalguardcape	왕실 근위 망토	
+/items/armors/CommunityClothingGathering/CCG_royalguardset/CCGroyalguardcape.back	description	A silk cape with brass lining.	황동 안감을 댄 비단 망토.	
+/items/armors/CommunityClothingGathering/CCG_royalguardset/CCGroyalguardcape.back	shortdescription	Royal Guard Cape	왕실 근위 망토	
+/items/armors/CommunityClothingGathering/CCG_royalguardset/CCGroyalguardchestplate.chest	itemName	CCGroyalguardchestplate	왕실 근위 흉갑	
+/items/armors/CommunityClothingGathering/CCG_royalguardset/CCGroyalguardchestplate.chest	description	A uniform covered by a shiny chestplate. Moreso a status symbol than actual armour.	반짝이는 흉갑으로 덮인 제복. 실제 갑옷이라기보다 지위 상징에 가깝다.	
+/items/armors/CommunityClothingGathering/CCG_royalguardset/CCGroyalguardchestplate.chest	shortdescription	Royal Guard Chestplate	왕실 근위 흉갑	
+/items/armors/CommunityClothingGathering/CCG_royalguardset/CCGroyalguardhelmet.head	itemName	CCGroyalguardhelmet	왕실 근위 헬멧	
+/items/armors/CommunityClothingGathering/CCG_royalguardset/CCGroyalguardhelmet.head	description	A sturdy helmet with brass elements and a small, but elegant feather.	황동 부품과 작지만 우아한 깃털이 달린 튼튼한 헬멧.	
+/items/armors/CommunityClothingGathering/CCG_royalguardset/CCGroyalguardhelmet.head	shortdescription	Royal Guard Helmet	왕실 근위 헬멧	
+/items/armors/CommunityClothingGathering/CCG_royalguardset/CCGroyalguardpants.legs	itemName	CCGroyalguardpants	왕실 근위 바지	
+/items/armors/CommunityClothingGathering/CCG_royalguardset/CCGroyalguardpants.legs	description	The lined boots are the most striking element of this legwear.	안감 댄 장화가 이 하의의 가장 눈에 띄는 요소다.	
+/items/armors/CommunityClothingGathering/CCG_royalguardset/CCGroyalguardpants.legs	shortdescription	Royal Guard Pants	왕실 근위 바지	
+/items/armors/CommunityClothingGathering/CCG_sailorset/CCGsailorscoat.chest	itemName	CCGsailorscoat	선원의 코트	
+/items/armors/CommunityClothingGathering/CCG_sailorset/CCGsailorscoat.chest	description	For keeping you dry during a rainy day on the open sea.	망망대해의 비 오는 날에 젖지 않게 해준다.	
+/items/armors/CommunityClothingGathering/CCG_sailorset/CCGsailorscoat.chest	shortdescription	Sailor's Coat	선원의 코트	
+/items/armors/CommunityClothingGathering/CCG_sailorset/CCGsailorshat.head	itemName	CCGsailorshat	선원의 사우웨스터	
+/items/armors/CommunityClothingGathering/CCG_sailorset/CCGsailorshat.head	description	A collapsable rain hat made of waterproof oilskin.	방수 유포로 만든 접이식 우비 모자.	
+/items/armors/CommunityClothingGathering/CCG_sailorset/CCGsailorshat.head	shortdescription	Sailor's Sou'wester	선원의 사우웨스터	
+/items/armors/CommunityClothingGathering/CCG_sailorset/CCGsailorspants.legs	itemName	CCGsailorspants	선원의 바지	
+/items/armors/CommunityClothingGathering/CCG_sailorset/CCGsailorspants.legs	description	A pair of waterproof pants and boots to help with staying dry during a storm.	폭풍 속에서도 젖지 않게 해주는 방수 바지와 장화.	
+/items/armors/CommunityClothingGathering/CCG_sailorset/CCGsailorspants.legs	shortdescription	Sailor's Pants	선원의 바지	
+/items/armors/CommunityClothingGathering/CCG_scifibuckethelm/CCGscifibuckethelm.head	itemName	CCGscifibuckethelm	SF 바케트 헬멧	
+/items/armors/CommunityClothingGathering/CCG_scifibuckethelm/CCGscifibuckethelm.head	description	A more sci-fi take of the usual bucket helmet.	평범한 바케트 헬멧을 좀 더 SF스럽게 만든 것.	
+/items/armors/CommunityClothingGathering/CCG_scifibuckethelm/CCGscifibuckethelm.head	shortdescription	Sci-Fi Bucket Helm	SF 바케트 헬멧	
+/items/armors/CommunityClothingGathering/CCG_scoutersfullhelm/CCGscoutersfullhelm.head	itemName	CCGscoutersfullhelm	탐사자 전면 헬멧	
+/items/armors/CommunityClothingGathering/CCG_scoutersfullhelm/CCGscoutersfullhelm.head	description	A helmet that is especially suited for exploring alien planets.	외계 행성 탐사에 특히 적합한 헬멧.	
+/items/armors/CommunityClothingGathering/CCG_scoutersfullhelm/CCGscoutersfullhelm.head	shortdescription	Scouter's Full Helm	탐사자 전면 헬멧	
+/items/armors/CommunityClothingGathering/CCG_seabreezeset/CCGseabreezelongcoat.chest	itemName	CCGseabreezelongcoat	바닷바람 롱코트	
+/items/armors/CommunityClothingGathering/CCG_seabreezeset/CCGseabreezelongcoat.chest	description	The perfect fit for a seasoned sailor! Smells like salty seawater.	노련한 선원에게 딱 맞는 옷! 짠 바닷물 냄새가 난다.	
+/items/armors/CommunityClothingGathering/CCG_seabreezeset/CCGseabreezelongcoat.chest	shortdescription	Seabreeze Longcoat	바닷바람 롱코트	
+/items/armors/CommunityClothingGathering/CCG_seabreezeset/CCGseabreezetrousers.legs	itemName	CCGseabreezetrousers	바닷바람 바지	
+/items/armors/CommunityClothingGathering/CCG_seabreezeset/CCGseabreezetrousers.legs	description	The bottom part of a longcoat. Light enough to flutter elegantly during a breeze.	롱코트의 아랫부분. 바닷바람에 우아하게 나부낄 만큼 가볍다.	
+/items/armors/CommunityClothingGathering/CCG_seabreezeset/CCGseabreezetrousers.legs	shortdescription	Seabreeze Trousers	바닷바람 바지	
+/items/armors/CommunityClothingGathering/CCG_simpleduelistchestplate/CCGsimpleduelistchestplate.chest	itemName	CCGsimpleduelistchestplate	단순 결투사 흉갑	
+/items/armors/CommunityClothingGathering/CCG_simpleduelistchestplate/CCGsimpleduelistchestplate.chest	description	A slightly less fancier version of the Duelist Chestplate.	결투사 흉갑보다 살짝 덜 화려한 버전.	
+/items/armors/CommunityClothingGathering/CCG_simpleduelistchestplate/CCGsimpleduelistchestplate.chest	shortdescription	Simple Duelist Chestplate	단순 결투사 흉갑	
+/items/armors/CommunityClothingGathering/CCG_smugglerset/CCGsmugglercloak.chest	itemName	CCGsmugglercloak	밀수업자 망토	
+/items/armors/CommunityClothingGathering/CCG_smugglerset/CCGsmugglercloak.chest	description	^green;Avikan. ^white;A cloak, lined with hidden pockets for all sorts of contraband.	^green;아비칸. ^white;온갖 밀수품을 위한 숨은 주머니가 달린 망토.	
+/items/armors/CommunityClothingGathering/CCG_smugglerset/CCGsmugglercloak.chest	shortdescription	Smuggler Cloak	밀수업자 망토	
+/items/armors/CommunityClothingGathering/CCG_smugglerset/CCGsmugglerskirt.legs	itemName	CCGsmugglerskirt	밀수업자 스커트	
+/items/armors/CommunityClothingGathering/CCG_smugglerset/CCGsmugglerskirt.legs	description	^green;Avikan. ^white;A nondescript leather skirt with dark leather lining at its bottom.	^green;아비칸. ^white;밑단에 검은 가죽 안감을 댄 수수한 가죽 스커트.	
+/items/armors/CommunityClothingGathering/CCG_smugglerset/CCGsmugglerskirt.legs	shortdescription	Smuggler Skirt	밀수업자 스커트	
+/items/armors/CommunityClothingGathering/CCG_solesurvivorsoutfit/CCGsolesurvivorsshirt.chest	itemName	CCGsolesurvivorsshirt	유일한 생존자의 셔츠	
+/items/armors/CommunityClothingGathering/CCG_solesurvivorsoutfit/CCGsolesurvivorsshirt.chest	description	A Terrene Protectorate uniform reinforced to brave the elements. Ideal for a lone wanderer.	자연환경을 견디도록 보강된 지상 보호국 제복. 홀로 떠도는 자에게 이상적이다.	
+/items/armors/CommunityClothingGathering/CCG_solesurvivorsoutfit/CCGsolesurvivorsshirt.chest	shortdescription	Sole Survivor's Shirt	유일한 생존자의 셔츠	
+/items/armors/CommunityClothingGathering/CCG_solesurvivorsoutfit/CCGsolesurvivorstrousers.legs	itemName	CCGsolesurvivorstrousers	유일한 생존자의 바지	
+/items/armors/CommunityClothingGathering/CCG_solesurvivorsoutfit/CCGsolesurvivorstrousers.legs	description	A Terrene Protectorate uniform reinforced to brave the elements. Ideal for a lone wanderer.	자연환경을 견디도록 보강된 지상 보호국 제복. 홀로 떠도는 자에게 이상적이다.	
+/items/armors/CommunityClothingGathering/CCG_solesurvivorsoutfit/CCGsolesurvivorstrousers.legs	shortdescription	Sole Survivor's Trousers	유일한 생존자의 바지	
+/items/armors/CommunityClothingGathering/CCG_superiortophat/CCGsuperiortophat.head	itemName	CCGsuperiortophat	우월한 실크 해트	
+/items/armors/CommunityClothingGathering/CCG_superiortophat/CCGsuperiortophat.head	description	A hat on top of a top hat. Truly revolutionary, truly superior.	실크 해트 위에 얹는 모자. 진정 혁명적이고 진정 우월하다.	
+/items/armors/CommunityClothingGathering/CCG_superiortophat/CCGsuperiortophat.head	shortdescription	Superior Top Hat	우월한 실크 해트	
+/items/armors/CommunityClothingGathering/CCG_toffcoatalt/CCGtoffcapedcoatalt.chest	itemName	CCGtoffcapedcoatalt	토프 망토 코트 (변형)	
+/items/armors/CommunityClothingGathering/CCG_toffcoatalt/CCGtoffcapedcoatalt.chest	description	...Brushing off my tails! Dudin' up my shirt front...	...꼬리를 털어내고! 앞자락을 멋지게 차리고...	
+/items/armors/CommunityClothingGathering/CCG_toffcoatalt/CCGtoffcapedcoatalt.chest	shortdescription	Toff Caped Coat (Alt.)	토프 망토 코트 (변형)	
+/items/armors/CommunityClothingGathering/CCG_toffset/CCGtoffcapedcoat.chest	itemName	CCGtoffcapedcoat	토프 망토 코트	
+/items/armors/CommunityClothingGathering/CCG_toffset/CCGtoffcapedcoat.chest	description	...Brushing off my tails! Dudin' up my shirt front...	...꼬리를 털어내고! 앞자락을 멋지게 차리고...	
+/items/armors/CommunityClothingGathering/CCG_toffset/CCGtoffcapedcoat.chest	shortdescription	Toff Caped Coat	토프 망토 코트	
+/items/armors/CommunityClothingGathering/CCG_toffset/CCGtofftophat.head	itemName	CCGtofftophat	토프 실크 해트	
+/items/armors/CommunityClothingGathering/CCG_toffset/CCGtofftophat.head	description	Puttin' on my top hat, tyin' up my white tie...	실크 해트를 쓰고, 흰 타이를 매고...	
+/items/armors/CommunityClothingGathering/CCG_toffset/CCGtofftophat.head	shortdescription	Toff Top Hat	토프 실크 해트	
+/items/armors/CommunityClothingGathering/CCG_toffset/CCGtofftrousers.legs	itemName	CCGtofftrousers	토프 바지	
+/items/armors/CommunityClothingGathering/CCG_toffset/CCGtofftrousers.legs	description	...Puttin' in the shirt studs, polishing my nails!	...셔츠 스터드를 끼우고, 손톱을 닦으며!	
+/items/armors/CommunityClothingGathering/CCG_toffset/CCGtofftrousers.legs	shortdescription	Toff Trousers	토프 바지	
+/items/armors/CommunityClothingGathering/CCG_unisexcommandertrousersf/CCGunisexcommandertrousersf.legs	itemName	CCGunisexcommandertrousersf	지휘관 스커트 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexcommandertrousersf/CCGunisexcommandertrousersf.legs	description	A standard issue Apex commander skirt.	표준 지급 에이펙스 지휘관 스커트.	
+/items/armors/CommunityClothingGathering/CCG_unisexcommandertrousersf/CCGunisexcommandertrousersf.legs	shortdescription	Commander Skirt ^orange;(F)	지휘관 스커트 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexcommandertrousersm/CCGunisexcommandertrousersm.legs	itemName	CCGunisexcommandertrousersm	지휘관 바지 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexcommandertrousersm/CCGunisexcommandertrousersm.legs	description	Standard issue Apex commander trousers.	에이펙스 지휘관의 표준형 바지입니다.	reuse
+/items/armors/CommunityClothingGathering/CCG_unisexcommandertrousersm/CCGunisexcommandertrousersm.legs	shortdescription	Commander Trousers ^orange;(M)	지휘관 바지 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexgunslingerf/CCGunisexgunslingerjacketf.chest	itemName	CCGunisexgunslingerjacketf	건맨 상의 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexgunslingerf/CCGunisexgunslingerjacketf.chest	description	Short, puffy sleeves and a light top for properly enduring the hot sunny days.	짧고 풍성한 소매와 가벼운 상의로 뜨거운 햇볕을 잘 견딘다.	
+/items/armors/CommunityClothingGathering/CCG_unisexgunslingerf/CCGunisexgunslingerjacketf.chest	shortdescription	Gunslinger Top ^orange;(F)	건맨 상의 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexgunslingerf/CCGunisexgunslingerpantsf.legs	itemName	CCGunisexgunslingerpantsf	건맨 드레스 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexgunslingerf/CCGunisexgunslingerpantsf.legs	description	A comfy dress for ease of mobility and more fresh air for the legs.	기동성이 좋고 다리가 시원한 편안한 드레스.	
+/items/armors/CommunityClothingGathering/CCG_unisexgunslingerf/CCGunisexgunslingerpantsf.legs	shortdescription	Gunslinger Dress ^orange;(F)	건맨 드레스 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexgunslingerm/CCGunisexgunslingerjacketm.chest	itemName	CCGunisexgunslingerjacketm	건맨 재킷 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexgunslingerm/CCGunisexgunslingerjacketm.chest	description	Casual rookie duds, now available for everyone.	캐주얼한 신참 복장, 이제 누구나 입을 수 있다.	
+/items/armors/CommunityClothingGathering/CCG_unisexgunslingerm/CCGunisexgunslingerjacketm.chest	shortdescription	Gunslinger Jacket ^orange;(M)	건맨 재킷 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexgunslingerm/CCGunisexgunslingerpantsm.legs	itemName	CCGunisexgunslingerpantsm	건맨 바지 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexgunslingerm/CCGunisexgunslingerpantsm.legs	description	A comfy and casual fit for both lad and gal. Brilliant for blending into a crowd.	남녀 모두에게 편하고 캐주얼한 핏. 군중 속에 섞이기에 완벽하다.	
+/items/armors/CommunityClothingGathering/CCG_unisexgunslingerm/CCGunisexgunslingerpantsm.legs	shortdescription	Gunslinger Pants ^orange;(M)	건맨 바지 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexmonkskirtf/CCGunisexmonkskirtf.legs	itemName	CCGunisexmonkskirtf	수도승 스커트 (F)	
+/items/armors/CommunityClothingGathering/CCG_unisexmonkskirtf/CCGunisexmonkskirtf.legs	description	The simple, draping thigh-coverings of a monk.	수도승의 단순하고 자연스럽게 늘어지는 허벅지 덮개.	
+/items/armors/CommunityClothingGathering/CCG_unisexmonkskirtf/CCGunisexmonkskirtf.legs	shortdescription	Monk Skirt (F)	수도승 스커트 (F)	
+/items/armors/CommunityClothingGathering/CCG_unisexmonkskirtm/CCGunisexmonkskirtm.legs	itemName	CCGunisexmonkskirtm	수도승 스커트 (M)	
+/items/armors/CommunityClothingGathering/CCG_unisexmonkskirtm/CCGunisexmonkskirtm.legs	description	The simple, draping leg-coverings of a monk.	수도승의 단순하고 자연스럽게 늘어지는 다리 덮개.	
+/items/armors/CommunityClothingGathering/CCG_unisexmonkskirtm/CCGunisexmonkskirtm.legs	shortdescription	Monk Skirt (M)	수도승 스커트 (M)	
+/items/armors/CommunityClothingGathering/CCG_unisexnoblesetf/CCGunisexnobledressf.legs	itemName	CCGunisexnobledressf	귀족 드레스 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexnoblesetf/CCGunisexnobledressf.legs	description	This style of dress is frequently worn by Glitch nobles.	글리치 귀족들이 즐겨 입는 스타일의 드레스.	
+/items/armors/CommunityClothingGathering/CCG_unisexnoblesetf/CCGunisexnobledressf.legs	shortdescription	Noble Dress ^orange;(F)	귀족 드레스 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexnoblesetf/CCGunisexnobletopf.chest	itemName	CCGunisexnobletopf	귀족 상의 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexnoblesetf/CCGunisexnobletopf.chest	description	A clean, well made noble top.	깔끔하게 잘 만든 귀족 상의.	
+/items/armors/CommunityClothingGathering/CCG_unisexnoblesetf/CCGunisexnobletopf.chest	shortdescription	Noble Top ^orange;(F)	귀족 상의 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexnoblesetm/CCGunisexnobleshirtm.chest	itemName	CCGunisexnobleshirtm	귀족 상의 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexnoblesetm/CCGunisexnobleshirtm.chest	description	A clean, well made noble shirt.	깨끗하고 잘 만들어진 귀족 셔츠.	reuse
+/items/armors/CommunityClothingGathering/CCG_unisexnoblesetm/CCGunisexnobleshirtm.chest	shortdescription	Noble Top ^orange;(M)	귀족 상의 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexnoblesetm/CCGunisexnobletrousersm.legs	itemName	CCGunisexnobletrousersm	귀족 바지 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexnoblesetm/CCGunisexnobletrousersm.legs	description	This style of trousers are frequently worn by Glitch nobles.	글리치 귀족들이 즐겨 입는 스타일의 바지.	
+/items/armors/CommunityClothingGathering/CCG_unisexnoblesetm/CCGunisexnobletrousersm.legs	shortdescription	Noble Trousers ^orange;(M)	귀족 바지 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexspecialisttrousersf/CCGunisexspecialisttrousersf.legs	itemName	CCGunisexspecialisttrousersf	전문가 스커트 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexspecialisttrousersf/CCGunisexspecialisttrousersf.legs	description	A standard issue Apex specialist skirt.	표준 지급 에이펙스 전문가 스커트.	
+/items/armors/CommunityClothingGathering/CCG_unisexspecialisttrousersf/CCGunisexspecialisttrousersf.legs	shortdescription	Specialist Skirt ^orange;(F)	전문가 스커트 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexspecialisttrousersm/CCGunisexspecialisttrousersm.legs	itemName	CCGunisexspecialisttrousersm	전문가 바지 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexspecialisttrousersm/CCGunisexspecialisttrousersm.legs	description	Standard issue Apex specialist trousers.	에이펙스 전문가의 표준형 바지입니다.	reuse
+/items/armors/CommunityClothingGathering/CCG_unisexspecialisttrousersm/CCGunisexspecialisttrousersm.legs	shortdescription	Specialist Trousers ^orange;(M)	전문가 바지 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexstylishbottomsf/CCGunisexstylishbottomsf.legs	itemName	CCGunisexstylishbottomsf	스타일리시 하의 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexstylishbottomsf/CCGunisexstylishbottomsf.legs	description	When you wear these cool bottoms, you feel as though any dress could suit you.	이 멋진 하의를 입으면 어떤 드레스든 어울릴 것 같은 기분이 든다.	
+/items/armors/CommunityClothingGathering/CCG_unisexstylishbottomsf/CCGunisexstylishbottomsf.legs	shortdescription	Stylish Bottoms ^orange;(F)	스타일리시 하의 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisexstylishbottomsm/CCGunisexstylishbottomsm.legs	itemName	CCGunisexstylishbottomsm	스타일리시 하의 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisexstylishbottomsm/CCGunisexstylishbottomsm.legs	description	When you wear these cool bottoms, you feel as though any pair of pants could fit you.	이 멋진 하의를 입으면 어떤 바지든 잘 맞을 것 같은 기분이 든다.	
+/items/armors/CommunityClothingGathering/CCG_unisexstylishbottomsm/CCGunisexstylishbottomsm.legs	shortdescription	Stylish Bottoms ^orange;(M)	스타일리시 하의 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisextraineetrousersf/CCGunisextraineetrousersf.legs	itemName	CCGunisextraineetrousersf	훈련병 바지 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisextraineetrousersf/CCGunisextraineetrousersf.legs	description	Some trainee cover and boots, commonly used for combat training.	전투 훈련에 흔히 쓰이는 훈련병 덮개와 장화.	
+/items/armors/CommunityClothingGathering/CCG_unisextraineetrousersf/CCGunisextraineetrousersf.legs	shortdescription	Trainee Trousers ^orange;(F)	훈련병 바지 ^orange;(F)	
+/items/armors/CommunityClothingGathering/CCG_unisextraineetrousersm/CCGunisextraineetrousersm.legs	itemName	CCGunisextraineetrousersm	훈련병 바지 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_unisextraineetrousersm/CCGunisextraineetrousersm.legs	description	Some trainee trousers, commonly used for combat training.	전투 훈련에 흔히 쓰이는 훈련병 바지.	
+/items/armors/CommunityClothingGathering/CCG_unisextraineetrousersm/CCGunisextraineetrousersm.legs	shortdescription	Trainee Trousers ^orange;(M)	훈련병 바지 ^orange;(M)	
+/items/armors/CommunityClothingGathering/CCG_vanguardset/CCGvanguardchestguard.chest	itemName	CCGvanguardchestguard	뱅가드 흉갑	
+/items/armors/CommunityClothingGathering/CCG_vanguardset/CCGvanguardchestguard.chest	description	Once part of U.S.C.M.-issued armour, meant for special forces that fought along with drones.	드론과 함께 싸운 특수부대를 위한 U.S.C.M. 지급 갑옷의 일부였다.	
+/items/armors/CommunityClothingGathering/CCG_vanguardset/CCGvanguardchestguard.chest	shortdescription	Vanguard Chestguard	뱅가드 흉갑	
+/items/armors/CommunityClothingGathering/CCG_vanguardset/CCGvanguardhelmet.head	itemName	CCGvanguardhelmet	뱅가드 헬멧	
+/items/armors/CommunityClothingGathering/CCG_vanguardset/CCGvanguardhelmet.head	description	The sensor on the side ensures that the wearer can perceive the environment well, despite the face cover.	측면의 센서로 얼굴을 가리고도 주변을 잘 감지할 수 있다.	
+/items/armors/CommunityClothingGathering/CCG_vanguardset/CCGvanguardhelmet.head	shortdescription	Vanguard Helmet	뱅가드 헬멧	reuse
+/items/armors/CommunityClothingGathering/CCG_vanguardset/CCGvanguardtrousers.legs	itemName	CCGvanguardtrousers	뱅가드 바지	
+/items/armors/CommunityClothingGathering/CCG_vanguardset/CCGvanguardtrousers.legs	description	Unlike their drones, operators have legs which need to be protected.	드론과 달리 조작자에게는 보호해야 할 다리가 있다.	
+/items/armors/CommunityClothingGathering/CCG_vanguardset/CCGvanguardtrousers.legs	shortdescription	Vanguard Trousers	뱅가드 바지	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralset/CCGvirtuousgeneralhat.head	itemName	CCGvirtuousgeneralhat	고결한 장군 모자	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralset/CCGvirtuousgeneralhat.head	description	A proper hat for an exprienced general.	노련한 장군에게 어울리는 모자.	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralset/CCGvirtuousgeneralhat.head	shortdescription	Virtuous General Hat	고결한 장군 모자	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralset/CCGvirtuousgeneralpants.legs	itemName	CCGvirtuousgeneralpants	고결한 장군 바지	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralset/CCGvirtuousgeneralpants.legs	description	Proper pants for an experienced general.	노련한 장군에게 어울리는 바지.	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralset/CCGvirtuousgeneralpants.legs	shortdescription	Virtuous General Pants	고결한 장군 바지	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralset/CCGvirtuousgeneraluniform.chest	itemName	CCGvirtuousgeneraluniform	고결한 장군 제복	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralset/CCGvirtuousgeneraluniform.chest	description	A proper uniform for an experienced general.	노련한 장군에게 어울리는 제복.	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralset/CCGvirtuousgeneraluniform.chest	shortdescription	Virtuous General Uniform	고결한 장군 제복	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralsetalt/CCGvirtuousgeneralpantsalt.legs	itemName	CCGvirtuousgeneralpantsalt	고결한 장군 바지 변형	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralsetalt/CCGvirtuousgeneralpantsalt.legs	description	Proper pants for an experienced general.	노련한 장군에게 어울리는 바지.	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralsetalt/CCGvirtuousgeneralpantsalt.legs	shortdescription	Virtuous General Pants Alt.	고결한 장군 바지 변형	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralsetalt/CCGvirtuousgeneraluniformalt.chest	itemName	CCGvirtuousgeneraluniformalt	고결한 장군 제복 (변형)	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralsetalt/CCGvirtuousgeneraluniformalt.chest	description	A proper uniform for an experienced general.	노련한 장군에게 어울리는 제복.	
+/items/armors/CommunityClothingGathering/CCG_virtuousgeneralsetalt/CCGvirtuousgeneraluniformalt.chest	shortdescription	Virtuous General Uniform (Alt.)	고결한 장군 제복 (변형)	
+/items/armors/CommunityClothingGathering/CCG_virtuousofficerset/CCGvirtuousofficerhat.head	itemName	CCGvirtuousofficerhat	고결한 장교 모자	
+/items/armors/CommunityClothingGathering/CCG_virtuousofficerset/CCGvirtuousofficerhat.head	description	A proper hat for a loyal officer.	충직한 장교에게 어울리는 모자.	
+/items/armors/CommunityClothingGathering/CCG_virtuousofficerset/CCGvirtuousofficerhat.head	shortdescription	Virtuous Officer Hat	고결한 장교 모자	
+/items/armors/CommunityClothingGathering/CCG_virtuousofficerset/CCGvirtuousofficerpants.legs	itemName	CCGvirtuousofficerpants	고결한 장교 바지	
+/items/armors/CommunityClothingGathering/CCG_virtuousofficerset/CCGvirtuousofficerpants.legs	description	Proper pants for a loyal officer.	충직한 장교에게 어울리는 바지.	
+/items/armors/CommunityClothingGathering/CCG_virtuousofficerset/CCGvirtuousofficerpants.legs	shortdescription	Virtuous Officer Pants	고결한 장교 바지	
+/items/armors/CommunityClothingGathering/CCG_virtuousofficerset/CCGvirtuousofficeruniform.chest	itemName	CCGvirtuousofficeruniform	고결한 장교 제복	
+/items/armors/CommunityClothingGathering/CCG_virtuousofficerset/CCGvirtuousofficeruniform.chest	description	A proper uniform for a loyal officer.	충직한 장교에게 어울리는 제복.	
+/items/armors/CommunityClothingGathering/CCG_virtuousofficerset/CCGvirtuousofficeruniform.chest	shortdescription	Virtuous Officer Uniform	고결한 장교 제복	
+/items/armors/CommunityClothingGathering/CCG_virtuousprivateset/CCGvirtuousprivatehat.head	itemName	CCGvirtuousprivatehat	고결한 사병 헬멧	
+/items/armors/CommunityClothingGathering/CCG_virtuousprivateset/CCGvirtuousprivatehat.head	description	A proper helmet for a determined private.	굳은 사병에게 어울리는 헬멧.	
+/items/armors/CommunityClothingGathering/CCG_virtuousprivateset/CCGvirtuousprivatehat.head	shortdescription	Virtuous Private Helmet	고결한 사병 헬멧	
+/items/armors/CommunityClothingGathering/CCG_virtuousprivateset/CCGvirtuousprivatepants.legs	itemName	CCGvirtuousprivatepants	고결한 사병 바지	
+/items/armors/CommunityClothingGathering/CCG_virtuousprivateset/CCGvirtuousprivatepants.legs	description	A proper pair of pants for a determined private.	굳은 사병에게 어울리는 바지.	
+/items/armors/CommunityClothingGathering/CCG_virtuousprivateset/CCGvirtuousprivatepants.legs	shortdescription	Virtuous Private Pants	고결한 사병 바지	
+/items/armors/CommunityClothingGathering/CCG_virtuousprivateset/CCGvirtuousprivateuniform.chest	itemName	CCGvirtuousprivateuniform	고결한 사병 제복	
+/items/armors/CommunityClothingGathering/CCG_virtuousprivateset/CCGvirtuousprivateuniform.chest	description	A proper uniform for a determined private.	굳은 사병에게 어울리는 제복.	
+/items/armors/CommunityClothingGathering/CCG_virtuousprivateset/CCGvirtuousprivateuniform.chest	shortdescription	Virtuous Private Uniform	고결한 사병 제복	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V1/CCGvisoredhelmetv1.head	itemName	CCGvisoredhelmetv1	바이저 헬멧 V1	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V1/CCGvisoredhelmetv1.head	description	A helmet from a collection of decommissioned gear.	퇴역 장비 컬렉션에서 나온 헬멧.	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V1/CCGvisoredhelmetv1.head	shortdescription	Visored Helmet V1	바이저 헬멧 V1	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V2/CCGvisoredhelmetv2.head	itemName	CCGvisoredhelmetv2	바이저 헬멧 V2	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V2/CCGvisoredhelmetv2.head	description	A helmet from a collection of decommissioned gear.	퇴역 장비 컬렉션에서 나온 헬멧.	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V2/CCGvisoredhelmetv2.head	shortdescription	Visored Helmet V2	바이저 헬멧 V2	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V3/CCGvisoredhelmetv3.head	itemName	CCGvisoredhelmetv3	바이저 헬멧 V3	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V3/CCGvisoredhelmetv3.head	description	A helmet from a collection of decommissioned gear.	퇴역 장비 컬렉션에서 나온 헬멧.	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V3/CCGvisoredhelmetv3.head	shortdescription	Visored Helmet V3	바이저 헬멧 V3	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V4/CCGvisoredhelmetv4.head	itemName	CCGvisoredhelmetv4	바이저 헬멧 V4	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V4/CCGvisoredhelmetv4.head	description	A helmet from a collection of decommissioned gear.	퇴역 장비 컬렉션에서 나온 헬멧.	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V4/CCGvisoredhelmetv4.head	shortdescription	Visored Helmet V4	바이저 헬멧 V4	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V5/CCGvisoredhelmetv5.head	itemName	CCGvisoredhelmetv5	바이저 헬멧 V5	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V5/CCGvisoredhelmetv5.head	description	A helmet from a collection of decommissioned gear.	퇴역 장비 컬렉션에서 나온 헬멧.	
+/items/armors/CommunityClothingGathering/CCG_visoredhelmets/V5/CCGvisoredhelmetv5.head	shortdescription	Visored Helmet V5	바이저 헬멧 V5	
+/items/armors/CommunityClothingGathering/CCG_weldingmask/CCGweldingmask.head	itemName	CCGweldingmask	용접 마스크	
+/items/armors/CommunityClothingGathering/CCG_weldingmask/CCGweldingmask.head	description	A simple and sturdy welding mask.	단순하고 튼튼한 용접 마스크.	
+/items/armors/CommunityClothingGathering/CCG_weldingmask/CCGweldingmask.head	shortdescription	Welding Mask	용접 마스크	
+/items/armors/CommunityClothingGathering/CCG_wintercape/CCGwintercape.back	itemName	CCGwintercape	겨울 망토	
+/items/armors/CommunityClothingGathering/CCG_wintercape/CCGwintercape.back	description	A familiar fur-lined cape that glimmers like snow and stars.	눈과 별처럼 반짝이는 익숙한 모피 안감 망토.	
+/items/armors/CommunityClothingGathering/CCG_wintercape/CCGwintercape.back	shortdescription	Winter Cape	겨울 망토	
+/items/armors/CommunityClothingGathering/CCG_woolybeanie/CCGwoolybeanie.head	itemName	CCGwoolybeanie	털 비니	
+/items/armors/CommunityClothingGathering/CCG_woolybeanie/CCGwoolybeanie.head	description	A comfy woven hat.	편안한 짜임 모자.	
+/items/armors/CommunityClothingGathering/CCG_woolybeanie/CCGwoolybeanie.head	shortdescription	Wooly Beanie	털 비니	
+/objects/crafting/CCG_communityclothingshop/CCGcommunityclothingshop.object	objectName	CCGcommunityclothingshop	커뮤니티 의류점	
+/objects/crafting/CCG_communityclothingshop/CCGcommunityclothingshop.object	description	 A humble little shop, providing a variety of community-made clothing items.	다양한 커뮤니티 제작 의류를 파는 소박하고 작은 가게입니다.	reuse
+/objects/crafting/CCG_communityclothingshop/CCGcommunityclothingshop.object	shortdescription	Community Clothing Shop	커뮤니티 의류점	reuse
+/objects/crafting/CCG_communityclothingshop/CCGcommunityclothingshop.object	title	 Community Clothing Shop	커뮤니티 의류점	reuse
+/objects/crafting/CCG_communityclothingshop/CCGcommunityclothingshop.object	subtitle	 See those clothes? They could be yours.	저 옷 보이시죠? 당신 것이 될 수 있습니다.	reuse

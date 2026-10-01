@@ -1,0 +1,96 @@
+count: 73
+/items/AUGMENTS/TRINKETS/SUBTERRANEAN/gic_moleclansignet.augment.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "The Mole Clan genuinely believe themselves to be descendants of the mythical King Arthur, adopting a skewed and highly romanticized code of chivalry despite their criminal activities, mass drug trade, and willingness to kill anyone who even slightly refuses their demands. Regardless, this insane self-belief has given them an advantage over their criminal rivals.\r\n\r\n^orange;Parrying bullets sends it back towards the
+---
+/items/FOODS/SCAVENGER/gic_plantfibresalad.consumable.patch
+[
+  [
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "큰 도움이 되지는 않지만 상황이 위급할 때는 도움이 될 것입니다. \n^green;유형: 식물^reset"
+    }
+  ]
+]
+---
+/items/FOODS/SCAVENGER/gic_sawdustbread.consumable.patch
+[
+  [
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "더 이상 빵으로 분류할 수 없는 빵입니다.\n^green;유형: Grain^reset"
+    }
+  ]
+]
+---
+/items/SHIELDS/BALANCED_SHIELDS/gic_crusaderknight_shield/gic_crusaderknight_shield.activeitem.patch
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "''군주에 어울리는 힘...''\r\n\r\n^#CCD8B6;0.6초 패링 | 안정성 110HP | 내리기-올리기 지연 0.35초 | 방어력 95%.^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "게슈탈트 카이트 방패"
+  }
+]
+
+---
+/items/SHIELDS/LEGACY/gic_crusadersoldier_shield/gic_crusadersoldier_shield.activeitem.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "''The Glitch Gestalt for all of its hivemind moniker still retained a large degree of independence upon its subject hosts. All lived their stable and unchanging lives, with any social or technological development simply ceasing. Would it be shocking to tell you that I am still part of the Gestalt?''\r\n\r\n^#D6DFFF;Venerable Ancient Battlefield: 1.25s PARRY WINDOW | 100HP STABILITY | 40% DEF.^white;"
+    },
+    {
+     
+---
+/items/WEAPONS/LEGACY/ANCIENT_LEGACY/gic_crusader_longbow/gic_crusader_longbow.activeitem.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "''An arrow does not hate its target.''\r\n  \r\n^red;Energy Systems Overload: Energy regeneration is crippled whilst the bow is equipped.^reset;\r\n\r\n^yellow;Fire Arrows: Regular shots coat afflicted targets in oil | Charged shots that are not overcharged apply ignition to oil granting heightened fire burning on oil-coated targets, but do not coat targets in oil.^reset;"
+    },
+    {
+      "op": "replace",
+      "pat
+---
+/items/WEAPONS/LEGACY/ANCIENT_LEGACY/gic_crusader_longbow/gic_crusader_longbow_pose.activeitem.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "''An arrow does not hate its target.''\r\n  \r\n^red;Energy Systems Overload: Energy regeneration is crippled whilst the bow is equipped.^reset;\r\n\r\n^yellow;Fire Arrows: Regular shots coat afflicted targets in oil | Charged shots that are not overcharged apply ignition to oil granting heightened fire burning on oil-coated targets, but do not coat targets in oil.^reset;"
+    },
+    {
+      "op": "replace",
+      "pat
+---
+/items/WEAPONS/MELEE/GUNBLADE/gic_moleclan_gunlance/gic_moleclan_gunlance.activeitem.patch
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "''이 타락한 깊이엔 대부분이 생각하는 것보다 훨씬 많은 것이 있다. 불을 가까이 두어라. 어둠은 빛을 혐오하니까.''\r\n\r\n몰 가문의 극소수만이 운용하는 총창입니다. 무기 전체에 죽어 잊힌 언어로 명문이 새겨져 있습니다.\r\n^#FFEEC6;돌진 폭발 [SHIFT]: 앞으로 돌진해 빠른 단발 화약 폭발을 발사합니다 | 재사용 대기 15초.^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "두더지 일족 총창"
+  }
+]
+
+---

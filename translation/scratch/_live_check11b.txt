@@ -1,0 +1,30 @@
+/abilities/gic_bayonetstab.weaponability.patch /ability/name => 총검 찌르기
+/abilities/gic_posturebroadswordcombo.weaponability.patch /ability/name => 자세 콤보 베기
+/ai/gic_esther_chapter_0_2_esthersresearchvessel.aimission.patch /speciesText/default/buttonText => GiC 인터미션: 에스더의 선박
+/ai/gic_esther_chapter_0_2_esthersresearchvessel.aimission.patch /speciesText/default/repeatButtonText => GiC 인터미션: 에스더의 선박
+/ai/gic_esther_chapter_0_2_esthersresearchvessel.aimission.patch /speciesText/default/selectSpeech/text => 소프트락 방지용 인터미션 레벨로의 안전 워프.
+/ai/gic_esther_chapter_0_hubworld_esthersresearchvessel.aimission.patch /speciesText/default/buttonText => GiC 코어 허브: 에스더의 선박
+/ai/gic_esther_chapter_0_hubworld_esthersresearchvessel.aimission.patch /speciesText/default/repeatButtonText => GiC 코어 허브: 에스더의 선박
+/ai/gic_esther_chapter_0_hubworld_esthersresearchvessel.aimission.patch /speciesText/default/selectSpeech/text => GiC의 비종족 챕터를 여행하는 주 허브월드.
+/ai/gic_esther_chapter_1_hubworld_dockingbay75.aimission.patch /speciesText/default/buttonText => GiC 1장: 가즈링
+/ai/gic_esther_chapter_1_hubworld_dockingbay75.aimission.patch /speciesText/default/repeatButtonText => GiC 1장: 가즈링
+/ai/gic_esther_chapter_1_hubworld_dockingbay75.aimission.patch /speciesText/default/selectSpeech/text => 표기되지 않은 허브월드 시 안전장치 워프.
+/ai/gic_fantesar_arena.aimission.patch /speciesText/default/buttonText => 판테사르 아레나 [실험체들]
+/ai/gic_fantesar_arena.aimission.patch /speciesText/default/repeatButtonText => 판테사르 아레나 [실험체들]
+/ai/gic_fantesar_arena.aimission.patch /speciesText/default/selectSpeech/text => 탄막, 출격, W.I.P 캠페인 같은 실험적 테스트 임무.
+/ai/gic_skirmish_unitan_rebellion.aimission.patch /speciesText/default/buttonText => 교전: 유니탄 반란
+/ai/gic_skirmish_unitan_rebellion.aimission.patch /speciesText/default/repeatButtonText => 교전: 유니탄 반란
+/ai/gic_skirmish_unitan_rebellion.aimission.patch /speciesText/default/selectSpeech/text => 연합 체계 대 연합 체계. 내부 정치 분쟁에 시달려 반란이 흔하다.
+/behaviors/monsters/modular/actions/gic_fire_rotangle.behavior.patch /root/children/0/children/0/children/0/children/1/children/5/children/6/child/child/children/0/output/text => 각도Str
+/cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_1_conveniencestore.cinematic.patch /panels/2/text => 그래서 관심이 있군요? 번번마루에 오신 것을 환영합니다.  세부 사항이 지루할 수 있다는 것을 알고 있지
+/cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_1_conveniencestore.cinematic.patch /panels/3/text => 좋은 이야기에 도움이 될 만한 것을 들었습니다. 도시의 한 가게가 개조될 예정이었지만, 주인은 다시 돌아와서
+/cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_1_conveniencestore.cinematic.patch /panels/4/text => 그냥 물어보세요, 그러면 제가 그곳으로 데려다 드릴게요. 지역 면허가 없다면 교통부에서 기다릴 가치가 없습니
+/cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_1_conveniencestorebasement.cinematic.patch /panels/3/text => 브래들리 실버스푼이라는 사람에게 온 우편물이 가득한 서랍입니다. 보아하니 전부 사업 관련입니다. 세금, 청구
+/cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_1_conveniencestorebasement.cinematic.patch /panels/4/text => 이상한 점은 이 우편물 중 일부가 다른 주소로 보내졌다는 것입니다. 일부에 적힌 내용을 보면 그의 집 주소인
+/cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_bunbunmaruthis.cinematic.patch /panels/4/text => 헤이 모미지!  아, 그 소녀는 어디에 있는 거야?
+/cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_bunbunmaruthis.cinematic.patch /panels/5/text => 루프
+/cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_bunbunmaruthis.cinematic.patch /panels/6/text => 오 오 오! 거기 있구나! 좋아! 장비를 가져와, 우리가 취재할 게 있어!
+/cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_bunbunmaruthis.cinematic.patch /panels/7/text => 또한 내일 [긴급?]-텐구와의 회의를 일정에 추가하고, 내 서류를 정리하고, 오후 4시 커피를 준비해줘. 이
+/cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_bunbunmaruthis.cinematic.patch /panels/8/text => 으으으. 알겠어?
+/cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_ayashameimaru_intro_card_meeting.cinematic.patch /panels/2/text => 오. 자리를 구하러 오셨나요? 인정컨대 좀, 뭐랄까, 인력 부족이에요. 도움이 필요하긴 한데...
+KO replace ops: 18822

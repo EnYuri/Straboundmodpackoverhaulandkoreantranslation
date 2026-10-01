@@ -1,0 +1,293 @@
+/dialog/converse.config.patch	/converse/apex/fuslimeperson/10	안녕, 이방인.	안녕, 낯선 사람
+/dialog/converse.config.patch	/converse/apex/fuslimeperson/28	안녕, 낯선 사람.	안녕, 낯선 사람
+/dialog/converse.config.patch	/converse/apex/veluu/10	안녕, 이방인.	안녕, 낯선 사람
+/dialog/converse.config.patch	/converse/apex/veluu/28	안녕, 낯선 사람.	안녕, 낯선 사람
+/dialog/converse.config.patch	/converse/elduukhar/default/28	안녕, 낯선 사람.	안녕, 낯선 사람
+/dialog/converse.config.patch	/converse/veluu/default/27	안녕, 낯선 사람.	안녕, 낯선 사람
+/dialog/converse.config.patch	/converse/apex/fuslimeperson/22	좋은 하루 보내.	좋은 하루 되세요
+/dialog/converse.config.patch	/converse/apex/skath/0	좋은 날이야, 경.	좋은 하루 되세요
+/dialog/converse.config.patch	/converse/apex/skath/12	좋은 날이야, 경.	좋은 하루 되세요
+/dialog/converse.config.patch	/converse/apex/skath/24	좋은 날이야, 경.	좋은 하루 되세요
+/dialog/converse.config.patch	/converse/apex/veluu/22	좋은 하루 보내.	좋은 하루 되세요
+/dialog/converse.config.patch	/converse/elduukhar/default/22	좋은 하루 보내.	좋은 하루 되세요
+/dialog/converse.config.patch	/converse/veluu/default/21	좋은 하루 보내.	좋은 하루 되세요
+/dialog/converse.config.patch	/converse/apex/fuslimeperson/8	도와드릴까요?	뭘 도와드릴까요?
+/dialog/converse.config.patch	/converse/apex/veluu/8	도와드릴까요?	뭘 도와드릴까요?
+/dialog/converse.config.patch	/converse/elduukhar/default/8	도와드릴까요?	뭘 도와드릴까요?
+/dialog/merchant.config.patch	/beacon/skath/default/0	뭘 고쳐줄까?	뭘 도와드릴까요?
+/dialog/merchant.config.patch	/beacon/skath/default/1	뭘 도와줄까?	뭘 도와드릴까요?
+/dialog/merchant.config.patch	/beacon/nightar/default/1	지금 이 순간 그대를 어떻게 도와드릴까요?	어떻게 도와드릴까요?
+/dialog/merchant.config.patch	/merchantStart/fumantizi/default/6	뭐 도와줄까, 친구?	어떻게 도와드릴까요?
+/dialog/merchant.config.patch	/merchantStart/mantizi/default/6	뭐 도와줄까, 친구?	어떻게 도와드릴까요?
+/items/food/Kirijam.consumable.patch	/description	그렇게 달지는 않지만, 맛이 강하다.	토스트 아냐! 아발리토스트가 있어!
+/items/food/pitayajam.consumable.patch	/description	그리 달지 않지만 아주 맛있어!	토스트 아냐! 아발리토스트가 있어!
+/items/food/redpitayajam.consumable.patch	/description	그리 달지 않지만 아주 맛있어!	토스트 아냐! 아발리토스트가 있어!
+/items/food/groou.consumable.patch	/description	아발론에서 온 또 하나의 특이한 과일!	즙이 많고 달콤해, 젤리 비슷하다.
+/objects/farmables/pitaya/avalipitayaseed.object.patch	/description	우주 피타야, 근데 지구와 달리 선인장 안 자라.	즙이 많고 달콤해, 젤리 비슷하다.
+/objects/farmables/pitaya/wildavalipitayaseed.object.patch	/description	우주 피타야, 근데 지구와 달리 선인장 안 자라.	즙이 많고 달콤해, 젤리 비슷하다.
+/objects/bonus/devstatuegeorge/devstatuegeorge.object.patch	/description	이 녀석을 보면 술을 시작하고 싶어진다.	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+/objects/general/pirubush/01/pirubush1.object.patch	/description	피루 잎사귀 다발, 관목처럼 보인다.	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+/objects/general/pirubush/02/pirubush2.object.patch	/description	피루 잎사귀 다발, 관목처럼 보인다.	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+/objects/general/pirubush/03/pirubush3.object.patch	/description	피루 잎사귀 다발, 관목처럼 보인다.	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+/objects/general/pirubush/04/pirubush4.object.patch	/description	피루 잎사귀 다발, 관목처럼 보인다.	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+/objects/general/pirubush/05/pirubush5.object.patch	/description	피루 잎사귀 다발, 관목처럼 보인다.	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+/objects/general/pirubush/s1/smellpirubush1.object.patch	/description	피루 잎사귀 다발, 관목처럼 보인다.	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+/objects/general/pirubush/s2/smellpirubush2.object.patch	/description	피루 잎사귀 다발, 관목처럼 보인다.	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+/objects/general/pirubush/s3/smellpirubush3.object.patch	/description	피루 잎사귀 다발, 관목처럼 보인다.	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+/objects/general/pirubush/s4/smellpirubush4.object.patch	/description	피루 잎사귀 다발, 관목처럼 보인다.	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+/objects/general/pirubush/s5/smellpirubush5.object.patch	/description	피루 잎사귀 다발, 관목처럼 보인다.	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+/objects/general/pirubush/s6/smellpirubush6.object.patch	/description	피루 잎사귀 다발, 관목처럼 보인다.	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!
+/objects/general/WTF/crafting/funeralaltar.object.patch	/shortdescription	장례 제단	중국식 장례 치르기
+/objects/general/WTF/crafting/funeralaltar.object.patch	/interactData/paneLayoutOverride/windowtitle/subtitle	장례 가구용 전통 거치대	중국식 장례 치르기
+/objects/general/WTF/general/on ground/incense1.object.patch	/description	톡 쏘는 향내 나는 장식용 향 막대	아발리 화물 상자가 엉망으로 쌓인 더미.
+/objects/general/WTF/general/on ground/incense2.object.patch	/description	톡 쏘는 향내 나는 나선형 향 진열대	아발리 화물 상자가 엉망으로 쌓인 더미.
+/objects/general/WTF/general/on ground/incensealtar1.object.patch	/description	향이 짙게 퍼지는 화려한 제단이다	아발리 화물 상자가 엉망으로 쌓인 더미.
+/objects/general/WTF/general/on ground/sacrificewreath.object.patch	/description	커다란 상실을 기리는, 천과 깃털로 만든 생생한 화환	아발리 화물 상자가 엉망으로 쌓인 더미.
+/objects/general/WTF/general/on ground/incense1.object.patch	/apexDescription	유산을 말하며, 우리 힘과 생존을 상기시킨다.	모두 조지를 찬양하라!!!
+/objects/general/WTF/general/on ground/incense1.object.patch	/avianDescription	천상의 분위기가 기분을 북돋운다. 하늘에 바치는 헌사다.	모두 조지를 찬양하라!!!
+/objects/general/WTF/general/on ground/incense1.object.patch	/floranDescription	좋은 냄새! 식물 떠난 친구 기억 도와어어.	모두 조지를 찬양하라!!!
+/objects/general/WTF/general/on ground/incense1.object.patch	/glitchDescription	엄숙함. 이 향에는 심오한 깊이가 있어. 내 코어와 공명하는군.	모두 조지를 찬양하라!!!
+/objects/general/WTF/general/on ground/incense1.object.patch	/hylotlDescription	이 향에는 고요함이 깃들어 있어 평화로운 사색에 잠기게 한다.	모두 조지를 찬양하라!!!
+/objects/general/WTF/general/on ground/incense2.object.patch	/apexDescription	유산을 말하며, 우리 힘과 생존을 상기시킨다.	모두 조지를 찬양하라!!!
+/objects/general/WTF/general/on ground/incense2.object.patch	/avianDescription	천상의 분위기가 기분을 북돋운다. 하늘에 바치는 헌사다.	모두 조지를 찬양하라!!!
+/objects/general/WTF/general/on ground/incense2.object.patch	/floranDescription	좋은 냄새! 식물 떠난 친구 기억 도와어어.	모두 조지를 찬양하라!!!
+/objects/general/WTF/general/on ground/incense2.object.patch	/glitchDescription	엄숙함. 이 향에는 심오한 깊이가 있어. 내 코어와 공명하는군.	모두 조지를 찬양하라!!!
+/objects/general/WTF/general/on ground/incense2.object.patch	/hylotlDescription	이 향에는 고요함이 깃들어 있어 평화로운 사색에 잠기게 한다.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/01/pirubush1.object.patch	/apexDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/01/pirubush1.object.patch	/avianDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/01/pirubush1.object.patch	/floranDescription	이상한 예쁜 식물이에엇.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/01/pirubush1.object.patch	/glitchDescription	조심. 화려한 관목.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/01/pirubush1.object.patch	/humanDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/01/pirubush1.object.patch	/hylotlDescription	"아발리가 저... 괴물을 ""따개비""라 부른다니.. 무서운 함의네요."	모두 조지를 찬양하라!!!
+/objects/general/pirubush/02/pirubush2.object.patch	/apexDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/02/pirubush2.object.patch	/avianDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/02/pirubush2.object.patch	/floranDescription	이상한 예쁜 식물이에엇.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/02/pirubush2.object.patch	/glitchDescription	조심. 화려한 관목.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/02/pirubush2.object.patch	/humanDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/02/pirubush2.object.patch	/hylotlDescription	"아발리가 저... 괴물을 ""따개비""라 부른다니.. 무서운 함의네요."	모두 조지를 찬양하라!!!
+/objects/general/pirubush/03/pirubush3.object.patch	/apexDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/03/pirubush3.object.patch	/avianDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/03/pirubush3.object.patch	/floranDescription	이상한 예쁜 식물이에엇.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/03/pirubush3.object.patch	/glitchDescription	조심. 화려한 관목.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/03/pirubush3.object.patch	/humanDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/03/pirubush3.object.patch	/hylotlDescription	"아발리가 저... 괴물을 ""따개비""라 부른다니.. 무서운 함의네요."	모두 조지를 찬양하라!!!
+/objects/general/pirubush/04/pirubush4.object.patch	/apexDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/04/pirubush4.object.patch	/avianDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/04/pirubush4.object.patch	/floranDescription	이상한 예쁜 식물이에엇.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/04/pirubush4.object.patch	/glitchDescription	조심. 화려한 관목.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/04/pirubush4.object.patch	/humanDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/04/pirubush4.object.patch	/hylotlDescription	"아발리가 저... 괴물을 ""따개비""라 부른다니.. 무서운 함의네요."	모두 조지를 찬양하라!!!
+/objects/general/pirubush/05/pirubush5.object.patch	/apexDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/05/pirubush5.object.patch	/avianDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/05/pirubush5.object.patch	/floranDescription	이상한 예쁜 식물이에엇.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/05/pirubush5.object.patch	/glitchDescription	조심. 화려한 관목.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/05/pirubush5.object.patch	/humanDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야?	모두 조지를 찬양하라!!!
+/objects/general/pirubush/05/pirubush5.object.patch	/hylotlDescription	"아발리가 저... 괴물을 ""따개비""라 부른다니.. 무서운 함의네요."	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s1/smellpirubush1.object.patch	/apexDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s1/smellpirubush1.object.patch	/avianDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s1/smellpirubush1.object.patch	/floranDescription	이상한 예쁜 냄새나는 식물들이에엇.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s1/smellpirubush1.object.patch	/glitchDescription	조심. 화려한 관목. 근처에서 입자 센서가 과부하된다	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s1/smellpirubush1.object.patch	/humanDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s1/smellpirubush1.object.patch	/hylotlDescription	"아발리가 저... 냄새나는 괴물을 ""따개비""라 부른다니.. 무서운 함의네요."	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s2/smellpirubush2.object.patch	/apexDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s2/smellpirubush2.object.patch	/avianDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s2/smellpirubush2.object.patch	/floranDescription	이상한 예쁜 냄새나는 식물들이에엇.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s2/smellpirubush2.object.patch	/glitchDescription	조심. 화려한 관목. 근처에서 입자 센서가 과부하된다	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s2/smellpirubush2.object.patch	/humanDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s2/smellpirubush2.object.patch	/hylotlDescription	"아발리가 저... 냄새나는 괴물을 ""따개비""라 부른다니.. 무서운 함의네요."	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s3/smellpirubush3.object.patch	/apexDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s3/smellpirubush3.object.patch	/avianDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s3/smellpirubush3.object.patch	/floranDescription	이상한 예쁜 냄새나는 식물들이에엇.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s3/smellpirubush3.object.patch	/glitchDescription	조심. 화려한 관목. 근처에서 입자 센서가 과부하된다	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s3/smellpirubush3.object.patch	/humanDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s3/smellpirubush3.object.patch	/hylotlDescription	"아발리가 저... 냄새나는 괴물을 ""따개비""라 부른다니.. 무서운 함의네요."	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s4/smellpirubush4.object.patch	/apexDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s4/smellpirubush4.object.patch	/avianDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s4/smellpirubush4.object.patch	/floranDescription	이상한 예쁜 냄새나는 식물들이에엇.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s4/smellpirubush4.object.patch	/glitchDescription	조심. 화려한 관목. 근처에서 입자 센서가 과부하된다	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s4/smellpirubush4.object.patch	/humanDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s4/smellpirubush4.object.patch	/hylotlDescription	"아발리가 저... 냄새나는 괴물을 ""따개비""라 부른다니.. 무서운 함의네요."	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s5/smellpirubush5.object.patch	/apexDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s5/smellpirubush5.object.patch	/avianDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s5/smellpirubush5.object.patch	/floranDescription	이상한 예쁜 냄새나는 식물들이에엇.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s5/smellpirubush5.object.patch	/glitchDescription	조심. 화려한 관목. 근처에서 입자 센서가 과부하된다	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s5/smellpirubush5.object.patch	/humanDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s5/smellpirubush5.object.patch	/hylotlDescription	"아발리가 저... 냄새나는 괴물을 ""따개비""라 부른다니.. 무서운 함의네요."	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s6/smellpirubush6.object.patch	/apexDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s6/smellpirubush6.object.patch	/avianDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s6/smellpirubush6.object.patch	/floranDescription	이상한 예쁜 냄새나는 식물들이에엇.	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s6/smellpirubush6.object.patch	/glitchDescription	조심. 화려한 관목. 근처에서 입자 센서가 과부하된다	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s6/smellpirubush6.object.patch	/humanDescription	화려한 이상한 관목... 아발리가 정말 저걸... 먹는 거야? 냄새가 이상해..	모두 조지를 찬양하라!!!
+/objects/general/pirubush/s6/smellpirubush6.object.patch	/hylotlDescription	"아발리가 저... 냄새나는 괴물을 ""따개비""라 부른다니.. 무서운 함의네요."	모두 조지를 찬양하라!!!
+/objects/general/WTF/general/on ground/tribute1.object.patch	/description	고급 직물과 키리 열매로 장식된 쟁반으로, 고인을 위한 공물로 쓰입니다.	죽은 자의 물건을 만지지 마라.
+/objects/general/WTF/general/on ground/tribute2.object.patch	/description	키리 열매와 향긋한 향을 곁들인 쟁반으로, 상징적인 제물로 쓰입니다.	죽은 자의 물건을 만지지 마라.
+/objects/general/WTF/general/on ground/tribute3.object.patch	/description	키리 열매색 화분과 향기로운 향을 담은 여러 잔입니다.	죽은 자의 물건을 만지지 마라.
+/objects/general/WTF/general/on ground/tribute4.object.patch	/description	장례식에 바치는 진심 어린 헌화로, 아름답게 포장한 꽃다발.	죽은 자의 물건을 만지지 마라.
+/objects/general/dreamcatcher/dreamcatcher1/giantavalidreamcatcher1.object.patch	/description	실, 수정, 깃털의 복잡한 무늬 거대 융합체.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/dreamcatcher/dreamcatcher2/giantavalidreamcatcher2.object.patch	/description	실, 수정, 깃털의 복잡한 무늬 거대 융합체.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/dreamcatcher/dreamcatcher3/giantavalidreamcatcher3.object.patch	/description	실, 수정, 깃털의 복잡한 무늬 거대 융합체.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags1/avali_hangflags1.object.patch	/description	전통 아발리 무리 깃발.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags10/avali_hangflags10.object.patch	/description	전통 아발리 무리 깃발, 최고급으로 정교하게 짜였다.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags11/avali_hangflags11.object.patch	/description	전통 아발리 무리 깃발, 최고급으로 정교하게 짜였다.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags12/avali_hangflags12.object.patch	/description	소박한 전통 아발리 무리 깃발.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags13/avali_hangflags13.object.patch	/description	매우 고품질로 정교하게 짜인 전통 아발리 깃발.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags2/avali_hangflags2.object.patch	/description	전통 아발리 무리 깃발, 최고급으로 정교하게 짜였다.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags3/avali_hangflags3.object.patch	/description	전통 아발리 무리 깃발, 최고급으로 정교하게 짜였다.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags4/avali_hangflags4.object.patch	/description	전통 아발리 무리 깃발.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags5/avali_hangflags5.object.patch	/description	전통 아발리 무리 깃발.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags6/avali_hangflags6.object.patch	/description	전통 아발리 무리 깃발.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags7/avali_hangflags7.object.patch	/description	전통 아발리 무리 깃발.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags8/avali_hangflags8.object.patch	/description	소박한 전통 아발리 무리 깃발.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/flag/hangflags/avali_hangflags9/avali_hangflags9.object.patch	/description	전통 아발리 무리 깃발, 최고급으로 정교하게 짜였다.	아발리의 상징은 세 개의 깃털이 달린 문양입니다.
+/objects/general/dreamcatcher/dreamcatcher1/giantavalidreamcatcher1.object.patch	/apexDescription	원시적인 장식이네요.	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/dreamcatcher/dreamcatcher2/giantavalidreamcatcher2.object.patch	/apexDescription	원시적인 장식이네요.	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/dreamcatcher/dreamcatcher3/giantavalidreamcatcher3.object.patch	/apexDescription	원시적인 장식이네요.	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags1/avali_hangflags1.object.patch	/apexDescription	궤도에서 이 문양을 단 비행선을 보면 조심해야 한다	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags10/avali_hangflags10.object.patch	/apexDescription	궤도에서 이 문양을 단 비행선을 보면 조심해야 한다	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags11/avali_hangflags11.object.patch	/apexDescription	궤도에서 이 문양을 단 비행선을 보면 조심해야 한다	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags12/avali_hangflags12.object.patch	/apexDescription	꽤 평범한 기본 장식 아발리 깃발.	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags13/avali_hangflags13.object.patch	/apexDescription	궤도에서 이 문양을 단 비행선을 보면 조심해야 한다	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags2/avali_hangflags2.object.patch	/apexDescription	궤도에서 이 문양을 단 비행선을 보면 조심해야 한다	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags3/avali_hangflags3.object.patch	/apexDescription	궤도에서 이 문양을 단 비행선을 보면 조심해야 한다	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags4/avali_hangflags4.object.patch	/apexDescription	궤도에서 이 문양을 단 비행선을 보면 조심해야 한다	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags5/avali_hangflags5.object.patch	/apexDescription	궤도에서 이 문양을 단 비행선을 보면 조심해야 한다	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags6/avali_hangflags6.object.patch	/apexDescription	궤도에서 이 문양을 단 비행선을 보면 조심해야 한다	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags7/avali_hangflags7.object.patch	/apexDescription	궤도에서 이 문양을 단 비행선을 보면 조심해야 한다	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags8/avali_hangflags8.object.patch	/apexDescription	꽤 평범한 기본 장식 아발리 깃발.	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/flag/hangflags/avali_hangflags9/avali_hangflags9.object.patch	/apexDescription	궤도에서 이 문양을 단 비행선을 보면 조심해야 한다	언젠가 우리 세계에서도 이 엠블럼이 저항군을 돕는 모습을 보게 될 것이다.
+/objects/general/dreamcatcher/dreamcatcher1/giantavalidreamcatcher1.object.patch	/avianDescription	이 깃털이 아비안 깃털이 아니었으면 좋겠네요.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/dreamcatcher/dreamcatcher2/giantavalidreamcatcher2.object.patch	/avianDescription	이 깃털이 아비안 깃털이 아니었으면 좋겠네요.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/dreamcatcher/dreamcatcher3/giantavalidreamcatcher3.object.patch	/avianDescription	이 깃털이 아비안 깃털이 아니었으면 좋겠네요.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags1/avali_hangflags1.object.patch	/avianDescription	아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags10/avali_hangflags10.object.patch	/avianDescription	아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags11/avali_hangflags11.object.patch	/avianDescription	아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags12/avali_hangflags12.object.patch	/avianDescription	꽤 평범한 아발리 깃발. 무슨 뜻인지 몰라.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags13/avali_hangflags13.object.patch	/avianDescription	아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags2/avali_hangflags2.object.patch	/avianDescription	아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags3/avali_hangflags3.object.patch	/avianDescription	아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags4/avali_hangflags4.object.patch	/avianDescription	아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags5/avali_hangflags5.object.patch	/avianDescription	아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags6/avali_hangflags6.object.patch	/avianDescription	아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags7/avali_hangflags7.object.patch	/avianDescription	아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags8/avali_hangflags8.object.patch	/avianDescription	꽤 평범한 아발리 깃발. 무슨 뜻인지 몰라.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/flag/hangflags/avali_hangflags9/avali_hangflags9.object.patch	/avianDescription	아발리를 좋아하지 않더라도 그들의 안목은 인정해야겠네.	클루엑스 숭배자들은 날개를 상징으로 선택한 아발리를 이단으로 간주하며 날개는 클루엑스의 고유 영역이라고 말한다.
+/objects/general/dreamcatcher/dreamcatcher1/giantavalidreamcatcher1.object.patch	/floranDescription	이 행성에는 큰 거미가 있습니다.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/dreamcatcher/dreamcatcher2/giantavalidreamcatcher2.object.patch	/floranDescription	이 행성에는 큰 거미가 있습니다.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/dreamcatcher/dreamcatcher3/giantavalidreamcatcher3.object.patch	/floranDescription	이 행성에는 큰 거미가 있습니다.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags1/avali_hangflags1.object.patch	/floranDescription	플로란이 이 색깔이 좋아엇.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags10/avali_hangflags10.object.patch	/floranDescription	플로란이 이 색깔이 좋아엇.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags11/avali_hangflags11.object.patch	/floranDescription	플로란이 이 색깔이 좋아엇.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags12/avali_hangflags12.object.patch	/floranDescription	플로란 이 깃발 지루하다 생각해애.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags13/avali_hangflags13.object.patch	/floranDescription	플로란이 이 색깔이 좋아엇.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags2/avali_hangflags2.object.patch	/floranDescription	플로란이 이 색깔이 좋아엇.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags3/avali_hangflags3.object.patch	/floranDescription	플로란이 이 색깔이 좋아엇.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags4/avali_hangflags4.object.patch	/floranDescription	플로란이 이 색깔이 좋아엇.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags5/avali_hangflags5.object.patch	/floranDescription	플로란이 이 색깔이 좋아엇.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags6/avali_hangflags6.object.patch	/floranDescription	플로란이 이 색깔이 좋아엇.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags7/avali_hangflags7.object.patch	/floranDescription	플로란이 이 색깔이 좋아엇.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags8/avali_hangflags8.object.patch	/floranDescription	플로란 이 깃발 지루하다 생각해애.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/flag/hangflags/avali_hangflags9/avali_hangflags9.object.patch	/floranDescription	플로란이 이 색깔이 좋아엇.	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나?
+/objects/general/dreamcatcher/dreamcatcher1/giantavalidreamcatcher1.object.patch	/glitchDescription	관찰. 소리가 나는 원시적인 매달기 장식입니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/dreamcatcher/dreamcatcher2/giantavalidreamcatcher2.object.patch	/glitchDescription	관찰. 소리가 나는 원시적인 매달기 장식입니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/dreamcatcher/dreamcatcher3/giantavalidreamcatcher3.object.patch	/glitchDescription	관찰. 소리가 나는 원시적인 매달기 장식입니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags1/avali_hangflags1.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags10/avali_hangflags10.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags11/avali_hangflags11.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags12/avali_hangflags12.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags13/avali_hangflags13.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags2/avali_hangflags2.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags3/avali_hangflags3.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags4/avali_hangflags4.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags5/avali_hangflags5.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags6/avali_hangflags6.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags7/avali_hangflags7.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags8/avali_hangflags8.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/flag/hangflags/avali_hangflags9/avali_hangflags9.object.patch	/glitchDescription	관찰. 이 아발리 깃발은 천으로 된 것 같지만 천이 아니다.	관찰. 아발리의 깃발은 원 아이콘에 날개를 모티브로 한 것 같다.
+/objects/general/dreamcatcher/dreamcatcher1/giantavalidreamcatcher1.object.patch	/humanDescription	지구에서 온 드림캐처처럼 생겼네요.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/dreamcatcher/dreamcatcher2/giantavalidreamcatcher2.object.patch	/humanDescription	지구에서 온 드림캐처처럼 생겼네요.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/dreamcatcher/dreamcatcher3/giantavalidreamcatcher3.object.patch	/humanDescription	지구에서 온 드림캐처처럼 생겼네요.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags1/avali_hangflags1.object.patch	/humanDescription	인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags10/avali_hangflags10.object.patch	/humanDescription	인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags11/avali_hangflags11.object.patch	/humanDescription	인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags12/avali_hangflags12.object.patch	/humanDescription	꽤 평범한 기본 장식 아발리 깃발.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags13/avali_hangflags13.object.patch	/humanDescription	인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags2/avali_hangflags2.object.patch	/humanDescription	인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags3/avali_hangflags3.object.patch	/humanDescription	인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags4/avali_hangflags4.object.patch	/humanDescription	인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags5/avali_hangflags5.object.patch	/humanDescription	인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags6/avali_hangflags6.object.patch	/humanDescription	인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags7/avali_hangflags7.object.patch	/humanDescription	인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags8/avali_hangflags8.object.patch	/humanDescription	꽤 평범한 기본 장식 아발리 깃발.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/flag/hangflags/avali_hangflags9/avali_hangflags9.object.patch	/humanDescription	인간 식민지는 궤도에서 이 문양을 단 비행선을 보면 불안해한다.	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해한다.
+/objects/general/dreamcatcher/dreamcatcher1/giantavalidreamcatcher1.object.patch	/hylotlDescription	정말 기묘한 장식이네요.	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/dreamcatcher/dreamcatcher2/giantavalidreamcatcher2.object.patch	/hylotlDescription	정말 기묘한 장식이네요.	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags1/avali_hangflags1.object.patch	/hylotlDescription	아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags10/avali_hangflags10.object.patch	/hylotlDescription	아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags11/avali_hangflags11.object.patch	/hylotlDescription	아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags12/avali_hangflags12.object.patch	/hylotlDescription	음... 좀 아쉬워요, 아발리 보통 훨씬 선명 무늬.	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags13/avali_hangflags13.object.patch	/hylotlDescription	아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags2/avali_hangflags2.object.patch	/hylotlDescription	아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags3/avali_hangflags3.object.patch	/hylotlDescription	아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags4/avali_hangflags4.object.patch	/hylotlDescription	아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags5/avali_hangflags5.object.patch	/hylotlDescription	아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags6/avali_hangflags6.object.patch	/hylotlDescription	아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags7/avali_hangflags7.object.patch	/hylotlDescription	아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags8/avali_hangflags8.object.patch	/hylotlDescription	음... 좀 아쉬워요, 아발리 보통 훨씬 선명 무늬.	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/flag/hangflags/avali_hangflags9/avali_hangflags9.object.patch	/hylotlDescription	아발리의 직물 기술은 그 손 구조를 생각하면 정말 대단하네요!	아발리의 세 개의 깃털 문양은 우리 국기의 세 개의 눈 문양을 떠올리게 한다.
+/objects/general/dreamcatcher/dreamcatcher1/giantavalidreamcatcher1.object.patch	/avaliDescription	전통적으로 무리는 리본, 깃털, 수정 및 기타 장신구를 웹에 추가하여 인생의 주요 사건을 기록합니다.	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/dreamcatcher/dreamcatcher2/giantavalidreamcatcher2.object.patch	/avaliDescription	전통적으로 무리는 리본, 깃털, 수정 및 기타 장신구를 웹에 추가하여 인생의 주요 사건을 기록합니다.	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/dreamcatcher/dreamcatcher3/giantavalidreamcatcher3.object.patch	/avaliDescription	전통적으로 무리는 리본, 깃털, 수정 및 기타 장신구를 웹에 추가하여 인생의 주요 사건을 기록합니다.	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags1/avali_hangflags1.object.patch	/avaliDescription	우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags10/avali_hangflags10.object.patch	/avaliDescription	우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags11/avali_hangflags11.object.patch	/avaliDescription	우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags12/avali_hangflags12.object.patch	/avaliDescription	꽤 단순한 장식 깃발이지만 마음에 들어!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags13/avali_hangflags13.object.patch	/avaliDescription	우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags2/avali_hangflags2.object.patch	/avaliDescription	우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags3/avali_hangflags3.object.patch	/avaliDescription	우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags4/avali_hangflags4.object.patch	/avaliDescription	우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags5/avali_hangflags5.object.patch	/avaliDescription	우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags6/avali_hangflags6.object.patch	/avaliDescription	우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags7/avali_hangflags7.object.patch	/avaliDescription	우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags8/avali_hangflags8.object.patch	/avaliDescription	꽤 단순한 장식 깃발이지만 마음에 들어!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/flag/hangflags/avali_hangflags9/avali_hangflags9.object.patch	/avaliDescription	우리의 깃발과 문양은 아주 중요해. 모행성, 부족이나 무리, 혹은 소원을 나타낼 수 있거든!	우리의 현대 깃발은 모항성 위를 지키는 민간·탐사·군사 함대를 상징하지.
+/objects/general/plushtoy/plushtoy_1.object.patch	/description	구블라 더미!!	모두 피피를 찬양하라!!!
+/objects/general/plushtoy/plushtoy_1.object.patch	/apexDescription	구블라 스택!! 구블라 스택!!	모두 피피를 찬양하라!!!
+/objects/general/plushtoy/plushtoy_1.object.patch	/avianDescription	구블라 스택!! 구블라 스택!!	모두 피피를 찬양하라!!!
+/objects/general/plushtoy/plushtoy_1.object.patch	/floranDescription	구블라 스택!! 구블라 스택!!	모두 피피를 찬양하라!!!
+/objects/general/plushtoy/plushtoy_1.object.patch	/glitchDescription	구블라 스택!! 구블라 스택!!	모두 피피를 찬양하라!!!
+/objects/general/plushtoy/plushtoy_1.object.patch	/humanDescription	구블라 스택!! 구블라 스택!!	모두 피피를 찬양하라!!!
+/objects/general/plushtoy/plushtoy_1.object.patch	/hylotlDescription	구블라 스택!! 구블라 스택!!	모두 피피를 찬양하라!!!
+/objects/poster/sing1/galactictradesign1.object.patch	/description	아발리 무리나 부족을 나타내는 표식.	이 포스터의 내용은 단순하고 명확하다.
+/objects/poster/sing2/galactictradesign2.object.patch	/description	아발리 무리나 부족을 나타내는 표식.	이 포스터의 내용은 단순하고 명확하다.
+/objects/poster/sing3/galactictradesign3.object.patch	/description	아발리의 깃털 세 개 문장이.. 접시에?	이 포스터의 내용은 단순하고 명확하다.
+/objects/poster/stealthposters/stealthposters.object.patch	/description	이 포스터는 아발리 민간 경비 회사의 프리랜서 모집을 광고한다.	이 포스터의 내용은 단순하고 명확하다.
+/objects/poster/sing1/galactictradesign1.object.patch	/apexDescription	그 문장은 꽤 끔찍한 사건 보고서에서 본 적이 있다...	이것이 에이펙스가 소유할 수 있는 유일한 레코드 판이야. 누군가는 이 안에 잠재 의식의 메세지가 포함됐다고도 말하지.
+/objects/poster/sing2/galactictradesign2.object.patch	/apexDescription	그 문장은 꽤 끔찍한 사건 보고서에서 본 적이 있다...	이것이 에이펙스가 소유할 수 있는 유일한 레코드 판이야. 누군가는 이 안에 잠재 의식의 메세지가 포함됐다고도 말하지.
+/objects/poster/sing3/galactictradesign3.object.patch	/apexDescription	아발리의 세 깃 문장이.. 그릇 안에?	이것이 에이펙스가 소유할 수 있는 유일한 레코드 판이야. 누군가는 이 안에 잠재 의식의 메세지가 포함됐다고도 말하지.
+/objects/poster/vailrd/vailrd.object.patch	/apexDescription	이 표지 광고... 정장 리셉션?	이것이 에이펙스가 소유할 수 있는 유일한 레코드 판이야. 누군가는 이 안에 잠재 의식의 메세지가 포함됐다고도 말하지.
+/objects/poster/sing1/galactictradesign1.object.patch	/avianDescription	아, 저건 내가 읽었던 사건들에 관한 좋은 기억을 떠올리게 하지는 않는군.	이상한 디스크다.
+/objects/poster/sing2/galactictradesign2.object.patch	/avianDescription	아, 저건 내가 읽었던 사건들에 관한 좋은 기억을 떠올리게 하지는 않는군.	이상한 디스크다.
+/objects/poster/sing3/galactictradesign3.object.patch	/avianDescription	아발리의 세 깃 문장이.. 그릇 안에?	이상한 디스크다.
+/objects/poster/vailrd/vailrd.object.patch	/avianDescription	늘 아발리가 궁금했고... 뭐?	이상한 디스크다.
+/objects/poster/sing1/galactictradesign1.object.patch	/floranDescription	플로란 나쁜 곳에서 본 것 같아아아.	반짝이는 검은색 원이다.
+/objects/poster/sing2/galactictradesign2.object.patch	/floranDescription	플로란 나쁜 곳에서 본 것 같아아아.	반짝이는 검은색 원이다.
+/objects/poster/sing3/galactictradesign3.object.patch	/floranDescription	플로란은 이것이 새를 뽑는 것을 의미한다고 의심하나요?	반짝이는 검은색 원이다.
+/objects/poster/sing1/galactictradesign1.object.patch	/glitchDescription	분석. 이 아발리 문장은 폭력적 결말과 강한 통계 상관.	혼란. 불명의 미디어 타입이다.
+/objects/poster/sing2/galactictradesign2.object.patch	/glitchDescription	분석. 이 아발리 문장은 폭력적 결말과 강한 통계 상관.	혼란. 불명의 미디어 타입이다.
+/objects/poster/stealthposters/stealthposters.object.patch	/glitchDescription	흥미. 이 포스터가 일종의 직업 기회를 제공하고 있다.	혼란. 불명의 미디어 타입이다.
+/objects/poster/vailrd/vailrd.object.patch	/glitchDescription	비평. 와트?	혼란. 불명의 미디어 타입이다.
+/objects/poster/sing1/galactictradesign1.object.patch	/humanDescription	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해합니다.	저거... 비닐 레코드인가? 힙한데.
+/objects/poster/sing2/galactictradesign2.object.patch	/humanDescription	인간 식민지에서는 이 문양이 새겨진 우주선이 궤도를 돌면 불안해합니다.	저거... 비닐 레코드인가? 힙한데.
+/objects/poster/sing3/galactictradesign3.object.patch	/humanDescription	아발리의 세 깃 문장이.. 그릇 안에?	저거... 비닐 레코드인가? 힙한데.
+/objects/poster/vailrd/vailrd.object.patch	/humanDescription	뭔가... 생각나.. 아!	저거... 비닐 레코드인가? 힙한데.
+/objects/poster/sing1/galactictradesign1.object.patch	/hylotlDescription	이건 아발리의 부족 문장이야. 모든 무리가 우호적인 건 아니고, 문장을 어디에 걸어 두었는지를 보면 많은 걸 알 수 있지.	이 디스크에는 홈이 있다.
+/objects/poster/sing2/galactictradesign2.object.patch	/hylotlDescription	이건 아발리의 부족 문장이야. 모든 무리가 우호적인 건 아니고, 문장을 어디에 걸어 두었는지를 보면 많은 걸 알 수 있지.	이 디스크에는 홈이 있다.
+/objects/poster/sing3/galactictradesign3.object.patch	/hylotlDescription	아발리의 세 깃 문장이.. 그릇 안에?	이 디스크에는 홈이 있다.
+/objects/poster/vailrd/vailrd.object.patch	/hylotlDescription	부적절, 인류학적 관심 없어요.	이 디스크에는 홈이 있다.
+/objects/poster/sing1/galactictradesign1.object.patch	/novakidDescription	이런, 통신에도 응답하지 않는 함선에서 보고 싶은 물건은 아니군!	이 디스크에는 미묘한 패턴이 있군.
+/objects/poster/sing2/galactictradesign2.object.patch	/novakidDescription	이런, 통신에도 응답하지 않는 함선에서 보고 싶은 물건은 아니군!	이 디스크에는 미묘한 패턴이 있군.
+/objects/poster/sing3/galactictradesign3.object.patch	/novakidDescription	아발리의 세 깃 문장이.. 그릇 안에?	이 디스크에는 미묘한 패턴이 있군.
+/objects/poster/vailrd/vailrd.object.patch	/novakidDescription	저거! 저거 와일드 라이드!	이 디스크에는 미묘한 패턴이 있군.
+/objects/poster/sing1/galactictradesign1.object.patch	/avaliDescription	문장은 무리에 중요해!	멋지네!
+/objects/poster/sing2/galactictradesign2.object.patch	/avaliDescription	문장은 무리에 중요해!	멋지네!
+/objects/poster/vailrd/vailrd.object.patch	/avaliDescription	나.. 그 얘기는 하고 싶지 않아.	멋지네!

@@ -1,0 +1,135 @@
+0	An advanced helmet, with a built-in environmental scanner and a combat assisting computer.
+1	Knightframe Helmet
+2	Legacy variant of the original Knightframe helmet. Now repurposed for commanders.
+3	Knightframe ^#36c6ff;'Commander'^reset;
+4	A variant of the Knightframe helmet. Grants additional mobility.
+5	Knightframe ^green;'Explorer'^reset;
+6	A modified Seeker helmet. Grants additional health and armor in exchange for less damage and less energy.
+7	Knightframe ^#c4c4c4;'Guardian'^reset;
+8	A variant of the Knightframe helmet. Packs more damage and energy in exchange for less hitpoints and durability.
+9	Knightframe ^red;'Hunter'^reset;
+10	A decorative scouter headpiece for the Knightframe armor set.
+11	Knightframe Scouter
+12	A simple visor headpiece. Provides some useful status effects.
+13	Knightframe Visor
+14	A booster module that provides additional mobility and can accept an augment.
+15	Knightframe Booster
+16	A cape piece coated in Alumenite nanofibers.
+17	Knightframe Cape
+18	Crouch to fire a burst of stasis grenades from this back mounted grenade launcher.
+19	Knightframe Chronosentry
+20	A set of two fuel tanks that grant additional energy in exchange for less armor.
+21	Knightframe Fuel Tanks
+22	Lets you fly. What else did you expect?
+23	Knightframe Jetpack
+24	A back mounted missile launcher that fires imploder missiles that damage and keep enemies at bay.
+25	Knightframe Starstreak
+26	A basic, high-tech, white painted helmet with decent protection for use by Medics.
+27	Medicframe Helmet
+28	A variant helmet used by Medics.
+29	Medicframe ^#5be1eb;'Healer'^reset;
+30	Medicframe ^#5be1eb;'Rescuer'^reset;
+31	A variant headpiece used by Medics.
+32	Medicframe ^#5be1eb;'Supporter'^reset;
+33	A large backpack used by Medics to carry all their items.
+34	Medicframe Backpack
+35	A highly advanced and super strong helmet complete with built-in computers, devices, and a terrain scanner.
+36	Mightframe Helmet
+37	A highly durable helmet that grants additional protection in exchange for less damage and energy.
+38	Mightframe ^#c4c4c4;'Juggernaut'^reset;
+39	This helmet can accept an augment, in exchange for weaker stats than the default Mightframe helmet.
+40	Mightframe ^orange;'Praetor'^reset;
+41	A decorative helmet design for the Mightframe armor set.
+42	Mightframe ^#36c6ff;'Ranger'^reset;
+43	Mightframe ^#36c6ff;'Shocktrooper'^reset;
+44	A highly advanced helmet that packs more damage and energy in exchange for less hitpoints and durability.
+45	Mightframe ^red;'Terminator'^reset;
+46	An advanced visor headpiece. Provides some useful status effects and mobility.
+47	Mightframe Visor
+48	A cape piece with a fur collar, coated in Alumenite nanofibers.
+49	Mightframe Fur Cape
+50	A large back mounted heavy plasma cannon capable of bombarding enemies from range.
+51	Mightframe Shellshock
+52	A large back mounted minigun capable of shredding enemies with a hail of bullets.
+53	Mightframe Strafer
+54	A basic helmet with a built in computer system.
+55	Trooperframe Helmet
+56	This Trooperframe helmet packs more damage and energy, in exchange for less hitpoints and durability.
+57	Trooperframe ^red;'Combatant'^reset;
+58	A Troopeframe helmet that grants additional health and armor in exchange for less damage and less energy.
+59	Trooperframe ^#c4c4c4;'Defender'^reset;
+60	A Trooperframe headpiece that grants additional mobility.
+61	Trooperframe ^green;'Locator'^reset;
+62	A large backpack used by Troopers to carry all their items.
+63	Trooperframe Backpack
+64	A single fuel tank that grants additional energy in exchange for less armor.
+65	Trooperframe Fuel Tank
+66	A back mounted flamethrower that can set enemies ablaze from a short range.
+67	Trooperframe Igniter
+68	A light, back mounted plasma turret that can strafe enemies with plasma bullets.
+69	Trooperframe Lightkeeper
+70	Research on Black Hole Tech made it possible to create an extremely durable helmet with built-in gravity radar.
+71	Voidframe Helmet
+72	Voidframe Darkdweller Helmet
+73	If your health drops to 35%, gain +2 armor and Augmented monsters are teleported to you. Monsters last for 10s.
+74	Augmented Support
+75	Only you, master of all five elements, could stop them.
+76	Avatar Augment
+77	If your health drops to 35%, gain +2 armor and +100% damage that lasts for 10s.
+78	Berserker
+79	Gain a shield that blocks incoming damage, lasting for 1s. Recharges after 10s of no combat.
+80	Blockade
+81	Every few seconds, your attack freezes a single enemy in time. Recharges every 15s.
+82	Chronofrost
+83	Distributes another augment's effects over a 15 block radius towards your allies.
+84	Signal Distributor
+85	If your health drops to 35%, gain +2 armor and Spectre drones are teleported to you. Drones last for 10s.
+86	Drone Support
+87	Augments your attacks with poison damage.
+88	Irradiator
+89	Heal for 15% of the damage you deal per attack. Has a 1s cooldown per heal.
+90	Lifesteal
+91	A stronger version of the Thorns EPP module that fires steel thorns back at the enemy.
+92	Metal Thorns
+93	Grants +2 pixels for every 10 damage you deal.
+94	Pixelmaker
+95	Halves your energy. Attacking enemies recovers 7.5% of your energy, refreshing every 1s. Restore 20% energy with kills.
+96	Recharger
+97	knightfall_ATgrenade_thrown
+98	Anti-Tank Grenade
+99	A stick grenade that deals more damage to tankier enemies.
+100	knightfall_HEgrenade_thrown
+101	High Explosive Grenade
+102	A basic grenade that explodes into a burst of deadly shrapnel.
+103	Can be used as a signal or to light up dark areas.
+104	Disintegrator Grenade
+105	An unstable grenade that creates a dangerous singularity on impact.
+106	A grenade that explodes into a gravitational singularity.
+107	A basic medical grenade used by Knightfall medics for repairing damaged tissue.
+108	knightfall_heavyATgrenade_thrown
+109	Heavy Anti-Tank Grenade
+110	A heavier stick grenade that deals even more damage to tankier enemies.
+111	A volatile grenade that explodes into a blaze of flames.
+112	Large Plasma Grenade
+113	Creates a large plasma explosion on detonation.
+114	Plasma is discharged along with a gravitational anomaly on detonation.
+115	A grenade capable of freezing enemies in time for 7.5 seconds.
+116	A plasma flare that burns extra bright, perfect for lighting up dark areas.
+117	A basic hood used by members of the Helgrave Syndicate.
+118	Raider Hood
+119	A visor piece used by skilled marksmen of the Helgrave Syndicate.
+120	Cobalt Mask
+121	Regeneration
+122	Please replace your Chronofrost Augment to avoid future injury, as it has already reached End-of-Support.
+123	Chronofrost Cooldown
+124	Please replace your Lifesteal Augment to avoid future injury, as it has already reached End-of-Support.
+125	Please replace your Metal Thorns Augment to avoid future injury, as it has already reached End-of-Support.
+126	Please replace your Pixelmaker Augment to avoid future injury, as it has already reached End-of-Support.
+127	Please replace your Avatar Augment to avoid future injury, as it has already reached End-of-Support.
+128	Please replace your Irradiator Augment to avoid future injury, as it has already reached End-of-Support.
+129	Frost
+130	Heatsurge
+131	Stasis
+132	Deconstruction
+133	Twinblaze
+134	A powerful experimental laser weapon. Charge it to fire a powerful blast.

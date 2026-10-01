@@ -1,0 +1,45 @@
+/dialog/USCMdisbanded.config.patch	/converse/default/default/2
+  KO: 버려진 USCM 함선을 발견하면, 건드리지 않는 게 좋아. 안 좋은 일들이 있었거든.
+  hits: 드리
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/37
+  KO: 뭐 필요하신가요, 선장님?
+  hits: 하신
+/dialog/elpissecurity.config.patch	/hail/hylotl/default/4
+  KO: 날 건드리면 칠 수밖에 없다.
+  hits: 드리
+/dialog/saturnKytaguard.config.patch	/hail/human/default/6
+  KO: 난 엄청 강해, 건드리지 않는 게 좋아.
+  hits: 드리
+/dialog/saturnKytaguard.config.patch	/hail/hylotl/default/4
+  KO: 날 건드리면 칠 수밖에 없다.
+  hits: 드리
+/dialog/tentacles/avian-exhausted.config.patch	/35/text
+  KO: 에테르의 날개 달린 신 ...지켜보고 계시나?
+  hits: 계시
+/dialog/unboundvillagesecurity.config.patch	/hail/hylotl/default/4
+  KO: 날 건드리면 칠 수밖에 없다.
+  hits: 드리
+/quests/STORY/alliance/alliancestorystart.questtemplate.patch	/scriptConfig/radioMessages/startMessage/text
+  KO: 대사님! 괜찮으세요? 지구와 보호국에 무슨 일이 있었는지 알게 된 이후로 계속 연락드리려 했어요...
+  hits: 드리
+/radiomessages/alliancestory.radiomessages.patch	/alliancestory-intro1/text
+  KO: 무사하신 걸 보니 다행입니다, 대사님. 탈출한 다른 대사들을 통해 지구와 보호국의 파괴 소식을 들었고, 혼란 속에서 돌아가셨을까 봐 두려웠습니다.
+  hits: 하신
+/radiomessages/ffs_whitecrow.radiomessages.patch	/ffs_whitecrow_barrack_5/text
+  KO: ^white;오, 사령관님, 저기 사격장이 있어요. / 대장님께 사용하고 싶다고 말씀드릴게요,  / 하지만 지금은 안 돼요. / 죄송해요!
+  hits: 말씀
+/radiomessages/gicexp_missions.radiomessages.patch	/esc_nt_1_2_mission_3_alt00/text
+  KO: 함장님. 저희는 고용하신 증강 보안팀입니다. 즉시 안전 프로토콜을 실행하겠습니다. 걱정 마십시오.
+  hits: 하신
+/radiomessages/lawHQmissions_M02.radiomessages.patch	/hqmission02_mess03/text
+  KO: 좋은 아침입니다, 경관님. 상관께서 죄수 ^orange;코넬리우스 타르코프^reset;를 심문하도록 허락하셨습니다. 3구역에 수감돼 있습니다. 감방에 너무 가까이 다가가지 않도록 조심하세요. 이 구역 죄수들은 상당히 공격적입니다.
+  hits: 하셨
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess04/text
+  KO: 환영합니다, 경관님, 또 만났군요! 살아남으셨어요, 하지만 이건 그저 일시적인 유예일 뿐이죠. 아직 인류를 위협으로 보진 않지만, 계속 그러시다간 상황이 달라질 거예요...
+  hits: 으셨,시다간
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess07/text
+  KO: 경관님. 뭘 하셨는지는 모르겠지만, 지상에 활동이 있습니다. 저희가 뭔가... 젠장! 빨리, 전원 엄폐-...
+  hits: 하셨
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess12/text
+  KO: 경관님, 대단한 끈기를 보여주셨습니다. 제 화신들 중 하나와 맞설 수 있을지 지켜보죠!
+  hits: 주셨

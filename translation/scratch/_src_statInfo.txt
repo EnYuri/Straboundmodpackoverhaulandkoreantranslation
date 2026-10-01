@@ -1,0 +1,73 @@
+=== 0
+Ammo capacity x2
+=== 1
+Recoil -0.2x
+=== 2
+If I appear anywhere, something's wrong; check the scripts and tooltips.
+=== 3
+Crit Chance +50% when aiming
+=== 4
+Recoil x0.8
+Inaccuracy x0.8
+Crit Chance +50% when aiming
+=== 5
+Projectiles: 3
+=== 6
+Multishot: 1.1
+Hitscan Pen.: 3
+=== 7
+Projectile Count: 1
+Multishot: 3
+Base Damage +1x
+Spread +1 deg.
+Recoil +10
+Recoil Momentum +10
+=== 8
+Spread: 1 deg.
+=== 9
+Cock time: 0.5s
+Ammo Capacity +4
+=== 10
+Trigger time: 0.1s
+=== 11
+Spread -0.9x
+Recoil -0.9x
+=== 12
+Recoil +10 deg.
+Projectile Count: 1
+Spread: -0.99x
+Base Damage +0.25
+=== 13
+Max Ammo +3
+=== 14
+Spread -0.5x
+=== 15
+Inaccuracy -0.2x
+Recoil -0.2x
+=== 16
+Multishot +3
+Spread -0.5x
+=== 17
+Max Ammo x0.5
+=== 18
+Inaccuracy -0.2x
+Recoil -0.2x
+Recovery Time -0.75x
+=== 19
+Recoil -0.1x
+=== 20
+Multishot +2
+Spread: 1 deg.
+=== 21
+Screen Shake: 0.1
+Recoil -0.5x
+=== 22
+Heavy: Removes mobility penalties.
+Mobility +0.15x
+=== 23
+
+Damage*2+1
+fireTime*2-1
+(reloadCost/2)-1
+critChance*2+1
+critDamage*2+1

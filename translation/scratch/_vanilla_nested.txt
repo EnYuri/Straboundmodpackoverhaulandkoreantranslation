@@ -1,0 +1,14 @@
+### /objects/crafting/ironanvil/ironanvil.object
+  /interactData/paneLayoutOverride/windowtitle/title =  Iron Anvil
+  /interactData/paneLayoutOverride/windowtitle/subtitle =  ^#b9b5b2;Armour and weapons
+### /objects/crafting/ironcraftingtable/ironcraftingtable.object
+  /interactData/paneLayoutOverride/windowtitle/title =   Iron Crafting Table
+  /interactData/paneLayoutOverride/windowtitle/subtitle =   Heavy duty crafting!
+### /objects/ship/researchstation/researchstation.object
+  /interactData/paneLayoutOverride/windowtitle/title =  Research Station
+  /interactData/paneLayoutOverride/windowtitle/subtitle =  Develop specialised technologies
+### /objects/spawner/spawnerstation/spawnerstation.object
+  /interactData/paneLayoutOverride/windowtitle/title =  Employer's Station
+  /interactData/paneLayoutOverride/windowtitle/subtitle =  Use employment beacons to call in help
+### /species/penguin.species
+  /charCreationTooltip/title = Penguin

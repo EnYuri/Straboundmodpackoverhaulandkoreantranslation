@@ -1,0 +1,148 @@
+/dialog/atprk_devouttenant.config.patch	/beacon/default/default/2
+  KO: 예의 바름. 무엇을 도와드릴까요, 집주인님?
+/dialog/atprk_devouttenant.config.patch	/rent/default/default/1
+  KO: 예의 바름. 거주 공간을 마련해주셔서 감사합니다. 제 동족에게 당신의 도움을 전하겠습니다.
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/6
+  KO: 선장님이시군요! 영광입니다, 선장님!
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/23
+  KO: 선장님처럼 모험을 떠날 수 있으면 좋겠어요.
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/30
+  KO: 흠? 오, 죄송해요 선장님! 거기 계신 줄 몰랐어요.
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/34
+  KO: 재미있는 이야기 있으세요, 선장님?
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/37
+  KO: 뭐 필요하신가요, 선장님?
+/dialog/bartenderwoofie.config.patch	/rent/default/default/1
+  KO: 이번 주 수익입니다, 보스
+/dialog/commands.config.patch	/holdPosition/glitch/default/1
+  KO: 인내심 있음. 이 위치를 지킬 수 있습니다, 선장님.
+/dialog/commands.config.patch	/holdPosition/glitch/default/2
+  KO: 우호. 이 구역을 안전하게 확보하겠습니다, 선장님.
+/dialog/ffs_alice_converse.config.patch	/greeting/default/default/1
+  KO: 안녕하세요, 요원님!
+/dialog/ffs_jessie_converse.config.patch	/greeting/default/default/2
+  KO: 오, 지휘관님이시군요!
+/dialog/hookerconverse.config.patch	/converse/apex/default/1
+  KO: 걱정 마, 빅 에이프는 이걸 못 볼 테니까.~
+/dialog/lucario.config.patch	/converse/default/glitch/8
+  KO: 그러니까 당신들의 왕국에는 왕과 여왕만 있습니까, 아니면 영주와 귀부인도 있습니까?
+/dialog/r-peacekeeperconverse.config.patch	/converse/glitch/default/4
+  KO: 열의. 선장님에게서는 자신감이 뿜어져 나옵니다. 언젠가 저도 그분의 절반만큼이라도 사람을 이끄는 존재가 되고 싶군요!
+/quests/STORY/alliance/alliancestory-passpickup.questtemplate.patch	/completionText
+  KO: 여기 있습니다, 대사님. 당신만의 ^orange;대사 통행증^reset;입니다: 이걸로 ^green;크레온 대사관 최상층의 ^orange;지휘 본부^green;를 방문하실 수 있습니다^reset;.
+/quests/STORY/alliance/alliancestory-passpickup.questtemplate.patch	/scriptConfig/radioMessages/0/text
+  KO: 아, 다시 연락 주셔서 반갑습니다, 대사님!
+/quests/STORY/alliance/alliancestory-passpickup.questtemplate.patch	/scriptConfig/radioMessages/4/text
+  KO: 대사님, 곧 크레온을 찾아오세요. 기다리고 있겠습니다.
+/quests/STORY/alliance/alliancestorystart.questtemplate.patch	/scriptConfig/radioMessages/startMessage/text
+  KO: 대사님! 괜찮으세요? 지구와 보호국에 무슨 일이 있었는지 알게 된 이후로 계속 연락드리려 했어요...
+/quests/STORY/alliance/alliancestorystart.questtemplate.patch	/scriptConfig/radioMessages/endMessage/text
+  KO: 행운을 빕니다, 대사님. 새 임무가 준비되면 다시 연락하겠습니다.
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_3.questtemplate.patch	/scriptConfig/descriptions/enterInstance
+  KO: ^orange;팔케 장군^reset;에게 말을 걸어 ^orange;호라이즌 기지^reset;로 이동하세요
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch	/scriptConfig/descriptions/enterInstance
+  KO: ^orange;팔케 장군^reset;에게 말을 걸어 ^orange;호라이즌 공장^reset;에 도달하세요.
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch	/scriptConfig/descriptions/turnIn
+  KO: 동쪽에서 ^orange;팔케 장군^reset;에게 말을 거세요.
+/radiomessages/alliancestory.radiomessages.patch	/alliancestory-intro1/text
+  KO: 무사하신 걸 보니 다행입니다, 대사님. 탈출한 다른 대사들을 통해 지구와 보호국의 파괴 소식을 들었고, 혼란 속에서 돌아가셨을까 봐 두려웠습니다.
+/radiomessages/alliancestory.radiomessages.patch	/alliancestory-intro3/text
+  KO: 지금은 원하는 대로 은하를 돌아다녀도 좋습니다. 더 알려 드릴 내용이 생기면 다시 연락하겠습니다. 행운을 빕니다, 대사님. 부디 조심하십시오.
+/radiomessages/arcana_mission_desertstart.radiomessages.patch	/arcana_mission_desertstart_1_2/text
+  KO: 저희... 음, 저희 길드마스터 대부분이 외부의 위협을 고려한 끝에 아티팩트를 안전하게 보관하도록 탐구자들에게 넘기기로 합의했습니다.
+/radiomessages/arcana_mission_seekerIntro.radiomessages.patch	/arcana_mission_seekerIntro_4_1/text
+  KO: 축하합니다! 그 보스를 처리한 방식을 보니, 벌써 함께 일할 날이 기대됩니다.
+/radiomessages/atprk_planetpincomments.radiomessages.patch	/atprk_planetpincomment_volcanic1/text
+  KO: 자부심 넘침. ^#e11212;화산^white; 행성들은 가혹하지만, 카리스마 넘치는 왕들과 고귀한 기사들, 명성 높은 시인들의 고향이기도 합니다.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_2_cultist_4/text
+  KO: ^white;대장님, 남은 적군 위치를 파악했습니다. / 본부에서 최소 30분 걸린다고...                                                 / ..오, 안 돼. 적 접촉!!
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_9/text
+  KO: ^white;대장님! 큰 사상자가 났습니다! / 컬티스트들이 이미 통로를 장악했습니다! / 남은 건 우리뿐입니다. / 어떻게 합니까, 대장님?
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_11/text
+  KO: ^white;알겠습니다, 대장님!
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_13/text
+  KO: ^white;알겠습니다, 대장님.  / 하지만, 저 빌어먹을 거미들을 막으려고 문을 잠갔습니다.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_20/text
+  KO: ^white;대장님! 오셨군요! / 다른 사람들은요? / ...네?                          / 아니, 불가능해.. 그럴 리가.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_22/text
+  KO: ^white;..예.. 알겠습니다, 대장님. 앨리스 중위가 저와 함께 있었지만 지금은 아닙니다. 중상을 입고 다른 구역으로 이송됐습니다.  / 그리고 나머지는 ..어.. 민간인들뿐입니다. 여기서 군사 훈련을 받은 건 저뿐입니다, 대장님.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_24/text
+  KO: ^white;알겠습니다, 대장님! / 저는 이병 제시입니다, 어.. 사령관님.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_26/text
+  KO: ^white;아, 네, 지휘관님. / 그런데 앨리스 중위를 이송한 뒤에, 그분이 무기고에서 군용 스팀팩을 가지러 가셨어요.. 혼자서요.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_28/text
+  KO: ^white;알겠습니다, 대장님. / 그녀가 여기 남아 이 사람들을 지키라고 고집했어요. / ...                                     / 저.. 따라갔어야 했을까요?
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_30/text
+  KO: ^white;대장님. 동쪽에 비상 출구가 있어요. 가까워요.  / 하지만, 장벽을 열려면 비상 백업 발전기를 가동해야 해요. / 가동하면 그... 것들한테 물길을 열어주는 거라 못 했어요!  / 혼자 모두를 지킬 수 없어서 지금까지 닫아뒀어요.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_32/text
+  KO: ^white;오, 안 돼..! / 온다! 거미들이다! / ^green;사령관! 지금 바로 비상 발전기를 가동해야 해요!!^white;
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f3_5/text
+  KO: ^white;어? / 대장님, 진짜요? / ^red;꺄아아아아아!!
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f4_2/text
+  KO: ^white;흠. 네가 보호국 요원인 줄 몰랐네. 보호국은 다 전멸한 줄 알았는데.. USCM의 SCAA 부대 정도만 남았나 보지. 난 릴리 소령이야. SRS 총국장이지. 아, 계급은 신경 쓰지 마. 난 안 따지니까.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f4_3/text
+  KO: ^white;알겠습니다, 사령관님. / 아, USCM 말이죠. 마지막으로 들은 바로 보호국에서 쫓겨났대요. 그리고 에이펙스 건이 터졌죠...
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f4_5/text
+  KO: ^white;알겠습니다, 사령관님. USCM 대원의 90~95%가 이미 에이펙스에게 세뇌되고 약물에 빠졌어요. 그들과 산발적이지만 소규모 충돌도 있었죠.  / 	지금쯤 대부분은 그냥 무장 강도일 거예요, 소수 부대 빼곤.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f4_16/text
+  KO: ^white;알겠-! 통했어!  ...잠깐, 뭐--?          / 오! / 상사 레베카 신고합니다, 사령관님! / ..이봐, 네무이. 일어나.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f5_4/text
+  KO: ^white;알겠습니다, 대장님. / 제시, 블루 팀, 나와 함께. / 요원..                                     / 고마워. 네가 해준 모든 것에. 우리가 빚졌어.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_lastboss_0_2/text
+  KO: ^white;그렇습니다, 박사님.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_lastboss_0_3/text
+  KO: ^white; 기억해라, 장군이 최우선이다. 장군을 잃으면 화성의 SRS 주요 시설 접근 권한을 모두 잃는다.  / 그리고 어쩌면 SRS 자체를 잃을지도 모른다.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_lastboss_0_8/text
+  KO: ^white;어..? / 대장님, 하늘에 저 ^green;주황빛^white; 보입니까?
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_lastboss_2_5/text
+  KO: ^white;알겠습니다, 대장님!
+/radiomessages/ffs2_radiomessages_hc.radiomessages.patch	/ffs2_ending_hc_11/text
+  KO: 대위님! 큰 문제가 생겼어요!!
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_5_12/text
+  KO: 중무장 병력이 도착했습니다, 대장님! / 적과 교전합니다!
+/radiomessages/ffs_whitecrow.radiomessages.patch	/ffs_whitecrow_bridge_2/text
+  KO: ^white;그래요, 대장님. 한 달 정도요. / 장비도, 자원도, 연료도, 시간도 없어요. 조만간 식량 사냥을 나가야 해요. ..그리고 기술 인력은 소수 빼고 전부 MIA거나 KIA예요.
+/radiomessages/ffs_whitecrow.radiomessages.patch	/ffs_whitecrow_bridge_4/text
+  KO: ^white;알겠습니다, 대장님.
+/radiomessages/ffs_whitecrow.radiomessages.patch	/ffs_whitecrow_barrack_5/text
+  KO: ^white;오, 사령관님, 저기 사격장이 있어요. / 대장님께 사용하고 싶다고 말씀드릴게요,  / 하지만 지금은 안 돼요. / 죄송해요!
+/radiomessages/gicexp_missions.radiomessages.patch	/esc_MW_chat_PMC_3/text
+  KO: 사령관님, 신원 불명의 침입자가 교외 방어선을 뚫고 이제 공장에 들어섰습니다. 목표는 화물입니다!
+/radiomessages/gicexp_missions.radiomessages.patch	/esc_nt_1_2_mission_3_alt00/text
+  KO: 함장님. 저희는 고용하신 증강 보안팀입니다. 즉시 안전 프로토콜을 실행하겠습니다. 걱정 마십시오.
+/radiomessages/lawHQmissions_M01.radiomessages.patch	/hqmission01_mess01/text
+  KO: 경관님, 상황은 간단합니다. ^orange;중무장한 인물들이 마약 밀매 혐의를 받는 집을 습격했습니다^reset;. 정면 돌격은... 결과를 초래할 수 있습니다. 아니요, 경관님, 들어가지 마세요!
+/radiomessages/lawHQmissions_M01.radiomessages.patch	/hqmission01_mess04/text
+  KO: 경관님, 제 말이 들리면, 두 부대가 구역장 '돈 마카로니'를 포위하고 있습니다. 그는 극도로 위험합니다. 조심하세요!
+/radiomessages/lawHQmissions_M01.radiomessages.patch	/hqmission01_mess06/text
+  KO: 수고했어요, 경관님. 마카로니가 병원에서 회복하면 심문할 수 있겠죠. 형을 줄이는 대가로 몇몇 이름을 댈지도 몰라요.
+/radiomessages/lawHQmissions_M02.radiomessages.patch	/hqmission02_mess01/text
+  KO: 경관님, 대부님 돈 카마로니의 마약 밀매 수사를 진전시키려면 수감자 ^orange;코넬리우스 타르코프^reset;를 심문해야 합니다. 교도소장에게 연락해주세요.
+/radiomessages/lawHQmissions_M02.radiomessages.patch	/hqmission02_mess02/text
+  KO: 안녕하세요 경관님, 국장님이 사무실에서 기다리고 계십니다.
+/radiomessages/lawHQmissions_M02.radiomessages.patch	/hqmission02_mess03/text
+  KO: 좋은 아침입니다, 경관님. 상관께서 죄수 ^orange;코넬리우스 타르코프^reset;를 심문하도록 허락하셨습니다. 3구역에 수감돼 있습니다. 감방에 너무 가까이 다가가지 않도록 조심하세요. 이 구역 죄수들은 상당히 공격적입니다.
+/radiomessages/lawHQmissions_M02.radiomessages.patch	/hqmission02_mess06/text
+  KO: 경관님, 공범의 도움을 받아 수감자 한 명이 탈옥했습니다. 타르코프입니다. 오늘 있었던 폭발로 우리 전력망이 완전히 파괴됐습니다. 조심하세요, 수감자들이 전부 감방 밖으로 나와 있습니다.
+/radiomessages/lawHQmissions_M02.radiomessages.patch	/hqmission02_mess07/text
+  KO: 소장님, 방금 구멍을 발견했습니다. 공범들이 밖에서 죄수동 쪽으로 파고 들어왔습니다. 상관에게 연락해서 최대 지원을 요청해 주십시오.
+/radiomessages/lawHQmissions_M03.radiomessages.patch	/hqmission03_mess01/text
+  KO: 경관님, 조심하세요, 새로운 정보가 들어왔습니다. ^orange;탈취된 P1078 경찰^reset; 드론이 함선 내부에서 감지됐습니다, 조심하세요. 발각을 피하기 위해 교신을 끊겠습니다.
+/radiomessages/lawHQmissions_M03.radiomessages.patch	/hqmission03_mess04/text
+  KO: 경관님, 지금은 먹고 마실 때가 아닙니다. 자, 얼른 움직이세요, 기다리고 있습니다!
+/radiomessages/lawHQmissions_M03.radiomessages.patch	/hqmission03_mess06/text
+  KO: 경관님, 제 프로그래밍 실력을 기억하세요. 제가 서버를 확실히 지키지 않았을 거라고 정말 생각하시나요, 어떤 잘난 척하는 놈이 손대지 못하도록? 실망스럽네요!
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess01/text
+  KO: 여기 계셨군요, 장교님. 무슨 일이 생긴 줄 알았습니다. 저희도 들어가려 했지만 드론 때문에 물러날 수밖에 없었습니다. 서버에 접근해 정보를 가져올 수 없었어요...
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess04/text
+  KO: 환영합니다, 경관님, 또 만났군요! 살아남으셨어요, 하지만 이건 그저 일시적인 유예일 뿐이죠. 아직 인류를 위협으로 보진 않지만, 계속 그러시다간 상황이 달라질 거예요...
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess07/text
+  KO: 경관님. 뭘 하셨는지는 모르겠지만, 지상에 활동이 있습니다. 저희가 뭔가... 젠장! 빨리, 전원 엄폐-...
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess12/text
+  KO: 경관님, 대단한 끈기를 보여주셨습니다. 제 화신들 중 하나와 맞설 수 있을지 지켜보죠!
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_1_25/text
+  KO: 우리가 정말 먼지 탐구자를 만났어요, 빈더밀 님! 그것의 파편 표본도 있어요! 그리고 네레우스 박사님의 이 추천서도요! 아시잖아요?
+/radiomessages/voidedexploration.radiomessages.patch	/v-extradimensionalstar/text
+  KO: 이 항성 주위를 공전하는 다양한 위협 등급의 천체가 감지됩니다. 가장 덜 위험한 것은 ^#571cff;이상 소행성^reset;으로 보입니다-위협 등급 ^orange;7 (비현실적)^reset;. 이 항성계에서 가장 먼 천체이니, 먼저 그곳으로 이동하시길 권장합니다.
+/radiomessages/voidedtutorial.radiomessages.patch	/v-healingnerf/text
+  KO: 분석 결과 이 항성의 방사선은 ^red;회복 능력을 저하시킵니다^reset;. ^green;나노랩 붕대^reset;나 ^green;의료 키트^reset;를 사용한 뒤에는 다시 사용할 때까지 대기해야 합니다.

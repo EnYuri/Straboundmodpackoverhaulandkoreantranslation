@@ -1,0 +1,146 @@
+==========================================================================================
+/codex/other/shadow3.codex.patch
+==========================================================================================
+/codex/pharitu/pharitu4.codex.patch
+## /contentPages/0 parens 0 0
+우주로의 첫 진출에 관해서는 우리가 부러워할 만합니다. 파리투는 샤크타를 사용하여 돌 그 이상의 것을 만들 수 있습니다. 그들은 유능한 사이오닉이며, 이러한 '힘'을 활용하여 텔레파시를 통해 다른 사람의 마음 속으로 소통할 수 있습니다.
+## /contentPages/1 parens 2 3
+하지만 모든 파리투가 다른 사람들과 소통하는 방식입니다), 또는 극한의 거리에서 서로 (그들의 샤크타에 큰 소모가 있습니다) 돌과 금속을 형성하고 심지어 배의 연료 역할을 할 수있는 고체 물질로 만든 구조물 (배, 물질로 만든 배)을 만들기도합니다.
+## /contentPages/2 parens 1 1
+물질로 만든 배를 만들기도 합니다. 대부분은 재료를 쉽게 구할 수 있는 일반적인 금속과 돌을 사용하지만, 부유한 파리투(또는 비정상적으로 큰 샥타를 가진 사람)는 흔하지 않은 재료로 배를 만드는 데 열중합니다. 다른 세계에서 볼 수 있는 이국적인 재료로 만든
+## /contentPages/3 parens 0 0
+이국적인 재료로 만든 배를 보는 것은 드문 일이 아닙니다. 나무와 조개껍질로 배를 만든 사람을 만난 적도 있습니다. 그들은 샤크타로 배를 추진할 수는 있지만, 대부분은 계속 먹어야 하는 번거로움을 덜기 위해 일반적인 방법을 선호합니다.
+## /contentPages/4 parens 0 1
+짧은 항해에 연료를 공급하기 위해 수천 파운드의 보석이 필요하다는 것은 얼마나 끔찍한 일인지 상상할 수 있습니다). 따라서 그들은 '평범한' 우주선 부품을 만드는 데 필요한 부품을 얻기 위해 은하계 시장에서 거래하는 데 열중하고 있습니다. 표준 픽셀이 부족하기 때문에 이들에게 이것은 큰 번거로움이 아닙니다.
+## /contentPages/5 parens 1 1
+표준 픽셀이 필요하지 않습니다. 그러나 코인이 없는 경우, 그들은 항상 보석을 팔 수 있습니다(대부분 꼭 필요한 경우가 아니면 보석을 팔기를 꺼려하지만).
+## /description parens 0 0
+파리투의 생활 자세히 알아보기
+## /title parens 0 0
+파리투 우주 여행, 파트 1
+==========================================================================================
+/items/generic/drinks/phaseshake.consumable.patch
+==========================================================================================
+/items/generic/crafting/kilvratjug.item.patch
+==========================================================================================
+/items/active/ivrpg_combatseteffects/ivrpg_hardenedmasteroidmid.statuseffect.patch
+==========================================================================================
+/items/active/weapons/melee/spear/esc_90mm/esc_90mm.activeitem.patch
+==========================================================================================
+/items/active/weapons/ranged/alternate/gic_m1a1bazooka.activeitem.patch
+==========================================================================================
+/items/active/weapons/other/gic_nue_naginata.activeitem.patch
+==========================================================================================
+SRC /_ZBversioning.config
+{
+"version" : "1.05",
+"changelog" : "
+
+^orange;-----     1.05c    -----^reset;
+> Moved Research system interface buttons to the right side of the screen
+
+^orange;-----     1.05b    -----^reset;
+> Disabled double click to research a node to prevent accidental researching.
+
+^orange;-----     1.05a    -----^reset;
+> Fixed updating research tree version not adding unlocks added to already researched nodes
+> Removed unused FU mini currency icons from the standalone version
+
+^orange;-----     1.05    -----^reset;
+> Cleared update log to begin at 1.04
+> Applied and optimized research system fixes from FU:
+	Fixed a bug where removing a node but not its original acronym would crash the pane
+	Trees are now listed in alphabetical order
+    Improved search mode order
+    Slight color adjustments
+> Reduced research system double click time threshold to 0.2 seconds
+> Research system double clicks only register if the click was 1 pixel away from the previous click
+> Research trees can now be hidden behind quest completion and/or research from other trees
+> Research trees can now be configured to not consume resources and/or currency
+> Fixed research pane drawing currencies below research nodes
+> The player is now informed when no research trees are available
+> Research trees can now have an icon
+
+^orange;Silent update^reset;
+> Kherae fixed a bug regarding mission deployments through new SAIL
+
+^orange;-----     1.04j    -----^reset;
+> Added missing songs to the music player
+
+^orange;-----     1.04i    -----^reset;
+> Added New SAIL error handling for when the SAIL object script crashes (like from a missing pet)
+> Hidden the scan interaction quest.
+
+^orange;-----     1.04h    -----^reset;
+> Fixed scan interaction script throwing an error when scanning stagehands (such as bounty hunting clues)
+> Optimized the scan interaction script
+
+^orange;-----     1.04g    -----^reset;
+> Added some proper text to the scan interaction handling quest (which should be hidden)
+> Added the new cultist mission to new SAIL
+> Added some mod missions to new SAIL
+> Removed some useless data in newSail/data.config
+
+^orange;-----     1.04f    -----^reset;
+> Fixed a bug regarding obsolete acronyms
+> Made adding new blueprints to already existing research possible without massive headaches
+> Research trees can now use custom images for their background
+> Fixed a bug where the research button would not disable when selecting affordable, yet unavailable research
+
+^orange;-----     1.04b    -----^reset;
+> SAIL no longer overlays AI chatter sounds
+
+^orange;-----     1.04a    -----^reset;
+> Fixed a bug that prevented using AI chips from Scripted SAIL
+> Non-existant chips will no longer prevent SAIL from working (This means you can safely uninstall Scripted SAIL and any AI chip mods)
+
+^orange;-----     1.04     -----^reset;
+> Removed a log print in the music player
+> Fixed music player missing particles after its reloaded while playin
+==========================================================================================
+SRC /_FUversioning.config
+{
+"version" : "Version 6.5.8",
+"changelog" : "
+
+^orange;Official Wiki^reset;: frackinuniverse.miraheze.org^reset;
+
+^cyan;6.5.8^reset;
+------------------
+- fixed missing nil check in statwindow lua.
+- added shortest reload SFX to supported weapons when weapon is drawn, to indicate it is ready to fire.
+- spawnbydamage code (used by bandraflora) now summons on the same team as the summoner. 
+- added button to SAIL misc menu to queue a recheck of known research
+- extended weather message timeout to 5 minutes. 
+- added a tranq pistol. cari sells it.
+- halved pet summoner cast time to 1.5s.
+- moved 2 powered extractors to power station 'power consumers' tab
+- moved research computers to power station 'power consumers' tab.
+- added 'med brochure' button to medical stations, which gives a codex that shows med station buff information
+- replaced [e] in med station buffs with Enhancement
+- hivemind no longer passively drains hp, fires faster (0.5s) and drains 1.25% hp per hit, dealing 2.5% max hp per hit, modified by half of DMG% (unchanged), added piercing, and it now prioritizes targets that havent been hit recently.
+- updated buff information for hivemind to reflect the above, as well as indicate the beestings it inflicts.
+- fixed capture bot highlight targetting everyone and everything, instead of just valid capturable targets.
+- added homing to capture bot pods.
+- fixed capture bot damage+stun pulse hitting uncapturable monsters.
+- Capture Bot has been nerfed - it was super-overperforming. It no longer overrides health for all creatures in range, nor a 10 second stun, nor does the fired pod.
+- added Mega Capture Bot, which now has the stun feature. It is far more expensive, and ultra-luxury.
+
+^cyan;6.5.7^reset;
+------------------
+- fixed compatibility with modded flipslash abilities and other playermodel rotators. the weapon should now rotate with the player.
+- missing silverorb image for the magnorbs has been added.
+- extraction and research are no longer extraction outputs
+- sprite updates for numerous monsters that have been sorely needed for quite some time! Thanks to LazyLizard/lucaptlr for the contributions and fantastic work. The following creatures have new looks: War Bot, Dark Metroid, EyeBaht, Fear Moth, Black Bat, Toxic Fly, Ghast, Ocumera, Caterpillar, Fire Crab, King Snake, Rat Thing, Head Crab, Shadow Hound, Rotter, Sulphur Troll, Ice Troll, and more may be coming soon!
+* corrected an issue with the fridge slot on the Manufacturing Station not properly cooling
+
+^cyan;6.5.6^reset;
+------------------
+- hardened transferutil and excavatorcommon script to address uninits (ship grabber issues)
+- corrected some centrifuge data
+- 2 skittles effects now blocked by special status immunity 
+- all damage status effects now respect specialstatusimmunity
+- swapped null to nil in lua for xStarbound/osb compatibility
+- swaps a text description in a Slime tech to improve clarity of its function
+
+^cyan;6.5.5^re

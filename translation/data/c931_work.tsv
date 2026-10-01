@@ -1,0 +1,43 @@
+asset	field	en	ko	src
+/items/throwables/ccibomb.thrownitem	shortdescription	Impact Bomb		
+/items/throwables/ccibomb.thrownitem	description	A great way to blow stuff up. Detonates on impact!		
+/items/throwables/electricgasbomb.thrownitem	shortdescription	Ionic Bottle		
+/items/throwables/electricgasbomb.thrownitem	description	The gas in this bottle is highly charged.		
+/items/throwables/electricliquidbomb.thrownitem	shortdescription	Ionic Vial		
+/items/throwables/electricliquidbomb.thrownitem	description	The liquid in this bottle is highly charged.		
+/items/throwables/electricsolidbomb.thrownitem	shortdescription	Ionic Marble		
+/items/throwables/electricsolidbomb.thrownitem	description	Compressed static cell, reinforced with extra glass. Glows an electric purple!		
+/items/throwables/electricstickybomb.thrownitem	shortdescription	Sticky Ionic Marble		
+/items/throwables/electricstickybomb.thrownitem	description	Compressed static cell, reinforced with extra glass. Glows an electric purple and sticks to surfaces!		
+/items/throwables/firegasbomb.thrownitem	shortdescription	Thermic Bottle		
+/items/throwables/firegasbomb.thrownitem	description	The gas in this bottle is extremely combustable.		
+/items/throwables/fireliquidbomb.thrownitem	shortdescription	Thermic Vial		
+/items/throwables/fireliquidbomb.thrownitem	description	The liquid in this vial is extremely combustable.		
+/items/throwables/firesolidbomb.thrownitem	shortdescription	Thermic Marble		
+/items/throwables/firesolidbomb.thrownitem	description	Compressed scorched core, reinforced with extra glass. Glows a firey orange!		
+/items/throwables/firestickybomb.thrownitem	shortdescription	Sticky Thermic Marble		
+/items/throwables/firestickybomb.thrownitem	description	Compressed scorched core, reinforced with extra glass. Glows a firey orange and sticks to surfaces!		
+/items/throwables/healbomb.thrownitem	shortdescription	Healing Bottle		
+/items/throwables/healbomb.thrownitem	description	The gas in this bottle is surprisingly refreshing.		
+/items/throwables/icegasbomb.thrownitem	shortdescription	Frosty Bottle		
+/items/throwables/icegasbomb.thrownitem	description	The gas in this bottle is extremely cold.		
+/items/throwables/iceliquidbomb.thrownitem	shortdescription	Frosty Vial		
+/items/throwables/iceliquidbomb.thrownitem	description	The liquid in this vial is extremely cold.		
+/items/throwables/icesolidbomb.thrownitem	shortdescription	Frosty Marble		
+/items/throwables/icesolidbomb.thrownitem	description	Compressed cryonic extract, reinforced with extra glass. Glows an icy blue!		
+/items/throwables/icestickybomb.thrownitem	shortdescription	Sticky Frosty Marble		
+/items/throwables/icestickybomb.thrownitem	description	Compressed cryonic extract, reinforced with extra glass. Glows an icy blue and sticks to surfaces!		
+/items/throwables/jumpbomb.thrownitem	shortdescription	Acrobatic Bottle		
+/items/throwables/jumpbomb.thrownitem	description	The gas in this bottle is surprisingly invigorating.		
+/items/throwables/poisongasbomb.thrownitem	shortdescription	Toxic Bottle		
+/items/throwables/poisongasbomb.thrownitem	description	The gas in this bottle is highly poisonous.		
+/items/throwables/poisonliquidbomb.thrownitem	shortdescription	Toxic Vial		
+/items/throwables/poisonliquidbomb.thrownitem	description	The liquid in this vial is highly poisonous.		
+/items/throwables/poisonsolidbomb.thrownitem	shortdescription	Toxic Marble		
+/items/throwables/poisonsolidbomb.thrownitem	description	Compressed venom sample, reinforced with extra glass. Glows a poisonous green!		
+/items/throwables/poisonstickybomb.thrownitem	shortdescription	Sticky Toxic Marble		
+/items/throwables/poisonstickybomb.thrownitem	description	Compressed venom sample, reinforced with extra glass. Glows a poisonous green and sticks to surfaces!		
+/items/throwables/runbomb.thrownitem	shortdescription	Athletic Bottle		
+/items/throwables/runbomb.thrownitem	description	The gas in this bottle is totally not steroidal based.		
+/objects/crafting/concoctionsstation/concoctionsstation.object	description	Craft weaponized bottles of colorful liquid!	형형색색의 액체가 담긴 무기화된 병을 제작하세요!	reuse
+/objects/crafting/concoctionsstation/concoctionsstation.object	shortdescription	^orange;Concoctions Station^white;	^orange;조제대^white;	reuse

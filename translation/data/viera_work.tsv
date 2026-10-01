@@ -1,0 +1,890 @@
+asset	field	en	ko	src
+/items/armors/moogle/_misc/moogle-crystallanternstick/mooglemagiciteairaura.back	shortdescription	Crystal Air Aura	크리스탈 에어 오라	
+/items/armors/moogle/_misc/moogle-crystallanternstick/mooglemagiciteairaura.back	description	The Magicite within provides air and light to show you the way.	안에 든 마기사이트가 길을 밝히는 공기와 빛을 제공한다.	
+/items/armors/moogle/_misc/moogle-crystallanternstick/mooglemagicitecoolingaura.back	shortdescription	Crystal Balance Aura	크리스탈 밸런스 오라	
+/items/armors/moogle/_misc/moogle-crystallanternstick/mooglemagicitecoolingaura.back	description	The Magicite within provides air, impurity filtering, temperature balance, and light to show you the way.	안에 든 마기사이트가 공기와 불순물 여과, 온도 균형, 그리고 길을 밝히는 빛을 제공한다.	
+/items/armors/moogle/_misc/moogle-crystallanternstick/mooglemagicitediffusionaura.back	shortdescription	Crystal Diffusion Aura	크리스탈 디퓨전 오라	
+/items/armors/moogle/_misc/moogle-crystallanternstick/mooglemagicitediffusionaura.back	description	The Magicite within provides air, impurity filtering and light to show you the way.	안에 든 마기사이트가 공기와 불순물 여과, 길을 밝히는 빛을 제공한다.	
+/items/armors/moogle/_misc/moogle-crystallanternstick/mooglemagiciteheatingaura.back	shortdescription	Crystal Heating Aura	크리스탈 히팅 오라	
+/items/armors/moogle/_misc/moogle-crystallanternstick/mooglemagiciteheatingaura.back	description	The Magicite within provides air, impurity filtering, warmth, and light to show you the way.	안에 든 마기사이트가 공기와 불순물 여과, 온기, 그리고 길을 밝히는 빛을 제공한다.	
+/items/armors/moogle/_misc/moogle-mininghat/mooglemininghat.head	shortdescription	Moogle Mining Cap	모글 광부 모자	
+/items/armors/moogle/_misc/moogle-mininghat/mooglemininghat.head	description	A Moogle miners hat, that has a light on it!	모글 광부의 모자로, 전등이 달려 있다!	
+/items/armors/moogle/moogle-jobarmors/moogle-animist/moogle-animist.head	description	The Animist draws strength from animals to provide support.	애니미스트는 동물들에게서 힘을 끌어와 지원을 제공한다.	
+/items/armors/moogle/moogle-jobarmors/moogle-animist/moogle-animist.head	shortdescription	Animist Cap	애니미스트 모자	
+/items/armors/moogle/moogle-jobarmors/moogle-blackmage/moogle-blackmage.head	description	The Black Mage wields fire, ice and lightning magicks in a powerful array.	흑마도사는 화염, 냉기, 번개 마법을 강력한 연계로 휘두른다.	
+/items/armors/moogle/moogle-jobarmors/moogle-blackmage/moogle-blackmage.head	shortdescription	Black Mage Hat	흑마도사 모자	
+/items/armors/moogle/moogle-jobarmors/moogle-chocoboknight/chocoboknightchest.chest	description	Chocobo Knights harness the innate abilities of their feathered mounts.	초코보 기사는 깃털 난 탈것의 타고난 능력을 활용한다.	
+/items/armors/moogle/moogle-jobarmors/moogle-chocoboknight/chocoboknightchest.chest	shortdescription	Chocobo Knight Tunic	초코보 기사 튜닉	
+/items/armors/moogle/moogle-jobarmors/moogle-chocoboknight/chocoboknighthead.head	description	Chocobo Knights harness the innate abilities of their feathered mounts.	초코보 기사는 깃털 난 탈것의 타고난 능력을 활용한다.	
+/items/armors/moogle/moogle-jobarmors/moogle-chocoboknight/chocoboknighthead.head	shortdescription	Chocobo Knight Helm	초코보 기사 투구	
+/items/armors/moogle/moogle-jobarmors/moogle-chocoboknight/chocoboknightlegs.legs	description	Chocobo Knights harness the innate abilities of their feathered mounts.	초코보 기사는 깃털 난 탈것의 타고난 능력을 활용한다.	
+/items/armors/moogle/moogle-jobarmors/moogle-chocoboknight/chocoboknightlegs.legs	shortdescription	Chocobo Knight Pants	초코보 기사 바지	
+/items/armors/moogle/moogle-jobarmors/moogle-flintlock/moogle-flintlock.head	description	The Flintlock supports their allies with magickally charged cannon actions.	플린트록은 마법이 충전된 포술 동작으로 아군을 지원한다.	
+/items/armors/moogle/moogle-jobarmors/moogle-flintlock/moogle-flintlock.head	shortdescription	Flintlock Cap	플린트록 모자	
+/items/armors/moogle/moogle-jobarmors/moogle-fusilier/moogle-fusilier.head	description	The Fusilier utilizes gunsmanship with the greatest skill.	퓨질리어는 최고의 솜씨로 총기술을 활용한다.	
+/items/armors/moogle/moogle-jobarmors/moogle-fusilier/moogle-fusilier.head	shortdescription	Fusilier Cap	퓨질리어 모자	
+/items/armors/moogle/moogle-jobarmors/moogle-juggler/moogle-juggler.head	description	The Juggler utilizes a variety of mayhem-making tactics to dazzle and destroy.	저글러는 다양한 혼란 유발 전술로 적을 현혹하고 파괴한다.	
+/items/armors/moogle/moogle-jobarmors/moogle-juggler/moogle-juggler.head	shortdescription	Juggler Hat	저글러 모자	
+/items/armors/moogle/moogle-jobarmors/moogle-moogleknight/moogle-moogleknight.head	description	The Moogle Knight stands equal to any Hume or Bangaa warrior in bravery, if not in height.	모글 기사는 키가 아니라면 용맹함에 있어 어떤 휴먼이나 반가 전사와도 견줄 만하다.	
+/items/armors/moogle/moogle-jobarmors/moogle-moogleknight/moogle-moogleknight.head	shortdescription	Moogle Knight Cowl	모글 기사 두건	
+/items/armors/moogle/moogle-jobarmors/moogle-thief/moogle-thief.head	description	The Thief is dexterous and nimble, excelling at stealing from unwary and evading blows.	도적은 민첩하고 날렵하여, 경계하지 않는 적에게서 훔치고 공격을 회피하는 데 능하다.	
+/items/armors/moogle/moogle-jobarmors/moogle-thief/moogle-thief.head	shortdescription	Thief Bandana	도적 반다나	
+/items/armors/moogle/moogle-jobarmors/moogle-timemage/moogle-timemage.head	description	The Time Mage is a master of unpredictable magick of time and space.	시간 마도사는 시간과 공간의 예측 불가능한 마법을 다루는 대가이다.	
+/items/armors/moogle/moogle-jobarmors/moogle-timemage/moogle-timemage.head	shortdescription	Time Mage Hat	시간 마도사 모자	
+/items/armors/moogle/moogle-jobarmors/moogle-tinker/moogle-tinker.head	description	The Tinker is one of many brands of machinist, waging battle with clockwork creations.	팅커는 태엽 장치 발명품으로 전투를 벌이는 여러 기계공 중 하나이다.	
+/items/armors/moogle/moogle-jobarmors/moogle-tinker/moogle-tinker.head	shortdescription	Tinker's Cap	팅커의 모자	
+/items/armors/moogle/moogle-specialityarmors/moogle-freelancer/freelancer1/moogle_freelancer1.chest	shortdescription	Moogle Blouse	모글 블라우스	
+/items/armors/moogle/moogle-specialityarmors/moogle-freelancer/freelancer1/moogle_freelancer1.chest	description	Comfortable vestments of Moogle design.	모글 디자인의 편안한 의복.	
+/items/armors/moogle/moogle-specialityarmors/moogle-freelancer/freelancer1/moogle_freelancer1.head	shortdescription	Moogle Pointed Cap	모글 뾰족 모자	
+/items/armors/moogle/moogle-specialityarmors/moogle-freelancer/freelancer1/moogle_freelancer1.head	description	A pointed cap of Moogle design.	모글 디자인의 뾰족 모자.	
+/items/armors/moogle/moogle-specialityarmors/moogle-freelancer/freelancer1/moogle_freelancer1.legs	shortdescription	Moogle Trousers	모글 바지	
+/items/armors/moogle/moogle-specialityarmors/moogle-freelancer/freelancer1/moogle_freelancer1.legs	description	Comfortable vestments of Moogle design.	모글 디자인의 편안한 의복.	
+/items/armors/moogle/moogle-specialityarmors/moogle-freelancer/freelancer2/moogle_freelancer2.chest	shortdescription	Moogle Mechanic Jumpsuit	모글 정비공 점프슈트	
+/items/armors/moogle/moogle-specialityarmors/moogle-freelancer/freelancer2/moogle_freelancer2.chest	description	Comfortable jumpsuit typically worn by Moogle mechanics.	모글 정비공들이 주로 입는 편안한 점프슈트.	
+/items/armors/moogle/moogle-specialityarmors/moogle-freelancer/freelancer2/moogle_freelancer2.head	shortdescription	Moogle Mechanic Cap	모글 정비공 모자	
+/items/armors/moogle/moogle-specialityarmors/moogle-freelancer/freelancer2/moogle_freelancer2.head	description	A headwrap typically worn by Moogle mechanics.	모글 정비공들이 주로 쓰는 머리 두건.	
+/items/armors/moogle/moogle-specialityarmors/moogle-freelancer/freelancer2/moogle_freelancer2.legs	shortdescription	Moogle Mechanic Jumpsuit	모글 정비공 점프슈트	
+/items/armors/moogle/moogle-specialityarmors/moogle-freelancer/freelancer2/moogle_freelancer2.legs	description	Comfortable jumpsuit typically worn by Moogle mechanics.	모글 정비공들이 주로 입는 편안한 점프슈트.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier1/moogletier1.chest	shortdescription	Tinkerkin Breastplate	팅커킨 흉갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier1/moogletier1.chest	description	Iron breastplate and tabard of Moogle design.	모글 디자인의 철제 흉갑과 슈르코트.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier1/moogletier1.head	shortdescription	Tinkerkin Helmet	팅커킨 투구	
+/items/armors/moogle/moogle-tierarmors/moogle-tier1/moogletier1.head	description	Iron helmet of Moogle design.	모글 디자인의 철제 투구.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier1/moogletier1.legs	shortdescription	Tinkerkin Greaves	팅커킨 각갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier1/moogletier1.legs	description	Iron and leather leg armor of Moogle design.	모글 디자인의 철과 가죽 다리 갑옷.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier2/moogletier2.chest	shortdescription	Gadgeteer Breastplate	가제티어 흉갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier2/moogletier2.chest	description	Tungsten breastplate of Moogle design.	모글 디자인의 텅스텐 흉갑.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier2/moogletier2.head	shortdescription	Gadgeteer Helmet	가제티어 투구	
+/items/armors/moogle/moogle-tierarmors/moogle-tier2/moogletier2.head	description	Tungsten helmet of Moogle design.	모글 디자인의 텅스텐 투구.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier2/moogletier2.legs	shortdescription	Gadgeteer Greaves	가제티어 각갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier2/moogletier2.legs	description	Tungsten leg armor and jodhpurs of Moogle design.	모글 디자인의 텅스텐 다리 갑옷과 조드퍼즈.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier3/moogletier3.chest	shortdescription	Innovator Breastplate	이노베이터 흉갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier3/moogletier3.chest	description	Titanium breastplate and pauldrons of Moogle design.	모글 디자인의 티타늄 흉갑과 어깨갑옷.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier3/moogletier3.head	shortdescription	Innovator Helmet	이노베이터 투구	
+/items/armors/moogle/moogle-tierarmors/moogle-tier3/moogletier3.head	description	Titanium helmet of Moogle design.	모글 디자인의 티타늄 투구.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier3/moogletier3.legs	shortdescription	Innovator Greaves	이노베이터 각갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier3/moogletier3.legs	description	Titanium leg armor of Moogle design.	모글 디자인의 티타늄 다리 갑옷.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier4/moogletier4.chest	shortdescription	Artificer Breastplate	아티피서 흉갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier4/moogletier4.chest	description	Durasteel breastplate of Moogle design.	모글 디자인의 듀라스틸 흉갑.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier4/moogletier4.head	shortdescription	Artificer Helmet	아티피서 투구	
+/items/armors/moogle/moogle-tierarmors/moogle-tier4/moogletier4.head	description	Durasteel helmet and targeting goggles of Moogle design.	모글 디자인의 듀라스틸 투구와 조준 고글.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier4/moogletier4.legs	shortdescription	Artificer Greaves	아티피서 각갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier4/moogletier4.legs	description	Durasteel leg armor of Moogle design.	모글 디자인의 듀라스틸 다리 갑옷.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/accelerator/moogletier5accelerator.chest	shortdescription	Aetherweaver Breastplate	에테르위버 흉갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/accelerator/moogletier5accelerator.chest	description	Aegisalt breastplate of Moogle design.	모글 디자인의 에지솔트 흉갑.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/accelerator/moogletier5accelerator.head	shortdescription	Aetherweaver Helmet	에테르위버 투구	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/accelerator/moogletier5accelerator.head	description	Aegisalt helmet with targeting goggles of Moogle design.	모글 디자인의 조준 고글 달린 에지솔트 투구.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/accelerator/moogletier5accelerator.legs	shortdescription	Aetherweaver Greaves	에테르위버 각갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/accelerator/moogletier5accelerator.legs	description	Aegisalt leg armor of Moogle design.	모글 디자인의 에지솔트 다리 갑옷.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/manipulator/moogletier5manipulator.chest	shortdescription	Gearspinner Breastplate	기어스피너 흉갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/manipulator/moogletier5manipulator.chest	description	Ferozium breastplate of Moogle design.	모글 디자인의 페로지움 흉갑.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/manipulator/moogletier5manipulator.head	shortdescription	Gearspinner Helmet	기어스피너 투구	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/manipulator/moogletier5manipulator.head	description	Ferozium helmet with tactical goggles of Moogle design.	모글 디자인의 전술 고글 달린 페로지움 투구.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/manipulator/moogletier5manipulator.legs	shortdescription	Gearspinner Greaves	기어스피너 각갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/manipulator/moogletier5manipulator.legs	description	Ferozium leg armor of Moogle design.	모글 디자인의 페로지움 다리 갑옷.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/separator/moogletier5separator.chest	shortdescription	Puffguard Breastplate	퍼프가드 흉갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/separator/moogletier5separator.chest	description	Violium breastplate of Moogle design.	모글 디자인의 바이올륨 흉갑.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/separator/moogletier5separator.head	shortdescription	Puffguard Helmet	퍼프가드 투구	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/separator/moogletier5separator.head	description	Violium helmet and visor of Moogle design.	모글 디자인의 바이올륨 투구와 바이저.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/separator/moogletier5separator.legs	shortdescription	Puffguard Greaves	퍼프가드 각갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier5/separator/moogletier5separator.legs	description	Violium leg armor of Moogle design.	모글 디자인의 바이올륨 다리 갑옷.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/accelerator/moogletier6accelerator.chest	shortdescription	Mogineer Breastplate	모지니어 흉갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/accelerator/moogletier6accelerator.chest	description	Aegisalt and Solarium breastplate of Moogle design.	모글 디자인의 에지솔트와 솔라리움 흉갑.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/accelerator/moogletier6accelerator.head	shortdescription	Mogineer Helmet	모지니어 투구	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/accelerator/moogletier6accelerator.head	description	Aegisalt and Solarium hooded helmet with targeting visor of Moogle design.	모글 디자인의 조준 바이저 달린 에지솔트와 솔라리움 두건 투구.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/accelerator/moogletier6accelerator.legs	shortdescription	Mogineer Greaves	모지니어 각갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/accelerator/moogletier6accelerator.legs	description	Aegisalt and Solarium leg armor of Moogle design.	모글 디자인의 에지솔트와 솔라리움 다리 갑옷.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/manipulator/moogletier6manipulator.chest	shortdescription	Spellwright Breastplate	스펠라이트 흉갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/manipulator/moogletier6manipulator.chest	description	Ferozium and Solarium breastplate of Moogle design.	모글 디자인의 페로지움과 솔라리움 흉갑.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/manipulator/moogletier6manipulator.head	shortdescription	Spellwright Helmet	스펠라이트 투구	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/manipulator/moogletier6manipulator.head	description	Ferozium and Solarium pointed helmet of Moogle design.	모글 디자인의 페로지움과 솔라리움 뾰족 투구.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/manipulator/moogletier6manipulator.legs	shortdescription	Spellwright Greaves	스펠라이트 각갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/manipulator/moogletier6manipulator.legs	description	Ferozium and Solarium legplates of Moogle design.	모글 디자인의 페로지움과 솔라리움 다리갑옷.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/separator/moogletier6separator.chest	shortdescription	Violium Moogle Chest Armor	바이올륨 모글 흉갑	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/separator/moogletier6separator.chest	description	Violium and Solarium breastplate and pauldrons of Moogle design.	모글 디자인의 바이올륨과 솔라리움 흉갑과 어깨갑옷.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/separator/moogletier6separator.head	shortdescription	Violium Moogle Helmet	바이올륨 모글 투구	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/separator/moogletier6separator.head	description	Violium and Solarium helmet of Moogle design.	모글 디자인의 바이올륨과 솔라리움 투구.	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/separator/moogletier6separator.legs	shortdescription	Violium Moogle Helmet	바이올륨 모글 투구	
+/items/armors/moogle/moogle-tierarmors/moogle-tier6/separator/moogletier6separator.legs	description	Violium and Solarium leg armor of Moogle design.	모글 디자인의 바이올륨과 솔라리움 다리 갑옷.	
+/items/armors/viera/_misc/viera-crystallanternstick/magiciteairaura.back	shortdescription	Crystal Air Aura	크리스탈 에어 오라	
+/items/armors/viera/_misc/viera-crystallanternstick/magiciteairaura.back	description	The Magicite within provides air and light to show you the way.	안에 든 마기사이트가 길을 밝히는 공기와 빛을 제공한다.	
+/items/armors/viera/_misc/viera-crystallanternstick/magicitecoolingaura.back	shortdescription	Crystal Balance Aura	크리스탈 밸런스 오라	
+/items/armors/viera/_misc/viera-crystallanternstick/magicitecoolingaura.back	description	The Magicite within provides air, impurity filtering, temperature balance, and light to show you the way.	안에 든 마기사이트가 공기와 불순물 여과, 온도 균형, 그리고 길을 밝히는 빛을 제공한다.	
+/items/armors/viera/_misc/viera-crystallanternstick/magicitediffusionaura.back	shortdescription	Crystal Diffusion Aura	크리스탈 디퓨전 오라	
+/items/armors/viera/_misc/viera-crystallanternstick/magicitediffusionaura.back	description	The Magicite within provides air, impurity filtering and light to show you the way.	안에 든 마기사이트가 공기와 불순물 여과, 길을 밝히는 빛을 제공한다.	
+/items/armors/viera/_misc/viera-crystallanternstick/magiciteheatingaura.back	shortdescription	Crystal Heating Aura	크리스탈 히팅 오라	
+/items/armors/viera/_misc/viera-crystallanternstick/magiciteheatingaura.back	description	The Magicite within provides air, impurity filtering, warmth, and light to show you the way.	안에 든 마기사이트가 공기와 불순물 여과, 온기, 그리고 길을 밝히는 빛을 제공한다.	
+/items/armors/viera/_misc/viera-original/viera-casual/casual.chest	shortdescription	Casual bodice	캐주얼 보디스	
+/items/armors/viera/_misc/viera-original/viera-casual/casual.chest	description	Casual garb for the relaxing Viera.	휴식 중인 비에라를 위한 편안한 의복.	
+/items/armors/viera/_misc/viera-original/viera-casual/casual.legs	shortdescription	Casual Leggings	캐주얼 레깅스	
+/items/armors/viera/_misc/viera-original/viera-casual/casual.legs	description	Casual legwear for the relaxing Viera.	휴식 중인 비에라를 위한 편안한 다리 의상.	
+/items/armors/viera/_misc/viera-original/viera-elementalist/elementalist.chest	shortdescription	Elementalist Wraps	엘레멘탈리스트 랩	
+/items/armors/viera/_misc/viera-original/viera-elementalist/elementalist.chest	description	The Elementalist calls on spirits of nature to lend her strength.	엘레멘탈리스트는 자연의 정령들에게 힘을 빌린다.	
+/items/armors/viera/_misc/viera-original/viera-elementalist/elementalist.head	shortdescription	Elementalist Mask	엘레멘탈리스트 마스크	
+/items/armors/viera/_misc/viera-original/viera-elementalist/elementalist.head	description	The Elementalist calls on spirits of nature to lend her strength.	엘레멘탈리스트는 자연의 정령들에게 힘을 빌린다.	
+/items/armors/viera/_misc/viera-original/viera-elementalist/elementalist.legs	shortdescription	Elementalist Skirt	엘레멘탈리스트 스커트	
+/items/armors/viera/_misc/viera-original/viera-elementalist/elementalist.legs	description	The Elementalist calls on spirits of nature to lend her strength.	엘레멘탈리스트는 자연의 정령들에게 힘을 빌린다.	
+/items/armors/viera/_misc/viera-original/viera-fencer/fencer.chest	shortdescription	Fencer Tunic	펜서 튜닉	
+/items/armors/viera/_misc/viera-original/viera-fencer/fencer.chest	description	The Fencer is adept to accurate, elegant combat with a rapier.	펜서는 레이피어로 정확하고 우아한 전투에 능하다.	
+/items/armors/viera/_misc/viera-original/viera-fencer/fencer.legs	shortdescription	Fencer Skirt	펜서 스커트	
+/items/armors/viera/_misc/viera-original/viera-fencer/fencer.legs	description	The Fencer is adept to accurate, elegant combat with a rapier.	펜서는 레이피어로 정확하고 우아한 전투에 능하다.	
+/items/armors/viera/_misc/viera-original/viera-redmage/redmage.chest	shortdescription	Red Mage Robe	적마도사 로브	
+/items/armors/viera/_misc/viera-original/viera-redmage/redmage.chest	description	The Red Mage uses Black, White, & Red Magick.	적마도사는 흑, 백, 적 마법을 사용한다.	
+/items/armors/viera/_misc/viera-original/viera-redmage/redmage.head	shortdescription	Red Mage Hat	적마도사 모자	
+/items/armors/viera/_misc/viera-original/viera-redmage/redmage.head	description	The Red Mage uses Black, White, & Red Magick.	적마도사는 흑, 백, 적 마법을 사용한다.	
+/items/armors/viera/_misc/viera-original/viera-redmage/redmage.legs	shortdescription	Red Mage Boots	적마도사 부츠	
+/items/armors/viera/_misc/viera-original/viera-redmage/redmage.legs	description	The Red Mage uses Black, White, & Red Magick.	적마도사는 흑, 백, 적 마법을 사용한다.	
+/items/armors/viera/_misc/viera-original/viera-whitemage/whitemage.chest	shortdescription	White Mage Robes	백마도사 로브	
+/items/armors/viera/_misc/viera-original/viera-whitemage/whitemage.chest	description	User of Holy magicks to heal and restore.	치유하고 회복시키는 신성 마법의 사용자.	
+/items/armors/viera/_misc/viera-original/viera-whitemage/whitemage.legs	shortdescription	White Mage Lower Robes	백마도사 하의 로브	
+/items/armors/viera/_misc/viera-original/viera-whitemage/whitemage.legs	description	User of Holy magicks to heal and restore.	치유하고 회복시키는 신성 마법의 사용자.	
+/items/armors/viera/_misc/viera-protectorate/vieraprotectorate.chest	shortdescription	Protectorate Shirt	보호국 셔츠	reuse
+/items/armors/viera/_misc/viera-protectorate/vieraprotectorate.chest	description	A standard issue Protectorate uniform altered to fit Viera.	비에라에게 맞게 개조된 표준 보급 보호국 제복.	
+/items/armors/viera/_misc/viera-protectorate/vieraprotectorate.legs	shortdescription	Protectorate Trousers	보호국 바지	reuse
+/items/armors/viera/_misc/viera-protectorate/vieraprotectorate.legs	description	A standard issue Protectorate uniform altered to fit Viera.	비에라에게 맞게 개조된 표준 보급 보호국 제복.	
+/items/armors/viera/_misc/viera-scarfwhite/vierascarfwhite.back	shortdescription	Viera Scarf	비에라 스카프	
+/items/armors/viera/_misc/viera-scarfwhite/vierascarfwhite.back	description	A scarf spun of silken fibers of the Wood.	숲의 비단 섬유로 짠 스카프.	
+/items/armors/viera/_misc/viera-wigs/fem1/fem1.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem1/fem1.head	description	A soft wig of Viera locks, cut in a short style.	짧은 스타일로 자른 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem10/fem10.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem10/fem10.head	description	A soft wig of Viera locks, with layered bangs and long hair pulled into a bun.	겹친 앞머리에 긴 머리를 올림머리로 묶은, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem11/fem11.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem11/fem11.head	description	A soft wig of Viera locks, with long bangs and hair pulled into a bun.	긴 앞머리에 머리를 올림머리로 묶은, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem12/fem12.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem12/fem12.head	description	A soft wig of Viera locks, with short layered bangs and a short ponytail.	짧은 겹친 앞머리에 짧은 포니테일이 있는, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem13/fem13.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem13/fem13.head	description	A soft wig of Viera locks, cut in a short, choppy style.	짧고 거친 스타일로 자른, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem14/fem14.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem14/fem14.head	description	A soft wig of Viera locks, with loose bangs. Perfect for a flowing ponytail.	늘어진 앞머리가 있는, 비에라 머리칼로 만든 부드러운 가발. 흘러내리는 포니테일에 완벽하다.	
+/items/armors/viera/_misc/viera-wigs/fem15/fem15.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem15/fem15.head	description	A soft wig of Viera locks, cut in a short style with bangs hugging the face.	얼굴을 감싸는 앞머리의 짧은 스타일로 자른, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem16/fem16.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem16/fem16.head	description	A soft wig of Viera locks, with straight bangs and long flowing hair.	곧은 앞머리에 길게 흘러내리는 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem17/fem17.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem17/fem17.head	description	A soft wig of Viera locks, with a short, spikey style and bangs.	짧고 삐친 스타일에 앞머리가 있는, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem18/fem18.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem18/fem18.head	description	A soft wig of Viera locks, with a short, spikey style, bangs, and flowing hair.	짧고 삐친 스타일에 앞머리와 흘러내리는 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem19/fem19.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem19/fem19.head	description	A soft wig of Viera locks, with wavy bangs and flowing, wavy hair.	물결 앞머리에 흘러내리는 물결 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem2/fem2.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem2/fem2.head	description	A soft wig of Viera locks, pulled into a high ponytail.	높은 포니테일로 묶은, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem20/fem20.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem20/fem20.head	description	A soft wig of Viera locks, with straight bangs. Perfect for a flowing ponytail look.	곧은 앞머리인, 비에라 머리칼로 만든 부드러운 가발. 흘러내리는 포니테일 룩에 완벽하다.	
+/items/armors/viera/_misc/viera-wigs/fem21/fem21.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem21/fem21.head	description	A soft wig of Viera locks, with long hair shaped into braid, and gathered bangs.	긴 머리를 땋은 머리로 빚고 앞머리를 모은, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem22/fem22.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem22/fem22.head	description	A soft wig of Viera locks with pulled back bangs and medium length hair.	뒤로 넘긴 앞머리에 중간 길이 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem23/fem23.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem23/fem23.head	description	A soft wig of Viera locks, with choppy bangs and short bob style.	거친 앞머리에 짧은 보브 스타일인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem24/fem24.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem24/fem24.head	description	A soft wig of Viera locks, with voluminous waves and straight bangs.	풍성한 웨이브에 곧은 앞머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem25/fem25.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem25/fem25.head	description	A soft wig of Viera locks, with choppy, layered bangs.	거친 겹친 앞머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem26/fem26.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem26/fem26.head	description	A soft wig of Viera locks, with layered bangs and a long braid.	겹친 앞머리에 긴 땋은 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem27/fem27.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem27/fem27.head	description	A soft wig of Viera locks, with layered bangs and choppy, medium length hair.	겹친 앞머리에 거친 중간 길이 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem28/fem28.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem28/fem28.head	description	A soft wig of Viera locks, with short bangs, and hair pulled into up-do.	짧은 앞머리에 머리를 올림머리로 묶은, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem29/fem29.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem29/fem29.head	description	A soft wig of Viera locks, cut in short, layered style with bangs.	앞머리가 있는 짧은 겹친 스타일로 자른, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem3/fem3.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem3/fem3.head	description	A soft wig of Viera locks, cut in loose flowing fashion.	느슨하게 흘러내리는 형태로 자른, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem30/fem30.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem30/fem30.head	description	A soft wig of Viera locks, with feathered bangs, and flowing hair.	깃털 앞머리에 흘러내리는 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem31/fem31.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem31/fem31.head	description	A soft wig of Viera locks, with layered bangs and hair pulled up.	겹친 앞머리에 머리를 올린, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem32/fem32.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem32/fem32.head	description	A soft wig of Viera locks, with feathered, medium length hair.	깃털 모양 중간 길이 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem33/fem33.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem33/fem33.head	description	A soft wig of Viera locks, with a short straight cut.	짧은 스트레이트 컷인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem34/fem34.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem34/fem34.head	description	A soft wig of Viera locks, with feathered bangs.	깃털 앞머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem35/fem35.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem35/fem35.head	description	A soft wig of Viera locks, with layered, medium length hair.	겹친 중간 길이 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem36/fem36.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem36/fem36.head	description	A soft wig of Viera locks, with straight bangs and medium length hair.	곧은 앞머리에 중간 길이 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem37/fem37.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem37/fem37.head	description	A soft wig of Viera locks, with a short cut style, and fluffy bangs.	짧은 컷 스타일에 풍성한 앞머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem38/fem38.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem38/fem38.head	description	A soft wig of Viera locks, with pulled back bangs and long, flowing hair.	뒤로 넘긴 앞머리에 길게 흘러내리는 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem39/fem39.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem39/fem39.head	description	A soft wig of Viera locks, with curled bangs and a short cut style.	컬 앞머리에 짧은 컷 스타일인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem4/fem4.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem4/fem4.head	description	A soft wig of Viera locks, cut in a short, layered style.	짧은 겹친 스타일로 자른, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem40/franwig.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem40/franwig.head	description	A soft wig of Viera locks, with layers of bangs and a pulled back up-do. Perfect for a flowing ponytail look.	겹겹 앞머리에 뒤로 넘긴 올림머리인, 비에라 머리칼로 만든 부드러운 가발. 흘러내리는 포니테일 룩에 완벽하다.	
+/items/armors/viera/_misc/viera-wigs/fem41/fem41.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem41/fem41.head	description	A soft wig of Viera locks, with a wavy, short cut and braided style.	물결 짧은 컷에 땋은 스타일인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem42/fem42.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem42/fem42.head	description	A soft wig of Viera locks, with wavy bangs and hair pulled into a bun.	물결 앞머리에 올림머리로 묶은, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem43/fem43.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem43/fem43.head	description	A soft wig of Viera locks, with a wavy, long cut and braided style.	물결 긴 컷에 땋은 스타일인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem44/fem44.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem44/fem44.head	description	A soft wig of Viera locks, with loose braid, curly bangs, and bun.	느슨한 땋은 머리에 곱슬 앞머리와 올림머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem45/fem45.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem45/fem45.head	description	A soft wig of Viera locks, with loose braid, curly bangs, and bun.	느슨한 땋은 머리에 곱슬 앞머리와 올림머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem46/fem46.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem46/fem46.head	description	A soft wig of Viera locks, with loose braid, curly bangs, and bun.	느슨한 땋은 머리에 곱슬 앞머리와 올림머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem47/fem47.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem47/fem47.head	description	A soft wig of Viera locks, with loose braid, curly bangs, and bun.	느슨한 땋은 머리에 곱슬 앞머리와 올림머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem48/fem48.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem48/fem48.head	description	A soft wig of Viera locks, with loose braid, curly bangs, and bun.	느슨한 땋은 머리에 곱슬 앞머리와 올림머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem49/fem49.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem49/fem49.head	description	A soft wig of Viera locks, with loose braid, curly bangs, and bun.	느슨한 땋은 머리에 곱슬 앞머리와 올림머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem5/fem5.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem5/fem5.head	description	A soft wig of Viera locks, cut in a layered, choppy style.	겹친 거친 스타일로 자른, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem50/fem50.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem50/fem50.head	description	A soft wig of Viera locks, with loose braid, curly bangs, and bun.	느슨한 땋은 머리에 곱슬 앞머리와 올림머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem51/fem51.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem51/fem51.head	description	A soft wig of Viera locks, with loose braid, curly bangs, and bun.	느슨한 땋은 머리에 곱슬 앞머리와 올림머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem6/fem6.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem6/fem6.head	description	A soft wig of Viera locks, with styled up-do bun, and bangs.	스타일링한 올림머리와 앞머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem7/fem7.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem7/fem7.head	description	A soft wig of Viera locks, with layered bangs and flowing hair.	겹친 앞머리에 흘러내리는 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem8/fem8.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem8/fem8.head	description	A soft wig of Viera locks, cut in a short, style with bangs.	앞머리가 있는 짧은 스타일로 자른, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/fem9/fem9.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/fem9/fem9.head	description	A soft wig of Viera locks, cut in a short, layered style, hugging the face.	얼굴을 감싸는 짧은 겹친 스타일로 자른, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/franwighelm/franwighelm.head	shortdescription	Viera Helmed Wig	비에라 투구 가발	
+/items/armors/viera/_misc/viera-wigs/franwighelm/franwighelm.head	description	A soft wig of Viera locks, with layers of bangs and a pulled back up-do. Perfect for a flowing ponytail look.	겹겹 앞머리에 뒤로 넘긴 올림머리인, 비에라 머리칼로 만든 부드러운 가발. 흘러내리는 포니테일 룩에 완벽하다.	
+/items/armors/viera/_misc/viera-wigs/male1/male1.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male1/male1.head	description	A soft wig of Viera locks, with short, layered bangs and medium length hair.	짧은 겹친 앞머리에 중간 길이 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/male10/male10.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male10/male10.head	description	A soft wig of Viera locks, with layered bangs and long, feathered hair.	겹친 앞머리에 긴 깃털 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/male11/male11.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male11/male11.head	description	A soft wig of Viera locks, with straight bangs and slouch bun.	곧은 앞머리에 늘어진 올림머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/male12/male12.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male12/male12.head	description	A soft wig of Viera locks, with wavy bangs and a long, tight braid.	물결 앞머리에 길고 단단한 땋은 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/male13/male13.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male13/male13.head	description	A soft wig of Viera locks, with short, styled bangs.	짧고 스타일링한 앞머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/male2/male2.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male2/male2.head	description	A soft wig of Viera locks, cut in a short style with feathered bangs.	깃털 앞머리의 짧은 스타일로 자른, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/male3/male3.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male3/male3.head	description	A soft wig of Viera locks, with a short cut, and layered bangs.	짧은 컷에 겹친 앞머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/male4/male4.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male4/male4.head	description	A lovely, Viera Wig.	사랑스러운 비에라 가발.	
+/items/armors/viera/_misc/viera-wigs/male5/male5.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male5/male5.head	description	A soft wig of Viera locks, with short, wavy, layered bangs.	짧고 물결 겹친 앞머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/male6/male6.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male6/male6.head	description	A soft wig of Viera locks, with a short wavy, layered cut.	짧은 물결 겹친 컷인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/male7/male7.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male7/male7.head	description	A soft wig of Viera locks, with a short wavy, layered cut.	짧은 물결 겹친 컷인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/male8/male8.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male8/male8.head	description	A soft wig of Viera locks, with feathered, layered hair.	깃털 겹친 머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_misc/viera-wigs/male9/male9.head	shortdescription	Viera Wig	비에라 가발	
+/items/armors/viera/_misc/viera-wigs/male9/male9.head	description	A soft wig of Viera locks, with a short, choppy style and flowy bangs.	짧고 거친 스타일에 흘러내리는 앞머리인, 비에라 머리칼로 만든 부드러운 가발.	
+/items/armors/viera/_npc/seonha-default/seonhadefault.back	shortdescription	Seonha's Cape	선하의 망토	
+/items/armors/viera/_npc/seonha-default/seonhadefault.back	description	Seonha's fur collared cape.	선하의 털 깃 달린 망토.	
+/items/armors/viera/_npc/seonha-default/seonhadefault.chest	shortdescription	Seonha's Vestments	선하의 의복	
+/items/armors/viera/_npc/seonha-default/seonhadefault.chest	description	Seonha's silver breastplate and gauntlets with fencer tabard.	선하의 은제 흉갑과 펜서 슈르코트가 딸린 건틀릿.	
+/items/armors/viera/_npc/seonha-default/seonhadefault.legs	shortdescription	Seonha's Legplates	선하의 각갑	
+/items/armors/viera/_npc/seonha-default/seonhadefault.legs	description	Seonha's silver legeplates.	선하의 은제 각갑.	
+/items/armors/viera/_npc/villagers/casual/femalecasual/femalecasualvillagerviera.chest	shortdescription	Casual bodice	캐주얼 보디스	
+/items/armors/viera/_npc/villagers/casual/femalecasual/femalecasualvillagerviera.chest	description	Casual garb for the relaxing Viera.	휴식 중인 비에라를 위한 편안한 의복.	
+/items/armors/viera/_npc/villagers/casual/femalecasual/femalecasualvillagerviera.legs	shortdescription	Casual Leggings	캐주얼 레깅스	
+/items/armors/viera/_npc/villagers/casual/femalecasual/femalecasualvillagerviera.legs	description	Casual legwear for the relaxing Viera.	휴식 중인 비에라를 위한 편안한 다리 의상.	
+/items/armors/viera/_npc/villagers/casual/malecasual/malecasualvillagerviera.chest	shortdescription	Casual bodice	캐주얼 보디스	
+/items/armors/viera/_npc/villagers/casual/malecasual/malecasualvillagerviera.chest	description	Casual garb for the relaxing Viera.	휴식 중인 비에라를 위한 편안한 의복.	
+/items/armors/viera/_npc/villagers/casual/malecasual/malecasualvillagerviera.legs	shortdescription	Casual Leggings	캐주얼 레깅스	
+/items/armors/viera/_npc/villagers/casual/malecasual/malecasualvillagerviera.legs	description	Casual legwear for the relaxing Viera.	휴식 중인 비에라를 위한 편안한 다리 의상.	
+/items/armors/viera/_npc/villagers/salvemaker/femalesalvemaker/femalesalvemaker.head	shortdescription	Salve Maker's Circlet	연고 제작자의 서클릿	
+/items/armors/viera/_npc/villagers/salvemaker/femalesalvemaker/femalesalvemaker.head	description	A blessed circlet crafted by a salve maker at the end of her apprenticeship.	견습 끝에 연고 제작자가 만든 축복받은 서클릿.	
+/items/armors/viera/_npc/villagers/salvemaker/femalesalvemaker/femalesalvemakervillager.chest	shortdescription	Salve Maker bodice	연고 제작자 보디스	
+/items/armors/viera/_npc/villagers/salvemaker/femalesalvemaker/femalesalvemakervillager.chest	description	Viera garb worn by those designated as the salve makers of the Wood.	숲의 연고 제작자로 지정된 이들이 입는 비에라 의복.	
+/items/armors/viera/_npc/villagers/salvemaker/femalesalvemaker/femalesalvemakervillager.legs	shortdescription	Salve Maker Leggings	연고 제작자 레깅스	
+/items/armors/viera/_npc/villagers/salvemaker/femalesalvemaker/femalesalvemakervillager.legs	description	Viera garb worn by those designated as the salve makers of the Wood.	숲의 연고 제작자로 지정된 이들이 입는 비에라 의복.	
+/items/armors/viera/_npc/villagers/salvemaker/malesalvemaker/malesalvemaker.chest	shortdescription	Salve Maker bodice	연고 제작자 보디스	
+/items/armors/viera/_npc/villagers/salvemaker/malesalvemaker/malesalvemaker.chest	description	Viera garb worn by those designated as the salve makers of the Wood.	숲의 연고 제작자로 지정된 이들이 입는 비에라 의복.	
+/items/armors/viera/_npc/villagers/salvemaker/malesalvemaker/malesalvemaker.legs	shortdescription	Salve Maker Leggings	연고 제작자 레깅스	
+/items/armors/viera/_npc/villagers/salvemaker/malesalvemaker/malesalvemaker.legs	description	Viera garb worn by those designated as the salve makers of the Wood.	숲의 연고 제작자로 지정된 이들이 입는 비에라 의복.	
+/items/armors/viera/_npc/villagers/salvemaker/salvemaker.chest	shortdescription	Salve Maker bodice	연고 제작자 보디스	
+/items/armors/viera/_npc/villagers/salvemaker/salvemaker.chest	description	Viera garb worn by those designated as the salve makers of the Wood.	숲의 연고 제작자로 지정된 이들이 입는 비에라 의복.	
+/items/armors/viera/_npc/villagers/salvemaker/salvemaker.head	shortdescription	Salve Maker's Circlet	연고 제작자의 서클릿	
+/items/armors/viera/_npc/villagers/salvemaker/salvemaker.head	description	A blessed circlet crafted by a salve maker at the end of her apprenticeship.	견습 끝에 연고 제작자가 만든 축복받은 서클릿.	
+/items/armors/viera/_npc/villagers/salvemaker/salvemaker.legs	shortdescription	Salve Maker Leggings	연고 제작자 레깅스	
+/items/armors/viera/_npc/villagers/salvemaker/salvemaker.legs	description	Viera garb worn by those designated as the salve makers of the Wood.	숲의 연고 제작자로 지정된 이들이 입는 비에라 의복.	
+/items/armors/viera/_npc/villagers/salvemaker/salvemakeralt.chest	shortdescription	Salve Maker bodice	연고 제작자 보디스	
+/items/armors/viera/_npc/villagers/salvemaker/salvemakeralt.chest	description	Viera garb worn by wayfaring Salve Makers.	길을 떠도는 연고 제작자들이 입는 비에라 의복.	
+/items/armors/viera/_npc/villagers/salvemaker/salvemakervillager.chest	shortdescription	Salve Maker bodice	연고 제작자 보디스	
+/items/armors/viera/_npc/villagers/salvemaker/salvemakervillager.chest	description	Viera garb worn by those designated as the salve makers of the Wood.	숲의 연고 제작자로 지정된 이들이 입는 비에라 의복.	
+/items/armors/viera/_npc/villagers/salvemaker/salvemakervillager.legs	shortdescription	Salve Maker Leggings	연고 제작자 레깅스	
+/items/armors/viera/_npc/villagers/salvemaker/salvemakervillager.legs	description	Viera garb worn by those designated as the salve makers of the Wood.	숲의 연고 제작자로 지정된 이들이 입는 비에라 의복.	
+/items/armors/viera/_npc/villagers/salvemaker/salvemakerwayfarer.chest	shortdescription	Salve Maker bodice	연고 제작자 보디스	
+/items/armors/viera/_npc/villagers/salvemaker/salvemakerwayfarer.chest	description	Viera garb worn by those designated as the salve makers of the Wood.	숲의 연고 제작자로 지정된 이들이 입는 비에라 의복.	
+/items/armors/viera/_npc/villagers/salvemaker/salvemakerwayfarer.legs	shortdescription	Salve Maker Leggings	연고 제작자 레깅스	
+/items/armors/viera/_npc/villagers/salvemaker/salvemakerwayfarer.legs	description	Viera garb worn by those designated as the salve makers of the Wood.	숲의 연고 제작자로 지정된 이들이 입는 비에라 의복.	
+/items/armors/viera/_npc/villagers/woodwarder/femalewoodwarder/femalewoodwarder.chest	shortdescription	Wood Warder's Chest	숲 수호자의 흉갑	
+/items/armors/viera/_npc/villagers/woodwarder/femalewoodwarder/femalewoodwarder.chest	description	Armor for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 갑옷.	
+/items/armors/viera/_npc/villagers/woodwarder/femalewoodwarder/femalewoodwarder.head	shortdescription	Wood Warder's Helmet	숲 수호자의 투구	
+/items/armors/viera/_npc/villagers/woodwarder/femalewoodwarder/femalewoodwarder.head	description	Helmet for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 투구.	
+/items/armors/viera/_npc/villagers/woodwarder/femalewoodwarder/femalewoodwarderlegs.legs	shortdescription	Wood Warder's Leggings	숲 수호자의 레깅스	
+/items/armors/viera/_npc/villagers/woodwarder/femalewoodwarder/femalewoodwarderlegs.legs	description	Armor for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 갑옷.	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder2.chest	shortdescription	Wood Warder's Chest	숲 수호자의 흉갑	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder2.chest	description	Armor for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 갑옷.	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder2.head	shortdescription	Wood Warder's Helmet	숲 수호자의 투구	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder2.head	description	Helmet for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 투구.	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder2.legs	shortdescription	Wood Warder's Leggings	숲 수호자의 레깅스	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder2.legs	description	Armor for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 갑옷.	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder3.chest	shortdescription	Wood Warder's Chest	숲 수호자의 흉갑	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder3.chest	description	Armor for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 갑옷.	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder3.head	shortdescription	Wood Warder's Helmet	숲 수호자의 투구	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder3.head	description	Helmet for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 투구.	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder3.legs	shortdescription	Wood Warder's Leggings	숲 수호자의 레깅스	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder3.legs	description	Armor for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 갑옷.	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder4.chest	shortdescription	Wood Warder's Chest	숲 수호자의 흉갑	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder4.chest	description	Armor for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 갑옷.	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder4.head	shortdescription	Wood Warder's Helmet	숲 수호자의 투구	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder4.head	description	Helmet for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 투구.	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder4.legs	shortdescription	Wood Warder's Leggings	숲 수호자의 레깅스	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarder4.legs	description	Armor for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 갑옷.	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarderwayfarer.chest	shortdescription	Wood Warder's Chest	숲 수호자의 흉갑	
+/items/armors/viera/_npc/villagers/woodwarder/woodwarderwayfarer.chest	description	Armor for those wayfarers designated as the warders of the Wood.	숲의 수호자로 지정된 나그네들을 위한 갑옷.	
+/items/armors/viera/viera-jobarmors/viera-archer/vieraarcher.chest	shortdescription	Archer's Tunic	궁사의 튜닉	
+/items/armors/viera/viera-jobarmors/viera-archer/vieraarcher.chest	description	The skills of the Archer do not call for brute force, but deadly accuracy to fell a foe.	궁사의 기술은 완력이 아니라 적을 쓰러뜨릴 치명적 정확도를 요한다.	
+/items/armors/viera/viera-jobarmors/viera-archer/vieraarcher.head	shortdescription	Archer's Headband	궁사의 머리띠	
+/items/armors/viera/viera-jobarmors/viera-archer/vieraarcher.head	description	The skills of the Archer do not call for brute force, but deadly accuracy to fell a foe.	궁사의 기술은 완력이 아니라 적을 쓰러뜨릴 치명적 정확도를 요한다.	
+/items/armors/viera/viera-jobarmors/viera-archer/vieraarcher.legs	shortdescription	Archer Skirt	궁사 스커트	
+/items/armors/viera/viera-jobarmors/viera-archer/vieraarcher.legs	description	The skills of the Archer do not call for brute force, but deadly accuracy to fell a foe.	궁사의 기술은 완력이 아니라 적을 쓰러뜨릴 치명적 정확도를 요한다.	
+/items/armors/viera/viera-jobarmors/viera-assassin/vieraassassin.chest	shortdescription	Assassin's Garb	암살자의 의복	
+/items/armors/viera/viera-jobarmors/viera-assassin/vieraassassin.chest	description	The finely honed skills of the assassin enable her to strike with deadly force.	섬세하게 갈고 닦은 암살자의 기술이 치명적인 타격을 가능하게 한다.	
+/items/armors/viera/viera-jobarmors/viera-assassin/vieraassassin.head	shortdescription	Assassin's Headwrap	암살자의 머리 두건	
+/items/armors/viera/viera-jobarmors/viera-assassin/vieraassassin.head	description	The finely honed skills of the assassin enable her to strike with deadly force.	섬세하게 갈고 닦은 암살자의 기술이 치명적인 타격을 가능하게 한다.	
+/items/armors/viera/viera-jobarmors/viera-assassin/vieraassassin.legs	shortdescription	Assassin Jodhpurs 	암살자 조드퍼즈 	
+/items/armors/viera/viera-jobarmors/viera-assassin/vieraassassin.legs	description	The finely honed skills of the assassin enable her to strike with deadly force.	섬세하게 갈고 닦은 암살자의 기술이 치명적인 타격을 가능하게 한다.	
+/items/armors/viera/viera-jobarmors/viera-dragoon/vieradragoon.chest	shortdescription	Dragoon Breastplate	드라군 흉갑	
+/items/armors/viera/viera-jobarmors/viera-dragoon/vieradragoon.chest	description	Dragoons practice spear techniques, and in battle they leap from above to strike at foes.	드라군은 창술을 수련하며, 전투에서는 위에서 뛰어내려 적을 공격한다.	
+/items/armors/viera/viera-jobarmors/viera-dragoon/vieradragoon.head	shortdescription	Dragoon Helmet	드라군 투구	
+/items/armors/viera/viera-jobarmors/viera-dragoon/vieradragoon.head	description	Dragoons practice spear techniques, and in battle they leap from above to strike at foes.	드라군은 창술을 수련하며, 전투에서는 위에서 뛰어내려 적을 공격한다.	
+/items/armors/viera/viera-jobarmors/viera-dragoon/vieradragoon.legs	shortdescription	Dragoon Legplates	드라군 각갑	
+/items/armors/viera/viera-jobarmors/viera-dragoon/vieradragoon.legs	description	Dragoons practice spear techniques, and in battle they leap from above to strike at foes.	드라군은 창술을 수련하며, 전투에서는 위에서 뛰어내려 적을 공격한다.	
+/items/armors/viera/viera-jobarmors/viera-dragoon/vieradragoonhighwind/vieradragoonhighwind.head	shortdescription	Highwind Helmet	하이윈드 투구	
+/items/armors/viera/viera-jobarmors/viera-dragoon/vieradragoonhighwind/vieradragoonhighwind.head	description	Dragoon helmet, from the renowned lineage of Highwind.	명망 있는 하이윈드 혈통의 드라군 투구.	
+/items/armors/viera/viera-jobarmors/viera-elementalist/vieraelementalist.chest	shortdescription	Elementalist Wraps	엘레멘탈리스트 랩	
+/items/armors/viera/viera-jobarmors/viera-elementalist/vieraelementalist.chest	description	The elementalist calls on spirits of nature to lend her strength.	엘레멘탈리스트는 자연의 정령들에게 힘을 빌린다.	
+/items/armors/viera/viera-jobarmors/viera-elementalist/vieraelementalist.head	shortdescription	Elementalist Mask	엘레멘탈리스트 마스크	
+/items/armors/viera/viera-jobarmors/viera-elementalist/vieraelementalist.head	description	The Elementalist calls on spirits of nature to lend her strength.	엘레멘탈리스트는 자연의 정령들에게 힘을 빌린다.	
+/items/armors/viera/viera-jobarmors/viera-elementalist/vieraelementalist.legs	shortdescription	Elementalist Skirt	엘레멘탈리스트 스커트	
+/items/armors/viera/viera-jobarmors/viera-elementalist/vieraelementalist.legs	description	The Elementalist calls on spirits of nature to lend her strength.	엘레멘탈리스트는 자연의 정령들에게 힘을 빌린다.	
+/items/armors/viera/viera-jobarmors/viera-fencer/vierafencer.chest	shortdescription	Fencer Tunic	펜서 튜닉	
+/items/armors/viera/viera-jobarmors/viera-fencer/vierafencer.chest	description	The Fencer fights with attacks that pierce even the hardest steel.	펜서는 가장 단단한 강철마저 꿰뚫는 공격으로 싸운다.	
+/items/armors/viera/viera-jobarmors/viera-fencer/vierafencer.head	shortdescription	Fencer's Circlet	펜서의 서클릿	
+/items/armors/viera/viera-jobarmors/viera-fencer/vierafencer.head	description	The Fencer fights with attacks that pierce even the hardest steel.	펜서는 가장 단단한 강철마저 꿰뚫는 공격으로 싸운다.	
+/items/armors/viera/viera-jobarmors/viera-fencer/vierafencer.legs	shortdescription	Fencer Skirt	펜서 스커트	
+/items/armors/viera/viera-jobarmors/viera-fencer/vierafencer.legs	description	The Fencer fights with attacks that pierce even the hardest steel.	펜서는 가장 단단한 강철마저 꿰뚫는 공격으로 싸운다.	
+/items/armors/viera/viera-jobarmors/viera-greenmage/vieragreenmage.chest	shortdescription	Green Mage Garb	녹마도사 의복	
+/items/armors/viera/viera-jobarmors/viera-greenmage/vieragreenmage.chest	description	The green mage lends support on the battlefield, shielding allies and crippling foes.	녹마도사는 아군을 보호하고 적을 무력화하며 전장을 지원한다.	
+/items/armors/viera/viera-jobarmors/viera-greenmage/vieragreenmage.head	shortdescription	Green Mage Beret	녹마도사 베레모	
+/items/armors/viera/viera-jobarmors/viera-greenmage/vieragreenmage.head	description	The green mage lends support on the battlefield, shielding allies and crippling foes.	녹마도사는 아군을 보호하고 적을 무력화하며 전장을 지원한다.	
+/items/armors/viera/viera-jobarmors/viera-greenmage/vieragreenmage.legs	shortdescription	Green Mage Boots	녹마도사 부츠	
+/items/armors/viera/viera-jobarmors/viera-greenmage/vieragreenmage.legs	description	The green mage lends support on the battlefield, shielding allies and crippling foes.	녹마도사는 아군을 보호하고 적을 무력화하며 전장을 지원한다.	
+/items/armors/viera/viera-jobarmors/viera-redmage/vieraredmage.chest	shortdescription	Red Mage Robe	적마도사 로브	
+/items/armors/viera/viera-jobarmors/viera-redmage/vieraredmage.chest	description	The Red Mage commands not only white and black magicks, but also those uniquely her own.	적마도사는 백 마법과 흑 마법뿐 아니라 자신만의 독특한 마법도 다룬다.	
+/items/armors/viera/viera-jobarmors/viera-redmage/vieraredmage.head	shortdescription	Red Mage Hat	적마도사 모자	
+/items/armors/viera/viera-jobarmors/viera-redmage/vieraredmage.head	description	The Red Mage commands not only white and black magicks, but also those uniquely her own.	적마도사는 백 마법과 흑 마법뿐 아니라 자신만의 독특한 마법도 다룬다.	
+/items/armors/viera/viera-jobarmors/viera-redmage/vieraredmage.legs	shortdescription	Red Mage Boots	적마도사 부츠	
+/items/armors/viera/viera-jobarmors/viera-redmage/vieraredmage.legs	description	The Red Mage commands not only white and black magicks, but also those uniquely her own.	적마도사는 백 마법과 흑 마법뿐 아니라 자신만의 독특한 마법도 다룬다.	
+/items/armors/viera/viera-jobarmors/viera-sniper/vierasniper.chest	shortdescription	Sniper's Tunic	스나이퍼의 튜닉	
+/items/armors/viera/viera-jobarmors/viera-sniper/vierasniper.chest	description	These elite hunters stalk their prey with immense greatbows.	이 정예 사냥꾼들은 거대한 대궁으로 먹잇감을 추적한다.	
+/items/armors/viera/viera-jobarmors/viera-sniper/vierasniper.head	shortdescription	Sniper's Headwrap	스나이퍼의 머리 두건	
+/items/armors/viera/viera-jobarmors/viera-sniper/vierasniper.head	description	These elite hunters stalk their prey with immense greatbows.	이 정예 사냥꾼들은 거대한 대궁으로 먹잇감을 추적한다.	
+/items/armors/viera/viera-jobarmors/viera-sniper/vierasniper.legs	shortdescription	Sniper's Duster	스나이퍼의 더스터	
+/items/armors/viera/viera-jobarmors/viera-sniper/vierasniper.legs	description	These elite hunters stalk their prey with immense greatbows.	이 정예 사냥꾼들은 거대한 대궁으로 먹잇감을 추적한다.	
+/items/armors/viera/viera-jobarmors/viera-spellblade/vieraspellblade.chest	shortdescription	Spellblade's Surcoat	스펠블레이드의 슈르코트	
+/items/armors/viera/viera-jobarmors/viera-spellblade/vieraspellblade.chest	description	Spellblades use their blade arts to damage and afflict foes with assorted maladies.	스펠블레이드는 검 예술로 적에게 피해를 입히고 온갖 질환을 걸게 한다.	
+/items/armors/viera/viera-jobarmors/viera-spellblade/vieraspellblade.head	shortdescription	Spellblade's Bicorne	스펠블레이드의 양각 모자	
+/items/armors/viera/viera-jobarmors/viera-spellblade/vieraspellblade.head	description	Spellblades use their blade arts to damage and afflict foes with assorted maladies.	스펠블레이드는 검 예술로 적에게 피해를 입히고 온갖 질환을 걸게 한다.	
+/items/armors/viera/viera-jobarmors/viera-spellblade/vieraspellblade.legs	shortdescription	Spellblade's Trousers	스펠블레이드의 바지	
+/items/armors/viera/viera-jobarmors/viera-spellblade/vieraspellblade.legs	description	Spellblades use their blade arts to damage and afflict foes with assorted maladies.	스펠블레이드는 검 예술로 적에게 피해를 입히고 온갖 질환을 걸게 한다.	
+/items/armors/viera/viera-jobarmors/viera-summoner/vierasummoner.back	shortdescription	Summoner's Cape	소환사의 망토	
+/items/armors/viera/viera-jobarmors/viera-summoner/vierasummoner.back	description	Summoners call powerful Espers from the world of illusion to fight at their side.	소환사는 환상의 세계에서 강력한 에스퍼를 불러와 곁에서 싸우게 한다.	
+/items/armors/viera/viera-jobarmors/viera-summoner/vierasummoner.chest	shortdescription	Summoner's Vestments	소환사의 의복	
+/items/armors/viera/viera-jobarmors/viera-summoner/vierasummoner.chest	description	Summoners call powerful Espers from the world of illusion to fight at their side.	소환사는 환상의 세계에서 강력한 에스퍼를 불러와 곁에서 싸우게 한다.	
+/items/armors/viera/viera-jobarmors/viera-summoner/vierasummoner.head	shortdescription	Summoner's Horn	소환사의 뿔	
+/items/armors/viera/viera-jobarmors/viera-summoner/vierasummoner.head	description	Summoners call powerful Espers from the world of illusion to fight at their side.	소환사는 환상의 세계에서 강력한 에스퍼를 불러와 곁에서 싸우게 한다.	
+/items/armors/viera/viera-jobarmors/viera-summoner/vierasummoner.legs	shortdescription	Summoner's Jodhpurs	소환사의 조드퍼즈	
+/items/armors/viera/viera-jobarmors/viera-summoner/vierasummoner.legs	description	Summoners call powerful Espers from the world of illusion to fight at their side.	소환사는 환상의 세계에서 강력한 에스퍼를 불러와 곁에서 싸우게 한다.	
+/items/armors/viera/viera-jobarmors/viera-whitemage/vierawhitemage.chest	shortdescription	White Mage's Robe	백마도사의 로브	
+/items/armors/viera/viera-jobarmors/viera-whitemage/vierawhitemage.chest	description	White mages use curing magicks to mend allies' wounds and restore them to health.	백마도사는 치유 마법으로 아군의 상처를 낫게 하고 건강을 회복시킨다.	
+/items/armors/viera/viera-jobarmors/viera-whitemage/vierawhitemage.head	shortdescription	White Mage's Hood	백마도사의 후드	
+/items/armors/viera/viera-jobarmors/viera-whitemage/vierawhitemage.head	description	White mages use curing magicks to mend allies' wounds and restore them to health.	백마도사는 치유 마법으로 아군의 상처를 낫게 하고 건강을 회복시킨다.	
+/items/armors/viera/viera-jobarmors/viera-whitemage/vierawhitemage.legs	shortdescription	White Mage's Trousers	백마도사의 바지	
+/items/armors/viera/viera-jobarmors/viera-whitemage/vierawhitemage.legs	description	White mages use curing magicks to mend allies' wounds and restore them to health.	백마도사는 치유 마법으로 아군의 상처를 낫게 하고 건강을 회복시킨다.	
+/items/armors/viera/viera-specialityarmors/viera-fran/franponytail.back	shortdescription	Flowing Ponytail	흘러내리는 포니테일	
+/items/armors/viera/viera-specialityarmors/viera-fran/franponytail.back	description	Long, flowing ponytail.	길고 흘러내리는 포니테일.	
+/items/armors/viera/viera-specialityarmors/viera-fran/vierafran.chest	shortdescription	Fran's Breastplate	프란의 흉갑	
+/items/armors/viera/viera-specialityarmors/viera-fran/vierafran.chest	description	Breastplate of the great Viera, Fran.	위대한 비에라, 프란의 흉갑.	
+/items/armors/viera/viera-specialityarmors/viera-fran/vierafran.head	shortdescription	Fran's helmet	프란의 투구	
+/items/armors/viera/viera-specialityarmors/viera-fran/vierafran.head	description	Helmet of the great Viera, Fran.	위대한 비에라, 프란의 투구.	
+/items/armors/viera/viera-specialityarmors/viera-fran/vierafran.legs	shortdescription	Fran's Legplates	프란의 각갑	
+/items/armors/viera/viera-specialityarmors/viera-fran/vierafran.legs	description	Legplates of the great Viera, Fran.	위대한 비에라, 프란의 각갑.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer1/freelancer1.chest	shortdescription	Treerunner Vestment	트리러너 의복	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer1/freelancer1.chest	description	Light leather and silken vestment.	가벼운 가죽과 비단 의복.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer1/freelancer1.legs	shortdescription	Treerunner Greaves	트리러너 각갑	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer1/freelancer1.legs	description	Leather longboots and silken panels.	가죽 장화와 비단 패널.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer2/freelancer2.chest	shortdescription	Woodtrekker Bodice	우드트레커 보디스	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer2/freelancer2.chest	description	Soft, silken bodice with arm platings.	팔 갑판이 달린 부드러운 비단 보디스.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer2/freelancer2.legs	shortdescription	Woodtrekker Leggings	우드트레커 레깅스	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer2/freelancer2.legs	description	Stitched leather leggings and embroidered silk skirt.	기워 만든 가죽 레깅스와 자수 비단 치마.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer3/freelancer3.chest	shortdescription	Sylvan Harness	실반 하니스	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer3/freelancer3.chest	description	Light armor platings with harness.	가벼운 갑판과 하니스.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer3/freelancer3.legs	shortdescription	Sylvan Legplates	실반 각갑	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer3/freelancer3.legs	description	Light armor platings with skirt panel.	치마 패널이 달린 가벼운 갑판.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer4/freelancer4.chest	shortdescription	Knothide Harness	나트하이드 하니스	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer4/freelancer4.chest	description	Soft leather harness.	부드러운 가죽 하니스.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer4/freelancer4.legs	shortdescription	Knothide Legplates	나트하이드 각갑	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer4/freelancer4.legs	description	Soft leather legplates.	부드러운 가죽 각갑.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer5/freelancer5.chest	shortdescription	Zamor Jerkin	자모르 저킨	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer5/freelancer5.chest	description	Light leather vest with linen wrap.	리넨 랩이 딸린 가벼운 가죽 조끼.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer5/freelancer5.legs	shortdescription	Zamor Greaves	자모르 각갑	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer5/freelancer5.legs	description	Light leather boots, belt, and linen skirts.	가벼운 가죽 부츠, 벨트, 리넨 치마.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer6/freelancer6.chest	shortdescription	Copper-Plated Breastplate	구리 도금 흉갑	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer6/freelancer6.chest	description	Second-hand copper-plated breastplate. For the financially-challenged Viera.	중고 구리 도금 흉갑. 주머니 사정이 빠듯한 비에라용.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer6/freelancer6.head	shortdescription	Plumed Copper Helm	깃털 장식 구리 투구	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer6/freelancer6.head	description	Second-hand plumed copper helmet. For the financially-challenged Viera.	중고 깃털 장식 구리 투구. 주머니 사정이 빠듯한 비에라용.	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer6/freelancer6.legs	shortdescription	Copper-Plated Legplates	구리 도금 각갑	
+/items/armors/viera/viera-specialityarmors/viera-freelancer/freelancer6/freelancer6.legs	description	Second-hand copper-plated Leggings. For the financially-challenged Viera.	중고 구리 도금 레깅스. 주머니 사정이 빠듯한 비에라용.	
+/items/armors/viera/viera-specialityarmors/viera-hunter/vierahunter.chest	shortdescription	Hunter's Jerkin	사냥꾼의 저킨	
+/items/armors/viera/viera-specialityarmors/viera-hunter/vierahunter.chest	description	Stitched leather breastplate with cotton shirting.	면 셔츠가 딸린 기워 만든 가죽 흉갑.	
+/items/armors/viera/viera-specialityarmors/viera-hunter/vierahunter.head	shortdescription	Hunter's Hat	사냥꾼의 모자	
+/items/armors/viera/viera-specialityarmors/viera-hunter/vierahunter.head	description	A stitched leather cap with a Phoenix feather.	불사조 깃털이 꽂힌 기워 만든 가죽 모자.	
+/items/armors/viera/viera-specialityarmors/viera-hunter/vierahunter.legs	shortdescription	Hunter's Legwear	사냥꾼의 다리 의상	
+/items/armors/viera/viera-specialityarmors/viera-hunter/vierahunter.legs	description	Thigh boots paired with cotton and leather bottoms.	면과 가죽 하의와 짝을 이룬 허벅지 부츠.	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-copperarmor/vieracopperarmor.chest	shortdescription	Viera Copper Breastplate	비에라 구리 흉갑	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-copperarmor/vieracopperarmor.chest	description	An experiment in Viera metallurgy - this stunning copper breastplate makes up for its bulk with extra defense.	비에라 야금술의 실험작 - 이 아름다운 구리 흉갑은 무거움을 추가 방어력으로 보상한다.	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-copperarmor/vieracopperarmor.head	shortdescription	Plumed Copper Helm	깃털 장식 구리 투구	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-copperarmor/vieracopperarmor.head	description	An experiment in Viera metallurgy - this stunning plumed helmet makes up for its bulk with extra defense.	비에라 야금술의 실험작 - 이 아름다운 깃털 장식 투구는 무거움을 추가 방어력으로 보상한다.	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-copperarmor/vieracopperarmor.legs	shortdescription	Viera Copper Legplates	비에라 구리 각갑	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-copperarmor/vieracopperarmor.legs	description	An experiment in Viera metallurgy - these stunning copper legplates make up for their bulk with extra defense.	비에라 야금술의 실험작 - 이 아름다운 구리 각갑은 무거움을 추가 방어력으로 보상한다.	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-diamondarmor/vieradiamondarmor.chest	shortdescription	Diamond Cuirass	다이아몬드 퀴라스	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-diamondarmor/vieradiamondarmor.chest	description	An experiment in Viera metallurgy - made of countless compressed diamonds, this stunning cuirass makes up for its bulk with extra defense.	비에라 야금술의 실험작 - 무수한 압축 다이아몬드로 만들어진 이 아름다운 퀴라스는 무거움을 추가 방어력으로 보상한다.	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-diamondarmor/vieradiamondarmor.head	shortdescription	Diamond Helmet	다이아몬드 투구	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-diamondarmor/vieradiamondarmor.head	description	An experiment in Viera metallurgy - made of countless compressed diamonds, this stunning helmet makes up for its bulk with extra defense.	비에라 야금술의 실험작 - 무수한 압축 다이아몬드로 만들어진 이 아름다운 투구는 무거움을 추가 방어력으로 보상한다.	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-diamondarmor/vieradiamondarmor.legs	shortdescription	Diamond Greaves	다이아몬드 각갑	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-diamondarmor/vieradiamondarmor.legs	description	An experiment in Viera metallurgy - made of countless compressed diamonds, these stunning greaves make up for their bulk with extra defense.	비에라 야금술의 실험작 - 무수한 압축 다이아몬드로 만들어진 이 아름다운 각갑은 무거움을 추가 방어력으로 보상한다.	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-goldarmor/vieragoldarmor.chest	shortdescription	Gold Chestplate	황금 흉갑	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-goldarmor/vieragoldarmor.chest	description	An experiment in Viera metallurgy - this stunning golden chestplate makes up for its bulk with extra defense. For the decadent.	비에라 야금술의 실험작 - 이 아름다운 황금 흉갑은 무거움을 추가 방어력으로 보상한다. 사치스러운 자를 위한 것.	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-goldarmor/vieragoldarmor.head	shortdescription	Gold Helmet	황금 투구	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-goldarmor/vieragoldarmor.head	description	An experiment in Viera metallurgy - this stunning golden helmet makes up for its bulk with extra defense. For the decadent.	비에라 야금술의 실험작 - 이 아름다운 황금 투구는 무거움을 추가 방어력으로 보상한다. 사치스러운 자를 위한 것.	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-goldarmor/vieragoldarmor.legs	shortdescription	Gold Greaves	황금 그리브	reuse
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-goldarmor/vieragoldarmor.legs	description	An experiment in Viera metallurgy - these stunning golden greaves make up for their bulk with extra defense. For the decadent.	비에라 야금술의 실험작 - 이 아름다운 황금 각갑은 무거움을 추가 방어력으로 보상한다. 사치스러운 자를 위한 것.	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-silverarmor/vierasilverarmor.chest	shortdescription	Silver Plated Cuirass	은 도금 퀴라스	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-silverarmor/vierasilverarmor.chest	description	An experiment in Viera metallurgy - this stunning silver cuirass makes up for its bulk with extra defense.	비에라 야금술의 실험작 - 이 아름다운 은제 퀴라스는 무거움을 추가 방어력으로 보상한다.	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-silverarmor/vierasilverarmor.head	shortdescription	Silver Winged Helmet	은 날개 투구	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-silverarmor/vierasilverarmor.head	description	An experiment in Viera metallurgy - this stunning winged helmet makes up for its bulk with extra defense.	비에라 야금술의 실험작 - 이 아름다운 날개 달린 투구는 무거움을 추가 방어력으로 보상한다.	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-silverarmor/vierasilverarmor.legs	shortdescription	Silver Plated Greaves	은 도금 각갑	
+/items/armors/viera/viera-specialityarmors/viera-polycrystalarmors/viera-silverarmor/vierasilverarmor.legs	description	An experiment in Viera metallurgy - these stunning silver greaves make up for their bulk with extra defense. Comes with battle skirt.	비에라 야금술의 실험작 - 이 아름다운 은제 각갑은 무거움을 추가 방어력으로 보상한다. 전투 치마 부속.	
+/items/armors/viera/viera-specialityarmors/viera-salvemaker/vierasalvemaker.chest	shortdescription	Salve Maker Bodice	연고 제작자 보디스	
+/items/armors/viera/viera-specialityarmors/viera-salvemaker/vierasalvemaker.chest	description	Viera garb worn by those designated as the salve makers of the Wood.	숲의 연고 제작자로 지정된 이들이 입는 비에라 의복.	
+/items/armors/viera/viera-specialityarmors/viera-salvemaker/vierasalvemaker.head	shortdescription	Salve Maker's Circlet	연고 제작자의 서클릿	
+/items/armors/viera/viera-specialityarmors/viera-salvemaker/vierasalvemaker.head	description	A blessed circlet crafted by a salve maker at the end of her apprenticeship.	견습 끝에 연고 제작자가 만든 축복받은 서클릿.	
+/items/armors/viera/viera-specialityarmors/viera-salvemaker/vierasalvemaker.legs	shortdescription	Salve Maker Leggings	연고 제작자 레깅스	
+/items/armors/viera/viera-specialityarmors/viera-salvemaker/vierasalvemaker.legs	description	Viera garb worn by those designated as the salve makers of the Wood.	숲의 연고 제작자로 지정된 이들이 입는 비에라 의복.	
+/items/armors/viera/viera-specialityarmors/viera-salvemaker/vierasalvemakeralt.chest	shortdescription	Salve Maker Bodice	연고 제작자 보디스	
+/items/armors/viera/viera-specialityarmors/viera-salvemaker/vierasalvemakeralt.chest	description	Viera garb worn by wayfaring Salve Makers.	길을 떠도는 연고 제작자들이 입는 비에라 의복.	
+/items/armors/viera/viera-specialityarmors/viera-salvemaker/vierasalvemakerwayfarer.chest	shortdescription	Salve Maker Bodice	연고 제작자 보디스	
+/items/armors/viera/viera-specialityarmors/viera-salvemaker/vierasalvemakerwayfarer.chest	description	Viera garb worn by wayfaring Salve Makers.	길을 떠도는 연고 제작자들이 입는 비에라 의복.	
+/items/armors/viera/viera-specialityarmors/viera-woodwarder/woodwarder.chest	shortdescription	Wood Warder's Chest	숲 수호자의 흉갑	
+/items/armors/viera/viera-specialityarmors/viera-woodwarder/woodwarder.chest	description	Armor for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 갑옷.	
+/items/armors/viera/viera-specialityarmors/viera-woodwarder/woodwarder.head	shortdescription	Wood Warder's Helmet	숲 수호자의 투구	
+/items/armors/viera/viera-specialityarmors/viera-woodwarder/woodwarder.head	description	Helmet for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 투구.	
+/items/armors/viera/viera-specialityarmors/viera-woodwarder/woodwarder.legs	shortdescription	Wood Warder's Leggings	숲 수호자의 레깅스	
+/items/armors/viera/viera-specialityarmors/viera-woodwarder/woodwarder.legs	description	Armor for those designated as the warders of the Wood.	숲의 수호자로 지정된 이들을 위한 갑옷.	
+/items/armors/viera/viera-tierarmors/viera-tier1/vieratier1.chest	shortdescription	Wayfarer's Armor	나그네의 갑옷	
+/items/armors/viera/viera-tierarmors/viera-tier1/vieratier1.chest	description	Iron armor and tunic of Viera design.	비에라 디자인의 철제 갑옷과 튜닉.	
+/items/armors/viera/viera-tierarmors/viera-tier1/vieratier1.head	shortdescription	Wayfarer's Helmet	나그네의 투구	
+/items/armors/viera/viera-tierarmors/viera-tier1/vieratier1.head	description	Iron helmet of Viera design.	비에라 디자인의 철제 투구.	
+/items/armors/viera/viera-tierarmors/viera-tier1/vieratier1.legs	shortdescription	Wayfarer's Legplates	나그네의 각갑	
+/items/armors/viera/viera-tierarmors/viera-tier1/vieratier1.legs	description	Iron legplates of Viera design.	비에라 디자인의 철제 각갑.	
+/items/armors/viera/viera-tierarmors/viera-tier2/vieratier2.chest	shortdescription	Journeyer's Breastplate	여행자의 흉갑	
+/items/armors/viera/viera-tierarmors/viera-tier2/vieratier2.chest	description	Tungsten breastplate and pauldrons of Viera design.	비에라 디자인의 텅스텐 흉갑과 어깨갑옷.	
+/items/armors/viera/viera-tierarmors/viera-tier2/vieratier2.head	shortdescription	Journeyer's Circlet	여행자의 서클릿	
+/items/armors/viera/viera-tierarmors/viera-tier2/vieratier2.head	description	A circlet of Viera design with layered leaves of Tungsten.	겹친 텅스텐 잎 장식의 비에라 디자인 서클릿.	
+/items/armors/viera/viera-tierarmors/viera-tier2/vieratier2.legs	shortdescription	Journeyer's Legplates	여행자의 각갑	
+/items/armors/viera/viera-tierarmors/viera-tier2/vieratier2.legs	description	Tungsten legplates with long duster of Viera design.	비에라 디자인의 긴 더스터가 딸린 텅스텐 각갑.	
+/items/armors/viera/viera-tierarmors/viera-tier3/vieratier3.chest	shortdescription	Voyager's Breastplate	항해자의 흉갑	
+/items/armors/viera/viera-tierarmors/viera-tier3/vieratier3.chest	description	Titanium breastplate and pauldrons of Viera design.	비에라 디자인의 티타늄 흉갑과 어깨갑옷.	
+/items/armors/viera/viera-tierarmors/viera-tier3/vieratier3.head	shortdescription	Voyager's Helmet	항해자의 투구	
+/items/armors/viera/viera-tierarmors/viera-tier3/vieratier3.head	description	Titanium, winged mask of Viera design.	비에라 디자인의 티타늄 날개 가면.	
+/items/armors/viera/viera-tierarmors/viera-tier3/vieratier3.legs	shortdescription	Voyager's Legplates	항해자의 각갑	
+/items/armors/viera/viera-tierarmors/viera-tier3/vieratier3.legs	description	Titanium legplates and pleated skirt of Viera design.	비에라 디자인의 티타늄 각갑과 주름 치마.	
+/items/armors/viera/viera-tierarmors/viera-tier4/vieratier4.chest	shortdescription	Pathfinder's Breastplate	개척자의 흉갑	
+/items/armors/viera/viera-tierarmors/viera-tier4/vieratier4.chest	description	Durasteel breastplate and pauldrons of Viera design.	비에라 디자인의 듀라스틸 흉갑과 어깨갑옷.	
+/items/armors/viera/viera-tierarmors/viera-tier4/vieratier4.head	shortdescription	Pathfinder's Helmet	개척자의 투구	
+/items/armors/viera/viera-tierarmors/viera-tier4/vieratier4.head	description	Durasteel helmet of Viera design.	비에라 디자인의 듀라스틸 투구.	
+/items/armors/viera/viera-tierarmors/viera-tier4/vieratier4.legs	shortdescription	Pathfinder's Legplates	개척자의 각갑	
+/items/armors/viera/viera-tierarmors/viera-tier4/vieratier4.legs	description	Durasteel legplates of Viera design.	비에라 디자인의 듀라스틸 각갑.	
+/items/armors/viera/viera-tierarmors/viera-tier5/accelerator/Headalt/vieratier5acceleratorhood.head	shortdescription	Worldrunner's Hooded Helm	세계 주행자의 두건 투구	
+/items/armors/viera/viera-tierarmors/viera-tier5/accelerator/Headalt/vieratier5acceleratorhood.head	description	Aegisalt helmet and hood of Viera design.	비에라 디자인의 에지솔트 투구와 후드.	
+/items/armors/viera/viera-tierarmors/viera-tier5/accelerator/vieratier5accelerator.chest	shortdescription	Worldrunner's Breastplate	세계 주행자의 흉갑	
+/items/armors/viera/viera-tierarmors/viera-tier5/accelerator/vieratier5accelerator.chest	description	Aegisalt breastplate and pauldrons of Viera design.	비에라 디자인의 에지솔트 흉갑과 어깨갑옷.	
+/items/armors/viera/viera-tierarmors/viera-tier5/accelerator/vieratier5accelerator.head	shortdescription	Worldrunner's Helmet	세계 주행자의 투구	
+/items/armors/viera/viera-tierarmors/viera-tier5/accelerator/vieratier5accelerator.head	description	Aegisalt helmet of Viera design.	비에라 디자인의 에지솔트 투구.	
+/items/armors/viera/viera-tierarmors/viera-tier5/accelerator/vieratier5accelerator.legs	shortdescription	Worldrunner Legplates	세계 주행자 각갑	
+/items/armors/viera/viera-tierarmors/viera-tier5/accelerator/vieratier5accelerator.legs	description	Aegisalt legplates and skirts of Viera design.	비에라 디자인의 에지솔트 각갑과 치마.	
+/items/armors/viera/viera-tierarmors/viera-tier5/manipulator/vieratier5manipulator.chest	shortdescription	Trailweaver's Breastplate	길잡이의 흉갑	
+/items/armors/viera/viera-tierarmors/viera-tier5/manipulator/vieratier5manipulator.chest	description	Ferozium breastplate and pauldrons of Viera design.	비에라 디자인의 페로지움 흉갑과 어깨갑옷.	
+/items/armors/viera/viera-tierarmors/viera-tier5/manipulator/vieratier5manipulator.head	shortdescription	Trailweaver's Helmet	길잡이의 투구	
+/items/armors/viera/viera-tierarmors/viera-tier5/manipulator/vieratier5manipulator.head	description	Ferozium horned helmet of Viera design.	비에라 디자인의 뿔 달린 페로지움 투구.	
+/items/armors/viera/viera-tierarmors/viera-tier5/manipulator/vieratier5manipulator.legs	shortdescription	Trailweaver Legplates	길잡이 각갑	
+/items/armors/viera/viera-tierarmors/viera-tier5/manipulator/vieratier5manipulator.legs	description	Ferozium legplates and skirts of Viera design.	비에라 디자인의 페로지움 각갑과 치마.	
+/items/armors/viera/viera-tierarmors/viera-tier5/separator/vieratier5separator.chest	shortdescription	Pathguard's Breastplate	길 지킴이의 흉갑	
+/items/armors/viera/viera-tierarmors/viera-tier5/separator/vieratier5separator.chest	description	Violium breastplate and pauldrons of Viera design.	비에라 디자인의 바이올륨 흉갑과 어깨갑옷.	
+/items/armors/viera/viera-tierarmors/viera-tier5/separator/vieratier5separator.head	shortdescription	Pathguard's Helmet	길 지킴이의 투구	
+/items/armors/viera/viera-tierarmors/viera-tier5/separator/vieratier5separator.head	description	Violium carapace helmet of Viera design.	비에라 디자인의 바이올륨 갑각 투구.	
+/items/armors/viera/viera-tierarmors/viera-tier5/separator/vieratier5separator.legs	shortdescription	Pathguard's Legplates	길 지킴이의 각갑	
+/items/armors/viera/viera-tierarmors/viera-tier5/separator/vieratier5separator.legs	description	Violium legplates and skirts of Viera design.	비에라 디자인의 바이올륨 각갑과 치마.	
+/items/armors/viera/viera-tierarmors/viera-tier6/accelerator/vieratier6accelerator.chest	shortdescription	Huntmaster's Breastplate	사냥대장의 흉갑	
+/items/armors/viera/viera-tierarmors/viera-tier6/accelerator/vieratier6accelerator.chest	description	Aegisalt and Solarium breastplate and pauldron of Viera design.	비에라 디자인의 에지솔트와 솔라리움 흉갑과 어깨갑옷.	
+/items/armors/viera/viera-tierarmors/viera-tier6/accelerator/vieratier6accelerator.head	shortdescription	Huntmaster's Helmet	사냥대장의 투구	
+/items/armors/viera/viera-tierarmors/viera-tier6/accelerator/vieratier6accelerator.head	description	Aegisalt and Solarium hooded helmet of Viera design.	비에라 디자인의 에지솔트와 솔라리움 두건 투구.	
+/items/armors/viera/viera-tierarmors/viera-tier6/accelerator/vieratier6accelerator.legs	shortdescription	Huntmaster's Legplates	사냥대장의 각갑	
+/items/armors/viera/viera-tierarmors/viera-tier6/accelerator/vieratier6accelerator.legs	description	Aegisalt and Solarium legplates and skirts of Viera design.	비에라 디자인의 에지솔트와 솔라리움 각갑과 치마.	
+/items/armors/viera/viera-tierarmors/viera-tier6/manipulator/vieratier6manipulator.chest	shortdescription	Waysage's Breastplate	길 현자의 흉갑	
+/items/armors/viera/viera-tierarmors/viera-tier6/manipulator/vieratier6manipulator.chest	description	Ferozium and Solarium breastplate and pauldrons of Viera design.	비에라 디자인의 페로지움과 솔라리움 흉갑과 어깨갑옷.	
+/items/armors/viera/viera-tierarmors/viera-tier6/manipulator/vieratier6manipulator.head	shortdescription	Waysage's Circlet	길 현자의 서클릿	
+/items/armors/viera/viera-tierarmors/viera-tier6/manipulator/vieratier6manipulator.head	description	Ferozium and Solarium leafed circlet of Viera design.	비에라 디자인의 잎 장식 페로지움과 솔라리움 서클릿.	
+/items/armors/viera/viera-tierarmors/viera-tier6/manipulator/vieratier6manipulator.legs	shortdescription	Waysage's Legplates	길 현자의 각갑	
+/items/armors/viera/viera-tierarmors/viera-tier6/manipulator/vieratier6manipulator.legs	description	Ferozium and Solarium legplates and skirts of Viera design.	비에라 디자인의 페로지움과 솔라리움 각갑과 치마.	
+/items/armors/viera/viera-tierarmors/viera-tier6/separator/vieratier6separator.chest	shortdescription	Phalanx Breastplate	팔랑크스 흉갑	
+/items/armors/viera/viera-tierarmors/viera-tier6/separator/vieratier6separator.chest	description	Violium and Solarium breastplate and pauldrons of Viera design.	비에라 디자인의 바이올륨과 솔라리움 흉갑과 어깨갑옷.	
+/items/armors/viera/viera-tierarmors/viera-tier6/separator/vieratier6separator.head	shortdescription	Phalanx Helmet	팔랑크스 투구	
+/items/armors/viera/viera-tierarmors/viera-tier6/separator/vieratier6separator.head	description	Violium and Solarium winged helmet of Viera design.	비에라 디자인의 날개 달린 바이올륨과 솔라리움 투구.	
+/items/armors/viera/viera-tierarmors/viera-tier6/separator/vieratier6separator.legs	shortdescription	Phalanx Legplates	팔랑크스 각갑	
+/items/armors/viera/viera-tierarmors/viera-tier6/separator/vieratier6separator.legs	description	Violium and Solarium legplates and skirts of Viera design.	비에라 디자인의 바이올륨과 솔라리움 각갑과 치마.	
+/items/generic/wigdyes/ashbrownwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/ashbrownwigdye.augment	shortdescription	Ash Brown Wig Dye	애시 브라운 가발 염료	
+/items/generic/wigdyes/ashgreywigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/ashgreywigdye.augment	shortdescription	Ash Grey Wig Dye	애시 그레이 가발 염료	
+/items/generic/wigdyes/azurewigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/azurewigdye.augment	shortdescription	Azure Wig Dye	애저 가발 염료	
+/items/generic/wigdyes/berrywigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/berrywigdye.augment	shortdescription	Berry Wig Dye	베리 가발 염료	
+/items/generic/wigdyes/blackwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/blackwigdye.augment	shortdescription	Black Wig Dye	블랙 가발 염료	
+/items/generic/wigdyes/blondewigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/blondewigdye.augment	shortdescription	Blonde Wig Dye	블론드 가발 염료	
+/items/generic/wigdyes/bluegreywigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/bluegreywigdye.augment	shortdescription	Blue Grey Wig Dye	블루 그레이 가발 염료	
+/items/generic/wigdyes/candypinkwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/candypinkwigdye.augment	shortdescription	Candy Pink Wig Dye	캔디 핑크 가발 염료	
+/items/generic/wigdyes/charcoalwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/charcoalwigdye.augment	shortdescription	Charcoal Wig Dye	차콜 가발 염료	
+/items/generic/wigdyes/cobaltwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/cobaltwigdye.augment	shortdescription	Cobalt Wig Dye	코발트 가발 염료	
+/items/generic/wigdyes/coralwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/coralwigdye.augment	shortdescription	Coral Wig Dye	코랄 가발 염료	
+/items/generic/wigdyes/creamblondewigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/creamblondewigdye.augment	shortdescription	Cream Blonde Wig Dye	크림 블론드 가발 염료	
+/items/generic/wigdyes/crimsonwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/crimsonwigdye.augment	shortdescription	Crimson Wig Dye	크림슨 가발 염료	
+/items/generic/wigdyes/crystalbluewigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/crystalbluewigdye.augment	shortdescription	Crystal Blue Wig Dye	크리스탈 블루 가발 염료	
+/items/generic/wigdyes/darkblondewigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/darkblondewigdye.augment	shortdescription	Dark Blonde Wig Dye	다크 블론드 가발 염료	
+/items/generic/wigdyes/darkbluewigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/darkbluewigdye.augment	shortdescription	Dark Blue Wig Dye	다크 블루 가발 염료	
+/items/generic/wigdyes/darkbrownwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/darkbrownwigdye.augment	shortdescription	Dark Brown Wig Dye	다크 브라운 가발 염료	
+/items/generic/wigdyes/emeraldgreenwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/emeraldgreenwigdye.augment	shortdescription	Emerald Green Wig Dye	에메랄드 그린 가발 염료	
+/items/generic/wigdyes/forestgreenwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/forestgreenwigdye.augment	shortdescription	Forest Green Wig Dye	포레스트 그린 가발 염료	
+/items/generic/wigdyes/gingerwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/gingerwigdye.augment	shortdescription	Ginger Wig Dye	진저 가발 염료	
+/items/generic/wigdyes/hotpinkwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/hotpinkwigdye.augment	shortdescription	Hot Pink Wig Dye	핫 핑크 가발 염료	
+/items/generic/wigdyes/lavenderwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/lavenderwigdye.augment	shortdescription	Lavender Wig Dye	라벤더 가발 염료	
+/items/generic/wigdyes/lightbrownwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/lightbrownwigdye.augment	shortdescription	Light Brown Wig Dye	라이트 브라운 가발 염료	
+/items/generic/wigdyes/lightgreywigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/lightgreywigdye.augment	shortdescription	Light Grey Wig Dye	라이트 그레이 가발 염료	
+/items/generic/wigdyes/mossgreenwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/mossgreenwigdye.augment	shortdescription	Moss Green Wig Dye	모스 그린 가발 염료	
+/items/generic/wigdyes/nutmegwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/nutmegwigdye.augment	shortdescription	Nutmeg Wig Dye	넛메그 가발 염료	
+/items/generic/wigdyes/paleblondewigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/paleblondewigdye.augment	shortdescription	Pale Blonde Wig Dye	페일 블론드 가발 염료	
+/items/generic/wigdyes/peachwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/peachwigdye.augment	shortdescription	Peach Wig Dye	피치 가발 염료	
+/items/generic/wigdyes/purplewigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/purplewigdye.augment	shortdescription	Purple Wig Dye	퍼플 가발 염료	
+/items/generic/wigdyes/rustyredwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/rustyredwigdye.augment	shortdescription	Rust Red Wig Dye	러스트 레드 가발 염료	
+/items/generic/wigdyes/seafoamwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/seafoamwigdye.augment	shortdescription	Seafoam Wig Dye	시폼 가발 염료	
+/items/generic/wigdyes/vierawhitewigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/vierawhitewigdye.augment	shortdescription	Viera White Wig Dye	비에라 화이트 가발 염료	
+/items/generic/wigdyes/violetwigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/violetwigdye.augment	shortdescription	Violet Wig Dye	바이올렛 가발 염료	
+/items/generic/wigdyes/whitewigdye.augment	description	This dye can be applied to Viera wigs/wig back items only.	이 염료는 비에라 가발/가발 뒷장식 아이템에만 적용할 수 있다.	
+/items/generic/wigdyes/whitewigdye.augment	shortdescription	White Wig Dye	화이트 가발 염료	
+/items/materials/angled.matitem	description	Vieran Whitewood with angled carving.	경사 조각이 있는 비에란 화이트우드.	reuse
+/items/materials/angled.matitem	shortdescription	Angled Whitewood	경사형 화이트우드	reuse
+/items/materials/carved.matitem	description	Carved Vieran whitewood.	조각된 비에란 화이트우드.	reuse
+/items/materials/carved.matitem	shortdescription	Carved Whitewood	조각된 화이트우드	reuse
+/items/materials/circular.matitem	description	Circular carvings adorn this wood.	이 목재에는 원형 조각이 장식되어 있습니다.	reuse
+/items/materials/circular.matitem	shortdescription	Circular Carving	원형 조각	reuse
+/items/materials/columnbase.matitem	description	Vieran mahogany column base.	비에란 마호가니 기둥 받침.	reuse
+/items/materials/columnbase.matitem	shortdescription	Column Base	기둥 받침	reuse
+/items/materials/columnbase1.matitem	description	Vieran mahogany column base.	비에란 마호가니 기둥 받침.	reuse
+/items/materials/columnbase1.matitem	shortdescription	Column Base II	기둥 받침 II	reuse
+/items/materials/curved.matitem	description	Curved carvings adorn this wood.	이 목재에는 곡선형 조각이 장식되어 있습니다.	reuse
+/items/materials/curved.matitem	shortdescription	Curved Carving	곡선형 조각	reuse
+/items/materials/dalmascanbrick.matitem	shortdescription	Dalmascan Brick	달마스칸 벽돌	reuse
+/items/materials/dalmascanbrick.matitem	description	Bricks formed using the techniques of molding sandstone.	사암을 성형하는 기법으로 만든 벽돌.	reuse
+/items/materials/dalmascanfence1.matitem	shortdescription	Dalmascan Stone Fence	달마스칸 돌 울타리	reuse
+/items/materials/dalmascanfence1.matitem	description	The ornate carvings of Dalmasca handed resonate still.	달마스카의 화려한 조각이 아직도 울림을 전한다.	reuse
+/items/materials/dalmascanfence2.matitem	shortdescription	Dalmascan Iron Fence	달마스칸 철제 울타리	reuse
+/items/materials/dalmascanfence2.matitem	description	Iron and marble combine to shape this curve-topped fence.	철과 대리석이 결합해 곡선 상단을 이루는 울타리입니다.	reuse
+/items/materials/dalmascanfence3.matitem	shortdescription	Dalmascan Iron Fence II	달마스칸 철제 울타리 II	reuse
+/items/materials/dalmascanfence3.matitem	description	A molded iron fence.	주조 철제 울타리입니다.	reuse
+/items/materials/dalmascanfence4.matitem	shortdescription	Dalmascan Iron Fence III	달마스칸 철제 울타리 III	reuse
+/items/materials/dalmascanfence4.matitem	description	A molded iron fence with spokes.	살대가 있는 주조 철제 울타리입니다.	reuse
+/items/materials/dalmascanfiligreestripe.matitem	shortdescription	Dalmascan Filigree	달마스칸 필리그리	reuse
+/items/materials/dalmascanfiligreestripe.matitem	description	Worn gold and painted stone create an ornate moulding.	낡은 금과 색칠된 돌이 화려한 몰딩을 만든다.	reuse
+/items/materials/dalmascanfiligreestripe2.matitem	shortdescription	Dalmascan Stripe Stone	달마스칸 줄무늬 돌	reuse
+/items/materials/dalmascanfiligreestripe2.matitem	description	Metalwork and colored stone.	금속 세공품과 색채석.	reuse
+/items/materials/dalmascangoldpatterns.matitem	shortdescription	Dalmascan Gold Patterns	달마스칸 금색 무늬	reuse
+/items/materials/dalmascangoldpatterns.matitem	description	Change color for different patterns.	다른 패턴 색 변경.	reuse
+/items/materials/dalmascanmarble.matitem	shortdescription	Dalmascan Marble	달마스칸 대리석	reuse
+/items/materials/dalmascanmarble.matitem	description	Finely smoothed marble.	매끄럽게 다듬어진 대리석.	reuse
+/items/materials/dalmascanmarbleedging.matitem	shortdescription	Dalmascan Marble Edge I	달마스칸 대리석 테두리 I	reuse
+/items/materials/dalmascanmarbleedging.matitem	description	Finely smoothed marble and metalwork.	정교 다듬 대리석과 금속공예.	reuse
+/items/materials/dalmascanmarbleedging2.matitem	shortdescription	Dalmascan Marble Edge II	달마스칸 대리석 테두리 II	reuse
+/items/materials/dalmascanmarbleedging2.matitem	description	Finely smoothed marble and metalwork.	정교 다듬 대리석과 금속공예.	reuse
+/items/materials/dalmascanplating1.matitem	shortdescription	Dalmascan Striped Plating	달마스칸 줄무늬 도금판	reuse
+/items/materials/dalmascanplating1.matitem	description	Colored stone and metalwork form this plating.	색 돌과 금속공예 판재.	reuse
+/items/materials/dalmascanplating2.matitem	shortdescription	Dalmascan Plating	달마스칸 도금판	reuse
+/items/materials/dalmascanplating2.matitem	description	Colored stone and metalwork form this plating.	색 돌과 금속공예 판재.	reuse
+/items/materials/dalmascanquadtile.matitem	shortdescription	Dalmascan Tile	달마스칸 타일	reuse
+/items/materials/dalmascanquadtile.matitem	description	Vibrantly colored tiles arranged on mortar.	선명한 색의 타일이 모르타르 위에 배열되어 있다.	reuse
+/items/materials/dalmascansilverpatterns.matitem	shortdescription	Dalmascan Silver Patterns	달마스칸 은색 무늬	reuse
+/items/materials/dalmascansilverpatterns.matitem	description	Change color for different patterns.	다른 패턴 색 변경.	reuse
+/items/materials/dalmascanstainedglass.matitem	shortdescription	Dalmascan Stained Glass	달마스칸 스테인드글라스	reuse
+/items/materials/dalmascanstainedglass.matitem	description	Colored stainedglass for ornate windows.	화려한 창문용 색 유리입니다.	reuse
+/items/materials/dalmascanstainedglass2.matitem	shortdescription	Dalmascan Multicolored Glass	달마스칸 다채색 유리	reuse
+/items/materials/dalmascanstainedglass2.matitem	description	Multicolored stainedglass on lattice for ornate windows.	화려한 창문을 위한 격자 위 다색 스테인드글라스.	reuse
+/items/materials/dalmascanstone.matitem	shortdescription	Dalmascan Smoothstone	달마스칸 매끈한 돌	reuse
+/items/materials/dalmascanstone.matitem	description	Sandstone smoothed, and colored in Dalmascan fashion.	매끄럽게 다듬고 달마스칸 양식으로 채색한 사암.	reuse
+/items/materials/dalmascanstonescallop.matitem	shortdescription	Dalmascan Scalloped Stone	달마스칸 스캘럽 스톤	reuse
+/items/materials/dalmascanstonescallop.matitem	description	Smooth sandstone, painted with scallop motif.	가리비 무늬를 칠한 매끄러운 사암.	reuse
+/items/materials/dalmascanstripe.matitem	description	Painted white stone with stripes.	줄무늬가 있는 흰색 칠 돌.	reuse
+/items/materials/dalmascanstripe.matitem	shortdescription	Striped Moulding	줄무늬 몰딩	reuse
+/items/materials/dalmascanstripe2.matitem	description	Painted white stone with stripes at edge.	가장자리에 줄무늬가 있는 흰색 칠 돌.	reuse
+/items/materials/dalmascanstripe2.matitem	shortdescription	Stripe Edge Stone	줄무늬 모서리 돌	reuse
+/items/materials/dalmascanthinbrick.matitem	shortdescription	Dalmascan Thin Brick	달마스칸 얇은 벽돌	reuse
+/items/materials/dalmascanthinbrick.matitem	description	Narrow bricks packed together on mortar.	모르타르로 다져 붙인 좁은 벽돌들.	reuse
+/items/materials/dalmascantwistplating.matitem	shortdescription	Dalmascan Twist Plate	달마스칸 트위스트 판	reuse
+/items/materials/dalmascantwistplating.matitem	description	Metals and stone create a twist motif.	금속과 돌이 꼬인 무늬를 이룬다.	reuse
+/items/materials/dalmascantwistplatingvert.matitem	shortdescription	Dalmascan Twist Plate II	달마스칸 트위스트 판 II	reuse
+/items/materials/dalmascantwistplatingvert.matitem	description	Metals and stone create a twist motif.	금속과 돌이 꼬인 무늬를 이룬다.	reuse
+/items/materials/dotted.matitem	description	Three spherical carvings on ochre wood.	황토색 나무에 구체 조각 세 개.	reuse
+/items/materials/dotted.matitem	shortdescription	Sphere Carvings	구체 조각	reuse
+/items/materials/dotted1.matitem	description	Vieran whitewood with circular carving.	원형 조각이 있는 비에란 화이트우드.	reuse
+/items/materials/dotted1.matitem	shortdescription	Circular Carving	원형 조각	reuse
+/items/materials/eithnefloralblock1.matitem	description	A bundle of fragrant flowers.	향기로운 꽃 한 다발.	reuse
+/items/materials/eithnefloralblock1.matitem	shortdescription	Flowers of the Wood	숲의 꽃	reuse
+/items/materials/flooring.matitem	description	Vieran mahogany flooring.	비에란 마호가니 마루.	reuse
+/items/materials/flooring.matitem	shortdescription	Mahogany Flooring	마호가니 바닥재	reuse
+/items/materials/flowered.matitem	description	Vieran mahogany with flower motif.	꽃 문양의 비에란 마호가니.	reuse
+/items/materials/flowered.matitem	shortdescription	Flower Motif	꽃 무늬	reuse
+/items/materials/fluted.matitem	description	Fluted carvings adorn this mahogany column.	마호가니 기둥 홈 조각 장식.	reuse
+/items/materials/fluted.matitem	shortdescription	Fluted Mahogany	홈무늬 마호가니	reuse
+/items/materials/fluted1.matitem	description	Fluted carvings adorn this mahogany column.	마호가니 기둥 홈 조각 장식.	reuse
+/items/materials/fluted1.matitem	shortdescription	Fluted Mahogany II	홈무늬 마호가니 II	reuse
+/items/materials/geometric.matitem	description	Geometric carving on ochre mahogany.	황토색 마호가니에 새긴 기하학 무늬입니다.	reuse
+/items/materials/geometric.matitem	shortdescription	Geometric Trim I	기하학 장식띠 I	reuse
+/items/materials/geometric2.matitem	description	Ochre painted mahogany geometric trim.	황토색으로 칠한 마호가니 기하학 트림.	reuse
+/items/materials/geometric2.matitem	shortdescription	Geometric Trim II	기하학 장식띠 II	reuse
+/items/materials/greenwordpastel1.matitem	description	The language of the Viera contained in symbols.	상징으로 담아낸 비에라의 언어.	reuse
+/items/materials/greenwordpastel1.matitem	shortdescription	The Green Word	녹색 언어	reuse
+/items/materials/intricateroof.matitem	description	Carved Vieran whitewood roofing.	조각 비에라 백목 지붕.	reuse
+/items/materials/intricateroof.matitem	shortdescription	Whitewood Roofing	흰목재 지붕	reuse
+/items/materials/intricateroof1.matitem	description	Carved Vieran whitewood roofing.	조각 비에라 백목 지붕.	reuse
+/items/materials/intricateroof1.matitem	shortdescription	Whitewood Roofing	흰목재 지붕	reuse
+/items/materials/livingmahogany.matitem	description	Rough and unrefined, this wood looks freshly chopped.	방금 막 벤 것처럼 보이는 거칠고 가공되지 않은 나무다.	reuse
+/items/materials/livingmahogany.matitem	shortdescription	Unrefined Mahogany	미가공 마호가니	reuse
+/items/materials/livingmossymahogany.matitem	description	Rough and unrefined, this moss-covered wood looks freshly chopped.	거칠고 다듬지 않은, 이끼로 덮인 이 목재는 갓 베어낸 듯 보인다.	reuse
+/items/materials/livingmossymahogany.matitem	shortdescription	Mossy Mahogany	이끼 낀 마호가니	reuse
+/items/materials/magiciteladder.matitem	shortdescription	Magicite Ladder	마기사이트 사다리	reuse
+/items/materials/magiciteladder.matitem	description	Gold and magicite shaped into platforms.	금과 마기사이트으로 만든 발판.	reuse
+/items/materials/magiciteplatform1.matitem	shortdescription	Magicite Platform	마기사이트 플랫폼	reuse
+/items/materials/magiciteplatform1.matitem	description	Gold and magicite shaped into platforms.	금과 마기사이트으로 만든 발판.	reuse
+/items/materials/magiciteplatform2.matitem	shortdescription	Magicite Platform	마기사이트 플랫폼	reuse
+/items/materials/magiciteplatform2.matitem	description	Gold and magicite shaped into platforms.	금과 마기사이트으로 만든 발판.	reuse
+/items/materials/mahoganyplatform.matitem	description	Vieran platform crafted of mahogany.	마호가니로 만든 비에란 플랫폼.	reuse
+/items/materials/mahoganyplatform.matitem	shortdescription	Mahogany Platform	마호가니 플랫폼	reuse
+/items/materials/mahoganyroof.matitem	description	Vieran mahogany roofing.	비에란 마호가니 지붕.	reuse
+/items/materials/mahoganyroof.matitem	shortdescription	Mahogany Roofing	마호가니 지붕재	reuse
+/items/materials/moogleslopedinsetpanel.matitem	shortdescription	Sloped Plating	경사 판재	reuse
+/items/materials/moogleslopedinsetpanel.matitem	description	Sloped, layered metal plating for sturdy building.	튼튼 건축 경사 겹 금속 판.	reuse
+/items/materials/moogleslopedinsetplating.matitem	shortdescription	Sloped Plating	경사 판재	reuse
+/items/materials/moogleslopedinsetplating.matitem	description	Sloped, metal plating for sturdy building.	튼튼 건축 경사 금속 판.	reuse
+/items/materials/moogleslopedshipplating.matitem	shortdescription	Sloped Plating	경사 판재	reuse
+/items/materials/moogleslopedshipplating.matitem	description	Sloped, layered metal plating for sturdy building.	튼튼 건축 경사 겹 금속 판.	reuse
+/items/materials/naturalfoliage.matitem	description	Flora bundled together.	함께 묶인 식물.	reuse
+/items/materials/naturalfoliage.matitem	shortdescription	Natural Foliage	천연 잎사귀	reuse
+/items/materials/ovular.matitem	description	Ovular carved Vieran whitewood.	타원형으로 조각된 비에란 화이트우드.	reuse
+/items/materials/ovular.matitem	shortdescription	Ovular Whitewood	타원형 화이트우드	reuse
+/items/materials/ovular2.matitem	description	White, ovular carving on mahogany.	마호가니 위의 흰색 타원 조각.	reuse
+/items/materials/ovular2.matitem	shortdescription	Ovular Mahogany	타원형 마호가니	reuse
+/items/materials/panelingbottom.matitem	description	Carved, mahogany paneling. Bottom center.	조각된 마호가니 패널. 하단 중앙.	reuse
+/items/materials/panelingbottom.matitem	shortdescription	Mahogany Paneling	마호가니 패널	reuse
+/items/materials/panelingcenter.matitem	description	Carved, mahogany paneling. Center paneling.	조각된 마호가니 패널. 중앙 패널.	reuse
+/items/materials/panelingcenter.matitem	shortdescription	Mahogany Paneling	마호가니 패널	reuse
+/items/materials/panelingcorner1.matitem	description	Carved, mahogany paneling. Upper left corner.	조각된 마호가니 패널. 좌상단 모서리.	reuse
+/items/materials/panelingcorner1.matitem	shortdescription	Mahogany Paneling	마호가니 패널	reuse
+/items/materials/panelingcorner2.matitem	description	Carved, mahogany paneling. Upper right corner.	조각된 마호가니 패널. 우상단 모서리.	reuse
+/items/materials/panelingcorner2.matitem	shortdescription	Mahogany Paneling	마호가니 패널	reuse
+/items/materials/panelingcorner3.matitem	description	Carved, mahogany paneling. Lower left corner.	조각된 마호가니 패널. 좌하단 모서리.	reuse
+/items/materials/panelingcorner3.matitem	shortdescription	Mahogany Paneling	마호가니 패널	reuse
+/items/materials/panelingcorner4.matitem	description	Carved, mahogany paneling. Lower right corner.	조각된 마호가니 패널. 우하단 모서리.	reuse
+/items/materials/panelingcorner4.matitem	shortdescription	Mahogany Paneling	마호가니 패널	reuse
+/items/materials/panelingleftside.matitem	description	Carved, mahogany paneling. Left side.	조각된 마호가니 패널. 왼쪽.	reuse
+/items/materials/panelingleftside.matitem	shortdescription	Mahogany Paneling	마호가니 패널	reuse
+/items/materials/panelingrightside.matitem	description	Carved, mahogany paneling. Right side.	조각된 마호가니 패널. 오른쪽.	reuse
+/items/materials/panelingrightside.matitem	shortdescription	Mahogany Paneling	마호가니 패널	reuse
+/items/materials/panelingtop.matitem	description	Carved, mahogany paneling. Top center.	조각된 마호가니 패널. 상단 중앙.	reuse
+/items/materials/panelingtop.matitem	shortdescription	Mahogany Paneling	마호가니 패널	reuse
+/items/materials/pastelpattern1.matitem	description	Gold filigree on smooth pastel color.	부드러운 파스텔 색 위 금 세공.	reuse
+/items/materials/pastelpattern1.matitem	shortdescription	Filigree Wall Panel	세공 벽 패널	reuse
+/items/materials/pastelpattern2.matitem	description	Gold filigree on smooth pastel color.	부드러운 파스텔 색 위 금 세공.	reuse
+/items/materials/pastelpattern2.matitem	shortdescription	Filigree Wall Panel	세공 벽 패널	reuse
+/items/materials/pastelpattern3.matitem	description	Gold filigree on smooth pastel color.	부드러운 파스텔 색 위 금 세공.	reuse
+/items/materials/pastelpattern3.matitem	shortdescription	Filigree Wall Panel	세공 벽 패널	reuse
+/items/materials/pastelpattern4.matitem	description	Ornate shapes are imprinted into the wall panel.	벽 패널에 화려한 문양이 새겨져 있다.	reuse
+/items/materials/pastelpattern4.matitem	shortdescription	Devore' Wall Panel	데보레 벽 패널	reuse
+/items/materials/pastelsmooth.matitem	description	Gold filigree on smooth pastel color.	부드러운 파스텔 색 위 금 세공.	reuse
+/items/materials/pastelsmooth.matitem	shortdescription	Smooth Wall Paneling	매끄러운 벽 패널링	reuse
+/items/materials/rabbitholecenter.matitem	description	Carved whitewood for Vieran entryways.	비에라 출입구용 조각 흰목재.	reuse
+/items/materials/rabbitholecenter.matitem	shortdescription	Rabbit-Hole Center	래빗홀 센터	reuse
+/items/materials/rabbitholeleft.matitem	description	Carved whitewood for Vieran entryways.	비에라 출입구용 조각 흰목재.	reuse
+/items/materials/rabbitholeleft.matitem	shortdescription	Rabbit-Hole Left	래빗홀 레프트	reuse
+/items/materials/rabbitholeright.matitem	description	Carved whitewood for Vieran entryways.	비에라 출입구용 조각 흰목재.	reuse
+/items/materials/rabbitholeright.matitem	shortdescription	Rabbit-Hole Right	래빗홀 라이트	reuse
+/items/materials/roof.matitem	description	Vieran whitewood roofing.	비에라 흰목재 지붕.	reuse
+/items/materials/roof.matitem	shortdescription	Whitewood Roofing	흰목재 지붕	reuse
+/items/materials/roofcenter.matitem	description	Vieran whitewood roofing.	비에라 흰목재 지붕.	reuse
+/items/materials/roofcenter.matitem	shortdescription	Roofing Center	지붕 중앙부	reuse
+/items/materials/roofleftend.matitem	description	Vieran whitewood roofing.	비에라 흰목재 지붕.	reuse
+/items/materials/roofleftend.matitem	shortdescription	Roofing Left End	지붕 왼쪽 끝	reuse
+/items/materials/roofrightend.matitem	description	Vieran whitewood roofing.	비에라 흰목재 지붕.	reuse
+/items/materials/roofrightend.matitem	shortdescription	Roofing Right End	지붕 오른쪽 끝	reuse
+/items/materials/scalloped.matitem	description	Scalloped carving on Vieran mahogany.	비에란 마호가니에 새긴 가리비 조각.	reuse
+/items/materials/scalloped.matitem	shortdescription	Scalloped Carving	가리비 조각	reuse
+/items/materials/scalloped2left.matitem	description	Wide scallop carving on Vieran mahogany.	비에란 마호가니 넓은 가리비 조각.	reuse
+/items/materials/scalloped2left.matitem	shortdescription	Wide Scallop Left	와이드 조개 왼쪽	reuse
+/items/materials/scalloped2right.matitem	description	Wide scallop carving on Vieran mahogany.	비에란 마호가니 넓은 가리비 조각.	reuse
+/items/materials/scalloped2right.matitem	shortdescription	Wide Scallop Right	와이드 조개 오른쪽	reuse
+/items/materials/scalloped3.matitem	description	Vieran scallop motif on mahogany.	마호가니에 새긴 비에란 가리비 문양.	reuse
+/items/materials/scalloped3.matitem	shortdescription	Scalloped Trim	가리비 테두리 장식	reuse
+/items/materials/sloped.matitem	description	Sloped Vieran whitewood.	경사형 비에란 화이트우드.	reuse
+/items/materials/sloped.matitem	shortdescription	Sloped Whitewood	경사형 화이트우드	reuse
+/items/materials/smooth.matitem	description	Smooth Vieran mahogany wood.	매끄러운 비에란 마호가니 목재.	reuse
+/items/materials/smooth.matitem	shortdescription	Smooth Mahogany	매끄러운 마호가니	reuse
+/items/materials/smoothbordered.matitem	description	Smooth, bordered mahogany.	매끄럽고, 테두리를 두른 마호가니.	reuse
+/items/materials/smoothbordered.matitem	shortdescription	Bordered Mahogany	테두리 마호가니	reuse
+/items/materials/swirl.matitem	description	Swirl carvings on mahogany.	마호가니에 새긴 소용돌이 조각.	reuse
+/items/materials/swirl.matitem	shortdescription	Swirl Motif	소용돌이 무늬	reuse
+/items/materials/vieracabinwindow.matitem	shortdescription	Framed Window	액자형 창문	reuse
+/items/materials/vieracabinwindow.matitem	description	Windows with a lattice-like frame.	격자 무늬 프레임의 창문.	reuse
+/items/materials/vieracablingplatform.matitem	shortdescription	Cabling Platform	배선 발판	reuse
+/items/materials/vieracablingplatform.matitem	description	Cabling utilized as a platform.	발판으로 쓰이는 배선.	reuse
+/items/materials/vieradirigible.matitem	shortdescription	Sloped Dirigible	경사형 비행선	reuse
+/items/materials/vieradirigible.matitem	description	Sloped dirigible block.	경사형 비행선 블록.	reuse
+/items/materials/vierafoliage1.matitem	description	Lush leaves from the depths of the Wood.	숲 깊은 곳에서 온 무성한 잎.	reuse
+/items/materials/vierafoliage1.matitem	shortdescription	Lush Foliage	무성한 잎	reuse
+/items/materials/vieraladderpath1.matitem	shortdescription	Ladder Path I	사다리 경로 I	reuse
+/items/materials/vieraladderpath1.matitem	description	Recessed material for ladder.	사다리용 홈 판재.	reuse
+/items/materials/vieraladderpath2.matitem	shortdescription	Ladder Path II	사다리 경로 II	reuse
+/items/materials/vieraladderpath2.matitem	description	Recessed material for ladder.	사다리용 홈 판재.	reuse
+/items/materials/vieraladderpath3.matitem	shortdescription	Ladder Path III	사다리 경로 III	reuse
+/items/materials/vieraladderpath3.matitem	description	Recessed material for ladder.	사다리용 홈 판재.	reuse
+/items/materials/vieranfence.matitem	description	A wooden, Vieran fence.	나무 비에라 울타리.	reuse
+/items/materials/vieranfence.matitem	shortdescription	Vieran Fence I	비에란 울타리 I	reuse
+/items/materials/vieranfence1.matitem	description	A wooden, Vieran fence.	나무 비에라 울타리.	reuse
+/items/materials/vieranfence1.matitem	shortdescription	Vieran Fence II	비에란 울타리 II	reuse
+/items/materials/vieranfenceleftend.matitem	description	A left end-cap to a Vieran fence.	비에라식 울타리의 왼쪽 끝마개입니다.	reuse
+/items/materials/vieranfenceleftend.matitem	shortdescription	Vieran Fence Left	비에란 울타리 좌측	reuse
+/items/materials/vieranfencerightend.matitem	description	A right end-cap to a Vieran fence.	비에란 울타리의 오른쪽 끝마감재.	reuse
+/items/materials/vieranfencerightend.matitem	shortdescription	Vieran Fence Right	비에란 울타리 우측	reuse
+/items/materials/vieranwall.matitem	description	Carved, wooden Vieran wall.	조각 나무 비에라 벽.	reuse
+/items/materials/vieranwall.matitem	shortdescription	Carved Wall I	조각 벽 I	reuse
+/items/materials/vieranwall1.matitem	description	Carved, wooden Vieran wall.	조각 나무 비에라 벽.	reuse
+/items/materials/vieranwall1.matitem	shortdescription	Carved Wall II	조각 벽 II	reuse
+/items/materials/vierarope1.matitem	shortdescription	Rope wrappings in a horizontal direction.	가로 방향으로 감긴 밧줄.	reuse
+/items/materials/vierarope1.matitem	description	Rope Wrapping.	밧줄 감기.	reuse
+/items/materials/vierarope2.matitem	shortdescription	Rope wrappings in a vertical direction.	세로 방향으로 감긴 밧줄.	reuse
+/items/materials/vierarope2.matitem	description	Rope Wrapping.	밧줄 감기.	reuse
+/items/materials/vierashipplating1.matitem	shortdescription	Edged Ship Plate I	가장자리 함선 판 I	reuse
+/items/materials/vierashipplating1.matitem	description	Ship plating with etched gold edge.	새긴 금 테두리 함선 장갑.	reuse
+/items/materials/vierashipplating2.matitem	shortdescription	Edged Ship Plate II	가장자리 함선 판 II	reuse
+/items/materials/vierashipplating2.matitem	description	Ship plating with etched gold edge.	새긴 금 테두리 함선 장갑.	reuse
+/items/materials/vierashipplating3.matitem	shortdescription	Edged Ship Plate III	가장자리 함선 판 III	reuse
+/items/materials/vierashipplating3.matitem	description	Ship plating with encased wiring.	배선이 내장된 선박 판금.	reuse
+/items/materials/vierashipplatingsolid.matitem	shortdescription	Ship Plating Solid	선박 판금 (고정형)	reuse
+/items/materials/vierashipplatingsolid.matitem	description	Colored ship plating.	색칠한 함선 장갑판입니다.	reuse
+/items/materials/vieraslopedglass.matitem	shortdescription	Sloped Glass	경사 유리	reuse
+/items/materials/vieraslopedglass.matitem	description	Colored, crystal-clear glass.	색색의 투명한 유리입니다.	reuse
+/items/materials/vieraslopedinsetpanel.matitem	description	Viera ship plating with inset panelling.	삽입 패널이 있는 비에라 함선 외판.	reuse
+/items/materials/vieraslopedinsetpanel.matitem	shortdescription	Sloped Inset Plating	경사형 인셋 판금	reuse
+/items/materials/vieraslopedinsetplating.matitem	shortdescription	Sloped Plating	경사 판재	reuse
+/items/materials/vieraslopedinsetplating.matitem	description	Sloped, metal plating for sturdy building.	튼튼 건축 경사 금속 판.	reuse
+/items/materials/vieraslopedtrimming.matitem	shortdescription	Sloped Trimming	경사형 테두리 장식	reuse
+/items/materials/vieraslopedtrimming.matitem	description	Smooth, carved stone, capable of sloping.	매끄럽게 조각된 돌로, 경사지게 놓을 수 있다.	reuse
+/items/materials/vieraslopedwood.matitem	shortdescription	Sloped Wood Planks	경사 목재 판	reuse
+/items/materials/vieraslopedwood.matitem	description	Smooth, cut wood planks.	매끈 재단 목재 판.	reuse
+/items/materials/vieraslopedwood2.matitem	shortdescription	Sloped Wood Planks	경사 목재 판	reuse
+/items/materials/vieraslopedwood2.matitem	description	Smooth, cut wood planks.	매끈 재단 목재 판.	reuse
+/items/materials/walltopper.matitem	description	Viera wall upper moulding.	비에라 벽 상단 몰딩.	reuse
+/items/materials/walltopper.matitem	shortdescription	Upper Moulding.	상단 몰딩.	reuse
+/items/materials/whitewoodcolumnbase.matitem	description	Whitewood column base with floral motif.	꽃 문양의 화이트우드 기둥 밑받침.	reuse
+/items/materials/whitewoodcolumnbase.matitem	shortdescription	Floral Whitewood	화훼 화이트우드	reuse
+/items/materials/whitewoodcolumnfluting.matitem	description	Fluted, whitewood column.	홈이 파인 화이트우드 기둥.	reuse
+/items/materials/whitewoodcolumnfluting.matitem	shortdescription	Fluted Whitewood	홈무늬 화이트우드	reuse
+/items/materials/whitewoodcolumnroof.matitem	description	Carved whitewood column topper.	조각된 화이트우드 기둥 장식.	reuse
+/items/materials/whitewoodcolumnroof.matitem	shortdescription	Column Topper	기둥 꼭대기 장식	reuse
+/items/materials/whitewoodplatform.matitem	shortdescription	Whitewood Platform	화이트우드 플랫폼	reuse
+/items/materials/windowlattice.matitem	shortdescription	Mahogany Lattice	마호가니 격자	reuse
+/items/materials/windowlattice.matitem	description	Window lattice made of mahogany.	마호가니로 만든 창살.	reuse
+/items/materials/woodenbase.matitem	description	Carved, wooden foundation.	조각된 나무 토대.	reuse
+/items/materials/woodenbase.matitem	shortdescription	Wood Foundation	나무 기초	reuse
+/items/materials/woodenbase1.matitem	description	Vieran whitewood foundation.	비에란 화이트우드 기초.	reuse
+/items/materials/woodenbase1.matitem	shortdescription	Whitewood Foundation I	화이트우드 기초 I	reuse
+/items/materials/woodenbase2.matitem	description	Dark, whitewood foundation.	어둡고 화이트우드로 된 지반.	reuse
+/items/materials/woodenbase2.matitem	shortdescription	Whitewood Foundation II	화이트우드 기초 II	reuse
+/items/materials/woodenslats.matitem	description	Slats of smooth, Vieran mahogany.	매끈 비에라 마호가니 판재.	reuse
+/items/materials/woodenslats.matitem	shortdescription	Mahogany Slats	마호가니 슬랫	reuse
+/items/materials/woodenslats1.matitem	description	Slats of smooth, Vieran mahogany.	매끈 비에라 마호가니 판재.	reuse
+/items/materials/woodenslats1.matitem	shortdescription	Mahogany Slats II	마호가니 슬랫 II	reuse
+/items/materials/wwpanelingbottom.matitem	description	Carved, whitewood paneling. Bottom center.	조각된 화이트우드 패널. 하단 중앙.	reuse
+/items/materials/wwpanelingbottom.matitem	shortdescription	Whitewood Paneling	화이트우드 패널	reuse
+/items/materials/wwpanelingcenter.matitem	description	Carved, whitewood paneling. Center paneling.	조각된 화이트우드 패널. 중앙 패널.	reuse
+/items/materials/wwpanelingcenter.matitem	shortdescription	Whitewood Paneling	화이트우드 패널	reuse
+/items/materials/wwpanelingcorner1.matitem	description	Carved, whitewood paneling. Upper left corner.	조각된 화이트우드 패널. 좌상단 모서리.	reuse
+/items/materials/wwpanelingcorner1.matitem	shortdescription	Whitewood Paneling	화이트우드 패널	reuse
+/items/materials/wwpanelingcorner2.matitem	description	Carved, whitewood paneling. Upper right corner.	조각된 화이트우드 패널. 우상단 모서리.	reuse
+/items/materials/wwpanelingcorner2.matitem	shortdescription	Whitewood Paneling	화이트우드 패널	reuse
+/items/materials/wwpanelingcorner3.matitem	description	Carved, whitewood paneling. Lower left corner.	조각된 화이트우드 패널. 좌하단 모서리.	reuse
+/items/materials/wwpanelingcorner3.matitem	shortdescription	Whitewood Paneling	화이트우드 패널	reuse
+/items/materials/wwpanelingcorner4.matitem	description	Carved, whitewood paneling. Lower right corner.	조각된 화이트우드 패널. 우하단 모서리.	reuse
+/items/materials/wwpanelingcorner4.matitem	shortdescription	Whitewood Paneling	화이트우드 패널	reuse
+/items/materials/wwpanelingleftside.matitem	description	Carved, whitewood paneling. Left side.	조각된 화이트우드 패널. 왼쪽.	reuse
+/items/materials/wwpanelingleftside.matitem	shortdescription	Whitewood Paneling	화이트우드 패널	reuse
+/items/materials/wwpanelingrightside.matitem	description	Carved, whitewood paneling. Right side.	조각된 화이트우드 패널. 오른쪽.	reuse
+/items/materials/wwpanelingrightside.matitem	shortdescription	Whitewood Paneling	화이트우드 패널	reuse
+/items/materials/wwpanelingtop.matitem	description	Carved, whitewood paneling. Top center.	조각된 화이트우드 패널. 상단 중앙.	reuse
+/items/materials/wwpanelingtop.matitem	shortdescription	Whitewood Paneling	화이트우드 패널	reuse
+/items/tools/vieralantern.flashlight	description	A light for you in dark places, when all other lights go out.	다른 모든 빛이 꺼져도 어두운 곳에서 너를 비추는 빛.	
+/items/tools/vieralantern.flashlight	shortdescription	Crystal Lantern	크리스탈 랜턴	
+/quests/story/vierabootship.questtemplate	title	The Wood	숲	reuse
+/quests/story/vierabootship.questtemplate	text	You don't know who this ^cyan;Seonha^reset; person is, but she seems to have her wits about her. Better hurry and do as she says! ^green;Interact with the Magicite Core^reset; to power ^orange;the Argo^reset; back up!	이 ^cyan;선하^reset;라는 사람이 누구인지는 모르겠지만, 정신은 또렷해 보인다. 서둘러 시키는 대로 하는 게 좋겠다! ^green;마기사이트 코어를 조작해^reset; ^orange;아르고^reset;에 다시 전력을 넣자!	reuse
+/quests/story/vierabootship.questtemplate	completionText	Far below us a new world breathes, teaming with life. Crippled like this, ^green;we are unable to slip free of this celestial body's embrace^rest;. I have restored power to the Argo's ^orange; magicite teleporter^reset; - ^green;travel to this planet's surface^reset;, and search for a means to repair Us.	저 아래 멀리서 새로운 세계가 숨 쉬며 생명으로 넘실댄다. 이렇게 손상된 채로는, ^green;이 천체의 포옹에서 벗어날 수 없다^rest;. 아르고의 ^orange;마기사이트 텔레포터^reset;에 전력을 복구했으니 - ^green;이 행성 표면으로 이동해^reset;, 우리를 수리할 방법을 찾아라.	reuse
+/quests/story/vieraopening.questtemplate	title	^orange;Ilam i'Ka, Naar'elda^reset;	^orange;일람 이카, 나르엘다^reset;	reuse
+/quests/story/vieraopening.questtemplate	text	Look to the stars for guidance.	인도를 얻으려면 별을 바라보라.	reuse
+/quests/story/vieraopening.questtemplate	completionText	As gluttonous Darkness washes over Naar'elda, so too does cold unconciousness wash over you....	탐욕스러운 어둠이 나르엘다를 뒤덮듯, 차가운 무의식이 당신을 뒤덮는다....	reuse
+/quests/story/vierawakeup.questtemplate	title	Cpt. Seonha	선하 대위	reuse
+/quests/story/vierawakeup.questtemplate	text	Last thing you remember, ^green;things were exploding^reset;... like... everything. You've come to on a ship that's seen better days, and are greeted by an imposing ^orange;Viera^reset;. You don't know if she's a warrior, or a princess, or what... but ^green;you'd better hear her out^reset;.	마지막으로 기억나는 건, ^green;모든 게 폭발하고 있었다는^reset; 것... 그야말로 전부. 정신을 차려 보니 예전 같지 않은 함선 위였고, 위압적인 ^orange;비에라^reset;가 너를 맞이한다. 그녀가 전사인지, 공주인지, 아니면 뭔지 모르겠지만... ^green;일단 그녀의 말을 들어보는 게 좋을 거다^reset;.	reuse
+/quests/story/vierawakeup.questtemplate	completionText	You don't know who this ^cyan;Seonha^reset; person is, but she seems to have her wits about her. Better hurry and do as she says! ^green;Interact with the Magicite Core^reset; to power ^orange;the Argo^reset; back up!	이 ^cyan;선하^reset;라는 사람이 누구인지는 모르겠지만, 정신은 또렷해 보인다. 서둘러 시키는 대로 하는 게 좋겠다! ^green;마기사이트 코어를 조작해^reset; ^orange;아르고^reset;에 다시 전력을 넣자!	reuse
+/stats/effects/heal/eithneheal.statuseffect	label	Healing	치유	reuse

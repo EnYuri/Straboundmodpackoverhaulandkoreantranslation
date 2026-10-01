@@ -1,0 +1,147 @@
+/codex/LEGACY/MISSIONS/INDEPENDENT/1_1_JIANGSHICANYON/gic_ic11_canyoncassette.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "IC11 - A Recorded Conversation"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "IC11 - 녹음된 대화"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Cain and Selist's deductions regarding the Jiangshi mining colony."
+    },
+    {
+      "op": "replace",
+      "path": 
+/codex/LEGACY/MISSIONS/INDEPENDENT/1_1_JIANGSHICANYON/gic_ic11_deathcount.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "IC11 - Death Count"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "IC11 - 사망자 수"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Independent Chapter 1-1-DC"
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "독립 챕터 1-1-DC"
+    }
+ 
+/codex/LEGACY/MISSIONS/INDEPENDENT/1_1_JIANGSHICANYON/gic_ic11_demoralizedstaff.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "IC11 - Demoralized Staff"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "IC11 - 사기 저하된 직원들"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Independent Chapter 1-1-DS"
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "독립 챕터 1-1-
+/codex/LEGACY/MISSIONS/INDEPENDENT/1_1_JIANGSHICANYON/gic_ic11_lastmanstanding.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "IC11 - Last Man Standing"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "IC11 - 최후의 생존자"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Independent Chapter 1-1-LMS"
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "독립 챕터 1-1-LM
+/codex/LEGACY/MISSIONS/INDEPENDENT/1_1_JIANGSHICANYON/gic_ic11_mineshutdown.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "IC11 - Mine Shutdown"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "IC11 - 광산 폐쇄"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Independent Chapter 1-1-MS"
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "독립 챕터 1-1-MS"
+    }
+/codex/LEGACY/MISSIONS/INDEPENDENT/1_1_JIANGSHICANYON/gic_ic11_miningconditions.codex.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/title",
+      "value": "IC11 - Mining Conditions"
+    },
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "IC11 - 채굴 조건"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Independent Chapter 1-1-MC"
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "독립 챕터 1-1-MC"
+ 

@@ -1,0 +1,215 @@
+asset	field	en	ko	src
+/collections/shpd_1.collection	title	Alchemy	연금술	
+/items/active/shpd_unsorted/phaseshift.thrownitem	subtitle	Spell	주문	
+/items/active/shpd_unsorted/phaseshift.thrownitem	shortdescription	^yellow;Phase Shift^reset;	^yellow;위상 이동^reset;	
+/items/active/shpd_unsorted/phaseshift.thrownitem	description	This chaotic spell will teleport any character it is aimed at away by a short distance.	이 혼돈의 주문은 조준한 캐릭터를 가까운 거리로 텔레포트시킨다.	
+/items/currency/shpd_gold.item	shortdescription	^#ff0;Gold Coin^reset;	^#ff0;금화^reset;	reuse
+/items/currency/shpd_gold.item	description	Shining coins made from alchemical gold; a universal currency among alchemists.	연금술 금으로 만든 빛나는 동전; 연금술사들 사이의 보편적인 화폐.	reuse
+/items/generic/shpd_blandfruit/earthfruit.thrownitem	description	"The fruit has plumped up from its time soaking in the pot and has even absorbed the properties of the seed it was cooked with. It will have the effect of whatever potion the seed corresponded to.
+It seems pretty volatile, it might be best to throw it."	"열매가 냄비에 담가져 통통하게 부풀어 함께 조리된 씨앗의 성질까지 흡수했다. 그 씨앗에 해당하는 물약 효과를 가진다.
+상당히 불안정해 보이니 던지는 게 좋을 듯하다."	
+/items/generic/shpd_blandfruit/earthfruit.thrownitem	shortdescription	^#67583d;Earthfruit^reset;	^#67583d;대지열매^reset;	
+/items/generic/shpd_blandfruit/firefruit.thrownitem	description	"The fruit has plumped up from its time soaking in the pot and has even absorbed the properties of the seed it was cooked with. It will have the effect of whatever potion the seed corresponded to.
+It seems pretty volatile, it might be best to throw it."	"열매가 냄비에 담가져 통통하게 부풀어 함께 조리된 씨앗의 성질까지 흡수했다. 그 씨앗에 해당하는 물약 효과를 가진다.
+상당히 불안정해 보이니 던지는 게 좋을 듯하다."	
+/items/generic/shpd_blandfruit/firefruit.thrownitem	shortdescription	^#ff7f00;Firefruit^reset;	^#ff7f00;불열매^reset;	
+/items/generic/shpd_blandfruit/icefruit.thrownitem	description	"The fruit has plumped up from its time soaking in the pot and has even absorbed the properties of the seed it was cooked with. It will have the effect of whatever potion the seed corresponded to.
+It seems pretty volatile, it might be best to throw it."	"열매가 냄비에 담가져 통통하게 부풀어 함께 조리된 씨앗의 성질까지 흡수했다. 그 씨앗에 해당하는 물약 효과를 가진다.
+상당히 불안정해 보이니 던지는 게 좋을 듯하다."	
+/items/generic/shpd_blandfruit/icefruit.thrownitem	shortdescription	^#66b3ff;Icefruit^reset;	^#66b3ff;얼음열매^reset;	
+/items/generic/shpd_blandfruit/sorrowfruit.thrownitem	description	"The fruit has plumped up from its time soaking in the pot and has even absorbed the properties of the seed it was cooked with. It will have the effect of whatever potion the seed corresponded to.
+It seems pretty volatile, it might be best to throw it."	"열매가 냄비에 담가져 통통하게 부풀어 함께 조리된 씨앗의 성질까지 흡수했다. 그 씨앗에 해당하는 물약 효과를 가진다.
+상당히 불안정해 보이니 던지는 게 좋을 듯하다."	
+/items/generic/shpd_blandfruit/sorrowfruit.thrownitem	shortdescription	^#a15ce5;Sorrowfruit^reset;	^#a15ce5;슬픔열매^reset;	
+/items/generic/shpd_bombs/bomb.thrownitem	shortdescription	^#ff0;Bomb^reset;	^#ff0;폭탄^reset;	
+/items/generic/shpd_bombs/bomb.thrownitem	description	A fairly hefty black powder bomb. An explosion from this would certainly do damage to anything nearby.	상당히 묵직한 흑색 화약 폭탄. 폭발하면 주변 모든 것에 피해를 입힐 것이다.	
+/items/generic/shpd_bombs/firebomb.thrownitem	shortdescription	^#ff0;Fire Bomb^reset;	^#ff0;화염 폭탄^reset;	
+/items/generic/shpd_bombs/firebomb.thrownitem	description	This bomb has been modified to burst into a sustained flame in a larger area when it explodes.	이 폭탄은 폭발 시 더 넓은 구역에 지속적인 화염을 일으키도록 개조되었다.	
+/items/generic/shpd_bombs/flashbang.thrownitem	shortdescription	^#ff0;Flashbang^reset;	^#ff0;섬광탄^reset;	
+/items/generic/shpd_bombs/flashbang.thrownitem	description	This customized bomb will erupt into a burst of blinding light when it explodes. Disorientating anything nearby.	이 특제 폭탄은 폭발 시 눈부신 섬광을 일으켜 주변 모든 것을 혼란시킨다.	
+/items/generic/shpd_bombs/frostbomb.thrownitem	shortdescription	^#ff0;Frost Bomb^reset;	^#ff0;냉기 폭탄^reset;	
+/items/generic/shpd_bombs/frostbomb.thrownitem	description	This bomb has been modified to burst into a sustained gust of freezing air in a larger area when it explodes.	이 폭탄은 폭발 시 더 넓은 구역에 지속적인 한기 돌풍을 일으키도록 개조되었다.	
+/items/generic/shpd_bombs/regrowthbomb.thrownitem	shortdescription	^#ff0;Rejuvenation Bomb^reset;	^#ff0;재생 폭탄^reset;	
+/items/generic/shpd_bombs/regrowthbomb.thrownitem	description	This customized bomb will splash life-giving liquid all around it instead of exploding. Anyone caught in the blast will be healed.	이 특제 폭탄은 폭발하는 대신 사방에 생명을 주는 액체를 뿌린다. 폭풍에 휘말린 자는 누구든 치유된다.	
+/items/generic/shpd_brews/brew_caustic.thrownitem	subtitle	Brew	양조	
+/items/generic/shpd_brews/brew_caustic.thrownitem	description	"This brew will spread corrosive ooze around the location it shatters in.
+Anything caught by the ooze will slowly melt if it can't wash it off in liquid."	"이 양조는 깨진 곳 주변으로 부식성 진흙을 퍼뜨린다.
+진흙에 닿은 자는 액체로 씻어내지 못하면 서서히 녹아내린다."	
+/items/generic/shpd_brews/brew_caustic.thrownitem	shortdescription	^#ff0;Caustic Brew^reset;	^#ff0;부식 양조^reset;	
+/items/generic/shpd_brews/brew_frostfire.thrownitem	subtitle	Brew	양조	
+/items/generic/shpd_brews/brew_frostfire.thrownitem	description	"This brew combines the properties of a liquid flame and snap freeze potion.
+
+The area around where the vial is thrown will be snap-frozen, then set ablaze for an extended duration."	"이 양조는 액체 화염과 급속 동결 물약의 성질을 결합한다.
+
+병이 던져진 곳 주변은 급속 동결되고, 이어서 오랫동안 불탄다."	
+/items/generic/shpd_brews/brew_frostfire.thrownitem	shortdescription	^#ff0;Frostfire Brew^reset;	^#ff0;빙화 양조^reset;	
+/items/generic/shpd_brews/brew_infernal.thrownitem	subtitle	Brew	양조	
+/items/generic/shpd_brews/brew_infernal.thrownitem	description	When shattered, this brew will unleash a raging inferno which spreads like a gas.	깨지면 가스처럼 퍼져나가는 맹렬한 지옥불을 해방한다.	
+/items/generic/shpd_brews/brew_infernal.thrownitem	shortdescription	^#ff0;Infernal Brew^reset;	^#ff0;지옥 양조^reset;	
+/items/generic/shpd_brews/brew_shocking.thrownitem	subtitle	Brew	양조	
+/items/generic/shpd_brews/brew_shocking.thrownitem	description	When shattered, this brew will unleash an electrical storm in an area around the location it breaks at.	깨진 곳 주변에 전기 폭풍을 해방한다.	
+/items/generic/shpd_brews/brew_shocking.thrownitem	shortdescription	^#ff0;Shocking Brew^reset;	^#ff0;전격 양조^reset;	
+/items/generic/shpd_brews/brew_wicked.thrownitem	subtitle	Brew	양조	
+/items/generic/shpd_brews/brew_wicked.thrownitem	description	This brew combines the properties of a toxic gas and paralytic gas potion. When exposed to open air the liquid of the brew will erupt into both gasses at once.	이 양조는 독가스와 마비가스 물약의 성질을 결합한다. 액체가 야외 공기에 노출되면 두 가스가 동시에 분출한다.	
+/items/generic/shpd_brews/brew_wicked.thrownitem	shortdescription	^#ff0;Wicked Brew^reset;	^#ff0;사악한 양조^reset;	
+/items/generic/shpd_darts/dart.thrownitem	shortdescription	^#ff0;Dart^reset;	^#ff0;다트^reset;	
+/items/generic/shpd_darts/dart.thrownitem	subtitle	Dart	다트	
+/items/generic/shpd_darts/dart.thrownitem	description	"These simple shafts of spike-tipped wood are weighted to fly true and sting their prey with a flick of the wrist.
+
+Due to their size and simple construction, darts will never break."	"이 소박한 뾰족 나무 화살은 손목만 스냅해도 곧바로 날아가 먹잇감을 쏘도록 무게중심이 잡혀 있다.
+
+크기와 단순한 구조 덕에 다트는 절대 부러지지 않는다."	
+/items/generic/shpd_darts/dart_1.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_1.thrownitem	shortdescription	^#c02;Rot Dart^reset;	^#c02;부패 다트^reset;	
+/items/generic/shpd_darts/dart_1.thrownitem	description	These wicked darts are tipped with an acidic rotberry-based compound, which will aggressively eat through anything the dart comes into contact with. The corrosion is strong enough to easily kill most standard enemies.	이 사악한 다트에는 신망이끼 기반 화합물이 발려 있어, 닿는 모든 것을 공격적으로 녹여낸다. 이 부식은 대부분의 일반 적을 쉽게 죽일 만큼 강력하다.	
+/items/generic/shpd_darts/dart_10.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_10.thrownitem	shortdescription	^#404040;Holy Dart^reset;	^#404040;성스러운 다트^reset;	
+/items/generic/shpd_darts/dart_10.thrownitem	description	These darts are tipped with a starflower-based compound which grants a boost in power to their target. The dart itself is still harmful though.	이 다트에는 별꽃 기반 화합물이 발려 있어 대상에게 힘의 강화를 준다. 다만 다트 자체는 여전히 해롭다.	
+/items/generic/shpd_darts/dart_11.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_11.thrownitem	shortdescription	^#919999;Displacing Dart^reset;	^#919999;전이 다트^reset;	
+/items/generic/shpd_darts/dart_11.thrownitem	description	These darts are tipped with a fadeleaf-based compound which will teleport their target a short distance away.	이 다트에는 페이드잎 기반 화합물이 발려 있어 대상을 가까운 거리로 텔레포트시킨다.	
+/items/generic/shpd_darts/dart_12.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_12.thrownitem	shortdescription	^#a6a6a6;Blinding Dart^reset;	^#a6a6a6;실명 다트^reset;	
+/items/generic/shpd_darts/dart_12.thrownitem	description	These darts are tipped with a blindweed-based compound which will blind their target for a short time. They do not disorient however, so an enemy will still know where they last saw you.	이 다트에는 눈멀풀 기반 화합물이 발려 있어 대상을 잠시 실명시킨다. 다만 혼란시키진 않아서 적은 너를 마지막으로 본 위치를 알고 있다.	
+/items/generic/shpd_darts/dart_2.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_2.thrownitem	shortdescription	^#ff7f00;Incendiary Dart^reset;	^#ff7f00;소이 다트^reset;	
+/items/generic/shpd_darts/dart_2.thrownitem	description	These darts are tipped with a firebloom-based compound which will burst into brilliant flames on impact.	이 다트에는 불꽃 기반 화합물이 발려 있어 충돌 시 화려한 불꽃으로 폭발한다.	
+/items/generic/shpd_darts/dart_3.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_3.thrownitem	shortdescription	^#ccbb00;Adrenaline Dart^reset;	^#ccbb00;아드레날린 다트^reset;	
+/items/generic/shpd_darts/dart_3.thrownitem	description	These darts are tipped with a swiftthistle-based compound which will give their target a boost in movement speed.	이 다트에는 빠른엉겅퀴 기반 화합물이 발려 있어 대상의 이동 속도를 높인다.	
+/items/generic/shpd_darts/dart_4.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_4.thrownitem	shortdescription	^#2ee62e;Healing Dart^reset;	^#2ee62e;치유 다트^reset;	
+/items/generic/shpd_darts/dart_4.thrownitem	description	These darts are tipped with a sungrass-based compound which grants a burst of healing to their target. The dart itself is still harmful though.	이 다트에는 태양풀 기반 화합물이 발려 있어 대상에게 급격한 치유를 준다. 다만 다트 자체는 여전히 해롭다.	
+/items/generic/shpd_darts/dart_5.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_5.thrownitem	shortdescription	^#66b3ff;Chilling Dart^reset;	^#66b3ff;냉기 다트^reset;	
+/items/generic/shpd_darts/dart_5.thrownitem	description	These darts are tipped with an icecap-based compound which will significantly chill their target.	이 다트에는 얼음버섯 기반 화합물이 발려 있어 대상을 심하게 차갑게 한다.	
+/items/generic/shpd_darts/dart_6.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_6.thrownitem	shortdescription	^#195d80;Shocking Dart^reset;	^#195d80;전격 다트^reset;	
+/items/generic/shpd_darts/dart_6.thrownitem	description	These darts are tipped with a stormvine-based compound which will deliver a nasty shock to their target.	이 다트에는 폭풍덩굴 기반 화합물이 발려 있어 대상에게 따끔한 전격을 준다.	
+/items/generic/shpd_darts/dart_7.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_7.thrownitem	shortdescription	^#a15ce5;Poison Dart^reset;	^#a15ce5;독 다트^reset;	
+/items/generic/shpd_darts/dart_7.thrownitem	description	These darts are tipped with a sorrowmoss-based compound which will poison their target.	이 다트에는 슬픔이끼 기반 화합물이 발려 있어 대상을 중독시킨다.	
+/items/generic/shpd_darts/dart_8.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_8.thrownitem	shortdescription	^#ff4cd2;Sleeping Dart^reset;	^#ff4cd2;수면 다트^reset;	
+/items/generic/shpd_darts/dart_8.thrownitem	description	These darts are tipped with a dreamfoil-based compound which will cause an immense drowsiness in their target, drastically decreasing their agility.	이 다트에는 꿈잎 기반 화합물이 발려 있어 대상에게 엄청난 졸음을 일으켜 민첩성을 크게 떨어뜨린다.	
+/items/generic/shpd_darts/dart_9.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_9.thrownitem	shortdescription	^#67583d;Paralytic Dart^reset;	^#67583d;마비 다트^reset;	
+/items/generic/shpd_darts/dart_9.thrownitem	description	These darts are tipped with an earthroot-based compound which will paralyze their target for a short time.	이 다트에는 대지뿌리 기반 화합물이 발려 있어 대상을 잠시 마비시킨다.	
+/items/generic/shpd_potions/potion_cleansing.thrownitem	subtitle	Potion	물약	
+/items/generic/shpd_potions/potion_cleansing.thrownitem	description	This powerful reagent will completely neutralize all harmful effects on the drinker when quaffed. It can be thrown at a target to cleanse them as well.	이 강력한 시약은 마시면 음용자의 모든 해로운 효과를 완전히 중화한다. 대상에게 던져 정화할 수도 있다.	
+/items/generic/shpd_potions/potion_cleansing.thrownitem	shortdescription	^#ff4cd2;Potion of Cleansing^reset;	^#ff4cd2;정화 물약^reset;	
+/items/generic/shpd_potions/potion_corrosive_gas.thrownitem	subtitle	Potion	물약	
+/items/generic/shpd_potions/potion_corrosive_gas.thrownitem	description	Uncorking or shattering this pressurized glass will cause its contents to explode into a deadly cloud of corrosive rust-colored gas. The gas is less concentrated however, and will not last for very long.	이 가압 유리병의 마개를 뽑거나 깨면 내용물이 치명적인 부식성 녹청색 가스 구름으로 폭발한다. 다만 농도가 옅어 오래가진 않는다.	
+/items/generic/shpd_potions/potion_corrosive_gas.thrownitem	shortdescription	^#a15ce5;Potion of Corrosive Gas^reset;	^#a15ce5;부식 가스 물약^reset;	
+/items/generic/shpd_potions/potion_dragons_breath.thrownitem	subtitle	Potion	물약	
+/items/generic/shpd_potions/potion_dragons_breath.thrownitem	description	"This flask contains an unusual compound which bursts into flame shortly after mixing with saliva.
+Quickly spitting the liquid will allow the user to spew flame from their mouth!"	"이 플라스크에는 침과 섞인 직후 불꽃이 타오르는 특이한 화합물이 들어 있다.
+액체를 빠르게 뱉으면 입에서 불꽃을 뿜을 수 있다!"	
+/items/generic/shpd_potions/potion_dragons_breath.thrownitem	shortdescription	^#ff7f00;Potion of Dragon's Breath^reset;	^#ff7f00;용의 숨결 물약^reset;	
+/items/generic/shpd_potions/potion_frost.thrownitem	subtitle	Potion	물약	
+/items/generic/shpd_potions/potion_frost.thrownitem	description	The chemical contained in this potion will evaporate into a freezing cloud upon exposure to open air.	이 물약의 화학물질은 야외 공기에 노출되면 얼어붙는 구름으로 증발한다.	
+/items/generic/shpd_potions/potion_frost.thrownitem	shortdescription	^#66b3ff;Potion of Frost^reset;	^#66b3ff;빙결 물약^reset;	
+/items/generic/shpd_potions/potion_liquid_flame.thrownitem	subtitle	Potion	물약	
+/items/generic/shpd_potions/potion_liquid_flame.thrownitem	description	This flask contains an unstable compound which will burst violently into flame upon being opened.	이 플라스크에는 열리는 순간 격렬하게 불타는 불안정한 화합물이 들어 있다.	
+/items/generic/shpd_potions/potion_liquid_flame.thrownitem	shortdescription	^#ff7f00;Potion of Liquid Flame^reset;	^#ff7f00;액체 화염 물약^reset;	
+/items/generic/shpd_potions/potion_paralytic_gas.thrownitem	subtitle	Potion	물약	
+/items/generic/shpd_potions/potion_paralytic_gas.thrownitem	description	"When opened, the liquid in this flask will vaporize into a numbing yellow haze.
+Anyone who inhales the cloud will be paralyzed instantly, unable to move for some time after the cloud dissipates."	"열리면 이 플라스크 속 액체가 무감각한 노란 안개로 기화한다.
+구름을 들이마신 자는 구름이 흩어진 뒤에도 한동안 움직이지 못하고 즉시 마비된다."	
+/items/generic/shpd_potions/potion_paralytic_gas.thrownitem	shortdescription	^#67583d;Potion of Paralytic Gas^reset;	^#67583d;마비 가스 물약^reset;	
+/items/generic/shpd_potions/potion_shrouding_fog.thrownitem	subtitle	Potion	물약	
+/items/generic/shpd_potions/potion_shrouding_fog.thrownitem	description	When exposed to air, the liquid in this flask will produce a thick smoky fog which completely blocks vision.	공기에 노출되면 이 플라스크 속 액체가 시야를 완전히 가리는 짙은 연안개를 만들어낸다.	
+/items/generic/shpd_potions/potion_shrouding_fog.thrownitem	shortdescription	^#a6a6a6;Potion of Shrouding Fog^reset;	^#a6a6a6;장막 안개 물약^reset;	
+/items/generic/shpd_potions/potion_snap_freeze.thrownitem	subtitle	Potion	물약	
+/items/generic/shpd_potions/potion_snap_freeze.thrownitem	description	Upon being released, the chemical contained in this potion will rapidly react, instantly freezing all within its effect.	해방되면 이 물약의 화학물질이 급격히 반응해 효과 범위 안의 모든 것을 즉시 얼린다.	
+/items/generic/shpd_potions/potion_snap_freeze.thrownitem	shortdescription	^#66b3ff;Potion of Snap Freeze^reset;	^#66b3ff;급속 동결 물약^reset;	
+/items/generic/shpd_potions/potion_storm_clouds.thrownitem	subtitle	Potion	물약	
+/items/generic/shpd_potions/potion_storm_clouds.thrownitem	description	Throwing this potion will create a cloud of concentrated vapor, which will instantly condense and pour down onto the environment.	이 물약을 던지면 농축 수증기 구름이 생겨 즉시 응결되어 주변 환경에 쏟아져 내린다.	
+/items/generic/shpd_potions/potion_storm_clouds.thrownitem	shortdescription	^#195d80;Potion of Storm Clouds^reset;	^#195d80;폭풍 구름 물약^reset;	
+/items/generic/shpd_potions/potion_toxic_gas.thrownitem	subtitle	Potion	물약	
+/items/generic/shpd_potions/potion_toxic_gas.thrownitem	description	Uncorking or shattering this pressurized glass will cause its contents to explode into a deadly cloud of toxic green gas. You might choose to fling this potion at distant enemies instead of uncorking it by hand.	이 가압 유리병의 마개를 뽑거나 깨면 내용물이 치명적인 유독 녹색 가스 구름으로 폭발한다. 손으로 마개를 뽑기보다 먼 적에게 던지는 편이 나을 수도 있다.	
+/items/generic/shpd_potions/potion_toxic_gas.thrownitem	shortdescription	^#a15ce5;Potion of Toxic Gas^reset;	^#a15ce5;독가스 물약^reset;	
+/items/generic/shpd_scrolls/naudiz.augment	subtitle	Scroll	주문서	
+/items/generic/shpd_scrolls/naudiz.augment	description	"With a right-click, this scroll will upgrade a single weapon, improving its quality.
+A single weapon can be upgraded up to three times with these scrolls."	"우클릭으로 이 주문서는 무기 하나를 강화해 품질을 높인다.
+이 주문서로는 무기 하나를 최대 세 번까지 강화할 수 있다."	
+/items/generic/shpd_scrolls/naudiz.augment	shortdescription	^#ff0;Scroll of Upgrade^reset;	^#ff0;강화 주문서^reset;	
+/objects/crafting/shpd_alchemypot/alchemypot.object	description	This pot is filled with magical water. Items can be mixed in the pot to create something new!	이 솥에는 마법의 물이 가득 차 있다. 솥 안에 물건을 섞어 새로운 것을 만들어 낼 수 있다!	reuse
+/objects/crafting/shpd_alchemypot/alchemypot.object	shortdescription	^orange;Alchemy Pot^reset;	^orange;연금 냄비^reset;	reuse
+/objects/crafting/shpd_alchemypot/alchemypot_old.object	description	This pot is filled with magical water. Items can be mixed in the pot to create something new!	이 솥에는 마법의 물이 가득 차 있다. 솥 안에 물건을 섞어 새로운 것을 만들어 낼 수 있다!	reuse
+/objects/crafting/shpd_alchemypot/alchemypot_old.object	shortdescription	^orange;Alchemy Pot^reset;	^orange;연금 냄비^reset;	reuse
+/shpd_old/brew_caustic.thrownitem	subtitle	Brew	양조	
+/shpd_old/brew_caustic.thrownitem	description	"This brew will spread corrosive ooze around the location it shatters in.
+Anything caught by the ooze will slowly melt if it can't wash it off in liquid."	"이 양조는 깨진 곳 주변으로 부식성 진흙을 퍼뜨린다.
+진흙에 닿은 자는 액체로 씻어내지 못하면 서서히 녹아내린다."	
+/shpd_old/brew_caustic.thrownitem	shortdescription	^#ff0;Caustic Brew^reset;	^#ff0;부식 양조^reset;	
+/shpd_old/brew_frostfire.thrownitem	subtitle	Brew	양조	
+/shpd_old/brew_frostfire.thrownitem	description	"This brew combines the properties of a liquid flame and snap freeze potion.
+
+The area around where the vial is thrown will be snap-frozen, then set ablaze for an extended duration."	"이 양조는 액체 화염과 급속 동결 물약의 성질을 결합한다.
+
+병이 던져진 곳 주변은 급속 동결되고, 이어서 오랫동안 불탄다."	
+/shpd_old/brew_frostfire.thrownitem	shortdescription	^#ff0;Frostfire Brew^reset;	^#ff0;빙화 양조^reset;	
+/shpd_old/brew_infernal.thrownitem	subtitle	Brew	양조	
+/shpd_old/brew_infernal.thrownitem	description	When shattered, this brew will unleash a raging inferno which spreads like a gas.	깨지면 가스처럼 퍼져나가는 맹렬한 지옥불을 해방한다.	
+/shpd_old/brew_infernal.thrownitem	shortdescription	^#ff0;Infernal Brew^reset;	^#ff0;지옥 양조^reset;	
+/shpd_old/brew_shocking.thrownitem	subtitle	Brew	양조	
+/shpd_old/brew_shocking.thrownitem	description	When shattered, this brew will unleash an electrical storm in an area around the location it breaks at.	깨진 곳 주변에 전기 폭풍을 해방한다.	
+/shpd_old/brew_shocking.thrownitem	shortdescription	^#ff0;Shocking Brew^reset;	^#ff0;전격 양조^reset;	
+/shpd_old/brew_wicked.thrownitem	subtitle	Brew	양조	
+/shpd_old/brew_wicked.thrownitem	description	This brew combines the properties of a toxic gas and paralytic gas potion. When exposed to open air the liquid of the brew will erupt into both gasses at once.	이 양조는 독가스와 마비가스 물약의 성질을 결합한다. 액체가 야외 공기에 노출되면 두 가스가 동시에 분출한다.	
+/shpd_old/brew_wicked.thrownitem	shortdescription	^#ff0;Wicked Brew^reset;	^#ff0;사악한 양조^reset;	
+/shpd_old/potion_cleansing.thrownitem	subtitle	Potion	물약	
+/shpd_old/potion_cleansing.thrownitem	description	This powerful reagent will completely neutralize all harmful effects on the drinker when quaffed. It can be thrown at a target to cleanse them as well.	이 강력한 시약은 마시면 음용자의 모든 해로운 효과를 완전히 중화한다. 대상에게 던져 정화할 수도 있다.	
+/shpd_old/potion_cleansing.thrownitem	shortdescription	^#ff4cd2;Potion of Cleansing^reset;	^#ff4cd2;정화 물약^reset;	
+/shpd_old/potion_corrosive_gas.thrownitem	subtitle	Potion	물약	
+/shpd_old/potion_corrosive_gas.thrownitem	description	Uncorking or shattering this pressurized glass will cause its contents to explode into a deadly cloud of corrosive rust-colored gas. The gas is less concentrated however, and will not last for very long.	이 가압 유리병의 마개를 뽑거나 깨면 내용물이 치명적인 부식성 녹청색 가스 구름으로 폭발한다. 다만 농도가 옅어 오래가진 않는다.	
+/shpd_old/potion_corrosive_gas.thrownitem	shortdescription	^#a15ce5;Potion of Corrosive Gas^reset;	^#a15ce5;부식 가스 물약^reset;	
+/shpd_old/potion_dragons_breath.thrownitem	subtitle	Potion	물약	
+/shpd_old/potion_dragons_breath.thrownitem	description	"This flask contains an unusual compound which bursts into flame shortly after mixing with saliva.
+Quickly spitting the liquid will allow the user to spew flame from their mouth!"	"이 플라스크에는 침과 섞인 직후 불꽃이 타오르는 특이한 화합물이 들어 있다.
+액체를 빠르게 뱉으면 입에서 불꽃을 뿜을 수 있다!"	
+/shpd_old/potion_dragons_breath.thrownitem	shortdescription	^#ff7f00;Potion of Dragon's Breath^reset;	^#ff7f00;용의 숨결 물약^reset;	
+/shpd_old/potion_frost.thrownitem	subtitle	Potion	물약	
+/shpd_old/potion_frost.thrownitem	description	The chemical contained in this potion will evaporate into a freezing cloud upon exposure to open air.	이 물약의 화학물질은 야외 공기에 노출되면 얼어붙는 구름으로 증발한다.	
+/shpd_old/potion_frost.thrownitem	shortdescription	^#66b3ff;Potion of Frost^reset;	^#66b3ff;빙결 물약^reset;	
+/shpd_old/potion_liquid_flame.thrownitem	subtitle	Potion	물약	
+/shpd_old/potion_liquid_flame.thrownitem	description	This flask contains an unstable compound which will burst violently into flame upon being opened.	이 플라스크에는 열리는 순간 격렬하게 불타는 불안정한 화합물이 들어 있다.	
+/shpd_old/potion_liquid_flame.thrownitem	shortdescription	^#ff7f00;Potion of Liquid Flame^reset;	^#ff7f00;액체 화염 물약^reset;	
+/shpd_old/potion_paralytic_gas.thrownitem	subtitle	Potion	물약	
+/shpd_old/potion_paralytic_gas.thrownitem	description	"When opened, the liquid in this flask will vaporize into a numbing yellow haze.
+Anyone who inhales the cloud will be paralyzed instantly, unable to move for some time after the cloud dissipates."	"열리면 이 플라스크 속 액체가 무감각한 노란 안개로 기화한다.
+구름을 들이마신 자는 구름이 흩어진 뒤에도 한동안 움직이지 못하고 즉시 마비된다."	
+/shpd_old/potion_paralytic_gas.thrownitem	shortdescription	^#67583d;Potion of Paralytic Gas^reset;	^#67583d;마비 가스 물약^reset;	
+/shpd_old/potion_shrouding_fog.thrownitem	subtitle	Potion	물약	
+/shpd_old/potion_shrouding_fog.thrownitem	description	When exposed to air, the liquid in this flask will produce a thick smoky fog which completely blocks vision.	공기에 노출되면 이 플라스크 속 액체가 시야를 완전히 가리는 짙은 연안개를 만들어낸다.	
+/shpd_old/potion_shrouding_fog.thrownitem	shortdescription	^#a6a6a6;Potion of Shrouding Fog^reset;	^#a6a6a6;장막 안개 물약^reset;	
+/shpd_old/potion_snap_freeze.thrownitem	subtitle	Potion	물약	
+/shpd_old/potion_snap_freeze.thrownitem	description	Upon being released, the chemical contained in this potion will rapidly react, instantly freezing all within its effect.	해방되면 이 물약의 화학물질이 급격히 반응해 효과 범위 안의 모든 것을 즉시 얼린다.	
+/shpd_old/potion_snap_freeze.thrownitem	shortdescription	^#66b3ff;Potion of Snap Freeze^reset;	^#66b3ff;급속 동결 물약^reset;	
+/shpd_old/potion_storm_clouds.thrownitem	subtitle	Potion	물약	
+/shpd_old/potion_storm_clouds.thrownitem	description	Throwing this potion will create a cloud of concentrated vapor, which will instantly condense and pour down onto the environment.	이 물약을 던지면 농축 수증기 구름이 생겨 즉시 응결되어 주변 환경에 쏟아져 내린다.	
+/shpd_old/potion_storm_clouds.thrownitem	shortdescription	^#195d80;Potion of Storm Clouds^reset;	^#195d80;폭풍 구름 물약^reset;	
+/shpd_old/potion_toxic_gas.thrownitem	subtitle	Potion	물약	
+/shpd_old/potion_toxic_gas.thrownitem	description	Uncorking or shattering this pressurized glass will cause its contents to explode into a deadly cloud of toxic green gas. You might choose to fling this potion at distant enemies instead of uncorking it by hand.	이 가압 유리병의 마개를 뽑거나 깨면 내용물이 치명적인 유독 녹색 가스 구름으로 폭발한다. 손으로 마개를 뽑기보다 먼 적에게 던지는 편이 나을 수도 있다.	
+/shpd_old/potion_toxic_gas.thrownitem	shortdescription	^#a15ce5;Potion of Toxic Gas^reset;	^#a15ce5;독가스 물약^reset;	
+/shpd_statuses/blinded.statuseffect	label	Blind	실명	
+/shpd_statuses/caustic.statuseffect	label	Melting	용융	
+/shpd_statuses/chilled.statuseffect	label	Chill	냉기	
+/shpd_statuses/corrosive.statuseffect	label	Melting	용융	
+/shpd_statuses/crippled.statuseffect	label	Crippled	불구	
+/shpd_statuses/drowzy.statuseffect	label	Drowzy	졸림	
+/shpd_statuses/earthen_armor.statuseffect	label	Barkskin	수피	
+/shpd_statuses/experience.statuseffect	label	Blessed	축복	
+/shpd_statuses/haste.statuseffect	label	Haste	가속	reuse
+/shpd_statuses/healing.statuseffect	label	Healing	치유	reuse
+/shpd_statuses/holy_furor.statuseffect	label	Blessed	축복	
+/shpd_statuses/invisibility.statuseffect	label	Invisible	투명	
+/shpd_statuses/levitation.statuseffect	label	Levitation	공중부양	reuse
+/shpd_statuses/paralytic_gas.statuseffect	label	Paralyzed	마비	
+/shpd_statuses/recharging.statuseffect	label	Recharging	재충전	
+/shpd_statuses/shield.statuseffect	label	Barrier	보호막	
+/shpd_statuses/shocked.statuseffect	label	Electrified	감전	reuse
+/shpd_statuses/shrouding_fog_invisible.statuseffect	label	Cloaked	은신	reuse
+/shpd_statuses/snap_frozen.statuseffect	label	Frozen	빙결	reuse
+/shpd_statuses/stamina.statuseffect	label	Stamina	활력	

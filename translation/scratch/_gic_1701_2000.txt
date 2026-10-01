@@ -1,0 +1,887 @@
+=== 1701 ===
+USM47 Conscript Infantry Var.
+=== 1702 ===
+''Empty though the space may be, there are a great many dangers between the stars. What makes these threats most dangerous is that they are few and far between, thus lulling the unwary traveler into complacency.''
+  
+Uses 7.62x39mm STANAG-USM Mags. Most models were built after 2659, marking the end of Floran invasions in human space.
+
+^green;Hold down "Alt Fire" to switch between Full Auto and Semi-Auto.^reset;
+=== 1703 ===
+Rifle Grenade variant of the USM47A2 equipped with an AK-type Spigot Cup launcher used only by NPCs.
+=== 1704 ===
+USM47A2 Flashbang Rifle-Grenade NPC
+=== 1705 ===
+7.62x39mm Assault Rifle.
+=== 1706 ===
+USM47A2 Insurgent Blindfire
+=== 1707 ===
+7.62x39mm Assault Rifle. A2 variant offers higher overall factory-quality standards, reducing clunky uncomfortable recoil movements and excessive wear on the weapon. Models built after 2659, after the end of the Floran Invasion of Humanity.
+=== 1708 ===
+A special NPC-only USM47A2 that has a flashbang as the reload projectile. Also significantly less accurate.
+=== 1709 ===
+USM47A2 Special Spotter
+=== 1710 ===
+7.62x39mm Assault Rifle. Custom-built body allows use of foregrip and sight tradition rail sight attachments, giving it significantly improved tactical flexibility over the traditional non-railed USM47s.
+=== 1711 ===
+USM47A2 Service Rifle
+=== 1712 ===
+''I told you to cease fire. Are you supposed to be observing? I see you with a goddamned rifle!''
+
+A stripped-down and shortened version of the USM47. At the onset of the Floran Invasions, only a handful of colonies were properly-equipped to fight a war.
+^orange;Vandal: Alt-fire to utilize attached bayonet.^reset;
+
+^green;Double-Tap [SHIFT] to switch to a questionable one-handed stance.^reset;
+=== 1713 ===
+''We're all sent here to kill Florans weren't we? What the hell difference does it make, what weapon we use!? I'll use my goddamned hands if I have to.''
+  
+A stripped-down and shortened version of the USM47. At the onset of the Floran Invasions, only a handful of colonies were properly-equipped to fight a war.
+
+^green;Double-Tap [SHIFT] to switch to a comfortable two-handed grip.^reset;
+=== 1714 ===
+USM47P (One-Handed)
+=== 1715 ===
+Special variant that cannot rotate aim.
+=== 1716 ===
+USM47P Undead Variant Base
+=== 1717 ===
+USM60 used by Occasus Advisors. Reload has an angled grenade throw.
+=== 1718 ===
+USM60 Occasus Build NPC
+=== 1719 ===
+NPC-only weapon that is visually 2-handed.
+
+^green;Hold down "Alt Fire" to switch between Full Auto and Semi-Auto.^reset;
+=== 1720 ===
+NPC version of the FUNNY!
+=== 1721 ===
+^yellow;USOA .50 Mouse Commander NPC Var.
+=== 1722 ===
+In war-time, the destruction of various strategic targets can go a long way towards neutralizing the enemy's tactical advantage. Accurate long-range fire is necessary to eliminate high-value targets. Operational forces are soon rendered ineffective without the support of radar installations, communications equipment, aircraft, command centres and fuel storage facilities. This anti-material rifle handles all those and more, by firing 12.7x108mm ammunition.
+=== 1723 ===
+^yellow;Unified Systems Ordnance Arms .50
+=== 1724 ===
+Vich-919 intended to be used by NPCs only.
+
+^green;Hold down "Alt Fire" to switch between Full Auto and Semi-Auto.^reset;
+=== 1725 ===
+Vich-919 .Special Spotter NPC
+=== 1726 ===
+Wolf-Soldier Crossbow
+=== 1727 ===
+The lord of the Japanese island Tanegashima Tokitaka (1528-1579) purchased two matchlock rifles from the Portuguese and put a swordsmith to work copying the matchlock barrel and firing mechanism.
+
+Uses 20mm Blackpowder Ball and Shot ammunition.
+
+^#DD765F;HIT CHANCE replaced with CRIT CHANCE (all projectiles always hit). CRIT Shots have different effects based on the shot.^reset;
+=== 1728 ===
+Nagashima Matchlock
+=== 1729 ===
+''Imagawa has 40 000 men marching toward this place? I don't believe that. He 'only' has 25 000 soldiers. Yes, that is still too many. So, Sado, you want me to surrender. What if we do surrender? Will you get content with losing your life that way?''
+
+^#DD765F;HIT CHANCE replaced with CRIT CHANCE (all projectiles always hit). CRIT Shots have different effects based on the shot.^reset; Uses 20mm Musket Ball and Shot.
+=== 1730 ===
+Nagashino Matchlock
+=== 1731 ===
+Corrosive Talisman
+=== 1732 ===
+The Shrine-Guardians, dedicated to the advancement of magics as they were the protection of Shinto-Buddhist shrines needed more direct means to combat the physicalization of Gensokyan-Youkai. What they lacked for in chemical equipment, they made up for with their scientific combinations of existing divine enchantments and prayers.
+
+^#8FAED3;Deals 20 PSYCHIC DMG | Afflicts RAPID-CORROSION for 10s | Lowers DMG RES of affected enemies by -30%
+=== 1733 ===
+Flame Talisman
+=== 1734 ===
+When the Hakurei Shrine Maiden and her magician companion went missing, a new generation of priests and monks were required to fulfill the roles that were once only held by a tiny handful. The Shrine-Guardians were one of the few still faithful to the Shinto-Buddhist philosophies that Gensokyo was founded on.
+  
+^#8FAED3;Deals 80 THERMAL DMG | Afflicts target with IGNITION for 10s.
+=== 1735 ===
+Oil Talisman
+=== 1736 ===
+A strange variant of magic devised by the Gensokyan Shrine-Guardians. Initially a replicable spell for lubricating oils, it could be altered in desperate defenses to coat enemy soldiers in oil who could then be ignited by more physical means.
+
+^#8FAED3;Deals 20 PSYCHIC DMG | Afflicts OIL for 10s | Oil can be ignited by dealing enough THERMAL DMG or by using a firearm (for less IGNITION duration).
+=== 1737 ===
+Overcharging Talisman
+=== 1738 ===
+The Shrine-Guardians found themselves increasingly weaponizing their arsenal of magic to fight any youkai who grew beyond the physical constraints of their typically human-like bodies. Talismans like these applied the advancements in medical knowledge that the spirited-away refugees of World War 3 brought, targeting neurons across the body to disrupt the muscles.
+^#8FAED3;Deals 20 PSYCHIC DMG | Afflicts OVERCHARGING for 15s | Lowers attack damage of bosses and most melee enemies by -50% | Does not work on tactical infantry.
+=== 1739 ===
+Standard Talisman
+=== 1740 ===
+The standard throwing talisman used by Shrine Maidens, the later Shrine-Guardians, and various magically-attuned occultists during Gensokyo's 'Era of Peace' prior to World War 3. While more effective talismans and spells have been developed since the reign of Marcian under the Royalist Army (and later Parliamentarian and Republic governments), some stick to these older methods out of tradition. ^#8FAED3;Deals 140 PSYCHIC DMG | All throwing talismans do not benefit from proficiencies or 'throwing weapon' triggers, but also do not build up occult force.
+=== 1741 ===
+Steel-Tip Talisman
+=== 1742 ===
+A talisman imbued with a double-stage effect. Like other talismans, it is innately weightless which gives it its projectile properties. Nearing contact with a surface reverses the effect and reshaping its form into a spike, giving the paper immense mass for a moment before dissipating from the intense energy consumption of this action.
+  
+^#8FAED3;Deals 100 THRUST DMG | Flies significantly faster than regular talismans.
+=== 1743 ===
+Brightworm Capsule
+=== 1744 ===
+''Sick bastards...''
+  
+Shatters upon impact, releasing a single brightworm.
+
+^orange;Brightworms are hostile, unholy parasitic lifeforms. If they manage to kill someone, 3 more brightworms are released. They do not attack the powers that control them...
+=== 1745 ===
+Fan of Knives
+=== 1746 ===
+''Another day, your truth will come
+You're gonna pay for what you've- pay for what you've done
+You'll tell them, give me back what's mine
+Give me back what's mine.''
+
+^orange;Knives deal HEAVY BLEED and MELEE DMG.^reset;
+=== 1747 ===
+Fan of Talismans
+=== 1748 ===
+''If something hurts them, then it hurts them. It doesn't matter whether that has to be a grain of rice or a piece of paper. Both Youkai and Anomalies are vulnerable against certain rituals.''
+  
+Deals 20 x 7 PSYCHIC DMG.
+=== 1749 ===
+Fish Hunting Spear
+=== 1750 ===
+A throwing spear primarily for hunting fish, but can also be used to attack other monsters should the situation arise. Whilst crude and often mocked by stronger Florans, the Fish Hunter's Spear has been a staple of any civilization that passively harvests fish from the shores of rivers and oceans alike. Monsters will drop meat if killed by this spear.
+=== 1751 ===
+Modèle 50 Mine
+=== 1752 ===
+''BIOSCAN COMPLETED. DOOR UNLOCKED. *BANG*''
+
+Throwable mine that can be attached to walls to act as traps for unwary attackers. The mine explodes forward from its top, sending a hailstorm of shrapnel in that direction. The mine also has a near-instantaneous arming time, making it suitable as both a regular trap and as a makeshift grenade.
+=== 1753 ===
+Modèle 50 Mine Bundle
+=== 1754 ===
+''Try me.''
+  
+4 MLE-50 Mines strapped to each other. Splits apart on throwing, allowing for the user to quickly set up a mine field.
+=== 1755 ===
+Molotov Firebomb
+=== 1756 ===
+Direct hits on enemies afflict ^orange;OIL-COATING.^reset; Flames from these molotovs will afflict standard ^orange;BURNING,^reset; as well as ^orange;IGNITION and PANIC^reset; on any target afflicted with ^orange;OIL-COATING.^reset;
+
+^orange;IGNITION^reset; deals non-scaled but high amounts of THERMAL damage on targets, as well as afflicting ^orange;PANIC^reset; in enemy infantry, preventing them from using firearms.
+=== 1757 ===
+Oil Bottle
+=== 1758 ===
+''There's one thing all manner of Human and Youkai share a fright of, and that thing is flame. Or domestic violence.''
+  
+Upon impact releases an AoE oil cloud which afflicts ^orange;OIL-COATING.^reset;
+
+^orange;Bullet impacts, flames, or dealing 15 THERMAL DMG to OIL-COATED targets causes IGNITION.
+=== 1759 ===
+Stun Mine
+=== 1760 ===
+A deployable mine that stuns, rather than outright damaging targets. It will scan for targets to the left and right of the mine, and detonate indiscriminately once armed. Upon detonation, it explodes, blinding and stunning all targets within range akin to a Stun Grenade. Will detect enemies through doors and walls, so be sure to give it plenty of open space! 5 minute auto-detonation timer.
+=== 1761 ===
+Private security companies have a tendency to be tasked with good old fasion riot control, typically on impoverished mega colonies when the locals begin mass looting, rioting, or threatening government & corporate property. So no contractors worth their salt will be missing some form of basic padded riot gear.
+^#DBC5A6;DEF: +25% BLUNT | +20% SLASH | +20% THRUST | +20% THERMAL.^reset;
+^#F2B8EC;Lethal Force Authorized [FULL SET 3x] - Refer to the Bailey Security Tactical Helmet.
+=== 1762 ===
+Bailey Security Riot Armor (Torso)
+=== 1763 ===
+Standard Bailey Sec helmet with an added plexiglass visor for riot control | ^#DBC5A6;DEF: +20% BLUNT | +15% SLASH | +10% THERMAL^reset;
+^#F2B8EC;Lethal Force Authorized [FULL SET 3x] - Firing a Pistol, SMG, or Shotgun grants a charge (6s) that empowers the next hammer swing with a wave that deals +100 BLUNT DMG and guaranteed 3s STAGGER (5s cooldown) | Swinging a hammer-type melee empowers the next Pistol/SMG/Shotgun shot (6s) with +50% Weapon Proficiency (+ACC).
+=== 1764 ===
+Bailey Security Riot Helmet
+=== 1765 ===
+Just the same basic ''combat'' pants that the rest of the security force uses but with some extra gear & accessories for riots.
+
+^#DBC5A6;DEF: +10% BLUNT | +10% SLASH | 5% THRUST | +15% THERMAL^reset;
+^#F2B8EC;Lethal Force Authorized [FULL SET 3x] - Refer to the Bailey Security Tactical Helmet.
+=== 1766 ===
+Bailey Security Riot Armor (Legs)
+=== 1767 ===
+A basic tactical load bearing vest with a level II armor plate to carry various standard assault rifle mags & space for other accessories & equipment. Simple flashbangs tend to be the favorite of most security contractors due to typically restrictive ROE.
+^#DBC5A6;DEF: +15% SMALL-ARMS | -20% BLEED PROC^reset; | ^#FFCE6D;Tactical Positioning [CHEST] - +2.5% Crouch Proficiency with ARs, SMGs, and Shotguns.
+^#CCD8B6;Overwhelming Defense [FULL SET] - Refer to the Bailey Security Tactical Armor (Legs).
+=== 1768 ===
+Bailey Security Tactical Armor (Torso)
+=== 1769 ===
+The helmet used by the security forces here isn't anything too special. Made of amagnetic steel & sporting a ballistic fiber coating, its cheap & effective enough for PDF's & security forces.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | -7.5% BLEED PROC.^reset; | ^#FFCE6D;Tactical Positioning [HEAD] - +2.5% Crouch Proficiency with ARs, SMGs, and Shotguns.
+^#CCD8B6;Overwhelming Defense [FULL SET] - Refer to the Bailey Security Tactical Armor (Legs).
+=== 1770 ===
+Bailey Security Tactical Helmet
+=== 1771 ===
+Pretty much a pair of high quality cargo pants.
+
+^#DBC5A6;DEF: +10% DODGE | -10% BLEED PROC | +10% THERMAL.^reset;
+^#FFCE6D;Tactical Positioning [LEGS] - +2.5% Crouch Proficiency with ARs, SMGs, and Shotguns.
+^#CCD8B6;Overwhelming Defense [FULL SET] - Nearby flashbanged enemies are debuffed for 15s, taking +25% DMG from MELEE, BLEED, and BALLISTIC sources.
+=== 1772 ===
+Bailey Security Tactical Armor (Legs)
+=== 1773 ===
+''The body-armor is consistent with their melee warrior units, with the exception of the addition of pouches and a general lighter build. The armor consists of solid stone and metal plating, both of which are of no hindrance due to restructuring... It's as if the Abyss is playing God with our flesh. The flesh is fluid. It can be changed, reshaped, remade.''
+^#DBC5A6;DEF: +35% SLASH | +20% THRUST^reset; | ^#96CBE7;Shieldsman [CHEST]: Summons a Shieldsman that lasts for 60s | Cannot be buffed by Strategic Trinkets | 30s cooldown.^reset;
+=== 1774 ===
+Stone Legion Chestpiece
+=== 1775 ===
+''The Abyss' response to overwhelming human resistance was to restructure what it found: The lower face has been reformed into a solid faceplate. The human eyes have been entirely replaced with multiple sensory crystals in a mesh. A mundane combat helmet seems to form a sort of secondary skull.''
+
+^#DBC5A6;DEF: +20% SLASH | +10% THRUST.^reset;
+^#96CBE7;Infested Rats [HEAD]: Summons two small Infested Rats | Cannot be buffed by Strategic Trinkets | 30s cooldown.^reset;
+=== 1776 ===
+Stone Legion Helmet
+=== 1777 ===
+''A rather unremarkable piece of armor. Unlike the heavy modifications and genetic melding the Abyss has done on the human body, these leggings are simply made of stone and patchwork fabric with no interfacing on the flesh. A remarkably unremarkable piece of eldritch technology.''
+  
+^#DBC5A6;DEF: +20% SLASH | +15% THRUST.^reset;
+^#96CBE7;Abyssal Turret [LEGS]: Summons a turret that lasts for 60s | Cannot be buffed by Strategic Trinkets | 30s cooldown.^reset;
+=== 1778 ===
+Stone Legion Leggings
+=== 1779 ===
+A work jumpsuit with a rubbery exterior made for synthetic workers. Bright orange tends to be the most common color of choice for synth suits due to safety concerns.
+  
+^#96CBE7;Shootout Training [CHEST] - +15% DODGE when holding a pistol or revolver and stationary.^reset;
+=== 1780 ===
+Synth Maintenance Jumpsuit (Top)
+=== 1781 ===
+A bright orange cap made for synthetic workers.
+
+^#96CBE7;Shootout Training [HEAD] - +15% DODGE when holding a pistol or revolver and stationary.^reset;
+=== 1782 ===
+Synth Maintenance Cap
+=== 1783 ===
+A work jumpsuit with a rubbery exterior made for synthetic workers. Bright orange tends to be the most common color of choice for synth suits due to safety concerns.
+
+^#96CBE7;Shootout Training [LEGS] - +15% DODGE when holding a pistol or revolver and stationary.^reset;
+=== 1784 ===
+Synth Maintenance Jumpsuit (Bottom)
+=== 1785 ===
+A stylish hat, often seen worn by soldiers on base or within safe/rear line sectors. Special forces & even regular infantry are known to wear these into combat at times if operating in temperate climates were a helmet would be uncomfortable. This one is in Swiss TAZ-83 pattern camo.
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Heavy Warfighter [HEAD]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana.
+=== 1786 ===
+Patrol Cap (TAZ-83 Alpenflage)
+=== 1787 ===
+A unique Cold War era Swiss infantry rucksack designed to attach itself directly to a Swiss uniform. Another oddball design that never really picked up much traction.
+
+^#CCD8B6;+1.5HP/s.^reset;
+=== 1788 ===
+Swiss Army Surplus Rucksack (TAZ-83 Alpenflage)
+=== 1789 ===
+TAZ-83 Alpenflage is an obscure camo pattern that still finds use with some planetary defence forces & rebel groups. Many people find the pattern to be fairly silly looking based on its odd appearance, using vibrant reds & greens in its color scheme. The pattern has thus garnered the nickname ''Pizza Camo''. Despite the odd look however, the pattern does indeed work, and very well.
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#CCD8B6;+5% General Weapon Proficiency.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana.
+=== 1790 ===
+Military Surplus Trousers (Alpenflage)
+=== 1791 ===
+The Swiss Army infantry uniform of the mid to late 20th century was very unique in that, unlike other uniforms, it integrated webbing into the jacket. This design philosophy never went mainstream, but there's still a fair amount of planetary forces (and even rebel groups) that have adopted the design.
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Bush Fighter [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana.
+=== 1792 ===
+Military Surplus Tunic (Alpenflage)
+=== 1793 ===
+A simple patrol cap in TAZ-83 used by the local rebels. Has a nice pair of goggles with it too.
+
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Heavy Warfighter [HEAD]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana.
+=== 1794 ===
+Rebel Patrol Cap (Goggles)
+=== 1795 ===
+An ancient combat helmet introduced after the First World War by Switzerland. The design would be updated many times & be used well into the late 20th century & the Third World War. To this day some PDFs use the helmet as it's cheap & easy to manufacture.
+  
+^#DBC5A6;DEF: +15% SMALL-ARMS^reset; | ^#FFCE6D;Heavy Warfighter [HEAD]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana.
+=== 1796 ===
+Swiss M1971 Helmet (Strapped, Alpenflage)
+=== 1797 ===
+A unique backpack used by the Denmarkans which consists of one large roll, which are intended to carry boots, a smaller box for small items, and whatever else they could fit into it.
+
+^#CCD8B6;+10% DODGE.^reset;
+
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Refer to the Denmarkan Line Infantry Hat for effects.
+=== 1798 ===
+Machinarius Denmarkan Line Infantry Backpack
+=== 1799 ===
+The Denmarkans of Denmarka are one of many kingdoms within the Holy Machinarius Empire, with their people descending from an ancient forgotten country. While not technologically impressive nor as powerful as their brother nations, they've managed to create a name for themselves in the homeland.
+  
+^#DBC5A6;DEF: +10% DODGE | +20% THERMAL.
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Refer to the Denmarkan Line Infantry Hat for effects.
+=== 1800 ===
+Machinarius Denmarkan Line Infantry Uniform
+=== 1801 ===
+''I have seen a single line of infantry break through three lines of cavalry ranks, in order of battle, and tumble them to ruin.''
+^#DBC5A6;DEF: +10% DODGE | +15% THERMAL.
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Firing a two-handed Muzzleloader/Sniper Rifle activates GLORY | When GLORY is active: Forces walking, -50% Movement, +50% Muzzleloader/Sniper Rifle Proficiency, +50% SMALL-ARMS (+25% Heavy-Arms) Resist, +5HP/s | Ability only lasts an initial 10s (6s for sniper rifles), but can be refreshed on each reload | 45s cooldown if expiring.
+=== 1802 ===
+Machinarius Denmarkan Line Infantry Hat
+=== 1803 ===
+The Denmarkans were allocated a relatively-backwater province to prove their fighting worth, being allowed to have full autonomy of their own combat theatre. This trial by fire is an honor that other smaller nations are often unable to claim.
+  
+^#DBC5A6;DEF: +10% DODGE | +15% THERMAL.
+
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Refer to the Denmarkan Line Infantry Hat for effects.
+=== 1804 ===
+Machinarius Denmarkan Line Infantry Pants
+=== 1805 ===
+It is said that the Messiah and first Great Inventor of the Machinarius Doctrine was also a pirate, though many scholars reject this claim entirely.
+^#DBC5A6;DEF: +10% DODGE | +15% THERMAL^reset; | ^#FFCE6D;Skirmisher [CHEST]: +10% Muzzle-Loader Proficiency | ^#F2B8EC;Swashbucklin' Shock! [FULL SET 3x REQUIRED] - Firing a one-handed Muzzleloader whilst wielding a sword in the other grants 2s +100% DMG RES (physical) and 5s +100% SLASH/BLEED DMG against nearby enemies | 5s cooldown.
+=== 1806 ===
+Mariner Shirt
+=== 1807 ===
+Associated with the town of Monmouth in South East Wales of the United Kingdom, these knitted round caps were widely exported and used by both sailors and soldiers.
+^#FFCE6D;Light Infantry Luck: The next bullet deals 80% less DMG | 15s cooldown per proc | ^#F2B8EC;Swashbucklin' Shock! [FULL SET 3x REQUIRED] - Firing a one-handed Muzzleloader whilst wielding a sword in the other grants 2s +100% DMG RES (physical) and 5s +100% SLASH/BLEED DMG against nearby enemies | 5s cooldown.
+=== 1808 ===
+Mariner Monmouth
+=== 1809 ===
+Whether or not the first Great Inventor and Messiah was a pirate or not, it remained clear that his mere presence paved the way for others.
+^#DBC5A6;DEF: +10% DODGE | +25% THERMAL^reset; | ^#FFCE6D;Skirmisher [LEGS]: +10% Muzzle-Loader Proficiency | ^#F2B8EC;Swashbucklin' Shock! [FULL SET 3x REQUIRED] - Firing a one-handed Muzzleloader whilst wielding a sword in the other grants 2s +100% DMG RES (physical) and 5s +100% SLASH/BLEED DMG against nearby enemies | 5s cooldown.
+=== 1810 ===
+Mariner Pants
+=== 1811 ===
+For every minute of combat, there are a hundred hours of menial labor. Since the Roman Empire and the birth of the professional soldier, the line between worker and soldier blurred. Roman soldiers during peacetime would be ordered to build civil infrastructure. When war came knocking, they would instead build trails through thick forests, bridges across vast rivers, and wooden forts before every nightfall.
+^#DBC5A6;Identical stats to Mariner Chestwear, and counts towards the full set bonus.
+=== 1812 ===
+Mariner Laborer's Sling
+=== 1813 ===
+Being a mariner was tough work. Regardless of whether you served in an official capacity in a navy or as a sailor on an independent pirate vessel, the sea itself would be the cruellest mistress. Disease and scurvy was all-too common, and freak waves could capsize ships out of seemingly nowhere.
+
+^#DBC5A6;Identical stats to Mariner Legwear, and counts towards the full set bonus.
+=== 1814 ===
+Mariner Laborer's Baggy Pants
+=== 1815 ===
+Mariner Soldiers are terms for well-equipped pirate marines, often equipped with high-quality Machinarius rifles. Their role is both as forward scouts and as skirmishers, unleashing accurate rifle fire from hidden positions. ^#DBC5A6;DEF: +10% DODGE | +15% THERMAL.^reset;
+^#FFCE6D;Skirmisher [CHEST]: +10% Muzzle-Loader Proficiency.
+^#F2B8EC;Closing Shots [FULL SET 3x REQUIRED] - Holding 6 or less musket shots increases crit-rate by 80% but increases spread by 100% | Holding more than 6 reduces crit rate by 100% but reduces spread by 80%
+=== 1816 ===
+Mariner Soldier's Rig
+=== 1817 ===
+'Jack Tar' was a common English term that was used to refer to seamen of the Merchant Navy or the Royal Navy, particularly during the reign British Empire.
+^#FFCE6D;Light Infantry Luck: The next bullet deals 80% less DMG | 15s cooldown per proc | ^#F2B8EC;Closing Shots [FULL SET 3x REQUIRED] - Holding 6 or less musket shots increases crit-rate by 80% but increases spread by 100% | Holding more than 6 reduces crit rate by 100% but reduces spread by 80%
+=== 1818 ===
+Mariner Soldier's Jack Tar Hat
+=== 1819 ===
+While pirates could hail from any background so long as their moral compass was skewed in the right ways, those with naval or soldiering backgrounds had a distinct advantage. While a worker can only work, a soldier can fight as well as work! ^#DBC5A6;DEF: +10% DODGE | +25% THERMAL^reset; | ^#FFCE6D;Skirmisher [LEGS]: +10% Muzzle-Loader Proficiency.
+^#F2B8EC;Closing Shots [FULL SET 3x REQUIRED] - Holding 6 or less musket shots increases crit-rate by 80% but increases spread by 100% | Holding more than 6 reduces crit rate by 100% but reduces spread by 80%
+=== 1820 ===
+Mariner Soldier's Baggy Pants
+=== 1821 ===
+Thomas was able to steal his old uniform back before escaping a Machinarius prison, though missings its epaulettes.
+  
+^#DBC5A6;DEF: +10% DODGE | +15% THERMAL^reset; | ^#FFCE6D;Skirmisher [CHEST]: +10% Muzzle-Loader Proficiency | ^#F2B8EC;Swashbucklin' Shock! [FULL SET 3x REQUIRED] - Firing a one-handed Muzzleloader whilst wielding a sword in the other grants 2s +100% DMG RES (physical) and 5s +100% SLASH/BLEED DMG against nearby enemies | 5s cooldown.
+=== 1822 ===
+Thomas Vane's Pirate Coat
+=== 1823 ===
+Thomas is a dishonored man, on the run from the Machinarius after he was committed for treason. He took to piracy to find a new life.
+  
+^#FFCE6D;Light Infantry Luck: The next bullet deals 80% less DMG | 15s cooldown per proc | ^#F2B8EC;Swashbucklin' Shock! [FULL SET 3x REQUIRED] - Firing a one-handed Muzzleloader whilst wielding a sword in the other grants 2s +100% DMG RES (physical) and 5s +100% SLASH/BLEED DMG against nearby enemies | 5s cooldown.
+=== 1824 ===
+Thomas Vane's Pirate Tricorne
+=== 1825 ===
+Thomas' still tries to command his fellow pirates with a degree of professionalism, but such men were inherently untrustworthy.
+  
+^#DBC5A6;DEF: +10% DODGE | +25% THERMAL^reset; | ^#FFCE6D;Skirmisher [LEGS]: +10% Muzzle-Loader Proficiency | ^#F2B8EC;Swashbucklin' Shock! [FULL SET 3x REQUIRED] - Firing a one-handed Muzzleloader whilst wielding a sword in the other grants 2s +100% DMG RES (physical) and 5s +100% SLASH/BLEED DMG against nearby enemies | 5s cooldown.
+=== 1826 ===
+Thomas Vane's Pirate Pants
+=== 1827 ===
+Thomas Vane Chest NPC
+=== 1828 ===
+Thomas Vane Companion NPC
+=== 1829 ===
+Tachishige, like other samurai, retain absolute loyalty to their superiors. His order was to protect the local Lords of the land no matter how feeble their leadership skills may have seemed. This loyalty after all was assigned by the Shogun himself.
+
+^#DBC5A6;DEF: +30% SLASH | 20% THRUST | +10% BLEED PROC | +20 MAX HP.^reset;
+^#F2B8EC;Shogun's Bravest [FULL SET 3x REQUIRED] - Special Melee Attacks will also trigger effects that would've required a Perfect-Parry or Counter-Attack.
+=== 1830 ===
+Crimson Samurai Chestguard
+=== 1831 ===
+Sun Tachishige was one of 3 sons of the Shogun himself, sent to oversee the provincial governments of the Sun Shogunate. Tachishige had the worst of his brothers, overseeing the backwater province of Ichizen that was unceremoniously handed-down to the samurai veterans of the Clan Unity Wars.
+^#DBC5A6;DEF: +15% SLASH | +7.5% THRUST | +10% BLEED PROC | +10 MAX HP^reset;
+^#F2B8EC;Shogun's Bravest [FULL SET 3x REQUIRED] - Special Melee Attacks will also trigger effects that would've required a Perfect-Parry or Counter-Attack.
+=== 1832 ===
+Crimson Samurai Kabuto
+=== 1833 ===
+Tachishige would inevitably meet his end at the Battle of Ichizen Castle. Ultimately, he was only loyal to his country, seeing a foreign invasion force destroy everything he and his culture stood for. Peace and tradition, uprooted by fanatics obsessed with 'progress'.
+^#DBC5A6;DEF: +20% SLASH | +15% THRUST | +10% BLEED PROC | +10 MAX HP.^reset;
+^#F2B8EC;Shogun's Bravest [FULL SET 3x REQUIRED] - Special Melee Attacks will also trigger effects that would've required a Perfect-Parry or Counter-Attack.
+=== 1834 ===
+Crimson Samurai Legwear
+=== 1835 ===
+Shimano Yamashine was rewarded the status of Lord and the agricultural (albeit faltering) province of Ichizen after a deal was made that caused one of the greatest military disasters for the Holy Machinarius Empire, resulting in their first prized battleship being lost and an overwhelming Shogunate naval victory.
+
+^#96CBE7;Peasant Diet [CHEST]: Slightly reduces hunger rate.^reset;
+=== 1836 ===
+Shimano's Lower Kimono
+=== 1837 ===
+-NOT APPLICABLE-
+
+^#96CBE7;Peasant Diet [HEAD]: Slightly reduces hunger rate.^reset;
+=== 1838 ===
+Shimano's Haircut
+=== 1839 ===
+While his soldiers stood valiantly for their Lord, Shimano retreated to his quarters to drown his sorrows as the Battle for Ichizen began to favor the invading Denmarkan forces. He took his own life once they had made it to the central castle. Shinsengumi Officer Takuchi Moya would keep his death a secret to prevent shattering the castle defender's morale.
+  
+^#96CBE7;Peasant Diet [LEGS]: Slightly reduces hunger rate.^reset;
+=== 1840 ===
+A layer of high-quality chainmail is worn under the plate along with hard leather gloves to provide maximum protection against the undead. While providing immense damage resistance, it leaves the bearer vulnerable to gunpowder weapons. Oppressively heavy, it takes immense training to be able to wear such a set.
+
+^#DBC5A6;DEF: +30% SLASH | +20% THRUST | +25% BLEED PROC | +35 MAX HP.^reset;
+^#F2B8EC;Demon Hunter [FULL SET 3x REQUIRED] - Nearby enemies that take SLASH DMG also take an additional 100 PSYCHIC DMG per hit.
+=== 1841 ===
+Shogunate Demon Hunter Chestguard
+=== 1842 ===
+A heavy variant of the kabuto with additional face-plating and plating to protect against the hordes of undead. The Shogunate and the Machinarius Empire recognized the need to protect their own troops against the undead, and so equipped specialist troops with heavy armor.
+
+^#DBC5A6;DEF: +15% SLASH | +7.5% THRUST | +20% BLEED PROC.^reset;
+^#F2B8EC;Demon Hunter [FULL SET 3x REQUIRED] - Nearby enemies that take SLASH DMG also take an additional 100 PSYCHIC DMG per hit.
+=== 1843 ===
+Shogunate Demon Hunter Kabuto
+=== 1844 ===
+A weighty pair of reinforced pants with brigandine-style plating combined with conventional samurai armor plates, providing high degrees of resistance to any undead slash, stab, or bite. It is oppressively heavy for legwear.
+
+^#DBC5A6;DEF: +20% SLASH | +22.5% THRUST | +25% BLEED PROC | +10 MAX HP.^reset;
+^#F2B8EC;Demon Hunter [FULL SET 3x REQUIRED] - Nearby enemies that take SLASH DMG also take an additional 100 PSYCHIC DMG per hit.
+=== 1845 ===
+Shogunate Demon Hunter Legwear
+=== 1846 ===
+The real change for the ashigaru began in 1543 with the introduction of matchlock firearms by the Portuguese. Almost immediately local daimyōs started to equip their ashigaru with the new weapon. ^#DBC5A6;DEF: +30% SLASH | 15% THRUST^reset; | ^#FFCE6D;Ashigaru's Resolve [CHEST] - Perfect-Parries with a spear or katana grant a charge. The next melee attack in the next 4s with a spear or katana releases a short-ranged slash that deals 40 SLASH DMG | DMG scales per piece | ^#F2B8EC;Resilience of the Meek [FULL SET 3x REQUIRED] - Additional +10% BLUNT/SLASH/THRUST DEF.
+=== 1847 ===
+Kachi Chestguard
+=== 1848 ===
+The samurai class in feudal Japan, as well as their retainers and footsoldiers, used several types of jingasa made from iron, copper, wood, paper, bamboo, or leather.
+^#DBC5A6;DEF: +10% SLASH | +5% THRUST^reset; | ^#FFCE6D;Ashigaru's Resolve [HEAD] - Perfect-Parries with a spear or katana grant a charge. The next melee attack in the next 4s with a spear or katana releases a short-ranged slash that deals 40 SLASH DMG | DMG scales per piece | ^#F2B8EC;Resilience of the Meek [FULL SET 3x REQUIRED] - Additional +10% BLUNT/SLASH/THRUST DEF.
+=== 1849 ===
+Kachi Jingasa
+=== 1850 ===
+The first known reference to ashigaru was in the 14th century, but it was during the Ashikaga shogunate that the use of ashigaru became prevalent by various warring factions.
+^#DBC5A6;DEF: +15% SLASH | 5% THRUST^reset; | ^#FFCE6D;Ashigaru's Resolve [LEGS] - Perfect-Parries with a spear or katana grant a charge. The next melee attack in the next 4s with a spear or katana releases a short-ranged slash that deals 40 SLASH DMG | DMG scales per piece | ^#F2B8EC;Resilience of the Meek [FULL SET 3x REQUIRED] - Additional +10% BLUNT/SLASH/THRUST DEF.
+=== 1851 ===
+Kachi Legwear
+=== 1852 ===
+A Prussian-styled backpack worn by the Shogunate troops of Eskhatos. The Sun Shogunate is conventionally behind the Machinarius, but they've compensated in various fields through the use of Soul Stones and a surprising willingness to adopt foreign ideas.
+  
+^#CCD8B6;+10% DODGE.^reset;
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Refer to the Shogunate Line Infantry Hat for effects.
+=== 1853 ===
+Shogunate Line Infantry Backpack
+=== 1854 ===
+The Sun Shogunate is fully aware of the situation they are in. They are fighting a hostile empire that feverishly worships the very act of creation itself and they are at political odds with their older samurai-styled fighting force. Nonetheless, the formation of their own line infantry forces are necessary if they want to survive.
+
+^#DBC5A6;DEF: +10% DODGE | +20% THERMAL.
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Refer to the Shogunate Line Infantry Hat for effects.
+=== 1855 ===
+Shogunate Line Infantry Uniform
+=== 1856 ===
+''If you do not enter the tiger's cave, you will not catch its cub.''
+  
+^#DBC5A6;DEF: +10% DODGE | +15% THERMAL.
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Firing a two-handed Muzzleloader/Sniper Rifle activates GLORY | When GLORY is active: Forces walking, -50% Movement, +50% Muzzleloader/Sniper Rifle Proficiency, +50% SMALL-ARMS (+25% Heavy-Arms) Resist, +5HP/s | Ability only lasts an initial 10s (6s for sniper rifles), but can be refreshed on each reload | 45s cooldown if expiring.
+=== 1857 ===
+Shogunate Line Infantry Hat
+=== 1858 ===
+There's a cultural stigma within the Sun Shogunate's borders where those trained in 'western' line warfare are inherently more cowardly and simply not as martially-skilled as their older 'traditional' brethren. The troops of the Machinarius have seen otherwise, witnessing a ferocious army of firearm-skilled units capable of overwhelming fire and force where needed.
+^#DBC5A6;DEF: +10% DODGE | +15% THERMAL.
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Refer to the Shogunate Line Infantry Hat for effects.
+=== 1859 ===
+Shogunate Line Infantry Pants
+=== 1860 ===
+''Look! I nicked some armor!''
+  
+^#DBC5A6;DEF: +30% SLASH | 15% THRUST^reset; | ^#F2B8EC;Counts towards Machinarius/Sun Shogunate Line Infantry full set bonus.
+=== 1861 ===
+Shogunate Line Infantry Uniform (Armored)
+=== 1862 ===
+''The way of the merchant. The wine maker obtains his ingredients and puts them to use to make his living. The way of the merchant is always to live by taking profit.''
+
+^#96CBE7;Peasant Diet [CHEST]: Slightly reduces hunger rate.^reset;
+=== 1863 ===
+Shogunate Peasant Upper Kimono
+=== 1864 ===
+''The way of the farmer. Using agricultural instruments, he sees springs through to autumns with an eye on the changes of the season.''
+
+^#96CBE7;Peasant Diet [HEAD]: Slightly reduces hunger rate.^reset;
+=== 1865 ===
+Shogunate Peasant Straw Hat
+=== 1866 ===
+''The way of the artisan. The way of the carpenter is to become proficient in the use of his tools, first to lay his plans with true measure and then perform his work according to plan. Thus he passes through life.''
+  
+^#96CBE7;Peasant Diet [LEGS]: Slightly reduces hunger rate.^reset;
+=== 1867 ===
+Shogunate Peasant Lower Kimono
+=== 1868 ===
+It was no secret that the Samurai class were desperate to retain their status after the increasing numbers of professional 'peasant' soldiers began to threaten their position. It is not helped with the Shogun's 'westernization' of the military.
+
+^#DBC5A6;DEF: +30% SLASH | 20% THRUST | +10% BLEED PROC | +20 MAX HP.^reset;
+^#F2B8EC;Way of the Samurai [FULL SET 3x REQUIRED] - +50 Stability | +200% Block Stability Regen for 6s when blocking bullets with Katanas/Spears.
+=== 1869 ===
+Shogunate Samurai Chestguard
+=== 1870 ===
+The Shogunate upon unifying the country promised protection for the Samurai class, allowing them to retain their nobility status above the peasantry. At the same time though, the ashigaru that fought the majority of those battles were also granted low-ranking samurai status as a means of preventing a peasant-revolt. ^#DBC5A6;DEF: +15% SLASH | +7.5% THRUST | +10% BLEED PROC | +10 MAX HP^reset; | ^#F2B8EC;Way of the Samurai [FULL SET 3x REQUIRED] - +50 Stability | +200% Block Stability Regen for 6s when blocking bullets with Katanas/Spears.
+=== 1871 ===
+Shogunate Samurai Kabuto
+=== 1872 ===
+The samurai of the Shogunate have become envious of the new military, having disdain for the new era of line infantry warfare. Whereas the veteran matchlock ashigaru have at least remained relevant as skirmishers and home-guard troops, those remaining with the blade face the threat of fading into irrelevancy.
+^#DBC5A6;DEF: +20% SLASH | +15% THRUST | +10% BLEED PROC | +10 MAX HP.^reset;
+^#F2B8EC;Way of the Samurai [FULL SET 3x REQUIRED] - +50 Stability | +200% Block Stability Regen for 6s when blocking bullets with Katanas/Spears.
+=== 1873 ===
+Shogunate Samurai Legwear
+=== 1874 ===
+Eskhatoan Shinsengumi serve a broader role and act as a more conventional secret police and spy force, gathering intel within the state to keep tabs on the populace.
+^#DBC5A6;DEF: +10% BLEED PROC | +10% THERMAL | +10% PSYCHIC.
+^#FFCE6D;One Mind [CHEST]: Using a Special Melee Attack adds +10% DODGE and 1HP/s for 10s. 20s cooldown.
+^#F2B8EC;For The Sake Of Unity [FULL SET 3x REQUIRED] - Using a Special Melee Attack when below 45% HP sends out an extremely high-damage massive wave of fire that causes ignition | 20s cooldown.
+=== 1875 ===
+Shogunate Shinsengumi Robe
+=== 1876 ===
+Historically the Shinsengumi were commissioned by the Tokugawa Shogunate's military government, organized by commoners and low-rank samurai. Those selected were an elite group intended to protect Kyoto representatives in 1863. ^#DBC5A6;DEF: +10% BLEED PROC | +10% THERMAL | +10% PSYCHIC | ^#FFCE6D;One Mind [HEAD]: Using a Special Melee Attack adds +10% DODGE and 1HP/s for 10s. 20s cooldown | ^#F2B8EC;For The Sake Of Unity [FULL SET 3x REQUIRED] - Using a Special Melee Attack when below 45% HP sends out an extremely high-damage massive wave of fire that causes ignition | 20s cooldown.
+=== 1877 ===
+Shogunate Shinsengumi Headband
+=== 1878 ===
+The Eskhatoan Shinsengumi are prone to infighting incidents and have had to on occasion resort to particularly nasty methods to instill a sense of duty to their members.
+^#DBC5A6;DEF: +10% BLEED PROC | +10% THERMAL | +10% PSYCHIC.
+^#FFCE6D;One Mind [LEGS]: Using a Special Melee Attack adds +10% DODGE and 1HP/s for 10s. 20s cooldown.
+^#F2B8EC;For The Sake Of Unity [FULL SET 3x REQUIRED] - Using a Special Melee Attack when below 45% HP sends out an extremely high-damage massive wave of fire that causes ignition | 20s cooldown.
+=== 1879 ===
+Shogunate Shinsengumi Skirt
+=== 1880 ===
+Shogunate ashigaru chestguard with additional webbing and pouches to store more ammunition. Shogunate Skirmishers rely heavily on their professionally-machined albeit outdated matchlock rifles, and it has become a stubborn tradition of their units to aim well with such outdated weapons.
+^#DBC5A6;DEF: +30% SLASH | 15% THRUST.^reset;
+^#FFCE6D;Musketeer [CHEST]: +10% Muzzle-Loader Proficiency.
+^#F2B8EC;Way of the Gun [FULL SET 3x REQUIRED] - +15% Muzzleloader Proficiency | -60% projectile spread for Muzzleloaders.
+=== 1881 ===
+Shogunate Skirmisher Chestguard
+=== 1882 ===
+Jingasa with green head covers and a feather added to its top. Shogunate Skirmishers mostly consist of veterans of the Clan Unity Wars which occurred after the Grand Exodus of the Machinarius' own Messiah. These matchlock musketeers refuse to ditch their trusted armor and rifle.
+^#DBC5A6;DEF: +10% SLASH | +5% THRUST.^reset;
+^#FFCE6D;Musketeer [HEAD]: +10% Muzzle-Loader Proficiency.
+^#F2B8EC;Way of the Gun [FULL SET 3x REQUIRED] - +15% Muzzleloader Proficiency | -60% projectile spread for Muzzleloaders.
+=== 1883 ===
+Shogunate Skirmisher Jingasa
+=== 1884 ===
+Shogunate Skirmishers like other Ashigaru of their kind tend to prefer to travel light. Whilst these soldiers have been relegated to rear-line duty for the Shogunate, they are still a well-rounded fighting force capable of engaging in firefights and melee combat.
+
+^#DBC5A6;DEF: +15% SLASH | 5% THRUST.^reset;
+^#FFCE6D;Musketeer [LEGS]: +10% Muzzle-Loader Proficiency.
+^#F2B8EC;Way of the Gun [FULL SET 3x REQUIRED] - +15% Muzzleloader Proficiency | -60% projectile spread for Muzzleloaders.
+=== 1885 ===
+Shogunate Skirmisher Legwear
+=== 1886 ===
+A warm piece of headgear commonly associated with noble do gooders & people of charity. The origin of the balaclava dates as far back as the Crimean War of 1854 when British soldiers, who were without an ample supply of warm clothing, wore hand knitted face masks made of whool with the name coming from the nearby town of Balaclava.
+=== 1887 ===
+Balaclava
+=== 1888 ===
+''Yeah, chopper gunner.''
+=== 1889 ===
+Beanie
+=== 1890 ===
+Bedouin, a generic name for a desert-dweller, was a term generally applied to Arab nomadic pastoralist groups, who were found throughout most of the Terran desert belt extending from the Atlantic coast of the Sahara via the Western Desert, Sinai, and Negev to the eastern coast of the Arabian desert.
+=== 1891 ===
+Bedouin
+=== 1892 ===
+Oh You look out your window at the cold grey dawn
+It's seven o'clock on a Monday morning
+Pour a cup of coffee, better make it a strong one
+Weather man on the radio says
+It's going to rain and it's going to blow
+It'll be all right, it'll be all right
+It'll be all right in the long run.
+=== 1893 ===
+Boonie Hat
+=== 1894 ===
+The Bowler Hat first appeared in human records in 1849 by two London men as part of an order for a greater company. The design criteria was a close-fitting low-crowned hat to protect gamekeepers from low-hanging branches whilst on horseback. The keepers had previously worn top hats, which were easily knocked off. These styles of hats become popular amongst the working class in 19th Century Britain.
+=== 1895 ===
+Bowler Hat
+=== 1896 ===
+A smaller pair of non-prescription glasses. Mainly worn for style, and doesn't offer any protection from the sun nor will it assist with eyesight.
+=== 1897 ===
+Simple Glasses
+=== 1898 ===
+The hair bow or ribbon is a staple head accessory intended to display femininity through cultural symbolism. The United Systems continues to research the split in the traditional ''tiny'' fairies, and the more recent appearances of child-like and even fully adult ''fairies''. The generally-accepted consensus is that the collective human psyche maintains the existence of Fairies, Youkai, and Gods.
+=== 1899 ===
+Hair Bow
+=== 1900 ===
+White: Site managers, foremen, engineers, or supervisors. Yellow: General laborers and earth-moving operators. Blue: Carpenters, electricians or other technical operators. Green: Safety inspector, new worker or probationary staff. Orange: Lifting operatives, Banks-man slingers/signalers, or traffic marshals. Red: Fire Marshalls. Brown: Welders, and other high-heat applications. Grey: Site Visitors. Pink: Worker who misplaced his own helmet.
+=== 1901 ===
+Hard Hat
+=== 1902 ===
+High-visibility clothing is any clothing worn that is highly luminescent in its natural matt property or a color that is easily discernible from any background. It is most commonly worn on the torso and arm area of the body. Health and safety regulations often require the use of high visibility clothing as it is a form of personal protective equipment.
+=== 1903 ===
+''For those who want to brave the war without fear. Show that you are unafraid of the rich, godless xeno-scum and assist their departure to hell for their crimes against humanity itself.''
+
+^#23A0BC;DEF: +5% BLEED | +15% THERMAL.^reset;
+=== 1904 ===
+Keffiyeh
+=== 1905 ===
+''The things that cannot be cut by my Roukanken, forged by youkai... are next to none!''
+=== 1906 ===
+Large Hairband
+=== 1907 ===
+It is true that many modernized Youkai wear these head accessories. The immense physiological development is a recent phenomenon which the United Systems have continued to research. Did the Youkai change naturally to be more human-like in the face of an existential crisis after Earth's demise, or did humanity's sheer collective subconscious nurture an unlikely alliance?
+=== 1908 ===
+Large Hair Bow
+=== 1909 ===
+A Tricorne with white linings along the edges, more fit for use as part of the attire of Line Infantry than that of individual hunters. There is nothing special with this hat, other than that it can also exude itself as a status symbol of wealth and influence.
+=== 1910 ===
+Military Tricorne
+=== 1911 ===
+Mmmm, much tactical. Very operator. Also mega do gooders wear these.
+=== 1912 ===
+Black Ski Mask
+=== 1913 ===
+Traditional Tangzhuang
+=== 1914 ===
+A tokin is a traditional or fictional small (red or black) box worn on the foreheads of Yamabushi - practitioners of Shugendō - or Tengu, dangerous yet protective spirits of the mountains and forests from the Japanese mythology. Its meaning hasn't been lost, not to humanity at least.
+=== 1915 ===
+Tokin
+=== 1916 ===
+A Tokin with integrated Wolf Ears.
+=== 1917 ===
+Tokin w/ Wolf Ears
+=== 1918 ===
+A top hat (also called a high hat, a cylinder hat, or, informally, a topper) is a tall, flat-crowned hat for men traditionally associated with formal wear in Western dress codes, meaning white tie, morning dress, or frock coat. By the end of humanity's 18th century, the Top Hat began to replace the Tricorne as a status symbol, before eventually quickly becoming popular with all social classes at the time.
+=== 1919 ===
+Top Hat
+=== 1920 ===
+''We were bonded together, like family.''
+
+An unremarkable tricorne hat.
+=== 1921 ===
+Tricorne
+=== 1922 ===
+A red military beret for wolf tengu's.
+  
+^green;+5% [GIC] Hit Chance and Accuracy.^reset;
+=== 1923 ===
+Wolf Tengu Beret
+=== 1924 ===
+''Stolen chainmail with homebrewed plate armor makes for a surprisingly formidable albeit heavy chestpiece. While it isn't as good as real plate armor, stuff like this can easily shrug off swords and spears. A good mace hit should wind them.''
+
+^#DBC5A6;DEF: +40% SLASH | +25% THRUST | +5% BLEED PROC | +12.5 MAX HP.^reset;
+^#FFCE6D;Lead by Example [CHEST]: Parrying buffs nearby PLAYERS with 2HP/s regen for 2s | Passive 0.5HP/s Regen | Cannot regen HP from the same effect by another player.
+=== 1925 ===
+Brigand Knight Chest
+=== 1926 ===
+''Stolen helmets and a bit of extra chainmail around the neck makes all the difference for these guys when it comes to protection. But a dagger plunged through the eyes still works.''
+  
+^#DBC5A6;DEF: +15% SLASH | +15% THRUST | +5% BLEED PROC | +7.5 MAX HP.^reset;
+
+^#FFCE6D;Lead by Example [HEAD]: Parrying buffs nearby PLAYERS with 2HP/s regen for 2s | Passive 0.5HP/s Regen | Cannot regen HP from the same effect by another player.
+=== 1927 ===
+Brigand Knight Helm
+=== 1928 ===
+''The Brigand knights for all of their strength are still incredibly slow. Much like real knights, their purpose is to act as shock troops. Pelter them with your bolts, and finish them in close-range with blunt weapons.''
+
+^#DBC5A6;DEF: +20% SLASH | +15% THRUST | +5% BLEED PROC | +7.5 MAX HP.^reset;
+^#FFCE6D;Lead by Example [LEGS]: Parrying buffs nearby PLAYERS with 2HP/s regen for 2s | Passive 0.5HP/s Regen | Cannot regen HP from the same effect by another player.
+=== 1929 ===
+Brigand Knight Leggings
+=== 1930 ===
+''It's already hard enough finding territories that still try to maintain a semblance of normalcy. The Brigands are running off borrowed time.''
+
+^#DBC5A6;DEF: +25% THERMAL.
+^#FFCE6D;Caravan-Breaker [CHEST]: Successful parries restore 2HP/s for 2s.
+=== 1931 ===
+Brigand Vest
+=== 1932 ===
+''Those who have ascended to the highest points may descend to the lowest depths. Give no mercy.''
+
+^#DBC5A6;DEF: +15% SLASH | +5% THRUST.^reset;
+^#FFCE6D;Caravan-Breaker [HEAD]: Successful parries restore 2HP/s for 2s.
+=== 1933 ===
+Brigand Helmet-Hood
+=== 1934 ===
+''Brigand Rangers are the kinds of bandits you'd expect from medieval Earth. The tech-regressed worlds they live on are the new lives they've found themselves in. Though they're called Brigands, it's more-or-less become an alternative term for a hostile scavenger.''
+^#DBC5A6;DEF: +20% THERMAL.
+^#FFCE6D;Caravan-Breaker [LEGS]: Successful parries restore 2HP/s for 2s.
+=== 1935 ===
+Brigand Pants
+=== 1936 ===
+''Brigand Slingers prefer to travel light, and are the most accustomed to living off the land.''
+
+^#DBC5A6;DEF: +10% DODGE | +20% THERMAL.
+^#FFCE6D;Slinger [CHEST]: +10% Bow/Crossbow Proficiency | -33% reduced projectile spread for Bows/Crossbows.
+
+^#F2B8EC;Finish the Job! [FULL SET 3x REQUIRED] - Refer to the Brigand Slinger Hood for effects.
+=== 1937 ===
+Brigand Slinger Chest
+=== 1938 ===
+''These savage slingers are the weakest. Though armed with a crossbow, they're relegated to only firing the stones from the ground. Don't let that fool you though. Stones are plenty dangerous when flung with great force.''
+^#DBC5A6;DEF: +10% DODGE | +15% THERMAL | ^#FFCE6D;Slinger [HEAD]: +10% Bow/Crossbow Proficiency | -33% reduced projectile spread for Bows/Crossbows | ^#F2B8EC;Finish the Job! [FULL SET 3x REQUIRED] - Firing a crossbow or bow grants +30% DODGE and +50% MELEE/BALLISTIC DMG RES for 5s | 25s cooldown.
+=== 1939 ===
+Brigand Slinger Hood
+=== 1940 ===
+''We were ambushed off the side of the valley, about half a dozen slingers appeared. The worst thing about fighting the slingers are the stones. They've got enough force to crack a man's skull.''
+
+^#DBC5A6;DEF: +10% DODGE | +15% THERMAL.
+^#FFCE6D;Slinger [LEGS]: +10% Bow/Crossbow Proficiency | -33% reduced projectile spread for Bows/Crossbows.
+^#F2B8EC;Finish the Job! [FULL SET 3x REQUIRED] - Refer to the Brigand Slinger Hood for effects.
+=== 1941 ===
+Brigand Slinger Pants
+=== 1942 ===
+A gambeson with a pouch for carrying small items. Muzzle-loading a blackpowder firearm was a tedious process and it was for this reason that line infantry warfare was developed. Hundreds of men firing at once was bound to kill someone. Such men though would find themselves quickly outmatched if they were caught unloaded, and an enemy charge could easily break their ranks.
+^#DBC5A6;DEF: +25% BLUNT | +10% SLASH | +15% THRUST.^reset;
+^#FFCE6D;Line Infantry [CHEST]: +15% Muzzle-Loader Proficiency | -25% projectile spread for Muzzle-Loaders.
+=== 1943 ===
+Footpad Gambeson Chestpiece
+=== 1944 ===
+Footpads were highwaymen who didn't own horses and operated on foot without horses whether out of preference or necessity.
+^#DBC5A6;DEF: +20% THERMAL | +10% DODGE | ^reset; ^#FFCE6D;Caravan-Breaker [HEAD]: Successful parries restore 2HP/s for 2s.
+^#F2B8EC;Shoot and Scoot [FULL SET 3x REQUIRED | Part of the Brigand Ranger Set] - Killing an enemy grants 3s of DMG INVULNERABILITY | Buff expires after 0.75s on shooting a firearm, using a throwing weapon, or attacking with melee | Talismans and contact-grenades unaffected.
+=== 1945 ===
+Footpad Tricorne
+=== 1946 ===
+The top of a really thick robe made from hand weaved wool. Texture is very rough & will most definitely itch like hell, but you would be very warm. Considering this was made & used by a murder cult, you *probably* shouldn't wear this. 
+  
+^#96CBE7;Shootout Training [CHEST] - +15% DODGE when holding a pistol or revolver and stationary.^reset;
+=== 1947 ===
+Cultist Caster's Robe (Top)
+=== 1948 ===
+Don't put this on.
+^#96CBE7;Shootout Training [HEAD] - +15% DODGE when holding a pistol or revolver and stationary.^reset;
+=== 1949 ===
+Cult Caster's Hood
+=== 1950 ===
+The bottom of a really thick robe made from hand weaved wool. Also comes with a free carry bag, boots, and leg gaiters. Still gonna be itchy though, and still probably not safe to wear given its previous owner.
+
+^#96CBE7;Shootout Training [LEGS] - +15% DODGE when holding a pistol or revolver and stationary.^reset;
+=== 1951 ===
+Cultist Caster Robe (Bottom)
+=== 1952 ===
+Cult Follower's Rags (Top)
+=== 1953 ===
+Cult Follower's Mask
+=== 1954 ===
+Cult Follower's Rags (Bottom)
+=== 1955 ===
+Cultist Robe (Top)
+=== 1956 ===
+Cult Leader's Hood
+=== 1957 ===
+Cultist Robe (Bottom)
+=== 1958 ===
+A bascinet helmet. It's almost the same as wearing a typical modern steel helmet.
+
+^#DBC5A6;DEF: +20% SLASH | +5% THRUST.^reset;
+=== 1959 ===
+Bascinet
+=== 1960 ===
+A bascinet with a beaked visor, providing spectacular protection alone.
+
+^#DBC5A6;DEF: +20% SLASH | +10% THRUST.^reset;
+^#FFCE6D;Lead by Example [HEAD]: Parrying buffs nearby PLAYERS with 2HP/s regen for 2s | Passive 0.5HP/s Regen | Cannot regen HP from the same effect by another player.
+=== 1961 ===
+Bascinet (Beaked Visor)
+=== 1962 ===
+The cervelliere was first introduced during the late 12th century. It was worn either alone or more often over or under a mail coif. Additionally, a great helm could be worn over a cervelliere, and by the late 13th century this was the usual practice.
+  
+^#DBC5A6;DEF: +20% SLASH | +5% THRUST.^reset;
+=== 1963 ===
+Cervelliere Helmet
+=== 1964 ===
+-Legacy Item-
+=== 1965 ===
+Champion's Horned Helm
+=== 1966 ===
+Also known as an Enclosed Helmet, this type of helmet was the forerunner of the Great Helm. It was developed near the end of 12th century and was largely superseded by the true great helm by c. 1240.
+  
+^#DBC5A6;DEF: +20% SLASH | +10% THRUST.^reset;
+^#FFCE6D;Lead by Example [HEAD]: Parrying buffs nearby PLAYERS with 2HP/s regen for 2s | Passive 0.5HP/s Regen | Cannot regen HP from the same effect by another player.
+=== 1967 ===
+Early Great Helm
+=== 1968 ===
+The great helm or heaume, also called pot helm, bucket helm and barrel helm, is a helmet of the High Middle Ages which arose in the late twelfth century in the context of the Crusades and remained in use until the fourteenth century.
+  
+^#DBC5A6;DEF: +20% SLASH | +10% THRUST.^reset;
+^#FFCE6D;Lead by Example [HEAD]: Parrying buffs nearby PLAYERS with 2HP/s regen for 2s | Passive 0.5HP/s Regen | Cannot regen HP from the same effect by another player.
+=== 1969 ===
+Great Helm
+=== 1970 ===
+A kettle hat, also known as a war hat, is a type of helmet made of iron or steel in the shape of a brimmed hat. The nature of Medieval Warfare ensured that the only common element was a wide brim that afforded extra protection to the wearer. It gained its name due to its resemblance to a metal cooking pet, hence the term ''Kettle Helmet''.
+  
+^#DBC5A6;DEF: +20% SLASH | +5% THRUST.^reset;
+=== 1971 ===
+Kettle Helmet
+=== 1972 ===
+Kettle Helmet (Brigand)
+=== 1973 ===
+A cervelliere helmet with additional chainmail coverage across the head, giving it better protection than its standard counterpart.
+  
+^#DBC5A6;DEF: +20% SLASH | +15% THRUST.^reset;
+=== 1974 ===
+Up-Armored Cervelliere
+=== 1975 ===
+A kettle helmet with additional chainmail coverage across the head, giving it better protection than its standard counterpart.
+  
+^#DBC5A6;DEF: +20% SLASH | +15% THRUST.^reset;
+=== 1976 ===
+Up-Armored Kettle Helmet
+=== 1977 ===
+The Yarm helmet is a circa 10th-century Viking Age Anglo-Scandinavian helmet that was found in Yarm in the North Riding of Yorkshire, England.
+  
+^#DBC5A6;DEF: +20% SLASH | +15% THRUST.^reset;
+=== 1978 ===
+Yarm Helmet
+=== 1979 ===
+The demands of the contemporary age meant that aspiring wizards could not afford to wear their comfortable robes (if they had any). While the act of enchantments often weakens metals slightly, it's better to still wear some armor than nothing at all.
+
+^orange;+10% Magic Proficiency.^reset;
+^#DBC5A6;DEF: +20% SLASH | +10% THRUST | +17.5% THERMAL | +17.5% PSYCHIC.^reset;
+
+^#F2B8EC;Tempered Fury [FULL SET 3x] - Refer to the Battle Wizard Helmet.
+=== 1980 ===
+Battle Wizard Upper
+=== 1981 ===
+Most ''wizards'' of this age are inconspicious, wearing much the same gear as anyone else would. Though some may opt for slight modifications to better attune themselves to the psychic world, such as with the golden band on this helmet.
+^orange;+10% Magic Proficiency.^reset;
+^#DBC5A6;DEF: +5% SLASH | +5% THRUST | +10% THERMAL | +10% PSYCHIC.^reset;
+^#F2B8EC;Tempered Fury [FULL SET 3x] - +50 Ability Mana | +10 MAX HP | Additional +10% Magic Proficiency | Ability Mana Regeneration slightly increased.
+=== 1982 ===
+Battle Wizard Helmet
+=== 1983 ===
+After the Gensokyan Marcian Reforms, all those capable of magic would be required to undergo mandatory physical training to offset the physical atrophy caused by excessive magic usage. Every drop of sweat on the training grounds protected a life on the battlefield.
+
+^orange;+10% Magic Proficiency.^reset;
+^#DBC5A6;DEF: +10% SLASH | +10% THRUST | +10% THERMAL | +10% PSYCHIC.^reset;
+^#F2B8EC;Tempered Fury [FULL SET 3x] - Refer to the Battle Wizard Helmet.
+=== 1984 ===
+Battle Wizard Lower
+=== 1985 ===
+A pair of manually-aligned glasses tailored for the Duellist's short-sightedness. No effect for other archetypes.
+
+^orange;Disables the ''Short-Sighted'' Trait while worn | Temporarily breaks for 30s when taking damage.
+=== 1986 ===
+Corrective Glasses
+=== 1987 ===
+A simple shirt with a pocket made for craftsmen.
+  
+^#96CBE7;Peasant Diet [CHEST]: Slightly reduces hunger rate.^reset;
+=== 1988 ===
+Craftsman Shirt
+=== 1989 ===
+Durable legwear, traditionally worn by craftsmen.
+
+^#96CBE7;Peasant Diet [LEGS]: Slightly reduces hunger rate.^reset;
+=== 1990 ===
+Craftsman Trousers
+=== 1991 ===
+Modern duelling armor designed for maximum protection against all types of melee attacks. It is effectively the modern equivalent of knightly plate armor, and thus also has some degree of blunt resistance along with its outrageously high slash and thrust resistance.
+
+^#DBC5A6;DEF: +10% BLUNT | +45% SLASH | +25% THRUST.^reset;
+=== 1992 ===
+Duellist Chestpiece
+=== 1993 ===
+The Duellist Armor provides well-rounded protection against all manner of melee attacks, but it is an incredible piece of workmanship for a long-dead era. It struggles to find a home in a galaxy dominated by firearms.
+  
+^#DBC5A6;DEF: +5% BLUNT | +20% SLASH | +20% THRUST.^reset;
+=== 1994 ===
+Duellist Helmet
+=== 1995 ===
+Plated leggings completes the Duellist Armor, ensuring that most manner of slashing and thrusting weaponry cannot pierce its hardened outer shell. It will take blunt-force or precise dagger strikes to down a Duellist in melee.
+  
+^#DBC5A6;DEF: +5% BLUNT | +25% SLASH | +15% THRUST.^reset;
+=== 1996 ===
+Duellist Lower
+=== 1997 ===
+The old industrial ruins have been a scarce but valuable source of old but still modern explosive compounds and other ''contemporary'' equipment.
+
+^#DBC5A6;DEF: +30% SLASH | +15% THRUST | +10% SMALL-ARMS | +15% BLEED PROC.^reset;
+^#F2B8EC;Close-Quarters Demolitions [FULL SET 3x REQUIRED] - Refer to the Fossean Footsoldier Helmet.
+=== 1998 ===
+Fossean Footsoldier Chestpiece
+=== 1999 ===
+A hard-hat combined with a coif of chainmail. The Fosseans settled in the area due to the discovery of old industrial ruins scattered across the vast desert mountain ranges that separate Rijika and The Steppes leading to Akeman.
+^#DBC5A6;DEF: +20% SLASH | +15% BLUNT^reset;
+^#F2B8EC;Close-Quarters Demolitions [FULL SET 3x REQUIRED] - Throwing a Scrap Bomb has a 50% chance to refund itself | Pipe Thumper 50% roll returns a Scrap Bomb, regardless of actual munition fired | Does not function on last grenade in a stack.
+=== 2000 ===
+Fossean Hard Hat

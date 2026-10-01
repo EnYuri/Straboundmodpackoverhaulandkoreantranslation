@@ -1,0 +1,144 @@
+/cinematics/CHARACTERS/DAITENGU/gico_daitengu_outskirts_regroup_youkai_path.cinematic.patch	/panels/17/text
+  EN: That is all I wanted to say. Farewell outsider. May the gods watch over you where ever they are.
+  KO: 내가 하고 싶었던 말은 그게 전부야. 잘 가라 이방인이여. 신들이 어디에 있든 그대를 지켜보길.
+/cinematics/CHARACTERS/SHRINEMAIDEN/gico_shrinemaiden_meeting_human_path.cinematic.patch	/panels/4/text
+  EN: Howell already gave me a run down on what happened. I'm impressed. Name's Kayori. Just your usual shrine maiden who got dragged into this war.
+  KO: 하웰이 무슨 일이 있었는지 벌써 알려줬어요. 인상 깊네요. 제 이름은 카요리예요. 이 전쟁에 휘말린 그저 평범한 무녀랍니다.
+/codex/mwhaddon_codex_artifact/mwhaddon_codex_artifact_shadastrophe.codex.patch	/contentPages/1
+  EN: ^yellow;You'd better think it over. I still don't think he's trustworthy.
+
+^green;And even then I'll go, it's the only way I'll ever learn more about what I'm pursuing.
+
+^yellow;...you're still the same, as stubborn as always.
+
+^green;And you? Have you found the meaning of your existence in the world?
+  KO: ^yellow;다시 생각해 보는 게 좋을 거야. 나는 아직도 그를 믿을 수 없어.
+
+^green;그래도 난 갈 거야, 내가 추구하는 것에 대해 더 배울 수 있는 유일한 길이니까.
+
+^yellow;...넌 여전하구나, 언제나처럼 고집불통.
+
+^green;너는? 세상에서 네 존재의 의미를 찾았어?
+/dialog/USCMdisbanded.config.patch	/converse/default/default/16
+  EN: You can take the marine out of the USCM, but you can't take the USCM out of the marine. I have no clue what that means.
+  KO: 해병을 USCM에서 빼낼 수는 있어도, 해병에게서 USCM를 빼낼 순 없어. 무슨 뜻인지는 나도 몰라.
+/dialog/atprk_relicseekercrew.config.patch	/converse/novakid/angel/11
+  EN: So your existence kinda confirms the Cultivator was real after all, amirite? It's 'bout time we stopped arguin' over it.
+  KO: 그러니까 네 존재가 결국 컬티베이터가 진짜였다는 걸 증명하는 셈이네, 그렇지? 이제 그만 그거 갖고 싸울 때도 됐어.
+/dialog/bartenderwoofie.config.patch	/severe/floran/default/1
+  EN: Floran is angry, fix Floran's shop.
+  KO: 플로란은 화났다, 플로란 가게 고쳐라.
+/dialog/bartenderwoofie.config.patch	/severe/avian/default/0
+  EN: This has gone too far, I need you to fix my bar!
+  KO: 이건 도를 넘었다. 내 술집을 고쳐 줘야겠다!
+/dialog/bartenderwoofie.config.patch	/severe/avian/default/2
+  EN: My usually resilient patience is beginning to wear thin. Fix my bar.
+  KO: 평소엔 참을성이 많은 편인데 이제 슬슬 한계다. 내 바를 고쳐줘.
+/dialog/bartenderwoofie.config.patch	/severe/apex/default/0
+  EN: Look at this place! Fix my bar, or I leave.
+  KO: 이 꼴 좀 봐! 내 바를 고쳐줘, 안 그러면 떠날 거야.
+/dialog/bartenderwoofie.config.patch	/severe/apex/default/2
+  EN: It is foolish to ignore an angry Apex. I suggest you fix my store.
+  KO: 화난 에이펙스를 무시하는 건 어리석은 짓이야. 내 가게나 고쳐놓는 게 좋을 거야.
+/dialog/bartenderwoofie.config.patch	/severe/novakid/default/0
+  EN: Seems to me you might wanna fix this shack up 'fore I leave.
+  KO: 내가 떠나기 전에 이 판잣집을 고쳐 놓는 게 좋을 것 같은데.
+/dialog/brewmaster.config.patch	/severe/default/default/0
+  EN: 
+  KO: 이곳을 고쳐주세요. 여기서 아무것도 양조하기에는 안전하지 않아요.
+/dialog/brewmaster.config.patch	/severe/default/default/2
+  EN: 
+  KO: 이 건물은 아직 고쳐지지 않았어요.
+/dialog/brewmaster.config.patch	/severe/default/default/3
+  EN: 
+  KO: 이건 너무 지나쳤어요, 고쳐주세요!
+/dialog/catgrumble.config.patch	/severe/cat/default/1
+  EN: 
+  KO: 야옹이가 이 집을 고쳐주지 않으면 다른 집을 찾아볼 거야!
+/dialog/catgrumble.config.patch	/severe/cat/default/2
+  EN: 
+  KO: 야옹이가 고쳐줄 거야, 말 거야? 안 고치면 떠날 거예요.
+/dialog/converse.config.patch	/converse/fenerox/fumantizi/0
+  EN: 
+  KO: 난 네 존재가 매우 불편해.
+/dialog/lucario.config.patch	/converse/default/default/0
+  EN: Such mystery in your presence.
+  KO: 네 존재 신비.
+/dialog/merchant.config.patch	/severe/fumantizi/default/1
+  EN: 
+  KO: 빨리 고쳐요, 돈 다 떨어졌으니 곧 돈 안 줄 테니까
+/dialog/merchant.config.patch	/severe/mantizi/default/1
+  EN: 
+  KO: 빨리 고쳐라, 하트가 다 떨어져서 곧 돈을 못 주겠어.
+/dialog/viera.config.patch	/wwvillagergreeting/default/default/8
+  EN: We do not take your presence lightly. She watches you, outsider.
+  KO: 네 존재 가볍게 안 봐. 그녀가 지켜봐, 외부인.
+/dialog/viera.config.patch	/wwvillagergreeting/default/human/2
+  EN: Your presence does not set me at ease, Hume. I am watching you.
+  KO: 네 존재가 날 편하게 하지 않아, 흄. 지켜보고 있어.
+/dialog/viera.config.patch	/wwvillagergreeting/default/human/4
+  EN: If your presence taints this Wood, Hume, we will take action.
+  KO: 네 존재가 이 숲을 더럽힌다면, 흄, 우리는 행동에 나설 것이다.
+/dialog/viera.config.patch	/wwwayfarergreeting/default/default/8
+  EN: We do not take your presence lightly. She watches you, outsider.
+  KO: 네 존재 가볍게 안 봐. 그녀가 지켜봐, 외부인.
+/dialog/viera.config.patch	/wwwayfarergreeting/default/human/2
+  EN: Your presence does not set me at ease, Hume. I am watching you.
+  KO: 네 존재가 날 편하게 하지 않아, 흄. 지켜보고 있어.
+/dialog/viera.config.patch	/wwwayfarergreeting/default/human/4
+  EN: If your presence taints this Wood, Hume, we will take action.
+  KO: 네 존재가 이 숲을 더럽힌다면, 흄, 우리는 행동에 나설 것이다.
+/dialog/viera.config.patch	/wayfaringvieragreeting/default/human/2
+  EN: Your presence does not set me at ease, Hume. I am watching you.
+  KO: 네 존재가 날 편하게 하지 않아, 흄. 지켜보고 있어.
+/dialog/viera.config.patch	/eldergreeting/default/human/2
+  EN: Your presence does not set me at ease, Hume. I am watching you.
+  KO: 네 존재가 날 편하게 하지 않아, 흄. 지켜보고 있어.
+/dialog/viera.config.patch	/elderconverse/default/viera/13
+  EN: At the center of your being you have the answer; you know who you are and you know what you want.
+  KO: 네 존재의 중심에 이미 답이 있어; 넌 네가 누구인지 알고, 무엇을 원하는지 알고 있어.
+/dialog/yeti.config.patch	/severe/default/default/0
+  EN: No time for play. Fix me house now!
+  KO: 놀 시간 없다. 내 집 지금 고쳐라!
+/npcs/crew/arcana_crewmember_priest.npctype.patch	/scriptConfig/dialog/crewmember/combatBenefit/default/default/2
+  EN: Let the sound of heavenly light echo through your every being.
+  KO: 천상의 빛의 소리가 네 존재 전체에 울려 퍼지게 하라.
+/npcs/crew/arcana_crewmember_priest.npctype.patch	/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2
+  EN: Let the sssound of heavenly light echo through your every being.
+  KO: 천상의 빛의 소리가 네 존재 전체에 울려 퍼지게 하라.
+/npcs/dungeon/sb_humanbunker/bunkerpyro.npctype.patch	/scriptConfig/dialog/attack/human/default/14
+  EN: Today, stranger, you meet your doom, by way of fire!
+  KO: 오늘, 이방인이여, 너는 불길로 최후를 맞이하리라!
+/npcs/friendlycultistblack.npctype.patch	/scriptConfig/dialog/converse/avian/default/1
+  EN: Fear us not, stranger, we are perfectly harmless. For now.
+  KO: 우리를 두려워하지 마라, 이방인이여, 우리는 완전히 무해하다. 지금은.
+/npcs/mnpcs_uniqueencounters/pgicollector.npctype.patch	/scriptConfig/dialog/converse/novakid/default/0
+  EN: Behold, stranger! The infinite power of perfectly generic items! All of it in my perfect armor! And it's GREEN!
+  KO: 보라, 이방인이여! 완벽하게 일반적인 아이템의 무한한 힘을! 그 모든 것이 내 완벽한 갑옷 안에! 게다가 초록색이지!
+/npcs/mnpcs_uniqueencounters/pgicollector.npctype.patch	/scriptConfig/dialog/converse/novakid/default/8
+  EN: Embrace the perfection of green cubes, stranger! Don't be an ignorant fool like others!
+  KO: 초록 큐브의 완벽함을 받아들여라, 이방인이여! 다른 자들처럼 무지한 바보가 되지 마라!
+/npcs/om_grasslandplanet/om_grasslandfisher.npctype.patch	/scriptConfig/dialog/converse/glitch/default/7
+  EN: Explanation. I care for this pond, stranger. This is how I live out here.
+  KO: 설명. 나는 이 연못을 돌보고 있어, 이방인이여. 여기서 이렇게 살아가고 있지.
+/npcs/other/arcana_npc_luye_officer/arcana_npc_luye_officer.npctype.patch	/scriptConfig/dialog/converse/default/default/0
+  EN: Greetings, foreigner. I wish you a safe journey.
+  KO: 안녕하세요, 이방인이여. 안전한 여정이 되길 바랍니다.
+/npcs/other/arcana_npc_luye_officer/arcana_npc_luye_officer.npctype.patch	/scriptConfig/dialog/converse/default/default/2
+  EN: Welcome to the city, foreigner.
+  KO: 우리 도시에 온 걸 환영해, 이방인이여.
+/npcs/races/gelsemis/arcana_npc_gelsemis_villager.npctype.patch	/scriptConfig/dialog/converse/default/default/5
+  EN: Welcome to our city, foreigner. You should visit the Luye Association if you haven't already.
+  KO: 우리 도시에 온 걸 환영해, 이방인이여. 아직 안 갔다면 루이에 협회에 들러봐.
+/npcs/tenants/greenfingertenant.npctype.patch	/scriptConfig/dialog/tenant/grumbles/severe/default/default/0
+  EN: <selfname>'sss usually resssilient patience is beginning to wear thin. Fix my home.
+  KO: <selfname>의 평소 끈질긴 인내심이 바닥나기 시작했다아. 집을 고쳐라아.
+/objects/atprk_relicseeker/atprk_relicseekercolt/atprk_relicseekercolt.object.patch	/chatOptions/8
+  EN: Beware, kind stranger. Some worlds are way too dark and dangerous for us mortals.
+  KO: 조심하세요, 친절한 이방인이여. 어떤 세계는 우리 같은 필멸자에게는 너무 어둡고 위험합니다.
+/quests/atprk_relicseekerhq/atprk_rishaanquest2.questtemplate.patch	/completionText
+  EN: Well done, kind stranger! You can keep these codices, I've already copied their texts to my computer.
+  KO: 잘했어, 친절한 이방인이여! 이 코덱스들은 네가 가져도 돼, 내용은 이미 내 컴퓨터에 복사해 뒀거든.
+/stats/effects/v-riftdestabilization/v-riftdestabilization.statuseffect.patch	/label
+  EN: Empty Wind - Otherworldly winds hollow out your being
+  KO: 빈 바람 - 세상 밖의 바람이 네 존재를 파낸다

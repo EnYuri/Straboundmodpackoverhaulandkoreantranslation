@@ -1,0 +1,6 @@
+asset	field	en	ko	src
+/items/currency/enhel_dotbuff/enhel_dotbuff.currency	description	Picking up this booster increases your DOT damage for a few seconds.	이 부스터를 주우면 몇 초간 지속 피해가 늘어난다.	
+/items/currency/enhel_dotbuff/enhel_dotbuff.currency	shortdescription	Temporary DOT Buff	일시적 지속피해 버프	
+/stats/effects/electrified/electrified_noloop.statuseffect	label	Electrified	감전	reuse
+/stats/effects/frostslow/normalfrostslow.statuseffect	label	Slow	느려짐	reuse
+/stats/effects/weakpoison/nonspreadpoison.statuseffect	label	Poisoned	중독	reuse

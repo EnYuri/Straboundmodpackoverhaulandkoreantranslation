@@ -1,0 +1,73 @@
+en	ko
+"Affects damage per shot.
+May be rejected by some weapons."	"발당 피해에 영향을 준다.
+일부 무기에 장착이 거부될 수 있다."
+Enables laser sight.	레이저 조준기를 활성화한다.
+Right-click to attack. Damage scales with squared power mult times world level.	우클릭으로 공격. 피해는 제곱된 위력 배율×월드 레벨에 비례한다.
+"- Hold RClick to aim.
+- Move cursor to move crosshairs.
+- Tap crouch to lock scope.
++50% Crit Chance when aiming."	"- 우클릭 유지로 조준.
+- 커서를 움직여 십자선을 이동.
+- 웅크리기를 눌러 조준경 고정.
+조준 중 치명타 확률 +50%."
+Fires projectiles that explode on impact.	충돌 시 폭발하는 발사체를 발사한다.
+Fires projectiles that burns the enemy while dealing fire damage.	화염 피해를 주며 적을 태우는 발사체를 발사한다.
+Fires projectiles that poisons the enemy while dealing poison damage.	독 피해를 주며 적을 중독시키는 발사체를 발사한다.
+"Manual-feed weapons auto-feed.
+Charge weapons automatically fire when fully charged."	"수동 급탄 무기가 자동 급탄된다.
+충전 무기가 완충 시 자동 발사된다."
+"Final Damage +0.05x per Manipulator Armor.
+Energy Regen."	"조작기 방어구당 최종 피해 +0.05배.
+에너지 재생."
+"Final Damage +0.02x per T5/T6 Armor.
+On crit: 4.5% chance to get 45 pixels"	"T5/T6 방어구당 최종 피해 +0.02배.
+치명타 시: 4.5% 확률로 45픽셀 획득"
+Upgrade capacity increases by 1 per level.	레벨당 업그레이드 용량이 1 증가한다.
+Right-click to generate a health- and energy-based shield that lasts 10 seconds.	우클릭으로 체력·에너지 기반 보호막을 10초간 생성한다.
+Passively shows directions and distances of nearby entities.	주변 개체들의 방향과 거리를 상시 표시한다.
+Right-click to toggle between modes.	우클릭으로 모드를 전환한다.
+Right-click to load, fire or eject.	우클릭으로 장전, 발사 또는 배출한다.
+Hits have a chance to break the shield and retaliate with a shockwave.	적중 시 일정 확률로 방패를 부수고 충격파로 반격한다.
+- Right click to reload.	- 우클릭으로 재장전.
+Hold Right-click and circle your cursor around your character to get a brief damage buff.	우클릭을 누른 채 캐릭터 주위로 커서를 원을 그리듯 움직이면 짧은 피해 버프를 얻는다.
+"Right-click to summon an orbital strike.
+Enables laser."	"우클릭으로 궤도 폭격을 소환한다.
+레이저를 활성화한다."
+"- Tap walk to dash.
+- Right-click to phase.
+- You cannot deal damage while phased."	"- 걷기를 눌러 돌진.
+- 우클릭으로 위상 이동.
+- 위상 상태에서는 피해를 줄 수 없다."
+Right-click to fire; consumes 5 ammo per shot.	우클릭으로 발사; 발당 탄약 5발을 소모한다.
+Fires projectiles that bleeds the enemy.	적에게 출혈을 일으키는 발사체를 발사한다.
+Grenades that split into smaller grenades on impact.	충돌 시 더 작은 수류탄으로 분열하는 수류탄.
+Fires bright, short-lived incendiary projectiles.	밝고 수명이 짧은 소이 발사체를 발사한다.
+Generates an electric explosion at the end of the hitscan projectile.	히트스캔 발사체의 끝에서 전기 폭발을 일으킨다.
+Fires projectiles that deal electric damage.	전기 피해를 주는 발사체를 발사한다.
+Fires a beam that deals fire damage.	화염 피해를 주는 광선을 발사한다.
+Fires 4 penetrating shotgun darts. Inflicts bleed.	관통형 산탄 다트 4발을 발사한다. 출혈을 유발한다.
+Spews gas clouds that deal poison damage.	독 피해를 주는 가스 구름을 뿜어낸다.
+Spawns singularities that float in mid-air, detonating after a short time, dealing electric & Dark damage.	공중에 떠다니는 특이점을 생성해 잠시 후 폭발하며 전기·암흑 피해를 준다.
+Releases bursts that deal Dark damage and pull entities into them.	암흑 피해를 주며 개체들을 끌어당기는 파열을 방출한다.
+Releases bursts that deal Holy damage.	신성 피해를 주는 파열을 방출한다.
+Sawblades home in on enemies. Inflicts bleed.	톱날이 적을 추적한다. 출혈을 유발한다.
+Fires small rockets that home in on enemies.	적을 추적하는 소형 로켓을 발사한다.
+Fires hitscans that freeze enemies and deal ice damage.	적을 얼리고 냉기 피해를 주는 히트스캔을 발사한다.
+Fires multiple small rockets that home in on multiple enemies.	여러 적을 추적하는 소형 로켓 다발을 발사한다.
+Fires harmless short-lived grenades that propels entities away when exploding.	폭발 시 개체를 밀어내는 무해한 단명 수류탄을 발사한다.
+Fires projectiles that have a 50% chance of leeching health.	50% 확률로 생명력을 흡수하는 발사체를 발사한다.
+Fires a single, slow semi-accurate projectile.	느리고 반쯤 정확한 발사체 한 발을 발사한다.
+Fires a sawblade that splits into three. Inflicts bleed.	세 개로 분열되는 톱날을 발사한다. 출혈을 유발한다.
+Fires 3 arcing projectiles that inflict slow and vulnerability while inflicting physical damage.	물리 피해를 주며 둔화와 취약을 거는 포물선 발사체 3발을 발사한다.
+Ammo mod for testing projectiles.	발사체 테스트용 탄약 모드.
+Fires grenades that burst into flames on impact.	충돌 시 화염에 터지는 수류탄을 발사한다.
+"Final Damage +0.05x per Accelerator Armor.
+Makes weapon light."	"가속기 방어구당 최종 피해 +0.05배.
+무기를 경량화한다."
+Makes weapon manual-feed.	무기를 수동 급탄으로 만든다.
+Allows weapon to load to full magazine capacity.	무기를 최대 탄창 용량까지 장전할 수 있게 한다.
+"Final Damage +0.2x per Separator Armor.
+Makes weapon heavy."	"분리자 방어구당 최종 피해 +0.2배.
+무기를 중량화한다."
+- Tap crouch (shift) to reload.	- 웅크리기(shift)를 눌러 재장전.

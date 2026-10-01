@@ -1,0 +1,81 @@
+#!/usr/bin/env python3
+# gen_0866: non-description low-priority rows
+import json, csv, re
+
+T = {
+'124987':'^green;+ 생명유지^reset;',
+'124988':'^green;+ 행운^reset;',
+'124989':'^green;+ 음욕^reset;',
+'124990':'^green;+ 정신 역장^reset;',
+'124991':'^green;+ 진흙 면역^reset;',
+'124992':'^green;+ 진흙 면역^reset;\n^green;+ 슬라임 면역^reset;\n^green;+ 얼음 미끄러짐 면역^reset;\n^green;+ 눈 면역^reset;',
+'124993':'^green;+ 새 친구^reset;',
+'124994':'^green;+ 배고픔 없음^reset;',
+'124995':'^green;+ 옴니블루 빛^reset;',
+'124996':'^green;+ 옴니블루 시야^reset;',
+'124997':'^green;+ 과충전된 공기^reset;',
+'124998':'^green;+ 과충전 결정^reset;',
+'124999':'^green;+ 과긴장^reset;',
+'125000':'^green;+ 산소 공급^reset;',
+'125001':'^green;+ 산소 공급^reset;\n^green;+ 극한 압력\n  면역^reset;',
+'125002':'^green;+ 정열적^reset;',
+'125003':'^green;+ 물리 가시 II^reset;',
+'125004':'^green;+ 물리 가시 I^reset;',
+'125005':'^green;+ 플라즈마 화상^reset;',
+'125006':'^green;+ 플라즈마 버스트^reset;',
+'125007':'^green;+ 플라즈모봉쇄^reset;',
+'125008':'^green;+ 독 구름^reset;',
+'125009':'^green;+ 원시 독\n  면역^reset;',
+'125010':'^green;+ 펄스 마비^reset;',
+'125011':'^green;+ 펄소봉쇄^reset;',
+'125012':'^green;+ 고름 면역^reset;',
+'125013':'^green;+ 방사능 화상 면역^reset;',
+'125014':'^green;+ 슬픔^reset;',
+'125015':'^green;+ 민감한 전자제품^reset;',
+'125016':'^green;+ 심한 추위\n  면역^reset;',
+'125017':'^green;+ 심한 열기\n  면역^reset;',
+'125018':'^green;+ 심한 방사능\n  면역^reset;',
+'125019':'^green;+ 그림자 오염\n  면역^reset;\n^green;+ 어두운 가스\n  면역^reset;',
+'125020':'^green;+ 슬라임 면역^reset;',
+'125021':'^green;+ 슬러시 면역^reset;',
+'125022':'^green;+ 눈 면역^reset;',
+'125023':'^green;+ 정전기 보호막^reset;',
+'125024':'^green;+ 수영 상승 III^reset;',
+'125025':'^green;+ 수영 상승 II^reset;',
+'125026':'^green;+ 수영 상승 IV^reset;',
+'125027':'^green;+ 수영 상승 I^reset;',
+'125028':'^green;+ 수영 부스터^reset;',
+'125029':'^green;+ 테크 보호막^reset;',
+'125030':'^green;+ 가시 폭발^reset;',
+'125031':'^green;+ 가시^reset;',
+'125032':'^green;+ 속도 상승^reset;',
+'125033':'^green;+ 속도 점프^reset;',
+'125034':'^green;+ ^#20f080;정예^reset; 자동보호병^reset;',
+'125035':'^green;+ ^#b81824;EDS^reset; 자동보호병^reset;',
+'125036':'^green;+ ^#b81824;EDS^reset; 에너지 보호막^reset;',
+'125037':'^green;+ ^#b81824;EDS^reset; 보호 강화^reset;',
+'125038':'^green;+ ^#b81824;EDS^reset; 보호 모듈^reset;',
+'125039':'^green;+ ^#f02020;EDS^reset; 로켓 에임봇^reset;',
+'125040':'^green;++카페인 에너지^reset;.',
+'125041':'^green;+10% 얼음 저항, +서리 면역^reset;.',
+}
+
+TAG = re.compile(r'\^[a-zA-Z]+;|\^#[0-9a-fA-F,]+;')
+src = {}
+with open('data/rest_worklist.tsv', encoding='utf-8-sig', newline='') as f:
+    for r in csv.DictReader(f, delimiter='\t'):
+        if r['id'] in T:
+            src[r['id']] = r['englishText']
+bad = []
+for i, ko in T.items():
+    s = src.get(i)
+    if s is None:
+        bad.append(('MISSING', i)); continue
+    if TAG.findall(s) != TAG.findall(ko):
+        bad.append(('TAG', i))
+    if s.count('\n') != ko.count('\n'):
+        bad.append(('NL', i))
+print('bad:', bad)
+print(len(T))
+with open('priority_0866.json', 'w', encoding='utf-8') as f:
+    json.dump(T, f, ensure_ascii=False, indent=0)

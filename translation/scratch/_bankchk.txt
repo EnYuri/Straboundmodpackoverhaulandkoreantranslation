@@ -1,0 +1,24 @@
+/dialog/brewmaster.config.patch /severe/default/default/0
+  KO: 이곳을 고쳐주세요. 여기서 아무것도 양조하기에는 안전하지 않아요.
+/dialog/brewmaster.config.patch /severe/default/default/1
+  KO: 제 요청이 받아들여졌으면 좋겠어요.
+/dialog/brewmaster.config.patch /severe/default/default/2
+  KO: 이 건물은 아직 고쳐지지 않았어요.
+/dialog/brewmaster.config.patch /severe/default/default/3
+  KO: 이건 너무 지나쳤어요, 고쳐주세요!
+/dialog/brewmaster.config.patch /severe/default/default/4
+  KO: 더 이상 참을 수 없어요. 제 양조장 상태를 보세요.
+/dialog/brewmaster.config.patch /severe/default/default/5
+  KO: 제 평소 탄력적이던 인내심도 바닥을 드러내기 시작했어요.
+/dialog/catgrumble.config.patch /severe/cat/default/0
+  KO: 우리 고양이는 집주인에게 훨씬 더 많은 노력을 요구합니다.
+/dialog/catgrumble.config.patch /severe/cat/default/1
+  KO: 야옹이가 이 집을 고쳐주지 않으면 다른 집을 찾아볼 거야!
+/dialog/catgrumble.config.patch /severe/cat/default/2
+  KO: 야옹이가 고쳐줄 거야, 말 거야? 안 고치면 떠날 거예요.
+/dialog/lucario.config.patch /converse/default/default/0
+  KO: 네 존재 신비.
+/dialog/merchant.config.patch /severe/fumantizi/default/0
+  KO: 내가 수리하라고 했는데 하나도 안 했어?
+/dialog/merchant.config.patch /severe/fumantizi/default/1
+  KO: 빨리 고쳐요, 돈 다 떨어졌으니 곧 돈 안 줄 테니까

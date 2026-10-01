@@ -1,0 +1,249 @@
+provider	asset	status	sample_field	sample_en	fail
+packed.pak	/ai/ai.config	broken	text	^#6f6f6f;$ status -f ^cyan;> Ship thrusters are online. > FTL drive is online. > Ship tele	"[[0, ""/shipStatus/0/text"", ""^#6f6f6f;$ status"", ""^#6f6f6f;$ 상태\n^cyan;> 선박 수정 수동 재정의 적용\n> 모든 선박 개조는 선장이 수동으로 수행해야 합니다.""]]"
+mods/-2500_trans+FFS_Feast_of_Fire_and_Smoke_heal_fix.pak	/ffs_armors/ffs_1tier_reward/ffs_bulletproofvest/ffs_bulletproofvest.chest	uncovered	description	NIJ Lv.II 방탄 조끼, 민소매 상의. 너무 믿지 마라.	
+mods/-2500_trans+FFS_Feast_of_Fire_and_Smoke_heal_fix.pak	/ffs_armors/ffs_3tier_fbi/ffs_3tier_fbi.chest	uncovered	description	이것은 플로란 조사국의 유니폼이다.  NIJ Lv.III 방탄 플레이트가 추가되었다.	
+mods/-2500_trans+FFS_Feast_of_Fire_and_Smoke_heal_fix.pak	/ffs_property/ffs0_3wallace.item	uncovered	description	Protectorate S.R.S 신분증.  피를 닦아내자 이름이 드러났습니다.  '월리스'	
+mods/-2500_trans+FFS_Feast_of_Fire_and_Smoke_heal_fix.pak	/ffs_property/ffs0_4sarah.item	uncovered	description	Protectorate S.R.S 신분증.  피를 닦아내자 이름이 드러났습니다.  '사라'	
+mods/-2500_trans+FFS_Feast_of_Fire_and_Smoke_heal_fix.pak	/ffs_property/ffs_breadnut_OperationDiary.item	uncovered	itemName	ffs_breadnut_OperationDiary	
+mods/Galaxy_in_Conflict_contents_2754886445.pak	/interface/cockpit/cockpit.config	broken	title	 Navigation Console	"[[0, ""/wordsList/starforge-tidefragment/friendlyWord"", ""Tidal Remnants"", ""<missing>""]]"
+packed.pak	/interface/scripted/mmupgrade/mmupgradegui.config	broken	title	  Matter Manipulator upgrades	"[[0, ""/gui/windowtitle"", null, {""type"": ""title"", ""title"": ""  Matter Manipulator upgrades"", ""subtitle"": ""  ^#b9b5b2;Manipulate what matters on your matter manipulator!"", ""icon"": {""type"": ""image"", ""file"
+mods/Galaxy_in_Conflict_contents_2754886445.pak	/interface/windowconfig/charcreation.config	broken	caption	Cancel	"[[15, ""/paneLayout/labelGender"", null, {""type"": ""label"", ""position"": [366, 202], ""hAnchor"": ""mid"", ""value"": ""^#8d8d8d;GENDER""}]]"
+packed.pak	/interface/windowconfig/craftingnocategories.config	broken	title	  Crafting	"[[0, ""/paneLayout/windowtitle/title"", null, ""  Crafting""]]"
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgArmorPart.item	uncovered	itemName	sgArmorPart	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgBindingAgent.item	uncovered	itemName	sgBindingAgent	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgCatalyst.item	uncovered	itemName	sgCatalyst	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgDHDcrystal.item	uncovered	itemName	sgDHDcrystal	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgDHDcrystalBroken.item	uncovered	itemName	sgDHDcrystalBroken	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgIndustrialCeramic.item	uncovered	itemName	sgIndustrialCeramic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgPolymerN3310.item	uncovered	itemName	sgPolymerN3310	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgRubber.item	uncovered	itemName	sgRubber	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgSpecificMolecul.item	uncovered	itemName	sgSpecificMolecul	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgSpectraFiber.item	uncovered	itemName	sgSpectraFiber	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgWeaponPart.item	uncovered	itemName	sgWeaponPart	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgWoodSap.item	uncovered	itemName	sgWoodSap	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/components/sgcPatch.item	uncovered	itemName	sgcPatch	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/orespowder/sgPowderCopper.item	uncovered	itemName	sgCopperPowder	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/orespowder/sgPowderGold.item	uncovered	itemName	sgGoldPowder	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/orespowder/sgPowderIron.item	uncovered	itemName	sgIronPowder	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/orespowder/sgPowderObsidian.item	uncovered	itemName	sgObsidianPowder	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/orespowder/sgPowderPlatinium.item	uncovered	itemName	sgPlatiniumPowder	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/orespowder/sgPowderSilver.item	uncovered	itemName	sgSilverPowder	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/orespowder/sgPowderVermillion.item	uncovered	itemName	sgVermillionPowder	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/outpost/sgCoEngineer.item	uncovered	itemName	sgCoEngineer	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/outpost/sgCoScientist.item	uncovered	itemName	sgCoScientist	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/outpost/sgCristalBlue.item	uncovered	itemName	sgCristalBlue	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/outpost/sgCristalGreen.item	uncovered	itemName	sgCristalGreen	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/outpost/sgCristalMulti.item	uncovered	itemName	sgCristalMulti	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/outpost/sgCristalRed.item	uncovered	itemName	sgCristalRed	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/outpost/sgRareEngineer.item	uncovered	itemName	sgRareEngineer	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/outpost/sgRareScientist.item	uncovered	itemName	sgRareScientist	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/outpost/sgUncoEngineer.item	uncovered	itemName	sgUncoEngineer	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/outpost/sgUncoScientist.item	uncovered	itemName	sgUncoScientist	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/paints/sgMetallicPaintCopper.item	uncovered	itemName	sgCopperMetallicPaint	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/paints/sgMetallicPaintGold.item	uncovered	itemName	sgGoldMetallicPaint	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/paints/sgMetallicPaintObsidian.item	uncovered	itemName	sgObsidianMetallicPaint	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/paints/sgMetallicPaintPlatinium.item	uncovered	itemName	sgPlatiniumMetallicPaint	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/paints/sgMetallicPaintSilver.item	uncovered	itemName	sgSilverMetallicPaint	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/_inactive/paints/sgMetallicPaintVermillion.item	uncovered	itemName	sgVermillionMetallicPaint	
+mods/trans+Shellguard_contents_1563376005.pak	/items/active/vehiclecontroller/chomby/sggunshipchombycontroller.activeitem	uncovered	description	저장된 나노입자로 길들인 Chomby를 생성한다. 조심해, 스스로를 해칠 수 있다.	
+mods/trans+Shellguard_contents_1563376005.pak	/items/active/vehiclecontroller/sgassaultgunshipcontroller.activeitem	uncovered	description	저장된 나노입자로 Olympus-I 건쉽을 생성한다.	
+mods/trans+Shellguard_contents_1563376005.pak	/items/active/vehiclecontroller/sggunshiplocustcontroller.activeitem	uncovered	shortdescription	Locust-A1 컨트롤러	
+mods/trans+Shellguard_contents_1563376005.pak	/items/active/vehiclecontroller/sggunshipunarmedcontroller.activeitem	uncovered	description	저장된 나노입자로 무장하지 않은 Olympus-I 건쉽을 생성한다.	
+packed.pak	/items/active/weapons/fist/brassknuckles.activeitem	broken	description	It's hard to crack these knuckles.	"[[0, ""/upgradeParameters/shortdescription"", ""Brass Knuckles ^yellow;^reset;"", ""<missing>""]]"
+packed.pak	/items/active/weapons/melee/axe/fryingpan.activeitem	broken	description	Skillet technology will never surpass cast iron.	"[[0, ""/upgradeParameters/shortdescription"", ""Frying Pan ^yellow;^reset;"", ""<missing>""]]"
+mods/trans+Shellguard_contents_1563376005.pak	/items/active/weapons/melee/broadsword/Shellcleaver.activeitem	uncovered	itemName	Shellcleaver	
+mods/trans+Shellguard_contents_1563376005.pak	/items/active/weapons/melee/broadsword/sgcarve.activeitem	uncovered	description	Sever 시리즈 검의 작은 자매. 똑같이 치명적이다.	
+mods/trans+Shellguard_contents_1563376005.pak	/items/active/weapons/melee/broadsword/sgcauterizer/soluskatana.activeitem	uncovered	description	Sever 검과 솔루스 기술이 결합된 무기.	
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/active/weapons/melee/broadsword/thalasso/gravediggershovel/gravediggershovel.activeitem	uncovered	subtitle	Shovel	
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/active/weapons/melee/spellglaive/deluge/deluge.activeitem	uncovered	subtitle	Spellglaive	
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/active/weapons/melee/spellglaive/scavenger/scavenger.activeitem	uncovered	subtitle	Spellglaive	
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/active/weapons/melee/spellglaive/spellslinger/spellslinger.activeitem	uncovered	subtitle	Spellglaive	
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/active/weapons/melee/unique/furour/starforge-furour.activeitem	uncovered	subtitle	Katana	
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/active/weapons/ranged/legendary/fever/starforge-fever.activeitem	uncovered	subtitle	Sidearm	
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/active/weapons/ranged/legendary/frenzy/starforge-frenzy.activeitem	uncovered	subtitle	Shotgun	
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/active/weapons/ranged/throwable/legendary/fragmenter/starforge-fragmenter.activeitem	uncovered	subtitle	Throwable	
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/active/weapons/ranged/unique/hawkmoon/starforge-hawkmoon.activeitem	uncovered	subtitle	Revolver	
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/active/weapons/ranged/unique/lightofsorrow/starforge-lightofsorrow.activeitem	uncovered	subtitle	Artefact	
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/active/weapons/ranged/unique/pepperbox/starforge-pepperbox.activeitem	uncovered	subtitle	Revolver	
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/active/weapons/ranged/unique/tearoftheguidinglight/starforge-tearoftheguidinglight.activeitem	uncovered	subtitle	Artefact	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_cap_jaffacommon/basicPRIMA.head	uncovered	itemName	sgGoaCapHeadCom	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_head_jaffaAnubis/jaffaAnubis.head	uncovered	itemName	sgJaffaANUhead	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_head_jaffaRa/jaffaRa.head	uncovered	itemName	sgJaffaRAhead	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_CommonArmor_APO/basicAPO.chest	uncovered	itemName	sgGoaApoChestCom	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_CommonArmor_APO/basicAPO.head	uncovered	itemName	sgGoaApoHeadCom	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_CommonArmor_APO/basicAPO.legs	uncovered	itemName	sgGoaApoPantsCom	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_GoldArmor_APO/goldAPO.chest	uncovered	itemName	sgGoaApoChestGold	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_GoldArmor_APO/goldAPO.head	uncovered	itemName	sgGoaApoHeadGold	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_GoldArmor_APO/goldAPO.legs	uncovered	itemName	sgGoaApoPantsGold	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_Kull_ANU/blackKULL.back	uncovered	itemName	sgGoaAnuKullBack	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_Kull_ANU/blackKULL.chest	uncovered	itemName	sgGoaAnuKullChest	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_Kull_ANU/blackKULL.head	uncovered	itemName	sgGoaAnuKullHead	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_Kull_ANU/blackKULL.legs	uncovered	itemName	sgGoaAnuKullPants	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_RedArmor_APO/crimsonAPO.chest	uncovered	itemName	sgGoaApoChestRed	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_RedArmor_APO/crimsonAPO.head	uncovered	itemName	sgGoaApoHeadRed	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_set_RedArmor_APO/crimsonAPO.legs	uncovered	itemName	sgGoaApoPantsRed	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_symbol_jaffacommon/symboleJAFFA.head	uncovered	itemName	sgSymbolJaffaHead	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_symbol_jaffacommon2/symboleJAFFA.head	uncovered	itemName	sgSymbolJaffaHead2	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_symbol_jaffagold/symboleJAFFAgold.head	uncovered	itemName	sgGoldSymbolJaffaHead	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/GOA_symbol_jaffagold2/symboleJAFFAgold.head	uncovered	itemName	sgGoldSymbolJaffaHead2	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/NPC_GOA_cap_jaffacommon/basicPRIMA.head	uncovered	itemName	sgGoaCapHeadNPC	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/NPC_GOA_chest_CommonArmor_APO/NPCbasicAPO.chest	uncovered	itemName	sgGoaApoChestComNPC	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/NPC_GOA_set_Kull/blackKULL.chest	uncovered	itemName	sgGoaAnuKullChestNPC	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/NPC_GOA_set_Kull/blackKULL.head	uncovered	itemName	sgGoaAnuKullHeadNPC	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/NPC_GOA_set_Kull/blackKULL.legs	uncovered	itemName	sgGoaAnuKullPantsNPC	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGA_set_cosmetic_beige_uniform/civil_uniform.chest	uncovered	itemName	sgcBeigeSGAchestCosmetic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGA_set_cosmetic_beige_uniform/civil_uniform.legs	uncovered	itemName	sgcBeigeSGAlegsCosmetic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGA_set_cosmetic_black_uniform/civil_uniform.chest	uncovered	itemName	sgcBlackSGAchestCosmetic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGA_set_cosmetic_black_uniform/civil_uniform.legs	uncovered	itemName	sgcBlackSGAlegsCosmetic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGA_set_cosmetic_bluegrey_uniform/civil_uniform.chest	uncovered	itemName	sgcBlueGreySGAchestCosmetic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGA_set_cosmetic_bluegrey_uniform/civil_uniform.legs	uncovered	itemName	sgcBlueGreySGAlegsCosmetic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGA_set_t1_beige_uniform/civil_uniform.chest	uncovered	itemName	sgcBeigeSGAchest	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGA_set_t1_beige_uniform/civil_uniform.legs	uncovered	itemName	sgcBeigeSGAlegs	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGA_set_t1_black_uniform/civil_uniform.chest	uncovered	itemName	sgcBlackSGAchest	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGA_set_t1_black_uniform/civil_uniform.legs	uncovered	itemName	sgcBlackSGAlegs	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGA_set_t1_bluegrey_uniform/civil_uniform.chest	uncovered	itemName	sgcBlueGreySGAchest	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGA_set_t1_bluegrey_uniform/civil_uniform.legs	uncovered	itemName	sgcBlueGreySGAlegs	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_cap_t1_sg1common/GreenSGCcap.head	uncovered	itemName	sgcGreenCapHead	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_cap_t2_sg1uncommon/BlackSGCcap.head	uncovered	itemName	sgcBlackCapHead	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_cosmetic_sg1common/commonSG1uniform.chest	uncovered	itemName	sgcGreenSG1chestCosmetic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_cosmetic_sg1common/commonSG1uniform.legs	uncovered	itemName	sgcGreenSG1pantsCosmetic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_cosmetic_sg1uncommon/blackSG1uniform.chest	uncovered	itemName	sgcBlackSG1chestCosmetic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_cosmetic_sg1uncommon/blackSG1uniform.legs	uncovered	itemName	sgcBlackSG1pantsCosmetic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t1_medic/commonSG1uniformMedic.back	uncovered	itemName	sgcGreenSG1backMedic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t1_medic/commonSG1uniformMedic.head	uncovered	itemName	sgcGreenSG1headMedic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t1_sg1common/commonSG1uniform.back	uncovered	itemName	sgcGreenSG1back	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t1_sg1common/commonSG1uniform.chest	uncovered	itemName	sgcGreenSG1chest	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t1_sg1common/commonSG1uniform.head	uncovered	itemName	sgcGreenSG1head	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t1_sg1common/commonSG1uniform.legs	uncovered	itemName	sgcGreenSG1pants	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t2_medic/SG1uniformMedic.back	uncovered	itemName	sgcBlackSG1backMedic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t2_medic/SG1uniformMedic.head	uncovered	itemName	sgcBlackSG1headMedic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t2_sg1uncommon/blackSG1uniform.back	uncovered	itemName	sgcBlackSG1back	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t2_sg1uncommon/blackSG1uniform.chest	uncovered	itemName	sgcBlackSG1chest	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t2_sg1uncommon/blackSG1uniform.head	uncovered	itemName	sgcBlackSG1head	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t2_sg1uncommon/blackSG1uniform.legs	uncovered	itemName	sgcBlackSG1pants	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t3_sg1_hazmat/hazmat.back	uncovered	itemName	sgcHazmatSG1back	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t3_sg1_hazmat/hazmat.chest	uncovered	itemName	sgcHazmatSG1chest	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t3_sg1_hazmat/hazmat.head	uncovered	itemName	sgcHazmatSG1head	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/SGC_set_t3_sg1_hazmat/hazmat.legs	uncovered	itemName	sgcHazmatSG1pants	
+mods/trans+Shellguard_contents_1563376005.pak	/items/armors/cosmetic/mike/sgwfmikechest.chest	uncovered	description	공식적으로 평평함 - Chucklefish를 탓해.	
+mods/contents_3166606156.pak	/items/armors/cosmetic/sgshellbhat/sgshellbhat.head	broken	description	This little SHELL-B chose to become a hat instead of dying!	"[[0, ""/description"", ""이 작은 SHELL-B는 죽는 대신 모자가 되기로 선택했다!"", ""This little SHELL-B chose to become a hat instead of dying!""]]"
+mods/Project_Redemption_12.3_FU_SBKor_compat.pak	/items/armors/protectorate/protectoratearmor/protectoratearmor.chest	broken	description	Experimental power armor to ensure protection for all.     Equipped with a powerful dash t	"[[0, ""/description"", ""Experimental power armor to ensure protection for all.\n^orange;Set Bonuses^reset;:\n^yellow;^reset; Power Dash Tech. Partial knockback resist;\n^yellow;^reset; Protectorate Weap"
+mods/Project_Redemption_12.3_FU_SBKor_compat.pak	/items/armors/protectorate/protectoratearmor/protectoratearmor.head	broken	description	The face of a noble cause.     Equipped with the Protector's Sphere tech.	"[[0, ""/description"", ""The face of a noble cause.\n^cyan;Headlamp^reset;\n^orange;Set Bonuses^reset;:\n^yellow;^reset; Protector's Sphere Tech;\n^yellow;^reset; Protectorate Weaponry: Damage x^green;1."
+mods/Project_Redemption_12.3_FU_SBKor_compat.pak	/items/armors/protectorate/protectoratearmor/protectoratearmor.legs	broken	description	These boots march onwards to a brighter future.     Equipped with boot thrusters.	"[[0, ""/description"", ""These boots march onwards to a brighter future.\n^orange;Set Bonuses^reset;:\n^yellow;^reset; Rocket Thruster. Fall Damage Immunity;\n^yellow;^reset; Protectorate Weaponry: Damag"
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/set_cosmetic_Baal/baal.chest	uncovered	itemName	sgBaalChest	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/set_cosmetic_Baal/baal.legs	uncovered	itemName	sgBaalPants	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/set_cosmetic_UWD4_prisoners/d4_prisoners.chest	uncovered	itemName	sgUWD4PrisonersChest	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/set_cosmetic_UWD4_prisoners/d4_prisoners.legs	uncovered	itemName	sgUWD4PrisonersPants	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/set_cosmetic_tokra/Tokra.chest	uncovered	itemName	sgTokraChest	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/set_cosmetic_tokra/Tokra.legs	uncovered	itemName	sgTokraPants	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/sgHaloEffectBoss/haloefectboss.back	uncovered	itemName	sgHaloEeffectBossBack	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/armors/sgHaloEffectSimulacrum/sgHaloEffectSimulacrum.back	uncovered	itemName	sgHaloEffectSimulacrumBack	
+mods/contents_3166606156.pak	/items/armors/shelldrone/shelldrone.chest	broken	description	[Cosmetic] Become a Shellguard Drone. Wearing this will make your body invisible.	"[[0, ""/description"", ""[장식용] 셸가드 드론이 되어보세요. 이걸 착용하면 몸이 보이지 않게 됩니다."", ""[Cosmetic] Become a Shellguard Drone. Wearing this will make your body invisible.""]]"
+mods/contents_3166606156.pak	/items/armors/shelldrone/shelldrone.head	broken	description	[Cosmetic] Become a Shellguard Drone. Wearing this will make your body invisible.	"[[0, ""/description"", ""[장식용] 셸가드 드론이 되어보세요. 이걸 착용하면 몸이 보이지 않게 됩니다."", ""[Cosmetic] Become a Shellguard Drone. Wearing this will make your body invisible.""]]"
+mods/contents_3166606156.pak	/items/armors/shelldrone/shelldrone.legs	broken	description	Cosmetic legs worn by Shellguard Robots	"[[0, ""/description"", ""셸가드 로봇이 착용하는 장식용 다리."", ""Cosmetic legs worn by Shellguard Robots""]]"
+mods/contents_3166606156.pak	/items/armors/shellheavy/shellarmour.head	broken	description	An extremely old helmet design.	"[[0, ""/description"", ""매우 오래된 헬멧 디자인."", ""An extremely old helmet design.""]]"
+mods/trans+dmgfix_starforge_contents_2431875552.pak	/items/armors/vanity/raiizywig/raiizywig.head	uncovered	shortdescription	xRaiizy의 머리	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/goaulds/sgBPkullBack.item	uncovered	itemName	sgBPkullBack	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/goaulds/sgBPkullChest.item	uncovered	itemName	sgBPkullChest	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/goaulds/sgBPkullHandBlaster.item	uncovered	itemName	sgBPkullHandBlaster	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/goaulds/sgBPkullHead.item	uncovered	itemName	sgBPkullHead	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/goaulds/sgBPkullPants.item	uncovered	itemName	sgBPkullPants	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/goaulds/sgBPmatok.item	uncovered	itemName	sgBPmatok	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/goaulds/sgBPzat.item	uncovered	itemName	sgBPzat	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/goaulds/sgbpANUhelmet.item	uncovered	itemName	sgBPanubisHelmet	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/goaulds/sgbpRAhelmet.item	uncovered	itemName	sgBPraHelmet	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/sgbpVialNaqahdahLiquid.item	uncovered	itemName	sgBPvialLiquidNaquadah	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/sgbpVialNaquadriaLiquid.item	uncovered	itemName	sgBPvialLiquidNaquadria	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/terriens/sgBPhazmatSGC.item	uncovered	itemName	sgBPhazmatSGC	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/blueprints/terriens/sgBPp90Explo.item	uncovered	itemName	sgBPp90Explo	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/components/sgLiquidNaquadah.item	uncovered	itemName	sgVialLiquidNaquadah	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/components/sgLiquidNaquadria.item	uncovered	itemName	sgVialLiquidNaquadria	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/components/sgZPMempty.item	uncovered	itemName	sgZPMempty	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/crew/sgContractNPC_JAFsoldier.thrownitem	uncovered	itemName	sgContractNPC_JAFsoldier	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/crew/sgContractNPC_QueteMitchell.thrownitem	uncovered	itemName	sgContractNPC_SGqueteMitchell	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/crew/sgContractNPC_SGengineer.thrownitem	uncovered	itemName	sgContractNPC_SGengineer	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/crew/sgContractNPC_SGmedic.thrownitem	uncovered	itemName	sgContractNPC_SGmedic	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/crew/sgContractNPC_SGsoldier.thrownitem	uncovered	itemName	sgContractNPC_SGsoldier	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/crew/sgContractNPC_TOKengineer.thrownitem	uncovered	itemName	sgContractNPC_TOKengineer	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/crew/sgContractNPC_TOKmechanic.thrownitem	uncovered	itemName	sgContractNPC_TOKmechanic	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_barrel_antimateriel.item	uncovered	description	무거운 총열. Heavy/Burst 리시버 및 Reflek과 호환되지 않음.	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_barrel_antimaterielburst.item	uncovered	description	빠른 대물 총열, Burst/Heavy 리시버와 호환 가능.	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_baseAddon_advancedscope.item	uncovered	itemName	sg_baseAddon_advancedscope	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_baseAddon_advancedscopealt.item	uncovered	itemName	sg_baseAddon_advancedscopealt	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_baseAddon_reflek.item	uncovered	itemName	sg_baseAddon_reflek	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_baseAddon_scope.item	uncovered	itemName	sg_baseAddon_scope	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_baseAddon_scopealt.item	uncovered	itemName	sg_baseAddon_scopealt	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_baseAddon_spread.item	uncovered	itemName	sg_baseAddon_spread	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_underbarrelAddon_bayonet.item	uncovered	itemName	sg_underbarrelAddon_bayonet	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_underbarrelAddon_cleavebayonet.item	uncovered	itemName	sg_underbarrelAddon_cleavebayonet	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_underbarrelAddon_cleavebayonetalt.item	uncovered	itemName	sg_underbarrelAddon_cleavebayonetalt	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_underbarrelAddon_coolingjacket.item	uncovered	itemName	sg_underbarrelAddon_coolingjacket	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_underbarrelAddon_flashlight.item	uncovered	itemName	sg_underbarrelAddon_flashlight	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_underbarrelAddon_foregriplongend.item	uncovered	itemName	sg_underbarrelAddon_foregriplongend	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_underbarrelAddon_grenadelauncher.item	uncovered	itemName	sg_underbarrelAddon_grenadelauncher	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_underbarrelAddon_grenadelauncheralt.item	uncovered	itemName	sg_underbarrelAddon_grenadelauncheralt	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_underbarrelAddon_laser.item	uncovered	itemName	sg_underbarrelAddon_laser	
+mods/trans+Shellguard_contents_1563376005.pak	/items/generic/crafting/sg_underbarrelAddon_spidermine.item	uncovered	itemName	sg_underbarrelAddon_spidermine	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/giftBoxes/Event_Gift_Little_Box/sgGiftBoxBlueprints.activeitem	uncovered	itemName	sgGiftBoxBlueprints	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/giftBoxes/Event_Gift_Little_Box/sgGiftBoxGeneric.activeitem	uncovered	itemName	sgGiftBoxGeneric	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/giftBoxes/Event_Gift_Little_Box/sgGiftBoxOres.activeitem	uncovered	itemName	sgGiftBoxOres	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/giftBoxes/Event_Gift_Little_Box/sgGiftBoxQuests.activeitem	uncovered	itemName	sgGiftBoxQuests	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/giftBoxes/Event_Gift_Little_Box/sgGiftBoxTokens.activeitem	uncovered	itemName	sgGiftBoxTokens	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/giftBoxes/Event_Gift_Little_Box/sgGiftBoxesArmors.activeitem	uncovered	itemName	sgGiftBoxArmors	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/giftBoxes/Event_Gift_Little_Box/sgGiftBoxesMystery.activeitem	uncovered	itemName	sgGiftBoxesMystery	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/giftBoxes/Event_Gift_Little_Box/sgGiftBoxesWeapons.activeitem	uncovered	itemName	sgGiftBoxWeapons	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/giftBoxes/Event_Weapon_Grenade_Gift/sgGrenadeGift.thrownitem	uncovered	itemName	sgGrenadeGift	
+mods/trans+Shellguard_contents_1563376005.pak	/items/mechparts/body/Shellguardbodyconstruction.item	uncovered	itemName	Shellguardbodyconstruction	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/tokens/killed/sgKillTokenBaalClone.currency	uncovered	itemName	sgKillTokenBaalClone	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/tokens/killed/sgKillTokenJaffa.currency	uncovered	itemName	sgKillTokenJaffa	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/tokens/killed/sgKillTokenKull.currency	uncovered	itemName	sgKillTokenKull	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/tokens/killed/sgKillTokenReplicator.currency	uncovered	itemName	sgKillTokenReplicator	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/weapons/npc_goauld_Kullhandgun/npc_kullhandweapon.activeitem	uncovered	itemName	sgGoauldKullHandweaponNPC	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/weapons/npc_goauld_Staff/npcgoauldstaff.activeitem	uncovered	itemName	sgGoauldStaffNPC	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/weapons/npc_goauld_Zat/goauldzat.activeitem	uncovered	itemName	sgGoauldZatNPC	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/weapons/npc_sgc_MP5_Explo_mk1/npcsgmp5exploMk1.activeitem	uncovered	shortdescription	NPC MP5 익스플로러 Mk1	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/weapons/player_goauld_Kullhandgun/kullhandweapon.activeitem	uncovered	itemName	sgGoauldKullHandweapon	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/weapons/player_goauld_Staff_mk1/goauldstaffMk1.activeitem	uncovered	itemName	sgGoauldStaff	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/weapons/player_goauld_Staff_mk2/goauldstaffMk2.activeitem	uncovered	itemName	sgGoauldStaff2	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/weapons/player_goauld_Zat_mk1/goauldzatMk1.activeitem	uncovered	itemName	sgGoauldZat	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/weapons/player_goauld_Zat_mk2/goauldzatMk2.activeitem	uncovered	itemName	sgGoauldZat2	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/weapons/player_sgc_Grenade_Explo/sgGrenadeExplo.thrownitem	uncovered	itemName	sgGrenadeExplo	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/items/weapons/player_sgc_Proximity_Mine/sgproximitymine.thrownitem	uncovered	itemName	sgcProximityMine	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgAdminStation/sgadminstation.object	uncovered	objectName	sgAdminStation	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgAdminUWDConsole/sgAdminUWDConsole.object	uncovered	objectName	sgAdminUWDConsole	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgBackgroundBasics/sgArchaeologistTent01/sgArchaeologistTent01.object	uncovered	objectName	sgArchaeologistTent01	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgBackgroundDungeons/sgLavaBackground01/sgDecoLavaBackground01.object	uncovered	objectName	sgDecoLavaBack01	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgBackgroundDungeons/sgLavaBackground02/sgDecoLavaBackground02.object	uncovered	objectName	sgDecoLavaBack02	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgBackgroundDungeons/sgScorchedCityBackground01/sgScorchedCityBackground01.object	uncovered	objectName	sgScorchedCityBack01	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgBackgroundDungeons/sgScorchedCityBackground02/sgScorchedCityBackground02.object	uncovered	objectName	sgScorchedCityBack02	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgBackgroundDungeons/sgScorchedCityBackground03/sgScorchedCityBackground03.object	uncovered	objectName	sgScorchedCityBack03	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgBackgroundDungeons/sgSimulacrumBackground01/sgDecoSimulacrumBackground01.object	uncovered	objectName	sgDecoSimulacrumBackground01	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgBackgroundDungeons/sgSimulacrumBackground02/sgDecoSimulacrumBackground02.object	uncovered	objectName	sgDecoSimulacrumBackground02	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgBackgroundDungeons/sgSpaceBackground01/sgDecoSpaceBackground01.object	uncovered	objectName	sgDecoSpaceBackground01	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgBackgroundDungeons/sgSpaceBackground02/sgDecoSpaceBackground02.object	uncovered	objectName	sgDecoSpaceBackground02	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgBackgroundDungeons/sgSpaceStargateBackground01/sgDecoSpaceStargateBackground01.object	uncovered	objectName	sgDecoSpaceStargateBackground01	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgBackgroundDungeons/sgStargateBackground01/sgDecoStargateBackground01.object	uncovered	objectName	sgDecoStargateBackground01	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgChestCrate/sgChestCrateT1.object	uncovered	objectName	sgChestCrateT1	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgChestCrate/sgChestCrateT2.object	uncovered	objectName	sgChestCrateT2	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgChestCrate/sgChestCrateT3.object	uncovered	objectName	sgChestCrateT3	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgChestSimulacrumCrate/sgChestSimulacrumCrate3.object	uncovered	objectName	sgChestSimulacrumCrate3	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgChestSimulacrumCrate/sgChestSimulacrumCrate64.object	uncovered	objectName	sgChestSimulacrumCrate64	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgCraftArchitectsTable/sgarchitectstable.object	uncovered	objectName	sgArchitectsTable	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgCrewContractsVendor/sgCrewContractsVendor.object	uncovered	objectName	sgCrewContractsVendor	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgDecoHumanBaseFlag/sgflaghuman.object	uncovered	objectName	sgDecoHumanBaseFlag	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgDecoReplicatorQueen/sgDecoReplicatorQueen.object	uncovered	objectName	sgDecoReplicatorQueen	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgDecoTeltakInteriorAccess/sgteltakinterioraccess.object	uncovered	objectName	sgTeltakInteriorAccess	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgEquipmentAssemblyTable/equipmentAssemblyTable.object	uncovered	objectName	sgEquipmentAssemblyTable	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgFigurineStargate/sgFigurineStargate.object	uncovered	objectName	sgFigurineStargate	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgGoauldJar/sgGoauldJar.object	uncovered	objectName	sgGoauldJar	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgMerchantGoauld/sgMerchantGoauld.object	uncovered	objectName	sgMerchantGoauld	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgMerchantOres/sgMerchantOres.object	uncovered	objectName	sgMerchantOres	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgMerchantSGC/sgMerchantSGC.object	uncovered	objectName	sgMerchantSGC	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgOutpostInterimAgency/sginterimagency.object	uncovered	objectName	sgInterimAgency	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgSGcArmoryWeapons/sgSGcArmoryWeapons.object	uncovered	objectName	sgSGcArmoryWeapons	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgSimulacrumStore/sgSimulacrumStore.object	uncovered	objectName	sgSimulacrumStore	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgTCGstore/sgTCGstore.object	uncovered	objectName	sgTCGstore	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgTransporterRingsWIP/sgTransporterRings.object	uncovered	objectName	sgTransporterRings	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgTransporterRingsWIPmission/sgTransporterRings.object	uncovered	objectName	sgTransporterRingsMission6a	
+mods/trans+Stargate_Invasion_contents_1195446899.pak	/objects/sgWallHealingStation/sgToolsWallMedic.object	uncovered	objectName	sgToolsWallMedic	
+mods/trans+Avali_contents_729558042.pak	/radiomessages/avalitriage.radiomessages	uncovered	text	당신은 아발리 트리아지(Avali Triage)와 프래킨 유니버스(Frackin Universe)를 패치 없이 실행 중입니다. 패치를 받을 때까지 계속해서 이 메	

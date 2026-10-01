@@ -1,0 +1,14 @@
+asset	field	en	ko	src
+/items/armors/decorative/costumes/secondtrimester/secondtrimester.chest	description	Keeps monster goop off the wearer during their second trimester.	임신 중기에 착용자에게 몬스터 점액이 묻지 않게 한다.	
+/items/armors/decorative/costumes/secondtrimester/secondtrimester.chest	shortdescription	Pregnant Scientist Coat	임신한 과학자 코트	
+/items/armors/decorative/costumes/thirdtrimester/thirdtrimester.chest	description	Keeps monster goop off the wearer during their third trimester.	임신 후기에 착용자에게 몬스터 점액이 묻지 않게 한다.	
+/items/armors/decorative/costumes/thirdtrimester/thirdtrimester.chest	shortdescription	Very Pregnant Scientist Coat	만삭 과학자 코트	
+/items/armors/decorative/costumes/thirdtrimester/thirdtrimester.head	description	Feel extra intelligent with these glasses.	이 안경으로 더 똑똑해진 기분이 든다.	
+/items/armors/decorative/costumes/thirdtrimester/thirdtrimester.head	shortdescription	Three Eyed Scientist Glasses	세 눈 과학자 안경	
+/items/armors/decorative/costumes/thirdtrimester/thirdtrimester.legs	description	Protects your legs while doing science.	과학 실험을 하는 동안 다리를 보호하세요.	reuse
+/items/armors/decorative/costumes/thirdtrimester/thirdtrimester.legs	shortdescription	Pregnant Scientist Pants	임신한 과학자 바지	
+/items/throwables/ggbathwater.thrownitem	shortdescription	Gamer Girl Bathwater	게이머 걸 목욕물	
+/items/throwables/ggbathwater.thrownitem	description	The liquid in this bottle is... Dubious.	이 병 안의 액체는... 수상하다.	
+/objects/farmables/floran/floranseed.object	description	A Floran bound to a trellis. Give it plenty of sunshine and water.	격자 울타리에 묶인 플로란. 햇빛과 물을 듬뿍 주자.	reuse
+/objects/farmables/floran/floranseed.object	shortdescription	Bound Floran	포박된 플로란	reuse
+/stats/effects/lewdslow/lewdslow.statuseffect	label	Naughty	야한	

@@ -1,0 +1,12 @@
+== /items/generic/produce/diodiahybrid.consumable.patch /description
+^yellow;^reset;^cyan;+20% 포이즌^reset;^reset;: 2m
+== /codex/om_starry/om_starrylore11.codex.patch /description
+이 안내서는 ^green;노바키드 모나크^reset; 혹은 ^yellow;노바키드^red;전용^reset;이다!
+== /codex/pharitu/pharitu4.codex.patch /contentPages/1
+(불안한 일이지만, 이것이 모든 파리투가 타인과 소통하는 방식입니다). 극한의 거리에 있는 서로와도 소통하고(샤크타에 큰 부담이 되긴 하지만), 돌과 금속을 빚어내며, 심지어 함선의 연료가 될 수 있는 고체 물질 구조물(물질로 만든 함선)을 만들기도 합니다.
+== /quests/arcana_quests_ankhu/arcana_quests_ankhu_mwhaddon/arcana_quests_ankhu_mwhaddon_11.questtemplate.patch /text
+좋은 소식이에요. 제 연구가 대도서관에 받아들여졌어요! 기록관이 되는 데 한 걸음 더 가까워졌고 연구비도 훨씬 늘었죠! 그래도 참고할 재료가 더 필요해요. 그중에는 ^orange;서로 다른 광석 세 종류^reset;가 있어요. ^green;일부 삼극성 별의 행성 지표 아래^white;묻혀 있죠.
+== /items/generic/produce/lactariusindigo.consumable.patch /description
+^yellow;^reset;^cyan;면역: 그림자 오염 및 +10% 그림자^reset;^reset;: 2m
+== /items/generic/produce/pasaka.consumable.patch /description
+^yellow;^reset;^cyan;면역: 방사선 화상 및 +20% 방사선^reset;^reset;: 2m

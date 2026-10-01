@@ -1,0 +1,28 @@
+providers: 816 | text assets: 60532 | assets with any patch: 76223
+TOTAL text=60532 covered=53479 broken=2566 uncovered=4487
+uncovered+broken rows: 7053 -> data\coverage_survey.tsv
+  mods/contents_2735634052.pak                                           covered=1560 broken=0 uncovered=266
+  packed.pak                                                             covered=4563 broken=209 uncovered=248
+  mods/Enternia_contents_2006558650.pak                                  covered=1733 broken=0 uncovered=220
+  mods/contents_2010607826.pak                                           covered=1179 broken=0 uncovered=199
+  mods/contents_3255373921.pak                                           covered=2 broken=0 uncovered=199
+  mods/RPG_contents_1115920474.pak                                       covered=547 broken=1 uncovered=183
+  mods/contents_1356955138.pak                                           covered=68 broken=5 uncovered=162
+  mods/Project_45_contents_3117517322.pak                                covered=80 broken=0 uncovered=137
+  mods/contents_1145193933.pak                                           covered=1 broken=0 uncovered=135
+  mods/voided_contents_2822921122.pak                                    covered=525 broken=0 uncovered=112
+  mods/-1000_angel_contents_1686520464.pak                               covered=276 broken=10 uncovered=104
+  mods/contents_1417364378.pak                                           covered=1645 broken=0 uncovered=103
+  mods/contents_2957477338.pak                                           covered=739 broken=0 uncovered=99
+  mods/contents_2010883172.pak                                           covered=476 broken=0 uncovered=99
+  mods/contents_2611501999.pak                                           covered=110 broken=0 uncovered=96
+  mods/sexbound-reborn-1.2_r3h2.pak                                      covered=300 broken=1 uncovered=95
+  mods/contents_2070856005.pak                                           covered=199 broken=0 uncovered=90
+  mods/starburst_contents_3025139283.pak                                 covered=387 broken=0 uncovered=84
+  mods/contents_1945946369.pak                                           covered=181 broken=0 uncovered=78
+  mods/Avali Plus_contents_1636662922.pak                                covered=92 broken=51 uncovered=75
+  mods/contents_3289772696.pak                                           covered=6 broken=0 uncovered=74
+  mods/contents_2773001691.pak                                           covered=6 broken=0 uncovered=66
+  mods/Felin_contents_729429063.pak                                      covered=151 broken=2 uncovered=64
+  mods/contents_2918996204.pak                                           covered=2 broken=0 uncovered=61
+  mods/contents_1523349276.pak                                           covered=1 broken=0 uncovered=61

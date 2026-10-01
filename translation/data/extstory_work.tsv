@@ -1,0 +1,82 @@
+asset	field	en	ko	src
+/items/armors/backitems/ancienteppback/ancientepp.back	description	Prevents any low or high temperatures, neutralizes high levels of radiation, and provides oxygen to the wearer.		
+/items/armors/backitems/ancienteppback/ancientepp.back	shortdescription	Ancient EPP		
+/items/armors/backitems/antiroteppback/antirotepp.back	description	Permanent immunity to the putrid air of the forgotten biome.		
+/items/armors/backitems/antiroteppback/antirotepp.back	shortdescription	Anti-Rot EPP		
+/items/armors/backitems/darkmattereppback/darkmatterepp.back	description	Completely resistant to every element.		
+/items/armors/backitems/darkmattereppback/darkmatterepp.back	shortdescription	Dark Matter EPP		
+/items/armors/other/ancient/ancient.chest	description	"A piece of armor that happens to survive the test of time.
+^cyan;Elemental damage reduction and deals damage to enemies."		
+/items/armors/other/ancient/ancient.chest	shortdescription	Ancient Chestplate		
+/items/armors/other/ancient/ancient.head	description	"A worn out helm that is well crafted and can survive time.
+^cyan;Elemental damage reduction and deals damage to enemies."		
+/items/armors/other/ancient/ancient.head	shortdescription	Ancient Helm		
+/items/armors/other/ancient/ancient.legs	description	"This object's age is beyond comprehension.
+^cyan;Elemental damage reduction and deals damage to enemies."		
+/items/armors/other/ancient/ancient.legs	shortdescription	Ancient Greaves		
+/items/armors/other/destructium/destructium.chest	description	"Destructium shaped into a chestplate.
+^cyan;Lower defense, higher damage!"		
+/items/armors/other/destructium/destructium.chest	shortdescription	Destructium Chestplate		
+/items/armors/other/destructium/destructium.head	description	"A helmet made of destructium.
+^cyan;Lower defense, higher damage!"		
+/items/armors/other/destructium/destructium.head	shortdescription	Destructium Helmet		
+/items/armors/other/destructium/destructium.legs	description	"A pair of destructium leggings.
+^cyan;Lower defense, higher damage!"		
+/items/armors/other/destructium/destructium.legs	shortdescription	Destructium Leggings		
+/items/armors/other/infernium/infernium.chest	description	A chestplate made of fire and infernal rock.		
+/items/armors/other/infernium/infernium.chest	shortdescription	Infernium Chestplate		
+/items/armors/other/infernium/infernium.head	description	A very protective helmet made of infernal rock.		
+/items/armors/other/infernium/infernium.head	shortdescription	Infernium Helmet		
+/items/armors/other/infernium/infernium.legs	description	A pair of leggings with Blazing Essence infused into it. Also made of infernal rock.		
+/items/armors/other/infernium/infernium.legs	shortdescription	Infernium Greaves		
+/items/armors/other/oceanguardian/oceanguardian.chest	description	"Really strong breastplate designed for higher mobility underwater.
+^cyan;Immune to suffocation and higher swimming mobility."		
+/items/armors/other/oceanguardian/oceanguardian.chest	shortdescription	Ocean Guardian's Breastplate		
+/items/armors/other/oceanguardian/oceanguardian.head	description	"A helm that was forged in the ocean!
+^cyan;Immune to suffocation and higher swimming mobility."		
+/items/armors/other/oceanguardian/oceanguardian.head	shortdescription	Ocean Guardian's Helm		
+/items/armors/other/oceanguardian/oceanguardian.legs	description	"Extremely hard armor made of pure ocean metal.
+^cyan;Immune to suffocation and higher swimming mobility."		
+/items/armors/other/oceanguardian/oceanguardian.legs	shortdescription	Ocean Guardian's Greaves		
+/items/armors/other/rotten/rotten.chest	description	"A chestplate made entirely of bacteria and rotting goo. Gross.
+^cyan;Causes nearby monsters to decay after taking damage."		
+/items/armors/other/rotten/rotten.chest	shortdescription	Rotten Chestplate		
+/items/armors/other/rotten/rotten.head	description	"A funky-smelling helmet made of rotten sludge and alien bacteria.
+^cyan;Causes nearby monsters to decay after taking damage."		
+/items/armors/other/rotten/rotten.head	shortdescription	Rotten Helmet		
+/items/armors/other/rotten/rotten.legs	description	"A pair of rotting pants. It smells awful.
+^cyan;Causes nearby monsters to decay after taking damage."		
+/items/armors/other/rotten/rotten.legs	shortdescription	Rotten Pants		
+/items/armors/other/ultimatium/ultimatium.chest	description	"A chestplate that has extreme durability. 
+^cyan;Emits a protective shield.^reset;
+^red;Not dyeable^reset;"		
+/items/armors/other/ultimatium/ultimatium.chest	shortdescription	Ultimatium Chestplate		
+/items/armors/other/ultimatium/ultimatium.head	description	"A helmet made of the strongest known material. 
+^cyan;Emits a protective shield.^reset;
+^red;Not dyeable^reset;"		
+/items/armors/other/ultimatium/ultimatium.head	shortdescription	Ultimatium Helmet		
+/items/armors/other/ultimatium/ultimatium.legs	description	"The single strongest pair of pants available. 
+^cyan;Emits a protective shield.^reset;
+^red;Not dyeable^reset;"		
+/items/armors/other/ultimatium/ultimatium.legs	shortdescription	Ultimatium Leggings		
+/items/armors/other/umbrium/umbrium.chest	description	A chestplate with a sort of gem-like eye lodged into the chest.		
+/items/armors/other/umbrium/umbrium.chest	shortdescription	Umbrium Chestplate		
+/items/armors/other/umbrium/umbrium.head	description	A mask that covers the facial region with an eye! Creepy!		
+/items/armors/other/umbrium/umbrium.head	shortdescription	Umbrium Mask		
+/items/armors/other/umbrium/umbrium.legs	description	A pair of leggings with Abyssal Magic infused into it.		
+/items/armors/other/umbrium/umbrium.legs	shortdescription	Umbrium Greaves		
+/items/augments/back/destroyerspawnblock.augment	description	An EPP module that makes you invisible to the Destroyer of Worlds.		
+/items/augments/back/destroyerspawnblock.augment	shortdescription	Destroyer Camo Augment		
+/items/materials/chargedsand.matitem	description	A pile of sand that is electrically charged. ^cyan;Currently decorative only.^reset;		
+/items/materials/chargedsand.matitem	shortdescription	Electrified Sand		
+/items/materials/darkobsidianrail.matitem	description	A rail carved from dark obsidian.		
+/items/materials/darkobsidianrail.matitem	shortdescription	Dark Obsidian Rail		
+/items/materials/iceplatform.matitem	description	Platforms that are made entirely of ice. It's unknown how these are sturdy or never melt.		
+/items/materials/iceplatform.matitem	shortdescription	Ice Platform	얼음 플랫폼	reuse
+/items/materials/livinglightning.matitem	description	A living lightning bolt! ^cyan;Currently decorative only.^reset;		
+/items/materials/livinglightning.matitem	shortdescription	Living Lightning		
+/items/materials/supervoidblock.matitem	description	A block found in the Supervoid.		
+/items/materials/supervoidblock.matitem	shortdescription	Supervoid Block		
+/items/throwables/ancientgrenade.thrownitem	description	Handheld ancient grenades. Careful! They're very deadly.		
+/items/throwables/destroyersummoner.thrownitem	shortdescription	Destruction Orb		
+/items/throwables/destroyersummoner.thrownitem	description	This orb emits a destructive aura. ^yellow;Summons the destroyer^reset;		

@@ -1,0 +1,28 @@
+/items/armors/MILSURP/BERET/gic_beret/gic_beret.head.patch -> EXISTS
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "Wartorns are much the way they are due to the extended nature of their fighting. Many educated specialists needed to maintain a decent technological level are likely to have already fled, or been killed.\r\n^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Warfighter [HEAD]: +10% Assault Rifle Proficiency | -20% projectile spread for Assault Rifles.\r\n^#F2B8EC;Bush Mercenary [FULL SET 3x REQUIRED] - +10% General Weapon Proficiency | +15% DODGE | +50% BLEED & THERMAL RES."
+    },
+    {
+      "op": "replace",
+      "path":
+/items/armors/SUBTERRANEAN/MOLE_CLAN/gic_colonialresistance/gic_colonialresistance.chest.patch -> EXISTS
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "The Mole Clan have an unconventional order of business. The Mole Clan are notorious for their unstoppable invasions into territory, of which they evict existing residents to pillage supplies and create temporary bases. It is incredibly difficult to uproot Mole Clan holdings, so gangs typically opt to leave them be.\r\n^#DBC5A6;DEF: +30% SMALL-ARMS | +25% SLASH | 15% THRUST | +10% BLEED PROC.^reset;\r\n^#F2B8EC;Mole Clan Treasures [FULL SET 3x REQUIRED] - For every 20 scrap held in the player's inventory, gain +5% Wea
+/items/armors/UNUSED_LEGACY/LEGACY_HEADWEAR/gic_imperialshinobi/gic_imperialshinobi.head.patch -> EXISTS
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "''The Waterborne leaders fall in the gauntlet that they face.\r\nThe Crow's visions turn to sabotage and change.\r\nThe Nova survive due to warriors born free.\r\nThe Eagle and Bear endures and marches ever on to victory.\r\nThe Ape's driven mad by mud and treachery.\r\nThe Naturals earn a draw through sheer savagery.\r\nThe Gestalt fight as a pack and bring down its prey.\r\nAnd although Mankind has lived, they are harrowed and maimed.''\r\n^#DBC5A6;DEF: +20% BLEED | Immunity to Flashbangs.^reset;"
+    },
+    {
+    

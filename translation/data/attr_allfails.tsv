@@ -1,0 +1,11 @@
+asset	pak	fail
+/ai/ai.config	zz_localeko_highpriority_20260927.pak	(0, '/shipStatus/0/text', '^#6f6f6f;$ status')
+/interface/cockpit/cockpit.config	zz_localeko_highpriority_20260927.pak	(0, '/wordsList/starforge-tidefragment/friendlyWord', '<err>')
+/interface/scripted/mmupgrade/mmupgradegui.config	-9998_trans_sbkor_0.98_structfix.pak	(0, '/gui/windowtitle', '<err>')
+/interface/windowconfig/charcreation.config	-9998_trans_sbkor_0.98_structfix.pak	(15, '/paneLayout/labelGender', None)
+/interface/windowconfig/craftingnocategories.config	-9998_trans_sbkor_0.98_structfix.pak	(0, '/paneLayout/windowtitle/title', None)
+/items/active/weapons/fist/brassknuckles.activeitem	zz_localeko_highpriority_20260927.pak	(0, '/upgradeParameters/shortdescription', '<err>')
+/items/active/weapons/melee/axe/fryingpan.activeitem	zz_localeko_highpriority_20260927.pak	(0, '/upgradeParameters/shortdescription', '<err>')
+/items/armors/protectorate/protectoratearmor/protectoratearmor.chest	zz_localeko_highpriority_20260927.pak	(0, '/description', 'Experimental power armor to ensure protection for all.\n^orange;Set Bonuses^reset;:\n^yellow;^reset; Power Dash Tech. Partial knockback resist;\n^yellow;^reset; Protectorate Weaponry: Damage x^green;1.3^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Deadly Rads, Deadly Heat/Cold, Poison, Oxygen, Gas')
+/items/armors/protectorate/protectoratearmor/protectoratearmor.head	zz_localeko_highpriority_20260927.pak	"(0, '/description', ""The face of a noble cause.\n^cyan;Headlamp^reset;\n^orange;Set Bonuses^reset;:\n^yellow;^reset; Protector's Sphere Tech;\n^yellow;^reset; Protectorate Weaponry: Damage x^green;1.3^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Deadly Rads, Deadly Heat/Cold, Poison, Oxygen, Gas"")"
+/items/armors/protectorate/protectoratearmor/protectoratearmor.legs	zz_localeko_highpriority_20260927.pak	(0, '/description', 'These boots march onwards to a brighter future.\n^orange;Set Bonuses^reset;:\n^yellow;^reset; Rocket Thruster. Fall Damage Immunity;\n^yellow;^reset; Protectorate Weaponry: Damage x^green;1.3^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Deadly Rads, Deadly Heat/Cold, Poison, Oxygen, Gas')

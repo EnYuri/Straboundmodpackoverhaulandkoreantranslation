@@ -1,0 +1,182 @@
+asset	field	en	ko	src
+/items/knightfall/armor/knightframe/armor/armor/knightframe_chest.chest	description	A plasma powered chestpiece that provides great defense and environmental protection.	플라즈마 동력 흉갑으로 뛰어난 방어력과 환경 보호를 제공한다.	reuse
+/items/knightfall/armor/knightframe/armor/armor/knightframe_chest.chest	shortdescription	Knightframe Chestpiece	나이트프레임 흉갑	reuse
+/items/knightfall/armor/knightframe/armor/armor/knightframe_head.head	description	An advanced helmet, with a built-in environmental scanner and a combat assisting computer.	환경 스캐너와 전투 보조 컴퓨터를 내장한 첨단 투구.	
+/items/knightfall/armor/knightframe/armor/armor/knightframe_head.head	shortdescription	Knightframe Helmet	나이트프레임 투구	
+/items/knightfall/armor/knightframe/armor/armor/knightframe_legs.legs	description	Provides a booster set capable of increasing mobility, but cannot increase damage or energy outputs.	기동성을 높여주는 부스터 세트를 제공하지만 화력과 에너지 출력은 높여주지 못한다.	reuse
+/items/knightfall/armor/knightframe/armor/armor/knightframe_legs.legs	shortdescription	Knightframe Legpiece	나이트프레임 레그피스	reuse
+/items/knightfall/armor/knightframe/armor/helmets/knightframe_commander/knightframe_commander.head	description	Legacy variant of the original Knightframe helmet. Now repurposed for commanders.	원래 나이트프레임 투구의 구형 변종. 이제 지휘관용으로 개조되었다.	
+/items/knightfall/armor/knightframe/armor/helmets/knightframe_commander/knightframe_commander.head	shortdescription	Knightframe ^#36c6ff;'Commander'^reset;	나이트프레임 ^#36c6ff;'지휘관'^reset;	
+/items/knightfall/armor/knightframe/armor/helmets/knightframe_explorer/knightframe_explorer.head	description	A variant of the Knightframe helmet. Grants additional mobility.	나이트프레임 투구의 변종. 추가 기동성을 부여한다.	
+/items/knightfall/armor/knightframe/armor/helmets/knightframe_explorer/knightframe_explorer.head	shortdescription	Knightframe ^green;'Explorer'^reset;	나이트프레임 ^green;'탐사자'^reset;	
+/items/knightfall/armor/knightframe/armor/helmets/knightframe_guardian/knightframe_guardian.head	description	A modified Seeker helmet. Grants additional health and armor in exchange for less damage and less energy.	개조된 시커 투구. 피해와 에너지를 줄이는 대신 추가 체력과 방어력을 준다.	
+/items/knightfall/armor/knightframe/armor/helmets/knightframe_guardian/knightframe_guardian.head	shortdescription	Knightframe ^#c4c4c4;'Guardian'^reset;	나이트프레임 ^#c4c4c4;'수호자'^reset;	
+/items/knightfall/armor/knightframe/armor/helmets/knightframe_hunter/knightframe_hunter.head	description	A variant of the Knightframe helmet. Packs more damage and energy in exchange for less hitpoints and durability.	나이트프레임 투구의 변종. 체력과 내구도를 희생해 더 많은 피해와 에너지를 담았다.	
+/items/knightfall/armor/knightframe/armor/helmets/knightframe_hunter/knightframe_hunter.head	shortdescription	Knightframe ^red;'Hunter'^reset;	나이트프레임 ^red;'사냥꾼'^reset;	
+/items/knightfall/armor/knightframe/armor/helmets/knightframe_scouter/knightframe_scouter.head	description	A decorative scouter headpiece for the Knightframe armor set.	나이트프레임 갑옷 세트용 장식용 스카우터 머리장비.	
+/items/knightfall/armor/knightframe/armor/helmets/knightframe_scouter/knightframe_scouter.head	shortdescription	Knightframe Scouter	나이트프레임 스카우터	
+/items/knightfall/armor/knightframe/armor/helmets/knightframe_visor/knightframe_visor.head	description	A simple visor headpiece. Provides some useful status effects.	단순한 바이저 머리장비. 유용한 상태 효과를 제공한다.	
+/items/knightfall/armor/knightframe/armor/helmets/knightframe_visor/knightframe_visor.head	shortdescription	Knightframe Visor	나이트프레임 바이저	
+/items/knightfall/armor/knightframe/backitems/knightframe_booster/knightframe_booster.back	description	A booster module that provides additional mobility and can accept an augment.	추가 기동성을 주며 증강을 장착할 수 있는 부스터 모듈.	
+/items/knightfall/armor/knightframe/backitems/knightframe_booster/knightframe_booster.back	shortdescription	Knightframe Booster	나이트프레임 부스터	
+/items/knightfall/armor/knightframe/backitems/knightframe_cape/knightframe_cape.back	description	A cape piece coated in Alumenite nanofibers.	알루메나이트 나노섬유로 코팅된 망토 부품.	
+/items/knightfall/armor/knightframe/backitems/knightframe_cape/knightframe_cape.back	shortdescription	Knightframe Cape	나이트프레임 망토	
+/items/knightfall/armor/knightframe/backitems/knightframe_chronosentry/knightframe_chronosentry.back	description	Crouch to fire a burst of stasis grenades from this back mounted grenade launcher.	웅크리면 등 장착 유탄 발사기에서 정지 수류탄을 연발 발사한다.	
+/items/knightfall/armor/knightframe/backitems/knightframe_chronosentry/knightframe_chronosentry.back	shortdescription	Knightframe Chronosentry	나이트프레임 크로노센트리	
+/items/knightfall/armor/knightframe/backitems/knightframe_fueltanks/knightframe_fueltanks.back	description	A set of two fuel tanks that grant additional energy in exchange for less armor.	방어력을 줄이는 대신 추가 에너지를 주는 두 개의 연료 탱크 세트.	
+/items/knightfall/armor/knightframe/backitems/knightframe_fueltanks/knightframe_fueltanks.back	shortdescription	Knightframe Fuel Tanks	나이트프레임 연료 탱크	
+/items/knightfall/armor/knightframe/backitems/knightframe_jetpack/knightframe_jetpack.back	description	Lets you fly. What else did you expect?	날 수 있게 해준다. 그 이상 뭘 기대했나?	
+/items/knightfall/armor/knightframe/backitems/knightframe_jetpack/knightframe_jetpack.back	shortdescription	Knightframe Jetpack	나이트프레임 제트팩	
+/items/knightfall/armor/knightframe/backitems/knightframe_starstreak/knightframe_starstreak.back	description	A back mounted missile launcher that fires imploder missiles that damage and keep enemies at bay.	적에게 피해를 주고 접근을 막는 붕괴 미사일을 쏘는 등 장착 미사일 발사기.	
+/items/knightfall/armor/knightframe/backitems/knightframe_starstreak/knightframe_starstreak.back	shortdescription	Knightframe Starstreak	나이트프레임 스타스트리크	
+/items/knightfall/armor/medicframe/armor/armor/medicframe_chest.chest	description	A basic white painted chest piece with decent armor and environmental protection. For use by Medics.	의무병용. 제법 튼튼한 방어력과 환경 보호를 갖춘 기본형 흰색 흉갑.	reuse
+/items/knightfall/armor/medicframe/armor/armor/medicframe_chest.chest	shortdescription	Medicframe Chestpiece	메딕프레임 흉갑	reuse
+/items/knightfall/armor/medicframe/armor/armor/medicframe_head.head	description	A basic, high-tech, white painted helmet with decent protection for use by Medics.	의무병이 쓰는, 준수한 방호력의 기본 첨단 백색 도장 투구.	
+/items/knightfall/armor/medicframe/armor/armor/medicframe_head.head	shortdescription	Medicframe Helmet	메딕프레임 투구	
+/items/knightfall/armor/medicframe/armor/armor/medicframe_legs.legs	description	A basic leg piece with decent protection and a lot of belt storage. For use by Medics.	의무병용. 준수한 방어력과 넉넉한 벨트 수납공간을 갖춘 기본형 다리 보호구.	reuse
+/items/knightfall/armor/medicframe/armor/armor/medicframe_legs.legs	shortdescription	Medicframe Legpiece	메딕프레임 레그피스	reuse
+/items/knightfall/armor/medicframe/armor/helmets/medicframe_healer/medicframe_healer.head	description	A variant helmet used by Medics.	의무병이 쓰는 변종 투구.	
+/items/knightfall/armor/medicframe/armor/helmets/medicframe_healer/medicframe_healer.head	shortdescription	Medicframe ^#5be1eb;'Healer'^reset;	메딕프레임 ^#5be1eb;'치료사'^reset;	
+/items/knightfall/armor/medicframe/armor/helmets/medicframe_rescuer/medicframe_rescuer.head	description	A variant helmet used by Medics.	의무병이 쓰는 변종 투구.	
+/items/knightfall/armor/medicframe/armor/helmets/medicframe_rescuer/medicframe_rescuer.head	shortdescription	Medicframe ^#5be1eb;'Rescuer'^reset;	메딕프레임 ^#5be1eb;'구조자'^reset;	
+/items/knightfall/armor/medicframe/armor/helmets/medicframe_supporter/medicframe_supporter.head	description	A variant headpiece used by Medics.	의무병이 쓰는 변종 머리장비.	
+/items/knightfall/armor/medicframe/armor/helmets/medicframe_supporter/medicframe_supporter.head	shortdescription	Medicframe ^#5be1eb;'Supporter'^reset;	메딕프레임 ^#5be1eb;'지원자'^reset;	
+/items/knightfall/armor/medicframe/backitems/medicframe_backpack/medicframe_backpack.back	description	A large backpack used by Medics to carry all their items.	의무병이 모든 물건을 싣는 커다란 배낭.	
+/items/knightfall/armor/medicframe/backitems/medicframe_backpack/medicframe_backpack.back	shortdescription	Medicframe Backpack	메딕프레임 배낭	
+/items/knightfall/armor/mightframe/armor/armor/mightframe_chest.chest	description	A super strong powered chestpiece that provides great defense, damage, and environmental protection.	초강력 동력 흉갑으로 뛰어난 방어력과 화력, 환경 보호를 제공한다.	reuse
+/items/knightfall/armor/mightframe/armor/armor/mightframe_chest.chest	shortdescription	Mightframe Chestpiece	마이트프레임 흉갑	reuse
+/items/knightfall/armor/mightframe/armor/armor/mightframe_head.head	description	A highly advanced and super strong helmet complete with built-in computers, devices, and a terrain scanner.	컴퓨터와 각종 장치, 지형 스캐너를 내장한 매우 첨단적이고 초강력 투구.	
+/items/knightfall/armor/mightframe/armor/armor/mightframe_head.head	shortdescription	Mightframe Helmet	마이트프레임 투구	
+/items/knightfall/armor/mightframe/armor/armor/mightframe_legs.legs	description	Provides better protection than the Knightframe legs, but it loses on damage and energy.	나이트프레임 다리 보호구보다 방어력은 높지만 화력과 에너지는 떨어진다.	reuse
+/items/knightfall/armor/mightframe/armor/armor/mightframe_legs.legs	shortdescription	Mightframe Legpiece	마이트프레임 레그피스	reuse
+/items/knightfall/armor/mightframe/armor/helmets/mightframe_juggernaut/mightframe_juggernaut.head	description	A highly durable helmet that grants additional protection in exchange for less damage and energy.	피해와 에너지를 줄이는 대신 추가 방호력을 주는 매우 튼튼한 투구.	
+/items/knightfall/armor/mightframe/armor/helmets/mightframe_juggernaut/mightframe_juggernaut.head	shortdescription	Mightframe ^#c4c4c4;'Juggernaut'^reset;	마이트프레임 ^#c4c4c4;'거신'^reset;	
+/items/knightfall/armor/mightframe/armor/helmets/mightframe_praetor/mightframe_praetor.head	description	This helmet can accept an augment, in exchange for weaker stats than the default Mightframe helmet.	이 투구는 증강을 장착할 수 있지만, 기본 마이트프레임 투구보다 능력치가 낮다.	
+/items/knightfall/armor/mightframe/armor/helmets/mightframe_praetor/mightframe_praetor.head	shortdescription	Mightframe ^orange;'Praetor'^reset;	마이트프레임 ^orange;'프라이토르'^reset;	
+/items/knightfall/armor/mightframe/armor/helmets/mightframe_ranger/mightframe_ranger.head	description	A decorative helmet design for the Mightframe armor set.	마이트프레임 갑옷 세트용 장식용 투구 디자인.	
+/items/knightfall/armor/mightframe/armor/helmets/mightframe_ranger/mightframe_ranger.head	shortdescription	Mightframe ^#36c6ff;'Ranger'^reset;	마이트프레임 ^#36c6ff;'레인저'^reset;	
+/items/knightfall/armor/mightframe/armor/helmets/mightframe_shocktrooper/mightframe_shocktrooper.head	description	A decorative helmet design for the Mightframe armor set.	마이트프레임 갑옷 세트용 장식용 투구 디자인.	
+/items/knightfall/armor/mightframe/armor/helmets/mightframe_shocktrooper/mightframe_shocktrooper.head	shortdescription	Mightframe ^#36c6ff;'Shocktrooper'^reset;	마이트프레임 ^#36c6ff;'돌격병'^reset;	
+/items/knightfall/armor/mightframe/armor/helmets/mightframe_terminator/mightframe_terminator.head	description	A highly advanced helmet that packs more damage and energy in exchange for less hitpoints and durability.	체력과 내구도를 희생해 더 많은 피해와 에너지를 담은 첨단 투구.	
+/items/knightfall/armor/mightframe/armor/helmets/mightframe_terminator/mightframe_terminator.head	shortdescription	Mightframe ^red;'Terminator'^reset;	마이트프레임 ^red;'터미네이터'^reset;	
+/items/knightfall/armor/mightframe/armor/helmets/mightframe_visor/mightframe_visor.head	description	An advanced visor headpiece. Provides some useful status effects and mobility.	첨단 바이저 머리장비. 유용한 상태 효과와 기동성을 제공한다.	
+/items/knightfall/armor/mightframe/armor/helmets/mightframe_visor/mightframe_visor.head	shortdescription	Mightframe Visor	마이트프레임 바이저	
+/items/knightfall/armor/mightframe/backitems/mightframe_furcape/mightframe_furcape.back	description	A cape piece with a fur collar, coated in Alumenite nanofibers.	알루메나이트 나노섬유로 코팅된 털 깃 달린 망토 부품.	
+/items/knightfall/armor/mightframe/backitems/mightframe_furcape/mightframe_furcape.back	shortdescription	Mightframe Fur Cape	마이트프레임 털 망토	
+/items/knightfall/armor/mightframe/backitems/mightframe_shellshock/mightframe_shellshock.back	description	A large back mounted heavy plasma cannon capable of bombarding enemies from range.	원거리에서 적을 포격할 수 있는 등 장착 대형 플라즈마 캐논.	
+/items/knightfall/armor/mightframe/backitems/mightframe_shellshock/mightframe_shellshock.back	shortdescription	Mightframe Shellshock	마이트프레임 셸쇼크	
+/items/knightfall/armor/mightframe/backitems/mightframe_strafer/mightframe_strafer.back	description	A large back mounted minigun capable of shredding enemies with a hail of bullets.	탄막으로 적을 갈가리 찢을 수 있는 등 장착 대형 미니건.	
+/items/knightfall/armor/mightframe/backitems/mightframe_strafer/mightframe_strafer.back	shortdescription	Mightframe Strafer	마이트프레임 스트레이퍼	
+/items/knightfall/armor/trooperframe/armor/armor/trooperframe_chest.chest	description	A basic, plasma powered chestpiece that provides decent defense and environmental protection.	기본형 플라즈마 동력 흉갑으로 적당한 방어력과 환경 보호를 제공한다.	reuse
+/items/knightfall/armor/trooperframe/armor/armor/trooperframe_chest.chest	shortdescription	Trooperframe Chestpiece	트루퍼프레임 흉갑	reuse
+/items/knightfall/armor/trooperframe/armor/armor/trooperframe_head.head	description	A basic helmet with a built in computer system.	컴퓨터 시스템을 내장한 기본 투구.	
+/items/knightfall/armor/trooperframe/armor/armor/trooperframe_head.head	shortdescription	Trooperframe Helmet	트루퍼프레임 투구	
+/items/knightfall/armor/trooperframe/armor/armor/trooperframe_legs.legs	description	These basic boots provide a booster set capable of increasing speed, but cannot increase damage or energy.	기본형 부츠로 속도를 높여주는 부스터 세트를 제공하지만 화력과 에너지는 높여주지 못한다.	reuse
+/items/knightfall/armor/trooperframe/armor/armor/trooperframe_legs.legs	shortdescription	Trooperframe Legpiece	트루퍼프레임 레그피스	reuse
+/items/knightfall/armor/trooperframe/armor/helmets/trooperframe_combatant/trooperframe_combatant.head	description	This Trooperframe helmet packs more damage and energy, in exchange for less hitpoints and durability.	이 트루퍼프레임 투구는 체력과 내구도를 희생해 더 많은 피해와 에너지를 담았다.	
+/items/knightfall/armor/trooperframe/armor/helmets/trooperframe_combatant/trooperframe_combatant.head	shortdescription	Trooperframe ^red;'Combatant'^reset;	트루퍼프레임 ^red;'전투원'^reset;	
+/items/knightfall/armor/trooperframe/armor/helmets/trooperframe_defender/trooperframe_defender.head	description	A Troopeframe helmet that grants additional health and armor in exchange for less damage and less energy.	피해와 에너지를 줄이는 대신 추가 체력과 방어력을 주는 트루퍼프레임 투구.	
+/items/knightfall/armor/trooperframe/armor/helmets/trooperframe_defender/trooperframe_defender.head	shortdescription	Trooperframe ^#c4c4c4;'Defender'^reset;	트루퍼프레임 ^#c4c4c4;'수호병'^reset;	
+/items/knightfall/armor/trooperframe/armor/helmets/trooperframe_locator/trooperframe_locator.head	description	A Trooperframe headpiece that grants additional mobility.	추가 기동성을 주는 트루퍼프레임 머리장비.	
+/items/knightfall/armor/trooperframe/armor/helmets/trooperframe_locator/trooperframe_locator.head	shortdescription	Trooperframe ^green;'Locator'^reset;	트루퍼프레임 ^green;'탐지기'^reset;	
+/items/knightfall/armor/trooperframe/backitems/trooperframe_backpack/trooperframe_backpack.back	description	A large backpack used by Troopers to carry all their items.	트루퍼들이 모든 물건을 싣는 커다란 배낭.	
+/items/knightfall/armor/trooperframe/backitems/trooperframe_backpack/trooperframe_backpack.back	shortdescription	Trooperframe Backpack	트루퍼프레임 배낭	
+/items/knightfall/armor/trooperframe/backitems/trooperframe_fueltank/trooperframe_fueltank.back	description	A single fuel tank that grants additional energy in exchange for less armor.	방어력을 줄이는 대신 추가 에너지를 주는 단일 연료 탱크.	
+/items/knightfall/armor/trooperframe/backitems/trooperframe_fueltank/trooperframe_fueltank.back	shortdescription	Trooperframe Fuel Tank	트루퍼프레임 연료 탱크	
+/items/knightfall/armor/trooperframe/backitems/trooperframe_igniter/trooperframe_igniter.back	description	A back mounted flamethrower that can set enemies ablaze from a short range.	근거리에서 적을 불태울 수 있는 등 장착 화염방사기.	
+/items/knightfall/armor/trooperframe/backitems/trooperframe_igniter/trooperframe_igniter.back	shortdescription	Trooperframe Igniter	트루퍼프레임 점화기	
+/items/knightfall/armor/trooperframe/backitems/trooperframe_lightkeeper/trooperframe_lightkeeper.back	description	A light, back mounted plasma turret that can strafe enemies with plasma bullets.	플라즈마탄으로 적을 제압 사격할 수 있는 경량 등 장착 플라즈마 터렛.	
+/items/knightfall/armor/trooperframe/backitems/trooperframe_lightkeeper/trooperframe_lightkeeper.back	shortdescription	Trooperframe Lightkeeper	트루퍼프레임 라이트키퍼	
+/items/knightfall/armor/voidframe/armor/armor/voidframe_chest.chest	description	A black hole powered chestpiece that provides incredible defense and environmental protection.	블랙홀 동력 흉갑으로 믿기지 않는 방어력과 환경 보호를 제공한다.	reuse
+/items/knightfall/armor/voidframe/armor/armor/voidframe_chest.chest	shortdescription	Voidframe Chestpiece	보이드프레임 흉갑	reuse
+/items/knightfall/armor/voidframe/armor/armor/voidframe_head.head	description	Research on Black Hole Tech made it possible to create an extremely durable helmet with built-in gravity radar.	블랙홀 기술 연구로 내장 중력 레이더까지 갖춘 극도로 튼튼한 투구를 만들 수 있었다.	
+/items/knightfall/armor/voidframe/armor/armor/voidframe_head.head	shortdescription	Voidframe Helmet	보이드프레임 투구	
+/items/knightfall/armor/voidframe/armor/armor/voidframe_legs.legs	description	These boots provide tremendous mobility by defying the gravity itself around you.	주변의 중력 자체를 거스르는 엄청난 기동성을 주는 부츠.	reuse
+/items/knightfall/armor/voidframe/armor/armor/voidframe_legs.legs	shortdescription	Voidframe Legpiece	보이드프레임 레그피스	reuse
+/items/knightfall/armor/voidframe/armor/helmets/voidframe_darkdweller/voidframe_darkdweller.head	description	Research on Black Hole Tech made it possible to create an extremely durable helmet with built-in gravity radar.	블랙홀 기술 연구로 내장 중력 레이더까지 갖춘 극도로 튼튼한 투구를 만들 수 있었다.	
+/items/knightfall/armor/voidframe/armor/helmets/voidframe_darkdweller/voidframe_darkdweller.head	shortdescription	Voidframe Darkdweller Helmet	보이드프레임 다크드웰러 투구	
+/items/knightfall/augments/back/knightfall_augmentedsupport_augment.augment	description	If your health drops to 35%, gain +2 armor and Augmented monsters are teleported to you. Monsters last for 10s.	체력이 35% 이하로 떨어지면 방어력 +2를 얻고 증강 괴물들이 네게 텔레포트된다. 괴물은 10초간 지속.	
+/items/knightfall/augments/back/knightfall_augmentedsupport_augment.augment	shortdescription	Augmented Support	증강 지원	
+/items/knightfall/augments/back/knightfall_avatar_augment.augment	description	Only you, master of all five elements, could stop them.	다섯 원소 모두의 주인인 너만이 그들을 막을 수 있다.	
+/items/knightfall/augments/back/knightfall_avatar_augment.augment	shortdescription	Avatar Augment	아바타 증강	
+/items/knightfall/augments/back/knightfall_berserker_augment.augment	description	If your health drops to 35%, gain +2 armor and +100% damage that lasts for 10s.	체력이 35% 이하로 떨어지면 10초간 지속되는 방어력 +2와 피해 +100%를 얻는다.	
+/items/knightfall/augments/back/knightfall_berserker_augment.augment	shortdescription	Berserker	광전사	
+/items/knightfall/augments/back/knightfall_blockade_augment.augment	description	Gain a shield that blocks incoming damage, lasting for 1s. Recharges after 10s of no combat.	들어오는 피해를 막는 방패를 얻는다. 1초간 지속되며 비전투 10초 후 재충전.	
+/items/knightfall/augments/back/knightfall_blockade_augment.augment	shortdescription	Blockade	봉쇄	
+/items/knightfall/augments/back/knightfall_chronofrost_augment.augment	description	Every few seconds, your attack freezes a single enemy in time. Recharges every 15s.	몇 초마다 네 공격이 적 하나를 시간 속에 얼린다. 15초마다 재충전.	
+/items/knightfall/augments/back/knightfall_chronofrost_augment.augment	shortdescription	Chronofrost	크로노프로스트	
+/items/knightfall/augments/back/knightfall_distributor_augment.augment	description	Distributes another augment's effects over a 15 block radius towards your allies.	다른 증강의 효과를 반경 15블록 안의 아군에게 분배한다.	
+/items/knightfall/augments/back/knightfall_distributor_augment.augment	shortdescription	Signal Distributor	신호 분배기	
+/items/knightfall/augments/back/knightfall_dronesupport_augment.augment	description	If your health drops to 35%, gain +2 armor and Spectre drones are teleported to you. Drones last for 10s.	체력이 35% 이하로 떨어지면 방어력 +2를 얻고 스펙터 드론들이 네게 텔레포트된다. 드론은 10초간 지속.	
+/items/knightfall/augments/back/knightfall_dronesupport_augment.augment	shortdescription	Drone Support	드론 지원	
+/items/knightfall/augments/back/knightfall_irradiator_augment.augment	description	Augments your attacks with poison damage.	공격에 독 피해를 증강한다.	
+/items/knightfall/augments/back/knightfall_irradiator_augment.augment	shortdescription	Irradiator	방사기	
+/items/knightfall/augments/back/knightfall_lifesteal_augment.augment	description	Heal for 15% of the damage you deal per attack. Has a 1s cooldown per heal.	공격으로 입힌 피해의 15%를 회복한다. 치유당 1초의 재사용 대기.	
+/items/knightfall/augments/back/knightfall_lifesteal_augment.augment	shortdescription	Lifesteal	생명 흡수	
+/items/knightfall/augments/back/knightfall_metalthorns_augment.augment	description	A stronger version of the Thorns EPP module that fires steel thorns back at the enemy.	적에게 강철 가시를 되돌려 쏘는, 가시 EPP 모듈의 강화판.	
+/items/knightfall/augments/back/knightfall_metalthorns_augment.augment	shortdescription	Metal Thorns	금속 가시	
+/items/knightfall/augments/back/knightfall_pixelmaker_augment.augment	description	Grants +2 pixels for every 10 damage you deal.	입히는 피해 10당 픽셀 +2를 얻는다.	
+/items/knightfall/augments/back/knightfall_pixelmaker_augment.augment	shortdescription	Pixelmaker	픽셀메이커	
+/items/knightfall/augments/back/knightfall_recharger_augment.augment	description	Halves your energy. Attacking enemies recovers 7.5% of your energy, refreshing every 1s. Restore 20% energy with kills.	에너지가 절반이 된다. 적을 공격하면 1초마다 갱신되며 에너지 7.5%를 회복한다. 처치 시 에너지 20% 회복.	
+/items/knightfall/augments/back/knightfall_recharger_augment.augment	shortdescription	Recharger	충전기	
+/items/knightfall/thrownitems/knightfall_ATgrenade_thrown/knightfall_ATgrenade.thrownitem	itemName	knightfall_ATgrenade_thrown	knightfall_ATgrenade_thrown	
+/items/knightfall/thrownitems/knightfall_ATgrenade_thrown/knightfall_ATgrenade.thrownitem	shortdescription	Anti-Tank Grenade	대전차 수류탄	
+/items/knightfall/thrownitems/knightfall_ATgrenade_thrown/knightfall_ATgrenade.thrownitem	description	A stick grenade that deals more damage to tankier enemies.	중무장한 적에게 더 큰 피해를 주는 장조 수류탄.	
+/items/knightfall/thrownitems/knightfall_HEgrenade_thrown/knightfall_HEgrenade.thrownitem	itemName	knightfall_HEgrenade_thrown	knightfall_HEgrenade_thrown	
+/items/knightfall/thrownitems/knightfall_HEgrenade_thrown/knightfall_HEgrenade.thrownitem	shortdescription	High Explosive Grenade	고폭 수류탄	
+/items/knightfall/thrownitems/knightfall_HEgrenade_thrown/knightfall_HEgrenade.thrownitem	description	A basic grenade that explodes into a burst of deadly shrapnel.	치명적인 파편을 흩뿌리며 폭발하는 기본 수류탄.	
+/items/knightfall/thrownitems/knightfall_bluethrowableflare/knightfall_bluethrowableflare.thrownitem	shortdescription	Blue Knightfall Flare	파란 나이트폴 조명탄	reuse
+/items/knightfall/thrownitems/knightfall_bluethrowableflare/knightfall_bluethrowableflare.thrownitem	description	Can be used as a signal or to light up dark areas.	신호용으로 쓰거나 어두운 곳을 밝히는 데 쓸 수 있다.	
+/items/knightfall/thrownitems/knightfall_disintegratorgrenade/knightfall_disintegratorgrenade.thrownitem	shortdescription	Disintegrator Grenade	붕괴 수류탄	
+/items/knightfall/thrownitems/knightfall_disintegratorgrenade/knightfall_disintegratorgrenade.thrownitem	description	An unstable grenade that creates a dangerous singularity on impact.	충격 시 위험한 특이점을 생성하는 불안정한 수류탄.	
+/items/knightfall/thrownitems/knightfall_gravitygrenade_thrown/knightfall_gravitygrenade.thrownitem	shortdescription	Gravity Grenade	중력 수류탄	reuse
+/items/knightfall/thrownitems/knightfall_gravitygrenade_thrown/knightfall_gravitygrenade.thrownitem	description	A grenade that explodes into a gravitational singularity.	중력 특이점으로 폭발하는 수류탄.	
+/items/knightfall/thrownitems/knightfall_healinggrenade_thrown/knightfall_healinggrenade_thrown.thrownitem	shortdescription	Healing Grenade	치유 수류탄	reuse
+/items/knightfall/thrownitems/knightfall_healinggrenade_thrown/knightfall_healinggrenade_thrown.thrownitem	description	A basic medical grenade used by Knightfall medics for repairing damaged tissue.	나이트폴 의무병이 손상된 조직을 치료하는 데 쓰는 기본 의료 수류탄.	
+/items/knightfall/thrownitems/knightfall_heavyATgrenade_thrown/knightfall_heavyATgrenade.thrownitem	itemName	knightfall_heavyATgrenade_thrown	knightfall_heavyATgrenade_thrown	
+/items/knightfall/thrownitems/knightfall_heavyATgrenade_thrown/knightfall_heavyATgrenade.thrownitem	shortdescription	Heavy Anti-Tank Grenade	중대전차 수류탄	
+/items/knightfall/thrownitems/knightfall_heavyATgrenade_thrown/knightfall_heavyATgrenade.thrownitem	description	A heavier stick grenade that deals even more damage to tankier enemies.	중무장한 적에게 더더욱 큰 피해를 주는 더 무거운 장조 수류탄.	
+/items/knightfall/thrownitems/knightfall_incendiarygrenade_thrown/knightfall_incendiarygrenade.thrownitem	shortdescription	Incendiary Grenade	소이탄	reuse
+/items/knightfall/thrownitems/knightfall_incendiarygrenade_thrown/knightfall_incendiarygrenade.thrownitem	description	A volatile grenade that explodes into a blaze of flames.	화염 폭발을 일으키는 휘발성 수류탄.	
+/items/knightfall/thrownitems/knightfall_largeplasmagrenade_thrown/knightfall_largeplasmagrenade.thrownitem	shortdescription	Large Plasma Grenade	대형 플라즈마 수류탄	
+/items/knightfall/thrownitems/knightfall_largeplasmagrenade_thrown/knightfall_largeplasmagrenade.thrownitem	description	Creates a large plasma explosion on detonation.	기폭 시 커다란 플라즈마 폭발을 일으킨다.	
+/items/knightfall/thrownitems/knightfall_plasmagrenade_thrown/knightfall_plasmagrenade.thrownitem	shortdescription	Plasma Grenade	플라즈마 수류탄	reuse
+/items/knightfall/thrownitems/knightfall_plasmagrenade_thrown/knightfall_plasmagrenade.thrownitem	description	Plasma is discharged along with a gravitational anomaly on detonation.	기폭 시 중력 이상과 함께 플라즈마가 방출된다.	
+/items/knightfall/thrownitems/knightfall_redthrowableflare/knightfall_redthrowableflare.thrownitem	shortdescription	Red Knightfall Flare	빨간 나이트폴 플레어	reuse
+/items/knightfall/thrownitems/knightfall_redthrowableflare/knightfall_redthrowableflare.thrownitem	description	Can be used as a signal or to light up dark areas.	신호용으로 쓰거나 어두운 곳을 밝히는 데 쓸 수 있다.	
+/items/knightfall/thrownitems/knightfall_stasisgrenade_thrown/knightfall_stasisgrenade.thrownitem	shortdescription	Stasis Grenade	정지 수류탄	reuse
+/items/knightfall/thrownitems/knightfall_stasisgrenade_thrown/knightfall_stasisgrenade.thrownitem	description	A grenade capable of freezing enemies in time for 7.5 seconds.	적을 7.5초간 시간 속에 얼릴 수 있는 수류탄.	
+/items/knightfall/thrownitems/knightfall_throwableplasmaflare/knightfall_throwableplasmaflare.thrownitem	shortdescription	Knightfall Plasma Flare	나이트폴 플라즈마 신호탄	reuse
+/items/knightfall/thrownitems/knightfall_throwableplasmaflare/knightfall_throwableplasmaflare.thrownitem	description	A plasma flare that burns extra bright, perfect for lighting up dark areas.	훨씬 밝게 타는 플라즈마 조명탄. 어두운 곳을 밝히기에 완벽하다.	
+/items/knightfall/thrownitems/knightfall_yellowthrowableflare/knightfall_yellowthrowableflare.thrownitem	shortdescription	Yellow Knightfall Flare	노란 나이트폴 신호탄	reuse
+/items/knightfall/thrownitems/knightfall_yellowthrowableflare/knightfall_yellowthrowableflare.thrownitem	description	Can be used as a signal or to light up dark areas.	신호용으로 쓰거나 어두운 곳을 밝히는 데 쓸 수 있다.	
+/items/syndicate/armor/raider/armor/armor/raider_chest.chest	description	Basic body armor built with sturdy titanium plating.	튼튼한 티타늄 도금으로 만든 기본 보디 아머.	reuse
+/items/syndicate/armor/raider/armor/armor/raider_chest.chest	shortdescription	Raider Chestpiece	레이더 흉갑	reuse
+/items/syndicate/armor/raider/armor/armor/raider_head.head	description	A basic hood used by members of the Helgrave Syndicate.	헬그레이브 신디케이트 조직원이 쓰는 기본 후드.	
+/items/syndicate/armor/raider/armor/armor/raider_head.head	shortdescription	Raider Hood	레이더 후드	
+/items/syndicate/armor/raider/armor/armor/raider_legs.legs	description	A nice pair of dark pants, complete with titanium plated boots.	티타늄 도금 부츠까지 갖춘 멋진 검은 바지.	reuse
+/items/syndicate/armor/raider/armor/armor/raider_legs.legs	shortdescription	Raider Legpiece	레이더 레그피스	reuse
+/items/syndicate/armor/raider/armor/helmets/raider_cobalt/raider_cobalthead.head	description	A visor piece used by skilled marksmen of the Helgrave Syndicate.	헬그레이브 신디케이트의 숙련된 명사수들이 쓰는 바이저.	
+/items/syndicate/armor/raider/armor/helmets/raider_cobalt/raider_cobalthead.head	shortdescription	Cobalt Mask	코발트 가면	
+/stats/effects/healing/knightfall_healingstim.statuseffect	label	Healing	치유	reuse
+/stats/effects/healing/knightfall_medkit.statuseffect	label	Healing	치유	reuse
+/stats/effects/healing/knightfall_regeneration.statuseffect	label	Regeneration	재생	
+/stats/effects/knightfall_augments/deprecated/knightfall_chronofrost.statuseffect	label	Please replace your Chronofrost Augment to avoid future injury, as it has already reached End-of-Support.	지원이 이미 종료되어 추가 부상을 막기 위해 크로노프로스트 증강을 교체해주세요.	
+/stats/effects/knightfall_augments/deprecated/knightfall_chronofrost_cooldown.statuseffect	label	Chronofrost Cooldown	크로노프로스트 재사용 대기	
+/stats/effects/knightfall_augments/deprecated/knightfall_lifesteal.statuseffect	label	Please replace your Lifesteal Augment to avoid future injury, as it has already reached End-of-Support.	지원이 이미 종료되어 추가 부상을 막기 위해 생명 흡수 증강을 교체해주세요.	
+/stats/effects/knightfall_augments/deprecated/knightfall_lifestolen.statuseffect	label	Lifesteal	생명 흡수	
+/stats/effects/knightfall_augments/deprecated/knightfall_metalthorns.statuseffect	label	Please replace your Metal Thorns Augment to avoid future injury, as it has already reached End-of-Support.	지원이 이미 종료되어 추가 부상을 막기 위해 금속 가시 증강을 교체해주세요.	
+/stats/effects/knightfall_augments/deprecated/knightfall_pixelmaker.statuseffect	label	Please replace your Pixelmaker Augment to avoid future injury, as it has already reached End-of-Support.	지원이 이미 종료되어 추가 부상을 막기 위해 픽셀메이커 증강을 교체해주세요.	
+/stats/effects/knightfall_augments/deprecated/knightfall_statusinflicteravatar.statuseffect	label	Please replace your Avatar Augment to avoid future injury, as it has already reached End-of-Support.	지원이 이미 종료되어 추가 부상을 막기 위해 아바타 증강을 교체해주세요.	
+/stats/effects/knightfall_augments/deprecated/knightfall_statusinflicterpoison.statuseffect	label	Please replace your Irradiator Augment to avoid future injury, as it has already reached End-of-Support.	지원이 이미 종료되어 추가 부상을 막기 위해 방사기 증강을 교체해주세요.	
+/stats/effects/knightfall_augments/lifesteal/knightfall_lifesteal_8.statuseffect	label	Lifesteal	생명 흡수	
+/stats/effects/knightfall_bleeding/knightfall_bleeding.statuseffect	label	Bleeding	출혈	reuse
+/stats/effects/knightfall_burning/knightfall_burning.statuseffect	label	Burning	화상	reuse
+/stats/effects/knightfall_frost/knightfall_frost.statuseffect	label	Frost	빙결	
+/stats/effects/knightfall_melting/knightfall_melting.statuseffect	label	Heatsurge	열폭주	
+/stats/effects/knightfall_stasis/knightfall_longstasis.statuseffect	label	Stasis	정지	
+/stats/effects/knightfall_stasis/knightfall_shortstasis.statuseffect	label	Stasis	정지	
+/stats/effects/knightfall_stasis/knightfall_stasis.statuseffect	label	Stasis	정지	
+/stats/effects/knightfall_timeerase/knightfall_timeerase.statuseffect	label	Deconstruction	해체	
+/unused/knightfall_twinblaze/knightfall_twinblaze.activeitem	shortdescription	Twinblaze	트윈블레이즈	
+/unused/knightfall_twinblaze/knightfall_twinblaze.activeitem	description	A powerful experimental laser weapon. Charge it to fire a powerful blast.	강력한 실험용 레이저 무기. 충전하면 강력한 폭발을 발사한다.	

@@ -1,0 +1,313 @@
+asset	field	en	ko	src
+/items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken.thrownitem	shortdescription	Aether	에테르	
+/items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken.thrownitem	description	Aether, a shadowy shuriken that duplicates using dark energy.	어둠의 에너지로 자신을 복제하는 그림자 수리검, 에테르.	
+/items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken2.thrownitem	shortdescription	Shadow Aether	섀도우 에테르	reuse
+/items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken2.thrownitem	description	Shadow Aether, a sharper, shadowy shuriken that duplicates using dark energy.	더 날카로워진 어둠의 에너지 복제 수리검, 그림자 에테르.	
+/items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken3.thrownitem	shortdescription	^red;Blood Aether	^red;피의 에테르	reuse
+/items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken3.thrownitem	description	Feed me.	먹이를 줘.	reuse
+/items/active/classweapons/wizardstaff/novastatus/starfall.statuseffect	label	Starfall	스타폴	
+/items/active/classweapons/wizardstaff/novastatus/wizardnovastatus.statuseffect	label	Starfall	스타폴	
+/items/active/specweapons/fae/rooted/rooted.statuseffect	label	Rooted	뿌리박힘	
+/items/active/specweapons/hunter/arrows/flamearrow/sear/sear.statuseffect	label	Burning	화상	reuse
+/items/active/specweapons/wraith/combos/cursed.statuseffect	label	Cursed	저주	
+/items/active/weapons/ivrpg_grimoire/abilities/nosferatu/monster/ivrpg_nosferatu.statuseffect	label	Nosferatu	노스페라투	
+/items/armors/patreonspiritmask.head	description	This mask makes you look quite spooky!	이 가면을 쓰면 꽤 으스스해 보인다!	
+/items/armors/patreonspiritmask.head	shortdescription	Spirit Mask	영혼 가면	
+/items/throwables/caltrops/caltrops.thrownitem	shortdescription	Caltrops	캘트롭	
+/items/throwables/caltrops/caltrops.thrownitem	description	Thrown weapons believed to be inspired by an ancient childrens' toy.	고대 어린이 장난감에서 영감을 받았다고 알려진 투척 무기.	
+/items/throwables/caltrops/gravitrops.thrownitem	shortdescription	Gravitrops	그라비트롭	
+/items/throwables/caltrops/gravitrops.thrownitem	description	Caltrops infused with phase matter, making them more effective against flying enemies.	위상 물질이 주입된 캘트롭으로, 비행하는 적에게 더 효과적이다.	
+/items/throwables/shurikens/arcshuriken/arcshuriken.thrownitem	shortdescription	Arc Shuriken	아크 수리검	
+/items/throwables/shurikens/arcshuriken/arcshuriken.thrownitem	description	A humming shuriken, sure to shock enemies.	웅웅거리는 수리검으로, 적을 짜릿하게 해줄 것이다.	
+/items/throwables/shurikens/cryoshuriken/cryoshuriken.thrownitem	shortdescription	Cryo Shuriken	냉각 수리검	
+/items/throwables/shurikens/cryoshuriken/cryoshuriken.thrownitem	description	A freezing shuriken, sure to stop enemies in their tracks.	적을 그 자리에 얼려버릴 얼어붙는 수리검.	
+/items/throwables/shurikens/durasteelshuriken/durasteelshuriken.thrownitem	shortdescription	Durasteel Shuriken	듀라스틸 수리검	
+/items/throwables/shurikens/durasteelshuriken/durasteelshuriken.thrownitem	description	A shuriken, pocket-sized and deadly.	주머니 크기의 치명적인 수리검.	
+/items/throwables/shurikens/infernalshuriken/infernalshuriken.thrownitem	shortdescription	Infernal Shuriken	지옥 수리검	
+/items/throwables/shurikens/infernalshuriken/infernalshuriken.thrownitem	description	A fiery shuriken, sure to burn enemies.	불타는 수리검으로, 적을 태워버릴 것이다.	
+/items/throwables/shurikens/toxicshuriken/toxicshuriken.thrownitem	shortdescription	Toxic Shuriken	유독 수리검	
+/items/throwables/shurikens/toxicshuriken/toxicshuriken.thrownitem	description	An infested shuriken, sure to poison enemies.	독이 밴 수리검으로, 적을 중독시킬 것이다.	
+/ivrpg_specs/abilities/adept/agilemagic.statuseffect	label	Fluctuation	변동	
+/ivrpg_specs/abilities/assassin/predator.statuseffect	label	Predator	포식자	
+/ivrpg_specs/abilities/conquistador/inquisition.statuseffect	label	Inquisition	이단 심문	
+/ivrpg_specs/abilities/crusader/purity.statuseffect	label	Purity	순수	
+/ivrpg_specs/abilities/darktemplar/corrupted.statuseffect	label	Corrupted	타락	
+/ivrpg_specs/abilities/darktemplar/corruption.statuseffect	label	Corruption	오염체	reuse
+/ivrpg_specs/abilities/dragoon/flightless.statuseffect	label	Flightless	날개 없음	
+/ivrpg_specs/abilities/hunter/cloak.statuseffect	label	Cloak	은폐	
+/ivrpg_specs/abilities/juggernaut/inertia.statuseffect	label	Inertia	관성	
+/ivrpg_specs/abilities/mechanist/fortify.statuseffect	label	Fortify	강화	
+/ivrpg_specs/abilities/necromancer/undead.statuseffect	label	Undead	언데드	
+/ivrpg_specs/abilities/saboteur/ambidextrous.statuseffect	label	Ambidextrous	양손잡이	
+/ivrpg_specs/abilities/technomancer/biohazardous.statuseffect	label	Biohazardous	생체위험	
+/ivrpg_specs/techs/elementress/electric/ultimate/ivrpg_lightning.statuseffect	label	Electrocution	감전	
+/ivrpg_specs/techs/elementress/ice/ultimate/ivrpg_freeze.statuseffect	label	Frozen	빙결	reuse
+/ivrpg_specs/techs/necromancer/sacrifice/bonemonster.statuseffect	label	Undead	언데드	
+/ivrpg_specs/techs/necromancer/sacrifice/sacrifice.statuseffect	label	Cursed	저주	
+/ivrpg_specs/techs/shade/quasarcamouflage.statuseffect	label	Quasar	퀘이사	
+/ivrpg_specs/techs/valkyrie/status/einherjar.statuseffect	label	Einherjar	아인헤리야르	
+/ivrpg_specs/techs/vigilante/desperadostatus.statuseffect	label	Desperado	데스페라도	
+/ivrpg_specs/techs/wanderer/soliloquy.statuseffect	label	Soliloquy	독백	
+/monsters/ivrpgElementEffects/ivrpgembrittle/ivrpgembrittle.statuseffect	label	Slow	느려짐	reuse
+/monsters/ivrpgElementEffects/ivrpgoverload/ivrpgoverload.statuseffect	label	Electrified	감전	reuse
+/monsters/ivrpgElementEffects/ivrpgsear/ivrpgsear.statuseffect	label	Burning	화상	reuse
+/monsters/ivrpgElementEffects/ivrpgtoxify/ivrpgtoxify.statuseffect	label	Poisoned	중독	reuse
+/monsters/rpgmonsters/debuffs/noability.statuseffect	label	Silenced	침묵	
+/monsters/soldierstun/ivrpgstun.statuseffect	label	Stunned	기절	reuse
+/objects/affinity/affinitytype.currency	description	Points that change your Affinity.	친화도를 바꾸는 포인트.	
+/objects/affinity/affinitytype.currency	shortdescription	Affinity Type	친화도 유형	
+/objects/class/classtype.currency	description	A droplet of mysterious power.	신비한 힘의 물방울.	
+/objects/class/classtype.currency	shortdescription	Class Droplet	클래스 물방울	
+/objects/experience/currentlevel.currency	description	Levels.	레벨.	
+/objects/experience/currentlevel.currency	shortdescription	Levels.	레벨.	
+/objects/experience/experienceorb.currency	description	Experience orbs used to level up.	레벨을 올리는 데 쓰는 경험치 구슬.	
+/objects/experience/experienceorb.currency	shortdescription	Experience Orb	경험치 구슬	
+/objects/mastery/masterypoint.currency	description	Mastery Points. Used to attain peak strength!	숙련 포인트. 최강의 힘에 도달하는 데 쓰인다!	
+/objects/mastery/masterypoint.currency	shortdescription	Mastery Point	숙련 포인트	
+/objects/profession/proftype.currency	description	A droplet of occupational knowledge.	직업 지식의 물방울.	
+/objects/profession/proftype.currency	shortdescription	Profession Droplet	직업 물방울	
+/objects/skillbook/skillbookopen.currency	description	Prevents the Skill Book from being opened multiple times.	스킬 북이 여러 번 열리는 것을 막는다.	
+/objects/skillbook/skillbookopen.currency	shortdescription	Dev Hack	개발자 핵	
+/objects/specialization/spectype.currency	description	A droplet of specialized knowledge.	전문 지식의 물방울.	
+/objects/specialization/spectype.currency	shortdescription	Specialization Droplet	전문화 물방울	
+/objects/stats/agilitypoint.currency	description	Agility	기민	
+/objects/stats/agilitypoint.currency	shortdescription	Agility	기민	
+/objects/stats/dexteritypoint.currency	description	Dexterity	민첩	
+/objects/stats/dexteritypoint.currency	shortdescription	Dexterity	민첩	
+/objects/stats/endurancepoint.currency	description	Endurance	인내	
+/objects/stats/endurancepoint.currency	shortdescription	Endurance	인내	
+/objects/stats/intelligencepoint.currency	description	Intelligence	지능	
+/objects/stats/intelligencepoint.currency	shortdescription	Intelligence	지능	
+/objects/stats/statpoint.currency	description	Stat Point	스탯 포인트	
+/objects/stats/statpoint.currency	shortdescription	Stat Point	스탯 포인트	
+/objects/stats/strengthpoint.currency	description	Strength	힘	
+/objects/stats/strengthpoint.currency	shortdescription	Strength	힘	
+/objects/stats/vigorpoint.currency	description	Vigor	기력	
+/objects/stats/vigorpoint.currency	shortdescription	Vigor	기력	
+/objects/stats/vitalitypoint.currency	description	Vitality	활력	
+/objects/stats/vitalitypoint.currency	shortdescription	Vitality	활력	
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed1.thrownitem	shortdescription	Dragon's Breath I	드래곤즈 브레스 I	reuse
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed1.thrownitem	description	Increases Power Multiplier and Bleed Chance by 20% when Energy is below max. Dissipates when Energy refills.	에너지가 최대가 아닐 때 위력 배율과 출혈 확률이 20% 증가한다. 에너지가 차면 사라진다.	
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed2.thrownitem	shortdescription	Dragon's Breath II	드래곤즈 브레스 II	reuse
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed2.thrownitem	description	Increases Power Multiplier and Bleed Chance by 20% when Energy is below max. Applies Dragon's Breath I when effect expires.	에너지가 최대가 아닐 때 위력 배율과 출혈 확률이 20% 증가한다. 효과가 끝나면 용의 숨결 I이 적용된다.	
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed3.thrownitem	shortdescription	Dragon's Breath III	드래곤즈 브레스 III	reuse
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed3.thrownitem	description	Increases Power Multiplier and Bleed Chance by 20% when Energy is below max. Applies Dragon's Breath II when effect expires.	에너지가 최대가 아닐 때 위력 배율과 출혈 확률이 20% 증가한다. 효과가 끝나면 용의 숨결 II가 적용된다.	
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed4.thrownitem	shortdescription	Dragon's Breath IV	드래곤즈 브레스 IV	reuse
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed4.thrownitem	description	Increases Power Multiplier and Bleed Chance by 20% when Energy is below max. Applies Dragon's Breath III when effect expires.	에너지가 최대가 아닐 때 위력 배율과 출혈 확률이 20% 증가한다. 효과가 끝나면 용의 숨결 III이 적용된다.	
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed5.thrownitem	shortdescription	Dragon's Breath V	드래곤즈 브레스 V	reuse
+/professions/alchemist/potions/bleed/ivrpg_alchemicpotion_bleed5.thrownitem	description	Increases Power Multiplier and Bleed Chance by 20% when Energy is below max. Applies Dragon's Breath IV when effect expires.	에너지가 최대가 아닐 때 위력 배율과 출혈 확률이 20% 증가한다. 효과가 끝나면 용의 숨결 IV가 적용된다.	
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage1.thrownitem	shortdescription	Dragon's Blood I	용의 피 I	reuse
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage1.thrownitem	description	Increases Power Multiplier by 100% for the next attack. Expires after dealing damage.	다음 공격의 위력 배율이 100% 증가한다. 피해를 입히면 사라진다.	
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage2.thrownitem	shortdescription	Dragon's Blood II	용의 피 II	reuse
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage2.thrownitem	description	Increases Power Multiplier by 100% for the next attack. Applies Dragon's Blood I when effect expires.	다음 공격의 위력 배율이 100% 증가한다. 효과가 끝나면 용의 피 I이 적용된다.	
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage3.thrownitem	shortdescription	Dragon's Blood III	용의 피 III	reuse
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage3.thrownitem	description	Increases Power Multiplier by 100% for the next attack. Applies Dragon's Blood II when effect expires.	다음 공격의 위력 배율이 100% 증가한다. 효과가 끝나면 용의 피 II가 적용된다.	
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage4.thrownitem	shortdescription	Dragon's Blood IV	용의 피 IV	reuse
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage4.thrownitem	description	Increases Power Multiplier by 100% for the next attack. Applies Dragon's Blood III when effect expires.	다음 공격의 위력 배율이 100% 증가한다. 효과가 끝나면 용의 피 III이 적용된다.	
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage5.thrownitem	shortdescription	Dragon's Blood V	용의 피 V	reuse
+/professions/alchemist/potions/damage/ivrpg_alchemicpotion_damage5.thrownitem	description	Increases Power Multiplier by 100% for the next attack. Applies Dragon's Blood IV when effect expires.	다음 공격의 위력 배율이 100% 증가한다. 효과가 끝나면 용의 피 IV가 적용된다.	
+/professions/alchemist/potions/damagedown/ivrpg_alchemicbane_damagedown1.thrownitem	shortdescription	Damage Down I	피해 감소 I	reuse
+/professions/alchemist/potions/damagedown/ivrpg_alchemicbane_damagedown1.thrownitem	description	Lowers Enemy Power by 10% for 30 Seconds.	적의 위력을 30초간 10% 낮춘다.	
+/professions/alchemist/potions/damagedown/ivrpg_alchemicbane_damagedown2.thrownitem	shortdescription	Damage Down II	피해 감소 II	reuse
+/professions/alchemist/potions/damagedown/ivrpg_alchemicbane_damagedown2.thrownitem	description	Lowers Enemy Power by 25% for 30 Seconds. Stacks with lower tiers.	적의 위력을 30초간 25% 낮춘다. 하위 단계와 중첩된다.	
+/professions/alchemist/potions/damagedown/ivrpg_alchemicbane_damagedown3.thrownitem	shortdescription	Damage Down III	피해 감소 III	reuse
+/professions/alchemist/potions/damagedown/ivrpg_alchemicbane_damagedown3.thrownitem	description	Lowers Enemy Power by 50% for 30 Seconds. Stacks with lower tiers.	적의 위력을 30초간 50% 낮춘다. 하위 단계와 중첩된다.	
+/professions/alchemist/potions/defense/ivrpg_alchemicpotion_defense1.thrownitem	shortdescription	Iron Skin I	철 피부 I	reuse
+/professions/alchemist/potions/defense/ivrpg_alchemicpotion_defense1.thrownitem	description	Increases Physical Resistance by 20% for one hit.	한 번의 타격 동안 물리 저항이 20% 증가한다.	
+/professions/alchemist/potions/defense/ivrpg_alchemicpotion_defense2.thrownitem	shortdescription	Iron Skin II	철 피부 II	reuse
+/professions/alchemist/potions/defense/ivrpg_alchemicpotion_defense2.thrownitem	description	Increases Physical Resistance by 20% for one hit. Applies Iron Skin I when effect expires.	한 번의 타격 동안 물리 저항이 20% 증가한다. 효과가 끝나면 강철 피부 I이 적용된다.	
+/professions/alchemist/potions/defense/ivrpg_alchemicpotion_defense3.thrownitem	shortdescription	Iron Skin III	철 피부 III	reuse
+/professions/alchemist/potions/defense/ivrpg_alchemicpotion_defense3.thrownitem	description	Increases Physical Resistance by 20% for one hit. Applies Iron Skin II when effect expires.	한 번의 타격 동안 물리 저항이 20% 증가한다. 효과가 끝나면 강철 피부 II가 적용된다.	
+/professions/alchemist/potions/defensedown/ivrpg_alchemicbane_defensedown1.thrownitem	shortdescription	Defense Down I	방어 다운 I	reuse
+/professions/alchemist/potions/defensedown/ivrpg_alchemicbane_defensedown1.thrownitem	description	Decreases Enemy Physical Resistance by 10% for 30 Seconds.	적의 물리 저항을 30초간 10% 낮춘다.	
+/professions/alchemist/potions/defensedown/ivrpg_alchemicbane_defensedown2.thrownitem	shortdescription	Defense Down II	방어 다운 II	reuse
+/professions/alchemist/potions/defensedown/ivrpg_alchemicbane_defensedown2.thrownitem	description	Decreases Enemy Physical Resistance by 15% for 30 Seconds. Stacks with lower tiers.	적의 물리 저항을 30초간 15% 낮춘다. 하위 단계와 중첩된다.	
+/professions/alchemist/potions/defensedown/ivrpg_alchemicbane_defensedown3.thrownitem	shortdescription	Defense Down III	방어 다운 III	reuse
+/professions/alchemist/potions/defensedown/ivrpg_alchemicbane_defensedown3.thrownitem	description	Decreases Enemy Physical Resistance by 25% for 30 Seconds. Stacks with lower tiers.	적의 물리 저항을 30초간 25% 낮춘다. 하위 단계와 중첩된다.	
+/professions/alchemist/potions/fairy/ivrpg_alchemicpotion_fairy1.thrownitem	shortdescription	Fairy Dust I	요정 가루 I	reuse
+/professions/alchemist/potions/fairy/ivrpg_alchemicpotion_fairy1.thrownitem	description	Grants Feather Falling and slows descent for 30 Seconds.	깃털 낙하를 주고 30초간 낙하 속도를 늦춘다.	
+/professions/alchemist/potions/fairy/ivrpg_alchemicpotion_fairy2.thrownitem	shortdescription	Fairy Dust II	요정 가루 II	reuse
+/professions/alchemist/potions/fairy/ivrpg_alchemicpotion_fairy2.thrownitem	description	Grants Feather Falling and slows descent for 30 Seconds. Applies Fairy Dust I when effect expires.	깃털 낙하를 주고 30초간 낙하 속도를 늦춘다. 효과가 끝나면 요정 가루 I이 적용된다.	
+/professions/alchemist/potions/fairy/ivrpg_alchemicpotion_fairy3.thrownitem	shortdescription	Fairy Dust III	요정 가루 III	reuse
+/professions/alchemist/potions/fairy/ivrpg_alchemicpotion_fairy3.thrownitem	description	Grants Feather Falling and slows descent for 30 Seconds. Applies Fairy Dust II when effect expires.	깃털 낙하를 주고 30초간 낙하 속도를 늦춘다. 효과가 끝나면 요정 가루 II가 적용된다.	
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal1.thrownitem	shortdescription	Auto Heal I	자동 치유 I	reuse
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal1.thrownitem	description	Regenerates 33% Max Health when Health falls below 50%, then expires.	체력이 50% 아래로 떨어지면 최대 체력의 33%를 회복하고 사라진다.	
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal2.thrownitem	shortdescription	Auto Heal II	자동 치유 II	reuse
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal2.thrownitem	description	Regenerates 33% Max Health when Health falls below 50%, then expires. Applies Auto Heal I when effect expires.	체력이 50% 아래로 떨어지면 최대 체력의 33%를 회복하고 사라진다. 효과가 끝나면 자동 치유 I이 적용된다.	
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal3.thrownitem	shortdescription	Auto Heal III	자동 치유 III	reuse
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal3.thrownitem	description	Regenerates 33% Max Health when Health falls below 50%, then expires. Applies Auto Heal II when effect expires.	체력이 50% 아래로 떨어지면 최대 체력의 33%를 회복하고 사라진다. 효과가 끝나면 자동 치유 II가 적용된다.	
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal4.thrownitem	shortdescription	Auto Heal IV	자동 치유 IV	reuse
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal4.thrownitem	description	Regenerates 33% Max Health when Health falls below 50%, then expires. Applies Auto Heal III when effect expires.	체력이 50% 아래로 떨어지면 최대 체력의 33%를 회복하고 사라진다. 효과가 끝나면 자동 치유 III이 적용된다.	
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal5.thrownitem	shortdescription	Auto Heal V	자동 치유 V	reuse
+/professions/alchemist/potions/heal/ivrpg_alchemicpotion_heal5.thrownitem	description	Regenerates 33% Max Health when Health falls below 50%, then expires. Applies Auto Heal IV when effect expires.	체력이 50% 아래로 떨어지면 최대 체력의 33%를 회복하고 사라진다. 효과가 끝나면 자동 치유 IV가 적용된다.	
+/professions/alchemist/potions/instantdefense/ivrpg_alchemictincture_instantdefense1.thrownitem	shortdescription	Instant Defense I	즉시 방어 I	reuse
+/professions/alchemist/potions/instantdefense/ivrpg_alchemictincture_instantdefense1.thrownitem	description	Grants +10 Protection for 30 Seconds.	30초간 보호 +10을 준다.	
+/professions/alchemist/potions/instantdefense/ivrpg_alchemictincture_instantdefense2.thrownitem	shortdescription	Instant Defense II	즉시 방어 II	reuse
+/professions/alchemist/potions/instantdefense/ivrpg_alchemictincture_instantdefense2.thrownitem	description	Grants +15 Protection for 30 Seconds. Stacks with lower tiers.	30초간 보호 +15를 준다. 하위 단계와 중첩된다.	
+/professions/alchemist/potions/instantdefense/ivrpg_alchemictincture_instantdefense3.thrownitem	shortdescription	Instant Defense III	즉시 방어 III	reuse
+/professions/alchemist/potions/instantdefense/ivrpg_alchemictincture_instantdefense3.thrownitem	description	Grants +25 Protection for 30 Seconds. Stacks with lower tiers.	30초간 보호 +25를 준다. 하위 단계와 중첩된다.	
+/professions/alchemist/potions/instantenergy/ivrpg_alchemictincture_instantenergy1.thrownitem	shortdescription	Instant Energy I	즉시 에너지 I	reuse
+/professions/alchemist/potions/instantenergy/ivrpg_alchemictincture_instantenergy1.thrownitem	description	Instantly restores 5% Maximum Energy. Lasts for 5 Seconds.	최대 에너지의 5%를 즉시 회복한다. 5초간 지속된다.	
+/professions/alchemist/potions/instantenergy/ivrpg_alchemictincture_instantenergy2.thrownitem	shortdescription	Instant Energy II	즉시 에너지 II	reuse
+/professions/alchemist/potions/instantenergy/ivrpg_alchemictincture_instantenergy2.thrownitem	description	Instantly restores 10% Maximum Energy. Lasts for 5 Seconds.	최대 에너지의 10%를 즉시 회복한다. 5초간 지속된다.	
+/professions/alchemist/potions/instantenergy/ivrpg_alchemictincture_instantenergy3.thrownitem	shortdescription	Instant Energy III	즉시 에너지 III	reuse
+/professions/alchemist/potions/instantenergy/ivrpg_alchemictincture_instantenergy3.thrownitem	description	Instantly restores 20% Maximum Energy. Lasts for 5 Seconds.	최대 에너지의 20%를 즉시 회복한다. 5초간 지속된다.	
+/professions/alchemist/potions/instantheal/ivrpg_alchemictincture_instantheal1.thrownitem	shortdescription	Instant Health I	즉시 체력 I	
+/professions/alchemist/potions/instantheal/ivrpg_alchemictincture_instantheal1.thrownitem	description	Instantly restores 5% Maximum Health. Lasts for 5 Seconds.	최대 체력의 5%를 즉시 회복한다. 5초간 지속된다.	
+/professions/alchemist/potions/instantheal/ivrpg_alchemictincture_instantheal2.thrownitem	shortdescription	Instant Health II	즉시 체력 II	
+/professions/alchemist/potions/instantheal/ivrpg_alchemictincture_instantheal2.thrownitem	description	Instantly restores 10% Maximum Health. Lasts for 5 Seconds.	최대 체력의 10%를 즉시 회복한다. 5초간 지속된다.	
+/professions/alchemist/potions/instantheal/ivrpg_alchemictincture_instantheal3.thrownitem	shortdescription	Instant Health III	즉시 체력 III	
+/professions/alchemist/potions/instantheal/ivrpg_alchemictincture_instantheal3.thrownitem	description	Instantly restores 20% Maximum Health. Lasts for 5 Seconds.	최대 체력의 20%를 즉시 회복한다. 5초간 지속된다.	
+/professions/alchemist/potions/resist/ivrpg_alchemicpotion_resist1.thrownitem	shortdescription	Status Resist I	상태 저항 I	reuse
+/professions/alchemist/potions/resist/ivrpg_alchemicpotion_resist1.thrownitem	description	Strips the four elemental statuses and grants +50% Resistance to the matching Element for 60 seconds.	네 가지 원소 상태를 해제하고 60초간 해당 원소에 +50% 저항을 준다.	
+/professions/alchemist/potions/resist/ivrpg_alchemicpotion_resist2.thrownitem	shortdescription	Status Resist II	상태 저항 II	reuse
+/professions/alchemist/potions/resist/ivrpg_alchemicpotion_resist2.thrownitem	description	Strips the four elemental statuses and grants +50% Resistance to the matching Element for 60 seconds. Applies Status Resist I when effect expires.	네 가지 원소 상태를 해제하고 60초간 해당 원소에 +50% 저항을 준다. 효과가 끝나면 상태 저항 I이 적용된다.	
+/professions/alchemist/potions/resist/ivrpg_alchemicpotion_resist3.thrownitem	shortdescription	Status Resist III	상태 저항 III	reuse
+/professions/alchemist/potions/resist/ivrpg_alchemicpotion_resist3.thrownitem	description	Strips the four elemental statuses and grants +50% Resistance to the matching Element for 60 seconds. Applies Status Resist II when effect expires.	네 가지 원소 상태를 해제하고 60초간 해당 원소에 +50% 저항을 준다. 효과가 끝나면 상태 저항 II가 적용된다.	
+/professions/alchemist/potions/resistdown/ivrpg_alchemicbane_resistdown1.thrownitem	shortdescription	Resist Down I	저항 감소 I	reuse
+/professions/alchemist/potions/resistdown/ivrpg_alchemicbane_resistdown1.thrownitem	description	Decreases Enemy Element Resistance by 10% for 30 Seconds.	적의 원소 저항을 30초간 10% 낮춘다.	
+/professions/alchemist/potions/resistdown/ivrpg_alchemicbane_resistdown2.thrownitem	shortdescription	Resist Down II	저항 감소 II	reuse
+/professions/alchemist/potions/resistdown/ivrpg_alchemicbane_resistdown2.thrownitem	description	Decreases Enemy Element Resistance by 15% for 30 Seconds. Stacks with lower tiers.	적의 원소 저항을 30초간 15% 낮춘다. 하위 단계와 중첩된다.	
+/professions/alchemist/potions/resistdown/ivrpg_alchemicbane_resistdown3.thrownitem	shortdescription	Resist Down III	저항 감소 III	reuse
+/professions/alchemist/potions/resistdown/ivrpg_alchemicbane_resistdown3.thrownitem	description	Decreases Enemy Element Resistance by 25% for 30 Seconds. Stacks with lower tiers.	적의 원소 저항을 30초간 25% 낮춘다. 하위 단계와 중첩된다.	
+/professions/alchemist/potions/vile/ivrpg_alchemicpotion_vile.thrownitem	shortdescription	Vile Vial	사악 병	reuse
+/professions/alchemist/potions/vile/ivrpg_alchemicpotion_vile.thrownitem	description	Causes enemies to de-aggro for 5 Seconds.	적이 5초간 적대 상태를 해제하게 한다.	
+/professions/alchemist/status/ivrpgalchemiststatus.statuseffect	label	Alchemist	연금술사	
+/professions/engineer/status/ivrpgengineerstatus.statuseffect	label	Engineer	기술자	
+/professions/jeweler/jewelry/anklet/aegisaltanklet.augment	description	Fashionable Aegisalt Anklet that slightly boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;	최대 에너지를 살짝 올려주는 세련된 에지솔트 발찌. ^green;최대 에너지 +5 제공. ^blue;	
+/professions/jeweler/jewelry/anklet/aegisaltanklet.augment	shortdescription	Aegisalt Anklet	에지솔트 발찌	
+/professions/jeweler/jewelry/anklet/bronzeanklet.augment	description	Fashionable Bronze Anklet that slightly boosts your Max Health. ^green;Provides +2.5 Max Health. ^blue;	최대 체력을 살짝 올려주는 세련된 청동 발찌. ^green;최대 체력 +2.5 제공. ^blue;	
+/professions/jeweler/jewelry/anklet/bronzeanklet.augment	shortdescription	Bronze Anklet	청동 발찌	
+/professions/jeweler/jewelry/anklet/electrumanklet.augment	description	Fashionable Electrum Anklet that slightly boosts your Max Energy. ^green;Provides +2.5 Max Energy. ^blue;	최대 에너지를 살짝 올려주는 세련된 일렉트럼 발찌. ^green;최대 에너지 +2.5 제공. ^blue;	
+/professions/jeweler/jewelry/anklet/electrumanklet.augment	shortdescription	Electrum Anklet	일렉트럼 발찌	
+/professions/jeweler/jewelry/anklet/feroziumanklet.augment	description	Fashionable Ferozium Anklet that boosts your Max Health. ^green;Provides +5 Max Health. ^blue;	최대 체력을 올려주는 세련된 페로지움 발찌. ^green;최대 체력 +5 제공. ^blue;	
+/professions/jeweler/jewelry/anklet/feroziumanklet.augment	shortdescription	Ferozium Anklet	페로지움 발찌	
+/professions/jeweler/jewelry/anklet/hermesanklet.augment	description	An Anklet with white, velvet wings that has magical properties. ^green;Provides 5% Fall Damage Resistance. ^blue;Jewelers can wear two to gain Feather Falling.	마법적인 성질을 가진 하얀 벨벳 날개가 달린 발찌. ^green;낙하 피해 저항 5% 제공. ^blue;보석공이 두 개를 착용하면 깃털 낙하를 얻는다.	
+/professions/jeweler/jewelry/anklet/hermesanklet.augment	shortdescription	Hermes' Anklet	헤르메스의 발찌	
+/professions/jeweler/jewelry/anklet/riptideanklet.augment	description	An Anklet with a cool wave design. Putting it up to your ear, you can hear people say it's not an earring. ^green;Provides 10% Ice Resistance. ^blue;Jewelers can wear two to gain Swift Swim.	시원한 물결 디자인의 발찌. 귀에 대보면 사람들이 귀걸이가 아니라고 하는 소리가 들린다. ^green;얼음 저항 10% 제공. ^blue;보석공이 두 개를 착용하면 신속 수영을 얻는다.	
+/professions/jeweler/jewelry/anklet/riptideanklet.augment	shortdescription	Riptide Anklet	립타이드 발찌	
+/professions/jeweler/jewelry/anklet/soulfireanklet.augment	description	Despite the heat emanating from within, the metal feels cold to the touch. ^green;Provides 10% Fire Resistance. ^blue;Jewelers can wear two to gain Lava Immunity.	안쪽에서 열기가 뿜어져 나오지만 금속은 차갑다. ^green;화염 저항 10% 제공. ^blue;보석공이 두 개를 착용하면 용암 면역을 얻는다.	
+/professions/jeweler/jewelry/anklet/soulfireanklet.augment	shortdescription	Soulfire Anklet	소울파이어 발찌	
+/professions/jeweler/jewelry/anklet/steelanklet.augment	description	Fashionable Steel Anklet that slightly boosts your Powerful Multiplier. ^green;Provides +2.5% Power Multiplier. ^blue;	위력 배율을 살짝 올려주는 세련된 강철 발찌. ^green;위력 배율 +2.5% 제공. ^blue;	
+/professions/jeweler/jewelry/anklet/steelanklet.augment	shortdescription	Steel Anklet	강철 발찌	
+/professions/jeweler/jewelry/anklet/violiumanklet.augment	description	Fashionable Violium Anklet that boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;	위력 배율을 올려주는 세련된 비올리움 발찌. ^green;위력 배율 +5% 제공. ^blue;	
+/professions/jeweler/jewelry/anklet/violiumanklet.augment	shortdescription	Violium Anklet	비올리움 발찌	
+/professions/jeweler/jewelry/belt/aegisaltbelt.augment	description	Fashionable Aegisalt Belt that boosts your Max Energy. ^green;Provides +10 Max Energy. ^blue;	최대 에너지를 올려주는 세련된 에지솔트 벨트. ^green;최대 에너지 +10 제공. ^blue;	
+/professions/jeweler/jewelry/belt/aegisaltbelt.augment	shortdescription	Aegisalt Belt	에지솔트 벨트	
+/professions/jeweler/jewelry/belt/bronzebelt.augment	description	Fashionable Bronze Belt that slightly boosts your Max Health. ^green;Provides +5 Max Health. ^blue;	최대 체력을 살짝 올려주는 세련된 청동 벨트. ^green;최대 체력 +5 제공. ^blue;	
+/professions/jeweler/jewelry/belt/bronzebelt.augment	shortdescription	Bronze Belt	청동 벨트	
+/professions/jeweler/jewelry/belt/electrumbelt.augment	description	Fashionable Electrum Belt that slightly boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;	최대 에너지를 살짝 올려주는 세련된 일렉트럼 벨트. ^green;최대 에너지 +5 제공. ^blue;	
+/professions/jeweler/jewelry/belt/electrumbelt.augment	shortdescription	Electrum Belt	일렉트럼 벨트	
+/professions/jeweler/jewelry/belt/emeraldbelt.augment	description	Infused with Life Energy, Bright Green Diamonds adorned to this belt grant good Karma to its wearer. ^green;Provides +20% Holy Resistance. ^blue;Jewelers gain Holy Status Immunity.	생명 에너지가 주입된 이 벨트에 장식된 밝은 녹색 다이아몬드는 착용자에게 좋은 업보를 준다. ^green;신성 저항 +20% 제공. ^blue;보석공은 신성 상태 면역을 얻는다.	
+/professions/jeweler/jewelry/belt/emeraldbelt.augment	shortdescription	Emerald Belt	에메랄드 벨트	
+/professions/jeweler/jewelry/belt/feroziumbelt.augment	description	Fashionable Ferozium Belt that boosts your Max Health. ^green;Provides +10 Max Health. ^blue;	최대 체력을 올려주는 세련된 페로지움 벨트. ^green;최대 체력 +10 제공. ^blue;	
+/professions/jeweler/jewelry/belt/feroziumbelt.augment	shortdescription	Ferozium Belt	페로지움 벨트	
+/professions/jeweler/jewelry/belt/rubybelt.augment	description	Infused with Infernal Energy, Blood Red Diamonds adorned to this belt help warm its wearer up. ^green;Provides +20% Ice Resistance. ^blue;Jewelers gain Ice Status Immunity.	지옥 에너지가 주입된 이 벨트에 장식된 핏빛 다이아몬드는 착용자를 따뜻하게 해준다. ^green;얼음 저항 +20% 제공. ^blue;보석공은 얼음 상태 면역을 얻는다.	
+/professions/jeweler/jewelry/belt/rubybelt.augment	shortdescription	Ruby Belt	루비 벨트	
+/professions/jeweler/jewelry/belt/sapphirebelt.augment	description	Infused with Cryo Energy, Dark Blue Diamonds adorned to this belt help cool its wearer down. ^green;Provides +20% Fire Resistance. ^blue;Jewelers gain Fire Status Immunity.	냉각 에너지가 주입된 이 벨트에 장식된 짙은 파랑 다이아몬드는 착용자를 시원하게 해준다. ^green;화염 저항 +20% 제공. ^blue;보석공은 화염 상태 면역을 얻는다.	
+/professions/jeweler/jewelry/belt/sapphirebelt.augment	shortdescription	Sapphire Belt	사파이어 벨트	
+/professions/jeweler/jewelry/belt/steelbelt.augment	description	Fashionable Steel Belt that slightly boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;	위력 배율을 살짝 올려주는 세련된 강철 벨트. ^green;위력 배율 +5% 제공. ^blue;	
+/professions/jeweler/jewelry/belt/steelbelt.augment	shortdescription	Steel Belt	강철 벨트	
+/professions/jeweler/jewelry/belt/violiumbelt.augment	description	Fashionable Violium Belt that boosts your Powerful Multiplier. ^green;Provides +10% Power Multiplier. ^blue;	위력 배율을 올려주는 세련된 비올리움 벨트. ^green;위력 배율 +10% 제공. ^blue;	
+/professions/jeweler/jewelry/belt/violiumbelt.augment	shortdescription	Violium Belt	비올리움 벨트	
+/professions/jeweler/jewelry/earring/aegisaltearring.augment	description	Fashionable Aegisalt Earring that boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;	최대 에너지를 올려주는 세련된 에지솔트 귀걸이. ^green;최대 에너지 +5 제공. ^blue;	
+/professions/jeweler/jewelry/earring/aegisaltearring.augment	shortdescription	Aegisalt Earring	에지솔트 귀걸이	
+/professions/jeweler/jewelry/earring/bronzeearring.augment	description	Fashionable Bronze Earring that slightly boosts your Max Health. ^green;Provides +2.5 Max Health. ^blue;	최대 체력을 살짝 올려주는 세련된 청동 귀걸이. ^green;최대 체력 +2.5 제공. ^blue;	
+/professions/jeweler/jewelry/earring/bronzeearring.augment	shortdescription	Bronze Earring	청동 귀걸이	
+/professions/jeweler/jewelry/earring/dawnsearring.augment	description	A bright red earring that evokes the warm radiance of the sun. ^green;Provides +10% Fire Resistance. ^blue;Jewelers can wear two to gain +25% Power Multiplier during daytime.	태양의 따뜻한 광휘를 연상시키는 밝은 빨간 귀걸이. ^green;화염 저항 +10% 제공. ^blue;보석공이 두 개를 착용하면 낮 동안 위력 배율 +25%를 얻는다.	
+/professions/jeweler/jewelry/earring/dawnsearring.augment	shortdescription	Dawn's Earring	여명의 귀걸이	
+/professions/jeweler/jewelry/earring/dusksearring.augment	description	A light blue earring that evokes the cool brilliance of the moon. ^green;Provides +10% Ice Resistance. ^blue;Jewelers can wear two to gain +25% Power Multiplier during nighttime.	달의 차가운 광휘를 연상시키는 옅은 파랑 귀걸이. ^green;얼음 저항 +10% 제공. ^blue;보석공이 두 개를 착용하면 밤 동안 위력 배율 +25%를 얻는다.	
+/professions/jeweler/jewelry/earring/dusksearring.augment	shortdescription	Dusk's Earring	황혼의 귀걸이	
+/professions/jeweler/jewelry/earring/eaglesearring.augment	description	A tribal earring for those who hunt their pray from afar with keen eyes. ^green;Provides +2.5% Bleed Chance. ^blue;Jewelers can wear two to gain increased Dexterity Scaling.	날카로운 눈으로 멀리서 사냥감을 노리는 이들을 위한 부족 귀걸이. ^green;출혈 확률 +2.5% 제공. ^blue;보석공이 두 개를 착용하면 민첩 비례 상승폭이 커진다.	
+/professions/jeweler/jewelry/earring/eaglesearring.augment	shortdescription	Eagle's Earring	독수리의 귀걸이	
+/professions/jeweler/jewelry/earring/electrumearring.augment	description	Fashionable Electrum Earring that slightly boosts your Max Energy. ^green;Provides +2.5 Max Energy. ^blue;	최대 에너지를 살짝 올려주는 세련된 일렉트럼 귀걸이. ^green;최대 에너지 +2.5 제공. ^blue;	
+/professions/jeweler/jewelry/earring/electrumearring.augment	shortdescription	Electrum Earring	일렉트럼 귀걸이	
+/professions/jeweler/jewelry/earring/feroziumearring.augment	description	Fashionable Ferozium Earring that boosts your Max Health. ^green;Provides +5 Max Health. ^blue;	최대 체력을 올려주는 세련된 페로지움 귀걸이. ^green;최대 체력 +5 제공. ^blue;	
+/professions/jeweler/jewelry/earring/feroziumearring.augment	shortdescription	Ferozium Earring	페로지움 귀걸이	
+/professions/jeweler/jewelry/earring/steelearring.augment	description	Fashionable Steel Earring that slightly boosts your Powerful Multiplier. ^green;Provides +2.5% Power Multiplier. ^blue;	위력 배율을 살짝 올려주는 세련된 강철 귀걸이. ^green;위력 배율 +2.5% 제공. ^blue;	
+/professions/jeweler/jewelry/earring/steelearring.augment	shortdescription	Steel Earring	강철 귀걸이	
+/professions/jeweler/jewelry/earring/violiumearring.augment	description	Fashionable Violium Earring that boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;	위력 배율을 올려주는 세련된 비올리움 귀걸이. ^green;위력 배율 +5% 제공. ^blue;	
+/professions/jeweler/jewelry/earring/violiumearring.augment	shortdescription	Violium Earring	비올리움 귀걸이	
+/professions/jeweler/jewelry/necklace/aegisaltnecklace.augment	description	Fashionable Aegisalt Necklace that boosts your Max Energy. ^green;Provides +10 Max Energy. ^blue;	최대 에너지를 올려주는 세련된 에지솔트 목걸이. ^green;최대 에너지 +10 제공. ^blue;	
+/professions/jeweler/jewelry/necklace/aegisaltnecklace.augment	shortdescription	Aegisalt Necklace	에지솔트 목걸이	
+/professions/jeweler/jewelry/necklace/bronzenecklace.augment	description	Fashionable Bronze Necklace that slightly boosts your Max Health. ^green;Provides +5 Max Health. ^blue;	최대 체력을 살짝 올려주는 세련된 청동 목걸이. ^green;최대 체력 +5 제공. ^blue;	
+/professions/jeweler/jewelry/necklace/bronzenecklace.augment	shortdescription	Bronze Necklace	청동 목걸이	
+/professions/jeweler/jewelry/necklace/electrumnecklace.augment	description	Fashionable Electrum Necklace that slightly boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;	최대 에너지를 살짝 올려주는 세련된 일렉트럼 목걸이. ^green;최대 에너지 +5 제공. ^blue;	
+/professions/jeweler/jewelry/necklace/electrumnecklace.augment	shortdescription	Electrum Necklace	일렉트럼 목걸이	
+/professions/jeweler/jewelry/necklace/feroziumnecklace.augment	description	Fashionable Ferozium Necklace that boosts your Max Health. ^green;Provides +10 Max Health. ^blue;	최대 체력을 올려주는 세련된 페로지움 목걸이. ^green;최대 체력 +10 제공. ^blue;	
+/professions/jeweler/jewelry/necklace/feroziumnecklace.augment	shortdescription	Ferozium Necklace	페로지움 목걸이	
+/professions/jeweler/jewelry/necklace/memorylocket.augment	description	To remind you of those you love and those you lost. ^green;Provides +5 Max Health and +5 Max Energy. ^blue;Jewelers gain +5 Protection.	사랑하는 이들과 잃어버린 이들을 기억하기 위해. ^green;최대 체력 +5와 최대 에너지 +5 제공. ^blue;보석공은 보호 +5를 얻는다.	
+/professions/jeweler/jewelry/necklace/memorylocket.augment	shortdescription	Memory Locket	기억 로켓	
+/professions/jeweler/jewelry/necklace/purifyingpendant.augment	description	This Pendant uses magical energy (and science!) to purify surrounding toxins. ^green;Provides +20% Poison Resistance. ^blue;Jewelers gain Poison Status Immunity.	이 펜던트는 마법 에너지(그리고 과학!)로 주변의 독소를 정화한다. ^green;독 저항 +20% 제공. ^blue;보석공은 독 상태 면역을 얻는다.	
+/professions/jeweler/jewelry/necklace/purifyingpendant.augment	shortdescription	Purifying Pendant	정화 펜던트	
+/professions/jeweler/jewelry/necklace/saintlycharm.augment	description	A Holy Charm sewn from Living Root and Silk that wards off Demonic Spirits. ^green;Provides +20% Demonic Resistance. ^blue;Jewelers gain Demonic Status Immunity.	살아있는 뿌리와 비단으로 꿰맨 신성한 부적으로, 악령을 물리친다. ^green;악마 저항 +20% 제공. ^blue;보석공은 악마 상태 면역을 얻는다.	
+/professions/jeweler/jewelry/necklace/saintlycharm.augment	shortdescription	Saintly Charm	성인의 부적	
+/professions/jeweler/jewelry/necklace/steelnecklace.augment	description	Fashionable Steel Necklace that slightly boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;	위력 배율을 살짝 올려주는 세련된 강철 목걸이. ^green;위력 배율 +5% 제공. ^blue;	
+/professions/jeweler/jewelry/necklace/steelnecklace.augment	shortdescription	Steel Necklace	강철 목걸이	
+/professions/jeweler/jewelry/necklace/violiumnecklace.augment	description	Fashionable Violium Necklace that boosts your Powerful Multiplier. ^green;Provides +10% Power Multiplier. ^blue;	위력 배율을 올려주는 세련된 비올리움 목걸이. ^green;위력 배율 +10% 제공. ^blue;	
+/professions/jeweler/jewelry/necklace/violiumnecklace.augment	shortdescription	Violium Necklace	비올리움 목걸이	
+/professions/jeweler/jewelry/ring/aegisaltring.augment	description	Fashionable Aegisalt Ring that boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;	최대 에너지를 올려주는 세련된 에지솔트 반지. ^green;최대 에너지 +5 제공. ^blue;	
+/professions/jeweler/jewelry/ring/aegisaltring.augment	shortdescription	Aegisalt Ring	에지솔트 반지	
+/professions/jeweler/jewelry/ring/bronzering.augment	description	Fashionable Bronze Ring that slightly boosts your Max Health. ^green;Provides +2.5 Max Health. ^blue;	최대 체력을 살짝 올려주는 세련된 청동 반지. ^green;최대 체력 +2.5 제공. ^blue;	
+/professions/jeweler/jewelry/ring/bronzering.augment	shortdescription	Bronze Ring	청동 반지	
+/professions/jeweler/jewelry/ring/electrumring.augment	description	Fashionable Electrum Ring that slightly boosts your Max Energy. ^green;Provides +2.5 Max Energy. ^blue;	최대 에너지를 살짝 올려주는 세련된 일렉트럼 반지. ^green;최대 에너지 +2.5 제공. ^blue;	
+/professions/jeweler/jewelry/ring/electrumring.augment	shortdescription	Electrum Ring	일렉트럼 반지	
+/professions/jeweler/jewelry/ring/feroziumring.augment	description	Fashionable Ferozium Ring that boosts your Max Health. ^green;Provides +5 Max Health. ^blue;	최대 체력을 올려주는 세련된 페로지움 반지. ^green;최대 체력 +5 제공. ^blue;	
+/professions/jeweler/jewelry/ring/feroziumring.augment	shortdescription	Ferozium Ring	페로지움 반지	
+/professions/jeweler/jewelry/ring/fluxring.augment	description	A Ring that, despite its minute size, emulates a Faraday Cage. ^green;Provides +10% Electric Resistance. ^blue;Jewelers can wear two to gain Electric Status Immunity.	작은 크기에도 패러데이 새장을 흉내 내는 반지. ^green;전기 저항 +10% 제공. ^blue;보석공이 두 개를 착용하면 전기 상태 면역을 얻는다.	
+/professions/jeweler/jewelry/ring/fluxring.augment	shortdescription	Flux Ring	플럭스 반지	
+/professions/jeweler/jewelry/ring/ghostlyring.augment	description	An eering ring that glows green.	녹색으로 빛나는 섬뜩한 반지.	
+/professions/jeweler/jewelry/ring/ghostlyring.augment	shortdescription	Ghostly Ring	유령 반지	
+/professions/jeweler/jewelry/ring/spitefulring.augment	description	This Ring holds a rather extreme grudge towards those that attempt to harm its master. ^green;Provides +3% Power Multiplier. ^blue;Jewelers can wear two to gain Thorns.	주인을 해치려는 자에게 지독한 원한을 품는 반지. ^green;위력 배율 +3% 제공. ^blue;보석공이 두 개를 착용하면 가시를 얻는다.	
+/professions/jeweler/jewelry/ring/spitefulring.augment	shortdescription	Spiteful Ring	원한의 반지	
+/professions/jeweler/jewelry/ring/steelring.augment	description	Fashionable Steel Ring that slightly boosts your Powerful Multiplier. ^green;Provides +2.5% Power Multiplier. ^blue;	위력 배율을 살짝 올려주는 세련된 강철 반지. ^green;위력 배율 +2.5% 제공. ^blue;	
+/professions/jeweler/jewelry/ring/steelring.augment	shortdescription	Steel Ring	강철 반지	
+/professions/jeweler/jewelry/ring/violiumring.augment	description	Fashionable Violium Ring that boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;	위력 배율을 올려주는 세련된 비올리움 반지. ^green;위력 배율 +5% 제공. ^blue;	
+/professions/jeweler/jewelry/ring/violiumring.augment	shortdescription	Violium Ring	비올리움 반지	
+/professions/jeweler/jewelry/watch/aegisaltwatch.augment	description	Fashionable Aegisalt Watch that boosts your Max Energy. ^green;Provides +10 Max Energy. ^blue;	최대 에너지를 올려주는 세련된 에지솔트 시계. ^green;최대 에너지 +10 제공. ^blue;	
+/professions/jeweler/jewelry/watch/aegisaltwatch.augment	shortdescription	Aegisalt Watch	에지솔트 시계	
+/professions/jeweler/jewelry/watch/bronzewatch.augment	description	Fashionable Bronze Watch that slightly boosts your Max Health. ^green;Provides +5 Max Health. ^blue;	최대 체력을 살짝 올려주는 세련된 청동 시계. ^green;최대 체력 +5 제공. ^blue;	
+/professions/jeweler/jewelry/watch/bronzewatch.augment	shortdescription	Bronze Watch	청동 시계	
+/professions/jeweler/jewelry/watch/electrumwatch.augment	description	Fashionable Electrum Watch that slightly boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;	최대 에너지를 살짝 올려주는 세련된 일렉트럼 시계. ^green;최대 에너지 +5 제공. ^blue;	
+/professions/jeweler/jewelry/watch/electrumwatch.augment	shortdescription	Electrum Watch	일렉트럼 시계	
+/professions/jeweler/jewelry/watch/feroziumwatch.augment	description	Fashionable Ferozium Watch that boosts your Max Health. ^green;Provides +10 Max Health. ^blue;	최대 체력을 올려주는 세련된 페로지움 시계. ^green;최대 체력 +10 제공. ^blue;	
+/professions/jeweler/jewelry/watch/feroziumwatch.augment	shortdescription	Ferozium Watch	페로지움 시계	
+/professions/jeweler/jewelry/watch/hitechwatch.augment	description	This has a ton of awesome features, but its rather bright glow is what's really impressive. ^green;Provides Glow. ^blue;Jewelers gain increased Intelligence Scaling.	멋진 기능이 잔뜩 있지만, 정말 인상적인 건 그 꽤 밝은 빛이다. ^green;발광 제공. ^blue;보석공은 지능 비례 상승폭이 커진다.	
+/professions/jeweler/jewelry/watch/hitechwatch.augment	shortdescription	Hi-Tech Watch	하이테크 시계	
+/professions/jeweler/jewelry/watch/mechanicalwatch.augment	description	A purely mechanical watch; watching the gears spin is quite invigorating. ^green;Provides -0.1 Energy Regen Delay. ^blue;Jewelers gain increased Vigor Scaling.	순수 기계식 시계. 톱니바퀴가 도는 걸 보고 있으면 꽤 활력이 난다. ^green;에너지 재생 지연 -0.1 제공. ^blue;보석공은 기력 비례 상승폭이 커진다.	
+/professions/jeweler/jewelry/watch/mechanicalwatch.augment	shortdescription	Mechanical Watch	기계식 시계	
+/professions/jeweler/jewelry/watch/solarpoweredwatch.augment	description	This watch is self-sustaining. Neat! ^green;Provides +15 Max Energy. ^blue;Jewelers gain minor Energy Regen.	자가충전 시계다. 깔끔하다! ^green;최대 에너지 +15 제공. ^blue;보석공은 약간의 에너지 재생을 얻는다.	
+/professions/jeweler/jewelry/watch/solarpoweredwatch.augment	shortdescription	Solar-Powered Watch	태양광 시계	
+/professions/jeweler/jewelry/watch/steelwatch.augment	description	Fashionable Steel Watch that slightly boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;	위력 배율을 살짝 올려주는 세련된 강철 시계. ^green;위력 배율 +5% 제공. ^blue;	
+/professions/jeweler/jewelry/watch/steelwatch.augment	shortdescription	Steel Watch	강철 시계	
+/professions/jeweler/jewelry/watch/violiumwatch.augment	description	Fashionable Violium Watch that boosts your Powerful Multiplier. ^green;Provides +10% Power Multiplier. ^blue;	위력 배율을 올려주는 세련된 비올리움 시계. ^green;위력 배율 +10% 제공. ^blue;	
+/professions/jeweler/jewelry/watch/violiumwatch.augment	shortdescription	Violium Watch	비올리움 시계	
+/professions/jeweler/status/ivrpgjewelerstatus.statuseffect	label	Jeweler	보석공	
+/professions/medic/status/ivrpgmedicstatus.statuseffect	label	Medic	의무병	
+/professions/miner/status/ivrpgminerstatus.statuseffect	label	Miner	광부	
+/professions/smith/status/ivrpgsmithstatus.statuseffect	label	Smith	대장장이	
+/professions/tamer/items/advancedcapturepod.thrownitem	shortdescription	Advanced Capture Pod	고급 포획 포드	
+/professions/tamer/items/advancedcapturepod.thrownitem	description	This Capture Pod automatically seeks enemies until it hits a block.	이 포획 포드는 블록에 부딪힐 때까지 적을 자동으로 추적한다.	
+/professions/tamer/status/ivrpgtamerstatus.statuseffect	label	Tamer	조련사	
+/professions/tamer/status/regen/ivrpgtamermonsterregen.statuseffect	label	Tamer	조련사	
+/professions/tamer/status/regen/ivrpgtamermonsterregenarmor.statuseffect	label	Tamer	조련사	
+/professions/tamer/status/regen/ivrpgtamermonsterregendamage.statuseffect	label	Tamer	조련사	
+/professions/tamer/status/regen/ivrpgtamermonsterregenhealth.statuseffect	label	Tamer	조련사	
+/projectiles/grenades/shock/shockcharge.thrownitem	shortdescription	Shock Charge	전격 탄약	
+/projectiles/grenades/shock/shockcharge.thrownitem	description	Shocks your enemies... for a price.	적을 감전시킨다... 대가를 치르고.	
+/projectiles/grenades/skitter/skittergrenade.thrownitem	shortdescription	Skitter	스키터	
+/projectiles/grenades/skitter/skittergrenade.thrownitem	description	Warning! Releases disorienting and toxic gas.	경고! 현기증을 유발하고 유독한 가스를 방출한다.	
+/projectiles/grenades/stun/stungrenade.thrownitem	shortdescription	Stun Grenade	기절 수류탄	
+/projectiles/grenades/stun/stungrenade.thrownitem	description	What doesn't kill you makes you vulnerable.	너를 죽이지 못하는 것은 너를 취약하게 만든다.	
+/projectiles/grenades/tripmine/tripmine.thrownitem	shortdescription	Tripmine	트립마인	
+/projectiles/grenades/tripmine/tripmine.thrownitem	description	Watch your step.	발밑을 조심하라.	
+/stats/effects/camouflage/ivrpgcamouflage.statuseffect	label	Camouflage	위장	reuse
+/stats/effects/camouflage/ivrpgjumpcamouflage.statuseffect	label	Camouflage	위장	reuse
+/stats/effects/ivrpg_slumber/slumber.statuseffect	label	Slumber	수면	
+/stats/effects/rpg_corporeal/ivrpgcorporeal.statuseffect	label	Corporeal	육체	
+/stats/effects/rpg_launched/ivrpglaunched.statuseffect	label	Launched	발사됨	
+/stats/effects/rpg_slammed/ivrpgslammed.statuseffect	label	Slammed	강타됨	
+/tech/ninjatech/vanishsphere/camouflageninja.statuseffect	label	Camouflage	위장	reuse
+/tech/ninjatech/vanishsphere/ghost/ninjavanishsphereghost.statuseffect	label	Ghost	유령	
+/tech/roguetech/roguetoxicsphere/hunger/roguetoxicsphereconsume.statuseffect	label	Consume	섭취	
+/tech/soldiertech/soldiertanksphere/shield/soldiertanksphereimmune.statuseffect	label	Tank	탱크	

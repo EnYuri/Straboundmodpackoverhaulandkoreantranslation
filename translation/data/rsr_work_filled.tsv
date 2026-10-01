@@ -1,0 +1,1691 @@
+asset	field	en	ko	src
+/items/AUGMENTS/BASIC/CHEST/gic_armor_sandbag.augment	description	"''They use sandbags to stop bullets and shrapnel. And that got me thinking. If I pour sand in my plate carrier pocket, it'll be the same as a sandbag! Sometimes my genius is... it's almost frightening.''
+ 
+^green;+10% SMALL-ARMS Resistance^reset; | ^green;+30% SMALL-ARMS THERMAL Resistance.^reset;
+^green;Prevents Light Bleeding^reset; | ^red;-20% Movement Speed."	"''총알과 파편은 모래주머니로 막는다. 거기서 문득 생각이 들더라고. 철갑 조끼 주머니에 모래를 부어 넣으면 모래주머니랑 똑같지 않을까? 내 천재성이란... 가끔은 나 자신이 두려울 정도야.''
+ 
+^green;소화기 저항 +10%^reset; | ^green;소화기 열 저항 +30%.^reset;
+^green;가벼운 출혈 방지^reset; | ^red;이동 속도 -20%."	
+/items/AUGMENTS/BASIC/CHEST/gic_armor_sandbag.augment	shortdescription	Sandbag Armor	모래주머니 갑옷	
+/items/AUGMENTS/TRINKETS/UNUSED OR WIP/gic_last_cigarette.augment	description	"''Never knows best.''
+
+^green;+1% HP/s when smoking.^reset;"	"''모르는 게 약이다.''
+  
+^green;흡연 중 초당 체력 +1%^reset;"	
+/items/AUGMENTS/TRINKETS/UNUSED OR WIP/gic_last_cigarette.augment	shortdescription	Last Cigarette	마지막 담배	
+/items/AUGMENTS/TRINKETS/UNUSED OR WIP/gic_mapsofnowhere_artifact.augment	description	"''I made a promise.''
+  
+Set of WW2-era Japanese military maps. They contain nonsensical geography and contradictory directions, possibly describing a non-Euclidean space, somehow. But the more you look at them, the clearer your thoughts become. As if you're navigating a path through your own messed-up mind.
+^green;Immune to slowdown effects of anomalies.^reset;
+^green;+25% PSYCHIC Resistance.^reset;"	"''약속을 했거든.''
+  
+제2차 세계대전 시절의 일본군 지도 세트. 황당무계한 지형과 모순된 방향 표시가 가득해서, 어쩐지 비유클리드 공간을 묘사하고 있는 듯하다. 그런데 들여다볼수록 머릿속이 맑아진다. 마치 뒤엉킨 내 마음속을 가로지르는 길을 찾아가는 기분이다.
+^green;이상현상의 둔화 효과에 면역.^reset;
+^green;사이킥 저항 +25%.^reset;"	
+/items/AUGMENTS/TRINKETS/UNUSED OR WIP/gic_mapsofnowhere_artifact.augment	shortdescription	Maps of Nowhere	없는 곳의 지도	
+/items/AUGMENTS/TRINKETS/gic_armor_hachimaki.augment	description	"Headband made of white cloth, with a red circle in the centre and kanji by the sides. Originating as part of samurai gear to absorb one's sweat, these headbands were worn as a symbol of wearer's effort or courage. Hachimaki may even give you an illusion of immortality, but don't mistake stupidity for bravery.
+
+Made into a Trinket.
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset;"	"흰 천으로 만든 머리띠. 가운데 붉은 원을 그리고 양옆에 한자를 적어 넣었다. 원래 사무라이가 땀을 흡수하기 위해 착용하던 데서 유래했으며, 이후 착용자의 노력이나 용기의 상징이 되었다. 하치마키가 불사의 착각을 줄 수는 있어도, 어리석음을 용기로 착각해선 안 된다.
+  
+장신구로 제작됨.
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset;"	
+/items/AUGMENTS/TRINKETS/gic_armor_hachimaki.augment	shortdescription	Hachimaki Headband Trinket	하치마키 머리띠 장신구	
+/items/AUGMENTS/TRINKETS/gic_armor_seifuku_bowtie.augment	description	"''The first casualty of war is innocence.''
+White tie, commonly seen as part of ancient sailor uniforms. Use of child soldiers is as old as warfare itself. Kids are easy to control, and they accept any narrative if it comes from place of authority. And though often pitied, they die all the same.
+Same as it ever was.
+
+^orange;Crouching while TAKING FIRE grants +60% BALLISTIC RES and +20% DODGE, but -15% Weapon Proficiency for up to 5s | 10s cooldown.^reset;"	"''전쟁에서 가장 먼저 죽는 건 순수다.''
+하얀 넥타이로, 옛날 수병 제복의 일부로 흔히 보이는 것이다. 소년병의 역사는 전쟁의 역사와 함께한다. 아이들은 다루기 쉽고, 권위가 있는 곳에서 오는 이야기라면 무엇이든 받아들인다. 그리고 종종 동정의 대상이 되지만, 그래도 똑같이 죽어간다.
+늘 그렇듯이.
+ 
+^orange;피격 중에 웅크리면 탄도 저항 +60%, 회피 +20%, 단 무기 숙련 -15%, 최대 5초 | 재사용 대기시간 10초.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_armor_seifuku_bowtie.augment	shortdescription	Seifuku White Tie	세이후쿠 화이트 타이	
+/items/AUGMENTS/TRINKETS/gic_armor_senninbari.augment	description	"White, 15-by-100cm cloth belt with 1000 stitches, each made by individual woman. Believed to confer courage, strength and immunity from injury. Entire organisations were created with the sole purpose of sewing knots on a piece of cloth and sending it to soldiers overseas. As any other Shinto amulet, it would normally be useless as a protection gear, but what you've been through can hardly be called ''normal''.
+^orange;Gain a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 45s cooldown | Stacks with other ^#C8FAFA;HIT-SHIELDS.^reset;"	"가로 15cm, 세로 100cm의 흰 천 띠에 서로 다른 여성이 한 땀씩 바느질한 1,000개의 바늘자국. 용기와 힘, 부상 면역을 준다고 믿어졌다. 천에 매듭을 지어 해외의 병사에게 보내는 것만을 목적으로 세워진 조직들도 있었다. 다른 신토 부적과 마찬가지로 보통은 방어구로서 아무 소용이 없겠지만, 당신이 겪어온 일을 '보통'이라 부르긴 어렵겠지.
+^orange;한 번의 피격을 흡수하는 ^#C8FAFA;HIT-SHIELD^orange; 하나 획득 | 재사용 대기시간 45초 | 다른 ^#C8FAFA;HIT-SHIELD와 중첩됨.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_armor_senninbari.augment	shortdescription	Senninbari	센닌바리	
+/items/AUGMENTS/TRINKETS/gic_armor_senninbari_selfless.augment	description	"Some soldiers rejected the protective properties of Senninbari, instead choosing to believe that it allows user to inflict greater damage to the enemy before dying in battle. After all, amulet's effect depends on one's belief...
+
+^orange;+15% General Weapon Proficiency.^reset;
+^red;-5% GENERAL Resistance.^reset;"	"어떤 병사들은 센닌바리의 보호력을 거부하고, 대신 죽기 전에 적에게 더 큰 피해를 입힐 수 있게 해준다고 믿었다. 어차피 부적의 효과는 믿음에 달렸으니까...
+ 
+^orange;일반 무기 숙련 +15%.^reset;
+^red;일반 저항 -5%.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_armor_senninbari_selfless.augment	shortdescription	Senninbari of the Selfless	헌신의 센닌바리	
+/items/AUGMENTS/TRINKETS/gic_armor_whitelilyflower.augment	description	"White lily represents purity. Japan often put women in danger of combat, as evidenced by Himeyuri Corps and Volunteer Fighting Corps - late-war auxiliary units that would include young student girls and unmarried women of 17 to 40 years. Female chastity was so important in Asian societies that women would rather die than risk capture by ''gaijins''.
+
+^green;+1.5% HP Regeneration per second."	"흰 백합은 순결을 상징한다. 일본은 여성을 전투의 위험에 자주 내몰았다 — 히메유리 부대와 의용전투대가 그 증거이며, 종전기의 이 보조 부대에는 어린 여학생과 17세에서 40세의 미혼 여성들이 들어갔다. 여성의 정숙은 아시아 사회에서 그토록 중요해서, 여자들은 '외국인'에게 붙잡힐 위험을 감수하느니 차라리 죽음을 택했다.
+ 
+^green;초당 체력 재생 +1.5%."	
+/items/AUGMENTS/TRINKETS/gic_armor_whitelilyflower.augment	shortdescription	White Lily Flower	흰 백합 꽃	
+/items/AUGMENTS/TRINKETS/gic_armor_woundedsoldierbadge.augment	description	"''When you go to war as a boy, you have a great illusion of immortality. Other people get killed, not you... Then, when you are badly wounded the first time, you lose that illusion, and you know it can happen to you.''
+Gilt badge awarded to military personnel for a wound sustained in combat. Hardly a Medal of Valor, but it's sure easy to earn.
+
+^#96CBE7;Counts as a [CHEST] part of Medic Set.^reset; | ^#F2B8EC;[FULL SET 3x REQUIRED] - Passively heal 15HP for self and nearby players every 4s."	"''소년이 전쟁에 나가면, 죽지 않는다는 커다란 환상을 품게 되지. 다른 사람이 죽지, 나는 아니라고... 그러다 처음으로 크게 다치면 그 환상을 잃고, 내가 죽을 수 있다는 걸 알게 된다.''
+전투에서 입은 부상으로 군인에게 수여되는 금도금 배지. 용맹 훈장은 아니지만, 얻기는 정말 쉽지.
+ 
+^#96CBE7;의무병 세트의 [CHEST] 부품으로 취급.^reset; | ^#F2B8EC;[풀 세트 3개 필요] - 4초마다 자신과 주변 플레이어의 체력을 15 회복."	
+/items/AUGMENTS/TRINKETS/gic_armor_woundedsoldierbadge.augment	shortdescription	Wounded Soldier Badge	부상 병사 배지	
+/items/AUGMENTS/TRINKETS/gic_daretodie_grenades.augment	description	"''When I turn to dust, you will see my smile...''
+
+The concept of martyrdom in China during the premodern period largely concerned loyalty to political principles and was developed in modern times by revolutionaries, such as the Tongmenghui and the Kuomintang parties.
+
+^orange;On death, causes explosion equivalent to LF-2 Bundle Grenade.^reset;"	"''내가 먼지로 돌아갈 때, 너는 내 미소를 보게 될 거야...''
+ 
+근대 이전 중국에서 순교의 개념은 주로 정치적 원칙에 대한 충절과 관련된 것이었고, 근대에 이르러 통멍후이와 국민당 같은 혁명가들에 의해 발전했다.
+ 
+^orange;사망 시 LF-2 번들 수류탄과 동등한 폭발을 일으킨다.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_daretodie_grenades.augment	shortdescription	''Dare-to-Die Corps'' Grenade Bag	'결사대' 수류탄 가방	
+/items/AUGMENTS/TRINKETS/gic_goodluckflag_artifact.augment	description	"National flag of Japan, with writings all around the red circle. Known in Japan as ''Yosegaki Hinomaru'', it was traditionally presented to a man prior to his induction into the Japanese armed forces or before his deployment. It was signed by the relatives, neighbors, friends, and co-workers of the future soldier with good luck messages, exhortations, or other personal messages.
+
+^orange;+20% DODGE Chance.^reset;"	"일본 국기. 붉은 원 주변으로 글씨가 빼곡하다. 일본에서는 '요세가키 히노마루'라 부르며, 전통적으로 입대를 앞둔 남자나 파병을 앞둔 이에게 전해주던 것이다. 예비 병사의 친척, 이웃, 친구, 동료들이 행운을 비는 글이나 격려, 혹은 사적인 메시지를 적어 넣었다.
+ 
+^orange;회피 확률 +20%.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_goodluckflag_artifact.augment	shortdescription	Good Luck Flag	행운 깃발	
+/items/AUGMENTS/TRINKETS/gic_ijn_paratrooper_insignia.augment	description	"Insignia of the Japanese Navy's SNLF paratroopers, depicting an anchor and two crossed parachutes. Paras were planned to be used for strategic tasks like airfield and coastal defences capture, inland diversion, recon and others, timed in support of IJN's amphibious assaults. Since the late 1942, as Japan lost the initiative and was in no position to launch air/amphibious assaults, paratroopers were used exclusively as an elite light infantry force, much like the German Fallschirmjägers.
+^#96CBE7;+10% Movement Speed and +5% DODGE when holding a LIGHT weapon.^reset;"	"닻과 교차한 두 개의 낙하산을 새긴 일본 해군 SNLF 낙하산병 휘장. 낙하산병은 비행장과 해안 방어진지 탈취, 내륙 교란, 정찰 같은 전략적 임무에 투입될 계획이었고, 해군의 상륙 작전과 호흡을 맞춰 운용될 예정이었다. 1942년 후반 이후 일본이 주도권을 잃고 공중·상륙 작전을 벌일 처지가 못 되면서, 낙하산병은 독일 팔슈름예거처럼 정예 경보병으로만 쓰였다.
+^#96CBE7;경무기를 들고 있을 때 이동 속도 +10%, 회피 +5%.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_ijn_paratrooper_insignia.augment	shortdescription	IJN Paratrooper Insignia	IJN 낙하산병 휘장	
+/items/AUGMENTS/TRINKETS/gic_imon_bukuro.augment	description	"''Comfort Bags'' were care packages that families or patriotic women's organizations would pack for Japanese soldiers. These packages contained various items such as food, candies, cigarettes, letters of encouragement and daily necessities. As the war progressed, the contents became less luxurious and it became more and more difficult to deliver Imon-Bukuro. Little gifts like these make a huge difference for battle-weary soldiers who are removed from everyday comforts.
+^green;+20% Max HP.^reset;"	"'위문 부대'는 가족이나 애국 부녀회가 일본군 병사를 위해 꾸려 보낸 선물 꾸러미였다. 꾸러미에는 음식, 사탕, 담배, 격려 편지, 생필품 등이 들어 있었다. 전황이 악화될수록 내용물은 초라해졌고, 이몬부쿠로를 전달하기도 점점 어려워졌다. 이런 작은 선물이 일상의 위안과 멀어진 전장의 병사에게는 큰 힘이 된다.
+^green;최대 체력 +20%.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_imon_bukuro.augment	shortdescription	Imon-Bukuro	이몬부쿠로	
+/items/AUGMENTS/TRINKETS/gic_imon_ningyo.augment	description	"Among many items inside Imon-Bukuro, one of the most cherished ones were Imon Ningyo, or ''Comfort Dolls'' - little handmade plushies resembling Japanese women. These dolls played a unique role in a soldier's life, serving both as amulets and objects of affection - troops would give them names and dress them in pretty clothes, possibly reminding them of sisters and mothers back in Japan. 
+
+^#96CBE7;+3HP/s when under 50% HP.^reset;"	"이몬부쿠로 안의 여러 물건 중 가장 사랑받은 것은 '이몬 인형', 즉 '위문 인형' — 일본 여성을 본뜬 손바느질 작은 봉제인형이었다. 이 인형들은 병사의 삶에서 독특한 역할을 했는데, 부적인 동시에 애정의 대상이 되어 병사들은 이름을 지어주고 예쁜 옷을 입혀주며, 그것으로 일본에 있는 누이와 어머니를 떠올렸다.
+ 
+^#96CBE7;체력 50% 미만일 때 초당 체력 +3.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_imon_ningyo.augment	shortdescription	Imon Ningyo	이몬 인형	
+/items/AUGMENTS/TRINKETS/gic_jika_tabi.augment	description	"Jika-tabi are traditional Japanese working boots with a divided toe. They're not exactly sturdy, but they're comfortable, which is important during long marches. Tenacity, coupled with mobility, is a powerful weapon.
+
+^orange;MEDIUM weapon movement penalty is negated.^reset;
+^orange;+10% Movement Speed.^reset;
+^red;-25% Knockback Resistance^reset;"	"지카타비는 발가락이 갈라진 일본 전통 작업화다. 튼튼하다고는 못하지만 편안해서, 긴 행군에는 그게 중요하다. 끈기와 기동성은 강력한 무기다.
+ 
+^orange;중형 무기 이동 페널티 무효.^reset;
+^orange;이동 속도 +10%.^reset;
+^red;넉백 저항 -25%^reset;"	
+/items/AUGMENTS/TRINKETS/gic_jika_tabi.augment	shortdescription	Jika-Tabi	지카타비	
+/items/AUGMENTS/TRINKETS/gic_letter_from_sulfur_island.augment	description	"''On the waves of the Pacific, down south from the Imperial city, a small lonely islands floats.
+The fate of our imperial country lies in the hands of this island, Iwo Jima.
+As long as we stand, we shall feel safe, as the imperial land shall forever be at peace.
+We shall fight with pride and honor at any price, our proud island, Iwo Jima...''
+^orange;+15% General Weapon Proficiency when stationary^reset;"	"''태평양의 파도 위, 제국 수도의 남쪽에 작고 외로운 섬이 떠 있다.
+우리 제국의 운명이 이 섬, 이오지마에 달려 있다.
+우리가 버티는 한 마음이 든든하니, 제국의 땅은 영원히 평화로울 것.
+자랑스런 우리 섬, 이오지마를 위해 어떤 대가를 치르더라도 긍지와 명예로 싸우리라...''
+^orange;정지 상태에서 일반 무기 숙련 +15%^reset;"	
+/items/AUGMENTS/TRINKETS/gic_letter_from_sulfur_island.augment	shortdescription	Letter from Sulfur Island	유황 섬에서 온 편지	reuse
+/items/AUGMENTS/TRINKETS/gic_nightstripes.augment	description	"A set of white cloth stripes and luminous markers for night-time identification. Night combat took a large portion of training time in IJA bootcamps. In face of Allied firepower superiority, sudden and well-timed night incursions proved to be effective and demoralizing. Until they weren't.
+
+^green;^green;+10% General Weapon Proficiency and +25% Movement Speed^reset; ^yellow;when in darkness.^reset;"	"야간 식별을 위한 흰 천 띠와 야광 마커 세트. 야간 전투는 IJA 훈련소에서 큰 비중을 차지했다. 연합군의 화력 우위 앞에서, 기습적이고 타이밍 좋은 야간 침입은 효과적이고 사기를 꺾는 수단임이 입증됐다. 그렇지 못할 때까지는.
+ 
+^green;^green;일반 무기 숙련 +10%, 이동 속도 +25%^reset; ^yellow;어둠 속에서.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_nightstripes.augment	shortdescription	Night Warfare Stripes	야간 전투 식별띠	
+/items/AUGMENTS/TRINKETS/gic_rsr_assaultdoctrine/gic_rsr_assaultdoctrine.augment	description	"Since SMGs were scarce in Japanese Army and Navy, they were issued to specialist units like paratroopers, with exceptions being few and far between. It was very common for pre-WW2 world armies to dismiss SMGs, only to start desperately ramping up production once they realised their deadliness. 
+  
+^Orange;ALL IJA/SNLF RIFLEMEN SUMMONS are equipped with Kokura T100 SMGs which further improves their firepower at close range and are IMMUNE to Suppression.^reset;"	"일본 육군과 해군에서 기관단총은 귀했기 때문에 낙하산병 같은 전문 부대에 지급되었고, 예외는 극히 드물었다. 제2차 세계대전 이전 세계 각국군이 기관단총을 무시하다가 그 치명성을 깨닫고 필사적으로 생산을 늘리기 시작한 것은 아주 흔한 일이었다.
+  
+^Orange;모든 IJA/SNLF 소총병 소환이 코쿠라 T100 기관단총을 장비해 근거리 화력이 향상되고 제압에 면역.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_rsr_assaultdoctrine/gic_rsr_assaultdoctrine.augment	shortdescription	T100 SMG Package	T100 기관단총 패키지	
+/items/AUGMENTS/TRINKETS/gic_rsr_iwashitat30package/gic_rsr_iwashitat30package.augment	description	"India became a testbed for post-war military theories and doctrines, and despite being an infinite money sink, the lessons learned by the IJA turned it into the most advanced military force of the late 20th century, forcing others to copy their equipment and their findings about modern warfare.
+  
+^Orange;ALL HOHEI '60 RIFLEMEN SUMMONS are equipped with Iwashita T30 rifles and flak jackets, increasing their firepower, SMALL-ARMS resistance, and granting IMMUNITY to Suppression.^reset;"	"인도는 전후 군사 이론과 교리의 시험대가 되었다. 끝없는 돈 먹는 하마이긴 했지만, IJA가 얻은 교훈은 일본을 20세기 후반 최첨단 군사력으로 만들었고, 다른 나라들은 그들의 장비와 현대전 노하우를 베껴야 했다.
+  
+^Orange;모든 호헤이 '60 소총병 소환이 이와시타 T30 소총과 방파편 조끼를 장비해 화력과 소화기 저항이 향상되고 제압에 면역.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_rsr_iwashitat30package/gic_rsr_iwashitat30package.augment	shortdescription	Hohei '70 Package	호헤이 '70 패키지	
+/items/AUGMENTS/TRINKETS/gic_rsr_mikotaidoctrine/gic_rsr_mikotaidoctrine.augment	description	"It was not only the training, but also the tools that made Maiden-Soldiers a menace in the eyes of the youkai. Where their faith lacked, they pushed on through with inventive interpretations of Shinto practices, and sheer stubbornness. 
+  
+^Orange;ALL MIKO-HEI SUMMONS are equipped with Iwashita-Ise rifles with homing persuasion needles and talismans, increasing their effectiveness.^reset;"	"무녀병을 요괴에게 공포의 대상으로 만든 것은 훈련만이 아니라 장비였다. 신앙이 부족한 곳은 신토 관습의 독창적 해석과 말 그대로 끈질긴 고집으로 메웠다.
+  
+^Orange;모든 미코헤이 소환이 유도 설득의 바늘과 부적을 달은 이와시타-이세 소총으로 무장해 효율이 향상.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_rsr_mikotaidoctrine/gic_rsr_mikotaidoctrine.augment	shortdescription	Miko-tai Doctrine	미코타이 교리	
+/items/AUGMENTS/TRINKETS/gic_silk_armor.augment	description	"Natural silk, when applied in multiple layers, is durable enough to serve as a body armor. Pound for pound, spider silk is stronger than steel, and capable to withstand severe blows and even bullets while being very lightweight. The downside - silk is very flammable.
+ 
+^green;MEDIUM ARMOR movement penalties are negated.^reset;
+^red;-50% FIRE Resistance."	"천연 비단은 여러 겹으로 겹치면 방탄복으로 쓸 만큼 튼튼하다. 무게 대비로 거미줄은 강철보다 강해서, 심한 타격과 심지어 총탄까지 견디면서도 매우 가볍다. 단점은 — 비단은 매우 불에 잘 탄다.
+ 
+^green;중형 갑옷 이동 페널티 무효.^reset;
+^red;화염 저항 -50%."	
+/items/AUGMENTS/TRINKETS/gic_silk_armor.augment	shortdescription	Silk Armor	비단 갑옷	
+/items/AUGMENTS/TRINKETS/gic_tsukihime_flashlight.augment	description	"''That won't do, Nii-san. We'll need lights on for this.''
+  
+Japanese ''Moon Princess'' military flashlight, copied from American TL-122. The design was meant to be simple, and featured a clip that allowed the flashlight to be attached to a soldier's web gear while the angle of the head cast light forward of the user. This allowed the soldier's hands to remain free to carry a weapon.
+
+^green;Attaches a light, providing illumination.^reset;"	"''안 되겠어, 오빠. 이건 불을 켜야 해.''
+  
+미군 TL-122를 모방한 일본의 '달의 공주' 군용 손전등. 단순함을 목표로 한 설계에 클립이 달려 있어 병사의 웹 기어에 매달 수 있고, 각진 헤드가 사용자 전방을 비추게 되어 있다. 덕분에 병사는 무기를 들 손이 자유로웠다.
+ 
+^green;조명을 부착해 빛을 제공.^reset;"	
+/items/AUGMENTS/TRINKETS/gic_tsukihime_flashlight.augment	shortdescription	Tsukihime Flashlight (Trinket)	츠키히메 손전등 (장신구)	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/DEPRECATED/gic_blackcharm.augment	description	"''Oh brute force, is there anything you can't solve?''
+  
+Supports attachment on most firearms that can attach a barrel.
+^orange;lol.
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"''오 만고의 물리력이여, 네가 못 푸는 게 있기는 하냐?''
+  
+총열 부착을 지원하는 대부분의 화기에 장착 가능.
+^orange;ㅋㅋ.
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/DEPRECATED/gic_blackcharm.augment	shortdescription	Black Charm	검은 부적	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/DEPRECATED/gic_smg_822_flashsuppressor.augment	description	"^yellow;Hides muzzle flash and significantly reduces smoke when attached to the muzzle of a firearm.^white; Supports attachment on any SMG firing the 8x22mm round.
+
+^green;+5% standing accuracy | -5% standing miss chance.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"^yellow;화기 총구에 장착하면 총구 화염을 숨기고 연기를 크게 줄인다.^white; 8x22mm 탄을 쓰는 모든 기관단총에 장착 지원.
+ 
+^green;선자세 명중률 +5% | 선자세 빗나감 확률 -5%.^reset;
+ 
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/DEPRECATED/gic_smg_822_flashsuppressor.augment	shortdescription	SMG-Type 8x22mm Flash Suppressor (GiC)	기관단총형 8x22mm 소염기 (GiC)	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/DEPRECATED/gic_smg_822_heavybarrel.augment	description	"Heavy Barrel attachment with attachment support on any SMG firing the 8x22mm round.
+
+^green;+25% recoil recovery speed.
+^red;+10% high recoil miss chance modifier.
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"8x22mm 탄을 쓰는 모든 기관단총을 지원하는 중총신 부착물.
+ 
+^green;반동 회복 속도 +25%.
+^red;고반동 빗나감 확률 배율 +10%.
+ 
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/DEPRECATED/gic_smg_822_heavybarrel.augment	shortdescription	SMG-Type 8x22mm Heavy Barrel (GiC)	기관단총형 8x22mm 중총신 (GiC)	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/DEPRECATED/gic_smg_822_longbarrel.augment	description	"Long Barrel attachment with attachment support on any SMG firing the 8x22mm round.
+
+^green;+10% crouch accuracy | -10% crouch miss chance.
+^red;+20% standing miss chance.
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"8x22mm 탄을 쓰는 모든 기관단총을 지원하는 장총신 부착물.
+ 
+^green;웅크린 명중률 +10% | 웅크린 빗나감 확률 -10%.
+^red;선자세 빗나감 확률 +20%.
+ 
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/DEPRECATED/gic_smg_822_longbarrel.augment	shortdescription	SMG-Type 8x22mm Long Barrel (GiC)	기관단총형 8x22mm 장총신 (GiC)	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/DEPRECATED/gic_smg_822_suppressor.augment	description	"^yellow;Significantly reduces sound profile, nullifying excessive sound debuffs caused by firing. Alters firing sound.^white; Supports attachment on any SMG firing the 8x22mm round.
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"^yellow;음량을 크게 줄여 사격 시 발생하는 과도한 소음 디버프를 없앤다. 사격음이 바뀐다.^white; 8x22mm 탄을 쓰는 모든 기관단총에 장착 지원.
+ 
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/DEPRECATED/gic_smg_822_suppressor.augment	shortdescription	SMG-Type 8x22mm Suppressor (GiC)	기관단총형 8x22mm 소음기 (GiC)	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/gic_amulet_of_accuracy.augment	description	"Small omamori amulet with magical properties. Cold to touch but gets warm very quickly. Magically increases stability and velocity of a projectile, but barrels get hotter and more inaccurate much faster.
+^#EAC0CE;An empty attachment that provides Long Barrel bonuses without changing weapon's appearance.^white;
+^green;+25% HIT CHANCE and ACCURACY.^reset;
+^red;+50% Recoil Recovery Time | +50% High Recoil Miss Chance Multiplier^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"마력을 가진 작은 오마모리 부적. 만지면 차갑지만 금세 따뜻해진다. 탄환의 안정성과 탄속을 마법으로 높여주지만, 총열이 훨씬 빨리 뜨거워지고 부정확해진다.
+^#EAC0CE;무기 외형 변경 없이 장총신 보너스를 주는 빈 부착물.^white;
+^green;적중 확률과 명중률 +25%.^reset;
+^red;반동 회복 시간 +50% | 고반동 빗나감 확률 배율 +50%^reset;
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/gic_amulet_of_accuracy.augment	shortdescription	Amulet of Accuracy	명중의 부적	reuse
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/gic_amulet_of_compensation.augment	description	"Small omamori amulet with magical properties. Its front side is always hotter than the back side. Unseen forces lightly push the barrel down with each shot.
+^#EAC0CE;An empty attachment that provides Compensator bonuses without changing weapon's appearance.^white;
+^orange;Subsequent repeated shots on the same target weaken the target by -25%, for up to 0.25s per bullet.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"마력을 가진 작은 오마모리 부적. 앞면이 뒷면보다 항상 뜨겁다. 보이지 않는 힘이 발사할 때마다 총열을 살짝 눌러준다.
+^#EAC0CE;무기 외형 변경 없이 보정기 보너스를 주는 빈 부착물.^white;
+^orange;같은 대상에 계속 쏘면 대상이 -25% 약해지며, 탄환 한 발당 최대 0.25초 지속.^reset;
+ 
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/gic_amulet_of_compensation.augment	shortdescription	Amulet of Compensation	보상의 부적	reuse
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/gic_amulet_of_flashes.augment	description	"Small omamori amulet with magical properties. Smells like gunpowder. Magically hides muzzle flash and significantly reduces smoke when attached to the muzzle of a firearm.
+^#EAC0CE;An empty attachment that provides Flash Suppressor bonuses without changing weapon's appearance.^white;
+
+^green;+5% Weapon Proficiency.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"마력을 가진 작은 오마모리 부적. 화약 냄새가 난다. 총구에 달면 총구 화염을 마법으로 숨기고 연기를 크게 줄여준다.
+^#EAC0CE;무기 외형 변경 없이 소염기 보너스를 주는 빈 부착물.^white;
+ 
+^green;무기 숙련 +5%.^reset;
+ 
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/gic_amulet_of_flashes.augment	shortdescription	Amulet of Flashes	섬광의 부적	reuse
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/gic_amulet_of_heaviness.augment	description	"Small omamori amulet with magical properties. Despite being made of silk and paper, it has a weight of an iron bar. Barrels touching this amulet magically become denser and heavier.
+^#EAC0CE;An empty attachment that provides Heavy Barrel bonuses without changing weapon's appearance.^white;
+^green;-40% Recoil Recovery Time | -50% High Recoil Miss Chance Multiplier^reset;
+^yellow;2x Recoil Steps (additional shots until at high-recoil state).^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"마력을 가진 작은 오마모리 부적. 비단과 종이로 만들어졌는데도 쇳덩이 같은 무게다. 이 부적에 닿은 총열은 마법으로 더 조밀하고 무거워진다.
+^#EAC0CE;무기 외형 변경 없이 중총신 보너스를 주는 빈 부착물.^white;
+^green;반동 회복 시간 -40% | 고반동 빗나감 확률 배율 -50%^reset;
+^yellow;반동 단계 2배 (고반동 상태까지의 추가 발사 수).^reset;
+ 
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/gic_amulet_of_heaviness.augment	shortdescription	Amulet of Heaviness	무거움의 부적	reuse
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/gic_amulet_of_silence.augment	description	"Small omamori amulet with magical properties. Doesn't make any sounds when you rub it. Traps hot gases in some sort of a pocket dimension.
+^#EAC0CE;An empty attachment that provides Suppressor bonuses without changing weapon's appearance.^white;
+^orange;Afflicts hit targets with SUDDEN-STRIKE, granting subsequent shots +50% DMG. If the target is not hit again for 0.25s, the target becomes RESISTANT to SUDDEN-STRIKE for 480s.^white;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"마력을 가진 작은 오마모리 부적. 비벼도 아무 소리가 나지 않는다. 뜨거운 가스를 일종의 포켓 차원에 가둔다.
+^#EAC0CE;무기 외형 변경 없이 소음기 보너스를 주는 빈 부착물.^white;
+^orange;피격된 대상에게 급습을 부여해 이어지는 사격 피해 +50%. 대상이 0.25초간 다시 맞지 않으면 480초간 급습에 내성.^white;
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/gic_amulet_of_silence.augment	shortdescription	Amulet of Silence	침묵의 부적	reuse
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/UNUSED/gic_aichi_t49wintercover.augment	description	"Japanese military is known for its love for miscellaneous accessories to guns and uniforms, such as dust covers for bolt-action rifles and working gloves as part of fatigues. One of such items was a white standard-issue weapon cover for Iwashita T24, which greatly camouflaged the weapon in snow.
+
+^green;+5% DODGE Chance.^reset;
+^green;Takes the Underbarrel slot. Right-click on a compatible GiC Weapon to attach.^reset; ^yellow;Only compatible with Aichi T49.^reset;"	"일본군은 볼트액션 소총의 먼지 덮개나 작업복용 장갑 같은 총기·제복의 잡다한 소품을 좋아하기로 유명하다. 그런 물건 중 하나가 이와시타 T24용 표준 지급 흰색 총기 커버로, 눈 속에서 총을 아주 잘 위장해주었다.
+ 
+^green;회피 확률 +5%.^reset;
+^green;총열하부 슬롯을 사용. 호환되는 GiC 무기를 우클릭해서 장착.^reset; ^yellow;아이치 T49 전용.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/UNUSED/gic_aichi_t49wintercover.augment	shortdescription	Winter Cover (Aichi T49)	동계 커버 (아이치 T49)	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/UNUSED/gic_iwashita_bipod.augment	description	"A simple foldable bipod, common for some battle rifles of the Cold War era. Designed to compensate for automatic fire's recoil. Slightly increases accuracy of weapons when grounded.
+  
+^green;+15% accuracy and hit chance when grounded.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"냉전 시대 일부 배틀 소총에서 흔한 간이 접이식 양각대. 자동 사격의 반동을 상쇄하도록 설계됐다. 접지했을 때 무기 명중률이 소폭 향상된다.
+  
+^green;접지 시 명중률과 적중 확률 +15%.^reset;
+ 
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/UNUSED/gic_iwashita_bipod.augment	shortdescription	Light Bipod	경량 양각대	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_daikon_t24grenadelauncher.augment	description	"IJA briefly experimented with underbarrel grenade launchers that would use accurate low-velocity munitions, but in the end deemed UGLs too heavy for too little improvement over rifle grenades, despite positive feedback from troops. Couple of accidental discharges may have contributed to project's discontinuation.
+
+^orange;Tap Right-Click to Fire/Reload the Grenade Launcher.
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"IJA는 정확한 저속 탄약을 쓰는 총하부 유탄발사기를 잠시 실험했지만, 병사들의 긍정적 평가에도 불구하고 소총유탄 대비 개선 폭이 적은데 무게만 무겁다며 UGL은 무겁다고 판단했다. 몇 차례의 오발 사고도 사업 중단에 한몫했을 것이다.
+ 
+^orange;우클릭을 가볍게 눌러 유탄발사기 발사/재장전.
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_daikon_t24grenadelauncher.augment	shortdescription	Daikon T24 UGL	다이콘 T24 총하부 유탄발사기	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_heavy_bipod.augment	description	"A heavy bipod designed to greatly increase accuracy of weapons when grounded.
+  
+^green;+80% accuracy and hit chance when grounded.^reset;
+^red;-30% accuracy and hit chance when NOT grounded on the bipod.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"접지했을 때 무기 명중률을 크게 높여주는 중량 양각대.
+  
+^green;접지 시 명중률과 적중 확률 +80%.^reset;
+^red;양각대에 접지하지 않았을 때 명중률과 적중 확률 -30%.^reset;
+ 
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_heavy_bipod.augment	shortdescription	Bipod (GiC)	양각대 (GiC)	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_ija_riflecamo.augment	description	"''Camouflage is a game we all like to play.''
+Net filled with all sorts of grass and weeds, wrapped around the handguard. Obscures weapon's profile and makes it (and by extension you) harder to spot in bushes or tall grass.
+
+^green;+5% DODGE Chance.^reset;
+
+^green;Takes the Underbarrel slot. Right-click on a compatible GiC Weapon to attach.^reset;"	"''위장은 다들 좋아하는 놀이지.''
+온갖 풀과 잡초를 채운 그물을 총열 덮개에 감은 것. 총기의 윤곽을 흐려서 덤불이나 풀숲에서 (그리고 덩달아 당신도) 눈에 덜 띄게 한다.
+ 
+^green;회피 확률 +5%.^reset;
+ 
+^green;총열하부 슬롯을 사용. 호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_ija_riflecamo.augment	shortdescription	Weapon Camo (Foliage)	무기 위장 (풀잎)	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_ija_riflecamo_desert.augment	description	"''Camouflage is a game we all like to play.''
+Yellow cloth tied to handguard. Provides concealment in desert enviroment.
+
+^green;+5% DODGE Chance.^reset;
+
+^green;Takes the Underbarrel slot. Right-click on a compatible GiC Weapon to attach.^reset;"	"''위장은 다들 좋아하는 놀이지.''
+총열 덮개에 묶은 노란 천. 사막 환경에서 은폐를 제공한다.
+ 
+^green;회피 확률 +5%.^reset;
+ 
+^green;총열하부 슬롯을 사용. 호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_ija_riflecamo_desert.augment	shortdescription	Weapon Camo (Desert)	무기 위장 (사막)	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_ija_riflecamo_snow.augment	description	"''Camouflage is a game we all like to play.''
+Snow-white cloth tied to handguard. Provides concealment in snow enviroment.
+
+^green;+5% DODGE Chance.^reset;
+
+^green;Takes the Underbarrel slot. Right-click on a compatible GiC Weapon to attach.^reset;"	"''위장은 다들 좋아하는 놀이지.''
+총열 덮개에 묶은 눈처럼 하얀 천. 설원 환경에서 은폐를 제공한다.
+ 
+^green;회피 확률 +5%.^reset;
+ 
+^green;총열하부 슬롯을 사용. 호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_ija_riflecamo_snow.augment	shortdescription	Weapon Camo (Snow)	무기 위장 (설원)	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_iwashita_t24wintercover.augment	description	"Standard-issue weapon cover for Iwashita T24, and an inordinate amount of cold-resistant gun lube. Japanese military is known for its love for neat miscellaneous accessories to guns and uniforms, a tradition carried into post-WW2 era.
+
+^green;+5% DODGE Chance.^reset;
+^green;Makes the weapon Cold-Resistant.^reset;
+^green;Takes the Underbarrel slot. Right-click on a compatible GiC Weapon to attach.^reset; ^yellow;Only compatible with Iwashita T24.^reset;"	"이와시타 T24용 표준 지급 총기 커버와 어마어마한 양의 내한성 총기 윤활유. 일본군은 총기·제복의 깔끔한 잡다한 소품을 좋아하기로 유명했고, 그 전통은 전후까지 이어졌다.
+ 
+^green;회피 확률 +5%.^reset;
+^green;무기를 내한성으로 만든다.^reset;
+^green;총열하부 슬롯을 사용. 호환되는 GiC 무기를 우클릭해서 장착.^reset; ^yellow;이와시타 T24 전용.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_iwashita_t24wintercover.augment	shortdescription	Winter Operations Kit (Iwashita T24)	동계 작전 키트 (이와시타 T24)	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_iwashita_t26bipod.augment	description	"A heavy bipod designed to greatly increase accuracy of weapons when grounded, i.e. ^orange;when the bipod is in contact with the ground or a platform.^reset;
+  
+^green;+80% [EWS] Hit Chance and Accuracy when grounded.^reset;
+^red;-30% [EWS] Hit Chance and Accuracy when NOT grounded on the bipod.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"접지했을 때, 즉 ^orange;양각대가 지면이나 플랫폼에 닿았을 때^reset; 무기 명중률을 크게 높여주는 중량 양각대.
+  
+^green;접지 시 [EWS] 적중 확률과 명중률 +80%.^reset;
+^red;양각대에 접지하지 않았을 때 [EWS] 적중 확률과 명중률 -30%.^reset;
+ 
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_iwashita_t26bipod.augment	shortdescription	Bipod Attachment	양각대 부착물	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_rsr_ise_talisman.augment	description	"''I once asked Savitri, that half-Indian girl at the armory, ''How come your Ise rifle never jams?''. She said, ''You have to use it very kindly, it's delicate''. No shit. Well, I once tried cleaning mine with a big dumb smile on my face... I'm on my 20th mag without a single jam. Y'know, maybe she's on to something...''
+
+^orange;Removes Jam Chances. Each reload spends 50 Ability Mana.^reset;
+^#EAC0CE;Only compatible with Iwashita-Ise Rifle.^reset;"	"''한번은 무기고의 반쪽짜리 인도인 아가씨 사비트리에게 물었지, '네 이세 소총은 왜 걸리는 법이 없어?' 그랬더니 대답이, '살살 다뤄야 해요, 예민하거든요'. 어휴 진짜. 뭐, 나도 한번 헤벌쭉 웃으면서 닦아줬는데... 지금 20개 탄창째 걸림 한 번 없어. 있잖아, 걔 뭔가 아는 것 같아...''
+ 
+^orange;걸림 확률 제거. 재장전마다 능력 마나 50 소모.^reset;
+^#EAC0CE;이와시타-이세 소총 전용.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/FOREGRIP/gic_rsr_ise_talisman.augment	shortdescription	Ise Talisman	이세 부적	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/gic_marui_t50_2xteleconverter_scope.augment	description	"Military-grade Marui T50 Red Dot Sight with a commercial 2x teleconverter. After fulfilling a lucrative military contract, Marui invested heavily into an airsoft guns market that was booming in Japan at the time. Their teleconverters were initially made for this market of airsoft enthusiasts, but some soldiers also got a hold of these. 
+^orange;+25% Weapon Proficiency after 0.5s of not running, firing, or being shot.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"상업용 2배 텔레컨버터를 단 군용 마루이 T50 레드 닷 사이트. 돈 되는 군수 계약을 따낸 마루이는 당시 일본에서 붐이던 에어소프트 시장에 크게 투자했다. 텔레컨버터는 원래 이 에어소프트 애호가 시장용으로 만들어졌지만, 일부 병사도 손에 넣었다.
+^orange;0.5초 동안 달리기, 사격, 피격이 없으면 무기 숙련 +25%.^reset;
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/gic_marui_t50_2xteleconverter_scope.augment	shortdescription	Marui T50 w/ 2x Teleconverter Scope	마루이 T50 w/ 2x 텔레컨버터 조준경	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/gic_marui_t50_sight.augment	description	"Non-magnified closed-type red dot sight. Initially intended as a standard-issue sight for all new T49 rifles. By the end of the century only the most elite and privileged IJA and IJN units got their hands on them. 
+  
+^orange;+10% Weapon Proficiency.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"무배율 폐쇄형 레드 닷 사이트. 원래 신형 T49 소총 전체에 지급할 표준 조준경이었다. 세기말이 되어서야 최정예이자 특권을 가진 IJA와 IJN 부대만이 이걸 손에 넣었다.
+  
+^orange;무기 숙련 +10%.^reset;
+ 
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/gic_marui_t50_sight.augment	shortdescription	Marui T50 Sight	마루이 T50 사이트	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/gic_scope_charm.augment	description	"Small omamori amulet with magical properties. Sharpens the eyesight and calms the nerves.
+
+^#EAC0CE;An empty attachment that provides Scope-type bonuses without changing weapon's appearance.^reset;
+
+^orange;+25% Weapon Proficiency after 0.5s of not running, firing, or being shot.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"마력을 가진 작은 오마모리 부적. 시야를 날카롭게 하고 신경을 가라앉힌다.
+ 
+^#EAC0CE;무기 외형 변경 없이 조준경형 보너스를 주는 빈 부착물.^reset;
+ 
+^orange;0.5초 동안 달리기, 사격, 피격이 없으면 무기 숙련 +25%.^reset;
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/gic_scope_charm.augment	shortdescription	Amulet of Patience	인내의 부적	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/gic_sight_charm.augment	description	"Small omamori amulet with magical properties. Makes the mind and body swift, enhancing reaction while on the move.
+
+^#EAC0CE;An empty attachment that provides Sight-type bonuses without changing weapon's appearance.^reset;
+
+^orange;+10% Weapon Proficiency.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"마력을 가진 작은 오마모리 부적. 몸과 마음을 재빠르게 해 이동 중 반응력을 높인다.
+ 
+^#EAC0CE;무기 외형 변경 없이 사이트형 보너스를 주는 빈 부착물.^reset;
+ 
+^orange;무기 숙련 +10%.^reset;
+ 
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/gic_sight_charm.augment	shortdescription	Amulet of Swiftness	신속의 부적	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/gic_t97_scope.augment	description	"Regular Japanese 2.5x powered sniper scope. Japanese soldiers were good martial artists, but poor marksmen. Whereas other major nations developed their sniping schools during or after WW1, Japanese snipers became a thing in 1937 as a reaction against German-trained Chinese snipers (who often didn't have specialised scopes).
+^orange;+25% Weapon Proficiency after 0.5s of not running, firing, or being shot.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"일반적인 일본제 2.5배 저격 조준경. 일본 병사들은 무술에는 능했지만 사격에는 약했다. 다른 주요국들이 제1차 세계대전 중이나 직후에 저격 교육을 발전시킨 반면, 일본군 저격수는 1937년에야 독일식 훈련을 받은 중국군 저격수(전문 조준경도 없는 경우가 많았다)에 대한 대응으로 등장했다.
+^orange;0.5초 동안 달리기, 사격, 피격이 없으면 무기 숙련 +25%.^reset;
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/gic_t97_scope.augment	shortdescription	Type 97 Scope	97식 조준경	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/gic_yurei_scope.augment	description	"''- Scammed any batteries for thermals off the reservists?
+- Come on, that was a photo of new guy's girlfriend, not of naked Empress!''
+  
+^#C4C4C4;Highlights targets in a 40-degree angle from the gun | 100 Block Range | Cannot see through walls.^reset;
+^orange;+15% Standing Weapon Proficiency.^reset;
+^green;Right-click on a compatible GiC Weapon to attach.^reset;"	"''- 예비역들한테서 열상용 배터리 좀 뜯어냈어?
+- 아 참, 그거 신참 여친 사진이었지, 나체 황녀 사진이 아니라고!''
+  
+^#C4C4C4;총구 기준 40도 각도 안의 대상을 강조 | 100 블록 범위 | 벽 너머는 볼 수 없음.^reset;
+^orange;선자세 무기 숙련 +15%.^reset;
+^green;호환되는 GiC 무기를 우클릭해서 장착.^reset;"	
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/gic_yurei_scope.augment	shortdescription	Yurei Type A Experimental TWS	유레이 A형 실험형 열상 조준경	
+/items/WEAPONS/GRENADES/gic_no69_grenade/gic_no69_grenade.thrownitem	shortdescription	No. 69 Impact Grenade	69호 충격 수류탄	
+/items/WEAPONS/GRENADES/gic_no69_grenade/gic_no69_grenade.thrownitem	description	"A Molotov. The fires this molotov emits last far longer than normal, and can be used to deny access points. Direct hits on enemies afflict ^orange;OIL-COATING.^reset; Flames from these molotovs will afflict standard ^orange;BURNING,^reset; as well as ^orange;IGNITION and PANIC^reset; on any target afflicted with ^orange;OIL-COATING.^reset;
+
+^orange;IGNITION^reset; deals non-scaled but high amounts of FIRE damage on targets, as well as afflicting ^orange;PANIC^reset; in enemy infantry, preventing them from using firearms."	"화염병. 이 화염병이 내뿜는 불길은 보통보다 훨씬 오래 지속되어 진입로를 차단하는 데 쓸 수 있다. 적에게 직격하면 ^orange;기름 칠갑^reset;을 부여한다. 이 불길은 일반 ^orange;화상^reset;에 더해, ^orange;기름 칠갑^reset;이 걸린 대상에게 ^orange;점화와 공황^reset;을 부여한다.
+ 
+^orange;점화^reset;는 대상에게 비배율 고정 고화염 피해를 입히고, 적 보병에게는 화기 사용을 막는 ^orange;공황^reset;을 일으킨다."	
+/items/WEAPONS/GRENADES/gic_tanuki_t94smokecandle/gic_tanuki_t94smokecandle.thrownitem	description	"''Knee mortars, aim 20 meters behind the objective. Later restore your stamina. Team Leaders, throw smoke. Everyone rush, and do not stop until you are dead. Three, two, one, BANZAI!!!''
+^orange;Player Effects: Grants immunity to BALLISTIC DMG, removes SUPPRESSION, +60% DODGE, and cripples ranged weapons. Lasts for 20 seconds after activation.^reset;
+^#FFDD00;Infantry Effects: Causes PANIC for 5s. Affected Infantry will run wildly and hesitate to shoot. Veteran infantry are not affected by PANIC. Does not affect elites/bosses.^reset;"	"''무릎 박격포, 목표 후방 20미터 조준. 그다음 스태미나 회복해. 분대장들, 연막 던져. 전원 돌격, 죽기 전까지 멈추지 마. 셋, 둘, 하나, 반자이!!!''
+^orange;플레이어 효과: 탄도 피해 면역, 제압 해제, 회피 +60%, 원거리 무기 불능화. 발동 후 20초 지속.^reset;
+^#FFDD00;보병 효과: 5초간 공황 유발. 공황에 걸린 보병은 마구 뛰어다니며 사격을 주저. 베테랑 보병은 공황 무효. 정예/보스에는 무효.^reset;"	
+/items/WEAPONS/GRENADES/gic_tanuki_t94smokecandle/gic_tanuki_t94smokecandle.thrownitem	shortdescription	Tanuki T94 Smoke Candle	타누키 T94 연막 양초	
+/items/WEAPONS/RANGED/IJA/DEPRECATED/gic_aichi_t49pdw/gic_aichi_t49pdw.activeitem	description	"Experimental Type 49 configuration in 9x19mm, with a shorter barrel and a foldable stock. There was a plan to arm second echelon troops with basically the same rifle as the frontliners, but shorter and in a less bulky cartridge, easing up on repair logistics. Some drafts were made but IJA rejected the idea, instead looking into compact, Mini Uzi-style SMGs.
+  
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"	"9x19mm탄을 쓰는 실험형 49식 구성으로, 총열이 짧고 접이식 개머리판을 달았다. 제2선 부대에도 최전선과 기본적으로 같은 소총을 주되 더 짧고 덜 큰 탄약으로 정비 부담을 줄이려는 계획이 있었다. 시안 몇 개가 나왔지만 IJA는 이를 거부하고 대신 미니 우지식 소형 기관단총에 눈을 돌렸다.
+  
+^green;""보조 발사""를 길게 눌러 완전 자동과 반자동을 전환한다.^reset;"	
+/items/WEAPONS/RANGED/IJA/DEPRECATED/gic_aichi_t49pdw/gic_aichi_t49pdw.activeitem	shortdescription	Aichi T49 PDW	아이치 T49 PDW	
+/items/WEAPONS/RANGED/IJA/DEPRECATED/gic_horiuchi_t2smg/gic_horiuchi_t2smg.activeitem	description	"''I'm going to kill 100 Yanks. I got me 31 so far. At ten a day, I'll be done in a week!''
+
+Classic M1921 Thompson gun, simplified for mass production. The magazine well was redesigned, and now accepts only custom Horiuchi mags. The IJA was technologically behind the Americans, and there would be no shame in trying to even the odds by using trophy weapons.
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"	"''미국놈 백 명은 죽인다. 지금까지 31명 잡았어. 하루 열 명씩이면 일주일이면 끝나지!''
+ 
+대량 생산을 위해 간소화한 고전 M1921 톰슨 기관단총. 탄창 삽입구를 재설계해 호리우치 전용 탄창만 쓰게 됐다. IJA는 미국보다 기술적으로 뒤처져 있었고, 노획 무기로 격차를 좁히려는 것도 부끄러운 일은 아니었다.
+^green;""보조 발사""를 길게 눌러 완전 자동과 반자동을 전환한다.^reset;"	
+/items/WEAPONS/RANGED/IJA/DEPRECATED/gic_horiuchi_t2smg/gic_horiuchi_t2smg.activeitem	shortdescription	Horiuchi T2 SMG	호리우치 T2 기관단총	
+/items/WEAPONS/RANGED/IJA/DEPRECATED/gic_iwashita_t24carbine/gic_iwashita_t24carbine.activeitem	description	"''High speed, low drag.''
+
+Concerned with advances in body armor and it's availability, Japanese law enforcement agencies started looking into heavier alternatives to SMGs. Initially intended as a paratrooper version of a regular Iwashita T24 Rifle, this carbine modification excels in CQB scenarios with its low profile and high caliber. Downsides are immense recoil and low accuracy. 
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"	"''고속, 저항 최소.''
+ 
+방탄복의 발전과 보급을 우려한 일본 법집행기관은 기관단총보다 무거운 대안을 찾기 시작했다. 원래 일반 이와시타 T24 소총의 낙하산병 버전으로 의도됐던 이 카빈은 낮은 자세와 대구경으로 근접전에서 강하다. 단점은 어마어마한 반동과 낮은 명중률.
+^green;""보조 발사""를 길게 눌러 완전 자동과 반자동을 전환한다.^reset;"	
+/items/WEAPONS/RANGED/IJA/DEPRECATED/gic_iwashita_t24carbine/gic_iwashita_t24carbine.activeitem	shortdescription	Iwashita T24/55 Carbine	이와시타 T24/55 카빈	
+/items/WEAPONS/RANGED/IJA/DEPRECATED/gic_iwashita_tbrifle/gic_iwashita_tbrifle.activeitem	description	"''Wait, isn't it supposed to be shorter?''
+  
+Since existing rifles were too heavy for jungle conditions, IJN briefly experimented with the bullpup configuration. This Iwashita T24 was crudely rebuilt to keep the same length as a regular rifle while having a much longer barrel. Somebody missed the point of bullpup.
+^orange;Proof of Concept: High accuracy but low reliability.^reset;
+^green;Hold down ""Alt Fire"" to switch between Full Auto and Semi-Auto.^reset;"	"''잠깐, 원래 더 짧은 거 아니었어?''
+  
+기존 소총이 정글 조건에 너무 무거웠기에 IJN은 불펍 구성을 잠시 실험했다. 이 이와시타 T24는 조잡하게 개조되어, 일반 소총과 같은 전장을 유지하면서 훨씬 긴 총열을 얻었다. 누군가 불펍의 요점을 잘못 짚었다.
+^orange;개념 증명: 높은 명중률, 낮은 신뢰성.^reset;
+^green;""보조 발사""를 길게 눌러 완전 자동과 반자동을 전환한다.^reset;"	
+/items/WEAPONS/RANGED/IJA/DEPRECATED/gic_iwashita_tbrifle/gic_iwashita_tbrifle.activeitem	shortdescription	Iwashita Type B Experimental	이와시타 B형 실험형	
+/items/WEAPONS/RANGED/IJA/DEPRECATED/gic_tenshi_t2rifle_1h/gic_tenshi_t2rifle_1h.activeitem	description	"Well... Look, as long as all essential moving parts are in place, the gun still works. ''Obrez'' is a weapon that was shortened in length (by cutting barrel and stock) for purpose of concealment. People usually do that with shotguns, but rifle obrez also makes for a powerful tool. It's substantially lighter, but is ^red;much less accurate^reset;, as it has ^red;no barrel.^reset;
+Chambered for ^yellow;7.7x58mm Ammo.^reset;
+
+^orange;Eagle has Landed: Double-tap Shift to assemble the rifle.^reset;"	"음... 봐, 필수 부품만 제자리에 있으면 총은 쏠 수 있어. '오브레즈'는 은닉을 위해 (총열과 개머리판을 잘라) 길이를 줄인 총기다. 보통은 산탄총에 하지만, 소총 오브레즈도 강력한 도구다. 훨씬 가볍지만, ^red;부정확도가 크게 떨어진다^reset; — ^red;총열이 없으니까.^reset;
+^yellow;7.7x58mm 탄약 사용.^reset;
+ 
+^orange;독수리 착륙: Shift를 두 번 눌러 소총 조립.^reset;"	
+/items/WEAPONS/RANGED/IJA/DEPRECATED/gic_tenshi_t2rifle_1h/gic_tenshi_t2rifle_1h.activeitem	shortdescription	Tenshi T2 Rifle (One-Handed)	텐시 T2 소총 (한손)	
+/items/WEAPONS/THROWN/gic_koshka_t97mine/gic_koshka_t97mine.thrownitem	shortdescription	Koshka T97 Mine	코시카 T97 지뢰	
+/items/WEAPONS/THROWN/gic_koshka_t97mine/gic_koshka_t97mine.thrownitem	description	"Modified Koshka grenade with pyrotechnical delay removed. Thanks to T97's unorthodox design, it can be used as a booby trap without any wires or extra fuses: just plant it into ground, remove the safety cap, and let hostiles trigger the primer with their feet. 5 seconds to activate, 5 minute auto-trigger timer.
+  
+^red;Indiscriminate.^reset;
+
+^orange;Usable with IJA grenade-launching devices.^reset;"	"화염 지연 장치를 제거한 개조 코시카 수류탄. T97의 독특한 설계 덕에 전선이나 여분의 신관 없이도 부비트랩으로 쓸 수 있다: 땅에 꽂고 안전 캡을 빼면, 적이 발로 발파 장치를 건드리게 된다. 활성화까지 5초, 자동 발동 타이머 5분.
+  
+^red;무차별.^reset;
+ 
+^orange;IJA 수류탄 발사 장치와 사용 가능.^reset;"	
+/items/WEAPONS/THROWN/gic_rsr_binding_talisman/gic_rsr_binding_talisman.thrownitem	shortdescription	Shidekumo Paper Trap	시데쿠모 종이 함정	
+/items/WEAPONS/THROWN/gic_rsr_binding_talisman/gic_rsr_binding_talisman.thrownitem	description	"''This will hold them back for a while, hahahaha!''
+
+A child of Gensokyo Shrine Maiden traditions and Cold War tactics, 'Paper Streamers Spider' is one of many variations of throwable talismans used by Miko-hei. When attached to surface, it shoots up phantom shide (paper streamers), ^#EAC0CE;STAGGERING enemies for 3s^reset; and giving Shrine Maidens time to attack or retreat. It flies almost straight, and arms as soon as it touches any surface."	"''이걸로 잠깐은 버텨주겠지, 하하하하!''
+ 
+환상향 무녀 전통과 냉전 전술의 산물인 '종이 수수깡 거미'는 미코헤이가 쓰는 투척 부적의 수많은 변형 중 하나다. 지표면에 붙으면 환영의 시데(종이 수수깡)를 뿜어내 적을 3초간 ^#EAC0CE;비틀거리게 하고^reset;, 무녀에게 공격이나 후퇴할 시간을 준다. 거의 직선으로 날며 표면에 닿는 즉시 기동한다."	
+/items/WEAPONS/THROWN/gic_rsr_persuasionneedles/gic_rsr_persuasionneedles.thrownitem	shortdescription	^#EAC0CE;Persuasion Needles^reset;	^#EAC0CE;설득의 바늘^reset;	
+/items/WEAPONS/THROWN/gic_rsr_persuasionneedles/gic_rsr_persuasionneedles.thrownitem	description	"''Who's in charge, me or the Devil?''
+  
+Unnaturally long, sanctified needles of uncertain, but likely ritualistic purpose. Shrine Maidens of Gensokyo used them as throwable weapons against both youkai and ill-meaning humans. Miko-hei tried to replicate needle-throwing techniques for own self-defence, but they couldn't infuse them with enough divine power to outright perforate foes.
+^#EAC0CE;Throws 3 enchanted needles. Low base DMG, +40 PSYCHIC DMG.^reset;"	"''사령관은 나야, 악마야?''
+  
+비정상적으로 길고 성별된, 용도는 불명이지만 의례적인 듯한 바늘. 환상향의 무녀들은 요괴와 악의를 품은 인간 양쪽을 상대로 투척 무기로 썼다. 미코헤이도 자위용으로 바늘 던지기 기술을 재현하려 했지만, 적을 곧장 꿰뚫을 만큼 신력을 불어넣지는 못했다.
+^#EAC0CE;마력 깃든 바늘 3개 투척. 낮은 기본 피해, 사이킥 피해 +40.^reset;"	
+/items/armors/GiC Chinese Uniforms/nra_militia/gic_nra_militia.back	description	"Despite common perception, swords were rarely used by the NRA, usually only as an auxiliary melee, or last resort weapon. Easy to forge, swords were used by militia and police units who weren't expected to fight on the frontline, often didn't have firearms, and for whom swords and spears were enough to uphold order. Dadao also was a weapon of terror (and warcrimes), frequently used to decapitate captured bandits and traitors.
+
+^green;+10% Movement Speed.^reset;"	"일반적인 인식과 달리, 국민혁명군에서 검은 드물게 쓰였고 보조 근접무기나 최후의 수단일 뿐이었다. 만들기 쉬운 검은 전선에서 싸울 일이 없는 민병과 경찰 부대가 썼는데, 이들은 화기가 없는 경우가 많았고 검과 창만으로도 치안 유지에는 충분했다. 다다오는 또한 공포의 무기(그리고 전쟁범죄의 도구)로, 붙잡힌 산적과 역적의 참수에 자주 쓰였다.
+ 
+^green;이동 속도 +10%.^reset;"	
+/items/armors/GiC Chinese Uniforms/nra_militia/gic_nra_militia.back	shortdescription	Chinese Militia Dadao Sheath	중국 민병 다다오 칼집	
+/items/armors/GiC Chinese Uniforms/nra_militia/gic_nra_militia.chest	description	"NRA uniform with C96 leather holster and a pouch-belt, fit for carrying C96 stripper-clips. Mauser was such a popular gun that some soldiers were armed with just these pistols, usually as a sort of assault units or cavalry.
+  
+^green;+10% Movement Speed.^reset;"	"C96 가죽 홀스터와 클립용 파우치 벨트를 갖춘 NRA 제복. 마우저는 인기가 너무 좋아서 일부 병사는 이 권총만으로 무장했는데, 주로 돌격 부대나 기병이 그랬다.
+  
+^green;이동 속도 +10%.^reset;"	
+/items/armors/GiC Chinese Uniforms/nra_militia/gic_nra_militia.chest	shortdescription	Chinese Militia Tunic	중국 민병 튜닉	
+/items/armors/GiC Chinese Uniforms/nra_militia/gic_nra_militia.head	description	"''Keep men, lose land; land can be taken again. Keep land, lose men; land and men both lost.''
+Historical photos sometimes show Chinese soldiers wearing Brodie Helmets with Kuomintang insignia. How they ended up there is hard to tell - most likely that China (either the Central Government or the local warlords) purchased old helmets from the British before the war. 
+^#DBC5A6;DEF: +5% SMALL-ARMS | +5% SLASH | +5% THRUST.^reset;
+^#96CBE7;+3HP/s when under 35% HP.^reset;"	"''땅을 잃어도 사람을 지켜라, 땅은 다시 가져온다. 땅을 지켜 사람을 잃으면, 땅도 사람도 다 잃는다.''
+옛 사진에는 국민당 휘장이 박힌 브로디 철모를 쓴 중국 병사들이 보인다. 어떻게 거기까지 갔는지는 알기 어렵지만 — 아마 중국(중앙정부이든 지방 군벌이든)이 전쟁 전에 영국에서 구식 철모를 사들였을 것이다.
+^#DBC5A6;방어: 소화기 +5% | 참격 +5% | 찌르기 +5%.^reset;
+^#96CBE7;체력 35% 미만일 때 초당 체력 +3.^reset;"	
+/items/armors/GiC Chinese Uniforms/nra_militia/gic_nra_militia.head	shortdescription	Chinese NRA Brodie Helmet	중국 NRA 브로디 철모	
+/items/armors/GiC Chinese Uniforms/nra_militia/gic_nra_militia.legs	description	"Military regulations don't always make sense in the face of wartime shortages, and it lead to some really weird uniform combinations, like puttees being combined with sandals. Defeating the purpose of puttees. Which are also being worn with shorts. Have you ever tried wearing rough wool on your bare skin? It's a misery. But that's assuming you get any footwear at all. 
+  
+^green;+10% Movement Speed.^reset;"	"전시 물자 부족 앞에서는 군 규정도 말이 안 되는 경우가 있어서, 정말 이상한 제복 조합이 나왔다 — 게이터를 샌들과 신는 식으로. 게이터 본래 목적을 무색하게 만드는. 그것도 반바지에 차는 게이터를. 거친 양모를 맨살에 차본 적 있나? 지옥이지. 그나마 신발이라도 있다면 말이야.
+  
+^green;이동 속도 +10%.^reset;"	
+/items/armors/GiC Chinese Uniforms/nra_militia/gic_nra_militia.legs	shortdescription	Chinese Militia Shorts	중국 민병 반바지	
+/items/armors/GiC Chinese Uniforms/nra_stahlhelm/gic_nra_stahlhelm.head	description	"M35 helmet with a Kuomintang insignia. Hans von Seeckt, Chiang Kai-Shek's military advisor, proposed an ''80 Division Plan'' for reforming the entire Chinese army into 80 divisions of highly trained, well-equipped troops organised along German lines. The plan was never fully realised, and as the Second Sino-Japanese War kicked off, only about 20 divisions were somewhat ready. After years of fighting, all that German equipment and training disappeared.
+^#DBC5A6;DEF: +5% SMALL-ARMS | +5% SLASH | +5% THRUST.^reset;"	"국민당 휘장이 박힌 M35 철모. 장제스의 군사 고문 한스 폰 젝트는 전 중국군을 독일식으로 훈련되고 무장된 80개 사단으로 개편하는 '80개 사단 계획'을 제안했다. 계획은 끝내 완전히 실현되지 못했고, 제2차 중일전쟁이 터졌을 때 채비가 된 건 20개 사단 정도뿐이었다. 수년의 전투 끝에 독일제 장비와 훈련은 모두 사라졌다.
+^#DBC5A6;방어: 소화기 +5% | 참격 +5% | 찌르기 +5%.^reset;"	
+/items/armors/GiC Chinese Uniforms/nra_stahlhelm/gic_nra_stahlhelm.head	shortdescription	Chinese NRA M35 Stahlhelm	중국 NRA M35 슈탈헬름	
+/items/armors/GiC Chinese Uniforms/nra_summer/gic_nra_summer.back	description	"Regular WW2-era Chinese army backpack, very reminicent of Japanese Type 45 backpacks.
+  
+^#CCD8B6;+25HP.^reset;"	"일본 45식 배낭을 아주 많이 닮은, 제2차 세계대전 시절의 보통 중국군 배낭.
+  
+^#CCD8B6;체력 +25.^reset;"	
+/items/armors/GiC Chinese Uniforms/nra_summer/gic_nra_summer.back	shortdescription	Chinese NRA Backpack	중국 NRA 배낭	
+/items/armors/GiC Chinese Uniforms/nra_summer/gic_nra_summer.chest	description	"A cotton summer tunic worn by Chinese soldiers, with a gas can on the side and cloth bandoliers. Essentially a redesigned Zhongshan suit. Leather was a deficit resource, and if German-type ammo pouches weren't available, soldiers would be issued with 2 to 3 ammo bandoliers made of cloth, with pockets for clips.
+  
+^green;+10% Movement Speed.^reset;"	"중국 병사가 입던 옆에 기름통을 단 면제 여름 튜닉과 천 탄띠. 사실상 중산복을 개조한 것이다. 가죽은 귀한 자원이었고, 독일식 탄약 주머니가 없으면 병사에게 클립용 주머니가 달린 천 탄띠 2~3개가 지급됐다.
+  
+^green;이동 속도 +10%.^reset;"	
+/items/armors/GiC Chinese Uniforms/nra_summer/gic_nra_summer.chest	shortdescription	Chinese NRA Summer Tunic	중국 NRA 여름 튜닉	
+/items/armors/GiC Chinese Uniforms/nra_summer/gic_nra_summer.head	description	"Standard Chinese field cap with a Kuomintang insignia. National Revolutionary Army was initially a military arm of the Chinese Nationalist Party, or the Kuomintang. Existing from 1924 to 1947, NRA was a very large (at ~14 million men) and a very divided force, as at times it consisted of Chiang Kai-Shek's loyal troops, warlord armies, various militias and even Chinese Communist Party's armed forces (albeit only nominally). 
+
+^green;+10% Movement Speed.^reset;"	"국민당 휘장이 박힌 표준 중국군 야전모. 국민혁명군(NRA)은 원래 중국 국민당의 군사 조직이었다. 1924년부터 1947년까지 존속한 NRA는 (약 1,400만 명의) 매우 크고도 매우 분열된 군대로, 때로는 장제스의 직속 부대, 군벌군, 각종 민병대, 심지어 공산당의 무장 세력까지(명목상이지만) 포함했다.
+ 
+^green;이동 속도 +10%.^reset;"	
+/items/armors/GiC Chinese Uniforms/nra_summer/gic_nra_summer.head	shortdescription	Chinese NRA Summer Field Cap	중국 NRA 여름 야전모	
+/items/armors/GiC Chinese Uniforms/nra_summer/gic_nra_summer.legs	description	"Chinese army pants with puttees and rubber shoes. Hobnailed leather shoes, which were the standard for WW2-era armies, are actually expensive to produce en-mass. Combatants would often wear ersatz-footwear, like shoes made of rubber, cloth, or even traditional sandals. 
+  
+^green;+10% Movement Speed.^reset;"	"게이터와 고무신을 신은 중국군 바지. 제2차 세계대전 시대 각국군의 표준이었던 못 박힌 가죽 장화는 사실 대량 생산에 돈이 든다. 전투원들은 고무, 천, 심지어 전통 샌들 같은 대용품 신발을 신곤 했다.
+  
+^green;이동 속도 +10%.^reset;"	
+/items/armors/GiC Chinese Uniforms/nra_summer/gic_nra_summer.legs	shortdescription	Chinese NRA Summer Pants	중국 NRA 여름 바지	
+/items/armors/GiC Commonwealth/gic_royalmarine_beret/gic_royalmarine_beret.head	description	"Initially, those who joined the British Commandos kept their parent regimental headdress and cap badges. In 1941, No. 1 Commando had no fewer than 79 different cap badges and many different forms of headdress.
+
+^#DBC5A6;DEF: +15% DODGE | ^#FFCE6D;Commando [HEAD]: +10% Submachine Gun Proficiency | -20% projectile spread for Submachine Guns.^reset;
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"처음에는 영국 코만도에 입대한 자들도 원래 연대의 모자와 휘장을 그대로 썼다. 1941년 제1 코만도에는 79개나 되는 서로 다른 휘장과 다양한 형태의 모자가 있었다.
+ 
+^#DBC5A6;방어: 회피 +15% | ^#FFCE6D;코만도 [HEAD]: 기관단총 숙련 +10% | 기관단총 발사체 분산 -20%.^reset;
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC Commonwealth/gic_royalmarine_beret/gic_royalmarine_beret.head	shortdescription	Royal Marine Commando Beret	로열 마린 코만도 베레모	
+/items/armors/GiC IJA Uniforms/Hachimakis/hachimaki/gic_hachimaki.head	description	"''Ganbatte!!!''
+Headband made of white cloth, with a red circle in the centre and kanji by the sides. Originating as part of samurai gear to absorb one's sweat, these headbands were worn as a symbol of wearer's effort or courage. Hachimaki may even give you an illusion of immortality, but don't mistake stupidity for bravery.
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B0313F;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;"	"''감밧테!!!''
+흰 천으로 만든 머리띠. 가운데 붉은 원을 그리고 양옆에 한자를 적어 넣었다. 원래 사무라이가 땀을 흡수하기 위해 착용하던 데서 유래했으며, 이후 착용자의 노력이나 용기의 상징이 되었다. 하치마키가 불사의 착각을 줄 수는 있어도, 어리석음을 용기로 착각해선 안 된다.
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B0313F;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;"	
+/items/armors/GiC IJA Uniforms/Hachimakis/hachimaki/gic_hachimaki.head	shortdescription	Hachimaki Headband	하치마키 머리띠	
+/items/armors/GiC IJA Uniforms/Hachimakis/hachimaki_amanojaku/gic_hachimaki_amanojaku.head	description	"''When betrayal is the norm, loyalty is rebellion.''
+
+^#EA3C0B;Flagellant [HEAD]: When taking 50HP+ damage: Heals 50HP over 5s^reset; | ^yellow;10s cooldown^reset; | ^#87B31B;DoT DMG right after a hit (i.e Bleeding) will continue to proc recovery until healed.
+
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B0313F;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;"	"''배신이 일상이 될 때, 충성이 곧 반역이다.''
+ 
+^#EA3C0B;자해광 [HEAD]: 50 이상의 체력 피해를 입으면 5초에 걸쳐 체력 50 회복^reset; | ^yellow;재사용 대기시간 10초^reset; | ^#87B31B;피격 직후 지속 피해(즉 출혈)는 회복될 때까지 계속 재생 발동.
+ 
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B0313F;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;"	
+/items/armors/GiC IJA Uniforms/Hachimakis/hachimaki_amanojaku/gic_hachimaki_amanojaku.head	shortdescription	Amanojaku's Hachimaki	아마노자쿠의 하치마키	
+/items/armors/GiC IJA Uniforms/Hachimakis/hinomaru_hachimaki/gic_hinomaru_hachimaki.head	description	"''The legendary Number One headband.
+It's promise is power, omnipotence, immortality. 
+But at what cost?
+One that is greater than any man can imagine, and heavier than any man can bear.
+No soul who has ever wore it's tattered grace has ever escaped the torment of it's infinite burden.''
+^yellow;Does not stack with the Red Sun Artifact.^reset; | ^green;+400 HP^reset;
+^red;-10% Speed^reset; | ^red;-50% Jump Height^reset; | ^red;x10 Fall Damage^reset;"	"''전설의 넘버 원 머리띠.
+그 약속은 힘, 전능, 불사.
+하지만 그 대가는?
+어떤 인간도 상상할 수 없을 만큼 크고, 짊어질 수 없을 만큼 무겁다.
+그 찢어진 은총을 쓴 영혼은 누구도 그 무한한 짐의 고통에서 벗어나지 못했다.''
+^yellow;붉은 태양 아티팩트와 중첩되지 않음.^reset; | ^green;체력 +400^reset;
+^red;속도 -10%^reset; | ^red;점프 높이 -50%^reset; | ^red;낙하 피해 10배^reset;"	
+/items/armors/GiC IJA Uniforms/Hachimakis/hinomaru_hachimaki/gic_hinomaru_hachimaki.head	shortdescription	Hinomaru Hachimaki Headband	히노마루 하치마키 머리띠	
+/items/armors/GiC IJA Uniforms/Hachimakis/type98hachimaki/gic_type98hachimaki.head	description	"Sen-bou field cap with Hachimaki headband wrapped on top. Although wearing a sweat-absorbing headband on top of a hat is counter-intuitive to it's original purpose, it's the intent that matters. Let everyone know that for you no bridge is too far.
+  
+^green;+10% Movement Speed.^reset;
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B0313F;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;"	"위에 하치마키 머리띠를 두른 센보 야전모. 땀 흡수용 머리띠를 모자 위에 두르는 건 원래 용도와 어긋나지만, 중요한 건 각오니까. 네게 불가능한 다리는 없다는 걸 모두에게 보여줘라.
+  
+^green;이동 속도 +10%.^reset;
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B0313F;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;"	
+/items/armors/GiC IJA Uniforms/Hachimakis/type98hachimaki/gic_type98hachimaki.head	shortdescription	Type 98 Field Cap w/ Hachimaki	98식 야전모 w/ 하치마키	
+/items/armors/GiC IJA Uniforms/Hachimakis/type98tropical_hachimaki/gic_type98thachimaki.head	description	"Sen-bou field cap with Hachimaki headband wrapped on top. Although wearing a sweat-absorbing headband on top of a hat is counter-intuitive to it's original purpose, it's the intent that matters. Let everyone know that for you no bridge is too far.
+  
+^green;+10% Movement Speed.^reset;
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B0313F;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;"	"위에 하치마키 머리띠를 두른 센보 야전모. 땀 흡수용 머리띠를 모자 위에 두르는 건 원래 용도와 어긋나지만, 중요한 건 각오니까. 네게 불가능한 다리는 없다는 걸 모두에게 보여줘라.
+  
+^green;이동 속도 +10%.^reset;
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B0313F;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;"	
+/items/armors/GiC IJA Uniforms/Hachimakis/type98tropical_hachimaki/gic_type98thachimaki.head	shortdescription	Type 98 Field Cap w/ Hachimaki, Flaps	98식 야전모 w/ 하치마키, 햇빛가리개	
+/items/armors/GiC IJA Uniforms/Helmets/Hachimaki helmets/type92hachimaki/gic_type92hachimaki.head	description	"Type 92 Helmet with Hachimaki headband tied on top. By the late-war, suicidal fanaticism of the Japanese soldiers was the only advantage Japan held over Allies and their tanks and sheer firepower.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B0313F;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;
+^#FFCE6D;Grazing Shot Luck: The next bullet deals -70% DMG | 25s cooldown^reset;"	"위에 하치마키 머리띠를 묶은 92식 철모. 종전기가 되면, 일본이 연합군과 그들의 전차와 막대한 화력에 맞서 가진 유일한 우위는 일본 병사들의 자살적 광신뿐이었다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B0313F;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;
+^#FFCE6D;스침탄 행운: 다음 탄환 피해 -70% | 재사용 대기시간 25초^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/Hachimaki helmets/type92hachimaki/gic_type92hachimaki.head	shortdescription	Type 92 Helmet w/ Hachimaki	92식 철모 w/ 하치마키	
+/items/armors/GiC IJA Uniforms/Helmets/Hachimaki helmets/type92hachimakicover/gic_type92hachimakicover.head	description	"Type 92 Helmet with cloth cover and a Hachimaki headband tied on top. Suicide units were not uncommon for 20th century Asia. Besides Japanese ''Special Attack Units'', there were KMT's ''Dare to Die Corps'' and Indonesian ''Jibakutai''. 
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B0313F;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;
+^#96CBE7;+3HP/s when under 35% HP.^reset;"	"천 커버를 씌우고 위에 하치마키 머리띠를 묶은 92식 철모. 자결 부대는 20세기 아시아에서 드물지 않았다. 일본의 '특공대' 외에도 국민당의 '결사대'와 인도네시아의 '지바쿠타이'가 있었다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B0313F;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;
+^#96CBE7;체력 35% 미만일 때 초당 체력 +3.^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/Hachimaki helmets/type92hachimakicover/gic_type92hachimakicover.head	shortdescription	Type 92 Helmet w/ Hachimaki, Cover	92식 철모 w/ 하치마키, 커버	
+/items/armors/GiC IJA Uniforms/Helmets/Hachimaki helmets/type92tropicalhachimaki/gic_type92tropicalhachimaki.head	description	"Type 92 Helmet with Sen-bou flaps and a Hachimaki headband tied on top. When defeat was certain, IJA commanders would order a unit-wide, all-out banzai charge, themselves leading the charge. Few would survive, most of them being foreign labourers.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B0313F;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;
+^#FFCE6D;Grazing Shot Luck: The next bullet deals -70% DMG | 25s cooldown^reset;"	"센보 햇빛가리개를 달고 위에 하치마키 머리띠를 묶은 92식 철모. 패배가 확실해지면 IJA 지휘관은 부대 전원의 총반자이 돌격을 명령했고, 스스로 돌격 선두에 섰다. 살아남은 자는 거의 없었고, 그마저 대부분 외국인 노동자였다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B0313F;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;
+^#FFCE6D;스침탄 행운: 다음 탄환 피해 -70% | 재사용 대기시간 25초^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/Hachimaki helmets/type92tropicalhachimaki/gic_type92tropicalhachimaki.head	shortdescription	Type 92 Helmet w/ Hachimaki, Flaps	92식 철모 w/ 하치마키, 햇빛가리개	
+/items/armors/GiC IJA Uniforms/Helmets/Hachimaki helmets/type92tropicalhachimakicover/gic_type92tropicalhachimakicover.head	description	"Type 92 Helmet with cloth cover, Sen-bou flaps and a Hachimaki headband tied on top. Japan was an extremely hierarchical society, and IJA's indoctrination allowed soldiers to go far above and beyond what Western militaries would consider normal.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B0313F;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;
+^#96CBE7;+3HP/s when under 35% HP.^reset;"	"천 커버와 센보 햇빛가리개를 달고 위에 하치마키 머리띠를 묶은 92식 철모. 일본은 극도로 위계적인 사회였고, IJA의 세뇌 교육은 병사들이 서구 군대 기준으로는 상상도 못 할 행동까지 나아가게 했다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B0313F;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;
+^#96CBE7;체력 35% 미만일 때 초당 체력 +3.^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/Hachimaki helmets/type92tropicalhachimakicover/gic_type92tropicalhachimakicover.head	shortdescription	Type 92 Helmet w/ Hachimaki, Cover, Flaps	92식 철모 w/ 하치마키, 커버, 햇빛가리개	
+/items/armors/GiC IJA Uniforms/Helmets/ija_pithhelmet/gic_ija_pithhelmet.head	description	"IJA standard-issue sun helmet, made out of bamboo, felt, pandanus, or similar materials. Modeled after Type 90 steel helmet, Type 98 was intended to be worn alone or also over steel helmet. By itself it provides no ballistic protection whatsoever.
+  
+^#DBC5A6;+30% THERMAL.^reset;"	"대나무, 펠트, 판다누스 등의 재료로 만든 IJA 표준 지급 태양 헬멧. 90식 강철 철모를 본뜬 98식은 단독으로 쓰거나 철모 위에 겹쳐 쓸 수 있었다. 단독으로는 탄도 방호력이 전혀 없다.
+  
+^#DBC5A6;열 +30%.^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/ija_pithhelmet/gic_ija_pithhelmet.head	shortdescription	Type 98 Sun Helmet	98식 태양 헬멧	
+/items/armors/GiC IJA Uniforms/Helmets/type19/gic_type19.head	description	"''Don't follow me, I'm lost.''
+
+Introduced in 1959, the Type 19 helmet was a further modification of a Type 92, featuring a simplified strap system and a standard-issued cover with a rubber band for strapping foliage. Conscripts often strapped anything other than foliage instead.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset; | ^#FFCE6D;Return Fire! [HEAD]: +30% DODGE and -50% projectile spread for 0.5s when firing a weapon."	"''날 따라오지 마, 나도 길을 잃었어.''
+ 
+1959년에 도입된 19식 철모는 92식의 추가 개수형으로, 스트랩 구조를 간소화하고 위장용 풀을 끼우는 고무밴드가 달린 표준 커버를 지급했다. 징집병들은 풀 대신 온갖 걸 끼워넣곤 했다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset; | ^#FFCE6D;응사! [HEAD]: 무기를 발사하면 0.5초간 회피 +30%, 발사체 분산 -50%."	
+/items/armors/GiC IJA Uniforms/Helmets/type19/gic_type19.head	shortdescription	Type 19 Helmet	19식 철모	
+/items/armors/GiC IJA Uniforms/Helmets/type19tropical/gic_type19tropical.head	description	"''Men, money, and materials cannot by themselves bring victory or freedom. We must have the motive - power that will inspire us to brave deeds and heroic exploits.''
+- Subhas Chandra Bose
+
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset; | ^#FFCE6D;Return Fire! [HEAD]: +30% DODGE and -50% projectile spread for 0.5s when firing a weapon."	"''사람과 돈과 물자만으로는 승리도 자유도 가져올 수 없다. 우리에게는 용감한 행동과 영웅적 위업을 불러일으킬 동력이 필요하다.''
+- 수바스 찬드라 보스
+ 
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset; | ^#FFCE6D;응사! [HEAD]: 무기를 발사하면 0.5초간 회피 +30%, 발사체 분산 -50%."	
+/items/armors/GiC IJA Uniforms/Helmets/type19tropical/gic_type19tropical.head	shortdescription	Type 19 Helmet w/ Flaps	19식 철모 w/ 햇빛가리개	
+/items/armors/GiC IJA Uniforms/Helmets/type25/gic_type25.head	description	"''I was looking for a job, and then I found a job
+And heaven knows I'm miserable now.''
+
+Introduced in 1965, this modification of Type 92 Helmet features a cover with a pattern that would later become the Type 26 Camouflage Pattern.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset; | ^#FFCE6D;Return Fire! [HEAD]: +30% DODGE and -50% projectile spread for 0.5s when firing a weapon."	"''일자리를 찾다가 정작 일을 얻었더니
+하늘도 알지, 나는 지금 비참하다고.''
+ 
+1965년에 도입된 이 92식 철모 개수형은 훗날 26식 위장 패턴이 되는 무늬의 커버를 쓴다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset; | ^#FFCE6D;응사! [HEAD]: 무기를 발사하면 0.5초간 회피 +30%, 발사체 분산 -50%."	
+/items/armors/GiC IJA Uniforms/Helmets/type25/gic_type25.head	shortdescription	Type 25 Helmet	25식 철모	
+/items/armors/GiC IJA Uniforms/Helmets/type92/gic_type92.head	description	"Introduced in 1932, it's also known as ''Tetsukabuto'', or ''Steel Helmet'' in Japanese. Has no special properties compared to other corrugated steel helmets of that period besides a complicated cloth strap system that calls back to ''Kabuto'' helmets of the Sengoku and Edo periods.  
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^#FFCE6D;Grazing Shot Luck: The next bullet deals -70% DMG | 25s cooldown^reset;"	"1932년 도입된 이 철모는 일본어로 '테츠카부토', 즉 '철모'라 불린다. 당대 다른 주름형 강철 철모 대비 특별한 점은 없지만, 센고쿠와 에도 시대의 '가부토'를 연상시키는 복잡한 천 스트랩 체계가 있다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^#FFCE6D;스침탄 행운: 다음 탄환 피해 -70% | 재사용 대기시간 25초^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/type92/gic_type92.head	shortdescription	Type 92 Helmet	92식 철모	
+/items/armors/GiC IJA Uniforms/Helmets/type92camo/gic_type92camo.head	description	"''You worthless animals! You're all going to hell, y'hear me?''
+Type 92 helmet with camo net and foliage. First Pacific skirmishes shocked Americans, as Japanese were willing to literally kill themselves rather than give up. They would break all rules, play dead, wounded, or fake surrender before pulling out a live grenade and taking everyone with them. Perfidy kills mercy.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^orange;Ambush Tactics [HEAD] - Grants +10% DODGE. Taking damage transfers the boost to +15% [EWS] HIT CHANCE, ACCURACY and SPEED.^reset;"	"''이 쓸모없는 짐승놈들! 다들 지옥이나 가라고, 알겠어?''
+위장망과 풀잎을 얹은 92식 철모. 태평양 초기 접전에서 미군은 충격을 받았다 — 일본인들은 항복하느니 문자 그대로 자결을 택했으니까. 규칙도 무시하고, 죽은 척, 다친 척, 항복하는 척하다가 살아있는 수류탄을 뽑아 모두를 데려갔다. 배신은 자비를 죽인다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^orange;매복 전술 [HEAD] - 회피 +10%. 피해를 받으면 버프가 [EWS] 적중 확률, 명중률, 속도 +15%로 전환.^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/type92camo/gic_type92camo.head	shortdescription	Type 92 Helmet Camouflaged	92식 철모 위장형	
+/items/armors/GiC IJA Uniforms/Helmets/type92camo_alt/gic_type92camo_alt.head	description	"''Why the fuck are you wearing a bird's nest on your head?''
+
+One important rule to using foliage as an element of your camouflage is to not overdo it. While it's a good idea to break up your silhouette to avoid detection, don't stick an entire bush into your helmet net. It looks dumb, and it makes you easier to spot when you move your head.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^green;+10% DODGE Chance.^reset;"	"''머리에 대체 왜 새둥지를 쓰고 다니는 거야?''
+ 
+위장용으로 풀을 쓸 때 중요한 규칙 하나는 과용하지 말라는 것이다. 발견을 피하려고 실루엣을 깨는 건 좋지만, 철모 망에 통째로 덤불을 꽂지는 마라. 멍청해 보이고, 머리를 움직일 때 더 눈에 띈다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^green;회피 확률 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/type92camo_alt/gic_type92camo_alt.head	shortdescription	Type 92 Helmet Camouflaged (Bushy)	92식 철모 위장형 (풀숲)	
+/items/armors/GiC IJA Uniforms/Helmets/type92camo_gasmask/gic_type92camo_gasmask.head	description	"''Goes hard.''
+  
+Combination of camouflage and gasmasks is something more often seen during military exercises rather than in real combat. Most would agree this looks cool anyway.
+  
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^green;+5% DODGE Chance.^reset;
+^#799E4B;Prevents certain [GIC] environmental hazards.^reset;"	"''간지 난다.''
+  
+위장과 방독면의 조합은 실전보다 훈련에서 더 자주 보이는 것이다. 어쨌든 멋있어 보인다는 데는 다들 동의할 거다.
+  
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^green;회피 확률 +5%.^reset;
+^#799E4B;특정 [GIC] 환경 위험 방지.^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/type92camo_gasmask/gic_type92camo_gasmask.head	shortdescription	Type 92 Helmet Camouflaged w/ Gasmask	92식 철모 위장형 w/ 방독면	
+/items/armors/GiC IJA Uniforms/Helmets/type92camo_gasmask_alt/gic_type92camo_gasmask.head	description	"''Goes hard.''
+  
+Combination of camouflage and gasmasks is something more often seen during military exercises rather than in real combat. Most would agree this looks cool anyway.
+  
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^green;+5% DODGE Chance.^reset;
+^#799E4B;Prevents certain [GIC] environmental hazards.^reset;"	"''간지 난다.''
+  
+위장과 방독면의 조합은 실전보다 훈련에서 더 자주 보이는 것이다. 어쨌든 멋있어 보인다는 데는 다들 동의할 거다.
+  
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^green;회피 확률 +5%.^reset;
+^#799E4B;특정 [GIC] 환경 위험 방지.^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/type92camo_gasmask_alt/gic_type92camo_gasmask.head	shortdescription	Type 92 Helmet Camouflaged w/ Gasmask (Bushy)	92식 철모 위장형 w/ 방독면 (풀숲)	
+/items/armors/GiC IJA Uniforms/Helmets/type92cover/gic_type92cover.head	description	"Type 92 Tetsukabuto with a standard-issue cloth cover. IJA was a professional and highly motivated armed force, infamous for it's fanatisism. It's personnel was heavily indoctrinated to be unquestionably loyal to Japan and the Emperor. They believed in Japan's cultural superiority and higher purpose of ruling over Asia, and seeing that as a justification, they commited some of the most horrific crimes against humanity in history.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^#96CBE7;+3HP/s when under 35% HP.^reset;"	"표준 지급 천 커버를 씌운 92식 테츠카부토. IJA는 그 광신으로 악명 높은 전문적이고 결사적인 군사력이었다. 장병들은 일본과 황제에 대해 무조건 충성하도록 세뇌됐다. 그들은 일본의 문화적 우월성과 아시아를 통치할 더 높은 목적을 믿었고, 그것을 명분으로 역사상 가장 끔찍한 반인도적 범죄를 저질렀다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^#96CBE7;체력 35% 미만일 때 초당 체력 +3.^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/type92cover/gic_type92cover.head	shortdescription	Type 92 Helmet w/ Cover	92식 철모 w/ 커버	
+/items/armors/GiC IJA Uniforms/Helmets/type92gasmask/gic_type92gasmask.head	description	"Introduced in 1932, it's also known as ''Tetsukabuto'', or ''Steel Helmet'' in Japanese. Combined with Type 95 Gas Mask. IJA used poisonous gases on numerous occasions in China, as Japanese were often outnumbered and fought against the enemy who couldn't retaliate in kind. When it came to fighting Americans, Japanese preferred not to use poison on the enemy who had enough industrial capacity to drown Japan in mustard gas.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^#799E4B;Prevents certain [GIC] environmental hazards.^reset;"	"1932년 도입된 이 철모는 일본어로 '테츠카부토', 즉 '철모'라 불린다. 95식 방독면과 결합됨. IJA는 중국에서 여러 차례 독가스를 사용했다 — 일본군은 수적으로 열세인 경우가 많았고 같은 수단으로 보복할 수 없는 적을 상대했기 때문이다. 미군과 싸울 때는, 일본을 겨자가스로 잠기게 할 산업력을 가진 적에게 독을 쓰지 않는 쪽을 택했다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^#799E4B;특정 [GIC] 환경 위험 방지.^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/type92gasmask/gic_type92gasmask.head	shortdescription	Type 92 Helmet w/ Gasmask	92식 철모 w/ 방독면	
+/items/armors/GiC IJA Uniforms/Helmets/type92tropical/gic_type92tropical.head	description	"Type 92 ''Tetsukabuto'' Helmet combined with Sen-Bou field cap with flaps that provide neck protection from sunrays. Early-war success of the Japanese offensives in 1941 against Allies is often attributed to surprise element and general remoteness of contested territories from metropolies.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^#FFCE6D;Grazing Shot Luck: The next bullet deals -70% DMG | 25s cooldown^reset;"	"92식 '테츠카부토' 철모와, 햇빛으로부터 목을 보호하는 햇빛가리개가 달린 센보 야전모의 결합형. 1941년 연합군에 대한 일본군 공세의 초전 승리는 기습 요소와, 분쟁 지역이 각국 수도권에서 멀리 떨어져 있던 덕분이 크다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^#FFCE6D;스침탄 행운: 다음 탄환 피해 -70% | 재사용 대기시간 25초^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/type92tropical/gic_type92tropical.head	shortdescription	Type 92 Helmet w/ Flaps	92식 철모 w/ 햇빛가리개	
+/items/armors/GiC IJA Uniforms/Helmets/type92tropicalcamo/gic_type92tropicalcamo.head	description	"Type 92 helmet with flaps, camo net and foliage. Despite their fanatic patriotism, IJA soldiers were also fanatically loyal to orders. Some isolated pockets of resistance carried on the fight simply because they weren't told to surrender by their superior officers.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED | +10% DODGE^reset;
+^#C9C2B2;The Fox [HEAD]: Summons one CAMOUFLAGED IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown.^reset;"	"햇빛가리개, 위장망, 풀잎을 얹은 92식 철모. 광적인 애국심 못지않게 IJA 병사들은 명령에 광적으로 충성했다. 고립된 저항 거점들이 싸움을 이어간 것은 상급 장교가 항복하라고 시키지 않았기 때문인 경우도 많았다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5% | 회피 +10%^reset;
+^#C9C2B2;여우 [HEAD]: ^reset;^orange;배치 명령^reset; ^#C9C2B2;사용 시 위장 IJA 소총수 1명 소환 | 재사용 대기시간 60초.^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/type92tropicalcamo/gic_type92tropicalcamo.head	shortdescription	Type 92 Helmet Camouflaged w/ Flaps	92식 철모 위장형 w/ 햇빛가리개	
+/items/armors/GiC IJA Uniforms/Helmets/type92tropicalcamo_alt/gic_type92tropicalcamo.head	description	"Modern sighting tech makes conventional camouflage largely obsolete. With thermal sighting systems, you're never really hidden, unless you use any funky thermal camo. Keep that in mind.
+
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED | +10% DODGE^reset;
+^#C9C2B2;The Fox [HEAD]: Summons one CAMOUFLAGED IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown.^reset;"	"현대의 관측 기술은 기존 위장을 대부분 무용지물로 만든다. 열상 감지 체계 앞에서는 괴상한 열 위장을 쓰지 않는 한 결코 숨을 수 없다. 명심해 둬라.
+ 
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5% | 회피 +10%^reset;
+^#C9C2B2;여우 [HEAD]: ^reset;^orange;배치 명령^reset; ^#C9C2B2;사용 시 위장 IJA 소총수 1명 소환 | 재사용 대기시간 60초.^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/type92tropicalcamo_alt/gic_type92tropicalcamo.head	shortdescription	Type 92 Helmet Camouflaged w/ Flaps (Bushy)	92식 철모 위장형 w/ 햇빛가리개 (풀숲)	
+/items/armors/GiC IJA Uniforms/Helmets/type92tropicalcover/gic_type92tropical_cover.head	description	"Combination of Type 92 helmet and Sen-Bou field cap with flaps. Japanese soldiers were extensively trained in bayonet combat, and developed it to the point of art. As their tactics relied on mass infantry attacks, or ''Banzai charges'', all this training went down the drain at the hands of American G.I.'s and their sub-machine guns and automatic rifles. 
+
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^#96CBE7;+3HP/s when under 35% HP.^reset;"	"92식 철모와 센보 야전모의 햇빛가리개 결합형. 일본 병사들은 총검술을 집중 훈련받았고 예술의 경지까지 끌어올렸다. 하지만 그들의 전술이 보병 집단 공격, 이른바 '반자이 돌격'에 의존했기에, 그 모든 훈련은 미군 GI들의 기관단총과 자동소총 앞에 물거품이 됐다.
+ 
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^#96CBE7;체력 35% 미만일 때 초당 체력 +3.^reset;"	
+/items/armors/GiC IJA Uniforms/Helmets/type92tropicalcover/gic_type92tropical_cover.head	shortdescription	Type 92 Helmet w/ Cover, Flaps	92식 철모 w/ 커버, 햇빛가리개	
+/items/armors/GiC IJA Uniforms/ija_gassuit/gic_ija_gassuit.chest	description	"IJA standard-issue rain coat. Getting wet is not only unpleasant, but also dangerous in combat scenarios, as you could easily get a cold or hypothermia even in hot summer day. In the days before brass cartriges, moisture could also prevent blackpowder from igniting, which is even worse.
+  
+Accepts [GiC] Trinkets.
+^green;+10% Movement Speed.^reset;
+^green;+10% ATK Power.^reset;"	"IJA 표준 지급 우의. 젖는 건 불쾌한 것 이상으로, 전투 상황에서는 한여름에도 감기나 저체온증에 쉽게 걸릴 수 있어 위험하다. 황동 탄피가 없던 시절에는 습기가 흑색 화약의 점화도 막았으니 더 나빴다.
+  
+[GiC] 장신구 수납 가능.
+^green;이동 속도 +10%.^reset;
+^green;공격력 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/ija_gassuit/gic_ija_gassuit.chest	shortdescription	IJA Rain Coat Chest	IJA 우의 상의	
+/items/armors/GiC IJA Uniforms/ija_gassuit/gic_ija_gassuit.head	description	"Rubberized hood from a rain coat. Big enough to hide your head and helmet. It's actually intended for that, because without helmet it'll be flapping around and obstructing your eyesight. But who's to berate you for your fashion choice?
+  
+^green;+10% Movement Speed.^reset;
+^green;+10% ATK Power.^reset;"	"우의에서 뗀 고무 두건. 머리와 철모를 덮을 만큼 크다. 사실 그 용도가 맞다 — 철모 없이 쓰면 펄럭이며 시야를 가릴 테니까. 하지만 당신의 패션 선택을 누가 뭐라 하겠나?
+  
+^green;이동 속도 +10%.^reset;
+^green;공격력 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/ija_gassuit/gic_ija_gassuit.head	shortdescription	IJA Rain Coat Hood	IJA 우의 두건	
+/items/armors/GiC IJA Uniforms/ija_gassuit/gic_ija_gassuit.legs	description	"''The last few months on Okinawa have taken their toll... Morale is low. It's the rain, sir... and the mud. Tanks are getting bogged down. Supplies aren't getting through. We can't even get the wounded out.''
+Weather plays a crucial role in warfare. No matter how many elite tank divisions you have, they will all be stuck in the mud after a day of heavy rain.
+^green;+10% Movement Speed.^reset;
+^green;+10% ATK Power.^reset;"	"''오키나와에서의 최근 몇 달이 우리를 갉아먹었다... 사기가 낮아. 비 때문이야, 각하... 그리고 진흙. 전차가 진흙에 빠지고, 보급이 안 들어오고, 부상병조차 못 빼내.''
+날씨는 전쟁에서 결정적인 역할을 한다. 정예 전차 사단이 아무리 많아도, 하루 폭우 뒤에는 전부 진흙에 처박힌다.
+^green;이동 속도 +10%.^reset;
+^green;공격력 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/ija_gassuit/gic_ija_gassuit.legs	shortdescription	IJA Rain Coat Skirt	IJA 우의 치마	
+/items/armors/GiC IJA Uniforms/ija_nvg/ija_nvg.head	description	".
+^green;+10% DODGE Chance^reset;"	".
+^green;회피 확률 +10%^reset;"	
+/items/armors/GiC IJA Uniforms/ija_nvg/ija_nvg.head	shortdescription	IJA Night Vision Monocular	IJA 야간투시 단안경	
+/items/armors/GiC IJA Uniforms/ija_radio/gic_ija_radio.back	description	"''- Momiji, this is Asagao, do you copy? Damn.
+- Second platoon's not picking up signal?
+- At this distance they should... Let me try another channel. 
+*gets up* MOMIJI, TURN ON THE FUCKING RADIO!!!''
+
+^orange;Buffs Rally-Summons with +10 Max HP and +25% Weapon Proficiency."	"''- 모미지, 여기는 아사가오, 들리나? 젠장.
+- 제2소대가 신호를 안 잡아?
+- 이 거리면 될 텐데... 다른 채널로 해볼게.
+*일어나며* 모미지, 빌어먹을 라디오 켜!!!''
+ 
+^orange;랠리 소환물의 최대 체력 +10, 무기 숙련 +25% 강화."	
+/items/armors/GiC IJA Uniforms/ija_radio/gic_ija_radio.back	shortdescription	Type 22 Radio Transceiver	22식 무전 송수신기	
+/items/armors/GiC IJA Uniforms/ija_raincoat/gic_ija_raincoat.chest	description	"IJA standard-issue rain coat. Rain is the great disruptor of war. It ruins gunpowder, turns roads into rivers of mud, and exhausts soldiers. Even the strongest of armies would break under a strong enough downpour.
+  
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B3AD97;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;"	"IJA 표준 지급 우의. 비는 전쟁의 위대한 교란자다. 화약을 망치고, 길을 진흙 강으로 바꾸고, 병사를 지치게 한다. 아무리 강한 군대도 충분히 거센 폭우에는 무너진다.
+  
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B3AD97;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;"	
+/items/armors/GiC IJA Uniforms/ija_raincoat/gic_ija_raincoat.chest	shortdescription	IJA Rain Coat (Top)	IJA 우의 (상의)	
+/items/armors/GiC IJA Uniforms/ija_raincoat/gic_ija_raincoat.head	description	"Rubberized hood from a rain coat. Big enough to hide your head and helmet. It's actually intended for that, because without helmet it'll be flapping around and obstructing your eyesight. But who's to berate you for your fashion choice?
+  
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B3AD97;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;"	"우의에서 뗀 고무 두건. 머리와 철모를 덮을 만큼 크다. 사실 그 용도가 맞다 — 철모 없이 쓰면 펄럭이며 시야를 가릴 테니까. 하지만 당신의 패션 선택을 누가 뭐라 하겠나?
+  
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B3AD97;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;"	
+/items/armors/GiC IJA Uniforms/ija_raincoat/gic_ija_raincoat.head	shortdescription	IJA Rain Coat Hood	IJA 우의 두건	
+/items/armors/GiC IJA Uniforms/ija_raincoat/gic_ija_raincoat.legs	description	"''The last few months on Okinawa have taken their toll... Morale is low. It's the rain, sir... and the mud. Tanks are getting bogged down. Supplies aren't getting through. We can't even get the wounded out.''
+  
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B3AD97;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;"	"''오키나와에서의 최근 몇 달이 우리를 갉아먹었다... 사기가 낮아. 비 때문이야, 각하... 그리고 진흙. 전차가 진흙에 빠지고, 보급이 안 들어오고, 부상병조차 못 빼내.''
+  
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B3AD97;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;"	
+/items/armors/GiC IJA Uniforms/ija_raincoat/gic_ija_raincoat.legs	shortdescription	IJA Rain Coat (Bottom)	IJA 우의 (하의)	
+/items/armors/GiC IJA Uniforms/ija_raincoat_rainydevil/gic_ija_raincoat_rainydevil.chest	description	"''When you wish for revenge, dig two graves.''
+  
+Rainy Devil resembles a tall corpse of a monkey, always concealed by some sort of raincoat. It possesses it's owners at night, and uses their bodies as vessels to solve a problem not by any magic, but by extreme violence. It usually works.
+Accepts [GiC] Trinkets.
+^green;+10% Movement Speed.^reset;
+^green;+10% ATK Power.^reset;"	"''복수를 원하면 무덤을 두 개 파라.''
+  
+레이니 데빌은 항상 우의 같은 것으로 몸을 가린, 키 큰 원숭이 시체를 닮았다. 밤이면 주인에게 빙의해, 마법이 아니라 극단적 폭력으로 문제를 해결하는 신체를 빌린다. 보통은 잘 통한다.
+[GiC] 장신구 수납 가능.
+^green;이동 속도 +10%.^reset;
+^green;공격력 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/ija_raincoat_rainydevil/gic_ija_raincoat_rainydevil.chest	shortdescription	Rainy Devil Chest	레이니 데빌 상의	
+/items/armors/GiC IJA Uniforms/ija_raincoat_rainydevil/gic_ija_raincoat_rainydevil.head	description	"''Rainy Devil'' is a wish-fulfilling demonic entity. By subconsciously wishing upon it's desiccated body parts, you sacrifice a little bit of your own body and soul in exchange for a solution to a problem. Being a pre-civilizational artefact, and since a lot of problems in society are caused to you by other people, Rainy Devil operates by logic of ''No man - no problem.''
+  
+^green;+10% Movement Speed.^reset;
+^green;+10% ATK Power.^reset;"	"'레이니 데빌'은 소원을 이뤄주는 악마적 존재다. 말라붙은 신체 부위에 무의식적으로 소원을 빌면, 문제 해결의 대가로 자신의 몸과 영혼을 조금씩 바치게 된다. 문명 이전의 유물로, 사회의 많은 문제가 남 탓인 까닭에 레이니 데빌은 '사람이 없으면 문제도 없다'의 논리로 움직인다.
+  
+^green;이동 속도 +10%.^reset;
+^green;공격력 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/ija_raincoat_rainydevil/gic_ija_raincoat_rainydevil.head	shortdescription	Rainy Devil Hood	레이니 데빌 두건	
+/items/armors/GiC IJA Uniforms/ija_raincoat_rainydevil/gic_ija_raincoat_rainydevil.legs	description	"''I start chasing all the rabbits I see and end up catching none of them. I desire everything, only to lose it all.''
+
+Rainy Devil has an affinity for water and blood. Both are plenty in the battlefield. But keep in mind that you have a goal. Steer your strength and wade through rivers of blood to acheive it.
+  
+^green;+10% Movement Speed.^reset;
+^green;+10% ATK Power.^reset;"	"''보이는 토끼를 전부 쫓다가 결국 한 마리도 못 잡는다. 모든 걸 원하다가 모든 걸 잃는다.''
+ 
+레이니 데빌은 물과 피와 친화력이 있다. 둘 다 전장에는 넘쳐나지. 하지만 목표를 잊지 마라. 힘을 몰아 피의 강을 헤쳐 목표를 이뤄라.
+  
+^green;이동 속도 +10%.^reset;
+^green;공격력 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/ija_raincoat_rainydevil/gic_ija_raincoat_rainydevil.legs	shortdescription	Rainy Devil Skirt	레이니 데빌 치마	
+/items/armors/GiC IJA Uniforms/ija_sarashi/gic_ija_sarashi.chest	description	"''To constrict such miraculous busts in mere sarashi is blasphemy!''
+  
+White cotton cloth used to make various traditional Japanese garments such as fundoshi (the funny loincloth) or haramaki (the belly belt). Women used to wrap sarashi around their breasts to bind them, or later as a traditional alternative to bras."	"''저런 기적적인 가슴을 고작 사라시로 묶어두다니 신성모독이야!''
+  
+훈도시(웃기는 고간 가리개)나 하라마키(배 띠) 같은 전통 일본 의복을 만드는 데 쓰는 흰 면 천. 여성들은 사라시로 가슴을 감아 묶었고, 후에는 브래지어 대신 쓰는 전통 방식이 됐다."	
+/items/armors/GiC IJA Uniforms/ija_sarashi/gic_ija_sarashi.chest	shortdescription	IJA Sarashi	IJA 사라시	
+/items/armors/GiC IJA Uniforms/ija_tanktop/gic_ija_tanktop.chest	description	Standart-issue Japanese tank-top for tropical climates. What makes it distinctly IJA? We don't know. Labels, prints? Maybe it's just a ploy to shake money out of would-be IJA reenactors? You'd need years of experience and research to figure out what is real and what is not. But that tank-top is real. 100%	열대 기후용 표준 지급 일본군 탱크톱. 어디가 IJA다운지? 우리도 몰라. 라벨이나 인쇄? 어쩌면 IJA 재현 덕후들한테 돈 뜯어내려는 수작일지도? 진품과 가짜를 구별하려면 수년의 경험과 조사가 필요하다. 근데 이 탱크톱은 진짜야. 100%	
+/items/armors/GiC IJA Uniforms/ija_tanktop/gic_ija_tanktop.chest	shortdescription	IJA Tank Top	IJA 탱크톱	
+/items/armors/GiC IJA Uniforms/ija_tkbandana/gic_ija_tkbandana.head	description	"''It's not about changing the world. It's about doing our best to leave the world the way it is.''
+Tokumu Kikan's main tasks are espionage, counterespionage, propaganda, and fifth column activities. It is uncommon for TK to participate in ''direct operations'', but such activities were the norm in India, where political victory was an afterthought for IJA, rather than the goal.
+^#DBC5A6;DEF: +15% DODGE | ^#FFCE6D;Commando [HEAD]: +10% Submachine Gun Proficiency | -20% projectile spread for Submachine Guns.^reset;"	"''세상을 바꾸는 게 아니야. 세상이 그대로 남게 우리가 최선을 다하는 거지.''
+토쿠무 키칸의 주 임무는 첩보, 방첩, 선전, 제5열 공작이다. TK가 '직접 작전'에 참여하는 건 드문 일이지만, 정치적 승리가 목표가 아니라 사후 고려사항이었던 인도에서는 그런 활동이 일상이었다.
+^#DBC5A6;방어: 회피 +15% | ^#FFCE6D;코만도 [HEAD]: 기관단총 숙련 +10% | 기관단총 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/ija_tkbandana/gic_ija_tkbandana.head	shortdescription	Tokumu Kikan Bandana	토쿠무 키친 반다나	
+/items/armors/GiC IJA Uniforms/ija_towel/gic_ija_towel.chest	description	A simple white standard-issue towel worn over your neck, and nothing else. For purposes of decency, this towel is long enough to cover your chest.	목에 두르는 평범한 흰색 지급 수건, 그것뿐이다. 예의상, 가슴을 덮을 만큼 길다.	
+/items/armors/GiC IJA Uniforms/ija_towel/gic_ija_towel.chest	shortdescription	IJA Towel	IJA 수건	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfuku/gic_ijn_rikusenfuku.chest	description	"Rikusenfuku refers to the type of uniform worn by the Land Forces of the Imperial Japanese Navy, including the Special Naval Landing Forces. SNLF were Japanese marines (in the loosest of terms), and they played an instrumental role in the early-war battles against the Allies in the Pacific. 
+  
+^orange;Gain a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 60s cooldown | Stacks with other ^#C8FAFA;HIT-SHIELDS^reset;"	"리쿠센후쿠는 특수상륙작전부대를 포함한 일본 제국 해군 육전대의 제복 종류를 말한다. SNLF는 (가장 넓은 의미의) 일본 해병대로, 전쟁 초기 태평양에서의 대연합군 전투에서 핵심 역할을 했다.
+  
+^orange;한 번의 피격을 흡수하는 ^#C8FAFA;HIT-SHIELD^orange; 하나 획득 | 재사용 대기시간 60초 | 다른 ^#C8FAFA;HIT-SHIELD와 중첩됨^reset;"	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfuku/gic_ijn_rikusenfuku.chest	shortdescription	IJN Rikusenfuku Tunic	IJN 리쿠센후쿠 튜닉	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfuku/gic_ijn_rikusenfuku.head	description	"Imperial Japanese Navy's green cotton field cap. Rivalry between IJN and IJA reached it's height in the 1930's. When Japan wanted to expand it's territories through conquest, Navy proposed ''Strike South'' strategy, where Japan would attack Western colonies, and Army proposed to capture Siberia in a ''Strike North'' plan. The resulting rivalry between the two parties led to a series of mutual assassinations in the government. 
+^orange;Gain a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 60s cooldown | Stacks with other ^#C8FAFA;HIT-SHIELDS^reset;"	"일본 제국 해군의 녹색 면제 야전모. IJN과 IJA의 라이벌 관계는 1930년대에 절정에 달했다. 일본이 정복으로 영토를 넓히려 할 때 해군은 서방 식민지를 치는 '남진' 전략을, 육군은 시베리아를 먹는 '북진' 계획을 밀었다. 두 파벌의 라이벌 관계는 결국 정부 내 연쇄 암살로 이어졌다.
+^orange;한 번의 피격을 흡수하는 ^#C8FAFA;HIT-SHIELD^orange; 하나 획득 | 재사용 대기시간 60초 | 다른 ^#C8FAFA;HIT-SHIELD와 중첩됨^reset;"	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfuku/gic_ijn_rikusenfuku.head	shortdescription	IJN Rikusenfuku Field Cap	IJN 리쿠센후쿠 야전모	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfuku/gic_ijn_rikusenfuku.legs	description	"Rikusenfuku pants with putees and hobnailed boots. Despite their training, there were very few moments of glory for the SNLF. After disasterous Battle of Midway, Japan was no longer capable of launching any sorts of amphibious attacks, and SNLF was used only as a defensive force. They were eventually decimated by the advancing US Marines, island by island, unit by unit. 
+  
+^orange;Gain a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 60s cooldown | Stacks with other ^#C8FAFA;HIT-SHIELDS^reset;"	"게이터를 차고 못 박힌 장화를 신은 리쿠센후쿠 바지. 훈련받았음에도 SNLF에게 영광의 순간은 드물었다. 미드웨이 대참패 이후 일본은 어떤 상륙 공격도 벌일 수 없었고, SNLF는 방어 병력으로만 쓰였다. 결국 진격하는 미 해병대에게 섬마다, 부대마다 궤멸됐다.
+  
+^orange;한 번의 피격을 흡수하는 ^#C8FAFA;HIT-SHIELD^orange; 하나 획득 | 재사용 대기시간 60초 | 다른 ^#C8FAFA;HIT-SHIELD와 중첩됨^reset;"	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfuku/gic_ijn_rikusenfuku.legs	shortdescription	IJN Rikusenfuku Pants	IJN 리쿠센후쿠 바지	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfuku_smg/gic_ijn_rikusenfuku_smg.chest	description	"UNAVAILABLE TO PLAYERS. NPC ONLY.
+
+Although it is a fact that Japanese forces used SMGs in some limited capacity, there is little to no photographic evidence as to where they put all the 8x22mm curved magazines. This pouch is based on the image of British Army's 1946 technical report on a Type II SMG, which they captured in Singapore along with its accessories.  
+  
+^orange;Gain a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 60s cooldown | Stacks with other ^#C8FAFA;HIT-SHIELDS^reset;"	"플레이어 사용 불가. NPC 전용.
+ 
+일본군이 어느 정도 한정적으로나마 기관단총을 쓴 것은 사실이지만, 8x22mm 곡형 탄창을 어디에 넣고 다녔는지는 사진 증거가 거의 없다. 이 파우치는 영국군의 1946년 2식 기관단총 기술 보고서 이미지에 기반한 것으로, 싱가포르에서 부속품과 함께 노획된 것이다.
+  
+^orange;한 번의 피격을 흡수하는 ^#C8FAFA;HIT-SHIELD^orange; 하나 획득 | 재사용 대기시간 60초 | 다른 ^#C8FAFA;HIT-SHIELD와 중첩됨^reset;"	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfuku_smg/gic_ijn_rikusenfuku_smg.chest	shortdescription	IJN Rikusenfuku Tunic (SMG)	IJN 리쿠센후쿠 튜닉 (기관단총)	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfukuofficer/gic_ijn_rikusenfukuofficer.chest	description	"Imperial Japanese Navy officer's cotton tunic. The unwillingness of two branches of Japanese Armed Forces to be in any way codependent led to Navy making its own land forces, tanks, air branch and paratroopers. Similarly, Army posessed it's own marine detachments and even ships.
+^#5D6A59;Imperial Navy [CHEST]: Summons one SNLF RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#5D6A59;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"일본 제국 해군 장교의 면제 튜닉. 일본군 양 군종이 서로 어떤 식으로든 의존하기를 거부한 탓에, 해군은 자체 육전대, 전차, 항공대, 낙하산병을 만들었다. 마찬가지로 육군도 자체 해상 분견대와 심지어 선박을 보유했다.
+^#5D6A59;제국 해군 [CHEST]: ^reset;^orange;배치 명령^reset; ^#5D6A59;사용 시 SNLF 소총병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfukuofficer/gic_ijn_rikusenfukuofficer.chest	shortdescription	IJN Rikusenfuku Officer Tunic	IJN 리쿠센후쿠 장교 튜닉	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfukuofficer/gic_ijn_rikusenfukuofficer.head	description	"Imperial Japanese Navy officer's field cap. High rank is denoted by two black stripes. Japanese Navy was advanced in its thinking and tech, and its Yamato-class battleships were the largest, most powerful battleships in history. But what use of it, if the war is unwinnable to begin with? 
+^#5D6A59;Imperial Navy [HEAD]: Summons one SNLF RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#5D6A59;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [HEAD]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"일본 제국 해군 장교의 야전모. 두 개의 검은 띠가 고위 계급을 나타낸다. 일본 해군은 사고와 기술에서 앞서 있었고, 야마토급 전함은 역사상 가장 크고 강력한 전함이었다. 하지만 애초에 이길 수 없는 전쟁이라면 그게 무슨 소용인가?
+^#5D6A59;제국 해군 [HEAD]: ^reset;^orange;배치 명령^reset; ^#5D6A59;사용 시 SNLF 소총병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [HEAD]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfukuofficer/gic_ijn_rikusenfukuofficer.head	shortdescription	IJN Rikusenfuku Officer Field Cap	IJN 리쿠센후쿠 장교 야전모	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfukuofficer/gic_ijn_rikusenfukuofficer.legs	description	"IJN Land Forces officer's pants with Kaigunto (Navy Sword) sheath. For all the interservice rivalry, the sailors and the soldiers were equal in their ruthlessness and brutality, since they shared the same ideology. Naval Land Forces also shared tactics with IJA, so the banzai charges were common too.
+^#5D6A59;Imperial Navy [LEGS]: Summons one SNLF RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#5D6A59;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [LEGS]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"해군도(카이군토) 칼집이 달린 IJN 육전대 장교 바지. 군종 라이벌 관계가 아무리 심했어도, 수병과 육병은 같은 이념을 공유한 만큼 잔혹함에서도 대등했다. 해군 육전대도 IJA와 전술을 공유했기에 반자이 돌격도 흔했다.
+^#5D6A59;제국 해군 [LEGS]: ^reset;^orange;배치 명령^reset; ^#5D6A59;사용 시 SNLF 소총병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [LEGS]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfukuofficer/gic_ijn_rikusenfukuofficer.legs	shortdescription	IJN Rikusenfuku Officer Pants	IJN 리쿠센후쿠 장교 바지	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfukutropical/gic_ijn_rikusenfukut.chest	description	"Rikusenfuku refers to the type of uniform worn by the Land Forces of the Imperial Japanese Navy, including the Special Naval Landing Forces. SNLF were Japanese marines (in the loosest of terms), and they played an instrumental role in the early-war battles against the Allies in the Pacific. 
+  
+^orange;Gain a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 60s cooldown | Stacks with other ^#C8FAFA;HIT-SHIELDS^reset;"	"리쿠센후쿠는 특수상륙작전부대를 포함한 일본 제국 해군 육전대의 제복 종류를 말한다. SNLF는 (가장 넓은 의미의) 일본 해병대로, 전쟁 초기 태평양에서의 대연합군 전투에서 핵심 역할을 했다.
+  
+^orange;한 번의 피격을 흡수하는 ^#C8FAFA;HIT-SHIELD^orange; 하나 획득 | 재사용 대기시간 60초 | 다른 ^#C8FAFA;HIT-SHIELD와 중첩됨^reset;"	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfukutropical/gic_ijn_rikusenfukut.chest	shortdescription	IJN Rikusenfuku Tunic (Rolled Sleeves)	IJN 리쿠센후쿠 튜닉 (소매 걷음)	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfukutropical/gic_ijn_rikusenfukut.head	description	"Imperial Japanese Navy's green cotton field cap with sun flaps. Rivalry between IJN and IJA reached it's height in the 1930's. When Japan wanted to expand it's territories through conquest, Navy proposed ''Strike South'' strategy, where Japan would attack Western colonies, and Army proposed to capture Siberia in a ''Strike North'' plan. The resulting rivalry between the two parties led to a series of mutual assassinations in the government. 
+^orange;Gain a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 60s cooldown | Stacks with other ^#C8FAFA;HIT-SHIELDS^reset;"	"햇빛가리개가 달린 일본 제국 해군의 녹색 면제 야전모. IJN과 IJA의 라이벌 관계는 1930년대에 절정에 달했다. 일본이 정복으로 영토를 넓히려 할 때 해군은 서방 식민지를 치는 '남진' 전략을, 육군은 시베리아를 먹는 '북진' 계획을 밀었다. 두 파벌의 라이벌 관계는 결국 정부 내 연쇄 암살로 이어졌다.
+^orange;한 번의 피격을 흡수하는 ^#C8FAFA;HIT-SHIELD^orange; 하나 획득 | 재사용 대기시간 60초 | 다른 ^#C8FAFA;HIT-SHIELD와 중첩됨^reset;"	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfukutropical/gic_ijn_rikusenfukut.head	shortdescription	IJN Rikusenfuku Field Cap w/ Flaps	IJN 리쿠센후쿠 야전모 w/ 햇빛가리개	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfukutropical/gic_ijn_rikusenfukut.legs	description	"Rikusenfuku shorts with hobnailed boots. Despite their training, there were very few moments of glory for the SNLF. After disasterous Battle of Midway, Japan was no longer capable of launching any sorts of amphibious attacks, and SNLF was used only as a defensive force. They were eventually decimated by the advancing US Marines, island by island, unit by unit. 
+  
+^orange;Gain a ^#C8FAFA;HIT-SHIELD^orange; layer that absorbs one hit | 60s cooldown | Stacks with other ^#C8FAFA;HIT-SHIELDS^reset;"	"못 박힌 장화를 신은 리쿠센후쿠 반바지. 훈련받았음에도 SNLF에게 영광의 순간은 드물었다. 미드웨이 대참패 이후 일본은 어떤 상륙 공격도 벌일 수 없었고, SNLF는 방어 병력으로만 쓰였다. 결국 진격하는 미 해병대에게 섬마다, 부대마다 궤멸됐다.
+  
+^orange;한 번의 피격을 흡수하는 ^#C8FAFA;HIT-SHIELD^orange; 하나 획득 | 재사용 대기시간 60초 | 다른 ^#C8FAFA;HIT-SHIELD와 중첩됨^reset;"	
+/items/armors/GiC IJA Uniforms/ijn_rikusenfukutropical/gic_ijn_rikusenfukut.legs	shortdescription	IJN Rikusenfuku Shorts	IJN 리쿠센후쿠 반바지	
+/items/armors/GiC IJA Uniforms/rsr_miko/gic_rsr_miko.chest	description	"Historically, shrine maiden was a generational position, and the training was intense, lasting from 3 to 8 years. Modern shrine maidens, however, are mostly just schoolgirls working part-time, selling omamori and cleaning shrines.
+^#DBC5A6;DEF: +15% SLASH | +5% THRUST | +20% PSYCHIC.^reset;
+^#F4988C;Hand-to-Hand Cleansing [CHEST] - Nearby enemies within 40 blocks take +25% PSYCHIC DMG.^reset;
+^#F2B8EC;Highly Responsive To Prayers [FULL SET 3x REQUIRED] - Swinging a melee weapon sends out a talisman."	"역사적으로 무녀는 대를 잇는 직위였고, 수련도 3~8년 걸릴 만큼 혹독했다. 그러나 현대의 무녀는 대부분 오마모리를 팔고 신사를 청소하는 아르바이트 여학생일 뿐이다.
+^#DBC5A6;방어: 참격 +15% | 찌르기 +5% | 사이킥 +20%.^reset;
+^#F4988C;맨손 정화 [CHEST] - 40블록 이내의 주변 적이 받는 사이킥 피해 +25%.^reset;
+^#F2B8EC;기도에 대한 높은 응답 [풀 세트 3개 필요] - 근접 무기를 휘두르면 부적을 날린다."	
+/items/armors/GiC IJA Uniforms/rsr_miko/gic_rsr_miko.chest	shortdescription	Miko Kosode	무녀 코소데	
+/items/armors/GiC IJA Uniforms/rsr_miko/gic_rsr_miko.head	description	"The long black hair of a miko is often considered part of her costume and she is required to maintain it. Maidens were required to keep their hair long while in employ of H-Kikan, though it wasn't confirmed if hair style or color had anything to do with magic.
+^#DBC5A6;DEF: +10% SLASH | +5% THRUST | +10% PSYCHIC.^reset;
+^#F4988C;Hand-to-Hand Cleansing [HEAD]: Nearby enemies within 40 blocks receive 1.25x PSYCHIC damage.^reset;
+^#F2B8EC;Highly Responsive To Prayers [FULL SET 3x REQUIRED] - Swinging a melee weapon sends out a talisman."	"무녀의 긴 검은 머리는 복장의 일부로 여겨져 관리가 요구된다. H기관 소속 동안 무녀들은 머리를 길게 기르는 게 요구됐지만, 헤어스타일이나 색이 마법과 무슨 관련이 있는지는 확인되지 않았다.
+^#DBC5A6;방어: 참격 +10% | 찌르기 +5% | 사이킥 +10%.^reset;
+^#F4988C;맨손 정화 [HEAD]: 40블록 이내의 주변 적이 받는 사이킥 피해 1.25배.^reset;
+^#F2B8EC;기도에 대한 높은 응답 [풀 세트 3개 필요] - 근접 무기를 휘두르면 부적을 날린다."	
+/items/armors/GiC IJA Uniforms/rsr_miko/gic_rsr_miko.head	shortdescription	Miko Headress	무녀 머리장식	
+/items/armors/GiC IJA Uniforms/rsr_miko/gic_rsr_miko.legs	description	"In 1873, the Meiji government issued an ordinance called the Miko Kindanrei, essentially outlawing all miko activities. Only in 1940 the ban was lifted, as government was trying to redefine Shinto as a secular, non-religious set of inherently Japanese traditions. 
+^#DBC5A6;DEF: +10% SLASH | +5% THRUST | 10% PSYCHIC.^reset;
+^#F4988C;Hand-to-Hand Cleansing [LEGS] - Nearby enemies within 40 blocks take +25% PSYCHIC DMG.^reset;
+^#F2B8EC;Highly Responsive To Prayers [FULL SET 3x REQUIRED] - Swinging a melee weapon sends out a talisman."	"1873년 메이지 정부는 미코 금단령이라는 조례를 발해 사실상 모든 무녀 활동을 금지했다. 금지는 1940년에야 풀렸는데, 정부가 신토를 비종교적이고 일본 고유의 전통 집합으로 재정의하려 했기 때문이다.
+^#DBC5A6;방어: 참격 +10% | 찌르기 +5% | 사이킥 10%.^reset;
+^#F4988C;맨손 정화 [LEGS] - 40블록 이내의 주변 적이 받는 사이킥 피해 +25%.^reset;
+^#F2B8EC;기도에 대한 높은 응답 [풀 세트 3개 필요] - 근접 무기를 휘두르면 부적을 날린다."	
+/items/armors/GiC IJA Uniforms/rsr_miko/gic_rsr_miko.legs	shortdescription	Miko Hakama	무녀 하카마	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20/gic_rsr_miko_type20.back	description	"Maiden-Soldiers were equipped with custom-sewn white load-bearing equipment to keep up the ''theme'' of white-top, red-bottom uniforms. Since Gensokyo often defied logic and common sense, a ''go with the vibes'' approach, previously foreign to the rigid IJA, had to be adopted. Inside these pouches Maiden-Soldiers carried all sorts of ritualistic implements and/or snacks, both for morale purposes.
+
+^#EAC0CE;+25 Max Ability Mana and increased Ability Mana Regen.^reset;"	"무녀병에게는 '흰 상의, 붉은 하의' 제복의 '콘셉트'를 지키려고 특별 재봉한 흰색 휴대 장비가 지급됐다. 환상향은 종종 논리와 상식을 무시했기에, 경직된 IJA에게는 낯설던 '그냥 바이브로 가는' 접근법을 받아들여야 했다. 이 주머니들에 무녀병은 온갖 의례용 도구와 간식을 사기를 위해 넣고 다녔다.
+ 
+^#EAC0CE;최대 능력 마나 +25, 능력 마나 재생 증가.^reset;"	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20/gic_rsr_miko_type20.back	shortdescription	Miko-hei Pouches	미코헤이 파우치	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20/gic_rsr_miko_type20.chest	description	"H-Kikan recruited future ''Miko-hei'' (Shrine Maiden-Soldiers) by inviting all willing women of ages 18 to 25. They had to go through military-style priesthood training at Yasukuni Shrine to prepare them for what lay beyond the Seal. 
+^#DBC5A6;DEF: +10% DODGE | +10% PSYCHIC.^reset;
+^#FFCE6D;Maiden-Soldier [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Highly Responsive To Prayers [FULL SET 3x REQUIRED] - Swinging a melee weapon sends out a talisman."	"H기관은 18세에서 25세의 자원하는 여성을 모집해 장래의 '미코헤이'(무녀병)로 모셨다. 그들은 봉인 너머에 있을 것에 대비해 야스쿠니 신사에서 군사식 승려 수련을 받아야 했다.
+^#DBC5A6;방어: 회피 +10% | 사이킥 +10%.^reset;
+^#FFCE6D;무녀병 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;기도에 대한 높은 응답 [풀 세트 3개 필요] - 근접 무기를 휘두르면 부적을 날린다."	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20/gic_rsr_miko_type20.chest	shortdescription	Miko-hei Kosode	미코헤이 코소데	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20/gic_rsr_miko_type20.head	description	"With time, Miko-hei uniform was adapted for combat situations. Maiden-Soldiers cut their hair, and started using ofuda talismans as hair ornaments, like some of the locals.
+  
+^#DBC5A6;DEF: +10% DODGE | +10% PSYCHIC.^reset;
+^#FFCE6D;Maiden-Soldier [HEAD]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Highly Responsive To Prayers [FULL SET 3x REQUIRED] - Swinging a melee weapon sends out a talisman."	"시간이 지나면서 미코헤이 제복은 전투 상황에 맞게 개조됐다. 무녀병들은 머리를 자르고, 일부 현지인처럼 오후다 부적을 머리 장식으로 쓰기 시작했다.
+  
+^#DBC5A6;방어: 회피 +10% | 사이킥 +10%.^reset;
+^#FFCE6D;무녀병 [HEAD]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;기도에 대한 높은 응답 [풀 세트 3개 필요] - 근접 무기를 휘두르면 부적을 날린다."	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20/gic_rsr_miko_type20.head	shortdescription	Miko-hei Hair Ofuda	미코헤이 머리 부적	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20/gic_rsr_miko_type20.legs	description	"H-Kikan attempted to establish Japanese dominance, and by using Miko-hei it managed to turn the tide on the feral youkai. In doing so the Japanese upset the delicate balance in Human-Youkai relationship, resulting in the Illusion Border Incident. 
+^#DBC5A6;DEF: +10% DODGE | +10% PSYCHIC.^reset;
+^#FFCE6D;Maiden-Soldier [LEGS]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Highly Responsive To Prayers [FULL SET 3x REQUIRED] - Swinging a melee weapon sends out a talisman."	"H기관은 일본의 패권 확립을 노렸고, 미코헤이를 써서 흉포한 요괴에 맞서 전세를 뒤집는 데 성공했다. 그 과정에서 일본은 인간-요괴 관계의 미묘한 균형을 무너뜨렸고, 환상 경계 사변이 일어났다.
+^#DBC5A6;방어: 회피 +10% | 사이킥 +10%.^reset;
+^#FFCE6D;무녀병 [LEGS]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;기도에 대한 높은 응답 [풀 세트 3개 필요] - 근접 무기를 휘두르면 부적을 날린다."	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20/gic_rsr_miko_type20.legs	shortdescription	Miko-hei Hakama	미코헤이 하카마	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20officer/gic_rsr_miko_type20officer.chest	description	"Maidens-Soldiers of H-Kikan were formally organised into a company-sized element, and had their own chain of command. The head priestesses were appointed not necessarily for their Shinto lore knowledge, but more for their managerial and leadership skills.
+^#EAC0CE;Miko-tai [CHEST]: Summons one MAIDEN-SOLDIER when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#EAC0CE;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE | +10% PSYCHIC. |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"H기관의 무녀병들은 공식적으로 중대급 조직으로 편성됐고, 자체 지휘 계통을 가졌다. 수석 무녀의 임명은 신토 지식보다는 관리 능력과 지도력을 보고 이뤄졌다.
+^#EAC0CE;미코타이 [CHEST]: ^reset;^orange;배치 명령^reset; ^#EAC0CE;사용 시 무녀병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% | 사이킥 +10%. |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20officer/gic_rsr_miko_type20officer.chest	shortdescription	Miko-hei Clerk Kosode	미코헤이 서기 코소데	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20officer/gic_rsr_miko_type20officer.head	description	"''It was surreal at times. We were exploring a bizarre yet familiar world, with fantastical creatures, magic, rich lore and kind people, and I was stuck in a damp room writing procurement forms and signing after-action reports! It's like I never left my office job.''
+
+^#EAC0CE;Miko-tai [HEAD]: Summons one MAIDEN-SOLDIER when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#EAC0CE;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE | +10% PSYCHIC. |^reset; ^#FFCE6D;Frontline Command [HEAD]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"''가끔은 초현실적이었어. 기묘하면서도 익숙한 세계를 탐험하고, 환상적인 생물과 마법과 풍부한 지식과 따뜻한 사람들이 있는데, 나는 축축한 방에 갇혀 조달 서류를 쓰고 작전 보고서에 서명만 하고 있었지! 사무직을 떠난 적이 없는 것 같았어.''
+ 
+^#EAC0CE;미코타이 [HEAD]: ^reset;^orange;배치 명령^reset; ^#EAC0CE;사용 시 무녀병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% | 사이킥 +10%. |^reset; ^#FFCE6D;전선 지휘 [HEAD]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20officer/gic_rsr_miko_type20officer.head	shortdescription	Miko-hei Clerk Glasses	미코헤이 서기 안경	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20officer/gic_rsr_miko_type20officer.legs	description	"A rare few of Miko-hei officers held the rank of chief priestesses during WW2, when all the male clergy got conscripted, which meant they were already experienced in both religious and bureaucratic rituals.
+
+^#EAC0CE;Miko-tai [LEGS]: Summons one MAIDEN-SOLDIER when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#EAC0CE;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE | +10% PSYCHIC. |^reset; ^#FFCE6D;Frontline Command [LEGS]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"제2차 세계대전 중 남성 성직자가 모두 징집됐을 때, 드물게 미코헤이 장교 중에는 수석 무녀 계급을 지닌 자가 있었다 — 종교 의례와 관료 의례 양쪽에 이미 익숙했다는 뜻이다.
+ 
+^#EAC0CE;미코타이 [LEGS]: ^reset;^orange;배치 명령^reset; ^#EAC0CE;사용 시 무녀병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% | 사이킥 +10%. |^reset; ^#FFCE6D;전선 지휘 [LEGS]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20officer/gic_rsr_miko_type20officer.legs	shortdescription	Miko-hei Clerk Hakama	미코헤이 서기 하카마	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20tropical/gic_rsr_miko_type20tropical.chest	description	"''- They say shrine maidens are the kind of human it's okay to eat...
+- Try me, bitch.''
+Despite their training, Maiden-Soldiers were no match for a real Shrine Maiden, having no miko lineage behind them and being consumed by State Shinto ideology.
+^#DBC5A6;DEF: +10% DODGE | +10% PSYCHIC.^reset; ^#FFCE6D;| Maiden-Soldier [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Highly Responsive To Prayers [FULL SET 3x REQUIRED] - Swinging a melee weapon sends out a talisman."	"''- 무녀는 먹어도 되는 인간이라던데...
+- 덤벼봐, 이년아.''
+훈련을 받았어도 무녀병은 진짜 무녀의 상대가 못 됐다 — 무녀 혈통이 없었고 국가 신토 이데올로기에 잠식되어 있었으니까.
+^#DBC5A6;방어: 회피 +10% | 사이킥 +10%.^reset; ^#FFCE6D;| 무녀병 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;기도에 대한 높은 응답 [풀 세트 3개 필요] - 근접 무기를 휘두르면 부적을 날린다."	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20tropical/gic_rsr_miko_type20tropical.chest	shortdescription	Miko-hei Kosode (Rolled Sleeves)	미코헤이 코소데 (소매 걷음)	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20winter/gic_rsr_miko_type20winter.chest	description	"''I don't like this cold, cold like Hokkaido.
+Let's go somewhere warm. Let's go to war.''
+Miko-hei had a privileged position within H-Kikan, and were permitted to trade with locals for any commodities they needed.
+^#DBC5A6;DEF: +10% DODGE | +10% PSYCHIC | +20% THERMAL.^reset;
+^#FFCE6D;Maiden-Soldier [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Highly Responsive To Prayers [FULL SET 3x REQUIRED] - Swinging a melee weapon sends out a talisman."	"''이 추운 게 싫어, 홋카이도처럼 추운 게 싫어.
+따뜻한 곳으로 가자. 전쟁에 가자.''
+미코헤이는 H기관 안에서 특권적 지위를 누렸고, 필요한 물품은 현지인과 거래해 얻는 것이 허락됐다.
+^#DBC5A6;방어: 회피 +10% | 사이킥 +10% | 열 +20%.^reset;
+^#FFCE6D;무녀병 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;기도에 대한 높은 응답 [풀 세트 3개 필요] - 근접 무기를 휘두르면 부적을 날린다."	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20winter/gic_rsr_miko_type20winter.chest	shortdescription	Miko-hei Haori	미코헤이 하오리	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20winter/gic_rsr_miko_type20winter.head	description	"Silk scarf, possibly from a lost husband or brother. Most Miko-hei were deeply patriotic women, who saw the H-Kikan's expedition as a way to serve Japan. But the Land of Illusions, ironically, has a tendency to shatter many illusions.
+^#DBC5A6;DEF: +10% DODGE | +10% PSYCHIC | +20% THERMAL.^reset;
+^#FFCE6D;Maiden-Soldier [HEAD]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Highly Responsive To Prayers [FULL SET 3x REQUIRED] - Swinging a melee weapon sends out a talisman."	"비단 목도리, 아마 죽은 남편이나 오빠의 것이었겠지. 미코헤이 대부분은 깊이 애국하는 여성들로, H기관의 원정을 일본을 섬기는 길로 여겼다. 하지만 환상의 땅은, 아이러니하게도, 많은 환상을 깨는 경향이 있다.
+^#DBC5A6;방어: 회피 +10% | 사이킥 +10% | 열 +20%.^reset;
+^#FFCE6D;무녀병 [HEAD]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;기도에 대한 높은 응답 [풀 세트 3개 필요] - 근접 무기를 휘두르면 부적을 날린다."	
+/items/armors/GiC IJA Uniforms/rsr_miko_type20winter/gic_rsr_miko_type20winter.head	shortdescription	Miko-hei Scarf	미코헤이 목도리	
+/items/armors/GiC IJA Uniforms/rsr_miko_winter/gic_rsr_miko_winter.chest	description	"''I hear that Mayohiga's items give you good fortune if you take them home...''
+  
+^#DBC5A6;DEF: +15% SLASH | +5% THRUST | +20% PSYCHIC.^reset;
+^#F4988C;Hand-to-Hand Cleansing [CHEST] - Nearby enemies within 40 blocks take +25% PSYCHIC DMG.^reset;
+^#F2B8EC;Highly Responsive To Prayers [FULL SET 3x REQUIRED] - Swinging a melee weapon sends out a talisman."	"''마요히가의 물건은 집에 가져가면 행운이 온다더라...''
+  
+^#DBC5A6;방어: 참격 +15% | 찌르기 +5% | 사이킥 +20%.^reset;
+^#F4988C;맨손 정화 [CHEST] - 40블록 이내의 주변 적이 받는 사이킥 피해 +25%.^reset;
+^#F2B8EC;기도에 대한 높은 응답 [풀 세트 3개 필요] - 근접 무기를 휘두르면 부적을 날린다."	
+/items/armors/GiC IJA Uniforms/rsr_miko_winter/gic_rsr_miko_winter.chest	shortdescription	Miko Haori	무녀 하오리	
+/items/armors/GiC IJA Uniforms/rsr_miko_winter/gic_rsr_miko_winter.head	description	"''If the fortunes of war betrayed us, and we survived the battle
+Then soldier's duty, like a silk scarf from a care package,
+Slowly, slowly, would strangle us to death.''
+
+^#DBC5A6;DEF: +10% SLASH | +5% THRUST | +10% PSYCHIC.^reset;
+^#F4988C;Hand-to-Hand Cleansing [HEAD]: Nearby enemies within 40 blocks receive 1.25x PSYCHIC damage.^reset;
+^#F2B8EC;Highly Responsive To Prayers [FULL SET 3x REQUIRED] - Swinging a melee weapon sends out a talisman."	"''전운이 우리를 배신해, 우리가 싸움에서 살아남는다 해도
+그러면 위문 꾸러미의 비단 목도리처럼 병사의 의무가
+천천히, 천천히, 우리를 목 졸라 죽일 것.''
+ 
+^#DBC5A6;방어: 참격 +10% | 찌르기 +5% | 사이킥 +10%.^reset;
+^#F4988C;맨손 정화 [HEAD]: 40블록 이내의 주변 적이 받는 사이킥 피해 1.25배.^reset;
+^#F2B8EC;기도에 대한 높은 응답 [풀 세트 3개 필요] - 근접 무기를 휘두르면 부적을 날린다."	
+/items/armors/GiC IJA Uniforms/rsr_miko_winter/gic_rsr_miko_winter.head	shortdescription	Silk Scarf	비단 목도리	
+/items/armors/GiC IJA Uniforms/seifuku/gic_seifuku.chest	description	Japanese female school uniform, circa 1930's. Sailor suits were introduced as a school uniform by Elizabeth Lee, principal of Fukuoka Jo Gakuin school in 1910's. Seifuku became traditional Japanese attire when Japanese princess was seen in one by the public - similarily to how in Britain, sailor suits became associated with kids in 1846 through young Edward VII.	1930년대경의 일본 여학생 제복. 세일러복은 1910년대 후쿠오카 조가쿠인의 교장 엘리자베스 리에 의해 교복으로 도입됐다. 일본 공주가 세이후쿠를 입고 공개됐을 때 세이후쿠는 일본 전통 의상이 됐다 — 영국에서 어린 에드워드 7세 덕분에 1846년 세일러복이 아이들 옷과 연결된 것과 비슷하다.	
+/items/armors/GiC IJA Uniforms/seifuku/gic_seifuku.chest	shortdescription	Seifuku Blouse	세이후쿠 블라우스	
+/items/armors/GiC IJA Uniforms/seifuku_vfc/gic_vfc_seifuku.chest	description	"Japanese female school uniform, circa 1930's, with IJA gear worn on-top. Volunteer Fighting Corps was a Japanese militia organisation that would assist IJA in fight against invading Allies and wage guerilla warfare. Unlike other militias of the Axis Powers, women were also expected to sacrifice their lives in the last stand for the Emperor - even schoolgirls as young as 17.
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B3AD97;SHATTERED JEWEL - Each piece reduces cooldown of UNYIELDING BULWARK by 20%^reset;"	"1930년대경의 일본 여학생 제복에 IJA 장비를 겹쳐 입은 것. 의용전투대는 일본 민병 조직으로, 침공한 연합군과 맞서 싸우는 IJA를 돕고 게릴라전을 벌였다. 다른 추축국 민병과 달리 여성들도 황제를 위한 최후의 결사에 목숨을 바쳐야 했다 — 17세밖에 안 된 여학생까지도.
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B3AD97;산산조각난 보옥 - 부품 하나마다 언일딩 불워크 재사용 대기시간 20% 감소^reset;"	
+/items/armors/GiC IJA Uniforms/seifuku_vfc/gic_vfc_seifuku.chest	shortdescription	Seifuku Blouse (VFC)	세이후쿠 블라우스 (의용전투대)	
+/items/armors/GiC IJA Uniforms/seifuku_vfc/gic_vfc_seifuku.legs	description	"''- A maiden-soldier cosplaying a schoolgirl... Seriously, why are you wearing that?
+- Hey, don't call it ''cosplaying''. This is real. I wore it in high school. It fits me nicely since I haven't gotten any taller since my growth spurt. Um, I mean... It's a disguise. You maidens wear your typical kimono like ''Hi, I'm a maiden!'' You're basically asking youkai to run away from you.''"	"''- 무녀병이 여학생 코스플레이라니... 진심, 왜 그걸 입은 거야?
+- 야, '코스플레이'라고 하지 마. 이건 진짜야. 고등학교 때 입던 거라고. 성장기 이후로 키가 안 커서 잘 맞는단 말이야. 어, 그러니까... 변장이야. 너네 무녀들은 평소 기모노 입고 '저 무녀예요!' 하잖아. 요괴들한테 도망가라고 광고하는 거나 다름없어.''"	
+/items/armors/GiC IJA Uniforms/seifuku_vfc/gic_vfc_seifuku.legs	shortdescription	Seifuku Skirt	세이후쿠 치마	
+/items/armors/GiC IJA Uniforms/type14_boonie/gic_rsr_type14.head	description	"A tropical work hat for IJN servicemen. A modification of a similar WW2-era hat, this one uses slightly different type of cotton, a lighter shade of olive green, and has wider brims. Quite comfortable in tropics, which made it highly sought after by IJA troops.
+
+^#FFCE6D;Light Infantry Luck: The next bullet deals 80% less DMG | 15s cooldown per proc | ^#CCD8B6;+5% General Weapon Proficiency."	"IJN 장병용 열대 작업모. 유사한 제2차 세계대전 시절 모자의 개수형으로, 약간 다른 면과 더 밝은 올리브색, 더 넓은 챙을 쓴다. 열대에서 꽤 편해서 IJA 병사들도 많이 탐냈다.
+ 
+^#FFCE6D;경보병의 행운: 다음 탄환 피해 80% 감소 | 발동당 재사용 대기시간 15초 | ^#CCD8B6;일반 무기 숙련 +5%."	
+/items/armors/GiC IJA Uniforms/type14_boonie/gic_rsr_type14.head	shortdescription	Type 14 Boonie Hat	14식 부니햇	
+/items/armors/GiC IJA Uniforms/type20/gic_type20.back	description	"''We-can-stick-out--'unger, thirst, an' weariness,
+But-not-not-not-not the chronic sight of 'em-
+Boot-boots-boots-boots-movin' up an' down again,
+An' there's no discharge in the war!''
+
+Standard large pack with a pair of ''kidney pouches'' under it. Part of Type 20 webbing system used by the Japanese military.
+
+^#CCD8B6;+25HP.^reset;"	"''헝가리도 갈증도 피로도 견-딜 수 있지,
+하지만 놈들을 보는 만성적 풍경만은-못-못-못해-
+장-화-장-화-장화가 위아래로 움직이는 소리,
+그리고 전쟁에서 제대할 길은 없어!''
+ 
+아래에 한 쌍의 '신장 파우치'를 단 표준 대형 배낭. 일본군이 쓰던 20식 웹 체계의 일부.
+ 
+^#CCD8B6;체력 +25.^reset;"	
+/items/armors/GiC IJA Uniforms/type20/gic_type20.back	shortdescription	Type 20 Backpack	20식 배낭	
+/items/armors/GiC IJA Uniforms/type20/gic_type20.chest	description	"''The trees can't grow without the sun in their eyes
+And we can't live if we're too afraid to die.''
+Standard IJA jungle fatigues introduced in 1960. Basically a hardier version of a WW2-era tropical shirt, with new webbing system for use with Iwashita rifle's 20-round magazines. 
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''태양이 눈에 없으면 나무는 자랄 수 없고
+우리도 죽는 게 두려우면 살 수 없어.''
+1960년 도입된 표준 IJA 정글 전투복. 기본적으로 제2차 세계대전 시절 열대 셔츠의 튼튼한 버전으로, 이와시타 소총의 20발 탄창용 새 웹 체계를 갖췄다.
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20/gic_type20.chest	shortdescription	Type 20 Shirt	20식 셔츠	
+/items/armors/GiC IJA Uniforms/type20/gic_type20.head	description	"''We're the same with new intentions
+We're the same with bad intentions.''
+After WW2, Empire of Japan found itself in a constant state of war against various guerillas all across the Co-Prosperity Sphere. IJA had to become a very mobile force to combat such enemies.
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [HEAD]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''우리는 새로운 의도로 똑같고
+우리는 나쁜 의도로 똑같아.''
+제2차 세계대전 이후 일본 제국은 공영권 전역의 온갖 게릴라와 끊임없이 전쟁 중임을 깨달았다. IJA는 그런 적을 상대하려고 매우 기동적인 군대가 되어야 했다.
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [HEAD]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20/gic_type20.head	shortdescription	Type 20 Field Cap	20식 야전모	
+/items/armors/GiC IJA Uniforms/type20/gic_type20.legs	description	"''Run for the hills, pick up your feet and let's go
+We did our jobs, pick up speed, now let's move''
+Sturdy combat pants made of cotton, with black leather, high ankle combat boots. Much more convenient than the old boot + puttee combo. Surprisingly high-quality.
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [LEGS]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''언덕으로 달려라, 발을 들고 가자고
+할 일은 했으니 속도를 올려 가보자''
+검은 가죽 높은 발목 전투화를 신은 튼튼한 면제 전투 바지. 옛 장화+게이터 조합보다 훨씬 편하다. 의외로 품질이 좋다.
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [LEGS]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20/gic_type20.legs	shortdescription	Type 20 Pants	20식 바지	
+/items/armors/GiC IJA Uniforms/type20flak/gic_type20flak.back	description	"Owing to WW2's traumatic lessons, new Kawasaki T23 RPGs were produced in very large quantities. So large that neither the armourers nor the soldiers knew what to do with all of them. They were issued amply to patrolling units and were used efficiently against enemy-held structures and fighting positions. 
+
+^#96CBE7;Tank Terror - Enemies killed within approximately 60 blocks have a 1% chance to drop a Kawasaki T23 RPG.^reset;"	"제2차 세계대전의 트라우마적 교훈 덕에 새 가와사키 T23 RPG는 아주 많이 생산됐다. 정비병도 병사도 그걸 다 어떻게 해야 할지 몰랐을 정도로. 순찰 부대에 넉넉히 지급됐고 적 점거 시설물과 전투 진지에 효과적으로 쓰였다.
+ 
+^#96CBE7;탱크 테러 - 약 60블록 이내에서 처치한 적이 1% 확률로 가와사키 T23 RPG 드롭.^reset;"	
+/items/armors/GiC IJA Uniforms/type20flak/gic_type20flak.back	shortdescription	Type 20 Tube Pack w/ T23 RPG	20식 튜브 팩 w/ T23 RPG	
+/items/armors/GiC IJA Uniforms/type20flak/gic_type20flak.chest	description	"Soldiers didn't like the new flak jackets at first, as they were pretty heavy and uncomfortable to wear in hot and humid weather. But since soldiers would be punished for not wearing them, some time passed, and troops rightfully recognized vest's life-saving properties.
+^#DBC5A6;DEF: +20% SMALL-ARMS, +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"새 방파편 조끼는 처음엔 병사들에게 안 좋게 여겨졌다 — 꽤 무겁고 덥고 습한 날씨에 입기 불편했으니까. 하지만 안 입으면 처벌받았고, 시간이 지나자 병사들은 조끼의 생명을 살리는 성능을 당연히 인정하게 됐다.
+^#DBC5A6;방어: 소화기 +20%, 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20flak/gic_type20flak.chest	shortdescription	Type 20 Shirt w/ Flak Jacket	20식 셔츠 w/ 방파편 조끼	
+/items/armors/GiC IJA Uniforms/type20flaktanktop/gic_type20flaktanktop.chest	description	"Anti-guerilla conflicts throughout Asia propped the Japanese to come up with some protection against all these pesky mines and tripwires the insurgents love to set up. Type 25 Fragmentation Vest weighed under eight pounds and was made of 12 layers of ballistic nylon sealed in a vinyl plastic bag to repel water.
+^#DBC5A6;DEF: +20% SMALL-ARMS, +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"아시아 전역의 반게릴라 분쟁은 반군이 사랑해 마지않는 지뢰와 부비트랩에 대한 대비책을 일본에 요구했다. 25식 파편 조끼는 8파운드 미만의 무게로, 방탄 나일론 12겹을 물을 튕기는 비닐 봉지에 밀봉해 만들었다.
+^#DBC5A6;방어: 소화기 +20%, 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20flaktanktop/gic_type20flaktanktop.chest	shortdescription	Type 25 Fragmentation Vest	25식 파편 조끼	
+/items/armors/GiC IJA Uniforms/type20flaktropical/gic_type20flaktropical.back	description	"Owing to WW2's traumatic lessons, new Kawasaki T23 RPGs were produced in very large quantities. So large that neither the armourers nor the soldiers knew what to do with all of them. They were issued amply to patrolling units and were used efficiently against enemy-held structures and fighting positions. 
+
+^#96CBE7;Tank Terror - Enemies killed within approximately 60 blocks have a 1% chance to drop a Kawasaki T23 RPG.^reset;"	"제2차 세계대전의 트라우마적 교훈 덕에 새 가와사키 T23 RPG는 아주 많이 생산됐다. 정비병도 병사도 그걸 다 어떻게 해야 할지 몰랐을 정도로. 순찰 부대에 넉넉히 지급됐고 적 점거 시설물과 전투 진지에 효과적으로 쓰였다.
+ 
+^#96CBE7;탱크 테러 - 약 60블록 이내에서 처치한 적이 1% 확률로 가와사키 T23 RPG 드롭.^reset;"	
+/items/armors/GiC IJA Uniforms/type20flaktropical/gic_type20flaktropical.back	shortdescription	Type 20 Tube Pack w/ T23 RPG	20식 튜브 팩 w/ T23 RPG	
+/items/armors/GiC IJA Uniforms/type20flaktropical/gic_type20flaktropical.chest	description	"Ballistic nylon, despite popular opinion, was completely ineffective against anything bigger than a pistol round, unlike it's later cousin Kevlar. Still, what protection it provided against fragments was invaluable in a place filled with improvised explosives.
+
+^#DBC5A6;DEF: +20% SMALL-ARMS, +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"방탄 나일론은 통념과 달리 권총탄 이상에는 완전히 무력했고, 후대 사촌 케블러와 달랐다. 그래도 급조 폭발물이 난무하는 곳에서 파편에 대해 주는 방호력은 값을 매길 수 없었다.
+ 
+^#DBC5A6;방어: 소화기 +20%, 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20flaktropical/gic_type20flaktropical.chest	shortdescription	Type 20 Shirt (Short) w/ Flak Jacket	20식 셔츠 (반소매) w/ 방파편 조끼	
+/items/armors/GiC IJA Uniforms/type20flakwinter/gic_type20flakwinter.chest	description	"''I will always remain a soldier. And all the soldiers killin' and dyin', they will always be me. We are still in the steppe.''
+  
+^#DBC5A6;DEF: +20% SMALL-ARMS, +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''나는 언제나 병사로 남을 것이다. 죽이고 죽는 모든 병사들은 언제나 나일 것이다. 우리는 아직 초원에 있다.''
+  
+^#DBC5A6;방어: 소화기 +20%, 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20flakwinter/gic_type20flakwinter.chest	shortdescription	Type 20 Parka w/ Flak Jacket	20식 파카 w/ 방파편 조끼	
+/items/armors/GiC IJA Uniforms/type20officer/gic_type20officer.chest	description	"Standard IJA jungle fatigues introduced in 1960, with such necessary attributes of an officer as a map case, compass pouch and a pistol holster. There were two types of officers in India, the bloodthirsty ''old breed'' and the cowardly ''new breed''. Neither were really liked by their troops.
+^#FFCE6D;Taicho '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#7C7957;Hohei '60 [CHEST]: Summons one HOHEI '60 RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#7C7957;60s Cooldown.^reset;"	"1960년 도입된 표준 IJA 정글 전투복에 지도 통, 나침반 주머니, 권총 홀스터 같은 장교 필수품을 달았다. 인도에는 두 부류의 장교가 있었다 — 피에 굶주린 '구세대'와 겁쟁이 '신세대'. 어느 쪽도 부하들에게 그다지 사랑받지 못했다.
+^#FFCE6D;타이초 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#7C7957;호헤이 '60 [CHEST]: ^reset;^orange;배치 명령^reset; ^#7C7957;사용 시 호헤이 '60 소총병 하나 소환 | 재사용 대기시간 60초.^reset;"	
+/items/armors/GiC IJA Uniforms/type20officer/gic_type20officer.chest	shortdescription	Type 20 Shirt (Officer)	20식 셔츠 (장교)	
+/items/armors/GiC IJA Uniforms/type20officer/gic_type20officer.head	description	"''Who's the commanding officer? Ain't you!?''
+In order to allow IJA officers and NCOs to be identified by troops while not drawing attention from enemy snipers, some common items like packs of cigarettes or playing cards were attached to helmets. Exact rules differed from unit to unit, with SNLF detachments ignoring this convention altogether.
+^#DBC5A6;DEF: +10% SMALL-ARMS | +5% SLASH | +5% THRUST | +7.5% BLEED^reset;
+^#7C7957;Hohei '60 [HEAD]: Summons one HOHEI '60 RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#7C7957;60s Cooldown.^reset;"	"''지휘관이 누구야? 너 아냐!?''
+IJA 장교와 부사관이 부하들에게는 식별되면서도 적 저격수 눈은 끌지 않도록, 담배 갑이나 카드 같은 흔한 물건을 철모에 붙였다. 세부 규칙은 부대마다 달랐고, SNLF 분견대는 이 관례를 아예 무시했다.
+^#DBC5A6;방어: 소화기 +10% | 참격 +5% | 찌르기 +5% | 출혈 +7.5%^reset;
+^#7C7957;호헤이 '60 [HEAD]: ^reset;^orange;배치 명령^reset; ^#7C7957;사용 시 호헤이 '60 소총병 하나 소환 | 재사용 대기시간 60초.^reset;"	
+/items/armors/GiC IJA Uniforms/type20officer/gic_type20officer.head	shortdescription	Type 19 Helmet (Officer)	19식 철모 (장교)	
+/items/armors/GiC IJA Uniforms/type20officer/gic_type20officer.legs	description	"Japanese stopped producing Shin-Gunto swords for NCOs and lower officers in the 50s, but it wasn't prohibited to carry them in combat. As such, those who displayed swords on their person were venerated as ''the old breed''. They also didn't live long, them being prized targets for guerrilla snipers.
+^#FFCE6D;Taicho '60 [LEGS]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#7C7957;Hohei '60 [LEGS]: Summons one HOHEI '60 RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#7C7957;60s Cooldown.^reset;"	"부사관과 하급 장교용 신군도 생산은 50년대에 중단됐지만, 전투에서 휴대하는 것 자체가 금지된 건 아니었다. 그래서 검을 차고 다니는 자들은 '구세대'로 존경받았다. 수명도 짧았지만 — 게릴라 저격수들이 노리는 값진 표적이었으니까.
+^#FFCE6D;타이초 '60 [LEGS]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#7C7957;호헤이 '60 [LEGS]: ^reset;^orange;배치 명령^reset; ^#7C7957;사용 시 호헤이 '60 소총병 하나 소환 | 재사용 대기시간 60초.^reset;"	
+/items/armors/GiC IJA Uniforms/type20officer/gic_type20officer.legs	shortdescription	Type 20 Pants (Officer)	20식 바지 (장교)	
+/items/armors/GiC IJA Uniforms/type20tanktop/gic_type20tanktop.back	description	"A couple of inseparable ''Kidney Pouches'', similar to a breadbag or a buttpack. Intended for the storage of spare underwear and socks, washing and shaving kit, boot cleaning items, twenty-four-hour rations, and any other items that the user may need to have secured.
+
+^#CCD8B6;+1.5HP/s.^reset;"	"빵가방이나 엉덩이 가방과 비슷한 한 쌍의 떼어낼 수 없는 '신장 파우치'. 여분 속옷과 양말, 세면·면도 도구, 장화 관리 용품, 24시간 분 휴대식량, 기타 사용자가 고정해 둘 필요가 있는 물건을 넣도록 설계됐다.
+ 
+^#CCD8B6;초당 체력 +1.5.^reset;"	
+/items/armors/GiC IJA Uniforms/type20tanktop/gic_type20tanktop.back	shortdescription	Type 20 Backpack Pouches	20식 배낭 파우치	
+/items/armors/GiC IJA Uniforms/type20tanktop/gic_type20tanktop.chest	description	"''I'm not a tourist, I live here!''
+IJA Class I-A (fit for active service) conscripts would serve for 2 years, and in the 1960's would most likely end up fighting guerillas in India or in any other Co-Prosperity Sphere puppet state.
+
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''난 관광객이 아니라고, 여기 산다고!''
+IJA 제1종 갑(현역 적합) 징집병은 2년간 복무했고, 1960년대에는 대부분 인도나 다른 공영권 괴뢰국에서 게릴라와 싸우게 됐다.
+ 
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20tanktop/gic_type20tanktop.chest	shortdescription	Type 20 Webbing (Tanktop)	20식 웹 장구 (탱크톱)	
+/items/armors/GiC IJA Uniforms/type20tropical/gic_type20tropical.back	description	"War in the jungle posed a deadly dilemma of logistics to the IJA - patrols need to carry a lot of stuff to operate for prolonged periods outside the wire, but hauling 40 kilograms of equipment in the thick jungles is the kind of thing that gets you exhausted, fatigued, and eventually killed. Soldiers taught themselves to pack light, and ditched high-capacity backpacks for field-crafted tube packs. Clearly, 1960's generation of Hohei are just too lazy...
+^#CCD8B6;Self Sustaining: Reloading an Assault Rifle, Battle Rifle, or Light Machinegun recovers 1x Scrap Metal | +0.5HP/s.^reset;"	"정글전은 IJA에 치명적인 보급 딜레마를 줬다 — 철조망 밖에서 오래 작전하려면 순찰대가 많은 걸 짊어져야 하는데, 울창한 정글에서 40kg 장비를 끌고 다니는 건 지치고 탈진해서 결국 죽는 길이다. 병사들은 스스로 짐을 줄이는 법을 배우고, 대용량 배낭을 버리고 야전 제작 튜브 팩을 썼다. 1960년대 호헤이 세대는 너무 게으른 게 분명해...
+^#CCD8B6;자급자족: 돌격소총, 배틀 소총, 경기관총 재장전 시 고철 1개 회수 | 초당 체력 +0.5.^reset;"	
+/items/armors/GiC IJA Uniforms/type20tropical/gic_type20tropical.back	shortdescription	Type 20 Tube Pack	20식 튜브 팩	
+/items/armors/GiC IJA Uniforms/type20tropical/gic_type20tropical.chest	description	"''Oh, we got off that boat, commies everywhere.
+A lotta killin' and dyin'. And no one seems to care.''
+Major student protests and political crises in the 50's and 60's reshaped Japanese society's attitude to war. Young people didn't want to die in another one of Japan's ''counter-insurgency'' wars.
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''아, 그 배에서 내렸더니 빨갱이가 사방에 있었지.
+수많은 죽이고 죽는 일. 아무도 신경 쓰지 않는 것 같아.''
+50년대와 60년대의 대규모 학생 시위와 정치 위기는 전쟁에 대한 일본 사회의 태도를 바꿨다. 젊은이들은 일본의 또 다른 '반군 진압' 전쟁에서 죽고 싶어 하지 않았다.
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20tropical/gic_type20tropical.chest	shortdescription	Type 20 Shirt (Short)	20식 셔츠 (반소매)	
+/items/armors/GiC IJA Uniforms/type20tropical/gic_type20tropical.head	description	"''I'm at my highest peak, I'm ripe
+About to fall, capture me
+Or at least take my picture
+Kuzurete yuku maeni.''
+  
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [HEAD]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''나는 지금 최고조, 무르익었어
+떨어지기 직전, 나를 잡아줘
+아니면 사진이라도 찍어줘
+무너져 가기 전에.''
+  
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [HEAD]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20tropical/gic_type20tropical.head	shortdescription	Type 20 Field Cap w/ Flaps	20식 야전모 w/ 햇빛가리개	
+/items/armors/GiC IJA Uniforms/type20tropical/gic_type20tropical.legs	description	"''Are you sweaty because you're hot, or are you hot because you're sweaty?''
+Standard Type 20 pants, tailored into shorts. They are usually made of damaged or surplus pants. Very much a uniform violation, but also very comfy.
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [LEGS]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''더워서 땀 나는 거야, 땀 나서 더운 거야?''
+표준 20식 바지를 반바지로 재단한 것. 보통은 찢어지거나 잉여 바지로 만든다. 제복 규정 위반이지만, 그래도 매우 편하다.
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [LEGS]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20tropical/gic_type20tropical.legs	shortdescription	Type 20 Short Shorts	20식 짧은 반바지	
+/items/armors/GiC IJA Uniforms/type20winter/gic_type20winter.chest	description	"''Neither cross stands high in the hills,
+Nor a stone fulfilled God's will -
+Waltz Manchurian praises the Glory
+To the fallen - and always will.''
+
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''언덕 위에 십자가는 높지 않고,
+돌도 신의 뜻을 이루지 못했지만 -
+만주의 왈츠는 영광을 찬양하네
+전사한 이들에게 - 언제까지나.''
+ 
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20winter/gic_type20winter.chest	shortdescription	Type 20 Parka	20식 파카	
+/items/armors/GiC IJA Uniforms/type20winter/gic_type20winter.head	description	"''Border guarding is long periods of boredom punctuated by moments of sheer terror.''
+Standard ''Ushanka-hat'' element of winter uniform used by Japanese and Manchu forces, particularly in the regions bordering Russia.
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [HEAD]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''국경 경비는 지루함의 긴 시간 사이에 순수한 공포의 순간이 박혀 있는 것이다.''
+일본과 만주군이 쓰던, 특히 러시아 접경 지역의 동계 제복용 표준 '우샨카 모자'.
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [HEAD]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20winter/gic_type20winter.head	shortdescription	Type 20 Fur Hat	20식 모피모	
+/items/armors/GiC IJA Uniforms/type20winter_alt/gic_type20winter_alt.head	description	"''Border guarding is long periods of boredom punctuated by moments of sheer terror.''
+Standard ''Ushanka-hat'' element of winter uniform used by Japanese and Manchu forces, particularly in the regions bordering Russia.
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [HEAD]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''국경 경비는 지루함의 긴 시간 사이에 순수한 공포의 순간이 박혀 있는 것이다.''
+일본과 만주군이 쓰던, 특히 러시아 접경 지역의 동계 제복용 표준 '우샨카 모자'.
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [HEAD]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type20winter_alt/gic_type20winter_alt.head	shortdescription	Type 20 Fur Hat (Flaps Down)	20식 모피모 (귀덮개 내림)	
+/items/armors/GiC IJA Uniforms/type26/gic_type26.chest	description	"Standard-issue Type 20 Uniform with a new Type 26 camouflage pattern. Nicknamed ''Hokkaido'' thanks to its cold colour palette, it would be a stretch to say this design succeeded anywhere, unlike its many derivaties.
+
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"새 26식 위장 패턴을 입힌 표준 20식 제복. 차가운 색감 때문에 '홋카이도'라 불렸고, 수많은 파생형과 달리 이 디자인이 어디서든 성공했다고 하긴 무리다.
+ 
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type26/gic_type26.chest	shortdescription	Type 26 Shirt	26식 셔츠	
+/items/armors/GiC IJA Uniforms/type26/gic_type26.head	description	"''Gods know I've skrewed things up before and probably shouda stayed out of the Army in the first place instead of volunteering because of what I thought Dad would think. But that doesn't really matter now. Tomorrow I'm gonna do good. No matter what it takes. Take care, okay? Bye Mom. I love you.''
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [HEAD]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''하느님도 아시다시피 전에도 일을 망친 적 있고, 아빠가 뭐라 생각할까 겁나 애초에 지원 대신 입대하지 말았어야 했어. 하지만 그건 지금 중요하지 않아. 내일은 잘할 거야. 무슨 수를 써서든. 몸조심해, 알겠지? 잘 가 엄마. 사랑해.''
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [HEAD]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type26/gic_type26.head	shortdescription	Type 26 Field Cap	26식 야전모	
+/items/armors/GiC IJA Uniforms/type26/gic_type26.legs	description	"''Yeah, you can hide upstream
+We will trap and scalp you
+Change the color of your skin
+But sure as night we'll find you.''
+
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [LEGS]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''그래, 상류에 숨어봐라
+우리가 덫 놓고 가죽을 벗길 거야
+피부색을 바꿔봐라
+하지만 밤이 오듯 반드시 찾아낼 테니.''
+ 
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [LEGS]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type26/gic_type26.legs	shortdescription	Type 26 Pants	26식 바지	
+/items/armors/GiC IJA Uniforms/type26flak/gic_type26flak.chest	description	"Soldiers on long patrols would kill to get their hands on camouflage, but it would be some time before new camo uniforms would get into the hands of troops. Some have resorted to painting stripes or blotches of black and brown on their uniforms with whatever they had on their hands.
+^#DBC5A6;DEF: +20% SMALL-ARMS, +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"장기 순찰 중인 병사들은 위장복을 손에 넣으려고 뭐든 했지만, 새 위장복이 병사들 손에 들어오기까지는 시간이 걸렸다. 어떤 이들은 손에 잡히는 대로 검은색과 갈색 줄무늬나 얼룩을 제복에 칠했다.
+^#DBC5A6;방어: 소화기 +20%, 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type26flak/gic_type26flak.chest	shortdescription	Type 26 Shirt w/ Flak Jacket	26식 셔츠 w/ 방파편 조끼	
+/items/armors/GiC IJA Uniforms/type26flakwinter/type26flakwinter.chest	description	"''- You realize the shit that we've done here? The people we've killed? Back in the civilian world, if we did this... we would go to prison.
+- You're thinking like a Korean again. Think like a Japanese. Over there they'll be laying on medals for what we did.''
+^#DBC5A6;DEF: +20% SMALL-ARMS, +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''- 우리가 여기서 뭘 했는지 아나? 누굴 죽였는지? 민간인 세계에서 이런 짓을 했으면... 우린 감옥 갔을 거라고.
+- 또 조선 사람처럼 생각하네. 일본 사람처럼 생각해. 거기서는 우리가 한 일로 훈장을 주려고 줄을 설걸.''
+^#DBC5A6;방어: 소화기 +20%, 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type26flakwinter/type26flakwinter.chest	shortdescription	Type 26 Parka w/ Flak Jacket	26식 파카 w/ 방파편 조끼	
+/items/armors/GiC IJA Uniforms/type26tropical/gic_type26tropical.chest	description	"''Hokkaido'' pattern wasn't very popular with troops stationed in India, for obvious reasons. Veterans preferred regular plain green fatigues, before commercial recolored variants of Type 26 became available on local gray markets.
+
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"'홋카이도' 패턴은 당연한 이유로 인도 주둔군에게 인기가 없었다. 베테랑들은 26식의 민간 재염색 변형이 현지 암시장에 나오기 전까지 평범한 녹색 전투복을 선호했다.
+ 
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type26tropical/gic_type26tropical.chest	shortdescription	Type 26 Shirt (Rolled Sleeves)	26식 셔츠 (소매 걷음)	
+/items/armors/GiC IJA Uniforms/type26tropical/gic_type26tropical.head	description	"''We're the same with new intentions
+We're the same with bad intentions.''
+
+After WW2, Empire of Japan found itself in a constant state of war against various guerillas all across the Co-Prosperity Sphere. IJA had to become a very mobile force to combat such enemies.
+  
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [HEAD]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''우리는 새로운 의도로 똑같고
+우리는 나쁜 의도로 똑같아.''
+ 
+제2차 세계대전 이후 일본 제국은 공영권 전역의 온갖 게릴라와 끊임없이 전쟁 중임을 깨달았다. IJA는 그런 적을 상대하려고 매우 기동적인 군대가 되어야 했다.
+  
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [HEAD]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type26tropical/gic_type26tropical.head	shortdescription	Type 20 Field Cap	20식 야전모	
+/items/armors/GiC IJA Uniforms/type26tropical/gic_type26tropical.legs	description	"''Yeah, you can hide upstream
+We will trap and scalp you
+Change the color of your skin
+But sure as night we'll find you.''
+
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [LEGS]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''그래, 상류에 숨어봐라
+우리가 덫 놓고 가죽을 벗길 거야
+피부색을 바꿔봐라
+하지만 밤이 오듯 반드시 찾아낼 테니.''
+ 
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [LEGS]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type26tropical/gic_type26tropical.legs	shortdescription	Type 26 Pants	26식 바지	
+/items/armors/GiC IJA Uniforms/type26winter/gic_type26winter.chest	description	"''The Winter. What will the winter do? The wind, the cold. Up in Attu, in Kiska, the ice, what will it do? It beat Napoleon at Moscow.''
+Type 26 camo pattern was initially designed for troops stationed in Hokkaido - a mountainous, cold island that was the most likely target target for Soviet invasion, if such a thing would occur.
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [CHEST]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''겨울. 겨울은 뭘 할까? 바람, 추위. 아투에서, 키스카에서, 얼음은, 뭘 할까? 모스크바에서 나폴레옹을 쳐부쉈지.''
+26식 위장 패턴은 원래 홋카이도 주둔 부대용으로 설계됐다 — 험준하고 추운 섬으로, 소련 침공이 있다면 가장 유력한 표적이었다.
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [CHEST]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type26winter/gic_type26winter.chest	shortdescription	Type 26 Parka	26식 파카	
+/items/armors/GiC IJA Uniforms/type26winter/gic_type26winter.head	description	"''We're the same with new intentions
+We're the same with bad intentions.''
+
+After WW2, Empire of Japan found itself in a constant state of war against various guerillas all across the Co-Prosperity Sphere. IJA had to become a very mobile force to combat such enemies.
+  
+^#DBC5A6;DEF: +20% THERMAL^reset; | ^#FFCE6D;Hohei '60 [HEAD]: +10% Battle Rifle Proficiency | -20% projectile spread for Battle Rifles.
+^#F2B8EC;Unrelenting Adaptability [FULL SET 3x | Survivalists] - +10 MAX HP | +10 DODGE | +10% General Weapon Proficiency | +10 Ability Mana."	"''우리는 새로운 의도로 똑같고
+우리는 나쁜 의도로 똑같아.''
+ 
+제2차 세계대전 이후 일본 제국은 공영권 전역의 온갖 게릴라와 끊임없이 전쟁 중임을 깨달았다. IJA는 그런 적을 상대하려고 매우 기동적인 군대가 되어야 했다.
+  
+^#DBC5A6;방어: 열 +20%^reset; | ^#FFCE6D;호헤이 '60 [HEAD]: 배틀 소총 숙련 +10% | 배틀 소총 발사체 분산 -20%.
+^#F2B8EC;불굴의 적응력 [풀 세트 3개 | 생존자] - 최대 체력 +10 | 회피 +10 | 일반 무기 숙련 +10% | 능력 마나 +10."	
+/items/armors/GiC IJA Uniforms/type26winter/gic_type26winter.head	shortdescription	Type 20 Field Cap	20식 야전모	
+/items/armors/GiC IJA Uniforms/type5/gic_type5.back	description	"Old WW1 backpacks like these had wooden frames and were lined with animal hides and fur to protect the contents from rain.
+^#CCD8B6;+10% DODGE.^reset;
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Firing a two-handed Muzzleloader/Sniper Rifle activates GLORY | When GLORY is active: Forces walking, -50% Movement, +50% Muzzleloader/Sniper Rifle Proficiency, +50% SMALL-ARMS (+25% Heavy-Arms) Resist, +5HP/s | Ability only lasts an initial 10s (6s for sniper rifles), but can be refreshed on each reload | 45s cooldown if expiring."	"이런 제1차 세계대전식 구형 배낭은 나무 프레임에 비를 막으려고 동물 가죽과 털을 씌웠다.
+^#CCD8B6;회피 +10%.^reset;
+^#F2B8EC;용기와 영광 [풀 세트 4개 필요] - 양손 전장식/저격소총 발사 시 영광 발동 | 영광 중: 강제 걷기, 이동 -50%, 전장식/저격소총 숙련 +50%, 소화기 저항 +50%(중화기 +25%), 초당 체력 +5 | 능력은 처음 10초(저격소총 6초)만 지속되지만 재장전마다 갱신 | 만료 시 재사용 대기시간 45초."	
+/items/armors/GiC IJA Uniforms/type5/gic_type5.back	shortdescription	Type 45 Backpack	45식 배낭	
+/items/armors/GiC IJA Uniforms/type5/gic_type5.chest	description	"Type 5 uniform was introduced in 1930, and features standing collar and shoulder tabs. It was essentially a variant of earlier uniforms, like Type 45 (introduced in 1911). Siding with the Entente in WW1, IJA was influenced extencively by the French, adopting Adrian helmet and French-styled rank shoulder-tabs for their uniforms.
+^#DBC5A6;DEF: +10% DODGE | +20% THERMAL.
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Refer to the Type 45 Backpack for effects."	"5식 제복은 1930년 도입됐으며, 스탠딩 칼라와 견장이 특징이다. 사실상 45식(1911년 도입) 같은 초기 제복의 변형이다. 제1차 세계대전에서 연합국 측에 선 IJA는 프랑스의 영향을 크게 받아, 아드리안 철모와 프랑스식 계급 견장을 제복에 도입했다.
+^#DBC5A6;방어: 회피 +10% | 열 +20%.
+^#F2B8EC;용기와 영광 [풀 세트 4개 필요] - 효과는 45식 배낭 참조."	
+/items/armors/GiC IJA Uniforms/type5/gic_type5.chest	shortdescription	Type 5 Tunic	5식 튜닉	
+/items/armors/GiC IJA Uniforms/type5/gic_type5.head	description	"Early-war peaked cap. Although this style of hats is usually assosiated with officers, Japanese service hats were standard-issue to all IJA personnel prior to adoption of Sen-bou Type 98 caps. Red band signifies infantry, and each branch of military had their own colour.
+
+^#DBC5A6;DEF: +10% DODGE | +15% THERMAL.
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Refer to the Type 45 Backpack for effects."	"전쟁 초기의 제모. 이런 스타일의 모자는 보통 장교와 연결되지만, 일본군 근무모는 98식 센보 채택 전까지 IJA 전원에게 지급됐다. 붉은 띠는 보병을 나타내며, 군종마다 색이 달랐다.
+ 
+^#DBC5A6;방어: 회피 +10% | 열 +15%.
+^#F2B8EC;용기와 영광 [풀 세트 4개 필요] - 효과는 45식 배낭 참조."	
+/items/armors/GiC IJA Uniforms/type5/gic_type5.head	shortdescription	Type 45 Service Hat	45식 제모	
+/items/armors/GiC IJA Uniforms/type5/gic_type5.legs	description	"Type 5 pants with putees and hobnailed boots. Made of wool and colored in khaki, Type 5 uniform wasn't really unique, with Chinese forces using similar uniforms prior and during Second Sino-Japanese War.
+  
+^#DBC5A6;DEF: +10% DODGE | +15% THERMAL.
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Refer to the Type 45 Backpack for effects."	"게이터를 차고 못 박힌 장화를 신은 5식 바지. 카키색 양모로 만든 5식 제복은 그다지 독특하지 않았고, 중국군도 제2차 중일전쟁 전과 도중에 비슷한 제복을 썼다.
+  
+^#DBC5A6;방어: 회피 +10% | 열 +15%.
+^#F2B8EC;용기와 영광 [풀 세트 4개 필요] - 효과는 45식 배낭 참조."	
+/items/armors/GiC IJA Uniforms/type5/gic_type5.legs	shortdescription	Type 5 Pants	5식 바지	
+/items/armors/GiC IJA Uniforms/type5armor/gic_type5armor.chest	description	"Type 5 tunic with a protection body vest worn on top. There are metal inserts sewn in, overlaying eachother like scales. White label on the front indicates that it was ''Carefully produced, reverently made'' by ''East Asia Industrial Research Institute''. Like all WW2-era infantry body armor, it's a bit too heavy for too little ballistic protection.
+^#DBC5A6;DEF: +20% SMALL-ARMS | +30% BLEED PROC | +30% SLASH | +15% THRUST^reset;
+^#F2B8EC;Guts & Glory [FULL SET 4x REQUIRED] - Refer to the Type 45 Backpack for effects."	"방호 조끼를 위에 입은 5식 튜닉. 비늘처럼 겹치는 금속판을 꿰매 넣었다. 앞면의 흰 라벨에는 '동아공업연구소'에서 '정성스럽게 제작, 경건하게 제작'했다고 적혀 있다. 모든 제2차 세계대전 시절 보병 방탄복이 그렇듯, 작은 탄도 방호력치고는 좀 무겁다.
+^#DBC5A6;방어: 소화기 +20% | 출혈 발동 +30% | 참격 +30% | 찌르기 +15%^reset;
+^#F2B8EC;용기와 영광 [풀 세트 4개 필요] - 효과는 45식 배낭 참조."	
+/items/armors/GiC IJA Uniforms/type5armor/gic_type5armor.chest	shortdescription	Type 5 Tunic (Steel Body Wear)	5식 튜닉 (강철 호구복)	
+/items/armors/GiC IJA Uniforms/type95_gasmask/gic_type95_gasmask.head	description	"Japanese military gas mask, introduced in year 1935. WW2 wasn't remembered for chemical warfare both because most sides didn't want to repeat horrors of First World War, and because everyone was prepared for gas attacks anyway, making them not that great of a weapon. China, lacking in industry, was unable to effectively fight chemical and biological WMD's. And IJA exploited it.
+^green;+30% POISON and PSYCHIC Resistance.^reset;  
+^#799E4B;Prevents certain [GIC] environmental hazards.^reset;"	"1935년 도입된 일본군 방독면. 제2차 세계대전이 화학전으로 기억되지 않은 것은 대부분의 측이 제1차 대전의 공포를 되풀이하고 싶지 않았던 것도, 모두가 가스 공격에 대비돼 있어 가스가 그다지 좋은 무기가 아니었던 것도 있다. 산업력이 부족한 중국은 화학·생물학적 대량살상무기에 효과적으로 대항할 수 없었다. 그리고 IJA는 그걸 이용했다.
+^green;독 및 사이킥 저항 +30%.^reset;  
+^#799E4B;특정 [GIC] 환경 위험 방지.^reset;"	
+/items/armors/GiC IJA Uniforms/type95_gasmask/gic_type95_gasmask.head	shortdescription	Type 95 Gas Mask	95식 방독면	
+/items/armors/GiC IJA Uniforms/type98/gic_type98.back	description	"Standard-issue Japanese Army backpack. Nickname ''Tako'' means ''octopus'' in Japanese, and comes from its complicated system of straps holding it together. Contemporary backpacks were quite small, and a lot of equipment was carried on top of it rather than inside. Japanese soldiers were intimately familiar with defensive fortifications, and with ''do-or-die'' attitude they even dug tunnels through entire mountains with just pickaxes and shovels.
+
+^#CCD8B6;+25HP.^reset;"	"표준 지급 일본군 배낭. 별명 '타코'는 일본어로 '문어'를 뜻하며, 배낭을 묶는 복잡한 스트랩 체계에서 유래했다. 당대 배낭은 꽤 작았고 장비 대부분은 안이 아니라 위에 얹어 다녔다. 일본 병사들은 방어 진지 구축에 익숙했고, '필사즉생'의 자세로 곡괭이와 삽만으로 산 하나를 통째로 관통하는 터널도 팠다.
+ 
+^#CCD8B6;체력 +25.^reset;"	
+/items/armors/GiC IJA Uniforms/type98/gic_type98.back	shortdescription	Type 99 ''Tako'' Backpack	99식 '타코' 배낭	
+/items/armors/GiC IJA Uniforms/type98/gic_type98.chest	description	"Type 98 cotton tunic, complete with ammo pouches and a breadbag. Imperial Japanese Army was a fighting force unlike any European army, its soldiers willing to carry on where others would give up. It's also infamous for heinous warcrimes, commited out of the same fanaticism.
+  
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B3AD97;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;"	"탄약 주머니와 빵가방을 갖춘 98식 면제 튜닉. 일본 제국 육군은 어떤 유럽군과도 다른 군대였고, 병사들은 남들이 포기할 곳에서도 버텼다. 같은 광신에서 나온 흉악한 전쟁범죄로도 악명 높다.
+  
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B3AD97;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;"	
+/items/armors/GiC IJA Uniforms/type98/gic_type98.chest	shortdescription	Type 98 Tunic	98식 튜닉	
+/items/armors/GiC IJA Uniforms/type98/gic_type98.head	description	"Imperial Japanese Army field cap, known as Sen-bou. Essentially a little woolen garrison cap with a visor. Empire of Japan's militaristic government aimed at establishing Japanese dominion over entirity of Eastern Asia. Naturally, such expansionist ambitions set Japan on a collision course with major world powers such as Britain and United States. 
+  
+^green;+10% Movement Speed.^reset;"	"센보라 불리는 일본 제국 육군 야전모. 사실상 바이저 달린 작은 양모 주둔모다. 일본 제국의 군국주의 정부는 동아시아 전역에 대한 일본의 패권 수립을 노렸고, 당연히 그런 확장주의 야망은 영국과 미국 같은 주요 강대국과의 충돌로 이어졌다.
+  
+^green;이동 속도 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98/gic_type98.head	shortdescription	Type 98 Field Cap	98식 야전모	
+/items/armors/GiC IJA Uniforms/type98/gic_type98.legs	description	"Type 98 pants with putees and hobnailed boots. Banzai charges were a valid tactic, as their psychological effect was powerful against poorly trained and under-equipped forces. In face of trained opposition with lots of automatic weapons, banzai attacks became glorified suicide charges. 
+  
+^#96CBE7;SECOND CHANCE - On taking FATAL Damage, gain 3s of INVULNERABILITY^reset; | ^#B3AD97;LONG LIVE HIS MAJESTY - Each piece reduces cooldown of SECOND CHANCE by 20%^reset;"	"게이터를 차고 못 박힌 장화를 신은 98식 바지. 반자이 돌격은 유효한 전술이었다 — 훈련 부족이고 장비가 부실한 적에게는 심리적 효과가 강력했으니까. 자동화기로 무장한 훈련된 적을 상대로는 반자이 공격은 미화된 자살 돌격이 됐다.
+  
+^#96CBE7;두 번째 기회 - 치명적 피해를 받으면 3초간 무적 획득^reset; | ^#B3AD97;폐하 만세 - 부품 하나마다 두 번째 기회 재사용 대기시간 20% 감소^reset;"	
+/items/armors/GiC IJA Uniforms/type98/gic_type98.legs	shortdescription	Type 98 Pants	98식 바지	
+/items/armors/GiC IJA Uniforms/type98camo/gic_type98camo.back	description	"Tube rucksack covered by net-cape with foliage. Night raids and surprise attacks were integral to the IJA infantry doctrine, and worked to great effect in the early years of war. However, since Japanese officers were notoriously unversatile, Allies learned to defend themselves from night-time incursions. As well-trained Japanese troops were replaced by hastily trained recruits, these tactics broke down entirely.
+
+^#CCD8B6;+10% DODGE.^reset;"	"풀잎을 얹은 망 외투로 덮은 튜브 배낭. 야습과 기습은 IJA 보병 교리의 핵심이었고, 전쟁 초기에는 큰 효과를 봤다. 하지만 일본군 장교들이 악명 높을 만큼 융통성이 없었던 탓에, 연합군은 야간 침입 방어를 배웠다. 정예 일본군이 서둘러 훈련된 신병으로 대체되면서 이 전술은 완전히 무너졌다.
+ 
+^#CCD8B6;회피 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98camo/gic_type98camo.back	shortdescription	IJA Tube Pack Camouflaged	IJA 튜브 팩 위장형	
+/items/armors/GiC IJA Uniforms/type98camo/gic_type98camo.chest	description	"Type 98 tropical shirt with a net-cape, filled with foliage for camouflage purposes. By the end of the war, IJA was in a rather asymmetric position relative to Allies, and had to utilize tactics more associated today with insurgents and guerrillas: ambushes, booby traps, extensive use of underground tunnels and even suicide bombers...
+
+^orange;Ambush Tactics [CHEST] - Grants +10% DODGE. Taking damage transfers the boost to +15% [EWS] HIT CHANCE, ACCURACY and SPEED.^reset;"	"위장용으로 풀잎을 채운 망 외투를 두른 98식 열대 셔츠. 종전기에 IJA는 연합군에 비해 상당히 비대칭적인 처지였고, 오늘날 반군과 게릴라를 연상시키는 전술을 써야 했다: 매복, 부비트랩, 광범위한 지하 터널, 심지어 자폭병까지...
+ 
+^orange;매복 전술 [CHEST] - 회피 +10%. 피해를 받으면 버프가 [EWS] 적중 확률, 명중률, 속도 +15%로 전환.^reset;"	
+/items/armors/GiC IJA Uniforms/type98camo/gic_type98camo.chest	shortdescription	Type 98 Tropical Shirt Camouflaged	98식 열대 셔츠 위장형	
+/items/armors/GiC IJA Uniforms/type98camo/gic_type98camo.legs	description	"''Bushido is realized in the presence of death.''
+
+Type 98 pants, with weeds and branches inserted into puttees. While Japanese used unconventional tactics, their use contradicted the Bushido code on which IJA was built. Soldiers and officers preferred to hold positions to their death rather than retreat to live another day.
+^orange;Ambush Tactics [LEGS] - Grants +10% DODGE. Taking damage transfers the boost to +15% [EWS] HIT CHANCE, ACCURACY and SPEED.^reset;"	"''무사도는 죽음 앞에서 실현된다.''
+ 
+풀과 나뭇가지를 게이터에 꽂은 98식 바지. 일본인들은 비정규 전술을 썼지만, 그 사용은 IJA의 근간인 무사도와 모순됐다. 병사와 장교들은 살아서 싸울 후퇴보다 죽을 때까지 진지를 지키는 걸 선호했다.
+^orange;매복 전술 [LEGS] - 회피 +10%. 피해를 받으면 버프가 [EWS] 적중 확률, 명중률, 속도 +15%로 전환.^reset;"	
+/items/armors/GiC IJA Uniforms/type98camo/gic_type98camo.legs	shortdescription	Type 98 Pants Camouflaged	98식 바지 위장형	
+/items/armors/GiC IJA Uniforms/type98camoofficer/type98camoofficer.chest	description	"Unlike your typical cruel but cowardly officers that send troops to certain death, IJA commanders were quite eager to meet death themselves. But the smarter officers would rather prolong the fight, becoming guerillas that would haunt the Allies long after the battle (or war, for that matter) was lost.
+^#C9C2B2;The Fox [CHEST]: Summons one CAMOUFLAGED IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"병사들을 죽음으로 내모는 전형적인 잔인하고 비겁한 장교와 달리, IJA 지휘관들은 스스로 죽음을 맞길 열망했다. 하지만 더 영리한 장교들은 싸움을 질질 끌어, 전투가 (아니, 전쟁이) 진 뒤에도 오래 연합군을 괴롭히는 게릴라가 되는 쪽을 택했다.
+^#C9C2B2;여우 [CHEST]: ^reset;^orange;배치 명령^reset; ^#C9C2B2;사용 시 위장 IJA 소총수 1명 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98camoofficer/type98camoofficer.chest	shortdescription	Type 98 Officer Shirt Camouflaged	98식 장교 셔츠 위장형	
+/items/armors/GiC IJA Uniforms/type98camoofficer/type98camoofficer.legs	description	"''My aim is to win the war. You just want to die. One must be ready to die. But we must fight to win, not to die. Our job is to kill the enemy and lead our army to victory. Don't ever forget that.'' 
+  
+^#C9C2B2;The Fox [LEGS]: Summons one CAMOUFLAGED IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"''내 목표는 전쟁에서 이기는 거다. 너희는 그냥 죽고 싶은 거고. 죽을 각오는 해야 해. 하지만 우린 죽으러가 아니라 이기러 싸워야 한다. 우리 일은 적을 죽이고 군대를 승리로 이끄는 거야. 절대 잊지 마.''
+  
+^#C9C2B2;여우 [LEGS]: ^reset;^orange;배치 명령^reset; ^#C9C2B2;사용 시 위장 IJA 소총수 1명 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98camoofficer/type98camoofficer.legs	shortdescription	Type 98 Officer Pants Camouflaged	98식 장교 바지 위장형	
+/items/armors/GiC IJA Uniforms/type98grenadier/gic_type98grenadier.chest	description	"Type 98 Tunic with pouches for Type 89 mortar shells. Compared to rifle grenades or post-war grenade launchers, T89's recoil was enough to break a femur (hence the infamy), but soldiers found ways to direct-fire the mortar, such as putting the backplate against walls or tree trunks. Wherever Japanese marched, T89 gained a good reputation among local fighters - it kept ''popping'' shells across Asia all the way up to Vietnam War.
+^#96CBE7;Fire Support - Enemies killed within approximately 60 blocks have a 5% chance to drop a Osaka T89 50mm Mortar Shell.^reset;"	"89식 박격포탄용 주머니가 달린 98식 튜닉. 소총유탄이나 전후 유탄발사기에 비해 T89의 반동은 대퇴골을 부러뜨릴 정도였고(그래서 악명도 얻었다), 병사들은 받침판을 벽이나 나무 기둥에 대고 직사하는 방법을 찾아냈다. 일본이 행진하는 곳마다 T89는 현지 전투원들 사이에서 좋은 평판을 얻어, 베트남 전쟁까지 아시아 전역에 탄을 '팡팡' 날려줬다.
+^#96CBE7;화력 지원 - 약 60블록 이내에서 처치한 적이 5% 확률로 오사카 T89 50mm 박격포탄 드롭.^reset;"	
+/items/armors/GiC IJA Uniforms/type98grenadier/gic_type98grenadier.chest	shortdescription	Type 98 Tunic (Grenadier)	98식 튜닉 (척탄병)	
+/items/armors/GiC IJA Uniforms/type98holdout/gic_type98holdout.chest	description	"
+
+^#DBC5A6;DEF: +20% THERMAL^reset;
+^#96CBE7;The Vow to Fight On [CHEST]: Slightly reduces hunger rate.^reset;"	" 
+ 
+^#DBC5A6;방어: 열 +20%^reset;
+^#96CBE7;항전의 서약 [CHEST]: 배고픔 속도를 약간 감소.^reset;"	
+/items/armors/GiC IJA Uniforms/type98holdout/gic_type98holdout.chest	shortdescription	Holdout's Shirt	잔항병의 셔츠	
+/items/armors/GiC IJA Uniforms/type98holdout/gic_type98holdout.head	description	"
+
+^#DBC5A6;DEF: +20% THERMAL^reset;
+^#96CBE7;The Vow to Fight On [CHEST]: Slightly reduces hunger rate.^reset;"	" 
+ 
+^#DBC5A6;방어: 열 +20%^reset;
+^#96CBE7;항전의 서약 [CHEST]: 배고픔 속도를 약간 감소.^reset;"	
+/items/armors/GiC IJA Uniforms/type98holdout/gic_type98holdout.head	shortdescription	Holdout's Cap	잔항병의 모자	
+/items/armors/GiC IJA Uniforms/type98holdout/gic_type98holdout.legs	description	"
+  
+^#DBC5A6;DEF: +20% THERMAL^reset;
+^#96CBE7;The Vow to Fight On [CHEST]: Slightly reduces hunger rate.^reset;"	"
+  
+^#DBC5A6;방어: 열 +20%^reset;
+^#96CBE7;항전의 서약 [CHEST]: 배고픔 속도를 약간 감소.^reset;"	
+/items/armors/GiC IJA Uniforms/type98holdout/gic_type98holdout.legs	shortdescription	Holdout's Pants	잔항병의 바지	
+/items/armors/GiC IJA Uniforms/type98kempeitai/gic_type98kempeitai.chest	description	"Type 98 Tunic with Kempeitai insignias. The infamous military police of the IJA was an organization with a lots of roles - counterintelligence, counterinsurgency, HUMINT, POW camps security, HVT raids, travel permits, food requisition, and many more. Due to their brutality, use of torture, and general warcrimes, they have a reputation in Asia very comparable to that of the SS in the West. 
+^#96CBE7;Fear Factor [CHEST]: Nearby infantry become hesitant, reducing their effective firerate by 0.25s.^reset;"	"켐페이타이 휘장이 달린 98식 튜닉. IJA의 악명 높은 헌병대는 수많은 역할을 하는 조직이었다 — 방첩, 반군 진압, 인적 정보, 포로 수용소 경비, 고가치 목표 급습, 통행 허가, 식량 징발 등. 잔혹함과 고문 사용, 일반적인 전쟁범죄 때문에 아시아에서의 평판은 서구의 SS에 비견될 만하다.
+^#96CBE7;공포 유발 [CHEST]: 주변 보병이 주저하여 유효 발사 간격 0.25초 증가.^reset;"	
+/items/armors/GiC IJA Uniforms/type98kempeitai/gic_type98kempeitai.chest	shortdescription	Type 98 Tunic (Kempeitai)	98식 튜닉 (켐페이타이)	
+/items/armors/GiC IJA Uniforms/type98officer/gic_type98officer.chest	description	"Type 98 cotton tunic with officer gear. Commanding officers often have to risk their lives on the battlefield, much like the men under their command. You want to win the battle? Then get your boots on the ground and lead your men!
+  
+^#7F6044;Imperial Army [CHEST]: Summons one IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#7F6044;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"장교 장비를 갖춘 98식 면제 튜닉. 지휘관도 부하들처럼 전장에서 목숨을 걸어야 하는 경우가 많다. 전투에서 이기고 싶다고? 그럼 장화 끈을 묶고 부하들을 이끌어!
+  
+^#7F6044;제국 육군 [CHEST]: ^reset;^orange;배치 명령^reset; ^#7F6044;사용 시 IJA 소총병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98officer/gic_type98officer.chest	shortdescription	Type 98 Officer Tunic	98식 장교 튜닉	
+/items/armors/GiC IJA Uniforms/type98officer/gic_type98officer.head	description	"Imperial Japanese Army officer's field cap. Japanese officers had to procure their uniforms themselves. Because of this, there was a great variety of uniforms that followed the same pattern but had different coloration, materials and overall quality, depending on how much money the officer was ready to spend. 
+^#7F6044;Imperial Army [HEAD]: Summons one IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#7F6044;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [HEAD]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"일본 제국 육군 장교 야전모. 일본군 장교는 제복을 직접 구해야 했다. 덕분에 같은 패턴이면서도 장교가 쓸 돈에 따라 색, 재료, 품질이 다른 다양한 제복이 나왔다.
+^#7F6044;제국 육군 [HEAD]: ^reset;^orange;배치 명령^reset; ^#7F6044;사용 시 IJA 소총병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [HEAD]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98officer/gic_type98officer.head	shortdescription	Type 98 Officer Field Cap	98식 장교 야전모	
+/items/armors/GiC IJA Uniforms/type98officer/gic_type98officer.legs	description	"Type 98 pants with a (decorative) Shin-Gunto on the belt. More ''battle-hardened'' NCO's preferred to carry their swords on the back, because it turns out that you have to crawl a lot on modern battlefield. Officers, however, don't crawl.
+  
+^#7F6044;Imperial Army [LEGS]: Summons one IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#7F6044;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [LEGS]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"허리에 (장식용) 신군도를 찬 98식 바지. 더 '전투 경험' 있는 부사관들은 검을 등에 멨다 — 현대 전장에서 기어야 하는 일이 많다는 게 밝혀졌으니까. 하지만 장교는 기지 않는다.
+  
+^#7F6044;제국 육군 [LEGS]: ^reset;^orange;배치 명령^reset; ^#7F6044;사용 시 IJA 소총병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [LEGS]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98officer/gic_type98officer.legs	shortdescription	Type 98 Officer Pants	98식 장교 바지	
+/items/armors/GiC IJA Uniforms/type98tropical/gic_type98tropical.back	description	"Tube rucksack issued to IJA light infantry units. Jungle warfare bears innumerable risks, with tropical diseases and predatory fauna being just a tip of the iceberg. Japanese forces in Burmese Theatre of Operations gained reputation of experts in jungle warfare, as they were willing enough to cut through the thickest, most impassible terrain. British Chindits soon challenged that reputation.
+
+^#96CBE7;Feed Off The Land: Slightly reduces hunger rate.^reset;"	"IJA 경보병 부대에 지급된 튜브 배낭. 정글전은 무수한 위험을 안겨줬고 열대 질병과 육식 동물은 빙산의 일각이었다. 버마 전선의 일본군은 가장 울창하고 통행 불가능한 지형도 뚫고 지나갈 만큼 정글전 전문가로 평판을 얻었다. 영국군 친딧 부대가 곧 그 명성에 도전했다.
+ 
+^#96CBE7;현지 조달: 배고픔 속도를 약간 감소.^reset;"	
+/items/armors/GiC IJA Uniforms/type98tropical/gic_type98tropical.back	shortdescription	IJA Tube Pack	IJA 튜브 팩	
+/items/armors/GiC IJA Uniforms/type98tropical/gic_type98tropical.chest	description	"Type 98 tropical shirt, with 2/3 sleeves. Empire of Japan was an underdeveloped island nation trying to win against several major world powers across several Theaters of War. Supply was vital in these circumstances, and IJA's supply in the Pacific and South-Eastern Asia was ridiculously awful.
+
+^green;+10% Movement Speed.^reset;"	"소매가 3분의 2 길이인 98식 열대 셔츠. 일본 제국은 여러 전선에서 여러 강대국을 상대로 이기려는 저개발 섬나라였다. 이런 상황에서 보급은 생명줄이었는데, 태평양과 동남아의 IJA 보급은 말도 안 될 정도로 형편없었다.
+ 
+^green;이동 속도 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98tropical/gic_type98tropical.chest	shortdescription	Type 98 Tropical Shirt	98식 열대 셔츠	
+/items/armors/GiC IJA Uniforms/type98tropical/gic_type98tropical.head	description	"Late-war modification of Sen-bou field cap. Fighting in tropical areas was dictated by supply, and Japanese were notorious in this regard, as soldiers often had to subsist on meager rations and foraged food. Two-thirds of total IJA death count was attributed to illness and starvation. 
+  
+^green;+10% Movement Speed.^reset;"	"종전기의 센보 야전모 개수형. 열대 전투는 보급에 좌우됐고, 일본군은 병사들이 쥐꼬리 배급과 채집 식량으로 연명해야 할 만큼 이 점에서 악명 높았다. IJA 총사망자의 3분의 2가 질병과 기아로 추정된다.
+  
+^green;이동 속도 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98tropical/gic_type98tropical.head	shortdescription	Type 98 Field Cap w/ Flaps	98식 야전모 w/ 햇빛가리개	
+/items/armors/GiC IJA Uniforms/type98tropical/gic_type98tropical.legs	description	"''I hate the British! You are defeated but you have no shame. You are stubborn but you have no pride. You endure but you have no courage. I hate the British!''
+Standard-issued IJA shorts. Many contemporary militaries used shorts in tropical and desert climates. Japanese troops in WW2 occupied large territories close to Earth's equator, and had to adapt it's equipment accordingly.
+
+^green;+10% Movement Speed.^reset;"	"''영국놈들이 싫어! 너희는 패배했는데 부끄러움이 없고, 완강한데 자부심이 없고, 버티는데 용기가 없어. 영국놈들이 싫다고!''
+표준 지급 IJA 반바지. 당대 많은 군대가 열대와 사막 기후에서 반바지를 썼다. 제2차 세계대전의 일본군은 지구 적도 부근의 넓은 지역을 점령했고, 그에 맞게 장비를 적응시켜야 했다.
+ 
+^green;이동 속도 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98tropical/gic_type98tropical.legs	shortdescription	Type 98 Shorts	98식 반바지	
+/items/armors/GiC IJA Uniforms/type98tropical_sleeveless/gic_type98tropical_sleeveless.chest	description	"Type 98 tropical shirt with short sleeves. Hot and humid tropical islands of the Pacific were just as harsh on men as on their equipment. Cotton uniforms of the Japanese would literally rot away and come apart at the seams, at which point soldiers would take American clothes, likely from the dead G.I.s.
+
+^green;+10% Movement Speed.^reset;"	"반소매 98식 열대 셔츠. 태평양의 덥고 습한 열대 섬은 장비만큼이나 사람에게도 가혹했다. 일본군의 면제복은 말 그대로 썩어서 솔기가 뜯어졌고, 그쯤 되면 병사들은 미군 옷을 가져다 입었다 — 아마 죽은 GI한테서.
+ 
+^green;이동 속도 +10%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98tropical_sleeveless/gic_type98tropical_sleeveless.chest	shortdescription	Type 98 Tropical Shirt w/ Short Sleeves	98식 열대 셔츠 w/ 반소매	
+/items/armors/GiC IJA Uniforms/type98tropicalofficer/gic_type98tropical_officer.chest	description	"NCO's Type 98 tropical shirt, with 2/3 sleeves. As in every other nation in the world, NCOs in Japan came from enlisted personnel, unlike proper officers. If your average soldier a was stubborn fanatic, you can guess who were the people that lead them into battles. 
+^#C9C2B2;Pacific Bulwark [CHEST]: Summons one PACIFIC IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"소매가 3분의 2 길이인 부사관용 98식 열대 셔츠. 세계 모든 군대와 마찬가지로 일본의 부사관도 정규 장교와 달리 병 출신이다. 평범한 병사가 고집 센 광신병자라면, 그들을 전투로 이끄는 자들은 어땠을지 짐작할 수 있다.
+^#C9C2B2;퍼시픽 불워크 [CHEST]: ^reset;^orange;배치 명령^reset; ^#C9C2B2;사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98tropicalofficer/gic_type98tropical_officer.chest	shortdescription	Type 98 Tropical NCO Shirt	98식 열대 부사관 셔츠	
+/items/armors/GiC IJA Uniforms/type98tropicalofficer/gic_type98tropical_officer.head	description	"''Death is now inevitable. As men of the Empire, it is now time to sacrifice ourselves and deal a blow to the Americans, creating with our very bones an impenetrable barrier in the Pacific. Shame not yourself in choosing life and be taken prisoner over death.'' 
+  
+^#C9C2B2;Pacific Bulwark [HEAD]: Summons one PACIFIC IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"''이제 죽음은 피할 수 없다. 제국의 남자로서, 이제 우리 자신을 바쳐 미국인에게 타격을 주고, 우리 뼈로 태평양의 무적의 방벽을 세울 시간이다. 죽음 대신 삶을 택해 포로가 되는 수치를 스스로 짓지 마라.''
+  
+^#C9C2B2;퍼시픽 불워크 [HEAD]: ^reset;^orange;배치 명령^reset; ^#C9C2B2;사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98tropicalofficer/gic_type98tropical_officer.head	shortdescription	Type 98 Officer Field Cap w/ Flaps	98식 장교 야전모 w/ 햇빛가리개	
+/items/armors/GiC IJA Uniforms/type98tropicalofficer/gic_type98tropical_officer.legs	description	"Type 98 pants with a sword scabbard. Swords in WW2 were more of a badge of honor than actual weapons, as infantry tactics favoured firepower over melee charges several decades prior. But if nothing else, it sure is a morale boost to see your leader charge the enemy head-first with a sword in hands.
+^#C9C2B2;Pacific Bulwark [LEGS]: Summons one PACIFIC IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"검집이 달린 98식 바지. 제2차 세계대전의 검은 실전 무기라기보다 명예의 휘장에 가까웠고, 보병 전술이 근접 돌격보다 화력을 우선한 건 수십 년 전이다. 그래도 칼 든 지휘관이 적진을 향해 돌진하는 걸 보면 확실히 사기는 오른다.
+^#C9C2B2;퍼시픽 불워크 [LEGS]: ^reset;^orange;배치 명령^reset; ^#C9C2B2;사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98tropicalofficer/gic_type98tropical_officer.legs	shortdescription	Type 98 NCO Pants	98식 부사관 바지	
+/items/armors/GiC IJA Uniforms/type98tropicalofficer_sleeveless/gic_type98tropical_sleeveless_officer.chest	description	"''A word to you about escape. There is no barbed wire. No stockade. No watchtower. They are not necessary. We are an island in the jungle. Escape is impossible. You would die.''
+
+^#C9C2B2;Pacific Bulwark [CHEST]: Summons one PACIFIC IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"''탈출에 대해 한마디 하지. 철조망도 없어. 수용소도 없어. 망루도 없어. 필요가 없으니까. 우리는 정글 속의 섬이야. 탈출은 불가능해. 넌 죽을 거야.''
+ 
+^#C9C2B2;퍼시픽 불워크 [CHEST]: ^reset;^orange;배치 명령^reset; ^#C9C2B2;사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98tropicalofficer_sleeveless/gic_type98tropical_sleeveless_officer.chest	shortdescription	Type 98 Tropical NCO Shirt w/ Short Sleeves	98식 열대 부사관 셔츠 w/ 반소매	
+/items/armors/GiC IJA Uniforms/type98tropicalofficer_sleeveless/gic_type98tropical_sleeveless_officer.legs	description	"Standard-issued IJA shorts. Many contemporary militaries used shorts in tropical and desert climates. Japanese troops in WW2 occupied large territories close to Earth's equator, and had to adapt it's equipment accordingly.
+
+^#C9C2B2;Pacific Bulwark [LEGS]: Summons one PACIFIC IJA RIFLEMAN when using a ^reset;^orange;DEPLOYMENT ORDER^reset; ^#C9C2B2;60s Cooldown. |^reset; ^#DBC5A6;DEF: +10% DODGE |^reset; ^#FFCE6D;Frontline Command [CHEST]: +10% One-Handed Proficiency | -20% projectile spread for One-Handed Weapons.^reset;"	"표준 지급 IJA 반바지. 당대 많은 군대가 열대와 사막 기후에서 반바지를 썼다. 제2차 세계대전의 일본군은 지구 적도 부근의 넓은 지역을 점령했고, 그에 맞게 장비를 적응시켜야 했다.
+ 
+^#C9C2B2;퍼시픽 불워크 [LEGS]: ^reset;^orange;배치 명령^reset; ^#C9C2B2;사용 시 PACIFIC IJA 소총병 하나 소환 | 재사용 대기시간 60초. |^reset; ^#DBC5A6;방어: 회피 +10% |^reset; ^#FFCE6D;전선 지휘 [CHEST]: 한손 무기 숙련 +10% | 한손 무기 발사체 분산 -20%.^reset;"	
+/items/armors/GiC IJA Uniforms/type98tropicalofficer_sleeveless/gic_type98tropical_sleeveless_officer.legs	shortdescription	Type 98 Tropical NCO Shorts	98식 열대 부사관 반바지	
+/items/armors/GiC IJA Uniforms/type98winter/gic_type98winter.head	description	"''Humans are built to explore, yet most of us don't really think that we'll become truly lost. But inevitably, some of us will.''
+
+Winters in Northern and Central China are cruelly cold, so most of major battles of Second Sino-Japanese War took place outside of winter periods. 
+  
+^green;+10% Movement Speed^reset;"	"''인간은 탐험하게끔 만들어졌지만, 진짜로 길을 잃을 거라 생각하는 이는 거의 없다. 그러나 필연적으로, 몇몇은 그렇게 된다.''
+ 
+중국 북부와 중부의 겨울은 혹독하게 추워서, 제2차 중일전쟁의 주요 전투 대부분은 겨울철 밖에서 일어났다.
+  
+^green;이동 속도 +10%^reset;"	
+/items/armors/GiC IJA Uniforms/type98winter/gic_type98winter.head	shortdescription	Type 98 Fur Hat	98식 모피모	
+/items/armors/GiC IJA Uniforms/type98winter_alt/gic_type98winter_alt.head	description	"''Humans are built to explore, yet most of us don't really think that we'll become truly lost. But inevitably, some of us will.''
+
+Winters in Northern and Central China are cruelly cold, so most of major battles of Second Sino-Japanese War took place outside of winter periods. 
+  
+^green;+10% Movement Speed^reset;"	"''인간은 탐험하게끔 만들어졌지만, 진짜로 길을 잃을 거라 생각하는 이는 거의 없다. 그러나 필연적으로, 몇몇은 그렇게 된다.''
+ 
+중국 북부와 중부의 겨울은 혹독하게 추워서, 제2차 중일전쟁의 주요 전투 대부분은 겨울철 밖에서 일어났다.
+  
+^green;이동 속도 +10%^reset;"	
+/items/armors/GiC IJA Uniforms/type98winter_alt/gic_type98winter_alt.head	shortdescription	Type 98 Fur Hat (Flaps Down)	98식 모피모 (귀덮개 내림)	
+/items/armors/UNUSED/GiC US Uniforms/M1 Helmets/m1/gic_m1.head	shortdescription	M1 Helmet	M1 철모	
+/items/armors/UNUSED/GiC US Uniforms/M1 Helmets/m1camo/gic_m1camo.head	shortdescription	M1 Helmet	M1 철모	
+/items/armors/UNUSED/GiC US Uniforms/M1 Helmets/m1camoflap/gic_m1camoflap.head	shortdescription	M1 Helmet	M1 철모	
+/items/armors/UNUSED/GiC US Uniforms/p1941/gic_p1941.back	description	Standard-issue Taisho-era IJA backpack. Old WW1 backpacks like these had wooden frames and were lined with animal hides and fur (cow or horse) to protect the contents from rain.	표준 지급 다이쇼 시대 IJA 배낭. 이런 제1차 세계대전식 구형 배낭은 나무 프레임에 비를 막으려고 동물 가죽과 털(소나 말)을 씌웠다.	
+/items/armors/UNUSED/GiC US Uniforms/p1941/gic_p1941.back	shortdescription	USMC P41 Backpack	USMC P41 배낭	
+/items/armors/UNUSED/GiC US Uniforms/p1941/gic_p1941.chest	description	"lmao.
+  
+^green;+10% Movement Speed.^reset;
+^green;+10% ATK Power.^reset;"	"ㅋㅋㅋ.
+  
+^green;이동 속도 +10%.^reset;
+^green;공격력 +10%.^reset;"	
+/items/armors/UNUSED/GiC US Uniforms/p1941/gic_p1941.chest	shortdescription	USMC P41 HBT Jacket	USMC P41 HBT 재킷	
+/items/armors/UNUSED/GiC US Uniforms/p1941/gic_p1941.head	description	"Early-war peaked cap. Although this style of hats is usually assosiated with officers, Japanese service hats were standard-issue to all IJA personnel prior to adoption of Sen-bou Type 98 caps. Red band signifies infantry, and each branch of military had their own colour. 
+  
+^green;+10% Movement Speed.^reset;
+^green;+10% ATK Power.^reset;"	"전쟁 초기의 제모. 이런 스타일의 모자는 보통 장교와 연결되지만, 일본군 근무모는 98식 센보 채택 전까지 IJA 전원에게 지급됐다. 붉은 띠는 보병을 나타내며, 군종마다 색이 달랐다.
+  
+^green;이동 속도 +10%.^reset;
+^green;공격력 +10%.^reset;"	
+/items/armors/UNUSED/GiC US Uniforms/p1941/gic_p1941.head	shortdescription	USMC Utility Cover	USMC 유틸리티 모자	
+/items/armors/UNUSED/GiC US Uniforms/p1941/gic_p1941.legs	description	"Type 5 pants with putees and hobnailed boots. Made of wool and colored in khaki, Type 5 uniform combat wasn't really unique, with Chinese forces using similar uniforms prior and during Second Sino-Japanese War.
+  
+^green;+10% Movement Speed.^reset;
+^green;+10% ATK Power.^reset;"	"게이터를 차고 못 박힌 장화를 신은 5식 바지. 카키색 양모로 만든 5식 제복 전투는 그다지 독특하지 않았고, 중국군도 제2차 중일전쟁 전과 도중에 비슷한 제복을 썼다.
+  
+^green;이동 속도 +10%.^reset;
+^green;공격력 +10%.^reset;"	
+/items/armors/UNUSED/GiC US Uniforms/p1941/gic_p1941.legs	shortdescription	USMC P41 HBT Trousers	USMC P41 HBT 바지	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92/type92.head	description	A standard issue Japanese infantry helmet.	표준 지급 일본 보병 철모.	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92/type92.head	shortdescription	Type 92 Helmet	92식 철모	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92camo/type92camo.head	description	A standard issue Japanese infantry helmet with foliage tucked under camo net.	위장망 아래에 풀잎을 끼운 표준 지급 일본 보병 철모.	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92camo/type92camo.head	shortdescription	Type 92 Helmet w/ Camo	92식 철모 w/ 위장	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92cover/type92cover.head	description	A standard issue Japanese infantry helmet, with a cloth cover.	천 커버를 씌운 표준 지급 일본 보병 철모.	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92cover/type92cover.head	shortdescription	Type 92 Helmet w/ Cover	92식 철모 w/ 커버	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92covernet/type92cover_net.head	description	A standard issue Japanese infantry helmet, with a cloth cover and a camo net.	천 커버와 위장망을 씌운 표준 지급 일본 보병 철모.	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92covernet/type92cover_net.head	shortdescription	Type 92 Helmet w/ Cover, Net	92식 철모 w/ 커버, 망	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92net/type92net.head	description	A standard issue Japanese infantry helmet with camo net.	위장망을 씌운 표준 지급 일본 보병 철모.	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92net/type92net.head	shortdescription	Type 92 Helmet w/ Net	92식 철모 w/ 망	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92tropical/type92tropical.head	description	A standard issue Japanese infantry helmet with sun-blocking flaps.	햇빛가리개가 달린 표준 지급 일본 보병 철모.	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92tropical/type92tropical.head	shortdescription	Type 92 Helmet Tropical	92식 철모 열대형	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92tropicalcamo/type92tropicalcamo.head	description	A standard issue Japanese infantry helmet with foliage tucked under camo net.	위장망 아래에 풀잎을 끼운 표준 지급 일본 보병 철모.	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92tropicalcamo/type92tropicalcamo.head	shortdescription	Type 92 Helmet w/ Camo	92식 철모 w/ 위장	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92tropicalcover/type92tropical_cover.head	description	A standard issue Japanese infantry helmet, with sun-blocking flaps and a cloth cover.	햇빛가리개와 천 커버를 단 표준 지급 일본 보병 철모.	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92tropicalcover/type92tropical_cover.head	shortdescription	Type 92 Helmet w/ Flaps, Cover	92식 철모 w/ 햇빛가리개, 커버	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92tropicalcovernet/type92tropical_cover_net.head	description	A standard issue Japanese infantry helmet, with sun-flaps, cloth cover and a camo net.	햇빛가리개, 천 커버, 위장망을 단 표준 지급 일본 보병 철모.	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92tropicalcovernet/type92tropical_cover_net.head	shortdescription	Type 92 Helmet w/ Flaps, Cover, Net	92식 철모 w/ 햇빛가리개, 커버, 망	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92tropicalnet/type92tropical_net.head	description	A standard issue Japanese infantry helmet with camo net and sun flaps.	위장망과 햇빛가리개를 단 표준 지급 일본 보병 철모.	
+/items/armors/UNUSED/Vanilla/Type 92 Helmets/type92tropicalnet/type92tropical_net.head	shortdescription	Type 92 Helmet w/ Flaps, Net	92식 철모 w/ 햇빛가리개, 망	
+/items/armors/UNUSED/Vanilla/type98/type98.back	description	Standard-issue Japanese Army backpack. Tako means octopus is Japanese.	표준 지급 일본군 배낭. 타코는 일본어로 문어다.	
+/items/armors/UNUSED/Vanilla/type98/type98.back	shortdescription	Type 99 Tako Backpack	99식 타코 배낭	
+/items/armors/UNUSED/Vanilla/type98/type98.chest	description	Type 98 cotton tunic, complete with ammo pouches, breadbag and canteen.	탄약 주머니, 빵가방, 수통을 갖춘 98식 면제 튜닉.	
+/items/armors/UNUSED/Vanilla/type98/type98.chest	shortdescription	Type 98 Tunic	98식 튜닉	
+/items/armors/UNUSED/Vanilla/type98/type98.head	description	Imperial Japanese Army field cap, known as Sen-bou.	센보라 불리는 일본 제국 육군 야전모.	
+/items/armors/UNUSED/Vanilla/type98/type98.head	shortdescription	Type 98 Field Cap	98식 야전모	
+/items/armors/UNUSED/Vanilla/type98/type98.legs	description	Type 98 pants with putees and hobnailed boots.	게이터를 차고 못 박힌 장화를 신은 98식 바지.	
+/items/armors/UNUSED/Vanilla/type98/type98.legs	shortdescription	Type 98 Pants	98식 바지	
+/items/armors/UNUSED/Vanilla/type98camo/type98camo.back	description	Standard-issue Japanese Army backpack. Tako means octopus is Japanese.	표준 지급 일본군 배낭. 타코는 일본어로 문어다.	
+/items/armors/UNUSED/Vanilla/type98camo/type98camo.back	shortdescription	Type 99 Tako Backpack	99식 타코 배낭	
+/items/armors/UNUSED/Vanilla/type98camo/type98camo.chest	description	Type 98 cotton tunic, modified for hotter climates.	더운 기후용으로 개조된 98식 면제 튜닉.	
+/items/armors/UNUSED/Vanilla/type98camo/type98camo.chest	shortdescription	Type 98 Tropical Tunic	98식 열대 튜닉	
+/items/armors/UNUSED/Vanilla/type98camo/type98camo.legs	description	Type 98 pants with putees and hobnailed boots.	게이터를 차고 못 박힌 장화를 신은 98식 바지.	
+/items/armors/UNUSED/Vanilla/type98camo/type98camo.legs	shortdescription	Type 98 Pants	98식 바지	
+/items/armors/UNUSED/Vanilla/type98tropical/type98tropical.back	description	Standard-issue Japanese Army backpack. Tako means octopus is Japanese.	표준 지급 일본군 배낭. 타코는 일본어로 문어다.	
+/items/armors/UNUSED/Vanilla/type98tropical/type98tropical.back	shortdescription	Type 99 Tako Backpack	99식 타코 배낭	
+/items/armors/UNUSED/Vanilla/type98tropical/type98tropical.chest	description	Type 98 cotton tunic, modified for hotter climates.	더운 기후용으로 개조된 98식 면제 튜닉.	
+/items/armors/UNUSED/Vanilla/type98tropical/type98tropical.chest	shortdescription	Type 98 Tropical Tunic	98식 열대 튜닉	
+/items/armors/UNUSED/Vanilla/type98tropical/type98tropical.head	description	Imperial Japanese Army field cap, known as Sen-bou.	센보라 불리는 일본 제국 육군 야전모.	
+/items/armors/UNUSED/Vanilla/type98tropical/type98tropical.head	shortdescription	Type 98 Field Cap	98식 야전모	
+/items/armors/UNUSED/Vanilla/type98tropical/type98tropical.legs	description	Type 98 pants with putees and hobnailed boots.	게이터를 차고 못 박힌 장화를 신은 98식 바지.	
+/items/armors/UNUSED/Vanilla/type98tropical/type98tropical.legs	shortdescription	Type 98 Pants	98식 바지	
+/items/armors/UNUSED/Vanilla/type98tropical_sleeveless/type98tropical_sleeveless.chest	description	Type 98 cotton tunic, modified for hotter climates.	더운 기후용으로 개조된 98식 면제 튜닉.	
+/items/armors/UNUSED/Vanilla/type98tropical_sleeveless/type98tropical_sleeveless.chest	shortdescription	Type 98 Tropical Tunic	98식 열대 튜닉	
+/items/armors/UNUSED/type5pithhelmet/type5pithhelmet.head	description	"Pith helmets (also called sun helmets) are historically made of sholapith - a milky-white spongey plant matter from Aeschynomene species, originating from India. A wide variety of other materials was used - namely cork, felt, woven bamboo and others. Most militaries phased pith helmets out of active use after Second World War, safe for ceremonial purposes.
+  
+^green;+20% FIRE Resistance.^reset;"	"피스 헬멧(태양 헬멧이라고도 함)은 역사적으로 인도 원산의 에스키노메네속 식물에서 나오는 유백색 스펀지 같은 식물 조직, 쇼라피스로 만들었다. 코르크, 펠트, 짠 대나무 등 다양한 다른 재료도 쓰였다. 대부분의 군대는 제2차 세계대전 이후 피스 헬멧을 실전에서 퇴역시키고 의전용으로만 남겼다.
+  
+^green;화염 저항 +20%.^reset;"	
+/items/armors/UNUSED/type5pithhelmet/type5pithhelmet.head	shortdescription	Type 5 Sun Helmet	5식 태양 헬멧	
+/items/armors/UNUSED/type92covernet/gic_type92cover_net.head	description	"Type 92 Tetsukabuto with a standard-issue cover and camo net. Empire of Japan was often indecisive in it's propaganda in occupied territories, promoting Pan-Asiatism, independence and self-rule for Asian peoples on one hand, and on the other pursuing the idea of divine right of the Empire of Japan to ''unify the eight corners of the world''.
+
+^green;+5% SMALL-ARMS Resistance.^reset;"	"표준 커버와 위장망을 씌운 92식 테츠카부토. 일본 제국은 점령지 선전에서 종종 갈팡질팡했는데, 한편으로는 아시아 민족의 범아시아주의와 독립, 자치를 내세우면서 다른 한편으로는 '팔굉일우'로 세계를 통합할 일본 제국의 신성한 권리를 추구했다.
+ 
+^green;소화기 저항 +5%.^reset;"	
+/items/armors/UNUSED/type92covernet/gic_type92cover_net.head	shortdescription	Type 92 Helmet w/ Cover, Net	92식 철모 w/ 커버, 망	
+/items/armors/UNUSED/type92net/gic_type92net.head	description	"Type 92 Tetsukabuto with a standard-issue camo net. Pacific Theatre of Operations was more of a navy-oriented struggle, where naval and air superiority played decisive role in the outcome of land skirmishes. Japan's bloodiest and costliest ground battles were fought on Chinese soil, long before Allies decided to intervene.
+
+^green;+5% SMALL-ARMS Resistance.^reset;"	"표준 위장망을 씌운 92식 테츠카부토. 태평양 전구는 해군 중심의 전쟁으로, 해군과 공중 우세가 육지 소규모 전투의 승패를 좌우했다. 일본의 가장 피 흘리고 큰 대가를 치른 지상전은 중국 땅에서, 연합군이 개입하기 훨씬 전에 벌어졌다.
+ 
+^green;소화기 저항 +5%.^reset;"	
+/items/armors/UNUSED/type92net/gic_type92net.head	shortdescription	Type 92 Helmet w/ Cover, Net	92식 철모 w/ 커버, 망	
+/items/armors/UNUSED/type92tropicalcovernet/gic_type92tropical_cover_net.head	description	"Combination of Type 92 helmet and Sen-Bou field cap with flaps. IJA in China used Three Alls Policy in response to Communist-led guerrilla activity - ''kill all, burn all, loot all''. Atrocities committed under this policy continued to addle relationships for a whole century after the end of war. When you're encouraged to loot and pillage, what do you think will stop you? 
+
+^green;+5% SMALL-ARMS Resistance.^reset;"	"92식 철모와 햇빛가리개가 달린 센보 야전모의 결합형. 중국의 IJA는 공산당 주도 게릴라 활동에 '삼광 작전'으로 대응했다 — '다 죽이고, 다 태우고, 다 빼앗아라'. 이 정책 아래 저지른 만행은 종전 후 한 세기가 지나도록 관계를 망쳤다. 약탈과 강탈이 권장되면 무엇이 널 멈추겠나?
+ 
+^green;소화기 저항 +5%.^reset;"	
+/items/armors/UNUSED/type92tropicalcovernet/gic_type92tropical_cover_net.head	shortdescription	Type 92 Helmet w/ Flaps, Cover, Net	92식 철모 w/ 햇빛가리개, 커버, 망	
+/items/armors/UNUSED/type92tropicalnet/gic_type92tropical_net.head	description	"Combination of Type 92 helmet and Sen-Bou field cap with flaps. The Greater East Asia Co-Prosperity Sphere was a concept of a political bloc that would unite all of Asia and bring freedom and independence to nations under the Western colonial yoke. Co-Prosperity Sphere ultimately failed as a functioning union, but it has sown the seeds for post-war nationalistic movements. 
+
+^green;+5% SMALL-ARMS Resistance.^reset;"	"92식 철모와 햇빛가리개가 달린 센보 야전모의 결합형. 대동아공영권은 아시아 전체를 묶고 서방 식민 지배 아래 놓인 민족들에게 자유와 독립을 가져올 정치 블록의 개념이었다. 공영권은 기능하는 연합으로는 결국 실패했지만, 전후 민족주의 운동의 씨앗을 뿌렸다.
+ 
+^green;소화기 저항 +5%.^reset;"	
+/items/armors/UNUSED/type92tropicalnet/gic_type92tropical_net.head	shortdescription	Type 92 Helmet w/ Flaps, Net	92식 철모 w/ 햇빛가리개, 망	
+/items/tools/gic_tsukihime_flashlight_tool.flashlight	description	"''....You're not scared are you? It's a path you're quite familiar with. If there's a difference, it's only one thing. This time, you can't come back.''
+  
+Japanese ''Moon Princess'' military flashlight, copied from American TL-122. Military flashlights are made to be reliable, durable, and usually come with additional colored lenses. Red lens is the most important, as the red-coloured lights are said to be the least noticeable in the night."	"''....겁나는 건 아니겠지? 네게 익숙한 길이니까. 다른 점이 있다면, 딱 하나. 이번에는 돌아올 수 없다는 것.''
+  
+미군 TL-122를 모방한 일본의 '달의 공주' 군용 손전등. 군용 손전등은 믿을 수 있고 튼튼하게 만들어지며, 보통 추가 색 렌즈가 딸려 있다. 붉은 렌즈가 가장 중요한데, 붉은색 빛이 밤에 가장 덜 눈에 띈다고 알려져 있다."	
+/items/tools/gic_tsukihime_flashlight_tool.flashlight	shortdescription	Tsukihime Flashlight	츠키히메 손전등	
+/stats/effects/MEDICAL/doesnt work/gic_test_medkitheal.statuseffect	label	Healing	치유	reuse

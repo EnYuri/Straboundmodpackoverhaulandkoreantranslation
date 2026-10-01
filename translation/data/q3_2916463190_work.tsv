@@ -1,0 +1,9 @@
+asset	field	en	ko	src
+/objects/crafting/gica_3dprinter/gica_3dprinter.object	description	A small 3D printer for processing raw materials into slightly more useful forms. May as well take the chance to pack up your ammunitions too.	원자재를 조금 더 유용한 형태로 가공하는 소형 3D 프린터. 이 기회에 탄약도 함께 포장해 두는 것도 좋다.	reuse
+/objects/crafting/gica_3dprinter/gica_3dprinter.object	shortdescription	3D Printer	3D 프린터	reuse
+/objects/crafting/gica_scavengertable/gica_scavengertable.object	description	A table to organize your ammunitions and provisions with.	탄약과 보급품을 정리하는 테이블.	reuse
+/objects/crafting/gica_scavengertable/gica_scavengertable.object	shortdescription	Scavenger's Table	스캐빈저의 테이블	reuse
+/objects/farmables/gica_guncotton/gica_guncottonseed.object	description	A bioengineered species of cotton plants which absorbs chemicals from the environment to produce cotton fibres not dissimilar to guncottons in chemical composition.	환경에서 화학 물질을 흡수해 화학 조성이 면화약과 크게 다르지 않은 섬유를 만들어 내는, 생명공학으로 개량한 목화 품종.	reuse
+/objects/farmables/gica_guncotton/gica_guncottonseed.object	shortdescription	Guncotton Seed	면화약 씨앗	reuse
+/objects/farmables/gica_tobacco/gica_tobaccoseed.object	description	Seeds for tobacco plants.	담배 식물용 씨앗.	reuse
+/objects/farmables/gica_tobacco/gica_tobaccoseed.object	shortdescription	Tobacco Seed	담배 씨앗	reuse

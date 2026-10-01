@@ -1,0 +1,544 @@
+### '하이 마구스' -> 4 hits
+       2  /npcs/factions/covenant/mwhaddon_npc_covenant_mageGlimmlecus.npctype.patch
+       1  /codex/mwhaddon_codex_misc/mwhaddon_codex_glimmlecus_1.codex.patch
+       1  /quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter2/mwhaddon_quests_chapter2_0_4.questtemplate.patch
+      e.g. /codex/mwhaddon_codex_misc/mwhaddon_codex_glimmlecus_1.codex.patch /contentPages/1: '녹슨 자물쇠' 실버힌지, 우리의 사랑받는 15대 하이 마구스 좌는 - 아니, 그는 분명 이 우주가 낳은 가장 위대한 연금술사였다. 에테르 병이나 전이 공명 불꽃 같은 그의 수많은 연금술적 업적은 글리치 연금술 분야
+      e.g. /npcs/factions/covenant/mwhaddon_npc_covenant_mageGlimmlecus.npctype.patch /scriptConfig/dialog/greeting/human/default/3: 하이 마구스 빈더밀도 인간인 모양이야. 같은 인간으로서 한번 만나 뵐 수 있을까?
+      e.g. /quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter2/mwhaddon_quests_chapter2_0_4.questtemplate.patch /text: 무의미함. 앞쪽 방에 ^orange;책장^reset;이 있다. ^green;그것을 조작하면 하수구로 가는 길이 열리며, 거기서 글림레쿠스 탑으로 들어갈 수 있다^reset;. 지루함. 내 정보는 100% 신뢰할 수 
+### '대마법사' -> 17 hits
+       3  /objects/saturn/saturnwallart/saturnpaintings/saturnpainting6.object.patch
+       2  /codex/mwhaddon_codex_covenant/mwhaddon_codex_covenant_2.codex.patch
+       2  /dialog/saturnspaceconverse.config.patch
+       2  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch
+       1  /codex/mwhaddon_codex_misc/mwhaddon_codex_glimmlecus_1.codex.patch
+       1  /interface/arcana/mwhaddon_crafting_alchemist/mwhaddon_crafting_alchemist_4.config.patch
+       1  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_voyage/story_voyage_list.config.patch
+       1  /items/generic/arcana_misc/mwhaddon_misc_keyItem_paperEnvelope.item.patch
+       1  /ivrpgtext.config.patch
+       1  /npcs/others/misc/mwhaddon_npc_marina/mwhaddon_npc_marina.npctype.patch
+       1  /objects/arcana/npcs/mwhaddon_dungeon_misc/mwhaddon_dungeon_misc_npc_deel/nightmare/mwhaddon_dungeon_misc_npc_deelNM_mageKing.object.patch
+       1  /objects/arcana/romantic/mwhaddon_romantic_misc_2/mwhaddon_romantic_misc_2.object.patch
+      e.g. /codex/mwhaddon_codex_covenant/mwhaddon_codex_covenant_2.codex.patch /description: 대마법사에 관한 짧은 설명.
+      e.g. /codex/mwhaddon_codex_misc/mwhaddon_codex_glimmlecus_1.codex.patch /contentPages/5: 그녀가 스스로를 17대 대마법사 좌라 칭한 이후, 이 어두운 역사를 아직 기억하는 사람이 얼마나 될지 궁금해지는 걸 어쩔 수 없다. 이 책을 마친 뒤 내 운명이 어떻게 될지는 모르지만, 진실을 기억하는 누군가가 언제
+      e.g. /dialog/saturnspaceconverse.config.patch /spacesaturnian/saturn/glitch/8: 자네는 왕족을 섬기지 않지? 우리 쪽 왕족은 그저 허수아비일 뿐이야. 실권은 대마법사와 마법 평의회가 쥐고 있지.
+      e.g. /interface/arcana/mwhaddon_crafting_alchemist/mwhaddon_crafting_alchemist_4.config.patch /paneLayout/lblTitle/value: 대마법사의 탁자
+      e.g. /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_voyage/story_voyage_list.config.patch /list/chapter_2/data/context/3/text: 너와 샐리가 하수구로 탑에 들어가 미로 같은 미궁임을 발견했다. 탐험 끝에, 빈더밀과의 알현을 성사시켰다. 방문 이유를 알게 된 대마법사는 시커의 흔적을 추적할 수 있는 부적을 네게 맡겼다.
+      e.g. /items/generic/arcana_misc/mwhaddon_misc_keyItem_paperEnvelope.item.patch /description: 글리튼 연구자가 대마법사에게 보낸 종이 편지입니다. 요즘은 이런 통신 수단을 보기 꽤 드뭅니다.
+      e.g. /ivrpgtext.config.patch /lore/children/people/children/sen/children/thelightattheendofthetunnel/children: I5-T 구역은 꽤 오랫동안 비교적 평화로웠다. 물론 산적들이 땅을 차지하려 들거나, 더 비옥한 행성의 마을에서 지역 다툼이 벌어지는 때도 있었다. 하지만 그것 말고는, 평화로웠다. |  | 늘 그랬던 건 아니었다: 예전에
+      e.g. /npcs/others/misc/mwhaddon_npc_marina/mwhaddon_npc_marina.npctype.patch /scriptConfig/dialog/converse/default/default/2: 그 대마법사도 나처럼 수습생 시절에 같은 어려움을 겪었을까.
+### '상급 마법사' -> 2 hits
+       1  /codex/mwhaddon_codex_covenant/mwhaddon_codex_covenant_2.codex.patch
+       1  /quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter2/mwhaddon_quests_chapter2_0_1.questtemplate.patch
+      e.g. /codex/mwhaddon_codex_covenant/mwhaddon_codex_covenant_2.codex.patch /title: 상급 마법사
+      e.g. /quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter2/mwhaddon_quests_chapter2_0_1.questtemplate.patch /text: ^green;글림레쿠스^reset;는 마법사와 마술사들의 도시로, 글림레쿠스 호수 한가운데 있는 거대한 탑이 특징이다. 그리고 ^orange;그 탑에 사는 상급 마법사, 빈더밀^reset;이 네가 찾아가야 할 사람이
+### '하쿠우키' -> 3 hits
+       3  /codex/mwhaddon_codex_misc/mwhaddon_codex_keepAwayFromDelta.codex.patch
+      e.g. /codex/mwhaddon_codex_misc/mwhaddon_codex_keepAwayFromDelta.codex.patch /contentPages/0: 모든 학자와 벗에게 고한다. 델타 하쿠우키 행성에는 절대 가까이 가지 마라!
+### '하쿠키' -> 1 hits
+       1  /codex/mwhaddon_codex_misc/mwhaddon_codex_keepAwayFromDelta.codex.patch
+      e.g. /codex/mwhaddon_codex_misc/mwhaddon_codex_keepAwayFromDelta.codex.patch /contentPages/1: 델타 하쿠키의 플로란은 그들의 독창적인 식물형 기술로 유명하고, 우연히도, 저 카미유는 다양한 형태의 기술을 연구하는 아르카니안 학자입니다. 그래서 저는 마음먹고 지난달 그들의 기술을 연구하기 위해 델타에 있는 그들
+### '아르카니안' -> 72 hits
+       4  /codex/arcana_codex_havencrest/arcana_codex_havencrest_2.codex.patch
+       3  /codex/arcana_codex_havencrest/arcana_codex_havencrest_3.codex.patch
+       3  /items/active/arcana_relics/lore.config.patch
+       2  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_4.codex.patch
+       2  /codex/arcana_codex_havencrest/arcana_codex_havencrest_1.codex.patch
+       2  /codex/mwhaddon_codex_misc/mwhaddon_codex_AOintro.codex.patch
+       2  /objects/arcana/havencrest/deco_9/havencrest_deco_9.object.patch
+       2  /objects/arcana/npcs/arcana_dungeon_astralObservatory/arcana_dungeon_astralObservatory_npc_ankhu/arcana_dungeon_astralObservatory_npc_ankhu.object.patch
+       2  /objects/generic/flagarcanian/flagarcanian.object.patch
+       1  /codex/arcana_codex_astral/arcana_astral_3.codex.patch
+       1  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_1.codex.patch
+       1  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_2.codex.patch
+       1  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_3.codex.patch
+       1  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_5.codex.patch
+       1  /codex/mwhaddon_codex_misc/mwhaddon_codex_keepAwayFromDelta.codex.patch
+       1  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_arcana/story_arcana_list.config.patch
+       1  /interface/scripted/arcana_updates/arcana_updates_gui.config.patch
+       1  /items/MATERIALS/astral_tile1.matitem.patch
+       1  /items/MATERIALS/astral_tile15.matitem.patch
+       1  /items/MATERIALS/astral_tile2.matitem.patch
+       1  /items/MATERIALS/astral_tile3.matitem.patch
+       1  /items/MATERIALS/astral_tile4.matitem.patch
+       1  /items/MATERIALS/astral_tile5.matitem.patch
+       1  /items/MATERIALS/astral_tile6.matitem.patch
+       1  /items/active/weapons/azure_weapons/azure_pistol_basic/azure_pistol_basic.activeitem.patch
+       1  /items/active/weapons/azure_weapons/azure_sniperRifle_basic/azure_sniperRifle_basic.activeitem.patch
+       1  /items/active/weapons/misc_weapons/baltazar/arcana_baltazar.activeitem.patch
+       1  /items/generic/arcana_misc/arcana_misc_oceanite.item.patch
+       1  /items/generic/mechparts/booster/mwhaddon_mech_booster_gravity.item.patch
+       1  /items/generic/mwhaddon_teaIngredient/mwhaddon_teaIngredient_fuseLotus.item.patch
+      e.g. /codex/arcana_codex_astral/arcana_astral_3.codex.patch /contentPages/0: 당연하게도, 원소 마법 길드는 오랫동안 아케인 시티에서 두드러진 길드였다. 이 길드는 아르카니안 종족 외에도 방대한 수의 회원을 보유하고 있다. 아케인 시티는 마법 학도들로 가득하지만, 도시 순환의 두 하위 길드인 
+      e.g. /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_1.codex.patch /contentPages/0: ^orange;아케인 별^white;은 우리 아르카니안이 '원소'라 부르는 것이 깃든 별 중 하나로, 옅은 파란색을 띤다. 이 별들은 상대적으로 가장 온화해서 탐사에 가장 먼저 추천된다. | ^orange;아케인 정수^
+      e.g. /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_2.codex.patch /contentPages/0: ^orange;페일 별^white;은 우리 아르카니안이 '원소'라 부르는 것이 깃든 별 중 하나로, 흰색 외형을 띤다. 아케인 별 다음으로 탐사를 추천하는 별이다. | ^orange;페일 정수^white;의 양육을 받은
+      e.g. /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_3.codex.patch /contentPages/0: ^orange;슈퍼스톰 별^white;은 우리 아르카니안이 '원소'라 부르는 것이 깃든 별 중 하나로, 보라색 외형을 띤다. 페일 별의 탐사를 마쳤을 때 탐사를 추천한다. | ^orange;슈퍼스톰 정수^white;의 
+      e.g. /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_4.codex.patch /contentPages/0: ^orange;트라이폴라 별^white;은 우리 아르카니안이 '원소'라 부르는 것이 깃든 별 중 하나다. 슈퍼스톰 별의 탐사를 마쳤을 때 탐사를 추천한다. | 트라이폴라 별에는 여섯 종류의 독특한 행성이 있다: ^#ec
+      e.g. /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_5.codex.patch /contentPages/0: ^orange;미라지 별^white;은 우리 아르카니안이 '원소'라 부르는 것이 깃든 별 중 하나로, 분홍색 구형 외형을 띤다. 탐사에서 마지막으로 추천되는 은하다. | 미라지 별은 보통 ^orange;미라지 정수^wh
+      e.g. /codex/arcana_codex_havencrest/arcana_codex_havencrest_1.codex.patch /description: 아르카니안 문서 조각.
+      e.g. /codex/arcana_codex_havencrest/arcana_codex_havencrest_2.codex.patch /title: 아르카니안 샘
+### '아케이니안' -> 2 hits
+       1  /codex/mwhaddon_codex_misc/mwhaddon_codex_keepAwayFromDelta.codex.patch
+       1  /npcs/mission/atprk_devoutattackminiboss.npctype.patch
+      e.g. /codex/mwhaddon_codex_misc/mwhaddon_codex_keepAwayFromDelta.codex.patch /description: 좌절한 아케이니안 학자의 일기. 우연히 여기 떨어진 듯합니다.
+      e.g. /npcs/mission/atprk_devoutattackminiboss.npctype.patch /scriptConfig/dialog/attack/glitch/arcanian/1: 적대적. 남의 일에 신경 껐어야지, 아케이니안!
+### '엑수시아' -> 59 hits
+       3  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_side/story_side_list.config.patch
+       3  /npcs/factions/exousia/arcana_npc_exousia_wachter.npctype.patch
+       2  /codex/arcana_codex_exousia/arcana_codex_exousia_1.codex.patch
+       2  /objects/arcana/exousia/crafting/crafting_1/arcana_exousia_crafting_1.object.patch
+       2  /objects/arcana/exousia/crafting/crafting_2/arcana_exousia_crafting_2.object.patch
+       2  /objects/arcana/exousia/crafting/crafting_3/arcana_exousia_crafting_3.object.patch
+       2  /objects/arcana/exousia/props/deco_10/arcana_exousia_props_deco_10.object.patch
+       2  /objects/arcana/exousia/props/deco_18/arcana_exousia_props_deco_18.object.patch
+       2  /objects/arcana/exousia/tech/wireddeco_6/arcana_exousia_tech_wireddeco_6.object.patch
+       1  /codex/arcana_codex_exousia/arcana_codex_exousia_2.codex.patch
+       1  /codex/arcana_codex_exousia/arcana_codex_exousia_3.codex.patch
+       1  /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_4.codex.patch
+       1  /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_6.codex.patch
+       1  /interface/arcana/arcana_crafting_workbench/arcana_exousia_crafting_1.config.patch
+       1  /interface/arcana/arcana_crafting_workbench/misc/arcana_exousia_crafting_1.config.patch
+       1  /interface/scripted/arcana_updates/arcana_updates_gui.config.patch
+       1  /items/MATERIALS/exousia_tile1.matitem.patch
+       1  /items/MATERIALS/exousia_tile5.matitem.patch
+       1  /items/MATERIALS/exousia_tile6.matitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_imperialArmy_1/exousia_imperialArmy_1_broadsword_2/exousia_imperialArmy_1_broadsword_2.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_imperialArmy_2/exousia_imperialArmy_2_pistol_1/exousia_imperialArmy_2_pistol_1.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_police/exousia_police_blastRifle_1/exousia_police_blastRifle_1.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_police/exousia_police_shotgun_1/exousia_police_shotgun_1.activeitem.patch
+       1  /items/blueprints/arcana_blueprint_exousia.activeitem.patch
+       1  /items/generic/arcana_lootbox/mwhaddon_lootbox_exousia_T6.activeitem.patch
+       1  /items/generic/arcana_lootbox/mwhaddon_lootbox_exousia_T7.activeitem.patch
+       1  /items/generic/arcana_lootbox/mwhaddon_lootbox_exousia_T8.activeitem.patch
+       1  /items/generic/arcana_misc/arcana_misc_behestDongle.item.patch
+       1  /items/generic/arcana_misc/arcana_misc_enartzComposite.item.patch
+       1  /items/generic/arcana_misc/arcana_misc_exoslateComposite.item.patch
+      e.g. /codex/arcana_codex_exousia/arcana_codex_exousia_1.codex.patch /description: 엑수시아 제국에 관한 일반 문서입니다.
+      e.g. /codex/arcana_codex_exousia/arcana_codex_exousia_2.codex.patch /description: 엑수시아 제국의 제국군에 관한 문서 조각입니다.
+      e.g. /codex/arcana_codex_exousia/arcana_codex_exousia_3.codex.patch /description: 엑수시아 제국의 제국 경찰에 관한 문서 조각입니다.
+      e.g. /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_4.codex.patch /contentPages/1: 우린 이미 일정이 크게 늦었어, 전부 당신 탓이야 — 당신의 무심함 때문에 그 엑수시아 놈들이 우리 캠프를 급습했거든. 저 망할 문을 열어 체면이라도 세우지 못하면 공장에 가서 우루사를 어떻게 만나야 할지 상상도 안
+      e.g. /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_6.codex.patch /contentPages/1: 엑수시아의 고도화된 AI 금지에도 불구하고, 우리가 원하는 것의 핵심은 오리온의 기술이 아니라 엑수시아 기술이라는 건 다들 안다. 오리온 기술에 기반해 엑세크레이션에서 이룬 모든 것이 우리의 기대에 못 미쳤다는 게 
+      e.g. /interface/arcana/arcana_crafting_workbench/arcana_exousia_crafting_1.config.patch /paneLayout/lblTitle/value: 엑수시아 작업대
+      e.g. /interface/arcana/arcana_crafting_workbench/misc/arcana_exousia_crafting_1.config.patch /paneLayout/lblTitle/value: 엑수시아 작업대
+      e.g. /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_side/story_side_list.config.patch /list/horizon/data/context/0/text: 노바 스테이션에 있는 엑수시아 소속 장교가 곤란한 상황에 처한 것 같다.
+### '엑소시안' -> 76 hits
+       2  /objects/arcana/exousia/general/bed_1/arcana_exousia_general_bed_1.object.patch
+       2  /objects/arcana/exousia/general/bed_2/arcana_exousia_general_bed_2.object.patch
+       2  /objects/arcana/exousia/science/crate_1/arcana_exousia_science_crate_1.object.patch
+       2  /objects/arcana/exousia/ship/storage_4/arcana_exousia_ship_storage_4.object.patch
+       2  /objects/arcana/exousia/ship/storage_5/arcana_exousia_ship_storage_5.object.patch
+       2  /objects/arcana/exousia/ship/storage_6/arcana_exousia_ship_storage_6.object.patch
+       2  /quests/arcana_quests_ankhu/arcana_quests_ankhu_mwhaddon/arcana_quests_ankhu_mwhaddon_13.questtemplate.patch
+       1  /codex/arcana_codex_exousia/arcana_codex_exousia_1.codex.patch
+       1  /codex/arcana_codex_exousia/arcana_codex_exousia_3.codex.patch
+       1  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_2.codex.patch
+       1  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_5.codex.patch
+       1  /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_5.codex.patch
+       1  /items/MATERIALS/exousia_tile1.matitem.patch
+       1  /items/MATERIALS/exousia_tile2.matitem.patch
+       1  /items/MATERIALS/exousia_tile23.matitem.patch
+       1  /items/MATERIALS/exousia_tile24.matitem.patch
+       1  /items/MATERIALS/exousia_tile3.matitem.patch
+       1  /items/MATERIALS/exousia_tile4.matitem.patch
+       1  /items/MATERIALS/exousia_tile7.matitem.patch
+       1  /items/active/shields/arcana_shield_suppressionShield.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_imperialArmy_1/exousia_imperialArmy_1_assaultRifle_1/exousia_imperialArmy_1_assaultRifle_1.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_imperialArmy_1/exousia_imperialArmy_1_assaultRifle_2/exousia_imperialArmy_1_assaultRifle_2.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_imperialArmy_1/exousia_imperialArmy_1_broadsword_1/exousia_imperialArmy_1_broadsword_1.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_imperialArmy_1/exousia_imperialArmy_1_pistol_1/exousia_imperialArmy_1_pistol_1.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_imperialArmy_1/exousia_imperialArmy_1_shotgun_1/exousia_imperialArmy_1_shotgun_1.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_imperialArmy_1/exousia_imperialArmy_1_sniperRifle_1/exousia_imperialArmy_1_sniperRifle_1.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_imperialArmy_2/exousia_imperialArmy_2_battleaxe_1/exousia_imperialArmy_2_battleaxe_1.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_imperialArmy_2/exousia_imperialArmy_2_grenadeLauncher_1/exousia_imperialArmy_2_grenadeLauncher_1.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_imperialArmy_3/exousia_imperialArmy_3_katana_1/exousia_imperialArmy_3_katana_1.activeitem.patch
+       1  /items/active/weapons/exousia_weapons/exousia_imperialArmy_3/exousia_imperialArmy_3_katana_1_npc/exousia_imperialArmy_3_katana_1.activeitem.patch
+      e.g. /codex/arcana_codex_exousia/arcana_codex_exousia_1.codex.patch /contentPages/0: 엑수시아는 라이온하트 황제 젤하임이 다스리는 거대한 권위주의 제국으로 알려져 있다. 제국은 소버린, 제국군, 제국 경찰, 뒤나미스 교회의 4대 세력으로 나뉜다. 제국이 대부분의 다른 세력과 평화를 유지하고 있지만, 
+      e.g. /codex/arcana_codex_exousia/arcana_codex_exousia_3.codex.patch /contentPages/0: 질서는 ^#c3483a;엑소시안 제국^reset;의 근본 기둥 중 하나이며, 어떤 수단을 써서라도 그것을 강제하는 것이 제국 경찰의 임무다, 설령 보호받아야 할 이들의 자유를 희생하는 한이 있더라도. 특수 제작된 비
+      e.g. /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_2.codex.patch /contentPages/7: ^#D82C4C;애니머스^white; |  | ^#D82C4C;애니머스^white;는 불쾌한 영기의 행성으로, 진홍빛 나무들 사이에 푸른 수정 줄기가 드물게 묻혀 있다. | 이곳의 광석은 ^#C31C2C;애니마 파편^white
+      e.g. /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_5.codex.patch /contentPages/3: ^#c3483a;버밀리온^white; |  | ^#c3483a;버밀리온^white;은 엑소시안이라는 독재 체제가 지배하고 있다. 이 행성에는 특별히 ^orange;버밀리온 에센스^white;가 주입되어 있다. | 진홍빛 숲 아
+      e.g. /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_5.codex.patch /contentPages/1: 엑소시안이여... 수호자여... |  | ^red;너희 모두는 대가를 치를 것이다, 저주가 너희의 사랑하는 세계를 짓밟기 전에.^reset;
+      e.g. /items/MATERIALS/exousia_tile1.matitem.patch /shortdescription: 엑소시안 흰색 타일
+      e.g. /items/MATERIALS/exousia_tile2.matitem.patch /shortdescription: 엑소시안 바닥재 W^#a0a0a0;RB^reset;
+      e.g. /items/MATERIALS/exousia_tile23.matitem.patch /shortdescription: 엑소시안 빨간 유리
+### '엑수시안' -> 11 hits
+       2  /items/generic/mwhaddon_useable/arcana_mwhaddon_healItem_5.consumable.patch
+       2  /objects/atprk_relicseeker/atprk_planetpins/atprk_arcanavermilionpin.object.patch
+       1  /codex/arcana_codex_exousia/arcana_codex_exousia_1.codex.patch
+       1  /interface/arcana/arcana_crafting_anvil/arcana_exousia_crafting_2.config.patch
+       1  /items/MATERIALS/exousia_tile8.matitem.patch
+       1  /items/generic/arcana_lootbox/mwhaddon_lootbox_exousia_T6.activeitem.patch
+       1  /items/generic/arcana_lootbox/mwhaddon_lootbox_exousia_T7.activeitem.patch
+       1  /items/generic/arcana_lootbox/mwhaddon_lootbox_exousia_T8.activeitem.patch
+       1  /stats/effects/mwhaddon_backitems/mwhaddon_exousiaPack/mwhaddon_exousiaPack_buff/mwhaddon_exousiaPack_buff.statuseffect.patch
+      e.g. /codex/arcana_codex_exousia/arcana_codex_exousia_1.codex.patch /title: 엑수시안 제국
+      e.g. /interface/arcana/arcana_crafting_anvil/arcana_exousia_crafting_2.config.patch /paneLayout/lblSubtitle/value: ^orange;엑수시안 장비를 제작하는 메인 스테이션.^reset;
+      e.g. /items/MATERIALS/exousia_tile8.matitem.patch /description: 엑수시안 현대식 구조물을 짓는 데 쓰는 검은 슬레이트 바닥 타일.
+      e.g. /items/generic/arcana_lootbox/mwhaddon_lootbox_exousia_T6.activeitem.patch /description: 팔케가 보상으로 준 가방. ^#af3e31;엑수시안^reset; 방어구 몇 점과 무기 하나가 들어 있다!
+      e.g. /items/generic/arcana_lootbox/mwhaddon_lootbox_exousia_T7.activeitem.patch /description: 팔케가 보상으로 준 가방. ^#af3e31;엑수시안^reset; 무기가 들어 있다!
+      e.g. /items/generic/arcana_lootbox/mwhaddon_lootbox_exousia_T8.activeitem.patch /description: 팔케가 보상으로 준 가방. ^orange;수수께끼의 보상^reset;과 ^#af3e31;엑수시안^reset; 무기가 들어 있다!
+      e.g. /items/generic/mwhaddon_useable/arcana_mwhaddon_healItem_5.consumable.patch /description: 엑수시안 군대가 사용하는 의료 용품. | ^green;1초에 걸쳐 체력 250을 회복한다.^reset;
+      e.g. /objects/atprk_relicseeker/atprk_planetpins/atprk_arcanavermilionpin.object.patch /hylotlDescription: 피어나는 식생과 재빛 고원의 주홍 세계다. 엑수시안들이 이런 곳을 좋아해.
+### '코럴그로워' -> 1 hits
+       1  /codex/newspaper/sb-chronicle-03.codex.patch
+      e.g. /codex/newspaper/sb-chronicle-03.codex.patch /contentPages/8: '가.' 나이 든 선교사 한 명이 코럴그로워에게 속삭인다. '넌 아직 젊고 강해. 해낼 수 있어. 우리가 놈들을 막을게. 가. |  | '가서 온 우주에 아가란의 위협을 알려.'
+### '코럴그로어' -> 2 hits
+       2  /codex/newspaper/sb-chronicle-03.codex.patch
+      e.g. /codex/newspaper/sb-chronicle-03.codex.patch /contentPages/9: 코럴그로어는 뒤의 전투 소리를 무시하려 하며 어두운 동굴을 가로질러 달아난다. 그 목소리, 그 소리, 그리고... 생물의 소리가 아닌 이상한 으르렁거림을 무시하려 한다. 무언가가 뿌리내리고 자라 퍼지며 동굴 입구를 
+### '맥비카' -> 5 hits
+       4  /codex/newspaper/sb-chronicle-02.codex.patch
+       1  /codex/newspaper/sb-chronicle-01.codex.patch
+      e.g. /codex/newspaper/sb-chronicle-01.codex.patch /contentPages/6: 편집자 주: 크로니클의 탐사 기자 찰턴 맥비카의 부재로 인해, 우리는 저명한 하이로틀 학자 이수 박사가 쓴 이 교육적인 글을 싣기로 결정했다. 에이펙스 민족의 매혹적인 문화를 내부에서 들여다볼 수 있게 해준 이수 박
+      e.g. /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/2: 맥비카: ...지하 동굴 시스템 안에 갇혔다. 벽에서, 바닥에서, 사방에서 버섯이 자라나고 있다. 여기 기본적인 가구들이 있다; 플로란풍인 것 같다. 오래된 거주지 같지는 않다. 이건...새로 만들어진 것 같다. |  | 
+### '맥비커' -> 2 hits
+       2  /codex/newspaper/sb-chronicle-02.codex.patch
+      e.g. /codex/newspaper/sb-chronicle-02.codex.patch /description: 이 스타바운드 크로니클 기사 제목은 《우주 어디에 있나, 찰튼 맥비커》다.
+### '스타리 행성' -> 56 hits
+      15  /npcs/biome/om_starrycultistguard.npctype.patch
+      13  /npcs/biome/om_starrycultist.npctype.patch
+       6  /npcs/biome/om_starrycultistroyal.npctype.patch
+       4  /codex/om_starry/om_starrylore2.codex.patch
+       4  /npcs/biome/tenants/om_starrycultisttenant.npctype.patch
+       3  /npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch
+       1  /codex/om_starry/om_starrylore15.codex.patch
+       1  /codex/om_starry/om_starrymonsterlore1.codex.patch
+       1  /codex/om_starry/om_starrymonsterlore2.codex.patch
+       1  /codex/om_starry/om_starrymonsterlore4.codex.patch
+       1  /monsters/walkers/om_starrydragon1/om_starrydragon1.monstertype.patch
+       1  /monsters/walkers/om_starrydragon2/om_starrydragon2.monstertype.patch
+       1  /objects/actionfigure/om_starrydragon1/om_starrydragon1AF.object.patch
+       1  /objects/actionfigure/om_starrydragon2/om_starrydragon2AF.object.patch
+       1  /objects/om_starryplanet/om_starrybarista/om_starrybarista.object.patch
+       1  /objects/om_starryplanet/om_starryplush6/om_starryplush6.object.patch
+       1  /objects/om_starryplanet/om_starryplush7/om_starryplush7.object.patch
+      e.g. /codex/om_starry/om_starrylore15.codex.patch /contentPages/0: ^green;교도 동지들이여^reset;, 이걸 읽고 있다면: | ^orange;근처의 채굴 작업이 점거되어 폐쇄되었다.^reset; 최근 가입한 ^orange;신규 회원^reset; 일부가 모든 스타리 행성을 지키려는
+      e.g. /codex/om_starry/om_starrylore2.codex.patch /contentPages/0: ^green;스타리 행성은 경치 곳곳에 빛나는 식물이 점점이 흩어진 특별한 행성이다^reset;. 이 종류의 행성의 동물도 빛나며, 대부분의 생물이 '별' 모양을 하고 있다. | 이 행성들에서는 특별한 과일도 자란다. 
+      e.g. /codex/om_starry/om_starrymonsterlore1.codex.patch /contentPages/3: ^yellow;식성^reset;: 이 우주 드래곤은 ^red;육식성^reset;이다. ^green;스타리 행성^reset;의 다른 생물들을 사냥한다. 거대한 덩치 때문에 우주 드래곤은 에너지를 유지하기 위해 항상 계
+      e.g. /codex/om_starry/om_starrymonsterlore2.codex.patch /contentPages/1: ^yellow;식성^reset;: 스타라이트는 ^green;낙성^reset;만을 먹기 때문에 육식, 초식, 잡식 어디로도 분류할 수 없다. 따라서 스타라이트는 ^green;단식성^reset;으로 분류된다. |  | ^yel
+      e.g. /codex/om_starry/om_starrymonsterlore4.codex.patch /contentPages/1: ^yellow;식성^reset;: 스텔라 부채물고기는 ^orange;잡식성^reset;으로 분류된다. 스타리 행성에 나타나는 작은 곤충 대부분을 먹지만, 일부 토착 식물도 소화할 수 있다. |  | ^yellow;행동^re
+      e.g. /monsters/walkers/om_starrydragon1/om_starrydragon1.monstertype.patch /description: 스타리 행성의 표면을 배회하는 강력한 야수... 조심하라!
+      e.g. /monsters/walkers/om_starrydragon2/om_starrydragon2.monstertype.patch /description: 스타리 행성의 표면을 배회하는 강력한 야수... 고요함을 만끽한다.
+      e.g. /npcs/biome/om_starrycultist.npctype.patch /scriptConfig/dialog/converse/default/default/3: 우리와 함께 스타리 행성을 지키지 않을래?
+### '별빛 행성' -> 33 hits
+       3  /npcs/biome/om_starrycultist.npctype.patch
+       3  /npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch
+       3  /npcs/biome/tenants/om_starrycultisttenant.npctype.patch
+       3  /npcs/biome/threats/om_starrycultisthostile.npctype.patch
+       3  /npcs/biome/threats/om_starrycultisthostile2.npctype.patch
+       2  /codex/om_starry/om_starrylore1.codex.patch
+       2  /codex/om_starry/om_starrylore2.codex.patch
+       2  /codex/om_starry/om_starrylore4.codex.patch
+       2  /npcs/biome/om_starrycultistroyal.npctype.patch
+       2  /npcs/biome/starrycafe/om_starrycultistcafe2.npctype.patch
+       2  /npcs/biome/threats/om_starrycultistnovakid.npctype.patch
+       1  /codex/om_starry/om_starrylore11.codex.patch
+       1  /codex/om_starry/om_starrylore13.codex.patch
+       1  /codex/om_starry/om_starrylore5.codex.patch
+       1  /npcs/biome/om_starrycultistguard.npctype.patch
+       1  /objects/om_starryplanet/om_starrybookcase1/om_starrybookcase1.object.patch
+       1  /objects/terraformer/om_starryplanet_terraformer.object.patch
+      e.g. /codex/om_starry/om_starrylore1.codex.patch /contentPages/0: 우리 ^green;스타리 컬티스트^reset;는 별빛 행성이 비범하게 아름답다고 생각한다! |  | 우리의 목표는 모든 별빛 행성을, 자기 더러운 손을 떼지 못하는 장사꾼과 외부인들의 착취로부터 지키는 것이다.. 별빛 행성
+      e.g. /codex/om_starry/om_starrylore11.codex.patch /contentPages/2: 이 수준에 도달하려면 ^green;간단한 것 하나^reset;만 하면 된다: ^red;^yellow;별^reset;을 삼키는 것. |  | 별을 삼키면, 네 몸은 점점 더 ^red;방사능을 띠게^reset; 될 것이다. 어
+      e.g. /codex/om_starry/om_starrylore13.codex.patch /contentPages/0: 별빛 바다는 별빛 행성과 비슷하다. 이 대양 행성의 동식물은 별을 바탕으로 한다. ^green;다만, 주 행성과 달리, 이 행성들은 ^orange;영원한 어둠^reset;에 잠겨 있다. |  | 알 수 없는 방법으로, ^y
+      e.g. /codex/om_starry/om_starrylore2.codex.patch /title: 별빛 행성
+      e.g. /codex/om_starry/om_starrylore4.codex.patch /title: 별빛 행성 자원
+      e.g. /codex/om_starry/om_starrylore5.codex.patch /contentPages/2: 제가 아는 한, ^green;노바키드는 별빛 행성을 즐겨 찾는 경우가 많^reset;고, 그들의 궁전에 그런 "^green;모나크^reset;"가 있다는 이야기도 들었습니다. 대개 ^yellow;노바키드인^reset
+      e.g. /npcs/biome/om_starrycultist.npctype.patch /scriptConfig/dialog/converse/floran/default/12: 별빛 행성은 모든 생명에게 완벽한 행성이엇.
+      e.g. /npcs/biome/om_starrycultistguard.npctype.patch /scriptConfig/dialog/converse/novakid/default/10: 꽤 강해 보이네, 파트너! 우리 ^green;스타리 컬티스트^reset;에 들어올래? 별빛 행성들을 다 지키는 게 목표고, 참견쟁이한테도 총을 겨누지!
+### '별게' -> 1 hits
+       1  /codex/om_starry/om_starrymonsterlore6.codex.patch
+      e.g. /codex/om_starry/om_starrymonsterlore6.codex.patch /contentPages/0: ^#693CF2;별게^reset; |  | ^yellow;설명^reset;: 별게는 등에 커다란 별이 박힌 반짝이는 게다. 밝은 파란 몸을 가졌고 심한 방사능 때문에 다리가 여섯 개뿐이다. 보통보다 다리가 네 개 적지만, 
+### '스타크랩' -> 7 hits
+       3  /codex/om_starry/om_starrymonsterlore6.codex.patch
+       3  /objects/om_starryplanet/om_starryplush5/om_starryplush5.object.patch
+       1  /objects/actionfigure/om_starrystarcrab/om_starrystarcrabAF.object.patch
+      e.g. /codex/om_starry/om_starrymonsterlore6.codex.patch /description: 스타크랩에 대해 수집된 모든 정보.
+      e.g. /objects/actionfigure/om_starrystarcrab/om_starrystarcrabAF.object.patch /shortdescription: 스타크랩 피규어
+      e.g. /objects/om_starryplanet/om_starryplush5/om_starryplush5.object.patch /description: ^yellow;스타크랩^reset; 모양의 부드러운 플러시 인형.
+### '스텔라 팬피시' -> 7 hits
+       3  /codex/om_starry/om_starrymonsterlore4.codex.patch
+       2  /objects/om_starryplanet/om_starryplush3/om_starryplush3.object.patch
+       1  /monsters/flyers/om_starryfish1/om_starryfish1.monstertype.patch
+       1  /objects/actionfigure/om_starryfanfish/om_starryfanfishAF.object.patch
+      e.g. /codex/om_starry/om_starrymonsterlore4.codex.patch /title: 스텔라 팬피시
+      e.g. /monsters/flyers/om_starryfish1/om_starryfish1.monstertype.patch /shortdescription: 스텔라 팬피시
+      e.g. /objects/actionfigure/om_starryfanfish/om_starryfanfishAF.object.patch /shortdescription: 스텔라 팬피시 피규어
+      e.g. /objects/om_starryplanet/om_starryplush3/om_starryplush3.object.patch /description: ^yellow;스텔라 팬피시^reset; 모양의 부드러운 플러시 인형.
+### '스텔라 부채물고기' -> 1 hits
+       1  /codex/om_starry/om_starrymonsterlore4.codex.patch
+      e.g. /codex/om_starry/om_starrymonsterlore4.codex.patch /contentPages/1: ^yellow;식성^reset;: 스텔라 부채물고기는 ^orange;잡식성^reset;으로 분류된다. 스타리 행성에 나타나는 작은 곤충 대부분을 먹지만, 일부 토착 식물도 소화할 수 있다. |  | ^yellow;행동^re
+### '스로그 오잉키서' -> 1 hits
+       1  /codex/other/PBcollectorschecklistcommunity2.codex.patch
+      e.g. /codex/other/PBcollectorschecklistcommunity2.codex.patch /contentPages/13: ^green;커뮤니티 에디션 2-14 팝볼:^white; | - - 스티머 게임즈 인형 | - - 찻잔 인형 | - - 텐리 인형 | - - 손윙 인형 | - - 스로그 오잉키서 인형 | - - 스로그 인형 | - - 토르스 인형 | - - 떠
+### '스로그 오잉킹' -> 1 hits
+       1  /codex/other/PBthanksdearcustomer.codex.patch
+      e.g. /codex/other/PBthanksdearcustomer.codex.patch /contentPages/11: - 태양 굼벵이 인형 | - 증기 노움 인형 | - 텐리 인형 | - 가시날개 인형 | - 스로그 오잉킹 인형 | - 스로그 인형 | - 발더 인형 | - 베스퍼 인형 | - 월소브 인형 | - 울파 인형 | - 자완 인형
+### '암비리' -> 2 hits
+       2  /codex/other/colonystoryFull.codex.patch
+      e.g. /codex/other/colonystoryFull.codex.patch /contentPages/3: 처음엔 회의적이었지만, 플로란 마을에서 약탈한 가구로 오두막을 채운 뒤엔 (뭐라고 해야 할까, 나뭇가지랑 뼈 미학에 사족을 못 쓰거든) 증서를 벽에 붙였더니 완전히 낯선 이가 내가 서 있던 바로 그 자리로 빔을 타고
+### '앰비리' -> 2 hits
+       2  /codex/other/colonystoryFull.codex.patch
+      e.g. /codex/other/colonystoryFull.codex.patch /contentPages/4: 플로란치고는, 앰비리는 물을 정말 좋아하는 것 같다. 그는 비 올 때면 항상 문을 열고 밖으로 뛰어나간다. |  | 어제는 앰비리가 흠뻑 젖은 뒤 내 화로 옆에서 몸을 말리기로 해서 집에 왔더니 지하실이 물바다였다. 무덤돌
+### '크라코탄' -> 53 hits
+       5  /quests/atprk_relicseekerhq/atprk_rishaanquest1.questtemplate.patch
+       2  /codex/atprk_krakoth/atprk_krakothcodexphi.codex.patch
+       2  /objects/atprk_krakoth/atprk-krakothsmallconsole/atprk-krakothsmallconsole.object.patch
+       2  /objects/atprk_relicseeker/atprk_relicseekercolt/atprk_relicseekercolt.object.patch
+       1  /cinematics/atprk_relicsearchquestcomplete.cinematic.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodexbeta.codex.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodexdelta.codex.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodexepsilon.codex.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodexgamma.codex.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodexlapsus.codex.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodexomicron.codex.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodexpsi.codex.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodextau.codex.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodextheta.codex.patch
+       1  /codex/glitch/atprk_glitchdevoutattackcodex.codex.patch
+       1  /codex/glitch/atprk_glitchnoolithcodex.codex.patch
+       1  /codex/glitch/atprk_glitchtraitorcodex.codex.patch
+       1  /codex/other/atprk_relicseekerdossier3.codex.patch
+       1  /interface/windowconfig/atprk_translator.config.patch
+       1  /items/active/weapons/melee/atprk_chthonicspear.activeitem.patch
+       1  /items/active/weapons/npc/atprk_npcchthonicspear/atprk_npcchthonicspear.activeitem.patch
+       1  /items/generic/crafting/atprk_chthonicalloy.item.patch
+       1  /items/generic/crafting/atprk_krakothtextchi.item.patch
+       1  /items/generic/crafting/atprk_krakothtextdelta.item.patch
+       1  /items/generic/crafting/atprk_krakothtextgamma.item.patch
+       1  /items/generic/crafting/atprk_krakothtextlapsus.item.patch
+       1  /items/generic/crafting/atprk_krakothtextsigma.item.patch
+       1  /items/generic/mechparts/arm/atprk_mecharmkrakothmines.item.patch
+       1  /items/generic/mechparts/body/atprk_mechbodykrakothsuit.item.patch
+       1  /items/generic/other/atprk_hyperpixel.item.patch
+      e.g. /cinematics/atprk_relicsearchquestcomplete.cinematic.patch /panels/2/text: 이걸 봐! 귀중한 크라코탄 유물 컬렉션을 통째로 모았어!
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexbeta.codex.patch /description: 한때 그들을 섬겼던 종족들의 크라코탄 목록.
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexdelta.codex.patch /description: 고대인들에 대한 크라코탄 기록, 적대적인 어조로 쓰여 있다.
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexepsilon.codex.patch /description: 루인으로 보이는 것에 대한 크라코탄 정보.
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexgamma.codex.patch /description: 고대 종족으로 보이는 것들에 대한 크라코탄 정보.
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexlapsus.codex.patch /description: 데드비트 종족에 관한 크라코탄 개요.
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexomicron.codex.patch /description: 리샨의 예언을 비판하는 크라코탄 교구민의 개인 메모.
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexphi.codex.patch /description: 4차원에 관한 크라코탄 학자의 고찰.
+### '크라코스' -> 273 hits
+      62  /dialog/atprk_relicseekercrew.config.patch
+       9  /dialog/atprk_devouttenant.config.patch
+       8  /objects/atprk_glitchdevout/atprk_krakothstonestatue/atprk_krakothstonestatue.object.patch
+       8  /objects/atprk_krakoth/atprk-flagkrakoth/atprk-flagkrakoth.object.patch
+       6  /objects/atprk_fenron/atprk_fenronbasrelieffull/atprk_fenronbasrelieffull.object.patch
+       6  /objects/atprk_krakoth/atprk-krakotharmor/atprk-krakotharmor.object.patch
+       6  /objects/atprk_krakoth/atprk-krakothpodsleeper/atprk-krakothpodsleeper.object.patch
+       5  /objects/atprk_gilded/atprk-gildedstatue/atprk-gildedstatue.object.patch
+       5  /objects/atprk_krakoth/atprk-eldritchterraformerframe/atprk-eldritchterraformerframe.object.patch
+       5  /objects/atprk_krakoth/atprk-eldritchterraformerframefixed/atprk-eldritchterraformerframefixed.object.patch
+       4  /codex/glitch/atprk_glitchnoolithcodex.codex.patch
+       4  /codex/glitch/atprk_glitchservantcodex.codex.patch
+       4  /objects/mission/atprk_cryotombinfoscreen/atprk_cryotombinfoscreen1.object.patch
+       3  /codex/glitch/atprk_glitchdevouthiddencodex.codex.patch
+       3  /objects/crafting/atprk_translator/atprk_translator.object.patch
+       2  /codex/atprk_krakoth/atprk_krakothcodexalpha.codex.patch
+       2  /codex/atprk_krakoth/atprk_krakothcodexchi.codex.patch
+       2  /codex/atprk_krakoth/atprk_krakothcodexrho.codex.patch
+       2  /codex/glitch/atprk_glitchdevoutattackcodex.codex.patch
+       2  /codex/glitch/atprk_glitchtraitorcodex.codex.patch
+       2  /codex/other/atprk_anneliskbroadcast.codex.patch
+       2  /codex/other/atprk_relicseekercodex.codex.patch
+       2  /items/active/unsorted/atprk_restoredcodex/atprk_restoredcodex1.activeitem.patch
+       2  /items/active/unsorted/atprk_restoredcodex/atprk_restoredcodex2.activeitem.patch
+       2  /items/generic/crafting/atprk_fucadaverkrakoth.item.patch
+       2  /items/generic/crafting/atprk_krakothtexteta.item.patch
+       2  /npcs/mission/atprk_devoutattackminiboss.npctype.patch
+       2  /objects/CRAFTING/atprk_codexrestorer/atprk_codexrestorer.object.patch
+       2  /objects/CRAFTING/atprk_translator/atprk_translator.object.patch
+       2  /objects/atprk_gilded/atprk-gildedportrait-glitch/atprk-gildedportrait-glitch.object.patch
+      e.g. /ai/atprk_missioncryotomb.aimission.patch /speciesText/default/selectSpeech/text: 이 고대 무덤은 마지막 크라코스들의 잠재 은신처다.
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexalpha.codex.patch /contentPages/0: 종 001: ^green;크라코스^white;. |  | 물속에 사는 두족류 종으로, 여러 개의 길쭉한 팔다리를 지녔으며 그중 두 개는 보통 도구를 다루는 데 쓰이지만 나머지도 똑같이 자유자재로 움직일 수 있다. 크라코스는
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexbeta.codex.patch /contentPages/5: 수년 후, 페럴을 향상시켜 우리 사회에 통합하기 위해 아포테오시스 프로젝트가 시작되었다. 페럴은 크라코스족에게 알려진 여러 개념을 파악하는 데 어려움을 겪었고 규율도 부족했지만, 프로젝트는 전반적으로 성공했다. 그 
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexchi.codex.patch /contentPages/0: 많은 이들이 우리의 사고 기계에 흥미를 보였지만, 정작 우리 크라코스는 그것들에 대해 그리 오래 생각해본 적이 없었다. 결국 그것들은 그저 작업용 드론에 불과하니까. |  | 그래도 하등 종족들의 온갖 질문을 막지는 못했다
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexdelta.codex.patch /contentPages/2: 우리는 고대인들에게 그들이 은하계의 유일한 지적 존재가 아니며, 우리 크라코스가 얕볼 대상이 결코 아님을 상기시켜야 한다. 저 거짓되고 스스로를 신이라 칭하는 자들을 거부해야 한다.
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexeta.codex.patch /description: 크라코스어에서 번역된 생존자의 일지.
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexgamma.codex.patch /contentPages/1: 고대인은 우리 크라코스보다도 앞선, 은하에서 가장 오래된 지적 생물체인 것으로 보인다. 우리의 관측에 따르면 이들은 다른 알려진 문명들 중에서는 그 유례를 찾을 수 없는 상당한 기술적, 문화적 업적을 보유하고 있다.
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexkappa.codex.patch /description: 살아남은 크라코스 기술자의 일기입니다.
+### '러스트풀 위프' -> 1 hits
+       1  /codex/other/eblovelywhipscodex.codex.patch
+      e.g. /codex/other/eblovelywhipscodex.codex.patch /contentPages/3: 그는 순수한 성적 에너지를 발산하도록 만든 채찍 두 개를 만들었다: 하나는 ^#f57afc;분홍색^reset;, 다른 하나는 ^#ae38f1;보라색^reset;이었다. 그는 이것들을 각각 ^#f57afc;러블리 위프
+### '색욕의 채찍' -> 4 hits
+       2  /codex/other/eblovelywhipscodextldr.codex.patch
+       1  /codex/other/eblovelywhipscodex.codex.patch
+       1  /items/active/weapons/whip/eblustfulwhip.activeitem.patch
+      e.g. /codex/other/eblovelywhipscodex.codex.patch /contentPages/9: 사랑스러운 채찍:^blue;eblovelywhip^reset; | 색욕의 채찍:^blue;eblustfulwhip^reset; | 풍요의 채찍:^blue;ebfertilewhip^reset; | 후회의 채찍:^blue;ebre
+      e.g. /codex/other/eblovelywhipscodextldr.codex.patch /contentPages/0: ^green;채찍들은 은하 어느 행성의 상자에서나 찾을 수 있다. |  | 기능하는 채찍은 다섯 개다. |  | ^#f57afc;사랑스러운 채찍^green;은 NPC를 SxB 노드로 변하게 한다. |  | ^#ae38f1;색욕의 채찍^g
+      e.g. /items/active/weapons/whip/eblustfulwhip.activeitem.patch /shortdescription: 색욕의 채찍
+### '테렌 가드' -> 1 hits
+       1  /codex/other/other/prcw-betrayal.codex.patch
+      e.g. /codex/other/other/prcw-betrayal.codex.patch /contentPages/2: 우리의 아나차리 설계도는 전부 모바일 본부에 있는 고도로 암호화된 파일에 보관되어 있고, 이 아나차리 실험의 원본은 란타스 캐스케이드 사건 때 파괴되었어, 그러니 선거단이 어떻게 이 설계도 두 개를 손에 넣었는지 도
+### '행성 수호대' -> 2 hits
+       1  /codex/other/other/prcw-betrayal.codex.patch
+       1  /codex/other/r-peacekeeper.codex.patch
+      e.g. /codex/other/other/prcw-betrayal.codex.patch /contentPages/3: 이렇게까지 되지 않길 바랐지만, 이제 그들이 우리를 파괴할 수단을 가진 이상, 공공연한 충돌에 대비해야 할 때인 것 같다. 미니크녹이 생물무기 프로젝트 연구를 돕겠다고 제안했다. 자원을 활용해 우리의 가장 강력한 괴
+      e.g. /codex/other/r-peacekeeper.codex.patch /contentPages/3: - 상관은 명령과 임무를 내리기 위해서만 존재하는 것이 아니라, 멘토 역할도 합니다. 기회가 있을 때마다 그들의 가르침을 활용하도록 하십시오. |  | 마지막으로, 임무가 지구 순찰이든 깊은 우주든, 동료 피스키퍼뿐 아니라
+### '왐미밈' -> 1 hits
+       1  /codex/saturn/saturnmagicbuzz.codex.patch
+      e.g. /codex/saturn/saturnmagicbuzz.codex.patch /description: 왐미밈이 편집한 무언가를 다루는 안내서입니다.
+### '와스프밈' -> 33 hits
+       4  /codex/saturn/saturntennantguide.codex.patch
+       4  /dialog/saturnspaceconverse.config.patch
+       4  /objects/saturn/saturnWaspmim/saturnwaspmimbed/saturnwaspmimbed.object.patch
+       3  /dialog/saturnWaspmim.config.patch
+       2  /items/active/shields/satshieldroyalwasp.activeitem.patch
+       1  /codex/saturn/saturnbee.codex.patch
+       1  /codex/saturn/saturnfactions.codex.patch
+       1  /items/generic/potionsshop/saturn_honey.consumable.patch
+       1  /npcs/SaturnWaspmimSmith.npctype.patch
+       1  /npcs/outpost/visitors/saturnbeevisitor.npctype.patch
+       1  /npcs/space/saturnspacemerchantwaspmim.npctype.patch
+       1  /objects/saturn/saturnWaspmim/saturnwaspmimbox1/saturnwaspmimbox1.object.patch
+       1  /objects/saturn/saturnclutter/saturnbottles/saturnbottle13.object.patch
+       1  /objects/saturn/saturnclutter/saturnbunting/Waspmim Yellow Red/saturnbunting5x2.object.patch
+       1  /objects/saturn/saturnclutter/saturnbunting/Waspmim Yellow Red/saturnbunting5x3.object.patch
+       1  /objects/saturn/saturnclutter/saturnbunting/Waspmim Yellow Red/saturnbunting8x12.object.patch
+       1  /objects/saturn/saturnclutter/saturnbunting/Waspmim Yellow Red/saturnbunting8x12B.object.patch
+       1  /objects/saturn/saturnclutter/saturnopenbook/saturnopenbook11.object.patch
+       1  /objects/saturn/saturnwallart/saturnbanners/saturnbanner10.object.patch
+       1  /objects/saturn/saturnwallart/saturnposters/saturnposter5.object.patch
+       1  /objects/saturn/saturnwallart/saturnposters/saturnposter6.object.patch
+      e.g. /codex/saturn/saturnbee.codex.patch /description: 와스프밈어로 쓰인 유명한 비극입니다.
+      e.g. /codex/saturn/saturnfactions.codex.patch /contentPages/2: 이 두 집단에서 거의 독립적으로 남아 있는 다른 집단도 많다. 가장 유명한 집단은 섬을 형형색색의 꽃으로 덮는 것으로 알려진 루비쿤다와, 여행 중 만난 말벌 종을 모방하는 문화를 중심으로 살아가는 와스프밈이다.
+      e.g. /codex/saturn/saturntennantguide.codex.patch /contentPages/3: 일반 목록: | ^#BC9262;-새터니안 가구: ^#8f8f8f;새터니안 마을에서 발견하거나 가구 소환대에서 제작할 수 있는 거의 모든 물건입니다. 대부분의 흑단/흑요석 가구가 여기에 속합니다. | ^#BC9262;-와스
+      e.g. /dialog/saturnWaspmim.config.patch /hail/saturn/generic/13: 우리는 자랑스럽고 용맹한 불패의 와스프밈. 공격할 생각도 마라. 대신 친구가 되자!
+      e.g. /dialog/saturnspaceconverse.config.patch /spacesaturnian/saturn/generic/5: 와스프밈은 요즘 뭔가를 찾고 있는 것 같아. 뭔가 찾았을지 궁금하네.
+      e.g. /items/active/shields/satshieldroyalwasp.activeitem.patch /description: 이 방패에는 와스프밈 색상이 칠해져 있다.
+      e.g. /items/generic/potionsshop/saturn_honey.consumable.patch /shortdescription: 와스프밈 꿀
+      e.g. /npcs/SaturnWaspmimSmith.npctype.patch /scriptConfig/merchant/paneLayoutOverride/windowtitle/title: 와스프밈 대장장이
+### '키테란' -> 16 hits
+       1  /codex/saturn/saturnkyterra.codex.patch
+       1  /codex/saturn/saturntennantguide.codex.patch
+       1  /items/active/weapons/Saturn Halberds/saturnKyterraPick.activeitem.patch
+       1  /items/active/weapons/Saturn Halberds/saturnKyterraPick2.activeitem.patch
+       1  /items/active/weapons/Saturn Scythes/saturnscytheT2.activeitem.patch
+       1  /objects/saturn/ConversionsOfBaseGameWoodenObjects/saturnianEbonybox2/saturnianEbonybox2.object.patch
+       1  /objects/saturn/saturnWaspmim/saturnwaspmimbox2/saturnianEbonybox2.object.patch
+       1  /objects/saturn/saturnclutter/saturnopenbook/saturnopenbook6.object.patch
+       1  /objects/saturn/saturnianStaffCase/saturnianStaffCase.object.patch
+       1  /objects/saturn/saturnianStaffCase/saturnwaspmimStaffCase.object.patch
+       1  /objects/saturn/saturnmannequin/saturnmannequin.object.patch
+       1  /objects/saturn/saturnmannequin2/saturnmannequin2.object.patch
+       1  /objects/saturn/saturnmarketstalls/saturnmarketstall.object.patch
+       1  /objects/saturn/saturnmarketstalls/saturnmarketstall2.object.patch
+       1  /objects/saturn/saturnwallart/saturnbanners/saturnbanner19.object.patch
+       1  /objects/saturn/saturnwallart/saturnbanners/saturnbanner20.object.patch
+      e.g. /codex/saturn/saturnkyterra.codex.patch /contentPages/1: 그곳에 사는 키테란은 지상의 날씨를 피할 수 있는 지하 터널의 마을에서 생활한다. 키테란은 몸이 단단하고 내열성인 판으로 덮여 있으며, 눈에는 색깔 있는 렌즈가 씌워져 있다. 몸은 길고 가늘며, 큰 발톱과 가느다란 
+      e.g. /codex/saturn/saturntennantguide.codex.patch /contentPages/4: 키테란 가구: ^#BC9262;키테란이 우주를 여행하기 시작한 지 얼마 안 되어 이런 물건들은 다소 희귀하다: ^#8f8f8f; | 새터니안 벌레 포스터 | 애시 키테란 그림 | 새터니안 나선 배너 | 키테란 검/드릴 배너
+      e.g. /items/active/weapons/Saturn Halberds/saturnKyterraPick.activeitem.patch /shortdescription: 키테란 전쟁용 곡괭이
+      e.g. /items/active/weapons/Saturn Halberds/saturnKyterraPick2.activeitem.patch /shortdescription: 키테란 전쟁 망치
+      e.g. /items/active/weapons/Saturn Scythes/saturnscytheT2.activeitem.patch /description: 키테라와 악티아스 사이의 물리적 거리 때문에, 타우모스와 키테란 무기의 혼종은 상당히 희귀하다.
+      e.g. /objects/saturn/ConversionsOfBaseGameWoodenObjects/saturnianEbonybox2/saturnianEbonybox2.object.patch /saturnDescription: 이 상자의 놋쇠는 아마 키테란과의 교역으로 구했겠지.
+      e.g. /objects/saturn/saturnWaspmim/saturnwaspmimbox2/saturnianEbonybox2.object.patch /saturnDescription: 이 상자의 놋쇠는 아마 키테란과의 교역으로 구했겠지.
+      e.g. /objects/saturn/saturnclutter/saturnopenbook/saturnopenbook6.object.patch /satkyterranDescription: 키테란은 꽤 다양한 버섯을 재배하지.
+### '카이테란' -> 16 hits
+       4  /codex/saturn/saturntennantguide.codex.patch
+       3  /objects/saturn/saturnwallart/saturnpaintings/saturnpainting4.object.patch
+       1  /items/active/weapons/Saturn Desert Weapons/saturnDesertdagger.activeitem.patch
+       1  /items/active/weapons/Saturn Desert Weapons/saturnDesertdagger2.activeitem.patch
+       1  /items/active/weapons/Saturn Desert Weapons/saturnDesertsword.activeitem.patch
+       1  /items/active/weapons/Saturn daggers/saturnDesertdagger.activeitem.patch
+       1  /items/active/weapons/Saturn daggers/saturnDesertdagger2.activeitem.patch
+       1  /items/active/weapons/Saturn daggers/saturnDesertsword.activeitem.patch
+       1  /objects/saturn/saturnwallart/saturnbanners/saturnbanner19.object.patch
+       1  /objects/saturn/saturnwallart/saturnbanners/saturnbanner20.object.patch
+       1  /species/satkyterran.species.patch
+      e.g. /codex/saturn/saturntennantguide.codex.patch /contentPages/7: ^cyan;세입자 종류:^reset; ^#b32d00;카이테란 주민^reset; | ^#ffd24c;필요 오브젝트:^reset; | ^#BC9262;-1x 카이테란 가구 ^#8f8f8f;(5페이지)^#BC9262;^#BC9
+      e.g. /items/active/weapons/Saturn Desert Weapons/saturnDesertdagger.activeitem.patch /description: 사막 지역 카이테란에게 인기 있는 전형적 단검 양식.
+      e.g. /items/active/weapons/Saturn Desert Weapons/saturnDesertdagger2.activeitem.patch /description: 사막 지역 카이테란에게 인기 있는 전형적 단검 양식.
+      e.g. /items/active/weapons/Saturn Desert Weapons/saturnDesertsword.activeitem.patch /description: 사막 지역 카이테란 인기 전형 검 양식.
+      e.g. /items/active/weapons/Saturn daggers/saturnDesertdagger.activeitem.patch /description: 사막 지역 카이테란에게 인기 있는 전형적 단검 양식.
+      e.g. /items/active/weapons/Saturn daggers/saturnDesertdagger2.activeitem.patch /description: 사막 지역 카이테란에게 인기 있는 전형적 단검 양식.
+      e.g. /items/active/weapons/Saturn daggers/saturnDesertsword.activeitem.patch /description: 사막 지역 카이테란 인기 전형 검 양식.
+      e.g. /objects/saturn/saturnwallart/saturnbanners/saturnbanner19.object.patch /description: 검 문양이 그려진 카이테란 깃발.
+### '프란' -> 4 hits
+       1  /codex/viera/crafting/armor/vierafranpattern.codex.patch
+       1  /dialog/viera.config.patch
+       1  /items/WEAPONS/RANGED/black_ops_group1/bo_spas12/bo_spas12.activeitem.patch
+       1  /items/WEAPONS/RANGED/black_ops_group1/bo_spas12/bo_spas12_auto.activeitem.patch
+      e.g. /codex/viera/crafting/armor/vierafranpattern.codex.patch /title: 도안: 프란의 경판금
+      e.g. /dialog/viera.config.patch /converse/default/viera/13: 프란 소식 있니? 그녀와 동료들은 탈출했어?
+      e.g. /items/WEAPONS/RANGED/black_ops_group1/bo_spas12/bo_spas12.activeitem.patch /description: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; |   SPAS-12(특수 목적 자동 산탄총-12)는 이탈리아 프란키 S.p.A.가 개발·제조한 반자동 산탄총이다. 반자동과 펌프 액션 두 가지 작동 방
+      e.g. /items/WEAPONS/RANGED/black_ops_group1/bo_spas12/bo_spas12_auto.activeitem.patch /description: ^#750000;무엔즈카의 저편, 다른 세계에서 온.^reset; |   SPAS-12(특수 목적 자동 산탄총-12)는 이탈리아 프란키 S.p.A.가 개발·제조한 반자동 산탄총이다. 반자동과 펌프 액션 두 가지 작동 방
+### '프랑' -> 14 hits
+       2  /objects/plushies/community2/edition11/ragnaplush/PBragnaplush.object.patch
+       1  /codex/viera/crafting/armor/vierafranpattern.codex.patch
+       1  /items/AMMUNITION/BULLETS/gic_8x50mmR_bullet/gic_8x50mmR_bullet.item.patch
+       1  /items/CHARACTER_STORIES/RAT_KING/gic_rapidspellcastdash_scripture.item.patch
+       1  /items/FOODS/BEVERAGES/gic_kirisamekirsch.consumable.patch
+       1  /items/FOODS/INGREDIENTS/gic_europeanpork_cut.consumable.patch
+       1  /items/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_giatfamasg2/giclfw_giatfamasg2.activeitem.patch
+       1  /items/WEAPONS/RANGED/SNIPER_RIFLE/gic_lebelm1886/gic_lebelm1886.activeitem.patch
+       1  /items/WEAPONS/RANGED/SNIPER_RIFLE/gic_lebelm1886/gic_lebelm1886_npc.activeitem.patch
+       1  /items/sheilaworkshop/black_weapons/Frankenlove/Frankenlove.activeitem.patch
+       1  /npcs/unsorted-anid/aviangravedigger.npctype.patch
+       1  /objects/diner/dinersodafountain/PBdinersodafountain.object.patch
+       1  /weapons/irlstuff/assaultrifle/xraiizy_famasf1/xraiizy_famasf1.activeitem.patch
+      e.g. /codex/viera/crafting/armor/vierafranpattern.codex.patch /description: 비에라 프랑 갑옷 제작을 위한 재봉 도안과 설명서.
+      e.g. /items/AMMUNITION/BULLETS/gic_8x50mmR_bullet/gic_8x50mmR_bullet.item.patch /description: 8x50mmR 르벨 소총탄은 최초로 만들어지고 어느 국가든 채택된 무연화약탄으로, 1886년 프랑스가 상징적 르벨 1886 볼트액션 소총용으로 도입했습니다. 이 역사적 탄은 무겁고, 인상적인 거리를 날며, 강한 한 
+      e.g. /items/CHARACTER_STORIES/RAT_KING/gic_rapidspellcastdash_scripture.item.patch /description: ''마르시앙은 환상향으로 빨려 들어간 프랑스 잔존군의 한낱 중위에 지나지 않았다. 대부분이 그랬듯 야성 요괴 무리에 베여 쓰러졌지만, 이름 모를 요정이 시체 산 아래의 이 하찮은 남자를 되살리려 자기 생명력을 나눠주
+      e.g. /items/FOODS/BEVERAGES/gic_kirisamekirsch.consumable.patch /description: ''마법이 화려하지 않으면 마법이 아니야. 탄막은 화력이 전부야.'' |  | 키르슈는 독일, 스위스, 프랑스에서 전통적으로 모렐로 체리, 즉 신 체리의 어두운 색 품종을 이중 증류하여 만든 투명하고 무색의 브랜디입니다.^
+      e.g. /items/FOODS/INGREDIENTS/gic_europeanpork_cut.consumable.patch /description: 지구는 22세기 행성을 휩싼 대전에서 완전히 회복되지 못했습니다. 유럽이 가장 크게 맞았고, 특히 고대 국가 프랑스가 그랬죠. 적대 군대가 이미 국경 안에 들어오고 파리 자체가 포위되자, 프랑스 시골과 도심 전역에 
+      e.g. /items/WEAPONS/RANGED/ASSAULT_RIFLE/giclfw_giatfamasg2/giclfw_giatfamasg2.activeitem.patch /description: ''으... 으악... 프랑스...'' | 분당 1100발이라는 터무니없이 높은 발사 속도로 유명한 이 불펍 돌격소총은, 20세기 후반 프랑스라는 나라의 표준 지급 제식 소총에서 비롯되었다. 오늘날까지도 은하 곳곳의 수
+      e.g. /items/WEAPONS/RANGED/SNIPER_RIFLE/gic_lebelm1886/gic_lebelm1886.activeitem.patch /description: 1887년 프랑스군에 제식 채용된 고대 8mm(8x50mmR) 볼트액션 보병 소총으로, 무연화약 탄약을 쓴 최초의 군용 화기입니다. 앞총몸 관형 탄창에 여덟 발, 엘리베이터에 한 발, 약실에 한 발로 총 열 발을 장
+      e.g. /items/WEAPONS/RANGED/SNIPER_RIFLE/gic_lebelm1886/gic_lebelm1886_npc.activeitem.patch /description: 1887년 프랑스군에 제식 채용된 고대 8mm(8x50mmR) 볼트액션 보병 소총으로, 무연화약 탄약을 쓴 최초의 군용 화기입니다. 앞총몸 관형 탄창에 여덟 발, 엘리베이터에 한 발, 약실에 한 발로 총 열 발을 장
+### '배통' -> 11 hits
+       1  /codex/saturn/saturnmagicstaff.codex.patch
+       1  /interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn.patch
+       1  /items/active/weapons/Saturn Baton Gun/saturnBatonBee.activeitem.patch
+       1  /items/active/weapons/Saturn Baton Gun/saturnBatonIce.activeitem.patch
+       1  /items/armors/decorative/pandorasboxmonstermasks/pandorasboxbatongmask/pandorasboxbatongmask.head.patch
+       1  /monsters/biomes/darkabyss/darkbatong/darkbatong.monstertype.patch
+       1  /monsters/flyers/batong/batong.monstertype.patch
+       1  /monsters/flyers/batong/poisonbatong.monstertype.patch
+       1  /monsters/flyers/lofty_irisil_tombbatong/lofty_irisil_tombbatong.monstertype.patch
+       1  /objects/actionfigure/batong/batongAF.object.patch
+       1  /objects/actionfigure/lofty_irisil_tombbatong/lofty_irisil_tombbatongAF.object.patch
+      e.g. /codex/saturn/saturnmagicstaff.codex.patch /contentPages/2: 배통은 집중 없이도 마법을 시전할 수 있다. 기능적으로는 총과 비슷하지만, 시전된 마법은 총알보다 느리게 이동하는 경향이 있다. 빠른 시전 시간 탓에 대부분의 스태프 종류보다 에너지를 훨씬 빨리 소모하는 경향이 있다
+      e.g. /interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn.patch /scenes/batong0/text: 몬스터: 배통 - 가족: 배통 - 생물군: 지하
+      e.g. /items/active/weapons/Saturn Baton Gun/saturnBatonBee.activeitem.patch /shortdescription: 벌 배통
+      e.g. /items/active/weapons/Saturn Baton Gun/saturnBatonIce.activeitem.patch /shortdescription: 얼음 배통
+      e.g. /items/armors/decorative/pandorasboxmonstermasks/pandorasboxbatongmask/pandorasboxbatongmask.head.patch /shortdescription: 배통 마스크
+      e.g. /monsters/biomes/darkabyss/darkbatong/darkbatong.monstertype.patch /description: 배통의 어두운 변종.
+      e.g. /monsters/flyers/batong/batong.monstertype.patch /shortdescription: 배통
+      e.g. /monsters/flyers/batong/poisonbatong.monstertype.patch /shortdescription: 독성 배통
+### '지휘봉' -> 9 hits
+       3  /codex/saturn/saturntennantguide.codex.patch
+       1  /classes/wizard.config.patch
+       1  /items/active/weapons/Saturn Baton Gun/saturnBatonT1b.activeitem.patch
+       1  /items/active/weapons/Saturn Baton Gun/saturnBatonT1bNPC.activeitem.patch
+       1  /items/active/weapons/melee/arpeggio/arpeggio.activeitem.patch
+       1  /ivrpg_specs/adept.config.patch
+       1  /ivrpg_specs/elementress.config.patch
+      e.g. /classes/wizard.config.patch /weaponBonuses/0/text: 지팡이, 완드, 새턴 지휘봉, 마도서, 마법 오브 사용 시 기본 공격력 110%.
+      e.g. /codex/saturn/saturntennantguide.codex.patch /contentPages/9: ^cyan;세입자 종류:^reset; ^#a64cff;마법 경비병^reset; | 마법 경비병은 마법 지휘봉을 무기로 선호한다. | ^#ffd24c;필요 오브젝트:^reset; | ^#BC9262;-6x 새터니안 가구 ^#8f
+      e.g. /items/active/weapons/Saturn Baton Gun/saturnBatonT1b.activeitem.patch /shortdescription: ^#000101;^reset;유도 연발 지휘봉
+      e.g. /items/active/weapons/Saturn Baton Gun/saturnBatonT1bNPC.activeitem.patch /shortdescription: ^#000101;^reset;유도 연발 지휘봉
+      e.g. /items/active/weapons/melee/arpeggio/arpeggio.activeitem.patch /tooltipFields/subtitle: 볼트 지휘봉
+      e.g. /ivrpg_specs/adept.config.patch /effects/3/text: 완드와 새턴 지휘봉 사용 시 기본 공격력 115%: 민첩 비례.
+      e.g. /ivrpg_specs/elementress.config.patch /effects/4/text: 완드, 새턴 지휘봉, 단검 사용 시 기본 공격력 120%.
+### '배턴' -> 20 hits
+       3  /ivrpgversion.config.patch
+       3  /objects/CRAFTING/saturnMagicCrystalTable/saturnMagicCrystalTable.object.patch
+       1  /classes/wizard.config.patch
+       1  /codex/saturn/saturnmagicstaff.codex.patch
+       1  /items/active/alta/tools/other/ct_alta_baton.activeitem.patch
+       1  /items/active/alta/tools/other/ct_ayaka_stick.activeitem.patch
+       1  /items/active/weapons/Saturn Baton Gun/saturnBatonitemmagnet.activeitem.patch
+       1  /items/active/weapons/melee/alliance/manufactured/prod/thea-policeprod.activeitem.patch
+       1  /items/active/weapons/melee/unique/debilitator/trink-debilitator.activeitem.patch
+       1  /items/generic/saturncraftingguides/saturnmagicguide.item.patch
+       1  /ivrpg_specs/adept.config.patch
+       1  /ivrpg_specs/battlemage.config.patch
+       1  /ivrpg_specs/paladin.config.patch
+       1  /ivrpg_specs/technomancer.config.patch
+       1  /ivrpg_specs/warlock.config.patch
+       1  /professions/alchemist.config.patch
+      e.g. /classes/wizard.config.patch /classic/1/text: 사악한 눈, 이블 아이, 마그노브, 새턴 배턴을 장착할 수 있다
+      e.g. /codex/saturn/saturnmagicstaff.codex.patch /contentPages/0: 마법은 대개 유용하려면 매개체가 필요하다. 인기 있는 마법 매개 도구는 크게 두 종류다: 발사하기 전에 충전이 필요한 스태프, 그리고 더 약하지만 즉시 발사할 수 있는 배턴.
+      e.g. /items/active/alta/tools/other/ct_alta_baton.activeitem.patch /description: 더 복잡한 도구의 기반으로 자주 사용되는 튼튼한 한손 배턴.
+      e.g. /items/active/alta/tools/other/ct_ayaka_stick.activeitem.patch /description: 아야쿠트와 아이소와이어로 만든, 튼튼하고 회복력 있는 한손 지팡이. 지팡이, 등산용 스틱, 단순한 배턴으로 사용된다.
+      e.g. /items/active/weapons/Saturn Baton Gun/saturnBatonitemmagnet.activeitem.patch /shortdescription: 아이템 자석 배턴
+      e.g. /items/active/weapons/melee/alliance/manufactured/prod/thea-policeprod.activeitem.patch /category: 전기 배턴
+      e.g. /items/active/weapons/melee/unique/debilitator/trink-debilitator.activeitem.patch /category: 충격 배턴
+      e.g. /items/generic/saturncraftingguides/saturnmagicguide.item.patch /description: 이 두루마리에는 완드와 배턴을 대량으로 만드는 법이 적혀 있다.  | ^green;새터니안/타우모스가 아닌 자가 주우면 지팡이 인챈팅 테이블 제작이 가능해진다. (발명가의 작업대로 제작.) 지팡이 인챈팅 테이블은 추가 

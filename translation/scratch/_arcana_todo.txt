@@ -1,0 +1,1068 @@
+0	paint.config	caption	Paint
+1	arcana_portraitconfirmation.config	title	Confirmation
+2	arcana_portraitconfirmation.config	caption	Cancel
+3	arcana_armor_chemhyde.chest	description	A simple combat outfit for the Anarkyons.
+4	arcana_armor_chemhyde.chest	shortdescription	Chemhyde Outfit
+5	arcana_armor_chemhyde.head	description	A gas mask necessary for safely traversing radioactive and toxic environments.
+6	arcana_armor_chemhyde.head	shortdescription	Chemhyde Mask
+7	arcana_armor_chemhyde.legs	description	A simple attire worn by members of the Anarkyons.
+8	arcana_armor_chemhyde.legs	shortdescription	Chemhyde Pants
+9	arcana_armor_portobell.chest	description	A simple combat outfit for the Anarkyons.
+10	arcana_armor_portobell.chest	shortdescription	Portobell Outfit
+11	arcana_armor_portobell.head	description	A gas mask necessary for safely traversing radioactive and toxic environments.
+12	arcana_armor_portobell.head	shortdescription	Portobell Mask
+13	arcana_armor_portobell.legs	description	A simple attire worn by members of the Anarkyons.
+14	arcana_armor_portobell.legs	shortdescription	Portobell Pants
+15	arcana_armor_virismoke.chest	description	A simple combat outfit for the Anarkyons.
+16	arcana_armor_virismoke.chest	shortdescription	Virismoke Outfit
+17	arcana_armor_virismoke.head	description	A gas mask necessary for safely traversing radioactive and toxic environments.
+18	arcana_armor_virismoke.head	shortdescription	Virismoke Mask
+19	arcana_armor_virismoke.legs	description	A simple attire worn by members of the Anarkyons.
+20	arcana_armor_virismoke.legs	shortdescription	Virismoke Pants
+21	arcana_armor_aegis.chest	description	A heavy armor forged from haken-stahlite. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+20% Damage while using a
+22	arcana_armor_aegis.head	description	A heavy armor forged from haken-stahlite. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+20% Damage while using a
+23	arcana_armor_aegis.head	shortdescription	Aegis Helmet
+24	arcana_armor_aegis.legs	description	A heavy armor forged from haken-stahlite. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+20% Damage while using a
+25	arcana_armor_aeon.chest	description	The hand of minute, hot as the celestial sun. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+5% Physical RES^rese
+26	arcana_armor_aeon.head	description	The zero aeon, bright as the azure stars. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+5% Physical RES^reset;, 
+27	arcana_armor_aeon.head	shortdescription	Aeon's Zero
+28	arcana_armor_aeon.legs	description	The hand of hour, cold as the celestial moon. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+5% Physical RES^rese
+29	arcana_armor_aeternus.chest	description	An enchanted Holosium armor, glowing with ancient energy. ^green;+5% Light and Abyss res.^reset;
+30	arcana_armor_aeternus.chest	shortdescription	Aeternus Shell
+31	arcana_armor_aeternus.head	description	An enchanted Holosium armor, glowing with ancient energy. ^green;+5% Light and Abyss RES, +20% Speed^reset;
+32	arcana_armor_aeternus.head	shortdescription	Aeternus Helmet
+33	arcana_armor_aeternus.legs	description	An enchanted Holosium armor, glowing with ancient energy. ^green;+5% Light and Abyss res.^reset;
+34	arcana_armor_aeternus.legs	shortdescription	Aeternus Leggings
+35	arcana_armor_alchemilla.chest	description	A piece of clothing, decorated with flowers. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+30% Energy Regen Rate
+36	arcana_armor_alchemilla.head	description	A light circlet. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+30% Energy Regen Rate^reset; and ^green;+15% Pois
+37	arcana_armor_alchemilla.head	shortdescription	Alchemilla Circlet
+38	arcana_armor_alchemilla.legs	description	A piece of plant made greaves. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+30% Energy Regen Rate^reset; and ^g
+39	arcana_armor_anima.chest	description	An enchanted helmet with slight fire protection. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Animus Weapon
+40	arcana_armor_anima.head	description	A spooky-looking masked helm. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Animus Weapon and Katana damage^
+41	arcana_armor_anima.head	shortdescription	Anima Mask
+42	arcana_armor_anima.legs	description	A pair of leggings, crafted from anima bars. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Animus Weapon and
+43	arcana_armor_architect.head	description	A dark helm with an orange visor, worn by the Workshop's engineers.
+44	arcana_armor_architect.head	shortdescription	Architect's Headgear
+45	arcana_armor_ariorift.chest	description	A light jacket for quick traversing. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+20% Run Speed^reset;.
+46	arcana_armor_ariorift.head	description	A light scarf that flows with the wind. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+20% Run Speed^reset;.
+47	arcana_armor_ariorift.head	shortdescription	Ariorift Scarf
+48	arcana_armor_ariorift.legs	description	A pair of light leggings for quick traversing. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+20% Run Speed^reset
+49	arcana_armor_artist.back	description	An artist's brush!
+50	arcana_armor_artist.back	shortdescription	Artist Brush
+51	arcana_armor_astraea.chest	description	A glinting fragment of the falling stars. 
+^green;+4% Fire and Light RES.^reset; 
+
+^orange;Set Bonus:^reset; 
+
+52	arcana_armor_astraea.chest	shortdescription	Astraea Chestplate
+53	arcana_armor_astraea.head	description	A glinting fragment of the falling stars. 
+^green;+4% Fire and Light RES.^reset; 
+
+^orange;Set Bonus:^reset; 
+
+54	arcana_armor_astraea.head	shortdescription	Astraea Helm
+55	arcana_armor_astraea.legs	description	A glinting fragment of the falling stars. 
+^green;+4% Fire and Light RES.^reset; 
+
+^orange;Set Bonus:^reset; 
+
+56	arcana_armor_astraea.legs	shortdescription	Astraea Leggings
+57	arcana_armor_astromancer.head	description	An Azure forged armor, worn commonly by the Stargazers. ^green;+10% Azure res.^reset;
+58	arcana_armor_astromancer.head	shortdescription	Astromancer Hood
+59	arcana_armor_baldr.head	shortdescription	Baldr Helmet
+60	arcana_armor_borrhas.head	description	A hood that is designed to combat cold environments. ^green;+5% Ice Res.^reset;
+61	arcana_armor_borrhas.head	shortdescription	Borrhas Hood
+62	arcana_armor_catalytic.chest	description	An armor piece exhibiting a faint cosmic aura. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+12% Fire RES^reset;
+63	arcana_armor_catalytic.chest	shortdescription	^#fcfcfc;Catalytic Chestplate^reset;
+64	arcana_armor_catalytic.head	description	An armor piece exhibiting a faint cosmic aura. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+12% Fire RES^reset;
+65	arcana_armor_catalytic.head	shortdescription	^#fcfcfc;Catalytic Helm^reset;
+66	arcana_armor_catalytic.legs	description	An armor piece exhibiting a faint cosmic aura. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+12% Fire RES^reset;
+67	arcana_armor_catalytic.legs	shortdescription	^#fcfcfc;Catalytic Leggings^reset;
+68	arcana_armor_chevalier.head	shortdescription	Chevalier Cap
+69	arcana_armor_corekeeper.chest	description	An enchanted armor made from Solarium. 
+
+^orange;Set Bonus:^reset; Grants ^green;+5% Fire, Ice, Electric and P
+70	arcana_armor_corekeeper.chest	shortdescription	Corekeeper Chestplate
+71	arcana_armor_corekeeper.head	description	An enchanted helm made from Solarium. 
+
+^orange;Set Bonus:^reset; Grants ^green;+5% Fire, Ice, Electric and Po
+72	arcana_armor_corekeeper.head	shortdescription	Corekeeper Helm
+73	arcana_armor_corekeeper.legs	description	A pair of enchanted leggings made from Solarium. 
+
+^orange;Set Bonus:^reset; Grants ^green;+5% Fire, Ice, Elec
+74	arcana_armor_corekeeper.legs	shortdescription	Corekeeper Leggings
+75	arcana_armor_cryptspurn.chest	description	A piece of weathered clothing.
+76	arcana_armor_cryptspurn.chest	shortdescription	Cryptspurn Armor
+77	arcana_armor_cryptspurn.head	description	A piece of weathered clothing.
+78	arcana_armor_cryptspurn.head	shortdescription	Cryptspurn Hood
+79	arcana_armor_cryptspurn.legs	description	A piece of weathered clothing.
+80	arcana_armor_cryptspurn.legs	shortdescription	Cryptspurn Greaves
+81	arcana_armor_embryonic.chest	shortdescription	^#fcfcfc;Embryonic Chestplate^reset;
+82	arcana_armor_embryonic.head	shortdescription	^#fcfcfc;Embryonic Helm^reset;
+83	arcana_armor_embryonic.legs	shortdescription	^#fcfcfc;Embryonic Leggings^reset;
+84	arcana_armor_evanescent.chest	description	A moment of red in the eye of infinitum aeternum. ^red;Has minor protection.^reset;
+85	arcana_armor_evanescent.chest	shortdescription	Evanescent Armor
+86	arcana_armor_evanescent.head	description	A moment of red in the eye of infinitum aeternum. ^red;Has no protection.^reset; ^green;Taking damage grants 4
+87	arcana_armor_evanescent.head	shortdescription	Evanescent Visor
+88	arcana_armor_evanescent.legs	description	A moment of red in the eye of infinitum aeternum. ^red;Has less protection.^reset;
+89	arcana_armor_evanescent.legs	shortdescription	Evanescent Leggings
+90	arcana_armor_frostclad.chest	description	A reinforced jacket that defends against the cold. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;Frost Immunity^r
+91	arcana_armor_frostclad.chest	shortdescription	Frostclad Jacket
+92	arcana_armor_frostclad.head	description	A reinforced hood that defends against the cold. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;Frost Immunity^res
+93	arcana_armor_frostclad.head	shortdescription	Frostclad Hood
+94	arcana_armor_frostclad.legs	description	A reinforced legwear that defends against the cold. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;Frost Immunity^
+95	arcana_armor_frostclad.legs	shortdescription	Frostclad Leggings
+96	arcana_armor_fusang.head	description	A Solar-forged armor that can withstand intense heat. ^green;+5% Fire res, and grants Burning and Lava immunit
+97	arcana_armor_fusang.head	shortdescription	Fusang Helmet
+98	arcana_armor_goldmonger.head	description	A luxurious piece of visor worn only by the affluent.
+99	arcana_armor_goldmonger.head	shortdescription	Goldmonger Visor
+100	arcana_armor_graverotten.chest	description	A piece of weathered clothing.
+101	arcana_armor_graverotten.chest	shortdescription	Graverotten Armor
+102	arcana_armor_graverotten.head	description	A piece of weathered clothing.
+103	arcana_armor_graverotten.head	shortdescription	Graverotten Hood
+104	arcana_armor_graverotten.legs	description	A piece of weathered clothing.
+105	arcana_armor_graverotten.legs	shortdescription	Graverotten Greaves
+106	arcana_armor_heartseeker.chest	description	An ancient armor forged with red aspirite. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;minor health regeneratio
+107	arcana_armor_heartseeker.head	description	An ancient armor forged with red aspirite. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;minor health regeneratio
+108	arcana_armor_heartseeker.head	shortdescription	Heartseeker's Adulation
+109	arcana_armor_heartseeker.legs	description	An ancient armor forged with red aspirite. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;minor health regeneratio
+110	arcana_armor_horncaster.chest	description	An ancient armor forged with blue immorite. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+15% Magic damage^reset
+111	arcana_armor_horncaster.head	description	An ancient armor forged with blue immorite. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+15% Magic damage^reset
+112	arcana_armor_horncaster.head	shortdescription	Horncaster's Gluttony
+113	arcana_armor_horncaster.legs	description	An ancient armor forged with blue immorite. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+15% Magic damage^reset
+114	arcana_armor_invisible.chest	description	An invisible clothing item.
+115	arcana_armor_invisible.chest	shortdescription	Invisible Shirt
+116	arcana_armor_invisible.head	description	An invisible clothing item.
+117	arcana_armor_invisible.head	shortdescription	Invisible Hat
+118	arcana_armor_invisible.legs	description	An invisible clothing item.
+119	arcana_armor_invisible.legs	shortdescription	Invisible Pants
+120	arcana_armor_ironFlower.head	itemName	arcana_armor_ironFlower_head
+121	arcana_armor_ironFlower.head	description	An ancient helm. ^green;+20% Solar res.^reset;
+122	arcana_armor_ironFlower.head	shortdescription	Iron Flower Helm
+123	arcana_armor_lepidoptera.chest	description	A pale colored armor, crafted from holosium. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Light RES^reset; 
+124	arcana_armor_lepidoptera.head	description	A pale colored helm, crafted from holosium. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Light RES^reset; a
+125	arcana_armor_lepidoptera.head	shortdescription	Lepidoptera Helmet
+126	arcana_armor_lepidoptera.legs	description	A piece of pale colored leggings, crafted from holosium. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Light
+127	arcana_armor_mistRider.chest	itemName	arcana_armor_mistRider_chest
+128	arcana_armor_mistRider.chest	description	A dark armor worn by the Mist Rider. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+25% Damage when there's a mon
+129	arcana_armor_mistRider.head	itemName	arcana_armor_mistRider_head
+130	arcana_armor_mistRider.head	description	The Hunt beckons. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+25% Damage when there's a monster with more heal
+131	arcana_armor_mistRider.head	shortdescription	Mist Rider's Hood
+132	arcana_armor_mistRider.legs	itemName	arcana_armor_mistRider_legs
+133	arcana_armor_mistRider.legs	description	A dark set of greaves worn by the Mist Rider. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+25% Damage when ther
+134	arcana_armor_morphosis.chest	description	A chestplate made from morphosis bars. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+5% Poison RES^reset;. ^gree
+135	arcana_armor_morphosis.head	description	A mask made from morphosis bars. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+5% Poison RES^reset;. ^green;+10%
+136	arcana_armor_morphosis.head	shortdescription	Morphosis Mask
+137	arcana_armor_morphosis.legs	description	A piece of leggings made from morphosis bars. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+5% Poison RES^reset;
+138	arcana_armor_offworld.chest	description	A white futuristic combat suit. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Ranged damage^reset;, ^green;+
+139	arcana_armor_offworld.head	description	A white futuristic helmet. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Ranged damage^reset;, ^green;+10% E
+140	arcana_armor_offworld.head	shortdescription	Offworld Helmet
+141	arcana_armor_offworld.legs	description	A white futuristic leggings. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Ranged damage^reset;, ^green;+10%
+142	arcana_armor_parasitic.chest	description	Standard uniform worn by Scorpio's operatives. ^green;+4% Electric res.^reset;
+143	arcana_armor_parasitic.chest	shortdescription	Parasitic Suit
+144	arcana_armor_parasitic.head	description	A helmet with a headset, worn by Scorpio's operatives. ^green;+4% Electric res.^reset;
+145	arcana_armor_parasitic.head	shortdescription	Parasitic Helmet
+146	arcana_armor_parasitic.legs	description	Pants worn by Scorpio's operatives. ^green;+4% Electric res.^reset;
+147	arcana_armor_parasitic.legs	shortdescription	Parasitic Pants
+148	arcana_armor_pearlKnight.chest	itemName	arcana_armor_pearlKnight_chest
+149	arcana_armor_pearlKnight.head	itemName	arcana_armor_pearlKnight_head
+150	arcana_armor_pearlKnight.head	shortdescription	Pearl Knight's Helm
+151	arcana_armor_pearlKnight.legs	itemName	arcana_armor_pearlKnight_legs
+152	arcana_armor_prima.chest	description	A white futuristic combat suit. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+15% Electric RES^reset; and ^green
+153	arcana_armor_prima.head	description	A white futuristic helmet, worn by Orion's special security force. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;
+154	arcana_armor_prima.head	shortdescription	Prima Helmet
+155	arcana_armor_prima.legs	description	A white futuristic leggings. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+15% Electric RES^reset; and ^green;+5
+156	arcana_armor_roboticist.chest	shortdescription	Roboticist Suit
+157	arcana_armor_roboticist.head	description	A white futuristic helmet. ^green;+5% Electric res.^reset;
+158	arcana_armor_roboticist.head	shortdescription	Roboticist Helmet
+159	arcana_armor_roboticist.legs	shortdescription	Roboticist Leggings
+160	arcana_armor_royalty.back	description	A fancy cape fit only for the royals.
+161	arcana_armor_royalty.back	shortdescription	Royalty Cape
+162	arcana_armor_salamander.chest	description	A piece of heavy armor made from obsidian. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+25% Fire Resistance^res
+163	arcana_armor_salamander.head	description	A piece of heavy armor made from obsidian. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+25% Fire Resistance^res
+164	arcana_armor_salamander.head	shortdescription	Aneides Helmet
+165	arcana_armor_salamander.legs	description	A piece of heavy armor made from obsidian. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+25% Fire Resistance^res
+166	arcana_armor_scholar.chest	description	A piece of clothing crafted from arcanium.
+167	arcana_armor_scholar.chest	shortdescription	Scholar's Shroud
+168	arcana_armor_scholar.head	description	A circlet crafted from arcanium. ^green;+10% ATK when using Magic weapons.^reset;
+169	arcana_armor_scholar.head	shortdescription	Scholar's Circlet
+170	arcana_armor_scholar.legs	description	A piece of greaves crafted from arcanium.
+171	arcana_armor_scholar.legs	shortdescription	Scholar's Greaves
+172	arcana_armor_serpent.head	description	A headband radiating solar energy.
+173	arcana_armor_serpent.head	shortdescription	Serpent's Headband
+174	arcana_armor_skullbearer.chest	description	An ancient armor forged with green noxion. 
+
+^orange;Set Bonus:^reset; 
+^green;Grants Thorns^reset;. ^green;+5
+175	arcana_armor_skullbearer.head	description	An ancient armor forged with green noxion. ^green;+5% Poison RES.^reset; 
+
+^orange;Set Bonus:^reset; 
+^green;G
+176	arcana_armor_skullbearer.head	shortdescription	Skullbearer's Acrimony
+177	arcana_armor_skullbearer.legs	description	An ancient armor forged with green noxion. 
+
+^orange;Set Bonus:^reset; 
+^green;Grants Thorns^reset;. ^green;+5
+178	arcana_armor_sleepwalker.chest	description	A dark combat jacket. ^red;-10% Eletric resistance.^reset; 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+15% Kat
+179	arcana_armor_sleepwalker.head	description	A dark lit futuristic helmet. ^red;-10% Eletric resistance.^reset; 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;
+180	arcana_armor_sleepwalker.head	shortdescription	Sleepwalker Helmet
+181	arcana_armor_sleepwalker.legs	description	A dark futuristic leggings. ^red;-10% Eletric resistance.^reset; 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+1
+182	arcana_armor_umbral.chest	description	An armor shrouded by the midnight gloom. 
+
+^orange;Set Bonus:^reset; Grants ^green;+5% Fire, Ice, Electric and
+183	arcana_armor_umbral.chest	shortdescription	Corekeeper Chestplate
+184	arcana_armor_umbral.head	description	An armor shrouded by the midnight gloom. 
+
+^orange;Set Bonus:^reset; Grants ^green;+5% Fire, Ice, Electric and
+185	arcana_armor_umbral.head	shortdescription	Corekeeper Helm
+186	arcana_armor_umbral.legs	description	An armor shrouded by the midnight gloom. 
+
+^orange;Set Bonus:^reset; Grants ^green;+5% Fire, Ice, Electric and
+187	arcana_armor_umbral.legs	shortdescription	Corekeeper Leggings
+188	arcana_back_aeonCape.back	itemName	arcana_back_aeonCape
+189	arcana_back_aeonCape.back	description	A cape that can withstand even the tide of time.
+190	arcana_back_aeonCape.back	shortdescription	Aeon Cape
+191	arcana_back_aeonHands.back	itemName	arcana_back_aeonHands
+192	arcana_back_aeonHands.back	description	A pair of floating wings.
+193	arcana_back_aeonHands.back	shortdescription	Aeon Hands
+194	arcana_back_aeonWings.back	itemName	arcana_back_aeonWings
+195	arcana_back_aeonWings.back	description	A pair of floating wings.
+196	arcana_back_aeonWings.back	shortdescription	Aeon Wings
+197	arcana_back_arcaneEPP.back	description	This EPP provides ample oxygen and Energy Drain immunity. Useful on certain ^orange;Arcane Star^reset; planets
+198	arcana_back_arcaneEPP.back	shortdescription	Arcane EPP
+199	arcana_back_azureArms.back	itemName	arcana_back_azureArms
+200	arcana_back_azureArms.back	description	Decorative azure branches.
+201	arcana_back_azureArms.back	shortdescription	Azure Arms
+202	arcana_back_brightguardCape.back	itemName	arcana_back_brightguardCape
+203	arcana_back_brightguardCape.back	description	A black and gold cape.
+204	arcana_back_brightguardCape.back	shortdescription	Brightguard Cape
+205	arcana_back_brightliteCape.back	itemName	arcana_back_brightliteCape
+206	arcana_back_brightliteCape.back	description	A white and gold cape.
+207	arcana_back_brightliteCape.back	shortdescription	Brightlite Cape
+208	arcana_back_cerueonWings.back	itemName	arcana_back_cerueonWings
+209	arcana_back_cerueonWings.back	description	A pair of golden wings.
+210	arcana_back_cerueonWings.back	shortdescription	Cerueon Wings
+211	arcana_back_goldenCape.back	itemName	arcana_back_goldenCape
+212	arcana_back_goldenCape.back	description	A shining cape.
+213	arcana_back_goldenCape.back	shortdescription	Golden Cape
+214	arcana_back_horizonCape.back	itemName	arcana_back_horizonCape
+215	arcana_back_horizonCape.back	description	A cape worn by Horizon soldiers.
+216	arcana_back_horizonCape.back	shortdescription	Horizon Standard Cape
+217	arcana_back_horizonOmenkyrieCape.back	itemName	arcana_back_horizonOmenkyrieCape
+218	arcana_back_horizonOmenkyrieCape.back	description	A cape worn by Horizon soldiers.
+219	arcana_back_horizonOmenkyrieCape.back	shortdescription	Horizon Omenkyrie Cape
+220	arcana_back_illuminatedEPP.back	description	This EPP upgrade grants immunity to Radiance. Useful on ^orange;Pale Star^reset; planets.
+221	arcana_back_illuminatedEPP.back	shortdescription	Pale EPP
+222	arcana_back_invisible.back	description	An invisible clothing item.
+223	arcana_back_invisible.back	shortdescription	Invisible Back
+224	arcana_back_moltenThorns.back	itemName	arcana_back_moltenThorns
+225	arcana_back_moltenThorns.back	description	A pair of burning horns.
+226	arcana_back_moltenThorns.back	shortdescription	Molten Thorns
+227	arcana_back_nanoweaveCape.back	itemName	arcana_back_nanoweaveCape
+228	arcana_back_nanoweaveCape.back	description	A cape worn by Exousian military officers.
+229	arcana_back_nanoweaveCape.back	shortdescription	Nanoweave Cape
+230	arcana_back_nightbloomCape.back	itemName	arcana_back_nightbloomCape
+231	arcana_back_nightbloomCape.back	description	A specially tailored cape.
+232	arcana_back_nightbloomCape.back	shortdescription	Nightbloom Cape
+233	arcana_back_orionCape.back	itemName	arcana_back_orionCape
+234	arcana_back_orionCape.back	description	A cape worn by Orion officers.
+235	arcana_back_orionCape.back	shortdescription	Orion Cape
+236	arcana_back_pyrocrazeBooster.back	itemName	arcana_back_pyrocrazeBooster
+237	arcana_back_pyrocrazeBooster.back	description	A special Horizon booster designed for Pyro Hoplites. ^green;Grants +5% Fire Res and Pyrocraze.^reset;
+238	arcana_back_pyrocrazeBooster.back	shortdescription	Pyrocraze Booster
+239	arcana_back_solarFangs.back	itemName	arcana_back_solarFangs
+240	arcana_back_solarFangs.back	description	Decorative solar branches.
+241	arcana_back_solarFangs.back	shortdescription	Solar Fangs
+242	arcana_back_solarFlames.back	itemName	arcana_back_solarFlames
+243	arcana_back_solarFlames.back	description	A flame emitting back device.
+244	arcana_back_solarFlames.back	shortdescription	Solar Flames
+245	arcana_back_superstormEPP.back	description	This EPP upgrade also provides Supercharged immunity on top of previous benefits. Useful on ^orange;Superstorm
+246	arcana_back_superstormEPP.back	shortdescription	Superstorm EPP
+247	arcana_back_tornCape.back	itemName	arcana_back_tornCape
+248	arcana_back_tornCape.back	description	A ragged cape.
+249	arcana_back_tornCape.back	shortdescription	Torn Cape
+250	arcana_back_tripolarEPP.back	description	This EPP upgrade provides Cataclysm immunity on top of previous benefits. Useful on ^orange;Tripolar and Mirag
+251	arcana_back_tripolarEPP.back	shortdescription	Trinity EPP
+252	arcana_back_verrostinRifle.back	itemName	arcana_back_verrostinRifle
+253	arcana_back_verrostinRifle.back	description	A verrostin rifle with a backpack. Makes you look intimidating.
+254	arcana_back_verrostinRifle.back	shortdescription	Verrostin Rifle
+255	arcana_back_whiteNanoweaveCape.back	itemName	arcana_back_whiteNanoweaveCape
+256	arcana_back_whiteNanoweaveCape.back	description	A cape worn by Exousian police officers.
+257	arcana_back_whiteNanoweaveCape.back	shortdescription	White Nanoweave Cape
+258	arcana_armor_winterFroggSuit.chest	itemName	arcana_armor_winterFroggSuit_chest
+259	arcana_armor_winterFroggSuit.chest	description	A slimy chestpiece.
+260	arcana_armor_winterFroggSuit.chest	shortdescription	Winter Frogg Chest
+261	arcana_armor_winterFroggSuit.head	itemName	arcana_armor_winterFroggSuit_head
+262	arcana_armor_winterFroggSuit.head	description	Somehow this mask keeps your head wet.
+263	arcana_armor_winterFroggSuit.head	shortdescription	Winter Frogg Head
+264	arcana_armor_winterFroggSuit.legs	itemName	arcana_armor_winterFroggSuit_legs
+265	arcana_armor_winterFroggSuit.legs	description	Wearing these will make you resemble a Frogg merchant.
+266	arcana_armor_winterFroggSuit.legs	shortdescription	Winter Frogg Legs
+267	arcana_body_redSkyHoodie.chest	itemName	arcana_body_redSkyHoodie
+268	arcana_body_redSkyHoodie.chest	shortdescription	Red Sky Hoodie
+269	arcana_body_simpleHoodie.chest	itemName	arcana_body_simpleHoodie
+270	arcana_body_simpleHoodie.chest	shortdescription	Simple Hoodie
+271	arcana_head_infinityHelm.head	itemName	arcana_head_infinityHelm
+272	arcana_head_infinityHelm.head	description	Once worn by the guardian of time, the infinity helm rests eternal.
+273	arcana_head_infinityHelm.head	shortdescription	Infinity Helm
+274	arcana_head_interruptionX.head	description	Description not found.
+275	arcana_head_interruptionX.head	shortdescription	Interruption X
+276	arcana_head_neonHelmet.head	itemName	arcana_head_neonHelmet
+277	arcana_head_neonHelmet.head	description	A simple protection helmet.
+278	arcana_head_neonHelmet.head	shortdescription	Neon Helmet
+279	arcana_head_nightmistGuise.head	itemName	arcana_head_nightmistGuise
+280	arcana_head_nightmistGuise.head	description	A mask worn by the grave-lurking azure shamans.
+281	arcana_head_nightmistGuise.head	shortdescription	Nightmist Guise
+282	arcana_head_plaguedoctor.head	description	A mask in the shape of the Plague Doctor.
+283	arcana_head_plaguedoctor.head	shortdescription	Plague Doctor Mask
+284	arcana_head_tinySva.head	description	A tiny Sva!
+285	arcana_head_tinySva.head	shortdescription	Tiny Sva
+286	arcana_head_tripledecker.head	description	TASTE the icy sweetness!
+287	arcana_head_tripledecker.head	shortdescription	Triple Decking Slam
+288	arcana_head_aeonwitchhat.head	description	A glowing witch hat.
+289	arcana_head_aeonwitchhat.head	shortdescription	Aeon Witch Hat
+290	arcana_head_antlers.head	description	Dropped by an elk in the winter. ^orange;[imp]^reset;
+291	arcana_head_antlers.head	shortdescription	Antlers
+292	arcana_head_ariasupporter.head	description	Wait how'd you even learn about Aria?!
+293	arcana_head_ariasupporter.head	shortdescription	Aria Supporter
+294	arcana_head_batcowl.head	description	The mask of a black knight. ^orange;[SpeedyDragon9k]^reset;
+295	arcana_head_batcowl.head	shortdescription	Bat Cowl
+296	arcana_head_birdofparadisehood.head	description	A comfy green hood.
+297	arcana_head_birdofparadisehood.head	shortdescription	Bird of Paradise Hood
+298	arcana_head_blairebustersupporter.head	description	Designed by Baka B. Blaire herself!
+299	arcana_head_blairebustersupporter.head	shortdescription	Blaire Buster Supporter
+300	arcana_head_catwitchhat.head	description	A purple witch hat with ears. Don't you know black cats are bad luck? ^orange;[Kazoo kid]^reset;
+301	arcana_head_catwitchhat.head	shortdescription	Cat Witch Hat
+302	arcana_head_cheribombers.head	description	Pruned and ready to grow!
+303	arcana_head_cheribombers.head	shortdescription	Cheri Bombers
+304	arcana_head_count01mask.head	description	Is that dry blood on it or is that a loose wire? ^orange;[Armok]^reset;
+305	arcana_head_count01mask.head	shortdescription	Count 01 Head
+306	arcana_head_cowboylantern.head	description	Something wicked this way rides. ^orange;[BigIronJuliette]^reset;
+307	arcana_head_cowboylantern.head	shortdescription	Cowboy Lantern
+308	arcana_head_coziesfiremask.head	description	The mask of a fire's warmth.
+309	arcana_head_coziesfiremask.head	shortdescription	Cozies Fire Mask
+310	arcana_head_cryocatalysts.head	description	Your personal snow generator!
+311	arcana_head_cryocatalysts.head	shortdescription	Cryo Catalysts
+312	arcana_head_darkwitchhat.head	description	An ominous and foreboding witch hat. A crescent moon dangles from it. ^orange;[Kazoo kid]^reset;
+313	arcana_head_darkwitchhat.head	shortdescription	Dark Witch Hat
+314	arcana_head_demonlordsvisage.head	description	The helm of a powerful demon lord.
+315	arcana_head_demonlordsvisage.head	shortdescription	Demon Lord's Visage
+316	arcana_head_efflorescentpetal.head	description	Soft and cold to the touch!
+317	arcana_head_efflorescentpetal.head	shortdescription	Efflorescent Petal
+318	arcana_head_energyorb.head	description	A convenient and comfortable headpiece that projects a ball of pure energy above your head!
+319	arcana_head_erchiusghosthead.head	description	Angry Marshmallow. ^orange;[Malevolent VoidHeart]^reset;
+320	arcana_head_erchiusghosthead.head	shortdescription	Erchius Ghost Head
+321	arcana_head_exousiavrheadset.head	description	A VR headset!
+322	arcana_head_exousiavrheadset.head	shortdescription	Exousia VR Headset
+323	arcana_head_fakearcanianears.head	description	A pair of fake ears mimicking those of the astral canines. ^orange;[INVADA]^reset;
+324	arcana_head_fakearcanianears.head	shortdescription	Fake Arcanian Ears
+325	arcana_head_fakegiltenhorns.head	description	A pair of fake horns mimicking those of the holy dragons. ^orange;[INVADA]^reset;
+326	arcana_head_fakegiltenhorns.head	shortdescription	Fake Gilten Horns
+327	arcana_head_giltenbeanie.head	description	A comfortable woven beanie.
+328	arcana_head_giltenbeanie.head	shortdescription	Gilten Beanie
+329	arcana_head_hatalos.head	description	This one won't ruin your style!
+330	arcana_head_hatalos.head	shortdescription	Hatalos
+331	arcana_head_hauntedantlers.head	description	Is it a good idea to wear these? ^orange;[imp]^reset;
+332	arcana_head_hauntedantlers.head	shortdescription	Haunted Antlers
+333	arcana_head_hazolantern.head	description	With a built in respirator for getting through those rough patches. ^orange;[BigIronJuliette]^reset;
+334	arcana_head_hazolantern.head	shortdescription	Haz o' Lantern
+335	arcana_head_imphorns.head	description	Pointy horns that stick straight up. ^orange;[imp]^reset;
+336	arcana_head_imphorns.head	shortdescription	Imp Horns
+337	arcana_head_jacobsheepshorns.head	description	Four horns, two point upward and two curve down. ^orange;[imp]^reset;
+338	arcana_head_jacobsheepshorns.head	shortdescription	Jacob Sheep's Horns
+339	arcana_head_kenopseacap.head	description	A cap from a darkened distant world.
+340	arcana_head_kenopseacap.head	shortdescription	Kenopsea Cap
+341	arcana_head_kenopseahat.head	description	A hat from a darkened distant world.
+342	arcana_head_kenopseahat.head	shortdescription	Kenopsea Hat
+343	arcana_head_kenopsearoundhat.head	description	A hat from a darkened distant world.
+344	arcana_head_kenopsearoundhat.head	shortdescription	Kenopsea Round Hat
+345	arcana_head_kitsunemen.head	description	Use this mask to hide yourself in a lively festival. ^orange;[Kumochan]^reset;
+346	arcana_head_kitsunemen.head	shortdescription	Kitsunemen
+347	arcana_head_knighthelmet.head	description	The helm of a knight.
+348	arcana_head_knighthelmet.head	shortdescription	Knight Helmet
+349	arcana_head_livetargetpractice.head	description	Rookie mistake(s). ^orange;[Malevolent VoidHeart]^reset;
+350	arcana_head_livetargetpractice.head	shortdescription	Live Target Practice
+351	arcana_head_log.head	description	A log! It's quite essential, or so I've heard.
+352	arcana_head_lowbudgetvrheadset.head	description	A VR headset!
+353	arcana_head_lowbudgetvrheadset.head	shortdescription	Low Budget VR Headset
+354	arcana_head_mageshood.head	description	A hood worn by experienced mages.
+355	arcana_head_mageshood.head	shortdescription	Mage's Hood
+356	arcana_head_mageshoodalt.head	description	A mage's hood. This variant has a different dyeable area.
+357	arcana_head_mageshoodalt.head	shortdescription	Mage's Hood Alt
+358	arcana_head_marilwyd.head	description	From an old holiday tradition on Earth. ^orange;[Agent Kirin]^reset;
+359	arcana_head_marilwyd.head	shortdescription	Mari Lwyd
+360	arcana_head_neonskull.head	description	A Cyberpunk mask for a Cyberpunk Halloween. ^orange;[Minewithhim]^reset;
+361	arcana_head_neonskull.head	shortdescription	Neon Skull
+362	arcana_head_oceanivynymphhat.head	description	A colorful hat made from flowers.
+363	arcana_head_oceanivynymphhat.head	shortdescription	Ocean Ivy Nymph Hat
+364	arcana_head_orionvrheadset.head	description	A VR headset!
+365	arcana_head_orionvrheadset.head	shortdescription	Orion VR Headset
+366	arcana_head_pumpkinwitchhat.head	description	A purple witch hat with a pumpkin ribbon. ^orange;[Kazoo kid]^reset;
+367	arcana_head_pumpkinwitchhat.head	shortdescription	Pumpkin Witch Hat
+368	arcana_head_punkinhead.head	description	If you don't hand over your treats, prepare for nasty Tricks! ^orange;[cutieryan]^reset;
+369	arcana_head_punkinhead.head	shortdescription	Punkin Head
+370	arcana_head_purplevisor.head	description	A high tech purple visor.
+371	arcana_head_purplevisor.head	shortdescription	Purple Visor
+372	arcana_head_redseeker.head	description	A single menacing red eye that stares into your soul. ^orange;[dr.nightmares2.0]^reset;
+373	arcana_head_redseeker.head	shortdescription	Red Seeker
+374	arcana_head_redvisor.head	description	A high tech red visor.
+375	arcana_head_redvisor.head	shortdescription	Red Visor
+376	arcana_head_requiem.head	description	The path to redemption is never an easy one. ^orange;[INVADA]^reset;
+377	arcana_head_requiem.head	shortdescription	Requiem
+378	arcana_head_sandwormmaw.head	description	Eugh there's sand in here! ^orange;[Calano]^reset;
+379	arcana_head_sandwormmaw.head	shortdescription	Sandworm Maw
+380	arcana_head_sandwormstomach.head	description	Large enough to be a bag! ^orange;[Calano]^reset;
+381	arcana_head_sandwormstomach.head	shortdescription	Sandworm Stomach
+382	arcana_head_sandwormtail.head	description	Talk about rear support! ^orange;[Calano]^reset;
+383	arcana_head_sandwormtail.head	shortdescription	Sandworm Tail
+384	arcana_head_selinsupporter.head	description	Yes, that's real Dawnfire!
+385	arcana_head_selinsupporter.head	shortdescription	Selin Supporter
+386	arcana_head_slasholantern.head	description	The carved has become the carver. ^orange;[BigIronJuliette]^reset;
+387	arcana_head_slasholantern.head	shortdescription	Slash o' Lantern
+388	arcana_head_sorcerershood.head	description	A hood worn by experienced sorcerers.
+389	arcana_head_sorcerershood.head	shortdescription	Sorcerer's Hood
+390	arcana_head_sorcerershoodalt.head	description	A sorcerer's hood. This variant has a different dyeable area.
+391	arcana_head_sorcerershoodalt.head	shortdescription	Sorcerer's Hood Alt
+392	arcana_head_supremewachterhelmet.head	description	A modified wachter helmet.
+393	arcana_head_supremewachterhelmet.head	shortdescription	Supreme Wachter Helmet
+394	arcana_head_vanillavrheadset.head	description	A VR headset!
+395	arcana_head_vanillavrheadset.head	shortdescription	Vanilla VR Headset
+396	arcana_head_wildprarienymphhat.head	description	A colorful hat made from flowers.
+397	arcana_head_wildprarienymphhat.head	shortdescription	Wild Prarie Nymph Hat
+398	arcana_back_chaserWings.back	itemName	arcana_back_chaserWings
+399	arcana_back_chaserWings.back	description	A pair of wings.
+400	arcana_back_chaserWings.back	shortdescription	Chaser Wings
+401	arcana_back_cherubimWings.back	itemName	arcana_back_cherubimWings
+402	arcana_back_cherubimWings.back	description	A pair of wings of the Gilten race, the holy dragons.
+403	arcana_back_cherubimWings.back	shortdescription	Cherubim Wings
+404	arcana_back_foliageWings.back	itemName	arcana_back_foliageWings
+405	arcana_back_foliageWings.back	description	A pair of wings.
+406	arcana_back_foliageWings.back	shortdescription	Foliage Wings
+407	arcana_back_lucidWings.back	itemName	arcana_back_lucidWings
+408	arcana_back_lucidWings.back	description	A pair of wings.
+409	arcana_back_lucidWings.back	shortdescription	Lucid Wings
+410	arcana_back_monarchWings.back	itemName	arcana_back_monarchWings
+411	arcana_back_monarchWings.back	description	A pair of wings.
+412	arcana_back_monarchWings.back	shortdescription	Monarch Wings
+413	arcana_back_seraphimWings.back	itemName	arcana_back_seraphimWings
+414	arcana_back_seraphimWings.back	description	A pair of wings of the Gilten race, the holy dragons.
+415	arcana_back_seraphimWings.back	shortdescription	Seraphim Wings
+416	arcana_armor_arcka.chest	description	An Arcanian ship crew outfit. ^green;+5% Azure res.^reset;
+417	arcana_armor_arcka.head	description	An Arcanian ship crew outfit. ^green;+5% Azure res.^reset;
+418	arcana_armor_arcka.head	shortdescription	Arcka Cap
+419	arcana_armor_arcka.legs	description	An Arcanian ship crew outfit. ^green;+5% Azure res.^reset;
+420	arcana_armor_electromage.back	description	A coat worn by experienced arcanian mages.
+421	arcana_armor_electromage.back	shortdescription	Electromage's Coat
+422	arcana_armor_electromage.chest	description	An ornate clothing worn by arcanian technomancers.
+423	arcana_armor_electromage.chest	shortdescription	Electromage's Coverings
+424	arcana_armor_electromage.head	description	An ornate clothing worn by arcanian technomancers.
+425	arcana_armor_electromage.head	shortdescription	Electromage's Headpiece
+426	arcana_armor_electromage.legs	description	An ornate clothing worn by arcanian technomancers.
+427	arcana_armor_electromage.legs	shortdescription	Electromage's Bottoms
+428	arcana_armor_goldheadpiece.head	description	A gold decorative headpiece.
+429	arcana_armor_goldheadpiece.head	shortdescription	Gold Headpiece
+430	arcana_armor_magnate.head	shortdescription	Magnate Hat
+431	arcana_armor_oceanite.head	shortdescription	Oceanite Hood
+432	arcana_armor_runic.chest	description	An ornate clothing covered with runic inscriptions.
+433	arcana_armor_runic.chest	shortdescription	Runic Coverings
+434	arcana_armor_runic.head	description	An ornate clothing covered with runic inscriptions.
+435	arcana_armor_runic.head	shortdescription	Runic Headpiece
+436	arcana_armor_runic.legs	description	An ornate clothing covered with runic inscriptions.
+437	arcana_armor_runic.legs	shortdescription	Runic Bottoms
+438	arcana_armor_runicalt.head	description	An ornate clothing covered with runic inscriptions.
+439	arcana_armor_runicalt.head	shortdescription	Runic Mask
+440	arcana_armor_stargleam.chest	description	A bygone outfit, once worn by Arcanian starfarers.
+441	arcana_armor_stargleam.chest	shortdescription	Stargleam Coverings
+442	arcana_armor_stargleam.head	description	A bygone outfit, once worn by Arcanian starfarers.
+443	arcana_armor_stargleam.head	shortdescription	Stargleam Headpiece
+444	arcana_armor_stargleam.legs	description	A bygone outfit, once worn by Arcanian starfarers.
+445	arcana_armor_stargleam.legs	shortdescription	Stargleam Bottoms
+446	arcana_armor_starwalker.chest	description	A loose fitting Arcanian outfit.
+447	arcana_armor_starwalker.chest	shortdescription	Starwalker Coverings
+448	arcana_armor_starwalker.head	description	An Arcanian decorative headpiece.
+449	arcana_armor_starwalker.head	shortdescription	Starwalker Headpiece
+450	arcana_armor_starwalker.legs	description	A loose fitting Arcanian outfit.
+451	arcana_armor_starwalker.legs	shortdescription	Starwalker Bottoms
+452	arcana_armor_technomancer.chest	description	An ornate clothing worn by arcanian technomancers.
+453	arcana_armor_technomancer.chest	shortdescription	Technomancer's Coverings
+454	arcana_armor_technomancer.head	description	An ornate clothing worn by arcanian technomancers.
+455	arcana_armor_technomancer.head	shortdescription	Technomancer's Headpiece
+456	arcana_armor_technomancer.legs	description	An ornate clothing worn by arcanian technomancers.
+457	arcana_armor_technomancer.legs	shortdescription	Technomancer's Bottoms
+458	arcana_armor_technomanceralt.chest	description	An ornate clothing worn by arcanian technomancers.
+459	arcana_armor_technomanceralt.chest	shortdescription	Technomancer's Coverings
+460	arcana_armor_bloodAssassin.chest	itemName	arcana_armor_bloodAssassin_chest
+461	arcana_armor_bloodAssassin.chest	description	A piece of blood soaked clothing.
+462	arcana_armor_bloodAssassin.chest	shortdescription	Blood Assassin Armor
+463	arcana_armor_bloodAssassin.head	itemName	arcana_armor_bloodAssassin_head
+464	arcana_armor_bloodAssassin.head	description	A piece of blood soaked clothing.
+465	arcana_armor_bloodAssassin.head	shortdescription	Blood Assassin Helm
+466	arcana_armor_bloodAssassin.legs	itemName	arcana_armor_bloodAssassin_legs
+467	arcana_armor_bloodAssassin.legs	description	A piece of blood soaked clothing.
+468	arcana_armor_bloodAssassin.legs	shortdescription	Blood Assassin Greaves
+469	arcana_armor_butcher.chest	description	A piece of blood soaked clothing.
+470	arcana_armor_butcher.chest	shortdescription	Butcher Armor
+471	arcana_armor_butcher.head	description	A piece of blood soaked clothing.
+472	arcana_armor_butcher.head	shortdescription	Butcher Helm
+473	arcana_armor_butcher.legs	description	A piece of blood soaked clothing.
+474	arcana_armor_butcher.legs	shortdescription	Butcher Greaves
+475	arcana_armor_exousia_anhanger.head	shortdescription	Erexeno Hat
+476	arcana_armor_exousia_nordwolf.head	shortdescription	Nordwolf Helm
+477	arcana_armor_exousia_soldat.head	shortdescription	Soldat Helm
+478	arcana_armor_exousia_wachter.head	description	A standard armor worn by Exousian police officers. ^green;+2% Physical res.^reset;
+479	arcana_armor_exousia_wachter.head	shortdescription	Wachter Helm
+480	arcana_armor_aureaUniform.chest	itemName	arcana_armor_aureaUniform_chest
+481	arcana_armor_aureaUniform.chest	description	A standard uniform worn by Seeker trainees.
+482	arcana_armor_aureaUniform.chest	shortdescription	Seeker Uniform
+483	arcana_armor_aureaUniform.legs	itemName	arcana_armor_aureaUniform_legs
+484	arcana_armor_aureaUniform.legs	description	A standard uniform worn by Seeker trainees.
+485	arcana_armor_aureaUniform.legs	shortdescription	Seeker Pants
+486	arcana_armor_aureaguarduniform.chest	description	A uniform worn by high rank Seekers. Despite this, it's mostly for cosmetics.
+487	arcana_armor_aureaguarduniform.chest	shortdescription	Elite Seeker Uniform
+488	arcana_armor_aureaguarduniform.head	description	A uniform worn by top performing Seekers. ^green;Grants +30% Max Health.^reset;
+489	arcana_armor_aureaguarduniform.head	shortdescription	Elite Seeker Helm
+490	arcana_armor_aureaguarduniform.legs	description	A uniform worn by high rank Seekers. Despite this, it's mostly for cosmetics.
+491	arcana_armor_aureaguarduniform.legs	shortdescription	Elite Seeker Pants
+492	arcana_armor_beholder.head	shortdescription	Beholder Hood
+493	arcana_armor_brightguard.head	shortdescription	Brightguard Cap
+494	arcana_armor_brightlite.head	shortdescription	Brightlite Cap
+495	arcana_armor_devotee.head	shortdescription	Devotee Helm
+496	arcana_armor_disciple.head	shortdescription	Disciple Hood
+497	arcana_armor_gralsigh.head	shortdescription	Gralsigh Helm
+498	arcana_armor_inquisitor.chest	description	Uniform worn by Gilten Inquisitors. ^green;+4% Light Res.^reset;
+499	arcana_armor_inquisitor.chest	shortdescription	Inquisitor Armor
+500	arcana_armor_inquisitor.head	description	Uniform worn by Gilten Inquisitors. ^green;+4% Light Res.^reset;
+501	arcana_armor_inquisitor.head	shortdescription	Inquisitor Helm
+502	arcana_armor_inquisitor.legs	description	Uniform worn by Gilten Inquisitors. ^green;+2% Light Res.^reset;
+503	arcana_armor_inquisitor.legs	shortdescription	Inquisitor Greaves
+504	arcana_armor_seraph.head	shortdescription	Seraph Helm
+505	arcana_armor_zealot.head	shortdescription	Zealot Helm
+506	arcana_armor_cryoHoplite.chest	itemName	arcana_armor_cryoHoplite_chest
+507	arcana_armor_cryoHoplite.head	itemName	arcana_armor_cryoHoplite_head
+508	arcana_armor_cryoHoplite.head	shortdescription	Cryocraze Helm
+509	arcana_armor_cryoHoplite.legs	itemName	arcana_armor_cryoHoplite_legs
+510	arcana_armor_demise.chest	description	A dark jacket with a few purple glowing bits, crafted from necroium. 
+
+^orange;Set Bonus:^reset; 
+Grants ^gree
+511	arcana_armor_demise.head	description	A dark helm, crafted from necroium. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Horizon Weapon damage^rese
+512	arcana_armor_demise.head	shortdescription	Demise Helmet
+513	arcana_armor_demise.legs	description	A piece of dark leg armor, crafted from necroium. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Horizon Weap
+514	arcana_armor_erexeno.head	shortdescription	Erexeno Hat
+515	arcana_armor_horizonDisciple.chest	itemName	arcana_armor_horizonDisciple_chest
+516	arcana_armor_horizonDisciple.head	itemName	arcana_armor_horizonDisciple_head
+517	arcana_armor_horizonDisciple.head	shortdescription	Horizon Disciple Helm
+518	arcana_armor_horizonDisciple.legs	itemName	arcana_armor_horizonDisciple_legs
+519	arcana_armor_horizonDiscipleLeader.chest	itemName	arcana_armor_horizonDiscipleLeader_chest
+520	arcana_armor_horizonDiscipleLeader.chest	description	A battle suit armor worn by Horizon Disciples squad leaders.
+521	arcana_armor_horizonDiscipleLeader.chest	shortdescription	Disp. Leader Suit
+522	arcana_armor_horizonDiscipleLeader.head	itemName	arcana_armor_horizonDiscipleLeader_head
+523	arcana_armor_horizonDiscipleLeader.head	description	A battle suit armor worn by Horizon Disciple squad leaders.
+524	arcana_armor_horizonDiscipleLeader.head	shortdescription	Disp. Leader Helm
+525	arcana_armor_horizonDiscipleLeader.legs	itemName	arcana_armor_horizonDiscipleLeader_legs
+526	arcana_armor_horizonDiscipleLeader.legs	description	A battle suit armor worn by Horizon Disciples squad leaders.
+527	arcana_armor_horizonDiscipleLeader.legs	shortdescription	Disp. Leader Pants
+528	arcana_armor_horizonLiberator.chest	itemName	arcana_armor_horizonLiberator_chest
+529	arcana_armor_horizonLiberator.chest	description	A full heavy-armor worn by the Horizon Liberators. ^green;Grants +3% Electric Res & +3% Poison Res.^reset;
+530	arcana_armor_horizonLiberator.chest	shortdescription	Liberator Suit
+531	arcana_armor_horizonLiberator.head	itemName	arcana_armor_horizonLiberator_head
+532	arcana_armor_horizonLiberator.head	description	A full heavy-armor worn by the Horizon Liberators. ^green;Grants +3% Electric Res & +3% Poison Res.^reset;
+533	arcana_armor_horizonLiberator.head	shortdescription	Liberator Helm
+534	arcana_armor_horizonLiberator.legs	itemName	arcana_armor_horizonLiberator_legs
+535	arcana_armor_horizonLiberator.legs	description	A full heavy-armor worn by the Horizon Liberators. ^green;Grants +3% Electric Res & +3% Poison Res.^reset;
+536	arcana_armor_horizonLiberator.legs	shortdescription	Liberator Leggings
+537	arcana_armor_omenkyrie.head	shortdescription	Omenkyrie Mask
+538	arcana_armor_onyx.head	description	A dark helm, crafted from necroium.
+539	arcana_armor_onyx.head	shortdescription	Onyx Helmet
+540	arcana_armor_pyroHoplite.chest	itemName	arcana_armor_pyroHoplite_chest
+541	arcana_armor_pyroHoplite.head	itemName	arcana_armor_pyroHoplite_head
+542	arcana_armor_pyroHoplite.head	shortdescription	Pyrocraze Helm
+543	arcana_armor_pyroHoplite.legs	itemName	arcana_armor_pyroHoplite_legs
+544	arcana_armor_voltabolt.chest	description	A battle suit armor worn by Horizon Voltabolts. ^green;Grants +5% Electric Res.^reset;
+545	arcana_armor_voltabolt.head	description	A battle suit armor worn by Horizon Voltabolts. ^green;Grants +5% Electric Res.^reset;
+546	arcana_armor_voltabolt.head	shortdescription	Voltabolt Helm
+547	arcana_armor_voltabolt.legs	description	A battle suit armor worn by Horizon Voltabolts. ^green;Grants +5% Electric Res.^reset;
+548	arcana_armor_iceElite.chest	itemName	arcana_armor_iceElite_chest
+549	arcana_armor_iceElite.chest	shortdescription	Ice Knight Breastplate
+550	arcana_armor_iceElite.head	itemName	arcana_armor_iceElite_head
+551	arcana_armor_iceElite.head	shortdescription	Ice Knight Helm
+552	arcana_armor_iceElite.legs	itemName	arcana_armor_iceElite_legs
+553	arcana_armor_iceElite.legs	shortdescription	Ice Knight Tassets
+554	arcana_armor_iceKnight.chest	itemName	arcana_armor_iceKnight_chest
+555	arcana_armor_iceKnight.chest	shortdescription	Ice Knight Breastplate
+556	arcana_armor_iceKnight.head	itemName	arcana_armor_iceKnight_head
+557	arcana_armor_iceKnight.head	shortdescription	Ice Knight Helm
+558	arcana_armor_iceKnight.legs	itemName	arcana_armor_iceKnight_legs
+559	arcana_armor_iceKnight.legs	shortdescription	Ice Knight Tassets
+560	arcana_armor_iceMage.chest	itemName	arcana_armor_iceMage_chest
+561	arcana_armor_iceMage.chest	shortdescription	Ice Mage Breastplate
+562	arcana_armor_iceMage.head	itemName	arcana_armor_iceMage_head
+563	arcana_armor_iceMage.head	shortdescription	Ice Mage Helm
+564	arcana_armor_iceMage.legs	itemName	arcana_armor_iceMage_legs
+565	arcana_armor_iceMage.legs	shortdescription	Ice Mage Tassets
+566	arcana_armor_heishe.chest	description	A light armor crafted from corrodium. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+5% Poison RES^reset;, ^green
+567	arcana_armor_heishe.head	description	A light armor crafted from corrodium. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+5% Poison RES^reset;, ^green
+568	arcana_armor_heishe.head	shortdescription	Heishe Helmet
+569	arcana_armor_heishe.legs	description	A light armor crafted from corrodium. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+5% Poison RES^reset;, ^green
+570	arcana_armor_lushe.head	shortdescription	Lushe Branches
+571	arcana_armor_shuying.chest	description	A camouflaged armor made from corrodium worn by Luye assassins. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;Poi
+572	arcana_armor_shuying.chest	shortdescription	Shuying Chestplate
+573	arcana_armor_shuying.head	description	A camouflaged armor by Luye assassins. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;Poisoned Immunity^reset; and
+574	arcana_armor_shuying.head	shortdescription	Shuying Helmet
+575	arcana_armor_shuying.legs	description	A camouflaged armor made from corrodium worn by Luye assassins. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;Poi
+576	arcana_armor_shuying.legs	shortdescription	Shuying Leggings
+577	arcana_armor_scrapdiver.head	description	A crude armor made from scavenged scrap parts. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Ranged damage.^
+578	arcana_armor_scrapdiver.head	shortdescription	Scrapdiver Helmet
+579	arcana_armor_scrapsewn.chest	description	A crude armor made from scavenged scrap parts. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Ranged damage.^
+580	arcana_armor_scrapsewn.chest	shortdescription	Scrapsewn Chestwear
+581	arcana_armor_scrapsewn.head	description	A crude armor made from scavenged scrap parts. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Ranged damage.^
+582	arcana_armor_scrapsewn.head	shortdescription	Scrapsewn Helmet
+583	arcana_armor_scrapsewn.legs	description	A crude armor made from scavenged scrap parts. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Ranged damage.^
+584	arcana_armor_scrapsewn.legs	shortdescription	Scrapsewn Leggings
+585	arcana_armor_verrostin.chest	description	A haken-verrostin forged armor. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Verrostin Weapon, Rocket Launc
+586	arcana_armor_verrostin.head	description	A haken-verrostin forged armor. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Verrostin Weapon, Rocket Launc
+587	arcana_armor_verrostin.head	shortdescription	Verrostin Helmet
+588	arcana_armor_verrostin.legs	description	A haken-verrostin forged armor. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+10% Verrostin Weapon, Rocket Launc
+589	arcana_cradling.chest	description	An intricately woven robe.
+590	arcana_cradling.chest	shortdescription	Cradling Robe
+591	arcana_cradling.legs	description	An intricately woven robe.
+592	arcana_cradling.legs	shortdescription	Cradling Bottoms
+593	arcana_duskkin.chest	description	An sleeveless top.
+594	arcana_duskkin.chest	shortdescription	Duskkin Shirt
+595	arcana_duskkin.legs	description	An intricately woven robe.
+596	arcana_duskkin.legs	shortdescription	Duskkin Bottoms
+597	arcana_faetheri.chest	description	A stealth focused armor piece, good for hunting in the dark.
+598	arcana_faetheri.chest	shortdescription	Faetheri Carapace
+599	arcana_faetheri.head	description	A stealth focused armor piece, good for hunting in the dark.
+600	arcana_faetheri.head	shortdescription	Faetheri Hood
+601	arcana_faetheri.legs	description	A stealth focused armor piece, good for hunting in the dark.
+602	arcana_faetheri.legs	shortdescription	Faetheri Leg Armor
+603	arcana_faetherialt.chest	description	A stealth focused armor piece, good for hunting in the dark.
+604	arcana_faetherialt.chest	shortdescription	Faetheri Carapace Alt
+605	arcana_florahusk.chest	description	A crude protective armor piece.
+606	arcana_florahusk.chest	shortdescription	Florahusk Carapace
+607	arcana_florahusk.head	description	A simple circlet decorated with flowers.
+608	arcana_florahusk.head	shortdescription	Florahusk Circlet
+609	arcana_florahusk.legs	description	A crude protective armor piece.
+610	arcana_florahusk.legs	shortdescription	Florahusk Leg Armor
+611	arcana_greyshell.chest	description	A basic protective chestwear.
+612	arcana_greyshell.chest	shortdescription	Greyshell Carapace
+613	arcana_greyshell.head	description	A basic protective headwear.
+614	arcana_greyshell.head	shortdescription	Greyshell Headplate
+615	arcana_greyshell.legs	description	A basic protective legwear.
+616	arcana_greyshell.legs	shortdescription	Greyshell Leg Armor
+617	arcana_revenant.chest	description	A violium-infused carapace piece, for protection against monstrocities. 
+
+^orange;Set Bonus:^reset; 
+^green;+4
+618	arcana_revenant.chest	shortdescription	Revenant Carapace
+619	arcana_revenant.head	description	A violium-infused carapace piece, for protection against monstrocities. 
+
+^orange;Set Bonus:^reset; 
+^green;+4
+620	arcana_revenant.head	shortdescription	Revenant Helmet
+621	arcana_revenant.legs	description	A violium-infused carapace piece, for protection against monstrocities. 
+
+^orange;Set Bonus:^reset; 
+^green;+4
+622	arcana_revenant.legs	shortdescription	Revenant Leg Armor
+623	arcana_spectwingcasual.chest	shortdescription	Apprentice Jacket
+624	arcana_spectwingcasual.legs	description	Comfy and casual. Brilliant for blending into a crowd.
+625	arcana_spectwingcasual.legs	shortdescription	Apprentice Shorts
+626	arcana_wraith.chest	description	A more refined armor, built with good swiftness and toughness.
+627	arcana_wraith.chest	shortdescription	Wraith Carapace
+628	arcana_wraith.head	description	A more refined armor, built with good swiftness and toughness.
+629	arcana_wraith.head	shortdescription	Wraith Headplate
+630	arcana_wraith.legs	description	A more refined armor, built with good swiftness and toughness.
+631	arcana_wraith.legs	shortdescription	Wraith Leg Armor
+632	arcana_armor_gearsS8.chest	description	A chestplate worn by Titancorp machinists. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+5% Fire RES^reset; and 
+633	arcana_armor_gearsS8.chest	shortdescription	Machinist Chestplate
+634	arcana_armor_gearsS8.head	description	A heavy armor worn by Titancorp machinists. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+5% Fire RES^reset; and
+635	arcana_armor_gearsS8.head	shortdescription	Machinist Helmet
+636	arcana_armor_gearsS8.legs	description	A piece of leggings worn by Titancorp machinists. 
+
+^orange;Set Bonus:^reset; 
+Grants ^green;+5% Fire RES^rese
+637	arcana_armor_gearsS8.legs	shortdescription	Machinist Leggings
+638	arcana_armor_gearsS8E.chest	description	Titancorp elite's uniform. 
+
+^orange;Set Bonus:^reset; 
+^green;+10% Titancorp weapon damage^reset;. ^green;Rec
+639	arcana_armor_gearsS8E.chest	shortdescription	Gearshift Armor
+640	arcana_armor_gearsS8E.head	description	Titancorp elite's uniform. 
+
+^orange;Set Bonus:^reset; 
+^green;+10% Titancorp weapon damage^reset;. ^green;Rec
+641	arcana_armor_gearsS8E.head	shortdescription	Gearshift Visor
+642	arcana_armor_gearsS8E.legs	description	Titancorp elite's uniform. 
+
+^orange;Set Bonus:^reset; 
+^green;+10% Titancorp weapon damage^reset;. ^green;Rec
+643	arcana_armor_gearsS8E.legs	shortdescription	Gearshift Leggings
+644	arcana_armor_titancorp1.chest	description	Titancorp elite's uniform. 
+
+^orange;Set Bonus:^reset; 
+^green;+10% Titancorp weapon damage^reset;. ^green;Rec
+645	arcana_armor_titancorp1.chest	shortdescription	Titancorp Corebreaker Armor
+646	arcana_armor_titancorp1.head	description	Titancorp elite's uniform. 
+
+^orange;Set Bonus:^reset; 
+^green;+10% Titancorp weapon damage^reset;. ^green;Rec
+647	arcana_armor_titancorp1.head	shortdescription	Titancorp Corebreaker Visor
+648	arcana_armor_titancorp1.legs	description	Titancorp elite's uniform. 
+
+^orange;Set Bonus:^reset; 
+^green;+10% Titancorp weapon damage^reset;. ^green;Rec
+649	arcana_armor_titancorp1.legs	shortdescription	Titancorp Corebreaker Leggings
+650	arcana_augment_1.augment	description	An EPP module that boosts your total energy, health regen and damage by a small amount.
+651	arcana_augment_1.augment	shortdescription	Arcana 0, The Fool
+652	arcana_augment_10.augment	description	^green;Grants +20% resist to Ice and immunity to frost. Inflict ice damage to the attacker when damaged.^reset
+653	arcana_augment_10.augment	shortdescription	Amp - Solitude
+654	arcana_augment_13.augment	description	^green;Grants +20% resist to Electric, immunity to electrified and +60% energy.^reset;
+655	arcana_augment_13.augment	shortdescription	Amp - Neocharge
+656	arcana_augment_15.augment	description	^green;Grants immunity to burning, swim boost, +10% max health and +10% max energy.^reset;
+657	arcana_augment_15.augment	shortdescription	Amp - Maelstrom
+658	arcana_augment_1_1.augment	description	An EPP module that boosts your total energy, health regen and damage by a small amount.
+659	arcana_augment_1_1.augment	shortdescription	Arcana 0, The Fool
+660	arcana_augment_2.augment	description	^green;Grants +20% resist to Fire, immunity to burning and +40% attack.^reset;
+661	arcana_augment_2.augment	shortdescription	Arcana I, The Magician
+662	arcana_augment_3.augment	description	^green;Grants light gravity, +40% run speed, immunity to fall damage and +20% energy.^reset;
+663	arcana_augment_3.augment	shortdescription	Amp - Windflow
+664	arcana_augment_4.augment	description	^green;Grants immunity to burning, frost, electrified and poisoned. +10% health and +10% attack.^reset;
+665	arcana_augment_4.augment	shortdescription	Amp - Gleamstasis
+666	arcana_augment_5.augment	description	^green;Grants Nova and +10% Attack. Upon triggering Nova, gain an additional +100% Attack for 4 seconds.
+667	arcana_augment_5.augment	shortdescription	Amp - Ragechant
+668	arcana_augment_energyDrain.augment	itemName	arcana_augment_energyDrain
+669	arcana_augment_energyDrain.augment	description	^green;Grants energy drain immunity. Useful as an Arcane EPP replacement.^reset;
+670	arcana_augment_energyDrain.augment	shortdescription	EPA - Arcane
+671	arcana_augment_halcyon.augment	description	^green;Grants +10% resist to Fire, Electric, Ice and Poison, +100% health^reset; ^red;and -40% attack.^reset;
+672	arcana_augment_halcyon.augment	shortdescription	Gilded Key - Halcyon
+673	arcana_augment_radiance.augment	description	^green;Grants Radiance immunity. Useful as an Pale EPP replacement.^reset;
+674	arcana_augment_radiance.augment	shortdescription	EPA - Pale
+675	arcana_augment_raven.augment	description	^green;Grants resistance to fall damage, +60% attack, +60% speed^reset; ^red;and -40% health.^reset;
+676	arcana_augment_raven.augment	shortdescription	Gilded Key - Raven
+677	arcana_augment_ruinous.augment	description	^green;Grants Cataclysm & Ruinous immunity. Useful for navigating through ruinous water.^reset;
+678	arcana_augment_ruinous.augment	shortdescription	EPA - Auric
+679	arcana_augment_supercharged.augment	description	^green;Grants Supercharged immunity. Useful as a Superstorm EPP replacement.^reset;
+680	arcana_augment_supercharged.augment	shortdescription	EPA - Superstorm
+681	arcana_seekerlevel.currency	description	Increase your seeker level by using the Atlas!
+682	arcana_seekerlevel.currency	shortdescription	^#orange;Seeker Level^reset;
+683	arcana_auricdye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.
+684	arcana_auricdye.augment	shortdescription	Auric Dye
+685	arcana_gleamdye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.
+686	arcana_gleamdye.augment	shortdescription	Gleam Dye
+687	arcana_platform_aeonPlatform.matitem	itemName	arcana_platform_aeonPlatform
+688	arcana_platform_arkPlatform.matitem	itemName	arcana_platform_arkPlatform
+689	arcana_platform_astralPlatform.matitem	itemName	arcana_platform_astralPlatform
+690	arcana_platform_atlantisPlatform.matitem	itemName	arcana_platform_atlantisPlatform
+691	arcana_platform_auricPlatform.matitem	itemName	arcana_platform_auricPlatform
+692	arcana_platform_exoslatePlatform.matitem	itemName	arcana_platform_exoslatePlatform
+693	arcana_platform_icePlatform.matitem	itemName	arcana_platform_icePlatform
+694	arcana_platform_ingendepthPlatform.matitem	itemName	arcana_platform_ingendepthPlatform
+695	arcana_platform_kuromatsuPlatform.matitem	itemName	arcana_platform_kuromatsuPlatform
+696	arcana_platform_magiwoodPlatform.matitem	itemName	arcana_platform_magiwoodPlatform
+697	arcana_platform_necroiumPlatform.matitem	itemName	arcana_platform_necroiumPlatform
+698	arcana_platform_netherPlatform.matitem	itemName	arcana_platform_netherPlatform
+699	arcana_platform_nullaPlatform.matitem	itemName	arcana_platform_nullaPlatform
+700	arcana_platform_orionPlatform.matitem	itemName	arcana_platform_orionPlatform
+701	arcana_platform_robustaPlatform.matitem	itemName	arcana_platform_robustaPlatform
+702	arcana_platform_robustaPlatform.matitem	description	A dark wooden platform.
+703	arcana_platform_runicPlatform.matitem	itemName	arcana_platform_runicPlatform
+704	arcana_platform_sacredPlatform.matitem	itemName	arcana_platform_sacredPlatform
+705	arcana_platform_stonePlatform.matitem	itemName	arcana_platform_stonePlatform
+706	arcana_platform_verrostinPlatform.matitem	itemName	arcana_platform_verrostinPlatform
+707	arcaneDesert_tile1.matitem	itemName	arcaneDesert_tile1
+708	arcaneDesert_tile2.matitem	itemName	arcaneDesert_tile2
+709	arcaneDesert_tile2.matitem	shortdescription	Sand
+710	arcaneDesert_tile3.matitem	itemName	arcaneDesert_tile3
+711	arcaneForest_tile1.matitem	itemName	arcaneForest_tile1
+712	arcaneForest_tile2.matitem	itemName	arcaneForest_tile2
+713	arcaneForest_tile3.matitem	itemName	arcaneForest_tile3
+714	arcaneTundra_tile1.matitem	itemName	arcaneTundra_tile1
+715	arcaneTundra_tile2.matitem	itemName	arcaneTundra_tile2
+716	arcaneTundra_tile3.matitem	itemName	arcaneTundra_tile3
+717	arcaneTundra_tile4.matitem	itemName	arcaneTundra_tile4
+718	arcaneTundra_tile5.matitem	itemName	arcaneTundra_tile5
+719	arcaneTundra_tile6.matitem	itemName	arcaneTundra_tile6
+720	ardentTaiga_tile1.matitem	itemName	ardentTaiga_tile1
+721	ardentTaiga_tile2.matitem	itemName	ardentTaiga_tile2
+722	ardentTaiga_tile3.matitem	itemName	ardentTaiga_tile3
+723	ardentTaiga_tile4.matitem	itemName	ardentTaiga_tile4
+724	ashen_tile1.matitem	shortdescription	Ashmarble
+725	azureDesert_tile1.matitem	itemName	azureDesert_tile1
+726	azureDesert_tile2.matitem	itemName	azureDesert_tile2
+727	empyrean_tile1.matitem	shortdescription	Cobblestone
+728	glowtearUnderground_tile1.matitem	itemName	glowtearUnderground_tile1
+729	glowtearUnderground_tile1.matitem	shortdescription	Gleamstone
+730	glowtearUnderground_tile2.matitem	itemName	glowtearUnderground_tile2
+731	glowtear_tile1.matitem	shortdescription	Tearstone
+732	goldenForest_tile1.matitem	itemName	goldenForest_tile1
+733	goldenForest_tile2.matitem	itemName	goldenForest_tile2
+734	jadeMorass_tile1.matitem	itemName	jadeMorass_tile1
+735	jadeMorass_tile2.matitem	itemName	jadeMorass_tile2
+736	nihil_tile2.matitem	shortdescription	Nullastone
+737	redTerminus_tile1.matitem	itemName	redTerminus_tile1
+738	redTerminus_tile2.matitem	itemName	redTerminus_tile2
+739	redTerminus_tile3.matitem	itemName	redTerminus_tile3
+740	redTerminus_tile4.matitem	itemName	redTerminus_tile4
+741	redTerminus_tile5.matitem	itemName	redTerminus_tile5
+742	redTerminus_tile6.matitem	itemName	redTerminus_tile6
+743	stahlernBadlands_tile1.matitem	itemName	stahlernBadlands_tile1
+744	superstormExpanse_tile1.matitem	itemName	superstormExpanse_tile1
+745	superstormExpanse_tile2.matitem	itemName	superstormExpanse_tile2
+746	superstormExpanse_tile3.matitem	itemName	superstormExpanse_tile3
+747	superstormExpanse_tile4.matitem	itemName	superstormExpanse_tile4
+748	superstormExpanse_tile4.matitem	shortdescription	Boltstone
+749	volcanicCave_tile1.matitem	itemName	volcanicCave_tile1
+750	arcana_throwable_aeolus.thrownitem	shortdescription	Arioforged Dagger
+751	arcana_throwable_aeolus.thrownitem	description	A throwing dagger, made from ariostone.
+752	arcana_throwable_boss_cosmoNemesis.thrownitem	itemName	arcana_throwable_boss_cosmoNemesis
+753	arcana_throwable_boss_cosmoNemesis.thrownitem	shortdescription	^orange;Sakura Tribute^reset;
+754	arcana_throwable_boss_cosmoNemesis.thrownitem	description	A shadowy stone covered in red blossom flowers... ^orange;[Use to summon a strong foe.]^reset;
+755	arcana_throwable_boss_cosmoNemesis.thrownitem	subtitle	^green;Summon Item^#reset;
+756	arcana_throwable_boss_evolapis.thrownitem	shortdescription	^orange;Evo Abomination^reset;
+757	arcana_throwable_boss_evolapis.thrownitem	description	A suspicious looking rock covered in green goo... ^orange;[Use to summon a strong foe.]^reset;
+758	arcana_throwable_boss_evolapis.thrownitem	subtitle	^green;Summon Item^#reset;
+759	arcana_throwable_gleamplane.thrownitem	shortdescription	Gleamplane
+760	arcana_throwable_gleamplane.thrownitem	description	A paper plane! Will it fly?
+761	arcana_throwable_noveltyStar.thrownitem	itemName	arcana_throwable_noveltyStar
+762	arcana_throwable_noveltyStar.thrownitem	shortdescription	Super Star
+763	monarch_throwable_1.thrownitem	shortdescription	Illuminated Dart
+764	monarch_throwable_1.thrownitem	description	A throwing dart, emits light.
+765	arcana_patchy.object	description	Patchy
+766	elemental_craftingstation_1.object	description	A basic crafting station for elementally infused items.
+767	elemental_craftingstation_1.object	shortdescription	Wooden Elemental Table
+768	arcana_crafting_cookingStation_2.object	objectName	arcana_crafting_cookingStation_2
+769	arcana_crafting_essenceExtractor_1.object	objectName	arcana_crafting_essenceExtractor_1
+770	arcana_crafting_techStation_3.object	objectName	arcana_crafting_techStation_3
+771	arcana_upgradeanvil.object	shortdescription	^#ffffff;^orange;¤^reset; Upgrade Station^reset;
+772	arcana_status_gloom.statuseffect	label	Gloom
+773	arcana_status_hexed.statuseffect	label	Hexed
+774	arcana_gearshift.statuseffect	label	Gearshift
+775	arcana_sanguine.statuseffect	label	Sanguine
+776	arcana_status_bleeding.statuseffect	label	Bleeding
+777	arcana_status_cataclysm.statuseffect	label	Cataclysm
+778	arcana_status_cryocraze.statuseffect	label	Nova
+779	arcana_status_death.statuseffect	label	Death
+780	arcana_status_electricVeil.statuseffect	label	Nova
+781	arcana_status_electricVeilEasy.statuseffect	label	Nova
+782	arcana_status_energized.statuseffect	label	Energized
+783	arcana_status_floating.statuseffect	label	Levitation
+784	arcana_status_heal_4000.statuseffect	label	Healing
+785	arcana_status_pyrocraze.statuseffect	label	Nova
+786	arcana_status_radiance.statuseffect	label	Radiance
+787	arcana_status_ruinous.statuseffect	label	Ruinous
+788	arcana_status_runSpeed_aeternus.statuseffect	label	Voidhaste
+789	haste.statuseffect	label	Haste
+790	arcana_status_shining.statuseffect	label	Shining
+791	arcana_status_shivery.statuseffect	label	Shivery
+792	arcana_status_solitude.statuseffect	label	Solitude
+793	arcana_status_soulburn.statuseffect	label	Soulburn
+794	arcana_status_sovereignty.statuseffect	label	Nova
+795	arcana_status_supercharged.statuseffect	label	Supercharged
+796	arcana_status_transience.statuseffect	label	Transience
+797	arcana_status_magicbuff.statuseffect	label	Magic+
+798	arcana_status_weaponbuff.statuseffect	label	Melee+
+799	arcana_status_windswept.statuseffect	label	Windswept
+800	arcana_camouflage10.statuseffect	label	Camouflage
+801	arcana_heal10.statuseffect	label	Healing
+802	arcana_instantheal40.statuseffect	label	Healing
+803	arcana_status_heal_energizedNanopack.statuseffect	label	Healing
+804	arcana_status_heal_evoNanopack.statuseffect	label	Healing
+805	arcana_status_heal_nanopack.statuseffect	label	Healing
+806	arcana_status_heal_neoNanopack.statuseffect	label	Healing

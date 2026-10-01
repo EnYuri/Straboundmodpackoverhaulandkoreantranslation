@@ -1,0 +1,36 @@
+asset	field	en	ko	src
+/items/armors/lofty_irisil/lofty_irisil_clingy.back	description	If you avoid sudden movements, it might not eat your eyes.	급작스럽게 움직이지만 않으면, 네 눈을 먹지 않을지도.	
+/items/armors/lofty_irisil/lofty_irisil_clingy.back	shortdescription	Clingy Irisa	들러붙는 이리사	
+/items/armors/sirene/fixed-sirene-empty/lofty_irisil_sirenemaskchest.chest	description	For hiding chestwear.	흉갑을 숨기기 위해.	
+/items/armors/sirene/fixed-sirene-empty/lofty_irisil_sirenemaskchest.chest	shortdescription	Masked Chest.	가면 흉갑.	
+/items/armors/sirene/fixed-sirene-empty/lofty_irisil_sirenemaskhead.head	description	For hiding headwear.	두구를 숨기기 위해.	
+/items/armors/sirene/fixed-sirene-empty/lofty_irisil_sirenemaskhead.head	shortdescription	Masked Head.	가면 두구.	
+/items/armors/sirene/fixed-sirene-empty/lofty_irisil_sirenemasklegs.legs	description	For hiding legwear.	하의를 숨기기 위해.	
+/items/armors/sirene/fixed-sirene-empty/lofty_irisil_sirenemasklegs.legs	shortdescription	Masked Legs.	가면 하의.	
+/items/armors/sirene/sirene-compatibility-skirt/lofty_irisil_sirenecompatibility.chest	description	A sleeveless top with a golden trim, popular among Mollopods and other elongated species.	금테가 둘린 민소매 상의, 몰로포드와 다른 길쭉한 종족에게 인기 있다.	
+/items/armors/sirene/sirene-compatibility-skirt/lofty_irisil_sirenecompatibility.chest	shortdescription	Common Top	평민 상의	
+/items/armors/sirene/sirene-compatibility-skirt/lofty_irisil_sirenecompatibility.legs	description	A short, simple skirt for covering your bits. Perfect for any slithering spacefarer!	소중한 부위를 가리는 짧고 단순한 스커트. 어떤 미끄러지는 우주 여행자에게도 완벽하다!	
+/items/armors/sirene/sirene-compatibility-skirt/lofty_irisil_sirenecompatibility.legs	shortdescription	Common Skirt	평민 스커트	
+/items/augments/back/lofty_irisil_irisadandruffaugment.augment	description	An upgraded EPP module that releases venomous dander when you take damage. Yuck.	피해를 입을 때 독성 비듬을 내뿜는 개량 EPP 모듈. 으.	
+/items/augments/back/lofty_irisil_irisadandruffaugment.augment	shortdescription	Irisa Dander Augment	이리사 비듬 증강	
+/items/augments/back/lofty_irisil_irisamobilityaugment.augment	description	An upgraded EPP module that combines alien dander with enhanced movement speed.	외계 비듬과 강화된 이동 속도를 결합한 개량 EPP 모듈.	
+/items/augments/back/lofty_irisil_irisamobilityaugment.augment	shortdescription	Irisa Mobility Augment	이리사 기동 증강	
+/items/augments/back/lofty_irisil_irisamobilityaugmentswim.augment	description	An upgraded EPP module that combines alien dander with enhanced movement speed and swimming mobility.	외계 비듬, 강화된 이동 속도, 수영 기동성을 결합한 개량 EPP 모듈.	
+/items/augments/back/lofty_irisil_irisamobilityaugmentswim.augment	shortdescription	Irisa Mobility Augment (S)	이리사 기동 증강 (S)	
+/items/augments/fishing/lofty_irisil_slimefishinglure.augment	description	A lure designed for hooking fish in viscous slime.	끈적한 점액 속 물고기를 낚도록 설계된 미끼.	
+/items/augments/fishing/lofty_irisil_slimefishinglure.augment	shortdescription	Slime Fishing Lure	점액 낚시 미끼	
+/items/augments/fishing/lofty_irisil_tombfishinglure.augment	description	A glimmering lure decorated with gold and lapis lazuli. Very fancy!	금과 라피스 라줄리로 장식된 반짝이는 미끼. 아주 화려하다!	
+/items/augments/fishing/lofty_irisil_tombfishinglure.augment	shortdescription	Gilded Sennara	도금 센나라	
+/items/materials/lofty_irisil_egyptiantombbrick.matitem	shortdescription	Egyptian Tomb Brick	이집트풍 무덤 벽돌	reuse
+/items/materials/lofty_irisil_egyptiantombbrick.matitem	description	Dusty and ancient bricks, colored to match Egyptian-themed decorations.	먼지투성이의 오래된 벽돌로, 이집트풍 장식과 어울리도록 색이 입혀져 있다.	reuse
+/items/materials/lofty_irisil_slopedavianscrappanel.matitem	shortdescription	Avian Scrap Panel	아비안 고철 패널	reuse
+/items/materials/lofty_irisil_slopedavianscrappanel.matitem	description	Rusted scrap metal panelling in a state of severe disrepair.	심각하게 파손되고 녹슨 고철 금속 패널입니다.	reuse
+/objects/space/lofty_irisil_invisibledockingfieldsmall/dockingfieldsmall.object	shortdescription	Invisible Docking Field (Small)	보이지 않는 도킹 필드 (소형)	reuse
+/objects/space/lofty_irisil_stationanimalcrate/lofty_irisil_stationanimalcrate.object	description	A secure shipping crate, with holes to let its occupants breathe.	안에 있는 것이 숨 쉴 수 있도록 구멍이 뚫린 안전 수송 상자.	reuse
+/objects/space/lofty_irisil_stationanimalcrate/lofty_irisil_stationanimalcrate.object	shortdescription	Animal Crate	동물 상자	reuse
+/objects/space/lofty_irisil_stationanimalcrateeyes/lofty_irisil_stationanimalcrateeyes.object	description	An occupied secure shipping crate, with holes to let its occupants breathe.	안에 누군가 있는 보안 화물 상자로, 안에 있는 이들이 숨 쉴 수 있도록 구멍이 뚫려 있다.	reuse
+/objects/space/lofty_irisil_stationanimalcrateeyes/lofty_irisil_stationanimalcrateeyes.object	shortdescription	Animal Crate (Occupied)	동물 상자 (사용 중)	reuse
+/objects/space/stationtradesign/lofty_irisil_stationtradesignexoticanimals.object	description	A sign with an image of an egg, indicating an exotic pet trading station.	이색 애완동물 거래소를 나타내는, 알이 그려진 표지판.	reuse
+/objects/space/stationtradesign/lofty_irisil_stationtradesignexoticanimals.object	shortdescription	Exotic Pet Trading Station Sign	이국적인 애완동물 거래소 표지판	reuse
+/stats/effects/lofty_irisil_slow/lofty_irisil_slow_1.statuseffect	label	Slow	느려짐	reuse
+/stats/effects/lofty_irisil_slow/lofty_irisil_slow_5.statuseffect	label	Slow	느려짐	reuse

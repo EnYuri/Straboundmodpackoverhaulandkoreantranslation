@@ -1,0 +1,198 @@
+asset	field	en	ko	src
+/collections/shpd_1.collection	title	Alchemy		
+/items/active/shpd_unsorted/phaseshift.thrownitem	subtitle	Spell		
+/items/active/shpd_unsorted/phaseshift.thrownitem	shortdescription	^yellow;Phase Shift^reset;		
+/items/active/shpd_unsorted/phaseshift.thrownitem	description	This chaotic spell will teleport any character it is aimed at away by a short distance.		
+/items/currency/shpd_gold.item	shortdescription	^#ff0;Gold Coin^reset;	^#ff0;금화^reset;	reuse
+/items/currency/shpd_gold.item	description	Shining coins made from alchemical gold; a universal currency among alchemists.	연금술 금으로 만든 빛나는 동전; 연금술사들 사이의 보편적인 화폐.	reuse
+/items/generic/shpd_blandfruit/earthfruit.thrownitem	description	"The fruit has plumped up from its time soaking in the pot and has even absorbed the properties of the seed it was cooked with. It will have the effect of whatever potion the seed corresponded to.
+It seems pretty volatile, it might be best to throw it."		
+/items/generic/shpd_blandfruit/earthfruit.thrownitem	shortdescription	^#67583d;Earthfruit^reset;		
+/items/generic/shpd_blandfruit/firefruit.thrownitem	description	"The fruit has plumped up from its time soaking in the pot and has even absorbed the properties of the seed it was cooked with. It will have the effect of whatever potion the seed corresponded to.
+It seems pretty volatile, it might be best to throw it."		
+/items/generic/shpd_blandfruit/firefruit.thrownitem	shortdescription	^#ff7f00;Firefruit^reset;		
+/items/generic/shpd_blandfruit/icefruit.thrownitem	description	"The fruit has plumped up from its time soaking in the pot and has even absorbed the properties of the seed it was cooked with. It will have the effect of whatever potion the seed corresponded to.
+It seems pretty volatile, it might be best to throw it."		
+/items/generic/shpd_blandfruit/icefruit.thrownitem	shortdescription	^#66b3ff;Icefruit^reset;		
+/items/generic/shpd_blandfruit/sorrowfruit.thrownitem	description	"The fruit has plumped up from its time soaking in the pot and has even absorbed the properties of the seed it was cooked with. It will have the effect of whatever potion the seed corresponded to.
+It seems pretty volatile, it might be best to throw it."		
+/items/generic/shpd_blandfruit/sorrowfruit.thrownitem	shortdescription	^#a15ce5;Sorrowfruit^reset;		
+/items/generic/shpd_bombs/bomb.thrownitem	shortdescription	^#ff0;Bomb^reset;		
+/items/generic/shpd_bombs/bomb.thrownitem	description	A fairly hefty black powder bomb. An explosion from this would certainly do damage to anything nearby.		
+/items/generic/shpd_bombs/firebomb.thrownitem	shortdescription	^#ff0;Fire Bomb^reset;		
+/items/generic/shpd_bombs/firebomb.thrownitem	description	This bomb has been modified to burst into a sustained flame in a larger area when it explodes.		
+/items/generic/shpd_bombs/flashbang.thrownitem	shortdescription	^#ff0;Flashbang^reset;		
+/items/generic/shpd_bombs/flashbang.thrownitem	description	This customized bomb will erupt into a burst of blinding light when it explodes. Disorientating anything nearby.		
+/items/generic/shpd_bombs/frostbomb.thrownitem	shortdescription	^#ff0;Frost Bomb^reset;		
+/items/generic/shpd_bombs/frostbomb.thrownitem	description	This bomb has been modified to burst into a sustained gust of freezing air in a larger area when it explodes.		
+/items/generic/shpd_bombs/regrowthbomb.thrownitem	shortdescription	^#ff0;Rejuvenation Bomb^reset;		
+/items/generic/shpd_bombs/regrowthbomb.thrownitem	description	This customized bomb will splash life-giving liquid all around it instead of exploding. Anyone caught in the blast will be healed.		
+/items/generic/shpd_brews/brew_caustic.thrownitem	subtitle	Brew		
+/items/generic/shpd_brews/brew_caustic.thrownitem	description	"This brew will spread corrosive ooze around the location it shatters in.
+Anything caught by the ooze will slowly melt if it can't wash it off in liquid."		
+/items/generic/shpd_brews/brew_caustic.thrownitem	shortdescription	^#ff0;Caustic Brew^reset;		
+/items/generic/shpd_brews/brew_frostfire.thrownitem	subtitle	Brew		
+/items/generic/shpd_brews/brew_frostfire.thrownitem	description	"This brew combines the properties of a liquid flame and snap freeze potion.
+
+The area around where the vial is thrown will be snap-frozen, then set ablaze for an extended duration."		
+/items/generic/shpd_brews/brew_frostfire.thrownitem	shortdescription	^#ff0;Frostfire Brew^reset;		
+/items/generic/shpd_brews/brew_infernal.thrownitem	subtitle	Brew		
+/items/generic/shpd_brews/brew_infernal.thrownitem	description	When shattered, this brew will unleash a raging inferno which spreads like a gas.		
+/items/generic/shpd_brews/brew_infernal.thrownitem	shortdescription	^#ff0;Infernal Brew^reset;		
+/items/generic/shpd_brews/brew_shocking.thrownitem	subtitle	Brew		
+/items/generic/shpd_brews/brew_shocking.thrownitem	description	When shattered, this brew will unleash an electrical storm in an area around the location it breaks at.		
+/items/generic/shpd_brews/brew_shocking.thrownitem	shortdescription	^#ff0;Shocking Brew^reset;		
+/items/generic/shpd_brews/brew_wicked.thrownitem	subtitle	Brew		
+/items/generic/shpd_brews/brew_wicked.thrownitem	description	This brew combines the properties of a toxic gas and paralytic gas potion. When exposed to open air the liquid of the brew will erupt into both gasses at once.		
+/items/generic/shpd_brews/brew_wicked.thrownitem	shortdescription	^#ff0;Wicked Brew^reset;		
+/items/generic/shpd_darts/dart.thrownitem	shortdescription	^#ff0;Dart^reset;		
+/items/generic/shpd_darts/dart.thrownitem	subtitle	Dart		
+/items/generic/shpd_darts/dart.thrownitem	description	"These simple shafts of spike-tipped wood are weighted to fly true and sting their prey with a flick of the wrist.
+
+Due to their size and simple construction, darts will never break."		
+/items/generic/shpd_darts/dart_1.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_1.thrownitem	shortdescription	^#c02;Rot Dart^reset;		
+/items/generic/shpd_darts/dart_1.thrownitem	description	These wicked darts are tipped with an acidic rotberry-based compound, which will aggressively eat through anything the dart comes into contact with. The corrosion is strong enough to easily kill most standard enemies.		
+/items/generic/shpd_darts/dart_10.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_10.thrownitem	shortdescription	^#404040;Holy Dart^reset;		
+/items/generic/shpd_darts/dart_10.thrownitem	description	These darts are tipped with a starflower-based compound which grants a boost in power to their target. The dart itself is still harmful though.		
+/items/generic/shpd_darts/dart_11.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_11.thrownitem	shortdescription	^#919999;Displacing Dart^reset;		
+/items/generic/shpd_darts/dart_11.thrownitem	description	These darts are tipped with a fadeleaf-based compound which will teleport their target a short distance away.		
+/items/generic/shpd_darts/dart_12.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_12.thrownitem	shortdescription	^#a6a6a6;Blinding Dart^reset;		
+/items/generic/shpd_darts/dart_12.thrownitem	description	These darts are tipped with a blindweed-based compound which will blind their target for a short time. They do not disorient however, so an enemy will still know where they last saw you.		
+/items/generic/shpd_darts/dart_2.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_2.thrownitem	shortdescription	^#ff7f00;Incendiary Dart^reset;		
+/items/generic/shpd_darts/dart_2.thrownitem	description	These darts are tipped with a firebloom-based compound which will burst into brilliant flames on impact.		
+/items/generic/shpd_darts/dart_3.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_3.thrownitem	shortdescription	^#ccbb00;Adrenaline Dart^reset;		
+/items/generic/shpd_darts/dart_3.thrownitem	description	These darts are tipped with a swiftthistle-based compound which will give their target a boost in movement speed.		
+/items/generic/shpd_darts/dart_4.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_4.thrownitem	shortdescription	^#2ee62e;Healing Dart^reset;		
+/items/generic/shpd_darts/dart_4.thrownitem	description	These darts are tipped with a sungrass-based compound which grants a burst of healing to their target. The dart itself is still harmful though.		
+/items/generic/shpd_darts/dart_5.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_5.thrownitem	shortdescription	^#66b3ff;Chilling Dart^reset;		
+/items/generic/shpd_darts/dart_5.thrownitem	description	These darts are tipped with an icecap-based compound which will significantly chill their target.		
+/items/generic/shpd_darts/dart_6.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_6.thrownitem	shortdescription	^#195d80;Shocking Dart^reset;		
+/items/generic/shpd_darts/dart_6.thrownitem	description	These darts are tipped with a stormvine-based compound which will deliver a nasty shock to their target.		
+/items/generic/shpd_darts/dart_7.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_7.thrownitem	shortdescription	^#a15ce5;Poison Dart^reset;		
+/items/generic/shpd_darts/dart_7.thrownitem	description	These darts are tipped with a sorrowmoss-based compound which will poison their target.		
+/items/generic/shpd_darts/dart_8.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_8.thrownitem	shortdescription	^#ff4cd2;Sleeping Dart^reset;		
+/items/generic/shpd_darts/dart_8.thrownitem	description	These darts are tipped with a dreamfoil-based compound which will cause an immense drowsiness in their target, drastically decreasing their agility.		
+/items/generic/shpd_darts/dart_9.thrownitem	subtitle	Tipped Dart	촉 달린 다트	reuse
+/items/generic/shpd_darts/dart_9.thrownitem	shortdescription	^#67583d;Paralytic Dart^reset;		
+/items/generic/shpd_darts/dart_9.thrownitem	description	These darts are tipped with an earthroot-based compound which will paralyze their target for a short time.		
+/items/generic/shpd_potions/potion_cleansing.thrownitem	subtitle	Potion		
+/items/generic/shpd_potions/potion_cleansing.thrownitem	description	This powerful reagent will completely neutralize all harmful effects on the drinker when quaffed. It can be thrown at a target to cleanse them as well.		
+/items/generic/shpd_potions/potion_cleansing.thrownitem	shortdescription	^#ff4cd2;Potion of Cleansing^reset;		
+/items/generic/shpd_potions/potion_corrosive_gas.thrownitem	subtitle	Potion		
+/items/generic/shpd_potions/potion_corrosive_gas.thrownitem	description	Uncorking or shattering this pressurized glass will cause its contents to explode into a deadly cloud of corrosive rust-colored gas. The gas is less concentrated however, and will not last for very long.		
+/items/generic/shpd_potions/potion_corrosive_gas.thrownitem	shortdescription	^#a15ce5;Potion of Corrosive Gas^reset;		
+/items/generic/shpd_potions/potion_dragons_breath.thrownitem	subtitle	Potion		
+/items/generic/shpd_potions/potion_dragons_breath.thrownitem	description	"This flask contains an unusual compound which bursts into flame shortly after mixing with saliva.
+Quickly spitting the liquid will allow the user to spew flame from their mouth!"		
+/items/generic/shpd_potions/potion_dragons_breath.thrownitem	shortdescription	^#ff7f00;Potion of Dragon's Breath^reset;		
+/items/generic/shpd_potions/potion_frost.thrownitem	subtitle	Potion		
+/items/generic/shpd_potions/potion_frost.thrownitem	description	The chemical contained in this potion will evaporate into a freezing cloud upon exposure to open air.		
+/items/generic/shpd_potions/potion_frost.thrownitem	shortdescription	^#66b3ff;Potion of Frost^reset;		
+/items/generic/shpd_potions/potion_liquid_flame.thrownitem	subtitle	Potion		
+/items/generic/shpd_potions/potion_liquid_flame.thrownitem	description	This flask contains an unstable compound which will burst violently into flame upon being opened.		
+/items/generic/shpd_potions/potion_liquid_flame.thrownitem	shortdescription	^#ff7f00;Potion of Liquid Flame^reset;		
+/items/generic/shpd_potions/potion_paralytic_gas.thrownitem	subtitle	Potion		
+/items/generic/shpd_potions/potion_paralytic_gas.thrownitem	description	"When opened, the liquid in this flask will vaporize into a numbing yellow haze.
+Anyone who inhales the cloud will be paralyzed instantly, unable to move for some time after the cloud dissipates."		
+/items/generic/shpd_potions/potion_paralytic_gas.thrownitem	shortdescription	^#67583d;Potion of Paralytic Gas^reset;		
+/items/generic/shpd_potions/potion_shrouding_fog.thrownitem	subtitle	Potion		
+/items/generic/shpd_potions/potion_shrouding_fog.thrownitem	description	When exposed to air, the liquid in this flask will produce a thick smoky fog which completely blocks vision.		
+/items/generic/shpd_potions/potion_shrouding_fog.thrownitem	shortdescription	^#a6a6a6;Potion of Shrouding Fog^reset;		
+/items/generic/shpd_potions/potion_snap_freeze.thrownitem	subtitle	Potion		
+/items/generic/shpd_potions/potion_snap_freeze.thrownitem	description	Upon being released, the chemical contained in this potion will rapidly react, instantly freezing all within its effect.		
+/items/generic/shpd_potions/potion_snap_freeze.thrownitem	shortdescription	^#66b3ff;Potion of Snap Freeze^reset;		
+/items/generic/shpd_potions/potion_storm_clouds.thrownitem	subtitle	Potion		
+/items/generic/shpd_potions/potion_storm_clouds.thrownitem	description	Throwing this potion will create a cloud of concentrated vapor, which will instantly condense and pour down onto the environment.		
+/items/generic/shpd_potions/potion_storm_clouds.thrownitem	shortdescription	^#195d80;Potion of Storm Clouds^reset;		
+/items/generic/shpd_potions/potion_toxic_gas.thrownitem	subtitle	Potion		
+/items/generic/shpd_potions/potion_toxic_gas.thrownitem	description	Uncorking or shattering this pressurized glass will cause its contents to explode into a deadly cloud of toxic green gas. You might choose to fling this potion at distant enemies instead of uncorking it by hand.		
+/items/generic/shpd_potions/potion_toxic_gas.thrownitem	shortdescription	^#a15ce5;Potion of Toxic Gas^reset;		
+/items/generic/shpd_scrolls/naudiz.augment	subtitle	Scroll		
+/items/generic/shpd_scrolls/naudiz.augment	description	"With a right-click, this scroll will upgrade a single weapon, improving its quality.
+A single weapon can be upgraded up to three times with these scrolls."		
+/items/generic/shpd_scrolls/naudiz.augment	shortdescription	^#ff0;Scroll of Upgrade^reset;		
+/objects/crafting/shpd_alchemypot/alchemypot.object	description	This pot is filled with magical water. Items can be mixed in the pot to create something new!	이 솥에는 마법의 물이 가득 차 있다. 솥 안에 물건을 섞어 새로운 것을 만들어 낼 수 있다!	reuse
+/objects/crafting/shpd_alchemypot/alchemypot.object	shortdescription	^orange;Alchemy Pot^reset;	^orange;연금 냄비^reset;	reuse
+/objects/crafting/shpd_alchemypot/alchemypot_old.object	description	This pot is filled with magical water. Items can be mixed in the pot to create something new!	이 솥에는 마법의 물이 가득 차 있다. 솥 안에 물건을 섞어 새로운 것을 만들어 낼 수 있다!	reuse
+/objects/crafting/shpd_alchemypot/alchemypot_old.object	shortdescription	^orange;Alchemy Pot^reset;	^orange;연금 냄비^reset;	reuse
+/shpd_old/brew_caustic.thrownitem	subtitle	Brew		
+/shpd_old/brew_caustic.thrownitem	description	"This brew will spread corrosive ooze around the location it shatters in.
+Anything caught by the ooze will slowly melt if it can't wash it off in liquid."		
+/shpd_old/brew_caustic.thrownitem	shortdescription	^#ff0;Caustic Brew^reset;		
+/shpd_old/brew_frostfire.thrownitem	subtitle	Brew		
+/shpd_old/brew_frostfire.thrownitem	description	"This brew combines the properties of a liquid flame and snap freeze potion.
+
+The area around where the vial is thrown will be snap-frozen, then set ablaze for an extended duration."		
+/shpd_old/brew_frostfire.thrownitem	shortdescription	^#ff0;Frostfire Brew^reset;		
+/shpd_old/brew_infernal.thrownitem	subtitle	Brew		
+/shpd_old/brew_infernal.thrownitem	description	When shattered, this brew will unleash a raging inferno which spreads like a gas.		
+/shpd_old/brew_infernal.thrownitem	shortdescription	^#ff0;Infernal Brew^reset;		
+/shpd_old/brew_shocking.thrownitem	subtitle	Brew		
+/shpd_old/brew_shocking.thrownitem	description	When shattered, this brew will unleash an electrical storm in an area around the location it breaks at.		
+/shpd_old/brew_shocking.thrownitem	shortdescription	^#ff0;Shocking Brew^reset;		
+/shpd_old/brew_wicked.thrownitem	subtitle	Brew		
+/shpd_old/brew_wicked.thrownitem	description	This brew combines the properties of a toxic gas and paralytic gas potion. When exposed to open air the liquid of the brew will erupt into both gasses at once.		
+/shpd_old/brew_wicked.thrownitem	shortdescription	^#ff0;Wicked Brew^reset;		
+/shpd_old/potion_cleansing.thrownitem	subtitle	Potion		
+/shpd_old/potion_cleansing.thrownitem	description	This powerful reagent will completely neutralize all harmful effects on the drinker when quaffed. It can be thrown at a target to cleanse them as well.		
+/shpd_old/potion_cleansing.thrownitem	shortdescription	^#ff4cd2;Potion of Cleansing^reset;		
+/shpd_old/potion_corrosive_gas.thrownitem	subtitle	Potion		
+/shpd_old/potion_corrosive_gas.thrownitem	description	Uncorking or shattering this pressurized glass will cause its contents to explode into a deadly cloud of corrosive rust-colored gas. The gas is less concentrated however, and will not last for very long.		
+/shpd_old/potion_corrosive_gas.thrownitem	shortdescription	^#a15ce5;Potion of Corrosive Gas^reset;		
+/shpd_old/potion_dragons_breath.thrownitem	subtitle	Potion		
+/shpd_old/potion_dragons_breath.thrownitem	description	"This flask contains an unusual compound which bursts into flame shortly after mixing with saliva.
+Quickly spitting the liquid will allow the user to spew flame from their mouth!"		
+/shpd_old/potion_dragons_breath.thrownitem	shortdescription	^#ff7f00;Potion of Dragon's Breath^reset;		
+/shpd_old/potion_frost.thrownitem	subtitle	Potion		
+/shpd_old/potion_frost.thrownitem	description	The chemical contained in this potion will evaporate into a freezing cloud upon exposure to open air.		
+/shpd_old/potion_frost.thrownitem	shortdescription	^#66b3ff;Potion of Frost^reset;		
+/shpd_old/potion_liquid_flame.thrownitem	subtitle	Potion		
+/shpd_old/potion_liquid_flame.thrownitem	description	This flask contains an unstable compound which will burst violently into flame upon being opened.		
+/shpd_old/potion_liquid_flame.thrownitem	shortdescription	^#ff7f00;Potion of Liquid Flame^reset;		
+/shpd_old/potion_paralytic_gas.thrownitem	subtitle	Potion		
+/shpd_old/potion_paralytic_gas.thrownitem	description	"When opened, the liquid in this flask will vaporize into a numbing yellow haze.
+Anyone who inhales the cloud will be paralyzed instantly, unable to move for some time after the cloud dissipates."		
+/shpd_old/potion_paralytic_gas.thrownitem	shortdescription	^#67583d;Potion of Paralytic Gas^reset;		
+/shpd_old/potion_shrouding_fog.thrownitem	subtitle	Potion		
+/shpd_old/potion_shrouding_fog.thrownitem	description	When exposed to air, the liquid in this flask will produce a thick smoky fog which completely blocks vision.		
+/shpd_old/potion_shrouding_fog.thrownitem	shortdescription	^#a6a6a6;Potion of Shrouding Fog^reset;		
+/shpd_old/potion_snap_freeze.thrownitem	subtitle	Potion		
+/shpd_old/potion_snap_freeze.thrownitem	description	Upon being released, the chemical contained in this potion will rapidly react, instantly freezing all within its effect.		
+/shpd_old/potion_snap_freeze.thrownitem	shortdescription	^#66b3ff;Potion of Snap Freeze^reset;		
+/shpd_old/potion_storm_clouds.thrownitem	subtitle	Potion		
+/shpd_old/potion_storm_clouds.thrownitem	description	Throwing this potion will create a cloud of concentrated vapor, which will instantly condense and pour down onto the environment.		
+/shpd_old/potion_storm_clouds.thrownitem	shortdescription	^#195d80;Potion of Storm Clouds^reset;		
+/shpd_old/potion_toxic_gas.thrownitem	subtitle	Potion		
+/shpd_old/potion_toxic_gas.thrownitem	description	Uncorking or shattering this pressurized glass will cause its contents to explode into a deadly cloud of toxic green gas. You might choose to fling this potion at distant enemies instead of uncorking it by hand.		
+/shpd_old/potion_toxic_gas.thrownitem	shortdescription	^#a15ce5;Potion of Toxic Gas^reset;		
+/shpd_statuses/blinded.statuseffect	label	Blind		
+/shpd_statuses/caustic.statuseffect	label	Melting		
+/shpd_statuses/chilled.statuseffect	label	Chill		
+/shpd_statuses/corrosive.statuseffect	label	Melting		
+/shpd_statuses/crippled.statuseffect	label	Crippled		
+/shpd_statuses/drowzy.statuseffect	label	Drowzy		
+/shpd_statuses/earthen_armor.statuseffect	label	Barkskin		
+/shpd_statuses/experience.statuseffect	label	Blessed		
+/shpd_statuses/haste.statuseffect	label	Haste	가속	reuse
+/shpd_statuses/healing.statuseffect	label	Healing	치유	reuse
+/shpd_statuses/holy_furor.statuseffect	label	Blessed		
+/shpd_statuses/invisibility.statuseffect	label	Invisible		
+/shpd_statuses/levitation.statuseffect	label	Levitation	공중부양	reuse
+/shpd_statuses/paralytic_gas.statuseffect	label	Paralyzed		
+/shpd_statuses/recharging.statuseffect	label	Recharging		
+/shpd_statuses/shield.statuseffect	label	Barrier		
+/shpd_statuses/shocked.statuseffect	label	Electrified	감전	reuse
+/shpd_statuses/shrouding_fog_invisible.statuseffect	label	Cloaked	은신	reuse
+/shpd_statuses/snap_frozen.statuseffect	label	Frozen	빙결	reuse
+/shpd_statuses/stamina.statuseffect	label	Stamina		

@@ -1,0 +1,50 @@
+asset	field	en	ko	src
+/items/armors/ironsides/backitems/ironsides_back_ironguardWings.back	itemName	ironsides_back_ironguardWings	ironsides_back_ironguardWings	
+/items/armors/ironsides/backitems/ironsides_back_ironguardWings.back	description	Protective backwear worn only by the highest ranking knights.	최고위 기사만이 착용하는 보호용 등 장비.	
+/items/armors/ironsides/backitems/ironsides_back_ironguardWings.back	shortdescription	Ironguard Wings	철위 날개	
+/items/armors/ironsides/ironsides_chevalier/ironsides_chevalier.chest	description	A stahlite forged heavy armor.	슈탈라이트로 단조된 중갑.	
+/items/armors/ironsides/ironsides_chevalier/ironsides_chevalier.chest	shortdescription	Chevalier Chestplate	슈발리에 흉갑	
+/items/armors/ironsides/ironsides_chevalier/ironsides_chevalier.head	description	A stahlite forged heavy armor.	슈탈라이트로 단조된 중갑.	
+/items/armors/ironsides/ironsides_chevalier/ironsides_chevalier.head	shortdescription	Chevalier Helmet	슈발리에 헬멧	
+/items/armors/ironsides/ironsides_chevalier/ironsides_chevalier.legs	description	A stahlite forged heavy armor.	슈탈라이트로 단조된 중갑.	
+/items/armors/ironsides/ironsides_chevalier/ironsides_chevalier.legs	shortdescription	Chevalier Leggings	슈발리에 레깅스	
+/items/armors/ironsides/ironsides_chevalier_variant_1/ironsides_chevalier_variant_1.head	description	A stahlite forged heavy armor.	슈탈라이트로 단조된 중갑.	
+/items/armors/ironsides/ironsides_chevalier_variant_1/ironsides_chevalier_variant_1.head	shortdescription	Chevalier Helmet	슈발리에 헬멧	
+/items/augments/back/ironsides_augment_1.augment	description	An EPP module that boosts your health regen by a small amount and provides low gravity.	체력 재생을 소량 높이고 저중력을 제공하는 EPP 모듈.	
+/items/augments/back/ironsides_augment_1.augment	shortdescription	Aegis I	이지스 I	
+/items/augments/back/ironsides_augment_2.augment	description	An EPP module that boosts your health regen by a moderate amount and provides low gravity.	체력 재생을 중간량 높이고 저중력을 제공하는 EPP 모듈.	
+/items/augments/back/ironsides_augment_2.augment	shortdescription	Aegis II	이지스 II	
+/items/augments/back/ironsides_augment_3.augment	description	An EPP module that boosts your health regen by a large amount and provides low gravity.	체력 재생을 대량 높이고 저중력을 제공하는 EPP 모듈.	
+/items/augments/back/ironsides_augment_3.augment	shortdescription	Aegis III	이지스 III	
+/items/materials/ironsides_tile1.matitem	description	A grey metallic flooring constructed by the Ironsides.	아이언사이드가 만든 회색 금속 바닥재입니다.	reuse
+/items/materials/ironsides_tile1.matitem	shortdescription	Eisenite Flooring	아이제나이트 바닥재	reuse
+/items/materials/ironsides_tile10.matitem	description	A smooth grey stone block.	매끈한 회색 돌 블록.	reuse
+/items/materials/ironsides_tile10.matitem	shortdescription	Smooth Greystone Brick	매끄러운 그레이스톤 벽돌	reuse
+/items/materials/ironsides_tile11.matitem	description	A sloped Eisenite plating block.	경사 아이세나이트 판 블록.	reuse
+/items/materials/ironsides_tile11.matitem	shortdescription	Dark Eisenite Plating	다크 아이제나이트 도금판	reuse
+/items/materials/ironsides_tile12.matitem	description	A sloped Eisenite plating block.	경사 아이세나이트 판 블록.	reuse
+/items/materials/ironsides_tile12.matitem	shortdescription	Light Eisenite Plating	가벼운 아이젠나이트 도금	reuse
+/items/materials/ironsides_tile13.matitem	description	A sloped Stahlite plating block.	경사진 스탈라이트 판재 블록.	reuse
+/items/materials/ironsides_tile13.matitem	shortdescription	Stahlite Plating	슈탈라이트 장갑판	reuse
+/items/materials/ironsides_tile14.matitem	description	A bright Stahlite flooring block.	밝은 스탈라이트 바닥 블록.	reuse
+/items/materials/ironsides_tile14.matitem	shortdescription	Stahlite Flooring	슈탈라이트 바닥재	reuse
+/items/materials/ironsides_tile15.matitem	description	A light grey dirt block.	밝은 회색 흙 블록입니다.	reuse
+/items/materials/ironsides_tile15.matitem	shortdescription	Grey Soil	회색 토양	reuse
+/items/materials/ironsides_tile16.matitem	description	A light grey cobblestone block.	밝은 회색 조약돌 블록입니다.	reuse
+/items/materials/ironsides_tile16.matitem	shortdescription	Greystone Block	그레이스톤 블록	reuse
+/items/materials/ironsides_tile2.matitem	description	A smooth flooring constructed by the Ironsides.	아이언사이드가 지은 매끈한 바닥재.	reuse
+/items/materials/ironsides_tile2.matitem	shortdescription	Smooth Eisenite Flooring	매끄러운 아이제나이트 바닥재	reuse
+/items/materials/ironsides_tile3.matitem	description	A grey decorative Eisenite block.	회색 장식용 아이제나이트 블록입니다.	reuse
+/items/materials/ironsides_tile3.matitem	shortdescription	Carved Eisenite Block	조각된 아이젠나이트 블록	reuse
+/items/materials/ironsides_tile4.matitem	description	A grey decorative Eisenite connector beam.	회색 장식용 아이제나이트 연결보입니다.	reuse
+/items/materials/ironsides_tile4.matitem	shortdescription	Eisenite Connector Block	아이제나이트 연결 블록	reuse
+/items/materials/ironsides_tile5.matitem	description	A solid Eisenite block. Emits a faint glow.	단단한 아이제나이트 블록. 은은한 빛을 낸다.	reuse
+/items/materials/ironsides_tile5.matitem	shortdescription	Eisenite Block	아이제나이트 블록	reuse
+/items/materials/ironsides_tile6.matitem	description	A grey decorative stone block.	회색 장식용 돌 블록입니다.	reuse
+/items/materials/ironsides_tile6.matitem	shortdescription	Decorative Greystone Brick	장식용 그레이스톤 벽돌	reuse
+/items/materials/ironsides_tile7.matitem	description	A grey Eisenite support beam.	회색 아이제나이트 지지대입니다.	reuse
+/items/materials/ironsides_tile7.matitem	shortdescription	Eisenite Support Beam	아이제나이트 지지대	reuse
+/items/materials/ironsides_tile8.matitem	description	A thin grey Eisenite support beam.	얇고 회색인 아이제나이트 지지대.	reuse
+/items/materials/ironsides_tile8.matitem	shortdescription	Thin Eisenite Support	가는 아이제나이트 지지대	reuse
+/items/materials/ironsides_tile9.matitem	description	A grey stone block.	회색 돌 블록입니다.	reuse
+/items/materials/ironsides_tile9.matitem	shortdescription	Small Greystone Brick	소형 그레이스톤 벽돌	reuse

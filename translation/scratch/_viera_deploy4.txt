@@ -1,0 +1,53 @@
+/items/armors/moogle/moogle-jobarmors/moogle-animist/moogle-animist.head.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "The Animist draws strength from animals to provide support."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "애니미스트는 동물들에게서 힘을 끌어와 지원을 제공한다."
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Animist Cap"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "애니미스트 모자"
+    }
+  ]
+]/items/armors/moogle/_misc/moogle-crystallanternstick/mooglemagiciteairaura.back.patch
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Crystal Air Aura"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "크리스탈 에어 오라"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "The Magicite within provides air and light to show you the way."
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "안에 든 마기사이트가 길을 밝히는 공기와 빛을 제공한다."
+    }
+  ]
+]

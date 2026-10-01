@@ -1,0 +1,32 @@
+### /OBJECTS/wired/giclfw_musicplayerradio/giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver.object.patch
+  test /objectName: giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver
+  replace /objectName: giclfw_musicplayerradio_Proof_of_a_Hero_Black_Lute_Ver
+  test /description: [RADIO - Monster Hunter - Proof of a Hero (Black Lute Version) - Capcom]
+  replace /description: [라디오 - 몬스터 헌터 - 영웅의 증거 (검은 류트 버전) - 캡콤]
+  test /shortdescription: Radio: Monster Hunter - Proof of a Hero Black Lute Ver - Capcom
+  replace /shortdescription: 라디오: Monster Hunter - Proof of a Hero Black Lute Ver - Capcom
+### /ITEMS/WEAPONS/RANGED/ROCKET_LAUNCHER/giclfw_carlgustaf/giclfw_carlgustaf.activeitem.patch
+  test /category: ^#E52239;Anti-Tank Weapon^reset;
+  replace /category: ^#E52239;대전차 무기^reset;
+  test /description: ''BACKBLAST CLEAR''
+Also known as the MAAWS (Multi-Role Anti-Armor Anti-Personnel Weapon System), the Carl Gustaf is an 84mm recoilless rifle that is
+  replace /description: ''후폭풍 지역 이상 무!''
+MAAWS(다목적 대장갑·대인 무기 체계)라는 이름으로도 알려진 칼 구스타프는 84mm 무반동총입니다. 적 보병과 비장갑 차량, 중장갑 차량은 물론 어느 정도는 적 벙커까지 다양한 지상 표적과 교전할 수 있습니다. 동시대의 로켓 추진식 무
+  test /shortdescription: Carl Gustaf 8.4cm Recoilless Rifle
+  replace /shortdescription: 칼 구스타프 8.4cm 무반동포
+### /ITEMS/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_heat_dual_hardcase/giclfw_84mm_shell_heat_dual_hardcase.activeitem.patch
+  test /category: Ammo Case
+  replace /category: 탄약 상자
+  test /description: A sealed ammo hardcase that can be easily stacked with each other for your convenience.
+  
+  
+Contains 2x 84mm Recoilless Rifle HEAT Shells for the
+  replace /description: 편하게 겹쳐 쌓을 수 있는 밀폐 탄약 하드케이스.
+  
+  
+칼 구스타프 8.4cm 무반동총용 84mm 무반동총 HEAT탄 2발 수록
+ 
+ 
+^yellow;사용하면 하드케이스를 연다.^reset;
+  test /shortdescription: 84mm Recoilless Rifle Dual HEAT Shell Ammo Hardcase
+  replace /shortdescription: 84mm 무반동총 대전차 고폭탄 2발 탄약 하드케이스

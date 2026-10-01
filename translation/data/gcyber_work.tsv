@@ -1,0 +1,269 @@
+asset	field	en	ko	src
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_ricochet1_barre_test.augment	description	"^#9D2F32;Ricochet? More like rico-slay! It's an art, not a lucky strike.^reset;
+Shots that count as ''misses'' are change into Ricochet bullet. but will only deal ^red;50% of the damage that would be dealt normally^reset; unless remove that reduction.^reset;
+
+^red;On close-range shot, bullets can't ricochet off surfaces.^reset;
+^#FFD83F;Handgun Muzzle Brake: Can be attach on Power pistol.
+^green;Bounce 2 times | Remove ricochet damage reduction
+^red;+15% miss chance.
+
+^green;Right-click on a compatible EWS Weapon to attach.^reset;"		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_ricochet1_barre_test.augment	shortdescription	^#dddddd;RC-7 Babaroga		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_ricochet1_barrel.augment	description	"^#9D2F32;Ricochet? More like rico-slay! It's an art, not a lucky strike.^reset;
+Shots that count as ''misses'' are change into Ricochet bullet. but will only deal ^red;50% of the damage that would be dealt normally^reset;
+^red;On close-range shot, bullets can't ricochet off surfaces.^reset;
+
+^#FFD83F;Handgun Muzzle Brake: Can be attach on Power pistol.
+^green;Bounce 1 times | Remove ricochet damage reduction
+^red;+15% miss chance.
+^green;Right-click on a compatible Cyberpunk2077 Weapons to attach.^reset;"		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_ricochet1_barrel.augment	shortdescription	^#dddddd;RC-7 Babaroga		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_ricochet2_barrel.augment	description	"^#9D2F32;Ricochet? More like rico-slay! It's an art, not a lucky strike.^reset;
+Shots that count as ''misses'' are change into Ricochet bullet. but will only deal ^red;50% of the damage that would be dealt normally^reset;
+^red;On close-range shot, bullets can't ricochet off surfaces.^reset;
+
+^#FFD83F;Handgun Muzzle Brake: Can be attach on Power pistol.
+^green;Bounce 2 times | Remove ricochet damage reduction
+^red;+30% miss chance.
+^green;Right-click on a compatible Cyberpunk2077 Weapons to attach.^reset;"		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_ricochet2_barrel.augment	shortdescription	^#dddddd;RC-7 Kutrub		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_ricochet3_barrel.augment	description	"^#9D2F32;Ricochet? More like rico-slay! It's an art, not a lucky strike.^reset;
+Shots that count as ''misses'' are change into Ricochet bullet. but will only deal ^red;50% of the damage that would be dealt normally^reset;
+^red;On close-range shot, bullets can't ricochet off surfaces.^reset;
+
+^#FFD83F;Rifle/SMG Muzzle Brake: Can be attach on Power Rifle/SMG.
+^green;Bounce 1 times.
+^red;+10% miss chance.
+^green;Right-click on a compatible Cyberpunk2077 Weapons to attach.^reset;"		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_ricochet3_barrel.augment	shortdescription	^#dddddd;RC-7 Aswang		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_ricochet4_barrel.augment	description	"^#9D2F32;Ricochet? More like rico-slay! It's an art, not a lucky strike.^reset;
+Shots that count as ''misses'' are change into Ricochet bullet. but will only deal ^red;50% of the damage that would be dealt normally^reset;
+^red;On close-range shot, bullets can't ricochet off surfaces.^reset;
+
+^#FFD83F;Rifle/SMG Muzzle Brake: Can be attach on Power Rifle/SMG.
+^green;Bounce 2 times.
+^red;+20% miss chance.
+^green;Right-click on a compatible Cyberpunk2077 Weapons to attach.^reset;"		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_ricochet4_barrel.augment	shortdescription	^#dddddd;RC-7 Strigoi		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_silencer1.augment	description	"^#9D2F32;They'll never know what hit 'em^reset;
+ 
+^#FFD83F;Handgun Silencer: Can be attach on Power pistol.
+^green;+10% accuracy
+
+^green;Right-click on a compatible Cyberpunk2077 Weapons to attach.^reset;"		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_silencer1.augment	shortdescription	^#aaaaaa;CS-1 Taipan		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_silencer2.augment	description	"^#9D2F32;They'll never know what hit 'em^reset;
+ 
+^#FFD83F;Handgun Silencer: Can be attach on Power pistol.
+^green;+20% accuracy
+^red; +10% miss chance
+
+^green;Right-click on a compatible Cyberpunk2077 Weapons to attach.^reset;"		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_silencer2.augment	shortdescription	^#aaaaaa;XC-10 Alecto		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_silencer3.augment	description	"^#9D2F32;They'll never know what hit 'em^reset;
+ 
+^#FFD83F;Rifle/SMG Silencer: Can be attach on Power Rifle/SMG.
+^green;+10% accuracy
+
+^green;Right-click on a compatible Cyberpunk2077 Weapons to attach.^reset;"		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_silencer3.augment	shortdescription	^#aaaaaa;XC-10 Cetus		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_silencer4.augment	description	"^#9D2F32;They'll never know what hit 'em^reset;
+ 
+^#FFD83F;Rifle/SMG Silencer: Can be attach on Power Rifle/SMG.
+^green;+20% accuracy
+^red; +10% miss chance
+
+^green;Right-click on a compatible Cyberpunk2077 Weapons to attach.^reset;"		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/BARREL/cp_silencer4.augment	shortdescription	^#aaaaaa;XC-10 Strix		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/cp_gaki.augment	description	"A precise, high-quality digital sniper scope by Tsunami. The only thing that could bring you closer to your target is a romantic dinner.
+  
+^orange;+30% [EWS] Hit Chance and Accuracy when stationary.^reset;
+^red;-40% [EWS] Hit Chance and Accuracy when moving.^reset;
+^#96CBE7;Highlights targets in a 30-degree angle from the gun | 80 Block Range | Cannot see through walls.^reset;
+^green;Right-click on a compatible EWS Weapon to attach.^reset;"		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/cp_gaki.augment	shortdescription	^#000012;^reset;Gaki		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/cp_hpo.augment	description	"A standard-issue sniper scope designed by Militech. It guarantees reliability at extreme range.
+  
+^orange;+40% [EWS] Hit Chance and Accuracy when stationary.^reset;
+^red;-60% [EWS] Hit Chance and Accuracy when moving.^reset;
+^#96CBE7;Highlights targets in a 15-degree angle from the gun | 160 Block Range | Cannot see through walls.^reset;
+^green;Right-click on a compatible EWS Weapon to attach.^reset;"		
+/items/AUGMENTS/WEAPON_ATTACHMENTS/SIGHT/cp_hpo.augment	shortdescription	^#000013;^reset;HPO Mk.77 Kanone MAX		
+/items/AUGMENTS/trinkets/cp_epimorphic_skeleton_1.augment	description	"This reinforced implant Improve your physical body strength and helps you can easily hendle heavy loads.
+
+
+^green;Stabilized Cyberware: doesn't cause rejection reaction
+^green;Armor movement penalties are negated | +15% Max HP^reset;
+^red;-10% movement speed | Only one skeletal implant can be installed.
+"		
+/items/AUGMENTS/trinkets/cp_epimorphic_skeleton_1.augment	shortdescription	^#FFD83F;Reinforced Titanium Skeleton		
+/items/AUGMENTS/trinkets/cp_epimorphic_skeleton_2.augment	description	"This Nano-Regenerative technology will be treat immediately when detect a fracture or internal bloodloss.
+
+
+^green;Stabilized Cyberware: doesn't cause rejection reaction
+^green;Immune to most injuries | +15% Max HP^reset;
+^red;-10% movement speed | Only one skeletal implant can be installed.
+"		
+/items/AUGMENTS/trinkets/cp_epimorphic_skeleton_2.augment	shortdescription	^#FFD83F;Nano-Regenerative Skeleton		
+/items/AUGMENTS/trinkets/cp_epimorphic_skeleton_3.augment	description	"This Epimorphic Skeleton can greatly improves your body durability and Provides some Strength assistance.
+
+
+^green;Stabilized Cyberware: doesn't cause rejection reaction
+^green;Medium Armor movement penalties are negated | +30% Max HP^reset;
+^red;-15% movement speed | Only one skeletal implant can be installed.
+"		
+/items/AUGMENTS/trinkets/cp_epimorphic_skeleton_3.augment	shortdescription	^#FFD83F;Epimorphic Skeleton		
+/items/AUGMENTS/trinkets/cp_epimorphic_skeleton_4.augment	description	"This prototype skeleton significantly reduces cyberware rejection.
+
+^green;Prototype Cyberware: doesn't cause rejection reaction
+^green;Reduce Cyberware mental and physical penalties | +15% Max HP^reset;
+^green;-3 Mental load | -3 physical load;
+^red; Only one skeletal implant can be installed.
+"		
+/items/AUGMENTS/trinkets/cp_epimorphic_skeleton_4.augment	shortdescription	^#FFD83F;HP1 Prototype Skeleton		
+/items/AUGMENTS/trinkets/cp_maxtac_summon_trinket.augment	description	"''ALL MaxTac members used to be CYBERPSYCHOS themselves. EVERY. SINGLE. ONE.''
+
+^#96CBE7;Maxtac division: Summons a temporary SAMURAI GHOST GIRL follower | 60s Cooldown.^reset;"		
+/items/AUGMENTS/trinkets/cp_maxtac_summon_trinket.augment	shortdescription	Spirit of the Ghostly Swordswoman		
+/items/AUGMENTS/trinkets/cp_power_gorilla_arms.augment	description	"Classic and reliable replacements for natural limbs, suited for all kinds of hard labor. This will be prevent that your arms was being smashed.
+^#FFD83F;Heavy weapon^#D1A02E; have massive, ridiculous amounts of damage and recoil. Without the right cyberware, such as an endoskeleton or carbonweave muscle implants, Your body will be shatter to pieces
+^yellow;Standard Cyberware: ^orange;+0.5 Mental load | +1.5 physical load
+^green;Prevent ''Heavy weapon''s Penalty and Side effects.^reset;"		
+/items/AUGMENTS/trinkets/cp_power_gorilla_arms.augment	shortdescription	^#FFD83F;Gorilla Arms		
+/items/AUGMENTS/trinkets/cp_power_gorilla_arms_adv.augment	description	"^red;Extremely Unstable, Experimental Cyberware Implant^reset;
+
+^#FFD83F;Heavy weapon^#D1A02E; have massive, ridiculous amounts of damage and recoil. Without the right cyberware, such as an endoskeleton or carbonweave muscle implants, Your body will be shatter to pieces
+
+^#880000;Military Cyberware: ^red;+1.5 Mental load | +3 physical load
+^green;Prevent ''Heavy weapon''s Penalty and Side effects.
+^green;[EWS] Weapon movement penalties are negated.^reset;"		
+/items/AUGMENTS/trinkets/cp_power_gorilla_arms_adv.augment	shortdescription	^#FF1f1F;Militech Unauthorized Exoskeleton		
+/items/AUGMENTS/trinkets/cp_smart_link_system.augment	description	"This cyberware implant allows the user to use the smart-targeting module in Smart weapons and the Projectile Launch System, and allows for tracking targets in real-time.
+^#FFD83F;Smart weapon^#D1A02E; use gyrojet technology to fire caseless guided ammo at enemies. and those Smart weapon Require Smart Link System to tracking targets.
+
+^yellow;Standard Cyberware: ^orange;+1 Mental load | +1 physical load
+^green;Active Smart-Link targeting system.^reset;"		
+/items/AUGMENTS/trinkets/cp_smart_link_system.augment	shortdescription	^#FFD83F;Smart Link SYSTEM		
+/items/AUGMENTS/trinkets/cp_smart_link_system_adv.augment	description	"^red;Extremely Unstable, Experimental Cyberware Implant^reset;
+
+^#FFD83F;Smart weapon^#D1A02E; use gyrojet technology to fire caseless guided ammo at enemies. and those Smart weapon Require Smart Link System to tracking targets.
+
+^#880000;Military Cyberware: ^red;+2 Mental load | +2 physical load
+^green;Active Smart-Link targeting system.^reset;
+^orange;Increase [EWS]Accuracy by 20% when moving | 10% when stationary^reset;"		
+/items/AUGMENTS/trinkets/cp_smart_link_system_adv.augment	shortdescription	^#FF1f1F;KangTao Prototype SLS		
+/items/AUGMENTS/trinkets/cp_tech_data_shard.augment	description	"It's a data shard left by a famous engineer. It seems like it container the data that 'how to handle Tech weapons'
+^#FFD83F;Tech weapon^#D1A02E; are weapons that use railgun technology, firing projectiles that are propelled with an electromagnetic charge. These weapons use caseless ammunition, typically jacketed steel flechette.
+
+^yellow;Standard Cyberware: ^orange;+1.5 Mental load | +0.5 physical load
+^green;Negating Tech weapon Penalty.^reset;"		
+/items/AUGMENTS/trinkets/cp_tech_data_shard.augment	shortdescription	^#FFD83F;Technician's data shard		
+/items/AUGMENTS/trinkets/cp_tech_data_shard_adv.augment	description	"^red;Extremely Unstable, Experimental Cyberware Implant^reset;
+
+^#FFD83F;Tech weapon^#D1A02E; are weapons that use railgun technology, firing projectiles that are propelled with an electromagnetic charge. These weapons use caseless ammunition, typically jacketed steel flechette.
+^#880000;Military Cyberware: ^red;+3 Mental load | +1.5 physical load
+^green;Negating Tech weapon Penalty.^reset;
+^orange;Increase [EWS]Hit chance by 20% when stationary^reset;"		
+/items/AUGMENTS/trinkets/cp_tech_data_shard_adv.augment	shortdescription	^#FF1f1F;Arasaka Black Wall data shard		
+/items/Medical/pills/cp_booster_shot.consumable	description	"The pill can suppress Cyberware Body Rejection activity. It is composed of a complex combination of Immunosuppressive substances.
+  
+Suppress the rejection activity ^green;[-2 physical load]^reset; for 1 hours.^reset;
+^green;Can suppress the fatal physical problem for a 10 minute."		
+/items/Medical/pills/cp_booster_shot.consumable	shortdescription	^#ff9999;^#448844;Immuno-Blocker	^#ff9999;^#448844;이뮤노-블로커	reuse
+/items/Medical/pills/cp_clear_all.consumable	description	for test. clear all medical effect	테스트용. 모든 의료 효과 제거	reuse
+/items/Medical/pills/cp_clear_all.consumable	shortdescription	^#ff9999;^#444444;clear all	^#ff9999;^#444444;전부 지우기	reuse
+/items/Medical/pills/cp_omega_blocker.consumable	description	"The pill can suppress Cyberware Mentalic Rejection activity. It is composed of a complex combination of neuroleptic substances. 
+
+
+Suppress the rejection activity ^green;[-3 mental load]^reset; for 2 hours.^reset;
+^green;Can suppress the Cyberpsychosis for a 10 minute.
+^red;Decreased Movement speed due to neurostabilization effect."		
+/items/Medical/pills/cp_omega_blocker.consumable	shortdescription	^#ff9999;^#444488;Omega-Blocker	^#ff9999;^#444488;오메가-블로커	reuse
+/items/Medical/pills/cp_pseudo_endotrizune.consumable	description	"The pill can boost Cyberware Overload, decreased side effect. Allowing cyberpsychosis but reduces internal rejection activity.
+
+^yellow;Can not use with Omega Blockers.^reset;
+^orange;Cyberware Maniac: ^#880000;+3 mental load^reset; | ^green;-1 physical load^reset;
+^red;Become Cyberpsycho for 10 minutes.^reset;
+^green;Relieve cyberpsychosis penalty for 7 minutes.^reset;"		
+/items/Medical/pills/cp_pseudo_endotrizune.consumable	shortdescription	^#ff9999;^#884444;Pseudoendotrizune	^#ff9999;^#884444;슈도엔도트리준	reuse
+/items/armors/cp_maelstrom_armor/cp_maelstrom_armor.chest	description	"Maelstrom is known to have heavy combat augmentation, pain editors, Reflex Boosters, and signature red street mod optical units of unknown capabilities. This means that they don't know the pain, don't know the fear and they will track their prey to THE END.
+  
+^green;+15% GENERAL Resistance.^reset;"		
+/items/armors/cp_maelstrom_armor/cp_maelstrom_armor.chest	shortdescription	^#505050;Maelstrom Coat		
+/items/armors/cp_maelstrom_armor/cp_maelstrom_armor.head	description	"Maelstrom is fascinated with cyberware, the Net, the occult, and the pursuit of any otherworldly sensation and they are known for their exceptionally brutal and public gang executions. They might count that as ''The Art'', too.
+
+^green;+10% GENERAL Resistance."		
+/items/armors/cp_maelstrom_armor/cp_maelstrom_armor.head	shortdescription	^#505050;Maelstrom helmet		
+/items/armors/cp_maelstrom_armor/cp_maelstrom_armor.legs	description	"Looking at Maelstrom, you might think, ''Now those are some hella bold pioneers of transhumanism.'' If they were only testing the limits of the human body on themselves, then you'd be right... Sadly, they also like to conduct ''experiments'' on those unfortunate enough to cross their path.
+ 
+^green;+10% GENERAL Resistance.^reset;"		
+/items/armors/cp_maelstrom_armor/cp_maelstrom_armor.legs	shortdescription	^#505050;Maelstrom Trousers		
+/items/armors/cp_maxtac_gear_npc/cp_maxtac_npc.chest	description	"''Bravo Six, Going dark''
+^green;+20% [EWS] Hit Chance and Accuracy Multiplier.
+^green;+20% GENERAL Resistance.^reset;"		
+/items/armors/cp_maxtac_gear_npc/cp_maxtac_npc.chest	shortdescription	^#505050;Black Ops chest rig		
+/items/armors/cp_maxtac_gear_npc/cp_maxtac_npc.head	description	"''Bravo Six, Going dark''
+^green;+15% [EWS] Hit Chance and Accuracy Multiplier.
+^green;+15% GENERAL Resistance.
+^green;Immunity to excessive gunfire noise.^reset;"		
+/items/armors/cp_maxtac_gear_npc/cp_maxtac_npc.head	shortdescription	^#505050;Black Ops helmet		
+/items/armors/cp_maxtac_gear_npc/cp_maxtac_npc.legs	description	"''Bravo Six, Going dark''
+^green;+15% [EWS] Hit Chance and Accuracy Multiplier.  
+^green;+15% GENERAL Resistance.^reset;"		
+/items/armors/cp_maxtac_gear_npc/cp_maxtac_npc.legs	shortdescription	^#505050;Black Ops Trousers		
+/items/armors/cp_maxtac_gear_player/cp_maxtac_player.chest	description	"MaxTac was established in Night City to deal with violently rampaging individuals suffering from advanced cyberpsychosis. A number of its members were former cyberpsychos themselves, forcefully recruited after being apprehended
+
+^yellow;Inserted Cyberware: ^orange;+0.5 Mental load | +1.5 physical load
+^green;Inserted Power assist Exo-skeleton implant 
+^green;+15% [EWS] Accuracy Multiplier.^reset;
+^green;+15% GENERAL Resistance.^reset;"		
+/items/armors/cp_maxtac_gear_player/cp_maxtac_player.chest	shortdescription	^#505050;Maxtac chest rig		
+/items/armors/cp_maxtac_gear_player/cp_maxtac_player.head	description	"Maximum Force Tactical Division: Organized special squad of professional police with one job: for hunt down and capture or kill murderous cyberpsychos.
+
+^yellow;Inserted Cyberware: ^orange;+1 Mental load | +1 physical load
+^green;Active Smart-Link targeting system.^reset;
+^green;+15% [EWS] Accuracy Multiplier.^reset;
+^green;+15% GENERAL Resistance.^reset;"		
+/items/armors/cp_maxtac_gear_player/cp_maxtac_player.head	shortdescription	^#505050;Maxtac helmet		
+/items/armors/cp_maxtac_gear_player/cp_maxtac_player.legs	description	"[Expired data log... Transmition]
+''Doesn't look like your average bust...''
+[Gunfire noise.]
+''Cause they ain't your average badges. That's MaxTac - NCPD's apex predators. MTac rolls in when things fly outta hand. Gonks out there, though, just a midday snack for 'em.''
+^green;Enhanced Cyberware processors: -1 Mental load | -1 physical load
+^green;+15% [EWS] Accuracy Multiplier.^reset;
+^green;+15% GENERAL Resistance.^reset;"		
+/items/armors/cp_maxtac_gear_player/cp_maxtac_player.legs	shortdescription	^#505050;Maxtac Trousers		
+/items/currency/cp_ammo_material/cp_smart_bullet_chip.item	description	"^#8888ff;''The special technology used in smart weapons has been meticulously protected by patents for a long time, making it challenging for individuals to replicate. Crafting smart ammunition chip is also a daunting task. However, acquiring completed bullet-chip was relatively easy.''
+
+^green;Can be use to craft for Smart ammunition."		
+/items/currency/cp_ammo_material/cp_smart_bullet_chip.item	shortdescription	^000000;^reset;Smart-Link Bullet System Micro-Processor	^000000;^reset;스마트링크 총알 시스템 마이크로 프로세서	reuse
+/items/currency/cp_ammo_material/cp_tech_alloy.item	description	"^#8888ff;''The railgun ammunition used in tech weapons employs a special alloy. The precise composition ratio is kept confidential, making it extremely challenging for individuals to produce. But don't worry! Our company can provide to client with these special alloys.''
+
+^green;Can be use to craft for Tech ammunition."		
+/items/currency/cp_ammo_material/cp_tech_alloy.item	shortdescription	^000000;^reset;Compound Metal alloy	^000000;^reset;복합 금속 합금	reuse
+/items/currency/cp_data_shard/cp_NUSA_permit.item	description	"^#8888ff;''Certain weapons are too dangerous, so client need a government-issued permit to acquire them. Our Delamain company offers services to help VIP customers obtain these permits. Alternatively, client can obtain a slightly less legitimate permit through unique items or eddies.''
+
+^green;Can be use for buying Restricted Weapon."		
+/items/currency/cp_data_shard/cp_NUSA_permit.item	shortdescription	^000003;^reset;New United States of America Restricted-Weapon trade License	^000003;^reset;신미합중국 제한무기 거래 면허	reuse
+/items/currency/cp_data_shard/cp_company_arasaka_permit.item	description	"^#8888ff;''Some companies sell special weapons exclusively to VIPs. Eddie, of course, cannot buy these alone. Client can establish trust by trading for a long time or by using forged certification to solve the issue.''
+
+^green;Can be use for buying Arasaka limited Weapon."		
+/items/currency/cp_data_shard/cp_company_arasaka_permit.item	shortdescription	^000002;^reset;Certificated Arasaka VIP data shard	^000002;^reset;인증된 아라사카 VIP 데이터 샤드	reuse
+/items/currency/cp_data_shard/cp_company_kangtao_permit.item	description	"^#8888ff;''Some companies sell special weapons exclusively to VIPs. Eddie, of course, cannot buy these alone. Client can establish trust by trading for a long time or by using forged certification to solve the issue.''
+
+^green;Can be use for buying Kang tao limited Weapon."		
+/items/currency/cp_data_shard/cp_company_kangtao_permit.item	shortdescription	^000002;^reset;Certificated Kang tao VIP data shard	^000002;^reset;인증된 캉 타오 VIP 데이터 샤드	reuse
+/items/currency/cp_data_shard/cp_company_militech_permit.item	description	"^#8888ff;''Some companies sell special weapons exclusively to VIPs. Eddie, of course, cannot buy these alone. Client can establish trust by trading for a long time or by using forged certification to solve the issue.''
+
+^green;Can be use for buying Militech limited Weapon."		
+/items/currency/cp_data_shard/cp_company_militech_permit.item	shortdescription	^000002;^reset;Certificated Militech VIP data shard	^000002;^reset;인증된 밀리테크 VIP 데이터 샤드	reuse
+/items/currency/cp_data_shard/cp_company_public_permit.item	description	"^#8888ff;''The identification documents verifying the elite class in large corporations are so valuable that their worth is almost immeasurable. Consequently, many attempt forgery. However, Delamain can guarantee the identity of VIP clients without the need for such counterfeit procedures''
+
+^green;Can be use for buying Multinational Corporation's limited Weapon"		
+/items/currency/cp_data_shard/cp_company_public_permit.item	shortdescription	^000002;^reset;Identification documents data shard	^000002;^reset;신분증 데이터 샤드	reuse
+/items/currency/cp_data_shard/cp_data_shard_trade.item	description	"^#8888ff;''In recent times, valuable information is highly regarded and often traded at a high price. Such precious data is stored in data shards and exchanged. Yes, just like this''
+
+^green;Can be use for buying Weapon or exchange into eddies."		
+/items/currency/cp_data_shard/cp_data_shard_trade.item	shortdescription	^000002;^reset;Encrypted Data shard	^000002;^reset;암호화된 데이터 샤드	reuse
+/items/currency/cp_eddies/cp_eddies.item	description	The European Currency Unit, more commonly referred to as Eurodollar(ed) or Eurobuck(eb), and colloquially known as ebuck and eddie, is the main currency used by various countries... in the Delamaine world.	유러피언 커런시 유닛, 흔히 유로달러(ed)나 유로벅(eb)이라 불리며, 구어로는 이벅과 에디로 알려진 이것은, 델러메인 세계의 여러 국가에서 사용되는 주요 화폐다...	reuse
+/items/currency/cp_eddies/cp_eddies.item	shortdescription	^#000001;^reset;Eurodollar	^#000001;^reset;유로달러	reuse

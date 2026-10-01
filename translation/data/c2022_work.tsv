@@ -1,0 +1,25 @@
+asset	field	en	ko	src
+/items/armors/backitems/hellishprotection/hellishprotection.back	description	This upgraded EPP protects against all dangerous temperatures and blocks the ^#e5004c;Hellish ^white;planet's ^#e5004c;demonic atmosphere^reset;.		
+/items/armors/backitems/hellishprotection/hellishprotection.back	shortdescription	Holy EPP Upgrade		
+/items/armors/hellish/hellish-tier7/om_hellisharmor.chest	description	Fortified by Hadesium, this Hellish breastplate is resilient---and scary.		
+/items/armors/hellish/hellish-tier7/om_hellisharmor.chest	shortdescription	Hellish Breastplate		
+/items/armors/hellish/hellish-tier7/om_hellisharmor.head	description	A Demonic helm, perfect for scaring away literally everyone.		
+/items/armors/hellish/hellish-tier7/om_hellisharmor.head	shortdescription	Hellish Helm		
+/items/armors/hellish/hellish-tier7/om_hellisharmor.legs	description	These Hadesium greaves allow for easy moment---perfect for sneakily scaring your foes.		
+/items/armors/hellish/hellish-tier7/om_hellisharmor.legs	shortdescription	Hellish Greaves		
+/items/materials/hellishcobblestone.matitem	shortdescription	Hellish Stone	지옥의 돌	reuse
+/items/materials/hellishcobblestone.matitem	description	Hellish stones mashed together. It looks like blood and flesh mixed together.	지옥의 돌들을 짓이겨 뭉친 것. 피와 살이 뒤섞인 것처럼 보입니다.	reuse
+/items/materials/hellishcobblestonebrick.matitem	shortdescription	Hellish Brick	지옥의 벽돌	reuse
+/items/materials/hellishcobblestonebrick.matitem	description	Small bricks made from Hellish stones.. They are a little sticky.	지옥 돌로 만든 작은 벽돌.. 약간 끈적하다.	reuse
+/items/materials/hellishfleshblock.matitem	description	Some hideous, foul-smelling kind of flesh.	악취가 나는 끔찍한 살점.	reuse
+/items/materials/hellishfleshblock.matitem	shortdescription	Hellish Flesh	지옥의 살점	reuse
+/items/materials/hellishplatform1.matitem	description	Platforms built from disgusting Hellish bricks.	역겨운 지옥 벽돌로 만든 발판.	reuse
+/items/materials/hellishplatform1.matitem	shortdescription	Hellish Cobblestone Platform	지옥의 조약돌 발판	reuse
+/items/materials/hellishplatform2.matitem	description	Platforms built from disgusting Hellish flesh.	역겨운 지옥 살점으로 만든 발판.	reuse
+/items/materials/hellishplatform2.matitem	shortdescription	Hellish Flesh Platform	지옥의 살점 발판	reuse
+/items/materials/hellishsmoothstone.matitem	shortdescription	Hellish Smooth Stone	지옥의 매끄러운 돌	reuse
+/items/materials/hellishsmoothstone.matitem	description	A Hellish smooth stone block.	지옥의 매끈한 돌 블록.	reuse
+/objects/farmables/hellishchili/hellishchiliseed.object	description	Devilishly tasty and hot!	악마처럼 맛있고 매워!	reuse
+/objects/farmables/hellishchili/hellishchiliseed.object	shortdescription	Hellish Chilli Seed	지옥 칠리 씨앗	reuse
+/objects/farmables/hellishchili/wildhellishchiliseed.object	description	Devilishly tasty and hot!	악마처럼 맛있고 매워!	reuse
+/objects/farmables/hellishchili/wildhellishchiliseed.object	shortdescription	Hellish Chilli Seed	지옥 칠리 씨앗	reuse

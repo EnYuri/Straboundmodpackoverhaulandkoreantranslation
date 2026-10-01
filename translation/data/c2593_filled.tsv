@@ -1,0 +1,44 @@
+asset	field	en	ko	src
+/items/armors/backitems/ganransubackpack/gansbackpack.back	description	A worn backpack with a lantern and a beaten up frying pan. There's a photo inside of two humans and a kitsune smiling together.	랜턴과 닳은 프라이팬이 달린 낡은 배낭. 안에는 인간 둘과 키츠네가 함께 웃는 사진이 들어 있다.	
+/items/armors/backitems/ganransubackpack/gansbackpack.back	shortdescription	^#ff00ff;Old Reliable^reset;	^#ff00ff;오래된 믿음직이^reset;	
+/items/armors/engineer/engineer.chest	description	A metal plate over the standard uniform to protect the wearer from damage. ^green;Grants phys. res.^reset;	표준 제복 위에 착용자를 보호하는 금속 판. ^green;물리 저항 부여.^reset;	
+/items/armors/engineer/engineer.chest	shortdescription	Engineer's Vest	기술자 조끼	reuse
+/items/armors/engineer/engineer.head	description	A hat with a nice and protective visor for eye protection. ^green;Grants phys. res.^reset;	눈 보호용 튼튼한 바이저가 달린 모자. ^green;물리 저항 부여.^reset;	
+/items/armors/engineer/engineer.head	shortdescription	Engineer's Hat	기술자 모자	
+/items/armors/engineer/engineer.legs	description	A pair of trousers and steel toed boots with a belt and pockets to hold all manner of gadgets in. ^green;Grants phys. res.^reset;	온갖 도구를 넣을 벨트와 주머니가 달린 바지와 강철 발끝 장화. ^green;물리 저항 부여.^reset;	
+/items/armors/engineer/engineer.legs	shortdescription	Engineer's Pants	기술자 바지	
+/items/armors/engineerupgraded/engineerupgraded.chest	description	A metal plate over the standard uniform to protect the wearer from damage. Now improved to deal with more danger. ^green;Grants phys. res.^reset;	표준 제복 위에 착용자를 보호하는 금속 판. 더 큰 위험에 대비하도록 개량됐다. ^green;물리 저항 부여.^reset;	
+/items/armors/engineerupgraded/engineerupgraded.chest	shortdescription	Engineer's Vest	기술자 조끼	reuse
+/items/armors/engineerupgraded/engineerupgraded.head	description	A hat with a nice and protective visor for eye protection. Now improved to deal with more danger. ^green;Grants phys. res.^reset;	눈 보호용 튼튼한 바이저가 달린 모자. 더 큰 위험에 대비하도록 개량됐다. ^green;물리 저항 부여.^reset;	
+/items/armors/engineerupgraded/engineerupgraded.head	shortdescription	Engineer's Hat	기술자 모자	
+/items/armors/engineerupgraded/engineerupgraded.legs	description	A pair of trousers and steel toed boots with a belt and pockets to hold all manner of gadgets in. Now improved to deal with more danger. ^green;Grants phys. res.^reset;	온갖 도구를 넣을 벨트와 주머니가 달린 바지와 강철 발끝 장화. 더 큰 위험에 대비하도록 개량됐다. ^green;물리 저항 부여.^reset;	
+/items/armors/engineerupgraded/engineerupgraded.legs	shortdescription	Engineer's Pants	기술자 바지	
+/items/armors/peacekeeperarmored/peacekeeperachest.chest	description	A kevlar vest over a standard peacekeeper uniform. While not fancy, it does its job. ^green;Grants phys. res.^reset;	표준 피스키퍼 제복 위의 케블라 조끼. 화려하진 않지만 제 몫을 한다. ^green;물리 저항 부여.^reset;	
+/items/armors/peacekeeperarmored/peacekeeperachest.chest	shortdescription	Responder's Vest	대응요원 조끼	
+/items/armors/peacekeeperarmored/peacekeeperahead.head	description	A hat with titanium woven into the fibers to offer protection. ^green;Grants phys. res.^reset;	섬유에 티타늄을 짜 넣어 보호를 제공하는 모자. ^green;물리 저항 부여.^reset;	
+/items/armors/peacekeeperarmored/peacekeeperahead.head	shortdescription	Responder's Hat	대응요원 모자	
+/items/armors/peacekeeperarmored/peacekeeperapants.legs	description	A pair of trousers and boots. Titanium has been woven into the fibers to offer better protection. ^green;Grants phys. res.^reset;	바지와 장화 한 벌. 섬유에 티타늄을 짜 넣어 더 나은 보호를 제공한다. ^green;물리 저항 부여.^reset;	
+/items/armors/peacekeeperarmored/peacekeeperapants.legs	shortdescription	Responder's Pants	대응요원 바지	
+/items/armors/peacekeeperimmolator/peacekeeperimmolator.chest	description	A heavy infused titanium plate with a fireproof shirt underneath it. It offers a good amount of protection.	방화 셔츠 아래에 강화 티타늄 중갑판을 얹었다. 상당한 보호를 제공한다.	
+/items/armors/peacekeeperimmolator/peacekeeperimmolator.chest	shortdescription	^#ff00ff;Immolator's Plate^reset;	^#ff00ff;이몰레이터 갑판^reset;	
+/items/armors/peacekeeperimmolator/peacekeeperimmolator.head	description	A hat with a neat fireproof face shield and an earpiece for long distance communication.	깔끔한 방화 면체와 장거리 통신용 이어피스가 달린 모자.	
+/items/armors/peacekeeperimmolator/peacekeeperimmolator.head	shortdescription	^#ff00ff;Immolator's Headgear^reset;	^#ff00ff;이몰레이터 두구^reset;	
+/items/armors/peacekeeperimmolator/peacekeeperimmolator.legs	description	A pair of rather resilient pants and boots, both of which are fireproofed.	방화 처리된 상당히 질긴 바지와 장화.	
+/items/armors/peacekeeperimmolator/peacekeeperimmolator.legs	shortdescription	^#ff00ff;Immolator's Pants^reset;	^#ff00ff;이몰레이터 바지^reset;	
+/items/armors/zweiarmor/zweistuff.chest	description	A longcoat with protective titanium fibers in it to keep you safe from swords and bullets alike. ^green;Grants phys. res.^reset;	검이든 총알이든 막아주는 보호용 티타늄 섬유가 들어간 롱코트. ^green;물리 저항 부여.^reset;	
+/items/armors/zweiarmor/zweistuff.chest	shortdescription	Suppressor's Jacket	제압요원 재킷	
+/items/armors/zweiarmor/zweistuff.head	description	A hat with titanium fibers in it to help protect your head to some degree. ^green;Grants phys. res.^reset;	어느 정도 머리를 보호하는 티타늄 섬유가 들어간 모자. ^green;물리 저항 부여.^reset;	
+/items/armors/zweiarmor/zweistuff.head	shortdescription	Suppressor's Hat	제압요원 모자	
+/items/armors/zweiarmor/zweistuff.legs	description	A pair of pants with some nice shoes. Comes with some nice titanium weave to help keep you protected. ^green;Grants phys. res.^reset;	좋은 구두가 딸린 바지. 보호에 도움되는 좋은 티타늄 직조가 들어 있다. ^green;물리 저항 부여.^reset;	
+/items/armors/zweiarmor/zweistuff.legs	shortdescription	Suppressor's Trousers	제압요원 바지	
+/items/augments/back/peacekeeperaugmenttesla.augment	description	An EPP module that puts up a tesla field around you.	주변에 테슬라 장을 펼치는 EPP 모듈.	
+/items/augments/back/peacekeeperaugmenttesla.augment	shortdescription	Tesla Field Augment	테슬라 장 증강	
+/items/throwables/peacekeepertoolbox.thrownitem	shortdescription	Peacekeeper Toolbox	피스키퍼 공구함	
+/items/throwables/peacekeepertoolbox.thrownitem	description	This thing hides a deadly surprise.	이 안에는 치명적인 반전이 숨어 있다.	
+/stats/effects/bleeeeeeeeedlel/wounded.statuseffect	label	Wounded	부상당한	
+/stats/effects/gangbound/gangbound.statuseffect	label	Bound	결박당한	
+/stats/effects/pc_zapperfield/pc_zapperfield.statuseffect	label	Zapped	감전된	
+/stats/effects/poison/poison.statuseffect	label	Poisoned	중독	reuse
+/xrc_tech/gan_message1.currency	shortdescription	   New tech available.^clear;	   새로운 테크 사용 가능.^clear;	
+/xrc_tech/gan_message2.currency	shortdescription	   Tech already known.^clear;	   이미 알고 있는 테크.^clear;	
+/xrc_tech/gan_message3.currency	shortdescription	   Tech incompatible.^clear;	   호환되지 않는 테크.^clear;	

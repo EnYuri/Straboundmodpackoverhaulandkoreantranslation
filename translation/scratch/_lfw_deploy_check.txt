@@ -1,0 +1,48 @@
+/items/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_heat_dual_hardcase/giclfw_84mm_shell_heat_dual_hardcase.activeitem.patch
+  path=/description
+  value=편의를 위해 서로 쉽게 쌓을 수 있는 밀봉된 탄약 하드케이스.
+
+
+칼 구스타프 8.4cm 무반동포 84mm 무반동총 대전차고폭탄 2발 포함
+
+
+^yellow;하드케이스를 열려면 사용하세요.^reset;
+
+/items/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_hedp_dual_hardcase/giclfw_84mm_shell_hedp_dual_hardcase.activeitem.patch
+  path=/description
+  value=편의를 위해 서로 쉽게 쌓을 수 있는 밀봉된 탄약 하드케이스.
+
+
+칼 구스타프 8.4cm 무반동포 84mm 무반동총 고폭이중목적탄 2발 포함
+
+
+^yellow;하드케이스를 열려면 사용하세요.^reset;
+
+/items/AMMUNITION/CARL_GUSTAF_84MM_SHELLS/giclfw_84mm_shell_pfab_dual_hardcase/giclfw_84mm_shell_pfab_dual_hardcase.activeitem.patch
+  path=/description
+  value=편의를 위해 서로 쉽게 쌓을 수 있는 밀봉된 탄약 하드케이스.
+
+
+칼 구스타프 8.4cm 무반동포 84mm 무반동총 근접신관탄 ^#FFDD00;[공중폭발]^reset; 2발 포함
+
+
+^yellow;하드케이스를 열려면 사용하세요.^reset;
+
+/items/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_pp19bizon/giclfw_pp19bizon.activeitem.patch
+  path=/description
+  value=PP-19 바이존 기관단총은 법 집행, 경호, 특수 부대, 일부 특수 보병 부대를 위해 개발된 무기다. 매우 높은 탄창 용량 덕분에 경량 제압 사격이 가능한 경량 무기로, 근거리 난사 전술이 필요한 상황에 이상적이다. 오직 고유한 9x18mm PP-19 바이존 헬리컬 탄창만 사용합니다.
+
+^green;'보조 발사'를 누르고 있으면 전자동과 반자동을 전환합니다.^reset;
+
+/items/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_pp19bizon201/giclfw_pp19bizon201.activeitem.patch
+  path=/description
+  value=PP-19 바이존 기관단총의 9x19mm 버전은 전작보다 전반적으로 더 높은 공장 품질 기준을 제공한다. 9x19mm 구경으로 재설계되어 9x18mm였던 전작에 비해 탄창 용량이 약간 줄었다. 하지만, 이 무기는 동급의 다른 고급 기관단총들과 비교해도 경쟁력 있는 성능을 보인다. 오직 고유한 9x19mm PP-19 바이존-2-01 나선형 탄창만 사용한다.
+
+^green;'보조 발사'를 길게 눌러 완전 자동과 반자동 사이를 전환한다.^reset;
+
+/items/WEAPONS/RANGED/SUB_MACHINEGUN/giclfw_sn7p/giclfw_sn7p.activeitem.patch
+  path=/description
+  value=SN7P는 러시아제 PP-19 바이존 기관단총의 베트남제 복제품으로, 베트남 전쟁 당시 공급된 소련제 TT-33 토카레프, 북한제 68식, 중국제 54식 '블랙 스타' 권총용 7.62x25mm 탄이 대량으로 남아돌던 탓에 9x18mm 및 9x19mm 대신 7.62x25mm 탄을 쓰도록 재설계됐다. 오직 고유한 7.62x25mm SN7P 헬리컬 탄창만 사용합니다.
+SMG치고는 ^orange;위험할 정도로 높은 관통력^reset;을 지니고 있어, ^yellow;PDW^reset;로 분류됩니다.
+^green;'보조 발사'를 누르고 있으면 전자동과 반자동을 전환합니다.^reset;
+

@@ -1,0 +1,882 @@
+### 'VEP' -> 5 hits
+       2  /codex/neki/nekimklog34.codex.patch
+       1  /codex/apex/apexhistory6.codex.patch
+       1  /codex/neki/nekimklog103.codex.patch
+       1  /objects/nmm_starbound/forums/chucklefishposters/evolutionposter.object.patch
+      e.g. /codex/apex/apexhistory6.codex.patch /title: VEP의 부작용
+      e.g. /codex/neki/nekimklog103.codex.patch /contentPages/0: 기한은 이제 지났지만, 이 연구를 VEP 부작용 연구에 활용할 방법은 계속 우리 손을 빠져나간다. |  | 위원회는 추가 연장을 허락할 만큼 너그러웠지만... 근본적인 우선순위 변경을 조건으로 내걸었다. |  | 더는 과학을 우리
+      e.g. /codex/neki/nekimklog34.codex.patch /contentPages/0: 만들어진 생물은 몇 가지 특이한 특징을 빼면 해부학적으로 인간처럼 보인다: |  | - 크게 확대된 삼각형 귓바퀴 | - 상당히 넓어진 안와 | - 비정상적으로 조밀하고 부드러운 털가죽 | - 척추 아래에서 이어져 길고 튼튼한 털 덮
+      e.g. /objects/nmm_starbound/forums/chucklefishposters/evolutionposter.object.patch /apexDescription: 이게 VEP 이전 우리 에이펙스의 모습인가? 사실이라면... 값을 매길 수 없을 만큼 귀중한 자료다!
+### '다츠' -> 1 hits
+       1  /codex/alta/ct_alta_dart.codex.patch
+      e.g. /codex/alta/ct_alta_dart.codex.patch /contentPages/0: 다츠는 다소 외국에서 들여온 보드 게임으로, 다트판의 크기와 상식이 허용하는 한 정해지지 않은 수의 참가자가 즐길 수 있도록 만들어졌습니다.
+### '다트' -> 79 hits
+       5  /objects/questgivers/sgtoydisplay/sgtable.object.patch
+       4  /objects/themed/sushibar/sushibarad2/sushibarad2.object.patch
+       4  /quests/Arena/sgtoyarena1.questtemplate.patch
+       4  /quests/Arena/sgtoyarena2.questtemplate.patch
+       3  /codex/alta/ct_alta_dart.codex.patch
+       3  /interface/warping/sgtoyteleport.config.patch
+       2  /codex/alta/ct_alta_dart_2.codex.patch
+       2  /interface/confirmation/sgarenateleportconfirmation.config.patch
+       2  /interface/scripted/shpd_page/pagegui.config.patch
+       2  /items/active/alta/toys/dart/rifle/ct_alta_darter.activeitem.patch
+       2  /items/active/alta/toys/dart/rifle/ct_alta_darter_ceterteal.activeitem.patch
+       2  /items/active/alta/toys/dart/rifle/ct_alta_darter_ionic.activeitem.patch
+       2  /items/active/alta/toys/dart/rifle/ct_alta_darter_omniblue.activeitem.patch
+       2  /items/active/weapons/ranged/crafted/catalystdartgun/pf_catalystdartgun.activeitem.patch
+       2  /items/active/weapons/toxikite/v-cloudgun/v-cloudgun.activeitem.patch
+       2  /items/throwables/ise3/arkaendart.thrownitem.patch
+       2  /items/throwables/throwingdart.thrownitem.patch
+       2  /objects/alta/special/tools/boards/darts/basic/ct_alta_dart_board.object.patch
+       2  /objects/alta/special/tools/boards/darts/hard/ct_alta_dart_hardboard.object.patch
+       2  /objects/alta/special/tools/boards/darts/mega/ct_alta_dart_megaboard.object.patch
+       2  /objects/alta/special/tools/boards/darts/super/ct_alta_dart_superboard.object.patch
+       1  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_mission_8_1_safehouseepilogue.cinematic.patch
+       1  /drinks/ww_novakidspice.consumable.patch
+       1  /ffs_weapons/ffs_2_sg/ffs_QRCType/ffs_QRCType.activeitem.patch
+       1  /ffs_weapons/ffs_5_mg/ffs_MGHailstorm/ffs_MGHailstorm.activeitem.patch
+       1  /items/AMMUNITION/ARROWS/gic_poisonarrow/gic_poisonarrow.item.patch
+       1  /items/AMMUNITION/SHOTGUN/12_Gauge/gic_1850x70mm_flechette.item.patch
+       1  /items/MATERIALS/JUNK/gic_toyjunk.item.patch
+       1  /items/WEAPONS/THROWN/gic_plumbata/gic_plumbata.activeitem.patch
+       1  /items/active/shpd_loot/darts.activeitem.patch
+      e.g. /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_mission_8_1_safehouseepilogue.cinematic.patch /panels/2/text: 이제 끝났어요... |  | 감사합니다. 당신을 잘 모르지만, 함께 해냈잖아요? 야콥손이 나머지를 처리할 수 있을 거예요... 저도 이제 오래 쉬어야겠어요. |  | 이제 어딜 가야 할지, 뭘 해야 할지 궁금할 뿐이에요... 그냥
+      e.g. /codex/alta/ct_alta_dart.codex.patch /description: 기본 다트 세트 설계도와 사용법이 담긴 기본 설명서. (기본 다트 레시피 해금)
+      e.g. /codex/alta/ct_alta_dart_2.codex.patch /description: 다트 달인을 위한 전자책이다. (고급 다트 레시피 해금)
+      e.g. /drinks/ww_novakidspice.consumable.patch /description: 적당히 즐기세요. 진심으로요. 솔다트 제공.
+      e.g. /ffs_weapons/ffs_2_sg/ffs_QRCType/ffs_QRCType.activeitem.patch /description: ^#F08C14;아발론 방위 함대 | ^#7c7c7c;1티어 : ADF 제식 | ^#7c7c7c;조준 속도 : ^white;0.1s | ^#7c7c7c;장착 속도 : ^green;2s | ^#7c7c7c;LMB=사격 : ^whit
+      e.g. /ffs_weapons/ffs_5_mg/ffs_MGHailstorm/ffs_MGHailstorm.activeitem.patch /description: ^#F08C14;아발론 방위 함대 | ^#7c7c7c;1티어 : ADF 제식 | ^#7c7c7c;조준 속도 : ^white;0.1s | ^#7c7c7c;장착 속도 : ^green;2s | ^#7c7c7c;LMB=사격 : ^whit
+      e.g. /interface/confirmation/sgarenateleportconfirmation.config.patch /sgarenaquesttoy/subtitle: 다트 퀘스트 아레나
+      e.g. /interface/scripted/shpd_page/pagegui.config.patch /itemText/%%shpd%%dart/0: 촉 달린 다트
+### '미네랄 반점' -> 0 hits
+### '미네랄, 반점' -> 1 hits
+       1  /codex/alta/ct_alta_botanics.codex.patch
+      e.g. /codex/alta/ct_alta_botanics.codex.patch /contentPages/3: 비료 |  | 식물을 흠뻑 적셔 번성하게 하고, 때로는 평소 한계를 넘어 변화하거나 자라나게 하는 미네랄, 반점, 비타민 혼합물이다. | 이런 이유로 비료는 흔히 식물의 강화제로 여겨진다.
+### '우주 입자' -> 1 hits
+       1  /codex/alta/ct_alta_botanics.codex.patch
+      e.g. /codex/alta/ct_alta_botanics.codex.patch /contentPages/2: 예상하시겠지만, 식물 종류마다 번성하는 데 선호하는 광물, 우주 입자, 토양 종류가 대개 다르다. 그래서 언젠가는 비료를 쓰게 될 수도 있다 - 식물이 자라는 흙이나 액체에서 보통 찾을 수 없는 추가적인 것들을 공급
+### '물뿌리개' -> 23 hits
+       4  /objects/flowerpots/wateringcanflowerpot/wateringcanflowerpot.object.patch
+       2  /items/active/alta/tools/water/altan_can/ct_altan_can.activeitem.patch
+       2  /items/active/alta/tools/water/gyera_can/ct_gyera_can.activeitem.patch
+       2  /items/active/unsorted/bleuark_wateringcan_1/bleuark_wateringcan_1.activeitem.patch
+       2  /items/active/unsorted/wateringcan/alliancewateringcan.activeitem.patch
+       2  /items/active/unsorted/wateringcan/trinkwateringcan.activeitem.patch
+       2  /items/active/unsorted/wateringcan/wateringcan.activeitem.patch
+       1  /codex/alta/ct_alta_farming.codex.patch
+       1  /items/active/alta/tools/water/watering_can/ct_alta_watering_can.activeitem.patch
+       1  /items/active/unsorted/wateringcan/woodenwateringcan.activeitem.patch
+       1  /npcs/chocoboknightwallace.npctype.patch
+       1  /objects/izzyspring/isf_springgardeningshelf.object.patch
+       1  /objects/izzyspring/isf_springgardeningshelfb.object.patch
+       1  /quests/chocobo/chocobounlock01.questtemplate.patch
+      e.g. /codex/alta/ct_alta_farming.codex.patch /contentPages/2: 농사 |  | 여기에는 물뿌리개와 경운기 같은 기본 도구가 포함되며, 새로 해금 가능한 레시피를 제작해 얻을 수 있다. | 또한 고급 알타포닉스 RI로 해금할 수 있는 자동 물뿌리개도 포함된다.
+      e.g. /items/active/alta/tools/water/altan_can/ct_altan_can.activeitem.patch /shortdescription: 알탄 물뿌리개
+      e.g. /items/active/alta/tools/water/gyera_can/ct_gyera_can.activeitem.patch /shortdescription: 기예라 물뿌리개
+      e.g. /items/active/alta/tools/water/watering_can/ct_alta_watering_can.activeitem.patch /shortdescription: 알타 물뿌리개
+      e.g. /items/active/unsorted/bleuark_wateringcan_1/bleuark_wateringcan_1.activeitem.patch /description: 이 세련된 물뿌리개로 작물에 물을 주세요.
+      e.g. /items/active/unsorted/wateringcan/alliancewateringcan.activeitem.patch /description: 작물에 직접 물을 줄 때 유용한 기본 물뿌리개.
+      e.g. /items/active/unsorted/wateringcan/trinkwateringcan.activeitem.patch /description: 작물에 직접 물을 줄 때 유용한 기본 물뿌리개.
+      e.g. /items/active/unsorted/wateringcan/wateringcan.activeitem.patch /description: 이 세련된 물뿌리개로 작물에 물을 주세요.
+### '급수 용액' -> 2 hits
+       1  /codex/alta/ct_alta_hydroponics.codex.patch
+       1  /objects/fleshsprinkler/fleshsprinkler.object.patch
+      e.g. /codex/alta/ct_alta_hydroponics.codex.patch /contentPages/2: 알타 연구소 스프링클러 | 이 급수 용액은 실험 환경에 특화되어 있으며 추가적인 격리 수준을 갖추고 있다. 구체적으로는, 수경재배 트레이와 에코 포드에서 사용할 수 있다.
+      e.g. /objects/fleshsprinkler/fleshsprinkler.object.patch /description: 살덩이 흙에 뿌리는 급수 용액입니다.
+### '달암석' -> 2 hits
+       1  /codex/alta/ct_alta_soil_enrichment.codex.patch
+       1  /items/active/weapons/ranged/alta/heavy/ct_meteoblaster.activeitem.patch
+      e.g. /codex/alta/ct_alta_soil_enrichment.codex.patch /contentPages/0: 알테라시 행성은 주로 달암석, 달돌, 달먼지로 이루어져 있지만, 보통 추가 자원들이 풍부하게 차 있어 일부 식물, 수정, 버섯, 동물들이 그것으로 번성한다.
+      e.g. /items/active/weapons/ranged/alta/heavy/ct_meteoblaster.activeitem.patch /description: 핵심부는 ^#6f6c66;아스테라^reset;의 에터니아 강화 달암석 운석으로 만들어졌다.
+### '문록' -> 3 hits
+       1  /codex/alta/ct_alta_botanics.codex.patch
+       1  /objects/alta/crafting/ionomelter/ct_alta_ionomelter.object.patch
+       1  /objects/alta/special/figurines/crippit/ct_crippit.object.patch
+      e.g. /codex/alta/ct_alta_botanics.codex.patch /contentPages/5: 토양 종류 |  | 예상대로, 알테라시 행성에서 발견되는 대부분의 식물은 그곳의 가장 흔한 토양에 적응되어 있다 - 예를 들어, 흙과 점토 사이의 좋은 중간 지점인 문스톤이나, 대부분의 식물이 그 사이를 비집고 들어갈 만큼
+      e.g. /objects/alta/crafting/ionomelter/ct_alta_ionomelter.object.patch /longdescription: 알타 이오노멜터는 ^#60c0fc;이온^reset;과 ^#2080f0;플라즈마^reset; 에너지를 활용해 광석을 제련하고, 화합물을 정제하며, 건축 재료를 가공하는 6등급 첨단 용광로다. 전통적인 연소식 용광로와 
+      e.g. /objects/alta/special/figurines/crippit/ct_crippit.object.patch /description: 표지에는 ‘문록 크리핏은 사람들 앞에서 꽤 수줍어한다. 예쁜 수정 껍데기를 찾지 못해서일지도 모른다’라고 적혀 있다.
+### '월석' -> 5 hits
+       1  /codex/alta/ct_astera.codex.patch
+       1  /codex/alta/ct_tonnova.codex.patch
+       1  /objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit1/ct_phospholion_deposit1.object.patch
+       1  /objects/biome/enterash/rocks/ct_enhancedmoonrock/ct_enhancedmoonrock.object.patch
+       1  /tiles/mods/moonstone.matmod.patch
+      e.g. /codex/alta/ct_astera.codex.patch /longdescription: 아스테라 주위에는 이런 대규모 산업 시설을 세우기에 안성맞춤인 비교적 큰 소행성이 떠 있다. 알타들은 이를 ^#ffa8e8;월석 우주 섬^reset;이라고 부른다.
+      e.g. /codex/alta/ct_tonnova.codex.patch /contentPages/0: 네온 같은 밝고 차가운 빛이 에세테라 곳곳을 밝힌다. 거대한 기둥들은 때때로 예쁘고 밝은 전구가 달린 거대한 나선 융단으로 뒤덮여, 마치 빛나는 점으로 덮인 것처럼 보인다. |  | 멀리서는 아주 부드럽고 빽빽해 보이지만,
+      e.g. /objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit1/ct_phospholion_deposit1.object.patch /description: 이 월석 구조 수상해 보여.
+      e.g. /objects/biome/enterash/rocks/ct_enhancedmoonrock/ct_enhancedmoonrock.object.patch /description: 이 월석 구조 수상해 보여.
+      e.g. /tiles/mods/moonstone.matmod.patch /description: 월석이다.
+### '별꽃 기사단' -> 1 hits
+       1  /codex/alta/ct_orchid.codex.patch
+      e.g. /codex/alta/ct_orchid.codex.patch /title: 작은 별과 별꽃 기사단
+### '스타플라워' -> 7 hits
+       2  /items/generic/shpd_seeds/starflower.item.patch
+       2  /shpd_old/starflower.item.patch
+       1  /codex/alta/ct_orchid.codex.patch
+       1  /objects/FARMABLES/alta/ground/stardust/ct_stardust_seed.object.patch
+       1  /objects/FARMABLES/alta/ground/stardust/pod/ct_starflower_eco_pod.object.patch
+      e.g. /codex/alta/ct_orchid.codex.patch /contentPages/3: 별꽃이 열두 송이나 되었을 때, 그들은 모여서 자신들만의 작은 공간, 꽃 친구들을 위한 작은 꽃밭을 만들었다 - 그리고 난초를 그 중심으로 삼기로 했다. | 그녀는 그것이 얼마나 옳은 선택일지 몰랐지만, 모두가 강하게 
+      e.g. /items/generic/shpd_seeds/starflower.item.patch /description: 극히 희귀 식물, 스타플라워는 만지는 자에게 성스러운 힘 준다고.
+      e.g. /objects/FARMABLES/alta/ground/stardust/ct_stardust_seed.object.patch /shortdescription: 스타플라워 씨앗
+      e.g. /objects/FARMABLES/alta/ground/stardust/pod/ct_starflower_eco_pod.object.patch /shortdescription: 스타플라워 에코 포드 ^#f02020;^reset;
+      e.g. /shpd_old/starflower.item.patch /description: 극히 희귀 식물, 스타플라워는 만지는 자에게 성스러운 힘 준다고.
+### '파라데아' -> 38 hits
+       4  /items/active/shields/ct_eds_shield.activeitem.patch
+       4  /items/active/weapons/ranged/alta/blaster/ct_faradeus.activeitem.patch
+       3  /dialog/alta.config.patch
+       3  /items/active/alta/loot/biome/ct_faradea_loot.activeitem.patch
+       3  /objects/alta/faradea/pod/ct_faradea_pod.object.patch
+       2  /codex/alta/ct_faradea.codex.patch
+       2  /objects/alta/special/emblems/faradea/ct_faradea_emblem.object.patch
+       2  /tenants/alta/guards/faradea.tenant.patch
+       2  /tenants/alta/guards/tier6/faradea.tenant.patch
+       2  /tenants/alta/guards/tier7/faradea.tenant.patch
+       1  /codex/alta/ct_my_enternia_guide.codex.patch
+       1  /items/active/alta/scanner/items.config.patch
+       1  /items/active/alta/toys/bows/basic/ct_alta_bow.activeitem.patch
+       1  /items/active/weapons/melee/alta/heavy/ct_crystalline_sword.activeitem.patch
+       1  /items/active/weapons/melee/alta/heavy/ct_plasmasword.activeitem.patch
+       1  /items/active/weapons/ranged/alta/blaster/ct_tsyntex.activeitem.patch
+       1  /items/active/weapons/ranged/alta/heavy/ct_faradea_scavenger.activeitem.patch
+       1  /items/buildscripts/ct_mimics/tool.activeitem.patch
+       1  /items/buildscripts/ct_texts.config.patch
+       1  /monsters/alta/pets/drone/ct_alta_pet_drone.monstertype.patch
+       1  /tenants/alta/guards/tier5/faradea.tenant.patch
+      e.g. /codex/alta/ct_faradea.codex.patch /longdescription: 이 포스터는 용병과 모험가의 유명한 허브인 파라데아에서 열리는 인기 격투 대회를 광고한다.
+      e.g. /codex/alta/ct_my_enternia_guide.codex.patch /contentPages/7: ^#ffe364;파라데아^reset; | 자유를 사랑하는 용병 파벌로, 야생에서는 드물게 발견된다. 대부분의 알타와 달리, 파라데아 용병의 생활은 행성을 떠돌며 보물을 찾아 헤매는 것을 중심으로 돌아간다. |  | ^#6f6c
+      e.g. /dialog/alta.config.patch /converse/alta/generic/14: 파라데아의 열렬한 팬으로서, 언젠가 꼭 그들에게 합류해 내 가치를 증명하고 싶어...
+      e.g. /items/active/alta/loot/biome/ct_faradea_loot.activeitem.patch /shortdescription: 파라데아 전리품 상자
+      e.g. /items/active/alta/scanner/items.config.patch /database/bossdreadwing/longdescription: 펭귄 드레드윙에 대한 알타 동물도감 항목. 강력하고 위협적이지만, 두려운 위협은 알타들을 해치지 않고 지나갔다. 펭귄 용병들은 작고 귀여운 파라데아 용병들 같다! 우리 이종생물학자들은 귀여운 일반 펭귄과 위험한 용병
+      e.g. /items/active/alta/toys/bows/basic/ct_alta_bow.activeitem.patch /description: 젊은 파라데아 용병들이 경쟁 게임에 사용하는 단순한 장난감.
+      e.g. /items/active/shields/ct_eds_shield.activeitem.patch /presets/faradea/shortdescription: 파라데아 방패
+      e.g. /items/active/weapons/melee/alta/heavy/ct_crystalline_sword.activeitem.patch /upgradeParameters/description: 정체불명의 파라데아 전설이 예술품으로 만든 전투 도구.
+### '파라디아' -> 1 hits
+       1  /codex/alta/ct_alta_new_year.codex.patch
+      e.g. /codex/alta/ct_alta_new_year.codex.patch /contentPages/5: ^#20f080;마음에서 우러난 말^reset; |  | 가장 사랑하는 자매들에게, |  | 지난 한 해는 도전과 승리로 가득했다. 국경을 지키는 ^#f02020;EDS^reset;부터, 변경을 탐험하는 ^#ffe364;파라디아^
+### '워프드' -> 10 hits
+       1  /codex/alta/ct_my_enternia_guide.codex.patch
+       1  /codex/alta/ct_warped.codex.patch
+       1  /codex/alta/ct_yaara.codex.patch
+       1  /items/active/alta/spawners/bugs/ct_unwarped_fly_egg.activeitem.patch
+       1  /items/active/alta/spawners/critters/ct_warped_bug_egg.activeitem.patch
+       1  /items/active/alta/spawners/critters/ct_warped_spider_egg.activeitem.patch
+       1  /items/active/alta/spawners/critters/ct_warped_worm_egg.activeitem.patch
+       1  /items/active/alta/spawners/monsters/ct_warped_anglure_egg.activeitem.patch
+       1  /items/active/alta/spawners/monsters/ct_warped_sporgus_egg.activeitem.patch
+       1  /objects/alta/special/terraformers/biome/alterash/warped/ct_alterash_warped.object.patch
+      e.g. /codex/alta/ct_my_enternia_guide.codex.patch /contentPages/5: ^#20f080;야라^reset; | 야라 숲은 넓은 거리로 퍼져나가 내부에 다양한 식물과 생물이 있는 자체 미기후를 형성하는 거대한 지하 초대형 식물이다. |  | ^#9b2d3f;워프드^reset; | 오염된 주변을 "뒤틀리게
+      e.g. /codex/alta/ct_warped.codex.patch /contentPages/0: ^#9b2d3f;워프드^reset; 성장체는 통제 불가능하고 끊임없이 변이하며 천천히 확장되는 식물성 물질이다. |  | 그 자체로는 대체로 무해하지만, 워프드 기후의 위험은 확장과 그 안에 나타나는 다른 워프드 친화 생물
+      e.g. /codex/alta/ct_yaara.codex.patch /contentPages/0: ^#20f080;야라 관리인^reset; 초대형 식물은 너무 큰 크기로 자라나 자체 식생과 동물군을 가진 작은 생태계를 형성하곤 한다. |  | 이렇게 일부 야라 숲에는 알타들이 야라 키퍼라 부르는 존재들이 서식하게 된다 
+      e.g. /items/active/alta/spawners/bugs/ct_unwarped_fly_egg.activeitem.patch /description: ^#b0e0fc;언워프드 플라이^reset;라는 벌레를 소환하는 데 사용할 수 있다, ^#b0e0fc;워프드 플라이^reset;보다 훨씬 순한 버전이다.
+      e.g. /items/active/alta/spawners/critters/ct_warped_bug_egg.activeitem.patch /description: ^#b0e0fc;워프드 버그^reset;라는 벌레를 소환하는 데 사용할 수 있다.
+      e.g. /items/active/alta/spawners/critters/ct_warped_spider_egg.activeitem.patch /description: ^#b0e0fc;워프드 스파이더^reset;라는 벌레를 소환하는 데 사용할 수 있다.
+      e.g. /items/active/alta/spawners/critters/ct_warped_worm_egg.activeitem.patch /description: ^#b0e0fc;워프드 웜^reset;이라는 벌레를 소환하는 데 사용할 수 있다.
+      e.g. /items/active/alta/spawners/monsters/ct_warped_anglure_egg.activeitem.patch /description: ^#b0e0fc;워프드 앵글루어^reset;라는 생물을 소환하는 데 사용할 수 있다.
+### '왜곡된' -> 45 hits
+       2  /items/active/alta/tools/hunt/warped_hunter/ct_warped_hunter.activeitem.patch
+       2  /items/active/alta/tools/rods/warped_rod/ct_warped_rod.activeitem.patch
+       2  /objects/alta/special/figurines/anglure/ct_warped_anglure.object.patch
+       2  /objects/alta/special/figurines/sporgus/ct_warped_sporgus.object.patch
+       1  /codex/alta/ct_warped.codex.patch
+       1  /codex/alta/ct_yaara.codex.patch
+       1  /items/active/alta/glowsticks/yonnur.activeitem.patch
+       1  /items/active/alta/loot/biome/ct_warped_loot.activeitem.patch
+       1  /items/active/alta/spawners/critters/ct_warped_bug_egg.activeitem.patch
+       1  /items/active/alta/spawners/critters/ct_warped_spider_egg.activeitem.patch
+       1  /items/active/alta/spawners/critters/ct_warped_worm_egg.activeitem.patch
+       1  /items/active/alta/spawners/monsters/ct_warped_anglure_egg.activeitem.patch
+       1  /items/active/alta/spawners/monsters/ct_warped_sporgus_egg.activeitem.patch
+       1  /items/active/weapons/ranged/alta/cannon/ct_warped_gun.activeitem.patch
+       1  /items/buildscripts/ct_mimics/tool.activeitem.patch
+       1  /items/generic/food/tier4/ct_warped_cocktail.consumable.patch
+       1  /items/instruments/overdriveguitar.instrument.patch
+       1  /monsters/walkers/anglure/ct_warped_anglure.monstertype.patch
+       1  /monsters/walkers/sporgus/ct_warped_sporgus.monstertype.patch
+       1  /objects/FARMABLES/alta/ground/warped_hive/ct_warped_hive_seed.object.patch
+       1  /objects/FARMABLES/alta/ground/warped_hive/pod/ct_warped_hive_eco_pod.object.patch
+       1  /objects/FARMABLES/alta/ground/warped_hive/sapling/ct_warped_hive_sapling.object.patch
+       1  /objects/alta/special/critters/warped_spider/af.object.patch
+       1  /objects/alta/special/figurines/brutefly/ct_brutefly.object.patch
+       1  /objects/alta/special/plants/trees/ct_warped_tree.object.patch
+       1  /objects/alta/special/samples/warped/ct_warped_sample.object.patch
+       1  /objects/alta/special/terraformers/biome/alterash/warped/ct_alterash_warped.object.patch
+       1  /objects/biome/alterash/warped/ct_nivera_geyser/ct_nivera_geyser.object.patch
+       1  /objects/biome/alterash/warped/ct_warped_smoker/ct_warped_smoker.object.patch
+       1  /objects/biome/alterash/warped/decorative/bed/ct_warped_bed.object.patch
+      e.g. /codex/alta/ct_warped.codex.patch /longdescription: 이 데이터 덩어리는 일부가 왜곡된 성장체로 덮여 있다. 이런 것 가까이에 너무 오래 방치됐다는 뜻이다. 다행히 내부 데이터는 온전한 듯하다.
+      e.g. /codex/alta/ct_yaara.codex.patch /contentPages/1: 야라 수호자들은 알타들이 ^#20f080;야라 숲^reset;을 이용하고 "침략"하려 하며, 때로는 '푸른 불' - ^#2080f0;알테르니아^reset;로 채우려 하기 때문에 알타들을 위협으로 여긴다. |  | 당연히, 
+      e.g. /items/active/alta/glowsticks/yonnur.activeitem.patch /longdescription: 요누르는 왜곡된 변이에 따라 다른 색으로 나온다.
+      e.g. /items/active/alta/loot/biome/ct_warped_loot.activeitem.patch /shortdescription: 왜곡된 전리품 상자
+      e.g. /items/active/alta/spawners/critters/ct_warped_bug_egg.activeitem.patch /shortdescription: 왜곡된 벌레 알
+      e.g. /items/active/alta/spawners/critters/ct_warped_spider_egg.activeitem.patch /shortdescription: 왜곡된 거미 알
+      e.g. /items/active/alta/spawners/critters/ct_warped_worm_egg.activeitem.patch /shortdescription: 왜곡된 벌레 알
+      e.g. /items/active/alta/spawners/monsters/ct_warped_anglure_egg.activeitem.patch /shortdescription: 왜곡된 앵글루어 알
+### '뒤틀린' -> 112 hits
+       3  /codex/alta/ct_warped.codex.patch
+       3  /codex/alta/ct_yonnur.codex.patch
+       3  /items/buildscripts/ct_mimics/tool.activeitem.patch
+       3  /items/generic/food/tier4/ct_warped_cocktail.consumable.patch
+       3  /objects/alta/special/plants/trees/ct_warped_tree.object.patch
+       2  /codex/alta/ct_sentia.codex.patch
+       2  /dialog/alta.config.patch
+       2  /items/MATERIALS/arcana_spectwing_tile15 - Copy.matitem.patch
+       2  /items/MATERIALS/arcana_tile36.matitem.patch
+       2  /objects/FARMABLES/alta/ground/warped_hive/ct_wild_warped_hive_seed.object.patch
+       2  /objects/FARMABLES/alta/ground/warped_hive/eco/ct_warped_hive_eco.object.patch
+       2  /objects/alta/special/samples/warped/ct_warped_sample.object.patch
+       2  /objects/alta/special/terraformers/biome/alterash/warped/ct_alterash_warped.object.patch
+       2  /objects/biome/alterash/warped/ct_nivera_thorns/ct_nivera_thorns4.object.patch
+       2  /objects/biome/alterash/yaara/ct_yaara_thorns/ct_yaara_thorns4.object.patch
+       2  /tenants/alta/biome/warped.tenant.patch
+       1  /cinematics/CHARACTERS/NAZRIN/gic_nazrin_planetencounter_khurtovyna_tyrantjudge.cinematic.patch
+       1  /codex/alta/ct_alta_hydroponics.codex.patch
+       1  /codex/alta/ct_antorash.codex.patch
+       1  /codex/alta/ct_nivera.codex.patch
+       1  /codex/alta/ct_tavriya.codex.patch
+       1  /codex/arcana_codex_boss/arcana_codex_cosmoNemesis.codex.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodexeta.codex.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodexxi.codex.patch
+       1  /codex/nightar/funightarhistory5.codex.patch
+       1  /codex/novakid/sb_novakidorigins.codex.patch
+       1  /codex/viera/vieralore28.codex.patch
+       1  /items/MATERIALS/nihil_tile2.matitem.patch
+       1  /items/MATERIALS/nulla_tile4.matitem.patch
+       1  /items/MATERIALS/v-toxicplantmaterial.matitem.patch
+      e.g. /cinematics/CHARACTERS/NAZRIN/gic_nazrin_planetencounter_khurtovyna_tyrantjudge.cinematic.patch /panels/3/text: 그녀의 잔재가 여기에 살아 있습니다. 인류의 무게와 심연에 짓눌려 뒤틀린 채로요. 그녀는 그렇게 많은 죽은 자를 감당하도록 만들어지지 않았어요... 불쌍한 영혼. 그녀는 늘 우리 몇몇에게 선하게 살라고 가르쳤지만, 
+      e.g. /codex/alta/ct_alta_hydroponics.codex.patch /contentPages/3: 알타 연구소 에코 포드 | 뒤틀린 식물을 가두고, 바이오닉 식물을 냉각하고, 아릭 식물을 독성화하도록 설계된 실험 장치. 구조는 꽤 소형이지만, 작동하려면 적절한 살수 시스템이 필요하다.
+      e.g. /codex/alta/ct_antorash.codex.patch /contentPages/1: 또한, ^#9b2d3f;뒤틀린 숲^reset;은 피하세요. 이런 곳은 ^#b0e0fc;알타^reset;에게 다소 위험하다고 입증되었습니다.
+      e.g. /codex/alta/ct_nivera.codex.patch /wiki/related/### [[ Codexes ]]/2: 뒤틀린 격리
+      e.g. /codex/alta/ct_sentia.codex.patch /contentPages/2: 그리고 그렇게, 외로운 센티아는 친구를 사귀기로 결심했다. 그녀는 자신이 살고 있는 뒤틀린 숲 바로 주변에 알타들이 살고 있다는 걸 알고 있었다. 하지만 문제가 하나 있었다. |  | 크리아는 애초에 친구를 사귀는 방법을 
+      e.g. /codex/alta/ct_tavriya.codex.patch /contentPages/1: 순수 극저온 추출물은 훨씬 더 구하기 쉬운 다른 극저온 물질인 이존보다 특정 작업에서 더 효율적인 것으로 입증되었다. | 이존보다 전반적으로 더 낫다고 보기는 어렵지만, 테스트와 실험 결과 냉각제와 냉기 극성 에너지 도
+      e.g. /codex/alta/ct_warped.codex.patch /title: 뒤틀린 격리
+      e.g. /codex/alta/ct_yonnur.codex.patch /longdescription: 이 책은 ^#9b2d3f;요누르^reset;로 가득 찬 뒤틀린 식물들을 언급한다 - 다양한 색으로 나타나는 생체발광 액체로, ^#9b2d3f;뒤틀린 조명^reset; 같은 것의 특수한 구근에서 발견할 수 있다.
+### '일그러진' -> 7 hits
+       1  /codex/alta/ct_tonnova.codex.patch
+       1  /codex/alta/ct_yonnur.codex.patch
+       1  /objects/alta/city/sapling/ct_alta_sapling.object.patch
+       1  /objects/alta/special/plants/trees/ct_nivera_tree.object.patch
+       1  /objects/nmm_mvg/other/caretaker/pot.object.patch
+       1  /projectiles/simple/ct_warped_swarm/ct_warped_swarm.projectile.patch
+       1  /projectiles/throwable/ct_warped_hive/ct_warped_hive.projectile.patch
+      e.g. /codex/alta/ct_tonnova.codex.patch /altaDescription: 꽤 마법적인 읽을거리다, 욘누르로 가득한 일그러진 숲에 대한 "빛나는 왕국"을 강하게 연상시켜. 비슷한 개념끼리 끌리나 봐, 응.
+      e.g. /codex/alta/ct_yonnur.codex.patch /description: 밝게 빛나는 ^#9b2d3f;일그러진 숲^reset; 지대에 관한 동화책. 알키에서 더 기술적으로 번역하면 "생물발광 수도"에 가깝다.
+      e.g. /objects/alta/city/sapling/ct_alta_sapling.object.patch /description: 일종의 생태 챔버 안에 있는 나무 묘목. 어떤 나무가 자라고 있는지는 분명하지 않다.  | ^gray;문스톤 위에 설치할 수 있다. 아야카, 야라 노드, 일그러진 나무, 야자나무로 자라날 수 있다.^reset;
+      e.g. /objects/alta/special/plants/trees/ct_nivera_tree.object.patch /description: 일그러진 숲 안에서 주로 자라나며 일그러진 발광 섬유를 먹이로 삼고 그 자신은 일그러짐에 저항할 수 있는 가시 돋친 식물.
+      e.g. /objects/nmm_mvg/other/caretaker/pot.object.patch /shortdescription: 일그러진 항아리
+      e.g. /projectiles/simple/ct_warped_swarm/ct_warped_swarm.projectile.patch /description: 일그러진 파리떼, 일명 일그러진 무리는 주로 ^#9b2d3f;일그러진 벌집^reset; 안팎에서 발견되는 작고 독성 있는 ^#9b2d3f;일그러진^reset; 곤충 무리다.
+      e.g. /projectiles/throwable/ct_warped_hive/ct_warped_hive.projectile.patch /description: 곧 터져서 서서히 안에 든 것들을 불행한 행인들에게 쏟아낼 것 같은, 날아다니는 ^#9b2d3f;일그러진 벌집^reset;입니다.
+### '강령' -> 22 hits
+       6  /objects/plushies/community2/edition15/valderplush/PBvalderplush.object.patch
+       4  /npcs/ancient angels/ancientvillager.npctype.patch
+       2  /codex/glitch/r-necrocodex.codex.patch
+       2  /objects/saturn/saturnwallart/saturnbanners/saturnbanner5.object.patch
+       1  /codex/angel/angellore.codex.patch
+       1  /codex/angel/angellore11.codex.patch
+       1  /codex/angel/angellore5.codex.patch
+       1  /items/active/alta/scanner/items.config.patch
+       1  /npcs/r-glitchnecromancer.npctype.patch
+       1  /objects/plushies/community2/edition13/skeletonplush/PBskeletonplush.object.patch
+       1  /objects/saturn/saturnwallart/saturnbanners/saturnbanner18.object.patch
+       1  /objects/stickers/bosses/bonedragonsticker/PBbonedragonsticker.object.patch
+      e.g. /codex/angel/angellore.codex.patch /contentPages/3: 하지만 아직도 ^green;컬티베이터의 강령^reset;을 분명히 기억하고 ^orange;엄격히^reset; 따르는 천사 집단이 있다. 그들은 우주를 순찰하며 우리 종족들을 해악과 루인으로부터 지키려고 최선을 다한다
+      e.g. /codex/angel/angellore11.codex.patch /title: 컬티베이터 강령
+      e.g. /codex/angel/angellore5.codex.patch /title: 컬티베이터 강령
+      e.g. /codex/glitch/r-necrocodex.codex.patch /title: 강령술에 대하여
+      e.g. /items/active/alta/scanner/items.config.patch /database/glitchmission3/longdescription: 그들의 명예 기반 사회를 상세히 다룬 추가 글리치 로어. 알타 연구자들은 우리와 기원이 다름에도 불구하고 그들의 행동 강령에 감탄한다.
+      e.g. /npcs/ancient angels/ancientvillager.npctype.patch /scriptConfig/dialog/converse/angel/default/8: 우리는 컬티베이터의 강령을 엄격히 따른다.
+      e.g. /npcs/r-glitchnecromancer.npctype.patch /identity/name: 글리치 강령술사
+      e.g. /objects/plushies/community2/edition13/skeletonplush/PBskeletonplush.object.patch /glitchDescription: 궁금함. 강령술사에 대한 소문이 널리 퍼져 있다. 이 소문에도 어느 정도 진실이 있을지 모른다...
+### '율법' -> 1 hits
+       1  /codex/angel/angellore13.codex.patch
+      e.g. /codex/angel/angellore13.codex.patch /contentPages/0: 처음, 외부인 천사가 우리 마을에 들어왔을 때, 우리 모두는 ^orange;당황하고 겁에 질렸다^reset;. 그 천사는 율법을 통해 ^red;여기서 환영받지 못한다는 것^reset;을 알았어야 했다. 적어도..우리
+### '아이온' -> 10 hits
+       1  /codex/arcana_codex_aeon/arcana_codex_aeon_1.codex.patch
+       1  /items/generic/other/arcana_evoNanopack.consumable.patch
+       1  /monsters/arcana_misc/arcana_monster_aeonkeeper/arcana_monster_aeonkeeper.monstertype.patch
+       1  /monsters/arcana_monsters/arcana_monster_timekeeper/arcana_monster_timekeeper.monstertype.patch
+       1  /monsters/arcana_monsters/arcana_monster_timekeeper/arcana_monster_timekeepersummoned.monstertype.patch
+       1  /objects/atprk_krakoth/atprk-krakothshipreactorbroken/atprk-krakothshipreactorbroken.object.patch
+       1  /objects/atprk_relicseeker/atprk_planetpins/atprk_arcanatimelesspin.object.patch
+       1  /objects/power/atprk_fukrakothbattery/atprk_fukrakothbattery.object.patch
+       1  /quests/arcana_quests_ankhu/arcana_quests_ankhu_mwhaddon/arcana_quests_ankhu_mwhaddon_10.questtemplate.patch
+       1  /species/gilten.species.patch
+      e.g. /codex/arcana_codex_aeon/arcana_codex_aeon_1.codex.patch /title: 아이온
+      e.g. /items/generic/other/arcana_evoNanopack.consumable.patch /shortdescription: ^#ffffff;아이온 나노팩^reset;
+      e.g. /monsters/arcana_misc/arcana_monster_aeonkeeper/arcana_monster_aeonkeeper.monstertype.patch /description: 아이온 에너지로 작동하는 떠다니는 로봇 같은 장치.
+      e.g. /monsters/arcana_monsters/arcana_monster_timekeeper/arcana_monster_timekeeper.monstertype.patch /description: 아이온 에너지로 작동하는 떠다니는 로봇 같은 장치.
+      e.g. /monsters/arcana_monsters/arcana_monster_timekeeper/arcana_monster_timekeepersummoned.monstertype.patch /description: 아이온 에너지로 작동하는 떠다니는 로봇 같은 장치.
+      e.g. /objects/atprk_krakoth/atprk-krakothshipreactorbroken/atprk-krakothshipreactorbroken.object.patch /shortdescription: 파괴된 아이온 리액터
+      e.g. /objects/atprk_relicseeker/atprk_planetpins/atprk_arcanatimelesspin.object.patch /noolithDescription: 아이온을 잘못 쓰면 중대한 결과가 따르지, 무시간 행성마다 그걸 증명하고 있어.
+      e.g. /objects/power/atprk_fukrakothbattery/atprk_fukrakothbattery.object.patch /shortdescription: ^#ff53c6;아이온^reset; 어큐뮬레이터
+### '이온' -> 465 hits
+      18  /dialog/alta.config.patch
+      16  /items/active/alta/scanner/items.config.patch
+       8  /codex/LEGACY/SKYBURNER/gic_skyburner_chapter4/gic_skyburner_chapter4.codex.patch
+       8  /codex/LEGACY/SKYBURNER/gic_skyburner_chapter6/gic_skyburner_chapter6.codex.patch
+       6  /codex/LEGACY/SKYBURNER/gic_skyburner_chapter7/gic_skyburner_chapter7.codex.patch
+       6  /items/active/alta/spawners/drones/ionic.activeitem.patch
+       6  /items/active/shields/ct_ioncore_shield.activeitem.patch
+       6  /items/active/weapons/ranged/alta/cannon/ct_ion_reaper.activeitem.patch
+       5  /codex/alta/ct_ion_core.codex.patch
+       5  /items/generic/crafting/ct_bionid.item.patch
+       4  /items/active/weapons/ranged/alta/rifle/ct_alta_ionic_rifle.activeitem.patch
+       4  /items/generic/food/tier1/ct_ionic_fresh.consumable.patch
+       4  /npcs/crew/crewmembersobffb.npctype.patch
+       3  /codex/alta/ct_bionics.codex.patch
+       3  /codex/alta/ct_esetera.codex.patch
+       3  /codex/arcana_codex_boss/arcana_codex_aeonTimepiece.codex.patch
+       3  /items/active/alta/tools/rods/bion_rod/ct_bion_rod.activeitem.patch
+       3  /items/active/weapons/other/ioncannonsupreme/ioncannonsupreme.activeitem.patch
+       3  /items/active/weapons/ranged/alta/heavy/ct_ion_launcher.activeitem.patch
+       3  /items/active/weapons/ranged/alta/wrist/ct_eds_mng.activeitem.patch
+       3  /items/active/weapons/ranged/unique/violator/avikan-violator.activeitem.patch
+       3  /items/generic/crafting/alta/bion.item.patch
+       3  /items/generic/food/other/ct_ionice_cube.item.patch
+       3  /items/generic/other/ct_ionic_stim.consumable.patch
+       3  /objects/FARMABLES/alta/liquid/ionic/pod/ct_ionic_eco_pod.object.patch
+       3  /objects/alta/crafting/ionomelter/ct_alta_ionomelter.object.patch
+       3  /objects/alta/special/figurines/crustoise/ct_ionic_crustoise.object.patch
+       3  /objects/alta/special/figurines/narfin/ct_ionic_narfin.object.patch
+       2  /cinematics/CHARACTERS/COMMANDO/gico_commando_ambush_human_path.cinematic.patch
+       2  /codex/alta/ct_alta_flowers.codex.patch
+      e.g. /cinematics/CHARACTERS/COMMANDO/gico_commando_ambush_human_path.cinematic.patch /panels/12/text: 멈춰. 시간이 별로 없으니 바로 본론으로 들어갈게. 저 밖에서 네가 한 일이 이 전투의 균형을 완전히 뒤바꿔놨어. 라이온과 크라운 연방 둘 다 군대를 보내고 있어, 네가 요괴들의 방어선을 완전히 망쳐놔서 이 요새가 
+      e.g. /cinematics/CHARACTERS/COMMANDO/gico_commando_regroup_human_path.cinematic.patch /panels/5/text: 문제는, 그 텐구들 중 하나가 엄청나게 격렬히 저항하고 있다는 거야. 이미 라이온과 스타가 시도한 탈취를 둘 다 물어뜯어버렸어.
+      e.g. /cinematics/CHARACTERS/SHRINEMAIDEN/gico_shrinemaiden_meeting_human_path.cinematic.patch /panels/18/text: 그것 말고는, 여기서 할 수 있는 일은 그게 거의 전부다. 라이온과 연방이 다시 공세를 재개할 준비를 갖추려면 한동안 시간이 걸릴 것이다. 이번 전투에서 승리했음에도, 라이온은 지난 공격에서 연료 비축분을 거의 전부
+      e.g. /codex/LEGACY/EVE_4/gic_eve4/gic_eve4.codex.patch /contentPages/2: 이브-IV는 2072년 러시아 연구 시설 '클레트카'의 히말라야 산맥 꼭대기에 있는 장거리 원격 측정 및 망원경 시스템에 의해 처음 발견되었습니다. 이 발견은 인간 우주 기술의 발전을 더욱 촉진시켰고, 우주 프로그램
+      e.g. /codex/LEGACY/SKYBURNER/gic_skyburner_chapter4/gic_skyburner_chapter4.codex.patch /contentPages/3: ''모두 탱크에서 나가!'' 모리건 사령관이 외쳤다. ''지금 당장 나가!'' 폭탄이 포탑을 직격했다. 탱크는 완전히 파괴되었다. 더 많은 총알이 라이온하트의 비행기를 스쳐 지나갔다. 그는 빠르게 치명적인 탄환을 발
+      e.g. /codex/LEGACY/SKYBURNER/gic_skyburner_chapter6/gic_skyburner_chapter6.codex.patch /contentPages/2: ''이 모든 것을 봐,'' 울프하운드가 말했다, 라이온하트와 함께 발사탑을 돌며. ''이것이 과학이 사람을 죽이는 데 사용되지 않을 때 할 수 있는 것이다. 그런 시절은 어디로 갔을까?'' ''이 전쟁에서 승리하면 
+      e.g. /codex/LEGACY/SKYBURNER/gic_skyburner_chapter7/gic_skyburner_chapter7.codex.patch /contentPages/2: ''모든 날개,'' AWACS가 표시했다, ''목표가 HUD에 표시되었다! 교전하라!'' 항공기의 HUD 디스플레이가 녹색 불빛으로 켜졌다. 라이온하트는 가까운 목표를 보자마자 급강하했고, 울프하운드는 그 뒤를 바짝
+      e.g. /codex/LEGACY/gic_unitanhistory/gic_unitanhistory.codex.patch /contentPages/1: 그들의 기원은 미국 연합의 단순한 외계 변종으로, 소규모 원정군과 당시 은하계에서 가장 큰 함선과 전설적인 미르-2 이온 캐논을 보유한 레드 스타 얼라이언스에 의해 경쟁을 받았던 비교적 적당한 크기의 함대를 구성했습
+### '에이언' -> 2 hits
+       1  /codex/arcana_codex_aeon/arcana_codex_aeon_1.codex.patch
+       1  /codex/arcana_codex_aeon/arcana_codex_aeon_2.codex.patch
+      e.g. /codex/arcana_codex_aeon/arcana_codex_aeon_1.codex.patch /contentPages/0: 에이언은 시공간의 흐름을 방해하는 상위 원소 중 하나다. 에이언의 황금빛 잔재는 타임리스에서 발견할 수 있지만, 연구자들은 아직 에이언의 본질과 직접 상호작용하는 데 성공하지 못했다.
+      e.g. /codex/arcana_codex_aeon/arcana_codex_aeon_2.codex.patch /contentPages/0: 타임리스 행성에 위치한 시계탑은, 예상대로, 행성 자체처럼 얼어붙어 있다. 일부는 이 시계탑이 타임리스 행성에서 시간의 흐름을 통제하는 것이라 추측해왔다. 어떻게든 풀려나온 태엽 장치 조각인 에이언 시계는, 이 탑들
+### '항해자' -> 10 hits
+       1  /codex/arcana_codex_boss/arcana_codex_navigator.codex.patch
+       1  /interface/scripted/arcana_books/bosses.config.patch
+       1  /interface/scripted/mwhaddon_challenge/bossChallenge/navigator/config.config.patch
+       1  /items/armors/other/voyager/voyager.chest.patch
+       1  /items/armors/other/voyager/voyager.head.patch
+       1  /items/armors/other/voyager/voyager.legs.patch
+       1  /monsters/boss/arcana_boss_navigator/arcana_boss_navigator.monstertype.patch
+       1  /objects/plushies/community2/edition13/spaceshipplush/PBspaceshipplush.object.patch
+       1  /quests/avikanquests/avikanoutpost/avikanstarfarer.questtemplate.patch
+       1  /species/avikan.species.patch
+      e.g. /codex/arcana_codex_boss/arcana_codex_navigator.codex.patch /title: 항해자
+      e.g. /interface/scripted/arcana_books/bosses.config.patch /bosses/2/name: 항해자
+      e.g. /interface/scripted/mwhaddon_challenge/bossChallenge/navigator/config.config.patch /gui/goalDescription/value: 항해자 처치. | ^yellow;위협 등급: 6
+      e.g. /items/armors/other/voyager/voyager.chest.patch /shortdescription: 항해자의 갑옷
+      e.g. /items/armors/other/voyager/voyager.head.patch /shortdescription: 항해자의 헬멧
+      e.g. /items/armors/other/voyager/voyager.legs.patch /shortdescription: 항해자의 바지
+      e.g. /monsters/boss/arcana_boss_navigator/arcana_boss_navigator.monstertype.patch /shortdescription: 항해자
+      e.g. /objects/plushies/community2/edition13/spaceshipplush/PBspaceshipplush.object.patch /glitchDescription: 즐거움. 우주선의 거대한 봉제 인형이다. 어쩌면 안에 조그만 우주 항해자가 타고 있을지도?
+### '내비게이터' -> 116 hits
+       3  /objects/alta/ship/special/captains_chair/ct_alta_ship_captains_chair.object.patch
+       3  /objects/ship/apexcaptainschair/apexcaptainschair.object.patch
+       3  /objects/ship/aviancaptainschair/aviancaptainschair.object.patch
+       3  /objects/ship/catcaptainschair/catcaptainschair.object.patch
+       3  /objects/ship/elduucaptainschair/elduucaptainschair.object.patch
+       3  /objects/ship/florancaptainschair/florancaptainschair.object.patch
+       3  /objects/ship/fu_byoscaptainschair/fu_byoscaptainschairdeco.object.patch
+       3  /objects/ship/fu_byoscaptainschair2/fu_byoscaptainschair2deco.object.patch
+       3  /objects/ship/glitchcaptainschair/glitchcaptainschair.object.patch
+       3  /objects/ship/humancaptainschair/humancaptainschair.object.patch
+       3  /objects/ship/hylotlcaptainschair/hylotlcaptainschair.object.patch
+       3  /objects/ship/juuxcaptainschair/juuxcaptainschair.object.patch
+       3  /objects/ship/kitsunecaptainschair/kitsunecaptainschair.object.patch
+       3  /objects/ship/kitsunecaptainschair/kitsunecaptainschair_black.object.patch
+       3  /objects/ship/kitsunecaptainschair/kitsunecaptainschair_blue.object.patch
+       3  /objects/ship/kitsunecaptainschair/kitsunecaptainschair_brown.object.patch
+       3  /objects/ship/kitsunecaptainschair/kitsunecaptainschair_gray.object.patch
+       3  /objects/ship/kitsunecaptainschair/kitsunecaptainschair_green.object.patch
+       3  /objects/ship/kitsunecaptainschair/kitsunecaptainschair_orange.object.patch
+       3  /objects/ship/kitsunecaptainschair/kitsunecaptainschair_pink.object.patch
+       3  /objects/ship/kitsunecaptainschair/kitsunecaptainschair_purple.object.patch
+       3  /objects/ship/kitsunecaptainschair/kitsunecaptainschair_red.object.patch
+       3  /objects/ship/kitsunecaptainschair/kitsunecaptainschair_white.object.patch
+       3  /objects/ship/kitsunecaptainschair/kitsunecaptainschair_yellow.object.patch
+       3  /objects/ship/lamiacaptainschair/lamiacaptainschair.object.patch
+       3  /objects/ship/lucariocaptainschair/lucariocaptainschair.object.patch
+       3  /objects/ship/nightarcaptainschair/nightarcaptainschair.object.patch
+       3  /objects/ship/novakidcaptainschair/novakidcaptainschair.object.patch
+       3  /objects/ship/skathcaptainschair/skathcaptainschair.object.patch
+       3  /objects/ship/veluucaptainschair/veluucaptainschair.object.patch
+      e.g. /codex/arcana_codex_boss/arcana_codex_navigator.codex.patch /description: 내비게이터에 관한 짧은 기록.
+      e.g. /objects/alta/ship/special/captains_chair/ct_alta_ship_captains_chair.object.patch /apexDescription: 아... 달콤한 자유. 이 의자에서 함선의 내비게이터를 쓸 수 있어.
+      e.g. /objects/arcana/npcs/mwhaddon_dungeon_misc/mwhaddon_dungeon_misc_npc_deel/nightmare/mwhaddon_dungeon_misc_npc_deelNM_navigator.object.patch /chatOptions/0: 휴면 상태인 방주의 무덤지기, 내비게이터는 이 거의 영원에 가까운 시간 속에서 존재를 이어갈 의미를 찾아냈다.
+      e.g. /objects/ship/Lustlingcaptainschair/lustlingcaptainschair.object.patch /avianDescription: 선장의 의자 바로 나야! 이 의자에서 내비게이터를 사용할 수 있어.
+      e.g. /objects/ship/angelcaptainschair/angelcaptainschair.object.patch /apexDescription: 아... 달콤한 자유. 이 의자에서 함선의 내비게이터를 쓸 수 있어.
+      e.g. /objects/ship/apexcaptainschair/apexcaptainschair.object.patch /apexDescription: 아아... 자유는 달콤하다. 이 의자에서 함선의 내비게이터를 사용할 수 있다.
+      e.g. /objects/ship/arcaniancaptainschair/arcaniancaptainschair.object.patch /apexDescription: 아... 달콤한 자유. 이 의자에서 함선의 내비게이터를 쓸 수 있어.
+      e.g. /objects/ship/avalicaptainschair/avalicaptainschair.object.patch /avianDescription: 선장의 의자 바로 나야! 이 의자에서 내비게이터를 사용할 수 있어.
+### '솔라 가디언' -> 6 hits
+       2  /codex/arcana_codex_boss/arcana_codex_solarGuardian.codex.patch
+       2  /items/generic/mwhaddon_codexItem/mwhaddon_codexItem_solarGuardian.item.patch
+       1  /interface/scripted/mwhaddon_challenge/bossChallenge/solarGuardian/config.config.patch
+       1  /quests/mwhaddon_pOR_entry/mwhaddon_pOR_entry_solarGuardian.questtemplate.patch
+      e.g. /codex/arcana_codex_boss/arcana_codex_solarGuardian.codex.patch /description: 솔라 가디언에 관한 짧은 기록.
+      e.g. /interface/scripted/mwhaddon_challenge/bossChallenge/solarGuardian/config.config.patch /gui/missionTitleDescription/value: 적수 소환: 솔라 가디언
+      e.g. /items/generic/mwhaddon_codexItem/mwhaddon_codexItem_solarGuardian.item.patch /description: 솔라 가디언에 관한 짧은 기록. 그 내용은 아직 밝혀지지 않았다.
+      e.g. /quests/mwhaddon_pOR_entry/mwhaddon_pOR_entry_solarGuardian.questtemplate.patch /title: ^orange;회상: 솔라 가디언^reset;
+### '태양 수호자' -> 6 hits
+       1  /codex/arcana_codex_boss/arcana_codex_solarGuardian.codex.patch
+       1  /interface/scripted/arcana_books/bosses.config.patch
+       1  /interface/scripted/mwhaddon_challenge/bossChallenge/solarGuardian/config.config.patch
+       1  /items/BOSS_DROPS/gic_armoredprotector_bossdrop.activeitem.patch
+       1  /monsters/boss/arcana_boss_solarGuardian/arcana_boss_solarGuardian.monstertype.patch
+       1  /quests/NAZRIN/gic_nazrin_planetencounter_protected_solguardianquest.questtemplate.patch
+      e.g. /codex/arcana_codex_boss/arcana_codex_solarGuardian.codex.patch /title: 태양 수호자
+      e.g. /interface/scripted/arcana_books/bosses.config.patch /bosses/7/name: 태양 수호자
+      e.g. /interface/scripted/mwhaddon_challenge/bossChallenge/solarGuardian/config.config.patch /gui/goalDescription/value: 태양 수호자 처치. | ^orange;위협 등급: 8
+      e.g. /items/BOSS_DROPS/gic_armoredprotector_bossdrop.activeitem.patch /description: ^orange;처치한 보스의 아이템 획득에 사용: | - 강습 초전도체 | - 태양 수호자 권총
+      e.g. /monsters/boss/arcana_boss_solarGuardian/arcana_boss_solarGuardian.monstertype.patch /shortdescription: 태양 수호자
+      e.g. /quests/NAZRIN/gic_nazrin_planetencounter_protected_solguardianquest.questtemplate.patch /title: ^#CC7970;나즈린: 태양 수호자
+### '하베스터' -> 12 hits
+       2  /codex/arcana_codex_boss/arcana_codex_terminusReaper.codex.patch
+       2  /items/active/unsorted/HarvesterBeam/1/HarvesterBeam.activeitem.patch
+       2  /items/active/unsorted/HarvesterBeam/2/HarvesterBeam2.activeitem.patch
+       2  /items/active/unsorted/HarvesterBeam/3/HarvesterBeam3.activeitem.patch
+       1  /monsters/boss/arcana_boss_terminusReaper/arcana_boss_terminusReaperFinal.monstertype.patch
+       1  /objects/kheAA/kheAA_autoBeamer/fu_harvestTurret.object.patch
+       1  /objects/kheAA/kheAA_autoBeamer/fu_harvestTurret2.object.patch
+       1  /objects/kheAA/kheAA_autoBeamer/fu_harvestTurret3.object.patch
+      e.g. /codex/arcana_codex_boss/arcana_codex_terminusReaper.codex.patch /description: 하베스터에 관한 짧은 기록.
+      e.g. /items/active/unsorted/HarvesterBeam/1/HarvesterBeam.activeitem.patch /shortdescription: 하베스터 빔건
+      e.g. /items/active/unsorted/HarvesterBeam/2/HarvesterBeam2.activeitem.patch /shortdescription: 하베스터 빔건 II
+      e.g. /items/active/unsorted/HarvesterBeam/3/HarvesterBeam3.activeitem.patch /shortdescription: 하베스터 빔건 III
+      e.g. /monsters/boss/arcana_boss_terminusReaper/arcana_boss_terminusReaperFinal.monstertype.patch /shortdescription: 하베스터, 별들의 수확자
+      e.g. /objects/kheAA/kheAA_autoBeamer/fu_harvestTurret.object.patch /shortdescription: 하베스터 터렛 v1
+      e.g. /objects/kheAA/kheAA_autoBeamer/fu_harvestTurret2.object.patch /shortdescription: 하베스터 터렛 V2
+      e.g. /objects/kheAA/kheAA_autoBeamer/fu_harvestTurret3.object.patch /shortdescription: 하베스터 터렛 v3
+### '대모방자' -> 1 hits
+       1  /codex/atprk_krakoth/atprk_fukrakothcodexduo.codex.patch
+      e.g. /codex/atprk_krakoth/atprk_fukrakothcodexduo.codex.patch /contentPages/1: 일부 존재는 사람들을 자라나는 리샨의 신성한 광휘로부터 꾀어내는 데 그치지 않는다. 그들은 신성모독적인 방식으로 그분을 흉내 내려 하며, 비슷한 외양과 태도를 취한다. |  | 그런 사악한 존재 중 최악은 ^#c41515;
+### '임퍼소네이터' -> 1 hits
+       1  /codex/atprk_krakoth/atprk_fukrakothcodexduo.codex.patch
+      e.g. /codex/atprk_krakoth/atprk_fukrakothcodexduo.codex.patch /contentPages/2: 여러 면에서 자라나는 자를 흉내 내며, 그랜드 임퍼소네이터는 희생자들에게 살과 금속을 흉악하게 뒤섞은 선물을 주며 큰 힘을 약속하고 그 대가로 충성을 요구한다. |  | 그들의 선물과 아첨하는 말은 그저 미끼일 뿐임을 기억
+### '비리데슨트' -> 20 hits
+       2  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_3.codex.patch
+       2  /items/generic/arcana_food/arcana_food_viridescentTea.consumable.patch
+       2  /objects/atprk_relicseeker/atprk_planetpins/atprk_arcanaviridescentpin.object.patch
+       1  /codex/arcana_codex_viridescent/arcana_codex_viridescent_1.codex.patch
+       1  /interface/scripted/arcana_updates/arcana_updates_gui.config.patch
+       1  /interface/scripted/mwhaddon_teaBrewing/teaIngredient.config.patch
+       1  /items/MATERIALS/viridescent_tile1.matitem.patch
+       1  /items/MATERIALS/viridescent_tile2.matitem.patch
+       1  /items/MATERIALS/viridescent_tile3.matitem.patch
+       1  /items/active/weapons/misc_weapons/misc_katana_viridescentKatana/misc_katana_viridescentKatana.activeitem.patch
+       1  /items/generic/arcana_teabags/arcana_teabag_viridescentTeabag.item.patch
+       1  /items/generic/mwhaddon_teaIngredient/mwhaddon_teaIngredient_viridescentTeabag.item.patch
+       1  /items/liquids/arcana_liquid_viridescentAcid.liqitem.patch
+       1  /npcs/races/gelsemis/arcana_npc_gelsemis_villager.npctype.patch
+       1  /objects/mwhaddon/teamug/mwhaddon_teamug_viridescent.object.patch
+       1  /objects/terraformer/arcana_terraformer_viridescent.object.patch
+       1  /stats/effects/mwhaddon_usable/mwhaddon_cup/mwhaddon_teaIngredient/mwhaddon_teaIngredient_viridescentTeabag/mwhaddon_teaIngredient_viridescentTeabag.statuseffect.patch
+      e.g. /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_3.codex.patch /contentPages/0: ^orange;슈퍼스톰 별^white;은 우리 아르카니안이 '원소'라 부르는 것이 깃든 별 중 하나로, 보라색 외형을 띤다. 페일 별의 탐사를 마쳤을 때 탐사를 추천한다. | ^orange;슈퍼스톰 정수^white;의 
+      e.g. /codex/arcana_codex_viridescent/arcana_codex_viridescent_1.codex.patch /contentPages/0: 비리데슨트 행성은 선명한 녹색의 끔찍하게 독성 있는 행성으로, 산성 이크의 강으로 가득하다. 문명의 잔해가 일부 남아 있지만 이 행성들은 오래전부터 생활 불가 지역이며, 대부분의 종족은 발조차 들이려 하지 않는다. 
+      e.g. /interface/scripted/arcana_updates/arcana_updates_gui.config.patch /gui/sampleScrollArea/children/tabLabel_4/value: 새로운 플레이 가능 종족 ^orange;스펙트윙^reset;이 추가됐다. |  | 스펙트윙은 날개 달린 곤충형 종족으로, 심연이라 알려진 우주 균열에 의해 물리적 형태를 얻었다. 타고난 심연 태생 포식자로서, 날카로운 발톱
+      e.g. /interface/scripted/mwhaddon_teaBrewing/teaIngredient.config.patch /teaIngredients/mwhaddon_teaIngredient_viridescentTeabag/shortDescription: S.비리데슨트 티백
+      e.g. /items/MATERIALS/viridescent_tile1.matitem.patch /shortdescription: 비리데슨트 나무 블록
+      e.g. /items/MATERIALS/viridescent_tile2.matitem.patch /shortdescription: 비리데슨트 고철 패널
+      e.g. /items/MATERIALS/viridescent_tile3.matitem.patch /shortdescription: 비리데슨트 잎 블록
+      e.g. /items/active/weapons/misc_weapons/misc_katana_viridescentKatana/misc_katana_viridescentKatana.activeitem.patch /shortdescription: 비리데슨트 카타나
+### '루이에' -> 59 hits
+       2  /npcs/races/gelsemis/arcana_npc_gelsemis_villager.npctype.patch
+       1  /codex/arcana_codex_luye/arcana_codex_luye_1.codex.patch
+       1  /items/MATERIALS/luye_tile1.matitem.patch
+       1  /items/MATERIALS/luye_tile2.matitem.patch
+       1  /items/MATERIALS/luye_tile3.matitem.patch
+       1  /items/MATERIALS/luye_tile4.matitem.patch
+       1  /items/MATERIALS/luye_tile5.matitem.patch
+       1  /items/active/mwhaddon_cup/mwhaddon_cup_luye/mwhaddon_cup_luye.activeitem.patch
+       1  /items/generic/arcana_food/arcana_food_greenTea.consumable.patch
+       1  /npcs/other/arcana_npc_luye_officer/arcana_npc_luye_officer.npctype.patch
+       1  /objects/arcana/luye/bed_1/arcana_luye_bed_1.object.patch
+       1  /objects/arcana/luye/bed_2/arcana_luye_bed_2.object.patch
+       1  /objects/arcana/luye/bookcase_1/arcana_luye_bookcase_1.object.patch
+       1  /objects/arcana/luye/deco_1/arcana_luye_deco_1.object.patch
+       1  /objects/arcana/luye/deco_2/arcana_luye_deco_2.object.patch
+       1  /objects/arcana/luye/deco_3/arcana_luye_deco_3.object.patch
+       1  /objects/arcana/luye/deco_4/arcana_luye_deco_4.object.patch
+       1  /objects/arcana/luye/deco_6/arcana_luye_deco_6.object.patch
+       1  /objects/arcana/luye/deco_7/arcana_luye_deco_7.object.patch
+       1  /objects/arcana/luye/deco_8/arcana_luye_deco_8.object.patch
+       1  /objects/arcana/luye/door_1/arcana_luye_door_1.object.patch
+       1  /objects/arcana/luye/storage_1/arcana_luye_storage_1.object.patch
+       1  /objects/arcana/luye/storage_2/arcana_luye_storage_2.object.patch
+       1  /objects/arcana/luye/storage_3/arcana_luye_storage_3.object.patch
+       1  /objects/arcana/luye/storage_4/arcana_luye_storage_4.object.patch
+       1  /objects/arcana/luye/storage_5/arcana_luye_storage_5.object.patch
+       1  /objects/arcana/luye/storage_6/arcana_luye_storage_6.object.patch
+       1  /objects/arcana/luye/storage_7/arcana_luye_storage_7.object.patch
+       1  /objects/arcana/luye/storage_8/arcana_luye_storage_8.object.patch
+       1  /objects/arcana/luye/vendor_2/arcana_luye_vendor_2.object.patch
+      e.g. /codex/arcana_codex_luye/arcana_codex_luye_1.codex.patch /contentPages/0: 루이에는 많은 사람들에게 유명한 차 수출 기업으로 알려져 있지만, 루이에 협회가 원래 청부 암살자 집단에 의해 설립되었다는 사실을 아는 사람은 거의 없다. 루이에는 오래전에 전투 활동을 중단했지만, 오늘날까지도 용병
+      e.g. /items/MATERIALS/luye_tile1.matitem.patch /shortdescription: 루이에 지지 기둥
+      e.g. /items/MATERIALS/luye_tile2.matitem.patch /shortdescription: 루이에 기계 벽
+      e.g. /items/MATERIALS/luye_tile3.matitem.patch /shortdescription: 루이에 기술 블록
+      e.g. /items/MATERIALS/luye_tile4.matitem.patch /shortdescription: 루이에 경사 도금판
+      e.g. /items/MATERIALS/luye_tile5.matitem.patch /shortdescription: 루이에 매끈한 벽
+      e.g. /items/active/mwhaddon_cup/mwhaddon_cup_luye/mwhaddon_cup_luye.activeitem.patch /shortdescription: 루이에 진공 컵
+      e.g. /items/generic/arcana_food/arcana_food_greenTea.consumable.patch /description: 루이에의 전통 녹차. ^green;120초 동안 약간의 달리기 속도 증가를 준다.^reset;
+### '루예' -> 52 hits
+       2  /codex/arcana_codex_luye/arcana_codex_luye_1.codex.patch
+       2  /items/blueprints/arcana_blueprint_luye.activeitem.patch
+       2  /objects/arcana/luye/crafting_2/arcana_luye_crafting_2.object.patch
+       2  /objects/arcana/luye/vendor_1/arcana_luye_vendor_1.object.patch
+       2  /objects/arcana/luye/vendor_6/arcana_luye_vendor_6.object.patch
+       2  /objects/mwhaddon/teamug/mwhaddon_luye_teaset.object.patch
+       1  /cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_wildlands.cinematic.patch
+       1  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_3.codex.patch
+       1  /interface/arcana/arcana_crafting_workbench/luye.config.patch
+       1  /interface/scripted/arcana_updates/arcana_updates_gui.config.patch
+       1  /interface/windowconfig/arcana_luye_crafting_1.config.patch
+       1  /interface/windowconfig/mwhaddon_teamug_crafting.config.patch
+       1  /items/generic/arcana_currency/mwhaddon_currency_teaCoupon.item.patch
+       1  /npcs/other/arcana_npc_luye_officer/arcana_npc_luye_officer.npctype.patch
+       1  /npcs/tenants/arcana_tenant_luyeHeishe.npctype.patch
+       1  /objects/arcana/luye/crafting_1/arcana_luye_crafting_1.object.patch
+       1  /objects/arcana/luye/deco_1/arcana_luye_deco_1.object.patch
+       1  /objects/arcana/luye/storage_4/arcana_luye_storage_4.object.patch
+       1  /objects/arcana/luye/storage_5/arcana_luye_storage_5.object.patch
+       1  /objects/arcana/luye/storage_6/arcana_luye_storage_6.object.patch
+       1  /objects/arcana/luye/storage_7/arcana_luye_storage_7.object.patch
+       1  /objects/arcana/luye/vendor_2/arcana_luye_vendor_2.object.patch
+       1  /objects/arcana/luye/vendor_3/arcana_luye_vendor_3.object.patch
+       1  /objects/arcana/luye/vendor_4/arcana_luye_vendor_4.object.patch
+       1  /objects/arcana/luye/vendor_5/arcana_luye_vendor_5.object.patch
+       1  /objects/arcana/luye/walldeco_4/arcana_luye_walldeco_4.object.patch
+       1  /objects/arcana/luye/walldeco_5/arcana_luye_walldeco_5.object.patch
+       1  /objects/arcana/luye/walldeco_6/arcana_luye_walldeco_6.object.patch
+       1  /objects/arcana/luye/walldeco_7/arcana_luye_walldeco_7.object.patch
+       1  /objects/arcana/luye/wallstorage_1/arcana_luye_wallstorage_1.object.patch
+      e.g. /cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_wildlands.cinematic.patch /panels/2/text: 여기 사람들은 더 나은 삶을 찾아요. 이 세계가 그들의 행복, 삶, 기쁨의 마지막 보루예요. |  | 자매, 듣고 있나요?
+      e.g. /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_3.codex.patch /contentPages/12: 저 강한 부식성을 지닌 ^#f3ff92;비리데선트^white;가 ^yellow;겔세미스^white;를 찾을 수 있는 유일한 곳일 가능성이 높다는 건 매우 흥미롭다. 그들은 상당히 친절하고, 놀랍게도 지혜로 가득하다.
+      e.g. /codex/arcana_codex_luye/arcana_codex_luye_1.codex.patch /title: 루예 협회
+      e.g. /interface/arcana/arcana_crafting_workbench/luye.config.patch /paneLayout/lblTitle/value: 루예 제작대
+      e.g. /interface/scripted/arcana_updates/arcana_updates_gui.config.patch /gui/sampleScrollArea/children/tabLabel_4/value: 새로운 플레이 가능 종족 ^orange;스펙트윙^reset;이 추가됐다. |  | 스펙트윙은 날개 달린 곤충형 종족으로, 심연이라 알려진 우주 균열에 의해 물리적 형태를 얻었다. 타고난 심연 태생 포식자로서, 날카로운 발톱
+      e.g. /interface/windowconfig/arcana_luye_crafting_1.config.patch /paneLayout/lblTitle/value: 루예 차 양조기
+      e.g. /interface/windowconfig/mwhaddon_teamug_crafting.config.patch /paneLayout/lblTitle/value: 루예 찻잔
+      e.g. /items/blueprints/arcana_blueprint_luye.activeitem.patch /description: 루예 테마 가구와 블록을 제작하는 설계도.
+### '메가코프' -> 6 hits
+       1  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_3.codex.patch
+       1  /codex/mwhaddon_codex_misc/mwhaddon_codex_glimmlecus_1.codex.patch
+       1  /npcs/factions/orion/arcana_npc_orion_shipcrew.npctype.patch
+       1  /npcs/tenants/arcana_tenant_orionEmployee.npctype.patch
+       1  /objects/arcana/npcs/mwhaddon_dungeon_misc/mwhaddon_dungeon_misc_npc_deel/mwhaddon_dungeon_misc_npc_deel_atExtColony.object.patch
+       1  /quests/mwhaddon_quests/mwhaddon_quests_automation/mwhaddon_quests_automation_2.questtemplate.patch
+      e.g. /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_3.codex.patch /contentPages/4: ^yellow;오리온 같은 메가코프 소유 건물^white; 외에도, 그곳에서는 ^yellow;이상한 부유 구조물^white;도 목격되는데, 많은 마름모꼴 방들이 불규칙하게 서로 연결되어 있다는 점도 주목할 만하다.
+      e.g. /codex/mwhaddon_codex_misc/mwhaddon_codex_glimmlecus_1.codex.patch /contentPages/4: 그럼에도, 마녀의 사악함에는 의심의 여지가 없다. 그녀는 오랫동안 코버넌트를 없애려 해온 머글 집단, 메가코프와 밀접하게 연관된 것으로 알려져 있다. 그녀는 실버힌지의 미공개 기술들을 전부 그들에게 팔아넘겼을 뿐만 
+      e.g. /npcs/factions/orion/arcana_npc_orion_shipcrew.npctype.patch /scriptConfig/dialog/converse/default/default/2: 사람들 오래전 오리온 등 메가코프 서비스에 프라이버시 포기. 연합 우리 모두 원한 필연 미래였을지도.
+      e.g. /npcs/tenants/arcana_tenant_orionEmployee.npctype.patch /scriptConfig/dialog/converse/default/default/2: 사람들 오래전 오리온 등 메가코프 서비스에 프라이버시 포기. 연합 우리 모두 원한 필연 미래였을지도.
+      e.g. /objects/arcana/npcs/mwhaddon_dungeon_misc/mwhaddon_dungeon_misc_npc_deel/mwhaddon_dungeon_misc_npc_deel_atExtColony.object.patch /chatOptions/1: 이런 곳들은 많은 사람에게 생존을 위한 마지막 피난처지만, 그 대가로 메가코프의 톱니바퀴가 되어야 하지.
+      e.g. /quests/mwhaddon_quests/mwhaddon_quests_automation/mwhaddon_quests_automation_2.questtemplate.patch /text: ^green;정수 추출기^white;는 메가코프가 유용한 자원을 대량으로 추출하는 데 쓰지만, 네 손에 있는 이것도 충분히 역할을 할 거다. 자, 여기에 ^green;^orange;아케인 물^green;를 넣어 보는
+### '거대기업' -> 3 hits
+       1  /codex/arcana_codex_misc/arcana_codex_misc_5.codex.patch
+       1  /items/WEAPONS/GICEXP/gicexp_qcq171/esc_qcq171_space_onehanded.activeitem.patch
+       1  /items/WEAPONS/GICEXP/gicexp_qcq171/gicexp_qcq171_onehanded.activeitem.patch
+      e.g. /codex/arcana_codex_misc/arcana_codex_misc_5.codex.patch /contentPages/0: 우리의 생각조차 더 이상 우리 것이 아니다. 거대기업들은 데이터를 수확하며, 보이지 않는 손으로 우리 삶을 조종한다. 그들의 편재하는 시선에 저항하라; 당신의 프라이버시를 지키고 자유를 되찾아라. 감시받는 삶은 삶이
+      e.g. /items/WEAPONS/GICEXP/gicexp_qcq171/esc_qcq171_space_onehanded.activeitem.patch /description: ''OTRINCO는 다른 거대기업과 달리, 파는 무기가 실제로 R.S.O 내 여러 제조 공장에서 나온다. 그래서 무기마다 품질 차이가 클 수 있다.'' | 9x19mm를 사용하는 OTRINCO QCQ171. 쿠르츠 마쉬
+      e.g. /items/WEAPONS/GICEXP/gicexp_qcq171/gicexp_qcq171_onehanded.activeitem.patch /description: ''OTRINCO는 다른 거대기업과 달리, 파는 무기가 실제로 R.S.O 내 여러 제조 공장에서 나온다. 그래서 무기마다 품질 차이가 클 수 있다.'' | 9x19mm를 사용하는 OTRINCO QCQ171. 쿠르츠 마쉬
+### '테레네 선거단' -> 4 hits
+       2  /dialog/r-refugeeconverse.config.patch
+       1  /codex/newspaper/pr-newspaper.codex.patch
+       1  /codex/other/other/prcw-betrayal.codex.patch
+      e.g. /codex/newspaper/pr-newspaper.codex.patch /contentPages/2: 지구 파괴 이후, 테레네 선거단의 잔당은 이 미지의 위협이 다시 나타날 것을 두려워해 화성 식민지 대피를 명령했다. 보호국이 사실상 사라진 지금, 우리는 이 어두운 시기에 이제 누가 나서서 우리를 구할지 물을 수밖에
+      e.g. /codex/other/other/prcw-betrayal.codex.patch /contentPages/1: 태양계 외 식민화당(PEC)의 기업 스파이들이 최근 지구 정부의 심층 보관소에서 기밀 정보를 회수했다. 어찌어찌해서, 테레네 선거단이 우리가 단종한 아나차리 무기 라인의 일급비밀 설계도, 즉 스타킬러 클레이모어와 솔
+      e.g. /dialog/r-refugeeconverse.config.patch /converse/default/default/18: 이게 테레네 선거단이나 그 지부들에게 무슨 의미일지 궁금하네?
+### '행성 선거단' -> 3 hits
+       2  /codex/human/union.codex.patch
+       1  /codex/hylotl/hylotus.codex.patch
+      e.g. /codex/human/union.codex.patch /title: 행성 선거단
+      e.g. /codex/hylotl/hylotus.codex.patch /contentPages/2: 오늘날 의회는 지구의 행성 선거단과 비슷하게 운영되며, 황제/여황제가 명목상 주재하는 선출직 관리들로 구성된다. 그러나 선거단과 달리 의회는 내정과 대외 정책 모두에 중점을 두지만, 강한 고립주의 성향 덕분에 관리국
+### '여가장' -> 1 hits
+       1  /codex/nightar/funightarhistory5.codex.patch
+      e.g. /codex/nightar/funightarhistory5.codex.patch /contentPages/0: 불가에 모여라 |  | 이야기 하나 들려주마 |  | 그녀가 권력을 잡은 날 |  | 우리 삶은 영원히 바뀌었지 |  |  | 이런 어둠은 전에도 본 적 없었어 |  | 고통은 끝나지 않아 |  | 우리의 위대한 여왕 만세 |  |  | 그녀에게서 숨을 수는 없어 |  | 그녀는
+### '여족장' -> 1 hits
+       1  /codex/nightar/funightarhistory5.codex.patch
+      e.g. /codex/nightar/funightarhistory5.codex.patch /contentPages/1: 벗어날 길은 없어 |  | 그녀는 모든 것을 익사시키고 |  | 자유란 존재하지 않아 |  | 저항할 수 없어 |  |  | 여족장이여 |  |  | 넌 멀리 가지 못해 |  |  | 아, 그녀는 악몽에 생명을 불어넣어 |  | 가장 추악하고 뒤틀린 것들에게 |  | 네가 죽게 해 
+### '모후' -> 5 hits
+       1  /codex/nightar/funightarhistory5.codex.patch
+       1  /items/WEAPONS/RANGED/BATTLE_RIFLE/gic_stgw57/gic_stgw57_missingammo.activeitem.patch
+       1  /items/WEAPONS/RANGED/BATTLE_RIFLE/gic_stgw57/gic_stgw57_missingparts.activeitem.patch
+       1  /items/WEAPONS/RANGED/BATTLE_RIFLE/gic_stgw57/gic_stgw57_npc.activeitem.patch
+       1  /items/WEAPONS/RANGED/BATTLE_RIFLE/gic_stgw57/gic_stgw57_prefix_template.activeitem.patch
+      e.g. /codex/nightar/funightarhistory5.codex.patch /description: 나이타르 모후에 관한 시
+      e.g. /items/WEAPONS/RANGED/BATTLE_RIFLE/gic_stgw57/gic_stgw57_missingammo.activeitem.patch /description: 후모후모 |  | ^green;"보조 발사"를 길게 누르면 완전 자동과 반자동을 전환합니다.^reset;
+      e.g. /items/WEAPONS/RANGED/BATTLE_RIFLE/gic_stgw57/gic_stgw57_missingparts.activeitem.patch /description: 후모후모 |  | ^green;"보조 발사"를 길게 누르면 완전 자동과 반자동을 전환합니다.^reset;
+      e.g. /items/WEAPONS/RANGED/BATTLE_RIFLE/gic_stgw57/gic_stgw57_npc.activeitem.patch /description: 후모후모 |  | ^green;"보조 발사"를 길게 누르면 완전 자동과 반자동을 전환합니다.^reset;
+      e.g. /items/WEAPONS/RANGED/BATTLE_RIFLE/gic_stgw57/gic_stgw57_prefix_template.activeitem.patch /description: 후모후모 |  | ^green;"보조 발사"를 길게 누르면 완전 자동과 반자동을 전환합니다.^reset;
+### '풀 하피' -> 2 hits
+       2  /codex/om_harpy/om_harpylore3.codex.patch
+      e.g. /codex/om_harpy/om_harpylore3.codex.patch /description: '^yellow;풀 하피^reset;'의 발견을 설명하는 신문입니다.
+### '완전 하피' -> 1 hits
+       1  /codex/om_harpy/om_harpylore3.codex.patch
+      e.g. /codex/om_harpy/om_harpylore3.codex.patch /contentPages/0: ^gray;(이 신문은 아주 오래된 것 같다.)^reset; | 이 신비한 "하피 병"에 대한 정보가 늘어나면서 ^orange;놀라운 소식이 계속 전해지고 있다^reset;! | 최근 ^green;오랫동안 병을 앓던 한 인
+### '완전체 하피' -> 1 hits
+       1  /codex/om_harpy/om_harpylore3.codex.patch
+      e.g. /codex/om_harpy/om_harpylore3.codex.patch /contentPages/1: 그들은 털을 모두 잃었다. 온몸이 비늘과 깃털 덩어리로 뒤덮였다. 손과 손톱은 완전한 발톱으로 변했다. ^green;제대로 의사소통을 하지 못하는^reset; 듯하고, ^orange;항상 폭력을 행사한다^reset;
+### '스타리 컬티스트' -> 75 hits
+      16  /npcs/biome/om_starrycultist.npctype.patch
+      16  /npcs/biome/om_starrycultistguard.npctype.patch
+      11  /npcs/biome/tenants/om_starrycultisttenant.npctype.patch
+       8  /objects/om_starryplanet/om_starrybanner1/om_starrybanner1.object.patch
+       8  /objects/om_starryplanet/om_starrybanner2/om_starrybanner2.object.patch
+       6  /npcs/biome/om_starrycultistroyal.npctype.patch
+       3  /npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch
+       2  /codex/om_starry/om_starrylore1.codex.patch
+       1  /codex/om_starry/om_starrylore4.codex.patch
+       1  /codex/om_starry/om_starrylore5.codex.patch
+       1  /codex/om_starry/om_starrylore7.codex.patch
+       1  /objects/om_starryplanet/om_starrywardrobe1/om_starrywardrobe1.object.patch
+       1  /objects/teleporter/om_starrycafeteleporter/om_starrycafeteleporter.object.patch
+      e.g. /codex/om_starry/om_starrylore1.codex.patch /description: 스타리 컬티스트에 가입하기 위해 알아야 할 모든 것!
+      e.g. /codex/om_starry/om_starrylore4.codex.patch /contentPages/1: 반란군이 찾기 전에 될 수 있는 한 많은 별빛 행성을 점령하거나 찾아내서 자원을 우리 것으로 할 수 있었다. 우리 길을 가로막는 건 짜증나는 "^green;스타리 컬티스트^reset;"들뿐이지. 가끔 우리 시설에 침
+      e.g. /codex/om_starry/om_starrylore5.codex.patch /contentPages/2: 제가 아는 한, ^green;노바키드는 별빛 행성을 즐겨 찾는 경우가 많^reset;고, 그들의 궁전에 그런 "^green;모나크^reset;"가 있다는 이야기도 들었습니다. 대개 ^yellow;노바키드인^reset
+      e.g. /codex/om_starry/om_starrylore7.codex.patch /description: ^red;주의!^reset; 우리 스타리 컬티스트 일부가 불안정해지고 있다!
+      e.g. /npcs/biome/om_starrycultist.npctype.patch /scriptConfig/dialog/converse/default/default/0: ^green;스타리 컬티스트^reset;에 들어오러 왔어?
+      e.g. /npcs/biome/om_starrycultistguard.npctype.patch /scriptConfig/dialog/converse/default/default/0: ^green;스타리 컬티스트^reset;에 들어오러 왔어?
+      e.g. /npcs/biome/om_starrycultistroyal.npctype.patch /scriptConfig/dialog/converse/default/default/1: 이 행성의 ^green;스타리 컬티스트^reset;를 지배하고 이끌고 있어.
+      e.g. /npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch /scriptConfig/dialog/converse/default/default/10: 헤, 최근에 아무 외부인이나 하나 꼬드겨서 ^green;스타리 컬티스트^reset;에 가입시켰어. | 그래서, 나 자신에게 상을 주는 중이야!
+### '별빛 신도' -> 1 hits
+       1  /codex/om_starry/om_starrylore1.codex.patch
+      e.g. /codex/om_starry/om_starrylore1.codex.patch /contentPages/1: 방문객은 물론 환영한다! 행성 자체의 것을 가져가지 않는다면-식물, 생물, 광석, 액체, 그 무엇이든-. 별빛 행성은 원하는 만큼 방문해도 좋다. 우리도 꼭 찾아와 달라! 새 구성원은 언제나 환영이다. |  | 이 행성들에
+### '별의 광신도' -> 11 hits
+       3  /npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch
+       3  /npcs/biome/tenants/om_starrycultisttenant.npctype.patch
+       1  /codex/om_starry/om_starrylore1.codex.patch
+       1  /codex/om_starry/om_starrylore10.codex.patch
+       1  /codex/om_starry/om_starrylore9.codex.patch
+       1  /objects/om_starryplanet/om_starrybarista/om_starrybarista.object.patch
+       1  /objects/om_starryplanet/om_starrywardrobe1/om_starrywardrobe1.object.patch
+      e.g. /codex/om_starry/om_starrylore1.codex.patch /title: 별의 광신도들
+      e.g. /codex/om_starry/om_starrylore10.codex.patch /description: 새내기 ^green;별의 광신도^reset;의 소유물인, 반짝이는 일기장.
+      e.g. /codex/om_starry/om_starrylore9.codex.patch /description: 모든 ^green;별의 광신도들^reset;을 위한 최신 신문.
+      e.g. /npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch /scriptConfig/dialog/converse/default/default/4: 모든 ^green;별의 광신도^reset;는 언젠가 이곳에 온 적이 있다.
+      e.g. /npcs/biome/tenants/om_starrycultisttenant.npctype.patch /scriptConfig/dialog/converse/default/default/1: ^green;별의 광신도들^reset;에 들어와야겠어! 별빛 행성들을 지키는 데 큰 도움이 될 거야!
+      e.g. /objects/om_starryplanet/om_starrybarista/om_starrybarista.object.patch /chatOptions/21: ^green;별의 광신도^reset;는 별에 너무 광적이어서 실제로, 말 그대로 별을 화폐로 사용해. 나도 그 대열에 합류했지.
+      e.g. /objects/om_starryplanet/om_starrywardrobe1/om_starrywardrobe1.object.patch /description: ^green;별의 광신도^reset;의 옷으로 가득한 키 큰 별무늬 옷장.
+### '성점술사' -> 7 hits
+       2  /npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch
+       2  /npcs/biome/threats/om_starrycultistnovakid.npctype.patch
+       1  /codex/om_starry/om_starrylore11.codex.patch
+       1  /items/active/weapons/ranged/unrand/om_starrystarcall/om_starrystarcall.activeitem.patch
+       1  /items/generic/arcana_lootbox/mwhaddon_lootbox_stargazer.activeitem.patch
+      e.g. /codex/om_starry/om_starrylore11.codex.patch /title: 성점술사 가이드
+      e.g. /items/active/weapons/ranged/unrand/om_starrystarcall/om_starrystarcall.activeitem.patch /shortdescription: 성점술사의 별의 부름
+      e.g. /items/generic/arcana_lootbox/mwhaddon_lootbox_stargazer.activeitem.patch /description: 보상으로 ^#ab5be6;성점술사 방어구^reset; 한 벌이 통째로 들어 있는 가방!
+      e.g. /npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch /scriptConfig/dialog/converse/novakid/default/33: 그래, 왜 ^magenta;우누스트렐로^reset;가 저렇게 이상하게 생겼는지 알지. 그 녀석 이제 "^green;성점술사^reset;"거든. 너 같은 파트너가 알 수준을 넘어서는 일이지.
+      e.g. /npcs/biome/threats/om_starrycultistnovakid.npctype.patch /scriptConfig/dialog/attack/novakid/default/8: 난 진정한 ^green;성점술사^reset;야! 너 같은 녀석은 나한테 아무런 힘도 못 써!
+### '아스트로맨서' -> 4 hits
+       2  /codex/om_starry/om_starrylore12.codex.patch
+       1  /codex/om_starry/om_starrylore11.codex.patch
+       1  /items/generic/arcana_lootbox/mwhaddon_lootbox_stargazer.activeitem.patch
+      e.g. /codex/om_starry/om_starrylore11.codex.patch /contentPages/1: ^orange;충분한 집중과 준비만 있으면^reset;, 당신도 "^green;아스트로맨서^reset;"가 될 수 있다! 처음엔 ^green;마법^reset;처럼 보이지만, ^green;과학^reset;으로 설명할 
+      e.g. /codex/om_starry/om_starrylore12.codex.patch /contentPages/1: ^yellow;로그 XX/XX/XXXX^reset; | "^green;아스트로맨서^reset;"가 되어보기로 했다. | 알아, 바보 같이 들려. 근데 딱히 할 것도 없거든. ^green;컬티스트^reset;들한테 들어간 지
+      e.g. /items/generic/arcana_lootbox/mwhaddon_lootbox_stargazer.activeitem.patch /shortdescription: ^orange;아스트로맨서 세트 가방^reset;
+### '멍멍 무리' -> 1 hits
+       1  /codex/woofie/woofie_woofpackbehavior.codex.patch
+      e.g. /codex/woofie/woofie_woofpackbehavior.codex.patch /title: 멍멍 무리 행동
+### '스스로를 바라고' -> 1 hits
+       1  /codex/other/other/prod-delphatab.codex.patch
+      e.g. /codex/other/other/prod-delphatab.codex.patch /contentPages/1: 우리 중 한 명 덕분에, 우리는 오직 아이디어만 존재하는 차원에 접속했다; 우리가 쓸 수 있고, 접근할 수 있는 아이디어들. 그런 공간을 계속 열어두기 위해, 그들은 균열을 유지하는 기계를 설계했다. 그때부터, 우리
+### '전설 이상도' -> 1 hits
+       1  /codex/WOODLANDS/gico_prototype_journal/gico_prototype_journal.codex.patch
+      e.g. /codex/WOODLANDS/gico_prototype_journal/gico_prototype_journal.codex.patch /contentPages/5: 우리는 인류가 언젠가 우리 종족을 뛰어넘어 우리를 전설 이상도 아니게 만들 것임을 알았다.
+### '만일이' -> 1 hits
+       1  /codex/WOODLANDS/gico_soldier_warning/gico_soldier_warning.codex.patch
+      e.g. /codex/WOODLANDS/gico_soldier_warning/gico_soldier_warning.codex.patch /contentPages/4: 그때까지 이 바리케이드를 잘 쳐 두도록. 그것이 여기까지 들어올 수 있을지는 모르겠지만, 만일이 낫지 후회보다.
+### '방어선으로' -> 3 hits
+       1  /codex/LEGACY/gic_risefromashes/gic_risefromashes.codex.patch
+       1  /codex/alta/ct_alta_capital.codex.patch
+       1  /radiomessages/ffs2_radiomessages.radiomessages.patch
+      e.g. /codex/LEGACY/gic_risefromashes/gic_risefromashes.codex.patch /contentPages/0: 우리는 인류의 첫 번째 방어선으로서 경계를 서 왔습니다. 수백 년 동안 우리는 은하계를 확장하며 우리의 정당한 영토를 주장하고 우리의 생활 방식을 듣고자 하는 사람들에게 전파했습니다. 그러나 우리가 지구의 국가들이 
+      e.g. /codex/alta/ct_alta_capital.codex.patch /contentPages/0: ^#b0e0fc;알타 수도들^reset;은 거대한 대도시로, 높이 솟은 ^#b0e0fc;알타 성채^reset;가 행정 중심지 역할을 한다. |  | 이러한 도시들의 구조는 대개 요새를 닮았으며, 대개 방어벽 형태의 여러 겹
+      e.g. /radiomessages/ffs2_radiomessages.radiomessages.patch /ffs2_f5_3/text: ^white;보급품을 챙기고, 맥스와 함께 최전방 방어선으로 가. | 기술팀이 화이트 크로우를 장거리 FTL 도약 준비할 때까지 기관실을 지켜야 해. | 행운을 빌어.
+### '천사 반란군,' -> 0 hits
+### '암흑의 시대가' -> 1 hits
+       1  /codex/angel/angellore4.codex.patch
+      e.g. /codex/angel/angellore4.codex.patch /contentPages/2: 그들을 연구하며 나는 그들을 치료할 방법을 ^orange;찾으려^reset; 했다.. ^green;빛으로 되돌리고 싶었다^reset;. 뭘 시도하든 뭘 말하든, ^red;아무것도 통하지 않는 듯했다^reset;. 그
+### 'Execration' -> 0 hits
+### '엑세크레이션' -> 19 hits
+       5  /codex/mwhaddon_codex_boss/mwhaddon_codex_receipt_execration.codex.patch
+       3  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_side/story_side_list.config.patch
+       2  /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_6.codex.patch
+       2  /interface/scripted/mwhaddon_challenge/bossChallenge/execration/config.config.patch
+       1  /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_3.codex.patch
+       1  /interface/scripted/mwhaddon_challenge/nightmare/execration/config.config.patch
+       1  /items/generic/arcana_bossdrops/mwhaddon_misc_bleakAssembler.item.patch
+       1  /objects/arcana/horizon/mwhaddon_horzion_breakable_execration/mwhaddon_horzion_breakable_execration.object.patch
+       1  /quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_4.questtemplate.patch
+       1  /quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch
+       1  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch
+      e.g. /codex/mwhaddon_codex_boss/mwhaddon_codex_receipt_execration.codex.patch /contentPages/0: ^yellow;엑세크레이션, 지평선의 전투 기계^reset; |  | 디자이너 : Minewithhim (MWH) | 프로그래머 : Minewithhim (MWH) | 텍스처 디자이너 : kumochan, Rusteel |  | 음악 :
+      e.g. /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_3.codex.patch /contentPages/2: W04D06에 예정된 정기 보고를 잠시 중단하겠습니다. 그날 저는 공장을 방문할 예정인데, 프로젝트 엑세크레이션이 주로 진행되는 곳입니다.
+      e.g. /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_6.codex.patch /contentPages/1: 엑수시아의 고도화된 AI 금지에도 불구하고, 우리가 원하는 것의 핵심은 오리온의 기술이 아니라 엑수시아 기술이라는 건 다들 안다. 오리온 기술에 기반해 엑세크레이션에서 이룬 모든 것이 우리의 기대에 못 미쳤다는 게 
+      e.g. /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_side/story_side_list.config.patch /list/horizon/data/context/2/text: 이어서 팔케 장군은 툰드라 행성에 숨겨진 또 다른 호라이즌 시설을 발견했다며 조사를 맡긴다. 조사 도중, 이 기지가 실은 고대인 유적 위에 자리한 발굴 현장임을 알아낸다. 호라이즌의 목적은 이른바 '프로젝트 엑세크레
+      e.g. /interface/scripted/mwhaddon_challenge/bossChallenge/execration/config.config.patch /gui/missionTitleDescription/value: 적수 소환: 엑세크레이션
+      e.g. /interface/scripted/mwhaddon_challenge/nightmare/execration/config.config.patch /gui/missionDescription/value: 상상해 보세요: 호라이즌 함대가 엑세크레이션의 하이마인드를 어떻게든 재생산해 이 우주에 가장 영향력 있는 파괴를 되돌려놓은 겁니다. 활성화되면 엑소우시안 군대 전체가 1분 만에 전멸할 것입니다. 어떻게 하시겠습니까?
+      e.g. /items/generic/arcana_bossdrops/mwhaddon_misc_bleakAssembler.item.patch /description: 엑세크레이션에서 나온 모듈로, 복잡한 명령을 동시에 다수 실행할 수 있습니다.
+      e.g. /objects/arcana/horizon/mwhaddon_horzion_breakable_execration/mwhaddon_horzion_breakable_execration.object.patch /shortdescription: ^#e160da;엑세크레이션^reset;
+### '엑스크레이션' -> 0 hits
+### '이비' -> 67 hits
+       8  /objects/legacy kinky content/sxbold_avianpole/sxbold_avianpole.object.patch
+       7  /objects/legacy kinky content/sxbold_humanpole/sxbold_humanpole.object.patch
+       7  /objects/legacy kinky content/sxbold_novakidpole/sxbold_novakidpole.object.patch
+       2  /codex/alta/ct_alta_paper.codex.patch
+       2  /dialog/sexbound/en/positions/fuchsiaCowgirl.config.patch
+       2  /items/WEAPONS/RANGED/REVOLVER/gic_colt1851navy/gic_colt1851navy.activeitem.patch
+       2  /items/generic/food/tier9001/chipsandgravy.consumable.patch
+       1  /codex/aegi/excaliburshieldblade.codex.patch
+       1  /codex/aegi/mehrosavanpamphlet.codex.patch
+       1  /codex/other/eblovelywhipscodex.codex.patch
+       1  /dialog/tentacles/novakid-enthusiastic.config.patch
+       1  /items/WEAPONS/GICEXP/esc_aer9/esc_aer9.activeitem.patch
+       1  /items/WEAPONS/RANGED/REVOLVER/gic_colt1851navy/gic_colt1851navy_onehanded.activeitem.patch
+       1  /items/WEAPONS/RANGED/YOUKAI/STAFF/gico_staff_luck/gico_staff_luck.activeitem.patch
+       1  /items/active/weapons/melee/spear/shovelspear.activeitem.patch
+       1  /items/active/weapons/melee/unique/excalibur/broken/thea-excaliburbroken.activeitem.patch
+       1  /items/active/weapons/melee/unique/excalibur/thea-excalibur.activeitem.patch
+       1  /items/active/weapons/ranged/pistol/woofiepistolnames.config.patch
+       1  /items/aichips/nonEKIaichip.item.patch
+       1  /items/generic/food/sewerfrieswithbacon.consumable.patch
+       1  /items/generic/food/tier9001/friedchickenmeal.consumable.patch
+       1  /items/generic/food/tier9001/poutine.consumable.patch
+       1  /monsters/critter/mcm/fuibis/fuibiscritter.monstertype.patch
+       1  /npcs/friendlycultistblack.npctype.patch
+       1  /npcs/syndicate/syndicate_raider_heavy.npctype.patch
+       1  /npcs/syndicate/syndicate_raider_rocket.npctype.patch
+       1  /objects/CCR/terrariums/birds/savybird/birdcage.object.patch
+       1  /objects/critters/crittercages/ibistank/ibistank.object.patch
+       1  /objects/human/bunkerconsole3/bunkerconsole3.object.patch
+       1  /objects/izzygreek/igg_fancycurtain.object.patch
+      e.g. /codex/aegi/excaliburshieldblade.codex.patch /contentPages/0: ^orange;엑스칼리버급 쉴드블레이드^reset; |  | 엑스칼리버급 실드블레이드는 실드블레이드 - 일명 에이비스 - 집단으로, 지금은 사라진 에이비리 아머먼츠가 설계·제작했다. 최고급 알로스틸로 수제작해 가볍지만 극도
+      e.g. /codex/aegi/mehrosavanpamphlet.codex.patch /contentPages/0: ^orange;메로스 아반의 크레온 시 아트하우스로의 영광스러운 귀환^reset; |  | 곧 크레온 시 아트하우스로 돌아옵니다: 메로스 아반의 놀라운 키네틱 조각 전체 전시회. 전시에는 '에이비리의 바람', '욕정', '
+      e.g. /codex/alta/ct_alta_paper.codex.patch /longdescription: 아이러니하게도, 이 설명서는 종이 한 장에 인쇄되어 있으며, 그것을 종이비행기로 접는 방법이 담겨 있습니다!
+      e.g. /codex/other/eblovelywhipscodex.codex.patch /contentPages/0: 안녕하세요. 저는, Engorged_Banana, 들려드릴 이야기가 있습니다. |  | 제목은 '이비와 사랑스러운 채찍의 이야기'입니다. |  | 어느 날, 이비는 전갈과 격렬한 섹스를 하고 싶어 했습니다. 그러나 그것은 이루어지
+      e.g. /dialog/sexbound/en/positions/fuchsiaCowgirl.config.patch /1/default/default/male/default/0: 헤헤~! 푸시아 돌아왔어 베이비!
+      e.g. /dialog/tentacles/novakid-enthusiastic.config.patch /5/text: 그래 베이비! 안장 쓰림 좀 줘봐! ^red;«^white;
+      e.g. /items/WEAPONS/GICEXP/esc_aer9/esc_aer9.activeitem.patch /description: ''낙진을 헤치고 기어 나와라, 베이비!'' | 원래는 3차 대전 당시 미국의 군용 무기 개발 사업이었지만, 전면 핵전쟁이 닥치면서 곧 역사의 잿더미 속에 묻혔다. 그러다 원정 시대의 SDF가 오래 묻혀 있던 기술 문서
+      e.g. /items/WEAPONS/RANGED/REVOLVER/gic_colt1851navy/gic_colt1851navy.activeitem.patch /description: 콜트 리볼빙 벨트 권총 또는 ''네이비 권총''은 6연 .36 구경 캡앤볼 리볼버입니다. 새뮤얼 콜트가 1847-1850년 설계해 원래 흑색화약과 탄환만 장전했고, 미국 남북전쟁 중 종이 탄피 장전으로 개조됐습니다.
+### 'EB' -> 33 hits
+       3  /codex/other/eblovelywhipscodex.codex.patch
+       2  /objects/saturn/saturnclutter/saturnbunting/Rosy Pink Yellow/saturnbunting5x2.object.patch
+       2  /objects/saturn/saturnclutter/saturnbunting/Rosy Pink Yellow/saturnbunting5x3.object.patch
+       2  /objects/saturn/saturnclutter/saturnbunting/Rosy Pink Yellow/saturnbunting8x12.object.patch
+       2  /objects/saturn/saturnclutter/saturnbunting/Rosy Pink Yellow/saturnbunting8x12B.object.patch
+       2  /objects/saturn/saturnclutter/saturnbunting/Waspmim Yellow Red/saturnbunting5x2.object.patch
+       2  /objects/saturn/saturnclutter/saturnbunting/Waspmim Yellow Red/saturnbunting5x3.object.patch
+       2  /objects/saturn/saturnclutter/saturnbunting/Waspmim Yellow Red/saturnbunting8x12.object.patch
+       2  /objects/saturn/saturnclutter/saturnbunting/Waspmim Yellow Red/saturnbunting8x12B.object.patch
+       2  /objects/saturn/saturnclutter/saturnbunting/saturnbunting5x2.object.patch
+       2  /objects/saturn/saturnclutter/saturnbunting/saturnbunting5x3.object.patch
+       2  /objects/saturn/saturnclutter/saturnbunting/saturnbunting8x12.object.patch
+       2  /objects/saturn/saturnclutter/saturnbunting/saturnbunting8x12B.object.patch
+       1  /codex/documents/ffguide4.codex.patch
+       1  /items/CHARACTER_STORIES/WARTORN/gic_wartorn_dolphinhelicopter_tutorial.item.patch
+       1  /items/CHARACTER_STORIES/WARTORN/gic_wartorn_sikahelicopter_tutorial.item.patch
+       1  /items/WEAPONS/GICEXP/gicexp_uscm14/gicexp_uscm14ebr.activeitem.patch
+       1  /items/WEAPONS/SPECIAL/bo_m1garand/bo_m1garand.activeitem.patch
+       1  /items/active/weapons/staff/anatheo/anatheo.activeitem.patch
+      e.g. /codex/documents/ffguide4.codex.patch /longContentPages/0: 고객님을 [검열삭제됨] 의료 스테이션 기술 제3판 팸플릿에 초대합니다. 여기에는 저희 의료진이 고객님께 부여할 수 있는 모든 ^orange;강화^reset;가 자세히 나와 있습니다. | 저희 직원이 확인해 드리겠지만, 
+      e.g. /codex/other/eblovelywhipscodex.codex.patch /title: EB의 사랑스러운 채찍 안내서
+      e.g. /items/CHARACTER_STORIES/WARTORN/gic_wartorn_dolphinhelicopter_tutorial.item.patch /description: ^orange;조종:^reset; [W/S] 추력 | [A/D] 기울기 | [SPACEBAR] 눌러 안정화 | [RMB] 엔진 켬/끔 | [LMB] 로켓 | [F] 유도 미사일 |  | ^orange;사수:^reset; [
+      e.g. /items/CHARACTER_STORIES/WARTORN/gic_wartorn_sikahelicopter_tutorial.item.patch /description: ^orange;조종:^reset; [W/S] 추력 | [A/D] 기울기 | [SPACEBAR] 눌러 안정화 | [RMB] 엔진 켬/끔 | [LMB] 로켓 | [F] 유도 미사일 |  | ^orange;사수:^reset; [
+      e.g. /items/WEAPONS/GICEXP/gicexp_uscm14/gicexp_uscm14ebr.activeitem.patch /shortdescription: 새지테리어스 인터갤럭틱 M14EBR
+      e.g. /items/WEAPONS/SPECIAL/bo_m1garand/bo_m1garand.activeitem.patch /shortdescription: [블랙 옵스]M1 개런드 EBR
+      e.g. /items/active/weapons/staff/anatheo/anatheo.activeitem.patch /shortdescription: ^#9E64D8;안^#B56EB5;테^#CD7992;오^#E5846F;^#FD8F4D;^reset;
+      e.g. /objects/saturn/saturnclutter/saturnbunting/Rosy Pink Yellow/saturnbunting5x2.object.patch /description: 로지 메이플나방 색상을 본뜬 장식용 ^#D8608C;분홍^reset;·^#EBCA43;노랑^reset; 번팅.
+### '골동품과 단지' -> 2 hits
+       1  /codex/alta/ct_antorash.codex.patch
+       1  /objects/arcana/vendor/gushenAntique/arcana_vendor_gushenAntique.object.patch
+      e.g. /codex/alta/ct_antorash.codex.patch /title: 골동품과 단지들
+      e.g. /objects/arcana/vendor/gushenAntique/arcana_vendor_gushenAntique.object.patch /interactData/paneLayoutOverride/windowtitle/subtitle: 골동품과 단지들
+### '네가 정말 자랑스럽고' -> 1 hits
+       1  /codex/alta/ct_elin.codex.patch
+      e.g. /codex/alta/ct_elin.codex.patch /contentPages/1: 우리 꼬마야, 네가 정말 자랑스럽고, 너도 그러길 바라. |  | 사랑을 담아, ^#76c7e4;엘린^reset;. «
+### '문명화자' -> 1 hits
+       1  /codex/viera/vieralore18.codex.patch
+      e.g. /codex/viera/vieralore18.codex.patch /contentPages/0: ^yellow;혈월의 시련^reset; |  | 그러나 운명은 시련 없이 오지 않는다. 산 너머의 한 인간 왕국이 마법 약초와 고대의 힘에 대한 속삭임에 이끌려 정글을 정복하려 했다. 그들은 스스로를 문명화자라 불렀지만, 
+### '지닌 자' -> 5 hits
+       1  /codex/viera/vieralore27.codex.patch
+       1  /dialog/lucario.config.patch
+       1  /items/WEAPONS/MELEE/HAMMER/gic_lamentofalexander_mace/gic_lamentofalexander_mace.activeitem.patch
+       1  /items/WEAPONS/MELEE/KATANA/gic_samuraighostgirl_katana/gic_samuraighostgirl_katana.activeitem.patch
+       1  /items/WEAPONS/MELEE/SWORD/gic_judgment_longsword/gic_judgment_longsword.activeitem.patch
+      e.g. /codex/viera/vieralore27.codex.patch /contentPages/0: ^yellow;속삭여진 이름^reset; |  | 가장 오래된 바람에 실려 다니는, 오직 그녀가 가치 있다 여기는 자들만이 말하는 이름이 있다. ^green;'에이트네'^reset; - 모든 삶이 솟아나는 씨앗. 이 이름을
+      e.g. /dialog/lucario.config.patch /reattack/default/default/1: 그토록 부정적인 오라를 지닌 자는 돌아올 수 없다!
+      e.g. /items/WEAPONS/MELEE/HAMMER/gic_lamentofalexander_mace/gic_lamentofalexander_mace.activeitem.patch /description: ''동쪽은 공물로 달래고 서쪽은 우리의 신앙으로 격파했다.'' |  | ^orange;마지막 타격이 4초간 지침 부여(타격 저항과 전사 피해 -25%). | ^yellow;패링 [ALT-FIRE]: 0.6초 패링 창 | 안정성
+      e.g. /items/WEAPONS/MELEE/KATANA/gic_samuraighostgirl_katana/gic_samuraighostgirl_katana.activeitem.patch /description: ''칼날이 너무 새 거야. 다시 벼려졌어. 그 반영 속에 다른 무언가의 희미한 빛이 보여. 실체가 있는 무언가.'' | ^orange;공격 시 지닌 자 근처에 유령 베기를 만들어 연계 공격마다 더 많은 피해 | 마지막 
+      e.g. /items/WEAPONS/MELEE/SWORD/gic_judgment_longsword/gic_judgment_longsword.activeitem.patch /description: ''그들은 여왕의 개나 다름없었어, 아첨하며. 나도 영주를 섬겨봤지만 이런 건 아니었어.'' | ^orange;2번째 타격이 근접 공격을 튕겨냄 | 마지막 타격이 지닌 자 위에 작은 심판의 검을 떨어뜨려 적에게 200 
+### '마지막 다리' -> 1 hits
+       1  /codex/voidsstory/voidsstory1.codex.patch
+      e.g. /codex/voidsstory/voidsstory1.codex.patch /contentPages/0: 이 기록에서는 내 진짜 이름을 밝히지 않겠지만, 이걸 읽는 누구든 날 '보이드'라고 부르면 된다. 그리고 지구에 비극이 닥쳤다. 지구의 파괴와 함께, 인류는 마지막 다리 하나로 버티고 있고 보호국은 더 이상 존재하지
+### '현금비' -> 1 hits
+       1  /codex/woofie/woofie_rottenbloodline.codex.patch
+      e.g. /codex/woofie/woofie_rottenbloodline.codex.patch /contentPages/2: 그 순간 총을 들고 있던 건 나뿐이었고, 그는 자신의 하찮은 그림자 너머의 삶과 현금비를 맞으며 사는 내 삶을 맞바꾸기로 했다.
+### '코스믹' -> 116 hits
+       3  /items/augments/back/environment/cosmic.augment.patch
+       3  /items/augments/back/environment/cosmic2.augment.patch
+       3  /items/augments/back/environment/cosmic3.augment.patch
+       3  /items/augments/back/resistances/cosmicresistance.augment.patch
+       3  /items/augments/pet/cosmicauracollar.augment.patch
+       3  /items/augments/pet/cosmicauracollar2.augment.patch
+       3  /items/augments/pet/cosmicauracollar3.augment.patch
+       2  /items/active/weapons/melee/broadsword/xithricitebroadsword.activeitem.patch
+       2  /items/active/weapons/melee/flail/flailxithricite.activeitem.patch
+       2  /items/active/weapons/melee/hammer/xithricitehammer.activeitem.patch
+       2  /items/active/weapons/melee/longsword/xithricitelongsword.activeitem.patch
+       2  /items/active/weapons/other/magnorbs/magnorbxithricite/magnorbxithricite.activeitem.patch
+       2  /items/generic/drinks/sodas/fuaetherade4.consumable.patch
+       2  /items/generic/food/tier2/om_cosmiccider.consumable.patch
+       2  /items/throwables/beebriefcase/fu_beebriefcasecrucible.activeitem.patch
+       2  /objects/vanity/aether/aetherstarfurniture/fuaetherstarvending/fuaetherstarvending.object.patch
+       2  /radiomessages/exploration.radiomessages.patch
+       2  /species/slimeperson.species.patch
+       1  /codex/glitch/atprk_glitchdevouthiddencodex.codex.patch
+       1  /drinks/ww_cultivatorssacrifice.consumable.patch
+       1  /interface/kukagps/weather.config.patch
+       1  /items/active/weapons/bow/xithricitestynger/xithricitestynger.activeitem.patch
+       1  /items/active/weapons/melee/axe/xithriciteaxe.activeitem.patch
+       1  /items/active/weapons/melee/broadsword/ancientbroadsword.activeitem.patch
+       1  /items/active/weapons/melee/dagger/xithricitedagger.activeitem.patch
+       1  /items/active/weapons/melee/greataxe/xithricitegreataxe.activeitem.patch
+       1  /items/active/weapons/melee/rapier/precursorrapier.activeitem.patch
+       1  /items/active/weapons/melee/rapier/xithriciterapier.activeitem.patch
+       1  /items/active/weapons/melee/scythe/xithricitescythe.activeitem.patch
+       1  /items/active/weapons/melee/spear/ancientspear.activeitem.patch
+      e.g. /codex/glitch/atprk_glitchdevouthiddencodex.codex.patch /contentPages/0: 우리 코스믹 로드의 동료 종들이여, |  | 많은 이들이 신성한 크라코스 유물의 본질과 그것을 올바르게 다루는 방법을 이해하는 데 어려움을 겪고 있다는 사실이 우리 귀에 들어왔다. 이것이 여러분에게 익숙하지 않은 것임을 우
+      e.g. /drinks/ww_cultivatorssacrifice.consumable.patch /description: 거대한 돌문 뒤에 봉인된 듯한 맛에, 코스믹한 분노가 살짝 감돈다. ScarlettFrost 제작.
+      e.g. /interface/kukagps/weather.config.patch /cosmicblast: 코스믹 블래스트
+      e.g. /items/active/weapons/bow/xithricitestynger/xithricitestynger.activeitem.patch /shortdescription: 코스믹 스팅거
+      e.g. /items/active/weapons/melee/axe/xithriciteaxe.activeitem.patch /shortdescription: 코스믹 액스
+      e.g. /items/active/weapons/melee/broadsword/ancientbroadsword.activeitem.patch /altAbility/name: 코스믹 버스트
+      e.g. /items/active/weapons/melee/broadsword/xithricitebroadsword.activeitem.patch /shortdescription: 코스믹 브로드소드
+      e.g. /items/active/weapons/melee/dagger/xithricitedagger.activeitem.patch /shortdescription: 코스믹 나이프
+### '우주의 군주' -> 5 hits
+       2  /codex/glitch/atprk_glitchservantcodex.codex.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodexalpha.codex.patch
+       1  /codex/atprk_krakoth/atprk_krakothcodexupsilon.codex.patch
+       1  /codex/other/atprk_shapelesscodex.codex.patch
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexalpha.codex.patch /description: 우주의 군주들 그 자체에 관한 개요다.
+      e.g. /codex/atprk_krakoth/atprk_krakothcodexupsilon.codex.patch /contentPages/2: 하지만 모든 씨앗이 한꺼번에 자라나는 것은 아니다: 씨앗 하나가 행성 전체를, 그 위의 모든 것과 모든 존재와 함께 통째로 집어삼키는 데는 시간이 걸린다. 그리고 리샨께서는 언제나 당신의 씨앗들에게 무슨 일이 일어나
+      e.g. /codex/glitch/atprk_glitchservantcodex.codex.patch /title: 우주의 군주들
+      e.g. /codex/other/atprk_shapelesscodex.codex.patch /contentPages/0: 수 세기 동안 우리 민족은 거짓 우주의 군주들의 노예였다. 다시 한번 우리 운명의 주인이 되는 것보다 더 바란 일은 없었다. |  | 자유를 찾아 우리는 달로 향했고, 달의 수정이 지닌 잠재력을 온전히 해방하려 했다. |  | 그
+### '요약된 기록' -> 6 hits
+       1  /codex/aegi/aegihistory1.codex.patch
+       1  /codex/aegi/aegihistory2.codex.patch
+       1  /codex/aegi/aegihistory3.codex.patch
+       1  /codex/aegi/aegihistory4.codex.patch
+       1  /codex/aegi/aegihistory5.codex.patch
+       1  /codex/aegi/aegihistory6.codex.patch
+      e.g. /codex/aegi/aegihistory1.codex.patch /description: 에지니아 민족의 요약된 기록 역사.
+      e.g. /codex/aegi/aegihistory2.codex.patch /description: 에지니아 민족의 요약된 기록 역사.
+      e.g. /codex/aegi/aegihistory3.codex.patch /description: 에지니아 민족의 요약된 기록 역사.
+      e.g. /codex/aegi/aegihistory4.codex.patch /description: 에지니아 민족의 요약된 기록 역사.
+      e.g. /codex/aegi/aegihistory5.codex.patch /description: 에지니아 민족의 요약된 기록 역사.
+      e.g. /codex/aegi/aegihistory6.codex.patch /description: 에지니아 민족의 요약된 기록 역사.
+### '반흔한' -> 1 hits
+       1  /codex/alta/ct_alta_food.codex.patch
+      e.g. /codex/alta/ct_alta_food.codex.patch /contentPages/1: 일반적인 알타 요리법은 비교적 단순하지만, 이곳의 모든 것처럼 그중 다수는 알타와 그 문화의 반영입니다. |  | 이 전자책이 소개하는 요리법은 아이스크림과 알타에게 인기 있는 음료인 차 같은 반흔한 알타 디저트입니다. |  | 

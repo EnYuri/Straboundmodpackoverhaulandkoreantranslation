@@ -1,0 +1,12 @@
+asset	field	en	ko	src
+/items/armors/backitems/om_harpywaist/om_harpywaist.back	description	"Small wings that sprout from your lower-back.
+Man, these are kinda uncomfortable!"	"허리 아래에서 돋아나는 작은 날개.
+이거, 좀 불편한데!"	
+/items/armors/backitems/om_harpywaist/om_harpywaist.back	shortdescription	Waist Wings	허리 날개	
+/items/generic/dyes/om_harpyblack.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/om_harpyblack.augment	shortdescription	Harpy Black Dye	하피 검정 염료	
+/items/generic/dyes/om_harpywhite.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/om_harpywhite.augment	shortdescription	Harpy White Dye	하피 흰색 염료	
+/quests/story/om_harpy/om_harpyIntro.questtemplate	title	The Miniknog Research Facility	미니크녹 연구 시설	reuse
+/quests/story/om_harpy/om_harpyIntro.questtemplate	text	Survive and escape from this mysterious Miniknog facility.	이 정체불명의 미니크녹 시설에서 살아남아 탈출하라.	reuse
+/quests/story/om_harpy/om_harpyIntro.questtemplate	completionText	You successfully escaped the Miniknog facility!	미니크녹 시설에서 성공적으로 탈출했다!	reuse

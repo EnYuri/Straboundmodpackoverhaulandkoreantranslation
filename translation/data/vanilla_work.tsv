@@ -1,0 +1,492 @@
+asset	field	en	ko	src
+/items/active/unsorted/arrester/arrester.activeitem	description	Used to arrest and incapacitate authorized bounty targets.		
+/items/active/unsorted/arrester/arrester.activeitem	shortdescription	Long Arm	롱 암	reuse
+/items/active/unsorted/broom/broom.activeitem	description	The most useful of sweeping tools.	청소 도구 중 가장 쓸모 있는 것.	reuse
+/items/active/unsorted/broom/broom.activeitem	shortdescription	Broom		
+/items/active/unsorted/handcuffs/handcuffs.activeitem	description	There's a safety release button on the side... are these even real?		
+/items/active/unsorted/handcuffs/handcuffs.activeitem	shortdescription	Handcuffs		
+/items/active/unsorted/stunmine/stunmine.activeitem	description	This remotely-triggered inertial inhibitor keep subjects briefly locked in place.		
+/items/active/unsorted/stunmine/stunmine.activeitem	shortdescription	Stun Mine		
+/items/active/weapons/arena/bruisersword/bruisersword.activeitem	description	This thing is massive!		
+/items/active/weapons/arena/bruisersword/bruisersword.activeitem	shortdescription	Bruiser's Broadsword		
+/items/active/weapons/arena/flamethrowerblade/flamethrowerblade.activeitem	description	It's a flamethrower built to look like a sword.		
+/items/active/weapons/arena/flamethrowerblade/flamethrowerblade.activeitem	shortdescription	Flamethrower Blade		
+/items/active/weapons/melee/axe/commonaxe.activeitem	description	Designed for effective chopping.		
+/items/active/weapons/melee/axe/commonaxe.activeitem	shortdescription	Common Axe	일반 도끼	reuse
+/items/active/weapons/melee/axe/rareaxe.activeitem	description	Designed for effective chopping.		
+/items/active/weapons/melee/axe/rareaxe.activeitem	shortdescription	Rare Axe		
+/items/active/weapons/melee/axe/uncommonaxe.activeitem	description	Designed for effective chopping.		
+/items/active/weapons/melee/axe/uncommonaxe.activeitem	shortdescription	Uncommon Axe	고급 도끼	reuse
+/items/active/weapons/melee/broadsword/commonbroadsword.activeitem	description	A powerful two-handed sword.	강력한 양손검.	reuse
+/items/active/weapons/melee/broadsword/commonbroadsword.activeitem	shortdescription	Common Broadsword	일반 브로드소드	reuse
+/items/active/weapons/melee/broadsword/legendblade.activeitem	description	This legend sword came out of a rock.	이 전설의 검은 바위에서 뽑혀 나왔다.	reuse
+/items/active/weapons/melee/broadsword/legendblade.activeitem	shortdescription	Legend Sword		
+/items/active/weapons/melee/broadsword/rarebroadsword.activeitem	description	A powerful two-handed sword.	강력한 양손검.	reuse
+/items/active/weapons/melee/broadsword/rarebroadsword.activeitem	shortdescription	Rare Broadsword	레어 브로드소드	reuse
+/items/active/weapons/melee/broadsword/stoneblade.activeitem	description	This stone sword cames out of a rock.		
+/items/active/weapons/melee/broadsword/stoneblade.activeitem	shortdescription	Stone Sword		
+/items/active/weapons/melee/broadsword/uncommonbroadsword.activeitem	description	A powerful two-handed sword.	강력한 양손검.	reuse
+/items/active/weapons/melee/broadsword/uncommonbroadsword.activeitem	shortdescription	Uncommon Broadsword	고급 브로드소드	reuse
+/items/active/weapons/melee/dagger/commondagger.activeitem	description	Razor sharp and lightning quick.	면도날처럼 날카롭고 번개처럼 빨라.	reuse
+/items/active/weapons/melee/dagger/commondagger.activeitem	shortdescription	Common Dagger	일반 단검	reuse
+/items/active/weapons/melee/dagger/raredagger.activeitem	description	Razor sharp and lightning quick.	면도날처럼 날카롭고 번개처럼 빨라.	reuse
+/items/active/weapons/melee/dagger/raredagger.activeitem	shortdescription	Rare Dagger		
+/items/active/weapons/melee/dagger/uncommondagger.activeitem	description	Razor sharp and lightning quick.	면도날처럼 날카롭고 번개처럼 빨라.	reuse
+/items/active/weapons/melee/dagger/uncommondagger.activeitem	shortdescription	Uncommon Dagger	고급 단검	reuse
+/items/active/weapons/melee/hammer/commonhammer.activeitem	description	Slow, heavy and effective.		
+/items/active/weapons/melee/hammer/commonhammer.activeitem	shortdescription	Common Hammer	일반 해머	reuse
+/items/active/weapons/melee/hammer/foldingchair.activeitem	description	Get rowdy! Go crazy! Injure yourself and others!	난동을 부려! 미쳐 날뛰어! 너도 남도 다치게 해!	reuse
+/items/active/weapons/melee/hammer/foldingchair.activeitem	shortdescription	Folding Chair		
+/items/active/weapons/melee/hammer/rarehammer.activeitem	description	Slow, heavy and effective.		
+/items/active/weapons/melee/hammer/rarehammer.activeitem	shortdescription	Rare Hammer		
+/items/active/weapons/melee/hammer/uncommonhammer.activeitem	description	Slow, heavy and effective.		
+/items/active/weapons/melee/hammer/uncommonhammer.activeitem	shortdescription	Uncommon Hammer	고급 망치	reuse
+/items/active/weapons/melee/shortsword/commonshortsword.activeitem	description	A sturdy one-handed sword.		
+/items/active/weapons/melee/shortsword/commonshortsword.activeitem	shortdescription	Common Shortsword	일반 소검	reuse
+/items/active/weapons/melee/shortsword/rareshortsword.activeitem	description	A sturdy one-handed sword.		
+/items/active/weapons/melee/shortsword/rareshortsword.activeitem	shortdescription	Rare Shortsword		
+/items/active/weapons/melee/shortsword/uncommonshortsword.activeitem	description	A sturdy one-handed sword.		
+/items/active/weapons/melee/shortsword/uncommonshortsword.activeitem	shortdescription	Uncommon Shortsword	고급 소검	reuse
+/items/active/weapons/melee/spear/commonspear.activeitem	description	This spear is perfect for enemies just out of reach.	손이 닿을락 말락 한 적을 상대하기에 딱 좋은 창.	reuse
+/items/active/weapons/melee/spear/commonspear.activeitem	shortdescription	Common Spear	일반 창	reuse
+/items/active/weapons/melee/spear/rarespear.activeitem	description	This spear is perfect for enemies just out of reach.	손이 닿을락 말락 한 적을 상대하기에 딱 좋은 창.	reuse
+/items/active/weapons/melee/spear/rarespear.activeitem	shortdescription	Rare Spear		
+/items/active/weapons/melee/spear/uncommonspear.activeitem	description	This spear is perfect for enemies just out of reach.	손이 닿을락 말락 한 적을 상대하기에 딱 좋은 창.	reuse
+/items/active/weapons/melee/spear/uncommonspear.activeitem	shortdescription	Uncommon Spear	고급 창	reuse
+/items/active/weapons/npc/npcavianbroadsword.activeitem	description	A powerful two-handed sword.	강력한 양손검.	reuse
+/items/active/weapons/npc/npcavianbroadsword.activeitem	shortdescription	NPC Macuahuitl		
+/items/active/weapons/npc/npcaxe.activeitem	description	Designed for effective chopping.		
+/items/active/weapons/npc/npcaxe.activeitem	shortdescription	NPC Axe		
+/items/active/weapons/npc/npcbow.activeitem	description	Harvests meat and other goods from monsters.	괴물로부터 고기와 다른 제품을 수확합니다.	reuse
+/items/active/weapons/npc/npcbow.activeitem	shortdescription	NPC Bow		
+/items/active/weapons/npc/npcbroadsword.activeitem	description	A powerful two-handed sword.	강력한 양손검.	reuse
+/items/active/weapons/npc/npcbroadsword.activeitem	shortdescription	NPC Broadsword		
+/items/active/weapons/npc/npcbruisersword.activeitem	description	This thing is massive!		
+/items/active/weapons/npc/npcbruisersword.activeitem	shortdescription	NPC Bruiser's Broadsword		
+/items/active/weapons/npc/npccultistbroadsword.activeitem	description	A powerful two-handed sword.	강력한 양손검.	reuse
+/items/active/weapons/npc/npccultistbroadsword.activeitem	shortdescription	NPC Cultist Broadsword	NPC 광신도 브로드소드	reuse
+/items/active/weapons/npc/npccultistshortsword.activeitem	description	A shortsword that belonged to a cultist.	어느 광신도가 소유했던 소검.	reuse
+/items/active/weapons/npc/npccultistshortsword.activeitem	shortdescription	NPC Cultist Shortsword	NPC 컬티스트 소검	reuse
+/items/active/weapons/npc/npcdagger.activeitem	description	Razor sharp and lightning quick.	면도날처럼 날카롭고 번개처럼 빨라.	reuse
+/items/active/weapons/npc/npcdagger.activeitem	shortdescription	NPC Dagger	NPC 단검	reuse
+/items/active/weapons/npc/npcdeadbeataxe.activeitem	description	A basic looking axe with a crooked handle.		
+/items/active/weapons/npc/npcdeadbeataxe.activeitem	shortdescription	NPC Deadbeat Axe		
+/items/active/weapons/npc/npceyesword.activeitem	description	Seeing from the sword's eye is disorienting at first.		
+/items/active/weapons/npc/npceyesword.activeitem	shortdescription	NPC Oculus Reaver		
+/items/active/weapons/npc/npcfeneroxspear.activeitem	description	This spear is perfect for enemies just out of reach.	손이 닿을락 말락 한 적을 상대하기에 딱 좋은 창.	reuse
+/items/active/weapons/npc/npcfeneroxspear.activeitem	shortdescription	NPC Fenerox Spear		
+/items/active/weapons/npc/npcfirebow.activeitem	description	Harvests meat and other goods from monsters.	괴물로부터 고기와 다른 제품을 수확합니다.	reuse
+/items/active/weapons/npc/npcfirebow.activeitem	shortdescription	NPC Fire Bow		
+/items/active/weapons/npc/npcgangbroadsword.activeitem	description	A powerful two-handed weapon.		
+/items/active/weapons/npc/npcgangbroadsword.activeitem	shortdescription	NPC Gang Weapon		
+/items/active/weapons/npc/npchammer.activeitem	description	Slow, heavy and effective.		
+/items/active/weapons/npc/npchammer.activeitem	shortdescription	NPC Hammer		
+/items/active/weapons/npc/npcshortsword.activeitem	description	A sturdy one-handed sword.		
+/items/active/weapons/npc/npcshortsword.activeitem	shortdescription	NPC Shortsword		
+/items/active/weapons/npc/npcspear.activeitem	description	This spear is perfect for enemies just out of reach.	손이 닿을락 말락 한 적을 상대하기에 딱 좋은 창.	reuse
+/items/active/weapons/npc/npcspear.activeitem	shortdescription	NPC Spear		
+/items/active/weapons/npc/npctungstenbow.activeitem	description	Harvests meat and other goods from monsters.	괴물로부터 고기와 다른 제품을 수확합니다.	reuse
+/items/active/weapons/npc/npctungstenbow.activeitem	shortdescription	NPC Tungsten Bow		
+/items/active/weapons/npc/npcwrench.activeitem	description	Delivers a hefty whack, perfect for beating disobedient machinery into order.		
+/items/active/weapons/npc/npcwrench.activeitem	shortdescription	NPC Wrench		
+/items/active/weapons/other/chargegun/chargegun.activeitem	description	Bad things are unleashed upon those who wait.		
+/items/active/weapons/other/chargegun/chargegun.activeitem	shortdescription	Charge Gun	차지 건	reuse
+/items/active/weapons/ranged/shotgun/uncommonshotgun.activeitem	description	Fires a spread that's lethal at close range.		
+/items/active/weapons/ranged/shotgun/uncommonshotgun.activeitem	shortdescription	Uncommon Shotgun		
+/items/active/weapons/ranged/unrand/neopistol/npcneopistol.activeitem	shortdescription	Neo Pistol		
+/items/active/weapons/ranged/unrand/neoshotgun/npcneoshotgun.activeitem	description	'...because in the end, Doom is all that counts.'	...끝에는 결국, 종말만이 남을 뿐이니까.	reuse
+/items/active/weapons/ranged/unrand/neoshotgun/npcneoshotgun.activeitem	shortdescription	Neo Magnum	네오 매그넘	reuse
+/items/active/weapons/ranged/unrand/neotommygun/npcneotommygun.activeitem	description	'...because in the end, Doom is all that counts.'	...끝에는 결국, 종말만이 남을 뿐이니까.	reuse
+/items/active/weapons/ranged/unrand/neotommygun/npcneotommygun.activeitem	shortdescription	Neo Magnum	네오 매그넘	reuse
+/items/active/weapons/ranged/unrand/neouzi/npcneouzi.activeitem	shortdescription	Neo Uzi		
+/items/active/weapons/staff/generated/rarestaff.activeitem	description	Sufficiently Advanced Technology.		
+/items/active/weapons/staff/generated/rarestaff.activeitem	shortdescription	Rare Staff		
+/items/active/weapons/wand/generated/rarewand.activeitem	description	Sufficiently Advanced Technology.		
+/items/active/weapons/wand/generated/rarewand.activeitem	shortdescription	Rare Wand		
+/items/armors/decorative/costumes/adventurerobot/adventurerobot.chest	description	Violium makes this prototype chestguard incredibly strong.-NOT USED-	바이올륨이 이 시제품 흉갑을 믿기 어려울 정도로 튼튼하게 만든다.-미사용-	reuse
+/items/armors/decorative/costumes/adventurerobot/adventurerobot.chest	shortdescription	Adventurer's Breastplate	모험가의 흉갑	reuse
+/items/armors/decorative/costumes/adventurerobot/adventurerobot.head	description	This prototype mask is inspired by the Glitch.-NOT USED-		
+/items/armors/decorative/costumes/adventurerobot/adventurerobot.head	shortdescription	Adventurer's Mask		
+/items/armors/decorative/costumes/adventurerobot/adventurerobot.legs	description	These prototype greaves are a little stiff, but really finish off the robotic look.-NOT USED-	이 시제품 그리브는 좀 뻣뻣하지만 로봇 같은 모습을 완성해준다.-미사용-	reuse
+/items/armors/decorative/costumes/adventurerobot/adventurerobot.legs	shortdescription	Adventurer's Greaves	모험가의 그리브	reuse
+/items/armors/decorative/hats/m1helmetmedic/m1helmet.head	description	G.I. standard issue military helmet. This one is designed for a medic.-NOT USED-		
+/items/armors/decorative/hats/m1helmetmedic/m1helmet.head	shortdescription	M1 Medic Helmet		
+/items/armors/other/t2helm1/t2helm1.head	description	You'll never be doomed with this handy space helmet.		
+/items/armors/other/t2helm1/t2helm1.head	shortdescription	Handy Space Helmet		
+/items/armors/other/t2helm2/t2helm2.head	description	Don't be caught dead without this neat welding helmet.		
+/items/armors/other/t2helm2/t2helm2.head	shortdescription	Neat Welder's Helmet		
+/items/generic/crafting/ancientbones.item	description	These large bones are old. Very old.		
+/items/generic/crafting/ancientbones.item	shortdescription	Ancient Bones		
+/items/generic/crafting/basicpelt.item	description	It's the pelt of an animal.		
+/items/generic/crafting/basicpelt.item	shortdescription	Pelt		
+/items/generic/crafting/bolt.item	description	A small metal bolt.		
+/items/generic/crafting/bolt.item	shortdescription	Bolt		
+/items/generic/crafting/bugshell.item	description	The old, withered shell of some long-dead insect.		
+/items/generic/crafting/bugshell.item	shortdescription	Bug Shell		
+/items/generic/crafting/cog.item	shortdescription	Copper Cog		
+/items/generic/crafting/dragonbone.item	description	A dragon bone, it's hot to the touch. The heat never dies.		
+/items/generic/crafting/dragonbone.item	shortdescription	Dragon Bone		
+/items/generic/crafting/endomorphicjelly.item	description	A strange jelly that seems to react to touch.		
+/items/generic/crafting/endomorphicjelly.item	shortdescription	Endomorphic Jelly		
+/items/generic/crafting/fillerup.item	description	Fills up your ship's fuel		
+/items/generic/crafting/fillerup.item	shortdescription	Fill 'Er Up		
+/items/generic/crafting/fossilore.item	description	It's a fossil. I wonder what kind it is.		
+/items/generic/crafting/fossilore.item	shortdescription	Unidentified Fossil		
+/items/generic/crafting/glasscoffeemug.item	description	A coffee mug made of glass.		
+/items/generic/crafting/glasscoffeemug.item	shortdescription	Glass Coffee Mug		
+/items/generic/crafting/hinge.item	description	It is an iron hinge.		
+/items/generic/crafting/hinge.item	shortdescription	Iron Hinge		
+/items/generic/crafting/holidayspirit.item	description	The essence of the holiday season, in its purest form!		
+/items/generic/crafting/holidayspirit.item	shortdescription	Holiday Spirit		
+/items/generic/crafting/icecrystal.item	description	A cold ice crystal, it never seems to thaw.		
+/items/generic/crafting/icecrystal.item	shortdescription	Ice Crystal		
+/items/generic/crafting/laserdiode.item	description	It's a laser diode.		
+/items/generic/crafting/laserdiode.item	shortdescription	Laser Diode		
+/items/generic/crafting/lightbulb3.item	shortdescription	Lightbulb		
+/items/generic/crafting/monsterplating.item	description	Plating from a monster.		
+/items/generic/crafting/monsterplating.item	shortdescription	Hardened Monster Plate		
+/items/generic/crafting/processor.item	description	A very powerful processor.		
+/items/generic/crafting/processor.item	shortdescription	Processor		
+/items/generic/crafting/robotarms.item	description	Strong robot arms, capable of lifting heavy objects.		
+/items/generic/crafting/robotarms.item	shortdescription	Robot Arms		
+/items/generic/crafting/robotchest.item	description	A robot chest, strong as steel.		
+/items/generic/crafting/robotchest.item	shortdescription	Robot Chest		
+/items/generic/crafting/robothead.item	description	A robot head, complete with living brain!		
+/items/generic/crafting/robothead.item	shortdescription	Robot Head		
+/items/generic/crafting/robotlegs.item	description	Robot legs, for mobility!		
+/items/generic/crafting/robotlegs.item	shortdescription	Robot Legs		
+/items/generic/crafting/screws.item	description	A handful of metal screws.		
+/items/generic/crafting/screws.item	shortdescription	Screws		
+/items/generic/crafting/seaweed.item	description	Some alien seaweed.		
+/items/generic/crafting/seaweed.item	shortdescription	Alien Seaweed		
+/items/generic/crafting/thread.item	description	Thread enhanced with living root.		
+/items/generic/crafting/thread.item	shortdescription	Thread		
+/items/generic/crafting/wildvines.item	description	A segment of some wild vines.		
+/items/generic/crafting/wildvines.item	shortdescription	Wild Vines		
+/items/generic/mechparts/arm/mecharmdespawn.item	description	Debug arm that just despawns the mech.		
+/items/generic/mechparts/arm/mecharmdespawn.item	shortdescription	Despawn Mech Arm		
+/items/generic/other/autodrive.item	description	An auto drive. In the future I can use this to power vehicles.		
+/items/generic/other/autodrive.item	shortdescription	Auto Drive		
+/items/generic/other/grassremedy.consumable	description	A concoction of natural elements, it provides healing properties.		
+/items/generic/other/grassremedy.consumable	shortdescription	Grass Remedy		
+/items/generic/other/mysteriousashes.item	description	This is all that remains of the trash bag's mysterious contents.		
+/items/generic/other/mysteriousashes.item	shortdescription	Mysterious Ashes		
+/items/generic/other/orangestim.consumable	description	A stimpack full of orange liquid, it will get you all fired up!	주황색 액체가 가득 담긴 스팀팩, 당신을 활활 불타오르게 만들어 줄 것이다!	reuse
+/items/generic/other/orangestim.consumable	shortdescription	Orange Stim Pack		
+/items/generic/other/sheetmusic.item	description	A piece of sheet music. I wonder what tune this is.		
+/items/generic/other/sheetmusic.item	shortdescription	Sheet Music		
+/items/generic/other/shroomremedy.consumable	description	A concoction that seems to provide natural regeneration.		
+/items/generic/other/shroomremedy.consumable	shortdescription	Shroom Remedy		
+/items/generic/other/synthesisstim.consumable	description	This stim is full of tree sap. It has beneficial healing properties.		
+/items/generic/other/synthesisstim.consumable	shortdescription	Synthesis Stim		
+/items/generic/other/valentinechocolates.consumable	description	A heart shaped box with themed chocolates inside!		
+/items/generic/other/valentinechocolates.consumable	shortdescription	Box of Chocolates		
+/items/generic/tradingcards/card01.item	description	A token of appreciation from a galactic baker.		
+/items/generic/tradingcards/card01.item	shortdescription	Trading Card #01		
+/items/generic/trophies/monsterclaw.item	description	An impressively large claw. I bet someone would pay good money for this.		
+/items/generic/trophies/monsterclaw.item	shortdescription	Monster Claw		
+/items/materials/blueneonsymbol.matitem	description	A tile with a strange blue glyph engraved in the centre.		
+/items/materials/blueneonsymbol.matitem	shortdescription	Blue Neon Block		
+/items/materials/candyblock.matitem	description	Sweet-smelling rock candy!		
+/items/materials/candyblock.matitem	shortdescription	Candy Block		
+/items/materials/copperladder.matitem	description	A copper ladder		
+/items/materials/copperladder.matitem	shortdescription	Copper Ladder	구리 사다리	reuse
+/items/materials/greenneonsymbol.matitem	description	A tile with a strange green glyph engraved in the centre.		
+/items/materials/greenneonsymbol.matitem	shortdescription	Green Neon Block		
+/items/materials/hellstone.matitem	description	Eww, a fleshy looking material!		
+/items/materials/hellstone.matitem	shortdescription	Flesh Pile		
+/items/materials/ledgebrick.matitem	description	Stone stepped bricks with a small ledge.		
+/items/materials/ledgebrick.matitem	shortdescription	Ledge Brick		
+/items/materials/matterblock.matitem	description	A matter block. A block that matters.		
+/items/materials/matterblock.matitem	shortdescription	Matter Block		
+/items/materials/neonblock.matitem	description	A coloured block filled with neon gas.		
+/items/materials/neonblock.matitem	shortdescription	Neon Block		
+/items/materials/platform2.matitem	description	A nondescript wood platform.	평범한 나무 플랫폼이다.	reuse
+/items/materials/platform2.matitem	shortdescription	Wood Platform	나무 플랫폼	reuse
+/items/materials/purplecrystal.matitem	description	Light seems to twist inside these purple crystals.		
+/items/materials/purplecrystal.matitem	shortdescription	Purple Crystal Block		
+/items/materials/spidersilkblock.matitem	description	Webs packed tight into a solid block.		
+/items/materials/spidersilkblock.matitem	shortdescription	Spider Silk		
+/items/materials/stomachblock.matitem	description	This fleshy mass looks like it was part of some creature's stomach.		
+/items/materials/stomachblock.matitem	shortdescription	Stomach Lining	위벽	reuse
+/items/throwables/glowbomb.thrownitem	shortdescription	The Night Light		
+/items/throwables/glowbomb.thrownitem	description	For when you need a quick light source.		
+/objects/arttrophies/derrickstatue/derrickstatue.object	description	This statue is dedicated to a creature named Derrick, who seemingly vanished from his owner.		
+/objects/arttrophies/derrickstatue/derrickstatue.object	shortdescription	Derrick Statue		
+/objects/arttrophies/flowerstatue/flowerstatue.object	description	A statue of a flower, important to the Floran.		
+/objects/arttrophies/flowerstatue/flowerstatue.object	shortdescription	Big Flower Statue		
+/objects/arttrophies/genericpainting1/genericpainting1.object	description	Ahh The Son of Man, you make me hungry!		
+/objects/arttrophies/genericpainting1/genericpainting1.object	shortdescription	Curious Painting	궁금증을 자아내는 그림	reuse
+/objects/arttrophies/paintingbirthofapevenus/paintingbirthofapevenus.object	description	A painting of a blonde woman standing in a clam.		
+/objects/arttrophies/paintingbirthofapevenus/paintingbirthofapevenus.object	shortdescription	Beautiful Ape Painting		
+/objects/arttrophies/paintingbirthofvenus/paintingbirthofvenus.object	description	A painting of a blonde woman standing in a clam.		
+/objects/arttrophies/paintingbirthofvenus/paintingbirthofvenus.object	shortdescription	Beautiful Painting		
+/objects/arttrophies/paintingcreationofpixel/paintingcreationofpixel.object	description	A grand painting of two pointing figures.		
+/objects/arttrophies/paintingcreationofpixel/paintingcreationofpixel.object	shortdescription	Grand Painting		
+/objects/arttrophies/paintingpearlearring/paintingpearlearring.object	description	A portrait of a woman with an earring.		
+/objects/arttrophies/paintingpearlearring/paintingpearlearring.object	shortdescription	Subtle Painting		
+/objects/arttrophies/paintingscream/paintingscream.object	description	A haunting painting of a screaming figure.		
+/objects/arttrophies/paintingscream/paintingscream.object	shortdescription	Screaming Painting		
+/objects/arttrophies/paintingshakespeare/paintingshakespeare.object	description	A painting of a famous, long-dead Earthling poet.		
+/objects/arttrophies/paintingshakespeare/paintingshakespeare.object	shortdescription	Famous Poet Portrait		
+/objects/arttrophies/paintingstarrynight/paintingstarrynight.object	description	A beautiful painting of the night sky.		
+/objects/arttrophies/paintingstarrynight/paintingstarrynight.object	shortdescription	Abstract Painting	추상화	reuse
+/objects/arttrophies/shroomstatue/shroomstatue.object	description	A statue of a mushroom.		
+/objects/arttrophies/shroomstatue/shroomstatue.object	shortdescription	Mushroom Statue		
+/objects/biome/flesh/fleshtable/fleshtable.object	description	A fleshy table. Perfect for carnivores.		
+/objects/biome/flesh/fleshtable/fleshtable.object	shortdescription	Flesh Table		
+/objects/biome/frozenfire/frozenfirechair/frozenfirechair.object	description	Quite a dangerous chair to sit on		
+/objects/biome/frozenfire/frozenfirechair/frozenfirechair.object	shortdescription	Frozen Fire Chair		
+/objects/biome/icesphere/icesphere1/icesphere1.object	description	An icy sphere. Smash it before it melts!		
+/objects/biome/icesphere/icesphere1/icesphere1.object	shortdescription	Ice Sphere	얼음 구체	reuse
+/objects/biome/icesphere/icesphere2/icesphere2.object	description	An icy sphere. Smash it before it melts!		
+/objects/biome/icesphere/icesphere2/icesphere2.object	shortdescription	Ice Sphere	얼음 구체	reuse
+/objects/biome/icesphere/icesphere3/icesphere3.object	description	An icy sphere. Smash it before it melts!		
+/objects/biome/icesphere/icesphere3/icesphere3.object	shortdescription	Ice Sphere	얼음 구체	reuse
+/objects/biome/icesphere/icesphere4/icesphere4.object	description	An icy sphere. Smash it before it melts!		
+/objects/biome/icesphere/icesphere4/icesphere4.object	shortdescription	Ice Sphere	얼음 구체	reuse
+/objects/biome/icesphere/icespherechest/icespherechest.object	description	A frozen, spherical chest. Perfect for treasure, or making ice cubes.		
+/objects/biome/icesphere/icespherechest/icespherechest.object	shortdescription	Ice Sphere Chest		
+/objects/bonus/devstatuegeorge/devstatuegeorge.object	description	A tribute to GeorgeV! Developer Ultimate! ALL HAIL GEORGE!!!	GeorgeV에게 바치는 헌정! 궁극의 개발자! 모두 조지를 찬양하라!!!	reuse
+/objects/bonus/devstatuegeorge/devstatuegeorge.object	shortdescription	GeorgeV Dev Statue		
+/objects/crafting/ironanvil/ironanvil.object	description	Can be used to produce armour and weapons.		
+/objects/crafting/ironanvil/ironanvil.object	shortdescription	^orange;Iron Anvil^white;		
+/objects/crafting/ironanvil/ironanvil.object	title	 Iron Anvil	철 모루	reuse
+/objects/crafting/ironanvil/ironanvil.object	subtitle	 ^#b9b5b2;Armour and weapons	^#b9b5b2;무기와 방어구들	reuse
+/objects/crafting/ironcraftingtable/ironcraftingtable.object	title	  Iron Crafting Table	철 제작대	reuse
+/objects/crafting/ironcraftingtable/ironcraftingtable.object	subtitle	  Heavy duty crafting!	헤비듀티 제작!	reuse
+/objects/crafting/ironcraftingtable/ironcraftingtable.object	description	One could build some very sophisticated equipment on this table.	이 테이블서 아주 정교 장비 만들 수 있어.	reuse
+/objects/crafting/ironcraftingtable/ironcraftingtable.object	shortdescription	^orange;Iron Crafting Table^white;		
+/objects/cultist/cultistaltar/cultistaltar.object	description	A cultist altar. Nefarious worship goes on here.	광신도 제단. 불길한 예배가 열려.	reuse
+/objects/cultist/cultistaltar/cultistaltar.object	shortdescription	Cultist Altar	광신도 제단	reuse
+/objects/generic/copperceilinglight/copperceilinglight.object	description	A hanging ceiling light made from copper.		
+/objects/generic/copperceilinglight/copperceilinglight.object	shortdescription	Copper Ceiling Light		
+/objects/generic/fossilpod/fossilpod.object	description	Let's find out what that fossil was! Place it down and smash it open!		
+/objects/generic/fossilpod/fossilpod.object	shortdescription	Fossil Pod		
+/objects/generic/randomfountain/randomfountain.object	description	A random fountain. The most unpredictable of fountains.		
+/objects/generic/randomfountain/randomfountain.object	shortdescription	Random Fountain		
+/objects/generic/recreationalvehicle/recreationalvehicle.object	description	Some rusty old vehicle, broken beyond repair.		
+/objects/generic/recreationalvehicle/recreationalvehicle.object	shortdescription	Recreational Vehicle		
+/objects/generic/redalert/redalert.object	description	A red flashing light... That's usually not good.		
+/objects/generic/redalert/redalert.object	shortdescription	Warning Light		
+/objects/hylotl/combinationprop/combinationprop.object	description	The classiest curtain.	매우 고전적인 커튼입니다.	reuse
+/objects/hylotl/combinationprop/combinationprop.object	shortdescription	Combination Lock Prop		
+/objects/outpost/floop/floop.object	description	Floop marker.		
+/objects/outpost/floop/floop.object	shortdescription	Floop		
+/objects/playerstation/backgrounds/stationbackground2bend.object	description	2 bend piece background		
+/objects/playerstation/backgrounds/stationbackground2bend.object	shortdescription	2 bend piece background		
+/objects/playerstation/backgrounds/stationbackgroundbendbot.object	description	Bend bottom piece background		
+/objects/playerstation/backgrounds/stationbackgroundbendbot.object	shortdescription	Bend bottom piece background		
+/objects/playerstation/backgrounds/stationbackgroundbendtop.object	description	Bend top piece background		
+/objects/playerstation/backgrounds/stationbackgroundbendtop.object	shortdescription	Bend top piece background		
+/objects/playerstation/backgrounds/stationbackgroundcore.object	description	Core piece background		
+/objects/playerstation/backgrounds/stationbackgroundcore.object	shortdescription	Core piece background		
+/objects/playerstation/backgrounds/stationbackgroundcross.object	description	Cross piece background		
+/objects/playerstation/backgrounds/stationbackgroundcross.object	shortdescription	Cross piece background		
+/objects/playerstation/backgrounds/stationbackgroundhugecorediagbot.object	description	Huge Core Diagonal Bottom Piece Background		
+/objects/playerstation/backgrounds/stationbackgroundhugecorediagbot.object	shortdescription	Huge Core Diagonal Bottom Piece Background		
+/objects/playerstation/backgrounds/stationbackgroundhugecorediagtop.object	description	Huge Core Diagonal Top Piece Background		
+/objects/playerstation/backgrounds/stationbackgroundhugecorediagtop.object	shortdescription	Huge Core Diagonal Top Piece Background		
+/objects/playerstation/backgrounds/stationbackgroundmechbay.object	description	Mech bay piece background		
+/objects/playerstation/backgrounds/stationbackgroundmechbay.object	shortdescription	Mech bay piece background		
+/objects/playerstation/backgrounds/stationbackgroundpassage.object	description	Passage piece background		
+/objects/playerstation/backgrounds/stationbackgroundpassage.object	shortdescription	Passage piece background		
+/objects/playerstation/backgrounds/stationbackgroundpassageglass.object	description	Glass passage piece background		
+/objects/playerstation/backgrounds/stationbackgroundpassageglass.object	shortdescription	Glass passage piece background		
+/objects/playerstation/backgrounds/stationbackgroundpassageglassleft.object	description	Glass passage left piece background		
+/objects/playerstation/backgrounds/stationbackgroundpassageglassleft.object	shortdescription	Glass passage left piece background		
+/objects/playerstation/backgrounds/stationbackgroundpassageglassright.object	description	Glass passage right piece background		
+/objects/playerstation/backgrounds/stationbackgroundpassageglassright.object	shortdescription	Glass passage right piece background		
+/objects/playerstation/backgrounds/stationbackgroundshaft.object	description	Shaft piece background		
+/objects/playerstation/backgrounds/stationbackgroundshaft.object	shortdescription	Shaft piece background		
+/objects/playerstation/backgrounds/stationbackgroundshaftglass.object	description	Glass shaft piece background		
+/objects/playerstation/backgrounds/stationbackgroundshaftglass.object	shortdescription	Glass shaft piece background		
+/objects/playerstation/backgrounds/stationbackgroundshaftglassbottom.object	description	Glass shaft bottom piece background		
+/objects/playerstation/backgrounds/stationbackgroundshaftglassbottom.object	shortdescription	Glass shaft bottom piece background		
+/objects/playerstation/backgrounds/stationbackgroundshaftglasstop.object	description	Glass shaft top piece background		
+/objects/playerstation/backgrounds/stationbackgroundshaftglasstop.object	shortdescription	Glass shaft top piece background		
+/objects/playerstation/backgrounds/stationbackgroundstart.object	description	Start piece background		
+/objects/playerstation/backgrounds/stationbackgroundstart.object	shortdescription	Start piece background		
+/objects/playerstation/backgrounds/stationbackgroundtjunchorizontalbottom.object	description	T Junction Horizontal Bottom Piece Background		
+/objects/playerstation/backgrounds/stationbackgroundtjunchorizontalbottom.object	shortdescription	T Junction Horizontal Bottom Piece Background		
+/objects/playerstation/backgrounds/stationbackgroundtjunchorizontaltop.object	description	T Junction Horizontal Top Piece Background		
+/objects/playerstation/backgrounds/stationbackgroundtjunchorizontaltop.object	shortdescription	T Junction Horizontal Top Piece Background		
+/objects/playerstation/backgrounds/stationbackgroundtjuncvertical.object	description	T Junction Vertical Piece Background		
+/objects/playerstation/backgrounds/stationbackgroundtjuncvertical.object	shortdescription	T Junction Vertical Piece Background		
+/objects/protectorate/00/00back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/00/00back.object	shortdescription	Protectorate Background		
+/objects/protectorate/00b/00bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/00b/00bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/01/01back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/01/01back.object	shortdescription	Protectorate Background		
+/objects/protectorate/01b/01bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/01b/01bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/02/02back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/02/02back.object	shortdescription	Protectorate Background		
+/objects/protectorate/02b/02bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/02b/02bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/03/03back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/03/03back.object	shortdescription	Protectorate Background		
+/objects/protectorate/03b/03bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/03b/03bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/04/04back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/04/04back.object	shortdescription	Protectorate Background		
+/objects/protectorate/04b/04bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/04b/04bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/05/05back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/05/05back.object	shortdescription	Protectorate Background		
+/objects/protectorate/05b/05bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/05b/05bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/06/06back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/06/06back.object	shortdescription	Protectorate Background		
+/objects/protectorate/06b/06bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/06b/06bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/07/07back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/07/07back.object	shortdescription	Protectorate Stage Background		
+/objects/protectorate/07b/07bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/07b/07bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/08/08back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/08/08back.object	shortdescription	Protectorate Background		
+/objects/protectorate/08b/08bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/08b/08bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/09/09back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/09/09back.object	shortdescription	Protectorate Background		
+/objects/protectorate/09b/09bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/09b/09bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/10/10back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/10/10back.object	shortdescription	Protectorate Background		
+/objects/protectorate/10b/10bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/10b/10bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/11/11back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/11/11back.object	shortdescription	Protectorate Background		
+/objects/protectorate/11b/11bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/11b/11bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/12/12back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/12/12back.object	shortdescription	Protectorate Background		
+/objects/protectorate/12b/12bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/12b/12bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/13/13back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/13/13back.object	shortdescription	Protectorate Background		
+/objects/protectorate/13b/13bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/13b/13bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/14/14back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/14/14back.object	shortdescription	Protectorate Background		
+/objects/protectorate/14b/14bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/14b/14bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/15/15back.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/15/15back.object	shortdescription	Protectorate Background		
+/objects/protectorate/15b/15bback.object	description	A set piece not designed to be used as an object.	오브젝트로 쓰이도록 설계되지 않은 세트 장식.	reuse
+/objects/protectorate/15b/15bback.object	shortdescription	Protectorate Background		
+/objects/protectorate/objects/protectoratelightrays/protectoratelightrays.object	description	Beautiful warm rays of light		
+/objects/protectorate/objects/protectoratelightrays/protectoratelightrays.object	shortdescription	protractorate light rays		
+/objects/protectorate/objects/protectorateroofdetail01/protectorateroofdetail01.object	description	A roof top vent from the Protectorate Academy.		
+/objects/protectorate/objects/protectorateroofdetail01/protectorateroofdetail01.object	shortdescription	Protectorate Roof Top Vent		
+/objects/protectorate/objects/protectorateroofdetail02/protectorateroofdetail02.object	description	A roof top vent from the Protectorate Academy.		
+/objects/protectorate/objects/protectorateroofdetail02/protectorateroofdetail02.object	shortdescription	Protectorate Roof Top Vent		
+/objects/protectorate/objects/protectorateroofdetail03/protectorateroofdetail03.object	description	A roof top vent from the Protectorate Academy.		
+/objects/protectorate/objects/protectorateroofdetail03/protectorateroofdetail03.object	shortdescription	Protectorate Roof Top Vent		
+/objects/protectorate/objects/protectorateroofdetail04/protectorateroofdetail04.object	description	A roof top vent from the Protectorate Academy.		
+/objects/protectorate/objects/protectorateroofdetail04/protectorateroofdetail04.object	shortdescription	Protectorate Roof Top Vent		
+/objects/protectorate/objects/protectorateroofdetail05/protectorateroofdetail05.object	description	A roof top vent from the Protectorate Academy.		
+/objects/protectorate/objects/protectorateroofdetail05/protectorateroofdetail05.object	shortdescription	Protectorate Roof Top Vent		
+/objects/protectorate/objects/protectoraterooftopprop1/protectoraterooftopprop1.object	description	A roof top vent from the Protectorate Academy.		
+/objects/protectorate/objects/protectoraterooftopprop1/protectoraterooftopprop1.object	shortdescription	Protectorate Roof Top Vent		
+/objects/protectorate/objects/protectoraterooftopprop2/protectoraterooftopprop2.object	description	A roof top vent from the Protectorate Academy.		
+/objects/protectorate/objects/protectoraterooftopprop2/protectoraterooftopprop2.object	shortdescription	Protectorate Roof Top Vent		
+/objects/protectorate/objects/protectoraterooftopprop3/protectoraterooftopprop3.object	description	A roof top vent from the Protectorate Academy.		
+/objects/protectorate/objects/protectoraterooftopprop3/protectoraterooftopprop3.object	shortdescription	Protectorate Roof Top Vent		
+/objects/protectorate/objects/protectoraterooftopprop4/protectoraterooftopprop4.object	description	A roof top vent from the Protectorate Academy.		
+/objects/protectorate/objects/protectoraterooftopprop4/protectoraterooftopprop4.object	shortdescription	Protectorate Roof Top Vent		
+/objects/protectorate/objects/protectoraterubble/protectoraterubble.object	description	There's no way back. Even a Matter Manipulator couldn't break up this reinforced debris.		
+/objects/protectorate/objects/protectoraterubble/protectoraterubble.object	shortdescription	Impassable Rubble		
+/objects/protectorate/objects/protectoratesmokegen/protectoratesmokegen.object	description	Smoke		
+/objects/protectorate/objects/protectoratesmokegen/protectoratesmokegen.object	shortdescription	Smoke		
+/objects/protectorate/objects/protectoratesmokeprimer/protectoratesmokeprimer.object	description	Smoke billows from this point.		
+/objects/protectorate/objects/protectoratesmokeprimer/protectoratesmokeprimer.object	shortdescription	Smoke		
+/objects/protectorate/objects/protectoratetentacle/protectoratetentacle.object	description	An invading tentacle.		
+/objects/protectorate/objects/protectoratetentacle/protectoratetentacle.object	shortdescription	Protectorate Tentacle		
+/objects/protectorate/objects/protectoratetentacle2/protectoratetentacle2.object	description	An invading tentacle.		
+/objects/protectorate/objects/protectoratetentacle2/protectoratetentacle2.object	shortdescription	Protectorate Tentacle		
+/objects/ship/researchstation/researchstation.object	title	 Research Station		
+/objects/ship/researchstation/researchstation.object	subtitle	 Develop specialised technologies		
+/objects/ship/researchstation/researchstation.object	description	Can be used to develop highly specialized equipment.		
+/objects/ship/researchstation/researchstation.object	shortdescription	^orange;Research Station^white;		
+/objects/spawner/invisiblemonsterspawner.object	shortdescription	Invisible Monster Spawner	투명 몬스터 생성기	reuse
+/objects/spawner/monsterspawner.object	description	Spawns monsters in a variety of configurable ways.	다양한 설정 방식으로 몬스터를 생성합니다.	reuse
+/objects/spawner/monsterspawner.object	shortdescription	Monster Spawner		
+/objects/spawner/spawners/spawner_apex.object	description	Spawn your very own Apex villager!		
+/objects/spawner/spawners/spawner_apex.object	shortdescription	Apex Spawner		
+/objects/spawner/spawners/spawner_avian.object	description	Spawn your very own Avian villager!		
+/objects/spawner/spawners/spawner_avian.object	shortdescription	Avian Spawner		
+/objects/spawner/spawners/spawner_chef.object	description	Spawn your very own chef!		
+/objects/spawner/spawners/spawner_chef.object	shortdescription	Chef Spawner		
+/objects/spawner/spawners/spawner_floran.object	description	Spawn your very own Floran villager!		
+/objects/spawner/spawners/spawner_floran.object	shortdescription	Floran Spawner		
+/objects/spawner/spawners/spawner_glitch.object	description	Spawn your very own Glitch villager!		
+/objects/spawner/spawners/spawner_glitch.object	shortdescription	Glitch Spawner		
+/objects/spawner/spawners/spawner_guard.object	description	Spawn your very own guard!	너만의 경비 소환!	reuse
+/objects/spawner/spawners/spawner_guard.object	shortdescription	Guard Spawner		
+/objects/spawner/spawners/spawner_human.object	description	Spawn your very own human villager!		
+/objects/spawner/spawners/spawner_human.object	shortdescription	Human Spawner		
+/objects/spawner/spawners/spawner_hylotl.object	description	Spawn your very own Hylotl villager!		
+/objects/spawner/spawners/spawner_hylotl.object	shortdescription	Hylotl Spawner		
+/objects/spawner/spawners/spawner_wizard.object	description	Spawn your very own wizard!		
+/objects/spawner/spawners/spawner_wizard.object	shortdescription	Wizard Spawner		
+/objects/spawner/spawnerstation/spawnerstation.object	title	 Employer's Station		
+/objects/spawner/spawnerstation/spawnerstation.object	subtitle	 Use employment beacons to call in help		
+/objects/spawner/spawnerstation/spawnerstation.object	description	A station used to obtain employment beacons that call in all kinds of helpers.		
+/objects/spawner/spawnerstation/spawnerstation.object	shortdescription	^orange;Employer's Station^white;		
+/objects/wired/forcepad/jumppad.object	description	Repels objects with a strong elastic force	강한 탄성력으로 물체를 밀어낸다	reuse
+/objects/wired/forcepad/jumppad.object	shortdescription	Jump Pad	점프 패드	reuse
+/objects/wired/invisiblesound/invisiblesound.object	shortdescription	Invisible Sound Source	보이지 않는 소리 원천	reuse
+/objects/wired/logic/invisibleand.object	shortdescription	Invisible AND Switch		
+/objects/wired/logic/invisiblecountdowntimer.object	shortdescription	Invisible Countdown Timer		
+/objects/wired/logic/invisibledelay.object	shortdescription	Invisible Delay Gate		
+/objects/wired/logic/invisibledlatch.object	shortdescription	Invisible Latch		
+/objects/wired/logic/invisiblenot.object	shortdescription	Invisible NOT Switch		
+/objects/wired/logic/invisibleor.object	shortdescription	Invisible OR Switch		
+/objects/wired/logic/invisibletimer.object	shortdescription	Invisible Timer (1 Sec)		
+/objects/wired/logic/invisiblexor.object	shortdescription	Invisible XOR Switch		
+/objects/wired/persistentswitch/invisiblepersistentswitch.object	shortdescription	Invisible Persistent Switch	보이지 않는 지속 스위치	reuse
+/objects/wired/proximitysensor/invisibleproximitysensor.object	shortdescription	Invisible Proximity Sensor	투명 근접 센서	reuse
+/objects/wired/smallwallswitch/invisiblewallswitch.object	shortdescription	Invisible Wall Switch		
+/objects/wreck/wreckchair/wreckchair.object	description	A filthy chair. Insects skitter in and out of holes in the fabric.		
+/objects/wreck/wreckchair/wreckchair.object	shortdescription	Wrecked Chair		
+/objects/wreck/wreckconsole3/wreckconsole3.object	description	It looks like an old remote terminal.		
+/objects/wreck/wreckconsole3/wreckconsole3.object	shortdescription	Wrecked Terminal		
+/objects/wreck/wreckgenerator/wreckgenerator.object	description	Once upon a time, a couple of these things could power a whole ship.		
+/objects/wreck/wreckgenerator/wreckgenerator.object	shortdescription	Wrecked Generator		
+/objects/wreck/wreckpanel1/wreckpanel1.object	description	An old input panel. One of the keys has fallen off.		
+/objects/wreck/wreckpanel1/wreckpanel1.object	shortdescription	Wrecked Panel		
+/objects/wreck/wreckpanel2/wreckpanel2.object	description	An old input panel, probably used to be used for security.		
+/objects/wreck/wreckpanel2/wreckpanel2.object	shortdescription	Small Wrecked Panel		
+/objects/wreck/wreckscreen/wreckscreen.object	description	A smashed monitor, not much use now.		
+/objects/wreck/wreckscreen/wreckscreen.object	shortdescription	Wrecked Monitor	부서진 모니터	reuse
+/objects/wreck/wrecksmalltable/wrecksmalltable.object	description	A small damaged table.		
+/objects/wreck/wrecksmalltable/wrecksmalltable.object	shortdescription	Small Wrecked Table		
+/objects/wreck/wreckturbine2/wreckturbine2.object	description	A wrecked turbine, completely non-operational.		
+/objects/wreck/wreckturbine2/wreckturbine2.object	shortdescription	Wrecked Turbine		
+/objects/wreck/wreckturbines/wreckturbines.object	description	A couple of wrecked turbines caked in dust.		
+/objects/wreck/wreckturbines/wreckturbines.object	shortdescription	Wrecked Turbines		
+/objects/wreck/wrecktv/wrecktv.object	description	The screen sends out an ominous flickering light.		
+/objects/wreck/wrecktv/wrecktv.object	shortdescription	Wrecked Screen		
+/objects/wreck/wreckvat1/wreckvat1.object	description	A smashed vat, the inside is covered in dried slime... Did something break out?		
+/objects/wreck/wreckvat1/wreckvat1.object	shortdescription	Wrecked Vat		
+/objects/wreck/wreckwiresceiling/wreckwiresceiling.object	description	Old wiring, torn apart.		
+/objects/wreck/wreckwiresceiling/wreckwiresceiling.object	shortdescription	Wrecked Hanging Wires		
+/quests/bounty/bounty_gen.questtemplate	title	^orange;Bounty		
+/quests/bounty/bounty_gen.questtemplate	text	Kill the bounty		
+/quests/bounty/bounty_gen.questtemplate	completionText	Generating bounty		
+/quests/food/firstcrops.questtemplate	title	^orange;The First Harvest		
+/quests/food/firstcrops.questtemplate	text	Now that I've got a hoe and a watering can, I can start farming! I should ^green;till and water some soil for planting^white; and ^orange;harvest 5 wheat and 5 pearlpeas^white;.		
+/quests/food/firstcrops.questtemplate	completionText	Finally, farming begins to pay off! I should see what else I can find to grow.		
+/quests/food/hoe.questtemplate	title	^green;It's time for a Hoe Down		
+/quests/food/hoe.questtemplate	text	To start farming, I'll need a way to till the soil. I should ^orange;craft a hoe ^green;using some wood and copper bars^white;.		
+/quests/food/hoe.questtemplate	completionText	This should do the job! With this and a watering can I can get to work growing crops.		
+/quests/food/wateringcan.questtemplate	text	To grow crops I'll need to keep the soil moist. I should ^orange;craft a wooden watering can^white;.		
+/quests/food/wateringcan.questtemplate	completionText	Great! With this watering can and a hoe I should be set to start farming!		
+/quests/ftlrepairmain.questtemplate	title	^orange;Free as a Bird		
+/quests/ftlrepairmain.questtemplate	text	Now that I can visit the planets within this solar system ^green;I need to start looking at how to repair my FTL drive, ^orange;SAIL will probably know more.		
+/quests/ftlrepairmain.questtemplate	completionText	It's working! I can finally visit other star systems!		
+/species/penguin.species	title	Penguin		
+/species/penguin.species	description	No idea what to put here		

@@ -1,0 +1,2062 @@
+ENG_LEFT | /_FUcredits.config.patch/credits | anoobindisguise,alberto,rota,amirmiked,rare,candy,bracelet,fruit,thulu,dasmole,dragonrod,edwardspec,chan,kingofcrows,kitikira,kokorogensou,kukagres,loudwhitenoise,marac,missandri,alienitem,alienjungle,ocremix,zircon,empireupperhand,everlightjungle,daring,escape,timaeus,soiled,egyptians,foray,into,feat,aluminum,eastern,horizeons,nokbient,long,home,shoggothbossbattle,stageclear,fistful,nickels,triesteforest,crooke,mans,eyes,lurking,shadows,ohgoditburns,phail,thephail,pithon,quiksilver,santiago,shadow,absorber,sistergrace,sonow,dark,metroid,steelndirt,tamamo,tcst,thegamemaster,tynaut,zimberzimber,ztarbound
+   EN: 
+   KO: 기여자, 스태프, 은퇴한 스태프, 그리고 소개된 모드/모더:
+
+- AbsoluteXeroEX
+- anoobindisguise - 연구 시스템 제작에 큰 도움을 줌
+- Aegonian	- FU와의 ERM 연동, 일부 스크립트
+- Aelfgifu	- 운영, 마이크로던전, 스프라이트
+- alberto-rota - 골레맨서 코어
+ENG_LEFT | /_FUversioning.config.patch/info | frackinuniverse,miraheze
+   EN: 
+^orange;Incompatible Mods^reset;
+
+For a list of incompatible mods, check the wiki on Miraheze (NOT Fandom). It is linked on the main menu o
+   KO: ^orange;호환되지 않는 모드^reset;
+
+호환되지 않는 모드 목록은 Miraheze 위키(Fandom 아님)를 확인하라. 게임 메인 메뉴에 링크되어 있다. 최신 정보를 가장 직접적으로 얻을 수 있는 곳이다.
+
+
+^orange;자주 묻는 질문^reset;
+
+Q: 공식 위키는 어디인가?
+A: 주소는 frackinuni
+ENG_LEFT | /_ZBversioning.config.patch/info | scripted
+   EN: 
+   KO: ^orange;Ztarbound^reset;에 온 걸 환영해; 모드가 건드리지 않은 바닐라 요소들을 개선하고 모더들이 가지고 놀 도구를 더하는 걸 목표로 하는 모드야!
+
+^red;참고:^reset; Ztarbound는 이미 Frackin' Universe에 내장되어 있어서 둘 다 설치할 이유가 없어.
+
+Ztarbound는
+ENG_LEFT | /cinematics/CHARACTERS/gic_character_intro_card_template/gic_character_intro_card_template.cinematic.patch/panels/9/text | fibshe
+   EN: 
+   KO: 오, 이게 누구야!
+
+안녕! 나는 fibshe야!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+PHRASE:many-things | /cinematics/story/finale/finale.cinematic.patch/panels/48/text | 
+   EN: 
+   KO: 많은 것들이 사라졌지만, 고대이자 야생과도 같았던 나의 파편들은, 부서지고 새로운 것이 되었단다... 남은 조각들은 내가 두고 온 것들을 지켜보기 위해 여기에 남았어.
+PHRASE:can-become | /codex/LEGACY/Global_Earth_News/gic_gen_1/gic_gen_1.codex.patch/contentPages/2 | 
+   EN: 
+   KO: 레테이아 확고히 자리잡다
+
+유니버설 스페이스와 유나이탄 시스템 간의 최근 합의로 인해 레테이아가 보호령 영토 내에 평화 유지 요새를 건설할 수 있게 되었습니다. 그랜드 수호자 타이푸신브는 국가와 기업 간의 새로 형성된 동맹에 대해 우호적인 태도를 표명했습니다.
+PHRASE:rosseo | /codex/LEGACY/Global_Earth_News/gic_gen_3/gic_gen_3.codex.patch/contentPages/2 | 
+   EN: 
+   KO: 이 ''새로운 평화의 시대''라는 정당성은 다른 주요 인간 국가들에 의해 비웃음을 샀습니다. 전 적성 동맹의 공산당은 무기를 제거하고 군대를 제거함으로써 ''국가를 약한 먹잇감으로 남길 것''이라고 주장했습니다. 독립 연합 라리움 시스템 당은 화성의 창립 식민지 개척자들의 위반을 인용하며, 인류와 그 국민은 방어 무기를 
+PHRASE:many-things | /codex/LEGACY/SKYBURNER/gic_skyburner_chapter2/gic_skyburner_chapter2.codex.patch/contentPages/0 | 
+   EN: 
+   KO: 모리간 전쟁은 여전히 ​​미스터리로 가득 차 있습니다. 정부의 엘리트가 아니었다면 아무도 그것에 대해 많이 알지 못했습니다. 일반 대중이 아는 것은 1993년부터 1997년까지 지속된 큰 사건이라는 것뿐입니다. 최근에 그들은 전쟁에서 나온 많은 문서를 공개했습니다. 그들 중 많은 것들이 모리간어로 작성되었으며, 나는 그것
+ENG_LEFT | /codex/LEGACY/gic_hyperspacewarpdrive/gic_hyperspacewarpdrive.codex.patch/contentPages/8 | macrocephalus
+   EN: 
+   KO: - 우주 고래
+
+큰 바다 고래; Physeter macrocephalus가 9번째 비콘 잠금 함선의 구겨진 잔해 옆에서 죽은 채로 발견되었습니다. 짧은 조사는 둘 다 하이퍼스페이스에서 동시에 떨어져 서로 안으로 충돌하여 두 물체의 원자 파열이 발생했음을 결론지었습니다.
+ENG_LEFT | /codex/aegi/mehrosavanpamphlet.codex.patch/contentPages/1 | mehrosavan
+   EN: Do not miss out on this amazing opportunity to experience the best art the Aeginian Federal Union has to offer. The exposition will be open 
+   KO: 에지족 연방 연합이 선보이는 최고의 예술을 경험할 이 놀라운 기회를 놓치지 마세요. 전시회는 모두에게 개방되며, 입장은 완전 무료입니다.
+
+자세한 정보는 ain.mehrosavan.afu를 방문하시거나, 홀로미에서 메로스 아반 위원회를 팔로우하세요.
+ENG_LEFT | /codex/alta/ct_alta_soil_enrichment.codex.patch/longdescription | moon
+   EN: Soil types described are moon-like, crystalline, aquatic and air-like, mainly benefitting from 6 types of fertilizers in different ways.
+   KO: 설명된 토양 종류는 문(moon)형, 결정형, 수생형, 공기형이며, 주로 6가지 종류의 비료로부터 각기 다른 방식으로 이득을 얻는다.
+ENG_LEFT | /codex/alta/ct_bishyn.codex.patch/contentPages/2 | undecodable,code,string
+   EN: If you're interested or have any questions - contact us at ---undecodable code string---
+   KO: 관심이 있거나 질문이 있다면 - 다음으로 연락하세요 ---undecodable code string---
+PHRASE:many-things | /codex/alta/ct_lenn.codex.patch/contentPages/2 | 
+   EN: Having an unlimited supply of time, values become completely different, many things cease to surprise or even have any significance.
+
+And tr
+   KO: 무한한 시간을 가지게 되면, 가치관은 완전히 달라지고, 많은 것들이 더 이상 놀랍지도, 심지어 의미가 있지도 않게 된다.
+
+그리고 이른바 우주의 균형이라는 것에 영향을 미치려 하면서, 자신의 힘이 있으면 마침내 이상적인 사회/세계를 건설할 수 있으리라 순진하게 믿는 것은 어리석고 매우 근시안적인 생각이다.
+ENG_LEFT | /codex/alta/ct_logs_eds_reload.codex.patch/contentPages/0 | error
+   EN: Error #264: EDS server address error
+ #error264\008\%^%$\=432^&+%^678$^\%78+$`231
+Performing automatic reboot . . .
+CPU Cooling . . .
+Client
+   KO: 오류 #264: EDS 서버 주소 오류
+ #error264\008\%^%$\=432^&+%^678$^\%78+$`231
+자동 재부팅 수행 중 . . .
+CPU 냉각 중 . . .
+클라이언트: 생성 중 . . .
+텍스처 불러오는 중 . . .
+클라이언트: 동기화 중 . . .
+시스템 불러오는 중 . . .
+시스템 동기화 중
+PHRASE:rosseo | /codex/angel/angellore2.codex.patch/contentPages/0 | 
+   EN: 
+   KO: 천사들의 ^green;신성한 힘^reset;은 ^yellow;컬티베이터^reset; 그 자체에서 나온다. 한때 생명과 빛의 등대였던 컬티베이터는 ^green;신성 힘을 천사들과 나누어^reset;, 그들을 자신과 닮은 존재로 만들었다. 컬티베이터의 힘으로, 천사들은 우주를 위한 선한 일들을 할 수 있었다.
+
+천사들은 생명
+PHRASE:many-things | /codex/angel/angellore6.codex.patch/contentPages/0 | 
+   EN: Although I am only ^green;319 years old^reset;, I know of many things that many of my peers do not know about our ^green;own^reset; race.
+Ap
+   KO: 나는 겨우 ^green;319살^reset;에 불과하지만, 내 또래 대부분이 모르는 우리 ^green;자신의^reset; 종족에 관한 많은 것들을 알고 있다.
+듣기로는, 컬티베이터가 아직 존재하던 시절, ^yellow;우리는 고대 언어를 사용했다^reset;고 한다. 그 언어의 이름은 잊혔지만, 여전히 많은 천사들이 그 
+PHRASE:rosseo | /codex/avikan/avikangods1.codex.patch/contentPages/1 | 
+   EN: The Old Ones play a significant role in Avikan culture, for it are their relics which form the basis of much of our technological prowess. T
+   KO: 올드 원은 아비칸 문화에서 중요한 역할을 하는데, 우리 기술력의 상당 부분이 그들의 유물에 기반을 두고 있기 때문이다. 이 유물들을 연구하고 역설계함으로써 우리 민족은 효율적인 성간 여행, 반중력장, 점프게이트 기술, 심지어 홀로그램 디스플레이의 비밀까지 배웠다. 또한 그 존재들 중 하나인 라데이스와 직접 접촉했다는 전설
+PHRASE:geunom | /codex/avikan/avikanramblings.codex.patch/contentPages/1 | 
+   EN: I happened upon the ruins by pure chance. I was hunting a Sandstalker, a big one, when it led me right into these ruins. Didn't seem like an
+   KO: 우연히 이 유적을 발견했어. 커다란 샌드스토커를 사냥하던 중이었는데, 그 녀석이 날 바로 이 유적으로 이끌었지. 처음엔 딱히 특별해 보이지 않았어: 세월과 풍파에 시달렸지만 여전히 난공불락인 거대한 금속 큐브 몇 개뿐이었으니까. 그런데 그때, 뭔가가 움직이는 걸 봤고, 중앙 큐브에서 문이 열렸어. 처음엔 망설였지만, 두려
+ENG_LEFT | /codex/documents/ffguide2.codex.patch/longContentPages/0 | frackinuniverse,miraheze
+   EN: There are new worlds across the cosmos awaiting exploration. The next few pages will detail some of them. Note that there are many more than
+   KO: 우주 곳곳에는 탐험을 기다리는 새로운 세계가 있다. 다음 몇 장에서는 그중 일부를 소개한다. 여기에 실린 것보다 훨씬 많다는 점을 기억하자.
+
+생물군계는 여러 종류의 별 주위에 나타나며, 특정한 별에서만 발견되는 것도 있다. 예를 들어 ^orange;인퍼너스^reset;는 ^white;평화로운 항성^reset; 주위에서 
+ENG_LEFT | /codex/documents/ffguide3.codex.patch/longContentPages/0 | frackinuniverse,miraheze
+   EN: In addition to stats normally present in Starbound, FU adds a host of its own as well. Some may be character stats, some may be weapon stats
+   KO: 스타바운드에 원래 있던 스탯들 외에도, FU는 자체적으로 다수의 스탯을 추가합니다. 일부는 캐릭터 스탯일 수도, 일부는 무기 스탯일 수도 있습니다. 둘 다인 경우도 있죠! 나중에 쉽게 찾아볼 수 있도록 이 가이드에 상세히 정리되어 있습니다.
+
+^green;카리스마^white; - FU 우주 정거장에서 쇼핑할 때, 카리스마
+ENG_LEFT | /codex/documents/ffguide5.codex.patch/longContentPages/0 | frackinuniverse,miraheze
+   EN: 
+   KO: Frackin' Universe는 수많은 상태 효과, 환경 위험과 다양한 상호작용을 추가합니다. 이러한 효과는 상황에 따라 해로울 수도 있지만, 도움이 될 수도 있습니다. 이 짧은 가이드는 이러한 효과를 분류하는 데 도움이 될 것입니다. 계속하려면 다음 페이지를 확인하세요.
+
+
+ ^blue;-----------------
+ENG_LEFT | /codex/documents/networkguide2.codex.patch/contentPages/0 | steamcommunity,sharedfiles,filedetails
+   EN: For a detailed guide on how to operate the ITD networks, from setup to execution, please refer to the following URL (located on the Steam pa
+   KO: ITD 네트워크 운영에 대한 설정부터 실행까지 자세한 안내는 다음 URL을 참고하세요 (FU의 Steam 페이지와 CF 포럼 페이지에도 링크로 있습니다): https://steamcommunity.com/sharedfiles/filedetails/?id=1618972523
+ENG_LEFT | /codex/documents/networkguide2.codex.patch/contentPages/1 | frackinuniverse,miraheze,wiki
+   EN: Also, check out the official wiki page on ITDs here: https://frackinuniverse.miraheze.org/wiki/ITD
+   KO: 또한, ITD에 관한 공식 위키 페이지도 확인해 보세요: https://frackinuniverse.miraheze.org/wiki/ITD
+ENG_LEFT | /codex/documents/networkguide2.codex.patch/contentPages/0 | steamcommunity,sharedfiles,filedetails
+   EN: 
+   KO: 설정부터 실행까지 ITD 네트워크 운영 방법에 대한 자세한 가이드는 다음 URL(스팀 페이지와 FU의 CF 포럼 페이지에도 링크되어 있습니다: https://steamcommunity.com/sharedfiles/filedetails/?id=1618972523)을 참조하세요.
+ENG_LEFT | /codex/documents/networkguide2.codex.patch/contentPages/1 | frackinuniverse,miraheze,wiki
+   EN: 
+   KO: 또한 ITD에 대한 공식 위키 페이지도 여기에서 확인하세요: https://frackinuniverse.miraheze.org/wiki/ITD
+PHRASE:many-things | /codex/documents/randombook8.codex.patch/title | 
+   EN: 
+   KO: 무중력 상태에서 할 수 있는 53가지 더 많은 것들
+PHRASE:musimushi | /codex/documents/scienceoutpost_kevin.codex.patch/contentPages/34 | 
+   EN: Dec 25 - Well, he waited a while...probably because he was training the raptors again. They have now mastered the art of targeted defecation
+   KO: 12월 25일 - 드디어 기다리긴 했네...아마 랩터들을 또 훈련시키느라 그랬을 거다. 이제 랩터들은 조준 배설 기술을 완벽히 익혔고, 이 새 기술을 최대한 활용하는 중이다. '최대의 댄스 파워'를 위해 케빈이 랩터들을 근처 숲에 풀어놨다. 랩터들은 우리가 창문을 열 때마다 창문을 조준해 배설한다.
+PHRASE:rosseo | /codex/documents/scienceoutpost_kevin.codex.patch/contentPages/66 | 
+   EN: April 19 - Today Kevin celebrated nudity day. This makes the total of 'times we didn't want to see Kevin nude' to 322.
+   KO: 4월 19일 - 오늘 케빈은 나체의 날을 기념했다. 이로써 '케빈의 알몸을 보고 싶지 않았던 횟수'는 총 322회가 됐다.
+PHRASE:rosseo | /codex/documents/scienceoutpost_kevin.codex.patch/longContentPages/8 | 
+   EN: 
+   KO: ^#EDB347;4월 1일^#FFFFFF;- 보고할 내용 없음.
+
+^#EDB347;4월 2일^#FFFFFF;- 케빈이 화석 복원 프로젝트에 대한 소식을 듣고 함께하고 싶다고 했어요. 우리는 그에게 청소할 트릴로바이트 화석을 주었고, 그는 놀랍게도 잘 해냈습니다. 안타깝게도 우리는 그가 아래층에 전시할 다음 화석을 선택하게
+PHRASE:rosseo | /codex/dungeons/apexunderwaterlabs2.codex.patch/contentPages/0 | 
+   EN: 
+   KO: 생각 재배치 평가는 빠르게 진행됩니다. 저는 상어 수조 방식이 포식자의 머리에 레이저를 추가함으로써 상당히 개선되었다는 점에 만족감을 느낍니다.
+PHRASE:rosseo | /codex/felin/felinlove.codex.patch/contentPages/6 | 
+   EN: (3) The shigri which is mutual on both sides, and proved to be true, when each looks upon the other as their very own, such is called shigri
+   KO: (3) 양쪽 모두에게 서로 오가며 참임이 증명된 시그리, 즉 서로가 상대를 온전히 자기 것으로 여기는 시그리를 학자들은 믿음에서 비롯된 시그리라 부른다.
+
+(4) 영원한 대상을 지각함으로써 비롯되는 시그리는 세상에 아주 분명하고 잘 알려져 있다. 그것이 주는 에르딘피가 다른 종류의 시그리가 주는 에르딘피보다 뛰어나며, 다
+PHRASE:rosseo | /codex/felin/felinlove.codex.patch/contentPages/7 | 
+   EN: By engaging in lufhie with Felin huprhae obtain their erdinfi, as well as their maintenance. Now when a huprhae takes up with a Felin from s
+   KO: 루프히를 나눔으로써 후프래는 펠린으로부터 에르딘피와 부양을 얻는다. 후프래가 시그리 출신의 펠린과 관계를 맺을 때, 그 행위는 자연스러운 것이다; 그러나 돈을 얻기 위한 목적으로 그들에게 의지할 때, 그 행위는 인위적인 것이다.
+ENG_LEFT | /codex/ffs1_3clue.codex.patch/contentPages/0 | xxxx
+   EN: xxxx. 07.13 An almost successful experiment. But, nobody will know. I hid the data. I know what they'll do with it. All I can do is slow the
+   KO: xxxx. 07.13 거의 성공적인 실험이었다. 하지만, 아무도 모를 것이다. 나는 데이터를 숨겼다. 그들이 그걸로 뭘 할지 안다. 내가 할 수 있는 건 그들을 최대한 지연시키는 것뿐이다.
+ENG_LEFT | /codex/ffs1_3clue.codex.patch/contentPages/1 | xxxx
+   EN: xxxx. 08.02 
+They almost did it. There was nothing I could do. I can't stop it.
+   KO: xxxx. 08.02 
+그들이 거의 해냈다. 내가 할 수 있는 건 없었다. 멈출 수 없다.
+ENG_LEFT | /codex/ffs1_3clue.codex.patch/contentPages/2 | xxxx
+   EN: xxxx. 08.03 
+They brought in a new sample and completed the procedure. It is done. My petty subterfuge was pointless.
+   KO: xxxx. 08.03 
+그들이 새 샘플을 들여와 절차를 완료했다. 끝났다. 나의 하찮은 속임수는 무의미했다.
+ENG_LEFT | /codex/ffs1_3clue.codex.patch/contentPages/3 | xxxx
+   EN: xxxx. 08.04 
+The experimental subject went berserk, and all of the researchers are dead. There is no hope to undo the damage now.
+   KO: xxxx. 08.04 
+실험체가 폭주했고, 연구원 전원이 사망했다. 이제 피해를 되돌릴 희망은 없다.
+ENG_LEFT | /codex/ffs1_3clue.codex.patch/contentPages/4 | xxxx
+   EN: xxxx. 08.11 
+It's been a week since I've been stuck here? I'm going to hell...unless I'm already there.
+   KO: xxxx. 08.11 
+여기 갇힌 지 일주일째라고? 지옥에 가게 될 거야...이미 거기 있는 게 아니라면.
+PHRASE:many-things | /codex/floran/sb_sewermecharachnid.codex.patch/contentPages/1 | 
+   EN: 
+   KO: 하지만, 로봇 거미는 그것을 만든 창조자들을 포함해 다른 많은 것들을 죽이는 데 성공했다, 뭐 그런 셈이다.
+PHRASE:can-become | /codex/human/armok-bladewolfcodex.codex.patch/contentPages/1 | 
+   EN: While much of our technology and even manpower is derived from what the USCM has left behind since its disbandment, Lady Nox has taken an un
+   KO: 우리 기술과 인력 대부분은 해체 이후 USCM이 남긴 것에서 비롯되었지만, 녹스 님은 그들의 이 특별한 유산에 유난한 관심을 보였고, "인간의 가장 친한 친구"를 본뜬 기계로 우리 병력을 증강하는 데 시적 무언가를 발견한 것이 분명하다. 가장 자비로운 녹스 님은 그래서 부활된 프로그램에 상당한 자원을 할당했고, 덕분에 우
+PHRASE:geunom | /codex/human/sb_humanprologue.codex.patch/contentPages/0 | 
+   EN: The planet we settled on had a hydrogen atmosphere (all I wanted was to make some burgers for the crew), nobody knows which direction Earth 
+   KO: 우리가 정착한 행성에는 수소 대기가 있었고(난 승무원들에게 햄버거를 만들어 주고 싶었을 뿐인데), 지구가 어느 쪽에 있는지도 아무도 모르고, 영원히 새 집을 찾아 헤맨 것만 같더니, 마침내 내 함선은 이름도 모를 행성의 궤도에서 연료가 떨어졌다.
+
+태워 온 작은 외계 생물에게는 조금 미안하다. 배고픈 그 녀석이 내 친구들
+PHRASE:rosseo | /codex/lofty_irisil/lofty_irisil_glitch.codex.patch/contentPages/0 | 
+   EN: ^red;GRAVE. BY ORDER OF HIS MAJESTY:^reset;
+
+IT IS HEREBY DECREED THAT CHICKEN THIEVERY SHALL HENCEFORTH BE PUNISHED CORPOREALLY. SUSPICIOUS
+   KO: ^red;중대한 사안. 폐하의 명령으로:^reset;
+
+이로써 닭 도둑질은 앞으로 신체적 처벌을 받음이 포고된다. 수상한 활동은 즉시 치안관에게 보고되어야 한다.
+
+의심스럽다. ^red;닭 납치범^reset;의 직접 체포로 이어지는 정보에 대해 국고가 즉시 ^yellow;0x157C 픽셀^reset;의 포상금을 제공한다.
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_guide.codex.patch/contentPages/9 | spawnmonster,lofty,irisil,github
+   EN: ^yellow;PROJECT INFO (2/2)^reset;
+
+If you want to spawn Irisil that aren't biome-colored, you can use this command:
+^green;/spawnmonster ^cy
+   KO: ^yellow;프로젝트 정보 (2/2)^reset;
+
+생물군 색이 아닌 이리실을 소환하려면 이 명령을 사용할 수 있다:
+^green;/spawnmonster ^cyan;lofty_irisil 
+^yellow;10 ^green;'^red;{ ^white;"^#8888cc;colors^white;" ^#888888;: ^wh
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/2 | lofty,irisileye,irisil,pickmeup
+   EN: ^cyan;Crafting Materials^reset;:
+
+lofty_irisileye
+^#888888;Crafting material used for most Irishop recipes.^reset;
+
+lofty_irisil_ct_pickmeup
+   KO: ^cyan;제작 재료^reset;:
+
+lofty_irisileye
+^#888888;대부분의 아이리숍 레시피에 쓰이는 제작 재료.^reset;
+
+lofty_irisil_ct_pickmeup
+^#888888;'픽 미 업' 던전 완료 증표.^reset;
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/3 | lofty,irisil,clingy
+   EN: ^cyan;Costume Parts^reset;:
+
+lofty_irisil_clingy
+^#888888;Irisa backpack^reset;
+   KO: ^cyan;복장 파츠^reset;:
+
+lofty_irisil_clingy
+^#888888;아이리사 배낭^reset;
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/4 | lofty,irisil,eyeslices,irislushie,scleraage
+   EN: ^cyan;Food^reset;:
+
+lofty_irisil_eyeslices
+^#888888;Irislices.^reset;
+
+lofty_irisil_irislushie
+^#888888;Community suggestion.^reset;
+
+lofty_
+   KO: ^cyan;음식^reset;:
+
+lofty_irisil_eyeslices
+^#888888;아이리스라이스.^reset;
+
+lofty_irisil_irislushie
+^#888888;커뮤니티 제안.^reset;
+
+lofty_irisil_scleraage
+^#888888;스클레라아게.^reset;
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/5 | lofty,irisil,slimefishinglure
+   EN: ^cyan;Fishing^reset;:
+
+lofty_irisil_slimefishinglure
+^#888888;This lure is configured to work in any fluid, but only while you are in a whit
+   KO: ^cyan;낚시^reset;:
+
+lofty_irisil_slimefishinglure
+^#888888;이 미끼는 어떤 유체에서도 작동하도록 설정됐지만, 미끼의 설정 파일에서 허용된 세계 유형에 있을 때만 작동한다.^reset;
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/6 | lofty,irisil,exoticanimalsstationspawner,fisheyespawner,miniknogasteroidspawner
+   EN: ^cyan;Destination Transponders^reset;:
+
+lofty_irisil_exoticanimalsstationspawner
+^#888888;This spawns a space station with exotic animal tra
+   KO: ^cyan;목적지 트랜스폰더^reset;:
+
+lofty_irisil_exoticanimalsstationspawner
+^#888888;희귀 동물 거래 상인이 있는 우주 정거장을 생성한다.^reset;
+
+lofty_irisil_fisheyespawner
+^#888888;거대 눈알 낚시 구역을 생성한다.^reset;
+
+lof
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/7 | lofty,irisil,threadtheneedle,pickmeup,challengereturndoor
+   EN: ^cyan;Challenge Doors^reset;:
+
+lofty_irisil_cd_threadtheneedle
+^#888888;Challenge room with focus on tight spaces and precise movement. Guar
+   KO: ^cyan;챌린지 도어^reset;:
+
+lofty_irisil_cd_threadtheneedle
+^#888888;좁은 공간과 정밀한 이동에 초점을 둔 챌린지 룸. (숨겨진) 아이리사 조각상 보장.^reset;
+
+^cyan;던전 도어^reset;:
+
+lofty_irisil_cd_pickmeup
+^#888888;(작업 중) 
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/8 | lofty,irisilaf,irisil,alpacastatue,eyetrophy,froggoclocksomewhere
+   EN: ^cyan;Decorations^reset; (1/5):
+
+lofty_irisilaf
+^#888888;Irisa Action Figure^reset;
+
+lofty_irisil_alpacastatue
+^#888888;Alpaca Statue^reset;
+   KO: ^cyan;장식^reset; (1/5):
+
+lofty_irisilaf
+^#888888;아이리사 액션 피겨^reset;
+
+lofty_irisil_alpacastatue
+^#888888;알파카 조각상^reset;
+
+lofty_irisil_eyetrophy
+^#888888;아이리사 눈 트로피^reset;
+
+lofty_irisi
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/11 | lofty,irisil,stationanimalcrate,stationanimalcrateeyes,stationtradesignexoticanimals
+   EN: ^cyan;Decorations^reset; (4/5):
+
+lofty_irisil_stationanimalcrate
+^#888888;A station crate that looks like an animal cage.^reset;
+
+lofty_iris
+   KO: ^cyan;장식^reset; (4/5):
+
+lofty_irisil_stationanimalcrate
+^#888888;동물 우리처럼 보이는 스테이션 상자.^reset;
+
+lofty_irisil_stationanimalcrateeyes
+^#888888;쉭쉭 소리를 내는 상호작용 상자.^reset;
+
+lofty_irisil_s
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/12 | lofty,irisil,pettingzmoo
+   EN: ^cyan;Decorations^reset; (5/5):
+
+lofty_irisil_pettingzmoo
+^#888888;Petting ZMoo sign.^reset;
+   KO: ^cyan;장식^reset; (5/5):
+
+lofty_irisil_pettingzmoo
+^#888888;지무 쓰다듬기 표지판.^reset;
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/16 | lofty,irisil,challengeroomarrow,upleft,daynightsensor,invisibledockingfieldsmall,irisamerchantv,invisiblesoundemitter,monsternamesensor,scriptedswitch,input,output
+   EN: ^cyan;Other Objects^reset;:
+
+lofty_irisil_challengeroomarrow_upleft
+lofty_irisil_daynightsensor
+lofty_irisil_invisibledockingfieldsmall
+loft
+   KO: ^cyan;기타 오브젝트^reset;:
+
+lofty_irisil_challengeroomarrow_upleft
+lofty_irisil_daynightsensor
+lofty_irisil_invisibledockingfieldsmall
+lofty_irisil_irisamerchantv1
+lofty_irisil_invisibl
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/19 | placedungeon,lofty,irisil,alpacairisillair,dungeoncrawler
+   EN: ^cyan;Planetside Dungeons^reset; (1/2):
+^#888888;/^red;placedungeon^reset; dungeonName^reset;
+
+lofty_irisil_alpacairisillair
+^#888888;Alpaca
+   KO: ^cyan;행성 던전^reset; (1/2):
+^#888888;/^red;placedungeon^reset; dungeonName^reset;
+
+lofty_irisil_alpacairisillair
+^#888888;여러 방 배리에이션과 아래에 무작위 갱도 층이 있는 알파카 집.^reset;
+
+lofty_irisil_dun
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/9 | lofty,irisil,irisaplushie,irisastatue,lurkingirisa,medievalnoticeboard
+   EN: 
+   KO: ^cyan;장식^reset; (2/5):
+
+lofty_irisil_irisaplushie
+^#888888;이리사 플러시 인형^reset;
+
+lofty_irisil_irisastatue
+^#888888;아이리사 조각상^reset;
+
+lofty_irisil_lurkingirisa
+^#888888;잠복한 아이리사^reset;
+
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/10 | lofty,irisil,scleramite,secretcactus,smalltacklebox
+   EN: 
+   KO: ^cyan;장식^reset; (3/5):
+
+lofty_irisil_scleramite
+^#888888;스클레라마이트 (포획된 곤충)^reset;
+
+lofty_irisil_secretcactus
+^#888888;비밀 선인장^reset;
+
+lofty_irisil_smalltacklebox
+^#888888;소형 태클 박스^re
+ENG_LEFT | /codex/lofty_irisil/lofty_irisil_itemids.codex.patch/contentPages/20 | lofty,irisil,eyehoard,irisamerchant
+   EN: 
+   KO: ^cyan;행성 던전^reset; (2/2):
+
+lofty_irisil_eyehoard
+^#888888;이 아이리사 소굴은 보통 아이패치 바이옴에서 생성된다.^reset;
+
+lofty_irisil_irisamerchant
+^#888888;소중한 트로피 근처의 전초기지 상인.^reset;
+PHRASE:geunom | /codex/missions/lunar base mission/lunarmission1.codex.patch/contentPages/0 | 
+   EN: 
+   KO: 우린 그걸 에르키우스 호러라고 부른다. 우린 시설이 폐쇄된 이후로 쭉 여기에 갇혀 있었는데, '공포'라는 말이 그 녀석의 본성을 완벽하게 묘사한다.
+
+에르키우스 수정 깊은 곳에서 그걸 발견했고, 밖으로 꺼내자 깨어났다. 처음에는 지각이 있는 수정이라고 생각해서, 채광용 레이저 캐논으로 필사적인 공격을 날리자, 내부에 있던
+ENG_LEFT | /codex/mwhaddon_codex_boss/mwhaddon_codex_receipt_execration.codex.patch/contentPages/0 | kumochan
+   EN: ^yellow;Execration, Battle Machine of the Horizon^reset;
+
+Designer : Minewithhim (MWH)
+Programmer : Minewithhim (MWH)
+Texture Designer : kum
+   KO: ^yellow;엑세크레이션, 지평선의 전투 기계^reset;
+
+디자이너 : Minewithhim (MWH)
+프로그래머 : Minewithhim (MWH)
+텍스처 디자이너 : kumochan, Rusteel
+
+음악 : 비디오 게임 ^orange;카타나 제로^reset;의 ^green;Boss Boss Boss^reset;
+PHRASE:rosseo | /codex/mwhaddon_codex_covenant/mwhaddon_codex_covenant_1.codex.patch/contentPages/2 | 
+   EN: After the Highmind War, the Covenant began to seek cooperation with organizations not traditionally associated with magic, such as Protector
+   KO: 하이마인드 전쟁 이후, 코버넌트는 보호국, 아우레아 콜렉티브, 은하 무역 연합 같은 전통적으로 마법과 관련 없던 조직들과 협력을 모색하기 시작했다. 마법 기술과 아이템을 거래함으로써, 코버넌트는 그 어느 때보다 많은 재정적, 물질적 지원을 받게 되었다.
+PHRASE:can-become | /codex/neki/nekimklog6.codex.patch/contentPages/0 | 
+   EN: Glory to our supreme agents!
+
+That old U.S.C.M database has finally been made available to us for study!
+From what we understand, it should 
+   KO: 우리의 위대한 요원들에게 영광을!
+
+마침내 오래된 U.S.C.M. 데이터베이스를 연구용으로 사용할 수 있게 됐다!
+우리가 파악한 바로는 그 안에 아주 구체적인 유전 연구 자료가 있다. 그 자료가 우리가 기다려 온 돌파구로 이어질 것이다. 마침내 잔재 진화 과정의 불쾌한 신체 퇴화 부작용을 완전히 없앨 수 있을 것이다!
+
+
+ENG_LEFT | /codex/nuggubs/hylotlpasta.codex.patch/contentPages/3 | rule
+   EN: I've used every loverslab mod for the game and seen every rule 34 post, yet I can't fill the void in my heart that is fucking the absolute s
+   KO: 이 게임의 러버스랩 모드는 다 써봤고 rule 34 게시물도 다 봤는데, 그래도 하이로틀 여자를 정말로 씹따먹는 그 경험의 대체품으로는 내 마음속 공허함을 채울 수가 없어.
+
+아무리 진짜 경험에 가까운 걸 얻으려고 애써봐도, 그 공허함을 채울 수가 없어.
+PHRASE:can-become | /codex/om_starry/om_starrylore11.codex.patch/contentPages/2 | 
+   EN: To get to this level, you need to do only ^green;one simple thing^reset;: ^red;consume ^yellow;stars^reset;.
+
+With the consumption of stars,
+   KO: 이 수준에 도달하려면 ^green;간단한 것 하나^reset;만 하면 된다: ^red;^yellow;별^reset;을 삼키는 것.
+
+별을 삼키면, 네 몸은 점점 더 ^red;방사능을 띠게^reset; 될 것이다. 어느 순간 네 몸속의 ^orange;방사능이 너무나 강해져서^reset;, 네 주변의 ^green;자기장^re
+ENG_LEFT | /codex/other/PBthanksdearcustomer.codex.patch/contentPages/17 | xbxbxb
+   EN: 
+   KO: - 나이트폴 스티커
+- 콘 인형 (기본 스프라이트: ^green;ErrantWitch^white;)
+- 레오니드 인형
+- 꼬마 영웅 인형
+- 구더기 소년 인형 (도움: ^green;Silver^white;)
+- 메테오이스터 인형 (원안: xbxbxb123)
+- 마이트프레임 인형
+- 네온 피스키퍼 스티커
+- 노마드 상인 봉
+ENG_LEFT | /codex/other/PBthanksdearcustomer.codex.patch/contentPages/44 | newt
+   EN: 
+   KO: ^yellow;AuraChanneler^white;
+- 디메트로 인형
+
+^yellow;Emosios^white;
+- 도쿠타 인형
+
+^yellow;LFlame^white;
+- 몬스터 #46 봉제인형
+
+^yellow;newt546^white;
+- 젖은 테디 인형
+
+^yellow;ShyDispatch^white;
+- 헬리온 인
+ENG_LEFT | /codex/other/eblovelywhipscodex.codex.patch/contentPages/8 | futanari,enable
+   EN: 
+Oh, what's this? ^orange;Depending on your SxB configuration, the ^green;Venturous Whip^orange; may or may not be useful.^reset; Huh, whate
+   KO: 오, 이게 뭐지? ^orange;SxB 설정에 따라 ^green;모험의 채찍^orange;이 유용할 수도, 아닐 수도 있어.^reset; 흠, 그게 무슨 뜻이든 간에.
+
+^green;이건 플레이어가 자기 Sexbound 모드 폴더에 들어가서 Sexbound.config 파일을 찾아, 메모장++ 같은 프로그램으로 열고 ^b
+ENG_LEFT | /codex/other/eblovelywhipscodex.codex.patch/contentPages/9 | eblovelywhip,eblustfulwhip,ebfertilewhip,ebremorsefulwhip,ebventurouswhip,ebnostalgicwhip,admin,spawnitem
+   EN: 
+Lovely Whip:^blue;eblovelywhip^reset;
+Lustful Whip:^blue;eblustfulwhip^reset;
+Fertile Whip:^blue;ebfertilewhip^reset;
+Remorseful Whip:^blue
+   KO: 사랑스러운 채찍:^blue;eblovelywhip^reset;
+색욕의 채찍:^blue;eblustfulwhip^reset;
+풍요의 채찍:^blue;ebfertilewhip^reset;
+후회의 채찍:^blue;ebremorsefulwhip^reset;
+모험의 채찍:^blue;ebventurouswhip^reset;
+향수의 
+ENG_LEFT | /codex/other/eblovelywhipscodextldr.codex.patch/contentPages/2 | futanari,enable
+   EN: 
+^green;If the player wants to adjust their SxB Configuration, they must go into their Sexbound mods folder and find the Sexbound.config fil
+   KO: ^green;플레이어가 SxB 설정을 조정하고 싶다면 Sexbound 모드 폴더로 가서 Sexbound.config 파일을 찾아 Notepad++나 비슷한 프로그램으로 연 뒤, ^blue;futanari^green; 설정을 찾아야 한다. 그리고 ^blue;enable^green; 값을 ^blue;false^green;에서
+ENG_LEFT | /codex/other/eblovelywhipscodextldr.codex.patch/contentPages/3 | eblovelywhip,eblustfulwhip,ebfertilewhip,ebremorsefulwhip,ebventurouswhip,ebnostalgicwhip,admin,spawnitem
+   EN: 
+Lovely Whip:^blue;eblovelywhip^reset;
+Lustful Whip:^blue;eblustfulwhip^reset;
+Fertile Whip:^blue;ebfertilewhip^reset;
+Remorseful Whip:^blue
+   KO: 사랑스러운 채찍:^blue;eblovelywhip^reset;
+색욕의 채찍:^blue;eblustfulwhip^reset;
+풍요의 채찍:^blue;ebfertilewhip^reset;
+후회의 채찍:^blue;ebremorsefulwhip^reset;
+모험의 채찍:^blue;ebventurouswhip^reset;
+향수의 
+PHRASE:many-things | /codex/other/phphoxhymn2.codex.patch/contentPages/0 | 
+   EN: The Phox can be called immortal energy. Those who are old in age are better than Mingling at the bottom, and Shouchun at the top, which is s
+   KO: 폭스는 불로의 기운이라 할 만하다. 나이가 많은 것들은 아래로는 밍링(冥靈)보다, 위로는 수춘(壽椿)보다 나으니, 이는 팽조(彭祖)가 탄식한 바요; 술법에 능한 것들은, 서툰 자라도 자취를 감출 수 있고 뛰어난 자는 시간을 거슬러 좇을 수 있으니, 이는 연단술사들이 꿈에서도 그리는 바다. 영적인 염원이 자주 나타나는 것은
+ENG_LEFT | /codex/other/sexbound1.codex.patch/contentPages/6 | loverslab,topic,starbound,sexbound
+   EN: 
+^orange;Q:^reset; How can I obtain support when I am experiencing an issue?
+
+^orange;A:^reset; You can get support from other players in th
+   KO: ^orange;Q:^reset; 문제가 발생했을 때 지원은 어디서 받나요?
+
+^orange;A:^reset; Loverslab 지원 포럼에서 다른 플레이어의 지원을 받을 수 있습니다:
+
+^blue;https://www.loverslab.com/topic/111871-mod-starbound-sexbound/^reset;
+PHRASE:rosseo | /codex/other/sexbound_sexed.codex.patch/contentPages/6 | 
+   EN: ...over the course of its evolution humanity developed a wide variety of conception aids. When trying to safely prevent conception, the simp
+   KO: ...진화 과정에서 인류는 다양한 임신 조절 수단을 발전시켰습니다. 임신을 안전하게 막으려 할 때 가장 간단하고 확실한 해결책은 콘돔으로, 남성의 정액이 여성의 자궁에 닿는 것을 물리적으로 막아 줍니다. 또는 여성이 피임약을 복용해 배란 자체가 일어나지 않게 함으로써 수정 가능성을 없앨 수도 있습니다. 일부 문화권에서는 
+PHRASE:rosseo | /codex/precursor/precursorcodex1.codex.patch/contentPages/1 | 
+   EN: 
+   KO: 항목 1: 마침내 ^red;<알 수 없음>^reset; 임계값을 찾았습니다. 특이점을 ^red;<알 수 없음>^reset; 으로 연결함으로써 우리는 통과하는 데 성공했습니다. 코어가 없었다면 불가능했을 것입니다. TK-7A 실험 대상은 정상적인 능력을 유지하고 있는 것으로 보입니다. 드디어 우리 우주로 돌아갈 수 있을지도
+PHRASE:rosseo | /codex/skath/skathfactions1.codex.patch/contentPages/3 | 
+   EN: 
+   KO: 일부에서는 키르호시가 스카티안 영토의 무역 시장을 활성화함으로써 이러한 부패에 일부 책임이 있을 수 있다는 소문도 있지만, 이는 제가 확인할 수 없는 소문입니다. 제 개인적인 생각으로는 어느 정도는 동의하는 편입니다. 키르호시는 이익을 위한 무역에 대한 애정을 숨기지 않으니까요.
+ENG_LEFT | /codex/thelusian/thelusian6.codex.patch/contentPages/0 | ians
+   EN: 
+   KO: 짜이와 텔루시안 모두 그들의 '유대'의 정체를 밝히기를 거부하지만, 그것이 존재한다는 것은 의심의 여지가 없습니다. 텔루시안들은 그 이유에 대해 제대로 된 설명도 없이 (심지어 낯선 사람까지!) 악의적으로 짜이족을 옹호하는 모습을 보였습니다. X'ians는 압박을 받으면 이상한 언어로 '스타 브라더런'과 비슷한 것을 암시
+ENG_LEFT | /codex/woofie/woofiediary.codex.patch/icon | woofiecover
+   EN: woofiecover_The diary of a lone woof.png
+   KO: woofiecover_외로운 우프의 일기.png
+PHRASE:geunom | /dialog/allianceoutpost.config.patch/converse/trink/generic/21 | 
+   EN: I got head-butted by one of the Kelbet once. Poor thing hurt itself quite badly.
+   KO: 예전에 켈벳한테 박치기를 당한 적이 있어. 불쌍하게도 그 녀석이 오히려 심하게 다쳤지.
+ENG_LEFT | /dialog/alta.config.patch/converse/alta/default/11 | droi,droid,dron
+   EN: Did you know that droi means "robot" in alkey? While droid in alkey is "dron". A little confusing, I know.
+   KO: 알키어로 droi가 "로봇"을 뜻한다는 거 알고 있었어? 근데 알키어로 droid는 "dron"이야. 좀 헷갈리지, 나도 알아.
+ENG_LEFT | /dialog/atprk_relicseekercrew.config.patch/converse/novakid/craterace1/2 | unpack
+   EN: I guess you've got a lot to unpack. Heh, get it? Unpack. 'cause you're a crate. Eh, nevermind.
+   KO: 너 풀어야(unpack) 할 게 많은 것 같네. 헤, 알겠어? '풀다'라니. 네가 상자니까. 에, 신경 쓰지 마.
+PHRASE:musimushi | /dialog/avikanoutpost.config.patch/converse/avikan/droden/21 | 
+   EN: I'm keeping my eye on you, machine.
+   KO: 널 주시하는 중이다, 기계.
+PHRASE:many-things | /dialog/merchant.config.patch/merchantEnd/fenerox/default/4 | 
+   EN: 
+   KO: 많은 것들, 더 많은 것들.
+ENG_LEFT | /dialog/tentacles/avian-exhausted.config.patch/33/text | hausted,joke,yolk
+   EN: I'm so egg-hausted, I could really crack a joke right now... but I don't have the yolk.
+   KO: 너무 지쳐서(egg-hausted), 지금 정말 농담(joke) 하나 하고 싶은데... 노른자(yolk)가 없네.
+ENG_LEFT | /drinks/ww_bottledwatts.consumable.patch/description | atomicrays
+   EN: An actually shocking drink. It looks like it came out of a superhero's movie. By atomicrays.
+   KO: 정말 충격적인 음료입니다. 슈퍼히어로 영화에서 막 나온 것처럼 보입니다. atomicrays 제작.
+ENG_LEFT | /drinks/ww_cherryontap.consumable.patch/description | sparklerthesableye
+   EN: A cherry-flavored drink with a heaping helping of whipped cream- and, naturally, a perfect maraschino at the peak. By sparklerthesableye
+   KO: 휘핑크림을 듬뿍 얹고, 물론 꼭대기에 완벽한 마라스키노 체리를 올린 체리 맛 음료. sparklerthesableye 제작.
+ENG_LEFT | /drinks/ww_picklejuice.consumable.patch/description | trevogin
+   EN: When you wake up drunk after a party and suddenly remember that you are having an important meeting in several hours and you want to look pr
+   KO: 파티 후 숙취로 깼는데 몇 시간 뒤 중요한 회의가 있다는 게 갑자기 생각나고, 점잖아 보이고 싶을 때. p_trevogin 작.
+ENG_LEFT | /ffs_weapons/ffs_0_cultist/ffs_frag_rgo/ffs_frag_rgo_cultist.activeitem.patch/description | gunner,close,target,very,dangerous
+   EN: ^#ffb73b;Manuf. Soviet Union
+^#7c7c7c;Equiping status : ^white;Full
+
+
+
+
+^#7c7c7c;Effective Range : 20m / 1.6 × 4 = 50 Blocks (1.6m = 4blocks
+   KO: ^#ffb73b;제조사: 소련
+^#7c7c7c;장착 상태 : ^white;Full
+
+
+
+
+^#7c7c7c;유효 사거리 : 20m / 1.6 × 4 = 50 블록 (1.6m = 4블록)
+^green;LMB : UDZS 충격 신관 1.5초 후 발동
+^green;RMB : 3.0초 지연 발사
+
+
+^red;사격 주의! 폭발은 플
+ENG_LEFT | /ffs_weapons/ffs_0_cultist/ffs_spanner/ffs_spanner.activeitem.patch/description | spanner
+   EN: ^#ffb73b;Manuf. ffs_spanner
+^#7c7c7c;ffs_spanner : ^white;ffs_spanner
+
+
+
+
+
+
+
+
+
+
+
+   KO: ^#ffb73b;제조사: ffs_spanner
+^#7c7c7c;ffs_spanner : ^white;ffs_spanner
+ENG_LEFT | /ffs_weapons/ffs_0_special/ffs_p119sr_astro_hc/ffs_p119sr_astro_hc.activeitem.patch/description | inch
+   EN: ^#ffb73b;One of a kind!
+^#7c7c7c;1Tier : Hardcore Service
+^#7c7c7c;Aiming speed : ^white;0.5s
+^#7c7c7c;Equiping speed : ^white;2s
+^#7c7c7c;L
+   KO: ^#ffb73b;세상에 하나뿐인 물건!
+^#7c7c7c;1티어 : 하드코어 제식
+^#7c7c7c;조준 속도 : ^white;0.5s
+^#7c7c7c;장착 속도 : ^white;2s
+^#7c7c7c;LMB=사격 : ^white;과충전 배대서리
+^#7c7c7c;RMB=터보 제트 : ^green;무제한
+^#7c7c7c;자동 재
+ENG_LEFT | /ffs_weapons/ffs_3_ar/ffs_fal/ffs_fal_1.activeitem.patch/description | secs
+   EN: ^#ffb73b;Manuf. FN Herstal
+^#7c7c7c;1Tier : Civilian Service
+^#7c7c7c;Aiming speed : ^white;0.5sec
+^#7c7c7c;Equiping speed : ^white;2secs
+^#
+   KO: ^#ffb73b;제조사: FN 헤르스탈
+^#7c7c7c;1티어 : 민간 제식
+^#7c7c7c;조준 속도 : ^white;0.5sec
+^#7c7c7c;장착 속도 : ^white;2secs
+^#7c7c7c;LMB=사격 : ^white;7.62×51mm NATO
+^#7c7c7c;RMB=빠른 재장전 : ^white;1.2s
+^#
+ENG_LEFT | /ffs_weapons/ffs_3_ar/ffs_g3/ffs_g3_1.activeitem.patch/description | secs
+   EN: ^#ffb73b;Manuf. Heckler & Koch
+^#7c7c7c;1Tier : Civilian Service
+^#7c7c7c;Aiming speed : ^white;0.5sec
+^#7c7c7c;Equiping speed : ^white;2sec
+   KO: ^#ffb73b;제조사: 헤클러 & 코흐
+^#7c7c7c;1티어 : 민간 제식
+^#7c7c7c;조준 속도 : ^white;0.5sec
+^#7c7c7c;장착 속도 : ^white;2secs
+^#7c7c7c;LMB=사격 : ^white;7.62×51mm NATO
+^#7c7c7c;RMB=빠른 재장전 : ^white;1.2s
+^
+ENG_LEFT | /ffs_weapons/ffs_3_smg/ffs_ACRvortex/ffs_ACRvortex.activeitem.patch/description | burst
+   EN: ^#F08C14;Avalon Defense Fleet
+^#7c7c7c;1Tier : ADF Service
+^#7c7c7c;Aiming speed : ^white;0.5s
+^#7c7c7c;Equiping speed : ^white;2s
+^#7c7c7c;
+   KO: ^#F08C14;아발론 방위 함대
+^#7c7c7c;1티어 : ADF 제식
+^#7c7c7c;조준 속도 : ^white;0.5s
+^#7c7c7c;장착 속도 : ^white;2s
+^#7c7c7c;LMB=사격 : ^white;10×20mm
+^#7c7c7c;RMB=2발 점사 : ^white;10×20mm
+^#7c7c7c;Auto 
+ENG_LEFT | /ffs_weapons/ffs_4_ar/ffs_PlusRifle/ffs_PlusRifle.activeitem.patch/description | secs
+   EN: ^#F08C14;T'au
+^#7c7c7c;Aiming speed : ^white;0.5sec
+^#7c7c7c;Equiping speed : ^white;2secs
+^#7c7c7c;Reloading speed : ^white;2secs
+^#7c7c7c;
+   KO: ^#F08C14;타우
+^#7c7c7c;조준 속도 : ^white;0.5sec
+^#7c7c7c;장착 속도 : ^white;2secs
+^#7c7c7c;재장전 속도 : ^white;2secs
+^#7c7c7c;장착 탄창 상태 : ^white;비어 있음
+^#7c7c7c;명중률 : ^white;90% 
+^#7c7c7c;탄약·탄심 :
+ENG_LEFT | /ffs_weapons/ffs_4_ar/ffs_RAR/ffs_RAR.activeitem.patch/description | burst
+   EN: ^#F08C14;Avalon Defense Fleet
+^#7c7c7c;1Tier : ADF Service
+^#7c7c7c;Aiming speed : ^white;0.5s
+^#7c7c7c;Equiping speed : ^white;2s
+^#7c7c7c;
+   KO: ^#F08C14;아발론 방위 함대
+^#7c7c7c;1티어 : ADF 제식
+^#7c7c7c;조준 속도 : ^white;0.5s
+^#7c7c7c;장착 속도 : ^white;2s
+^#7c7c7c;LMB=사격 : ^white;15×30mm
+^#7c7c7c;RMB=4발 점사 : ^white;15×30mm
+^#7c7c7c;Auto 
+ENG_LEFT | /ffs_weapons/ffs_4_ar/ffs_RFStormSruge/ffs_RFStormSruge.activeitem.patch/description | burst
+   EN: ^#F08C14;Avalon Defense Fleet
+^#7c7c7c;1Tier : ADF Service
+^#7c7c7c;Aiming speed : ^white;0.5s
+^#7c7c7c;Equiping speed : ^white;2s
+^#7c7c7c;
+   KO: ^#F08C14;아발론 방위 함대
+^#7c7c7c;1티어 : ADF 제식
+^#7c7c7c;조준 속도 : ^white;0.5s
+^#7c7c7c;장착 속도 : ^white;2s
+^#7c7c7c;LMB=사격 : ^white;10×20mm
+^#7c7c7c;RMB=2발 점사 : ^white;10×20mm
+^#7c7c7c;Auto 
+ENG_LEFT | /ffs_weapons/ffs_4_ar/ffs_makeshiftautorifle/ffs_makeshiftautorifle.activeitem.patch/description | secs
+   EN: ^#ffb73b;Bandit
+^#7c7c7c;Aiming speed : ^white;0.5sec
+^#7c7c7c;Equiping speed : ^white;2secs
+^#7c7c7c;Reloading speed : ^white;2secs
+^#7c7c7
+   KO: ^#ffb73b;밴디트
+^#7c7c7c;조준 속도 : ^white;0.5sec
+^#7c7c7c;장착 속도 : ^white;2secs
+^#7c7c7c;재장전 속도 : ^white;2secs
+^#7c7c7c;장착 탄창 상태 : ^white;비어 있음
+^#7c7c7c;명중률 : ^white;50% 
+^#7c7c7c;탄약·탄심 
+ENG_LEFT | /ffs_weapons/ffs_4_ar/ffs_makeshiftsinperrifle/ffs_makeshiftsinperrifle.activeitem.patch/description | secs
+   EN: ^#ffb73b;Bandit
+^#7c7c7c;Aiming speed : ^white;0.5sec
+^#7c7c7c;Equiping speed : ^white;2secs
+^#7c7c7c;Reloading speed : ^white;2secs
+^#7c7c7
+   KO: ^#ffb73b;밴디트
+^#7c7c7c;조준 속도 : ^white;0.5sec
+^#7c7c7c;장착 속도 : ^white;2secs
+^#7c7c7c;재장전 속도 : ^white;2secs
+^#7c7c7c;장착 탄창 상태 : ^white;비어 있음
+^#7c7c7c;명중률 : ^white;80% 
+^#7c7c7c;탄약·탄심 
+ENG_LEFT | /ffs_weapons/ffs_8_at/ffs_FBFH/ffs_FBFH.activeitem.patch/description | secs
+   EN: ^#F08C14;Avalon Defense Fleet
+^#F08C14;Aiming speed : ^white;0.5sec
+^#F08C14;Equiping speed : ^white;2secs
+^#F08C14;Reloading speed : ^white
+   KO: ^#F08C14;아발론 방위 함대
+^#F08C14;조준 속도 : ^white;0.5sec
+^#F08C14;장착 속도 : ^white;2secs
+^#F08C14;재장전 속도 : ^white;2secs
+^#F08C14;장착 탄창 상태 : ^white;비어 있음
+^#F08C14;명중률 : ^white;70% 
+^#F08C14;
+ENG_LEFT | /interface/ai/fu_byosai.config.patch/backgroundPresentConfirmation/message | steamcommunity,sharedfiles,filedetails
+   EN: The normal background image has been detected. This background image will be rendered permanently on your Frackin' Ship. If you do not have 
+   KO: 일반 배경 이미지가 감지되었습니다. 이 배경은 Frackin' Ship에 영구적으로 표시됩니다. Frackin' Ship 종족 지원 패치가 없다면 https://steamcommunity.com/sharedfiles/filedetails/?id=1194878261 에서 받아 새 캐릭터를 만드세요.
+ENG_LEFT | /interface/configs/GDSuite.config.patch/tooltipData/dyes/dyesPage_layout.colourCustomizerLayout.logButton/description | storage,starbound
+   EN: Export palette data to "/storage/starbound.log".
+   KO: 팔레트 데이터를 "/storage/starbound.log"로 내보냅니다.
+ENG_LEFT | /interface/configs/GDSuite.config.patch/tooltipData/dyes/dyesPage_layout.saveLoadInternalDyesLayout.logButton/description | storage,starbound
+   EN: Export all palettes to "/storage/starbound.log".
+   KO: 모든 팔레트를 "/storage/starbound.log"로 내보냅니다.
+ENG_LEFT | /interface/configs/GDSuite.config.patch/tooltipData/dyes/dyesPage_layout.paletteImporterLayout.importDirectiveButton/description | replace
+   EN: Set current palette as the ?replace directive input.
+   KO: 현재 팔레트를 ?replace 지시문의 입력으로 설정한다.
+ENG_LEFT | /interface/configs/GDSuite.config.patch/tooltipData/dyes/dyesPage_layout.paletteImporterLayout.directiveTextbox/description | replace
+   EN: Set current palette as the ?replace directive input.
+   KO: 현재 팔레트를 ?replace 지시문의 입력으로 설정한다.
+PHRASE:rosseo | /interface/confirmation/gic_teleportconfirmation.config.patch/gic_gensokyo_youkaimountain_traitorsmemory_innercity_confirmation/message | 
+   EN: 
+   KO: 
+
+텐구는 환상향의 옛 질서를 거부하면서도 종족으로서 인류와의 동맹을 유지한다. 이로써 텐구는 융합 교회에 받아들여지고, 두 거대 세력 사이에 강한 동맹이 맺어진다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/Colorize/2/detail | remove,override
+   EN:  We would like to remind you that if colors start getting weird selecting 'remove override' on the top of the list for all 5 categories will
+   KO: 색상이 이상하게 표시되기 시작하면 다섯 범주 모두에서 목록 맨 위의 'remove override'를 선택하세요. 모든 설정이 정상으로 돌아옵니다!
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/Export | starbound
+   EN: Select this tab to export your generated npc as a spawn command!  You can find the command in your starbound.log file.
+   KO: 이 탭을 선택하면 생성한 NPC를 소환 명령 형식으로 내보낼 수 있다! 해당 명령은 starbound.log 파일에서 확인할 수 있다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/ExportOptn/1/detail | starbound
+   EN: Your npc has been successfully exported to your starbound.log file. The unique id tied to this export is listed below.  Use that key to quic
+   KO: NPC가 starbound.log 파일로 성공적으로 내보내졌습니다. 이번 내보내기에 연결된 고유 ID는 아래와 같습니다.  이 키로 starbound.log 파일에서 필요한 문자열을 빠르게 찾을 수 있습니다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/ExportOptn/3/detail | spawner
+   EN: HOW TO USE THE SPAWNER:  
+1.  Use the command to spawn a 'spawner' item, it will be unique in that the item title will have your npc's name.
+   KO: 생성기 사용법:  
+1.  명령어로 'spawner' 아이템을 소환하세요. 아이템 이름에 NPC의 이름이 붙어 있어 구분할 수 있습니다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/ExportOptn/9/detail | starbound
+   EN: Q. Where in the starbound.log file is the text I need?
+1. Open up the file in a program which will auto-parse the text.  (Notepad++, Sublime
+   KO: Q. starbound.log 파일 어디에서 필요한 텍스트를 찾을 수 있나요?
+1. 텍스트를 자동으로 정리해 주는 프로그램으로 파일을 엽니다.  (Notepad++, Sublime Text, Google Chrome, Firefox, 워드패드 또는 아무 IDE나 상관없습니다).
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/Override | input,override
+   EN: Use the 'input override' textbox to modify your npc even further.  Visit the tab for more info!
+   KO: 'input override' 텍스트 상자를 사용하면 NPC를 더욱 세밀하게 수정할 수 있다. 자세한 내용은 해당 탭에서 확인하자!
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/1/detail | input,override
+   EN: Welcome to the category for the most advanced of advanced.  Here we will explore how to use the 'input override' command box below to custom
+   KO: 최고급 고급 기능 범주에 온 것을 환영한다. 여기서는 아래의 'input override' 명령 상자를 사용해 NPC를 한층 더 세밀하게 꾸미는 방법을 알아본다!
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/2/detail | enter
+   EN: This functionality is similar to admin commands.  Type in a specific command and press 'enter' to apply it.  Commands are delimited in space
+   KO: 이 기능은 관리자 명령과 비슷하다. 지정된 명령을 입력하고 'enter'를 누르면 적용된다. 명령의 각 부분은 공백(' ')으로 구분한다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/5/detail | insert,additionalspecies,additionalnpctypes
+   EN: ^green;insert additionalspecies [string species1 species2...] 
+insert additionalnpctypes [string type1 type2..]
+   KO: ^green;insert additionalspecies [문자열 종족1 종족2...] 
+insert additionalnpctypes [문자열 타입1 타입2..]
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/7/detail | insert,avali,felin,shadow
+   EN: Ex:  insert additionalSpecies avali felin shadow
+   KO: 예:  insert additionalSpecies avali felin shadow
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/8/detail | storage,starbound
+   EN: You can find and modify these lists in your starbound.config folder, located in the 'storage' folder in your game's directory.
+   KO: 이 목록들은 게임 디렉터리의 'storage' 폴더 안에 있는 starbound.config에서 찾아 수정할 수 있다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/11/detail | level
+   EN: ^green;set level [int]^white;
+Sets the npc's level.  Values over 10 go beyond vanilla level.  (Default: planet level)  
+   KO: ^green;set level [정수]^white;
+NPC의 레벨 설정. 10 초과는 바닐라 레벨 초과. (기본: 행성 레벨)
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/13/detail | damageteam
+   EN: ^green;set damageteam [int]^white;
+Sets the damage team of an npc.  All aggressive actions caused by npcs will be shared by nearby npcs of t
+   KO: ^green;set damageteam [정수]^white;
+NPC의 피해 팀을 설정한다. NPC가 공격 행동을 하면 근처에 있는 같은 damageteam 소속 NPC도 그 적대 상태를 공유한다. 기본값은 우호 NPC가 1, 적대 NPC가 2다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/14/detail | damageteamtype,friendly,enemy,passive
+   EN: ^green;set damageteamtype [String] ('friendly','enemy','passive')^white;
+Sets how the player can interact with the npc and how the npc inter
+   KO: ^green;set damageteamtype [문자열] ('friendly','enemy','passive')^white;
+플레이어가 NPC와 상호작용하는 방식 및 NPC가 다른 NPC와 상호작용하는 방식을 설정한다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/15/detail | friendly
+   EN: ^green;'friendly'^white; : used by villagers/guards. They will be all friendly and nice, you will be unable to directly attack them.
+   KO: ^green;'friendly'^white; : 마을 주민과 경비가 사용한다. 모두에게 다정하고 친절하게 굴며, 플레이어는 이들을 직접 공격할 수 없다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/16/detail | enemy,shadowvillager,deadbeatscrounger
+   EN: ^green;'enemy'^white; : Used by most hostile enemies.  You can attack them but this doesn't always mean that they are aggressive. (ex of 'fr
+   KO: ^green;'enemy'^white; : 대부분의 적대적인 적이 사용하는 타입이다. 공격할 수 있는 대상이지만 반드시 먼저 공격해 온다는 뜻은 아니다. 우호적인 'enemy' 타입의 예로는 shadowvillager와 deadbeatscrounger가 있다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/17/detail | passive,hostiledamageteamtype
+   EN: ^green;'passive'^white; : 'Also used by critters,  this makes all npctypes not have a care in the world.  villagers and guards will need to 
+   KO: ^green;'passive'^white; : 소형 생물에도 사용하는 설정으로, 모든 NPC 타입이 아무것도 신경 쓰지 않게 한다. 주민과 경비병에게 같은 효과를 적용하려면 이 값과 hostiledamageteamtype을 모두 'passive'로 설정해야 한다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/18/detail | hostiledamageteam,hostiledamageteamtype,friendly,enemy,passive
+   EN: ^green;set hostiledamageteam [int]
+set hostiledamageteamtype [String] ('friendly','enemy','passive')
+   KO: ^green;set hostiledamageteam [정수]
+set hostiledamageteamtype [문자열] ('friendly','enemy','passive')
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/19/detail | hostileteam,hdtt,damageteam,damageteamtype
+   EN: these hostileteam parameters (hdt, hdtt for short) will replace the regular damageteam(dt) and damageteamtype(dtt) whenever the npc detects 
+   KO: NPC가 적대 행위를 감지하거나 플레이어에게 피해를 받으면 이 hostileteam 매개변수(줄여서 hdt, hdtt)가 일반 damageteam(dt)과 damageteamtype(dtt)을 대체한다. 사용법은 다음과 같다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/21/detail | friendly
+   EN: If you do not want an npc to attack you or your followers under any circumstances (and vice versa) then set these parameters to 1 and 'frien
+   KO: 어떤 상황에서도 NPC가 플레이어나 추종자를 공격하지 않고 그 반대의 공격도 일어나지 않게 하려면, 이 매개변수들을 각각 1과 'friendly'로 설정한다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/22/detail | friendlyguard,friendlyguardtenant
+   EN: The npcTypes 'friendlyguard' and 'friendlyguardtenant' have hostile parameters set to always be friendly.
+   KO: 'friendlyguard'와 'friendlyguardtenant' npcType은 적대성 매개변수가 항상 우호적으로 설정되어 있습니다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/26/detail | replace
+   EN: Example:
+  set bodyDirective ?replace;f0e1bb=e6e6e6;6b583d=555555...
+   KO: 예:
+  set bodyDirective ?replace;f0e1bb=e6e6e6;6b583d=555555...
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/29/detail | output,npctype,self,villager,dialogue
+   EN: ^green;output npctype [string 'npcType'|'self'] [string 'jsonPath']^white;
+Example:
+'output npctype villager scriptConfig.behaviorConfig'
+'o
+   KO: ^green;output npctype [문자열 'npcType'|'self'] [문자열 'jsonPath']^white;
+예:
+'output npctype villager scriptConfig.behaviorConfig'
+'output npctype self scriptConfig.dialogue'
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/30/detail | output,species,self,apex,genders
+   EN: ^green;output species [string 'speciesName'|'self'] [string 'jsonPath']^white;
+Example:
+'output species apex undyColors'
+'output species sel
+   KO: ^green;output species [문자열 'speciesName'|'self'] [문자열 'jsonPath']^white;
+예:
+'output species apex undyColors'
+'output species self genders.1.name'
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/33/detail | output,starbound
+   EN: these output commands will also log these files into your starbound.log folder
+   KO: 이 output 명령을 사용하면 해당 파일이 starbound.log 폴더에도 기록됩니다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/34/detail | output,override
+   EN: ^green;output override [string 'jsonPath']^white;
+ Displays all overrides currently applied to your npc.  Not providing a jsonPath will show
+   KO: ^green;output override [문자열 'jsonPath']^white;
+현재 NPC에 적용된 모든 오버라이드를 표시한다. jsonPath를 지정하지 않으면 모든 오버라이드를 표시하지만, 성능 저하는 훨씬 적다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/37/detail | clear
+   EN: ^green;clear^white;
+Clears the screen of all text.
+   KO: ^green;clear^white;
+화면의 모든 텍스트를 지움.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/OverrideOptn/38/detail | clearcache
+   EN: ^green;clearcache^white;
+For faster loading times, certain display information is cached into the world directory and shared among all other
+   KO: ^green;clearcache^white;
+로딩 시간을 줄이기 위해 일부 표시 정보는 월드 디렉터리에 캐시되어 같은 행성에 있는 다른 모든 패널과 공유된다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfig.config.patch/infoDescription/DetachOptn/2/detail | detach,input,override
+   EN: To continue: Make sure you have solidified any changes. Then input the command ^green;'detach'^white; 
+in the 'input override' command box b
+   KO: 계속하려면: 변경 사항을 확정했는지 확인하세요. 그다음 ^green;'detach'^white; 명령을 
+아래 'input override' 명령 상자에 입력하고 엔터를 누르세요.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/Colorize/2/detail | remove,override
+   EN:  We would like to remind you that if colors start getting weird selecting 'remove override' on the top of the list for all 5 categories will
+   KO: 색상이 이상하게 표시되기 시작하면 다섯 범주 모두에서 목록 맨 위의 'remove override'를 선택하세요. 모든 설정이 정상으로 돌아옵니다!
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/Export | starbound
+   EN: Select this tab to export your generated npc as a spawn command!  You can find the command in your starbound.log file.
+   KO: 이 탭을 선택하면 생성한 NPC를 소환 명령 형식으로 내보낼 수 있다! 해당 명령은 starbound.log 파일에서 확인할 수 있다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/ExportOptn/1/detail | starbound
+   EN: Your npc card has been successfully created.  ^green;Make sure to grab it from the itemslot at the top!^white;  A spawn item command of the 
+   KO: NPC 카드가 성공적으로 만들어졌습니다.  ^green;위쪽 아이템 슬롯에서 꼭 챙겨 가세요!^white;  카드를 소환하는 아이템 명령도 starbound.log 파일에 기록해 두었습니다. (아래 참조).
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/ExportOptn/2/detail | spawn,starbound
+   EN: In addition a /spawn command has been logged in your starbound.log file. (see below).
+   KO: 또한 /spawn 명령이 starbound.log 파일에 기록되었습니다. (아래 참조).
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/ExportOptn/4/detail | starbound
+   EN: ^green;How To Use:^white; Open your starbound.log file in a word document and use the ^orange;uniqueID^white; above as the keyword to search
+   KO: ^green;사용법:^white; starbound.log 파일을 문서 편집기로 열고, 위의 ^orange;uniqueID^white;를 검색어로 삼아 문서에서 찾으세요.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/Override | input,override
+   EN: Use the 'input override' textbox to modify your npc even further.  Visit the tab for more info!
+   KO: 'input override' 텍스트 상자를 사용하면 NPC를 더욱 세밀하게 수정할 수 있다. 자세한 내용은 해당 탭에서 확인하자!
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/1/detail | input,override
+   EN: Welcome to the category for the most advanced of advanced.  Here we will explore how to use the 'input override' command box below to custom
+   KO: 최고급 고급 기능 범주에 온 것을 환영한다. 여기서는 아래의 'input override' 명령 상자를 사용해 NPC를 한층 더 세밀하게 꾸미는 방법을 알아본다!
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/2/detail | enter
+   EN: This functionality is similar to admin commands.  Type in a specific command and press 'enter' to apply it.  Commands are delimited in space
+   KO: 이 기능은 관리자 명령과 비슷하다. 지정된 명령을 입력하고 'enter'를 누르면 적용된다. 명령의 각 부분은 공백(' ')으로 구분한다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/3/detail | insert,additionalspecies,additionalnpctypes
+   EN: ^green;insert additionalspecies [string species1 species2...] 
+insert additionalnpctypes [string type1 type2..]
+   KO: ^green;insert additionalspecies [문자열 종족1 종족2...] 
+insert additionalnpctypes [문자열 타입1 타입2..]
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/5/detail | insert,avali,felin,shadow
+   EN: Ex:  insert additionalSpecies avali felin shadow
+   KO: 예:  insert additionalSpecies avali felin shadow
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/6/detail | storage,starbound
+   EN: You can find and modify these lists in your starbound.config folder, located in the 'storage' folder in your game's directory.
+   KO: 이 목록들은 게임 디렉터리의 'storage' 폴더 안에 있는 starbound.config에서 찾아 수정할 수 있다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/9/detail | level
+   EN: ^green;set level [int]^white;
+Sets the npc's level.  Values over 10 go beyond vanilla level.  (Default: planet level)  
+   KO: ^green;set level [정수]^white;
+NPC의 레벨 설정. 10 초과는 바닐라 레벨 초과. (기본: 행성 레벨)
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/11/detail | damageteam
+   EN: ^green;set damageteam [int]^white;
+Sets the damage team of an npc.  All aggressive actions caused by npcs will be shared by nearby npcs of t
+   KO: ^green;set damageteam [정수]^white;
+NPC의 피해 팀을 설정한다. NPC가 공격 행동을 하면 근처에 있는 같은 damageteam 소속 NPC도 그 적대 상태를 공유한다. 기본값은 우호 NPC가 1, 적대 NPC가 2다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/12/detail | damageteamtype,friendly,enemy,passive
+   EN: ^green;set damageteamtype [String] ('friendly','enemy','passive')^white;
+Sets how the player can interact with the npc and how the npc inter
+   KO: ^green;set damageteamtype [문자열] ('friendly','enemy','passive')^white;
+플레이어가 NPC와 상호작용하는 방식 및 NPC가 다른 NPC와 상호작용하는 방식을 설정한다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/13/detail | friendly
+   EN: ^green;'friendly'^white; : used by villagers/guards. They will be all friendly and nice, you will be unable to directly attack them.
+   KO: ^green;'friendly'^white; : 마을 주민과 경비가 사용한다. 모두에게 다정하고 친절하게 굴며, 플레이어는 이들을 직접 공격할 수 없다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/14/detail | enemy,shadowvillager,deadbeatscrounger
+   EN: ^green;'enemy'^white; : Used by most hostile enemies.  You can attack them but this doesn't always mean that they are aggressive. (ex of 'fr
+   KO: ^green;'enemy'^white; : 대부분의 적대적인 적이 사용하는 타입이다. 공격할 수 있는 대상이지만 반드시 먼저 공격해 온다는 뜻은 아니다. 우호적인 'enemy' 타입의 예로는 shadowvillager와 deadbeatscrounger가 있다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/15/detail | passive,hostiledamageteamtype
+   EN: ^green;'passive'^white; : 'Also used by critters,  this makes all npctypes not have a care in the world.  villagers and guards will need to 
+   KO: ^green;'passive'^white; : 소형 생물에도 사용하는 설정으로, 모든 NPC 타입이 아무것도 신경 쓰지 않게 한다. 주민과 경비병에게 같은 효과를 적용하려면 이 값과 hostiledamageteamtype을 모두 'passive'로 설정해야 한다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/16/detail | hostiledamageteam,hostiledamageteamtype,friendly,enemy,passive
+   EN: ^green;set hostiledamageteam [int]
+set hostiledamageteamtype [String] ('friendly','enemy','passive')
+   KO: ^green;set hostiledamageteam [정수]
+set hostiledamageteamtype [문자열] ('friendly','enemy','passive')
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/17/detail | hostileteam,hdtt,damageteam,damageteamtype
+   EN: these hostileteam parameters (hdt, hdtt for short) will replace the regular damageteam(dt) and damageteamtype(dtt) whenever the npc detects 
+   KO: NPC가 적대 행위를 감지하거나 플레이어에게 피해를 받으면 이 hostileteam 매개변수(줄여서 hdt, hdtt)가 일반 damageteam(dt)과 damageteamtype(dtt)을 대체한다. 사용법은 다음과 같다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/19/detail | friendly
+   EN: If you do not want an npc to attack you or your followers under any circumstances (and vice versa) then set these parameters to 1 and 'frien
+   KO: 어떤 상황에서도 NPC가 플레이어나 추종자를 공격하지 않고 그 반대의 공격도 일어나지 않게 하려면, 이 매개변수들을 각각 1과 'friendly'로 설정한다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/20/detail | friendlyguard,friendlyguardtenant
+   EN: The npcTypes 'friendlyguard' and 'friendlyguardtenant' have hostile parameters set to always be friendly.
+   KO: 'friendlyguard'와 'friendlyguardtenant' npcType은 적대성 매개변수가 항상 우호적으로 설정되어 있습니다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/24/detail | replace
+   EN: Example:
+  set bodyDirective ?replace;f0e1bb=e6e6e6;6b583d=555555...
+   KO: 예:
+  set bodyDirective ?replace;f0e1bb=e6e6e6;6b583d=555555...
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/27/detail | output,npctype,self,villager,dialogue
+   EN: ^green;output npctype [string 'npcType'|'self'] [string 'jsonPath']^white;
+Example:
+'output npctype villager scriptConfig.behaviorConfig'
+'o
+   KO: ^green;output npctype [문자열 'npcType'|'self'] [문자열 'jsonPath']^white;
+예:
+'output npctype villager scriptConfig.behaviorConfig'
+'output npctype self scriptConfig.dialogue'
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/28/detail | output,species,self,apex,genders
+   EN: ^green;output species [string 'speciesName'|'self'] [string 'jsonPath']^white;
+Example:
+'output species apex undyColors'
+'output species sel
+   KO: ^green;output species [문자열 'speciesName'|'self'] [문자열 'jsonPath']^white;
+예:
+'output species apex undyColors'
+'output species self genders.1.name'
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/31/detail | output,starbound
+   EN: these output commands will also log these files into your starbound.log folder
+   KO: 이 output 명령을 사용하면 해당 파일이 starbound.log 폴더에도 기록됩니다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/32/detail | output,override
+   EN: ^green;output override [string 'jsonPath']^white;
+ Displays all overrides currently applied to your npc.  Not providing a jsonPath will show
+   KO: ^green;output override [문자열 'jsonPath']^white;
+현재 NPC에 적용된 모든 오버라이드를 표시한다. jsonPath를 지정하지 않으면 모든 오버라이드를 표시하지만, 성능 저하는 훨씬 적다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/35/detail | clear
+   EN: ^green;clear^white;
+Clears the screen of all text.
+   KO: ^green;clear^white;
+화면의 모든 텍스트를 지움.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/OverrideOptn/36/detail | clearcache
+   EN: ^green;clearcache^white;
+For faster loading times, certain display information is cached into the world directory and shared among all other
+   KO: ^green;clearcache^white;
+로딩 시간을 줄이기 위해 일부 표시 정보는 월드 디렉터리에 캐시되어 같은 행성에 있는 다른 모든 패널과 공유된다.
+ENG_LEFT | /interface/scripted/NpcMenu/modConfigv2.config.patch/infoDescription/DetachOptn/2/detail | detach,input,override
+   EN: To continue: Make sure you have solidified any changes. Then input the command ^green;'detach'^white; 
+in the 'input override' command box b
+   KO: 계속하려면: 변경 사항을 확정했는지 확인하세요. 그다음 ^green;'detach'^white; 명령을 
+아래 'input override' 명령 상자에 입력하고 엔터를 누르세요.
+ENG_LEFT | /interface/scripted/fm_musicplayer/musiclist.config.patch/Starbound/24/name | xbfaf
+   EN: Error 0xbfaf000
+   KO: 오류 0xbfaf000
+ENG_LEFT | /interface/scripted/spaceStation/texts.config.patch/generic/welcome | playername
+   EN: Welcome to the {STATIONNAME} station [(playername)]. Enjoy your stay!
+   KO: {STATIONNAME} 스테이션에 온 걸 환영해, [(playername)]. 즐거운 시간 보내!
+ENG_LEFT | /interface/scripted/spaceStation/texts.config.patch/generic/chat1 | pause
+   EN: *Additional supplies depots required*
+[(pause)5]...[(pause)5]
+Pardon me - wrong AI state.
+   KO: *보급 기지가 더 필요합니다*
+[(pause)5]...[(pause)5]
+실례했습니다 - AI 상태를 잘못 불러왔군요.
+ENG_LEFT | /interface/scripted/spaceStation/texts.config.patch/generic/chat4 | pause
+   EN: *Incoming Transmission*
+[(pause)5]*Processing...*
+[(pause)5]*Printing to screen*
+According to all known laws of aviation, there is no way a 
+   KO: *수신 중인 통신*
+[(pause)5]*처리 중...*
+[(pause)5]*화면에 출력 중*
+알려진 모든 항공 법칙에 따르면, 벌은 날 수 없다.
+날개가 너무 작아서 통통한 작은 몸을 땅에서 띄울 수 없기 때문이다.
+물론 벌은 그래도 난다. 벌은 인간이 불가능하다고 생각하는 것 따위 신경 쓰지 않으니까.
+노랑, 검정. 노
+ENG_LEFT | /interface/scripted/spaceStation/texts.config.patch/generic/chat5 | pause
+   EN: *Searching archives for entertainment*
+[(pause)5].[(pause)5].[(pause)5].[(pause)10] *Entertainment detected. Printing to screen*
+[(pause)3]N
+   KO: *오락거리를 찾아 기록 보관소 검색 중*
+[(pause)5].[(pause)5].[(pause)5].[(pause)10] *오락거리 발견. 화면에 출력 중*
+[(pause)3]이제부터 할 이야기는 바로
+내 인생이 어떻게 완전히 뒤집혔는가에 관한 거야
+잠깐 시간 좀 내 줘
+거기 그냥 앉아 있어
+내가 어떻게 벨에어라는 동네의
+ENG_LEFT | /interface/scripted/spaceStation/texts.config.patch/apex/welcome | playername
+   EN: Welcome to the {STATIONNAME} station [(playername)], and remember, Big Ape is watching.
+   KO: {STATIONNAME} 스테이션에 온 걸 환영해, [(playername)], 그리고 기억해, 빅 에이프가 지켜보고 있어.
+ENG_LEFT | /interface/scripted/spaceStation/texts.config.patch/avian/welcome | playername
+   EN: Welcome to the {STATIONNAME} station [(playername)], Kluex watch over you!
+   KO: {STATIONNAME} 스테이션에 온 걸 환영해, [(playername)], 클루엑스가 널 지켜보길!
+ENG_LEFT | /interface/scripted/spaceStation/texts.config.patch/floran/welcome | playername
+   EN: Floran must welcome [(playername)] to the {STATIONNAME} ssstation. Ssstate your businesss
+   KO: 플로란은 [(playername)]을 {STATIONNAME} 정거장에 환영해야 한다. 용건을 말하라
+ENG_LEFT | /interface/scripted/spaceStation/texts.config.patch/glitch/welcome | playername
+   EN: Cordial. Welcome to the {STATIONNAME} station [(playername)]. Enjoy your stay!
+   KO: 친절. {STATIONNAME} 정거장 [(playername)]에 오신 것을 환영합니다. 즐겁게 머무르세요!
+ENG_LEFT | /interface/scripted/spaceStation/texts.config.patch/human/welcome | playername
+   EN: Welcome to the {STATIONNAME} station [(playername)]!
+   KO: {STATIONNAME} 스테이션에 온 걸 환영해, [(playername)]!
+ENG_LEFT | /interface/scripted/spaceStation/texts.config.patch/hylotl/welcome | playername
+   EN: Greetings [(playername)], and welcome to the {STATIONNAME} station 
+   KO: 안녕하세요 [(playername)]님, {STATIONNAME} 정거장에 오신 걸 환영합니다
+ENG_LEFT | /interface/scripted/spaceStation/texts.config.patch/novakid/welcome | playername
+   EN: Howdy [(playername)]! Welcome to the {STATIONNAME} station pardner!
+   KO: 하우디, [(playername)]! {STATIONNAME} 정거장에 온 걸 환영한다네, 친구!
+ENG_LEFT | /interface/scripted/spaceStation/texts.config.patch/novakid/chat4 | pause
+   EN: How do I solve problems? [(pause)5]Guns.
+[(pause)10]How do I solve big problems? [(pause)5]Big guns!
+   KO: 문제는 어떻게 해결하냐고? [(pause)5]총으로.
+[(pause)10]큰 문제는 어떻게 해결하냐고? [(pause)5]큰 총으로!
+ENG_LEFT | /interface/scripted/v-missingdependency/v-quickbar.config.patch/gui/message/value | quickbar
+   EN: It appears that you don't have a ^orange;Quickbar^reset; mod installed. Voided adds a settings window accessible only through the Quickbar.
+
+   KO: ^orange;Quickbar^reset; 모드가 설치되어 있지 않은 것 같습니다. Voided는 Quickbar를 통해서만 접근 가능한 설정 창을 추가합니다.
+
+Steam 워크숍이나 Chucklefish 포럼에서 "quickbar"를 검색해 원하는 모드를 설치하시길 권장합니다.
+
+이미 Quickbar 모드가 있다면 Di
+ENG_LEFT | /interface/scripted/v-missingdependency/v-tbworkaround.config.patch/gui/message/value | steamcommunity,sharedfiles,filedetails,community,playstarbound,resources,tilebroken,workaround
+   EN: It appears that you don't have ^orange;tileBroken Workaround^reset; installed. Without it, Voided ^red;may not work properly^reset;.
+
+You ca
+   KO: ^orange;tileBroken Workaround^reset;가 설치되어 있지 않은 것 같습니다. 그것 없이는 Voided가 ^red;제대로 작동하지 않을 수 있습니다^reset;.
+
+Steam 워크숍 ^blue;https://steamcommunity.com/sharedfiles/filedetails/?id=3534
+ENG_LEFT | /interface/scripted/v-missingdependency/v-terralib.config.patch/gui/message/value | steamcommunity,sharedfiles,filedetails,community,playstarbound,resources,terralib
+   EN: It appears that you don't have ^orange;TerraLib^reset; installed. Without it, Voided ^red;may not work properly^reset;.
+
+You can find it on 
+   KO: ^orange;TerraLib^reset;가 설치되어 있지 않은 것 같습니다. 그것 없이는 Voided가 ^red;제대로 작동하지 않을 수 있습니다^reset;.
+
+Steam 워크숍 ^blue;https://steamcommunity.com/sharedfiles/filedetails/?id=2230165463^reset;
+ENG_LEFT | /items/CHARACTER_STORIES/GARDEN/gic_garden_alphabunkerkey.item.patch/description | world
+   EN: 
+   KO: 정원 세계(Garden world)에 있는 알파 벙커의 문을 연다.
+ENG_LEFT | /items/CHARACTER_STORIES/GARDEN/gic_garden_resetuniverse_note.item.patch/description | starbound,storage,universe
+   EN: 
+   KO: 
+^orange;경고!^reset; 새 캐릭터를 만든 뒤 이걸 보고 있다면, 아직 유니버스를 리셋하지 않은 것입니다! GIC는 월드 상태에 크게 의존하고 스타바운드는 캐릭터별 월드 상태를 리셋할 수 없으므로, /starbound/storage/universe/- 폴더에서 universe.dat 폴더를 삭제해 수동으로 월드
+ENG_LEFT | /items/CHARACTER_STORIES/NAZRIN/gic_nazrin_colonizedbarren_oldabode_key.item.patch/description | mouse
+   EN: 
+   KO: 지하세계(Subterranean) 어딘가의 문을 여는 데 사용된다.
+  
+열쇠에는 값싼 쥐 모양 키링이 달려 있다. 나즈린은 이제 신경 쓰지 않지만, 예전에는 '쥐(rat)'가 아니라 '생쥐(mouse)' 요괴로 잘못 불릴 때마다 짜증을 냈었다.
+ENG_LEFT | /items/COMMODITIES/MATERIALS/gic_rsr_bloodlily/gic_rsr_bloodlily.item.patch/description | radiata
+   EN: An anomalous fleshy growth resembeling Lycoris radiata flower, or Red Spider Lily. In Japan, such flowers are often planted near cemetaries,
+   KO: 석죽과의 꽃인 Lycoris radiata, 즉 붉은 상사화를 닮은 이상한 살덩이 증식물입니다. 일본에서는 이런 꽃을 종종 묘지 근처에 심기에 장례, 죽음, 저승과 연관됩니다.
+
+강한 정신 오염의 부산물이며, 그 자체로는 비교적 무해합니다. 피험자는 죽음이라는 주제에 집착한 것으로 보고되었으며, 이 꽃들은 그 집착이 발현
+ENG_LEFT | /items/COMMODITIES/gic_kiserupipe/gic_kiserupipe.activeitem.patch/description | cigarette
+   EN: 
+   KO: 키자미, 즉 머리카락처럼 가늘게 썬 담배 제품과 함께 쓰는 일본식 흡연 파이프입니다. 일본의 흡연은 16세기 후반부터 알려졌으며 크메르어 '크시에르' 또는 포르투갈어 '케 소르베르'에서 유래했다고 합니다. 키세루는 1868년 메이지 유신 이후 담배(cigarette)가 도입되기까지 주된 흡연 방식이었습니다.
+
+^orang
+ENG_LEFT | /items/FISH/gic_fish_barramundi.item.patch/description | calcarifer
+   EN: 
+   KO: 바라문디(Lates calcarifer), 아시아 농어 또는 거대 바다농어는 페르시아목 라티다에과의 통해면어종입니다. 이 종은 인도-서태평양에 널리 분포해 중동·남아시아·동남아시아·동아시아·오세아니아 수역에 걸쳤습니다. 바라문디는 퀸즐랜드 록햄프턴 지역 호주 원주민어에서 온 차용어로 ''큰 비늘의 민물고기''를 뜻합니다.
+PHRASE:geunom | /items/FOODS/RATIONS/esc_yffsrationpack.activeitem.patch/description | 
+   EN: ''I traded three packs of our rations for one pack of a human soldier's rations before, and the next time he demanded a five package trade.'
+   KO: ''예전에 우리 전투식량 세 봉지를 인간 병사 전투식량 한 봉지랑 바꾼 적이 있는데, 다음번엔 그 녀석이 다섯 봉지를 달라더라.''
+YFFS 직원용 즉석 전투식량. 맛은 끔찍하지만 열량은 엄청나게 높다.
+
+상호작용하여 연다.
+ENG_LEFT | /items/FOODS/SCAVENGER/gic_plantfibresalad.consumable.patch/description | reset
+   EN: 
+   KO: 큰 도움이 되지는 않지만 상황이 위급할 때는 도움이 될 것입니다. 
+^green;유형: 식물^reset
+ENG_LEFT | /items/FOODS/SCAVENGER/gic_sawdustbread.consumable.patch/description | reset
+   EN: 
+   KO: 더 이상 빵으로 분류할 수 없는 빵입니다.
+^green;유형: Grain^reset
+PHRASE:rosseo | /items/GUIDE_PIECES/CAT_3/gic_guide_swords.item.patch/description | 
+   EN: 
+   KO: 검은 세 가지 기본 근접 피해 유형을 모두 줄 수 있고 보통 콤보에 기절 공격이 내장된 고도로 다재다능한 근접 무기입니다. 이로써 검사는 없던 빈틈도 만들 수 있습니다. 대부분의 검은 대부분 비장갑 적을 처리할 수 있는 빠른 찌르기로 시작합니다.
+ENG_LEFT | /items/GUIDE_PIECES/CAT_5/gic_guide_resetprogress.item.patch/description | starbound,storage,universe
+   EN: 
+   KO: GIC가 영구적 세계 상태에 크게 의존하는 탓에, 세계 상태를 미리 리셋하지 않으면 새 캐릭터가 대부분 퀘스트를 다시 할 수 없는 비용이 따릅니다. 리셋하려면 /starbound/storage/universe/- 폴더로 가서 'universe.dat' 파일을 지우세요. 세계 상태가 리셋되지만 북마크도 지워집니다. 이 때문
+PHRASE:musimushi | /items/MATERIALS/atprk_ruinbrainsblock.matitem.patch/description | 
+   EN: Pulsating brain matter. It's still developing its wrinkles.
+   KO: 고동치는 뇌 조직. 아직 주름이 발달하는 중이다.
+ENG_LEFT | /items/MATERIALS/brick.matitem.patch/description | perfectly,formed,bricks,made,clay
+   EN: 
+   KO: Small but perfectly formed bricks made from clay.
+^orange;분쇄 가능^reset;.
+PHRASE:can-become | /items/MEDICAL/BUFF/gico_lion_green_potion.consumable.patch/description | 
+   EN: A potion that replicates the regeneration properties of a youkai. The regenerated tissue is only barely stable upon forming and can easily b
+   KO: 요괴의 재생 능력을 모방한 물약. 재생된 조직은 형성 직후 매우 불안정하여 어떤 부상에도 쉽게 다시 벌어질 수 있다. 하지만 인간에게는 일반적인 의학에 비하면 여전히 기적과도 같았다. 그들의 땅에서였다면 즉사에 이르렀을 부상도 이 정체불명의 비법 덕분에 치료할 수 있게 되었다.
+^orange;피격 시 5초 동안 초당 5의
+ENG_LEFT | /items/MEDICAL/gic_burnteffigy.consumable.patch/description | objects,biome,gnome,smallhouse,object,patch
+   EN: 
+   KO: 이 희미한 우상에서 부드러운 온기가 뿜어져 나옵니다. 누군가를 표현한 모양인데, 항상 내부에서 지옥불처럼 타고 있는 듯합니다.
+
+^#FD8F4D;근접 무기 공격에 불타는 베기를 추가해 추가 열 피해와 약간의 사거리 증가 | 근접 무기 종류에 비례 | 60초간 지속.^white;/objects/biome/gnome/smal
+PHRASE:geunom | /items/WEAPONS/GICEXP/esc_sgthecatia/esc_sgthecatia.activeitem.patch/description | 
+   EN: ''Those guys think their power armor makes them invincible - they will soon realize they were wrong!''
+A high-caliber anti-material rifle, w
+   KO: ''저 녀석들은 파워 아머만 있으면 무적인 줄 알지. 곧 틀렸다는 걸 깨닫게 될 거야!''
+중장갑 표적에게 심각한 피해를 줄 수 있는 대구경 대물 저격소총. 아무리 무거운 파워 아머에도 이 강력한 탄환을 막지 못하는 약점이 있다.
+
+SGT 8발들이 12.7x108mm 헤카티아 탄창을 사용한다
+ENG_LEFT | /items/WEAPONS/MELEE/PLAYER/A_TESTING/gic_altcharge_demo/gic_altcharge_demo.activeitem.patch/description | green
+   EN: 
+   KO: green;[ALT-FIRE]를 눌러 패링.^white;
+
+^yellow;리포스트: 0.4초 패링 창 | 안정성 150HP.^reset;
+^orange;차지: [SHIFT]로 방향 돌진 시작^reset;
+PHRASE:rosseo | /items/WEAPONS/MELEE/PLAYER/cp_sladge_hammer/cp_sladge_hammer_old.activeitem.patch/description | 
+   EN: In a world of madness and ghosts, one man had a simple rule for any entity, dead or alive, that resided on his property:
+''IF YOU STAY, THEN
+   KO: 광기와 유령의 세계에서, 한 남자는 자신의 재산 안에 살며 죽었거나 살아있는 모든 존재에 대한 간단한 규칙을 가지고 있었습니다:
+''남아있다면, 대가를 치러야 한다.''^#E2006D;다중우주 붕괴: 대상의 방어를 5초 동안 소멸시킵니다.^white;^yellow;물질 자유 약탈자: 대다수의 이상 현상에 대한 최종 타격이
+ENG_LEFT | /items/WEAPONS/MELEE/PLAYER/gic_floran_yari_spear/gic_floran_yari_spear_npc.activeitem.patch/description | subtle
+   EN: 
+   KO: 고대 하이로틀 무기를 오래전 탈취하여 subtle한 추가 기능이 들어간 플로란 원시인이 선호하는 무기입니다.^#D6DFFF;재의 아시가루: [ALT-FIRE]를 눌러 신속한 공격의 연속을 시작합니다.^reset;
+ENG_LEFT | /items/WEAPONS/MELEE/PLAYER/gic_floran_yari_spear/gic_floran_yari_spear_npc_razed.activeitem.patch/description | subtle
+   EN: 
+   KO: 고대 하이로틀 무기를 오래전 탈취하여 subtle한 추가 기능이 들어간 플로란 원시인이 선호하는 무기입니다.^#D6DFFF;재의 아시가루: [ALT-FIRE]를 눌러 신속한 공격의 연속을 시작합니다.^reset;
+ENG_LEFT | /items/WEAPONS/MELEE/PLAYER/gic_floran_yari_spear/gic_floran_yari_spear_player_old.activeitem.patch/description | subtle
+   EN: 
+   KO: 고대 하이로틀 무기를 오래전 탈취하여 subtle한 추가 기능이 들어간 플로란 원시인이 선호하는 무기입니다.^#D6DFFF;재의 아시가루: [ALT-FIRE]를 눌러 신속한 공격의 연속을 시작합니다.^reset;
+ENG_LEFT | /items/WEAPONS/MELEE/PLAYER/gic_floran_yari_spear/gic_floran_yari_spear_player_old2.activeitem.patch/description | subtle
+   EN: 
+   KO: 고대 하이로틀 무기를 오래전 탈취하여 subtle한 추가 기능이 들어간 플로란 원시인이 선호하는 무기입니다.
+PHRASE:rosseo | /items/WEAPONS/MELEE/PLAYER/gic_psychic_landlordslumplender/gic_psychic_landlordslumplender_player_old.activeitem.patch/description | 
+   EN: 
+   KO: 광기와 유령의 세계에서, 한 남자는 자신의 재산 안에 살며 죽었거나 살아있는 모든 존재에 대한 간단한 규칙을 가지고 있었습니다:
+''남아있다면, 대가를 치러야 한다.''^#E2006D;다중우주 붕괴: 대상의 방어를 5초 동안 소멸시킵니다.^white;^yellow;물질 자유 약탈자: 대다수의 이상 현상에 대한 최종 타격이
+PHRASE:rosseo | /items/WEAPONS/RANGED/CROSSBOWS/gic_repeatingcrossbow/gic_repeatingcrossbow.activeitem.patch/description | 
+   EN: 
+   KO: ^#D6AF8B;바다 변형: 매우 빠른 장전 속도.^reset; 바다가 만든 맞춤 석궁 설계. 소년이 다소 멍청해 보였지만 거의 보여주지 않은 재능이 있었어요.
+
+바다 설계는 매 사격마다 석궁을 당기는 더 현대적 화기-볼트 체계에 의존해요. 이로써 석궁이 비교적 빠르지만, 논쟁의 여지로 비전문적이에요.
+ENG_LEFT | /items/WEAPONS/RANGED/LION/MACHINE_GUN/gico_lb50/gico_lb50.activeitem.patch/description | magazines
+   EN: The S50 'Hurricane' is fifty caliber machine gun that has been torn off of West Star fortifications and tanks and been made into a support w
+   KO: S50 '허리케인'은 웨스트 스타 요새와 전차에서 떼어내 분대원 한 명이 휴대할 수 있는 지원 무기로 개조한 50구경 기관총이다. 요괴를 상대로도, 그들이 영적인 존재임에도 불구하고 50구경 탄환은 상당한 피해를 줄 수 있다. 물론 제대로 맞힐 수 있다면 말이다. 인간은 애초에 50구경 기관총을 허리에서 쏘도록 설계되지 
+PHRASE:geunom | /items/WEAPONS/RANGED/cp_handgun/cp_malorian/cp_malorian.activeitem.patch/description | 
+   EN: ^#9D2F32;Custom-made for Johnny Silverhand. The guy had taste.^reset;
+The only one of its kind, made specially for rockerboy Johnny Silverha
+   KO: ^#9D2F32;조니 실버핸드를 위한 맞춤 제작품. 그 녀석은 취향이 좋았다.^reset;
+로커보이 조니 실버핸드만을 위해 특별히 제작된 단 하나뿐인 총. 반자동이며 시제품 스마트 링크를 달았고 여러 탄약을 쓸 수 있어, 도탄·벽 관통·소이탄의 세 가지 사격 모드를 갖췄다. ^#9CD5F0;전용 탄약 사용 [14mm ''
+PHRASE:geunom | /items/WEAPONS/RANGED/cp_handgun/cp_malorian/cp_malorian_onehanded.activeitem.patch/description | 
+   EN: ^#9D2F32;Custom-made for Johnny Silverhand. The guy had taste.^reset;
+The only one of its kind, made specially for rockerboy Johnny Silverha
+   KO: ^#9D2F32;조니 실버핸드를 위한 맞춤 제작품. 그 녀석은 취향이 좋았다.^reset;
+로커보이 조니 실버핸드만을 위해 특별히 제작된 단 하나뿐인 총. 반자동이며 시제품 스마트 링크를 달았고 여러 탄약을 쓸 수 있어, 도탄·벽 관통·소이탄의 세 가지 사격 모드를 갖췄다. ^#9CD5F0;전용 탄약 사용 [14mm ''
+ENG_LEFT | /items/active/alta/scanner/items.config.patch/database/matteritem/longdescription | matter
+   EN: A matter block. A block that matters. Altas appreciate the wordplay while studying the fundamental material properties of compressed matter.
+   KO: 물질 블록입니다. 중요한(matter) 블록이죠. 알타들은 압축된 물질의 근본적인 재료 특성을 연구하면서도 이 말장난을 즐깁니다.
+ENG_LEFT | /items/active/starbound/guns/aegisaltrifle.activeitem.patch/description | assault,aegisalt
+   EN: Puts the 'assault' in aegisalt.
+   KO: '습격(assault)'을 에지솔트(aegisalt)에 담다.
+ENG_LEFT | /items/active/unsorted/NeutralChestNoSpikeUnlock/NNCSU.activeitem.patch/description | white
+   EN: Unlocks recipes for ^red;|Neutral No Chest Spike|^white chest type.
+   KO: ^red;|중성 가슴 스파이크 없음|^white 가슴 유형의 레시피를 해금한다.
+ENG_LEFT | /items/active/weapons/melee/mace/ballmace.activeitem.patch/description | zimberzimber
+   EN: 
+   KO: 잘 만들어졌지만 무겁습니다. zimberzimber의 디자인.
+ENG_LEFT | /items/active/weapons/other/asirai/asirai.activeitem.patch/upgradeParameters/wiki/md/You can read more about this weapon here: **[Ceterai's Set - Ammerax](https:~1~1www.hiveworkshop.com~1threads~1ceterais-set.351976~1)** | hiveworkshop,data,ratory,images,githubusercontent,main,generic,crafting,alta,altersphere,entersphere
+   EN: <table><thead><tr><td width=96>
+
+![ ](https://www.hiveworkshop.com/data/ratory-images/272/272286-ac775bb38a77ac20171b0714d5b3f21f.png)
+</td>
+   KO: <table><thead><tr><td width=96>
+
+![ ](https://www.hiveworkshop.com/data/ratory-images/272/272286-ac775bb38a77ac20171b0714d5b3f21f.png)
+</td><td>
+
+**암메락스**<br>![ ](https://raw.githu
+ENG_LEFT | /items/active/weapons/other/asirai/asirai.activeitem.patch/wiki/md/You can read more about this mysterious spear here: **[Ceterai's Set - Asirai](https:~1~1www.hiveworkshop.com~1threads~1ceterais-set.351976~1)** | hiveworkshop,data,ratory,images,githubusercontent,main,generic,crafting,alta,altersphere,entersphere
+   EN: <table><thead><tr><td width=96>
+
+![ ](https://www.hiveworkshop.com/data/ratory-images/272/272280-f1c6ea1c7e5aac25781dab8c5798361e.png)
+</td>
+   KO: <table><thead><tr><td width=96>
+
+![ ](https://www.hiveworkshop.com/data/ratory-images/272/272280-f1c6ea1c7e5aac25781dab8c5798361e.png)
+</td><td>
+
+**아시라이**<br>![ ](https://raw.githu
+ENG_LEFT | /items/active/weapons/other/asirai/asirai.activeitem.patch/wiki/widgets/wc3/0/desc/0 | githubusercontent,main,generic,crafting,alta,altersphere
+   EN: ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png) Memories: This sharp double-ended 
+   KO: ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png) 기억: 이 날카로운 양날 창은 표적을 전기적 긴장으로 가득 채운다.
+ENG_LEFT | /items/active/weapons/other/asirai/asirai.activeitem.patch/wiki/widgets/wc3/0/desc/1 | githubusercontent,main,generic,crafting,alta,entersphere
+   EN: ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png) Dreams: It feels like its missing 
+   KO: ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png) 꿈: 뭔가 빠진 듯한 느낌이다. 스타더스트가 없어서일까?
+ENG_LEFT | /items/active/weapons/ranged/alta/blaster/ct_neoblaster.activeitem.patch/wiki/md/#### Neo Tools | starbounder
+   EN: This blaster is presumably a part of a neo-series called [Neo Laser Weapons](https://starbounder.org/Unique_Weapon#Neo_Laser_Black_Market_Ar
+   KO: 이 블래스터는 아마 [Neo 레이저 무기](https://starbounder.org/Unique_Weapon#Neo_Laser_Black_Market_Arms)라는 네오 시리즈의 일부다.
+ENG_LEFT | /items/active/weapons/ranged/ews_boltrifle/ews_boltrifle.activeitem.patch/description | ammo,dummy
+   EN: 
+   KO: 단일 로드 볼트 액션 소총의 데모. 탄약으로 ews_ammo_dummy를 사용합니다.
+ENG_LEFT | /items/active/weapons/ranged/ews_pistol/ews_pistol.activeitem.patch/description | pistol,exmag
+   EN: 
+   KO: EWS 기능을 시연하기 위한 기본 권총. ews_pistol_mag 및 ews_pistol_exmag를 탄약으로 사용하며 EWS 레이저 조준기를 수용합니다.^green;쉬프트를 두 번 눌러 다재다능한 한 손 그립으로 전환합니다.^reset;
+ENG_LEFT | /items/active/weapons/ranged/ews_pistol/ews_pistol_onehanded.activeitem.patch/description | pistol,exmag
+   EN: 
+   KO: EWS 기능을 시연하기 위한 기본 권총. ews_pistol_mag 및 ews_pistol_exmag를 탄약으로 사용하며 EWS 레이저 조준기를 수용합니다.^green;쉬프트를 두 번 눌러 편안한 양손 그립으로 전환합니다.^reset;
+ENG_LEFT | /items/active/weapons/ranged/ews_rifle/ews_rifle.activeitem.patch/description | rifle,exmag
+   EN: 
+   KO: EWS 기능이 있는 돌격소총의 예시. ews_rifle_mag 및 ews_rifle_exmag를 탄약으로 사용합니다. 모든 기본 EWS 소총 부착물을 수용합니다.
+ENG_LEFT | /items/active/weapons/ranged/ews_rifle/ews_rifle2.activeitem.patch/description | rifle,exmag
+   EN: 
+   KO: EWS 기능이 있는 돌격소총의 예시. ews_rifle_mag 및 ews_rifle_exmag를 탄약으로 사용합니다. 발사 모드 전환 데모. 곧 무기 악화 및 무기 걸림도 시연할 예정입니다.
+ENG_LEFT | /items/active/weapons/ranged/ews_shotgun/ews_shotgun.activeitem.patch/description | buckshot,incendiary
+   EN: 
+   KO: 샷건 데모. ews_buckshot 및 ews_buckshot_incendiary를 탄약으로 사용합니다.
+PHRASE:many-things | /items/active/weapons/wand/quintessence/quintessence.activeitem.patch/description | 
+   EN: Many do lie beyond, but can never be hoped to be reached.
+   KO: 저 너머에는 많은 것들이 존재하지만, 결코 다다를 수 있으리라 기대할 수 없다.
+ENG_LEFT | /items/aichips/avianaichip.item.patch/aiData/noCrewSpeech/text | crew
+   EN: ^#6f6f6f;$ crew
+^cyan;> Crew? What crew? You're alone!..                                                         With meeee!
+> However, if y
+   KO: ^#6f6f6f;$ crew
+^cyan;> 승무원? 무슨 승무원? 넌 혼자야!..                                                         나랑 같이!
+> 그래도 승무원을 더 모집하면 좀 더 아늑해질 거야. 일도 더 잘 돌아가고.
+ENG_LEFT | /items/aichips/avianaichip.item.patch/aiData/noMissionsSpeech/text | missions
+   EN: ^#6f6f6f;$ missions
+^cyan;> There are no missions for you right now. Try again later.
+   KO: ^#6f6f6f;$ missions
+^cyan;> 지금은 너한테 줄 임무가 없어. 나중에 다시 확인해봐.
+ENG_LEFT | /items/aichips/avianaichip.item.patch/aiData/shipStatus/1/text | status
+   EN: ^#6f6f6f;$ status
+^cyan;> The thrusters are currently pretty messed up.
+> The teleporter is working tho. I guess that's something...
+> ^gree
+   KO: ^#6f6f6f;$ status
+^cyan;> 추진기가 지금 좀 엉망이야.
+> 텔레포터는 작동해. 그래도 뭐...
+> ^green;지금은 아래 행성으로만 갈 수 있어.
+ENG_LEFT | /items/aichips/avianaichip.item.patch/aiData/shipStatus/2/text | status
+   EN: ^#6f6f6f;$ status
+^cyan;> The thrusters are in working order.
+> The teleporter is working as always.
+> ^green;You can reach any planet in th
+   KO: ^#6f6f6f;$ status
+^cyan;> 추진기는 정상 작동 중이야.
+> 텔레포터도 늘 그렇듯 작동해.
+> ^green;이 항성계의 모든 행성에 갈 수 있어.
+ENG_LEFT | /items/aichips/avianaichip.item.patch/aiData/shipStatus/3/text | status
+   EN: ^#6f6f6f;$ status -f
+^cyan;> The thrusters are in working order.
+> FTL is actually working too!
+> The teleporter is working as always.
+> ^gr
+   KO: ^#6f6f6f;$ status -f
+^cyan;> 추진기는 정상 작동 중이야.
+> FTL도 정말로 작동해!
+> 텔레포터는 늘 그렇듯 작동 중이야.
+> ^green;별들 사이를 자유롭게 날 수 있어! 그래도 살짝 햇볕 화상 입지 않게 별을 '뚫고' 말고 '빙 둘러' 가길 추천해...
+ENG_LEFT | /items/aichips/hayateaichip.item.patch/aiData/noCrewSpeech/text | crew
+   EN: ^#6f6f6f;$ crew
+^cyan;> You are the only registered crew member of this ship.
+> Recruiting additional crew members may allow for increased o
+   KO: ^#6f6f6f;$ crew
+^cyan;> 귀하는 이 함선에 등록된 유일한 승무원입니다.
+> 승무원을 추가로 모집하면 운용 효율을 높일 수 있습니다.
+ENG_LEFT | /items/aichips/hayateaichip.item.patch/aiData/noMissionsSpeech/text | missions
+   EN: ^#6f6f6f;$ missions^cyan;> No mission co-ordinates currently available.
+   KO: ^#6f6f6f;$ missions^cyan;> 현재 사용 가능 임무 좌표 없음.
+ENG_LEFT | /items/aichips/hayateaichip.item.patch/aiData/shipStatus/1/text | status
+   EN: ^#6f6f6f;$ status^cyan;
+> Ship thrusters are currently offline.
+> Ship teleportation system functioning correctly.
+> ^green;Currently only t
+   KO: ^#6f6f6f;$ status^cyan;
+> 함선 추진기 현재 오프라인.
+> 함선 텔레포트 시스템 정상 작동.
+> ^green;현재 아래 행성만 접근 가능.
+ENG_LEFT | /items/aichips/hayateaichip.item.patch/aiData/shipStatus/2/text | status
+   EN: ^#6f6f6f;$ status^cyan;
+> Ship thrusters are online.
+> Ship teleportation system functioning correctly.
+> ^green;Planets within this star sy
+   KO: ^#6f6f6f;$ status^cyan;
+> 함선 추진기 온라인.
+> 함선 텔레포트 시스템 정상 작동.
+> ^green;이 항성계 행성 접근 가능.
+ENG_LEFT | /items/aichips/hayateaichip.item.patch/aiData/shipStatus/3/text | status
+   EN: ^#6f6f6f;$ status -f^cyan;
+> Ship thrusters are online.
+> FTL drive is online.
+> Ship teleportation system functioning correctly.
+> ^green;T
+   KO: ^#6f6f6f;$ status -f^cyan;
+> 함선 추진기 온라인.
+> FTL 드라이브 온라인.
+> 함선 텔레포트 시스템 정상 작동.
+> ^green;우주 전체 접근 가능.
+ENG_LEFT | /items/aichips/nagiaichip.item.patch/aiData/noCrewSpeech/text | crew
+   EN: ^#6f6f6f;$ crew
+^cyan;> You are the only registered crew member of this ship.
+> Recruiting additional crew members may allow for increased o
+   KO: ^#6f6f6f;$ crew
+^cyan;> 귀하는 이 함선에 등록된 유일한 승무원입니다.
+> 승무원을 추가로 모집하면 운용 효율을 높일 수 있습니다.
+ENG_LEFT | /items/aichips/nagiaichip.item.patch/aiData/noMissionsSpeech/text | missions
+   EN: ^#6f6f6f;$ missions^cyan;> No mission co-ordinates currently available.
+   KO: ^#6f6f6f;$ missions^cyan;> 현재 사용 가능 임무 좌표 없음.
+ENG_LEFT | /items/aichips/nagiaichip.item.patch/aiData/shipStatus/1/text | status
+   EN: ^#6f6f6f;$ status^cyan;
+> Ship thrusters are currently offline.
+> Ship teleportation system functioning correctly.
+> ^green;Currently only t
+   KO: ^#6f6f6f;$ status^cyan;
+> 함선 추진기 현재 오프라인.
+> 함선 텔레포트 시스템 정상 작동.
+> ^green;현재 아래 행성만 접근 가능.
+ENG_LEFT | /items/aichips/nagiaichip.item.patch/aiData/shipStatus/2/text | status
+   EN: ^#6f6f6f;$ status^cyan;
+> Ship thrusters are online.
+> Ship teleportation system functioning correctly.
+> ^green;Planets within this star sy
+   KO: ^#6f6f6f;$ status^cyan;
+> 함선 추진기 온라인.
+> 함선 텔레포트 시스템 정상 작동.
+> ^green;이 항성계 행성 접근 가능.
+ENG_LEFT | /items/aichips/nagiaichip.item.patch/aiData/shipStatus/3/text | status
+   EN: ^#6f6f6f;$ status -f^cyan;
+> Ship thrusters are online.
+> FTL drive is online.
+> Ship teleportation system functioning correctly.
+> ^green;T
+   KO: ^#6f6f6f;$ status -f^cyan;
+> 함선 추진기 온라인.
+> FTL 드라이브 온라인.
+> 함선 텔레포트 시스템 정상 작동.
+> ^green;우주 전체 접근 가능.
+ENG_LEFT | /items/aichips/nonEKIaichip.item.patch/aiData/noCrewSpeech/text | status
+   EN: ^#6f6f6f;$ status 
+^cyan;>You don't need to worry about a crew, now. Your ship's in safe hands with me. If I were you, I'd love having a spa
+   KO: ^#6f6f6f;$ status 
+^cyan;>승무원 걱정은 이제 안 해도 돼. 네 함선은 나한테 안전하게 맡겨져 있어. 내가 너라면 우주선을 독차지하는 게 좋을 거야! 근데, 사람을 더 뽑고 싶으면 네 맘대로야. 그냥 제발 뭘 하는지 아는 사람들인지 확인해줘...
+ENG_LEFT | /items/aichips/nonEKIaichip.item.patch/aiData/noMissionsSpeech/text | status
+   EN: ^#6f6f6f;$ status 
+^cyan;>Um, I'm not sure what this menu's for. Missions? What missions? We're kinda just trying to survive out here right 
+   KO: ^#6f6f6f;$ status 
+^cyan;>음, 이 메뉴가 뭘 위한 건지 모르겠어. 임무? 무슨 임무? 지금은 그냥 여기서 살아남으려는 중이야. '여기'가 어디든.
+ENG_LEFT | /items/generic/crafting/alta/entersphere.item.patch/wiki/md/You can read more about this catalyst here: **[Ceterai's Set - Enter-Sphere](https:~1~1www.hiveworkshop.com~1threads~1ceterais-set.351976~1)** | hiveworkshop,data,ratory,images,githubusercontent,main,generic,crafting,alta,altersphere,entersphere
+   EN: <table><thead><tr><td width=96>
+
+![ ](https://www.hiveworkshop.com/data/ratory-images/272/272292-377efc0ed3ae8dcf1658d34f32d3dc33.png)
+</td>
+   KO: <table><thead><tr><td width=96>
+
+![ ](https://www.hiveworkshop.com/data/ratory-images/272/272292-377efc0ed3ae8dcf1658d34f32d3dc33.png)
+</td><td>
+
+**엔터 스피어**<br>![ ](https://raw.git
+ENG_LEFT | /items/generic/crafting/ct_stardust.item.patch/wiki/md/You can find more lore here: **[Ceterai's Set - Stardust](https:~1~1www.hiveworkshop.com~1threads~1ceterais-set.351976~1)** | hiveworkshop,data,ratory,images,githubusercontent,main,generic,crafting,alta,cetersphere,altersphere,entersphere,stardust
+   EN: <table><thead><tr><td width=96>
+
+![ ](https://www.hiveworkshop.com/data/ratory-images/272/272304-d3c49969f8075a573e72fda0492776c5.png)
+</td>
+   KO: <table><thead><tr><td width=96>
+
+![ ](https://www.hiveworkshop.com/data/ratory-images/272/272304-d3c49969f8075a573e72fda0492776c5.png)
+</td><td>
+
+**스타더스트**<br>![ ](https://raw.gith
+ENG_LEFT | /items/generic/food/model_g/chocolateflavorgeloriemate.consumable.patch/description | kgel
+   EN: Every block contains 200kgel
+   KO: 블록당 200kgel 포함
+ENG_LEFT | /items/generic/food/model_g/geloriemate.consumable.patch/description | kgel
+   EN: Every block contains 200kgel
+   KO: 블록당 200kgel 포함
+ENG_LEFT | /items/generic/food/model_g/rinbowflavorgeloriemate.consumable.patch/description | kgel
+   EN: Think about what you've shoved into the machine before complaining its taste. It contains 200kgel.
+   KO: 기계 맛을 불평하기 전에 뭘 집어넣었는지 생각해 봐. 200kgel이 들어 있다.
+ENG_LEFT | /items/generic/food/special/mr_pepper_d.consumable.patch/description | kcal
+   EN: 0kcal Mr.pepper soda.
+   KO: 0kcal 미스터 페퍼 탄산음료.
+ENG_LEFT | /items/generic/food/tier9001/pazz.consumable.patch/description | pass
+   EN: It's called Pazz because that's what you do if it's ever offered to you - you pass.
+   KO: 패즈라고 불리는 건, 이게 제안됐을 때 하는 행동이 바로 패스(pass)이기 때문이다.
+ENG_LEFT | /items/generic/other/ct_ava_day.consumable.patch/alkey | xoxo
+   EN: < 3 < 3 < 3  m u a i ~ ! ! !  < 3 < 3 < 3
+* ~ ~ ~ * ~ ~ ~ * ~ ~ ~ * ~ ~ ~ *
+ai ai fwends!! >\/\/< its ava-dai!! :3 :3
+shawe da muai + ma!! <
+   KO: < 3 < 3 < 3  므 아 이 ~ ! ! !  < 3 < 3 < 3
+* ~ ~ ~ * ~ ~ ~ * ~ ~ ~ * ~ ~ ~ *
+아이 아이 칭구들!! >\/\/< 아바-다이야!! :3 :3
+므아이랑 마 나눠 쥬!! < 3 < 3
+아바한테 예쁜 거 쥬!! * * *
+토-노-보 기트신 반짝이!! ~ ~ ~
+이-노 하트 세
+ENG_LEFT | /items/generic/other/sexbound_keystonechain.item.patch/description | fetish
+   EN: A chain of the six keystones found, spelling the word 'fetish'.
+   KO: 찾아낸 쐐기돌 여섯 개를 이은 사슬. 'fetish'라는 단어가 된다.
+ENG_LEFT | /items/generic/produce/ct_aya.consumable.patch/longdescription | wikipedia,wiki
+   EN: Widely used by ^#b0e0fc;altas^reset; for all sorts of recipes.  
+When turned into powder, can be used to filter energy from certain crystals
+   KO: ^#b0e0fc;알타^reset;들이 온갖 레시피에 널리 쓴다.  
+가루로 만들면 특정 수정의 에너지를 걸러내는 데 쓸 수 있다.
+
+아야는 ^#3587ff;아야카^reset;라는 나무에서 자라므로, 별도 아이템으로서의 씨앗이 없다.
+
+알타가 아닌 종족들에게는 맛과 생김새 때문에 **알타 복숭아**로 알려져 있다. [복숭아
+ENG_LEFT | /items/generic/produce/ct_gil.consumable.patch/longdescription | wikipedia,wiki
+   EN: If you peel off it's tasty coat you'll reveal sweet insides filled with small nutty seeds that are thankfully fully okay to swallow.  
+Toget
+   KO: 맛있는 껍질을 벗기면 견과류 씨앗이 가득한 달콤한 속살이 드러나는데, 다행히 씨앗까지 그냥 삼켜도 완전히 안전해.  
+이 과일은 견과류의 은은한 향과 함께 꽤 독특한 단짠 조합을 이루어서, 한번 먹으면 잊기 힘들고 구별하기도 꽤 쉬워.  
+이 과일의 쉽게 분리되는 풍미들은 요리에 아주 편리해.
+
+일부 길 품종은 맛에 약간
+ENG_LEFT | /items/generic/produce/ct_yaara_eye.consumable.patch/longdescription | wikipedia,wiki
+   EN: The texture is a bit similar to the pulp of a [lychee](https://en.wikipedia.org/wiki/Lychee) fruit.
+   KO: 식감이 [리치](https://en.wikipedia.org/wiki/Lychee) 과육과 조금 비슷하다.
+ENG_LEFT | /items/liquids/liquidbeer.liqitem.patch/description | produce
+   EN: 
+   KO: 신들마저 사랑한 성스러운 액체.
+^green;성장률 x^white;2 ^gray;& ^green;+^white;1 ^green;produce.^reset;
+^green;추출 가능^reset;, ^yellow;원심분리 가능^reset;.
+PHRASE:rosseo | /items/others/lawBadge/lawBadge.activeitem.patch/description | 
+   EN: A symbol of authority granted by taking an oath.
+^orange;Watch your grade, XP and tokens.
+   KO: 맹세를 함으로써 부여받은 권위의 상징.
+^orange;등급, 경험치, 토큰을 확인하세요.
+PHRASE:rosseo | /ivrpgtext.config.patch/lore/children/specialization/children/technomancer/children | 
+   EN: A wise man once said that Magic is just Science we don't understand. Well, he wasn't very wise in the end, since the two are entirely differ
+   KO: 어떤 현자는 마법이란 그저 우리가 이해하지 못하는 과학일 뿐이라 말했다. 하지만 그는 그리 현명하지 못했다. 결국 이 둘은 완전히 다른 것이기 때문이다. 마법은 힘이고, 과학은 과정이다. 하지만 이 둘을 결합하면 과학적인 마법, 즉 테크노매직이 탄생한다. 우리가 다룰 수 있는 마법의 힘과, 과학이라는 이름을 만든 그 과정
+PHRASE:can-become | /ivrpgversion.config.patch/changelog/children/2.01/children | 
+   EN: A smaller update but one which we welcome Ven as a coder, that made some of this possible, especially the hunter and battlemage stuff.
+
+Comp
+   KO: 작지만 반가운 업데이트입니다. 이번 작업을 가능하게 해준 코더 Ven을 새로 맞이했으며, 특히 헌터와 배틀메이지 관련 작업 대부분이 그 덕분입니다.
+
+호환성:
+    연금술사와 Futaradragon 관련 사소한 호환성 문제를 수정했습니다.
+
+메커니즘:
+    클래식 모드 플레이 시 스탯 스케일링이 증가하도록 변경했습니다
+PHRASE:rosseo | /ivrpgversion.config.patch/changelog/children/2.01/children | 
+   EN: A smaller update but one which we welcome Ven as a coder, that made some of this possible, especially the hunter and battlemage stuff.
+
+Comp
+   KO: 작지만 반가운 업데이트입니다. 이번 작업을 가능하게 해준 코더 Ven을 새로 맞이했으며, 특히 헌터와 배틀메이지 관련 작업 대부분이 그 덕분입니다.
+
+호환성:
+    연금술사와 Futaradragon 관련 사소한 호환성 문제를 수정했습니다.
+
+메커니즘:
+    클래식 모드 플레이 시 스탯 스케일링이 증가하도록 변경했습니다
+PHRASE:can-become | /ivrpgversion.config.patch/changelog/children/2.0/children | 
+   EN: Announcement:
+Rylasasin (who had previously contributed) has been added as a dev and will be maintaining this mod in the future, as the orig
+   KO: 공지:
+Rylasasin(이전에 기여했던 사람)이 개발자로 합류해 앞으로 이 모드를 관리할 예정입니다. 원작자가 더 이상 시간과 여력이 없기 때문입니다.
+'Rylasasin Fork'에 익숙한 분들을 위해 말씀드리면, 해당 변경 사항은 (한 가지 주목할 예외를 제외하고) 병합되었습니다. 익숙하지 않은 분들을 위해 아래에 
+ENG_LEFT | /ivrpgversion.config.patch/changelog/children/1.73/children | ivrpgscrollresetchallenges
+   EN: Mechanics:
+    Skill points are now granted when leveling in a mech.
+    Level Up sound now plays when leveling in a mech.
+    Every Prestig
+   KO: 역학:
+    이제 메카 안에서 레벨업할 때 스킬 포인트가 지급됩니다.
+    이제 메카 안에서 레벨업할 때 레벨업 효과음이 재생됩니다.
+    모든 프레스티지마다 이제 영구 스탯 포인트 +3을 지급합니다.
+    마지막 처치를 한 플레이어에게 일치하는 숙련 보스 도전 과제가 있으면, 근처 플레이어에게도 발동합니다.
+  
+ENG_LEFT | /ivrpgversion.config.patch/credits/children/4/children/1/children | ivrpgwcaineschest
+   EN: 
+   KO: 카인의 상자(무기로 변신하는 상자!)를 요청했고 디자인을 도왔습니다. 카인의 상자는 산업용 작업대의 상자 탭에서 제작할 수 있습니다.
+칠흑같이 어두운 곳에 두기 전까지는 평범한 상자처럼 작동하지만, 그 후에는 무기로 변합니다. 조심하세요... 실제로 무기를 얻는 단계를 건너뛰고 싶다면, ID는 'ivrpgwcainesch
+ENG_LEFT | /ivrpgversion.config.patch/changelog/children/knownbugs/children | primary
+   EN: 
+   KO: 메크에 탑승하거나 하차하는 중에 레벨업하면 스킬 포인트가 지급되지 않습니다. 누락된 포인트를 받으려면 스킬 탭 초기화 버튼을 사용하세요.
+둘 이상의 전문화 로어 토스트가 떠야 할 때, 하나만 뜹니다(단, 전부 잠금 해제는 됩니다).
+엘리멘트레스와 헌터는 테크 설명이 충실하지 않습니다.
+일부 모드 갑옷은 해당 모드가 갑옷을
+PHRASE:musimushi | /npcs/angel rebels/angelrebel.npctype.patch/scriptConfig/dialog/converse/angel/default/1 | 
+   EN: Huzzah, Mortal! We are searching and eradicating and Ruined in this area.
+   KO: 만세, 필멸자여! 우리는 이 지역의 루인드를 찾아 처단하는 중이다.
+PHRASE:musimushi | /npcs/angel rebels/angelrebel.npctype.patch/scriptConfig/dialog/converse/angel/angel/1 | 
+   EN: Huzzah, fellow Angel! We are searching and eradicating and Ruined in this area. Care to join?
+   KO: 만세, 동료 천사여! 우리는 이 지역의 루인드를 찾아 처단하는 중이다. 함께할래?
+PHRASE:geunom | /npcs/biome/om_starrycultist.npctype.patch/scriptConfig/dialog/converse/default/default/34 | 
+   EN: I should visit Unustrello again... I love talking to that guy - he's the best!
+   KO: 우누스트렐로한테 다시 가봐야겠어... 그 녀석이랑 얘기하는 게 정말 좋아 - 최고거든!
+PHRASE:geunom | /npcs/biome/om_starrycultist.npctype.patch/scriptConfig/dialog/converse/glitch/default/34 | 
+   EN: Content. I should visit Unustrello again... I love talking to that guy - he's the best!
+   KO: 만족. 우누스트렐로를 다시 찾아가야겠어... 그 녀석과 이야기하는 게 좋아. 최고거든!
+PHRASE:geunom | /npcs/biome/om_starrycultist.npctype.patch/scriptConfig/dialog/converse/novakid/default/34 | 
+   EN: I should visit Unustrello again... I love talkin' to that guy - he's the best!
+   KO: 우누스트렐로한테 다시 가봐야겠어... 그 녀석이랑 얘기하는 게 정말 좋아 - 최고거든!
+PHRASE:geunom | /npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch/scriptConfig/dialog/converse/novakid/default/33 | 
+   EN: Aye, I know why ^magenta;Unustrello^reset; looks so odd. That fella is an "^green;Astromancer^reset;" now. Stuff that's beyond a partner lik
+   KO: 그래, 왜 ^magenta;우누스트렐로^reset;가 저렇게 이상하게 생겼는지 알지. 그 녀석 이제 "^green;성점술사^reset;"거든. 너 같은 파트너가 알 수준을 넘어서는 일이지.
+ENG_LEFT | /npcs/crew/crewmembergreg.npctype.patch/scriptConfig/dialog/crewmember/combatBenefit/default/default/4 | greg
+   EN: 
+   KO: ...............greg. 그레가 그레그.
+PHRASE:geunom | /npcs/crew/crewmembersobffo.npctype.patch/scriptConfig/dialog/crewmember/fieldBenefit/novakid/default/2 | 
+   EN: You'll strike fear in those rascals!
+   KO: 저 녀석들한테 공포를 줄 거야!
+PHRASE:geunom | /npcs/crew/crewmembersobffo.npctype.patch/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/2 | 
+   EN: You'll strike fear in those rascals!
+   KO: 저 녀석들한테 공포를 줄 거야!
+ENG_LEFT | /npcs/crew/ffs_whitecrow_crewmemberjanitor.npctype.patch/scriptConfig/dialog/crewmember/roleDescription/floran/default/1 | selfname
+   EN: Floran's name is <selfname>. <selfname the Janitor.
+   KO: 플로란 이름은 <selfname>이다. <selfname 관리인.
+ENG_LEFT | /npcs/furniture/naked.npctype.patch/scriptConfig/dialog/converse/hylotl/default/62 | white
+   EN: I'M! ^red;«^white 
+I'M! ^red;«^white
+I!^red;«^white AH!^red;«^white AH!^red;«^white 
+COMIIIIIING!!
+   KO: 가! ^red;«^white 
+가! ^red;«^white
+가!^red;«^white 아!^red;«^white 아!^red;«^white 
+가버려어어어!!
+ENG_LEFT | /npcs/furniture/naked.npctype.patch/scriptConfig/dialog/converse/hylotl/default/63 | white
+   EN: HAA ^red;«^white Pour your cum inside me too... ^red;«^white HAA ^red;«
+   KO: 하아 ^red;«^white 내 안에도 정액을 쏟아부어줘... ^red;«^white 하아 ^red;«
+ENG_LEFT | /npcs/maid4umaid.npctype.patch/dialog/crewmember/roleDescription/floran/default/1 | selfname
+   EN: Floran's name is <selfname>. <selfname the Maid.
+   KO: 플로란 이름은 <selfname>이다. <selfname 하녀.
+PHRASE:geunom | /npcs/modcontributors/xraiizy_starforge.npctype.patch/scriptConfig/dialog/converse/default/default/34 | 
+   EN: Stumbled upon a funky looking rifle on a dead bandit the other day, then realized it's a mix of the AK and "Tsar". That guy did deserve deat
+   KO: 며칠 전 죽은 산적한테서 희한하게 생긴 소총을 발견했는데, 알고 보니 AK와 '차르'를 섞어놓은 거였어. 그 녀석은 확실히 죽어 마땅했네.
+PHRASE:geunom | /npcs/others/mission/chapter1/mwhaddon_npc_mission_seekerSurvivor_2.npctype.patch/scriptConfig/dialog/converse/default/default/2 | 
+   EN: We barely repelled that thing, but it was so sly that it mauled us from the darkness when we were retreating.
+   KO: 우린 겨우 그 녀석을 물리쳤지만, 녀석이 너무 교활해서 후퇴할 때 어둠 속에서 우리를 물어뜯었어.
+PHRASE:musimushi | /npcs/scienceoutpost/fuoutpostcivilian.npctype.patch/scriptConfig/dialog/converse/fuanodyne/default/4 | 
+   EN: 
+   KO: 데이터를 위해 우리의 모든 소셜 상호작용을 기록하는 중입니다. 괜찮으면 좋겠어.
+ENG_LEFT | /npcs/scienceoutpost/fuoutpostcivilian.npctype.patch/scriptConfig/dialog/converse/fumantizi/default/27 | starbound
+   EN: 
+   KO: 보세요, 모드 충돌이 설치되어 있습니다. starbound.log로 가서 확인해 보세요. 하! 보셨군요. 하지만 정말로 모드를 잘 살펴보세요, 멍청아.
+ENG_LEFT | /npcs/shizubelle/lofty_irisil_shizubelle_shellmerchant.npctype.patch/scriptConfig/dialog/merchant/tout/default/default/3 | bell
+   EN: If you have bells, I have shells!
+   KO: 종(bell)이 있으면, 나한텐 조개껍질이 있어!
+PHRASE:rosseo | /npcs/stationshipcrewmate.npctype.patch/scriptConfig/dialog/converse/apex/default/8 | 
+   EN: I hope that by exiling myself to space, the Miniknog will not come looking for me.
+   KO: 스스로 우주로 추방됨으로써, 미니크녹이 날 찾아오지 않았으면 좋겠어.
+PHRASE:many-things | /npcs/subbiometenants/atprk_amberscientist.npctype.patch/scriptConfig/dialog/converse/human/default/3 | 
+   EN: Earth used to have many things preserved in amber. It's a shame it's all gone now.
+   KO: 지구에는 한때 호박 속에 보존된 많은 것들이 있었어. 이제는 다 사라졌다니 안타깝네.
+PHRASE:rosseo | /npcs/subbiometenants/volcanic.npctype.patch/scriptConfig/dialog/attack/default/default/0 | 
+   EN: BY FIRE BE PURGED!
+   KO: 불로써 정화하라!
+ENG_LEFT | /npcs/tenants/MC_sans.npctype.patch/scriptConfig/dialog/converse/human/default/1 | skele
+   EN: I've gotten a ton of work done today, a skele-ton!
+   KO: 오늘 일을 엄청 많이 해냈어, 완전 뼈-빠지게(skele-ton) 일했지!
+PHRASE:geunom | /npcs/tenants/xraiizy_gundealer.npctype.patch/scriptConfig/dialog/merchant/end/default/default/4 | 
+   EN: Now go kill that guy!
+   KO: 이제 저 녀석 죽여!
+ENG_LEFT | /objects/CORPUSSHIP/esc_corpus_humantechstation/esc_corpus_humantechstation.object.patch/description | based
+   EN: [Ship-based Artificial Intelligence Lattice, or S.A.I.L for short]
+   KO: [함선 기반 인공지능 격자(Ship-based Artificial Intelligence Lattice), 줄여서 S.A.I.L]
+ENG_LEFT | /objects/CORPUSSHIP/esc_corpus_humantechstationTier0/esc_corpus_humantechstationTier0.object.patch/description | based
+   EN: [Ship-based Artificial Intelligence Lattice, or S.A.I.L for short]
+   KO: [함선 기반 인공지능 격자(Ship-based Artificial Intelligence Lattice), 줄여서 S.A.I.L]
+PHRASE:many-things | /objects/CRAFTING/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object.patch/floranDescription | 
+   EN: 
+   KO: 플로란은 이걸로 복제기에 더 많은 것들을 넣을 슈 있다.
+PHRASE:many-things | /objects/CRAFTING/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object.patch/floranDescription | 
+   EN: 
+   KO: 플로란은 이걸로 복제기에 더 많은 것들을 넣을 슈 있다.
+PHRASE:many-things | /objects/CRAFTING/upgradeablecraftingobjects/craftinganvil/addons/project45replicatoraddon/project45replicatoraddon.object.patch/floranDescription | 
+   EN: Floran use thisss to add more thingss to replicator.
+   KO: 플로란은 이걸로 복제기에 더 많은 것들을 넣을 슈 있다.
+PHRASE:many-things | /objects/CRAFTING/upgradeablecraftingobjects/craftinganvil/addons/separatoraddon/separatoraddon.object.patch/floranDescription | 
+   EN: 
+   KO: 플로란은 이걸로 복제기에 더 많은 것들을 넣을 슈 있다.
+PHRASE:many-things | /objects/FARMABLES/cotton/cottonseed.object.patch/novakidDescription | 
+   EN: 
+   KO: 이런 목화솜으로 아주 많은 것들을 만들 수 있겠지.
+PHRASE:many-things | /objects/FARMABLES/cotton/wildcottonseed.object.patch/novakidDescription | 
+   EN: 
+   KO: 이런 목화솜으로 아주 많은 것들을 만들 수 있겠지.
+PHRASE:many-things | /objects/FARMABLES/currentcorn/currentcornseed.object.patch/floranDescription | 
+   EN: 
+   KO: 맛있는, 염산 옥슈슈다. 살점 많은 것들을 아프게 한다.
+PHRASE:many-things | /objects/FARMABLES/currentcorn/wildcurrentcornseed.object.patch/floranDescription | 
+   EN: 
+   KO: 맛있는, 염산 옥슈슈다. 살점 많은 것들을 아프게 한다.
+ENG_LEFT | /objects/FARMABLES/flowerorchid/flowerorchid.object.patch/description | commmmbo
+   EN: 
+   KO: C-c-c-commmmbo 차단기!
+PHRASE:many-things | /objects/FARMABLES/gica_guncotton/gica_guncottonseed.object.patch/novakidDescription | 
+   EN: Cotton like this can be made into a whole heap o' things.
+   KO: 이런 목화솜으로 아주 많은 것들을 만들 수 있겠지.
+ENG_LEFT | /objects/FARMABLES/plasmango/plasmangoseed.object.patch/floranDescription | plassmango
+   EN: 
+   KO: 그것은 나를 불태울 수 있습니다. Floran은 plassmango를 받아들일 수 없다고 생각합니다.
+ENG_LEFT | /objects/FARMABLES/plasmango/wildplasmangoseed.object.patch/floranDescription | plassmango
+   EN: 
+   KO: 그것은 나를 불태울 수 있습니다. Floran은 plassmango를 받아들일 수 없다고 생각합니다.
+ENG_LEFT | /objects/FARMABLES/violiroot/violirootseed.object.patch/floranDescription | ssstick
+   EN: 
+   KO: 플라즈마 ssstick.
+ENG_LEFT | /objects/FARMABLES/violiroot/wildviolirootseed.object.patch/floranDescription | ssstick
+   EN: 
+   KO: 플라즈마 ssstick.
+ENG_LEFT | /objects/OCCASUS/gic_occasus_oldsoldier_statue/gic_occasus_oldsoldier_statue.object.patch/description | redde,mihi
+   EN: 
+   KO: 이렇게 적혀 있습니다: ''Legiones redde mihi.''
+ENG_LEFT | /objects/alta/crafting/stellarium/ct_alta_stellarium.object.patch/longdescription | shadow,void
+   EN: The Alta Stellarium is a tier 6 advanced stellar research facility dedicated to studying and manipulating cosmic energies. This specialized 
+   KO: 알타 스텔라리움은 우주 에너지의 연구와 조작에 전념하는 6등급 첨단 항성 연구 시설이다. 이 특수 시설은 알타 자신을 만들어낸 원초적 에너지인 ^#60c0fc;스타더스트^reset;는 물론, ^#2080f0;세터니아^reset;, ^#2080f0;알테르니아^reset;, ^#60c0fc;에터니아^reset; 에너지도 다룬
+PHRASE:geunom | /objects/alta/eds/turret/ct_eds_turret.object.patch/floranDescription | 
+   EN: Such bright lasersss. Don't want to be in their sssights.
+   KO: 참 밝은 레이저다. 저 녀석 시야에 들어가고 싶지 않다.
+ENG_LEFT | /objects/alta/wired/logic/clock.object.patch/description | interval
+   EN: The clock output alternates between on and off every 0.5 seconds. Default is 33 ticks (0.5s), sets through `interval`.
+   KO: 이 시계 출력은 0.5초마다 켜짐과 꺼짐을 번갈아 반복합니다. 기본값은 33틱(0.5초)이며, `interval`을 통해 설정합니다.
+ENG_LEFT | /objects/alta/wired/logic/delay.object.patch/description | delay
+   EN: A circuit that relays signals after a set delay. Default is 0.5s, sets through `delay`.
+   KO: 정해진 지연 시간이 지난 후 신호를 전달하는 회로. 기본값은 0.5초이며, `delay`로 설정한다.
+ENG_LEFT | /objects/alta/wired/logic/timer.object.patch/description | duration
+   EN: A timer that stays active for a set duration. Default is 5s, sets through `duration` - int between 1 and 5.
+   KO: 정해진 시간 동안 활성 상태를 유지하는 타이머. 기본값은 5초이며, `duration`(1~5 사이의 정수)으로 설정할 수 있다.
+PHRASE:geunom | /objects/apex/turret/turret.object.patch/floranDescription | 
+   EN: 
+   KO: 참 밝은 레이저다. 저 녀석 시야에 들어가고 싶지 않다.
+ENG_LEFT | /objects/aphrodite/aphroditespatreonsign/aphroditespatreonsign.object.patch/apexDescription | patreon,locuturus
+   EN: Help support the creation of more content like this by becoming a patreon. http://www.patreon.com/locuturus
+   KO: 패트리온이 되어 이런 콘텐츠 제작을 후원해주세요. http://www.patreon.com/locuturus
+ENG_LEFT | /objects/aphrodite/aphroditespatreonsign/aphroditespatreonsign.object.patch/avianDescription | patreon,locuturus
+   EN: Help support the creation of more content like this by becoming a patreon. http://www.patreon.com/locuturus
+   KO: 패트리온이 되어 이런 콘텐츠 제작을 후원해주세요. http://www.patreon.com/locuturus
+ENG_LEFT | /objects/aphrodite/aphroditespatreonsign/aphroditespatreonsign.object.patch/floranDescription | patreon,locuturus
+   EN: Help support the creation of more content like this by becoming a patreon. http://www.patreon.com/locuturus
+   KO: 패트리온이 되어 이런 콘텐츠 제작을 후원해주세요. http://www.patreon.com/locuturus
+ENG_LEFT | /objects/aphrodite/aphroditespatreonsign/aphroditespatreonsign.object.patch/glitchDescription | patreon,locuturus
+   EN: Help support the creation of more content like this by becoming a patreon. http://www.patreon.com/locuturus
+   KO: 패트리온이 되어 이런 콘텐츠 제작을 후원해주세요. http://www.patreon.com/locuturus
+ENG_LEFT | /objects/aphrodite/aphroditespatreonsign/aphroditespatreonsign.object.patch/humanDescription | patreon,locuturus
+   EN: Help support the creation of more content like this by becoming a patreon. http://www.patreon.com/locuturus
+   KO: 패트리온이 되어 이런 콘텐츠 제작을 후원해주세요. http://www.patreon.com/locuturus
+ENG_LEFT | /objects/aphrodite/aphroditespatreonsign/aphroditespatreonsign.object.patch/hylotlDescription | patreon,locuturus
+   EN: Help support the creation of more content like this by becoming a patreon. http://www.patreon.com/locuturus
+   KO: 패트리온이 되어 이런 콘텐츠 제작을 후원해주세요. http://www.patreon.com/locuturus
+ENG_LEFT | /objects/aphrodite/aphroditespatreonsign/aphroditespatreonsign.object.patch/novakidDescription | patreon,locuturus
+   EN: Help support the creation of more content like this by becoming a patreon. http://www.patreon.com/locuturus
+   KO: 패트리온이 되어 이런 콘텐츠 제작을 후원해주세요. http://www.patreon.com/locuturus
+PHRASE:many-things | /objects/avian/chestmedavian2/chestmedavian2.object.patch/novakidDescription | 
+   EN: 
+   KO: 이런 커다란 상자라면 많은 것들을 담을 수 있겠군.
+ENG_LEFT | /objects/felin/felinsign/felinsign2.object.patch/felinTranslation | liah,lufhie
+   EN: <liah   20 px
+lufhie  200 px>
+"Hugs: 10 pixels
+Intercourse: 50 pixels"
+   KO: <liah   20 px
+lufhie  200 px>
+"포옹: 10픽셀
+성교: 50픽셀"
+PHRASE:many-things | /objects/glitch/castleswitch/castleswitch.object.patch/description | 
+   EN: 
+   KO: 눈으로 보이는 것보다 많은 것들이 있는 수상한 수정입니다.
+PHRASE:geunom | /objects/human/marinesign/marinesign.object.patch/humanDescription | 
+   EN: 
+   KO: USCM이라고? 저 녀석들은 행성 보호국을 그리 좋아하지 않았지.
+PHRASE:geunom | /objects/human/marinesign/marinesign.object.patch/novakidDescription | 
+   EN: 
+   KO: 저 녀석들은 잘 모르지만, 이 표지로 보아 말하건대, 사라진 지 좀 된 것 같구만.
+ENG_LEFT | /objects/hylotl/opensign/v-brokenopensign.object.patch/humanDescription | open
+   EN: A neon "open" sign. It seems that it doesn't work.
+   KO: 네온 "open" 표지판이다. 작동 안 하는 것 같네.
+ENG_LEFT | /objects/kheAA/kheAA_spout/kheAA_spout.object.patch/description | network
+   EN: 
+   KO: 액체를 세상에 쏟아 붓습니다.
+^blue;Input^white;1^blue;: ^white;ON/OFF 스위치
+^blue;Input^white;2^blue;: ^white;item network^reset;
+ENG_LEFT | /objects/lawDecos/lawenforcementheadquarters01c/lawenforcementheadquarters01c.object.patch/shortdescription | white
+   EN: ^blue;Law Enforcement Headquarters P01cb^white^white;
+   KO: ^blue;법 집행 본부 P01cb^white^white;
+ENG_LEFT | /objects/lawDecos/lawenforcementheadquarters01d/lawenforcementheadquarters01d.object.patch/shortdescription | white
+   EN: ^blue;Law Enforcement Headquarters P01d^white^white;
+   KO: ^blue;법 집행 본부 P01d^white^white;
+ENG_LEFT | /objects/lawDecos/lawenforcementheadquarters02c/lawenforcementheadquarters02c.object.patch/shortdescription | white
+   EN: ^blue;Law Enforcement Headquarters P02cb^white^white;
+   KO: ^blue;법 집행 본부 P02cb^white^white;
+ENG_LEFT | /objects/lawDecos/lawenforcementheadquarters02d/lawenforcementheadquarters02d.object.patch/shortdescription | white
+   EN: ^blue;Law Enforcement Headquarters P02d^white^white;
+   KO: ^blue;법 집행 본부 P02d^white^white;
+PHRASE:geunom | /objects/mission/floranchampionstatue/huntingchampionstatue.object.patch/novakidDescription | 
+   EN: 
+   KO: 저 녀석은 분명히 훌륭한 사냥꾼이었겠구만!
+ENG_LEFT | /objects/nightar/nightarmedievalregister/nightarmedievalregister.object.patch/description | ching
+   EN: 
+   KO: 기계식 금전 등록기입니다. Ka-ching!
+PHRASE:many-things | /objects/nmm_generic/cardboard4/cardboard4sit.object.patch/glitchDescription | 
+   EN: Impressed. This cardboard box is light, but large enough to hold many things inside, me included.
+   KO: 감명. 이 골판지 상자는 가볍지만, 내부에 많은 것들을 담을 만큼 크다, 나도 포함해서.
+ENG_LEFT | /objects/nmm_mvg/minecraft/paintings/paintingmcaztec.object.patch/description | aztec
+   EN: "de_aztec #1", by K. Zetterstrand. A cold-feeling abstract landscape.
+   KO: 《de_aztec #1》, K. 제터스트란드 작. 차가운 느낌의 추상 풍경화다.
+ENG_LEFT | /objects/nmm_mvg/minecraft/paintings/paintingmcaztec2.object.patch/description | aztec
+   EN: "de_aztec #2", by K. Zetterstrand. A modern-feeling abstract painting.
+   KO: 《de_aztec #2》, K. 제터스트란드 작. 현대적인 느낌의 추상화다.
+ENG_LEFT | /objects/nmm_mvg/other/egbert/painting1.object.patch/description | grogragreegra,hollow
+   EN: "grogragreegra, hollow 5", by Egbert Montrieg. Almost looks like a plant display.
+   KO: 《grogragreegra, hollow 5》, 에그베르트 몬트리그 작. 얼핏 보면 식물 전시물 같다.
+ENG_LEFT | /objects/nmm_mvg/other/egbert/painting2.object.patch/description | tomorond,give
+   EN: "on tomorond with give", by Egbert Montrieg. No idea what that's meant to be.
+   KO: 《on tomorond with give》, 에그베르트 몬트리그 작. 무엇을 표현한 건지 전혀 모르겠다.
+ENG_LEFT | /objects/nmm_mvg/other/egbert/podorta.object.patch/description | podorta,ekker
+   EN: "podorta, ekker", by Egbert Montrieg. Reminiscent of a bad experience.
+   KO: 《podorta, ekker》, 에그베르트 몬트리그 작. 불쾌했던 기억이 떠오른다.
+ENG_LEFT | /objects/nmm_mvg/other/egbert/portrait.object.patch/description | krintschinckel,abidere
+   EN: "krintschinckel abidere", by Egbert Montrieg. Looks like a few people I've seen.
+   KO: 《krintschinckel abidere》, 에그베르트 몬트리그 작. 내가 본 몇몇 사람을 닮았다.
+ENG_LEFT | /objects/nmm_mvg/other/oddheader/oddhead.object.patch/nekoDescription | hnyuifw,byubawfifwbayb,fhbfwyahbhjfkbaivbawhk
+   EN: Hmmm... I... wanna be the first person in the game to say... "hnyuifw byubawfifwbayb fhbfwyahbhjfkbaivbawhk"!
+   KO: 흠... 나... 게임에서 처음으로 "hnyuifw byubawfifwbayb fhbfwyahbhjfkbaivbawhk"라고 말한 사람이 되고 싶어!
+PHRASE:many-things | /objects/nmm_starbound/protectorate/protectoratebanners/protectorate2wallbanner.object.patch/hylotlDescription | 
+   EN: The Protectorate banner represents so much. It means a lot to us all.
+   KO: 행성 보호국 배너는 많은 것들을 묘사한다. 우리 모두에게 큰 의미가 있어.
+PHRASE:geunom | /objects/nmm_starbound/restored/restoredmarinesign/marinesign.object.patch/humanDescription | 
+   EN: The USCM, huh? These guys didn't like the Terrene Protectorate so much.
+   KO: USCM이라고? 저 녀석들은 행성 보호국을 그리 좋아하지 않았지.
+PHRASE:many-things | /objects/nmm_themed/fairytalecottage/fairytalecottagechest/fairytalecottagechest.object.patch/novakidDescription | 
+   EN: I could pack a lot into a big ol' chest like this one.
+   KO: 이런 커다란 상자라면 많은 것들을 담을 수 있겠군.
+PHRASE:many-things | /objects/nmm_themed/fairytalecottage/fairytalecottagechest/fairytalecottagechestcandles.object.patch/novakidDescription | 
+   EN: I could pack a lot into a big ol' chest like this one.
+   KO: 이런 커다란 상자라면 많은 것들을 담을 수 있겠군.
+ENG_LEFT | /objects/nmm_themed/perfectgeneric/pgbookcase/pgbookcase.object.patch/description | ipsum,dolor,amet
+   EN: A very generic bookcase. Each book reads "Lorem ipsum dolor sit amet"...
+   KO: 매우 평범한 책장. 모든 책에는 "Lorem ipsum dolor sit amet"라고 적혀 있다...
+ENG_LEFT | /objects/plushies/community3/edition6/shadowygnomeplush/PBshadowygnomeplush.object.patch/description | gnome
+   EN: Shadowy, like a Christmas night-ome.
+   KO: 어둑어둑하다, 크리스마스 밤의 놈(gnome)처럼.
+ENG_LEFT | /objects/power/electricfurnace/electricfurnace.object.patch/description | common,uncommon
+   EN: 
+   KO: 모든 ^gray;common^reset; 및 ^green;uncommon^reset; 등급 광석과 일부 기본 재료를 제련할 수 있는 동력 용광로입니다. ^cyan;^orange;12W ^cyan;전력^reset;이 필요합니다;
+ENG_LEFT | /objects/power/fu_blastfurnace/fu_blastfurnace.object.patch/description | rare
+   EN: 
+   KO: 대량 처리를 위한 우수한 용광로. ^cyan;rare^reset; 광석 및 더 많은 재료를 제련할 수 있습니다. ^cyan;^orange;50W ^cyan;전력^reset; 필요;
+ENG_LEFT | /objects/power/manufacturing/mfgstation.object.patch/description | cyan
+   EN: 
+   KO: 원자재를 완제품으로 가공하기 위한 조립 라인입니다.
+^orange;140J^cyan이 필요합니다. 공예 당 힘의.^reset;
+PHRASE:geunom | /objects/power/mechanicrepairo_black/sf_mechanicrepairo_black.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_brown/sf_mechanicrepairo_brown.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_cherryred/sf_mechanicrepairo_cherryred.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_darkgreen/sf_mechanicrepairo_darkgreen.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_gold/sf_mechanicrepairo_gold.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_green/sf_mechanicrepairo_green.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_indigo/sf_mechanicrepairo_indigo.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_lavender/sf_mechanicrepairo_lavender.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_lightblue/sf_mechanicrepairo_lightblue.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_lightoceaneblue/sf_mechanicrepairo_lightoceaneblue.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_navyblue/sf_mechanicrepairo_navyblue.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_oldpink/sf_mechanicrepairo_oldpink.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_red/sf_mechanicrepairo_red.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_sweetpink/sf_mechanicrepairo_sweetpink.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_violet/sf_mechanicrepairo_violet.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:geunom | /objects/power/mechanicrepairo_whitegold/sf_mechanicrepairo_whitegold.object.patch/novakidDescription | 
+   EN: He sure does look happy to be fixin' things all day.
+   KO: 저 녀석 하루 종일 뭘 고치는 게 행복해 보이는구만.
+PHRASE:many-things | /objects/protectorate/objects/protectoratewallbanner/protectoratewallbanner.object.patch/hylotlDescription | 
+   EN: 
+   KO: 행성 보호국 배너는 많은 것들을 묘사한다. 우리 모두에게 큰 의미가 있어.
+PHRASE:many-things | /objects/protectorate/objects/protectoratewindbanner/protectoratewindbanner.object.patch/hylotlDescription | 
+   EN: 
+   KO: 행성 보호국 배너는 많은 것들을 묘사한다. 우리 모두에게 큰 의미가 있어.
+PHRASE:many-things | /objects/protectorate/objects/protectoratewindbanner2/protectoratewindbanner2.object.patch/hylotlDescription | 
+   EN: 
+   KO: 행성 보호국 배너는 많은 것들을 묘사한다. 우리 모두에게 큰 의미가 있어.
+PHRASE:many-things | /objects/protectorate/objects/protectoratewindbanner3/protectoratewindbanner3.object.patch/hylotlDescription | 
+   EN: 
+   KO: 행성 보호국 배너는 많은 것들을 묘사한다. 우리 모두에게 큰 의미가 있어.
+ENG_LEFT | /objects/saturn/saturnclutter/saturnopenbook/saturnopenbook8.object.patch/saturn2Description | room,mushroom
+   EN: "Why do Actians live in giant fungi?"
+"There's so mushroom."
+   KO: 액티안은 왜 거대한 버섯 속에서 살까?
+방(room)이 엄청 많거든. 머시룸(mushroom)이잖아!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_aquaF.object.patch/description | aqua
+   EN: A OC_aqua!
+   KO: OC_aqua다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_argonM.object.patch/description | argon
+   EN: A OC_argon!
+   KO: OC_argon이다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_billiM.object.patch/description | billi
+   EN: A OC_billi!
+   KO: OC_billi다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_bumbleM.object.patch/description | dbumble
+   EN: A OC_dbumble!
+   KO: OC_dbumble이다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_corpelF.object.patch/description | corpel
+   EN: A OC_corpel!
+   KO: OC_corpel이다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_corpelM.object.patch/description | corpel
+   EN: A OC_corpel!
+   KO: OC_corpel이다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_dracoM.object.patch/description | draco
+   EN: A OC_draco!
+   KO: OC_draco다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_pinkM.object.patch/description | pink
+   EN: A OC_pink!
+   KO: OC_pink다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_sodaF.object.patch/description | soda
+   EN: A OC_soda!
+   KO: OC_soda다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_sodaM.object.patch/description | soda
+   EN: A OC_soda!
+   KO: OC_soda다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_stinkvaliF.object.patch/description | stinkvali
+   EN: A OC_stinkvali!
+   KO: OC_stinkvali다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_stinkvaliM.object.patch/description | stinkvali
+   EN: A OC_stinkvali!
+   KO: OC_stinkvali다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_ziplockM.object.patch/description | ziplock
+   EN: A OC_ziplock!
+   KO: OC_ziplock이다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_zoroakF.object.patch/description | zoroak
+   EN: A OC_zoroak!
+   KO: OC_zoroak다!
+ENG_LEFT | /objects/sexbound_portable/sxb_OC_zoroakM.object.patch/description | zoroak
+   EN: A OC_zoroak!
+   KO: OC_zoroak다!
+ENG_LEFT | /objects/tentacle_pony_show/tentacle_pony_show.object.patch/description | bitez
+   EN: My little Pony can't be this full of tentacle cum! ^gray;Art by StygianSunder for bitez323. 
+^orange;Make sure to place it on empty backgrou
+   KO: 내 마이 리틀 포니가 이렇게 촉수 정액으로 가득 찰 리가 없어! ^gray;bitez323를 위해 StygianSunder가 그림.
+^orange;빈 배경에 놓는 걸 잊지 마세요!
+ENG_LEFT | /objects/themed/rococo/rocococurtain3/rocococurtain3.object.patch/floranDescription | ssskin
+   EN: 
+   KO: 에이펙스는 무거운 벨벳으로 커튼을 만들고, 플로란은 ssskin으로 커튼을 만듭니다.
+PHRASE:many-things | /objects/tiered/tier1switch/tier1switch.object.patch/apexDescription | 
+   EN: 
+   KO: 이 레버는 많은 것들에 쓸 수 있겠다.
+PHRASE:many-things | /objects/tiered/tier1switch/tier1switch.object.patch/apexDescription | 
+   EN: 
+   KO: 이 레버는 많은 것들에 쓸 수 있겠다.
+PHRASE:many-things | /objects/tiered/tier2switch/tier2switch.object.patch/apexDescription | 
+   EN: 
+   KO: 이 레버는 많은 것들에 쓸 수 있겠다.
+PHRASE:many-things | /objects/unbound/containers/unboundvanguardchest/unboundvanguardchest.object.patch/novakidDescription | 
+   EN: I could pack a lot into a big ol' chest like this one.
+   KO: 이런 커다란 상자라면 많은 것들을 담을 수 있겠군.
+PHRASE:many-things | /objects/yukai/containers/yukaibigchest/yukaibigchest.object.patch/novakidDescription | 
+   EN: I could pack a lot into a big ol' chest like this one.
+   KO: 이런 커다란 상자라면 많은 것들을 담을 수 있겠군.
+PHRASE:many-things | /objects/yukai/other/yukaitidetuner/effigies/cephaloworm/cephalowormeffigy.object.patch/floranDescription | 
+   EN: Floran use thisss to add more thingss to replicator.
+   KO: 플로란은 이걸로 복제기에 더 많은 것들을 넣을 슈 있다.
+ENG_LEFT | /pat/classicquickbar/settings/mgui_settings.config.patch/strings/scungusLabel | metagui
+   EN: this is scungus :)      he HATES metagui
+   KO: 이것은 스컹구스 :)      그는 metagui를 싫어한다
+PHRASE:rosseo | /quests/SHIP_UPGRADES/gic_player_shipgradeT8.questtemplate.patch/text | 
+   EN: 
+   KO: [최종 확장은 함선 앞을 열어 작은 관측 갑판으로 쓰고, 함선 앞에 다목적 자동포도 장착한다. 이로써 플레이어가 함선으로 지상 포격 지원을 할 수 있다.]
+
+획득: 고철 40개와 크레딧 40개
+PHRASE:geunom | /quests/STORY/floran_mission1.questtemplate.patch/scriptConfig/radioMessages/uniqueProgress/ixolingpike/text | 
+   EN: 
+   KO: 저 생명체는 이 장소 주변에는 서식하지 않아. 내 분류 기록을 살펴봐서 저 녀석의 기원과 중요성을 알아보도록 할게.
+PHRASE:geunom | /quests/arcana_quests_cassidy/arcana_quests_cassidy_mwhaddon_arena_1_2.questtemplate.patch/completionText | 
+   EN: So ya back, ha! Tell truth, I've always'ought highly of ya. Here's his lovely gun, ya'arned it.
+   KO: 돌아왔군, 하! 사실대로 말하면, 난 항상 널 높이 평가했어. 여기 그 녀석의 멋진 총이야, 네가 벌어들인 거지.
+ENG_LEFT | /quests/fu_questlines/battle/gear/plebiancap.questtemplate.patch/text | orange
+   EN: 
+   KO: 여기서 만들 수 있는 갑옷과 무기는 다양합니다. orange;플레비안 모자^reset;을 제작하여 테스트해 봅시다.
+ENG_LEFT | /quests/fu_questlines/other/frozenwastes/shoggoth_wagner.questtemplate.patch/text | orange
+   EN: 
+   KO: 친구에게 연락할 방법을 모르겠어요. orange;델타 프레야 2호로 연결되는 모든 텔레포터^reset; 가 다운된 것 같아서 연락이 안 돼요. 그곳으로 가는 길을 찾으면 제 친구 바그너를 찾아주실 수 있나요?
+ENG_LEFT | /quests/fu_questlines/other/precursor/precursor_unlock.questtemplate.patch/text | data,disc
+   EN: 
+   KO: 여기가 어디죠? 이 ^green;data-disc^reset; 은 적어도 좌표는 알려줍니다. 이상한 점은, 이 구역에는 항상 모든 것이... 아무것도 없다는 것입니다. 이곳을 꼭 탐험해봐야겠어요.
+ENG_LEFT | /quests/fu_questlines/outpost/bees/10industrialcentrifuge.questtemplate.patch/text | orange
+   EN: 
+   KO: 이제 출력을 최대화할 차례입니다. orange;산업용 원심분리기^reset; 를 만드세요. 필요한 유리를 만들려면 ^orange;모래^reset; 를 찾아야 합니다. 사막을 만들어 보세요!
+ENG_LEFT | /quests/fu_questlines/outpost/bees/1beestation.questtemplate.patch/text | orange
+   EN: 
+   KO: 더 단순한 삶, ^green;꿀벌을 키우고 ^green;수익을 거두는 삶을 시도하고 싶으신가요? orange;양봉장 제작소^reset; 를 건설하면 시작할 수 있습니다.
+ENG_LEFT | /quests/fu_questlines/outpost/bees/2apiary.questtemplate.patch/completionText | orange
+   EN: 
+   KO: orange;양봉장^reset; 은 양봉가에게 필수입니다. 하나 이상 필요할 수도 있습니다. 작은 친구들을 번식시키려면 벌이 필요합니다.
+ENG_LEFT | /quests/fu_questlines/outpost/bees/9alveary.questtemplate.patch/text | orange
+   EN: 
+   KO: 이제 조금 더 모험을 해볼 수 있습니다. orange;대형 양봉장^reset; 을 생성하여 양봉장 잠재력을 두 배로 늘리세요. 양봉장을 건설하려면 ^orange;황금 나무^reset; 가 필요합니다. ^cyan;호박벌 또는 난초벌을 사용해 보세요^reset;.
+PHRASE:musimushi | /quests/ivrpgoneforall.questtemplate.patch/completionText | 
+   EN: We are phasing out the usage of this quest. Please do not worry if it has been completed/abandoned.
+   KO: 이 퀘스트는 현재 사용을 중단하는 중입니다. 완료되거나 포기되더라도 걱정하지 마세요.
+ENG_LEFT | /quests/mwhaddon_quests/mwhaddon_quests_arcana_vendor_7/mwhaddon_quests_artifact_magiblade_trayodhatava.questtemplate.patch/completionText | tava
+   EN: Oh, ^#EDA946;Tray^#5144A5;o Dhā^#9AEFF5;tava^reset;, "The Three World", isn't it. The power you mentioned is actually its memory. Feel it wi
+   KO: 오, ^#EDA946;Tray^#5144A5;o Dhā^#9AEFF5;tava^reset;, '세 세계'였구나. 네가 말한 힘은 사실 그 기억이다. 네 깊은 마음으로 그것을 느껴봐.
+ENG_LEFT | /quests/optionalhardmode/fu_t10_apex_mission2.questtemplate.patch/scriptConfig/descriptions/turnIn | reset
+   EN: 
+   KO: ^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요
+ENG_LEFT | /quests/optionalhardmode/fu_t10_avian_mission2.questtemplate.patch/scriptConfig/descriptions/turnIn | reset
+   EN: 
+   KO: ^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요
+ENG_LEFT | /quests/optionalhardmode/fu_t10_floran_mission2.questtemplate.patch/scriptConfig/descriptions/turnIn | reset
+   EN: 
+   KO: ^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요
+ENG_LEFT | /quests/optionalhardmode/fu_t10_floranarena1.questtemplate.patch/scriptConfig/descriptions/turnIn | reset
+   EN: 
+   KO: ^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요
+ENG_LEFT | /quests/optionalhardmode/fu_t10_floranarena2.questtemplate.patch/scriptConfig/descriptions/turnIn | reset
+   EN: 
+   KO: ^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요
+ENG_LEFT | /quests/optionalhardmode/fu_t10_floranarena3.questtemplate.patch/scriptConfig/descriptions/turnIn | reset
+   EN: 
+   KO: ^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요
+ENG_LEFT | /quests/optionalhardmode/fu_t10_gaterepair.questtemplate.patch/scriptConfig/descriptions/findEsther | reset
+   EN: 
+   KO: ^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요
+ENG_LEFT | /quests/optionalhardmode/fu_t10_glitch_mission2.questtemplate.patch/scriptConfig/descriptions/turnIn | reset
+   EN: 
+   KO: ^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요
+ENG_LEFT | /quests/optionalhardmode/fu_t10_human_mission1.questtemplate.patch/scriptConfig/descriptions/turnIn | reset
+   EN: 
+   KO: ^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 ^orange;암흑 에르키우스 수정^reset;을 전달하세요
+ENG_LEFT | /quests/optionalhardmode/fu_t10_hylotl_mission2.questtemplate.patch/scriptConfig/descriptions/turnIn | reset
+   EN: 
+   KO: ^orange;과학 전초기지^reset의 ^orange;Kherae^reset;에게 돌아가세요
+ENG_LEFT | /quests/optionalhardmode/fu_t10_precursor.questtemplate.patch/scriptConfig/descriptions/turnIn | reset
+   EN: 
+   KO: ^orange;과학 전초기지^reset의 ^orange;Khe^reset;에게 돌아가세요
+PHRASE:geunom | /quests/outpost/floranarena3.questtemplate.patch/text | 
+   EN: 
+   KO: 이제 마지막 도전이 남았어! ^orange;템플러 인페르노^white;라고 불리우는 갑옷 입은 소름끼치는 녀석이 너랑 싸우고 싶다던데. 그 녀석은 불을 좋아해. 아주 많이 말이야. 불타는 몬스터 무리를 막으려면 화상 스프레이를 챙기는 편이 좋을거야... ^green;어쨌든, 갈 준비가 됐으면 나한테 말해줘^white;.
+ENG_LEFT | /quests/outpost/mechunlock.questtemplate.patch/completionText | spare,resources,mech
+   EN: 
+   KO: 이것이 바로 기계를 사용하는 방법입니다! 제가 ^green;spare resources^white;를 통해 여러분이 직접 제작할 수 있도록 충분한 ^orange;Engineering^reset; 을 제공할 수 있습니다! 제 ^orange;mech 조립 스테이션^white;를 사용하여 작동 방식을 확인할 수도 있습니다.
+PHRASE:geunom | /quests/outpost/penguin1.questtemplate.patch/text | 
+   EN: 
+   KO: 좀 도와주겠나? 내 단골 손님들이 ^orange;드레드윙^white;과 그 놈의 부하들에게서 도망다니느라 장사가 잘 되질 않아! ^green;가서 드레드윙을 처치^white;해주겠나? 준비가 되면 말하라고, 그 녀석에게 바로 보내줄테니!
+ENG_LEFT | /quests/scp_cityqueststopper.questtemplate.patch/text | citynpcstopper
+   EN: This quest stops the scp_citynpcstopper from appearing.
+   KO: 이 퀘스트는 scp_citynpcstopper가 나타나지 않게 한다.
+ENG_LEFT | /quests/scripts/neb-damagetypekills.questtemplat.patch/title | orange
+   EN: 
+   KO: orange;안녕, 난 밥이야.
+PHRASE:can-become | /quests/tech/dash/blinkdash2.questtemplate.patch/text | 
+   EN: 
+   KO: 이 장치 덕분에 제 ^orange;깜빡임 대시^reset; 기술에도 같은 원리를 적용할 수 있어요! ^orange;에어 블링크^reset; 덕분에 순간 이동을 좀 더 잘할 수 있게 되었어요!
+PHRASE:can-become | /quests/tech/other/physicsfield2.questtemplate.patch/completionText | 
+   EN: 
+   KO: 이제 정말 중력을 무시하고 멋지게 여행할 수 있게 되었어요!
+PHRASE:musimushi | /radiomessages/armorAdapt.radiomessages.patch/armorAdaptOutfitError/text | 
+   EN: An outfit your are wearing is bugged, do not be alarmed, we are fixing the problem.
+   KO: 착용 중인 의상에 버그가 있습니다. 당황하지 마세요, 문제를 수정하는 중입니다.
+ENG_LEFT | /radiomessages/ffs2_radiomessages.radiomessages.patch/ffs2_6_20/text | spazzatura
+   EN: ^white;Hahaha! Cultists è spazzatura!
+   KO: ^white;하하하! 이단자들 è spazzatura!
+ENG_LEFT | /radiomessages/ffs_radiomessages_hc.radiomessages.patch/ffs0_1_4_hc/text | green,white
+   EN: ^green; Hint: ^red;Pirates act differently now,
+^orange;and their bullets are the faster regular kind now too.
+^green: they are still glass 
+   KO: ^green; 힌트: ^red;해적들은 이제 다르게 행동한다,
+^orange;해적의 탄환도 이제는 더 빠른 일반탄이다.
+^green: 그래도 여전히 유리대포다. 대체로. 트루퍼 제외하고는.
+^white: 행운을 빈다.
+PHRASE:rosseo | /radiomessages/fu_madness.radiomessages.patch/madnessharminvert/text | 
+   EN: 
+   KO: <^yellow;당신은 자신을 찌르고 싶은 충동을 느끼고, 그렇게 함으로써 어떻게든 재생을 시작합니다.^reset;>
+PHRASE:can-become | /radiomessages/lawPBImissions_M04a.radiomessages.patch/pbimission04a_mess05/text | 
+   EN: Welcome officer. Thanks to your intervention... Which one? ...But for executing my creator, your former partner. I was finally able to take 
+   KO: 환영합니다, 경관님. 당신의 개입 덕분에... 어떤 일이냐고요? ...내 창조자이자 당신의 옛 파트너를 처형한 덕분에, 드디어 스스로를 제어할 수 있게 됐어요. 그럼에도 유감스럽게 알려드리면, 곧 그의 곁으로 가게 되실 겁니다.
+ENG_LEFT | /recipes/cbstation/summonball_OC_pinkM.recipe.patch/output/parameters/description | braixen,sanders
+   EN: Commissioned by @braixen_sanders
+   KO: @braixen_sanders의 의뢰작입니다.
+ENG_LEFT | /recipes/cbstation/summonball_OC_stinkvaliM.recipe.patch/output/parameters/description | stinkvali
+   EN: Commissioned by stinkvali
+   KO: stinkvali의 의뢰작입니다.
+ENG_LEFT | /recipes/cbstation/summonball_OC_zoroakF.recipe.patch/output/parameters/description | zoroak
+   EN: Character by zoroak88
+   KO: zoroak88 캐릭터
+ENG_LEFT | /recipes/cbstation/summonball_OC_zoroakM.recipe.patch/output/parameters/description | zoroak
+   EN: Character by zoroak88
+   KO: zoroak88 캐릭터
+ENG_LEFT | /sb_commands.config.patch/whisper/usage | whisper
+   EN: Usage /whisper playerName message
+   KO: 사용법 /whisper 플레이어명 메시지
+ENG_LEFT | /sb_commands.config.patch/itemid/usage | itemid
+   EN: Usage /sb_itemid itemName [detailed]
+   KO: 사용법 /sb_itemid 아이템명 [상세]
+PHRASE:can-become | /stagehands/mission/glitchmissionmanager.stagehand.patch/radioMessages/finalWaveComplete/0 | 
+   EN: 
+   KO: 환희. 하하! 다 끝났어요! 그 비참한 구더기들을 모두 잡았어요! 노래할 수 있게 됐어! 이리 와, 할 말이 있어...
+PHRASE:can-become | /stagehands/mission/glitchmissionmanager_ffs.stagehand.patch/radioMessages/finalWaveComplete/0 | 
+   EN: Jubilant. Ha ha! That's done for them! We got every last one of those wretched maggots! I could sing! Come here, I want to speak to you...
+   KO: 환희. 하하! 다 끝났어요! 그 비참한 구더기들을 모두 잡았어요! 노래할 수 있게 됐어! 이리 와, 할 말이 있어...
+ENG_LEFT | /stats/effects/gic_rhythm_effect/gic_rhythm_effect.statuseffect.patch/label | todo
+   EN: 
+   KO: - todo - 리듬에 맞춰 효과 발동
+ENG_LEFT | /stats/effects/gic_rhythm_effect/gic_rhythm_effect_120bpm_jester_chest.statuseffect.patch/label | todo
+   EN: 
+   KO: - todo - 리듬에 맞춰 효과 발동
+ENG_LEFT | /stats/effects/gic_rhythm_effect/gic_rhythm_effect_120bpm_jester_legs.statuseffect.patch/label | todo
+   EN: 
+   KO: - todo - 리듬에 맞춰 효과 발동
+ENG_LEFT | /stats/effects/gic_rsr_gun_omamori/gic_scope_charm.statuseffect.patch/label | reset
+   EN: Scope Charm - ^orange;+25% Weapon Proficiency after 0.5s of not running, firing, or being shot.^reset
+   KO: 조준경 부적 - ^orange;달리기, 사격, 피격을 하지 않은 지 0.5초 후 무기 숙련 +25%.^reset
+PHRASE:musimushi | /tenants/alta/events/ceternity/halloween.tenant.patch/wiki/description | 
+   EN: An alta dressed up in spooky clothes. She's celebrating Ceternity! Or Halloween, as known among humans.
+   KO: 으스스한 옷을 입은 알타입니다. 세터니티를 기념하는 중입니다! 인간에게는 할로윈으로 알려져 있죠.
+PHRASE:musimushi | /tenants/alta/events/ceternity/harrowing.tenant.patch/wiki/description | 
+   EN: An alta dressed up in spooky clothes. She's celebrating Ceternity! Or The Harrowing, as known among elithian alliance species.
+   KO: 으스스한 옷을 입은 알타입니다. 세터니티를 기념하는 중입니다! 엘리시안 얼라이언스 종족에게는 하로윙으로 알려져 있죠.

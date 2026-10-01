@@ -1,0 +1,61 @@
+en	count	sample_asset	ko
+"Affects damage per shot.
+May be rejected by some weapons."	4	/items/augments/project45-gunmods/other/converter/project45-beamconverter/project45-beamconverter.augment.patch	
+Enables laser sight.	3	/items/augments/project45-gunmods/mods/project45-bowstabilizermod/project45-bowstabilizermod.augment.patch	
+Right-click to attack. Damage scales with squared power mult times world level.	2	/items/augments/project45-gunmods/ability/project45-bayonetgripmod/project45-bayonetgripmod.augment.patch	
+"- Hold RClick to aim.
+- Move cursor to move crosshairs.
+- Tap crouch to lock scope.
++50% Crit Chance when aiming."	2	/items/augments/project45-gunmods/ability/project45-gunscopemod/project45-gunscopemod.augment.patch	
+Fires projectiles that explode on impact.	2	/items/augments/project45-gunmods/ammo/project45-explosiveammomod/project45-explosiveammomod.augment.patch	
+Fires projectiles that burns the enemy while dealing fire damage.	2	/items/augments/project45-gunmods/ammo/project45-incendiaryammomod/project45-incendiaryammomod.augment.patch	
+Fires projectiles that poisons the enemy while dealing poison damage.	2	/items/augments/project45-gunmods/ammo/project45-poisonammomod/project45-poisonammomod.augment.patch	
+"Manual-feed weapons auto-feed.
+Charge weapons automatically fire when fully charged."	2	/items/augments/project45-gunmods/mods/project45-autofiremod/project45-autofiremod.augment.patch	
+"Final Damage +0.05x per Manipulator Armor.
+Energy Regen."	2	/items/augments/project45-gunmods/mods/project45-feroziummod/project45-feroziummod.augment.patch	
+"Final Damage +0.02x per T5/T6 Armor.
+On crit: 4.5% chance to get 45 pixels"	2	/items/augments/project45-gunmods/mods/project45-solariummod/project45-solariummod.augment.patch	
+Upgrade capacity increases by 1 per level.	2	/items/augments/project45-gunmods/stat/project45-levelmod/project45-levelmod.augment.patch	
+Right-click to generate a health- and energy-based shield that lasts 10 seconds.	1	/items/augments/project45-gunmods/ability/project45-armadillomod/project45-armadillomod.augment.patch	
+Passively shows directions and distances of nearby entities.	1	/items/augments/project45-gunmods/ability/project45-enemyradarmod/project45-enemyradarmod.augment.patch	
+Right-click to toggle between modes.	1	/items/augments/project45-gunmods/ability/project45-flashlasermod/project45-flashlasermod.augment.patch	
+Right-click to load, fire or eject.	1	/items/augments/project45-gunmods/ability/project45-grenadelaunchermod/project45-grenadelaunchermod.augment.patch	
+Hits have a chance to break the shield and retaliate with a shockwave.	1	/items/augments/project45-gunmods/ability/project45-gunshieldmod/project45-gunshieldmod.augment.patch	
+- Right click to reload.	1	/items/augments/project45-gunmods/ability/project45-manualreloadmod/project45-manualreloadmod.augment.patch	
+Hold Right-click and circle your cursor around your character to get a brief damage buff.	1	/items/augments/project45-gunmods/ability/project45-mlgscopemod/project45-mlgscopemod.augment.patch	
+"Right-click to summon an orbital strike.
+Enables laser."	1	/items/augments/project45-gunmods/ability/project45-orbitaltranspondermod/project45-orbitaltranspondermod.augment.patch	
+"- Tap walk to dash.
+- Right-click to phase.
+- You cannot deal damage while phased."	1	/items/augments/project45-gunmods/ability/project45-phaseshiftmod/project45-phaseshiftmod.augment.patch	
+Right-click to fire; consumes 5 ammo per shot.	1	/items/augments/project45-gunmods/ability/project45-underbarrelshotgunmod/project45-underbarrelshotgunmod.augment.patch	
+Fires projectiles that bleeds the enemy.	1	/items/augments/project45-gunmods/ammo/project45-bladedarrowsmod/project45-bladedarrowsmod.augment.patch	
+Grenades that split into smaller grenades on impact.	1	/items/augments/project45-gunmods/ammo/project45-clustergrenademod/project45-clustergrenademod.augment.patch	
+Fires bright, short-lived incendiary projectiles.	1	/items/augments/project45-gunmods/ammo/project45-dragonsbreathmod/project45-dragonsbreathmod.augment.patch	
+Generates an electric explosion at the end of the hitscan projectile.	1	/items/augments/project45-gunmods/ammo/project45-elecammomod/project45-elecammomod.augment.patch	
+Fires projectiles that deal electric damage.	1	/items/augments/project45-gunmods/ammo/project45-elecarrowsmod/project45-elecarrowsmod.augment.patch	
+Fires a beam that deals fire damage.	1	/items/augments/project45-gunmods/ammo/project45-firebeammod/project45-firebeammod.augment.patch	
+Fires 4 penetrating shotgun darts. Inflicts bleed.	1	/items/augments/project45-gunmods/ammo/project45-flechettemod/project45-flechettemod.augment.patch	
+Spews gas clouds that deal poison damage.	1	/items/augments/project45-gunmods/ammo/project45-gasmod/project45-gasmod.augment.patch	
+Spawns singularities that float in mid-air, detonating after a short time, dealing electric & Dark damage.	1	/items/augments/project45-gunmods/ammo/project45-gravbombmod/project45-gravbombmod.augment.patch	
+Releases bursts that deal Dark damage and pull entities into them.	1	/items/augments/project45-gunmods/ammo/project45-gravpullmod/project45-gravpullmod.augment.patch	
+Releases bursts that deal Holy damage.	1	/items/augments/project45-gunmods/ammo/project45-haloburstmod/project45-haloburstmod.augment.patch	
+Sawblades home in on enemies. Inflicts bleed.	1	/items/augments/project45-gunmods/ammo/project45-homingbladesmod/project45-homingbladesmod.augment.patch	
+Fires small rockets that home in on enemies.	1	/items/augments/project45-gunmods/ammo/project45-homingrocketmod/project45-homingrocketmod.augment.patch	
+Fires hitscans that freeze enemies and deal ice damage.	1	/items/augments/project45-gunmods/ammo/project45-iceammomod/project45-iceammomod.augment.patch	
+Fires multiple small rockets that home in on multiple enemies.	1	/items/augments/project45-gunmods/ammo/project45-itanorocketsmod/project45-itanorocketsmod.augment.patch	
+Fires harmless short-lived grenades that propels entities away when exploding.	1	/items/augments/project45-gunmods/ammo/project45-jumpgrenademod/project45-jumpgrenademod.augment.patch	
+Fires projectiles that have a 50% chance of leeching health.	1	/items/augments/project45-gunmods/ammo/project45-sanguineammomod/project45-sanguineammomod.augment.patch	
+Fires a single, slow semi-accurate projectile.	1	/items/augments/project45-gunmods/ammo/project45-slugshellsmod/project45-slugshellsmod.augment.patch	
+Fires a sawblade that splits into three. Inflicts bleed.	1	/items/augments/project45-gunmods/ammo/project45-splitbladesmod/project45-splitbladesmod.augment.patch	
+Fires 3 arcing projectiles that inflict slow and vulnerability while inflicting physical damage.	1	/items/augments/project45-gunmods/ammo/project45-tarmod/project45-tarmod.augment.patch	
+Ammo mod for testing projectiles.	1	/items/augments/project45-gunmods/ammo/project45-testammomod/project45-testammomod.augment.patch	
+Fires grenades that burst into flames on impact.	1	/items/augments/project45-gunmods/ammo/project45-thermitegrenademod/project45-thermitegrenademod.augment.patch	
+"Final Damage +0.05x per Accelerator Armor.
+Makes weapon light."	1	/items/augments/project45-gunmods/mods/project45-aegisaltmod/project45-aegisaltmod.augment.patch	
+Makes weapon manual-feed.	1	/items/augments/project45-gunmods/mods/project45-alofsmagmod/project45-alofsmagmod.augment.patch	
+Allows weapon to load to full magazine capacity.	1	/items/augments/project45-gunmods/mods/project45-speedloadermod/project45-speedloadermod.augment.patch	
+"Final Damage +0.2x per Separator Armor.
+Makes weapon heavy."	1	/items/augments/project45-gunmods/mods/project45-violiummod/project45-violiummod.augment.patch	
+- Tap crouch (shift) to reload.	1	/items/augments/project45-gunmods/passive/project45-shiftreloadmod/project45-shiftreloadmod.augment.patch	

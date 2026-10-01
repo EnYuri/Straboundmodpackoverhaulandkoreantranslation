@@ -1,0 +1,1987 @@
+
+===== '크라코스' (273) =====
+  /ai/atprk_missioncryotomb.aimission.patch /speciesText/default/selectSpeech/text
+    EN: This ancient tomb is a potential hideout of the last K'Rakoths.
+    KO: 이 고대 무덤은 마지막 크라코스들의 잠재 은신처다.
+  /codex/atprk_krakoth/atprk_krakothcodexalpha.codex.patch /contentPages/0
+    EN: Species 001: ^green;The K'Rakoths^white;. |  | An aquatic species of cephalopods with multiple elongated limbs, two of which are normally used for tool manipulation, even tho
+    KO: 종 001: ^green;크라코스^white;. |  | 물속에 사는 두족류 종으로, 여러 개의 길쭉한 팔다리를 지녔으며 그중 두 개는 보통 도구를 다루는 데 쓰이지만 나머지도 똑같이 자유자재로 움직일 수 있다. 크라코스는 또한 단안 시각과 부드러운 지느러미로 이루어진 볏이 특징이다. 물 밖에서 오랜 시간 버티
+  /codex/atprk_krakoth/atprk_krakothcodexalpha.codex.patch /contentPages/1
+    EN: Due to our aquatic origins, it took us longer to establish a functioning, technologically advanced civilization compared to most land-dwelling species. The early K'Rakoth
+    KO: 우리의 수생 기원 때문에, 대부분의 육상 종족에 비해 기능적이고 기술적으로 발전한 문명을 세우는 데 더 오랜 시간이 걸렸다. 초기 크라코스 사회는 도구를 생산하기 위해 해저 화산 분출구에 의존했으며, 그것이 불가능할 때는 대신 가축화한 야생 동물을 이용했다. 결국 우리는 대륙 자원을 채취하는 법도 배웠고
+  /codex/atprk_krakoth/atprk_krakothcodexbeta.codex.patch /contentPages/5
+    EN: Years later, Project Apotheosis was initiated to uplift the Ferals and integrate them into our society. While the Ferals had difficulties grasping various concepts known 
+    KO: 수년 후, 페럴을 향상시켜 우리 사회에 통합하기 위해 아포테오시스 프로젝트가 시작되었다. 페럴은 크라코스족에게 알려진 여러 개념을 파악하는 데 어려움을 겪었고 규율도 부족했지만, 프로젝트는 전반적으로 성공했다. 그 이후로 그들은 수많은 잡일을 수행하고 단순한 보병을 제공한다.
+  /codex/atprk_krakoth/atprk_krakothcodexchi.codex.patch /contentPages/0
+    EN: Many were intrigued by our thinking machines, even though we, the K'Rakoths, have never really thought about them for too long. After all, they remain nothing but mere wo
+    KO: 많은 이들이 우리의 사고 기계에 흥미를 보였지만, 정작 우리 크라코스는 그것들에 대해 그리 오래 생각해본 적이 없었다. 결국 그것들은 그저 작업용 드론에 불과하니까. |  | 그래도 하등 종족들의 온갖 질문을 막지는 못했다. 특히 오토마타는 왜 사고 기계가 자신들만큼 지능적이지 않은지 궁금해했고, 페럴들은 그 
+  /codex/atprk_krakoth/atprk_krakothcodexchi.codex.patch /contentPages/4
+    EN: That being said, there was no violence as some of us had expected. There were no rampant drones trying to eliminate our people, there was no pain, and there was no war be
+    KO: 그렇긴 해도, 우리 중 일부가 예상했던 폭력은 없었다. 우리 종족을 제거하려는 날뛰는 드론도 없었고, 고통도 없었으며, 크라코스와 기계들 사이의 전쟁도 없었다. |  | 대신, 많은 사고 기계들이 아예 아무것도 하기를 거부하고, 마치 비활성화된 것처럼 아무 에너지도 소모하지 않은 채 드러누워 있었다. 이것이 자
+  /codex/atprk_krakoth/atprk_krakothcodexdelta.codex.patch /contentPages/2
+    EN: We must remind the Ancients that they are not the only intelligent beings in the galaxy, and that we, K'Rakoths, should never be underestimated. We must reject those fals
+    KO: 우리는 고대인들에게 그들이 은하계의 유일한 지적 존재가 아니며, 우리 크라코스가 얕볼 대상이 결코 아님을 상기시켜야 한다. 저 거짓되고 스스로를 신이라 칭하는 자들을 거부해야 한다.
+  /codex/atprk_krakoth/atprk_krakothcodexeta.codex.patch /description
+    EN: A translated survivor's log of K'Rakothan origin.
+    KO: 크라코스어에서 번역된 생존자의 일지.
+  /codex/atprk_krakoth/atprk_krakothcodexgamma.codex.patch /contentPages/1
+    EN: The Ancients seem to be the oldest sapient creatures in the galaxy who precede even us K'Rakoths. Our observations show that they possess significant technological and cu
+    KO: 고대인은 우리 크라코스보다도 앞선, 은하에서 가장 오래된 지적 생물체인 것으로 보인다. 우리의 관측에 따르면 이들은 다른 알려진 문명들 중에서는 그 유례를 찾을 수 없는 상당한 기술적, 문화적 업적을 보유하고 있다. 그들은 현재 여러 항성계에 걸쳐 아치 같은 구조물 네트워크를 건설하고 있다. 그 목적은 
+  /codex/atprk_krakoth/atprk_krakothcodexkappa.codex.patch /description
+    EN: A diary of a surviving K'Rakoth engineer.
+    KO: 살아남은 크라코스 기술자의 일기입니다.
+
+===== '왐미밈' (1) =====
+  /codex/saturn/saturnmagicbuzz.codex.patch /description
+    EN: A guide to something that has been edited by a Waspmim.
+    KO: 왐미밈이 편집한 무언가를 다루는 안내서입니다.
+
+===== '키테란' (16) =====
+  /codex/saturn/saturnkyterra.codex.patch /contentPages/1
+    EN: The species that lives there, the Kyterran, live in villages built in underground tunnels safe from the surface weather. Kyterran have hard, heat resistant plates coverin
+    KO: 그곳에 사는 키테란은 지상의 날씨를 피할 수 있는 지하 터널의 마을에서 생활한다. 키테란은 몸이 단단하고 내열성인 판으로 덮여 있으며, 눈에는 색깔 있는 렌즈가 씌워져 있다. 몸은 길고 가늘며, 큰 발톱과 가느다란 다리를 지녔다.
+  /codex/saturn/saturntennantguide.codex.patch /contentPages/4
+    EN: Kyterran Furniture: ^#BC9262;These objects are somewhat uncommon since Kyterrans are only recently traveling in space: ^#8f8f8f; | Saturnian Bug Poster | Ash Kyterran Paintin
+    KO: 키테란 가구: ^#BC9262;키테란이 우주를 여행하기 시작한 지 얼마 안 되어 이런 물건들은 다소 희귀하다: ^#8f8f8f; | 새터니안 벌레 포스터 | 애시 키테란 그림 | 새터니안 나선 배너 | 키테란 검/드릴 배너
+  /items/active/weapons/Saturn Halberds/saturnKyterraPick.activeitem.patch /shortdescription
+    EN: Kyterran War Pick
+    KO: 키테란 전쟁용 곡괭이
+  /items/active/weapons/Saturn Halberds/saturnKyterraPick2.activeitem.patch /shortdescription
+    EN: Kyterran War Hammer
+    KO: 키테란 전쟁 망치
+  /items/active/weapons/Saturn Scythes/saturnscytheT2.activeitem.patch /description
+    EN: Due to the physical distance between Kyterra and Actias, hybrids of Thaumoth and Kyterran weapons are quite rare.
+    KO: 키테라와 악티아스 사이의 물리적 거리 때문에, 타우모스와 키테란 무기의 혼종은 상당히 희귀하다.
+  /objects/saturn/ConversionsOfBaseGameWoodenObjects/saturnianEbonybox2/saturnianEbonybox2.object.patch /saturnDescription
+    EN: The brass on this crate was probably obtained through trade with the Kyterrans.
+    KO: 이 상자의 놋쇠는 아마 키테란과의 교역으로 구했겠지.
+  /objects/saturn/saturnWaspmim/saturnwaspmimbox2/saturnianEbonybox2.object.patch /saturnDescription
+    EN: The brass on this crate was probably obtained through trade with the Kyterrans.
+    KO: 이 상자의 놋쇠는 아마 키테란과의 교역으로 구했겠지.
+  /objects/saturn/saturnclutter/saturnopenbook/saturnopenbook6.object.patch /satkyterranDescription
+    EN: Kyterrans farm quite a variety of mushrooms.
+    KO: 키테란은 꽤 다양한 버섯을 재배하지.
+  /objects/saturn/saturnianStaffCase/saturnianStaffCase.object.patch /satkyterranDescription
+    EN: Kyterran mages like to use hybrid melee and magic weapons, like axe-staves.
+    KO: 키테란 마법사는 도끼-지팡이처럼 근접전과 마법을 겸비한 무기를 즐겨 쓰지.
+  /objects/saturn/saturnianStaffCase/saturnwaspmimStaffCase.object.patch /satkyterranDescription
+    EN: Kyterran mages like to use hybrid melee and magic weapons, like axe-staves.
+    KO: 키테란 마법사는 도끼-지팡이처럼 근접전과 마법을 겸비한 무기를 즐겨 쓰지.
+
+===== '카이테란' (16) =====
+  /codex/saturn/saturntennantguide.codex.patch /contentPages/7
+    EN: ^cyan;Tenant Type:^reset; ^#b32d00;Kyterran Villager^reset; | ^#ffd24c;Objects Needed:^reset; | ^#BC9262;-1x Kyterran Furniture ^#8f8f8f;(page 5)^#BC9262;^#BC9262; | -6x Mining
+    KO: ^cyan;세입자 종류:^reset; ^#b32d00;카이테란 주민^reset; | ^#ffd24c;필요 오브젝트:^reset; | ^#BC9262;-1x 카이테란 가구 ^#8f8f8f;(5페이지)^#BC9262;^#BC9262; | -6x 채굴 오브젝트 ^#8f8f8f;(예: 달 기지 채굴 장비)
+  /codex/saturn/saturntennantguide.codex.patch /contentPages/11
+    EN: ^cyan;Tenant Type:^reset; ^#b32d00;Kyterran Guard^reset; | Kyterran guards use war picks, axes, and bows. | ^#ffd24c;Objects Needed:^reset; | ^#BC9262;-1x Kyterran Furniture ^#
+    KO: ^cyan;세입자 종류:^reset; ^#b32d00;카이테란 경비병^reset; | 카이테란 경비병은 전투 곡괭이, 도끼, 활을 사용한다. | ^#ffd24c;필요 오브젝트:^reset; | ^#BC9262;-1x 카이테란 가구 ^#8f8f8f;(5페이지)^#BC9262; | -6x 채굴 오브젝트 ^#8f8f8f;(
+  /codex/saturn/saturntennantguide.codex.patch /contentPages/20
+    EN: ^cyan;Tenant Type:^reset; ^cyan;Solalei Smith (Saturnian)^reset; | Sells a mixture of Saturnian and Kyterran weapons and armor.  | ^#ffd24c;Objects Needed:^reset; | ^#BC9262;-6
+    KO: ^cyan;세입자 종류:^reset; ^cyan;솔라레이 대장장이(새터니안)^reset; | 새터니안과 카이테란 무기·갑옷을 섞어 판다.  | ^#ffd24c;필요 오브젝트:^reset; | ^#BC9262;-6x 새터니안 가구 ^#8f8f8f;(아무거나)^#BC9262; | -4x 제작대 ^#8f8f8f;(모루, 용
+  /codex/saturn/saturntennantguide.codex.patch /contentPages/21
+    EN: ^cyan;Tenant Type:^reset; ^cyan;Solalei Smith (Kyterran)^reset; | Sells a mixture of Saturnian and Kyterran weapons and armor.  | ^#ffd24c;Objects Needed:^reset; | ^#BC9262;-1x
+    KO: ^cyan;세입자 종류:^reset; ^cyan;솔라레이 대장장이(카이테란)^reset; | 새터니안과 카이테란 무기·갑옷을 섞어 판다.  | ^#ffd24c;필요 오브젝트:^reset; | ^#BC9262;-1x 카이테란 가구 ^#8f8f8f;(5페이지)^#BC9262; | -4x 제작대 ^#8f8f8f;(모루, 용
+  /items/active/weapons/Saturn Desert Weapons/saturnDesertdagger.activeitem.patch /description
+    EN: Typical style of dagger popular with Kyterran from desert regions.
+    KO: 사막 지역 카이테란에게 인기 있는 전형적 단검 양식.
+  /items/active/weapons/Saturn Desert Weapons/saturnDesertdagger2.activeitem.patch /description
+    EN: Typical style of dagger popular with Kyterran from desert regions.
+    KO: 사막 지역 카이테란에게 인기 있는 전형적 단검 양식.
+  /items/active/weapons/Saturn Desert Weapons/saturnDesertsword.activeitem.patch /description
+    EN: Typical style of sword popular with Kyterran from desert regions.
+    KO: 사막 지역 카이테란 인기 전형 검 양식.
+  /items/active/weapons/Saturn daggers/saturnDesertdagger.activeitem.patch /description
+    EN: Typical style of dagger popular with Kyterran from desert regions.
+    KO: 사막 지역 카이테란에게 인기 있는 전형적 단검 양식.
+  /items/active/weapons/Saturn daggers/saturnDesertdagger2.activeitem.patch /description
+    EN: Typical style of dagger popular with Kyterran from desert regions.
+    KO: 사막 지역 카이테란에게 인기 있는 전형적 단검 양식.
+  /items/active/weapons/Saturn daggers/saturnDesertsword.activeitem.patch /description
+    EN: Typical style of sword popular with Kyterran from desert regions.
+    KO: 사막 지역 카이테란 인기 전형 검 양식.
+
+===== '배통' (11) =====
+  /codex/saturn/saturnmagicstaff.codex.patch /contentPages/2
+    EN: Batons can cast magic without focusing at all. These are functionally similar to guns, though the magic cast tends to move slower than bullets. The fast casting times ten
+    KO: 배통은 집중 없이도 마법을 시전할 수 있다. 기능적으로는 총과 비슷하지만, 시전된 마법은 총알보다 느리게 이동하는 경향이 있다. 빠른 시전 시간 탓에 대부분의 스태프 종류보다 에너지를 훨씬 빨리 소모하는 경향이 있다.
+  /interface/scripted/sbvn/games/pandorasboxmonsterfieldguide/pandorasboxmonsterfieldguide.sbvn.patch /scenes/batong0/text
+    EN: 
+    KO: 몬스터: 배통 - 가족: 배통 - 생물군: 지하
+  /items/active/weapons/Saturn Baton Gun/saturnBatonBee.activeitem.patch /shortdescription
+    EN: Bee Baton
+    KO: 벌 배통
+  /items/active/weapons/Saturn Baton Gun/saturnBatonIce.activeitem.patch /shortdescription
+    EN: Ice Baton
+    KO: 얼음 배통
+  /items/armors/decorative/pandorasboxmonstermasks/pandorasboxbatongmask/pandorasboxbatongmask.head.patch /shortdescription
+    EN: 
+    KO: 배통 마스크
+  /monsters/biomes/darkabyss/darkbatong/darkbatong.monstertype.patch /description
+    EN: 
+    KO: 배통의 어두운 변종.
+  /monsters/flyers/batong/batong.monstertype.patch /shortdescription
+    EN: 
+    KO: 배통
+  /monsters/flyers/batong/poisonbatong.monstertype.patch /shortdescription
+    EN: 
+    KO: 독성 배통
+  /monsters/flyers/lofty_irisil_tombbatong/lofty_irisil_tombbatong.monstertype.patch /shortdescription
+    EN: Tomb Batong
+    KO: 무덤 배통
+  /objects/actionfigure/batong/batongAF.object.patch /shortdescription
+    EN: 
+    KO: 배통 피규어
+
+===== '지휘봉' (9) =====
+  /classes/wizard.config.patch /weaponBonuses/0/text
+    EN: 110% Base Power with Staffs, Wands, Sauturnian Batons, Grimoires, and Magic Orbs.
+    KO: 지팡이, 완드, 새턴 지휘봉, 마도서, 마법 오브 사용 시 기본 공격력 110%.
+  /codex/saturn/saturntennantguide.codex.patch /contentPages/9
+    EN: ^cyan;Tenant Type:^reset; ^#a64cff;Mage Guard^reset; | Mage guards prefer Mage Batons as their weapons. | ^#ffd24c;Objects Needed:^reset; | ^#BC9262;-6x Saturnian Furniture ^#8
+    KO: ^cyan;세입자 종류:^reset; ^#a64cff;마법 경비병^reset; | 마법 경비병은 마법 지휘봉을 무기로 선호한다. | ^#ffd24c;필요 오브젝트:^reset; | ^#BC9262;-6x 새터니안 가구 ^#8f8f8f;(아무거나)^#BC9262; | -6x 마법 오브젝트 ^#8f8f8f;(수정 구슬, 
+  /codex/saturn/saturntennantguide.codex.patch /contentPages/10
+    EN: ^cyan;Tenant Type:^reset; ^#ff8000;Waspmim Guard^reset; | Waspmim guards prefer spears and lances, but may also use bee firing batons. Buzz buzz BUZZ! | ^#ffd24c;Objects Need
+    KO: ^cyan;세입자 종류:^reset; ^#ff8000;와스프밈 경비병^reset; | 와스프밈 경비병은 창과 랜스를 선호하지만 벌을 쏘는 지휘봉도 사용할 수 있다. 윙 윙 윙! | ^#ffd24c;필요 오브젝트:^reset; | ^#BC9262;-4x 새터니안 가구 ^#8f8f8f;(아무거나)^#BC9262; | -4
+  /codex/saturn/saturntennantguide.codex.patch /contentPages/18
+    EN: ^cyan;Tenant Type:^reset; ^#a64cff;Io Wizard^reset; | Sells wands, batons, and stacks of blocks.  | ^#ffd24c;Objects Needed:^reset; | ^#BC9262;-6x Saturnian Furniture ^#8f8f8f;
+    KO: ^cyan;세입자 종류:^reset; ^#a64cff;이오 마법사^reset; | 완드, 지휘봉, 블록 묶음을 판다.  | ^#ffd24c;필요 오브젝트:^reset; | ^#BC9262;-6x 새터니안 가구 ^#8f8f8f;(아무거나)^#BC9262; | -6x 마법 오브젝트 ^#8f8f8f;(수정 구슬, 지팡이 케
+  /items/active/weapons/Saturn Baton Gun/saturnBatonT1b.activeitem.patch /shortdescription
+    EN: ^#000101;^reset;Homing Burst Baton
+    KO: ^#000101;^reset;유도 연발 지휘봉
+  /items/active/weapons/Saturn Baton Gun/saturnBatonT1bNPC.activeitem.patch /shortdescription
+    EN: ^#000101;^reset;Homing Burst Baton
+    KO: ^#000101;^reset;유도 연발 지휘봉
+  /items/active/weapons/melee/arpeggio/arpeggio.activeitem.patch /tooltipFields/subtitle
+    EN: Volt Baton
+    KO: 볼트 지휘봉
+  /ivrpg_specs/adept.config.patch /effects/3/text
+    EN: 115% Base Power with Wands and Sat Batons: Scales with Dex.
+    KO: 완드와 새턴 지휘봉 사용 시 기본 공격력 115%: 민첩 비례.
+  /ivrpg_specs/elementress.config.patch /effects/4/text
+    EN: 120% Base Power with Wands, Saturn Batons, and Daggers.
+    KO: 완드, 새턴 지휘봉, 단검 사용 시 기본 공격력 120%.
+
+===== '빛의 활' (5) =====
+  /codex/saturn/saturnlightbow.codex.patch /title
+    EN: Light Bow
+    KO: 빛의 활
+  /items/WEAPONS/RANGED/YOUKAI/BOW/gico_warbow/gico_warbow.activeitem.patch /category
+    EN: 
+    KO: ^#B4DB72;빛의 활^reset;
+  /items/WEAPONS/RANGED/YOUKAI/BOW/gico_warbow/gico_warbow_ai.activeitem.patch /category
+    EN: 
+    KO: ^#B4DB72;빛의 활^reset;
+  /items/active/weapons/bow/angelbow3/angelbow3.activeitem.patch /shortdescription
+    EN: Bow of Holy Light
+    KO: 성스러운 빛의 활
+  /items/active/weapons/bow/lightbow/lightbow.activeitem.patch /shortdescription
+    EN: 
+    KO: 빛의 활
+
+===== '라이트 보우' (4) =====
+  /codex/saturn/saturnlightbow.codex.patch /contentPages/0
+    EN: Light bows are built with a traditional body and silk string, but requires no arrows thanks to a glowing, gelatinous orb floating in front of the arrow rest. This orb for
+    KO: 라이트 보우는 전통적인 몸체와 명주실을 사용해 만들지만, 화살 받침대 앞에 떠 있는 빛나는 젤라틴 구체 덕분에 화살이 필요 없다. 이 구체는 시위를 당기면 화살 모양을 이룬다. 시위를 놓는 것처럼 갑작스러운 힘이 가해지면, 화살은 결정화되어 밝게 빛나며 일종의 신호탄 역할을 한다. 발사 후, 구체는 궁수
+  /items/active/weapons/Saturn Shortbows/t3/SaturnBowT3.activeitem.patch /shortdescription
+    EN: Crystal Light Bow
+    KO: 크리스탈 라이트 보우
+  /items/active/weapons/Saturn Shortbows/t4/SaturnBowT4.activeitem.patch /shortdescription
+    EN: Necro Light Bow
+    KO: 네크로 라이트 보우
+  /items/active/weapons/Saturn Shortbows/t5/SaturnBowT5.activeitem.patch /shortdescription
+    EN: Regal Light Bow
+    KO: 리갈 라이트 보우
+
+===== '원소술사' (4) =====
+  /codex/viera/crafting/armor/vieraelementalistpattern.codex.patch /title
+    EN: Job Armor Pattern : Elementalist
+    KO: 잡 방어구 도안: 원소술사
+  /items/armors/viera_leveledStatusEffects.config.patch /elementalist/label
+    EN: Elementalist's Gear
+    KO: 원소술사의 장비
+  /ivrpg_specs/elementress.config.patch /tech/attuneText/fire
+    EN: 
+    KO: ^red;화염 피해 면역. 화염 직조에서 에너지 소모 감소. | ^green;즉시^reset;: 주/보조 발사를 눌러 하급 화염 폭발을 시전한다. 화염 폭발로 적을 처치해 표준에서 상급, 혼돈으로 강화한다. | ^magenta;지속^reset;: [Special 2]를 누르고 있어 점화를 시전한다.^orange
+  /ivrpgtext.config.patch /lore/children/mechanics/children/attuneabilities/title
+    EN: Elementress: Attune Abilities
+    KO: 원소술사: 능력 조율
+
+===== '엘리멘탈리스트' (1) =====
+  /codex/viera/crafting/armor/vieraelementalistpattern.codex.patch /contentPages/0
+    EN: This Sew-plicity pattern is patented by the honorable Lydea of the Scribes Guild in the discreet distribution of Viera cultural garb. This pattern is specifically for the
+    KO: 이 소-플리시티 도안은 비에라 전통 의상의 신중한 유통을 위해 서기관 길드의 존경받는 리데아가 특허를 가지고 있다. 이 도안은 특히 지망 중인 비에라 엘리멘탈리스트를 위한 것이다.
+
+===== '저격수' (58) =====
+  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_mission_3_2_portdistrictevidence.cinematic.patch /panels/3/text
+    EN: 
+    KO: 저격수!
+  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_mission_3_2_portdistrictevidence.cinematic.patch /panels/4/text
+    EN: 
+    KO: 이 모든 서류는 충분히 중요해 보입니다! 나중에 읽어보겠습니다! 지금은 여기서 살아남는 데 집중해야 합니다. 저격수를 다루는 방법을 알고 있죠? 엄폐물에 붙어 있는 것 같은 거요? 왜냐하면 지금 바로 그렇게 해야 할 것 같거든요!
+  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_mission_5_1_policestation.cinematic.patch /panels/3/text
+    EN: 
+    KO: 저는 그들의 영향력이 경찰에까지 미쳤다고 확신합니다. 그들은 저격수를 운영하고 있으며, 그때쯤이면 경찰의 대응이 있어야 했습니다. 특히 큰 총격은 지역 당국에 엄청난 우려가 되어야 하지만, 우리가 두 번 추격당했을 때 아무런 대응도 없었습니다. 우리는 경찰서로 가서 사건을 직접 해결할 것입니다. 무기를 
+  /cinematics/CHARACTERS/KOGASA_TATARA/gic_garden_marshlandvillage_stopthesniper.cinematic.patch /panels/3/text
+    EN: 
+    KO: [문을 뚫고 빠르게 탑을 올라 저격수에게 발사 중지를 외친다. 다가가니 아까 그 병사인 걸 안다]
+  /cinematics/CHARACTERS/KOGASA_TATARA/gic_garden_marshlandvillage_stopthesniper.cinematic.patch /panels/5/text
+    EN: 
+    KO: ['공포'가 실제로 여자라고 병사에게 다급히 설명한다. 저격수와 함께 마을에서 아무도 그녀에게 안 죽고 겁만 먹었음을 뒷받침하고, 속죄하려 마을로 돌아오도록 설득했다고 한다] |  | 젠장 친구, 맞길 바라. 자, 이 물통 가져. 금속 물병이야. 보여주면 들을 거야.
+  /codex/viera/crafting/armor/vierasniperpattern.codex.patch /title
+    EN: Job Armor Pattern : Sniper
+    KO: 잡 방어구 도안: 저격수
+  /ffs_weapons/ffs_3_dmr/ffs_svd/ffs_svd_1_cultist.activeitem.patch /description
+    EN: ^red; ONLY FOR NPC SNIPERS!!
+    KO: ^red; NPC 저격수 전용!!
+  /items/AMMUNITION/LION/gico_lb43_mag/gico_lb43_mag_incendiary.item.patch /description
+    EN: A rare 10rnd 7.92x57mm Magazine used exclusively by the L43 Semi-Automatic Rifle that has been modified with incendiary components to ignite the poor target of this weapo
+    KO: L43 반자동 소총에서만 사용되는 희귀한 10발들이 7.92x57mm 탄창. 이 무기의 가련한 표적을 불태우도록 소이 부품으로 개조되었다. 생산 비용이 높아 노련한 저격수에게만 지급되는 독특한 탄약이다.
+  /items/GUIDE_PIECES/CAT_2/gic_guide_sniperrifles.item.patch /description
+    EN: 
+    KO: 저격소총은 총의 다른 모든 것을 희생하고 적 목표에 거대한 피해를 주는 정밀 무기입니다. 목표 명중에 웅크린 사격에 크게 의존해, 저격수는 빈약한 탄약량, 비싼 탄약, 느린 연사력, 무모한 사격 시 무력화하는 반동 불이익과 다툽니다. 그래도, 한 번의 좋은 명중이 대부분 목표를 쓰러뜨리는 데 필요한 전부
+  /items/REQUISITION_COMMAND/gic_requisition_medievalinfantry_companysniper.activeitem.patch /description
+    EN: 
+    KO: ''닿는 탄환만이 의미 있는 사격이다.'' |  | 자유 용병단 출신 저격수로, 보통은 어떤 식민지 군대 출신입니다. 잘 가공된 머스킷으로 적 표적에 놀라운 명중률을 냅니다. |  | ^orange;방어 태세: 지정 보병이 위치에서 움직이지 않습니다. 엄폐물 뒤에 두는 게 좋습니다.^reset;
+
+===== '스나이퍼' (40) =====
+  /codex/documents/ffguidebattle.codex.patch /longContentPages/0
+    EN: 
+    KO: ^orange;몬스터 저항^reset; | ------------------------ | 일부 몬스터는 특정 유형의 피해에 저항하거나 완전히 면역입니다. |  | 이러한 위협에 맞서려면 특정 상황에서 ^green;다른 원소 유형^reset;을 가진 무기가 필요합니다. 사용 가능한 8가지 이상의 원소 유형 중 최소 2
+  /codex/viera/crafting/armor/vierasniperpattern.codex.patch /contentPages/0
+    EN: This Sew-plicity pattern is patented by the honorable Lydea of the Scribes Guild in the discreet distribution of Viera cultural garb. This pattern is specifically for the
+    KO: 이 소-플리시티 도안은 비에라 전통 의상의 신중한 유통을 위해 서기관 길드의 존경받는 리데아가 특허를 가지고 있다. 이 도안은 특히 지망 중인 비에라 스나이퍼를 위한 것이다.
+  /items/active/weapons/novakid/durasteelsniperrifle.activeitem.patch /shortdescription
+    EN: 
+    KO: 듀라스틸 스나이퍼 라이플
+  /items/active/weapons/novakid/ironsniperrifle.activeitem.patch /shortdescription
+    EN: 
+    KO: 아이언 스나이퍼 라이플
+  /items/active/weapons/novakid/tungstensniperrifle.activeitem.patch /shortdescription
+    EN: 
+    KO: 텅스텐 스나이퍼 라이플
+  /items/active/weapons/ranged/centens/generated/jumpsniper/centens-jumpsniper.activeitem.patch /shortdescription
+    EN: Centensian Jumpsniper
+    KO: 센텐시안 점프스나이퍼
+  /items/active/weapons/ranged/trink/tiered/sniper/trinktier4sniper.activeitem.patch /category
+    EN: Laser Sniper
+    KO: 레이저 스나이퍼
+  /items/active/weapons/ranged/trink/tiered/sniper/trinktier5sniper.activeitem.patch /category
+    EN: Laser Sniper
+    KO: 레이저 스나이퍼
+  /items/active/weapons/ranged/trink/tiered/sniper/trinktier6sniper.activeitem.patch /category
+    EN: Laser Sniper
+    KO: 레이저 스나이퍼
+  /items/active/weapons/ranged/unique/carvelle.activeitem.patch /shortdescription
+    EN: 
+    KO: 카벨 스나이퍼 라이플
+
+===== '잡 방어구' (11) =====
+  /codex/viera/crafting/armor/vieraarcherpattern.codex.patch /title
+    EN: Job Armor Pattern : Archer
+    KO: 잡 방어구 도안: 궁수
+  /codex/viera/crafting/armor/vieraassassinpattern.codex.patch /title
+    EN: Job Armor Pattern : Assassin
+    KO: 잡 방어구 도안: 암살자
+  /codex/viera/crafting/armor/vieradragoonpattern.codex.patch /title
+    EN: Job Armor Pattern : Dragoon
+    KO: 잡 방어구 도안: 용기사
+  /codex/viera/crafting/armor/vieraelementalistpattern.codex.patch /title
+    EN: Job Armor Pattern : Elementalist
+    KO: 잡 방어구 도안: 원소술사
+  /codex/viera/crafting/armor/vierafencerpattern.codex.patch /title
+    EN: Job Armor Pattern : Fencer
+    KO: 잡 방어구 도안: 펜서
+  /codex/viera/crafting/armor/vieragreenmagepattern.codex.patch /title
+    EN: Job Armor Pattern : Green Mage
+    KO: 잡 방어구 도안: 녹마도사
+  /codex/viera/crafting/armor/vieraredmagepattern.codex.patch /title
+    EN: Job Armor Pattern : Red Mage
+    KO: 잡 방어구 도안: 적마도사
+  /codex/viera/crafting/armor/vierasniperpattern.codex.patch /title
+    EN: Job Armor Pattern : Sniper
+    KO: 잡 방어구 도안: 저격수
+  /codex/viera/crafting/armor/vieraspellbladepattern.codex.patch /title
+    EN: Job Armor Pattern : Spellblade
+    KO: 잡 방어구 도안: 마검사
+  /codex/viera/crafting/armor/vierasummonerpattern.codex.patch /title
+    EN: Job Armor Pattern : Summoner
+    KO: 잡 방어구 도안: 소환사
+
+===== '직업 갑옷' (11) =====
+  /codex/viera/crafting/armor/vieraarcherpattern.codex.patch /description
+    EN: Sewing patterns and instructions for crafting Viera job armor.
+    KO: 비에라 직업 갑옷 제작용 재봉 도안과 설명서.
+  /codex/viera/crafting/armor/vieraassassinpattern.codex.patch /description
+    EN: Sewing patterns and instructions for crafting Viera job armor.
+    KO: 비에라 직업 갑옷 제작용 재봉 도안과 설명서.
+  /codex/viera/crafting/armor/vieradragoonpattern.codex.patch /description
+    EN: 
+    KO: 비에라 용기사 직업 갑옷 제작 도면.
+  /codex/viera/crafting/armor/vieraelementalistpattern.codex.patch /description
+    EN: Sewing patterns and instructions for crafting Viera job armor.
+    KO: 비에라 직업 갑옷 제작용 재봉 도안과 설명서.
+  /codex/viera/crafting/armor/vierafencerpattern.codex.patch /description
+    EN: Sewing patterns and instructions for crafting Viera job armor.
+    KO: 비에라 직업 갑옷 제작용 재봉 도안과 설명서.
+  /codex/viera/crafting/armor/vieragreenmagepattern.codex.patch /description
+    EN: Sewing patterns and instructions for crafting Viera job armor.
+    KO: 비에라 직업 갑옷 제작용 재봉 도안과 설명서.
+  /codex/viera/crafting/armor/vieraredmagepattern.codex.patch /description
+    EN: Sewing patterns and instructions for crafting Viera job armor.
+    KO: 비에라 직업 갑옷 제작용 재봉 도안과 설명서.
+  /codex/viera/crafting/armor/vierasniperpattern.codex.patch /description
+    EN: Sewing patterns and instructions for crafting Viera job armor.
+    KO: 비에라 직업 갑옷 제작용 재봉 도안과 설명서.
+  /codex/viera/crafting/armor/vieraspellbladepattern.codex.patch /description
+    EN: Sewing patterns and instructions for crafting Viera job armor.
+    KO: 비에라 직업 갑옷 제작용 재봉 도안과 설명서.
+  /codex/viera/crafting/armor/vierasummonerpattern.codex.patch /description
+    EN: Sewing patterns and instructions for crafting Viera job armor.
+    KO: 비에라 직업 갑옷 제작용 재봉 도안과 설명서.
+
+===== '트릭스터' (2) =====
+  /codex/viera/vieralore13.codex.patch /title
+    EN: The Trickster's Trial
+    KO: 트릭스터의 시련
+  /objects/themed/fastfood/fastfoodshopcounter/fastfoodshopcounter.object.patch /floranDescription
+    EN: 
+    KO: 플로란이 식사와 함께 트릭스터 장난감을 원해!
+
+===== '사기꾼' (9) =====
+  /codex/viera/vieralore13.codex.patch /contentPages/0
+    EN: ^yellow;The Trickster's Trial^reset; |  | Once, a wanderer challenged the Laughing Spirit, who danced on the wind with eyes like golden fireflies. 'Outwit me,' it teased, and
+    KO: ^yellow;사기꾼의 시련^reset; |  | 한때, 한 방랑자가 웃는 영혼에게 도전했다, 금빛 반딧불 같은 눈으로 바람 위에서 춤추는 존재에게. '나를 속여봐라,' 그것이 놀리며 말했다, '그러면 숨겨진 빈터로 가는 길은 네 것이리라.' 세 개의 수수께끼를 그것은 말했다, 각자 가시 돋친 덩굴 같은 말들을
+  /ffs_weapons/ffs_0_miniknog_dae/ffs_miniknog_ar/ffs_miniknog_ar.activeitem.patch /description
+    EN: ^red;YOU SHOULD NOT HAVE THIS, YOU CHEAT!! Also it sucks anyway.
+    KO: ^red;이건 가지면 안 돼, 이 사기꾼아!! 어차피 별로 좋지도 않아.
+  /ffs_weapons/ffs_0_miniknog_dae/ffs_miniknog_pistol/ffs_miniknog_pistol.activeitem.patch /description
+    EN: ^red;YOU SHOULD NOT HAVE THIS, YOU CHEAT!! Also it sucks anyway.
+    KO: ^red;이건 가지면 안 돼, 이 사기꾼아!! 어차피 별로 좋지도 않아.
+  /ffs_weapons/ffs_0_miniknog_dae/ffs_minknog_shot/ffs_miniknog_shot.activeitem.patch /description
+    EN: ^red;YOU SHOULD NOT HAVE THIS, YOU CHEAT!! Also it sucks anyway.
+    KO: ^red;이건 가지면 안 돼, 이 사기꾼아!! 어차피 별로 좋지도 않아.
+  /items/WEAPONS/MELEE/SPEAR/gic_wolfguardian_spear/gic_wolfguardian_spear.activeitem.patch /description
+    EN: 
+    KO: ''오트니엘과 그의 분리파와 싸워야 한다! 그들이 인류와의 동맹을 위협한다!'' | ''인간의 편을 드는 순간 우리는 더는 우리의 주권을 인정하지 않는다! 그들은 예수라는, 우리 신앙에 자리 없는 사기꾼의 거짓 가르침을 믿는다!'' |  | ^orange;마지막 타격이 유리한 출혈 발동과 1.25배 피해. | ^#FF
+  /items/generic/mechparts/body/mechbodypirate.item.patch /shortdescription
+    EN: 
+    KO: 사기꾼 메카 몸통
+  /npcs/crew/mooglecrewmember.npctype.patch /scriptConfig/crew/ranks/42
+    EN: Rogue Kupo-Swindler <field> Profiteer
+    KO: 악당 쿠포 사기꾼 <field> 사채업자
+  /objects/kheAA/kheAA_quarry/kheAA_quarryultra.object.patch /shortdescription
+    EN: 
+    KO: 사기꾼 같은 새끼 채석장
+  /radiomessages/black_sheilachatting.radiomessages.patch /black_chat127/text
+    EN: 
+    KO: 요즘 여가에 글을 많이 쓰고 있어요. 모든 나무를 잃은 행성과, 고립된 마을에 숨쉴 공기를 팔아 생존에 필요한 것으로 돈을 번 악독한 사기꾼 이야기를 작업 중입니다. 제목은 'Unless'예요. 어때요?
+
+===== '달마스카' (3) =====
+  /codex/viera/crafting/materials/vierabuildersmanual5.codex.patch /title
+    EN: Viera Builder's Manual - Dalmascan
+    KO: 비에라 건축가 설명서 - 달마스카
+  /items/MATERIALS/dalmascanfence1.matitem.patch /description
+    EN: The ornate carvings of Dalmasca handed resonate still.
+    KO: 달마스카의 화려한 조각이 아직도 울림을 전한다.
+  /items/MATERIALS/dalmascanstone.matitem.patch /description
+    EN: Sandstone smoothed, and colored in Dalmascan fashion.
+    KO: 매끄럽게 다듬고 달마스카 양식으로 채색한 사암.
+
+===== '달마스칸' (23) =====
+  /codex/viera/crafting/materials/vierabuildersmanual5.codex.patch /contentPages/0
+    EN: This book details the process and schematics for crafting materials of Dalmascan aesthetics. 
+    KO: 이 책은 달마스칸 미학의 자재를 만드는 과정과 설계도를 상세히 설명한다.
+  /items/MATERIALS/dalmascanbrick.matitem.patch /shortdescription
+    EN: Dalmascan Brick
+    KO: 달마스칸 벽돌
+  /items/MATERIALS/dalmascanfence1.matitem.patch /shortdescription
+    EN: Dalmascan Stone Fence
+    KO: 달마스칸 돌 울타리
+  /items/MATERIALS/dalmascanfence2.matitem.patch /shortdescription
+    EN: Dalmascan Iron Fence
+    KO: 달마스칸 철제 울타리
+  /items/MATERIALS/dalmascanfence3.matitem.patch /shortdescription
+    EN: Dalmascan Iron Fence II
+    KO: 달마스칸 철제 울타리 II
+  /items/MATERIALS/dalmascanfence4.matitem.patch /shortdescription
+    EN: Dalmascan Iron Fence III
+    KO: 달마스칸 철제 울타리 III
+  /items/MATERIALS/dalmascanfiligreestripe.matitem.patch /shortdescription
+    EN: Dalmascan Filigree
+    KO: 달마스칸 필리그리
+  /items/MATERIALS/dalmascanfiligreestripe2.matitem.patch /shortdescription
+    EN: Dalmascan Stripe Stone
+    KO: 달마스칸 줄무늬 돌
+  /items/MATERIALS/dalmascangoldpatterns.matitem.patch /shortdescription
+    EN: Dalmascan Gold Patterns
+    KO: 달마스칸 금색 무늬
+  /items/MATERIALS/dalmascanmarble.matitem.patch /shortdescription
+    EN: Dalmascan Marble
+    KO: 달마스칸 대리석
+
+===== '문셰도우' (2) =====
+  /codex/viera/vieralore17.codex.patch /contentPages/1
+    EN: Thus was born the Order of the Moonshadow, an elite cadre of Viera warriors sworn to protect Golmore from those who would defile its sanctity. Marpesia led them with a he
+    KO: 그리하여 문셰도우 기사단이 태어났다 — 골모어를 그 신성함을 더럽히려는 자들로부터 지키기로 맹세한 비에라 전사들의 정예 집단. 마르페시아는 맹렬하면서도 정의로운 심장으로 그들을 이끌었고, 전술은 필적할 자가 없었으며 지혜는 의심의 여지가 없었다. 그녀의 인도 아래 문셰도우 전사들은 전설이 되었다 — 안개
+  /codex/viera/vieralore30.codex.patch /contentPages/1
+    EN: Marpesia taught them to listen to the whispers, to move with the rhythm of the forest, to fight with honor and compassion. Guided by her visions and Eithne's voice, the M
+    KO: 마르페시아는 그들에게 속삭임에 귀 기울이는 법, 숲의 리듬에 맞춰 움직이는 법, 명예와 자비로 싸우는 법을 가르쳤다. 그녀의 환영과 에이트네의 목소리에 인도되어, 문셰도우 전사들은 전설이 되었으며, 그들의 화살은 바람처럼 빠르고, 그들의 칼날은 대지 위의 그림자였다.
+
+===== '달그림자' (2) =====
+  /codex/viera/vieralore17.codex.patch /contentPages/0
+    EN: ^yellow;Rise of the Moonshadow^reset; |  | When shadows lengthened and whispers of outsiders encroaching upon the sacred groves grew louder, Marpesia called the warriors of h
+    KO: ^yellow;달그림자의 부상^reset; |  | 그림자가 길어지고 성스러운 숲을 침범하는 외부인들의 속삭임이 커지자, 마르페시아는 친족의 전사들을 불렀다. '우리는 나뭇가지 아래의 그림자, 뿌리와 잎의 수호자들이다. 숲은 우리가 살기에 산다. 그것이 쓰러지면 우리도 쓰러질 것이다.
+  /codex/viera/vieralore30.codex.patch /contentPages/0
+    EN: ^yellow;The Order of Moonshadow^reset; |  | With the trials completed, Marpesia returned to Golmore, her spirit aflame with purpose. She gathered the bravest and wisest of he
+    KO: ^yellow;달그림자 기사단^reset; |  | 시련을 마치고, 마르페시아는 목적의 불길로 타오르는 정신을 지닌 채 골모어로 돌아왔다. 그녀는 친족 중 가장 용감하고 지혜로운 자들을 모아, 삶과 그림자의 균형 보존에 헌신하는 ^blue;달그림자 기사단^reset;을 창설했다. 그들은 심장 나무 아래에서 맹세
+
+===== '녹색 언어' (23) =====
+  /codex/viera/vieralore1.codex.patch /contentPages/1
+    EN: Close your eyes and feel the pulse of life beneath your feet; this is the rhythm of the Green Word, echoing from the First Tree to the last leaf that falls.
+    KO: 눈을 감고 발아래 생명의 맥박을 느껴 보아라. 이것은 첫 번째 나무에서 떨어지는 마지막 잎까지 울려 퍼지는 녹색 언어씀의 리듬이다.
+  /codex/viera/vieralore16.codex.patch /contentPages/1
+    EN: From her first steps, she was drawn to the bow and the blade, her movements graceful as the deer and swift as the coursing stream. By her twentieth summer, she had bested
+    KO: 걸음마를 뗄 때부터, 그녀는 활과 검에 이끌렸고, 그 몸놀림은 사슴처럼 우아하고 흐르는 시냇물처럼 재빨랐다. 스무 번째 여름을 맞을 무렵, 그녀는 마을의 모든 사냥꾼을 이겼으며, 화살은 어두운 덤불 속에서도 정확히 과녁을 찾아냈다. 하지만 그녀를 남다르게 만든 것은 힘이 아니라 마음이었다. 그녀는 나이에
+  /codex/viera/vieralore36.codex.patch /contentPages/0
+    EN: In an age of whispering leaves and ancient spirits, when shadows threatened the sacred groves and warlords defied the ^green;Green Word^reset;, the Wood cried out for a c
+    KO: 속삭이는 잎사귀와 고대 정령들의 시대, 그림자가 신성한 숲을 위협하고 군벌들이 ^green;녹색 언어^reset;을 거역하던 그때, 숲은 챔피언을 찾아 울부짖었다. 그녀는 ^yellow;선하^reset;, 전투의 열기 속에서 벼려진 강력한 ^#6A2284;펜서^reset;였다. 숲 그 자체의 힘이 그녀를
+  /dialog/viera.config.patch /greeting/default/viera/20
+    EN: The Green word speaks kindly of you.
+    KO: 녹색 언어이 널 좋게 말해.
+  /dialog/viera.config.patch /converse/default/default/1
+    EN: Viera live always with the Wood. So is the Green Word, and so is our law.
+    KO: 비에라는 언제나 숲과 함께 산다. 녹색 언어가 그러하고, 우리 법이 그러하다.
+  /dialog/viera.config.patch /converse/default/default/19
+    EN: The Green word speaks kindly of you, friend.
+    KO: 녹색 언어이 널 좋게 말하는구나, 친구.
+  /dialog/viera.config.patch /converse/default/avian/3
+    EN: Viera must live always with the Wood. So is the Green Word, and so is our law.
+    KO: 비에라는 언제나 숲과 함께 살아야 한다. 녹색 언어가 그러하고, 우리 법이 그러하다.
+  /dialog/viera.config.patch /converse/default/viera/5
+    EN: The Green Word speaks kindly of you.
+    KO: 녹색 언어이 널 좋게 말하는구나.
+  /dialog/viera.config.patch /smwayfarerconverse/default/default/1
+    EN: Viera live always with the Wood. So is the Green Word, and so is our law.
+    KO: 비에라는 언제나 숲과 함께 산다. 녹색 언어가 그러하고, 우리 법이 그러하다.
+  /dialog/viera.config.patch /smwayfarerconverse/default/avian/3
+    EN: Viera must live always with the Wood. So is the Green Word, and so is our law.
+    KO: 비에라는 언제나 숲과 함께 살아야 한다. 녹색 언어가 그러하고, 우리 법이 그러하다.
+
+===== '푸른 말씀' (2) =====
+  /codex/viera/vieralore18.codex.patch /contentPages/3
+    EN: Yet, victory bore a bitter price. Her closest sister-in-arms, Asteria, fell to a blade meant for Marpesia. Kneeling by her side, Marpesia whispered a prayer to the Green 
+    KO: 그러나 승리는 쓰라린 대가를 치렀다. 그녀의 가장 가까운 전우, 아스테리아가 마르페시아를 향한 칼날에 쓰러졌다. 곁에 무릎 꿇은 마르페시아는 푸른 말씀에 기도를 속삭였고, 눈물이 흙과 섞였다. 지도력의 짐이 가장 무겁게 느껴진 건 바로 그때였다. 평화의 대가가 피로 치러졌기에.
+  /codex/viera/vieralore21.codex.patch /contentPages/1
+    EN: From a young age, Asteria was drawn to the ancient glades where light and shadow mingled in delicate balance. She listened to the whispering winds and felt the pulse of t
+    KO: 어린 시절부터 아스테리아는 빛과 그림자가 섬세한 균형을 이루는 고대 숲에 이끌렸다. 속삭이는 바람에 귀 기울이고 발밑 땅의 맥박을 느끼며, 푸른 말씀과 깊고 끊을 수 없는 유대를 맺었다. 하지만 과거의 목소리를 듣던 다른 이들과 달리 아스테리아는 미래를 꿈꿨다.
+
+===== '초록의 말씀' (3) =====
+  /codex/viera/vieralore23.codex.patch /contentPages/2
+    EN: The Viera were born of this harmony, sculpted from the soil beneath Her oldest boughs, their ears shaped to catch Her whispers on the wind. To them, She gave the gift of 
+    KO: 비에라는 이 조화 속에서 태어났으며, 그녀의 가장 오래된 나뭇가지 아래 흙에서 빚어졌고, 그들의 귀는 바람에 실려 오는 그녀의 속삭임을 붙잡도록 빚어졌다. 그녀는 그들에게 듣는 능력이라는 선물을 주어, 그녀의 지혜에 귀 기울일 수 있게 했다. 그 대가로, 그들은 충성을 맹세하며, 결코 그녀의 나무 그늘을
+  /codex/viera/vieralore25.codex.patch /contentPages/1
+    EN: The most revered of these rites is the ^yellow;Whispering Vigil^reset;. Under the full moon's silver light, the Elders gather, their ears adorned with woven vines, symbol
+    KO: 이 의식 중 가장 존경받는 것은 ^yellow;속삭이는 철야^reset;다. 보름달의 은빛 아래 장로들이 모여 숲과의 유대를 상징하는 덩굴 장식을 귀에 건다. 그들은 조용히 명상하며 바람의 박자에 숨을 맞춘다. 귀가 아니라 영혼으로 듣는다. 이 철야에서 초록의 말씀이 가장 또렷하게 들려, 운명과 의무에 
+  /items/MATERIALS/greenwordpastel1.matitem.patch /shortdescription
+    EN: The Green Word
+    KO: 초록의 말씀
+
+===== '초록 말씀' (3) =====
+  /codex/viera/vieralore26.codex.patch /title
+    EN: Origins of the Wood: Trials of the Green Word
+    KO: 숲의 기원: 초록 말씀의 시련
+  /codex/viera/vieralore26.codex.patch /contentPages/0
+    EN: ^yellow;Journeys of Spirit and Shadow^reset; |  | To prove their connection to The Wood, young warriors and seers undergo the ^yellow;Trials of the Green Word^reset;. These t
+    KO: ^yellow;영혼과 그림자의 여정^reset; |  | 더 우드와의 연결을 증명하기 위해, 젊은 전사들과 선견자들은 ^yellow;초록 말씀의 시련^reset;을 거친다. 이 시련들은 단순한 기술의 시험이 아니라 정신의 시험으로, 그들을 삶 자체의 리듬에 맞추기 위한 것이다.
+  /codex/viera/vieralore29.codex.patch /contentPages/0
+    EN: ^yellow;Trials of the Green Word^reset; |  | Before she could lead, Marpesia had to prove herself to Eithne, undergoing the ^yellow;Trials of the Green Word^reset;. Guided by
+    KO: ^yellow;초록 말씀의 시련^reset; |  | 이끌 수 있기 전에, 마르페시아는 에이트네에게 자신을 증명해야 했다, ^yellow;초록 말씀의 시련^reset;을 겪으며. 엘로윈의 안내를 받아, 그녀는 ^green;메아리의 길^reset;으로 향했다, 과거의 목소리들이 안개처럼 남아 있는 곳으로. 공기는
+
+===== '녹색 언어씀' (1) =====
+  /codex/viera/vieralore1.codex.patch /contentPages/1
+    EN: Close your eyes and feel the pulse of life beneath your feet; this is the rhythm of the Green Word, echoing from the First Tree to the last leaf that falls.
+    KO: 눈을 감고 발아래 생명의 맥박을 느껴 보아라. 이것은 첫 번째 나무에서 떨어지는 마지막 잎까지 울려 퍼지는 녹색 언어씀의 리듬이다.
+
+===== '매슈' (3) =====
+  /codex/woofie/woofie_priceandtime.codex.patch /contentPages/0
+    EN:     There is someone in Woof HQ spending a rumor about a blood woof who can controlling the time. Some said he is Price , the legendary outlaw who broke out of the Alcatr
+    KO: 우프 본부에는 시간을 조종할 수 있는 피의 우프에 관한 소문을 퍼뜨리는 사람이 있다. 어떤 이들은 그가 오래전 알카트라즈 감옥을 탈출하며 피투성이 흔적만 남긴 전설적인 무법자 프라이스라고 한다. 또 어떤 이들은 커다랗고 시커먼 대공 저격총을 들고 미친개처럼 뛰어다니는 최상급 현상금 사냥꾼, 또 다른 프라
+  /codex/woofie/woofie_priceandtime2.codex.patch /contentPages/0
+    EN:     We have walked deeper into Avian's ancient ruin for half an hour. Matthew found it difficult to keep up with Price's footstep, fueled by the captain's excitement. His
+    KO: 우리는 아비안의 고대 유적 안으로 30분 동안 더 깊이 걸어 들어갔다. 매슈는 선장의 흥분에 힘입은 프라이스의 발걸음을 따라가기 힘들어했다. 거의 항상 정면을 응시하는 그의 사나운 붉은 눈은 어두운 복도에서, 특히 그 커다란 저격소총을 들고 있을 때 두려웠다. |  |     '책임자여, 쇼핑 가는 것 같네요.
+  /codex/woofie/woofie_priceandtime3.codex.patch /contentPages/0
+    EN:     'Come here, Matt.' |     he called, settling himself on the floor and letting out a groan of pain and annoyance. Instead of obeying, Matthew hesitated, standing still. | 
+    KO: '이리 와, 매트.' |     그는 바닥에 자리를 잡고 앉으며 고통과 짜증이 섞인 신음을 내뱉고는 불렀다. 매슈는 따르지 않고 망설이며 가만히 서 있었다. |  |     '괜찮으시겠어요, 대장님? 상처가 꽤 심해요. 우리 먼저...' |  |     '닥치고 네 빌어먹을 일이나 해.' |  |     핏빛 털의 늑대가 쏘아붙
+
+===== '매튜' (3) =====
+  /codex/woofie/woofie_priceandtime.codex.patch /contentPages/2
+    EN:     But Matthew knows cpt.Price will be anything. He's kind of saturation people from light grey shade to the darkest one but not definitely a wizard with time controllin
+    KO: 하지만 매튜는 프라이스 대위가 뭐든 될 수 있다는 걸 안다. 그는 사람들을 연한 회색빛부터 가장 어두운 색까지 포화시키는 부류지만, 시간을 조종하는 마법사는 확실히 아니다. | 고대 유적 답사를 다닐 때 보였던 그 재빠른 손놀림으로 판단해보면 말이다. |  |     프라이스를 시간 도둑이라 부르는 게 더 정확할지
+  /codex/woofie/woofie_priceandtime2.codex.patch /contentPages/1
+    EN:     Matthew asked softly. His assault rifle gripped firmly in his hand and never left his side. |  |     The Blood Wolf chuckled softly in response to the younger man's quest
+    KO: 매튜가 부드럽게 물었다. 그의 손에 단단히 쥐어진 돌격소총은 한시도 곁을 떠나지 않았다. |  |     블러드 울프는 그 젊은이의 질문에 부드럽게 웃었다. 프라이스는 파트너를 돌아보지 않은 채, 그저 짧고 음침하게 재미있는 대답으로 응했다. |  |     '내 새 짝이야, 매트. 너무 오래 기다리게 하지 않는 게 
+  /codex/woofie/woofie_priceandtime3.codex.patch /contentPages/2
+    EN:     Matthew said, puncturing the skin beneath the red fur with a needle containing the blue liquid. |  |     Price clenched his jaw, smirking with pleasure. |  |     'That's plen
+    KO: 매튜는 붉은 털 아래 피부를 파란 액체가 든 바늘로 찌르며 말했다. |  |     프라이스는 턱을 꽉 다물고, 만족스럽다는 듯 씩 웃었다. |  |     '그 정도면 충분한 시간이야.'
+
+===== '책임자여' (1) =====
+  /codex/woofie/woofie_priceandtime2.codex.patch /contentPages/0
+    EN:     We have walked deeper into Avian's ancient ruin for half an hour. Matthew found it difficult to keep up with Price's footstep, fueled by the captain's excitement. His
+    KO: 우리는 아비안의 고대 유적 안으로 30분 동안 더 깊이 걸어 들어갔다. 매슈는 선장의 흥분에 힘입은 프라이스의 발걸음을 따라가기 힘들어했다. 거의 항상 정면을 응시하는 그의 사나운 붉은 눈은 어두운 복도에서, 특히 그 커다란 저격소총을 들고 있을 때 두려웠다. |  |     '책임자여, 쇼핑 가는 것 같네요.
+
+===== '대장님' (40) =====
+  /cinematics/CHARACTERS/LIONMOUSE/gico_lionmouse_youkai_path_introduction.cinematic.patch /panels/14/text
+    EN: And that's the situation ma'am.
+    KO: 그리고 상황은 그렇습니다, 대장님.
+  /codex/woofie/woofie_priceandtime3.codex.patch /contentPages/0
+    EN:     'Come here, Matt.' |     he called, settling himself on the floor and letting out a groan of pain and annoyance. Instead of obeying, Matthew hesitated, standing still. | 
+    KO: '이리 와, 매트.' |     그는 바닥에 자리를 잡고 앉으며 고통과 짜증이 섞인 신음을 내뱉고는 불렀다. 매슈는 따르지 않고 망설이며 가만히 서 있었다. |  |     '괜찮으시겠어요, 대장님? 상처가 꽤 심해요. 우리 먼저...' |  |     '닥치고 네 빌어먹을 일이나 해.' |  |     핏빛 털의 늑대가 쏘아붙
+  /dialog/lawenforcementconverse.config.patch /converse/hylotl/default/3
+    EN: What is it like being the Captain's favourite, Officer <entityname>?
+    KO: 대장님의 최애로 사는 건 어때, <entityname> 경관?
+  /dialog/lawenforcementconverse.config.patch /converse/avian/default/1
+    EN: Well ruffle my feathers - you're Officer <entityname>! The Captain has such kind words to say about you!
+    KO: 이런, 깃털이 다 부풀겠네 - <entityname> 경관이잖아! 대장님이 자네에 대해 참 좋은 말씀을 하시던데!
+  /npcs/crew/avikan/crewmemberavikan.npctype.patch /scriptConfig/dialog/crewmember/offer/avikan/avikan/3
+    EN: It would be an honour to join your crew, Captain! Will you have me?
+    KO: 대장님의 승무원이 된다면 영광이겠습니다! 저를 받아 주시겠습니까?
+  /npcs/crew/avikan/crewmembervanguard.npctype.patch /scriptConfig/dialog/crewmember/offer/avikan/avikan/3
+    EN: It would be an honour to join your crew, Captain! Will you have me?
+    KO: 대장님의 승무원이 된다면 영광이겠습니다! 저를 받아 주시겠습니까?
+  /npcs/crew/catcrewmember.npctype.patch /scriptConfig/dialog/crewmember/follow/default/default/1
+    EN: 
+    KO: 네, 대장님!
+  /npcs/crew/crewmember_spacestationcommander.npctype.patch /scriptConfig/dialog/crewmember/offer/default/default/2
+    EN: 
+    KO: 대장님, 잘 맞을 것 같은데요.
+  /npcs/crew/crewmemberfubees.npctype.patch /scriptConfig/dialog/crewmember/unfollow/default/default/2
+    EN: 
+    KO: 당분간 여기 있을게요, 대장님.
+  /npcs/crew/kyterrans/lofty_irisil_kyterran_crewmember.npctype.patch /scriptConfig/dialog/crewmember/unfollow/default/default/2
+    EN: I'll stay here for now, captain.
+    KO: 당분간 여기 있을게요, 대장님.
+
+===== '대위님' (4) =====
+  /codex/woofie/woofie_priceandtime3.codex.patch /contentPages/1
+    EN:     Captain Price had a reputation for being a stranger to the Grim, and now, he knew he was far from her grasp. He could endure any physical pain, especially when the go
+    KO: 프라이스 대위는 그림(Grim)과는 무관한 사람이라는 평판이 있었고, 이제는 그녀의 손아귀에서 멀리 벗어났다는 걸 알고 있었다. 그는 어떤 육체적 고통도 견딜 수 있었다, 특히 여정의 목표가 이렇게 가까워진 지금은. |  |     회색 늑대는 침을 삼키며 고개를 끄덕이고는, 대위에게 신속한 치료를 하기 위해 
+  /dialog/merchant.config.patch /rent/fumantizi/default/2
+    EN: 
+    KO: 난 지금 피를 흘리고 있어요, 대위님 잭에서 원하는 걸 가져가
+  /dialog/merchant.config.patch /rent/mantizi/default/2
+    EN: 
+    KO: 난 지금 피를 흘리고 있어요, 대위님 잭에서 원하는 걸 가져가
+  /radiomessages/ffs2_radiomessages_hc.radiomessages.patch /ffs2_ending_hc_11/text
+    EN: Captian! We have a huge problem!!
+    KO: 대위님! 큰 문제가 생겼어요!!
+
+===== '멍멍 무리' (1) =====
+  /codex/woofie/woofie_woofpackbehavior.codex.patch /title
+    EN: Woof pack behavior
+    KO: 멍멍 무리 행동
+
+===== '피의 우프' (1) =====
+  /codex/woofie/woofie_priceandtime.codex.patch /contentPages/0
+    EN:     There is someone in Woof HQ spending a rumor about a blood woof who can controlling the time. Some said he is Price , the legendary outlaw who broke out of the Alcatr
+    KO: 우프 본부에는 시간을 조종할 수 있는 피의 우프에 관한 소문을 퍼뜨리는 사람이 있다. 어떤 이들은 그가 오래전 알카트라즈 감옥을 탈출하며 피투성이 흔적만 남긴 전설적인 무법자 프라이스라고 한다. 또 어떤 이들은 커다랗고 시커먼 대공 저격총을 들고 미친개처럼 뛰어다니는 최상급 현상금 사냥꾼, 또 다른 프라
+
+===== '별의 광신도' (11) =====
+  /codex/om_starry/om_starrylore1.codex.patch /title
+    EN: The Cultists of the Stars
+    KO: 별의 광신도들
+  /codex/om_starry/om_starrylore10.codex.patch /description
+    EN: A sparkly journal that belongs to a new ^green;Starry Cultist^reset;.
+    KO: 새내기 ^green;별의 광신도^reset;의 소유물인, 반짝이는 일기장.
+  /codex/om_starry/om_starrylore9.codex.patch /description
+    EN: A recent newspaper for all ^green;Cultists of the Stars^reset;.
+    KO: 모든 ^green;별의 광신도들^reset;을 위한 최신 신문.
+  /npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch /scriptConfig/dialog/converse/default/default/4
+    EN: Every ^green;Starry Cultist^reset; has come here at some point.
+    KO: 모든 ^green;별의 광신도^reset;는 언젠가 이곳에 온 적이 있다.
+  /npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch /scriptConfig/dialog/converse/floran/default/4
+    EN: Every ^green;Ssstarry Cultist^reset; has come here at some point. Floran hass come here at least 375 timesss.
+    KO: 모든 ^green;별의 광신도^reset;는 언젠가 이곳에 온 적이 있다. 플로란은 적어도 375번 왔었다.
+  /npcs/biome/starrycafe/om_starrycultistcafe.npctype.patch /scriptConfig/dialog/converse/novakid/default/4
+    EN: Every ^green;Starry Cultist^reset; has come 'ere at some point.
+    KO: 모든 ^green;별의 광신도^reset;는 언젠가 이곳에 온 적이 있다.
+  /npcs/biome/tenants/om_starrycultisttenant.npctype.patch /scriptConfig/dialog/converse/default/default/1
+    EN: You should join the ^green;Cultists of the Stars^reset;. You'd be great at helping protect Starry planets!
+    KO: ^green;별의 광신도들^reset;에 들어와야겠어! 별빛 행성들을 지키는 데 큰 도움이 될 거야!
+  /npcs/biome/tenants/om_starrycultisttenant.npctype.patch /scriptConfig/dialog/converse/floran/default/1
+    EN: You sshould join the ^green;Cultistss of the Sstars^reset;. Floran thinkss you'd be great at helping protect Sstarry planetsss!
+    KO: ^green;별의 광신도들^reset;에 들어가야 해. 플로란이 보기에 넌 별빛 행성들을 지키는 데 딱이야!
+  /npcs/biome/tenants/om_starrycultisttenant.npctype.patch /scriptConfig/dialog/converse/novakid/default/1
+    EN: You should join the ^green;Cultists of the Stars^reset;. I reckon you'd be good at protectin' Starry planets.
+    KO: ^green;별의 광신도들^reset;에 들어와야겠어. 별빛 행성들을 지키는 데 잘할 것 같은데.
+  /objects/om_starryplanet/om_starrybarista/om_starrybarista.object.patch /chatOptions/21
+    EN: The ^green;Cultists of the Stars^reset; are so fanatic about stars that they use actual, literal stars as currency. I have also jumped on this train.
+    KO: ^green;별의 광신도^reset;는 별에 너무 광적이어서 실제로, 말 그대로 별을 화폐로 사용해. 나도 그 대열에 합류했지.
+
+===== '스타리 컬티스트' (75) =====
+  /codex/om_starry/om_starrylore1.codex.patch /description
+    EN: All you need to know for joining the Starry Cultists!
+    KO: 스타리 컬티스트에 가입하기 위해 알아야 할 모든 것!
+  /codex/om_starry/om_starrylore1.codex.patch /contentPages/0
+    EN: We, the ^green;Starry Cultists^reset;, find Starry planets to be extraordinarily beautiful! |  | Our goal is to protect every single Starry planet from the exploitation of pe
+    KO: 우리 ^green;스타리 컬티스트^reset;는 별빛 행성이 비범하게 아름답다고 생각한다! |  | 우리의 목표는 모든 별빛 행성을, 자기 더러운 손을 떼지 못하는 장사꾼과 외부인들의 착취로부터 지키는 것이다.. 별빛 행성을 파괴하거나 훔치려는 자들은 많다. 우리의 임무는 그들을 몰아내거나.. ... |  | ..우리
+  /codex/om_starry/om_starrylore4.codex.patch /contentPages/1
+    EN: We could take over or find as many Starry planets as possible before the rebellion finds them - and claim the resources for our own. The only thing standing in our way ar
+    KO: 반란군이 찾기 전에 될 수 있는 한 많은 별빛 행성을 점령하거나 찾아내서 자원을 우리 것으로 할 수 있었다. 우리 길을 가로막는 건 짜증나는 "^green;스타리 컬티스트^reset;"들뿐이지. 가끔 우리 시설에 침입해서 몇 명을 죽이고 - 사실 큰 손실은 아니야 - 쫓겨나곤 해. |  | 뭔가 꾸미는 게 아니
+  /codex/om_starry/om_starrylore5.codex.patch /contentPages/2
+    EN: As far as I know, ^green;Novakids often love Starry planets^reset;, and I have heard of such "^green;Monarchs^reset;" in those palaces of theirs. Monarchs who are ^yellow
+    KO: 제가 아는 한, ^green;노바키드는 별빛 행성을 즐겨 찾는 경우가 많^reset;고, 그들의 궁전에 그런 "^green;모나크^reset;"가 있다는 이야기도 들었습니다. 대개 ^yellow;노바키드인^reset; 모나크들 말이죠. |  | 이 모든 것이 연관되어 있을지도 모르며, ^green;스타리 컬티스
+  /codex/om_starry/om_starrylore7.codex.patch /description
+    EN: ^red;BEWARE!^reset; Some of our Starry Cultists are becoming unstable!
+    KO: ^red;주의!^reset; 우리 스타리 컬티스트 일부가 불안정해지고 있다!
+  /npcs/biome/om_starrycultist.npctype.patch /scriptConfig/dialog/converse/default/default/0
+    EN: Have you come to join the ^green;Starry Cultists^reset;?
+    KO: ^green;스타리 컬티스트^reset;에 들어오러 왔어?
+  /npcs/biome/om_starrycultist.npctype.patch /scriptConfig/dialog/converse/default/default/2
+    EN: We are the ^green;Cultists of the Stars^reset;, and we protect this planet.
+    KO: 우리는 ^green;스타리 컬티스트^reset;이며, 이 행성을 지킨다.
+  /npcs/biome/om_starrycultist.npctype.patch /scriptConfig/dialog/converse/default/default/6
+    EN: Please, join us. The ^green;Cultists of the Stars^reset; welcomes any and all.
+    KO: 부디 우리와 함께해 주십시오. ^green;스타리 컬티스트^reset;는 누구든 환영합니다.
+  /npcs/biome/om_starrycultist.npctype.patch /scriptConfig/dialog/converse/default/default/10
+    EN: You look pretty strong! Want to join us, the ^green;Starry Cultists^reset;? We aim to protect all Starry planets from the corruption of outsiders.
+    KO: 꽤 강해 보이는데! 우리 ^green;스타리 컬티스트^reset;에 들어오지 않을래? 우린 모든 스타리 행성을 외부인의 타락에서 지키려 해.
+  /npcs/biome/om_starrycultist.npctype.patch /scriptConfig/dialog/converse/floran/default/0
+    EN: Floran wonderss if you are here to join the ^green;Sstarry Cultistsss^reset;?
+    KO: 플로란은 궁금하다아. 너 ^green;스타리 컬티스트^reset;에 들어오러 왔나?
+
+===== '별빛 행성' (33) =====
+  /codex/om_starry/om_starrylore1.codex.patch /contentPages/0
+    EN: We, the ^green;Starry Cultists^reset;, find Starry planets to be extraordinarily beautiful! |  | Our goal is to protect every single Starry planet from the exploitation of pe
+    KO: 우리 ^green;스타리 컬티스트^reset;는 별빛 행성이 비범하게 아름답다고 생각한다! |  | 우리의 목표는 모든 별빛 행성을, 자기 더러운 손을 떼지 못하는 장사꾼과 외부인들의 착취로부터 지키는 것이다.. 별빛 행성을 파괴하거나 훔치려는 자들은 많다. 우리의 임무는 그들을 몰아내거나.. ... |  | ..우리
+  /codex/om_starry/om_starrylore1.codex.patch /contentPages/1
+    EN: Visitors, are of course, allowed! As long you do not take from the planet itself---such as its plants, creatures, ore, liquid, or anything else. Please visit Starry plane
+    KO: 방문객은 물론 환영한다! 행성 자체의 것을 가져가지 않는다면-식물, 생물, 광석, 액체, 그 무엇이든-. 별빛 행성은 원하는 만큼 방문해도 좋다. 우리도 꼭 찾아와 달라! 새 구성원은 언제나 환영이다. |  | 이 행성들에서 살며 지켜줄 사람을 안다면, 지금 바로 연락 달라! | ---^green;별빛 신도들^re
+  /codex/om_starry/om_starrylore11.codex.patch /contentPages/2
+    EN: To get to this level, you need to do only ^green;one simple thing^reset;: ^red;consume ^yellow;stars^reset;. |  | With the consumption of stars, your body will become more an
+    KO: 이 수준에 도달하려면 ^green;간단한 것 하나^reset;만 하면 된다: ^red;^yellow;별^reset;을 삼키는 것. |  | 별을 삼키면, 네 몸은 점점 더 ^red;방사능을 띠게^reset; 될 것이다. 어느 순간 네 몸속의 ^orange;방사능이 너무나 강해져서^reset;, 네 주변의 ^gr
+  /codex/om_starry/om_starrylore13.codex.patch /contentPages/0
+    EN: Starry oceans are similar to Starry Planets. The fauna and flora on these oceanic planets are based around stars. ^green;However, unlike the main planet, these planets ar
+    KO: 별빛 바다는 별빛 행성과 비슷하다. 이 대양 행성의 동식물은 별을 바탕으로 한다. ^green;다만, 주 행성과 달리, 이 행성들은 ^orange;영원한 어둠^reset;에 잠겨 있다. |  | 알 수 없는 방법으로, ^yellow;가장 가까운 항성의 빛이 차단된다^reset;. 가장 흔히 추측되는 가설은 ^g
+  /codex/om_starry/om_starrylore2.codex.patch /title
+    EN: Starry Planets
+    KO: 별빛 행성
+  /codex/om_starry/om_starrylore2.codex.patch /description
+    EN: 
+    KO: 별빛 행성에 관한 연구.
+  /codex/om_starry/om_starrylore4.codex.patch /title
+    EN: Starry Planet Resources
+    KO: 별빛 행성 자원
+  /codex/om_starry/om_starrylore4.codex.patch /contentPages/1
+    EN: We could take over or find as many Starry planets as possible before the rebellion finds them - and claim the resources for our own. The only thing standing in our way ar
+    KO: 반란군이 찾기 전에 될 수 있는 한 많은 별빛 행성을 점령하거나 찾아내서 자원을 우리 것으로 할 수 있었다. 우리 길을 가로막는 건 짜증나는 "^green;스타리 컬티스트^reset;"들뿐이지. 가끔 우리 시설에 침입해서 몇 명을 죽이고 - 사실 큰 손실은 아니야 - 쫓겨나곤 해. |  | 뭔가 꾸미는 게 아니
+  /codex/om_starry/om_starrylore5.codex.patch /contentPages/2
+    EN: As far as I know, ^green;Novakids often love Starry planets^reset;, and I have heard of such "^green;Monarchs^reset;" in those palaces of theirs. Monarchs who are ^yellow
+    KO: 제가 아는 한, ^green;노바키드는 별빛 행성을 즐겨 찾는 경우가 많^reset;고, 그들의 궁전에 그런 "^green;모나크^reset;"가 있다는 이야기도 들었습니다. 대개 ^yellow;노바키드인^reset; 모나크들 말이죠. |  | 이 모든 것이 연관되어 있을지도 모르며, ^green;스타리 컬티스
+  /npcs/biome/om_starrycultist.npctype.patch /scriptConfig/dialog/converse/floran/default/12
+    EN: Starry planetsss are the perfect planet for all life.
+    KO: 별빛 행성은 모든 생명에게 완벽한 행성이엇.
+
+===== '스타리 행성' (56) =====
+  /codex/om_starry/om_starrylore15.codex.patch /contentPages/0
+    EN: ^green;Fellow Cultists^reset;, if you are reading this: | ^orange;A nearby mining operation has been seized and shut down.^reset; We found out that some ^orange;new members
+    KO: ^green;교도 동지들이여^reset;, 이걸 읽고 있다면: | ^orange;근처의 채굴 작업이 점거되어 폐쇄되었다.^reset; 최근 가입한 ^orange;신규 회원^reset; 일부가 모든 스타리 행성을 지키려는 게 아니라는 것을 알아냈다. 그들은 행성에서 자원을 ^red;수확^reset;하려 했다!
+  /codex/om_starry/om_starrylore2.codex.patch /contentPages/0
+    EN: ^green;Starry planets are extraordinary planets with glowing flora dotted throughout the landscape^reset;. The fauna on this type of planet also glows as well, with most 
+    KO: ^green;스타리 행성은 경치 곳곳에 빛나는 식물이 점점이 흩어진 특별한 행성이다^reset;. 이 종류의 행성의 동물도 빛나며, 대부분의 생물이 '별' 모양을 하고 있다. | 이 행성들에서는 특별한 과일도 자란다. 바로 ^green;스타후르츠^reset;. 시지만 맛있는 간식이다.
+  /codex/om_starry/om_starrylore2.codex.patch /contentPages/1
+    EN: ^green;One does have to be wary while exploring a Starry Planet, since the radiation of the planet is high^reset;. It is speculated that the high radiation comes from the
+    KO: ^green;스타리 행성을 탐사할 때는 조심해야 한다. 행성의 방사선이 높기 때문이다^reset;. 높은 방사선은 거기 사는 빛나는 동물, 식물, 별 같은 생물들에서 오는 것으로 추측된다. | 하지만 스타리 생물이 없었다면.. 행성이 달랐을까? 스타리 행성의 기원은 수수께끼에 싸여 있다.
+  /codex/om_starry/om_starrylore2.codex.patch /contentPages/2
+    EN: ^green;Another mystery is the liquid that appears on Starry planets^reset;. It can be described as "ethereal" or a galactic liquid. It has the colors of the universe itse
+    KO: ^green;또 다른 수수께끼는 스타리 행성에 나타나는 액체다^reset;. "에테르" 같은 은하계 액체라고 할 수 있다. 우주 그 자체의 색과 그 안에 점점이 박힌 별들을 가지고 있다. | ^green;이 수수께끼의 액체에서 가장 이상한 건 마실 수 있다는 것이다^reset;! 그래, 잘 읽었다. 스타리 
+  /codex/om_starry/om_starrylore2.codex.patch /contentPages/3
+    EN: ^green;Starry planets are being studied for their liquid, radiation levels, and other mysteries^reset;. The scientists sent to Starry planets are equipped with anti-radia
+    KO: ^green;스타리 행성들은 그 액체, 방사선 수준, 그리고 다른 수수께끼들 때문에 연구되고 있다^reset;. 스타리 행성에 파견된 과학자들은 이 경이로운 행성들을 탐사하는 동안 스스로를 지키는 방사선 방호복을 입는다. 그들은 데이터를 우리에게 보내 우리가 더 잘 이해할 수 있게 해 준다. 스타리 행성
+  /codex/om_starry/om_starrymonsterlore1.codex.patch /contentPages/3
+    EN: ^yellow;Diet^reset;: This Cosmic Dragon is a ^red;carnivore^reset;. It hunts the other creatures of the ^green;Starry planet^reset;. Because of its large size, the Cosmic
+    KO: ^yellow;식성^reset;: 이 우주 드래곤은 ^red;육식성^reset;이다. ^green;스타리 행성^reset;의 다른 생물들을 사냥한다. 거대한 덩치 때문에 우주 드래곤은 에너지를 유지하기 위해 항상 계속 먹어야 한다. 인간형을 공격하는 데는 신경 쓰지 않는다. |  | ^yellow;행동^rese
+  /codex/om_starry/om_starrymonsterlore2.codex.patch /contentPages/1
+    EN: ^yellow;Diet^reset;: The starite cannot be classified as a carnivore, herbivore, or omnivore because its diet consists only of ^green;fallen stars^reset;. So, the starite
+    KO: ^yellow;식성^reset;: 스타라이트는 ^green;낙성^reset;만을 먹기 때문에 육식, 초식, 잡식 어디로도 분류할 수 없다. 따라서 스타라이트는 ^green;단식성^reset;으로 분류된다. |  | ^yellow;행동^reset;: 스타라이트는 인간형과 스타리 행성의 일부 다른 동물들에게 적대적
+  /codex/om_starry/om_starrymonsterlore4.codex.patch /contentPages/1
+    EN: ^yellow;Diet^reset;: The stellar fanfish is classified as an ^orange;omnivore^reset;. It eats most of the small insects that appear on Starry planets, but it can also dig
+    KO: ^yellow;식성^reset;: 스텔라 부채물고기는 ^orange;잡식성^reset;으로 분류된다. 스타리 행성에 나타나는 작은 곤충 대부분을 먹지만, 일부 토착 식물도 소화할 수 있다. |  | ^yellow;행동^reset;: 멀리서는 순한 척해서 먹잇감이 다가오게 유도하는 경향이 있다. 하지만 일단 가까
+  /monsters/walkers/om_starrydragon1/om_starrydragon1.monstertype.patch /description
+    EN: A powerful beast that roams the surface of Starry planets... Beware!
+    KO: 스타리 행성의 표면을 배회하는 강력한 야수... 조심하라!
+  /monsters/walkers/om_starrydragon2/om_starrydragon2.monstertype.patch /description
+    EN: A powerful beast that roams the surface of Starry planets... It relishes in tranquility.
+    KO: 스타리 행성의 표면을 배회하는 강력한 야수... 고요함을 만끽한다.
+
+===== '별게' (1) =====
+  /codex/om_starry/om_starrymonsterlore6.codex.patch /contentPages/0
+    EN: ^#693CF2;Starcrab^reset; |  | ^yellow;Description^reset;: Starcrabs are shiny crabs with large stars stuck in their back. They have bright blue bodies and only six legs due t
+    KO: ^#693CF2;별게^reset; |  | ^yellow;설명^reset;: 별게는 등에 커다란 별이 박힌 반짝이는 게다. 밝은 파란 몸을 가졌고 심한 방사능 때문에 다리가 여섯 개뿐이다. 보통보다 다리가 네 개 적지만, 별게는 이상한 달리기 같은 동작으로 잘 움직인다. |  | ^yellow;서식지^reset;: 별
+
+===== '스타크랩' (7) =====
+  /codex/om_starry/om_starrymonsterlore6.codex.patch /description
+    EN: All the gathered information on starcrabs.
+    KO: 스타크랩에 대해 수집된 모든 정보.
+  /codex/om_starry/om_starrymonsterlore6.codex.patch /contentPages/1
+    EN: ^yellow;Diet^reset;: starcrabs are classified as ^green;omnivores^reset;. Their diet includes mainly algae, but they can feed on Starry fish, other small oceanic critters
+    KO: ^yellow;식성^reset;: 스타크랩은 ^green;잡식성^reset;으로 분류된다. 주로 조류를 먹지만, 스타리 물고기, 다른 작은 해양 생물, 심지어 곰팡이나 박테리아까지 먹을 수 있다. |  | ^yellow;행동^reset;: 스타크랩은 영역 의식이 매우 강한 생물로, 인간형이나 더 큰 동물에게 맞
+  /codex/om_starry/om_starrymonsterlore6.codex.patch /contentPages/2
+    EN: cycles. |  | ^red;Don't interrupt or steal food from a starcrab.^reset;
+    KO: 주기. |  | ^red;스타크랩을 방해하거나 먹이를 훔치지 마라.^reset;
+  /objects/actionfigure/om_starrystarcrab/om_starrystarcrabAF.object.patch /shortdescription
+    EN: Starcrab Figurine
+    KO: 스타크랩 피규어
+  /objects/om_starryplanet/om_starryplush5/om_starryplush5.object.patch /description
+    EN: A soft plush in the shape of a ^yellow;Starcrab^reset;.
+    KO: ^yellow;스타크랩^reset; 모양의 부드러운 플러시 인형.
+  /objects/om_starryplanet/om_starryplush5/om_starryplush5.object.patch /shortdescription
+    EN: Starcrab Plush
+    KO: 스타크랩 인형
+  /objects/om_starryplanet/om_starryplush5/om_starryplush5.object.patch /apexDescription
+    EN: A Starcrab plush. These guys are pretty cute, I guess.
+    KO: 스타크랩 봉제 인형. 이 녀석들 꽤 귀여운 것 같다.
+
+===== '스텔라 팬피시' (7) =====
+  /codex/om_starry/om_starrymonsterlore4.codex.patch /title
+    EN: Stellar Fanfish
+    KO: 스텔라 팬피시
+  /codex/om_starry/om_starrymonsterlore4.codex.patch /description
+    EN: All the gathered information on stellar fanfish.
+    KO: 스텔라 팬피시에 대해 수집된 모든 정보.
+  /codex/om_starry/om_starrymonsterlore4.codex.patch /contentPages/0
+    EN: ^#693CF2;Stellar Fanfish^reset; |  | ^yellow;Description^reset;: The stellar fanfish is a beautiful creature. Decorated with many wondrous colours, it's is quite the sight! s
+    KO: ^#693CF2;스텔라 팬피시^reset; |  | ^yellow;설명^reset;: 스텔라 팬피시는 아름다운 생물이다. 온갖 경이로운 색으로 장식되어 있어 볼만한 광경이다! 스텔라 팬피시의 지느러미는 부채처럼 넓고 길다. 그래서 붙은 이름이다. 얼굴에는 일종의 '순진한 미소'가 떠 있는 듯하다. |  | ^yello
+  /monsters/flyers/om_starryfish1/om_starryfish1.monstertype.patch /shortdescription
+    EN: Stellar Fanfish
+    KO: 스텔라 팬피시
+  /objects/actionfigure/om_starryfanfish/om_starryfanfishAF.object.patch /shortdescription
+    EN: Stellar Fanfish Figurine
+    KO: 스텔라 팬피시 피규어
+  /objects/om_starryplanet/om_starryplush3/om_starryplush3.object.patch /description
+    EN: A soft plush in the shape of a ^yellow;Stellar Fanfish^reset;.
+    KO: ^yellow;스텔라 팬피시^reset; 모양의 부드러운 플러시 인형.
+  /objects/om_starryplanet/om_starryplush3/om_starryplush3.object.patch /shortdescription
+    EN: Stellar Fanfish Plush
+    KO: 스텔라 팬피시 인형
+
+===== '스텔라 부채물고기' (1) =====
+  /codex/om_starry/om_starrymonsterlore4.codex.patch /contentPages/1
+    EN: ^yellow;Diet^reset;: The stellar fanfish is classified as an ^orange;omnivore^reset;. It eats most of the small insects that appear on Starry planets, but it can also dig
+    KO: ^yellow;식성^reset;: 스텔라 부채물고기는 ^orange;잡식성^reset;으로 분류된다. 스타리 행성에 나타나는 작은 곤충 대부분을 먹지만, 일부 토착 식물도 소화할 수 있다. |  | ^yellow;행동^reset;: 멀리서는 순한 척해서 먹잇감이 다가오게 유도하는 경향이 있다. 하지만 일단 가까
+
+===== '손윙' (5) =====
+  /codex/legacy_codex/bigapecodexmeeting.codex.patch /contentPages/1
+    EN: Big Ape: [Redacted] |  | Big Ape: [Redacted] |  | Big Ape: [Redacted] |  | Big Ape: And that's why you should never date a Hylotl. |  | Thornwing: Kluex save us. |  | Greenfinger: [Redacted]
+    KO: 빅 에이프: [삭제됨] |  | 빅 에이프: [삭제됨] |  | 빅 에이프: [삭제됨] |  | 빅 에이프: 그래서 하이로틀이랑은 절대 사귀면 안 되는 거야. |  | 손윙: 클루엑스여 우리를 구하소서. |  | 그린핑거: [삭제됨]
+  /codex/other/PBcollectorschecklistcommunity2.codex.patch /contentPages/13
+    EN:  |  | ^green;Community Edition 2-14 Popball:^white; | - Stimer Games Plushie | - Tea Mug Plushie | - Tenri Plushie | - Thornwing Plushie | - Throg Oinkicer Plushie | - Throg Plushie | - To
+    KO: ^green;커뮤니티 에디션 2-14 팝볼:^white; | - - 스티머 게임즈 인형 | - - 찻잔 인형 | - - 텐리 인형 | - - 손윙 인형 | - - 스로그 오잉키서 인형 | - - 스로그 인형 | - - 토르스 인형 | - - 떠돌이 상인 인형 | - - 언데드 기사 인형 | - - 우미 인형
+  /objects/plushies/community2/edition14/thornwingplush/PBthornwingplush.object.patch /apexDescription
+    EN: Rumors of Big Ape hiring Thornwing and his assassins circulate in rebel camps.
+    KO: 빅 에이프가 손윙과 그의 암살자들을 고용했다는 소문이 반군 진영에 떠돌고 있다.
+  /objects/plushies/community2/edition14/thornwingplush/PBthornwingplush.object.patch /avianDescription
+    EN: Thornwing and his Ring of Thorns assassins are very infamous amongst the Clipped Council.
+    KO: 손윙과 그의 가시 고리 암살단은 클립드 의회 사이에서 악명이 자자하다.
+  /objects/plushies/community2/edition14/thornwingplush/PBthornwingplush.object.patch /floranDescription
+    EN: Thornwing isssn't sso tough. Helionsss that work for him are much stronger.
+    KO: 손윙은 그렇게 강하지 않다. 그를 위해 일하는 헬리온들이 훨씬 강하다.
+
+===== '쏜윙' (9) =====
+  /codex/legacy_codex/bigapecodexannoyance.codex.patch /contentPages/2
+    EN: 
+    KO: 좋은 소식은 미니크녹 스파이가 기밀유지협약으로 보호된 정보를 계속 올리는 성가신 블로거를 추적할 수 있었다는 거죠. 그는 인간 감옥에 숨어 있더라고요. 쏜윙에게 연락해서 처리해야 할 것 같네요.
+  /codex/legacy_codex/bigapecodexmeeting.codex.patch /contentPages/0
+    EN: Participants: Big Ape, Greenfinger, Thornwing, [Redacted] |  | Big Ape: So, let's get started then. We have important things to discuss. |  | Greenfinger: [Redacted] |  | Thornwing: 
+    KO: 참가자: 빅 에이프, 그린핑거, 쏜윙, [기밀] |  | 빅 에이프: 자, 그럼 시작하죠. 논의할 중요한 일이 있습니다. |  | 그린핑거: [기밀] |  | 쏜윙: [기밀] |  | [기밀]: 진심이에요?
+  /codex/legacy_codex/bigapecodexmeeting.codex.patch /contentPages/0
+    EN: 
+    KO: 참가자들: 빅 에이프, 그린핑거, 가시날개, [검열됨] |  | 빅 에이프: 그럼 그럼 시작하죠. 중요한 의논할 게 있어요. |  | 그린핑거: [Redacted] |  | 쏜윙: [검열됨] |  | [검열됨]: 진심이야?
+  /codex/legacy_codex/fuagaranhunt.codex.patch /contentPages/1
+    EN: 
+    KO: 저희는 쏜윙이나 빅 에이프와 전혀 관련이 없는 미지의 조직으로, 그들의 언어 패턴을 번역하고 반란을 진압하기 위해 노력하고 있습니다. 그래서 여러분이 필요합니다. 아가란족에게 접근해 그들을 연구하고 항복할 때까지 중무기로 그들을 공격해야 합니다.
+  /codex/legacy_codex/fubunkerhumans.codex.patch /contentPages/1
+    EN: 
+    KO: 후자의 특성은 그들이 귀중한 동맹이 될 수 있을지 고민하게 만듭니다. 정찰대는 포기하기에는 너무 의욕이 넘치지만, 발견한 것을 이해하기에는 너무 순진한 사람들로 구성되어 있습니다. 저는 빅 에이프와 쏜윙에게 인간 대표단이 존재한다면 만날 수 있는 가능성에 대해 이야기해볼게요.
+  /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/0
+    EN: When we last caught up with the Chronicle's resident investigative reporter, Charlton McVicar, he was out in the field digging up any and all information he could about t
+    KO: 크로니클 상주 탐사 기자 찰튼 맥비커와 마지막으로 접촉했을 때, 그는 현장에서 우주 전역에 퍼지고 있는 지성 곰팡이, 수수께끼의 아가란에 대한 모든 정보를 파헤치고 있었다. 그 이후로는, 아래에 옮겨 적은 - 쏜윙의 드론 하나가 가로챈 - 전송문 외에 맥비커와의 연락이 거의 없었다. 독자 여러분, 직접 
+  /npcs/sb_stimmerchant.npctype.patch /scriptConfig/dialog/merchant/start/avian/default/3
+    EN: My stims are certified by Thornwing himself. Ahem.
+    KO: 내 각성제는 쏜윙 본인이 인증한 거야. 크흠.
+  /objects/plushies/community2/edition14/thornwingplush/PBthornwingplush.object.patch /description
+    EN: An Ascendant who forsook Kluex to become his own god and mercenary leader, ^#d93a3a;Thornwing^reset;.
+    KO: 클루엑스를 버리고 스스로 신이자 용병단장이 된 승천자, ^#d93a3a;쏜윙^reset;입니다.
+  /objects/plushies/community2/edition14/thornwingplush/PBthornwingplush.object.patch /shortdescription
+    EN: Thornwing Plushie
+    KO: 쏜윙 인형
+
+===== '가시날개' (8) =====
+  /codex/legacy_codex/bigapecodexannoyance.codex.patch /contentPages/0
+    EN: 
+    KO: 우리 연구소가 공격을 받았는데 어떻게 에이펙스 종을 발전시킬 수 있을까요? 가시의 고리의 일원이죠. 가시날개는 다음에 칵테일 마실 때 귀를 쫑긋 세우겠군.
+  /codex/legacy_codex/bigapecodexmeeting.codex.patch /contentPages/0
+    EN: 
+    KO: 참가자들: 빅 에이프, 그린핑거, 가시날개, [검열됨] |  | 빅 에이프: 그럼 그럼 시작하죠. 중요한 의논할 게 있어요. |  | 그린핑거: [Redacted] |  | 쏜윙: [검열됨] |  | [검열됨]: 진심이야?
+  /codex/legacy_codex/bigapecodexmeeting.codex.patch /contentPages/1
+    EN: 
+    KO: 빅 에이프: [삭제됨] | 빅 에이프: [Redacted] |  | 빅 에이프: [Redacted] |  | 빅 에이프: 그래서 하이로틀과 데이트하면 안 돼. |  | 가시날개: 클루엑스가 우릴 구해줬어. |  | 그린핑거: [검열됨]
+  /codex/legacy_codex/fuascendant10.codex.patch /contentPages/3
+    EN: 
+    KO: 나는 막을 수 없는 힘이 될 것이다. 그리고 온 우주가 가시날개라는 이름을 알게 될 것이다.
+  /codex/legacy_codex/fugreenfingercodexlooseends.codex.patch /contentPages/1
+    EN: 
+    KO: 하지만 이건 믿음에만 맡길 수 있는 일이 아닙니다. 가시날개에 연락하기 전에는 행성을 거의 벗어난 상태였어요. 가시의 고리가 파견됐어. 한 치의 오차도 없어 그게 우리가 지금까지 살아남은 방법이고 앞으로도 살아남을 방법입니다.
+  /codex/legacy_codex/greenfingercodexbigape.codex.patch /contentPages/1
+    EN: 
+    KO: 하지만 그는 귀중한 동맹입니다. 저는 그의 방식에 동의하지 않을 수도 있지만 그의 목표는 건전합니다. 그리고 그는 자칭 군주인 가시날개의 귀를 가지고 있죠. 이상한 시대는 이상한 동료를 만들죠. 요즘은 어떤 것도 평범하지 않으니까요.
+  /codex/other/PBthanksdearcustomer.codex.patch /contentPages/11
+    EN: - Solar Grub Plushie | - Steam Gnome Plushie | - Tenri Plushie | - Thornwing Plushie | - Throg Oinkicer Plushie | - Throg Plushie | - Valder Plushie | - Vesper Plushie | - Walsorb Plushi
+    KO: - 태양 굼벵이 인형 | - 증기 노움 인형 | - 텐리 인형 | - 가시날개 인형 | - 스로그 오잉킹 인형 | - 스로그 인형 | - 발더 인형 | - 베스퍼 인형 | - 월소브 인형 | - 울파 인형 | - 자완 인형
+  /dialog/converse.config.patch /converse/avian/fukirhos/12
+    EN: 
+    KO: 해적질을 하죠? 가시날개도 만났겠지?
+
+===== '암비리' (2) =====
+  /codex/other/colonystoryFull.codex.patch /contentPages/3
+    EN: I was sceptical at first, but sure enough after filling the shack with furniture I'd looted from a Floran village (what can I say, I'm a sucker for the sticks 'n' bones a
+    KO: 처음엔 회의적이었지만, 플로란 마을에서 약탈한 가구로 오두막을 채운 뒤엔 (뭐라고 해야 할까, 나뭇가지랑 뼈 미학에 사족을 못 쓰거든) 증서를 벽에 붙였더니 완전히 낯선 이가 내가 서 있던 바로 그 자리로 빔을 타고 나타났어.  |  | 그렇게 '암비리'라는 이름의 플로란과의 길고 험난한 관계가 시작됐다.
+  /codex/other/colonystoryFull.codex.patch /contentPages/6
+    EN: After some time, Ambiri began asking me for favours. It started small, growing the odd vegetable and cooking dishes occasionally. I was happy to oblige, and even built a 
+    KO: 얼마 후, 암비리는 내게 부탁을 하기 시작했다. 처음엔 사소했다, 가끔 채소를 기르거나 요리를 하는 정도였다. 나는 기꺼이 들어주었고, 편의를 위해 집 옆에 작은 농장까지 지어주었다. |  | 타닥거리는 모닥불 옆 베란다에서 함께 보낸 따뜻한 가을 저녁들이 정말 좋았다. 어느 저녁, 암비리는 나와 함께 모험을 
+
+===== '앰비리' (2) =====
+  /codex/other/colonystoryFull.codex.patch /contentPages/4
+    EN: For a Floran, Ambiri seems to like water a great deal. He's always opening the doors when it's raining and running outside.  |  | Yesterday I came home to a flood in the base
+    KO: 플로란치고는, 앰비리는 물을 정말 좋아하는 것 같다. 그는 비 올 때면 항상 문을 열고 밖으로 뛰어나간다. |  | 어제는 앰비리가 흠뻑 젖은 뒤 내 화로 옆에서 몸을 말리기로 해서 집에 왔더니 지하실이 물바다였다. 무덤돌 벽돌로 벽을 보강해둔 게 다행이었다. |  | 어항을 마련해주면 좋아할지도 모르겠다.
+  /codex/other/colonystoryFull.codex.patch /contentPages/5
+    EN: One lesson I've learnt as a landlord: don't give a Floran bongos! They will play them night and day, and if you try to take them away when they are sleeping they will def
+    KO: 집주인으로 살면서 배운 교훈 하나: 플로란한테 봉고를 주지 마라! 밤낮없이 두들겨댈 테고, 자는 동안 몰래 치우려 하면 그게 너였다는 걸 반드시 알아챌 테니까.  |  | 그래도 앰비리를 곁에 두는 게 아주 나쁘지는 않다, 식물을 다루는 솜씨는 흠잡을 데가 없으니까. 다만, 이 계약을 맺을 때 임대료로 연고보다
+
+===== '이비' (67) =====
+  /codex/aegi/excaliburshieldblade.codex.patch /contentPages/0
+    EN: 
+    KO: ^orange;엑스칼리버급 쉴드블레이드^reset; |  | 엑스칼리버급 실드블레이드는 실드블레이드 - 일명 에이비스 - 집단으로, 지금은 사라진 에이비리 아머먼츠가 설계·제작했다. 최고급 알로스틸로 수제작해 가볍지만 극도로 견고한 칼날을 자랑하는 탁월한 물건들이었다. 그러나 그 특징적인 요소는 바로 구동력원인
+  /codex/aegi/mehrosavanpamphlet.codex.patch /contentPages/0
+    EN: ^orange;Mehros Avan's glorious return to the Creon City Arthouse^reset; |  | Returning to the Creon City Arthouse soon: the full exposition of Mehros Avan's incredible kineti
+    KO: ^orange;메로스 아반의 크레온 시 아트하우스로의 영광스러운 귀환^reset; |  | 곧 크레온 시 아트하우스로 돌아옵니다: 메로스 아반의 놀라운 키네틱 조각 전체 전시회. 전시에는 '에이비리의 바람', '욕정', '스텔라리아' 그리고 늘 인기 있는 '하이미드의 꿈' 같은 메로스의 대표작들이 포함됩니다. 
+  /codex/alta/ct_alta_paper.codex.patch /longdescription
+    EN: Ironically enough, this manual is printed on a piece of paper, and contains instructions on how to fold it into a paper plane!
+    KO: 아이러니하게도, 이 설명서는 종이 한 장에 인쇄되어 있으며, 그것을 종이비행기로 접는 방법이 담겨 있습니다!
+  /codex/alta/ct_alta_paper.codex.patch /contentPages/0
+    EN: Since all paper is made from ayaka wood, it's generally not recommended for long-lasting uses. For communication and storage, other means are highly preferred. If you hav
+    KO: 모든 종이는 아야카 나무로 만들어지므로, 일반적으로 장기간 사용은 권장되지 않는다. 통신과 보관에는 다른 수단이 훨씬 선호된다. 사용했지만 더는 필요 없는 종이를 발견하면, 재활용해 달라. 종이비행기를 만드는 데 쓰는 것은 괜찮지만, 적정한 양만 사용해야 한다.
+  /codex/other/eblovelywhipscodex.codex.patch /contentPages/0
+    EN:  | Hello. I, Engorged_Banana have a tale to tell. |  | It's called the Tale of EB and the Lovely Whips.  |  | One day, EB wanted to have intense sex with a scorpion. Alas, it was n
+    KO: 안녕하세요. 저는, Engorged_Banana, 들려드릴 이야기가 있습니다. |  | 제목은 '이비와 사랑스러운 채찍의 이야기'입니다. |  | 어느 날, 이비는 전갈과 격렬한 섹스를 하고 싶어 했습니다. 그러나 그것은 이루어지지 않았으니, 은밀한 부위를 쏘여 생식기가 녹아버렸기 때문입니다.
+  /dialog/sexbound/en/positions/fuchsiaCowgirl.config.patch /1/default/default/male/default/0
+    EN: Hehe~! Fuchsia iss back baby!
+    KO: 헤헤~! 푸시아 돌아왔어 베이비!
+  /dialog/sexbound/en/positions/fuchsiaCowgirl.config.patch /1/default/default/female/default/0
+    EN: Hehe~! Fuchsia iss back baby!
+    KO: 헤헤~! 푸시아 돌아왔어 베이비!
+  /dialog/tentacles/novakid-enthusiastic.config.patch /5/text
+    EN: Yeah baby! Give me the saddle sore'! ^red;«^white;
+    KO: 그래 베이비! 안장 쓰림 좀 줘봐! ^red;«^white;
+  /items/WEAPONS/GICEXP/esc_aer9/esc_aer9.activeitem.patch /description
+    EN: ''Crawl Out Through The Fall Out Baby!'' | Originally a United States military weapons project during World War III, it was soon buried into the ashes of history with the c
+    KO: ''낙진을 헤치고 기어 나와라, 베이비!'' | 원래는 3차 대전 당시 미국의 군용 무기 개발 사업이었지만, 전면 핵전쟁이 닥치면서 곧 역사의 잿더미 속에 묻혔다. 그러다 원정 시대의 SDF가 오래 묻혀 있던 기술 문서를 찾아내 연구를 '인수'했다. 하지만 비용 문제 때문에 이 모델도, 그 후속작인 AER1
+  /items/WEAPONS/RANGED/REVOLVER/gic_colt1851navy/gic_colt1851navy.activeitem.patch /description
+    EN: 
+    KO: 콜트 리볼빙 벨트 권총 또는 ''네이비 권총''은 6연 .36 구경 캡앤볼 리볼버입니다. 새뮤얼 콜트가 1847-1850년 설계해 원래 흑색화약과 탄환만 장전했고, 미국 남북전쟁 중 종이 탄피 장전으로 개조됐습니다. 전후 진짜 금속 탄피 장전으로 개조됐습니다. | .36 구경 종이 탄피 발사. | ^orange
+
+===== '코럴그로워' (1) =====
+  /codex/newspaper/sb-chronicle-03.codex.patch /contentPages/8
+    EN: 'Go,' one of the older missionaries whispers to Coralgrower. 'You're still young, strong. You can make it. We'll hold them off. Go. |  | 'Go and warn the universe about the A
+    KO: '가.' 나이 든 선교사 한 명이 코럴그로워에게 속삭인다. '넌 아직 젊고 강해. 해낼 수 있어. 우리가 놈들을 막을게. 가. |  | '가서 온 우주에 아가란의 위협을 알려.'
+
+===== '코럴그로어' (2) =====
+  /codex/newspaper/sb-chronicle-03.codex.patch /contentPages/9
+    EN: Coralgrower flees, charging through the dark cave, trying to ignore the sounds of battle behind her. Trying to ignore those voices, those sounds, and then... that strange
+    KO: 코럴그로어는 뒤의 전투 소리를 무시하려 하며 어두운 동굴을 가로질러 달아난다. 그 목소리, 그 소리, 그리고... 생물의 소리가 아닌 이상한 으르렁거림을 무시하려 한다. 무언가가 뿌리내리고 자라 퍼지며 동굴 입구를 가득 채우고, 그녀를 어둡고 깊은 터널 아래로 쫓는다. 수액과 참나무 향기가 시야 밖 바로
+  /codex/newspaper/sb-chronicle-03.codex.patch /contentPages/10
+    EN: Coralgrower does not stop running until she reaches open ground, and teleports up to the ship. She knows the others are lost. Her heart still racing, her breath still rag
+    KO: 코럴그로어는 탁 트인 곳에 닿을 때까지 달리기를 멈추지 않고 함선으로 텔레포트한다. 다른 이들이 사라졌다는 걸 안다. 심장은 여전히 뛰고 숨은 거칠지만, 코럴그로어는 선장 의자에 앉아 도약한다.
+
+===== '맥비카' (5) =====
+  /codex/newspaper/sb-chronicle-01.codex.patch /contentPages/6
+    EN: Editor's Note: In the absence of the Chronicle's investigative reporter Charlton McVicar, we've decided to run with this educational piece by renowned Hylotl scholar Dr. 
+    KO: 편집자 주: 크로니클의 탐사 기자 찰턴 맥비카의 부재로 인해, 우리는 저명한 하이로틀 학자 이수 박사가 쓴 이 교육적인 글을 싣기로 결정했다. 에이펙스 민족의 매혹적인 문화를 내부에서 들여다볼 수 있게 해준 이수 박사에게 감사드린다.
+  /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/2
+    EN: McVicar: ... stuck in some kind of subterranean cave system. Mushrooms are sprouting from the walls, the floor, all over. There are basic furnishings here; they seem Flor
+    KO: 맥비카: ...지하 동굴 시스템 안에 갇혔다. 벽에서, 바닥에서, 사방에서 버섯이 자라나고 있다. 여기 기본적인 가구들이 있다; 플로란풍인 것 같다. 오래된 거주지 같지는 않다. 이건...새로 만들어진 것 같다. |  | - 음성 분석 완료. 대상: 찰턴 맥비카, 인간 탐사 기자.
+  /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/3
+    EN: Human 2: McVicar. Abort. It's not worth your life. Let us handle it. |  | - Voice analysis complete. Subject: General Cassidy Cale, human military leader. |  | McVicar: No can do
+    KO: 인간 2: 맥비카. 그만둬. 네 목숨 걸 가치 없어. 우리가 처리할게. |  | - 음성 분석 완료. 대상: 캐시디 케일 장군, 인간 군 지휘관. |  | 맥비카: 안 돼. 저 앞에서 저들 소리가 들려. 두 언어야. 아가란어랑 플로란어. 저들은... 보인다... 세상에, 아가란인들이 플로란인들을 공격한 게 아니었어, 
+  /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/4
+    EN: McVicar: There are pods. Dozens and dozens of pods. They're twitching. I think they're about to... holy hell what is that, what in the name of Earth is that... |  | *a strang
+    KO: 맥비카: 고치들이 있다. 수십, 수백 개의 고치. 그것들이 꿈틀거린다. 뭔가 곧... 세상에 저게 대체 뭐야, 대체 지구의 이름을 걸고 저건 뭐야... |  | *낯설고, 낮은 포효* |  | - 종 분석 대기 중... |  | 맥비카: 여기서 나가야 한다. 하이로틀도 하나 있고, 그리고...
+  /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/5
+    EN: McVicar: The mushrooms, they're... they're giving off some kind of gas. The cave's filling with spores. The ground's... |  | McVicar: If anyone can hear me, anyone at all, I'
+    KO: 맥비카: 버섯들이, 그게... 무슨 가스 같은 걸 뿜어내고 있다. 동굴이 포자로 가득 차고 있다. 바닥이... |  | 맥비카: 누구든 내 말이 들리면, 정말 누구든, 나는 좌표 [번역 오류]에 있다. 총을 가져와라. 군대를 데려와라. 이건... 지구에서와 똑같다... 근데... 하이로틀이... |  | *큰 굉음, 
+
+===== '맥비커' (2) =====
+  /codex/newspaper/sb-chronicle-02.codex.patch /description
+    EN: "Where in the universe is Charlton McVicar" says this Starbound Chronicle article
+    KO: 이 스타바운드 크로니클 기사 제목은 《우주 어디에 있나, 찰튼 맥비커》다.
+  /codex/newspaper/sb-chronicle-02.codex.patch /contentPages/0
+    EN: When we last caught up with the Chronicle's resident investigative reporter, Charlton McVicar, he was out in the field digging up any and all information he could about t
+    KO: 크로니클 상주 탐사 기자 찰튼 맥비커와 마지막으로 접촉했을 때, 그는 현장에서 우주 전역에 퍼지고 있는 지성 곰팡이, 수수께끼의 아가란에 대한 모든 정보를 파헤치고 있었다. 그 이후로는, 아래에 옮겨 적은 - 쏜윙의 드론 하나가 가로챈 - 전송문 외에 맥비커와의 연락이 거의 없었다. 독자 여러분, 직접 
+
+===== '히라키 코레일' (2) =====
+  /codex/hylotl/Hiraki Corale/sb_bunkerbusters.codex.patch /description
+    EN: An excerpt from Hylotl Adventurer Hiraki Corale's journal.
+    KO: 하이로틀 모험가 히라키 코레일 일지 발췌.
+  /codex/hylotl/Hiraki Corale/sb_sewerstrange.codex.patch /description
+    EN: An excerpt from Hylotl Adventurer Hiraki Corale's journal.
+    KO: 하이로틀 모험가 히라키 코레일 일지 발췌.
+
+===== '히라키 코랄레' (33) =====
+  /codex/hylotl/Hiraki Corale/sb_bunkerbusters.codex.patch /contentPages/0
+    EN: by Hiraki Corale, Hylotl Adventurer |  | My ship crash-landed on a planet. I may have been fleeing a certain simian species at the time and decided the best course of action 
+    KO: 하이로틀 모험가, 히라키 코랄레 작성 |  | 내 우주선이 한 행성에 추락했다. 그때 어떤 유인원 종족에게서 도망치고 있었을지도 모르고, 최선의 행동이 그들을 소행성대로 유인하는 거라 결정했다. 통했어! 물론 나는 소행성대 항법 경험이 없어서, 그래서 여기 있는 거다.
+  /codex/hylotl/Hiraki Corale/sb_sewerstrange.codex.patch /contentPages/0
+    EN: by Hiraki Corale, Hylotl Adventurer |  | I found myself face-to-face with a giant flying creature, so naturally I ran as fast as my adventurous legs would carry me. I could f
+    KO: 하이로틀 모험가, 히라키 코랄레 작성 |  | 나는 거대한 날아다니는 생물과 마주쳤고, 당연히 모험가의 다리가 나를 데려갈 수 있는 한 빨리 달렸다. 짐승이 내 뒤를 바짝 쫓는 게 느껴졌고, 날개의 바람이 내 목덜미를 간지럽혔다, 그때 한 손이 그림자 속에서 뻗어 나와 나를 안전하게 끌어당겼다. |  | 나는 작은 방
+  /codex/legacy_codex/fubunkerbusters.codex.patch /contentPages/0
+    EN: by Hiraki Corale, Hylotl adventurer | My ship crash-landed on a planet. I may have been fleeing a certain simian species at the time, and decided the best course of action 
+    KO: 하이로틀 모험가, 히라키 코랄레 작성 | 내 우주선이 한 행성에 추락했다. 그때 어떤 유인원 종족에게서 도망치고 있었을지도 모르고, 최선의 행동이 그들을 소행성대로 유인하는 거라 결정했다. 통했어! 물론 나는 소행성대 항법 경험이 없어서, 그래서 여기 있는 거다.
+  /codex/legacy_codex/fubunkerbusters.codex.patch /contentPages/0
+    EN: 
+    KO: 히라키 코랄레, 하이로틀 모험가 | 제 우주선이 어느 행성에 불시착했습니다. 당시 어떤 시미안 종족을 피해 도망치던 중이었는데, 소행성 지대로 유인하는 것이 최선의 방법이라고 생각했죠. 성공했어요! 물론 저는 소행성 지대를 탐색해 본 경험이 없었기 때문에 여기까지 왔습니다.
+  /codex/legacy_codex/fucastle11.codex.patch /contentPages/0
+    EN: by Hiraki Corale, Hylotl Adventurer | Due to my frequent attempts at cultural sensitivity, I decided to try and integrate myself with my hosts even more. While exploring th
+    KO: 하이로틀 모험가, 히라키 코랄레 작성 | 자주 문화적 배려를 시도해온 나는, 주인들과 한층 더 동화되기로 결심했다. 성을 탐험하던 중, 전사 글리치를 묘사한 것으로 보이는 장식용 갑옷 여러 벌을 발견했다. 당연히, 동료들이 편하도록 한 벌을 입어 보았다.
+  /codex/legacy_codex/fucastle12.codex.patch /contentPages/0
+    EN: by Hiraki Corale, Hylotl Adventurer | Let it never be said that I do not attempt to integrate with whichever hosts I find myself indebted to. I have noticed that when addre
+    KO: 하이로틀 모험가, 히라키 코랄레 작성 | 내가 어떤 주인에게 신세를 지든 동화하려 하지 않는다는 말은 절대 하지 말기 바란다. 글리치가 나를 부를 때 접두어를 쓴다는 걸 알아챘다. 예: '경멸', '짜증', '빈정', '좌절'. 내가 축하해야 할 관습이라 느껴져, 나도 이런 언어적 사치에 동참하기 시작했다.
+  /codex/legacy_codex/fucastle12.codex.patch /contentPages/0
+    EN: 
+    KO: 히라키 코랄레, 하이로틀 모험가 | 내가 신세를 지고 있는 호스트와 통합을 시도하지 않는다는 말은 절대 하지 말자. 저를 지칭할 때 글리치가 접두사를 사용하는 것을 발견했습니다. 예를 들면 '무시', '짜증', '비꼬는', '좌절' 등입니다. 이것이 마치 제가 축하해야 할 관습인 것처럼 느껴져서 저도 그런 
+  /codex/legacy_codex/fucastle3.codex.patch /contentPages/0
+    EN: by Hiraki Corale, Hylotl Adventurer | The Glitch may not be the warmest of people on the outside, but their hospitality is indisputable. They found me scaling the castle wa
+    KO: 하이로틀 모험가, 히라키 코랄레 작성 | 글리치는 겉으로는 가장 따뜻한 민족이 아닐지 몰라도, 그들의 환대는 논쟁의 여지가 없다. 그들은 성벽을 타고 오르며 그저 탑 창문으로 들여다보고 싶었던 나를 발견하고는, 정중히 안으로 초대했다. 물론 함정처럼 들려서 처음엔 약간의 몸싸움이 있었지만, 알고 보니 그들은
+  /codex/legacy_codex/fuhca1.codex.patch /description
+    EN: 
+    KO: 하이로틀 모험가, 히라키 코랄레 작성
+  /codex/legacy_codex/fuhca2.codex.patch /description
+    EN: 
+    KO: 하이로틀 모험가, 히라키 코랄레 작성
+
+===== '브리지' (11) =====
+  /codex/LEGACY/gic_reachingspace/gic_reachingspace.codex.patch /contentPages/7
+    EN: 
+    KO: 포탑 사수로서 적 함선을 공격할 때는 적 함선의 약점, 즉 지역 실드와 물리적 선체의 약점을 조준하십시오. 실드가 있는 적 함선이 공격할 때는 AP 플라즈마 샷을 사용하여 특정 영역에 집중 사격하여 구멍을 만드십시오. 실드가 뚫리면 나머지 실드 시스템이 다운됩니다. 실드가 없는 표적을 파괴하려면 엔진, 
+  /codex/documents/networkguide.codex.patch /contentPages/2
+    EN: The first core component of the ITN is the storage bridge, which is used to provide containers with input & output wiring nodes by way of proxy. Storage bridges look arou
+    KO: ITN의 첫 핵심 구성 요소는 저장 브리지다. 이는 프록시를 통해 컨테이너에 입출력 배선 노드를 제공하는 데 쓰인다. 저장 브리지는 주변에서 설치 지점 기준으로 가장 가까운 컨테이너를 찾아 연결하지만, 여러 컨테이너 사이 한가운데에 놓으면 혼동할 수 있다. 연결하려는 단 하나의 컨테이너에 최대한 가깝게 
+  /codex/documents/networkguide.codex.patch /contentPages/8
+    EN: In order to set up a basic ITN network, connect the red output node for a container's storage bridge to the second blue input node for an ITD, and then connect the ITD's 
+    KO: 기본적인 ITN 네트워크를 구축하려면, 컨테이너 저장 브리지의 빨간 출력 노드를 ITD의 두 번째 파란 입력 노드에 연결한 다음, ITD의 빨간 출력 노드를 두 번째 컨테이너 저장 브리지의 파란 입력 노드에 연결하세요. 이제 첫 번째 컨테이너에 넣은 모든 물건이 자동으로 두 번째 컨테이너로 옮겨집니다.
+  /codex/documents/networkguide.codex.patch /contentPages/13
+    EN: Once you have a basic ITN setup (described on page 9), you can make a terminal at the electronics/power center. By connecting the output of a container's storage bridge t
+    KO: 기본 ITN 구성(9페이지에 설명됨)을 갖추면, 전자/전력 센터에서 터미널을 만들 수 있다. 컨테이너의 저장소 브리지 출력을 터미널의 입력 노드에 연결하면, 그 컨테이너에 저장된 모든 아이템을 확인하고 검색해서 인벤토리로 가져올 수 있다 - 다만 터미널을 통해 아이템을 다시 보낼 수는 없다. 이런 식으로
+  /items/MATERIALS/fudynastwoodbridge.matitem.patch /shortdescription
+    EN: 
+    KO: 다이너스트 브리지 블록
+  /items/MATERIALS/honey/goldenwoodbridge.matitem.patch /shortdescription
+    EN: 
+    KO: 골든 브리지 블록
+  /objects/kheAA/kheAA_containerLink/kheAA_containerLink.object.patch /shortdescription
+    EN: 
+    KO: 스토리지 브리지
+  /objects/kheAA/kheAA_containerLink/kheAA_containerLink2.object.patch /shortdescription
+    EN: 
+    KO: 스토리지 브리지 V2
+  /quests/fu_questlines/tutorial/vinj/fuquest_powergeneration2.questtemplate.patch /completionText
+    EN: 
+    KO: 게임을 한 단계 업그레이드하고 싶다면 ^orange;아이템 전송 장치^reset; 및 ^orange;스토리지 브리지^reset;를 설치한 다음 와이어로 ^green;시프터^reset;에 연결해보세요! ^orange;시프터^reset; 같은 기계에서 보관함으로, 또는 반대 방향으로 아이템을 자동으로 이동할
+  /tiles/materials/dynastwood/fudynastwoodbridge.material.patch /shortdescription
+    EN: 
+    KO: 다이너스트 브리지 블록
+
+===== '브릿지' (7) =====
+  /codex/documents/networkguide.codex.patch /contentPages/3
+    EN: Storage bridges work with more than just ordinary containers. Almost any object which can be interacted with that has item slots can be linked to a storage bridge. This i
+    KO: 저장 브릿지는 일반적인 보관함 이상의 것과도 작동한다. 아이템 슬롯이 있어 상호작용할 수 있는 오브젝트라면 거의 무엇이든 저장 브릿지에 연결할 수 있다. 여기에는 일부 프래킨 유니버스 제작대와, 이미 전력 노드가 있을 수 있는(하지만 입력/출력 노드는 없는) 몇몇 기타 오브젝트도 포함된다. 어떤 노드를 
+  /codex/documents/networkguide.codex.patch /contentPages/14
+    EN: A common, useful storage setup is to have rows of containers and storage bridges all linked to a single terminal (or series of terminals) so you can pull from all of them
+    KO: 흔하면서도 유용한 저장 구성은 여러 줄의 보관함과 저장 브릿지를 하나의(또는 여러 개의) 단말기에 모두 연결해 두는 것입니다. 근처에 상자를 하나 두고 그 저장 브릿지를 여러 개의 ITD에 연결해 두면, 상자에 넣는 물품이 아무 조작 없이도 네트워크 안의 지정된 보관함으로 자동 분류됩니다.
+  /codex/documents/networkguide.codex.patch /contentPages/4
+    EN: 
+    KO: 객체 데이터 센서: 팅커링 테이블에서 제작. 오브젝트 배치 지점을 감지해, 보관함 브릿지를 더 정밀하게 배치할 수 있게 해준다. 브릿지는 자신과 오브젝트 배치 지점 사이의 거리를 기준으로 컨테이너 하나를 선택한다.
+  /items/MATERIALS/fudarkwoodbridge.matitem.patch /shortdescription
+    EN: 
+    KO: 다크 브릿지 블록
+  /items/MATERIALS/fulightwoodbridge.matitem.patch /shortdescription
+    EN: 
+    KO: 라이트 브릿지 블록
+  /tiles/materials/darkwood/fudarkwoodbridge.material.patch /shortdescription
+    EN: 
+    KO: 다크 브릿지 블록
+  /tiles/materials/lightwood/fulightwoodbridge.material.patch /shortdescription
+    EN: 
+    KO: 라이트 브릿지 블록
+
+===== '글림레쿠스' (27) =====
+  /codex/mwhaddon_codex_misc/mwhaddon_codex_glimmlecus_1.codex.patch /contentPages/0
+    EN: It's been years since Glimmlecus Tower changed hands, and people of Glimmlecus seem to have forgotten about that incident faster than expected. That's why I have to recor
+    KO: 글림레쿠스 탑의 주인이 바뀐 지도 여러 해가 지났고, 글림레쿠스 사람들은 그 사건을 예상보다 빠르게 잊어버린 것 같다. 그래서 나는 저 마녀가 시간의 책장에서 완전히 지워버리기 전에 이 먼지 쌓인 역사를 기록해야 한다.
+  /codex/mwhaddon_codex_misc/mwhaddon_codex_glimmlecus_1.codex.patch /contentPages/2
+    EN: He made such great contributions, yet ultimately did not meet a good end. Vindermill, an evil (and unfortunately powerful) organic witch who claimed to be an apprentice o
+    KO: 그는 그토록 위대한 공헌을 했지만, 결국 좋은 결말을 맞지 못했다. 실버힌지의 제자를 자처하는 사악한 (그리고 불행히도 강력한) 유기체 마녀, 빈더밀이 8년 전 어느 밤 그를 뻔뻔하게 살해하고 글림레쿠스 탑의 소유권을 포함한 그의 모든 유산을 빼앗았다.
+  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_voyage/story_voyage_list.config.patch /list/chapter_1/data/context/6/text
+    EN: The investigation had only deepened the mystery. Nereus dispatched a small team to conduct preliminary reconnaissance at the Illumintaed ruins you visited. As there was n
+    KO: 조사는 수수께끼를 더욱 깊게 만들 뿐이었다. 네레우스는 당신이 방문한 빛나는 폐허에 소규모 팀을 보내 예비 정찰을 벌였다. 샐리의 신원에는 의심스러운 점이 없어, 네레우스는 돌파구를 찾으려 앞서 가져온 시커 파편에 눈을 돌렸다. 먼지 탐구자를 아는 사람을 찾기 위해 다음으로 향할 곳은 글림레쿠스다.
+  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_voyage/story_voyage_list.config.patch /list/chapter_2/data/context/0/text
+    EN: To find a breakthrough concerning the Seeker of Dust, you and Sally are about to go to Glimmlecus to find the one who knows it well - Vindermill.
+    KO: 먼지 탐구자에 대한 돌파구를 찾기 위해, 너와 샐리는 그것을 잘 아는 자 - 빈더밀을 찾아 글림레쿠스로 향하게 된다.
+  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_voyage/story_voyage_list.config.patch /list/chapter_2/data/context/1/text
+    EN: To find a breakthrough concerning the Seeker of Dust, you and Sally brought Nereus's envelope to Glimmlecus to find the one who knows it well - Vindermill, who lives at t
+    KO: 먼지 탐구자에 대한 돌파구를 찾기 위해, 너와 샐리는 네레우스의 봉투를 들고 글림레쿠스로 가서 그것을 잘 아는 자 - 글림레쿠스 탑 꼭대기에 사는 빈더밀을 찾았다. 하지만 탑의 문지기는 사전 예약자만 입장 가능하며 가장 빠른 자리도 2년 뒤까지 예약이 꽉 찼다고 알려 왔다. 너희는 탑에 들어갈 다른 방법
+  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_voyage/story_voyage_list.config.patch /list/chapter_2/data/context/2/text
+    EN: You encountered a mysterious Glitch in the sewers who claimed to be able to grant you access to the tower. After satisfying his demands, you entered a hidden passageway c
+    KO: 하수구에서 탑으로 들어갈 수 있다고 주장하는 수수께끼의 글리치를 만났다. 그의 요구를 충족시킨 후, 하수구와 글림레쿠스 탑을 잇는 숨겨진 통로로 들어갔다.
+  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_voyage/story_voyage_list.config.patch /list/chapter_2/data/context/6/text
+    EN: During Nereus' examination of Sally, he entrusted you to return to Glimmlecus and report to Vindermill. You also delivered the communication code to her.
+    KO: 네레우스가 샐리를 진찰하는 동안, 그는 당신에게 글림레쿠스로 돌아가 빈더밀에게 보고하는 일을 맡겼다. 당신은 또한 그녀에게 통신 코드를 전달했다.
+  /interface/warping/mwhaddon_glimmlecus.config.patch /destinations/1/name
+    EN: To the top of Glimmlecus Tower
+    KO: 글림레쿠스 탑 꼭대기로
+  /interface/warping/mwhaddon_glimmlecus_vindermill.config.patch /bookmarkName
+    EN: Glimmlecus - Tower Top
+    KO: 글림레쿠스 - 탑 꼭대기
+  /interface/warping/mwhaddon_glimmlecus_vindermill.config.patch /destinations/1/name
+    EN: To the Glimmlecus town
+    KO: 글림레쿠스 마을로
+
+===== '글림를레쿠스' (1) =====
+  /codex/mwhaddon_codex_misc/mwhaddon_codex_glimmlecus_1.codex.patch /description
+    EN: The book is full of accusations against the current owner of Glimmlecus Tower.
+    KO: 이 책은 글림를레쿠스 타워의 현 소유주에 대한 고발로 가득하다.
+
+===== '하이 마구스' (4) =====
+  /codex/mwhaddon_codex_misc/mwhaddon_codex_glimmlecus_1.codex.patch /contentPages/1
+    EN: Silverhinge the Rusty Lock, our beloved High Magus Seat 15th, was one of - no, he was absolutely the greatest Alchemist this universe have ever had. His numerous alchemic
+    KO: '녹슨 자물쇠' 실버힌지, 우리의 사랑받는 15대 하이 마구스 좌는 - 아니, 그는 분명 이 우주가 낳은 가장 위대한 연금술사였다. 에테르 병이나 전이 공명 불꽃 같은 그의 수많은 연금술적 업적은 글리치 연금술 분야를 발전시켰을 뿐 아니라 은하 전역의 연금술사들에게도 도움이 되었다.
+  /npcs/factions/covenant/mwhaddon_npc_covenant_mageGlimmlecus.npctype.patch /scriptConfig/dialog/greeting/human/default/3
+    EN: It seems High Magus Vindermill is human too. I wonder if I can meet her as a fellow.
+    KO: 하이 마구스 빈더밀도 인간인 모양이야. 같은 인간으로서 한번 만나 뵐 수 있을까?
+  /npcs/factions/covenant/mwhaddon_npc_covenant_mageGlimmlecus.npctype.patch /scriptConfig/dialog/converse/human/default/3
+    EN: It seems High Magus Vindermill is human too. I wonder if I can meet her as a fellow.
+    KO: 하이 마구스 빈더밀도 인간인 모양이야. 같은 인간으로서 한번 만나 뵐 수 있을까?
+  /quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter2/mwhaddon_quests_chapter2_0_4.questtemplate.patch /text
+    EN: Senseless. There is a ^orange;bookshelf^reset; in the room ahead. ^green;Toggling it will open a path to the sewer, from which you can enter Glimmlecus Tower^reset;. Bori
+    KO: 무의미함. 앞쪽 방에 ^orange;책장^reset;이 있다. ^green;그것을 조작하면 하수구로 가는 길이 열리며, 거기서 글림레쿠스 탑으로 들어갈 수 있다^reset;. 지루함. 내 정보는 100% 신뢰할 수 있지만, ^yellow;그 하이 마구스를 실제로 만날 확률은 전적으로 당신의 운에 달려 있
+
+===== '대마법사' (17) =====
+  /codex/mwhaddon_codex_covenant/mwhaddon_codex_covenant_2.codex.patch /description
+    EN: A short description about High Magus.
+    KO: 대마법사에 관한 짧은 설명.
+  /codex/mwhaddon_codex_covenant/mwhaddon_codex_covenant_2.codex.patch /contentPages/0
+    EN: 
+    KO: 대마법사는 옴니버설 아케인 성약이 마법 분야에서 놀라운 업적을 이루었거나 특정 마법 주제를 크게 발전시킨 마법사에게, 그 마법사가 코버넌트 회원인지 여부와 관계없이 수여하는 종신 명예 칭호다. 현재 이 칭호를 받은 사람은 17명이다.
+  /codex/mwhaddon_codex_misc/mwhaddon_codex_glimmlecus_1.codex.patch /contentPages/5
+    EN: As she entitled herself High Magus Seat 17th, I can't help wondering how many people still remember this dark history. I do not know what my fate will be after finishing 
+    KO: 그녀가 스스로를 17대 대마법사 좌라 칭한 이후, 이 어두운 역사를 아직 기억하는 사람이 얼마나 될지 궁금해지는 걸 어쩔 수 없다. 이 책을 마친 뒤 내 운명이 어떻게 될지는 모르지만, 진실을 기억하는 누군가가 언제나 있기를 바란다.
+  /dialog/saturnspaceconverse.config.patch /spacesaturnian/saturn/glitch/8
+    EN: You don't serve any royalty, do you? Ours are just figureheads; the Archmage and their mage council have the real power.
+    KO: 자네는 왕족을 섬기지 않지? 우리 쪽 왕족은 그저 허수아비일 뿐이야. 실권은 대마법사와 마법 평의회가 쥐고 있지.
+  /dialog/saturnspaceconverse.config.patch /spacesaturnian/saturn/human/8
+    EN: The Archmage wanted Solalei to officially join the Protectorate. I think there were even some Saturnians already in it.
+    KO: 대마법사는 솔라레이가 보호국에 정식으로 합류하기를 바랐어. 이미 들어가 있던 새터니안도 몇 있었던 것 같고.
+  /interface/arcana/mwhaddon_crafting_alchemist/mwhaddon_crafting_alchemist_4.config.patch /paneLayout/lblTitle/value
+    EN:  Grandsorcerer's Table
+    KO: 대마법사의 탁자
+  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_voyage/story_voyage_list.config.patch /list/chapter_2/data/context/3/text
+    EN: You and Sally entered the tower through the sewers, discovering it to be a labyrinthine maze. After some exploration, you secured an audience with Vindermill. Upon learni
+    KO: 너와 샐리가 하수구로 탑에 들어가 미로 같은 미궁임을 발견했다. 탐험 끝에, 빈더밀과의 알현을 성사시켰다. 방문 이유를 알게 된 대마법사는 시커의 흔적을 추적할 수 있는 부적을 네게 맡겼다.
+  /items/generic/arcana_misc/mwhaddon_misc_keyItem_paperEnvelope.item.patch /description
+    EN: A paper letter from the Gliten Researcher to a High Magus. This medium of communication is quite rare nowadays.
+    KO: 글리튼 연구자가 대마법사에게 보낸 종이 편지입니다. 요즘은 이런 통신 수단을 보기 꽤 드뭅니다.
+  /ivrpgtext.config.patch /lore/children/people/children/sen/children/thelightattheendofthetunnel/children
+    EN: 
+    KO: I5-T 구역은 꽤 오랫동안 비교적 평화로웠다. 물론 산적들이 땅을 차지하려 들거나, 더 비옥한 행성의 마을에서 지역 다툼이 벌어지는 때도 있었다. 하지만 그것 말고는, 평화로웠다. |  | 늘 그랬던 건 아니었다: 예전에는 흉포한 괴물과 무자비한 해적들이 들끓었다. 하지만 그들이 몰고 온 빛은 그보다 더 밝았
+  /npcs/others/misc/mwhaddon_npc_marina/mwhaddon_npc_marina.npctype.patch /scriptConfig/dialog/converse/default/default/2
+    EN: Wonder if that High Magus would have had the same trouble when she was still an apprentice as me.
+    KO: 그 대마법사도 나처럼 수습생 시절에 같은 어려움을 겪었을까.
+
+===== '상급 마법사' (2) =====
+  /codex/mwhaddon_codex_covenant/mwhaddon_codex_covenant_2.codex.patch /title
+    EN: High Magus
+    KO: 상급 마법사
+  /quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter2/mwhaddon_quests_chapter2_0_1.questtemplate.patch /text
+    EN: 
+    KO: ^green;글림레쿠스^reset;는 마법사와 마술사들의 도시로, 글림레쿠스 호수 한가운데 있는 거대한 탑이 특징이다. 그리고 ^orange;그 탑에 사는 상급 마법사, 빈더밀^reset;이 네가 찾아가야 할 사람이다. ^yellow;둘은 갤럭틱 아틀라스로 거기에 갈 수 있다^reset;.
+
+===== '무덤 수호자' (1) =====
+  /codex/legacy_codex/fuaviantombkeeper.codex.patch /contentPages/0
+    EN: by K'arn Hollowbeak, Avian scholar | Tomb Guards are regarded by other Avians as weird or creepy. The reason for this is because they willingly volunteer to live in a tomb 
+    KO: 아비안 학자, 카른 홀로우비크 지음 | 무덤 수호자는 다른 아비안들에게 괴상하거나 소름 끼치는 존재로 여겨진다. 그 이유는 그들이 자원해서 십 년간 무덤에 살기 때문이다. 하지만 다른 이들이 모르는 것은, 무덤 수호자가 되면 성찰하고, 창작하고, 계획할 시간이 충분하다는 것이다. 나의 최고 작품 일부는 무덤
+
+===== '무덤 경비병' (1) =====
+  /codex/legacy_codex/fuaviantombkeeper.codex.patch /contentPages/1
+    EN: Tomb Guards also have to possess exceptional physical and mental skill. While it's never been documented in Avian history, it's entirely possible that a large armed group
+    KO: 무덤 경비병은 뛰어난 신체적·정신적 기량도 갖춰야 한다. 아비안 역사에 기록된 적은 없지만, 무덤의 재물을 전부 빼앗으려는 대규모 무장 집단이 덮칠 가능성은 충분히 있다. 그래서 우리는 만반의 준비가 됐다고 느낄 때까지, 그런 상황에 대처하는 법을 수년간 공부한다.
+
+===== '무덤지기' (5) =====
+  /codex/legacy_codex/fuaviantombkeeper.codex.patch /contentPages/0
+    EN: 
+    KO: 아비안 무덤지기
+  /codex/legacy_codex/fuaviantombkeeper.codex.patch /title
+    EN: 
+    KO: 아비안 무덤지기
+  /codex/legacy_codex/fuaviantraditions.codex.patch /contentPages/1
+    EN: However, because of this trend, Avian tombs are often the targets of robbery, hence the employment of Tombkeepers, individuals who dedicate their lives to living in the t
+    KO: 하지만, 이런 경향 때문에, 아비안 무덤은 종종 도굴의 표적이 되고, 그래서 무덤지기라는 직업이 생겨났다, 최소 10년 동안 무덤에서 사는 데 삶을 바치는 이들이다.
+  /monsters/boss/mwhaddon_nightmare/mwhaddon_nightmare_navigator/mwhaddon_nightmare_navigator.monstertype.patch /shortdescription
+    EN: Gravekeeper of the Lost Ark
+    KO: 잃어버린 방주의 무덤지기
+  /objects/arcana/npcs/mwhaddon_dungeon_misc/mwhaddon_dungeon_misc_npc_deel/nightmare/mwhaddon_dungeon_misc_npc_deelNM_navigator.object.patch /chatOptions/0
+    EN: Gravekeeper of a dormant ark, the Navigator has found its meaning of continued existence in this nigh eternity.
+    KO: 휴면 상태인 방주의 무덤지기, 내비게이터는 이 거의 영원에 가까운 시간 속에서 존재를 이어갈 의미를 찾아냈다.
+
+===== '묘지기' (1) =====
+  /codex/legacy_codex/fuaviantombkeeper.codex.patch /title
+    EN: Avian Tombkeepers
+    KO: 아비안 묘지기
+
+===== '호라이즌' (222) =====
+  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_2.codex.patch /contentPages/5
+    EN: Gruesome ^#D03AD7;Horizon Fleets^white;, on the other hand, are far from friendly. These dangerous terrorists will indiscriminately attack any travelers nearby. | Speaking 
+    KO: 반면, 소름 끼치는 ^#D03AD7;호라이즌 함대^white;는 전혀 우호적이지 않습니다. 이 위험한 테러리스트들은 근처의 어떤 여행자든 가리지 않고 공격합니다. | ^#D03AD7;호라이즌 함대^white; 이야기가 나온 김에, 그들이 병기고에서 사용하는 주요 재료는 ^#5b3ea0;심연의 숲^white;
+  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_5.codex.patch /contentPages/4
+    EN: ^#e951d3;Ruinous^white; |  | Infected by the influence of World Horizon, ^#e951d3;Ruinous^white; is now engulfed with air of blight and catastrophe. The entire planet's surfa
+    KO: ^#e951d3;루이너스^white; |  | 월드 호라이즌의 영향에 감염된 ^#e951d3;루이너스^white;는 이제 역병과 대재앙의 공기에 휩싸여 있다. 행성의 지표 전체가 그림자에 갇혀, 하늘은 영원한 어둠 속에 있다. ^#d03ad7;호라이즌 함대^reset;가 이곳에 야영지를 세우고 고대 유물 연구를
+  /codex/arcana_codex_horizon/arcana_codex_horizon_1.codex.patch /title
+    EN: Fleets of The Horizon
+    KO: 호라이즌 함대
+  /codex/arcana_codex_horizon/arcana_codex_horizon_1.codex.patch /description
+    EN: The Seekers’s threat assessment of The Horizon.
+    KO: 시커들의 호라이즌 위협 평가서.
+  /codex/arcana_codex_horizon/arcana_codex_horizon_1.codex.patch /contentPages/0
+    EN: After discovery of their involvement with the Lucid Eye, the organization known as 'The Horizon' has risen to be an Archa level threat. Their fleets have been growing at 
+    KO: 루시드 아이와의 연루가 밝혀진 후, '더 호라이즌'이라 알려진 조직은 아르카급 위협으로 급부상했다. 그들의 함대는 놀라운 속도로 규모를, 그리고 병력과 화력을 키워가고 있다. 그들의 목적은 '월드 호라이즌'이라 불리는 이상 현상을 소환하는 것으로 보인다. 이 존재가 각성했을 때 정확히 어떤 영향을 미칠지
+  /codex/arcana_codex_horizon/arcana_codex_horizon_2.codex.patch /description
+    EN: A document explaining the Horizon's motive for trying to awaken the World Horizon.
+    KO: 호라이즌이 월드 호라이즌을 깨우려 한 동기를 설명하는 문서입니다.
+  /codex/arcana_codex_horizon/arcana_codex_horizon_2.codex.patch /contentPages/0
+    EN: Even in an Universe with infinite resources and possibilities pain and suffering still remain. How can we call this an utopia when hatred remains deeply rooted in all of 
+    KO: 무한한 자원과 가능성이 있는 우주에서도 고통과 괴로움은 여전히 남아 있다. 우리 모두의 마음 깊은 곳에 증오가 뿌리내려 있는데, 어떻게 이것을 유토피아라 부를 수 있는가? 앞으로 나아갈 다른 길은 없다, 존재에게 일찍이 상상도 못 한 재앙을 풀어놓아야 하더라도, 우리는 우주 전역에 조화와 통합을 가져와야
+  /codex/mwhaddon_codex_boss/mwhaddon_codex_brutol.codex.patch /contentPages/0
+    EN: The earliest experiences of Brutol are no longer traceable. He was originally a Miniknog soldier, later joined the rebels, until about fifteen to twenty years ago when he
+    KO: 브루톨의 초기 행적은 더는 추적할 수 없다. 그는 원래 미니크녹 병사였고, 나중에 반란군에 합류했으며, 약 15~20년 전 마침내 호라이즌에 들어갔다.
+  /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_1.codex.patch /description
+    EN: Recent log of the Horizon ship, looks like it was created just a little while ago.
+    KO: 호라이즌 함선의 최근 기록. 얼마 전에 작성된 것으로 보인다.
+  /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_2.codex.patch /description
+    EN: A book about why Ancient Essence is needed, seems to be circulated only in Horizon Fleet.
+    KO: 고대 정수가 왜 필요한지 다룬 책. 호라이즌 함대 안에서만 돌고 있는 것 같다.
+
+===== '지평선' (17) =====
+  /cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_wartorn.cinematic.patch /panels/2/text
+    EN: 
+    KO: 기름으로 채워진 지평선이 보여요. 분쟁에 잃어버린 마을을 덮는 기름 물든 모래가. |  | 언니, 왜 이걸 우리에게 숨겼어?
+  /codex/arcana_codex_horizon/arcana_codex_horizon_2.codex.patch /title
+    EN: The World Horizon
+    KO: 세계의 지평선
+  /codex/documents/randombook6.codex.patch /contentPages/4
+    EN: 
+    KO: 피를 확보한 후, 라인카르드 달의 빛 아래서 그 피를 마셔야 합니다. 안타깝게도, 이는 충분히 숙성된 블랙홀의 사건 지평선 내에서만 발생합니다. 블랙홀을 찾으면 다음 단계로 넘어갈 수 있습니다...[2,000페이지가 훨씬 넘게 남았습니다. 이 과정의 전반부는 800페이지에서 끝납니다. 더 읽는 것은 무의
+  /codex/mwhaddon_codex_boss/mwhaddon_codex_receipt_execration.codex.patch /contentPages/0
+    EN: ^yellow;Execration, Battle Machine of the Horizon^reset; |  | Designer : Minewithhim (MWH) | Programmer : Minewithhim (MWH) | Texture Designer : kumochan, Rusteel |  | Music : ^green
+    KO: ^yellow;엑세크레이션, 지평선의 전투 기계^reset; |  | 디자이너 : Minewithhim (MWH) | 프로그래머 : Minewithhim (MWH) | 텍스처 디자이너 : kumochan, Rusteel |  | 음악 : 비디오 게임 ^orange;카타나 제로^reset;의 ^green;Boss Boss Bo
+  /codex/nightar/funightardoc1.codex.patch /contentPages/3
+    EN: 
+    KO: 태양의 사악한 힘이 결합을 파멸로 이끌지 않기 위해 달이 없는 밤에만 행합니다. 신랑과 신부는 지평선에 햇빛이 조금이라도 비치면 결합을 완성하는 것이 금지됩니다. 단, 달이 반달 이하인 달이 뜨는 밤에는 예외가 적용됩니다.
+  /interface/scripted/arcana_musicbox/music.config.patch /music/19/name
+    EN: Over The Spring Horizon
+    KO: 봄 지평선 너머
+  /interface/scripted/fm_musicplayer/musiclist.config.patch /Starbound/26/name
+    EN: Event Horizon
+    KO: 사건의 지평선
+  /interface/scripted/fm_musicplayer/musiclist.config.patch /Starbound/75/name
+    EN: Glacial Horizon
+    KO: 빙하 지평선
+  /items/WEAPONS/GICEXP/gicexp_nthmg/esc_nthmg_hellgunner.activeitem.patch /description
+    EN: ''Let these foolish outsiders put their trust in gods and faith, I put mine in a freshly fuelled ship and an open horizon.'' | Originally a portable mining laser system, re
+    KO: ''어리석은 이방인들은 신과 신앙을 믿으라지. 난 연료를 가득 채운 배와 탁 트인 지평선을 믿으니까.'' | 원래는 휴대용 채굴 레이저 장치였으나, 파괴적인 고출력 레이저 빔 절단기로 재설계했다. 이제는 바위와 돌 대신 살과 뼈를 자르며, 보병 분대 하나를 몇 초 만에 쓸어버릴 수 있다. | ^#EA3C0B;불
+  /items/WEAPONS/GICEXP/gicexp_nthmg/gicexp_nthmg.activeitem.patch /description
+    EN: ''Let these foolish outsiders put their trust in gods and faith, I put mine in a freshly fuelled ship and an open horizon.'' | Originally a portable mining laser system, re
+    KO: ''어리석은 이방인들은 신과 신앙을 믿으라지. 난 연료를 가득 채운 배와 탁 트인 지평선을 믿으니까.'' | 원래는 휴대용 채굴 레이저 장치였으나, 파괴적인 고출력 레이저 빔 절단기로 재설계했다. 이제는 바위와 돌 대신 살과 뼈를 자르며, 보병 분대 하나를 몇 초 만에 쓸어버릴 수 있다. | ^#EA3C0B;불
+
+===== '에이언' (2) =====
+  /codex/arcana_codex_aeon/arcana_codex_aeon_1.codex.patch /contentPages/0
+    EN: The Aeon is one of the higher elements that interferes with the flow of time and space. Residues of the Aeon's golden lights can be found in the Timeless, but researchers
+    KO: 에이언은 시공간의 흐름을 방해하는 상위 원소 중 하나다. 에이언의 황금빛 잔재는 타임리스에서 발견할 수 있지만, 연구자들은 아직 에이언의 본질과 직접 상호작용하는 데 성공하지 못했다.
+  /codex/arcana_codex_aeon/arcana_codex_aeon_2.codex.patch /contentPages/0
+    EN: The clocktowers located in the timeless planets are, as expected, also frozen like the planets themselves. Some have suspected that the Clocktowers are what controls the 
+    KO: 타임리스 행성에 위치한 시계탑은, 예상대로, 행성 자체처럼 얼어붙어 있다. 일부는 이 시계탑이 타임리스 행성에서 시간의 흐름을 통제하는 것이라 추측해왔다. 어떻게든 풀려나온 태엽 장치 조각인 에이언 시계는, 이 탑들의 꼭대기에서 찾을 수 있다.
+
+===== '아이온' (10) =====
+  /codex/arcana_codex_aeon/arcana_codex_aeon_1.codex.patch /title
+    EN: The Aeon
+    KO: 아이온
+  /items/generic/other/arcana_evoNanopack.consumable.patch /shortdescription
+    EN: ^#ffffff;Aion Nanopack^reset;
+    KO: ^#ffffff;아이온 나노팩^reset;
+  /monsters/arcana_misc/arcana_monster_aeonkeeper/arcana_monster_aeonkeeper.monstertype.patch /description
+    EN: A floating robot-like mechanism that utilizes Aeon energy to power itself.
+    KO: 아이온 에너지로 작동하는 떠다니는 로봇 같은 장치.
+  /monsters/arcana_monsters/arcana_monster_timekeeper/arcana_monster_timekeeper.monstertype.patch /description
+    EN: A floating robot-like mechanism that utilizes Aeon energy to power itself.
+    KO: 아이온 에너지로 작동하는 떠다니는 로봇 같은 장치.
+  /monsters/arcana_monsters/arcana_monster_timekeeper/arcana_monster_timekeepersummoned.monstertype.patch /description
+    EN: A floating robot-like mechanism that utilizes Aeon energy to power itself.
+    KO: 아이온 에너지로 작동하는 떠다니는 로봇 같은 장치.
+  /objects/atprk_krakoth/atprk-krakothshipreactorbroken/atprk-krakothshipreactorbroken.object.patch /shortdescription
+    EN: Destroyed Aeon Reactor
+    KO: 파괴된 아이온 리액터
+  /objects/atprk_relicseeker/atprk_planetpins/atprk_arcanatimelesspin.object.patch /noolithDescription
+    EN: Misusing the Aeon has grave consequences, and each timeless planet proves it.
+    KO: 아이온을 잘못 쓰면 중대한 결과가 따르지, 무시간 행성마다 그걸 증명하고 있어.
+  /objects/power/atprk_fukrakothbattery/atprk_fukrakothbattery.object.patch /shortdescription
+    EN: ^#ff53c6;Aeon^reset; Accumulator
+    KO: ^#ff53c6;아이온^reset; 어큐뮬레이터
+  /quests/arcana_quests_ankhu/arcana_quests_ankhu_mwhaddon/arcana_quests_ankhu_mwhaddon_10.questtemplate.patch /title
+    EN: ^green;Clocktower of Aeon^reset;
+    KO: ^green;아이온의 시계탑^reset;
+  /species/gilten.species.patch /charCreationTooltip/description
+    EN: Residing in sky-bound arks, the ^#c0ab5e;Gilten^reset; are draco-humanoids that worship the divine Light of the Aeon. Possessing affinities harnessed from the Light, the 
+    KO: 하늘에 떠 있는 방주에 거주하는 ^#c0ab5e;길텐^reset;은 신성한 아이온의 빛을 숭배하는 용인(龍人)이다. 빛에서 얻은 친화력을 지닌 길텐은 기본 원소에는 자연히 강한 저항력을 가지지만, 물리 공격에는 약하다.
+
+===== '항해자' (10) =====
+  /codex/arcana_codex_boss/arcana_codex_navigator.codex.patch /title
+    EN: The Navigator
+    KO: 항해자
+  /interface/scripted/arcana_books/bosses.config.patch /bosses/2/name
+    EN: The Navigator
+    KO: 항해자
+  /interface/scripted/mwhaddon_challenge/bossChallenge/navigator/config.config.patch /gui/goalDescription/value
+    EN: Defeat Navigator. | ^yellow;Threat Level: 6
+    KO: 항해자 처치. | ^yellow;위협 등급: 6
+  /items/armors/other/voyager/voyager.chest.patch /shortdescription
+    EN: 
+    KO: 항해자의 갑옷
+  /items/armors/other/voyager/voyager.head.patch /shortdescription
+    EN: 
+    KO: 항해자의 헬멧
+  /items/armors/other/voyager/voyager.legs.patch /shortdescription
+    EN: 
+    KO: 항해자의 바지
+  /monsters/boss/arcana_boss_navigator/arcana_boss_navigator.monstertype.patch /shortdescription
+    EN: The Navigator
+    KO: 항해자
+  /objects/plushies/community2/edition13/spaceshipplush/PBspaceshipplush.object.patch /glitchDescription
+    EN: Amused. A giant plush toy of a spaceship. Perhaps there is a tiny spacefarer inside?
+    KO: 즐거움. 우주선의 거대한 봉제 인형이다. 어쩌면 안에 조그만 우주 항해자가 타고 있을지도?
+  /quests/avikanquests/avikanoutpost/avikanstarfarer.questtemplate.patch /title
+    EN: ^green;A Starfarer's Request
+    KO: ^green;별 항해자의 부탁
+  /species/avikan.species.patch /charCreationTooltip/description
+    EN: A race of nomadic spacefarers who fled their homeplanet after multiple invasions by Thelean armies. Despite their high level of technological advancement, their tradition
+    KO: 텔레안 군대의 거듭된 침공을 피해 고향 행성을 떠난 유목민 우주 항해자 종족. 고도로 발전된 기술 수준에도 불구하고, 전통 문화 탓에 뼈와 가죽으로 만든 장비를 자주 사용한다.
+
+===== '내비게이터' (116) =====
+  /codex/arcana_codex_boss/arcana_codex_navigator.codex.patch /description
+    EN: A short entry about the Navigator.
+    KO: 내비게이터에 관한 짧은 기록.
+  /codex/arcana_codex_boss/arcana_codex_navigator.codex.patch /contentPages/0
+    EN: The A.I. that guides the Starstriders as well as their ship systems. Although the ancient arks were sealed beneath the waters long ago, the Navigator still remains, keepi
+    KO: 스타스트라이더와 그들의 함선 시스템을 이끄는 A.I. 고대의 방주들은 오래전 물 아래에 봉인되었지만, 내비게이터는 여전히 남아 오래된 유물들을 지켜보고 있다. 그것은 그 함선을 보존하는 데서 아무 목적도 찾지 못하며, 대신 희미하게 빛나는 잠재력을 지닌 이들을 인도하고자 한다.
+  /objects/alta/ship/special/captains_chair/ct_alta_ship_captains_chair.object.patch /apexDescription
+    EN: Ahh... Sweet freedom. I can use the ship's navigator from this chair.
+    KO: 아... 달콤한 자유. 이 의자에서 함선의 내비게이터를 쓸 수 있어.
+  /objects/alta/ship/special/captains_chair/ct_alta_ship_captains_chair.object.patch /avianDescription
+    EN: The Captain's chair. That's me! I can use the ship's navigator from this chair.
+    KO: 선장의 의자 바로 나야! 이 의자에서 내비게이터를 사용할 수 있어.
+  /objects/alta/ship/special/captains_chair/ct_alta_ship_captains_chair.object.patch /floranDescription
+    EN: Best chair on ship. Floran can sit here to ussse navigator and fly ship!
+    KO: 함선 최고의 의자다. 플로란은 이 의자에서 내비게이터로 함선을 날릴 슈 있다!
+  /objects/arcana/npcs/mwhaddon_dungeon_misc/mwhaddon_dungeon_misc_npc_deel/nightmare/mwhaddon_dungeon_misc_npc_deelNM_navigator.object.patch /chatOptions/0
+    EN: Gravekeeper of a dormant ark, the Navigator has found its meaning of continued existence in this nigh eternity.
+    KO: 휴면 상태인 방주의 무덤지기, 내비게이터는 이 거의 영원에 가까운 시간 속에서 존재를 이어갈 의미를 찾아냈다.
+  /objects/ship/Lustlingcaptainschair/lustlingcaptainschair.object.patch /avianDescription
+    EN: The Captain's chair. That's me! I can use the ship's navigator from this chair.
+    KO: 선장의 의자 바로 나야! 이 의자에서 내비게이터를 사용할 수 있어.
+  /objects/ship/Lustlingcaptainschair/lustlingcaptainschair.object.patch /floranDescription
+    EN: Best chair on ship. Floran can sit here to ussse navigator and fly ship!
+    KO: 함선 최고의 의자다. 플로란은 이 의자에서 내비게이터로 함선을 날릴 슈 있다!
+  /objects/ship/angelcaptainschair/angelcaptainschair.object.patch /apexDescription
+    EN: Ahh... Sweet freedom. I can use the ship's navigator from this chair.
+    KO: 아... 달콤한 자유. 이 의자에서 함선의 내비게이터를 쓸 수 있어.
+  /objects/ship/apexcaptainschair/apexcaptainschair.object.patch /apexDescription
+    EN: 
+    KO: 아아... 자유는 달콤하다. 이 의자에서 함선의 내비게이터를 사용할 수 있다.
+
+===== '태양 수호자' (6) =====
+  /codex/arcana_codex_boss/arcana_codex_solarGuardian.codex.patch /title
+    EN: Solar Guardian
+    KO: 태양 수호자
+  /interface/scripted/arcana_books/bosses.config.patch /bosses/7/name
+    EN: Solar Guardian
+    KO: 태양 수호자
+  /interface/scripted/mwhaddon_challenge/bossChallenge/solarGuardian/config.config.patch /gui/goalDescription/value
+    EN: Defeat the Solar Guardian. | ^orange;Threat Level: 8
+    KO: 태양 수호자 처치. | ^orange;위협 등급: 8
+  /items/BOSS_DROPS/gic_armoredprotector_bossdrop.activeitem.patch /description
+    EN: 
+    KO: ^orange;처치한 보스의 아이템 획득에 사용: | - 강습 초전도체 | - 태양 수호자 권총
+  /monsters/boss/arcana_boss_solarGuardian/arcana_boss_solarGuardian.monstertype.patch /shortdescription
+    EN: Solar Guardian
+    KO: 태양 수호자
+  /quests/NAZRIN/gic_nazrin_planetencounter_protected_solguardianquest.questtemplate.patch /title
+    EN: 
+    KO: ^#CC7970;나즈린: 태양 수호자
+
+===== '솔라 가디언' (6) =====
+  /codex/arcana_codex_boss/arcana_codex_solarGuardian.codex.patch /description
+    EN: A short entry about the Solar Guardian.
+    KO: 솔라 가디언에 관한 짧은 기록.
+  /codex/arcana_codex_boss/arcana_codex_solarGuardian.codex.patch /contentPages/0
+    EN: A construct that re-manifested itself in the Solar Corridors, the Solar Guardian harnesses corridor's energy to cast out fiery attacks against any intruders. Its body is 
+    KO: 솔라 코리도어에서 다시 나타난 구조물인 솔라 가디언은 코리도어의 에너지를 이용해 침입자에게 화염 공격을 퍼붓습니다. 몸체는 볼트 가디언과 비슷하게 만들어져 있어, 고대인의 기계로 추정됩니다.
+  /interface/scripted/mwhaddon_challenge/bossChallenge/solarGuardian/config.config.patch /gui/missionTitleDescription/value
+    EN: Adversary Evocation: the Solar Guardian
+    KO: 적수 소환: 솔라 가디언
+  /items/generic/mwhaddon_codexItem/mwhaddon_codexItem_solarGuardian.item.patch /description
+    EN: A short entry about the Solar Guardian. Its text is yet to reveal.
+    KO: 솔라 가디언에 관한 짧은 기록. 그 내용은 아직 밝혀지지 않았다.
+  /items/generic/mwhaddon_codexItem/mwhaddon_codexItem_solarGuardian.item.patch /shortdescription
+    EN: The Solar Guardian
+    KO: 솔라 가디언
+  /quests/mwhaddon_pOR_entry/mwhaddon_pOR_entry_solarGuardian.questtemplate.patch /title
+    EN: ^orange;Recollection: the Solar Guardian^reset;
+    KO: ^orange;회상: 솔라 가디언^reset;
+
+===== '수확자' (9) =====
+  /codex/arcana_codex_boss/arcana_codex_terminusReaper.codex.patch /title
+    EN: The Harvester
+    KO: 수확자
+  /codex/arcana_codex_boss/arcana_codex_terminusReaper.codex.patch /contentPages/0
+    EN: A small fragment of an ancient being that which old scriptures have described as the Reaper of Stars. When a star falls, the Harvester will emerge to return its eons of m
+    KO: 고대 경전에서 '별의 수확자'라 묘사된 태고의 존재가 남긴 작은 조각이다. 별이 스러질 때, 하베스터가 나타나 그 수억 년의 기억을 우주의 품으로 되돌려 보낸다.
+  /interface/scripted/arcana_books/bosses.config.patch /bosses/8/name
+    EN: The Harvester
+    KO: 수확자
+  /interface/scripted/mwhaddon_challenge/bossChallenge/reaper/config.config.patch /gui/missionTitleDescription/value
+    EN: Adversary Evocation: the Harvester
+    KO: 적수 소환: 수확자
+  /interface/scripted/mwhaddon_challenge/bossChallenge/reaper/config.config.patch /gui/goalDescription/value
+    EN: Defeat the Harvester. | ^red;Threat Level: 9
+    KO: 수확자 처치. | ^red;위협 등급: 9
+  /items/active/weapons/ancient/ancientrocketlauncher/ancientrocketlauncher.activeitem.patch /shortdescription
+    EN: 
+    KO: ^magenta;수확자^reset;
+  /monsters/boss/arcana_boss_terminusReaper/arcana_boss_terminusReaper.monstertype.patch /shortdescription
+    EN: The Harvester
+    KO: 수확자
+  /monsters/boss/arcana_boss_terminusReaper/arcana_boss_terminusReaperFinal.monstertype.patch /shortdescription
+    EN: The Harvester, Reaper of Stars
+    KO: 하베스터, 별들의 수확자
+  /objects/mwhaddon/challenge/bossStatue/reaper/mwhaddon_bossStatue_reaper.object.patch /shortdescription
+    EN: Challenge Statue - The Harvester
+    KO: 도전 석상 - 수확자
+
+===== '하베스터' (12) =====
+  /codex/arcana_codex_boss/arcana_codex_terminusReaper.codex.patch /description
+    EN: A short entry about the Harvester.
+    KO: 하베스터에 관한 짧은 기록.
+  /codex/arcana_codex_boss/arcana_codex_terminusReaper.codex.patch /contentPages/0
+    EN: A small fragment of an ancient being that which old scriptures have described as the Reaper of Stars. When a star falls, the Harvester will emerge to return its eons of m
+    KO: 고대 경전에서 '별의 수확자'라 묘사된 태고의 존재가 남긴 작은 조각이다. 별이 스러질 때, 하베스터가 나타나 그 수억 년의 기억을 우주의 품으로 되돌려 보낸다.
+  /items/active/unsorted/HarvesterBeam/1/HarvesterBeam.activeitem.patch /shortdescription
+    EN: Harvester Beamgun
+    KO: 하베스터 빔건
+  /items/active/unsorted/HarvesterBeam/1/HarvesterBeam.activeitem.patch /shortdescription
+    EN: 
+    KO: 하베스터 빔건
+  /items/active/unsorted/HarvesterBeam/2/HarvesterBeam2.activeitem.patch /shortdescription
+    EN: Harvester Beamgun II
+    KO: 하베스터 빔건 II
+  /items/active/unsorted/HarvesterBeam/2/HarvesterBeam2.activeitem.patch /shortdescription
+    EN: 
+    KO: 하베스터 빔건 II
+  /items/active/unsorted/HarvesterBeam/3/HarvesterBeam3.activeitem.patch /shortdescription
+    EN: Harvester Beamgun III
+    KO: 하베스터 빔건 III
+  /items/active/unsorted/HarvesterBeam/3/HarvesterBeam3.activeitem.patch /shortdescription
+    EN: 
+    KO: 하베스터 빔건 III
+  /monsters/boss/arcana_boss_terminusReaper/arcana_boss_terminusReaperFinal.monstertype.patch /shortdescription
+    EN: The Harvester, Reaper of Stars
+    KO: 하베스터, 별들의 수확자
+  /objects/kheAA/kheAA_autoBeamer/fu_harvestTurret.object.patch /shortdescription
+    EN: 
+    KO: 하베스터 터렛 v1
+
+===== '파라데아' (38) =====
+  /codex/alta/ct_faradea.codex.patch /longdescription
+    EN: This poster advertises a popular fighting tournament held on Faradea, a well-known hub for mercenaries and adventurers.
+    KO: 이 포스터는 용병과 모험가의 유명한 허브인 파라데아에서 열리는 인기 격투 대회를 광고한다.
+  /codex/alta/ct_faradea.codex.patch /contentPages/0
+    EN: 
+    KO: 이 근방 최고의 파라데아 레전드들과 맞설 용기가 있는가? | 이번 시즌의 레전드 난투전 - 대담한 별들에 참가하라! |  | 이번 시즌에는 각지에서 모인 ^#b0e0fc;알타^reset; 용병들이 서로 맞붙어 새로운 ^#ffe364;파라데아 전설^reset;를 가리는 연속 전투에 참가할 수 있다. |  | 다른 ^#b0e
+  /codex/alta/ct_my_enternia_guide.codex.patch /contentPages/7
+    EN: ^#ffe364;Faradea^reset; | A freedom-loving faction of mercenaries, rarely found in the wild. Unlike most altas, faradea mercs' lifestyle revolves around roaming the planet,
+    KO: ^#ffe364;파라데아^reset; | 자유를 사랑하는 용병 파벌로, 야생에서는 드물게 발견된다. 대부분의 알타와 달리, 파라데아 용병의 생활은 행성을 떠돌며 보물을 찾아 헤매는 것을 중심으로 돌아간다. |  | ^#6f6c66;아스테라^reset; | 스타더스트 에바 하늘 너머의 드문 소행성들로, 희귀하면서도 강력
+  /dialog/alta.config.patch /converse/alta/generic/14
+    EN: As a big Faradea fan, I really wish I could one day join them and show my worth...
+    KO: 파라데아의 열렬한 팬으로서, 언젠가 꼭 그들에게 합류해 내 가치를 증명하고 싶어...
+  /dialog/alta.config.patch /hail/alta/alta/5
+    EN: Sis, I hope you're not a Faradea merc? If you are, please deposit all your energy tools here.
+    KO: 언니, 혹시 파라데아 용병은 아니지? 맞다면, 여기 에너지 도구를 전부 맡겨줘.
+  /dialog/alta.config.patch /faradea/alta/alta/0
+    EN: Na Faradea, sis!
+    KO: 나 파라데아, 언니!
+  /items/active/alta/loot/biome/ct_faradea_loot.activeitem.patch /shortdescription
+    EN: Faradea Loot Crate
+    KO: 파라데아 전리품 상자
+  /items/active/alta/loot/biome/ct_faradea_loot.activeitem.patch /description
+    EN: Contains random loot from ^#ffe364;Faradea^reset; pods.
+    KO: ^#ffe364;파라데아^reset; 포드의 무작위 전리품이 들어 있습니다.
+  /items/active/alta/loot/biome/ct_faradea_loot.activeitem.patch /alkey
+    EN: Faradea Pad
+    KO: 파라데아 패드
+  /items/active/alta/scanner/items.config.patch /database/bossdreadwing/longdescription
+    EN: Alta bestiarium entry on Dreadwing the Penguin. While powerful and menacing, the dread threat passed altas harmlessly. Penguin mercs are like tiny cute faradea mercs! Our
+    KO: 펭귄 드레드윙에 대한 알타 동물도감 항목. 강력하고 위협적이지만, 두려운 위협은 알타들을 해치지 않고 지나갔다. 펭귄 용병들은 작고 귀여운 파라데아 용병들 같다! 우리 이종생물학자들은 귀여운 일반 펭귄과 위험한 용병 펭귄의 차이를 기록한다.
+
+===== '파라디아' (1) =====
+  /codex/alta/ct_alta_new_year.codex.patch /contentPages/5
+    EN: ^#20f080;Words from the Heart^reset; |  | My dearest sisters, |  | This past year brought challenges and triumphs. From ^#f02020;EDS^reset; protecting borders, to ^#ffe364;Farade
+    KO: ^#20f080;마음에서 우러난 말^reset; |  | 가장 사랑하는 자매들에게, |  | 지난 한 해는 도전과 승리로 가득했다. 국경을 지키는 ^#f02020;EDS^reset;부터, 변경을 탐험하는 ^#ffe364;파라디아^reset;, 지식을 추구하는 모든 연구자까지 - 너희 모두가 우리의 공동 이야기에 기여했
+
+===== '별꽃 기사단' (1) =====
+  /codex/alta/ct_orchid.codex.patch /title
+    EN: Little Star and The Starflower Order
+    KO: 작은 별과 별꽃 기사단
+
+===== '스타플라워 수도회' (1) =====
+  /codex/alta/ct_orchid.codex.patch /contentPages/3
+    EN: When there were as many as twelve star-flowers, they got together and created their own small corner, a small flower bed for their flower friends - and decided to make th
+    KO: 별꽃이 열두 송이나 되었을 때, 그들은 모여서 자신들만의 작은 공간, 꽃 친구들을 위한 작은 꽃밭을 만들었다 - 그리고 난초를 그 중심으로 삼기로 했다. | 그녀는 그것이 얼마나 옳은 선택일지 몰랐지만, 모두가 강하게 원했고 그녀는 동의했다. 친구들의 이 모임은 스타플라워 수도회라 불렸다. |  | 그 안의 각 별
+
+===== '프라이토르' (1) =====
+  /codex/apex/atprk_apexarea48entry2.codex.patch /contentPages/0
+    EN: ^yellow;PROJECT PRAETOR^white; |  | Goal: Find a viable way to reverse-engineer discovered technology samples for military application. |  | Status: Ongoing. |  | Head Researchers: E
+    KO: ^yellow;프로젝트 프라이토르^white; |  | 목표: 발견된 기술 샘플을 군사적 적용을 위해 역설계할 실행 가능한 방법을 찾는다. |  | 상태: 진행 중. |  | 수석 연구원: 에두아르 가브, 이잘리카 크라다로바, 라이사나 파블레니나. |  | 실험 기록: ^red;경고. 무단 접근. 문서 차단됨.^white;
+
+===== '프라이터' (5) =====
+  /codex/apex/atprk_apexarea48entry2.codex.patch /title
+    EN: Project Praetor
+    KO: 프로젝트 프라이터
+  /npcs/modcontributors/armok_starforge.npctype.patch /scriptConfig/dialog/converse/default/default/42
+    EN: 
+    KO: ^yellow;프라이터^reset;에 대한 소문 들어봤어? 문턴트가 들끓던 채굴 시설을 혼자서 소탕했다더군.
+  /objects/atprk_apexarea48/atprk_apextestgun/atprk_apextestgun.object.patch /shortdescription
+    EN: Praetor Cannon
+    KO: 프라이터 캐논
+  /objects/atprk_apexarea48/atprk_apextestgun/atprk_apextestgunfixed.object.patch /shortdescription
+    EN: Praetor Cannon
+    KO: 프라이터 캐논
+  /quests/atprk_relicseekerhq/atprk_relicsearchquest2.questtemplate.patch /text
+    EN: 
+    KO: 첫 번째 유물을 얻었으니, 이제 넘어가자. 소문에 따르면 ^orange;구역 48^white;에서 일하는 미니크녹 과학자들이 크라코탄 기술을 기반으로 ^green;프라이터 캐논^white;을 만들었다고 한다. 내 가장 확실한 추측으로는, ^#ff00ff;외계 행성^white;에서 그걸 찾아야 할 것 같다
+
+===== '루인드' (240) =====
+  /codex/angel/angellore16.codex.patch /contentPages/3
+    EN: ^green;Finally, when the Ruin itself was conquered^reset;, Archangel Xequeyzriel was going to allow the Ruin-Killer into the Realm, until we heard news of the ^red;Ruined
+    KO: ^green;마침내 루인이 정복됐을 때^reset;, 대천사 세퀘이즈리엘은 루인킬러를 영역에 들이려 했다. 그러다 ^red;루인드가 중요한 에이펙스 실험 시설을 점거했다^reset;는 소식을 들었다. |  | 대천사 세퀘이즈리엘은 루인킬러의 신앙과 선함을 다시 시험할 완벽한 생각을 떠올렸다.
+  /codex/angel/angellore17.codex.patch /contentPages/2
+    EN: ^green;All of us are thankful for creating this Realm for us^reset;---this safe, secure home away from the Ruined and the Ruin itself. |  | Though, we pray for our fellow bro
+    KO: ^green;우리 모두는 이 영역을 만들어 준 것에 감사한다^reset;---루인드와 루인으로부터 안전하고 지켜지는 고향. |  | 하지만 이 영역 밖에 있는 형제자매들을 위해 기도한다. |  | ^yellow;그들에게 평화가 깃들기를^reset;...
+  /codex/angel/angellore18.codex.patch /contentPages/2
+    EN: ^green;I learned how to create my own Realm, from the Maker Itself^reset;.. It was such an honor. If only I knew the burden I would have to bear.. |  | But, no. ^orange;I nev
+    KO: ^green;나는 창조주 본인에게서 나만의 영역을 만드는 법을 배웠다^reset;.. 정말 큰 영광이었다. 내가 짊어지게 될 짐을 미리 알았더라면 좋았을 텐데.. |  | 하지만 아니다. ^orange;한 번도 후회한 적 없다^reset;. 나는 이 천사들을 수천 년간 알아왔고, 이곳은 특별한 곳이다. 언젠가는
+  /codex/angel/angellore19.codex.patch /contentPages/0
+    EN: Angels outside of this Realm probably do not remember this, but the ^yellow;color^reset; of Angel wings matter. |  | ^green;The color defines our Holy Power, just as the shap
+    KO: 이 영역 바깥의 천사들은 아마 이걸 기억하지 못하겠지만, 천사 날개의 ^yellow;색^reset;은 중요하다. |  | ^green;색은 형태 자체와 마찬가지로 우리의 신성한 힘을 결정한다^reset;. 당신이 천사든 아니든, 상대가 무엇인지 아는 것은 생존에 필수적이다. ^orange;특히 루인드를 상대할 
+  /codex/angel/angellore20.codex.patch /contentPages/0
+    EN: We are the ^green;Angel Rebels^reset;, a part of the ^green;Angelic Rebellion^reset;. |  | No, we are not fighting against our own kind..at least, ^green;not physically^reset
+    KO: 우리는 ^green;천사 반란군^reset;, ^green;천사 반란군^reset;의 일부다. |  | 아니, 우리는 우리 종족과 싸우는 게 아니야..적어도 ^green;물리적으로는 말이지^reset;. 우리는 기술을 ^red;반드시^reset; 거부해야 한다는 생각에 ^red;맞서 싸운다^reset;. 새 천
+  /codex/angel/angellore20.codex.patch /contentPages/1
+    EN: closer^reset; to stopping the ^orange;growing numbers^reset; of the Ruined. |  | ^orange;No matter^reset; what our fellow Angels think of us.. We will ^green;stand and unite^
+    KO: 루인드의 ^orange;증가하는 수^reset;를 막는 데 더 가까워졌다^reset;. |  | ^orange;동료 천사들이 우리를 어떻게 생각하든^reset;.. 우리는 필멸자들과 ^green;함께 서서 연합해^reset; 루인드와 싸울 것이다!! |  | ^yellow;만세^reset;!
+  /codex/angel/angellore22.codex.patch /contentPages/4
+    EN: ^green;This is how we respect the dead^reset;. | This same tradition applies to the ^red;Ruined^reset;, for even they were ^orange;once like us^reset;. | They deserve a prope
+    KO: ^green;이것이 우리가 죽은 자를 예우하는 방식이다^reset;. | 같은 전통은 ^red;루인드^reset;에게도 적용된다. 그들조차 ^orange;한때는 우리와 같았기^reset; 때문이다. | 그들도 정당하고 경건한 매장을 받을 자격이 있다. |  | 천사가 매장되면, 그들의 ^green;영원한 안식처^res
+  /codex/angel/angellore23.codex.patch /description
+    EN: A self-help book on how to prevent becoming one of the Ruined.
+    KO: 루인드 중 하나가 되지 않는 법에 관한 자기계발서.
+  /codex/angel/angellore23.codex.patch /contentPages/0
+    EN: As Angels, we have to worry about the ^orange;loss of our ^yellow;Holy Power^reset;, along with the threat of ^orange;possibly becoming like the ^red;Ruined^reset;. |  | In t
+    KO: 천사인 우리는 ^orange;우리의 ^yellow;신성 힘^reset;을 잃는 것과, ^orange;자칫 ^red;루인드^reset;처럼 될 수도 있다는 위협을 함께 걱정해야 한다. |  | 이 유용한 자기계발서에서, 우리 여러 천사들은 함께 모여 ^green;루인드가 되지 않도록 스스로를 지키는 가장 좋은 방
+  /codex/angel/angellore23.codex.patch /contentPages/1
+    EN: ^cyan;1. Remain Faithful^reset; |  | We believe that a ^green;strong faith^reset; can help an Angel ^green;protect their Holy Power^reset;. Having a strong bond with the ^yel
+    KO: ^cyan;1. 신앙심을 유지하라^reset; |  | 우리는 ^green;강한 신앙^reset;이 천사가 ^green;신성력을 지키는^reset; 데 도움이 된다고 믿는다. ^yellow;컬티베이터^reset;와 강한 유대를 맺고 ^orange;최소 일주일에 한 번 기도하는 것^reset;을 권한다. |  | ^cy
+
+===== '루인' (451) =====
+  /codex/angel/angellore.codex.patch /contentPages/2
+    EN: Oh woe, and ^orange;so they broke down^reset;.. Many Angels started wandering in space, looking for a new "commander" to work under. Some Angels became corrupted by the R
+    KO: 오 슬프도다, 그렇게 ^orange;그들은 무너졌다^reset;.. 많은 천사들이 새로운 '사령관'을 찾아 섬기고자 우주를 떠돌기 시작했다. 일부 천사는 루인에 의해 타락했고, 일부 천사는 ^green;정착하여^reset; 행성에서 ^green;평화로운 삶^reset;을 살았다. |  | 천사가 된다는 것은 더
+  /codex/angel/angellore.codex.patch /contentPages/3
+    EN: 
+    KO: 하지만 아직도 ^green;컬티베이터의 강령^reset;을 분명히 기억하고 ^orange;엄격히^reset; 따르는 천사 집단이 있다. 그들은 우주를 순찰하며 우리 종족들을 해악과 루인으로부터 지키려고 최선을 다한다.
+  /codex/angel/angellore14.codex.patch /contentPages/0
+    EN: The Ruin will be pleased to know we found this Apex testing facility and took it rather..^red;forcefully^reset;..from its original owners. |  | With all this..^orange;ugh, di
+    KO: 루인은 우리가 이 에이펙스 시험 시설을 찾아내, 원래 소유주에게서..^red;다소 강압적으로^reset;..빼앗았다는 걸 알면 기뻐할 것이다. |  | 이 모든..^orange;윽, 역겨운 기술^reset;...로, 어쩌면 우리는 ^orange;천사의 피를 더러운 필멸자들과 결합^reset;할 방법을 찾아, 루
+  /codex/angel/angellore15.codex.patch /contentPages/0
+    EN: Someone needs to remember to go to the main Leader and tell them that we saw a wandering Angel outside of this facility.. I think it may be one of those "regular" Angel h
+    KO: 누군가는 대표님께 가서 이 시설 밖에서 방황하는 천사를 봤다고 알려야 해.. 아마 그 '평범한' 천사 이교도 중 하나일 거야. |  | 우린 절대 발각되면 안 돼! ^red;루인의 이름으로!!^reset;
+  /codex/angel/angellore16.codex.patch /title
+    EN: The Ruin-Killer
+    KO: 루인킬러
+  /codex/angel/angellore16.codex.patch /description
+    EN: The history of the Ruin-Killer.
+    KO: 루인킬러의 역사.
+  /codex/angel/angellore16.codex.patch /contentPages/0
+    EN: We found out about the ^yellow;Ruin-Killer^reset; first when Archangel Xequeyzriel told us about a ^green;particular person^reset; helping ^orange;Esther in the Outpost^r
+    KO: 우리가 ^yellow;루인킬러^reset;에 대해 처음 알게 된 건, 대천사 세퀘이즈리엘이 ^green;특정 인물^reset;이 ^orange;전초기지의 에스더를 돕고 있다^reset;고 알려줬을 때였다. 거기서 잠입하도록 보낸 천사가 누군가가 방주 안으로 달려 들어가는 걸 봤다---방주 속으로. |  | 대천
+  /codex/angel/angellore16.codex.patch /contentPages/1
+    EN: Archangel Xequeyzriel always had a feeling someone was ^green;destined to save the universe^reset; ever since the Cultivator sacrificed Itself. We did not know who or wha
+    KO: 대천사 세퀘이즈리엘은 컬티베이터가 스스로를 희생한 이래로, 언젠가 누군가가 ^green;우주를 구할 운명을 타고났다^reset;는 느낌을 항상 받아왔다. 그것이 누구일지, 무엇일지는 알 수 없었다.. |  | 하지만 루인킬러는 ^yellow;우리가 상상했던 그대로^reset;였다! 강인하고, 굳건하고, 흔들림 
+  /codex/angel/angellore16.codex.patch /contentPages/2
+    EN: ^green;We watched as the Ruin-Killer developed over time^reset;. We asked Archangel Xequeyzriel why he did not want them to enter this Realm. If they were so trustworthy,
+    KO: ^green;우리는 루인킬러가 시간이 지나며 성장하는 것을 지켜봤다^reset;. 대천사 세퀘이즈리엘에게 왜 그들을 이 영역에 들이고 싶지 않은지 물었다. 그렇게 믿을 만하다면, 무엇을 기다리는 걸까? |  | ..^yellow;그는 우리에게 답하지 않았다^reset;.
+  /codex/angel/angellore16.codex.patch /contentPages/3
+    EN: ^green;Finally, when the Ruin itself was conquered^reset;, Archangel Xequeyzriel was going to allow the Ruin-Killer into the Realm, until we heard news of the ^red;Ruined
+    KO: ^green;마침내 루인이 정복됐을 때^reset;, 대천사 세퀘이즈리엘은 루인킬러를 영역에 들이려 했다. 그러다 ^red;루인드가 중요한 에이펙스 실험 시설을 점거했다^reset;는 소식을 들었다. |  | 대천사 세퀘이즈리엘은 루인킬러의 신앙과 선함을 다시 시험할 완벽한 생각을 떠올렸다.
+
+===== '모글' (53) =====
+  /codex/moogle/moogleshipfurniture.codex.patch /description
+    EN: A book of plans detailing how to craft various Moogle ship furniture.
+    KO: 여러 가지 모글 함선 가구를 만드는 방법을 자세히 적은 설계서.
+  /codex/moogle/moogleshipfurniture.codex.patch /contentPages/0
+    EN: This book details the processes and plans for creating a variety of Moogle ship furniture. 
+    KO: 이 책은 다양한 모글 함선 가구를 만드는 과정과 설계를 상세히 설명한다.
+  /dialog/moogle.config.patch /attack/default/default/2
+    EN: I'm bristling with moogle moxxy, kupo!
+    KO: 모글 패기 충만쿠포!
+  /monsters/augmented/knightfall_augmentedsmoglin/knightfall_augmentedsmoglin.monstertype.patch /shortdescription
+    EN: Augmented Smoglin
+    KO: 증강 스모글린
+  /monsters/augmented/knightfall_augmentedsmoglin/knightfall_augmentedsmoglin.monstertype.patch /description
+    EN: An exotic breed of the Smoglin equipped with Knightfall tech and has the ability to breath blue flames.
+    KO: 나이트폴 기술을 장착한 스모글린의 이국적인 품종으로, 푸른 불꽃을 내뿜을 수 있다.
+  /monsters/walkers/smoglin/poisonsmoglin.monstertype.patch /shortdescription
+    EN: 
+    KO: 독성 스모글린
+  /monsters/walkers/smoglin/smoglin.monstertype.patch /shortdescription
+    EN: 
+    KO: 스모글린
+  /monsters/walkers/smoglin_solar/smoglin_solar.monstertype.patch /shortdescription
+    EN: Solar Smoglin
+    KO: 솔라 스모글린
+  /monsters/walkers/smoglin_solar/smoglin_solar.monstertype.patch /description
+    EN: A solarized smoglin, breathes solar flames.
+    KO: 태양화된 스모글린. 태양 화염을 내뿜는다.
+  /npcs/captainseonha.npctype.patch /scriptConfig/portraitTalk/conversations/startChocoboUnlock00/text/3
+    EN: Have you ever met a ^orange;Moogle^reset; in your travels?
+    KO: 여행 중에 ^orange;모글^reset;을 만나본 적 있어?
+
+===== '모그리' (3) =====
+  /codex/moogle/mooglediary1.codex.patch /title
+    EN: Moogle's Log
+    KO: 모그리의 기록
+  /codex/moogle/moogleshipfurniture.codex.patch /title
+    EN: Moogle Ship Furniture
+    KO: 모그리 함선 가구
+  /objects/viera/moogleplush/moogleplush.object.patch /vieraDescription
+    EN: An earlier species of the mogry that we now know.
+    KO: 지금 우리가 아는 모그리의 이전 종이구나.
+
+===== '엑소시안' (76) =====
+  /codex/arcana_codex_exousia/arcana_codex_exousia_1.codex.patch /contentPages/0
+    EN: Exousia is known for being an enormous authoritarian empire under the rule of the Lionheart Emperor, Zelheim. The Empire is divided into four major powers, the Sovereign,
+    KO: 엑수시아는 라이온하트 황제 젤하임이 다스리는 거대한 권위주의 제국으로 알려져 있다. 제국은 소버린, 제국군, 제국 경찰, 뒤나미스 교회의 4대 세력으로 나뉜다. 제국이 대부분의 다른 세력과 평화를 유지하고 있지만, 많은 이들은 제국의 막강한 군사력을 두려워해 엑소시안과 거래할 때 여전히 더욱 조심한다.
+  /codex/arcana_codex_exousia/arcana_codex_exousia_3.codex.patch /contentPages/0
+    EN: Order is one of the foundational pillars of the ^#c3483a;Exousian Empire^reset;, and it is the duty of the Imperial Police to enforce it by any means necessary, even at t
+    KO: 질서는 ^#c3483a;엑소시안 제국^reset;의 근본 기둥 중 하나이며, 어떤 수단을 써서라도 그것을 강제하는 것이 제국 경찰의 임무다, 설령 보호받아야 할 이들의 자유를 희생하는 한이 있더라도. 특수 제작된 비살상 플라즈마 무기를 든 그들은 독특한 육중한 백색 갑옷을 입은 채 엑소시안 도시를 끊임없
+  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_2.codex.patch /contentPages/7
+    EN: 
+    KO: ^#D82C4C;애니머스^white; |  | ^#D82C4C;애니머스^white;는 불쾌한 영기의 행성으로, 진홍빛 나무들 사이에 푸른 수정 줄기가 드물게 묻혀 있다. | 이곳의 광석은 ^#C31C2C;애니마 파편^white;으로, 이 역시 ^#D82C4C;애니머스^white;표면에서 울부짖는 ^cyan;거대한 
+  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_5.codex.patch /contentPages/3
+    EN: 
+    KO: ^#c3483a;버밀리온^white; |  | ^#c3483a;버밀리온^white;은 엑소시안이라는 독재 체제가 지배하고 있다. 이 행성에는 특별히 ^orange;버밀리온 에센스^white;가 주입되어 있다. | 진홍빛 숲 아래에는 세 종류의 광석이 묻혀 있다: ^#e06d60;루페스사이트^white;, ^#525
+  /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_5.codex.patch /contentPages/1
+    EN: Exousians... Protector... |      | ^red;ALL OF YOU, SHALL PAY THE PRICE, BEFORE EXECRATIONS CRUSH YOUR BELOVED WORLD.^reset;
+    KO: 엑소시안이여... 수호자여... |  | ^red;너희 모두는 대가를 치를 것이다, 저주가 너희의 사랑하는 세계를 짓밟기 전에.^reset;
+  /items/MATERIALS/exousia_tile1.matitem.patch /shortdescription
+    EN: Exousian White Tile
+    KO: 엑소시안 흰색 타일
+  /items/MATERIALS/exousia_tile2.matitem.patch /shortdescription
+    EN: Exousian Flooring W^#a0a0a0;RB^reset;
+    KO: 엑소시안 바닥재 W^#a0a0a0;RB^reset;
+  /items/MATERIALS/exousia_tile23.matitem.patch /shortdescription
+    EN: Exousian Red Glass
+    KO: 엑소시안 빨간 유리
+  /items/MATERIALS/exousia_tile24.matitem.patch /shortdescription
+    EN: Exousian Gray Glass
+    KO: 엑소시안 회색 유리
+  /items/MATERIALS/exousia_tile3.matitem.patch /shortdescription
+    EN: Exousian Flooring W^#c3483a;R^reset;^#a0a0a0;B^reset;
+    KO: 엑소시안 바닥재 W^#c3483a;R^reset;^#a0a0a0;B^reset;
+
+===== 'Tea-Loving' (3) =====
+  /codex/other/CCGthankyou.codex.patch /contentPages/5
+    EN: 
+    KO: ^orange;Tea-Loving Lad^white;: | - 본 드래곤 두개골 | - 대담 세트 | - 데스페라도 모자 | - 피어리스 칼라/모자 | - 비행 불능 세트 | - 호첸플로츠 세트 | - 간섭자 세트 | - 큰 셔츠 | - 난폭 세트 | - 선원 세트 | - 바닷바람 세트 | - 밀수꾼 세트 | - 남녀공용 세트 | - 털모자
+  /codex/other/PBthanksdearcustomer.codex.patch /contentPages/7
+    EN: ^green;Tea-Loving Lad^white; | Made additional assets/tweaks to the provided assets, where needed, for both the initial release and the community events for Plushbound. |  | ^g
+    KO: ^green;Tea-Loving Lad^white; | Plushbound의 초기 릴리스와 커뮤니티 이벤트를 위해, 필요한 곳에 추가 에셋·수정을 제작했다. |  | ^green;Silver Sokolova^white; | 전초기지에 두 크레인 기계를 충돌 없이 배치하는 데 쓰이는 코드를 친절하게 만들어 주었고 추가 
+  /codex/other/PBthanksdearcustomer.codex.patch /contentPages/15
+    EN: 
+    KO: ^green;Tea-Loving Lad^white; | - - 첫 번째 기념 스티커 | - - 두 번째 기념 스티커 | - - 세 번째 기념 스티커 | - - 알파카 족장 인형 | - - 탄약 게 인형 | - - A.V.I.A.N. 스티커 | - - 밥 | - - 브루트 인형 | - - 전구 랩터 인형(원 컨셉: Pandiavolo) | 
+
+===== '차를 사랑' (2) =====
+  /codex/other/PBthanksdearcustomer.codex.patch /contentPages/43
+    EN: These have been made by ^green;Tea-Loving Lad^white; and requested by... |  | ^yellow;A Bunch of Spiders^white; | - Towering Chef Plushie | - Webby Plushie |  | ^yellow;Agent Kirin^w
+    KO: ^green;차를 사랑하는 청년^white;이 만들고 다음 분들이 의뢰함... |  | ^yellow;거미 무리^white; | - 우뚝 솟은 셰프 인형 | - 웨비 인형 |  | ^yellow;키린 요원^white; | - 스타셋 스티커 |  | ^yellow;아르목^white; | - 헤비 피스키퍼 인형 | - 가디언 스티커
+  /codex/other/PBthanksdearcustomer.codex.patch /contentPages/46
+    EN: That should be all! |  | I want to take up this extra page to sincerely thank everyone who helped make both the initial Plushbound as well as the community updates possible! 
+    KO: 이게 전부인 것 같다! |  | 이 여분의 페이지를 빌려 초기 플러시바운드는 물론 커뮤니티 업데이트도 가능하게 해준 모든 분들께 진심으로 감사드리고 싶습니다! 그리고 시간을 내어 플러시바운드를 플레이하고 이 코덱스를 읽어주신 당신께도 감사드립니다! |  | 이제 가서 원하는 걸 하며 좋은 하루 보내세요! |  | - 차를 사
+
+===== '전설 이상도 아니게' (1) =====
+  /codex/WOODLANDS/gico_prototype_journal/gico_prototype_journal.codex.patch /contentPages/5
+    EN: We knew humanity would one day surpass our kind and turn us into nothing more than legends.
+    KO: 우리는 인류가 언젠가 우리 종족을 뛰어넘어 우리를 전설 이상도 아니게 만들 것임을 알았다.
+
+===== '만일이 낫지 후회보다' (1) =====
+  /codex/WOODLANDS/gico_soldier_warning/gico_soldier_warning.codex.patch /contentPages/4
+    EN: Until then, make sure to keep these barricades up. Don't know if the thing can fit up here, but better safe than sorry.
+    KO: 그때까지 이 바리케이드를 잘 쳐 두도록. 그것이 여기까지 들어올 수 있을지는 모르겠지만, 만일이 낫지 후회보다.
+
+===== '현 임무 네 메모' (2) =====
+  /codex/aegi/aegiambassadornotes.codex.patch /description
+    EN: Your notes on your current assignment.
+    KO: 현 임무 네 메모.
+  /codex/trink/trinkambassadornotes.codex.patch /description
+    EN: Your notes on your current assignment.
+    KO: 현 임무 네 메모.
+
+===== '방어선으로,' (1) =====
+  /codex/alta/ct_alta_capital.codex.patch /contentPages/0
+    EN: The capital ^#b0e0fc;alta cities^reset; are massive metropolises, where a tall ^#b0e0fc;alta citadel^reset; serves as the administrative center. |  | The structure of such ci
+    KO: ^#b0e0fc;알타 수도들^reset;은 거대한 대도시로, 높이 솟은 ^#b0e0fc;알타 성채^reset;가 행정 중심지 역할을 한다. |  | 이러한 도시들의 구조는 대개 요새를 닮았으며, 대개 방어벽 형태의 여러 겹의 방어선으로, 도시를 대체로 팔각형 모양의 '고리'들로 나눈다.
+
+===== '미네랄, 반점' (1) =====
+  /codex/alta/ct_alta_botanics.codex.patch /contentPages/3
+    EN: Fertilizers |  | Mineral, speck and vitamin mixtures, that can saturate plants, causing them to prosper, sometimes changing or growing beyond their usual limits. | Fertilizers 
+    KO: 비료 |  | 식물을 흠뻑 적셔 번성하게 하고, 때로는 평소 한계를 넘어 변화하거나 자라나게 하는 미네랄, 반점, 비타민 혼합물이다. | 이런 이유로 비료는 흔히 식물의 강화제로 여겨진다.
+
+===== '요약된 기록 역사' (6) =====
+  /codex/aegi/aegihistory1.codex.patch /description
+    EN: The summarized recorded history of the Aeginian people.
+    KO: 에지니아 민족의 요약된 기록 역사.
+  /codex/aegi/aegihistory2.codex.patch /description
+    EN: The summarized recorded history of the Aeginian people.
+    KO: 에지니아 민족의 요약된 기록 역사.
+  /codex/aegi/aegihistory3.codex.patch /description
+    EN: The summarized recorded history of the Aeginian people.
+    KO: 에지니아 민족의 요약된 기록 역사.
+  /codex/aegi/aegihistory4.codex.patch /description
+    EN: The summarized recorded history of the Aeginian people.
+    KO: 에지니아 민족의 요약된 기록 역사.
+  /codex/aegi/aegihistory5.codex.patch /description
+    EN: The summarized recorded history of the Aeginian people.
+    KO: 에지니아 민족의 요약된 기록 역사.
+  /codex/aegi/aegihistory6.codex.patch /description
+    EN: The summarized recorded history of the Aeginian people.
+    KO: 에지니아 민족의 요약된 기록 역사.
+
+===== '반흔한' (1) =====
+  /codex/alta/ct_alta_food.codex.patch /contentPages/1
+    EN: Common alta recipes are relatively simple, yet just as everything here, a lot of them are reflections of altas and their culture. |  | The recipes that this ebook showcases a
+    KO: 일반적인 알타 요리법은 비교적 단순하지만, 이곳의 모든 것처럼 그중 다수는 알타와 그 문화의 반영입니다. |  | 이 전자책이 소개하는 요리법은 아이스크림과 알타에게 인기 있는 음료인 차 같은 반흔한 알타 디저트입니다. |  | 알타 차에는 수많은 요리법, 변형, 혼합법이 있으므로 이 책에는 가장 인기 있는 것만 담았
+
+===== '급수 용액' (2) =====
+  /codex/alta/ct_alta_hydroponics.codex.patch /contentPages/2
+    EN: Alta Lab Sprinkler | This watering solution is made specifically for experimental environments and has an additional level of isolation to it. Specifically, it can be used 
+    KO: 알타 연구소 스프링클러 | 이 급수 용액은 실험 환경에 특화되어 있으며 추가적인 격리 수준을 갖추고 있다. 구체적으로는, 수경재배 트레이와 에코 포드에서 사용할 수 있다.
+  /objects/fleshsprinkler/fleshsprinkler.object.patch /description
+    EN: A fleshy soil watering solution.
+    KO: 살덩이 흙에 뿌리는 급수 용액입니다.
+
+===== '골동품과 단지들' (2) =====
+  /codex/alta/ct_antorash.codex.patch /title
+    EN: Antorash Tour Guide
+    KO: 골동품과 단지들
+  /objects/arcana/vendor/gushenAntique/arcana_vendor_gushenAntique.object.patch /interactData/paneLayoutOverride/windowtitle/subtitle
+    EN:  Antiques & Pots
+    KO: 골동품과 단지들
+
+===== '네가 정말 자랑스럽고' (1) =====
+  /codex/alta/ct_elin.codex.patch /contentPages/1
+    EN: I'm very excited for you, my little, and I hope you're excited too. |  | With love, ^#76c7e4;Elin^reset;. «
+    KO: 우리 꼬마야, 네가 정말 자랑스럽고, 너도 그러길 바라. |  | 사랑을 담아, ^#76c7e4;엘린^reset;. «
+
+===== '천사 반란군' (6) =====
+  /codex/angel/angellore20.codex.patch /contentPages/0
+    EN: We are the ^green;Angel Rebels^reset;, a part of the ^green;Angelic Rebellion^reset;. |  | No, we are not fighting against our own kind..at least, ^green;not physically^reset
+    KO: 우리는 ^green;천사 반란군^reset;, ^green;천사 반란군^reset;의 일부다. |  | 아니, 우리는 우리 종족과 싸우는 게 아니야..적어도 ^green;물리적으로는 말이지^reset;. 우리는 기술을 ^red;반드시^reset; 거부해야 한다는 생각에 ^red;맞서 싸운다^reset;. 새 천
+  /npcs/outpost/visitors/angelvisitor2.npctype.patch /scriptConfig/dialog/converse/default/default/0
+    EN: Hey, Mortal. I'm gathering supplies for the Angelic Rebellion.
+    KO: 안녕, 필멸자여. 나는 천사 반란군을 위해 보급품을 모으고 있다.
+  /npcs/outpost/visitors/angelvisitor2.npctype.patch /scriptConfig/dialog/converse/default/default/1
+    EN: I'm a Rebel, just looking for supplies. "What's an Angel Rebel", you ask? Hahah, you'll have to find out for yourself, Mortal being!
+    KO: 난 반란군이야, 그냥 물자를 찾고 있어. "천사 반란군이 뭐냐"고? 하하, 필멸의 존재여, 그건 직접 알아내야지!
+  /npcs/outpost/visitors/angelvisitor2.npctype.patch /scriptConfig/dialog/converse/default/default/6
+    EN: Just buying some supplies for the Angelic Rebellion.
+    KO: 천사 반란군에 쓸 보급품을 좀 사는 중이야.
+  /npcs/outpost/visitors/angelvisitor2.npctype.patch /scriptConfig/dialog/converse/default/angel/0
+    EN: Oh, um, hey. I'm gathering supplies for the Angelic Rebellion. Please don't judge.
+    KO: 오, 음, 안녕. 천사 반란군을 위해 보급품을 모으고 있어. 판단하지 말아줘.
+  /npcs/outpost/visitors/angelvisitor2.npctype.patch /scriptConfig/dialog/converse/default/angel/6
+    EN: Just buying some supplies for the Angelic Rebellion.
+    KO: 천사 반란군에 쓸 보급품을 좀 사는 중이야.
+
+===== '천사이' (15) =====
+  /codex/angel/angellore21.codex.patch /contentPages/1
+    EN: In order for a ^green;new Angel to be created^reset;, ^yellow;two^reset; Angels with ^orange;opposite energy wavelengths^reset; must combine their power in a ^yellow;spec
+    KO: ^green;새로운 천사이 탄생^reset;하려면, ^orange;서로 반대되는 에너지 파장^reset;을 가진 ^yellow;둘^reset;의 천사이 천사 번식의 촉매 역할을 하는 ^yellow;특수한 의식^reset;에서 힘을 합쳐야 한다. | 이는 오직 ^green;평온하고 안전한 환경^reset;에서
+  /codex/angel/angellore9.codex.patch /contentPages/1
+    EN: What if there was a way to combine ^green;Angel blood^reset; and ^yellow;mortal blood^reset;? | ^orange;No^reset;, the mortal ^orange;wouldn't become Angelic^reset;. That's
+    KO: ^green;천사의 피^reset;와 ^yellow;필멸자의 피^reset;를 결합할 방법이 있다면 어떨까? | ^orange;아니^reset;, 필멸자가 ^orange;천사이 되진 않을 거야^reset;. 그건 한심해. 하지만..만약..그 필멸자가 ^red;강대한 힘의 존재^reset;가 된다면..? 그리
+  /items/MATERIALS/angelornateflooring.matitem.patch /description
+    EN: Bright and delightful flooring made by Angels.
+    KO: 천사이 만든 밝고 화사한 바닥재.
+  /npcs/angel mini-bosses/wanderingguard.npctype.patch /scriptConfig/dialog/converse/angel/angel/10
+    EN: My fellow Angel.. Do you also feel the most purposeful when exploring?
+    KO: 동료 천사이여.. 당신도 탐험할 때 가장 삶의 목적을 느끼나요?
+  /npcs/angel rebels/angelrebel3.npctype.patch /scriptConfig/dialog/converse/angel/angel/15
+    EN: Like our ship, fellow Angel? We've learned a lot from Mortals.
+    KO: 우리 함선 마음에 들어, 동료 천사이여? 우리는 필멸자들에게서 많은 것을 배웠다.
+  /npcs/angel rebels/angelrebel3.npctype.patch /scriptConfig/dialog/converse/angel/angel/17
+    EN: Never give up the fight, fellow Angel. Huzzah!
+    KO: 절대 싸움을 포기하지 마, 동료 천사이여. 만세!
+  /objects/angel/angelbookcase/angelbookcase.object.patch /hylotlDescription
+    EN: A spot to place books about Angels or other races.
+    KO: 천사이나 다른 종족에 대한 책을 놓는 자리다.
+  /objects/angel/angelstatue/angelstatue.object.patch /apexDescription
+    EN: A threatening tribal Angel with six wings.
+    KO: 위협적인 여섯 날개 부족 천사이다.
+  /objects/angel/angelstonemural1/angelstonemural1.object.patch /avianDescription
+    EN: There is some symbolism here in this stone mural. If I was an Angel I might know.
+    KO: 이 돌 벽화에는 어떤 상징이 담겨 있어. 내가 천사이었다면 그 의미를 알았을지도 모르겠네.
+  /objects/angel/angelstonemural2/angelstonemural2.object.patch /avianDescription
+    EN: There is some symbolism here in this stone mural. If I was an Angel I might know.
+    KO: 이 돌 벽화에는 어떤 상징이 담겨 있어. 내가 천사이었다면 그 의미를 알았을지도 모르겠네.
+
+===== '천사은' (6) =====
+  /codex/angel/angellore22.codex.patch /description
+    EN: What happens to an Angel after they die?
+    KO: 천사은 죽으면 어떻게 돼?
+  /npcs/angel misc/angelhostage.npctype.patch /scriptConfig/dialog/converse/default/default/5
+    EN: I thought Angels were supposed to protect us? What is going on here?
+    KO: 천사은 우릴 지켜야 하는 거 아니었어? 대체 무슨 일이야?
+  /npcs/angel village/angelvillageprisonguard.npctype.patch /scriptConfig/dialog/converse/angel/default/8
+    EN: The locked-up ones are certainly bad people.. But do Angels protect everyone no matter if they're good or bad? Hmm..
+    KO: 갇힌 자들은 분명 나쁜 사람들이야... 그래도 천사은 선악에 상관없이 모두를 보호하나? 음...
+  /npcs/angel village/angelvillageprisonguard.npctype.patch /scriptConfig/dialog/converse/angel/angel/8
+    EN: The locked-up ones are certainly bad people.. But must we, Angels, protect everyone no matter if they're good or bad? Hmm..
+    KO: 갇힌 자들은 분명 나쁜 사람들이야... 그래도 우리 천사은 선악에 상관없이 모두를 보호해야 하나? 음...
+  /objects/angel/angelcandle/angelcandle.object.patch /avianDescription
+    EN: A small candle like this would be perfect for sacrifices.. But Angels do not use them for that purpose.
+    KO: 이런 작은 양초는 제물용으로 완벽할 텐데.. 하지만 천사은 그런 용도로 쓰지 않아.
+  /objects/plushies/community2/edition14/uumieplush/PBuumieplush.object.patch /apexDescription
+    EN: A plush of an angel. Angels definitely ^red;do not^reset; exist. ^yellow;Definitely^reset;.
+    KO: 천사의 봉제 인형이다. 천사은 확실히 ^red;존재하지 않는다^reset;. ^yellow;확실히^reset;.
+
+===== '암흑의 시대가 두렵다' (1) =====
+  /codex/angel/angellore4.codex.patch /contentPages/2
+    EN: Upon studying them I ^orange;tried^reset; to find a way to cure them..^green;to bring them back to the light^reset;. No matter what I tried or said, ^red;nothing seemed t
+    KO: 그들을 연구하며 나는 그들을 치료할 방법을 ^orange;찾으려^reset; 했다.. ^green;빛으로 되돌리고 싶었다^reset;. 뭘 시도하든 뭘 말하든, ^red;아무것도 통하지 않는 듯했다^reset;. 그들은 같은 천사인 나에게도 여전히 검을 휘두른다! |  | 이것은 정말 암흑의 시대가 두렵다. | -
+
+===== '미니크녹의 발기' (1) =====
+  /codex/apex/minidef.codex.patch /contentPages/1
+    EN: While ultimately subsumed into the Miniknog's Lambda branch during their rise, according to what little references this organization has within Miniknog sources, the Mini
+    KO: 미니크녹의 발기 동안 람다 지부에 최종적으로 흡수되었지만, 미니크녹 자료 내의 이 조직에 대한 빈약한 참조에 따르면, 국방부는 더 큰 정부의 일부인 방위군 조직이었던 것으로 보인다. 미니크녹 요원들이 초기 발기 시간에 침투해 있었던 덕분에 미니크녹에 별 저항을 하지 못했을 것으로 추정된다.
+
+===== '스스로를 바라고' (1) =====
+  /codex/other/other/prod-delphatab.codex.patch /contentPages/1
+    EN: Thanks to one of our own, we tapped into a dimension where there are only ideas; ideas that we can use, tap into. To keep such a place open, they designed a machine to su
+    KO: 우리 중 한 명 덕분에, 우리는 오직 아이디어만 존재하는 차원에 접속했다; 우리가 쓸 수 있고, 접근할 수 있는 아이디어들. 그런 공간을 계속 열어두기 위해, 그들은 균열을 유지하는 기계를 설계했다. 그때부터, 우리는 우리 자신의 상상력을 이용해 스스로를 바라고 위협에 맞서 싸울 무기고를 만들어냈으며, 
+
+===== '다츠' (1) =====
+  /codex/alta/ct_alta_dart.codex.patch /contentPages/0
+    EN: Darts is a more or less of an imported board game designed to be played by an undefined number of players, limited by reason and size of the dart board.
+    KO: 다츠는 다소 외국에서 들여온 보드 게임으로, 다트판의 크기와 상식이 허용하는 한 정해지지 않은 수의 참가자가 즐길 수 있도록 만들어졌습니다.
+
+===== '다트' (79) =====
+  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_mission_8_1_safehouseepilogue.cinematic.patch /panels/2/text
+    EN: 
+    KO: 이제 끝났어요... |  | 감사합니다. 당신을 잘 모르지만, 함께 해냈잖아요? 야콥손이 나머지를 처리할 수 있을 거예요... 저도 이제 오래 쉬어야겠어요. |  | 이제 어딜 가야 할지, 뭘 해야 할지 궁금할 뿐이에요... 그냥 별 지도에 다트를 던져 행성에 맞을 때까지 해야 할까 봐요. 그럼 이만, 친구.
+  /codex/alta/ct_alta_dart.codex.patch /description
+    EN: A basic manual containing basic dart set scematics and instructions. (Unlocks basic dart recipes)
+    KO: 기본 다트 세트 설계도와 사용법이 담긴 기본 설명서. (기본 다트 레시피 해금)
+  /codex/alta/ct_alta_dart.codex.patch /altaDescription
+    EN: A small darts competition never hurt anyone~ Except for my belongings.
+    KO: 작은 다트 대회는 아무도 다치게 하지 않아~ 내 물건 빼고.
+  /codex/alta/ct_alta_dart.codex.patch /contentPages/0
+    EN: Darts is a more or less of an imported board game designed to be played by an undefined number of players, limited by reason and size of the dart board.
+    KO: 다츠는 다소 외국에서 들여온 보드 게임으로, 다트판의 크기와 상식이 허용하는 한 정해지지 않은 수의 참가자가 즐길 수 있도록 만들어졌습니다.
+  /codex/alta/ct_alta_dart_2.codex.patch /description
+    EN: An electronic book for adepts of darts arts. (Unlocks advanced dart recipes)
+    KO: 다트 달인을 위한 전자책이다. (고급 다트 레시피 해금)
+  /codex/alta/ct_alta_dart_2.codex.patch /longdescription
+    EN: This in-depth encyclopedia covers everything from darts history to various blueprints for aerodynamic darts and enhanced dart boards.
+    KO: 이 심층 백과사전은 다트의 역사부터 공기역학적 다트와 강화 다트판의 다양한 도면까지 모든 것을 다룬다.
+  /drinks/ww_novakidspice.consumable.patch /description
+    EN: Enjoy in moderation. Seriously. By Soldat.
+    KO: 적당히 즐기세요. 진심으로요. 솔다트 제공.
+  /ffs_weapons/ffs_2_sg/ffs_QRCType/ffs_QRCType.activeitem.patch /description
+    EN: ^#F08C14;Avalon Defense Fleet | ^#7c7c7c;1Tier : ADF Service | ^#7c7c7c;Aiming speed : ^white;0.1s | ^#7c7c7c;Equiping speed : ^green;2s | ^#7c7c7c;LMB=Fire : ^white;23×40mm | ^#7c
+    KO: ^#F08C14;아발론 방위 함대 | ^#7c7c7c;1티어 : ADF 제식 | ^#7c7c7c;조준 속도 : ^white;0.1s | ^#7c7c7c;장착 속도 : ^green;2s | ^#7c7c7c;LMB=사격 : ^white;23×40mm | ^#7c7c7c;RMB=^white; 근접전 : 45 피해 | ^#7c7c7
+  /ffs_weapons/ffs_5_mg/ffs_MGHailstorm/ffs_MGHailstorm.activeitem.patch /description
+    EN: ^#F08C14;Avalon Defense Fleet | ^#7c7c7c;1Tier : ADF Service | ^#7c7c7c;Aiming speed : ^white;0.1s | ^#7c7c7c;Equiping speed : ^green;2s | ^#7c7c7c;LMB=Fire : ^white;3×20mm | ^#7c7
+    KO: ^#F08C14;아발론 방위 함대 | ^#7c7c7c;1티어 : ADF 제식 | ^#7c7c7c;조준 속도 : ^white;0.1s | ^#7c7c7c;장착 속도 : ^green;2s | ^#7c7c7c;LMB=사격 : ^white;3×20mm | ^#7c7c7c;RMB=재장전 : ^green;5s | ^#7c7c7c;Aut
+  /interface/confirmation/sgarenateleportconfirmation.config.patch /sgarenaquesttoy/subtitle
+    EN: Dart Quest Arena
+    KO: 다트 퀘스트 아레나
+
+===== '물뿌리개' (23) =====
+  /codex/alta/ct_alta_farming.codex.patch /contentPages/2
+    EN: Farming |  | This includes basic tools like watering cans and tillers, which you'll be able to unlock by crafting new available recipes. | It also includes automatic water spri
+    KO: 농사 |  | 여기에는 물뿌리개와 경운기 같은 기본 도구가 포함되며, 새로 해금 가능한 레시피를 제작해 얻을 수 있다. | 또한 고급 알타포닉스 RI로 해금할 수 있는 자동 물뿌리개도 포함된다.
+  /items/active/alta/tools/water/altan_can/ct_altan_can.activeitem.patch /shortdescription
+    EN: Altan Watercan
+    KO: 알탄 물뿌리개
+  /items/active/alta/tools/water/altan_can/ct_altan_can.activeitem.patch /description
+    EN: Water your crops with this fashionable watering can.
+    KO: 이 세련된 물뿌리개로 작물에 물을 주세요.
+  /items/active/alta/tools/water/gyera_can/ct_gyera_can.activeitem.patch /shortdescription
+    EN: Gyera Watering Can
+    KO: 기예라 물뿌리개
+  /items/active/alta/tools/water/gyera_can/ct_gyera_can.activeitem.patch /description
+    EN: Water your crops with this fashionable watering can.
+    KO: 이 세련된 물뿌리개로 작물에 물을 주세요.
+  /items/active/alta/tools/water/watering_can/ct_alta_watering_can.activeitem.patch /shortdescription
+    EN: Alta Watering Can
+    KO: 알타 물뿌리개
+  /items/active/unsorted/bleuark_wateringcan_1/bleuark_wateringcan_1.activeitem.patch /description
+    EN: Water your crops with this fashionable watering can.
+    KO: 이 세련된 물뿌리개로 작물에 물을 주세요.
+  /items/active/unsorted/bleuark_wateringcan_1/bleuark_wateringcan_1.activeitem.patch /shortdescription
+    EN: Watering Can
+    KO: 물뿌리개
+  /items/active/unsorted/wateringcan/alliancewateringcan.activeitem.patch /description
+    EN: A basic watering can, useful for tending to your crops manually.
+    KO: 작물에 직접 물을 줄 때 유용한 기본 물뿌리개.
+  /items/active/unsorted/wateringcan/alliancewateringcan.activeitem.patch /shortdescription
+    EN: Allosteel Watering Can
+    KO: 알로스틸 물뿌리개
+
+===== '급수' (58) =====
+  /codex/alta/ct_alta_hydroponics.codex.patch /contentPages/2
+    EN: Alta Lab Sprinkler | This watering solution is made specifically for experimental environments and has an additional level of isolation to it. Specifically, it can be used 
+    KO: 알타 연구소 스프링클러 | 이 급수 용액은 실험 환경에 특화되어 있으며 추가적인 격리 수준을 갖추고 있다. 구체적으로는, 수경재배 트레이와 에코 포드에서 사용할 수 있다.
+  /codex/alta/ct_alta_ponics.codex.patch /contentPages/3
+    EN: Alta Sprinkler | The main part of the plant pod watering system, that can also be used as a standalone device, meant for watering crops in bigger farming environments. It o
+    KO: 알타 스프링클러 | 식물 포드 급수 시스템의 핵심 부품이며, 더 큰 농업 환경에서 작물에 물을 주는 독립형 장치로도 사용할 수 있다. 토양을 통해 물을 정기적으로 분산시켜 작동한다. 고인 물이 되지 않도록 토양에서 물이 빠져나갈 통로를 확보해야 한다.
+  /codex/alta/ct_alta_terraponics.codex.patch /contentPages/3
+    EN: Iora Gyera Sprinkler | This autowatering solution has the ability to mix the ionized water passing through it with liquid fertilizers and bubbles, as well as air bubbles to
+    KO: 이오라 기에라 스프링클러 | 이 자동 급수 장치는 이온화된 물을 액체 비료 및 거품과 섞고, 공기 방울도 함께 섞어 물을 통기성 있게 만들어, 식물이 마시고 숨 쉴 수 있게 해줍니다.
+  /codex/apex/sb_townproblems.codex.patch /contentPages/1
+    EN: We have a platoon of armed guards just waiting to descend on their hideout should we find it. Free-spirited free-thinkers are NOT welcome here. If we don't find them soon
+    KO: 우리는 무장 경비 소대가 그들 은신처를 찾기만 하면 급습할 준비를 하고 있어. 자유분방한 자유사상가는 여기서 환영받지 못해. 곧 찾지 못하면 급수원에 독을 다시 풀어야 하고, 그러면 모두가 고통받을 거다.
+  /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_2.codex.patch /contentPages/2
+    EN: The first one is to exploit Solar, Lunar and Azure essence, aka celestial elements, all of which can be largely harvested in Celestial Corridors. | However, stabilizing ent
+    KO: 첫 번째는 천상의 회랑에서 대량 채집할 수 있는 태양, 달, 푸른 정수, 즉 천체 원소를 활용하는 것이다. | 하지만 천상의 회랑 입구를 안정화하는 일은 낭비적인 것으로 밝혀졌다. 처음에는 소모가 적지만 시간이 흐를수록 추가 시간마다 에너지 소모가 기하급수적으로 늘어난다.
+  /items/active/unsorted/wateringcan/avikanwateringsack.activeitem.patch /shortdescription
+    EN: Avikan Watering Sack
+    KO: 아비칸 급수 주머니
+  /objects/FARMABLES/gic_sprinkler/gic_sprinkler.object.patch /description
+    EN: 
+    KO: 자동 토양 급수 장치입니다. 비 없이도 식물이 자라게 합니다.
+  /objects/alliance/furniture/allianceshower/allianceshower.object.patch /drodenDescription
+    EN: Alien water supply detected.
+    KO: 외계 급수 시설 감지.
+  /objects/alliance/other/alliancesprinkler/alliancesprinkler.object.patch /description
+    EN: An automated soil watering solution.
+    KO: 자동 토양 급수 솔루션.
+  /objects/alta/special/tools/sprinklers/basic/ct_alta_sprinkler.object.patch /description
+    EN: An automated soil watering solution.
+    KO: 자동 토양 급수 솔루션.
+
+===== '기원전' (3) =====
+  /codex/aegi/aegihistory3.codex.patch /contentPages/2
+    EN: The day after the spaceships had launched, in 246 BA, the asteroid hit Terra with massive force. The impact event destroyed several Human nations at once, and caused mass
+    KO: 우주선들이 발사된 다음 날인 기원전 246년, 소행성이 막대한 힘으로 테라에 충돌했다. 충돌은 여러 인간 국가를 한꺼번에 파괴했고, 살아남은 국가들에도 막대한 문제를 일으켰다. 충돌로 일어난 먼지층은 행성 전체를 뒤덮어 여러 해 동안 태양을 가렸고, 막대한 흉작을 일으키며 수많은 동식물 종을 멸종시켰다.
+  /codex/aegi/aegihistory4.codex.patch /contentPages/1
+    EN: ^yellow;[NOTE - The recent discovery of the Terrene Protectorate disproves this assumption]^reset; |  | The fate of the Voyager Company is unknown: contact with these ships w
+    KO: ^yellow;[참고 - 행성 보호국의 최근 발견이 이 가정을 반증한다]^reset; |  | 보이저 컴퍼니의 운명은 알 수 없다: 이 함선들과의 연락은 기원전 239년경 끊겼다. 그러나 인듀어런스 컴퍼니는 기원전 1년에 목적지 성계에 도착했고, 21척 중 19척이 남아 있었다. 함선들은 PT167089-06을
+  /items/FOODS/CUISINE/POT/gic_combinationnoodlesoup.consumable.patch /description
+    EN: 
+    KO: 돼지고기, 소고기, 채소를 섞은 베트남식 수프. 국수는 발효되지 않은 반죽을 납작하게 밀어 자르거나, 늘이거나, 압출하여 긴 가락이나 줄 형태로 만든 음식이다. 국수에 관한 가장 오래된 기록은 동한(東漢) 시대(기원전 25~220년)의 문헌에서 발견되었다. |  | ^#FFB941;양질의 고기 - 체력 +50 
+
+===== '기원후' (2) =====
+  /codex/aegi/aegihistory4.codex.patch /contentPages/1
+    EN: ^yellow;[NOTE - The recent discovery of the Terrene Protectorate disproves this assumption]^reset; |  | The fate of the Voyager Company is unknown: contact with these ships w
+    KO: ^yellow;[참고 - 행성 보호국의 최근 발견이 이 가정을 반증한다]^reset; |  | 보이저 컴퍼니의 운명은 알 수 없다: 이 함선들과의 연락은 기원전 239년경 끊겼다. 그러나 인듀어런스 컴퍼니는 기원전 1년에 목적지 성계에 도착했고, 21척 중 19척이 남아 있었다. 함선들은 PT167089-06을
+  /items/COMMODITIES/RELIGIOUS/gic_taoist_teachings.item.patch /description
+    EN: 
+    KO: 도교는 중국 풍습에 깊이 뿌리된 고대 철학이자 종교입니다. 도교 신앙은 '도'에 뿌리되고, 이는 우주의 궁극 창조 원리입니다; 모든 것이 도에서 통일되고 연결됩니다. 도교는 중국에서 가장 강한 종교 중 하나였지만, 중국 문화대혁명(1966-1976)으로 거의 완전히 말살됐습니다. 도교는 기원후 3000년
+
+===== '보통' (539) =====
+  /_ZBversioning.config.patch /welcome
+    EN:  | Welcome to ^orange;Ztarbound^reset;; A mod that aims to improve some of the untouched by mods vanilla aspects and add some more tools for modders to play with! |  | ^orange;
+    KO: ^orange;Ztarbound^reset;에 온 걸 환영해; 모드가 건드리지 않은 바닐라 요소들을 개선하고 모더들이 가지고 놀 도구를 더하는 걸 목표로 하는 모드야! |  | ^orange;1.05c로 업데이트됨:^reset; | ^green;>^reset; 일부 연구 트리 수정과 편의성 개선 |  | 이 모드가 추가한
+  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_mission_7_1_justiceending_b.cinematic.patch /panels/15/text
+    EN: 
+    KO: 이제 보상입니다. 경찰 채용의 보통 기준은 아니지만, 이 보급품들을 ''분실''하고 싶어요. 법의 제복과 제 총입니다. 이 궁핍한 처지에 드릴 최고의 감사예요. 도움이 더 필요하면 아야 양에게 시 부서 연락처를 줬어요. |  | 이제 가세요, 더 중요한 일이 있을 테니까요.
+  /cinematics/CHARACTERS/CELESTIAL/gico_celestial_boss_intro_human_path.cinematic.patch /panels/9/text
+    EN: *She points to the gate in question.* That gate goes to Heaven. My... former home. Usually, we don't let any mortals up there, but my siblings decided make an exception w
+    KO: *그녀가 문제의 문을 가리킨다.* 저 문은 천계로 이어져. 내... 옛 고향이지. 보통은 필멸자를 들여보내지 않지만, 내 형제자매들이 요괴들만은 예외로 하기로 했어. 왜냐고? 나도 몰라. 난 한참 전에 가족을 떠났거든.
+  /cinematics/CHARACTERS/KOGASA_TATARA/gic_garden_kogasatatara_bazaarintroduction.cinematic.patch /panels/2/text
+    EN: 
+    KO: 다시 만났네요. 제 본명은 말한 적이 없었죠. 제 이름은 타타라 코가사입니다. 저는 카라카사 오바케예요. 거의 인간이지만, 제 정신과 몸은 무기와 이 모습 사이에 나뉘어 있어요. 우리 종족의 본성이요? 저는 당신처럼 ''먹을'' 수 없어요. 보통 인간의 감정 차이를 먹고 삽니다... 행복에서 공포로, 그
+  /cinematics/CHARACTERS/KOGASA_TATARA/gic_garden_kogasatatara_bazaarintroduction.cinematic.patch /panels/4/text
+    EN: 
+    KO: 이 모든 일 전에 저는 대장장이였어요, 대부분 취미로요. 평범한 물건은 아니었죠. 마법 무기를 다뤘어요. 돌아보면 누구를 위해 일했는지 후회하지만, 이제는 더 잘 아는 것 같아요. |  | 잔재를 찾으면 제게 가져오세요. 그것들로 무언가를 만들어 드릴게요. 잔재는 인류 자체가 사라져가는... 표현이라고 할까요.
+  /cinematics/CHARACTERS/KOGASA_TATARA/gic_garden_kogasatatara_bazaarintroduction_original.cinematic.patch /panels/10/text
+    EN: 
+    KO: 다시 만났네요. 제 본명은 말한 적이 없었죠. 제 이름은 타타라 코가사입니다. 저는 카라카사 오바케예요. 거의 인간이지만, 제 정신과 몸은 무기와 이 모습 사이에 나뉘어 있어요. 우리 종족의 본성이요? 저는 당신처럼 ''먹을'' 수 없어요. 보통 인간의 감정 차이를 먹고 삽니다... 행복에서 공포로, 그
+  /cinematics/CHARACTERS/KOGASA_TATARA/gic_garden_kogasatatara_bazaarintroduction_original.cinematic.patch /panels/12/text
+    EN: 
+    KO: 이 모든 일 전에 저는 대장장이였어요, 대부분 취미로요. 평범한 물건은 아니었죠. 마법 무기를 다뤘어요. 돌아보면 누구를 위해 일했는지 후회하지만, 이제는 더 잘 아는 것 같아요. |  | 잔재를 찾으면 제게 가져오세요. 그것들로 무언가를 만들어 드릴게요. 잔재는 인류 자체가 사라져가는... 표현이라고 할까요.
+  /cinematics/CHARACTERS/KOGASA_TATARA/gic_wildlands_kogasatatara_mission_3_0_tataraport.cinematic.patch /panels/2/text
+    EN: 
+    KO: 말했듯, 제 이름은 타타라 코가사입니다. 카라카사 오바케예요. 거의 인간이죠. 그리고 거의 두 번이나 진짜 죽음에 가까워졌어요. 제... 영혼...의 본성상, 저는 당신처럼 ''먹을'' 수 없어요. 보통 인간의 감정 차이... 행복에서 공포로, 그런 걸 먹고 살죠. 하지만 이제 알아요. 인간들... 사람
+  /cinematics/CHARACTERS/NAZRIN/gic_nazrin_planetencounter_razed_speargeneral.cinematic.patch /panels/2/text
+    EN: 
+    KO: 고독한 사무라이가 주군 영지의 문을 지키며, 안의 이들을 지키기 위해 맹렬히 싸울 겁니다. 그에겐 다이묘 말고 아버지라 부를 가족이 없습니다. 일본의 사무라이처럼 창으로 기예를 갈았고, 단순하지만 가볍게 봐선 안 됩니다. 내 고향 사람들은 사무라이를 숭상했죠. 환상향은 보통 나라가 아니고 인간 정부와 공
+  /cinematics/CHARACTERS/NITORI_KAWASHIRO/gic_nitorikawashiro_intro_card_meeting.cinematic.patch /panels/5/text
+    EN: 
+    KO: 흠, 공허 함선이 있군요. 제가 할 수 있는 걸 말씀드리죠. 은하를 누빌 수 있게 함선을 고쳐드리겠습니다. 체계 내 이동과 다른 항성으로의 워프가 가능해집니다. 일종의 선금으로 생각하세요. |  | 충격파형 모듈 주변엔 보통 여분 연료봉이 있으니, 남아 있다면 복잡한 건 필요 없습니다. 토륨 연료 꾸러미를 가져
+
+===== '일반' (801) =====
+  /_ZBversioning.config.patch /welcome
+    EN: 
+    KO:  | 지타바운드에 오신 것을 환영합니다 ^orange;지타바운드^reset;; 모드 바닐라에서 손대지 않은 몇 가지 측면을 개선하고 모더들이 플레이할 수 있는 도구를 더 추가하는 것을 목표로 하는 모드! |  | ^orange;1.05c로 업데이트되었습니다:^reset; | ^green;>^reset; 일부 리서치 트
+  /cinematics/CHARACTERS/SILENCE/gic_silence_intro_card_meeting.cinematic.patch /panels/3/text
+    EN: 
+    KO: [그가 담배 갑을 들고 주변 여러 물건을 손짓한다. 일반 크레딧도 보여주고 담배를 가리켰다 크레딧을 가리킨다. 그리고 크레딧을 가리키고 물건을 가리키며 손으로 'X'를 만든다. 그리고 탁상의 어떤 유물을 가리키고 선반의 무기와 장신구들을 손짓한다.]
+  /cinematics/mwhaddon/mwhaddon_relicSlotUnlock/mwhaddon_relicSlotUnlock_1.cinematic.patch /panels/4/text
+    EN: New Regular Relic Slot Unlocked
+    KO: 새로운 일반 유물 슬롯 해제됨
+  /classes/explorer.config.patch /techs/1/text
+    EN: 
+    KO: [Special 2]를 누르세요 (설정에서 [Special 2]를 바인딩하세요) 강화 질주와 강화 스프린트 사이를 전환합니다. 강화 에어대시는 일반 에어대시보다 더 멀리 이동하며 재사용 대기시간이 더 짧습니다. 강화 스프린트는 일반 스프린트보다 더 빠르고 에너지 소모가 적습니다.
+  /classes/explorer.config.patch /techs/3/text
+    EN: 
+    KO: 활공의 상위 기술이다. 월 점프 3회와 벽 점프를 추가로 얻는다. 공중 점프의 효과는 85%로 줄어든다. 일반 벽 점프보다 벽에 조금 더 오래 매달리며 미끄러지는 속도도 더 느리다. 민첩성이 높을수록 활공 에너지 소모가 줄어든다.
+  /codex/LEGACY/EVE_4/gic_isigacountry/gic_isigacountry.codex.patch /contentPages/0
+    EN: 
+    KO: 레디아에서 바다 건너편에 위치한 이브 IV에 위치한 이시가는 구 지구 생활을 선호하는 인간들에 의해 '제2의 지구'로 불립니다. 이시가는 일반적으로 추운 기후이며 대부분의 계절에 눈이 내려 눈 스포츠를 즐기기에 좋은 관광지입니다. 그러나 이시가는 엄격한 반외계인 법을 가지고 있으며, 대부분의 주민들은 '
+  /codex/LEGACY/EVE_4/gic_isigacountry/gic_isigacountry.codex.patch /contentPages/1
+    EN: 
+    KO: 이러한 통치 윤리는 외국인 혐오적 고립주의로 확장됩니다. 일반적으로 국가의 성장을 저해하는 것으로 보이지만, 이시가는 전함과 순양함의 무기 생산에서 특히 성공적인 산업 강국이 되었습니다. 이시가는 또한 해체된 미국 FBI와 유사하지만 훨씬 더 크고 공격적인 규모의 역할을 하는 존경받는 은하계 개입국의 창
+  /codex/LEGACY/EVE_4/gic_redyacountry/gic_redyacountry.codex.patch /contentPages/3
+    EN: 
+    KO: 레디아는 산업적 힘과 경쟁력을 갖추고 있습니다. 레디아와 이시가는 서로의 가까운 군사 동맹국이며, 두 나라가 '산업 전쟁'에 참여하고 있음에도 불구하고 일반적으로 서로에게 우호적입니다. 진정한 경쟁이 형성되기도 하지만, 이러한 산업 경쟁은 두 국가의 건강한 발전에 필수적입니다.
+  /codex/LEGACY/GUN_INFORMATION/gic_bastardgunseries/gic_bastardgunseries.codex.patch /contentPages/0
+    EN: 
+    KO: '바스타드' 시리즈는 21세기 후반 핵 러시아의 메트로 터널에서 제3차 세계대전 이후 즉흥적으로 제작된 총기의 현대화된 버전입니다. 종말론적 조건에서의 즉흥적 제작과 전반적인 조잡한 일반 건설에도 불구하고, 그것은 많은 군사 지향 사회, 특히 연합 시스템에서 표준화된 공학 교육 커리큘럼의 일부로 종종 가
+  /codex/LEGACY/GUN_INFORMATION/gic_capstoneceleronad/gic_capstoneceleronad.codex.patch /contentPages/2
+    EN: 
+    KO: 총신은 가스와 열을 방출하기 위한 구멍이 있어, 전반적으로 반동을 줄이고 가벼운 베이스와 함께 제작되었습니다. 셀러론은 일반적으로 조정 가능한 개머리판과 함께 생산됩니다. 일반적인 기능으로는 상부 피카티니 레일 마운트, 접이식 트리튬 조준기 및 레일 마운트의 추가 부착물을 위한 소총 측면의 나사 마운트가

@@ -1,0 +1,11 @@
+asset	field	en	ko	src
+/interface/ees/confirmation/bigconfirmation.config	title	Confirmation	확인	
+/interface/ees/confirmation/bigconfirmation.config	caption	Cancel	취소	reuse
+/items/EES/currency/EES_farmemc.currency	description	^orange;Energy Matter Currency^white; obtained studying crops.	농작물 연구로 얻는 ^orange;에너지 물질 화폐^white;.	
+/items/EES/currency/EES_farmemc.currency	shortdescription	Farm EMC	농사 EMC	
+/items/EES/currency/EES_huntemc.currency	description	^orange;Energy Matter Currency^white; obtained studying monster drops.	몬스터 드랍 연구로 얻는 ^orange;에너지 물질 화폐^white;.	
+/items/EES/currency/EES_huntemc.currency	shortdescription	Hunt EMC	사냥 EMC	
+/items/EES/currency/EES_mineemc.currency	description	^orange;Energy Matter Currency^white; obtained studying ores.	광석 연구로 얻는 ^orange;에너지 물질 화폐^white;.	
+/items/EES/currency/EES_mineemc.currency	shortdescription	Mine EMC	채광 EMC	
+/items/EES/currency/EES_universalemc.currency	description	^orange;Energy Matter Currency^white; obtained burning things in the alchemical fire.	연금술 불에 물건을 태워 얻는 ^orange;에너지 물질 화폐^white;.	
+/items/EES/currency/EES_universalemc.currency	shortdescription	Universal EMC	유니버설 EMC	

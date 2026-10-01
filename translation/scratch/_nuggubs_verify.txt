@@ -1,0 +1,9 @@
+/codex/nuggubs/hylotlpasta.codex.patch
+[[{"op": "test", "path": "/title", "value": "Ramblings of a Horny Troll"}, {"op": "replace", "path": "/title", "value": "발정난 트롤의 헛소리"}], [{"op": "test", "path": "/description", "value": "Oh boy, I wonder what this has inside..."}, {"op": "replace", "path": "/description", "value": "오 이런, 이 안에 뭐가 들었을지 궁금하네..."}], [{"op": "test", "path": "/contentPages/0", "value": "Alright, I've wanted to say this for years now.\n\nI've always wanted to fuck a Hylotl. Ever since I got the beta, I've found the ide
+
+/items/active/nuggubs/beakeasypack/beakeasypack.activeitem.patch
+[[{"op": "test", "path": "/description", "value": "A package containing parts for one (1) Beakeasy Bar."}, {"op": "replace", "path": "/description", "value": "비케이지 바 1개분의 부품이 들어있는 꾸러미입니다."}], [{"op": "test", "path": "/shortdescription", "value": "Packed Beakeasy Bar"}, {"op": "replace", "path": "/shortdescription", "value": "포장된 안락한 부리 술집"}]]
+
+/items/active/nuggubs/easelpack/easelpack.activeitem.patch
+[[{"op": "test", "path": "/description", "value": "A package containing parts for one (1) EASEL booth."}, {"op": "replace", "path": "/description", "value": "EASEL 부스 1개분의 부품이 들어있는 꾸러미입니다."}], [{"op": "test", "path": "/shortdescription", "value": "Packed EASEL Booth"}, {"op": "replace", "path": "/shortdescription", "value": "포장된 EASEL 부스"}]]
+

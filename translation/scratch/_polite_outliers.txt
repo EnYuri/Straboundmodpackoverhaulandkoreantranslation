@@ -1,0 +1,341 @@
+/cinematics/CHARACTERS/DAITENGU/gico_daitengu_meeting_youkai_path_intro.cinematic.patch	/panels/6/text	알겠습니다, 마님!
+/cinematics/CHARACTERS/DAITENGU/gico_daitengu_meeting_youkai_path_intro.cinematic.patch	/panels/8/text	아. 오셨군요. 잠시만요. 이 가면 좀 벗을게요. 우리에게 꽤 도움을 준 분 앞에서 쓰고 있을 이유가 없으니까요.
+/cinematics/CHARACTERS/DAITENGU/gico_daitengu_meeting_youkai_path_intro.cinematic.patch	/panels/9/text	자, 제 소개를 하지요. 제 이름은 메구무입니다. 만나서 반갑습니다.
+/cinematics/CHARACTERS/DAITENGU/gico_daitengu_outskirts_regroup_youkai_path.cinematic.patch	/panels/4/text	아. 오셨군요. 잠깐만요, 이방인. *메구무가 늑대 텐구 쪽으로 돌아선다.*
+/cinematics/CHARACTERS/DAITENGU/gico_daitengu_outskirts_regroup_youkai_path.cinematic.patch	/panels/11/text	알겠습니다. *모미지가 방을 나간다.*
+/cinematics/CHARACTERS/DAITENGU/gico_daitengu_outskirts_regroup_youkai_path.cinematic.patch	/panels/13/text	오늘 해주신 일에 대한 보상으로, 이 보급품을 받으세요. 강시들을 아직 만나보셨는지 모르겠지만, 그들은 당신이 구해온 인간 보급품을 장비와 교환하도록 지시받았습니다. 저희 텐구는 인간 장비를 그리 많이 쓰지 않지만, 캇파나 야마와로 같은 다른 요괴들은 많이 사용하죠.
+/cinematics/CHARACTERS/DAITENGU/gico_daitengu_outskirts_regroup_youkai_path.cinematic.patch	/panels/15/text	그건 그렇고, 오늘 당신이 한 일이 생각보다 훨씬 더 큰 도움이 됐다는 걸 다시 한번 말씀드리고 싶어요. 우리가 잘 지내고 있었던 척은 안 할게요. 제 부하 아무나 붙잡고 물어보면, 우리가 얼마나 힘든 상황이었는지 금방 말해줄 거예요.
+/cinematics/CHARACTERS/LIONMOUSE/gico_lionmouse_youkai_path_introduction.cinematic.patch	/panels/14/text	그리고 상황은 그렇습니다, 대장님.
+/cinematics/CHARACTERS/LIONMOUSE/gico_lionmouse_youkai_path_introduction.cinematic.patch	/panels/18/text	알겠습니다, 마님. 방어선이 뚫렸다는 소문이 이미 마을에 퍼졌습니다. 병력이 이미 장비를 챙겨 방어 진지로 이동 중입니다.
+/cinematics/CHARACTERS/SHRINEMAIDEN/gico_shrinemaiden_meeting_human_path.cinematic.patch	/panels/3/text	허, 그 늑대랑 천체 둘 다 연달아 물리친 게 당신이었군요. 게다가 평범한 무녀도 아니고 말이죠.
+/cinematics/CHARACTERS/SHRINEMAIDEN/gico_shrinemaiden_meeting_human_path.cinematic.patch	/panels/4/text	하웰이 무슨 일이 있었는지 벌써 알려줬어요. 인상 깊네요. 제 이름은 카요리예요. 이 전쟁에 휘말린 그저 평범한 무녀랍니다.
+/cinematics/CHARACTERS/WOLF/gico_wolf_tengu_boss_aftermath_human_path.cinematic.patch	/panels/20/text	메구무는 우리가 천상에서 재집결하길 원해요. 우리는 어떻게든 천상족을 설득해서 그들의 관문을 탈출로로 쓰게 했고, 다른 텐구 씨족의 영역 근처로 우리를 내보내 합류하도록 했어요.
+/cinematics/arcana/arcana_seeker_1/arcana_seeker_1.cinematic.patch	/panels/3/text	아시다시피, ^orange;아우레아 콜렉티브^reset;는 은하 간 유물 보관 결사로, 이제 점차 은하 무대로 세력을 넓혀가고 있습니다.
+/cinematics/arcana/arcana_seeker_desertstart/arcana_seeker_desertstart.cinematic.patch	/panels/1/text	아! 회수 임무로 파견된 시커가 당신이시군요. 저는 ^orange;플린트^reset;, 앞으로의 여정 동안 당신의 안내인입니다.
+/cinematics/arcana/arcana_seeker_desertstart/arcana_seeker_desertstart.cinematic.patch	/panels/2/text	저희... 음, 저희 길드마스터 대부분이 외부의 위협을 고려한 끝에 아티팩트를 안전하게 보관하도록 탐구자들에게 넘기기로 합의했습니다.
+/cinematics/mwhaddon/mwhaddon_pOr_intro/mwhaddon_pOr_intro.cinematic.patch	/panels/4/text	여기서 여행 중 가장 인상 깊었던 ^green;여정과 적^reset;을 다시 떠올려볼 수 있습니다.
+/dialog/allianceoutpost.config.patch	/converse/trink/generic/8	하수도에는 들어가지 마세요. 그 안에서는 쉽게 길을 잃을 수 있어요.
+/dialog/allianceoutpost.config.patch	/converse/trink/generic/16	안녕하세요, 여행자님.
+/dialog/allianceoutpost.config.patch	/converse/trink/generic/25	삶의 의미를 아세요?
+/dialog/atprk_devouttenant.config.patch	/rent/default/default/1	예의 바름. 거주 공간을 마련해주셔서 감사합니다. 제 동족에게 당신의 도움을 전하겠습니다.
+/dialog/avikanoutpost.config.patch	/converse/avikan/human/7	안녕하세요.
+/dialog/avikanoutpost.config.patch	/converse/avikan/avian/3	날 수 있어요?
+/dialog/avikanoutpost.config.patch	/converse/avikan/avian/7	안녕하세요.
+/dialog/avikanoutpost.config.patch	/converse/avikan/floran/7	안녕하세요.
+/dialog/avikanoutpost.config.patch	/converse/avikan/hylotl/7	안녕하세요.
+/dialog/avikanoutpost.config.patch	/converse/avikan/novakid/7	안녕하세요.
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/6	선장님이시군요! 영광입니다, 선장님!
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/9	최근에 덮개 청소했어요?
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/17	평의회에서 저를 위해 찬성표를 던져 주실 수 있나요? 함대 선장 자격을 신청했는데, 최대한 많은 지지가 필요해요!
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/23	선장님처럼 모험을 떠날 수 있으면 좋겠어요.
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/29	케프라이더 면허증은 있으세요?
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/30	흠? 오, 죄송해요 선장님! 거기 계신 줄 몰랐어요.
+/dialog/avikanoutpost.config.patch	/converse/avikan/avikan/34	재미있는 이야기 있으세요, 선장님?
+/dialog/avikanoutpost.config.patch	/converse/avikan/aegi/7	안녕하세요.
+/dialog/avikanoutpost.config.patch	/converse/avikan/akkimari/7	안녕하세요.
+/dialog/bartenderwoofie.config.patch	/merchantStart/apex/default/3	불법적인 건 팔지 말아주세요, 그런 골칫거리는 필요 없어요.
+/dialog/bartenderwoofie.config.patch	/merchantStart/avian/default/2	안녕하세요. 마음에 드는 거 있어요?
+/dialog/bartenderwoofie.config.patch	/merchantStart/glitch/default/1	친절. 전부 사고 싶으시잖아요!
+/dialog/bartenderwoofie.config.patch	/merchantStart/hylotl/default/2	제 물건들을 편하게 둘러보세요.
+/dialog/bartenderwoofie.config.patch	/merchantEnd/default/default/1	또 오세요!
+/dialog/bartenderwoofie.config.patch	/merchantEnd/avian/default/1	성원에 진심으로 감사드립니다.
+/dialog/bartenderwoofie.config.patch	/merchantEnd/avian/default/2	이용해 주셔서 감사합니다. 곧 다시 오세요.
+/dialog/bartenderwoofie.config.patch	/merchantEnd/apex/default/0	또 오세요. 안전히 지내세요.
+/dialog/bartenderwoofie.config.patch	/follow/glitch/default/0	친절. 제 바로 따라오세요.
+/dialog/bartenderwoofie.config.patch	/follow/hylotl/default/1	제 바로 안내해드릴까요? 이쪽이에요.
+/dialog/bartenderwoofie.config.patch	/welcome/hylotl/default/0	여기 있습니다, 환영해요. 뭘 사고 싶으셨나요?
+/dialog/bartenderwoofie.config.patch	/welcome/floran/default/0	여기가 제 가게예요. 뭐가 필요하세요?
+/dialog/bartenderwoofie.config.patch	/tout/apex/default/1	물건 팝니다! 와서 구경하세요!
+/dialog/bartenderwoofie.config.patch	/tout/apex/default/2	이리 오세요, 손님.
+/dialog/bartenderwoofie.config.patch	/tout/avian/default/3	안녕하세요. 필요한 거 있어요?
+/dialog/bartenderwoofie.config.patch	/tout/glitch/default/0	유혹. 오세요, 사세요!
+/dialog/bartenderwoofie.config.patch	/tout/hylotl/default/1	필요하신 물건을 팔 수 있다면 더없이 기쁘겠습니다.
+/dialog/bartenderwoofie.config.patch	/tagCriteria/avian/default/2	제 물건들을 원래 있던 자리에 돌려놔 주세요.
+/dialog/bartenderwoofie.config.patch	/tagCriteria/apex/default/0	제 물건들을 돌려놔 주세요.
+/dialog/bartenderwoofie.config.patch	/enclosedArea/apex/default/2	이 벽들 좀 고쳐주세요, 이 상태로는 술집이 소용없어요.
+/dialog/bartenderwoofie.config.patch	/enclosedArea/hylotl/default/1	벽을 고쳐 주시면 정말 감사하겠어요.
+/dialog/bartenderwoofie.config.patch	/beacon/glitch/default/2	예의 바름. 특별한 걸 마셔보시겠어요.
+/dialog/bartenderwoofie.config.patch	/beacon/avian/default/0	안녕하세요, 반가워요. 뭐 사고 싶으세요?
+/dialog/bartenderwoofie.config.patch	/rent/glitch/default/2	낙관. 일이 아주 잘 풀리고 있어요! 감사의 뜻으로 이 선물을 드릴게요.
+/dialog/bartenderwoofie.config.patch	/rent/apex/default/1	장사가 잘돼요. 이건 감사 선물이에요.
+/dialog/bartenderwoofie.config.patch	/rent/apex/default/2	우리 사업이 번창하고 있어요! 이 선물을 받아주세요, 감사의 표시예요.
+/dialog/commands.config.patch	/holdPosition/default/default/1	선장님, 이 구역을 확보하겠습니다!
+/dialog/commands.config.patch	/holdPosition/glitch/default/1	인내심 있음. 이 위치를 지킬 수 있습니다, 선장님.
+/dialog/commands.config.patch	/holdPosition/glitch/default/2	우호. 이 구역을 안전하게 확보하겠습니다, 선장님.
+/dialog/commands.config.patch	/holdPosition/penguin/default/1	알겠습니다, 대장, 이 구역을 확보하겠습니다.
+/dialog/commands.config.patch	/lounge/glitch/default/1	인내심 있음. 앉아서 당신을 기다리겠습니다.
+/dialog/commands.config.patch	/lounge/penguin/default/1	알겠습니다, 대장, 잠깐 쉬겠습니다.
+/dialog/elpissecurity.config.patch	/hail/apex/default/4	엘피스는 아주 강력한 상품을 제공해요, 한번 보세요.
+/dialog/esc_corpus_empolyee.config.patch	/greeting/default/default/12	고품질 장비 판매합니다! 인간 영역에서 찾을 수 있는 대부분의 장비보다 확실히 낫습니다, 약속해요!
+/dialog/ffs_alice_converse.config.patch	/greeting/default/default/1	안녕하세요, 요원님!
+/dialog/ffs_alice_converse.config.patch	/converse/default/default/0	책상 일은 전부 제 몫이죠, 그렇죠? 알아요..
+/dialog/ffs_jessie_combat.config.patch	/lostTarget/default/default/1	제발, 다시는 오지 마세요..
+/dialog/ffs_jessie_combat.config.patch	/outOfSight/default/default/2	조심하세요, 적이 아직 남아 있을 수 있습니다.
+/dialog/ffs_jessie_combat.config.patch	/outOfSight/default/default/4	제발, 다시는 오지 마세요..
+/dialog/ffs_jessie_converse.config.patch	/greeting/default/default/2	오, 지휘관님이시군요!
+/dialog/ffs_jessie_converse.config.patch	/converse/default/default/0	앨리스는 우리 큰언니 친구예요. 살아있어서 정말 다행이에요.
+/dialog/hookerconverse.config.patch	/converse/default/default/2	여보세요? 누가 창녀를 주문했나?
+/dialog/hookerconverse.config.patch	/converse/human/default/0	정말로 혼자 야한 거 보고 있는 거예요? 자, 제가 도와드릴게요.~
+/dialog/hookerconverse.config.patch	/converse/glitch/default/0	얼굴 붉힘. 제 회로가 마음에 들었으면 좋겠어요...
+/dialog/lucario.config.patch	/converse/default/avian/14	씨앗은 잘 모르겠지만, 열매라면 한번 먹어 보겠습니다.
+/dialog/lucario.config.patch	/converse/default/floran/4	훈련을 조금 받아 보는 건 어떻습니까? 더 뛰어난 사냥꾼이 될 수도 있어요.
+/dialog/lucario.config.patch	/converse/default/apex/13	페차 주스 한 잔을 마시며 이야기를 나누면 재미있겠군요.
+/dialog/lucario.config.patch	/converse/default/hylotl/2	하나 물어봐도 될까요? 비늘이 있는 느낌은... 잠깐, 비늘이 없군요?
+/dialog/lucario.config.patch	/converse/default/hylotl/4	당신네 문화의 일부가 우리의 관습과 닮았다는 생각이 들었습니다.
+/dialog/lucario.config.patch	/converse/default/hylotl/9	저는 남들보다 훨씬 많은 것을 느낄 수 있어요. 어쩌면 당신이 말하는 그 예술을 즐길 수 있을지도 모르겠네요.
+/dialog/lucario.config.patch	/converse/default/hylotl/17	당신이 평화주의자라는 건 알지만, 훈련을 조금 받아 보는 건 어떻습니까?
+/dialog/lucario.config.patch	/converse/default/glitch/5	그러니까 자유 사상가를 제외하면 모두에게 정해진 임무가 있다는 거군요. 이상합니다.
+/dialog/lucario.config.patch	/converse/default/glitch/8	그러니까 당신들의 왕국에는 왕과 여왕만 있습니까, 아니면 영주와 귀부인도 있습니까?
+/dialog/lucario.config.patch	/converse/default/glitch/15	기계 공학의 경이입니다. 마기아나를 아십니까? 그녀가 실종되었습니다.
+/dialog/lucario.config.patch	/converse/default/glitch/17	궁금하군요. 당신의 프로그래밍은 성장 가능성을 허용합니까, 아니면 업그레이드만 가능하도록 제한합니까?
+/dialog/lucario.config.patch	/otherDeed/default/default/4	들어 봐요, 곁에 있어 주는 건 고마운 배려지만, 이 동행이 내 집까지 같이 쓸 수는 없어요.
+/dialog/r-peacekeeperconverse.config.patch	/converse/default/default/5	상황이 워낙 나빠져서 인원을 늘리려고 현상금 사냥꾼까지 고용하기 시작했어요!
+/dialog/r-peacekeeperconverse.config.patch	/converse/hylotl/default/3	패션 전문가로서, 저는 피스키퍼의 취향이 훌륭하다고 생각해요.
+/dialog/r-peacekeeperconverse.config.patch	/converse/hylotl/default/7	피스키퍼로서의 의무가 무엇보다 우선입니다. 이해해주시리라 믿습니다.
+/dialog/r-peacekeeperconverse.config.patch	/converse/glitch/default/4	열의. 선장님에게서는 자신감이 뿜어져 나옵니다. 언젠가 저도 그분의 절반만큼이라도 사람을 이끄는 존재가 되고 싶군요!
+/dialog/r-peacekeeperconverse.config.patch	/converse/avian/default/5	제 첫 일이에요! 실수하지 않았으면 좋겠어요!
+/dialog/r-peacekeeperconverse.config.patch	/converse/avian/default/6	피스키퍼가 되면서 도덕적이고 정의롭기 위해 클루엑스를 따를 필요가 없다는 걸 배웠어요.
+/dialog/saturnKytaguard.config.patch	/hail/saturn/default/0	얌전히 구세요.
+/dialog/saturnKytaguard.config.patch	/hail/avian/default/2	미안하지만 이만 가 주셔야겠습니다.
+/dialog/saturnspaceconverse.config.patch	/spacesaturnian/saturn/apex/7	으아아아! 미니크녹이다! 음... 당신은 미니크녹이 아니죠? 미안해요!
+/dialog/saturnspaceconverse.config.patch	/spacesaturnian/saturn/hylotl/8	바다를 탐험할 방법을 알아내야 해요.
+/dialog/saturnspaceconverse.config.patch	/spacesaturnian/saturn/hylotl/9	한번은 바닷속 하이로틀 도시에 가 본 적이 있어요. 빛이 어찌나 많던지, 몇 시간이나 그곳을 헤매고 다녔죠.
+/dialog/sb_friendlyminer.config.patch	/rent/default/default/0	여기 광물이에요!
+/dialog/sb_friendlyminer.config.patch	/rent/human/default/2	여기서 찾은 거예요. 당신 거예요!
+/dialog/sb_friendlyminer.config.patch	/rent/glitch/default/1	이타적. 제가 찾은 이 광석들 가져가세요.
+/dialog/sexbound/en/notifications.config.patch	/plugins/pregnant/birth/gaveBirth	축하합니다! 방금 <babyname>이라는 이름의 <babygender> 아기를 낳았습니다!
+/dialog/sgD03MU/merchant.config.patch	/merchantEnd/default/default/1	또 오세요!
+/dialog/sgD03MU/merchant.config.patch	/tout/default/default/0	상품 팔아요!
+/dialog/sgD03MU/merchant.config.patch	/tout/default/default/1	안녕, 여행자, 제 놀라운 물건들 좀 구경해요!
+/dialog/smitewoofie.config.patch	/merchantStart/default/default/0	대장간에서 갓 나왔습니다!
+/dialog/smitewoofie.config.patch	/merchantEnd/default/default/1	또 오세요!
+/dialog/smitewoofie.config.patch	/tout/default/default/1	제 멋진 무기들을 구경해보세요!
+/dialog/smitewoofie.config.patch	/rent/default/default/0	제 가게 일을 도와주신 데 대한 선물이에요
+/dialog/tentacles/human-pregnant.config.patch	/33/text	다 해봤어요—이 조그만 촉수쯤이야 별거 아니죠!
+/dialog/tentacles/hylotl-pregnant.config.patch	/38/text	제가 점점 더 많이 낳을수록... / ...자지 수만 계속 늘어나고... / ...저는 더 빨리 다시 임신해요...
+/quests/HQbadge/policebadge1.questtemplate.patch	/completionText	고마워요. 수습 기간을 성공적으로 마쳤네요. 여기 우리 시설 출입 권한을 주는 배지예요. / ^orange;잃어버리면, A38 양식을 가지고 다시 오세요, 그럼 하나 더 드릴게요.^reset;
+/quests/PBImissions/quest4pbiMission2.questtemplate.patch	/completionText	물품을 전부 회수했나요? 조사에 사용할 예정이에요. /  / ^orange;다른 증거도 망설이지 말고 회수하세요. 언제든 유용하게 쓰일 수 있습니다^reset;.
+/quests/STORY/alliance/alliancestory-passpickup.questtemplate.patch	/completionText	여기 있습니다, 대사님. 당신만의 ^orange;대사 통행증^reset;입니다: 이걸로 ^green;크레온 대사관 최상층의 ^orange;지휘 본부^green;를 방문하실 수 있습니다^reset;.
+/quests/STORY/alliance/alliancestory-passpickup.questtemplate.patch	/scriptConfig/radioMessages/0/text	아, 다시 연락 주셔서 반갑습니다, 대사님!
+/quests/STORY/alliance/alliancestory-passpickup.questtemplate.patch	/scriptConfig/radioMessages/1/text	최근 크레온 근처에 새 대사관이 문을 열었습니다. 그곳에서 저와 함께해 주셨으면 합니다.
+/quests/STORY/alliance/alliancestory-passpickup.questtemplate.patch	/scriptConfig/radioMessages/4/text	대사님, 곧 크레온을 찾아오세요. 기다리고 있겠습니다.
+/quests/STORY/alliance/alliancestorystart.questtemplate.patch	/scriptConfig/radioMessages/startMessage/text	대사님! 괜찮으세요? 지구와 보호국에 무슨 일이 있었는지 알게 된 이후로 계속 연락드리려 했어요...
+/quests/STORY/alliance/alliancestorystart.questtemplate.patch	/scriptConfig/radioMessages/fourthMessage/text	당분간은 보호국 공격의 배후가 누구인지, 혹은 무엇인지 밝혀내는 데 전력을 다해 주십시오. 우리의 최우선 과제는 이 비극이 다른 행성에서 더는 일어나지 않게 하는 것입니다.
+/quests/STORY/alliance/alliancestorystart.questtemplate.patch	/scriptConfig/radioMessages/endMessage/text	행운을 빕니다, 대사님. 새 임무가 준비되면 다시 연락하겠습니다.
+/quests/STORY/om_harpy/om_harpyIntro.questtemplate.patch	/scriptConfig/descriptions/chooseWeapon	^green;무기 상자^reset;에서 ^orange;무기를 선택하세요
+/quests/alliancequests/allianceoutpost/alliancegunrangeunlock.questtemplate.patch	/completionText	잘했어요, 저스티카가 처리됐다는 보고를 받았어요. 여기요: 이 보안 카드로 사격장에 출입할 수 있을 거예요.
+/quests/alliancequests/allianceoutpost/alliancegunrangeunlock.questtemplate.patch	/scriptConfig/descriptions/enterInstance	^orange;무맘^reset;에게 말을 걸어 ^orange;유니언 전초기지^reset;로 워프하세요
+/quests/aphrodite/summonaphrodite.questtemplate.patch	/completionText	안녕하세요, 필멸자여. 저는 ^orange;아프로디테^reset;예요! 제가 잃어버린 지팡이를 찾으셨다는 걸 알고 있지만, 그냥 가지셔도 돼요. 사실, 그걸 훨씬 더 흥미로운 것으로 바꾸는 걸 도와드릴게요.
+/quests/aphrodite/summonaphrodite.questtemplate.patch	/scriptConfig/description	소환 의식을 완료해 ^orange;아프로디테^reset;를 소환하세요.
+/quests/arcana_seeker/arcana_seeker_1_mission/arcana_seeker_1_mission.questtemplate.patch	/scriptConfig/descriptions/enterInstance	^orange;카민^reset;에게 말을 걸어 ^orange;시커 시련^reset;을 시작하세요
+/quests/arcana_seeker/arcana_seeker_desertstart/arcana_seeker_desertstart_mission.questtemplate.patch	/scriptConfig/descriptions/enterInstance	^orange;플린트^reset;에게 말을 걸어 ^orange;로드스타 신전^reset;으로의 여정을 시작하세요
+/quests/atprk_relicseekerhq/atprk_mechbotchallenge1.questtemplate.patch	/scriptConfig/descriptions/enterInstance	^orange;랜디^reset;에게 말을 걸어 ^orange;묻힌 지구라트^reset;로 이동하세요
+/quests/atprk_relicseekerhq/atprk_mechbotchallenge2.questtemplate.patch	/scriptConfig/descriptions/enterInstance	^orange;랜디^reset;에게 말을 걸어 ^orange;궤도 천문대^reset;로 이동하세요
+/quests/atprk_relicseekerhq/atprk_mechbotchallenge3.questtemplate.patch	/text	또 왔군요! 방금 버려진 ^green;애널리스크 채굴 정거장^white;을 발견했어요! 거대한 소행성 안에 거의 완전히 봉인되어 있었지만 스타크랜스가 들어갈 방법을 찾아냈죠. 완전히 새로운 파고들 곳이 생긴 거예요! 멋지지 않나요? /  / 방법은 아시죠. 준비되시면 저도 ^green;준비돼 있어요^white;!
+/quests/atprk_relicseekerhq/atprk_mechbotchallenge3.questtemplate.patch	/scriptConfig/descriptions/enterInstance	^orange;랜디^reset;에게 말을 걸어 ^orange;채굴 정거장^reset;으로 이동하세요
+/quests/atprk_relicseekerhq/atprk_rishaanquest1.questtemplate.patch	/text	안녕하세요, 친절한 낯선 분. 있잖아요, 전 정말 ^orange;리샨^white;에 대해 더 알고 싶은데 다른 사람들은 먼저 크라코탄 문화의 다른 측면을 연구해야 한다고 고집해요. 말도 안 돼요! 어떻게든 ^orange;오래된 교회들^white;에서 ^green;스캔 데이터를 좀 모아올^white; 수 있으면 좋겠어요. 제 기억이 맞다면 그런 건 보통 ^#969696;어두운 행성^white;에서 발견되던데...
+/quests/atprk_relicseekerhq/atprk_rishaanquest1.questtemplate.patch	/scriptConfig/radioMessages/uniqueProgress/atprk-gildedportrait-worm/text	아무래도 리샨은 힘의 일부를 얻기 위해 이 종족에 의존했던 것 같습니다. 여기 보이는 초상화는 알려진 어떤 지적 종족과도 일치하지 않습니다.
+/quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate.patch	/completionText	아나카 시스템즈 가상 안내를 이용해 주셔서 감사합니다. 오늘 유용한 정보를 제공해 드렸기를 바랍니다. 바스 브할레이.
+/quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate.patch	/scriptConfig/radioMessages/uniqueProgress/avikanteleportshop/text	노마다 트랜스로케이터 상점은 개인화된 텔레포트 장치를 제공합니다. 또한 공용으로 사용할 수 있는 텔레포터도 갖추고 있습니다.
+/quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate.patch	/scriptConfig/radioMessages/uniqueProgress/avikandrodenshop/text	명예 토큰과 교환하면, 드로덴 군단 단말기에서 드로덴 승무원을 모집할 수 있습니다.
+/quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate.patch	/scriptConfig/radioMessages/uniqueProgress/avikanoutpostbar/text	음료와 음식은 스타사이트 여관 바에서 구입할 수 있습니다.
+/quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate.patch	/scriptConfig/radioMessages/startWithProgress/text	스타페어러의 피난처는 다양한 서비스를 제공합니다. 아직 더 찾을 것이 남아 있습니다.
+/quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate.patch	/scriptConfig/radioMessages/complete/text	스타페어러의 피난처 투어는 여기까지입니다. 작은 보상을 받을 준비가 되면, ^green;저에게 돌아와 주세요^white;.
+/quests/generated/templates/fetchthecommontoy.questtemplate.patch	/scriptConfig/generatedText/text/default/default/1	^green;다음으로 필요한 것은 ^orange;<cropList>^white;입니다. 제 일에 꼭 필요해요.
+/quests/generated/templates/fetchthelegendarytoy.questtemplate.patch	/scriptConfig/generatedText/text/default/default/1	^green;다음으로 필요한 것은 ^orange;<cropList>^white;입니다. 제 일에 꼭 필요해요.
+/quests/generated/templates/fetchtheraretoy.questtemplate.patch	/scriptConfig/generatedText/text/default/default/1	^green;다음으로 필요한 것은 ^orange;<cropList>^white;입니다. 제 일에 꼭 필요해요.
+/quests/gicexp_nt_ship_marker.questtemplate.patch	/title	^red;읽어주세요
+/quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter2/mwhaddon_conditionUI_chapter2_1_5.config.patch	/gui/textDescription/value	이 폐허의 소유권을 넘기거나, 이곳에서 나가세요. 아, 둘 사이에 차이가 없어 보이는군요.
+/quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter2/mwhaddon_quests_chapter2_0_3.questtemplate.patch	/scriptConfig/descriptions/start	^orange;글리치^reset;에게 말을 걸고 결정을 내리세요
+/quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter2/mwhaddon_quests_chapter2_0_3.questtemplate.patch	/scriptConfig/descriptions/done	^orange;글리치^reset;에게 다시 말을 거세요
+/quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter3/mwhaddon_quests_chapter3_1_3.questtemplate.patch	/scriptConfig/descriptions/enterInstance	^orange;네레우스 박사^reset;에게 말을 걸어 ^yellow;구조 작전을 시작하세요^reset;
+/quests/mwhaddon_quests/mwhaddon_quests_arcana_vendor_3/mwhaddon_quests_arcana_vendor_3_scan.questtemplate.patch	/text	안녕하세요, 여행자님! ^orange;노바 스테이션^reset;에 오신 걸 환영합니다! 최근 리모델링을 마쳐서 새로운 상점들이 많이 생겼답니다. ^orange;물질 조작기^white;로 관심 있는 물건을 스캔해 보세요! ^green;투어가 끝나면 선물도 준비해 드렸어요.
+/quests/mwhaddon_quests/mwhaddon_quests_arcana_vendor_3/mwhaddon_quests_arcana_vendor_3_scan.questtemplate.patch	/completionText	오늘의 여정은 여기까지입니다! 여기 선물이에요. 노바 스테이션 전체를 대표해서, 좋은 하루 되세요~
+/quests/mwhaddon_quests/mwhaddon_quests_arcana_vendor_3/mwhaddon_quests_arcana_vendor_3_scan.questtemplate.patch	/scriptConfig/radioMessages/startWithProgress/text	이미 저희 가게 몇 곳을 둘러보신 것 같은데, 아직 더 보실 곳이 있어요!
+/quests/mwhaddon_quests/mwhaddon_quests_arcana_vendor_3/mwhaddon_quests_arcana_vendor_3_scan.questtemplate.patch	/scriptConfig/radioMessages/complete/text	오늘의 투어는 여기까지입니다! ^green;다시 오셔서 선물을 받아가세요.
+/quests/mwhaddon_quests/mwhaddon_quests_arcana_vendor_3/mwhaddon_quests_arcana_vendor_3_scan.questtemplate.patch	/scriptConfig/radioMessages/uniqueProgress/infinityexpress/text	노바 스테이션에 모든 ^yellow;편의^reset;를 위한 유명한 ^orange;인피니티 익스프레스^reset;가 지금 있습니다!
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_3.questtemplate.patch	/scriptConfig/descriptions/enterInstance	^orange;팔케 장군^reset;에게 말을 걸어 ^orange;호라이즌 기지^reset;로 이동하세요
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_3.questtemplate.patch	/scriptConfig/targets/0/description	조사하세요: ^orange;호라이즌 기지
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_3.questtemplate.patch	/scriptConfig/targets/1/description	^green;서쪽의 항구^reset;로 향하세요
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_3.questtemplate.patch	/scriptConfig/targets/3/description	^green;메인 관제실^reset; 안의 ^green;잠긴 사무실을 확인하세요
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_3.questtemplate.patch	/scriptConfig/targets/4/description	기지 아래의 ^orange;고대 유적^reset;을 탐사하세요
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch	/scriptConfig/descriptions/enterInstance	^orange;팔케 장군^reset;에게 말을 걸어 ^orange;호라이즌 공장^reset;에 도달하세요.
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch	/scriptConfig/descriptions/turnIn	동쪽에서 ^orange;팔케 장군^reset;에게 말을 거세요.
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch	/scriptConfig/targets/0/description	^orange;호라이즌 제조 공장^reset;에 들어가세요
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch	/scriptConfig/targets/1/description	^green;주 제어실^reset;에 들어가 ^green;장치를 작동시키세요^reset;
+/quests/mwhaddon_quests/mwhaddon_quests_npc_exousia_generalFalke/mwhaddon_quests_npc_exousia_generalFalke_5.questtemplate.patch	/scriptConfig/targets/2/description	이 공장의 ^green;지하 구역^reset;을 탐사하세요
+/quests/other/novakidquest.questtemplate.patch	/title	^orange;노바키드 유물을 찾으세요.
+/quests/other/novakidquest.questtemplate.patch	/scriptConfig/descriptions/findLibrarian	^orange;사서^reset;에게 말을 거세요
+/quests/other/novakidquest.questtemplate.patch	/scriptConfig/descriptions/turnIn	^orange;이방인^reset;에게 말을 거세요
+/quests/outpost/angeloutpost2.questtemplate.patch	/scriptConfig/descriptions/enterInstance	^orange;아웃포스트 천사^reset;에게 말을 걸어 ^orange;미니 미션^reset;에 들어가세요
+/quests/outpost/atprk_mechriftdivertest.questtemplate.patch	/completionText	놀랍군요, 이 메크 바디는 흠잡을 데가 없어요! 이제 지나는 길에 있는 어떤 차원 터널이든 머리부터 뛰어들 수 있겠네요. 주변에 널린 온갖 고대 기술이 있으니, 어쩌면 ^green;그런 터널을 더 찾아내는 방법^white;을 알아낼 수 있을지도 몰라요...
+/quests/outpost/atprk_mechriftdivertest.questtemplate.patch	/scriptConfig/descriptions/enterInstance	^orange;아카기 박사^reset;에게 말을 걸어 ^orange;안정된 차원 터널^reset;에 들어가세요
+/quests/outpost/atprk_mechriftdivertest.questtemplate.patch	/scriptConfig/descriptions/findGoal	^orange;차원 터널^reset;을 탐사하세요
+/quests/outpost/nekistripes.questtemplate.patch	/scriptConfig/descriptions/findStripes	전초기지에서 ^orange;스트라이프스^reset;를 찾아 승무원으로 영입하세요.
+/quests/ttpp_questhub/ttpp_questhub_1.questtemplate.patch	/scriptConfig/descriptions/enterInstance	^orange;수수께끼의 촉수 문^reset;을 사용해 미지의 세계로 들어가십시오!
+/quests/ttpp_questhub/ttpp_questhub_5.questtemplate.patch	/title	^green;촉수 도전문을 탐험하세요!
+/radiomessages/alliancestory.radiomessages.patch	/alliancestory-intro1/text	무사하신 걸 보니 다행입니다, 대사님. 탈출한 다른 대사들을 통해 지구와 보호국의 파괴 소식을 들었고, 혼란 속에서 돌아가셨을까 봐 두려웠습니다.
+/radiomessages/alliancestory.radiomessages.patch	/alliancestory-intro2/text	곧 얼라이언스의 다른 지도자들과 만나 이 비극에 대해 충분히 논의할 겁니다. 다음 임무가 무엇이 될지도 논의하겠습니다.
+/radiomessages/alliancestory.radiomessages.patch	/alliancestory-intro3/text	지금은 원하는 대로 은하를 돌아다녀도 좋습니다. 더 알려 드릴 내용이 생기면 다시 연락하겠습니다. 행운을 빕니다, 대사님. 부디 조심하십시오.
+/radiomessages/arcana_mission_desertstart.radiomessages.patch	/arcana_mission_desertstart_1_1/text	아, 오셨군요! 여정을 떠나기 전에 편하게 쉬세요, 목적지까지 좀 걸어야 할 테니까요.
+/radiomessages/arcana_mission_desertstart.radiomessages.patch	/arcana_mission_desertstart_1_2/text	저희... 음, 저희 길드마스터 대부분이 외부의 위협을 고려한 끝에 아티팩트를 안전하게 보관하도록 탐구자들에게 넘기기로 합의했습니다.
+/radiomessages/arcana_mission_desertstart.radiomessages.patch	/arcana_mission_desertstart_2_1/text	더 깊이 나아갈수록 조심하세요, 탐구자.
+/radiomessages/arcana_mission_seekerIntro.radiomessages.patch	/arcana_mission_seekerIntro_2_4/text	다음 방에서 테크를 시험해 보세요. 끝까지 마치면 기동 코스를 완료하게 됩니다.
+/radiomessages/arcana_mission_seekerIntro.radiomessages.patch	/arcana_mission_seekerIntro_3_1/text	이걸로 기동 코스는 끝입니다! 테크가 마음에 드나요? 준비한 게 하나 더 있어요 - ^orange;시커 권총^reset;이에요! 표적도 몇 개 준비해뒀어요: 다음 방에서 시험해보세요.
+/radiomessages/arcana_mission_seekerIntro.radiomessages.patch	/arcana_mission_seekerIntro_4_3/text	텔레포터가 꺼져 있나요? 이상하군요. 아까 확인했을 때만 해도 작동했는데.
+/radiomessages/arcana_mission_seekerIntro.radiomessages.patch	/arcana_mission_seekerIntro_5_2/text	말도 안 돼... 우리도 모르는 사이에 시스템을 뚫은 게 틀림없어. 금고로 가야겠어. 수호자님, 나갈 방법을 찾아서 가능하면 대피해요!
+/radiomessages/arcana_mission_seekerIntro.radiomessages.patch	/arcana_mission_seekerIntro_5_4/text	주의하여 진행하십시오. 다음 복도들에서 다수의 적대적 신호가 감지됩니다.
+/radiomessages/arcana_mission_seekerIntro.radiomessages.patch	/arcana_mission_seekerIntro_6_1/text	수호자! 무사하다니 다행이에요.
+/radiomessages/arcana_mission_seekerIntro.radiomessages.patch	/arcana_mission_seekerIntro_1_1/text	^orange;시커 시련^reset;에 온 걸 환영합니다! 진행하면서 도전 과제를 안내해 드리겠습니다.
+/radiomessages/arcana_radiomessage_dungeon_khnemnnIsland.radiomessages.patch	/arcana_radiomessage_dungeon_khnemnnIsland_4/text	잘했어요! 여기가 섬의 끝인 것 같군요. ^orange;앞쪽에서 텔레포터^reset;를 찾았으니 준비되면 언제든 떠나세요.
+/radiomessages/atprk_planetpincomments.radiomessages.patch	/atprk_planetpincomment_garden1/text	친절. ^#76fe68;무성한^white; 행성이 특별히 인상적이지 않을 수는 있죠. 하지만 꽤 평화롭다는 건 부정할 수 없습니다.
+/radiomessages/atprk_planetpincomments.radiomessages.patch	/atprk_planetpincomment_arctic1/text	무시. 하이로틀조차 ^#00ffe4;극지^white; 행성에 정착하지 않는 데는 다 그럴 만한 이유가 있어요.
+/radiomessages/atprk_planetpincomments.radiomessages.patch	/atprk_planetpincomment_tentacle1/text	당혹. 이건 좀 특이하네요. ^#c555c1;촉수^white; 행성의 표면은 전부 오염된 토양과 - 짐작하셨겠지만 - 살아있는 촉수로 이루어져 있어요.
+/radiomessages/avikanstory.radiomessages.patch	/avikanmission1-ghavorkan1/text	옆방에서 미확인 생명 신호가 감지됩니다. 경계하세요.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_2_cultist_4/text	^white;대장님, 남은 적군 위치를 파악했습니다. / 본부에서 최소 30분 걸린다고...                                                 / ..오, 안 돼. 적 접촉!!
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_9/text	^white;대장님! 큰 사상자가 났습니다! / 컬티스트들이 이미 통로를 장악했습니다! / 남은 건 우리뿐입니다. / 어떻게 합니까, 대장님?
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_11/text	^white;알겠습니다, 대장님!
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_13/text	^white;알겠습니다, 대장님.  / 하지만, 저 빌어먹을 거미들을 막으려고 문을 잠갔습니다.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_15/text	^white;알겠습니다. SRS 요원이 벽을 보강하는 동안, 우린 적 소환사들의 공격 속에 밖에서 문을 봉인하려 했어요.  / 하지만 봉인 막바지에... 큰 무리가... 저거!  / ^red;우리 분대가 매복당해 거대 거미 무리에게 먹혔습니다!
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_16/text	^red;*콜록 / ^white;당신과 함께 복무한 것은 영광이었습니다.. 각하. / ...
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_20/text	^white;대장님! 오셨군요! / 다른 사람들은요? / ...네?                          / 아니, 불가능해.. 그럴 리가.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_22/text	^white;..예.. 알겠습니다, 대장님. 앨리스 중위가 저와 함께 있었지만 지금은 아닙니다. 중상을 입고 다른 구역으로 이송됐습니다.  / 그리고 나머지는 ..어.. 민간인들뿐입니다. 여기서 군사 훈련을 받은 건 저뿐입니다, 대장님.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_24/text	^white;알겠습니다, 대장님! / 저는 이병 제시입니다, 어.. 사령관님.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_26/text	^white;아, 네, 지휘관님. / 그런데 앨리스 중위를 이송한 뒤에, 그분이 무기고에서 군용 스팀팩을 가지러 가셨어요.. 혼자서요.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_28/text	^white;알겠습니다, 대장님. / 그녀가 여기 남아 이 사람들을 지키라고 고집했어요. / ...                                     / 저.. 따라갔어야 했을까요?
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_30/text	^white;대장님. 동쪽에 비상 출구가 있어요. 가까워요.  / 하지만, 장벽을 열려면 비상 백업 발전기를 가동해야 해요. / 가동하면 그... 것들한테 물길을 열어주는 거라 못 했어요!  / 혼자 모두를 지킬 수 없어서 지금까지 닫아뒀어요.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f2_32/text	^white;오, 안 돼..! / 온다! 거미들이다! / ^green;사령관! 지금 바로 비상 발전기를 가동해야 해요!!^white;
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f4_3/text	^white;알겠습니다, 사령관님. / 아, USCM 말이죠. 마지막으로 들은 바로 보호국에서 쫓겨났대요. 그리고 에이펙스 건이 터졌죠...
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f4_5/text	^white;알겠습니다, 사령관님. USCM 대원의 90~95%가 이미 에이펙스에게 세뇌되고 약물에 빠졌어요. 그들과 산발적이지만 소규모 충돌도 있었죠.  / 	지금쯤 대부분은 그냥 무장 강도일 거예요, 소수 부대 빼곤.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f4_20/text	^white;...네무- 예의 좀 갖추고 제발 일어나, 안 그러면 이 렌치로 한 대 때릴 거야! / 죄송해요, 부인. 엔진실의 수많은 문제를 해결하려고 기술팀이 여러 조로 나뉘었거든요!  / 그런데 다른 조들과 연락이 끊겨서 대부분이 실종 상태예요.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f4_27/text	^green;(그녀의 얼굴이 파랗게 질렸다.) / ^white;아니요, 괜찮아요! 저는 지금 괜찮아요!
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_f5_4/text	^white;알겠습니다, 대장님. / 제시, 블루 팀, 나와 함께. / 요원..                                     / 고마워. 네가 해준 모든 것에. 우리가 빚졌어.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_lastboss_0_2/text	^white;그렇습니다, 박사님.
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_lastboss_0_8/text	^white;어..? / 대장님, 하늘에 저 ^green;주황빛^white; 보입니까?
+/radiomessages/ffs2_radiomessages.radiomessages.patch	/ffs2_lastboss_2_5/text	^white;알겠습니다, 대장님!
+/radiomessages/ffs2_radiomessages_hc.radiomessages.patch	/ffs2_5_6b_0_hc/text	안녕하세요! 보시다시피, 제가 애나를 처리했어요. / 5분에서 10분씩 여기 앉아서 버텨야 하는 엄청 힘든 전투를 기대하셨을 텐데 말이죠-
+/radiomessages/ffs2_radiomessages_hc.radiomessages.patch	/ffs2_ending_hc_4/text	화이트 크로우 승무원을 대표해, 진심으로 사과드립니다.
+/radiomessages/ffs2_radiomessages_hc.radiomessages.patch	/ffs2_ending_hc_11/text	대위님! 큰 문제가 생겼어요!!
+/radiomessages/ffs_mission_radiomessages.radiomessages.patch	/ffs_cultistmission_inital4/text	오 안녕하세요 친절한 할머니! 저는 치키타예요! 만나서 반가워요!
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_0_1/text	^green;장비를 찾으려면 사물함을 확인하세요. / ^white;이 구역의 생명 반응 탐색 중.. / 목표가 갱신됐다. / 생존자를 수색하고 구출하라. / ^green;무장이 끝나면 여기서 동쪽으로 이동하라.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_0_4/text	이 지역을 조사하는 게 좋을 것 같아. / ^green;힌트: 상호작용 키(기본값 'E')로 물체와 상호작용하세요.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_0_5/text	현장 조사가 끝나면, 앞으로 계속 진행하면 돼. / ^green;전술 평가: 상호작용 키로 푸른 화살표를 작동시키고 다음 구역으로 진행하세요.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_2_2/text	경보: 이 통로는 스캐너에 나타나지 않습니다. 주의하며 진행하세요..
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_3_1/text	여기가 버려진 광산의 1층 지하실입니다. / 먼저 01구역을 확인해야 합니다. / 서쪽 가장 깊은 구역에서 찾을 수 있습니다. / 제가 아는 한, 해적들이 이곳을 막사로 쓰고 있습니다. / 부디 조심하세요.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_3_5/text	아래 통로에서 다수의 인간 생명체 감지. 주의해서 진행하십시오.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_3_7/text	조심하세요! / 어둠 속에서 뭔가를 봤어요!
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_3_8/text	알림: 03구역 접근이 개방되었습니다. 인간 신호 하나 감지. 신원을 확인할 수 없습니다...
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_3_13/text	주의: 월리스의 신분증을 챙기세요. 그의 죽음을 증명하는 데 필요합니다.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_5_2/text	분석 중. 이 레버는 무언가에 연결된 것 같습니다.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_5_12/text	중무장 병력이 도착했습니다, 대장님! / 적과 교전합니다!
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_6_1/text	새로운 3차 목표 추가됨: 4층 무기고에 접근하라. / 다수의 적대 세력 감지됨. 주의하십시오.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_6_2/text	분석 결과 이 제어판이 무기고의 잠금장치를 제어하고 있습니다.  / 스캔 결과 같은 장치가 2개 더 있음이 확인됩니다. / ^green;무기고에 접근하려면 세 개를 모두 활성화해야 합니다.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_6_4/text	제어 패널 3개 중 2개를 찾았습니다. 활성화하면 무기고가 잠금 해제됩니다.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_6_5/text	제어 패널 3개 중 3개를 찾았습니다. 다른 패널도 활성화했다면, 이 패널로 무기고에 완전히 접근할 수 있습니다. / ...다른 제어 패널을 활성화한 건 기억하죠? / 그렇지 않다면 엘리베이터를 타고 돌아가길 권합니다. 처음부터 다시 시작해야 합니다. / 다만 해적들이 이제 당신의 존재를 알아챘음을 유의하세요. / 돌아가면 아마 다시 방어를 강화했을 겁니다.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_7_4/text	조심하세요. / 문 너머에는 적이 많습니다.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs0_8_1/text	분석 결과 눈앞의 혈전은 상태가 좋지 않습니다.  / ^green; 전술 조언: 쏘십시오.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs_breadnut1_0_2/text	분석 결과 이전 교전의 흔적이 감지되었습니다. SRS가 전투에서 패배한 것으로 보입니다. / 전방에서 다수의 적대 신호가 감지됩니다. 그들은 아직 이곳에 있습니다.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs_breadnut1_2_0/text	데이터 업로드 완료. 확보한 문서에 따르면, VIP가 이곳에 있습니다.  / ^red;임무 목표 갱신됨: VIP를 구출하라.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs_breadnut1_2_2/text	데이터가 필요합니다. ^red;2차 목표: 임무 성공률을 높이기 위해 이곳에 대한 정보를 수집하십시오.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs_breadnut1_2_4/text	분석 결과 아래에 있는 발전기가 불안정합니다. ^green;전술 조언: 해적들이 발전기 옆에 올 때까지 기다렸다가 폭파하십시오.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs_breadnut1_3_2/text	알림: 금고 안에 뭔가가 있습니다.
+/radiomessages/ffs_radiomessages.radiomessages.patch	/ffs_breadnut1_3_5/text	동굴 안에서 글리치 무선 신호가 감지됩니다. 우리 VIP의 신호일 가능성이 매우 높습니다.
+/radiomessages/ffs_radiomessages_hc.radiomessages.patch	/ffs0_0_5_hc/text	혹시 상호작용 방법을 잊어버렸을까 봐. / ^green;힌트: 'E' 키로 파란 화살표와 상호작용하세요. / ^white;...조작키를 바꾸지 않았다면 말이지. 바꿨다면 알아서 해.
+/radiomessages/ffs_radiomessages_hc.radiomessages.patch	/ffs0_1_3_hc/text	전방에 적. / ^red; 조심해, 저격수다! 그리고... 항공기도. / ^green;힌트: 저격수는 이제 조준하고 발사하는 데 걸리는 시간이 줄었습니다. / 항공기는 이제 비폭발형 로켓 하나 대신 폭발형 로켓 네 발을 연속으로 발사합니다.
+/radiomessages/ffs_whitecrow.radiomessages.patch	/ffs_whitecrow_bridge_2/text	^white;그래요, 대장님. 한 달 정도요. / 장비도, 자원도, 연료도, 시간도 없어요. 조만간 식량 사냥을 나가야 해요. ..그리고 기술 인력은 소수 빼고 전부 MIA거나 KIA예요.
+/radiomessages/ffs_whitecrow.radiomessages.patch	/ffs_whitecrow_bridge_4/text	^white;알겠습니다, 대장님.
+/radiomessages/ffs_whitecrow.radiomessages.patch	/ffs_whitecrow_barrack_5/text	^white;오, 사령관님, 저기 사격장이 있어요. / 대장님께 사용하고 싶다고 말씀드릴게요,  / 하지만 지금은 안 돼요. / 죄송해요!
+/radiomessages/ffs_whitecrow.radiomessages.patch	/ffs_whitecrow_cargo_5/text	그래, 이거 끝나면... ^white;...아, 요원!  / 뭘 도와드릴까요? 기술 지원이 필요하면 번호표를 뽑아주세요. 지금 엄청 바쁘거든요. / 아니면 저기 있는 예쁜 벙어리랑 얘기하셔도 되고요..
+/radiomessages/gicexp_missions.radiomessages.patch	/esc_MW_chat_PMC_3/text	사령관님, 신원 불명의 침입자가 교외 방어선을 뚫고 이제 공장에 들어섰습니다. 목표는 화물입니다!
+/radiomessages/gicexp_missions.radiomessages.patch	/esc_MW_chat_PMC_recovery/text	중요 보급품을 운반하던 수송팀이 적의 공격을 받았습니다. 전투 지역으로 진입하여 수송팀을 수색 및 확인합니다.
+/radiomessages/gicexp_missions.radiomessages.patch	/esc_nt_1_2_mission_1_2/text	모든 게 끝난 후, 우리는 당신의 모든 증거를 없애기 위해 FTL 엔진 고장을 일으켜야 할 거예요.
+/radiomessages/gicexp_missions.radiomessages.patch	/esc_nt_1_2_mission_3_alt00/text	함장님. 저희는 고용하신 증강 보안팀입니다. 즉시 안전 프로토콜을 실행하겠습니다. 걱정 마십시오.
+/radiomessages/gicexp_missions.radiomessages.patch	/esc_intromission_pre_2/text	오늘 14시, 핵심 실험단이 50년 만의 최대 실험 성과를 발표합니다. 전 직원은 정시에 발표회에 참석해 주시기 바랍니다.
+/radiomessages/gicexp_missions.radiomessages.patch	/esc_intromission_1/text	주의: 본 시설이 무허가 무장 인원의 공격을 받았습니다. 전 직원은 각자의 근무지에서 대피하시기 바랍니다. 곧 경비 병력을 투입해 위협을 제거하겠습니다.
+/radiomessages/gicexp_missions.radiomessages.patch	/esc_intromission_3/text	주의: 특정 실험 샘플이 격리를 이탈했습니다. 관계없는 인원은 미확인 개체나 물체에 가까이 가지 않도록 권고합니다. 협조에 감사드립니다. 시간 조작 시스템이 곧 가동됩니다. 시설은 한 시간 이내에 오늘 아침 시간대로 재설정됩니다. 전 인원은 각자 위치를 지키십시오. 당황하지 마십시오.
+/radiomessages/gicexp_missions.radiomessages.patch	/esc_exp_story_yffs_2/text	어, 이건... 음... 안녕하세요. 목적이 뭔지는 모르겠지만- 배신자를 제거하고 테러리스트들이 훔치려던 '장치'를 되찾은 거? 정말 훌륭한 일이었습니다.
+/radiomessages/gico_messages.radiomessages.patch	/gico_tengu_waterfall_intro2/text	앞으로 강력한 저항을 예상하십시오. 이 터널 안에 요괴가 얼마나 있는지 모르니 최악의 상황을 각오하십시오.
+/radiomessages/lawHQmissions_M01.radiomessages.patch	/hqmission01_mess01/text	경관님, 상황은 간단합니다. ^orange;중무장한 인물들이 마약 밀매 혐의를 받는 집을 습격했습니다^reset;. 정면 돌격은... 결과를 초래할 수 있습니다. 아니요, 경관님, 들어가지 마세요!
+/radiomessages/lawHQmissions_M01.radiomessages.patch	/hqmission01_mess04/text	경관님, 제 말이 들리면, 두 부대가 구역장 '돈 마카로니'를 포위하고 있습니다. 그는 극도로 위험합니다. 조심하세요!
+/radiomessages/lawHQmissions_M01.radiomessages.patch	/hqmission01_mess06/text	수고했어요, 경관님. 마카로니가 병원에서 회복하면 심문할 수 있겠죠. 형을 줄이는 대가로 몇몇 이름을 댈지도 몰라요.
+/radiomessages/lawHQmissions_M02.radiomessages.patch	/hqmission02_mess01/text	경관님, 대부님 돈 카마로니의 마약 밀매 수사를 진전시키려면 수감자 ^orange;코넬리우스 타르코프^reset;를 심문해야 합니다. 교도소장에게 연락해주세요.
+/radiomessages/lawHQmissions_M02.radiomessages.patch	/hqmission02_mess02/text	안녕하세요 경관님, 국장님이 사무실에서 기다리고 계십니다.
+/radiomessages/lawHQmissions_M02.radiomessages.patch	/hqmission02_mess03/text	좋은 아침입니다, 경관님. 상관께서 죄수 ^orange;코넬리우스 타르코프^reset;를 심문하도록 허락하셨습니다. 3구역에 수감돼 있습니다. 감방에 너무 가까이 다가가지 않도록 조심하세요. 이 구역 죄수들은 상당히 공격적입니다.
+/radiomessages/lawHQmissions_M02.radiomessages.patch	/hqmission02_mess06/text	경관님, 공범의 도움을 받아 수감자 한 명이 탈옥했습니다. 타르코프입니다. 오늘 있었던 폭발로 우리 전력망이 완전히 파괴됐습니다. 조심하세요, 수감자들이 전부 감방 밖으로 나와 있습니다.
+/radiomessages/lawHQmissions_M02.radiomessages.patch	/hqmission02_mess07/text	소장님, 방금 구멍을 발견했습니다. 공범들이 밖에서 죄수동 쪽으로 파고 들어왔습니다. 상관에게 연락해서 최대 지원을 요청해 주십시오.
+/radiomessages/lawHQmissions_M02.radiomessages.patch	/hqmission02_mess11/text	물론이죠, 지금 바로 항복하겠습니다... 여러분, 그를 죽여라!
+/radiomessages/lawHQmissions_M03.radiomessages.patch	/hqmission03_mess01/text	경관님, 조심하세요, 새로운 정보가 들어왔습니다. ^orange;탈취된 P1078 경찰^reset; 드론이 함선 내부에서 감지됐습니다, 조심하세요. 발각을 피하기 위해 교신을 끊겠습니다.
+/radiomessages/lawHQmissions_M03.radiomessages.patch	/hqmission03_mess04/text	경관님, 지금은 먹고 마실 때가 아닙니다. 자, 얼른 움직이세요, 기다리고 있습니다!
+/radiomessages/lawHQmissions_M03.radiomessages.patch	/hqmission03_mess05/text	조심하세요, 실수하지 마세요, '^red;위험, 이 버튼을 누르지 마시오^reset;'라고 적힌 버튼은 누르지 마세요... 마지막으로, 눌러보세요, 마법 같을 거예요.
+/radiomessages/lawHQmissions_M03.radiomessages.patch	/hqmission03_mess06/text	경관님, 제 프로그래밍 실력을 기억하세요. 제가 서버를 확실히 지키지 않았을 거라고 정말 생각하시나요, 어떤 잘난 척하는 놈이 손대지 못하도록? 실망스럽네요!
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess01/text	여기 계셨군요, 장교님. 무슨 일이 생긴 줄 알았습니다. 저희도 들어가려 했지만 드론 때문에 물러날 수밖에 없었습니다. 서버에 접근해 정보를 가져올 수 없었어요...
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess02/text	펄더 요원, 여러 시신을 바닥에서 봤습니다. 의료 지원을 요청해 주세요, 저는 더 이상... 적의 사격을 받고 있어서, 더 이상 진전할 수 없습니다... 이상....
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess03/text	펄더 요원, 보안실에 있습니다. 기지가 오염된 드론들로 가득 찼습니다. 서버를 찾기 위해 계속 진행해 보겠습니다... 이상....
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess04/text	환영합니다, 경관님, 또 만났군요! 살아남으셨어요, 하지만 이건 그저 일시적인 유예일 뿐이죠. 아직 인류를 위협으로 보진 않지만, 계속 그러시다간 상황이 달라질 거예요...
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess06/text	펄더 요원, 서버실에 있습니다. 얻을 수 있는 정보는 최대한 얻고, 제어 장치를 폭파할 겁니다... 이상....
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess07/text	경관님. 뭘 하셨는지는 모르겠지만, 지상에 활동이 있습니다. 저희가 뭔가... 젠장! 빨리, 전원 엄폐-...
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess10/text	펄더 요원, 들리십니까? 이 지역을 떠나세요, 그 실체가 단지 건설을 장악했습니다. 제가 여기서 살아 나갈 수 있을지도 모르겠습니다.
+/radiomessages/lawPBImissions_M04b.radiomessages.patch	/pbimission04b_mess12/text	경관님, 대단한 끈기를 보여주셨습니다. 제 화신들 중 하나와 맞설 수 있을지 지켜보죠!
+/radiomessages/lofty_irisil_pickmeup.radiomessages.patch	/lofty_irisil_pickMeUp_nothingInThereSorry12/text	그를 부추기지 말아주세요.
+/radiomessages/lofty_irisil_pickmeup.radiomessages.patch	/lidpmu_COMPLETE_KEY_CIRCUIT_sendDialog/text	정말 잘했어요! 보상을 드리기 전에 아직 도움이 필요해요 - 바닥에서 만나요!
+/radiomessages/lofty_irisil_pickmeup.radiomessages.patch	/lofty_irisil_pickMeUp_putBlueOnPedestal/text	저를 이 받침대 위에 놓아주세요. 제가 우리를 위해 문을 열어드릴 수 있어요.
+/radiomessages/lofty_irisil_pickmeup.radiomessages.patch	/lofty_irisil_pickMeUp_dontLeaveMeHere_BLUE/text	저도 데려가주세요! 이게 끝나기 전에 아직 같이 할 일이 남았어요.
+/radiomessages/mwhaddon_misc.radiomessages.patch	/mwhaddon_radiomessage_galacticAtlas/text	안녕하세요, ^yellow;수호자^reset;. 이 메시지를 보고 계시다면, 은하 지도에서 ^orange;이상한 목적지^reset;를 발견하셨겠군요. ^green;또 다른 ^yellow;항해^green;에 관심이 있으시면, 그곳에 한번 들러보세요.
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter1_3_2/text	연결이 복구되었습니다. 현재 에메랄드 글림프스에서 약 47.62파섹 떨어진 아몬드 엡실론 IV에 있습니다. 유적 입구가 당신을 여기로 떨어뜨린 모양입니다.
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter1_3_5/text	제 이름은 ^green;샐리^reset;예요. 그라운디드죠. 지금은 ^cyan;슈프레인터 제국대학교 성간사학과^reset;에 다니고 있어요. 여기 프로젝트 하러 왔는데, 당신은 여긴 무슨 일로? 아 잠깐만요, 한번 맞혀볼게요...
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter1_3_6/text	탐험이 틀림없어, 당신 같은 위대한 수호자라면 다들 그렇게 하겠지! 부디, 저도 함께해도 될까요? 제 탐사 지식이 도움이 될 거예요!
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter1_3_11/text	이 방은... 선배! 저 선반에 지팡이가 있어요!
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_1_1/text	우리 지금 하수도에 있어요, 선배! 신나네요! 냄새만 빼면요!
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_1_4/text	여기 위로 올라갈 수 있는 것 같아요, 선배! 아마 저기가 글림레쿠스 탑이 있는 곳일 거예요.
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_1_5/text	장식이... 정말 글림레쿠스 탑에 들어왔군요, 선배!
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_1_10/text	이 조각상 좀 보세요, 선배! 정말 살아있는 것 같지 않나요! 뭐, 좀 지나치게 살아있는 것 같기도 하지만...
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_1_11/text	서, 선배, 저건 우리를 환영하는 것 같지 않아요...
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_1_18/text	해낸 것 같아요, 선배! 이제 넘어가죠!
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_1_20/text	잠깐, 거기 빈더밀 씨 맞나요? 잠시 이야기를 나누고 싶습니다. '먼지 탐구자'에 대해서요, 알고 계시죠?
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_1_23/text	조심하세요, 선배!
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_1_25/text	우리가 정말 먼지 탐구자를 만났어요, 빈더밀 님! 그것의 파편 표본도 있어요! 그리고 네레우스 박사님의 이 추천서도요! 아시잖아요?
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_2_9/text	사실, ^cyan;엑수시아의 슈프레인터 제국대학교^reset;에 진학한 건 부모님 뜻이었어요, 처음엔 그다지 그곳에서 공부하고 싶지 않았거든요.
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_2_11/text	그때부터 나를 성간 역사학과 사랑에 빠지게 만든 건 바로 그녀였어요. 그녀가 아니었다면 아마 선배을 만나지도 못했을 거예요!
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_2_12/text	오! 죄송해요, 선배! 제 말을 들어주시려는 건 감사하지만, 다른 사람 얘기는 하면 안 돼죠! ㄱ-그냥 잊어주세요!
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_2_13/text	부적의 빛이 점점 밝아져요. 이제 정말 가까운 것 같아요!
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_3_2/text	또 레이저야, 선배! 다른 길을 찾아봐야겠어요!
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter2_3_4/text	레이저 구성이 바뀌었어요, 선배! 이제 통과할 수 있을 것 같아요.
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter3_2_7/text	캐터펄트는 ^orange;커서가 구체 가까이에 있으면^reset; 발사되지 않습니다. 이 방법으로 캐터펄트 발사를 취소할 수 있습니다.
+/radiomessages/mwhaddon_mission_mainStory.radiomessages.patch	/mwhaddon_mission_mainStory_chapter3_2_10/text	축하합니다! 모든 시험 레벨을 완료했습니다! ^green;앞의 텔레포터로 돌아갈 수 있습니다.
+/radiomessages/mwhaddon_mission_sideStory.radiomessages.patch	/mwhaddon_mission_horizon_2_3/text	수십 개의 적 신호가 감지되었습니다. 경계를 권장합니다.
+/radiomessages/mwhaddon_mission_sideStory.radiomessages.patch	/mwhaddon_mission_horizon_3_3/text	전방에서 다수의 지뢰로 의심되는 물체를 탐지했습니다. 정면 돌파보다는 다른 경로를 찾는 것을 강력히 권장합니다.
+/radiomessages/mwhaddon_mission_sideStory.radiomessages.patch	/mwhaddon_mission_horizon_3_4/text	또 다른 무리가 감지되었습니다.
+/radiomessages/mwhaddon_mission_sideStory.radiomessages.patch	/mwhaddon_mission_horizon_3_7/text	전방에 적 함선 발견. 다수의 적대 신호가 감지되었습니다. 주의해서 진행하십시오.
+/radiomessages/mwhaddon_mission_sideStory.radiomessages.patch	/mwhaddon_mission_horizon_4_7/text	조금만 버텨요. 우리 쪽 사람들이 당신을 도우러 가고 있어요.
+/radiomessages/pf_newtutorial.radiomessages.patch	/pf_deadlyhazardtutorial_b/text	^orange;개량형 위험 실험 탁자^reset;가 있다면 ^green;완전 면역을 제공하는 훨씬 강력한 기후 보호 장비^reset;를 제작할 수 있습니다. 이 방법을 강력히 추천합니다.
+/radiomessages/sb_tutorial.radiomessages.patch	/sb_pickupinventorstable/text	많은 바닐라 제작대는 현재 선택된 탭을 다시 클릭해 선택 해제하면 모든 탭을 한 번에 볼 수 있게 해준다는 점을 참고하세요. 모드로 추가된 아이템이 어느 탭에도 나타나지 않는 오류가 있을 때 유용할 수 있습니다.
+/radiomessages/sb_tutorial.radiomessages.patch	/sb_unlocktech/text	다음 테크를 사용할 수 있습니다: ^green;%s^reset; 테크 카드를 사용해 테크 콘솔에서 테크를 구매할 수 있습니다.
+/radiomessages/sb_tutorial.radiomessages.patch	/sb_unlocktechs/text	다음 테크들을 사용할 수 있습니다: ^green;%s^reset; 테크 카드를 사용해 테크 콘솔에서 테크를 구매할 수 있습니다.
+/radiomessages/shpd.radiomessages.patch	/shpd_catalyst2/text	저기 ^orange;황금빛 가루^reset; 보이세요? 저건 주문 크리스탈을 만드는 데 쓰이는 ^green;아케인 촉매^reset;예요. 제 데이터뱅크에 따르면 연금술 반응 중 아케인 촉매가 형성될 확률은 ^green;33%^reset;예요.
+/radiomessages/shpd.radiomessages.patch	/shpd_bag2/text	^green;물약 탄띠^reset;는 병, 구급상자, 붕대, 스팀팩 같은 다양한 ^orange;소모성 아이템^reset;을 보관할 수 있습니다.
+/radiomessages/shpd.radiomessages.patch	/shpd_bag3/text	^green;두루마리 보관함^reset;은 ^orange;연료, 크리스탈, 큰 종이류^reset;는 물론 ^green;아케인 촉매^reset;도 다양하게 보관할 수 있습니다.
+/radiomessages/shpd.radiomessages.patch	/shpd_bag4/text	^green;마법 홀스터^reset;는 다양한 종류의 ^orange;원거리 무기^reset;를 보관할 수 있습니다.
+/radiomessages/thea-instances.radiomessages.patch	/avikanroguehunt2/text	조심하세요: 앞쪽 지역에 도적이 많습니다.
+/radiomessages/thea-instances.radiomessages.patch	/vanguardmechunlock6/text	크랄은 수중 운용이 완전히 가능합니다. 망설이지 말고 뛰어드세요.
+/radiomessages/thea-instances.radiomessages.patch	/vanguardmechunlock7/text	낮은 조도가 감지됩니다. ^green;[F]^reset; 버튼으로 크랄의 헤드라이트를 켤 수 있습니다.
+/radiomessages/thea-instances.radiomessages.patch	/vanguardmechunlock8/text	크랄의 점프젯은 수평 비행에도 사용할 수 있습니다. 반대편으로 날아가 보세요.
+/radiomessages/thea-instances.radiomessages.patch	/vanguardmechunlock10/text	크랄은 이 작은 문을 통과할 수 없습니다. 뛰어나가서 텔레포터로 이동하세요.
+/radiomessages/ttppmission.radiomessages.patch	/ttppmission1a/text	쿡 씨가 마지막으로 목격된 곳은 이 근처예요! / 어서 찾으러 가요!
+/radiomessages/ttppmission.radiomessages.patch	/ttppmission1b/text	우리의 최신 명물을 되찾으려는 건가요?!  / 각오하세요! - 쇼는 계속되어야 한다! / ...나는 선택한다, ^orange;포피톱!^white;
+/radiomessages/ttppmission.radiomessages.patch	/ttppmission1c2/text	쿡 씨가 다른 곳으로 끌려갔다고요? 이런, 걱정하지 마세요! 당신 도움이 있으면, 우리가 그를 구출해서 다시 모두에게 미소를 되찾아줄 거예요! ^orange;그냥 그의 흔적을 따라가세요!
+/radiomessages/ttppmission.radiomessages.patch	/ttppmission1d/text	부서진 봉쇄 막대, 붉은 경보 사이렌, 바닥의 슬라임 흔적 데이터를 분석한 결과, 대상은 또 다른 위치에 있다는 결론을 내렸습니다. 더 깊이 들어가야 합니다.
+/radiomessages/ttppmission.radiomessages.patch	/ttppmission2d1/text	궁금하네요, 제 데이터에 따르면 현재 고위 수호자이신 레다 포르샤 님의 초상화가 사라졌어요.
+/radiomessages/ttppmission.radiomessages.patch	/ttppmission2e1/text	지질 탐사 결과, 이 지하 해치와 이어진 방대한 동굴망이 확인됐습니다.
+/radiomessages/ttppmission.radiomessages.patch	/ttppmission2m3/text	누구세요?
+/radiomessages/ttppmission.radiomessages.patch	/ttppmission3b1/text	환영해요, 환영해요, 내 가장 사랑하는 이들! / 여기선 모든 간식이 선물이고, 모든 선물이 간식이죠!
+/radiomessages/viera.radiomessages.patch	/magicitediscovery01-refineMagicite-initial/text	제 말 들려요? 당신이 찾은 건 분명 ^orange;마기사이트 수정 광석^reset;이에요 - 문제는 우리한테 쓸모가 있으려면 ^green;정제해야 한다^reset;는 거죠. 아무 ^orange;돌 벽난로^reset;에서나 정제할 수 있을 거예요.
+/radiomessages/viera.radiomessages.patch	/magicitediscovery01-returnToSeonha-initial-b/text	여보세요? 오 잘됐네요, 마침 확인해보려던 참이었어요. ^orange;재료를 모으셨다면^reset; ^green;저에게 돌아와 주세요^reset;, 우리가 뭘 만들어야 할지 보여드릴게요.
+/radiomessages/voidedexploration.radiomessages.patch	/v-biomepoison/text	안전을 위해 대기 중 마이코톡신을 걸러 낼 EPP를 반드시 장착하십시오! 부분적인 보호만으로도 사망 위험을 200% 낮출 수 있습니다!
+/radiomessages/voidedexploration.radiomessages.patch	/v-toxiclaboratorysigns/text	지표 투과 스캔이 완료되었습니다. 결과에 따르면 ^green;비정상적으로 높은 금속 농도^reset;가 감지되었으며, 인공적인 것으로 추정되고 ^orange;지하 깊은 곳^reset;에 위치해 있습니다.
+/radiomessages/voidedexploration.radiomessages.patch	/v-titanpassive1/text	당신 주변에서 거대한 전자기 이상이 감지됩니다. 스캔 결과 이 구역의 모든 빛이 사라졌습니다, 밤하늘의 빛조차도요.
+/radiomessages/voidedtutorial.radiomessages.patch	/v-nullium/text	^red;생명체를 추적하는 물질^reset;로 뒤덮인 불안정한 광석이 감지됩니다. 채굴하실 때 주의하세요.
+/radiomessages/voidedtutorial.radiomessages.patch	/v-depthpoison/text	이 행성 대기에서 ^orange;미확인 마이코톡신^reset;의 신호가 감지됩니다. 생물학적 분석에 따르면 처음엔 무해하지만, 너무 많이 축적되면 ^red;치명적^reset;으로 변합니다. 조심하세요.
+/radiomessages/voidedtutorial.radiomessages.patch	/v-cityspawnertutorial/text	방 한가운데 있는 ^orange;생성기^reset;가 ^yellow;유예 시간에 들어간^reset; 것 같습니다. 이 틈을 이용해 ^green;유예가 끝나기 전에 잃어버린 소지품을 회수^reset;하시길 권합니다.
+/radiomessages/voidedtutorial.radiomessages.patch	/v-cityspawnertutorial2/text	용기가 있다면 이것과 ^green;상호작용^reset;하여 예비 개체를 방출할 수 있습니다.
+/radiomessages/voidedtutorial.radiomessages.patch	/v-labspawnertutorial/text	방 한가운데 있는 ^orange;생성기^reset;가 ^yellow;유예 시간에 들어간^reset; 것 같습니다. 이 틈을 이용해 ^green;유예가 끝나기 전에 잃어버린 소지품을 회수^reset;하시길 권합니다.
+/radiomessages/voidedtutorial.radiomessages.patch	/v-labspawnertutorial2/text	용기가 있다면 이것과 ^green;상호작용^reset;하여 예비 개체를 방출할 수 있습니다.

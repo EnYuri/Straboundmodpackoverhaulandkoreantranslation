@@ -1,0 +1,15 @@
+asset	field	en	ko	src
+/items/armors/decorative/hats/atprk_extendedstorygolemmask/atprk_extendedstorygolemmask.head	description	Pretend to be the galaxy's strongest golem with this mask.		
+/items/armors/decorative/hats/atprk_extendedstorygolemmask/atprk_extendedstorygolemmask.head	shortdescription	Galactic Golem Mask		
+/objects/crafting/atprk_esancientforgesmall/atprk_esancientforgesmall.object	description	A smaller ancient forge. Unlocks more recipes.	더 작은 고대 대장간. 더 많은 제작법을 해금한다.	reuse
+/objects/crafting/atprk_esancientforgesmall/atprk_esancientforgesmall.object	shortdescription	Essence Forge	정수 대장간	reuse
+/objects/crafting/atprk_esancientforgesmall/atprk_esancientforgesmall.object	title	Essence Forge	정수 대장간	reuse
+/objects/crafting/atprk_esancientforgesmall/atprk_esancientforgesmall.object	subtitle	Ancient armor and weapons		
+/objects/crafting/atprk_esancientfurnacesmall/atprk_esancientfurnacesmall.object	title	 Essence Crucible	정수 도가니	reuse
+/objects/crafting/atprk_esancientfurnacesmall/atprk_esancientfurnacesmall.object	subtitle	 ^#b9b5b2;More things to smelt	 ^#b9b5b2;녹일 것들이 더 있어	reuse
+/objects/crafting/atprk_esancientfurnacesmall/atprk_esancientfurnacesmall.object	description	A smaller ancient furnace, used for smelting various materials.	다양한 소재를 제련하는 데 쓰이는, 더 작은 고대 용광로.	reuse
+/objects/crafting/atprk_esancientfurnacesmall/atprk_esancientfurnacesmall.object	shortdescription	Essence Crucible	정수 도가니	reuse
+/objects/crafting/atprk_esupgradestationsmall/atprk_esupgradestationsmall.object	title	Upgrade Console	업그레이드 콘솔	reuse
+/objects/crafting/atprk_esupgradestationsmall/atprk_esupgradestationsmall.object	subtitle	Upgrade tier 6-8 weapons here	여기서 6-8단계 무기 업그레이드	reuse
+/objects/crafting/atprk_esupgradestationsmall/atprk_esupgradestationsmall.object	description	A console used for upgrading weapons that are tier 6, tier 7, or tier 8.	티어 6, 티어 7, 티어 8 무기를 업그레이드할 때 쓰는 콘솔입니다.	reuse
+/objects/crafting/atprk_esupgradestationsmall/atprk_esupgradestationsmall.object	shortdescription	Upgrade Console	업그레이드 콘솔	reuse

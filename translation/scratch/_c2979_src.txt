@@ -1,0 +1,281 @@
+0	^yellow;Hides muzzle flash and significantly reduces smoke when attached to the muzzle of a firearm.
+  
+^white;Only supports mg338
+
+^green;+5% accuracy | -5% miss chance.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+1	^ffee00;^reset;[Black Ops]MG338 Suppressor
+2	^yellow;^orange;Afflicts hit targets with SUDDEN-STRIKE, granting subsequent shots +50% DMG. If the target is not hit again for 0.25s, the target becomes RESISTANT to SUDDEN-STRIKE for 480s.^white;
+  
+  ^white;Only supports mg338.
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+3	^ffee00;^reset;[Black Ops]MG338 suppressor
+4	Multi-caliber silencer Silencerco Hybrid 46 is designed for use with wide range of Ammo.
+^green;This barrel are classed as Exotic barrel.^reset;
+^yellow;^orange;Afflicts hit targets with SUDDEN-STRIKE, granting subsequent shots +50% DMG. If the target is not hit again for 0.25s, the target becomes RESISTANT to SUDDEN-STRIKE for 480s.^white;^white;.
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+5	^ffee00;^reset;[Black Ops]Silencerco Suppressor
+6	^yellow;Hides muzzle flash and significantly reduces smoke when attached to the muzzle of a firearm.
+  
+^white;Only supports cheytac
+
+^green;+5% accuracy | -5% miss chance.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+7	^ffee00;^reset;[Black Ops]Cheytac Flash Suppressor
+8	^yellow;^orange;Afflicts hit targets with SUDDEN-STRIKE, granting subsequent shots +50% DMG. If the target is not hit again for 0.25s, the target becomes RESISTANT to SUDDEN-STRIKE for 480s.^white;
+  
+^white;Only supports cheytac.
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+9	^ffee00;^reset;[Black Ops]CheyTac suppressor
+10	''Shielded Protectors didn't like that we were fighting back.''
+Firearm barrel that ^#A3C1FF;imbues ammunition with electricity,^reset; enabling ^#A3C1FF;OVERCHARGING^reset; which lowers enemy ATK. ^yellow;Bullets retain their original power and bleed effects.^reset;
+Supports attachment on most firearms that can attach a barrel.
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+11	[Black Ops] Call of the Storm
+12	''Compensators aim to reduce the recoil and muzzle rise of your firearm. Recoil reduction is achieved by venting gas upwards, which drives the muzzle down.''
+  
+^orange;Subsequent repeated shots on the same target weaken the target by -25%, for up to 0.25s per bullet.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+13	[Black Ops] Compensator Attachment
+14	''Nowadays if you can't get creative, your chances of livin' go straight down the tubes. That one crazy idea you've been keepin' in your back pocket? Time to take it out for a spin.''
+Supports attachment on most firearms that can attach a barrel.
+^orange;Shots that count as ''misses'' will no longer miss at all, but will only deal 25% of the damage that would be dealt normally.
+^yellow;Point-blank and shots that count as ''hits'' still deal full damage.
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+15	[Black Ops] Earth Remnant Barrel
+16	^yellow;Hides muzzle flash and significantly reduces smoke when attached to the muzzle of a firearm.^white;
+
+^green;+5% standing accuracy | -5% standing miss chance.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+17	[Black Ops] Flash Suppressor
+18	Long Barrel attachment with foreguard. Designed for revolvers, but can be attached to any gun with a compatible barrel slot.
+
+^green;+30% [EWS] Accuracy.
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+19	[Black Ops] Foreguard Extension
+20	''We didn't expect the fairies to be any smart, but I guess if you've lived for hundreds of years as the embodiment of Nature... you'd pick up a thing or two.''
+Firearm barrel that ^#A3C1FF;imbues ammunition with frost,^reset; converting its base element into ^#A3C1FF;ICE^reset; and afflicting ^#A3C1FF;FROSTBURN^reset; which deals 20 DMG/s and slows by -25%
+^yellow;Bullets retain their original power and bleed effects.^reset; ^green;-75% Recoil Recovery Time.^reset; ^red;+50% High Recoil Miss Chance Multiplier.^reset; ^green;Right-click on a GiC Weapon to attach.^reset;
+21	[Black Ops] Frost Fairy Barrel
+22	Heavy Barrel attachment.
+
+^green;+25% recoil recovery speed.
+^red;+10% high recoil miss chance modifier.
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+23	[Black Ops] Heavy Barrel Attachment
+24	Firearm barrel that ^orange;imbues ammunition with flames,^reset; converting its base element into ^orange;FIRE.^reset; Shots afflict ^orange;standard burning^reset; and can also ^orange;ignite oil-coated targets,^reset; setting them ablaze for significant damage. ^yellow;Bullets retain their original power and bleed effects.^reset;
+^red;+25% miss chance.^reset;
+Supports attachment on most firearms that can attach a barrel.
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+25	[Black Ops] Hot Shot
+26	A smaller version of the heat shroud often seen on Lewis Guns; A finned, aluminium breech-to-muzzle heat sink to cool the gun barrel.
+  
+^green;-50% Recoil Recovery Time | -50% High Recoil Miss Chance Multiplier^reset;
+^yellow;2x Recoil Steps (additional shots until at high-recoil state).^reset;
+
+Supports attachment on most firearms that can attach a barrel.
+27	Lewis Heat Shroud
+28	''Fractured skies and acid rain
+Wе are sent unknown
+Templеs high in trails of pain
+For a moonlit throne''
+
+^#B10000;0.5x gravity modifier for the user when attached to a weapon.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+29	[Black Ops] Nue Barrel
+30	''Lord Yatagarasu, the Black Sun. Thank you for giving me your power.''
+Supports attachment on most firearms that can attach a barrel.
+^yellow;------------------------------------------------------------------
+^yellow;        ! ! !   C A U T I O N   ! ! !   C A U T I O N   ! ! !   C A U T I O N   ! ! !
+^yellow;------------------------------------------------------------------
+^orange;Bullet damage increases the longer the bullet is in flight, increasing by 1.5x of base damage per 0.1s.
+31	[Black Ops] Railgun Accelerator Barrel
+32	^yellow;^orange;Afflicts hit targets with SUDDEN-STRIKE, granting subsequent shots +50% DMG. If the target is not hit again for 0.25s, the target becomes RESISTANT to SUDDEN-STRIKE for 480s.^white;^white;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+33	[Black Ops] Suppressor Attachment
+34	^yellow;Hides muzzle flash and significantly reduces smoke when attached to the muzzle of a firearm.
+  
+^white;Only supports kriss vector.
+
+^green;+5% accuracy | -5% miss chance.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+35	^ffee00;^reset;[Black Ops]Kriss vector Flash Suppressor
+36	^yellow;^orange;Afflicts hit targets with SUDDEN-STRIKE, granting subsequent shots +50% DMG. If the target is not hit again for 0.25s, the target becomes RESISTANT to SUDDEN-STRIKE for 480s.^white;
+  
+^white;Only supports kriss vector.
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+37	^ffee00;^reset;[Black Ops]Kriss vector suppressor
+38	^yellow;Hides muzzle flash and significantly reduces smoke when attached to the muzzle of a firearm.
+  
+^white;Only supports M4A1 SOPMOD Block 2
+
+^green;+5% accuracy | -5% miss chance.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+39	^ffee00;^reset;[Black Ops]SOPMOD Block II Flash Suppressor
+40	^yellow;^orange;Afflicts hit targets with SUDDEN-STRIKE, granting subsequent shots +50% DMG. If the target is not hit again for 0.25s, the target becomes RESISTANT to SUDDEN-STRIKE for 480s.^white;
+  
+^white;Only supports m4a1 sopmod Block 2.
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+41	^ffee00;^reset;[Black Ops]SOPMOD Block II suppressor
+42	^yellow;Hides muzzle flash and significantly reduces smoke when attached to the muzzle of a firearm.
+  
+^white;Only supports M4A1 SOPMOD
+
+^green;+5% accuracy | -5% miss chance.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+43	^ffee00;^reset;[Black Ops]SOPMOD Block I Flash Suppressor
+44	^yellow;^orange;Afflicts hit targets with SUDDEN-STRIKE, granting subsequent shots +50% DMG. If the target is not hit again for 0.25s, the target becomes RESISTANT to SUDDEN-STRIKE for 480s.^white;
+  
+  ^white;Only supports m4a1 sopmod.
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+45	^ffee00;^reset;[Black Ops]SOPMOD Block I suppressor
+46	When after use extracter If the default barrell or Flash suppressor is detached, use this. It's a barrel for repairs. It has no functions.
+
+^green;No function. Repair default barrell or Flash suppressor ^reset;
+47	[Black Ops] GM6 Lynx barrel
+48	[Black Ops] AUG barrel
+49	When after use extracter If the default barrell or Flash suppressor is detached, use this. It's a barrel for repairs. It has no functions.
+
+^green;No function. Repair default barrel or Flash suppressor ^reset;
+50	[Black Ops]Vidwansak barrel
+51	[Black Ops] Sigmcx barrel
+52	Designed for enthusiasts. The CQR front grip is an easy to install, lightweight, and compact frontgrip, manufactured by Hera Arms.
+  
+^green;-20% miss chance.^reset;
+^red;Require the same rail size as long as Underbarrel Grenade launcher.
+  
+^green;Right-click on a compatible bo Weapon to attach.^reset;
+53	^ffee01;^reset;[Black Ops]CQR tactical foregrip
+54	Controls the recoil by hooking your finger, or prevents accident because your hand goes too forward.
+  
+^green;+40% recoil recovery speed.^reset;
+^green;-20% high recoil miss chance modifier.^reset;
+  
+^green;Right-click on a compatible bo Weapon to attach.^reset;
+55	^ffee01;^reset;[Black Ops]Finger-stop Foregrip
+56	This is a 12-gauge flare launcher that can be used to illuminate the surroundings for visibility or send distress signals. It's not recommended to use other 12-gauge shells as they may cause damage.
+^yellow;Uses 18.5x70mm Starshell. A shell that launches a flare that descends slowly, illuminating the area for approximately 30s. ^red;Can not inflict any damages.^reset;
+^orange;Tap Right-Click to Fire/Reload the Shotgun.
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+57	^ffee01;^reset;[Black Ops]Orion 12 gauge flare launcher
+58	The M26-MASS (Modular Accessory Shotgun System) is a shotgun configured as an underbarrel ancillary weapon attachment mounted onto the handguard of a service rifle, usually the M16/M4 family of United States military, essentially making the host weapon a combination gun.
+^yellow;Skeleton Key: 3rnd Mag | Short shot range | +10% Miss chance
+^orange;Tap Right-Click to Fire/Reload the Shotgun.
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+59	[Black Ops]M26 MASS
+60	The M406-LLL (''Less-Lethal Launcher'') is a single-shot 40x46mm (LV) under-barrel flare launcher designed to attach to a rifle. This launcher will only fire special 40x46mm Flare Rounds. Flares will not damage enemy targets, and are purely for utility purposes.
+^orange;Tap Right-Click to Fire/Reload the Flare Launcher.
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+61	[Black Ops] M406-LLL UFL
+62	The HHS-1 (Holographic Hybrid Sight 1) hybrid optical complex features the EXPS3-4 holographic sight with the G33.STS magnifier. Manufactured by EOTech.
+  
+^green;+20% accuracy.^reset;
+^yellow;Does not improve hit chance.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+63	^white;[Black Ops]EOTech HHS-1 hybrid sight
+64	bo_EOTech
+65	The EOTech 553 holographic sight. Thanks to design features, it can be used with a wide range of weapons even with non-folding sights. Compatible with night vision devices by the means of NV reticle mode. Utilized by US SOCOM as a primary sight for operations in confined spaces.  
+
+^orange;+12.5% [EWS] Hit Chance and Accuracy when stationary.^reset;
+^orange;+7.5% [EWS] Hit Chance and Accuracy when moving.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+66	^white;[Black Ops]EOTech 553 holographic sight
+67	Hensoldt FF 4-16x56 telescopic sight was developed to deliver maximum performance and high adjustment ranges while maintaining a short optical system. With increased transparency in the blue spectral range and adjustable reticle light it is particularly comfortable under low-light conditions.
+  
+^orange;+40% [EWS] Hit Chance and Accuracy when stationary.^reset;
+^red;-60% [EWS] Hit Chance and Accuracy when moving.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+68	^white;[Black Ops]HENSOLDT scope
+69	bo_Lynx_scope
+70	Extra low dispersion glass and the latest anti-reflective lens coating technology gives brilliant image clarity and brightness. Set the scope to 8x and the scope transmits more light to your fully dark-adapted eye than it can use, which extends the maximum distance you can identify targets at at night by a factor of eight.
+
+^orange;+40% [EWS] Hit Chance and Accuracy when stationary.^reset;
+^red;-60% [EWS] Hit Chance and Accuracy when moving.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+71	^white;[Black Ops]Lynx scope
+72	Advance Dual Optic (ADO) 3X-9X variable scope with a 42mm objective lens. The ADO Scope features an integrated Red Dot Reflex Optic on top of the scope body.
+  
+^orange;+30% [EWS] Hit Chance and Accuracy when stationary.^reset;
+^red;-40% [EWS] Hit Chance and Accuracy when moving.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+73	^white;[Black Ops]NcSTAR ADO scope
+74	The TAC30 offers a very wide field of view, and 1x magnification at the lower end - making for easy, fast target acquisition. The 4x full zoom and Ballistic CQ reticle make shots out to about 300 yards very practical. The illuminated center dot and large, bright circle allow for instant target engagement at close distances.  
+
+^orange;+30% [EWS] Hit Chance and Accuracy when stationary.^reset;
+^red;-40% [EWS] Hit Chance and Accuracy when moving.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+75	^white;[Black Ops]TAC30 scope
+76	bo_Trijicon_ACOG
+77	the Trijicon ACOG TA01NSN is Trijicon’s most popular ACOG. The ranging reticle allows for bullet drop compensation out to 600 meters without any manual adjustments. The reticle will appear black during the daytime and will glow amber in the dark, thanks to Trijicon’s patented tritium illumination. No batteries needed!
+
+^orange;+20% [EWS] Hit Chance and Accuracy when stationary.^reset;
+^red;-20% [EWS] Hit Chance and Accuracy when moving.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+78	^white;[Black Ops]Trijicon ACOG
+79	ATN’s X-Sight 4K Pro has been a firm favourite for some time, and comes with 5-20x and 3-14x magnification options, the latter offering a slightly wider field of view.
+  
+^#96CBE7;Highlights targets in a 30-degree angle from the gun | 120 Block Range | Cannot see through walls.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+80	^white;[Black Ops]ATN X-SIGHT 4K PRO
+81	2 MOA red dot for precision and fast target acquisition. Advanced optical lenses for enhanced light transmission and ultimate dot clarity.
+  
+^green;+20% accuracy.^reset;
+^yellow;Does not improve hit chance.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+82	^white;[Black Ops]T2 KAC Style&G33 Magnifier
+83	It’s trusted by the most demanding shooters and hunters who require speed and accuracy for nighttime use. Choose from multiple magnification levels and fields of view to fit your specific needs.
+  
+^#96CBE7;Highlights targets in a 60-degree angle from the gun | 70 Block Range | Cannot see through walls.^reset;
+
+^green;Right-click on a compatible GiC Weapon to attach.^reset;
+84	^white;[Black Ops]Trijicon REAP-IR Thermal Riflescope
+85	^red;''If we don't end war, war will end us.''^reset;
+
+This equipment is designed for the elite in Black Ops.
+Express gratitude for all brave's dedication.
+
+^green;+15% GENERAL Resistance.^reset;
+^#454545;Black Ops: When a full suit, Provide SuppressionImmune and 50% [EWS] Hit Chance and Accuracy
+86	^#505050;Black Ops Tactical Vest
+87	^red;''The object of war is not to die for your country but to make the other bastard die for his.''^reset;
+
+This equipment is designed for the elite in Black Ops.
+Express gratitude for all brave's dedication.
+ 
+^green;+15% GENERAL Resistance.
+^#454545;Black Ops: When a full suit, Provide SuppressionImmune and 50% [EWS] Hit Chance and Accuracy
+88	^#505050;Black Ops helmet
+89	^red;''If the opposition disarms, well and good. If it refuses to disarm, we shall disarm it ourselves.''^reset;
+
+This equipment is designed for the elite in Black Ops.
+Express gratitude for all brave's dedication.
+
+^green;+15% GENERAL Resistance.^reset;
+^#454545;Black Ops: When a full suit, Provide SuppressionImmune and 50% [EWS] Hit Chance and Accuracy
+90	^#505050;Black Ops Trousers

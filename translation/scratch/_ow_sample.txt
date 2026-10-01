@@ -1,0 +1,31 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Dollmaker's Top"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "인형사의 상의"
+    }
+  ]
+]
+
+====
+
+[
+  [
+    {
+      "op": "test",
+      "path": "/shortdescription",
+      "value": "Celestial Blouse"
+    },
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "천인 블라우스"
+    }
+  ]
+]

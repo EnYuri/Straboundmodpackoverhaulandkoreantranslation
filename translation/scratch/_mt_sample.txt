@@ -1,0 +1,662 @@
+
+===== PARTICLE (2192) =====
+top details: [('까이', 317), ('이아', 259), ('는가', 191), ('이이', 169), ('레아', 93), ('야아', 81), ('지은', 78), ('꺼이', 59), ('집가', 54), ('부은', 42), ('모을', 36), ('브이', 36), ('데아', 34), ('오이', 33), ('은가', 29)]
+  /_FUversioning.config.patch/info
+    EN: 
+^orange;Incompatible Mods^reset;
+
+For a list of incompatible mods, check the wiki on Miraheze (NOT Fandom). I
+    KO: ^orange;호환되지 않는 모드^reset;
+
+호환되지 않는 모드 목록은 Miraheze 위키(Fandom 아님)를 확인하라. 게임 메인 메뉴에 링크되어 있다. 최신 정보를 가장 직접적으로 얻을 수 있는 곳이다.
+
+
+^orange;자주 묻는 질문^reset;
+
+Q: 공식 위키는 어디인
+  /ai/fu_outpost.aimission.patch/speciesText/default/selectSpeech/text
+    EN: 
+    KO: 은하계에서 가장 먼 곳에는 고대인들이 폐허를 봉인하기 위해 지은 구조물인 방주가 있습니다. 보호국의 마지막 남은 자들이 모든 생명을 구하기 위해 이곳에 모였습니다.
+  /ai/letheiafacility.aimission.patch/speciesText/default/buttonText
+    EN: 
+    KO: 레테이아 시설 (8)
+  /ai/letheiafacility.aimission.patch/speciesText/default/repeatButtonText
+    EN: 
+    KO: 재방문 : 레테이아 시설 (8)
+  /ai/letheiafacility.aimission.patch/speciesText/default/selectSpeech/text
+    EN: 
+    KO: 레테이아 회사는 머나먼 행성에 신비한 시설을 가지고 있는 것 같습니다. 거기 무슨 일이 일어나는지 궁금해요...
+  /ai/lethialabs.aimission.patch/speciesText/default/buttonText
+    EN: 
+    KO: 레테이아 연구소 (6)
+  /ai/lethialabs.aimission.patch/speciesText/default/repeatButtonText
+    EN: 
+    KO: 재방문 : 레테이아 연구소 (6)
+  /ai/lethialabs.aimission.patch/speciesText/default/selectSpeech/text
+    EN: 
+    KO: 조난 신호의 발원지는 레테이아 코퍼레이션이 소유한 머나먼 시설입니다. 거기에는 무엇이 기다리고 있을지 궁금해요...
+  /ai/missionavian1.aimission.patch/speciesText/default/selectSpeech/text
+    EN: 
+    KO: 거의 버려진 이 신전은 에스더가 아비안 유물이 있는 곳이라고 결론지은 장소입니다.
+  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_wedding_3_romance_true.cinematic.patch/panels/15/text
+    EN: 
+    KO: 자리에 서서 주의 기도문을 외웁시다:
+
+하늘에 계신 우리 아버지여, 이름이 거룩히 여김을 받으시오며, 나라가 임하시오며, 뜻이 하늘에서 이루어진 것 같이 땅에서도 이루어지이다. 오늘 우리에게 일용할 양식을 주시옵고, 우리가 우리에게 죄 지은 자를 사하여 준 것 같이 우리 죄를 사하여 주
+  /cinematics/CHARACTERS/CELESTIAL/gico_celestial_backstory_human_path.cinematic.patch/panels/29/text
+    EN: And how would she know the humans were preparing? In fact, why would she even care at all what the humans are 
+    KO: 그리고 그녀가 인간들이 준비하고 있다는 걸 어떻게 알았을까? 애초에, 인간들이 뭘 하는지 그녀가 왜 신경이나 쓰겠는가? 그들은 이 전쟁이 시작됐다는 소식을 처음 들었을 때조차 눈길 한 번 주지 않았다.
+  /cinematics/CHARACTERS/CELESTIAL/gico_celestial_backstory_human_path.cinematic.patch/panels/33/text
+    EN: Did I ever tell you I like your honesty.
+    KO: 내가 네 정직함이 마음에 든다고 말한 적 있던가.
+
+===== DUP_PARTICLE (666) =====
+top details: [('나나', 336), ('을을', 117), ('은은', 105), ('로로', 44), ('만만', 24), ('도도', 20), ('야야', 16), ('와와', 2), ('과과', 1), ('는는', 1)]
+  /_FUcredits.config.patch/credits
+    EN: 
+    KO: 기여자, 스태프, 은퇴한 스태프, 그리고 소개된 모드/모더:
+
+- AbsoluteXeroEX
+- anoobindisguise - 연구 시스템 제작에 큰 도움을 줌
+- Aegonian	- FU와의 ERM 연동, 일부 스크립트
+- Aelfgifu	- 운영, 마이크로던전, 스프라이트
+- al
+  /biomes/surface_detached/fieldofbanana.biome.patch/friendlyName
+    EN: 
+    KO: 바나나 숲
+  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_bazaarbetwixtrealms_ayashameimaru_meetingconverse.cinematic.patch/panels/6/text
+    EN: 
+    KO: 아야? 아야야, 정말 너구나!
+  /cinematics/CHARACTERS/BADA/gic_garden_caravan_mission_1_2_NewFosseWayStation_travel.cinematic.patch/panels/20/text
+    EN: 
+    KO: 정말요? 도적들이 마을을 태우는 게 그 지역에 영향을 줬을 줄 알았는데. 게다가 더 있잖아요, 그렇죠? 지금 에이크만에 가니까 거기서 도움받을 수 있어요.
+  /cinematics/CHARACTERS/DAITENGU/gico_daitengu_meeting_youkai_path_intro.cinematic.patch/panels/31/text
+    EN: Sooner or later, those human are going to be throwing everything they have at us to take back this village aga
+    KO: 조만간, 저 인간들은 이 마을을 되찾기 위해 가진 모든 것을 우리에게 쏟아부을 거야. 이 마을은 놈들이 공격을 개시하기 위한 전진 기지로 쓰였어. 이곳이 없으면, 놈들은 이 숲 가장자리에 있는 본기지에 의존할 수밖에 없을 거야.
+  /cinematics/CHARACTERS/KOGASA_TATARA/gic_garden_marshlandvillage_battledefeat.cinematic.patch/panels/3/text
+    EN: 
+    KO: 이건... 안 돼...
+
+[마을을 둘러보니 생명이 없다. 수십 구의 시체가 물에 버려져 있고, 남자와 소년의 시체만 보인다. 전투는 패배했다.]
+
+왜 구할 수 없었지? 왜? 왜? 왜?
+  /cinematics/CHARACTERS/KOGASA_TATARA/gic_garden_marshlandvillage_discontentmob.cinematic.patch/panels/9/text
+    EN: 
+    KO: [여전히 화난 군중이 병사에게 소리친다]
+
+그럼 이 짐승은 어쩌고? 이걸 먼저 처리해! 이 놈이 이 마을을 충분히 오래 공포에 떨게 했어. 멈췄다 생각했는데 오늘 돌아왔어! 모두 어떻게 생각해?
+
+[군중이 일제히 포효하고, 처형을 요구하는 듯하다!]
+  /cinematics/CHARACTERS/KOGASA_TATARA/gic_garden_marshlandvillage_discontentmob.cinematic.patch/panels/13/text
+    EN: 
+    KO: [병사가 말한다]
+
+떠나고 싶은 이는 아직 그래도 돼요. 전 이 끔찍한 늪을 지켜요, 제 고향이에요. 이 마을을 공포에 떨게 한 여자에겐 아는 게 없지만, 결정 안 하면 죽음이 있을 거예요. 남고 싶은 이들은... 제게 보고하세요.
+
+모두! 해산하세요!
+  /cinematics/CHARACTERS/KOGASA_TATARA/gic_garden_marshlandvillage_peasantdirections.cinematic.patch/panels/1/text
+    EN: 
+    KO: [마을을 돌아다니다 중얼거리는 비탄에 잠긴 남자를 찾는다. 그가 빠르게 당신을 알아본다.]
+
+저 망할 후드 놈 봤어!? 검은 머리에 빨강 파랑 눈, 악마의 하수인! 여자 형상을 한 악마야! 그것을 사냥해 죽여야 해! 안 죽이면 우리 모두 잡아먹힐 거야!
+  /cinematics/CHARACTERS/KOGASA_TATARA/gic_garden_marshlandvillage_peasantdirections.cinematic.patch/panels/3/text
+    EN: 
+    KO: [병사가 당신에게 다가온다]
+
+이봐요. 도와줄 사람 같아 보여요. 이 마을을 공포에 떨게 하는 후드 쓴 자가 있어요, 모두 숲에서 달아날 다음 외상 피해자가 될까 두려워해요.
+  /cinematics/CHARACTERS/KOISHI_KOMEIJI/gic_payphone_koishi_wartorn.cinematic.patch/panels/2/text
+    EN: 
+    KO: 기름으로 채워진 지평선이 보여요. 분쟁에 잃어버린 마을을 덮는 기름 물든 모래가.
+
+언니, 왜 이걸 우리에게 숨겼어?
+  /cinematics/CHARACTERS/LIONMOUSE/gico_lionmouse_youkai_path_introduction.cinematic.patch/panels/39/text
+    EN: You act as if we're going to lose this village.
+    KO: 우리가 이 마을을 잃을 것처럼 행동하네.
+
+===== DUP_WORD (245) =====
+top details: [('그렉', 53), ('계속', 20), ('그레그', 14), ('그레가', 10), ('예스예스', 9), ('이런', 8), ('죽어', 7), ('알아', 6), ('아니', 5), ('우끼', 5), ('윙윙', 4), ('퍼지', 4), ('삼촌의', 4), ('하우디', 3), ('원해', 3)]
+  /cinematics/CHARACTERS/NITORI_KAWASHIRO/gic_bazaarbetwixtrealms_badanitori_weaponsmithingconverse.cinematic.patch/panels/10/text
+    EN: 
+    KO: 아니 아니 아니, 전 그냥- 그런 뜻이- 죄송해요... 전- 이 작품 뒤의 역사가 궁금했을 뿐이에요. 인상적이라 생각해요, 당신이 만든 거라곤 생각 못 했을 뿐이에요.
+  /codex/alta/ct_my_enternia_guide.codex.patch/contentPages/5
+    EN: ^#20f080;Yaara^reset;
+Yaara Groves are huge underground megaplants, that spread into large distances and form 
+    KO: ^#20f080;야라^reset;
+야라 숲은 넓은 거리로 퍼져나가 내부에 다양한 식물과 생물이 있는 자체 미기후를 형성하는 거대한 지하 초대형 식물이다.
+
+^#9b2d3f;워프드^reset;
+오염된 주변을 "뒤틀리게" 하는, 끊임없이 퍼지는 식물형 물질. 종종 상당한 독성을 가지며, 경
+  /codex/alta/ct_sonaveil.codex.patch/contentPages/5
+    EN: ^#ffffff;Snowaltas^reset;
+
+Building snowaltas is one of our favorite traditions! These are alta-shaped snow st
+    KO: ^#ffffff;스노알타^reset;
+
+스노알타 만들기는 우리가 가장 좋아하는 전통 중 하나다! 알타 모양의 눈 조각상으로, 재료는:
+
+- 몸통용 다진 눈
+- 장식 포인트용 결정
+- 팔용 아야카 가지
+- 코용 과일
+- 장식용 목도리, 모자, 조명
+
+눈 속에 서 있는 모습이 정말 귀엽다!
+  /codex/documents/ffguide.codex.patch/longContentPages/0
+    EN: 
+    KO: 이 가이드에서는 Frackin' Universe를 효과적으로 플레이하기 위해 알아야 할 사항을 간략하게 설명합니다. 스타바운드의 기본 플레이는 모드의 여러 측면에 의해 많이 변경되었다는 점을 염두에 두어야 합니다. 
+
+
+^blue;-------------------------------
+  /codex/elder/blackbook2.codex.patch/contentPages/2
+    EN: 
+    KO: 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스텔라 스트 스텔라 스트 스트 스트 스트.
+  /codex/fenerox/fenerox11.codex.patch/contentPages/0
+    EN: 
+    KO: 알았어. 키르호스는 페네록스 친구들에게 첫 실수를 저질렀어요. 끔찍한 괴물 종족을 소개합니다. 생각하는 곤충이 있고 행성 점프용 우주선을 가지고 있어요. 이건 좋지 않아. 안돼. 안돼 안돼. 전혀 좋아하지 않고 공포가 사라질 때까지 공포를 스쿼시하고 싶습니다. 키르호스는 곤충 인간은 혼
+  /codex/fenerox/fenerox11.codex.patch/contentPages/1
+    EN: 
+    KO: 우리가 할 말이 있다면 보호국에 테러 벌레 인간을 불법화하라고 요청합니다. 불법화하라! 정상적인 생물이 없는 곳으로 보내세요. 집에서는 벌레에 물리면 죽습니다. 우주에서는 모든 벌레 인간은 물려 죽습니다. 안돼. 아니 아니 아니. 안돼. 불법으로 만드십시오.
+  /codex/fenerox/fenerox11.codex.patch/title
+    EN: 
+    KO: 테러 버그. 아니 아니 아니.
+  /codex/greg/greg1.codex.patch/contentPages/1
+    EN: 
+    KO: (224페이지) - 그레가 그레그 그레그! 그레가 그레그! (그렉, 그레가 그레가 그레가 그레가!) 그레가? 그렉 그렉 그렉 그렉 그렉 그렉! 그렉 그렉.
+  /codex/greg/greg1.codex.patch/contentPages/2
+    EN: 
+    KO: (355쪽) - 그렉 그렉 그렉 그렉 그렉. 그렉. 그레가! 레인보우.
+  /codex/greg/greg1.codex.patch/description
+    EN: 
+    KO: 그렉 그레가 그레가
+  /codex/greg/greg2.codex.patch/contentPages/0
+    EN: 
+    KO: 그레가 그레가 그레가 그레가. 그렉! 그레가 그레가 그레가 그레가! 그렉? 그렉! 그레가 레인보우 그레가 레인보우!
+
+===== MISSPEL (36) =====
+top details: [('되죠', 28), ('안되는', 6), ('안되지', 2)]
+  /codex/documents/ffguide5.codex.patch/longContentPages/0
+    EN: 
+    KO: Frackin' Universe는 수많은 상태 효과, 환경 위험과 다양한 상호작용을 추가합니다. 이러한 효과는 상황에 따라 해로울 수도 있지만, 도움이 될 수도 있습니다. 이 짧은 가이드는 이러한 효과를 분류하는 데 도움이 될 것입니다. 계속하려면 다음 페이지를 확인하세요.
+
+
+ ^bl
+  /codex/fupeglaci/fupeglacicannibals3.codex.patch/contentPages/3
+    EN: 
+    KO: 철조망이 실제로 보이는 살로 남은 몇 안되는 패치의 대부분을 감싸고 있습니다... 은하계 전역의 많은 종교에서 흔히 볼 수있는 자기 과시를 생각 나게합니다. 개인적으로 저는 이 사람이 누구든 경건한 사람이라고 믿습니다. 살점 부위의 흉터 조직의 심각성을 고려할 때 광신도일 가능성이 높습
+  /codex/lustling/lustlingadd.codex.patch/contentPages/9
+    EN: Hi, and welcome to Slaves-R-Us, your one stop slave shop!. My name is..well, like I dont have a name..(giggle)
+    KO: 안녕하세요, 슬레이브즈-알-어스에 오신 걸 환영해요, 당신의 원스톱 노예 상점이죠!. 제 이름은..음, 저는 이름이 없어요..(킥킥) 우리 년들은 아무도 이름이 없거든요 예전엔 이름이 있었던 것 같긴 해요! 근데, 조련사 칼이 그러는데 제가 권리 같은 걸 가진 라타시아인이었대요, 웃기지
+  /codex/radien/radien9.codex.patch/longContentPages/0
+    EN: X'i are the subject of my team's focus. Very little is known about them, which only makes them more interestin
+    KO: 짜'이족은 우리 팀의 연구 대상이다. 그들에 대해 알려진 게 극히 적어서, 오히려 연구하기 더 흥미롭다!
+
+분명히 말하자면: 우리 대부분도 그들에 대해 원하는 만큼 모른다...하지만 그 누구보다는 많이 안다.
+
+대부분의 역사학자들이 받아들이지도 고려하지도 않는 몇 가지 추측이 있는데, 
+  /items/CURRENCY/cp_data_shard/cp_data_shard_trade.item.patch/description
+    EN: ^#8888ff;''In recent times, valuable information is highly regarded and often traded at a high price. Such pre
+    KO: ^#8888ff;''최근에는 가치 있는 정보가 높이 평가되어 비싸게 거래되곤 합니다. 그런 귀중한 데이터는 데이터 샤드에 저장되어 교환되죠. 네, 바로 이것처럼요''
+
+^green;무기 구매 또는 에디 교환에 사용 가능.
+  /items/armors/human/human-tier5manipulator/humantier5manipulator.head.patch/description
+    EN: 
+    KO: 색안경을 끼고 세상을 바라보면 안되는 건 알지만, 호박색 바이저로 보는 건 괜찮겠지요.
+  /items/generic/crafting/xenostation/gene_ocular.item.patch/description
+    EN: 
+    KO: 있어서는 안되는 눈.
+  /npcs/scienceoutpost/fuoutpostcivilian.npctype.patch/scriptConfig/dialog/converse/floran/default/1
+    EN: 
+    KO: 이 결과를 공개하는 게 망설여져요. 어떤 것들은 공유해서는 안되지만 대신... 찔려야 합니다!
+  /npcs/scienceoutpost/fuoutpostcivilian.npctype.patch/scriptConfig/dialog/converse/fumantizi/default/35
+    EN: 
+    KO: 장이 안아본 적이 있나요? 정말 묘하게 위안이 되죠.
+  /npcs/scienceoutpost/fuoutpostcivilian.npctype.patch/scriptConfig/dialog/converse/hylotl/default/0
+    EN: 
+    KO: ^cyan;규소^reset;? 그건 쉬워요. 추출기에 모래를 넣으면 되죠. 어떻게 지금쯤이면 이걸 모를 수 있죠?
+  /npcs/scienceoutpost/fuoutpostcivilian2.npctype.patch/scriptConfig/dialog/converse/hylotl/default/0
+    EN: 
+    KO: ^cyan;실리콘^reset;? 그건 쉬워요. 추출기에 느슨한 모래를 넣으면 되죠. 어떻게 지금쯤이면 이걸 모를 수 있죠?
+  /npcs/scienceoutpost/fuoutpostcivilian3.npctype.patch/scriptConfig/dialog/converse/hylotl/default/0
+    EN: 
+    KO: 실리콘? 그건 쉽죠. 느슨한 모래를 추출기에 넣으면 되죠. 어떻게 지금쯤이면 이걸 모를 수 있죠?
+
+===== GLUE_SU (46) =====
+top details: [('수있', 46)]
+  /cinematics/fuCore/kevin/kevin.cinematic.patch/panels/18/text
+    EN: 
+    KO: 마늘이냐고요? 물론 마늘이 들어갑니다. 우리가 소집 할 수있는만큼. 우리는 약 4 쪽을 원합니다. 그보다 적으면 범죄입니다. 팬을 준비하고 버너를 켜서 따뜻해지면 기름을 조금 넣으세요.
+  /codex/elder/blackbook3.codex.patch/contentPages/1
+    EN: 
+    KO: 한숨이 어두운 등불처럼 내 가슴에 걸려 있네, 나는 늙었네.  늑대들은 한밤중에 자신의 이름을 외치고, 그 조용하고 미묘한 목소리가 멀리서 나를 부르고 있습니다. 그리고 훨씬 더 가까운 목소리가 부정한 조급함으로 내 귀에 소리를 지를 것입니다. 내 영혼의 무게가 마지막 안식처를 결정할 
+  /codex/elder/blackbook3.codex.patch/contentPages/5
+    EN: 
+    KO: 신들의 모든 구역과 아조 네이의 장소를 밟았으며 바빌로니아가 있기 전에 UR에 세워진 간지르의 문을 통해 도달 할 수있는 죽음과 영원한 갈증의 더러운 곳으로 내려갔습니다.   또한 내가 인간 사회에서 더 이상 이름이 알려지지 않았거나 알려지지 않은 온갖 종류의 영과 데몬과 대화 한 것을
+  /codex/fupeglaci/fupeglacicannibals3.codex.patch/contentPages/3
+    EN: 
+    KO: 철조망이 실제로 보이는 살로 남은 몇 안되는 패치의 대부분을 감싸고 있습니다... 은하계 전역의 많은 종교에서 흔히 볼 수있는 자기 과시를 생각 나게합니다. 개인적으로 저는 이 사람이 누구든 경건한 사람이라고 믿습니다. 살점 부위의 흉터 조직의 심각성을 고려할 때 광신도일 가능성이 높습
+  /codex/pharitu/pharitu4.codex.patch/contentPages/1
+    EN: 
+    KO: 하지만 모든 파리투가 다른 사람들과 소통하는 방식입니다), 또는 극한의 거리에서 서로 (그들의 샤크타에 큰 소모가 있습니다) 돌과 금속을 형성하고 심지어 배의 연료 역할을 할 수있는 고체 물질로 만든 구조물 (배, 물질로 만든 배)을 만들기도합니다.
+  /codex/radien/radien11.codex.patch/longContentPages/0
+    EN: 
+    KO: 최근, 짜이 유령 마을 중 한 곳의 유적지에서 행성 크기가 훨씬 넘는 개과 동물 모양의 거대한 홀로그램이 발견되었습니다. 거의 작동하지 않았지만, 고대 기술은 오랜 세월을 견뎌낼 만큼 복원력이 뛰어났습니다. 이 기술을 작동시키자 거대한 홀로그램이 나타나 8개의 세계에 걸쳐 축복의 동작을
+  /npcs/dungeon/pyramidguard.npctype.patch/scriptConfig/dialog/attack/avian/avian/6
+    EN: 
+    KO: 그들은... 나를 강요합니다... 당신이 아직 할 수있을 때 도망...
+  /objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object.patch/akkimariDescription
+    EN: Akki can tell time here.
+    KO: 아키 여기서 시간 알수있음.
+  /objects/avikan/misc/avikantallgem/avikantallgem.object.patch/akkimariDescription
+    EN: Crystal-large. Can Akki eat?
+    KO: 수정-큰거. 아키 먹을수있나?
+  /objects/felin/felincabinet/felincabinet2.object.patch/humanDescription
+    EN: A large cabinet. I'm sure I have something I could store here.
+    KO: 큰 캐비닛. 여기에 저장할 수있는 무언가가 있다고 확신합니다.
+  /objects/generic/woodencabinet2/woodencabinet2.object.patch/humanDescription
+    EN: 
+    KO: 큰 캐비닛. 여기에 저장할 수있는 무언가가 있다고 확신합니다.
+  /objects/isogen/isogendesk/isogendesk.object.patch/glitchDescription
+    EN: 
+    KO: 조심하세요. 데이터를 처리하거나 얼어 죽을 수있는 장소.
+
+===== GLUE_GEOT (2) =====
+top details: [('것같', 2)]
+  /objects/arttrophies/sandstonestatueavian/sandstonestatueavian.object.patch/description
+    EN: 
+    KO: 아비안 조각상입니다. 날아다닐 것같이 생기지는 않았습니다.
+  /objects/floran/florantoilet/florantoilet.object.patch/description
+    EN: 
+    KO: 물이 좀 샐 것같이 생긴 변기입니다.
+
+===== GLUE_TTAE (113) =====
+top details: [('깔때', 105), ('릴때', 5), ('을때', 2), ('일때', 1)]
+  /monsters/crawlers/oculob/fireoculob.monstertype.patch/description
+    EN: 
+    KO: 보고 있으면 불편합니다. 이 녀석이 당신을 보고 있을때도 불편하고요.
+  /objects/actionfigure/oculob/oculobAF.object.patch/description
+    EN: 
+    KO: 라벨 내용: '보고 있으면 불편합니다. 이 녀석이 당신을 보고 있을때도 불편하고요.'
+  /objects/avikan/modernobjects/avikanhatchplatform/avikanhatchplatform.object.patch/akkimariDescription
+    EN: Hatch with platform, Akki stand on while open.
+    KO: 해치 플랫폼 있음, 아키 열릴때 위에 섬.
+  /objects/avikan/modernobjects/avikanthickhatchplatform/avikanthickhatchplatform.object.patch/akkimariDescription
+    EN: Hatch-thick, has platform. Akki stand on when open.
+    KO: 해치-두꺼운거, 플랫폼 있음. 아키 열릴때 위에 섬.
+  /objects/bugs/tidefly/tidefly.object.patch/description
+    EN: 
+    KO: 달이 특정 단계일때만 나타난다.
+  /objects/mission/atprk_swimboosters/atprk_swimbooster1.object.patch/description
+    EN: A funnel designed to speed up the flow of water.
+    KO: 물의 흐름을 빠르게 하도록 설계된 깔때기.
+  /objects/mission/atprk_swimboosters/atprk_swimbooster1.object.patch/apexDescription
+    EN: This funnel allows me to swim faster.
+    KO: 이 깔때기로 더 빨리 헤엄칠 수 있다.
+  /objects/mission/atprk_swimboosters/atprk_swimbooster1.object.patch/avianDescription
+    EN: This funnel is designed to help people swim faster.
+    KO: 이 깔때기는 사람들이 더 빨리 헤엄치도록 설계되었다.
+  /objects/mission/atprk_swimboosters/atprk_swimbooster1.object.patch/floranDescription
+    EN: Funnel letsss Floran ssswim fasster.
+    KO: 깔때기로 플로란이 더 빨리 헤엄쳐엇.
+  /objects/mission/atprk_swimboosters/atprk_swimbooster1.object.patch/glitchDescription
+    EN: Excited. With this funnel, I can swim faster than usual.
+    KO: 흥분. 이 깔때기로 평소보다 빠르게 헤엄칠 수 있다.
+  /objects/mission/atprk_swimboosters/atprk_swimbooster1.object.patch/humanDescription
+    EN: This funnel lets me move faster in the water.
+    KO: 이 깔때기로 물속에서 더 빨리 움직일 수 있어.
+  /objects/mission/atprk_swimboosters/atprk_swimbooster1.object.patch/hylotlDescription
+    EN: This funnel is designed to speed up underwater movement.
+    KO: 이 깔때기는 수중 이동을 빠르게 하도록 설계되었네요.
+
+===== DUP_ENDING (0) =====
+top details: []
+
+===== PUNCT (1331) =====
+top details: [('..', 1291), ('!.', 25), (';;', 6), ('?.', 5), (',,', 4)]
+  /_ZBversioning.config.patch/welcome
+    EN: 
+    KO: 
+지타바운드에 오신 것을 환영합니다 ^orange;지타바운드^reset;; 모드 바닐라에서 손대지 않은 몇 가지 측면을 개선하고 모더들이 플레이할 수 있는 도구를 더 추가하는 것을 목표로 하는 모드!
+
+^orange;1.05c로 업데이트되었습니다:^reset;
+^green;>^reset
+  /cinematics/arcana/arcana_seeker_1/arcana_seeker_1.cinematic.patch/panels/13/text
+    EN: Thus, I formally invite you to join us as a ^orange;Seeker^reset;. To explore the universe, and gather knowled
+    KO: 그래서, 너를 ^orange;탐구자^reset;로 우리와 함께하도록 정식으로 초대하는 바이다. 우주를 탐험하고, 결속의 이름으로 지식을 모으기 위해서다. 네 수호자로서의 전문성이.. 우리에게 큰 도움이 될 거라 믿는다.
+  /cinematics/intro/introstage.cinematic.patch/panels/30/text
+    EN: 
+    KO: 이.. 이게 대체 무슨...
+  /codex/alta/ct_koywa.codex.patch/contentPages/1
+    EN: Grab your ^#b0e0fc;waterblaster^reset;, your floatie and your ^#b0e0fc;snorkel^reset;, and don't forget your ^
+    KO: ^#b0e0fc;물총^reset;과 튜브, ^#b0e0fc;스노클^reset;을 챙기고, ^#b0e0fc;비키니 상의^reset;도 잊지 마세요! ..당연히 ^#b0e0fc;비키니 하의^reset;도요. 선택은 자유입니다.
+
+이제 재미가 시작됩니다!
+  /codex/alta/ct_logs_eds_chatter.codex.patch/contentPages/1
+    EN: ...Is there no one there? Just... machines talking to each other?..
+
+What happened?..
+    KO: ...아무도 없는 건가? 그냥... 기계끼리 서로 말하고 있는 거야?..
+
+무슨 일이 있었던 거지?..
+  /codex/alta/ct_love.codex.patch/contentPages/5
+    EN: It's just a pity that the star didn't understand this. She flew away, afraid to look back and see that the ray
+    KO: 그저 안타까운 건 그 별이 이걸 이해하지 못했다는 것이다. 그녀는 돌아보기가 두려워 날아가 버렸다, 그 광선이 여전히 가만히 서 있는 걸 보게 될까 봐.
+
+하지만 그 작은 광선은 그녀를 이해했다. 그리고 거리가 멀어질수록 그는 점점 더 슬퍼졌다. 만약... 이걸로 끝이라면?
+
+만약 이게
+  /codex/alta/ct_my_enternia_guide.codex.patch/contentPages/1
+    EN: EXPLORE: ALTERASH (T3-4)
+
+- [ ] Reach and explore an ^#20f080;alterash planet^reset;! This is where the mod pr
+    KO: 탐험: 알테라시 (T3-4)
+
+- [ ] ^#20f080;알테라시 행성^reset;에 도달해 탐험하라! 이곳에서 이 모드의 진행이 시작된다! ^gray;온화한 항성 근처에서 발견할 수 있다.^reset;
+
+- [ ] ^#20f080;안토라시^reset;를 깊이 파고들어 탐험하라! 비밀 
+  /codex/alta/ct_my_enternia_guide.codex.patch/contentPages/2
+    EN: EXPLORE: ALTERASH PRIME (T4-5)
+
+- [ ] Reach and explore an ^#2080f0;alterash prime planet^reset;! Is it me, or
+    KO: 탐험: 알테라시 프라임 (T4-5)
+
+- [ ] ^#2080f0;알테라시 프라임 행성^reset;에 도달해 탐험하라! 나만 그런가, 여기 좀 추워지는 것 같은데?.. ^gray;얼어붙은 항성 근처에서 발견할 수 있다.^reset;
+
+- [ ] ^#2080f0;에세테라^reset;를 탐험
+  /codex/alta/ct_spacedrifter.codex.patch/contentPages/0
+    EN: "I want to go on an adventure!.." - an eepy alta thought, as she went to sleep early to spend as much time as 
+    KO: "모험을 떠나고 싶어!.." 잠이 솔솔 오는 알타는 생각했다. 꿈과 기적, 순수한 마법의 세계에서 가능한 한 오래 머물기 위해 일찍 잠자리에 들면서 말이다.
+
+그녀는 해변에서 발견한 달가루 주머니를 에바 구름으로 가득한 베개 밑에 밀어 넣고, 보호자가 선물해 준 가장 아끼는 포이 봉제인
+  /codex/angel/angellore.codex.patch/contentPages/2
+    EN: Oh woe, and ^orange;so they broke down^reset;.. Many Angels started wandering in space, looking for a new "com
+    KO: 오 슬프도다, 그렇게 ^orange;그들은 무너졌다^reset;.. 많은 천사들이 새로운 '사령관'을 찾아 섬기고자 우주를 떠돌기 시작했다. 일부 천사는 루인에 의해 타락했고, 일부 천사는 ^green;정착하여^reset; 행성에서 ^green;평화로운 삶^reset;을 살았다.
+
+천사
+  /codex/angel/angellore10.codex.patch/contentPages/1
+    EN: Subject 6: Novakid
+Result: ^red;Explosive Death^reset;
+
+Subject 7: Glitch
+Result: ^red;..Not possible^reset;
+    KO: 피험체 6: 노바키드
+결과: ^red;폭발사^reset;
+
+피험체 7: 글리치
+결과: ^red;..불가능^reset;
+  /codex/angel/angellore12.codex.patch/contentPages/3
+    EN: ^cyan;The Seraphim^white;
+The most recognizable type of Angel--with three pairs of mighty wings.
+
+^cyan;The Ar
+    KO: ^cyan;세라핌^white;
+세 쌍의 강력한 날개를 가진, 가장 알아보기 쉬운 천사 유형이다.
+
+^cyan;대천사^white;
+존재하는 천사 중 가장 강력한 유형 중 하나..대천사. 보통 이 천사들은 크고 뾰족한 날개 한 쌍을 가진다.
+
+^cyan;울타루빔^white;
+이 천사들은 몸
+
+===== SPACE_PUNCT (71) =====
+top details: [('속 ,', 7), ('히 ,', 5), ('해 !', 4), ('용 !', 3), ('줘 !', 3), ('를 ?', 2), ('에 ?', 2), ('톤 .', 2), ('용 .', 2), ('료 .', 2), ('은 !', 2), ('트 !', 2), ('가 .', 2), ('우 !', 1), ('중 .', 1)]
+  /_FUversioning.config.patch/welcome
+    EN: 
+    KO: Frackin' Universe는 버전 6.0.0(2020년 10월)부터 새로운 ^orange;연구 시스템^reset;을 도입했습니다.
+이 변경 사항은 게임 진행 방식을 완전히 개편하여 사용자가 원하는 학습 내용과 시기를 자신의 속도에 맞게 선택할 수 있도록 합니다. 또한 게임 초반의 
+  /codex/alta/ct_logs_eds_reload.codex.patch/contentPages/0
+    EN: Error #264: EDS server address error
+ #error264\008\%^%$\=432^&+%^678$^\%78+$`231
+Performing automatic reboot 
+    KO: 오류 #264: EDS 서버 주소 오류
+ #error264\008\%^%$\=432^&+%^678$^\%78+$`231
+자동 재부팅 수행 중 . . .
+CPU 냉각 중 . . .
+클라이언트: 생성 중 . . .
+텍스처 불러오는 중 . . .
+클라이언트: 동기화 중 . . .
+시스템 불러
+  /interface/configs/GDSuite.config.patch/gui/dyesPage_layout/children/saveLoadInternalDyesLayout/children/warningLabel/value
+    EN: ^red;! Caution !^reset;
+Internal dye data is stored
+within your character's
+player file. Excessive saving
+will
+    KO: ^red;! 주의 !^reset;
+내부 염료 데이터는
+캐릭터의 플레이어 파일에
+저장됩니다. 과도한 저장은
+로딩을 느리게 합니다.
+  /interface/configs/GDSuite.config.patch/tooltipData/dyes/dyesPage_layout.paletteImporterLayout.importDirectiveButton/description
+    EN: Set current palette as the ?replace directive input.
+    KO: 현재 팔레트를 ?replace 지시문의 입력으로 설정한다.
+  /interface/configs/GDSuite.config.patch/tooltipData/dyes/dyesPage_layout.paletteImporterLayout.directiveTextbox/description
+    EN: Set current palette as the ?replace directive input.
+    KO: 현재 팔레트를 ?replace 지시문의 입력으로 설정한다.
+  /interface/objectcrafting/fu_warped1.config.patch/gui/lblText/value
+    EN: 
+    KO: ^#b9b5b2;슬롯에 ??? 를 배치하여 범위 내 ??? 효과를 적용합니다.
+  /interface/objectcrafting/fu_warped3.config.patch/gui/lblText/value
+    EN: 
+    KO: ^#b9b5b2;슬롯에 ??? 를 배치하여 범위 내 ??? 효과를 적용합니다.
+  /interface/windowconfig/crafting5tabs.config.patch/paneLayout/windowtitle/subtitle
+    EN:   Administrators use only !
+    KO: 관리자 전용 !
+  /interface/windowconfig/craftinglawadminstationgui.config.patch/paneLayout/windowtitle/subtitle
+    EN:   Administrators use only !
+    KO: 관리자 전용 !
+  /interface/windowconfig/craftingsgadminstation.config.patch/paneLayout/windowtitle/subtitle
+    EN:   Administrators use only !
+    KO: 관리자 전용 !
+  /items/MATERIALS/honey/goldenwood.matitem.patch/description
+    EN: 
+    KO: 황금빛으로 보이는 나무 통나무 .
+^green;추출 가능^reset;.
+  /items/MATERIALS/marestonematerial.matitem.patch/description
+    EN: 
+    KO: 거칠고 정제되지 않은 마레스톤 .
+^green;추출 가능^reset;, ^orange;분쇄 가능^reset;.
+
+===== PAREN (42) =====
+top details: [('(0/1)', 22), ('(1/0)', 7), ('(1/2)', 6), ('(4/6)', 2), ('(0/2)', 2), ('(2/3)', 2), ('(2/1)', 1)]
+  /_ZBversioning.config.patch/welcome
+    EN: 
+Welcome to ^orange;Ztarbound^reset;; A mod that aims to improve some of the untouched by mods vanilla aspects
+    KO: ^orange;Ztarbound^reset;에 온 걸 환영해; 모드가 건드리지 않은 바닐라 요소들을 개선하고 모더들이 가지고 놀 도구를 더하는 걸 목표로 하는 모드야!
+
+^orange;1.05c로 업데이트됨:^reset;
+^green;>^reset; 일부 연구 트리 수정과 편의성 개선
+
+  /_ZBversioning.config.patch/welcome
+    EN: 
+    KO: 
+지타바운드에 오신 것을 환영합니다 ^orange;지타바운드^reset;; 모드 바닐라에서 손대지 않은 몇 가지 측면을 개선하고 모더들이 플레이할 수 있는 도구를 더 추가하는 것을 목표로 하는 모드!
+
+^orange;1.05c로 업데이트되었습니다:^reset;
+^green;>^reset
+  /codex/ees/EES_thankyou.codex.patch/contentPages/1
+    EN: 
+I do really hope that you enjoyed ^orange;EE for Starbound^reset;.
+
+If you did, please consider going back to
+    KO: ^orange;EE for Starbound^reset;를 즐기셨길 정말 바랍니다.
+
+그러셨다면, 스팀 워크숍 페이지로 돌아가서 다음을 고려해주세요:
+
+1) ^orange;좋은 말 한마디^reset; 남기기.
+2) ^orange;"좋아요"^reset;와 ^orange;"즐겨찾기"^res
+  /codex/elder/thesubstance.codex.patch/contentPages/4
+    EN: 
+    KO: 그들의 말은 알아들을 수 없지만, 해로운 것은 없는 것 같습니다(어쨌든 대부분). 정신이 덜 안정된 사람들에게는 상황이 훨씬 더 어두울 수 있다는 이야기를 들었습니다). 대부분의 경우, 마치 천상의 존재, 전능자의 종을 만나는 것과 같습니다. 하지만 여러분이 무엇을 하든 그들을 이해할 
+  /codex/lustling/lustlingdiary.codex.patch/contentPages/3
+    EN: I DID IT!! I MOTHERFUCKING DID IT!!!, This tusday I graduate and become a full protectorate!!!
+
+And I did it a
+    KO: 해냈어!! 진짜 미친듯이 해냈다고!!!, 이번 화요일에 나 졸업하고 정식 보호국이 돼!!!
+
+그리고 이걸 선생님들 머리를 다 흔들어놓지 않고도 해냈다니까.
+
+우리 난교 모임은 내가 미쳤다고 생각했어! 근데 지금 날 좀 봐, 틸라,
+
+나는 진짜 개빡센 프로-텍-토레이트야!! 이제 괴물들은
+  /codex/nightar/funightardoc1.codex.patch/contentPages/2
+    EN: 
+    KO: 제대로 기능하지 못합니다. 이로 인해 많은 문화적 특색(특히 종교와 관련하여)이 생겼습니다. 이들은 태양을 신격화하지 않고 마을화하는 유일한 종족으로 알려져 있습니다.) 예를 들어 그들의 결혼식을 생각해 보세요. 달이 없는 밤에만 '생명 결합'을 하는 것이 관습입니다.
+  /codex/other/sexbound1.codex.patch/contentPages/3
+    EN: 
+^orange;Q:^reset; How do I have sex?
+
+^orange;A:^reset; 1) You can use a SxB Loungeable Add-on to upgrade an 
+    KO: ^orange;Q:^reset; 어떻게 성교하나요?
+
+^orange;A:^reset; 1) SxB 라운지 가능 애드온으로 침대 같은 오브젝트를 업그레이드할 수 있습니다. NPC와 플레이어는 업그레이드된 오브젝트로 서로 성교할 수 있습니다.
+
+^orange;A:^reset; 2) 다른 개
+  /codex/pharitu/pharitu1.codex.patch/contentPages/1
+    EN: 
+    KO: 유일한 예외이며, 이마저도 대기 조건에 문제가 있습니다. 사실, 환경이 너무 적대적이어서 파리투족조차도 매우 특정한 기상 조건을 제외하고는 지하 지역을 고수합니다 (나중에 전체 장에서 자세히 설명합니다.
+  /codex/pharitu/pharitu1.codex.patch/contentPages/2
+    EN: 
+    KO: 장에서 자세히 설명합니다). 일상 생활의 고단함을 진정으로 이해할 수 있는 종은 거의 없습니다(수천 년 전보다 지금은 문제가 덜합니다). 대부분의 기술이 대기권에서 과부하가 걸릴 위험이 크기 때문에 이 세계를 방문한 사람은 거의 없습니다,
+  /codex/pharitu/pharitu4.codex.patch/contentPages/1
+    EN: 
+    KO: 하지만 모든 파리투가 다른 사람들과 소통하는 방식입니다), 또는 극한의 거리에서 서로 (그들의 샤크타에 큰 소모가 있습니다) 돌과 금속을 형성하고 심지어 배의 연료 역할을 할 수있는 고체 물질로 만든 구조물 (배, 물질로 만든 배)을 만들기도합니다.
+  /codex/pharitu/pharitu4.codex.patch/contentPages/4
+    EN: 
+    KO: 짧은 항해에 연료를 공급하기 위해 수천 파운드의 보석이 필요하다는 것은 얼마나 끔찍한 일인지 상상할 수 있습니다). 따라서 그들은 '평범한' 우주선 부품을 만드는 데 필요한 부품을 얻기 위해 은하계 시장에서 거래하는 데 열중하고 있습니다. 표준 픽셀이 부족하기 때문에 이들에게 이것은 큰
+  /codex/pharitu/pharitu7.codex.patch/contentPages/0
+    EN: 
+    KO: 파리투는 일을 서두르지 않는 '느린' 종족으로, 결정을 내리기 전에 모든 잠재적 결과를 고려하는 타입입니다.  파리투가 수행하는 모든 행동은 계산되고 신중하게 결정됩니다(한 번의 잘못된 터널링 제스처가
+
+===== BADCHAR (6) =====
+top details: [('\\x2', 4), ('\\x1', 2)]
+  /items/generic/crafting/fusioncore.item.patch/description
+    EN: 
+    KO: 이 핵은 끊임없이 융합을 겪고 있다.\\n^red;만지면 치명적으로 뜨겁다.^reset;
+  /items/tools/miningtools/darkmatterpickaxe.activeitem.patch/description
+    EN: 
+    KO: 매우 강력하고 효과적인 채굴 도구.\\n^green;내구도 대신 에너지를 소모함
+  /objects/CCR/terrariums/critters/glitchscab/crittercage.object.patch/description
+    EN: It's a Glitch "skull"... with legs... Huh...
+    KO: 글리치 \두개골\"... 다리 달림... 허...
+  /objects/CCR/terrariums/critters/glitchscab/wallcage.object.patch/description
+    EN: It's a Glitch "skull"... with legs... Huh...
+    KO: 글리치 \두개골\"... 다리 달림... 허...
+  /objects/nmm_generic/rooftopbillboards/billboardbeautifulattempt.object.patch/hylotlDescription
+    EN: Oh no, how could you possibly make a sequel to that? /n...I admit, I'm interested.
+    KO: 오 이런, 대체 어떻게 저기서 속편을 만들 수 있는 거지?\n...인정한다, 흥미가 생기네.
+  /objects/upgrade/techconsole/techconsole.object.patch/description
+    EN: 
+    KO: 이 콘솔을 통해 기술을 장착하고 강화할 수 있습니다. \n^red;파괴하면 회수할 수 없습니다.
+
+===== TRANSNOTE (8) =====
+top details: [('역자', 8)]
+  /codex/apex/apexhistory5.codex.patch/title
+    EN: 
+    KO: 우리들 중에 반역자가 있습니다!
+  /codex/sb_bosses/sb_bosstentacomet.codex.patch/contentPages/2
+    EN: But what is this unknown beast? Some say it's an octopus in a comet. Others insist it shares certain similarit
+    KO: 그런데 이 정체불명의 짐승은 대체 무엇일까? 어떤 이들은 혜성 속 문어라고 말한다. 또 다른 이들은 지구를 파괴한 촉수 달린 괴수와 어떤 유사점이 있다고 주장한다. 어쩌면, 어느 반역자 모험가가 그것을 베어 넘기지 않았더라면, 행성만 한 크기로 자랐을지도 모른다. 어쩌면.
+  /items/WEAPONS/RANGED/BATTLE_RIFLE/gic_fal/gic_fal_npc.activeitem.patch/description
+    EN: 
+    KO: ''이러고 나면 어깨가 아프겠네.''
+
+자유 은하의 오른팔인 이 소총은, 측량된 인류 우주의 수많은 변형과 생산 모델 중 하나입니다. 싸고 믿음직한 이 무기는 반군, 치안력, 그 사이 모든 곳의 손에 들려 왔습니다. FAL 7.62x51mm 탄창을 장전합니다.
+
+^orange;반역자: 
+  /npcs/angel rebels/angelrebel.npctype.patch/scriptConfig/dialog/converse/angel/default/5
+    EN: My own fellow Angels may call me a "rebel", but I am simply doing what's right - TRULY working with the races 
+    KO: 내 동족 천사들은 나를 "반역자"라 부를지 몰라도, 나는 그저 옳은 일을 하고 있을 뿐이야. 루인드에 맞서 하나가 되기 위해 이 우주의 종족들과 진정으로 손잡는 일 말이야.
+  /npcs/angel rebels/angelrebel.npctype.patch/scriptConfig/dialog/converse/angel/angel/5
+    EN: My own fellow Angels may call me a "rebel", but I am simply doing what's right - TRULY working with the races 
+    KO: 내 동족 천사들은 나를 "반역자"라 부를지 몰라도, 나는 그저 옳은 일을 하고 있을 뿐이야. 루인드에 맞서 하나가 되기 위해 이 우주의 종족들과 진정으로 손잡는 일 말이야.
+  /npcs/angel rebels/angelrebel.npctype.patch/scriptConfig/dialog/converse/angel/angel/6
+    EN: You don't hate me for being a "rebel", do you? I'm simply doing what needs to be done - annihilating the Ruine
+    KO: 내가 "반역자"라고 해서 날 미워하는 건 아니지? 난 그저 해야 할 일을 하고 있을 뿐이야 - 루인드를 섬멸하는 일 말이지!
+  /npcs/angel rebels/angelrebel3.npctype.patch/scriptConfig/dialog/converse/angel/angel/1
+    EN: You don't hate me for being a "rebel", do you? I'm simply doing what needs to be done - annihilating the Ruine
+    KO: 내가 "반역자"라고 해서 날 미워하는 건 아니지? 난 그저 해야 할 일을 하고 있을 뿐이야 - 루인드를 섬멸하는 일 말이지!
+  /objects/apex/apextorturebed/apextorturebed.object.patch/description
+    EN: 
+    KO: 반역자가 눕는 테이블입니다.
+
+===== ENG_LEFT (311) =====
+top details: [('reset', 15), ('status', 11), ('playername', 8), ('starbound', 7), ('white', 7), ('patreon,locuturus', 7), ('orange', 7), ('secs', 6), ('xxxx', 5), ('frackinuniverse,miraheze', 4), ('storage,starbound', 4), ('replace', 4), ('input,override', 4), ('friendly', 4), ('pause', 4)]
+  /_FUcredits.config.patch/credits
+    EN: 
+    KO: 기여자, 스태프, 은퇴한 스태프, 그리고 소개된 모드/모더:
+
+- AbsoluteXeroEX
+- anoobindisguise - 연구 시스템 제작에 큰 도움을 줌
+- Aegonian	- FU와의 ERM 연동, 일부 스크립트
+- Aelfgifu	- 운영, 마이크로던전, 스프라이트
+- al
+  /_FUversioning.config.patch/info
+    EN: 
+^orange;Incompatible Mods^reset;
+
+For a list of incompatible mods, check the wiki on Miraheze (NOT Fandom). I
+    KO: ^orange;호환되지 않는 모드^reset;
+
+호환되지 않는 모드 목록은 Miraheze 위키(Fandom 아님)를 확인하라. 게임 메인 메뉴에 링크되어 있다. 최신 정보를 가장 직접적으로 얻을 수 있는 곳이다.
+
+
+^orange;자주 묻는 질문^reset;
+
+Q: 공식 위키는 어디인
+  /_ZBversioning.config.patch/welcome
+    EN: 
+    KO: 
+지타바운드에 오신 것을 환영합니다 ^orange;지타바운드^reset;; 모드 바닐라에서 손대지 않은 몇 가지 측면을 개선하고 모더들이 플레이할 수 있는 도구를 더 추가하는 것을 목표로 하는 모드!
+
+^orange;1.05c로 업데이트되었습니다:^reset;
+^green;>^reset
+  /_ZBversioning.config.patch/info
+    EN: 
+    KO: ^orange;Ztarbound^reset;에 온 걸 환영해; 모드가 건드리지 않은 바닐라 요소들을 개선하고 모더들이 가지고 놀 도구를 더하는 걸 목표로 하는 모드야!
+
+^red;참고:^reset; Ztarbound는 이미 Frackin' Universe에 내장되어 있어서 둘 다 설치할
+  /cinematics/CHARACTERS/gic_character_intro_card_template/gic_character_intro_card_template.cinematic.patch/panels/9/text
+    EN: 
+    KO: 오, 이게 누구야!
+
+안녕! 나는 fibshe야!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  /codex/LEGACY/gic_hyperspacewarpdrive/gic_hyperspacewarpdrive.codex.patch/contentPages/8
+    EN: 
+    KO: - 우주 고래
+
+큰 바다 고래; Physeter macrocephalus가 9번째 비콘 잠금 함선의 구겨진 잔해 옆에서 죽은 채로 발견되었습니다. 짧은 조사는 둘 다 하이퍼스페이스에서 동시에 떨어져 서로 안으로 충돌하여 두 물체의 원자 파열이 발생했음을 결론지었습니다.
+  /codex/LEGACY/gic_spaceinfantry/gic_spaceinfantry.codex.patch/contentPages/0
+    EN: 
+    KO: 전쟁은 무한하다
+
+우주 보병 부대의 임무는 중력 전투 내의 전투와 크게 다릅니다. 모든 각도는 incoming fire의 잠재적 경로이며, 이미 부피가 큰 산소 슈트의 특성상 갑옷은 쓸모가 없습니다.
+
+우리 차원의 최종 전쟁의 전선은 여기 있으며, 우리는 이미 22세기부터 우주 전쟁에 
+  /codex/aegi/mehrosavanpamphlet.codex.patch/contentPages/1
+    EN: Do not miss out on this amazing opportunity to experience the best art the Aeginian Federal Union has to offer
+    KO: 에지족 연방 연합이 선보이는 최고의 예술을 경험할 이 놀라운 기회를 놓치지 마세요. 전시회는 모두에게 개방되며, 입장은 완전 무료입니다.
+
+자세한 정보는 ain.mehrosavan.afu를 방문하시거나, 홀로미에서 메로스 아반 위원회를 팔로우하세요.
+  /codex/alta/ct_alta_soil_enrichment.codex.patch/longdescription
+    EN: Soil types described are moon-like, crystalline, aquatic and air-like, mainly benefitting from 6 types of fert
+    KO: 설명된 토양 종류는 문(moon)형, 결정형, 수생형, 공기형이며, 주로 6가지 종류의 비료로부터 각기 다른 방식으로 이득을 얻는다.
+  /codex/alta/ct_bishyn.codex.patch/contentPages/2
+    EN: If you're interested or have any questions - contact us at ---undecodable code string---
+    KO: 관심이 있거나 질문이 있다면 - 다음으로 연락하세요 ---undecodable code string---
+  /codex/alta/ct_logs_eds_reload.codex.patch/contentPages/0
+    EN: Error #264: EDS server address error
+ #error264\008\%^%$\=432^&+%^678$^\%78+$`231
+Performing automatic reboot 
+    KO: 오류 #264: EDS 서버 주소 오류
+ #error264\008\%^%$\=432^&+%^678$^\%78+$`231
+자동 재부팅 수행 중 . . .
+CPU 냉각 중 . . .
+클라이언트: 생성 중 . . .
+텍스처 불러오는 중 . . .
+클라이언트: 동기화 중 . . .
+시스템 불러
+  /codex/documents/ffguide2.codex.patch/longContentPages/0
+    EN: There are new worlds across the cosmos awaiting exploration. The next few pages will detail some of them. Note
+    KO: 우주 곳곳에는 탐험을 기다리는 새로운 세계가 있다. 다음 몇 장에서는 그중 일부를 소개한다. 여기에 실린 것보다 훨씬 많다는 점을 기억하자.
+
+생물군계는 여러 종류의 별 주위에 나타나며, 특정한 별에서만 발견되는 것도 있다. 예를 들어 ^orange;인퍼너스^reset;는 ^white;

@@ -1,0 +1,50 @@
+en	count	sample_asset	ko
+Ammo capacity x2	2	/items/augments/project45-gunmods/mods/project45-extendedmagmod/project45-extendedmagmod.augment.patch	
+Recoil -0.2x	2	/items/augments/project45-gunmods/mods/project45-gripmod/project45-gripmod.augment.patch	
+If I appear anywhere, something's wrong; check the scripts and tooltips.	2	/items/augments/project45-gunmods/mods/project45-speedloadermod/project45-speedloadermod.augment.patch	
+Crit Chance +50% when aiming	1	/items/augments/project45-gunmods/ability/project45-gunscopemod/project45-gunscopemod.augment.patch	
+"Recoil x0.8
+Inaccuracy x0.8
+Crit Chance +50% when aiming"	1	/items/augments/project45-gunmods/ability/project45-supergunscopemod/project45-supergunscopemod.augment.patch	
+Projectiles: 3	1	/items/augments/project45-gunmods/ammo/project45-dragonsbreathmod/project45-dragonsbreathmod.augment.patch	
+"Multishot: 1.1
+Hitscan Pen.: 3"	1	/items/augments/project45-gunmods/ammo/project45-flechettemod/project45-flechettemod.augment.patch	
+"Projectile Count: 1
+Multishot: 3
+Base Damage +1x
+Spread +1 deg.
+Recoil +10
+Recoil Momentum +10"	1	/items/augments/project45-gunmods/ammo/project45-fourgaugemod/project45-fourgaugemod.augment.patch	
+Spread: 1 deg.	1	/items/augments/project45-gunmods/ammo/project45-slugshellsmod/project45-slugshellsmod.augment.patch	
+"Cock time: 0.5s
+Ammo Capacity +4"	1	/items/augments/project45-gunmods/mods/project45-alofsmagmod/project45-alofsmagmod.augment.patch	
+Trigger time: 0.1s	1	/items/augments/project45-gunmods/mods/project45-autofiremod/project45-autofiremod.augment.patch	
+"Spread -0.9x
+Recoil -0.9x"	1	/items/augments/project45-gunmods/mods/project45-bowstabilizermod/project45-bowstabilizermod.augment.patch	
+"Recoil +10 deg.
+Projectile Count: 1
+Spread: -0.99x
+Base Damage +0.25"	1	/items/augments/project45-gunmods/mods/project45-convergermod/project45-convergermod.augment.patch	
+Max Ammo +3	1	/items/augments/project45-gunmods/mods/project45-customnockmod/project45-customnockmod.augment.patch	
+Spread -0.5x	1	/items/augments/project45-gunmods/mods/project45-extendedbarrelmod/project45-extendedbarrelmod.augment.patch	
+"Inaccuracy -0.2x
+Recoil -0.2x"	1	/items/augments/project45-gunmods/mods/project45-lasermod/project45-lasermod.augment.patch	
+"Multishot +3
+Spread -0.5x"	1	/items/augments/project45-gunmods/mods/project45-multinockmod/project45-multinockmod.augment.patch	
+Max Ammo x0.5	1	/items/augments/project45-gunmods/mods/project45-multithreadermod/project45-multithreadermod.augment.patch	
+"Inaccuracy -0.2x
+Recoil -0.2x
+Recovery Time -0.75x"	1	/items/augments/project45-gunmods/mods/project45-reflexsightsmod/project45-reflexsightsmod.augment.patch	
+Recoil -0.1x	1	/items/augments/project45-gunmods/mods/project45-silencermod/project45-silencermod.augment.patch	
+"Multishot +2
+Spread: 1 deg."	1	/items/augments/project45-gunmods/mods/project45-splittermod/project45-splittermod.augment.patch	
+"Screen Shake: 0.1
+Recoil -0.5x"	1	/items/augments/project45-gunmods/mods/project45-stockmod/project45-stockmod.augment.patch	
+"Heavy: Removes mobility penalties.
+Mobility +0.15x"	1	/items/augments/project45-gunmods/mods/project45-weightmod/project45-weightmod.augment.patch	
+"
+Damage*2+1
+fireTime*2-1
+(reloadCost/2)-1
+critChance*2+1
+critDamage*2+1"	1	/items/augments/project45-gunmods/stat/project45-godmod/project45-teststatmod.augment.patch	

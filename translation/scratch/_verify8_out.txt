@@ -1,0 +1,406 @@
+
+===== 비컨  (46) =====
+  /dialog/atprk_ancientguardian.config.patch//enclosedArea/default/default/1
+    EN: The elements can damage the Beacon. It should be kept in an enclosed area.
+    KO: 원소는 비컨을 손상시킬 수 있다. 밀폐된 장소에 보관해야 한다.
+  /dialog/atprk_fuelderguardian.config.patch//converse/default/default/4
+    EN: The Beacon must be protected... Master must be protected...
+    KO: 비컨을 지켜야 해... 주인님을 지켜야 해...
+  /dialog/atprk_fuelderguardian.config.patch//tagCriteria/default/default/0
+    EN: The Beacon is disturbed...
+    KO: 비컨이 교란됐어...
+  /dialog/atprk_fuelderguardian.config.patch//tagCriteria/default/default/2
+    EN: I cannot sense the Beacon...
+    KO: 비컨 감지 못 해...
+  /dialog/atprk_fuelderguardian.config.patch//enclosedArea/default/default/0
+    EN: The Beacon cannot be safe here...
+    KO: 여기서는 비컨이 안전할 수 없어...
+  /dialog/atprk_fuelderguardian.config.patch//enclosedArea/default/default/1
+    EN: The Beacon could be damaged... We must hide it from outsiders!
+    KO: 비컨이 손상될 수도 있어... 외부인들로부터 숨겨야 해!
+  /dialog/atprk_fuelderguardian.config.patch//otherDeed/default/default/0
+    EN: Stop! We must not disturb the Beacon!
+    KO: 멈춰! 비컨을 건드려선 안 돼!
+  /dialog/atprk_fuelderguardian.config.patch//otherDeed/default/default/1
+    EN: Only one can guard the Beacon... No more, no less.
+    KO: 오직 한 명만이 비컨을 지킬 수 있다... 더도 덜도 말고.
+  /dialog/atprk_fuelderguardian.config.patch//severe/default/default/0
+    EN: I cannot sense the Beacon...
+    KO: 비컨 감지 못 해...
+  /dialog/atprk_fuelderguardian.config.patch//attack/default/default/1
+    EN: Protect the Beacon!
+    KO: 비컨을 지켜라!
+  /dialog/atprk_fuelderguardian.config.patch//killedTarget/default/default/1
+    EN: The Beacon is safe...
+    KO: 비컨은 안전해...
+  /items/FIRE_SUPPORT/gic_ammoresupply_droppod_grenade/gic_ammoresupply_droppod_grenade.activeitem.patch//description
+    EN: 
+    KO: "탄약 재보급 투하 포드 조정기 비컨으로, 표준 5초 신관 후 작동 | 지하 사용 가능.
+  /items/FIRE_SUPPORT/gic_goshawk_artillerycoordinator_grenade/gic_goshawk_artillerycoordinator_grenade.activeitem.patch//description
+    EN: 
+    KO: "근접 항공 지원 조정기 비컨으로, 명중 시 작동 | ^orange;개활지 필요 | 호출 불가 시 비컨이 원래 기폭 지점 근처에서 반환.^reset;
+  /items/FIRE_SUPPORT/gic_goshawk_artillerycoordinator_grenade/gic_goshawk_artillerycoordinator_grenade_old.activeitem.patch//description
+    EN: 
+    KO: "근접 항공 지원 조정기 비컨으로, 표준 5초 신관 후 작동 | ^orange;넓은 개활지 필요 | 호출 불가 시 비컨이 원래 기폭 지점 근처에서 반환.^reset;
+  /items/FIRE_SUPPORT/gic_skywarden_smokestrafe_firesupport_grenade/gic_skywarden_smokestrafe_firesupport_grenade.activeitem.patch//description
+    EN: 
+    KO: "근접 항공 지원 조정기 비컨으로, 명중 시 작동 | ^orange;공간 필요 | 호출 불가 시 비컨이 원래 기폭 지점 근처에서 반환.^reset;
+  /items/FIRE_SUPPORT/gic_skywarden_smokestrafe_firesupport_grenade/gic_skywarden_smokestrafe_firesupport_grenade_old.activeitem.patch//description
+    EN: 
+    KO: "근접 항공 지원 조정기 비컨으로, 표준 5초 신관 후 작동 | ^orange;공간 필요 | 호출 불가 시 비컨이 원래 기폭 지점 근처에서 반환.^reset;
+  /items/MATERIALS/gic_programmablebeacon/gic_brokenprogrammablebeacon.item.patch//shortdescription
+    EN: 
+    KO: 부서진 프로그래밍 가능 비컨
+  /items/MATERIALS/gic_programmablebeacon/gic_programmablebeacon.item.patch//shortdescription
+    EN: 
+    KO: 프로그래밍 가능 비컨
+  /items/WEAPONS/UTILITY/gic_shipartillery_anacondacannon_flaregun/gic_shipartillery_anacondacannon_flaregun.activeitem.patch//description
+    EN: 
+    KO: "함선 자동포용 비컨 발사기입니다. ^red;다시 얻을 수 없으니 잃지 마세요!^reset;
+  /items/WEAPONS/UTILITY/gic_shipartillery_anacondacannon_flaregun/gic_shipartillery_anacondacannon_flaregun_airburst.activeitem.patch//description
+    EN: 
+    KO: "함선 자동포용 비컨 발사기입니다. ^red;다시 얻을 수 없으니 잃지 마세요!^reset;
+
+===== 이병(full)  (1) =====
+  /codex/documents/scienceoutpost_kevin.codex.patch//contentPages/60
+    EN: 
+    KO: 4월 2일 - 케빈이 화석 복원 프로젝트에 대한 소식을 듣고 함께하고 싶다고 했습니다. 그래서 케빈에게 트릴로바이트 화석을 주었고, 놀랍게도 케빈은 잘 해냈습니다. 안타깝게도 우리는 그가 아래층에 전시할 다음 화석을 선택하게 하는 실수를 저질렀어요. 면회 온 홀릭스 이병의 할머니를 케빈
+
+===== fenerox outOfSight  (0) =====
+
+===== 선배  (45) =====
+  /cinematics/mwhaddon/mwhaddon_story/mwhaddon_story_chapter2_sallyCrystal/mwhaddon_story_chapter2_sallyCrystal.cinematic.patch//panels/3/text
+    EN: Look, Senpai! What a big crystal! I did have read about it in a book. I believe it's called... ^green;Renatine^reset;?
+    KO: 봐, 선배! 엄청 큰 수정이야! 책에서 읽어본 적 있어. 그게... ^green;레나틴^reset;이라고 불리는 거였던 것 같아?
+  /objects/arcana/monarch/mwhaddon_monarch_mission_5/mwhaddon_monarch_mission_5.object.patch//chatOptions/1
+    EN: Thank you for your concern, Senpai. It did scare me for a moment, but I don't feel any discomfort in my body now.
+    KO: 걱정해줘서 고마워, 선배. 순간 무섭긴 했지만, 지금은 몸에 아무 불편함도 안 느껴져.
+  /objects/arcana/monarch/mwhaddon_monarch_mission_5/mwhaddon_monarch_mission_5.object.patch//chatOptions/3
+    EN: Let's head back now, Senpai! We need to report this to Dr. Nereus or Miss Vindermill!
+    KO: 이제 돌아가자, 선배! 네레우스 박사님이나 빈더밀 양에게 이걸 보고해야 해!
+  /objects/arcana/npcs/mwhaddon_dungeon_misc/mwhaddon_dungeon_misc_npc_sally/mwhaddon_dungeon_misc_npc_sally_mCpt1_3_2.object.patch//chatOptions/0
+    EN: Although I don't know how this place leads to where Senpai came from, Senpai, please let me go with you!
+    KO: 이곳이 선배가 온 곳으로 어떻게 이어지는지는 모르겠지만, 선배, 저도 같이 가게 해주세요!
+  /objects/arcana/npcs/mwhaddon_dungeon_misc/mwhaddon_dungeon_misc_npc_sally/mwhaddon_dungeon_misc_npc_sally_mCpt2_1_1.object.patch//chatOptions/0
+    EN: That lady doesn't seem as difficult to communicate with as I had imagined. Let's go upstairs to visit her, Senpai!
+    KO: 저 여자분은 내가 생각했던 것만큼 소통하기 어려워 보이지 않아. 위층으로 올라가서 그분을 찾아뵈어요, 선배!
+  /objects/arcana/npcs/mwhaddon_dungeon_misc/mwhaddon_dungeon_misc_npc_sally/mwhaddon_dungeon_misc_npc_sally_mCpt2_3_1.object.patch//chatOptions/0
+    EN: So many levers here, Senpai! ^green;They appear to be connected to those laser emitters^reset;!
+    KO: 여기 레버가 정말 많네, 선배! ^green;저 레이저 방출기들이랑 연결된 것 같아^reset;!
+  /quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter2/mwhaddon_quests_chapter2_0_2.questtemplate.patch//text
+    EN: Senpai! We certainly can't wait that long! ^green;I'd suggest wandering around here a bit more^reset;, there must be other ways to get into that tower more quic
+    KO: 선배! 그렇게 오래 기다릴 순 없어! ^green;여기 좀 더 돌아다녀 보는 게 좋겠어^reset;, 저 탑에 더 빨리 들어갈 다른 방법이 분명 있을 거야!
+  /quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter2/mwhaddon_quests_chapter2_1_3.questtemplate.patch//text
+    EN: We've obtained some rather useful information, Senpai! And ^orange;this device... a talisman^reset;! ^green;Let's return to Emerald Glimpse to report!
+    KO: 꽤 쓸 만한 정보를 얻었어요, 선배! 그리고 ^orange;이 장치... 부적이에요^reset;! ^green;에메랄드 글림프스로 돌아가 보고합시다!
+  /quests/mwhaddon_quests/mwhaddon_quest_mainStory/chapter2/mwhaddon_quests_chapter2_2_1.questtemplate.patch//text
+    EN: But I felt it, Senpai! ^orange;The energy flow of another crystal on the other side of the ruin!^reset; I feel it calling me! We should find it first! My health
+    KO: 근데 느꼈어요, 선배! ^orange;유적 반대편에 있는 또 다른 수정의 에너지 흐름을요!^reset; 그게 절 부르는 게 느껴져요! 우리가 먼저 찾아야 해요! 제 몸 상태는 완벽하고, 언제든 갈 준비 됐어요! 제발요, 선배...
+  /radiomessages/mwhaddon_boss.radiomessages.patch//mwhaddon_voidMerisis_intro_a/text
+    EN: Senpai! Even if its abilities differ greatly, I still believe it keeps the same characteristic of those previous monsters - ^yellow;sensitive to elementals^rese
+    KO: 선배! 능력이 많이 다르긴 해도, 이전 몬스터들과 같은 특성 - ^yellow;원소에 민감함^reset; - 을 여전히 가지고 있다고 생각해!
+  /radiomessages/mwhaddon_boss.radiomessages.patch//mwhaddon_voidMerisis_laserFire/text
+    EN: It's about time, Senpai!
+    KO: 이제야 왔네요, 선배!
+  /radiomessages/mwhaddon_boss.radiomessages.patch//mwhaddon_voidMerisis_elemental_ice/text
+    EN: It looks ^orange;frosty^reset;, Senpai! ^green;Let's use Fire!^reset;
+    KO: ^orange;서리가 낀^reset; 것 같아요, 선배! ^green;불을 써봐요!^reset;
+  /radiomessages/mwhaddon_boss.radiomessages.patch//mwhaddon_voidMerisis_elemental_electric/text
+    EN: It's now ^orange;electrically charged^reset;, Senpai! ^green;Try Poison!^reset;
+    KO: 이제 ^orange;전기가 흐르고 있어요^reset;, 선배! ^green;독을 써보세요!^reset;
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter1_3_8/text
+    EN: Can - can I call you ^green;Senpai^reset;? One of my Hyltol classmates taught me this word, and it refers exclusively to those who are more senior and worthy of
+    KO: 저... 저 ^green;선배^reset;이라고 불러도 될까? 제 하이로틀 반 친구가 이 단어를 알려줬는데, 저보다 선배이면서 존경할 만한 사람한테만 쓰는 말이래.
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter1_3_9/text
+    EN: Senpai won't mind if I call you that, right? It's really my long-awaited lucky day to meet Senpai!
+    KO: 선배라고 불러도 괜찮지, 그렇지? 오늘은 정말 오래 기다려온 행운의 날이야, 선배를 만나다니!
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter1_3_11/text
+    EN: This chamber... Senpai! There's a staff on that shelf!
+    KO: 이 방은... 선배! 저 선반에 지팡이가 있어!
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter1_3_14/text
+    EN: Senpai! It must be that ^green;odd statue resurrecting those monsters^reset;! ^yellow;We need to destory it!
+    KO: 선배! 저 ^green;괴상한 조각상이 몬스터들을 되살리고 있는^reset; 게 틀림없어! ^yellow;저걸 파괴해야 해!
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter1_3_15/text
+    EN: Senpai! I was right! Give me a compliment! Let's gooooo~
+    KO: 선배! 내가 맞았지! 칭찬해줘! 가보자고오오~
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter1_3_17/text
+    EN: You are a real explorer, Senpai!
+    KO: 진짜 탐험가네, 선배!
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter1_3_18/text
+    EN: So many treasures here! Senpai won't mind if I get a little share, right?
+    KO: 여기 보물이 정말 많네! 선배도 내가 조금 챙겨가는 거 신경 안 쓰겠지, 그렇지?
+
+===== 유적+폐허 same-asset mwh/ruins  (202) =====
+  /cinematics/CHARACTERS/SHRINEMAIDEN/gico_shrinemaiden_meeting_human_path.cinematic.patch//panels/12/text
+    EN: Though I'm curious why a stranger like you even came here. From what Howell told me, you just appeared randomly in one of those ruined bunkers and just started 
+    KO: 그나저나 너 같은 이방인이 어쩌다 여기까지 왔는지 궁금하긴 하다. 하웰 말로는, 네가 그저 폐허가 된 벙커 중 하나에 불쑥 나타나서는 누가 길을 막든 말든 전선을 뚫고 지나갔다더군. 뭔가를 찾다가 못 찾았나? 아니면 어디에 왔는지 그냥 궁금했던 건가? 대답은 안 해도 돼. 나는 남의 말
+  /codex/arcana_codex_guide/arcana_codex_mwhaddon_guide_1.codex.patch//contentPages/11
+    EN: Speaking of the seabed of ^#3ED0E8;Shining Sea^white;, quite a few ^cyan;ancient Arcanian ruins^white; are spotted there. So it's not surprising to run into tre
+    KO: ^#3ED0E8;샤이닝 해^white;의 해저 얘기가 나와서 말인데, 꽤 많은 ^cyan;고대 아르카니아 유적^white;이 그곳에서 발견된다. 그러니 그곳에서 보물 사냥꾼과 수집가들을 마주치는 것도 놀랍지 않다.
+  /codex/arcana_codex_monarch/arcana_codex_monarch_1.codex.patch//contentPages/0
+    EN: The illuminated plains are well known for their lack of any distinct or colorful features. Their entire environment seems to be largely composed of gray landsca
+    KO: 빛나는 평원은 눈에 띄거나 다채로운 특징이 전혀 없는 것으로 유명하다. 환경 전체가 대체로 회색 풍경과 창백한 궁전의 폐허로 이루어진 듯하다.
+  /codex/arcana_codex_monarch/arcana_codex_monarch_1.codex.patch//contentPages/1
+    EN: It is currently unknown who used to reside in these plains, as most records found in the ruins are largely indecipherable, but many have come to a general conse
+    KO: 이 평원에 예전에 누가 살았는지는 현재 알려져 있지 않다. 폐허에서 발견된 기록 대부분이 거의 해독 불가능하기 때문이다. 다만 건축 잔해로 미루어 볼 때, 한때 이곳에 일종의 큰 왕국이 세워졌을 것이라는 데 많은 이들이 대체로 동의하고 있다.
+  /codex/atprk_krakoth/atprk_krakothcodexlapsus.codex.patch//contentPages/1
+    EN: After years of research it has been concluded that the Scavengers are the last remnants of a star-spanning civilization. Most of its major population centers we
+    KO: 오랜 연구 끝에, 스캐빈저는 별들을 아우르던 문명의 마지막 잔재라는 결론에 도달했다. 그들의 주요 거주지는 대부분 불타는 항성을 도는 행성에 있었으며, 그 표면에 남은 방대한 유적이 이를 증명한다. 이를 개조하려는 시도는 대체로 엇갈린 결과를 낳는다.
+  /codex/avikan/avikanhistory4.codex.patch//contentPages/0
+    EN: The Era of Vhelin lasted for over a millennium, until the First Thelean Invasion of 241 BF. The first contact the Avikan had with an alien species was brutal. T
+    KO: 벨린 시대는 비행 이전(BF) 241년의 제1차 텔레안 침공까지 천 년 넘게 지속되었다. 아비칸이 외계 종족과 처음 접촉한 것은 잔혹했다. 텔레안은 난데없이 나타나, 카다반 전역의 테르베스를 습격하며 아비칸 나라를 폐허로 만들었다.
+  /codex/avikan/avikanhistory4.codex.patch//contentPages/2
+    EN: Luckily, the Avikan were now better prepared for an alien assault, and the force that attacked was smaller than the first. After its defeat, we learned what the
+    KO: 다행히, 아비칸은 이번엔 외계인의 습격에 더 잘 대비되어 있었고, 공격해온 병력도 첫 번째보다 규모가 작았다. 격퇴한 후, 우리는 침입자들이 진짜로 원했던 게 무엇인지 알게 되었다: 바로 고대인의 유적과 유물이었다. 텔레안들은 우리 세계를 습격해 우리의 업리프터들이 남긴 이 고대 유물들
+  /codex/avikan/avikanramblings.codex.patch//contentPages/1
+    EN: I happened upon the ruins by pure chance. I was hunting a Sandstalker, a big one, when it led me right into these ruins. Didn't seem like anything special at fi
+    KO: 우연히 이 유적을 발견했어. 커다란 샌드스토커를 사냥하던 중이었는데, 그 녀석이 날 바로 이 유적으로 이끌었지. 처음엔 딱히 특별해 보이지 않았어: 세월과 풍파에 시달렸지만 여전히 난공불락인 거대한 금속 큐브 몇 개뿐이었으니까. 그런데 그때, 뭔가가 움직이는 걸 봤고, 중앙 큐브에서 문
+  /codex/avikan/avikanramblings.codex.patch//contentPages/3
+    EN: Either way, it spoke to me, and I understood what it said. It warned me that a Thelean invader was fast approaching, and that it meant to take a small cube that
+    KO: 어쨌든, 그것은 나에게 말을 걸었고, 나는 그 말을 이해했다. 그것은 텔레안 침입자가 빠르게 접근하고 있으며, 폐허 바로 바깥 모래 속에 숨겨져 있던 작은 큐브를 노리고 있다고 경고했다. 옛 존재는 그 큐브가 무엇인지 말해주지 않았지만, 그것이 어떤 식으로든 중요하다는 것은 분명했다. 
+  /codex/avikan/avikanramblings.codex.patch//contentPages/6
+    EN: I'm certain that it was the invader the Old One spoke of. I tried to convince the others that my story was true after all, but they wouldn't believe me. I even 
+    KO: 옛 존재가 말했던 침입자가 틀림없었어. 다른 이들에게 내 이야기가 사실이라고 설득하려 했지만 믿어주지 않았지. 심지어 몇 명을 유적으로 데려가 커다란 정육면체에 있는 열린 문을 보여주기까지 했는데, 도착해보니 문은 닫혀 있었어. 내 발자국은 바람에 지워졌고, 내가 했던 말이 사실이라는 
+  /codex/missions/extraalienjungle1.codex.patch//description
+    EN: A mysterious script found in ancient jungle ruins. Needs translation.
+    KO: 고대 정글 유적에서 발견된 정체불명의 문자입니다. 번역이 필요합니다.
+  /codex/missions/extraalienjungle3.codex.patch//description
+    EN: An examination of the Brine Star ruins.
+    KO: 브라인 스타 유적에 관한 조사 기록이다.
+  /codex/mwhaddon_codex_misc/mwhaddon_codex_fable_3.codex.patch//contentPages/0
+    EN: By the time the King and the Gardener arrived, the Garden lay in utter ruin. The Serpent's presence was plain for all to see, and displeasure clouded the King's
+    KO: 왕과 정원사가 도착했을 무렵, 정원은 완전히 폐허가 되어 있었다. 뱀의 존재는 누구의 눈에도 뚜렷했고, 불쾌함이 왕의 얼굴에 그림자를 드리웠다. 공주를 탓할 수는 없었기에, 정원의 참상은 결국 뱀을 숨긴 죄로 정원사를 향한 왕의 고발로 귀결되었다.
+  /codex/viera/vieralore41.codex.patch//contentPages/6
+    EN: When the shadows lifted, the souls of Lyrhalla were free. Seonha stood amidst the ruins, weary but unbroken, a symbol of hope to all who feared the darkness. I 
+    KO: 그림자가 걷히자, 리르할라의 영혼들은 자유로워졌다. 선하는 폐허 속에 지쳤지만 꺾이지 않은 채 서 있었고, 어둠을 두려워하는 모두에게 희망의 상징이었다. 나는 그때 선하가 평범한 펜서가 아니라는 걸 알았다 - 그녀는 선을 위한 힘이었다.
+  /dialog/atprk_relicseekercrew.config.patch//converse/novakid/pandorasboxsheye/6
+    EN: We've been discoverin' many strange boxes lately. Their materials suggest that they're as old as the Ancients' ruins...
+    KO: 최근 이상한 상자들을 많이 발견했어. 재질로 보아 고대인의 유적만큼 오래된 것 같아...
+  /dialog/avikanoutpost.config.patch//converse/avikan/avikan/43
+    EN: Have you ever seen the ruins of the Old Ones on your journeys?
+    KO: 여행하며 고대인의 유적을 본 적 있는가?
+  /dialog/deaphox.config.patch//converse/default/default/4
+    EN: Now all that remains are these ruins, stripped of their glories.
+    KO: 이제 남은 건 영광을 다 빼앗긴 이 폐허들뿐이다.
+  /dialog/deaphox.config.patch//converse/default/default/9
+    EN: How many ruins have you passed by? How many still lie ahead?
+    KO: 유적을 몇 개나 지나왔지? 앞으로 몇 개나 더 남았지?
+  /interface/kukagps/biomes.config.patch//furuinsunderground
+    EN: Ruined Caverns
+    KO: 폐허가 된 동굴
+  /interface/kukagps/biomes.config.patch//precursorsurface
+    EN: Precursor Ruins
+    KO: 선구자 유적
+
+===== 지뢰(mine EN)  (49) =====
+  /items/AMMUNITION/SUPPORT/gico_mine_drop/gico_mine_drop.item.patch//shortdescription
+    EN: Wasp Mines Deployment
+    KO: 와스프 지뢰 전개
+  /items/WEAPONS/lawswatplasmarifle1/lawswatplasmarifle.activeitem.patch//altAbility/name
+    EN: Sticky Plasma Mines
+    KO: 끈적끈적한 플라즈마 지뢰
+  /items/active/specweapons/cannoneer/outburst.activeitem.patch//primaryAbility/name
+    EN: Elemental Mines
+    KO: 원소 지뢰
+  /items/active/specweapons/shade/fear.activeitem.patch//altAbility/name
+    EN: Blackout Mine
+    KO: 암전 지뢰
+  /items/active/weapons/nullium/v-gravwarp/v-gravwarp.activeitem.patch//altAbility/name
+    EN: Singularity Mine
+    KO: 특이점 지뢰
+  /items/active/weapons/ranged/abilities/fubigmine.weaponability.patch//ability/name
+    EN: Mega Mine
+    KO: 메가 지뢰
+  /items/active/weapons/ranged/abilities/grenadelauncher/swtjc_ewg_proximitymines.weaponability.patch//ability/name
+    EN: Proximity Mines
+    KO: 근접 지뢰
+  /items/active/weapons/ranged/abilities/koopUscmMineLauncher/koopUscmMineLauncher.weaponability.patch//ability/name
+    EN: U.S.C.M. Mines
+    KO: U.S.C.M. 지뢰
+  /items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.activeitem.patch//altAbility/description
+    EN: A powerful poisonous discharge - press for a shotgun-like burst of poison, hold to launch a proximity mine.
+    KO: 강력한 독성 방출체 - 눌러서 산탄총처럼 독을 터뜨리거나, 눌러 유지해서 근접 지뢰를 발사한다.
+  /items/active/weapons/ranged/shadeshyre/shadeshyre.activeitem.patch//tooltipFields/subtitle
+    EN: Delpha Minelayer
+    KO: 델파 지뢰부설기
+  /items/active/weapons/ranged/shellguardweapons/ironwatch/sgheatwavecarbine/sgmoto.activeitem.patch//altAbility/name
+    EN: Sticky Plasma Mines
+    KO: 끈적끈적한 플라즈마 지뢰
+  /items/active/weapons/ranged/shellguardweapons/ironwatch/sgironwatchdmr/sgdmr.activeitem.patch//altAbility/name
+    EN: Sticky Plasma Mines
+    KO: 끈적끈적한 플라즈마 지뢰
+
+===== horizon_3_*  (24) =====
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_0/senderName
+    EN: General Falke
+    KO: 팔케 장군
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_0/text
+    EN: You've arrived, partner. Our target is not far ahead. You can prepare yourself in our safe house before departure.
+    KO: 왔구나, 파트너. 목표는 멀지 않은 곳에 있다. 출발 전에 안전가옥에서 준비하면 된다.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_1/senderName
+    EN: General Falke
+    KO: 팔케 장군
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_1/text
+    EN: ^red;Do remember never to break in with force.^reset; Those drones are a great problem even for us.
+    KO: ^red;절대 무력으로 침입하지 말 것을 명심하라.^reset; 그 드론들은 우리에게도 큰 골칫거리다.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_2/senderName
+    EN: General Falke
+    KO: 팔케 장군
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_2/text
+    EN: The beacon indicates a supply point where you can have a rest if you need to.
+    KO: 비컨은 필요하면 쉴 수 있는 보급 지점을 나타낸다.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_3/text
+    EN: I'm detecting a large number of suspected mines up ahead of your position. Finding another way out rather than going through with it is strongly advised.
+    KO: 전방에서 다수의 지뢰로 의심되는 물체를 탐지했다. 정면 돌파보다는 다른 경로를 찾는 것을 강력히 권장한다.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_4/text
+    EN: Another group of mine is detected.
+    KO: 또 다른 무리가 감지되었다.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_5/senderName
+    EN: General Falke
+    KO: 팔케 장군
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_5/text
+    EN: Sorry for the crudity partner, but this is the best we can offer. For anything further, you'd have to be on your own.
+    KO: 조잡해서 미안해 파트너, 하지만 이게 우리가 줄 수 있는 최선이야. 더 필요한 건, 알아서 해결해야 할 거야.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_6/text
+    EN: Areas ahead and below are all minefields. I suggest you plan your route carefully.
+    KO: 앞쪽과 아래쪽 지역은 전부 지뢰밭이다. 경로를 신중하게 계획하길 권한다.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_7/text
+    EN: Enemy vessel ahead. A large number of hostile signals are detected. Please proceed with caution.
+    KO: 전방에 적 함선 발견. 다수의 적대 신호가 감지되었다. 주의해서 진행해.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_8/senderName
+    EN: General Falke
+    KO: 팔케 장군
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_8/text
+    EN: ...I have a really bad feeling about this.
+    KO: ...느낌이 정말 안 좋아.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_9/text
+    EN: ...It's you, that destroyed our outpost camp.
+    KO: ...너였구나, 우리 전초 기지 캠프를 박살 낸 게.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_10/text
+    EN: ...It's you, that raided my excavation base.
+    KO: ...너였구나, 내 발굴 기지를 습격한 게.
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_11/text
+    EN: ...and it will be you, that crushed by the weight of Horizon's fury!
+    KO: ...그리고 호라이즌의 분노에 짓밟히는 건 바로 너일 것이다!
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_12/senderName
+    EN: General Falke
+    KO: 팔케 장군
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_13/senderName
+    EN: General Falke
+    KO: 팔케 장군
+  /radiomessages/mwhaddon_mission_sideStory.radiomessages.patch//mwhaddon_mission_horizon_3_13/text
+    EN: Got a lot of files here as well. Guess they'd never expected to lose the fight huh?
+    KO: 여기에도 파일이 많군. 자기들이 질 거라곤 생각도 못 했나 봐?
+
+===== 신병  (14) =====
+  /codex/elduukhar/elduukhar3.codex.patch//contentPages/1
+    EN: 
+    KO: 수컷 엘드우카르가 붉은 수정을 마시면 '두 마리 이상의 용과 짝짓기를 하는 성적 일탈자'가 되고, 암컷이 초록 수정을 마시면 같은 효과를 낸다고 합니다. 파란색 수정은 행복감을 가져다준다고 하지만 하늘색일 경우에만 효과가 있습니다. 청록색은 정신병으로 이어질 것입니다... 분명히. 이것
+  /codex/mwhaddon_codex_mission/mwhaddon_codex_horizonMission/mwhaddon_codex_horizonMission_4.codex.patch//contentPages/2
+    EN: And one more thing. Next time when I see you can't even keep your own badge, YOU WILL DEFINITELY GET YOUR ASS BACK TO BOOT CAMP.
+    KO: 그리고 한 가지 더. 다음에 네 배지 하나 제대로 간수 못 하는 꼴을 보면, 넌 무조건 다시 신병 훈련소로 끌려갈 줄 알아.
+  /codex/thelusian/thelusian7.codex.patch//contentPages/2
+    EN: 
+    KO: 끔찍하게 불행한 일이라고 생각하지 않을까요? 적에게는 여전히 팔다리가 몇 개 더 있고, 당신이 부상을 입혔음에도 불구하고 모든 팔다리가 당신을 죽일 수 있습니다. 이제 이 적을 천만 명으로 늘리세요. 이제 그 한가운데에 각종 무기를 든 신병 분대를 배치하세요. 어떻게 될 것 같나요?
+  /interface/confirmation/gic_teleportconfirmation.config.patch//gic_esther_chapter_1_1_fng_confirmation/subtitle
+    EN: 
+    KO: 1장: '신병'
+  /interface/warping/ESTHER/gic_esther_chapter_2_hubworld_portallab_bossrush.config.patch//destinations/2/name
+    EN: 
+    KO: 캠페인 다시보기: 신병
+  /interface/warping/gic_tylian_bazaar_bossrush.config.patch//destinations/2/name
+    EN: 
+    KO: 캠페인 다시보기: 신병
+  /items/WEAPONS/MELEE/gic_nariakira_spear_pike/gic_nariakira_spear_pike.activeitem.patch//description
+    EN: 
+    KO: "근접 무기로 사용하는 T30 총검 장착 나리아키라 소총. 전쟁이 계속되면서 총검술을 비롯한 전반적인 훈련 기간이 짧아졌고, 신병들은 기본만 배웠다. 정확히 찌르고, 두려움 없이 찌르라.
+  /items/WEAPONS/MELEE/gic_rsr_iwashita_ise_spear/gic_rsr_iwashita_ise_spear.activeitem.patch//description
+    EN: 
+    KO: "근접 무기로 사용하는 T30 총검 장착 나리아키라 소총. 전쟁이 계속되면서 총검술을 비롯한 전반적인 훈련 기간이 짧아졌고, 신병들은 기본만 배웠다. 정확히 찌르고, 두려움 없이 찌르라.
+  /npcs/crew/aegi/crewmemberaegipolice.npctype.patch//scriptConfig/crew/ranks/2
+    EN: <field> Recruit
+    KO: <field> 신병
+  /npcs/crew/aegi/crewmemberaegisoldier.npctype.patch//scriptConfig/crew/ranks/2
+    EN: <field> Recruit
+    KO: <field> 신병
+  /npcs/crew/avikan/crewmembervanguard.npctype.patch//scriptConfig/crew/ranks/2
+    EN: <field> Recruit
+    KO: <field> 신병
+  /objects/gic_wildlands_asylum_portal/gic_wildlands_asylum_portal.object.patch//shortdescription
+    EN: 
+    KO: 정신병원 입구
+  /quests/ESCALATION/esc_pmc_rep_0.questtemplate.patch//title
+    EN: ^#964b4b;Climbing Up: Recruit^reset;
+    KO: ^#964b4b;올라가기: 신병^reset;
+  /radiomessages/fu_kevin.radiomessages.patch//fu_kevin_insanity6/text
+    EN: 
+    KO: 맙소사, 당신이 미쳤을 때 나는 그것을 좋아합니다! 내가 말하는 것인지 아니면 당신 자신의 마음이 정신병적 한계점에 도달하고 있는지 결코 알 수 없습니다!
+
+===== 중려  (0) =====
+
+===== 나용  (1) =====
+  /radiomessages/lofty_irisil_pickmeup.radiomessages.patch//lofty_irisil_pickMeUp_redBunnyPuzzleInstructions/text
+    EN: This one's for me- you'll need to get me in through the top so you can press the button. Let's get this over with.
+    KO: 이건 나용이다 — 위로 날 들여보내서 버튼을 누르게 해 줘야 해. 어서 끝내자.
+
+===== 도가니다|바구니다|주머니다  (37) =====
+  /items/active/unsorted/Rare/magespouch.activeitem.patch//description
+    EN: The pouch of a mage, adept in magic arts. Open it to find wands and magic items!
+    KO: 마법에 통달한 마법사의 주머니다. 열어 보면 완드와 마법 물품을 찾을 수 있다!
+  /objects/CRAFTING/atprk_esancientfurnacesmall/atprk_esancientfurnacesmall.object.patch//avianDescription
+    EN: A crucible crafted out of ancient materials. Useful for smelting.
+    KO: 고대 재료로 만든 도가니다. 제련에 유용하다.
+  /objects/CRAFTING/atprk_esancientfurnacesmall/atprk_esancientfurnacesmall.object.patch//hylotlDescription
+    EN: A very ancient crucible.
+    KO: 매우 오래된 도가니다.
+  /objects/angel/angelflowerbasket1/angelflowerbasket1.object.patch//apexDescription
+    EN: A lovely hanging basket with overflowing flowers.
+    KO: 꽃이 넘쳐흐르는 사랑스러운 걸이 바구니다.
+  /objects/apex/flowerbasket1/flowerbasket1.object.patch//apexDescription
+    EN: 
+    KO: 천장에 걸 수 있는 사랑스러운 바구니다.
+  /objects/apex/flowerbasket1/flowerbasket1.object.patch//glitchDescription
+    EN: 
+    KO: 감탄. 아름답게 손질한 천장 바구니다.
+  /objects/apex/flowerbasket1/flowerbasket1.object.patch//novakidDescription
+    EN: 
+    KO: 천장에 거는 바구니다. 이렇게나 집을 환영하는 분위기로 만드는 건 또 없지.
+  /objects/apex/flowerbasket2/flowerbasket2.object.patch//apexDescription
+    EN: 
+    KO: 천장에 걸 수 있는 사랑스러운 바구니다.
+  /objects/apex/flowerbasket2/flowerbasket2.object.patch//glitchDescription
+    EN: 
+    KO: 감탄. 아름답게 손질한 천장 바구니다.
+  /objects/apex/flowerbasket2/flowerbasket2.object.patch//novakidDescription
+    EN: 
+    KO: 천장에 거는 바구니다. 이렇게나 집을 환영하는 분위기로 만드는 건 또 없지.
+  /objects/biome/hive/hivebush2/hivebush2.object.patch//hylotlDescription
+    EN: 
+    KO: 참으로 이상하게 생긴 알 주머니다!
+  /objects/biome/hive/hivebush4/hivebush4.object.patch//hylotlDescription
+    EN: 
+    KO: 참으로 이상하게 생긴 알 주머니다!
+  /objects/biome/hive/hivebush5/hivebush5.object.patch//hylotlDescription
+    EN: 
+    KO: 참으로 이상하게 생긴 알 주머니다!
+  /objects/glitch/wickerbasket1/wickerbasket1.object.patch//apexDescription
+    EN: 
+    KO: 바구니다. 쉽게 부서진다.
+  /objects/glitch/wickerbasket1/wickerbasket1.object.patch//avianDescription
+    EN: 
+    KO: 바구니다. 아마 이 안에 물건이 있을지도.
+  /objects/glitch/wickerbasket1/wickerbasket1.object.patch//glitchDescription
+    EN: 
+    KO: 유혹. 바구니다. 안에 뭐가 있을까?
+  /objects/glitch/wickerbasket1/wickerbasket1.object.patch//humanDescription
+    EN: 
+    KO: 부수기 좋은 바구니다.
+  /objects/glitch/wickerbasket2/wickerbasket2.object.patch//apexDescription
+    EN: 
+    KO: 바구니다. 쉽게 부서진다.
+  /objects/glitch/wickerbasket2/wickerbasket2.object.patch//avianDescription
+    EN: 
+    KO: 바구니다. 아마 이 안에 물건이 있을지도.
+  /objects/glitch/wickerbasket2/wickerbasket2.object.patch//glitchDescription
+    EN: 
+    KO: 유혹. 바구니다. 안에 뭐가 있을까?

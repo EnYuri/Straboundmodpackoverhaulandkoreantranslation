@@ -1,0 +1,29 @@
+asset	field	en	ko	src
+/objects/crafting/capacitylevelindicators/capacitylevelindicator1.object	description	"Shows the capacity level of a nearby container with a horizontal meter. 
+^red;Interacting changes the style.^white;"	"근처 컨테이너의 용량 수준을 가로 미터로 표시한다. 
+^red;상호작용하면 스타일이 바뀐다.^white;"	reuse
+/objects/crafting/capacitylevelindicators/capacitylevelindicator1.object	shortdescription	Capacity Level Indicator	용량 수준 표시기	reuse
+/objects/crafting/capacitylevelindicators/capacitylevelindicator2.object	description	"Shows the capacity level of a nearby container with a vertical meter. 
+^red;Interacting changes the style.^white;"	"근처 컨테이너의 용량 수준을 세로 미터로 표시한다. 
+^red;상호작용하면 스타일이 바뀐다.^white;"	reuse
+/objects/crafting/capacitylevelindicators/capacitylevelindicator2.object	shortdescription	Capacity Level Indicator	용량 수준 표시기	reuse
+/objects/crafting/capacitylevelindicators/capacitylevelindicator3.object	description	"Shows the capacity level of a nearby container with numerical values. 
+^red;Interacting changes the style.^white;"	"근처 컨테이너의 용량 수준을 숫자 값으로 표시한다. 
+^red;상호작용하면 스타일이 바뀐다.^white;"	reuse
+/objects/crafting/capacitylevelindicators/capacitylevelindicator3.object	shortdescription	Capacity Level Indicator	용량 수준 표시기	reuse
+/objects/crafting/containercraftingstation/containercraftingstation.object	title	^orange;Storage Matrix^white;	^orange;저장 매트릭스^white;	reuse
+/objects/crafting/containercraftingstation/containercraftingstation.object	subtitle	Reshapes Storage Matter	저장 물질 재형성	reuse
+/objects/crafting/containercraftingstation/containercraftingstation.object	description	Reshapes Storage Matter into many types of container.	저장 물질을 다양한 종류의 용기로 재형성한다.	reuse
+/objects/crafting/containercraftingstation/containercraftingstation.object	shortdescription	^orange;Storage Matrix^white;	^orange;저장 매트릭스^white;	reuse
+/objects/crafting/containercraftingstation/containercraftingstationclosed.object	description	This would be a neat venue for a shop.	상점이 생기기 좋은 곳입니다.	reuse
+/objects/crafting/containercraftingstation/containercraftingstationclosed.object	shortdescription	^orange;Closed Container Crafting Station^white;	^orange;밀폐 용기 제작대^white;	reuse
+/objects/crafting/containermanipulatorstation/containermanipulatorstation.object	description	Manipulates the Storage Matter within a container.	컨테이너 내부의 저장 물질을 조작한다.	reuse
+/objects/crafting/containermanipulatorstation/containermanipulatorstation.object	shortdescription	^orange;Storage Manipulator^white;	^orange;보관 조작기^white;	reuse
+/objects/crafting/containerrecycler/containerrecycler.object	description	Extracts Storage Matter from containers.	컨테이너에서 저장 물질을 추출합니다.	reuse
+/objects/crafting/containerrecycler/containerrecycler.object	shortdescription	^orange;Storage Matter Extractor^white;	^orange;보관 물질 추출기^white;	reuse
+/objects/crafting/enhancedstorageshop/enhancedstorageshop.object	description	Sells Enhanced Storage goods.		
+/objects/crafting/enhancedstorageshop/enhancedstorageshop.object	shortdescription	Enhanced Storage Shop	강화 보관함 상점	reuse
+/objects/crafting/enhancedstorageshop/enhancedstorageshop.object	title	Neo's Supplies	네오의 보급품	reuse
+/objects/crafting/enhancedstorageshop/enhancedstorageshop.object	subtitle	^#b9b5b2;Sells Enhanced Storage goods.	^#b9b5b2;강화 수납 상품 판매.	reuse
+/objects/crafting/enhancedstoragesign/enhancedstoragesign.object	description	The sign from Enhanced Storage.	강화 창고의 간판.	reuse
+/objects/crafting/enhancedstoragesign/enhancedstoragesign.object	shortdescription	Enhanced Storage Sign	강화 보관함 표지판	reuse

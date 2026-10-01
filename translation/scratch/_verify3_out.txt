@@ -1,0 +1,599 @@
+273788
+
+===== 투하 포드  (2) =====
+  /items/FIRE_SUPPORT/gic_ammoresupply_droppod_grenade/gic_ammoresupply_droppod_grenade.activeitem.patch//description
+    EN: 
+    KO: "탄약 재보급 투하 포드 조정기 비컨으로, 표준 5초 신관 후 작동 | 지하 사용 가능.
+  /items/FIRE_SUPPORT/gic_ammoresupply_droppod_grenade/gic_ammoresupply_droppod_grenade_republic.activeitem.patch//description
+    EN: 
+    KO: "탄약 재보급 투하 포드 조정기 수류탄으로, 표준 5초 신관 후 작동 | 지하 사용 가능.
+
+===== 드롭 포드  (3) =====
+  /objects/GICEXP/gicexp_ntdroppod/gicexp_ntdroppod.object.patch//shortdescription
+    EN: Drop Pod
+    KO: 드롭 포드
+  /objects/GICEXP/gicexp_ntdroppod/gicexp_ntdroppod_up.object.patch//shortdescription
+    EN: Drop Pod
+    KO: 드롭 포드
+  /objects/minibiome/precursor/precursordroppod/precursordroppod.object.patch//shortdescription
+    EN: 
+    KO: 선구자 드롭 포드
+
+===== 조금만  (91) =====
+  /codex/WOODLANDS/gico_prototype_journal/gico_prototype_journal.codex.patch//contentPages/0
+    EN: The first live trials have finished. While the tengus are still apprehensive of the idea of adopting our own armored vehicles to deploy against the hu
+    KO: 첫 실전 시험이 끝났다. 텐구들은 여전히 인간 차량에 맞서 우리 장갑차를 배치하자는 생각을 꺼리지만, 우리 시제기는 큰 가능성을 보여 주었다. 자원이 부족해 인간 포탄의 폭발성 화합물 대부분을 비전 가루로 대체해야 했으나, 그 결과 주포의 살상력은 조금만 줄었다. 시험
+  /codex/documents/wolfbook.codex.patch//contentPages/0
+    EN: 
+    KO: 이 쿠폰의 소지자는 - 네, 바로 여러분! - 인생을 바꾸는 경험을 할 수 있습니다. 보호국 아카데미에서 조금만 걸어가면 나오는 안토니오의 바겐세일 피자집에서 피자 3판을 2.5판 가격으로 즐길 수 있는 놀라운 혜택을 누려보세요! 기다리지 마시고 지금 바로 방문해보세요
+  /codex/shoggothdungeon/wagner3.codex.patch//contentPages/6
+    EN: 
+    KO: 바깥의 물과는 전혀 다른 액체 웅덩이를 발견했어요. 조금만 만져도 기분이 이상해져요. 앞으로 나아갈 방법이 없으니 용기를 내서 웅덩이로 들어가서 그 안에 무엇이 있는지 보려고 합니다. 저는 그 영향으로부터 저를 보호해 줄 수 있는 장치를 준비했습니다.
+  /dialog/sexbound/en/defaultsextalk.config.patch//content/default/preclimax/sex/default/text/2
+    EN: Just a bit more~!
+    KO: 조금만 더~!
+  /dialog/sexbound/en/defaultsextalk.config.patch//content/default/preclimax/preclimax/default/text/5
+    EN: Just a bit more~!
+    KO: 조금만 더~!
+  /dialog/sexbound/en/positions/butterfly/defaultbutterfly.config.patch//content/vaginal/preclimax/preclimax/default/text/1
+    EN: Just a little longer!
+    KO: 조금만 더!
+  /dialog/sexbound/en/positions/cowgirl/defaultcowgirl.config.patch//content/vaginal/preclimax/preclimax/default/text/1
+    EN: Just a little longer!
+    KO: 조금만 더!
+  /dialog/sexbound/en/positions/cowgirl/defaultcowgirl.config.patch//content/cunnilingus_vagina/preclimax/preclimax/default/text/0
+    EN: O-oh yeeees, just a little more~
+    KO: 오-오 좋아아, 조금만 더~
+  /dialog/sexbound/en/positions/cowgirl/defaultcowgirl.config.patch//content/cunnilingus_ass/preclimax/preclimax/default/text/0
+    EN: O-oh yeeees, just a little more~
+    KO: 오-오 좋아아, 조금만 더~
+  /dialog/sexbound/en/positions/cowgirl/florancowgirl.config.patch//content/cunnilingus_vagina/preclimax/preclimax/default/text/0
+    EN: O-oh yesssss, just a little more~
+    KO: 오-오 좋아아아, 조금만 더~
+  /dialog/sexbound/en/positions/cowgirl/florancowgirl.config.patch//content/cunnilingus_ass/preclimax/preclimax/default/text/0
+    EN: O-oh yesssss, just a little more~
+    KO: 오-오 좋아아아, 조금만 더~
+  /dialog/sexbound/en/positions/cowgirl/glitchcowgirl.config.patch//content/cunnilingus_vagina/preclimax/preclimax/default/text/0
+    EN: Greedy. Oh yes, just a little more!
+    KO: 탐욕. 오 좋아, 조금만 더!
+  /dialog/sexbound/en/positions/cowgirl/glitchcowgirl.config.patch//content/cunnilingus_ass/preclimax/preclimax/default/text/0
+    EN: Greedy. Oh yes, just a little more!
+    KO: 탐욕. 오 좋아, 조금만 더!
+  /dialog/sexbound/en/positions/doggy/defaultdoggy.config.patch//content/vaginal/preclimax/preclimax/default/text/1
+    EN: Just a little longer!
+    KO: 조금만 더!
+  /dialog/sexbound/en/positions/double_doggy/defaultdoubledoggy.config.patch//content/toy_in_vagina/preclimax/preclimax/default/text/1
+    EN: Yes, yesyesyes, that's it just a bit more~!
+    KO: 응, 응응응, 그래 조금만 더~!
+  /dialog/sexbound/en/positions/double_doggy/defaultdoubledoggy.config.patch//content/toy_in_ass/preclimax/preclimax/default/text/1
+    EN: Yes, yesyesyes, that's it just a bit more~!
+    KO: 응, 응응응, 그래 조금만 더~!
+
+===== 전차 선로  (1) =====
+  /radiomessages/mwhaddon_mission_mainStory.radiomessages.patch//mwhaddon_mission_mainStory_chapter3_1_10/text
+    EN: The tram track breaks off here. Looks like we'll have to run the rest of the way.
+    KO: 전차 선로가 여기서 끊겼어. 나머지 길은 뛰어야겠는데.
+
+===== 트램 선로  (0) =====
+
+===== 기관사  (4) =====
+  /objects/novakid/trainhead/trainhead.object.patch//description
+    EN: 
+    KO: 직접 기관사가 되어 보세요!
+  /objects/ship/aegi/aegishiplight/aegishiplightbroken.object.patch//avikanDescription
+    EN: This light isn't working properly. The ship engineer should take a look at it.
+    KO: 이 조명이 제대로 작동을 안 하네. 함선 기관사가 한번 봐야겠어.
+  /objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object.patch//avikanDescription
+    EN: This light isn't working properly. The ship engineer should take a look at it.
+    KO: 이 조명이 제대로 작동을 안 하네. 함선 기관사가 한번 봐야겠어.
+  /objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object.patch//avikanDescription
+    EN: This light isn't working properly. The ship engineer should take a look at it.
+    KO: 이 조명이 제대로 작동을 안 하네. 함선 기관사가 한번 봐야겠어.
+
+===== 제인  (228) =====
+  /codex/alta/ct_alta_plush_1.codex.patch//description
+    EN: A book about making cute stuffed toys and clothing! (Unlocks basic plushie recipes)
+    KO: 귀여운 봉제인형과 의상 만드는 책! (기본 플러시 레시피 해금)
+  /codex/alta/ct_alta_plush_1.codex.patch//altaDescription
+    EN: I can make softies with this~
+    KO: 이걸로 봉제인형을 만들 수 있어~
+  /codex/alta/ct_alta_plush_2.codex.patch//description
+    EN: A book about making cute stuffed toys and clothing! (Unlocks basic plushie recipes)
+    KO: 귀여운 봉제인형과 의상 만드는 책! (기본 플러시 레시피 해금)
+  /codex/alta/ct_alta_plush_2.codex.patch//altaDescription
+    EN: I can make softies with this~
+    KO: 이걸로 봉제인형을 만들 수 있어~
+  /codex/alta/ct_alta_plush_3.codex.patch//description
+    EN: A book about making cute stuffed toys and clothing! (Unlocks basic plushie recipes)
+    KO: 귀여운 봉제인형과 의상 만드는 책! (기본 플러시 레시피 해금)
+  /codex/alta/ct_alta_plush_3.codex.patch//altaDescription
+    EN: I can make softies with this~
+    KO: 이걸로 봉제인형을 만들 수 있어~
+  /codex/apex/sb_townproblems.codex.patch//contentPages/0
+    EN: Not only do we have to deal with sightings of a hulking figure on the streets at night, but now the Resistance has set up shop in our little town as w
+    KO: 밤거리에 거대한 형체가 목격된다는 것만으로도 골치 아픈데, 이제는 저항군까지 우리 작은 마을에 자리를 잡았다. 왜 그냥 우리가 일하게 내버려두지 않는 걸까? 빅 에이프가 원하는 건 그저 완전하고 절대적인 통제인데, 그게 그렇게 과한 요구인가?
+  /codex/documents/randombook14.codex.patch//contentPages/2
+    EN: 
+    KO: 흰개미 언덕 프로젝트는 기밀 프로젝트이지만, 이 문제에 대한 최종 보고서인 만큼 솔직하게 말씀드리겠습니다. 우리는 불완전한 복제인간을 만들어 인간을 이전처럼 일회용화하려고 했습니다. 인간과 비슷하지만 여러 가지 면에서 유 전적으로 다른 클론을 만들어서 우리와 인류를 추
+  /codex/other/PBcollectorschecklistcommunity.codex.patch//description
+    EN: Shows available plushies and stickers of the 1st community collection of Plushbound.
+    KO: 플러시바운드 커뮤니티 컬렉션 1탄의 이용 가능한 봉제인형과 스티커를 보여준다.
+  /codex/other/PBcollectorschecklistcommunity2.codex.patch//description
+    EN: Shows avaiable plushies and stickers of the 2nd community collection of Plushbound.
+    KO: 플러시바운드 커뮤니티 컬렉션 2탄의 이용 가능한 봉제인형과 스티커를 보여준다.
+  /codex/other/PBcollectorschecklistcommunity3.codex.patch//description
+    EN: Shows avaiable plushies and stickers of the 3rd community collection of Plushbound.
+    KO: 플러시바운드 커뮤니티 컬렉션 3탄의 이용 가능한 봉제인형과 스티커를 보여준다.
+  /codex/other/PBthanksdearcustomer.codex.patch//contentPages/41
+    EN: 
+    KO: "^yellow;모니카 봉제인형^white;
+  /codex/slimeperson/slime2.codex.patch//contentPages/0
+    EN: 
+    KO: 사랑하는 스티븐이 먼저 혼수상태에 빠졌어요. 석 달 동안 걱정만 가득했어요! 의사들은 도대체 뭐가 문제인지 몰랐고, 저는 그냥 앉아서 기다리기만 해야 했어요. 그러다 스티븐이 깨어나서 말도 안 되는 소리를 계속 옹알이를 했어요... 아니, '그렉 그렉 그렉'을 반복해서
+  /dialog/atprk_relicseekercrew.config.patch//converse/penguin/default/6
+    EN: All these glowin' nerds talk about is some ancient races. Seems to be their favorite subject.
+    KO: 이 빛나는 괴짜들이 말하는 건 온통 고대 종족 얘기뿐이야. 최애 주제인가 봐.
+  /dialog/atprk_relicseekercrew.config.patch//converse/penguin/penguin/6
+    EN: All these glowin' nerds talk about is some ancient races. Seems to be their favorite subject.
+    KO: 이 빛나는 괴짜들이 말하는 건 온통 고대 종족 얘기뿐이야. 최애 주제인가 봐.
+  /dialog/atprk_relicseekercrew.config.patch//converse/penguin/pengukin/6
+    EN: All these glowin' nerds talk about is some ancient races. Seems to be their favorite subject.
+    KO: 이 빛나는 괴짜들이 말하는 건 온통 고대 종족 얘기뿐이야. 최애 주제인가 봐.
+
+===== 여군주  (0) =====
+
+===== 안나야  (0) =====
+
+===== 애나야  (0) =====
+
+===== 시커  (78) =====
+  /cinematics/arcana/arcana_seeker_desertstart/arcana_seeker_desertstart.cinematic.patch//panels/1/text
+    EN: Ah! You must be the Seeker sent for the retrival. I'm ^orange;Flint^reset;, your guide for the trip ahead.
+    KO: 아! 회수 임무로 파견된 시커가 당신이시군요. 저는 ^orange;플린트^reset;, 앞으로의 여정 동안 당신의 안내인입니다.
+  /codex/arcana_codex_horizon/arcana_codex_horizon_1.codex.patch//description
+    EN: The Seekers’s threat assessment of The Horizon.
+    KO: 시커들의 호라이즌 위협 평가서.
+  /codex/skath/skathfactions2.codex.patch//contentPages/0
+    EN: 
+    KO: 스카스는 가장 영리하고 발 빠른 자를 시커로 임명합니다. 새로운 거주 가능한 스폰 세계와 지식을 찾는 일을 담당하는 이 계급은 스카스 종족의 과학 및 교육 분파입니다. 시커 계급이 없으면 모든 진전이 멈출 것입니다.
+  /codex/skath/skathfactions2.codex.patch//contentPages/1
+    EN: 
+    KO: 시커 계급의 주요 임무는 다른 생명체를 희생해서라도 스카티안의 삶을 개선하는 것입니다. 다른 이족보행 종족에 대한 실험은 거의 금지되어 있으며(사실 대부분의 연구는 스카스에서 시작됩니다), 이것이 이들이 보호령에 가입하지 못한 주된 이유 중 하나입니다. 대신 비동맹 세
+  /codex/skath/skathfactions2.codex.patch//contentPages/3
+    EN: 
+    KO: 스카스 중 일부는 시커에게 신성한 임무가 하나 더 있다고 믿습니다: 바로 얼마 전 자신들을 전멸시키려 했던 종족을 찾아내어 찾아내고, 그들에게 스카스의 복수를 가하는 것입니다. 이 '볼라리안'의 정체가 밝혀지지 않았습니다. 이미 알려진 종족이지만 스카스에게는 미스터리로
+  /codex/skath/skathfactions2.codex.patch//description
+    EN: 
+    KO: 시커
+  /codex/skath/skathfactions3.codex.patch//contentPages/2
+    EN: 
+    KO: 일꾼은 스카스의 계급 중 토템 기둥에서 가장 낮은 계급이지만 가장 큰 자유를 누리고 있습니다. 뱅가드가 전투를 위해 끊임없이 훈련과 훈련을 하고 시커가 끝없이 지식을 찾는 동안, 일꾼은 자신의 임무를 완수한 후 휴식을 취하고 같은 종족과 사교를 나눕니다.
+  /dialog/avikanoutpost.config.patch//converse/avikan/avikan/40
+    EN: You'd be a great fit for the Seekers, Captain.
+    KO: 시커들한테 딱 맞겠어, 선장.
+  /dialog/converse.config.patch//converse/skath/skath/10
+    EN: 
+    KO: 시커들이 아주 흥미로운 걸 발견했다는 소문을 들었어!
+  /dialog/converse.config.patch//converse/skath/skath/16
+    EN: 
+    KO: 시커들이 최근에 흥미로운 것들을 많이 보내줬어요. 확인해 보세요
+  /dialog/converse.config.patch//greeting/skath/skath/10
+    EN: 
+    KO: 시커들이 아주 흥미로운 걸 찾았다는 소문을 들었소!
+  /dialog/converse.config.patch//greeting/skath/skath/15
+    EN: 
+    KO: 시커들이 최근에 흥미로운 것들을 많이 보내줬어요. 확인해 보세요
+  /interface/confirmation/arcana_confirmation_teleport.config.patch//seekerIntro/subtitle
+    EN: 
+    KO: 시커 시련
+  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_arcana/story_arcana_list.config.patch//list/intro/data/context/3/text
+    EN: You learned from Carmine the identity of those mysterious attackers - Horizon, a group of artifact hunters. The Miracle of Fire within the vault was a
+    KO: 카민에게서 그 수수께끼의 공격자들의 정체를 알게 됐다 - 유물 사냥꾼 집단 호라이즌. 금고 속 '불의 기적'도 그들이 훔쳐갔다. 카민은 너의 시커 지위를 인정하고 시커 아틀라스를 맡겼다.
+  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_arcana/story_arcana_list.config.patch//list/intro/data/context/2/text
+    EN: 
+    KO: 시커 시련의 두 가지 큰 난관인 파쿠르와 전투는 당신에게 아무 문제가 되지 않았다. 하지만 시험을 마치고 돌아가려던 순간 정체불명의 인물들이 당신을 공격했다. 그들의 지휘관으로 보이는 플로란, 우르사도 만났다. 당신과 잠깐 충돌한 뒤 그들은 서둘러 자리를 떴고, 당신은
+  /interface/scripted/arcana_collections/mwhaddon_collections_gui_story/story_voyage/story_voyage_list.config.patch//list/intro/data/context/1/text
+    EN: Heading to Lighthaven and obtain a Seeker Atlas. This appears to be the only way to unravel the mystery of this place.
+    KO: 라이트헤이븐으로 향해 시커 아틀라스를 구하십시오. 이곳의 수수께끼를 풀 유일한 방법으로 보입니다.
+
+===== 알들이  (48) =====
+  /codex/documents/scienceoutpost_kevin.codex.patch//contentPages/23
+    EN: Aug 23 - Damnit. I spoke too soon. He apparently replaced all of the ostrich eggs in the enclosure with raptor eggs. They hatched, and ate the babies.
+    KO: 8월 23일 - 젠장. 내가 너무 성급했다. 그놈이 우리 안의 타조알을 전부 랩터알로 바꿔치기한 모양이다. 알들이 부화해서 새끼들을 잡아먹었다. 우리가 화를 내자, 그놈은 '알들이 외로워 보이더라고. 친구를 만들어준 거야'라고 설명했다.
+  /dialog/sexbound/en/positions/butterfly/defaultbutterflyfull.config.patch//content/r_vaginal/sex/sex/hylotl/otherStatus/pregnant/text/2
+    EN: I can feel your eggs moving around, you're so full!
+    KO: 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/butterfly/defaultbutterflyfull.config.patch//content/r_anal/sex/sex/hylotl/otherStatus/pregnant/text/0
+    EN: I can feel your eggs moving around, you're so full!
+    KO: 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/butterfly/glitchbutterfly.config.patch//content/r_vaginal/sex/sex/hylotl/otherStatus/pregnant/text/0
+    EN: Gentle. I can feel your eggs moving around, you're so full!
+    KO: 온화. 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/butterfly/glitchbutterfly.config.patch//content/r_anal/sex/sex/hylotl/otherStatus/pregnant/text/0
+    EN: Gentle. I can feel your eggs moving around, you're so full!
+    KO: 온화. 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/butterfly/woofiebutterfly.config.patch//content/r_vaginal/sex/sex/hylotl/otherStatus/pregnant/text/2
+    EN: I can feel your eggs moving around, you're so full!
+    KO: 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/butterfly/woofiebutterfly.config.patch//content/r_anal/sex/sex/hylotl/otherStatus/pregnant/text/0
+    EN: I can feel your eggs moving around, you're so full!
+    KO: 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/cowgirl/defaultcowgirlfull.config.patch//content/r_vaginal/sex/sex/hylotl/otherStatus/pregnant/text/2
+    EN: I can feel your eggs moving around, you're so full!
+    KO: 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/cowgirl/defaultcowgirlfull.config.patch//content/r_anal/sex/sex/hylotl/otherStatus/pregnant/text/2
+    EN: I can feel your eggs moving around, you're so full!
+    KO: 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/cowgirl/glitchcowgirl.config.patch//content/r_vaginal/sex/sex/hylotl/otherStatus/pregnant/text/0
+    EN: Gentle. I can feel your eggs moving around, you're so full!
+    KO: 온화. 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/cowgirl/glitchcowgirl.config.patch//content/r_anal/sex/sex/hylotl/otherStatus/pregnant/text/0
+    EN: Gentle. I can feel your eggs moving around, you're so full!
+    KO: 온화. 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/cowgirl/woofiecowgirl.config.patch//content/r_vaginal/sex/sex/hylotl/otherStatus/pregnant/text/2
+    EN: I can feel your eggs moving around, you're so full!
+    KO: 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/cowgirl/woofiecowgirl.config.patch//content/r_anal/sex/sex/hylotl/otherStatus/pregnant/text/2
+    EN: I can feel your eggs moving around, you're so full!
+    KO: 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/doggy/defaultdoggyfull.config.patch//content/r_vaginal/sex/sex/hylotl/otherStatus/pregnant/text/2
+    EN: I can feel your eggs moving around, you're so full!
+    KO: 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/doggy/defaultdoggyfull.config.patch//content/r_anal/sex/sex/hylotl/otherStatus/pregnant/text/0
+    EN: I can feel your eggs moving around, you're so full!
+    KO: 네 알들이 움직이는 게 느껴져, 너무 가득해!
+  /dialog/sexbound/en/positions/doggy/glitchdoggy.config.patch//content/r_vaginal/sex/sex/hylotl/otherStatus/pregnant/text/0
+    EN: Gentle. I can feel your eggs moving around, you're so full!
+    KO: 온화. 네 알들이 움직이는 게 느껴져, 너무 가득해!
+
+===== 위하-  (0) =====
+
+===== 석화된 촉수' 교단  (0) =====
+
+===== 신형 레드  (0) =====
+
+===== 새 레드  (0) =====
+
+===== 지하  (722) =====
+  /ai/alienjungle.aimission.patch//speciesText/default/selectSpeech/text
+    EN: 
+    KO: 머나먼 행성의 지하 정글... 무엇이 잘못될 수 있을까요? 확실히 탐험할 가치가 있습니다!
+  /betabound.config.patch//updateNotes/getFoodStackPatch
+    EN: In the future, Betabound's food stacking will be removed. A Betabound food stacking patch is on Steam right now if you want to keep food stacking.
+    KO: 앞으로, 베타바운드의 음식 스택 기능이 제거될 예정입니다. 음식 스택을 유지하고 싶다면 지금 스팀에 베타바운드 음식 스택 패치가 올라와 있습니다.
+  /biomes/underground/aetherunderground.biome.patch//friendlyName
+    EN: 
+    KO: 에테르 지하
+  /biomes/underground/arboreal2underground.biome.patch//friendlyName
+    EN: 
+    KO: 화산 수목 지하
+  /biomes/underground/arborealunderground.biome.patch//friendlyName
+    EN: 
+    KO: 수목 지하
+  /biomes/underground/chromaticunderground.biome.patch//friendlyName
+    EN: 
+    KO: 색채 지하
+  /biomes/underground/corruptmoonunderground.biome.patch//friendlyName
+    EN: 
+    KO: 부패한 달 지하
+  /biomes/underground/fugasgiantunderground.biome.patch//friendlyName
+    EN: 
+    KO: 거대 가스 행성 지하
+  /biomes/underground/fugasgiantunderground2.biome.patch//friendlyName
+    EN: 
+    KO: 거대 프로토 행성 지하
+  /biomes/underground/fugasgiantunderground3.biome.patch//friendlyName
+    EN: 
+    KO: 거대 화염 행성 지하
+  /biomes/underground/fugasgiantunderground4.biome.patch//friendlyName
+    EN: 
+    KO: 거대 얼음 행성 지하
+  /biomes/underground/fugasgiantunderground5.biome.patch//friendlyName
+    EN: 
+    KO: 거대 독성 행성 지하
+  /biomes/underground/metallicunderground.biome.patch//friendlyName
+    EN: 
+    KO: 금속 지하
+  /biomes/underground/moondesertunderground.biome.patch//friendlyName
+    EN: 
+    KO: 사막 달 지하
+  /biomes/underground/moonshadowunderground.biome.patch//friendlyName
+    EN: 
+    KO: 그림자 달 지하
+  /biomes/underground/moonstoneunderground.biome.patch//friendlyName
+    EN: 
+    KO: 바위 달 지하
+
+===== 컬트  (80) =====
+  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_mission_5_1_policestation.cinematic.patch//panels/2/text
+    EN: 
+    KO: "지금까지 일어난 일로 인해, 당신에게 정확히 무엇을 발견했는지 말할 시간이 많지 않았습니다. 하지만 이제는 우리가 어떤 종류의 컬트와 상대하고 있다는 것을 잘 알고 있을 것입니다. 가장 '특이한' 것은 아니지만, 도시 전체를 휩쓸고 다니는 것으로 해결할 수 있는 것도
+  /codex/elder/cultarmorchestbook.codex.patch//description
+    EN: 
+    KO: 컬트주의자 토르소 바지 가이드
+  /codex/elder/cultarmorchestbook.codex.patch//title
+    EN: 
+    KO: 올바른 컬트 복장 - 몸통
+  /codex/elder/cultarmorheadbook.codex.patch//description
+    EN: 
+    KO: 적절한 후드 복장에 대한 컬트 주의자 가이드
+  /codex/elder/cultarmorheadbook.codex.patch//title
+    EN: 
+    KO: 적절한 컬트 복장 - 후드
+  /codex/elder/cultarmorpantsbook.codex.patch//description
+    EN: 
+    KO: 올바른 컬트주의자 복장에 대한 가이드
+  /codex/elder/cultarmorpantsbook.codex.patch//title
+    EN: 
+    KO: 올바른 컬트 복장 - 다리
+  /codex/newspaper/pr-newspaper.codex.patch//contentPages/1
+    EN: The Human supremacist Terror group known as the Occasus Cult has declared responsibility for the fall of Earth, but experts remain skeptical that they
+    KO: 오카서스 컬트로 알려진 인간 우월주의 테러 집단이 지구 멸망의 책임을 자처했지만, 전문가들은 지구를 파괴한 존재의 생물학적이면서도 차원외적인 특성을 근거로, 그들이 그런 행위를 할 능력이 있었을지에 대해 여전히 회의적이다. 주목할 점은 그 생물체의 공격이 지구의 텔레포
+  /dialog/ffs_prisoner_cultist_converse.config.patch//converse/floran/default/2
+    EN: Weird cult people ssssay they were going to ssssacrifice floran!
+    KO: 이상한 컬트 사람들이-이 플로란을 제-제물로 바칠 거라 했-있어!
+  /items/WEAPONS/MELEE/PLAYER/gic_electrictorch/gic_electrictorch_player.activeitem.patch//description
+    EN: 
+    KO: 내부에 충격 저항 부품이 내장된 강화 전등 기둥으로, 이 아이템은 랜턴과 철퇴 역할을 동시에 수행할 수 있습니다. 버려진 식민지 구역은 기존 지하 인프라를 업그레이드하는 비용으로 인해 단순히 버려진 것을 의미합니다. 도적, 빈곤층, 기타 오컬트 집단이 이 잊힌 터널에 
+  /items/WEAPONS/MELEE/SWORD/gic_julian_longsword/gic_julian_longsword.activeitem.patch//description
+    EN: 
+    KO: "줄리안의 오컬트 탐구는 그를 세계 장막 너머로 이끌었습니다. 위스퍼포그로, 영원한 안개에 가린 땅이죠. 그의 보상은 악마가 그의 갑옷에 깃들며 그 존재가 무로 짓눌린 것이었습니다.
+  /items/active/alta/scanner/items.config.patch//database/cultistmission1/longdescription
+    EN: Occasus cult documentation discovered during investigations. Alta researchers study these with concern - the Ruin cult's destructive goals directly op
+    KO: 조사 중 발견된 오카서스 컬트 문서. 알타 연구자들은 우려를 담아 이를 연구한다 - 루인 컬트의 파괴적인 목표는 우리 문명의 생존과 정면으로 대립한다.
+  /items/active/misc/gic_recondrone_controller/gic_recondrone_astralprojection_controller.activeitem.patch//description
+    EN: 
+    KO: 극도로 영적인 개인에게만 허용된 아스트랄 프로젝션을 위한 오컬트 도구입니다. 아스트랄 프로젝션은 자신의 건강을 대가로 목표물의 건강을 흡수할 수 있습니다.^#DBC5A6;[마우스1]로 프로젝션 생성/소멸 | [쉬프트]를 눌러 속도 증가.^orange;독립적으로 공격 가
+  /items/active/unsorted/joboffers/crewmemberLoveliusSmythe.activeitem.patch//shortdescription
+    EN: Job Offer: Occult Scholar
+    KO: 구인: 오컬트 학자
+  /items/active/weapons/ivrpg_grimoire/generated/grimoirenames.config.patch//demonic/1/3/5
+    EN: the Occult
+    KO: 오컬트
+  /items/active/weapons/ivrpg_orb/generated/orbnames.config.patch//demonic/1/3/2
+    EN: the Occult
+    KO: 오컬트
+
+===== 촉수 떼  (0) =====
+
+===== 촉수 둥지  (0) =====
+
+===== 촉수 블록  (0) =====
+
+===== 둥지  (128) =====
+  /biomes/underground_detached/ffspidernest.biome.patch//friendlyName
+    EN: 
+    KO: 거미 둥지
+  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_mission_3_dockworker_2.cinematic.patch//panels/2/text
+    EN: 
+    KO: 당신 소지품을 가지고 있어요. 피말벌 둥지에 묻혀 있었어요.
+  /codex/other/other/prod-delphatab.codex.patch//contentPages/5
+    EN: With the destruction of the main hive, we cleared the way for us to completely annihilate any remaining hives that tried to come, and thus the victory
+    KO: 주 둥지가 파괴되며, 오려던 남은 둥지들을 완전히 전멸시킬 길을 열었고, 그렇게 승리는 우리 것이었다.
+  /codex/other/other/prod-hives.codex.patch//title
+    EN: The Delpha Hive
+    KO: 델파 둥지
+  /codex/thelusian/thelusian5.codex.patch//contentPages/1
+    EN: 
+    KO: 마지막으로 한 가지 기능을 가진 드론이 있습니다: 번식입니다. 이들은 소모품으로 번식 주기가 끝나면 벌집 밖에서 죽게 됩니다. 마지막으로 여왕이 둥지를 지배합니다. 모든 텔루시안에게 한 명의 여왕이 있는지, 아니면 각 벌집마다 고유한 여왕이 있는지는 알 수 없습니다. 
+  /dialog/tentacles/apex-pregnant.config.patch//16/text
+    EN: The hive will grow!
+    KO: 둥지는 자라날 것이다!
+  /dialog/tentacles/avian-enthusiastic.config.patch//12/text
+    EN: This is the best nest I’ve ever been in!
+    KO: 지금까지 들어가 본 둥지 중에 여기가 최고야!
+  /dialog/tentacles/avian-pregnant.config.patch//10/text
+    EN: This nest is too small... it needs to be bigger! BIGGER for all the EGGS!
+    KO: 이 둥지는 너무 작아... 더 커야 해! 모든 알을 위해 더 커다랗게!
+  /dialog/tentacles/avian-pregnant.config.patch//12/text
+    EN: I need a nest... somewhere soft and warm...
+    KO: 둥지가 필요해... 부드럽고 따뜻한 어딘가...
+  /dialog/tentacles/avian-pregnant.config.patch//24/text
+    EN: I really want to build a nest...
+    KO: 정말 둥지를 짓고 싶어...
+  /dialog/tentacles/avian-pregnant.config.patch//25/text
+    EN: My nest needs to be perfect for my precious eggs!
+    KO: 내 둥지는 내 소중한 알들을 위해 완벽해야 해!
+  /dialog/tentacles/avian-pregnant.config.patch//26/text
+    EN: I need to check the nest again... Is it still safe? Maybe I should rearrange this bit here...
+    KO: 둥지를 다시 확인해야 해... 아직 안전할까? 여기 이 부분을 다시 정리해야 할지도...
+  /dialog/tentacles/avian-pregnant.config.patch//29/text
+    EN: My eggs will be safe and warm in this nest.
+    KO: 내 알들은 이 둥지에서 안전하고 따뜻할 거야.
+  /dialog/tentacles/avian-proximity.config.patch//3/text
+    EN: You’re not gonna judge my nesting habits, are you?
+    KO: 내 둥지 트는 습관 가지고 뭐라 하진 않을 거지?
+  /dialog/tentacles/avian-proximity.config.patch//23/text
+    EN: Well, well, look who's flown into the nest! Ready to get your eggs scrambled?
+    KO: 이런, 이런. 누가 둥지로 날아들었나! 네 알이 뒤섞일 준비는 됐겠지?
+  /dialog/tentacles/floran-exhausted.config.patch//23/text
+    EN: Thissss hive smellsss like home...
+    KO: 이 둥지는 집 냄새가 나아...
+
+===== 영주님  (14) =====
+  /dialog/atprk_devouttenant.config.patch//beacon/default/default/2
+    EN: Polite. How can I help you, landlord?
+    KO: 예의 바름. 무엇을 도와드릴까요, 영주님?
+  /dialog/merchant.config.patch//beacon/nightar/default/0
+    EN: 
+    KO: 저 왔습니다, 영주님!
+  /dialog/merchant.config.patch//enclosedArea/nightar/default/0
+    EN: 
+    KO: 이건 장사에 도움이 안 됩니다, 영주님. 내 상점의 벽을 수리해야 합니다.
+  /dialog/merchant.config.patch//follow/nightar/default/0
+    EN: 
+    KO: 영주님, 저와 함께 가시죠. 보여드릴 좋은 물건이 있으니까요.
+  /dialog/merchant.config.patch//follow/nightar/default/4
+    EN: 
+    KO: 이쪽입니다, 영주님.
+  /dialog/merchant.config.patch//merchantEnd/nightar/default/0
+    EN: 
+    KO: 곧 다시 오시겠습니까, 영주님?
+  /dialog/merchant.config.patch//rent/nightar/default/1
+    EN: 
+    KO: 수익의 일부를 영주님과 나누게 되어 기쁩니다.
+  /dialog/merchant.config.patch//welcome/nightar/nightar/0
+    EN: 
+    KO: 환영합니다, 영주님.
+  /npcs/foolcook.npctype.patch//scriptConfig/dialog/merchant/welcome/default/default/2
+    EN: 
+    KO: 불성실하군 좋은 식사 한 끼 대접해도 될까요, 영주님?
+  /npcs/foolcook.npctype.patch//scriptConfig/dialog/merchant/welcome/default/glitch/default/2
+    EN: 
+    KO: 불성실하군 좋은 식사 한 끼 대접해도 될까요, 영주님?
+  /npcs/foolcook.npctype.patch//scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/default/default/1
+    EN: 
+    KO: Pained. 오, 영주님! 이 보잘것없는 바보가 오늘 당신을 위해 무엇을 할 수 있습니까?
+  /npcs/foolcook.npctype.patch//scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/default/default/2
+    EN: 
+    KO: 불성실. 근사한 식사를 대접해도 될까요, 영주님?
+  /npcs/foolcook.npctype.patch//scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/glitch/default/1
+    EN: 
+    KO: 고통스럽군 오, 영주님! 이 하찮은 바보가 오늘은 뭘 해드릴까요?
+  /npcs/foolcook.npctype.patch//scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/glitch/default/2
+    EN: 
+    KO: 불성실. 근사한 식사를 대접해도 될까요, 영주님?
+
+===== 집주인  (14) =====
+  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_mission_12_1_homelessman_1_original.cinematic.patch//panels/3/text
+    EN: 
+    KO: 저희를 도와주실 수 있나요, 나리? 주유소 지난 집에 대해 아시는 게 있나요? 집주인 브래들리 골드먼을 찾고 있어요. 잠재적 관심 대상이 될 만한 사람이 있었나요?
+  /codex/other/colonystoryFull.codex.patch//title
+    EN: How I Became A Landlord
+    KO: 내가 집주인이 된 방법
+  /codex/other/colonystoryFull.codex.patch//description
+    EN: The journal of an explorer who became a landlord. The complete compilation in one tome.
+    KO: 집주인이 된 탐험가의 일지. 모든 내용을 한 권에 모았다.
+  /dialog/atprk_devouttenant.config.patch//converse/default/default/8
+    EN: Calm. You're not a K'Rakoth, but I acknowledge you as my landlord. For now.
+    KO: 침착함. 넌 크라코스는 아니지만, 내 집주인으로 인정한다. 지금은.
+  /dialog/atprk_devouttenant.config.patch//rent/default/default/2
+    EN: Grateful. You seem to be a responsible landlord. Thank you for letting me stay here.
+    KO: 감사함. 책임감 있는 집주인인 것 같네. 여기 머물게 해줘서 고마워.
+  /dialog/catgrumble.config.patch//final/cat/default/0
+    EN: 
+    KO: 이젠 지긋지긋해! 당신은 끔찍한 집주인입니다.
+  /dialog/catgrumble.config.patch//severe/cat/default/0
+    EN: 
+    KO: 우리 고양이는 집주인에게 훨씬 더 많은 노력을 요구해.
+  /items/WEAPONS/MELEE/PLAYER/cp_sladge_hammer/cp_sladge_hammer.activeitem.patch//shortdescription
+    EN: Landlord's Lump-Lender
+    KO: 집주인의 복수자
+  /items/WEAPONS/MELEE/PLAYER/cp_sladge_hammer/cp_sladge_hammer_old.activeitem.patch//shortdescription
+    EN: Landlord's Lump-Lender
+    KO: 집주인의 복수자
+  /items/WEAPONS/MELEE/PLAYER/gic_psychic_landlordslumplender/gic_psychic_landlordslumplender_player_old.activeitem.patch//shortdescription
+    EN: 
+    KO: 집주인의 복수자
+  /npcs/tenants/bandito.npctype.patch//scriptConfig/dialog/tenant/grumbles/otherDeed/novakid/default/0
+    EN: Listen, landlord. This house ain't big enough fer the two of us!
+    KO: 잘 들어, 집주인. 이 집은 우리 둘이 살기엔 너무 좁아!
+  /objects/colonysystem2/colonydeedmk2/colonydeedmk2.object.patch//humanDescription
+    EN: 
+    KO: 이걸로 진짜 집주인이 될 수 있어.
+  /objects/colonysystem2/colonydeedmk2/colonydeedmk2tiny.object.patch//humanDescription
+    EN: 
+    KO: 이걸로 진짜 집주인이 될 수 있어.
+  /quests/sb_outpost1.questtemplate.patch//text
+    EN: My landlord is a jerk! He's going to kick me out of my place if I don't get him a bar of ^orange;chocolate^reset;. ^green;They sell them at Infinity E
+    KO: 집주인이 진짜 짜증나! ^orange;초콜릿^reset; 한 개를 안 갖다주면 날 쫓아낼 거래. ^green;인피니티 익스프레스에서 파는데^reset;, 나한테 픽셀이 하나도 없어! 좀 도와줄래?
+
+===== 컬티스트  (143) =====
+  /codex/elder/cultarmorpantsbook.codex.patch//contentPages/0
+    EN: 
+    KO: ...그래서 틴달로스의 사냥개는 강아지처럼 취급해서는 안됩니다. 어쨌든, 또 횡설수설했네요. 녹슘 바 다섯 개와 미지의 반응기, 사다리꼴을 구하면 컬티스트가 바라는 최고의 하의가 완성됩니다!
+  /codex/om_starry/om_starrylore1.codex.patch//description
+    EN: All you need to know for joining the Starry Cultists!
+    KO: 스타리 컬티스트에 가입하기 위해 알아야 할 모든 것!
+  /codex/om_starry/om_starrylore15.codex.patch//description
+    EN: Attention all ^green;Cultists^reset;!
+    KO: ^green;컬티스트^reset; 여러분, 주목!
+  /codex/om_starry/om_starrylore7.codex.patch//description
+    EN: ^red;BEWARE!^reset; Some of our Starry Cultists are becoming unstable!
+    KO: ^red;주의!^reset; 우리 스타리 컬티스트 일부가 불안정해지고 있다!
+  /dialog/ffs_prisoner_cultist_converse.config.patch//converse/default/default/11
+    EN: These cultists... they need to be stopped!
+    KO: 이 컬티스트... 멈춰야!
+  /dialog/ffs_prisoner_cultist_converse.config.patch//converse/apex/default/12
+    EN: These cultists... they need to be stopped!
+    KO: 이 컬티스트... 멈춰야!
+  /dialog/ffs_prisoner_cultist_converse.config.patch//converse/human/default/2
+    EN: Cultist Scum! Kill them all for me, won't you?!
+    KO: 컬티스트 쓰레기들! 다 죽여 버려, 알겠지?!
+  /dialog/ffs_prisoner_cultist_converse.config.patch//converse/trink/default/2
+    EN: The Alliance must be alerted to this cultist threat.
+    KO: 얼라이언스에 이 컬티스트 위협을 알려야 한다.
+  /ffs_weapons/ffs_0_cultist/ffs_cultist_shortsword.activeitem.patch//shortdescription
+    EN: NPC Cultist Shortsword
+    KO: NPC 컬티스트 소검
+  /interface/scripted/shuttlecraftscanner/config_npcshuttlecraft/config_scannersignals.config.patch//flightcontrol_signal_cultist/analysis/neutral/0
+    EN: Cultists not looking for trouble.
+    KO: 말썽을 원치 않는 컬티스트들.
+  /interface/scripted/shuttlecraftscanner/config_npcshuttlecraft/config_scannersignals.config.patch//flightcontrol_signal_cultist/analysis/ignore/0
+    EN: Cultists minding their business.
+    KO: 자기 할 일에 신경 쓰는 컬티스트들.
+  /items/BOSS_DROPS/gic_occasusassassin_bossdrop.activeitem.patch//shortdescription
+    EN: 
+    KO: 오컬티스트 암살자의 잔재
+  /items/GUIDE_PIECES/CAT_6/gic_guide_occultist_1.item.patch//description
+    EN: 
+    KO: "^#CC8A4D;아키타입: 오컬티스트^reset;
+  /items/GUIDE_PIECES/CAT_6/gic_guide_occultist_1.item.patch//shortdescription
+    EN: 
+    KO: [6A] 오컬티스트 1부
+  /items/GUIDE_PIECES/CAT_6/gic_guide_occultist_2.item.patch//shortdescription
+    EN: 
+    KO: [6B] 오컬티스트 2부
+  /items/GUIDE_PIECES/CAT_6/gic_guide_occultist_3.item.patch//shortdescription
+    EN: 
+    KO: [6C] 오컬티스트 3부
+
+===== 광신도  (139) =====
+  /cinematics/CHARACTERS/AYA_SHAMEIMARU/gic_wildlands_ayashameimaru_mission_5_1_policestationend.cinematic.patch//panels/4/text
+    EN: 
+    KO: 그의 감방을 열어요. 이 도시가 광신도에게 넘어가면 밝힐 특종도 없고, 지금은 모든 도움이 필요해요.
+  /cinematics/CHARACTERS/WYMOND/gic_garden_wymond_2_survivalistraid_3.cinematic.patch//panels/7/text
+    EN: 
+    KO: "많은 절박한 이들이 소수 광신도에게 무너지는 걸 봤습니다. 우리 아이들이 이 황량한 황야가 아닌 별 사이에서 자라게 하려고요. 이 중세 삶은 낭만적이지도 영광스럽지도 않아요. 매겨울 굶지 않길 바라며, 도적들이 마을을 불태우지 않길 기도합니다.
+  /codex/LEGACY/THE_WAR_ON_MARS/HUB/gic_twom_thewarringtunnels/gic_twom_thewarringtunnels.codex.patch//contentPages/4
+    EN: 
+    KO: 파벌 - 흥미로운 것들. 다른 도시와의 무선 연락을 받을 수 없었다. 가장 가까운 리즈조차도, 하지만 파벌이 생기는 것은 불가피하다. 공산주의자, 나치, 광신도... 정말 무엇이든 될 수 있다.
+  /codex/elder/cultarmorchestbook.codex.patch//contentPages/0
+    EN: 
+    KO: 자존심 있는 광신도라면 겉옷이 없는 사람은 없습니다. 상복을 만들려면 일곱 개의 녹시움 막대, 룬 지팡이, 엘더 조각을 제단 위에 놓고 호르발랏쉬의 주문을 외워야 합니다.
+  /codex/fupeglaci/fupeglacicannibals3.codex.patch//contentPages/3
+    EN: 
+    KO: 철조망이 실제로 보이는 살로 남은 몇 안 되는 패치의 대부분을 감싸고 있습니다... 은하계 전역의 많은 종교에서 흔히 볼 수 있는 자기 과시를 생각 나게합니다. 개인적으로 저는 이 사람이 누구든 경건한 사람이라고 믿습니다. 살점 부위의 흉터 조직의 심각성을 고려할 때 
+  /codex/om_starry/om_starrylore1.codex.patch//title
+    EN: The Cultists of the Stars
+    KO: 별의 광신도들
+  /codex/om_starry/om_starrylore10.codex.patch//description
+    EN: A sparkly journal that belongs to a new ^green;Starry Cultist^reset;.
+    KO: 새내기 ^green;별의 광신도^reset;의 소유물인, 반짝이는 일기장.
+  /codex/om_starry/om_starrylore9.codex.patch//title
+    EN: Attention All Cultists!
+    KO: 모든 광신도에게 주의!
+  /codex/om_starry/om_starrylore9.codex.patch//description
+    EN: A recent newspaper for all ^green;Cultists of the Stars^reset;.
+    KO: 모든 ^green;별의 광신도들^reset;을 위한 최신 신문.
+  /codex/temple_tenant_codex.codex.patch//description
+    EN: 
+    KO: 광신도의 일기에서 찢어진 페이지.
+  /dialog/ffs_prisoner_cultist_converse.config.patch//converse/fenerox/default/1
+    EN: Fenerox hunt. Cultists surround. Take Fenerox. Now here.
+    KO: 페네록스 사냥. 광신도 포위. 페네록스 붙잡음. 지금 여기.
+  /dialog/ffs_prisoner_cultist_converse.config.patch//converse/trink/default/1
+    EN: These cultists present a major threat to galactic peace.
+    KO: 이 광신도들은 은하의 평화에 큰 위협이 된다.
+  /ffs_weapons/ffs_0_cultist/ffs_cultist_broadsword.activeitem.patch//shortdescription
+    EN: NPC Cultist Broadsword
+    KO: NPC 광신도 브로드소드
+  /ffs_weapons/ffs_0_cultist/ffs_cultist_shortsword.activeitem.patch//description
+    EN: A shortsword that belonged to a cultist.
+    KO: 어느 광신도가 소유했던 소검.
+  /ffs_weapons/ffs_0_melee/ffs_police_baton.activeitem.patch//shortdescription
+    EN: NPC Cultist Broadsword
+    KO: NPC 광신도 브로드소드
+  /interface/scripted/shuttlecraftscanner/config_npcshuttlecraft/config_scannersignals.config.patch//flightcontrol_capital_ships/2/analysis/1
+    EN: Capital ship crewed by cultists.
+    KO: 광신도들이 승선한 주력함.

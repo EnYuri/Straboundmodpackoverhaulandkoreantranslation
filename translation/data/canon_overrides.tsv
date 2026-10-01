@@ -1,0 +1,133 @@
+english	canonical	reason
+Captain	선장	glossary: Captain->선장 (선장님은 호칭)
+Vinalisj	비날리제이	주 오브젝트 moonlitcomet.object 표기
+Eld'uukhar	엘드우카르	species.patch 배포 표기
+Armorworks	방어구 제작	armory.object 제작 아이템 표기(스테이션 라벨과 통일)
+Replicator	복제기	craftinganvil FU 표기 (대장간은 별개 의미)
+Ship Locker	함선 사물함	glossary 기본형
+Poptop	팝톱	glossary fixed
+Commander Andros Galvanek	안드로스 갈바넥 사령관	25건 퀘스트 접미형 vs 1건 오브젝트 접두형 - 다수 표기 채택
+The Curious Glitch	호기심 많은 글리치	glossary: Glitch=글리치 (종족 고유명, 결함은 오역)
+Shoggoth	쇼고스	러브크래프트 전사 표준(슈고스/쇼고스); 몬스터 정의(쇼고스)가 오브젝트 참조(쇼고트)보다 우선
+Microsphere	마이크로스피어	사용자 지정: 음차 표기 우선 (퀘스트 표기)
+Hive	하이브	사용자 지정: 음차 표기 우선 (오브젝트 표기)
+Coffee Machine	커피 머신	사용자 지정: 음차 표기 우선
+Erchius Horror	에르키우스 호러	음차 우선: 몬스터명 호러 관용 표기
+Fatal Circuit	페이탈 서킷	음차 우선: 보스명 고유명사 음차 관용
+Ocean Surprise	오션 서프라이즈	음차 우선: 요리 고유명
+The Clipped Council	클립드 의회	음차 우선: 세력 고유명사
+Kluex Sentry	클루엑스 센트리	음차 우선: 엔티티명 센트리 관용
+Solarium Star	솔라리움 스타	음차 우선: 아이템 고유명
+Crystal Erchius Fuel	크리스탈 에르키우스 연료	음차 우선: 아이템 명칭(solidfuel) 관용
+Clay	점토	재료명 표준어 (진흙=mud 오역)
+Engineer	엔지니어	음차 우선: 직업 클래스명 관용
+Oculemonade	오큘레모네이드	음차 우선: 팩 내 오큘 음차 다수파(106 vs 41)
+Claw Glove	클로우 글러브	음차 우선: 아이템 고유명
+Crystal Plant	크리스탈 식물	음차 우선: 아이템 고유명
+Grabber	그래버	음차 우선: 오그먼트 고유명 (욕심쟁이는 의역 오류)
+Incubator	인큐베이터	음차 우선: 기기 고유명
+Ironbeak	아이언비크	음차 우선: 크리처 고유명
+Lantern Stick	랜턴 스틱	음차 우선: 아이템 고유명
+Master Manipulator	마스터 매니퓰레이터	음차 우선: 스테이션 고유명
+Mining Drone	채굴 드론	채굴 용어 통일 (채굴 레이저와 일관)
+Mother Poptop	마더 팝톱	음차 우선 + glossary Poptop=팝톱
+Salvaged Nano Receptacle	노획한 나노 리셉터클	음차 우선: receptacle=리셉터클
+Ship Door	함선 문	Ship Locker=함선 사물함과 명명 계열 통일
+Solus Katana	솔루스 카타나	음차 우선: 무기 고유명
+Timber	목재	재료명 표준어
+Wraith	레이스	음차 우선: 크리처 고유명 (레이스 표준 표기)
+Yeti	예티	음차 우선: 크리처 고유명
+Kirhos	키르호스	majority transliteration (46 refs) vs species def 키로스; Kirhos=키르호스
+Oculemon	오큘레몬	오큘레모네이드와 통일(오큘 음차 우세), proper noun
+Ship-based Artificial Intelligence Lattice	함선 기반 인공지능 격자	함선 접두 통일 + EN 어순(AI lattice) 복원
+The Starfarer's Refuge	스타페어러의 피난처	Starfarer's Refuge와 동일 지명 통일
+Monolith	모놀리스	문자 다수파 + 표준 전사
+Burrower	버로우어	정본 벌레랑은 오역
+
+Ocu Cannon	오큘 캐논	오큘 음차 표준 (Oculemon 오큘레몬) 에 맞춰 통일
+Quietus Pistol	콰이어투스 권총	Quietus 시리즈 표기 통일
+Zerchesium Sniper Rifle	제르세슘 스나이퍼 라이플	Zerchesium 시리즈 표기 통일 (저체슘 오기)
+Irradium Whip	이리듐 채찍	Irradium=이리듐 다수파 (102건)
+Nomad Rifle	노마드 라이플	노마드 다수파 (노매드 후드는 별개 아머)
+X'ian Bulb Gun	짜'이족 벌브 건	짜'이족 시리즈 표기 통일
+Sting Needler	스팅 니들러	직역 침침 -> 시리즈 음차 통일
+Auto Trash	자동 쓰레기	아이템명(^gray;자동 쓰레기)과 GUI 타이틀 통일
+Cosmic Blast	코스믹 블래스트	Cosmic Burst(코스믹 버스트)와 구분, FU_KO 층이 이미 블래스트 사용
+Sapling	묘목
+Erchius Horror Figurine	에르키우스 호러 피규어	에르키우스 호러 계열 통일
+The Erchius Horror	에르키우스 호러	미션명도 호러 계열로 통일
+Foraging Table	채집 테이블	EN 직역+퀘스트 다수 용법
+Sprouting Table	발아 테이블	퀘스트 용법과 통일
+Ship Component Assembler	함선 부품 조립기	창 제목/퀘스트와 통일
+Fission Furnace	핵분열 용광로	Fission Reactor(원자력 반응로)와 충돌 해소
+Precursor Microsphere	선구자 마이크로스피어	Microsphere 계열 통일(음차)
+Bomb Microsphere	폭탄 마이크로스피어	Microsphere 계열 통일
+Spider Microsphere	거미 마이크로스피어	Microsphere 계열 통일
+Busty Bonka	버스티 봉카	고유명 음차 우선
+RAID: Behemoth Train	레이드: 베히모스 열차	Behemoth=베히모스 통일
+The Seeker Trial	시커 시련	Seeker Trial과 통일
+Seeker Trial	시커 시련	Seeker=시커 인명과 통일
+Flutter Jump	플러터 점프	사용자 지정: 음차 표기 우선
+Ultra Flutter!	울트라 플러터!	Flutter Jump 계열 음차 통일
+Exousian	엑수시안	codex42: 엑소시안 혼용 통일
+K'Rakoths	크라코스	codex42: 종족명(복수) 표기. 형용사 K'Rakothan은 크라코탄
+K'Rakothan	크라코탄	codex42: 형용사형 — 종족명 크라코스와 구분
+Noolith	누올리스	codex42: 놀리스 혼용 통일(모놀리스 무관)
+Irisil	이리실	codex42: 아이리실 혼용 통일. 단수 irisa는 이리사
+irisa	이리사	codex42: 아이리사 혼용 통일
+X'i	짜'이	codex42: 짜이·X'i 혼용 통일(canon 기존 등록과 일치)
+Aeon	에이언	codex42: 아이온·이온 혼용 통일
+The Navigator	내비게이터	codex42: 보스명 항해자 혼용 통일
+the Harvester	수확자	codex42: 보스명 하베스터 혼용 통일. HarvesterBeam 무기는 하베스터 유지
+Megacorp	메가코프	codex42: 거대기업 혼용 통일
+Grand Impersonator	대모방자	codex42: 위장의 대가·그랜드 임퍼소네이터 혼용 통일
+Praetor	프라이토르	codex42: 프라이터 혼용 통일
+Kyterran	키테란	codex42: 카이테란 혼용 통일
+Waspmim	와스프밈	codex42: 왐미밈 혼용 통일
+Thornwing	쏜윙	codex42: 손윙·가시날개 혼용 통일
+Ambiri	암비리	codex42: 앰비리 혼용 통일
+Coralgrower	코럴그로어	codex42: 코럴그로워 혼용 통일
+McVicar	맥비커	codex42: 맥비카 혼용 통일
+Hiraki Coralle	히라키 코랄레	codex42: 코레일 혼용 통일
+Glimrecus	글림레쿠스	codex42: 글림를레쿠스 오탈자 통일
+Moonshadow	달그림자	codex42: 문셰도우 혼용 통일
+Viridescent	비리데슨트	codex42: 비리데센트·비리데선트 혼용 통일
+Badland	배드랜드	codex42: 배드랜즈 혼용 통일
+Arcanian	아르카니안	codex42: 아케이니안 혼용 통일
+Lophani	로퍼니	codex42: 로푸니 혼용 통일
+Cygnus	시그너스	codex42: 시그누스 혼용 통일
+Kluex	클루엑스	codex42: 클룩스 혼용 통일(기존 다수 표기)
+Laenathin	라에나틴	codex42: 라에나신 혼용 통일
+Hakuuki	하쿠우키	codex42: 델타 하쿠키 혼용 통일
+Serpent	서펀트	codex42: 서펜트 혼용 통일(우화·드로이드·가드 동일)
+Davin	데이빈	codex42: 다빈 혼용 통일
+Matthew	매튜	codex42: 매슈 혼용 통일
+Seonha	선하	codex42: 세온하 혼용 통일
+Morragh	모라그	codex42: 모라흐 혼용 통일
+Woof pack	우프 무리	codex42: 멍멍 무리 혼용 통일
+Oinker	오잉키서	codex42: 오잉킹·오잉커서 혼용 통일
+Lady Nox	녹스 여주	codex42: 녹스 여주인·녹스 님 혼용 통일
+Fushi	후치	codex42: 후시 혼용 통일
+Astromancer	아스트로맨서	codex42: 성점술사 혼용 통일
+Solar Guardian	태양 수호자	codex42: 솔라 가디언 혼용 통일
+High Magus	대마법사	codex42: 하이 마구스·상급 마법사 혼용 통일
+Lords of the Cosmos	코스모스의 군주들	codex42: 우주의 군주들 혼용 통일
+Job Armor	직업 갑옷	codex42: 잡 방어구 혼용 통일
+Matriarch	여족장	codex42: 여가장 혼용 통일(동일 문서 내)
+Star Garden	스타리 가든	codex42: 스타리 정원 혼용 통일
+Starcrab	스타크랩	codex42: 별게 혼용 통일(om_starry)
+Stella Panfish	스텔라 팬피시	codex42: 스텔라 부채물고기 혼용 통일
+Green Word	녹색 언어	codex42: 녹색 언어씀·푸른 말씀·초록(의) 말씀 혼용 통일
+The Wood	숲	codex42: 더 우드·우드 혼용 통일(viera 자산 한정 — 우드트레커 무관)
+Trickster's Trial	트릭스터의 시련	codex42: 사기꾼의 시련 혼용 통일
+Dalmascan	달마스칸	codex42: 달마스카 혼용 통일. 국명 Dalmasca는 달마스카 유지
+Light Bow	라이트 보우	codex42: 새턴 아이템명 — 빛의 활 혼용 통일
+Baton	지휘봉	codex42: 새턴 무기명 배통 혼용 통일(몬스터 Batong=배통은 별개)
+World Horizon	월드 호라이즌	codex42: 세계의 지평선 혼용 통일. 함선 Horizon은 호라이즌
+Blood Woof	피의 우프	codex42: 블러드 우프 혼용 통일
+Blood Wolf	블러드 울프	codex42: 핏빛 털의 늑대 혼용 통일(woofie 캐릭터 별명)
+Execration	엑세크레이션	codex42: EXECRATIONS(기계 복수)→저주 오역 교정
+Vestige-Evo Process	베스티지-에보 프로세스	codex42: 잔재 진화 과정 혼용 통일. 약칭 VEP 유지
+Tomb Keeper	무덤지기	codex42: 무덤 수호자·무덤 경비병·묘지기 혼용 통일
+Elementalist	원소술사	codex42: 엘리멘탈리스트 혼용 통일
+Moogle	모글	codex42: 모그리 혼용 통일(53건 확립 표기)

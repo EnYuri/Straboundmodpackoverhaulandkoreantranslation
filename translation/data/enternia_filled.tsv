@@ -1,0 +1,457 @@
+asset	field	en	ko	src
+/deprecated/ct_deprecation_station.object	description	Get rewards for deprecated or lost items from Enternia mod.	사용 중단되거나 분실된 Enternia 모드 아이템을 이곳에서 보상받을 수 있다.	
+/deprecated/ct_deprecation_station.object	shortdescription	^orange;Deprecation Station^reset;	^orange;폐기 스테이션^reset;	
+/deprecated/items/ct_cetereye.item	shortdescription	^#2080f0;Cetereye^reset;	^#2080f0;세터아이^reset;	
+/deprecated/items/ct_cetereye.item	description	Ashal', Ceterai.	아샬', 세테라이.	
+/deprecated/items/ct_orchid.codex	title	Little Star and The Starflower Order	작은 별과 별꽃 기사단	reuse
+/deprecated/items/ct_orchid.codex	description	An ebook about a fallen little star.	떨어진 작은 별에 관한 전자책이다.	reuse
+/deprecated/items/ct_stardust_collar.augment	description	A collar that makes your pet immune to Alternia, Enternia and Void effects.	애완동물을 알테르니아, 에터니아, 공허 효과로부터 면역으로 만드는 목걸이.	
+/deprecated/items/ct_stardust_collar.augment	shortdescription	Stardust Collar	스타더스트 목걸이	
+/deprecated/items/ct_starfire.item	description	You feel a familiar presence.	어딘가 익숙한 존재가 느껴진다.	
+/deprecated/items/ct_starfire.item	shortdescription	Starfire Essence	성화 정수	
+/deprecated/items/ct_starmatter.item	description	Fabric of dreams.	꿈의 천.	
+/deprecated/items/ct_starmatter.item	shortdescription	Starmatter Tissue	스타매터 조직	
+/deprecated/items/ct_starsteel.item	description	Steel forged from memories.	기억으로 단조된 강철.	
+/deprecated/items/ct_starsteel.item	shortdescription	Starsteel Bar	스타스틸 주괴	
+/items/active/alta/spawners/androids/alta.activeitem	shortdescription	Android	안드로이드	
+/items/active/alta/tools/capture/pod/ct_alta_capture_pod.thrownitem	shortdescription	Capture Pod	포획 포드	
+/items/active/alta/tools/capture/pod/ct_alta_capture_pod.thrownitem	description	Throw it at a monster to forcefully capture it and bring it to a new home.	몬스터에게 던져 억지로 포획해 새로운 보금자리로 데려온다.	
+/items/active/alta/tools/lights/flashlight/ct_alta_flashlight.flashlight	shortdescription	Enhanced Flashlight ^#8020f0;^reset;	강화 손전등 ^#8020f0;^reset;	
+/items/active/alta/tools/lights/flashlight/ct_alta_flashlight.flashlight	description	A handy flashlight!	편리한 손전등이다!	
+/items/active/alta/tools/lights/illuminator/ct_alta_illuminator.flashlight	shortdescription	Alta Illuminator	알타 일루미네이터	
+/items/active/alta/tools/lights/illuminator/ct_alta_illuminator.flashlight	description	A pretty powerful flashlight.	꽤 강력한 손전등.	
+/items/active/alta/tools/plant/ct_colorful_grass_seeds.thrownitem	shortdescription	Colorful Grass Seeds	알록달록 풀 씨앗	
+/items/active/alta/tools/plant/ct_colorful_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow differently-colored grass!	촉촉한 경작지 흙에 뿌리면 여러 색깔의 풀이 자란다!	
+/items/active/alta/tools/plant/ct_crimson_grass_seeds.thrownitem	shortdescription	Crimson Grass Seeds	크림슨 풀 씨앗	
+/items/active/alta/tools/plant/ct_crimson_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow crimson-colored grass!	촉촉한 경작지 흙에 뿌리면 진홍색 풀이 자란다!	
+/items/active/alta/tools/plant/ct_flowery_grass_seeds.thrownitem	shortdescription	Flowery Grass Seeds	꽃덮인 풀 씨앗	
+/items/active/alta/tools/plant/ct_flowery_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow flowery grass!	촉촉한 경작지 흙에 뿌리면 꽃이 핀 풀이 자란다!	
+/items/active/alta/tools/plant/ct_grass_seeds.thrownitem	shortdescription	Grass Seeds	잔디 씨앗	reuse
+/items/active/alta/tools/plant/ct_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow grass.	촉촉한 경작지 흙에 뿌리면 풀이 자란다.	
+/items/active/alta/tools/plant/ct_lush_grass_seeds.thrownitem	shortdescription	Lush Grass Seeds	우거진 풀 씨앗	
+/items/active/alta/tools/plant/ct_lush_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow jungle-like grass!	촉촉한 경작지 흙에 뿌리면 정글 같은 풀이 자란다!	
+/items/active/alta/tools/plant/ct_mical_grass_seeds.thrownitem	shortdescription	Mical Growth Seeds	미칼 자람 씨앗	
+/items/active/alta/tools/plant/ct_mical_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow tiny mical crystals!	촉촉한 경작지 흙에 뿌리면 작은 미칼 크리스탈이 자란다!	
+/items/active/alta/tools/plant/ct_thick_grass_seeds.thrownitem	shortdescription	Thick Grass Seeds	두꺼운 풀 씨앗	
+/items/active/alta/tools/plant/ct_thick_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow very dense grass!	촉촉한 경작지 흙에 뿌리면 아주 빽빽한 풀이 자란다!	
+/items/active/alta/tools/plant/ct_warped_grass_seeds.thrownitem	shortdescription	Warped Grass Seeds	뒤틀린 풀 씨앗	
+/items/active/alta/tools/plant/ct_warped_grass_seeds.thrownitem	description	Toss these on some damp tilled soil to grow tiny warped roots!	촉촉한 경작지 흙에 뿌리면 작은 뒤틀린 뿌리가 자란다!	
+/items/active/alta/tools/plant/nade/ct_alta_grass_nade.thrownitem	shortdescription	Alta Grass Nade	알타 풀 수류탄	
+/items/active/alta/tools/plant/nade/ct_alta_grass_nade.thrownitem	description	Toss these on any ground to explode with various grass.	아무 땅에나 던지면 갖가지 풀이 폭발하듯 자란다.	
+/items/active/alta/tools/plant/omni/ct_colorful_grass_seeds.thrownitem	shortdescription	Omni Colorful Seeds ^#8020f0;^reset;	옴니 알록달록 씨앗 ^#8020f0;^reset;	
+/items/active/alta/tools/plant/omni/ct_colorful_grass_seeds.thrownitem	description	Toss these on any ground to grow differently-colored grass!	아무 땅에나 던지면 여러 색깔의 풀이 자란다!	
+/items/active/alta/tools/plant/omni/ct_crimson_grass_seeds.thrownitem	shortdescription	Omni Crimson Seeds ^#8020f0;^reset;	옴니 크림슨 씨앗 ^#8020f0;^reset;	
+/items/active/alta/tools/plant/omni/ct_crimson_grass_seeds.thrownitem	description	Toss these on any ground to grow crimson-colored grass!	아무 땅에나 던지면 진홍색 풀이 자란다!	
+/items/active/alta/tools/plant/omni/ct_flowery_grass_seeds.thrownitem	shortdescription	Omni Flowery Seeds ^#2080f0;^reset;	옴니 꽃덮인 씨앗 ^#2080f0;^reset;	
+/items/active/alta/tools/plant/omni/ct_flowery_grass_seeds.thrownitem	description	Toss these on any ground to grow flowery grass!	아무 땅에나 던지면 꽃이 핀 풀이 자란다!	
+/items/active/alta/tools/plant/omni/ct_grass_seeds.thrownitem	shortdescription	Omni Grass Seeds ^#2080f0;^reset;	옴니 풀 씨앗 ^#2080f0;^reset;	
+/items/active/alta/tools/plant/omni/ct_grass_seeds.thrownitem	description	Toss these on any ground to grow grass.	아무 땅에나 던지면 풀이 자란다.	
+/items/active/alta/tools/plant/omni/ct_lush_grass_seeds.thrownitem	shortdescription	Omni Lush Seeds ^#2080f0;^reset;	옴니 우거진 씨앗 ^#2080f0;^reset;	
+/items/active/alta/tools/plant/omni/ct_lush_grass_seeds.thrownitem	description	Toss these on any ground to grow jungle-like grass!	아무 땅에나 던지면 정글 같은 풀이 자란다!	
+/items/active/alta/tools/plant/omni/ct_mical_grass_seeds.thrownitem	shortdescription	Omni Mical Seeds ^#8020f0;^reset;	옴니 미칼 씨앗 ^#8020f0;^reset;	
+/items/active/alta/tools/plant/omni/ct_mical_grass_seeds.thrownitem	description	Toss these on on any ground to grow tiny mical crystals!	아무 땅에나 던지면 작은 미칼 크리스탈이 자란다!	
+/items/active/alta/tools/plant/omni/ct_thick_grass_seeds.thrownitem	shortdescription	Omni Thick Seeds	옴니 두꺼운 씨앗	
+/items/active/alta/tools/plant/omni/ct_thick_grass_seeds.thrownitem	description	Toss these on any ground to grow very dense grass!	아무 땅에나 던지면 아주 빽빽한 풀이 자란다!	
+/items/active/alta/tools/plant/omni/ct_warped_grass_seeds.thrownitem	shortdescription	Omni Warped Seeds ^#8020f0;^reset;	옴니 뒤틀린 씨앗 ^#8020f0;^reset;	
+/items/active/alta/tools/plant/omni/ct_warped_grass_seeds.thrownitem	description	Toss these on any ground to grow tiny warped roots!	아무 땅에나 던지면 작은 뒤틀린 뿌리가 자란다!	
+/items/active/alta/toys/dart/ct_alta_dart.thrownitem	shortdescription	Alta Dart	알타 다트	
+/items/active/alta/toys/dart/ct_alta_dart.thrownitem	description	A throwing dart, aim for the bullseye.	투척용 다트. 과녁 정중앙을 노려 보자.	
+/items/active/alta/toys/dart/ct_alta_dart_ceterteal.thrownitem	shortdescription	Ceterteal Dart	세터틸 다트	
+/items/active/alta/toys/dart/ct_alta_dart_ceterteal.thrownitem	description	A throwing dart, aim for the bullseye.	투척용 다트. 과녁 정중앙을 노려 보자.	
+/items/active/alta/toys/dart/ct_alta_dart_ionic.thrownitem	shortdescription	Ionic Dart	이온 다트	
+/items/active/alta/toys/dart/ct_alta_dart_ionic.thrownitem	description	A throwing dart, aim for the bullseye.	투척용 다트. 과녁 정중앙을 노려 보자.	
+/items/active/alta/toys/dart/ct_alta_dart_omniblue.thrownitem	shortdescription	Omniblue Dart	옴니블루 다트	
+/items/active/alta/toys/dart/ct_alta_dart_omniblue.thrownitem	description	A throwing dart, aim for the bullseye.	투척용 다트. 과녁 정중앙을 노려 보자.	
+/items/active/alta/toys/fireworks/ct_alta_firework.thrownitem	shortdescription	Alta Firework	알타 폭죽	
+/items/active/alta/toys/fireworks/ct_alta_firework.thrownitem	description	Time for a celebration!	축하할 시간이다!	
+/items/active/alta/toys/fireworks/ct_stardust_firework.thrownitem	shortdescription	Stardust Firework	스타더스트 폭죽	
+/items/active/alta/toys/fireworks/ct_stardust_firework.thrownitem	description	Time for a celebration!	축하할 시간이다!	
+/items/active/alta/toys/flashlight/ct_alta_flashlight.flashlight	shortdescription	Toy Alta Flashlight	장난감 알타 손전등	
+/items/active/alta/toys/flashlight/ct_alta_flashlight.flashlight	description	A handy toy flashlight!	편리한 장난감 손전등이다!	
+/items/active/alta/toys/paper/plane/ct_alta_plane.thrownitem	shortdescription	Alta Plane	알타 비행기	
+/items/active/alta/toys/paper/plane/ct_alta_plane.thrownitem	description	A small plane made out of ayaka paper. Just don't be too wasteful!	아야카 종이로 만든 작은 비행기. 그래도 너무 낭비하진 말자!	
+/items/active/alta/toys/paper/plane/ct_alta_plane_cool.thrownitem	shortdescription	Cool Alta Plane	멋진 알타 비행기	
+/items/active/alta/toys/paper/plane/ct_alta_plane_cool.thrownitem	description	A small aerodynamic plane from colored alta paper made for competitive paper plane throwing.	종이비행기 던지기 대회용으로 색색 알타 종이로 만든 작은 공기역학 비행기.	
+/items/active/alta/toys/paper/plane/ct_alta_plane_pretty.thrownitem	shortdescription	Pretty Alta Plane	예쁜 알타 비행기	
+/items/active/alta/toys/paper/plane/ct_alta_plane_pretty.thrownitem	description	A small plane made out of colored ayaka paper. Just don't be too wasteful!	색색 아야카 종이로 만든 작은 비행기. 그래도 너무 낭비하진 말자!	
+/items/active/alta/toys/paper/plane/ct_ayaka_plane.thrownitem	shortdescription	Ayaka Plane	아야카 비행기	
+/items/active/alta/toys/paper/plane/ct_ayaka_plane.thrownitem	description	A small plane made out of ayaka paper. Just don't be too wasteful!	아야카 종이로 만든 작은 비행기. 그래도 너무 낭비하진 말자!	
+/items/active/alta/toys/soft/ct_alta_toy_iso_ball.thrownitem	shortdescription	Izo Ball	이조 공	
+/items/active/alta/toys/soft/ct_alta_toy_iso_ball.thrownitem	description	This ball bounces when thrown.	던지면 튕기는 공이다.	
+/items/active/alta/toys/soft/ct_alta_toy_pet_ball.thrownitem	shortdescription	Little Pet Toy Ball	작은 애완동물 장난감 공	
+/items/active/alta/toys/soft/ct_alta_toy_pet_ball.thrownitem	description	I'd bet my pet would love playing with this.	내 애완동물이라면 이걸로 노는 걸 좋아할 것이다.	
+/items/active/alta/toys/soft/ct_alta_toy_runeva_ball.thrownitem	shortdescription	Runeva Ball	루네바 공	
+/items/active/alta/toys/soft/ct_alta_toy_runeva_ball.thrownitem	description	It's an inflatable tricolor ball.	부풀릴 수 있는 삼색 공이다.	
+/items/active/alta/toys/soft/ct_alta_toy_ryushay_ball.thrownitem	shortdescription	Ryushay Ball	류샤이 공	
+/items/active/alta/toys/soft/ct_alta_toy_ryushay_ball.thrownitem	description	It's a colorful inflatable beachball.	알록달록한 물놀이 공이다.	
+/items/active/alta/toys/soft/ct_alta_toy_vizhus_worm.thrownitem	shortdescription	Vizhus Worm Plushie	비주스 벌레 인형	
+/items/active/alta/toys/soft/ct_alta_toy_vizhus_worm.thrownitem	description	What have we here?	이게 뭘까?	
+/items/active/alta/toys/soft/ct_alta_toy_warpball.thrownitem	shortdescription	Warpball	워프볼	
+/items/active/alta/toys/soft/ct_alta_toy_warpball.thrownitem	description	Sounds like a name of a sports game. A neat pet ball.	스포츠 게임 이름 같기도 한데. 꽤 괜찮은 애완동물 공이다.	
+/items/armors/alta/clothing/artist_croptop/ct_alta_artist_croptop.chest	shortdescription	Artistic Crop-Top	아티스틱 크롭톱	
+/items/armors/alta/clothing/artist_croptop/ct_alta_artist_croptop.chest	description	"A perfect wear for ^#b0e0fc;altas^reset; who love to express themselves.
+
+Created by Perizhad alta designers with comfort in mind."	"자신을 표현하기 좋아하는 ^#b0e0fc;알타^reset;들에게 딱 맞는 옷.
+
+편안함을 염두에 두고 페리자드 알타 디자이너들이 제작했다."	
+/items/armors/alta/clothing/artist_shorts/ct_alta_artist_shorts.legs	shortdescription	Artistic Shorts	아티스틱 반바지	
+/items/armors/alta/clothing/artist_shorts/ct_alta_artist_shorts.legs	description	A small pair of shorts that helps you feel free and alive.	자유롭고 생기 넘치는 느낌을 주는 작은 반바지.	
+/items/armors/alta/clothing/artist_sweater/ct_alta_artist_sweater.chest	shortdescription	Artistic Sweater	아티스틱 스웨터	
+/items/armors/alta/clothing/artist_sweater/ct_alta_artist_sweater.chest	description	A stricking yet elegant shoulderless sweater for people of self-expression. Boosts your creativity stat by 20.	자기표현을 추구하는 이들을 위한 눈에 띄면서도 우아한 어깨 노출 스웨터. 창의력 스탯을 20 올려준다.	
+/items/armors/alta/clothing/light_shirt/ct_alta_light_shirt.chest	shortdescription	Light Shirt	가벼운 셔츠	
+/items/armors/alta/clothing/light_shirt/ct_alta_light_shirt.chest	description	A simple casual shirt worn by many altas. It smells of home and peace.	많은 알타들이 입는 소박한 캐주얼 셔츠. 고향과 평화의 냄새가 난다.	
+/items/armors/alta/clothing/light_skirt/ct_alta_light_skirt.legs	shortdescription	Light Skirt	가벼운 스커트	
+/items/armors/alta/clothing/light_skirt/ct_alta_light_skirt.legs	description	A basic casual skirt worn by many altas. Nice and simple.	많은 알타들이 입는 기본적인 캐주얼 스커트. 깔끔하고 단순하다.	
+/items/armors/alta/clothing/light_sweater/ct_alta_light_sweater.chest	shortdescription	Light Sweater Vest	가벼운 스웨터 베스트	
+/items/armors/alta/clothing/light_sweater/ct_alta_light_sweater.chest	description	A cozy goodness that will make any ^#b0e0fc;alta^reset; feel at home.	어떤 ^#b0e0fc;알타^reset;든 집에 온 듯한 기분이 들게 하는 포근한 물건.	
+/items/armors/alta/clothing/official_jacket/ct_alta_official_jacket.chest	shortdescription	Light Official Jacket	가벼운 공식 재킷	
+/items/armors/alta/clothing/official_jacket/ct_alta_official_jacket.chest	description	A top often used by ^#b0e0fc;alta^reset; representatives and officials. A choice of taking responsibility.	^#b0e0fc;알타^reset; 대표자와 공무원들이 즐겨 입는 상의. 책임을 지겠다는 선택이다.	
+/items/armors/alta/clothing/official_skirt/ct_alta_official_skirt.legs	shortdescription	Light Official Skirt	가벼운 공식 스커트	
+/items/armors/alta/clothing/official_skirt/ct_alta_official_skirt.legs	description	A tidy layered skirt. A symbol of responsibility.	단정한 겹침 스커트. 책임의 상징이다.	
+/items/armors/alta/clothing/official_tights/ct_alta_official_tights.legs	shortdescription	Light Official Tights	가벼운 공식 타이츠	
+/items/armors/alta/clothing/official_tights/ct_alta_official_tights.legs	description	A pair of tidy dark tights with sharp footwear. Light yet very official.	날카로운 형태의 신발이 달린 단정한 검은 타이츠. 가볍지만 아주 공식적이다.	
+/items/armors/alta/clothing/researcher_coat/ct_alta_researcher_coat.chest	shortdescription	^#f02020;EDS^reset; Researcher Coat	^#f02020;EDS^reset; 연구원 코트	
+/items/armors/alta/clothing/researcher_coat/ct_alta_researcher_coat.chest	description	An official EDS researcher's coat. Practical and well thought-out.	공식 EDS 연구원 코트. 실용적이고 잘 짜여 있다.	
+/items/armors/alta/clothing/researcher_skirt/ct_alta_researcher_skirt.legs	shortdescription	^#f02020;EDS^reset; Researcher Skirt	^#f02020;EDS^reset; 연구원 스커트	
+/items/armors/alta/clothing/researcher_skirt/ct_alta_researcher_skirt.legs	description	An official EDS researcher's legwear. Practical and well thought-out.	공식 EDS 연구원 하의. 실용적이고 잘 짜여 있다.	
+/items/armors/alta/clothing/service_jacket/ct_alta_service_jacket.chest	shortdescription	Light Service Jacket	가벼운 서비스 재킷	
+/items/armors/alta/clothing/service_jacket/ct_alta_service_jacket.chest	description	A typical jacket worn by ^#b0e0fc;alta^reset; servicers of different establishments.	여러 시설에서 일하는 ^#b0e0fc;알타^reset; 종업원들이 입는 전형적인 재킷.	
+/items/armors/alta/clothing/service_pants/ct_alta_service_pants.legs	shortdescription	Light Service Pants	가벼운 서비스 바지	
+/items/armors/alta/clothing/service_pants/ct_alta_service_pants.legs	description	A bottom issue for ^#b0e0fc;alta^reset; servicers who prefer trousers over skirts.	스커트보다 바지를 선호하는 ^#b0e0fc;알타^reset; 종업원용 하의.	
+/items/armors/alta/clothing/service_skirt/ct_alta_service_skirt.legs	shortdescription	Light Service Skirt	가벼운 서비스 스커트	
+/items/armors/alta/clothing/service_skirt/ct_alta_service_skirt.legs	description	A bottom issue for ^#b0e0fc;alta^reset; servicers who prefer skirts over trousers.	바지보다 스커트를 선호하는 ^#b0e0fc;알타^reset; 종업원용 하의.	
+/items/armors/alta/clothing/social_bottom/ct_alta_social_bottom.legs	shortdescription	Social Worker Bottom	사회복무 하의	
+/items/armors/alta/clothing/social_bottom/ct_alta_social_bottom.legs	description	Shorts yet sturdy for safety and ease of movement!	안전과 움직임 편의를 위해 짧으면서도 튼튼하다!	
+/items/armors/alta/clothing/social_top/ct_alta_social_top.chest	shortdescription	Social Worker Top	사회복무 상의	
+/items/armors/alta/clothing/social_top/ct_alta_social_top.chest	description	A top usually worn by the most altruistic ^#b0e0fc;altas^reset;.	가장 이타적인 ^#b0e0fc;알타^reset;들이 주로 입는 상의.	
+/items/armors/alta/events/jinxies/cyclop/ct_jinxies_cyclop.head	shortdescription	Cyclop's Eye	사이클롭스의 눈	
+/items/armors/alta/events/jinxies/cyclop/ct_jinxies_cyclop.head	description	That's one face of an eye...	눈 하나짜리 얼굴이라니...	
+/items/armors/alta/events/jinxies/noface/ct_jinxies_noface.head	shortdescription	Noface	노페이스	
+/items/armors/alta/events/jinxies/noface/ct_jinxies_noface.head	description	More like noeyes, am I right?!	노페이스가 아니라 노아이즈라고 해야지, 그렇지?!	
+/items/armors/alta/events/sonaveil/alta_scarf/ct_alta_scarf.head	shortdescription	Alta Scarf	알타 스카프	
+/items/armors/alta/events/sonaveil/alta_scarf/ct_alta_scarf.head	description	A soft, cozy scarf in alta colors - perfect for keeping warm.	알타 색상의 부드럽고 포근한 스카프 — 따뜻하게 지내기에 딱이다.	
+/items/armors/alta/events/sonaveil/scarf/ct_sonaveil_scarf.head	shortdescription	Sonaveil Scarf	소나베일 스카프	
+/items/armors/alta/events/sonaveil/scarf/ct_sonaveil_scarf.head	description	Better wrap up - wouldn't want you catching a cold out there.	단단히 여미는 게 좋아 — 밖에서 감기 걸리면 안 되잖아.	
+/items/armors/alta/other/backpack/ct_alta_backpack.back	shortdescription	Tidy Backpack	단정한 배낭	
+/items/armors/alta/other/backpack/ct_alta_backpack.back	description	A carefully packed backpack. You can wear it and feel a sense of meaning behind your back.	정성스레 꾸린 배낭. 메고 있으면 등 뒤에 의미 하나를 얹은 기분이 든다.	
+/items/armors/alta/other/eds_beret/ct_eds_beret.head	shortdescription	^#f02020;EDS^reset; Duty Beret	^#f02020;EDS^reset; 근무 베레모	
+/items/armors/alta/other/eds_beret/ct_eds_beret.head	description	Decorative on-duty ^#b0e0fc;alta^reset; ^#f02020;EDS^reset; headwear.	근무용 장식성 ^#b0e0fc;알타^reset; ^#f02020;EDS^reset; 모자.	
+/items/armors/alta/other/eds_visor/ct_eds_visor.head	shortdescription	Sky Visor	스카이 바이저	
+/items/armors/alta/other/eds_visor/ct_eds_visor.head	description	A light version of the original EDS visor.	원래의 EDS 바이저를 경량화한 버전.	
+/items/armors/alta/other/energy_mask/ct_alta_energy_mask.head	shortdescription	Energy Mask	에너지 마스크	
+/items/armors/alta/other/energy_mask/ct_alta_energy_mask.head	description	Developed by Tserera, this device provides visual analysis right to your eyes!	체리라 개발품. 눈앞에서 바로 시각 분석을 제공하는 장치다!	
+/items/armors/alta/other/halogen_pack/ct_alta_halogen_pack.back	shortdescription	Altered Halogen Pack	개조 할로겐 팩	
+/items/armors/alta/other/halogen_pack/ct_alta_halogen_pack.back	description	A backpack with an attached halogen light. It's very bright!	할로겐 조명이 달린 배낭. 아주 밝다!	
+/items/armors/alta/other/hologlasses/ct_alta_hologlasses.head	shortdescription	Hologlasses	홀로글래스	
+/items/armors/alta/other/hologlasses/ct_alta_hologlasses.head	description	High-tech sunglasses created by ^#b0e0fc;alta^reset; researchers on ^#20f080;Alterash^reset;.	^#b0e0fc;알타^reset; 연구자들이 ^#20f080;알테라시^reset;에서 만든 첨단 선글라스.	
+/items/armors/alta/other/industrial_collar/ct_alta_industrial_collar.head	shortdescription	Industrial Collar	공업용 목걸이	
+/items/armors/alta/other/industrial_collar/ct_alta_industrial_collar.head	description	This collar provides health monitoring and a way of communication. Designed for any industrial environments.	건강 모니터링과 통신 수단을 제공하는 목걸이. 어떤 공업 환경에서도 쓸 수 있게 설계됐다.	
+/items/armors/alta/other/oxygen_mask/ct_alta_oxygen_mask.head	shortdescription	Oxygen Mask	산소 마스크	
+/items/armors/alta/other/oxygen_mask/ct_alta_oxygen_mask.head	description	Developed by Tserera, this device provides visual analysis right to your eyes!	체리라 개발품. 눈앞에서 바로 시각 분석을 제공하는 장치다!	
+/items/armors/alta/other/pilot_helmet/ct_alta_pilot_helmet.head	shortdescription	Pilot Helmet	조종사 헬멧	
+/items/armors/alta/other/pilot_helmet/ct_alta_pilot_helmet.head	description	Developed by Tserera, this device provides visual analysis right to your eyes!	체리라 개발품. 눈앞에서 바로 시각 분석을 제공하는 장치다!	
+/items/armors/alta/other/protective_collar/ct_alta_protective_collar.head	shortdescription	Protective Collar	보호 목걸이	
+/items/armors/alta/other/protective_collar/ct_alta_protective_collar.head	description	This collar provides an energy shield to prevent you from receiving damage.	피해를 받지 않도록 에너지 실드를 제공하는 목걸이.	
+/items/armors/alta/other/respiratory_mask/ct_alta_respiratory_mask.head	shortdescription	Respiratory Mask	호흡 마스크	
+/items/armors/alta/other/respiratory_mask/ct_alta_respiratory_mask.head	description	A simple but effective filtering mask to help you not breath dust.	먼지를 들이마시지 않도록 돕는 단순하지만 효과적인 여과 마스크.	
+/items/armors/alta/other/respiratory_mask_colorful/ct_alta_respiratory_mask_colorful.head	shortdescription	Colored Respiratory Mask	컬러 호흡 마스크	
+/items/armors/alta/other/respiratory_mask_colorful/ct_alta_respiratory_mask_colorful.head	description	A simple but effective filtering mask. Now in colors!	단순하지만 효과적인 여과 마스크. 이제 색도 입혔다!	
+/items/armors/alta/other/science_ocular/ct_alta_science_ocular.head	shortdescription	Scientific Visor	과학 바이저	
+/items/armors/alta/other/science_ocular/ct_alta_science_ocular.head	description	Developed by Tserera, this device provides visual analysis right to your eyes!	체리라 개발품. 눈앞에서 바로 시각 분석을 제공하는 장치다!	
+/items/armors/alta/other/science_pack/ct_alta_science_pack.back	shortdescription	Scientific Backpack	과학 배낭	
+/items/armors/alta/other/science_pack/ct_alta_science_pack.back	description	A Tserera's development. This way the most important things are always happening right behind you.	체리라의 개발품. 가장 중요한 일들은 늘 네 등 뒤에서 벌어진다.	
+/items/armors/alta/other/state_beret/ct_alta_state_beret.head	shortdescription	State Beret	정무 베레모	
+/items/armors/alta/other/state_beret/ct_alta_state_beret.head	description	Decorative parade ^#b0e0fc;alta^reset; headwear.	장식용 행사 ^#b0e0fc;알타^reset; 모자.	
+/items/armors/alta/other/visor/ct_alta_visor.head	shortdescription	Omniblue Visor	옴니블루 바이저	
+/items/armors/alta/other/visor/ct_alta_visor.head	description	A visor with an omniblue lightsource. Helps you see in the dark.	옴니블루 광원이 달린 바이저. 어둠 속에서 볼 수 있게 해준다.	
+/items/armors/alta/other/vr_headset/ct_alta_vr_headset.head	shortdescription	VR Headset	VR 헤드셋	reuse
+/items/armors/alta/other/vr_headset/ct_alta_vr_headset.head	description	A virtual reality headwear.	가상현실용 두부 장비.	
+/items/armors/alta/tier3/scout/lightwear/ct_alta_scout_lightwear.chest	shortdescription	Protea's Jacket ^#8020f0;^reset;	프로테아의 재킷 ^#8020f0;^reset;	
+/items/armors/alta/tier3/scout/lightwear/ct_alta_scout_lightwear.chest	description	"This protective jacket is encrusted with ^#ffa8e8;stardust^reset;. Label on the inner side reads ""From Protea «""."	"^#ffa8e8;스타더스트^reset;가 박힌 보호 재킷. 안쪽 라벨에는 ""프로테아가 ""라고 적혀 있다."	
+/items/armors/alta/tier3/scout/mask/ct_alta_scout_mask.head	shortdescription	Protea's Mask ^#8020f0;^reset;	프로테아의 마스크 ^#8020f0;^reset;	
+/items/armors/alta/tier3/scout/mask/ct_alta_scout_mask.head	description	A mask worn by Protea - a staris ^#b0e0fc;alta^reset; scout known for her vigilance and agility. Hairs on the back are made of ^#ffa8e8;stardust^reset;.	경계심과 민첩함으로 유명한 스타리스 ^#b0e0fc;알타^reset; 정찰병 프로테아가 쓰던 마스크. 뒷면의 털은 ^#ffa8e8;스타더스트^reset;로 만들어졌다.	
+/items/armors/alta/tier3/scout/velocity_eaters/ct_alta_scout_velocity_eaters.legs	shortdescription	Protea's Vectors ^#8020f0;^reset;	프로테아의 벡터 ^#8020f0;^reset;	
+/items/armors/alta/tier3/scout/velocity_eaters/ct_alta_scout_velocity_eaters.legs	description	These protective leggings with ^#ffa8e8;stardust^reset; crystals once belonged to Protea. They're yours now. Enjoy!	^#ffa8e8;스타더스트^reset; 크리스탈이 달린 이 보호 각반은 한때 프로테아의 것이었다. 이제는 네 것이다. 마음껏 즐겨라!	
+/items/armors/alta/tier4/elin/helmet/ct_elin_helmet.head	shortdescription	Elin Guard Helmet ^#20f080;^reset;	엘린 가드 헬멧 ^#20f080;^reset;	
+/items/armors/alta/tier4/elin/helmet/ct_elin_helmet.head	description	A helmet overgrown with ^#20f080;yaara^reset;. Worn by some Elin Garden guards.	^#20f080;야라^reset;가 무성하게 자란 헬멧. 일부 엘린 가든 경비가 착용한다.	
+/items/armors/alta/tier4/proto/helmet/ct_protohelmet.head	shortdescription	Protohelmet	프로토헬멧	
+/items/armors/alta/tier4/proto/helmet/ct_protohelmet.head	description	An energy-driven full electronic helmet used by some ^#b0e0fc;alta^reset; protoscouts.	일부 ^#b0e0fc;알타^reset; 프로토정찰병이 쓰는 에너지 구동 전전자 헬멧.	
+/items/armors/alta/tier4/security/captain_helmet/ct_alta_security_captain_helmet.head	shortdescription	Security Captain's Helmet ^#20f080;^reset;	경비 대장의 헬멧 ^#20f080;^reset;	
+/items/armors/alta/tier4/security/captain_helmet/ct_alta_security_captain_helmet.head	description	A standard protocol helmet worn by ^#b0e0fc;alta^reset; security captains.	^#b0e0fc;알타^reset; 경비 대장들이 쓰는 표준 프로토콜 헬멧.	
+/items/armors/alta/tier4/security/chest/ct_alta_security_chest.chest	shortdescription	GR Guard ^#8020f0;^reset;	GR 가드 ^#8020f0;^reset;	
+/items/armors/alta/tier4/security/chest/ct_alta_security_chest.chest	description	"A ^#ffa8e8;stardust^reset;-infused piece of armor made from bionix. Label on the inner side reads ""From Kora «""."	"바이오닉스로 만든 ^#ffa8e8;스타더스트^reset; 주입 방어구 조각. 안쪽 라벨에는 ""코라가 ""라고 적혀 있다."	
+/items/armors/alta/tier4/security/droid_back/ct_alta_security_droid_back.back	shortdescription	Security Droid Powermod ^#20f080;^reset;	경비 드로이드 파워모드 ^#20f080;^reset;	
+/items/armors/alta/tier4/security/droid_back/ct_alta_security_droid_back.back	description	A standard protocol power module of an ^#b0e0fc;alta^reset; security droid.	^#b0e0fc;알타^reset; 경비 드로이드의 표준 프로토콜 동력 모듈.	
+/items/armors/alta/tier4/security/droid_head/ct_alta_security_droid_head.head	shortdescription	Security Droid Head ^#20f080;^reset;	경비 드로이드 헤드 ^#20f080;^reset;	
+/items/armors/alta/tier4/security/droid_head/ct_alta_security_droid_head.head	description	A standard protocol head of an ^#b0e0fc;alta^reset; security droid.	^#b0e0fc;알타^reset; 경비 드로이드의 표준 프로토콜 헤드.	
+/items/armors/alta/tier4/security/helmet/ct_alta_security_helmet.head	shortdescription	"GR ""Animus"" ^#8020f0;^reset;"	"GR ""아니무스"" ^#8020f0;^reset;"	
+/items/armors/alta/tier4/security/helmet/ct_alta_security_helmet.head	description	"A high-tech enternia artifact that hides unknown power. And your face with it.  
+Has built-in ^#b0e0fc;breath protection^reset;."	"알 수 없는 힘을 숨긴 첨단 에터니아 아티팩트. 네 얼굴도 함께 숨겨준다. 
+내장형 ^#b0e0fc;호흡 보호^reset; 탑재."	
+/items/armors/alta/tier4/security/helmet_mk2/ct_alta_security_helmet_mk2.head	shortdescription	Security MkII Helmet ^#20f080;^reset;	경비 MkII 헬멧 ^#20f080;^reset;	
+/items/armors/alta/tier4/security/helmet_mk2/ct_alta_security_helmet_mk2.head	description	A slightly upgraded version of ^#b0e0fc;alta^reset; security helmets.	^#b0e0fc;알타^reset; 경비 헬멧의 약간 업그레이드된 버전.	
+/items/armors/alta/tier4/security/legwear/ct_alta_security_legwear.legs	shortdescription	GR Stands ^#8020f0;^reset;	GR 스탠즈 ^#8020f0;^reset;	
+/items/armors/alta/tier4/security/legwear/ct_alta_security_legwear.legs	description	These protective greaves with ^#ffa8e8;stardust^reset; layers once belonged to Kora. They're yours now. Enjoy!	^#ffa8e8;스타더스트^reset; 층을 두른 이 보호 각반은 한때 코라의 것이었다. 이제는 네 것이다. 마음껏 즐겨라!	
+/items/armors/alta/tier4/security/pack/ct_alta_security_pack.back	shortdescription	GR Supply ^#8020f0;^reset;	GR 서플라이 ^#8020f0;^reset;	
+/items/armors/alta/tier4/security/pack/ct_alta_security_pack.back	description	A compact ^#ffa8e8;stardust^reset;-enhanced life support system once worn by Kora.	한때 코라가 착용하던 ^#ffa8e8;스타더스트^reset; 강화 소형 생명유지 시스템.	
+/items/armors/alta/tier5/arco/android_head/ct_arco_android_head.head	shortdescription	Enviro Android Head ^#2080f0;^reset;	엔바이로 안드로이드 헤드 ^#2080f0;^reset;	
+/items/armors/alta/tier5/arco/android_head/ct_arco_android_head.head	description	A head of an advanced android prototype for the ^#f08f20;Enviro Android Set^reset; series.	^#f08f20;엔바이로 안드로이드 세트^reset; 시리즈용 첨단 안드로이드 시제품 헤드.	
+/items/armors/alta/tier5/arco/chest/ct_arco_chest.chest	shortdescription	Envirosuit Chestpiece	엔바이로슈트 흉갑	
+/items/armors/alta/tier5/arco/chest/ct_arco_chest.chest	description	Created for work in unstable and hazardous environments.	불안정하고 위험한 환경에서의 작업을 위해 만들어졌다.	
+/items/armors/alta/tier5/arco/helmet/ct_arco_helmet.head	shortdescription	Envirosuit Helmet	엔바이로슈트 헬멧	
+/items/armors/alta/tier5/arco/helmet/ct_arco_helmet.head	description	Comes as part of the Envirosuit.	엔바이로슈트의 일부로 제공된다.	
+/items/armors/alta/tier5/arco/helmet_mk2/ct_arco_helmet_mk2.head	shortdescription	Envirosuit MkII Helmet ^#2080f0;^reset;	엔바이로슈트 MkII 헬멧 ^#2080f0;^reset;	
+/items/armors/alta/tier5/arco/helmet_mk2/ct_arco_helmet_mk2.head	description	An improved version of the ^#f08f20;Envirosuit Helmet^reset; with added armor capabilities.	장갑 성능이 추가된 ^#f08f20;엔바이로슈트 헬멧^reset;의 개량형.	
+/items/armors/alta/tier5/arco/legwear/ct_arco_legwear.legs	shortdescription	Alta Lab Guard Pads	알타 연구소 경비 패드	
+/items/armors/alta/tier5/arco/legwear/ct_arco_legwear.legs	description	A piece of equipment worn by ^#b0e0fc;alta lab guards^reset; in most ^#b0e0fc;alta laboratories^reset;.	대부분의 ^#b0e0fc;알타 연구소^reset;에서 ^#b0e0fc;알타 연구소 경비^reset;가 착용하는 장비.	
+/items/armors/alta/tier5/arco/protector/ct_arco_protector.back	shortdescription	Enviroprotector ^#2080f0;^reset;	엔바이로프로텍터 ^#2080f0;^reset;	
+/items/armors/alta/tier5/arco/protector/ct_arco_protector.back	description	Provides life support and enhanced protection.	생명유지와 강화된 보호를 제공한다.	
+/items/armors/alta/tier5/arco/rebreather/ct_arco_rebreather.head	shortdescription	Envirosuit Rebreather ^#2080f0;^reset;	엔바이로슈트 리브리더 ^#2080f0;^reset;	
+/items/armors/alta/tier5/arco/rebreather/ct_arco_rebreather.head	description	Has an extended view as well as clearer vision and additional breath protection.	더 넓은 시야와 더 또렷한 비전, 추가 호흡 보호를 제공한다.	
+/items/armors/alta/tier5/combat/android_head/ct_combat_android_head.head	shortdescription	Combat Android Head ^#2080f0;^reset;	전투 안드로이드 헤드 ^#2080f0;^reset;	
+/items/armors/alta/tier5/combat/android_head/ct_combat_android_head.head	description	A head of an advanced android prototype for the ^#10b4ef;Combat Android Set^reset; series.	^#10b4ef;전투 안드로이드 세트^reset; 시리즈용 첨단 안드로이드 시제품 헤드.	
+/items/armors/alta/tier5/combat/chest/ct_combat_chest.chest	shortdescription	Sona Jacketarmor ^#2080f0;^reset;	소나 재킷아머 ^#2080f0;^reset;	
+/items/armors/alta/tier5/combat/chest/ct_combat_chest.chest	description	A warm, armored uniform jacket usually used by ^#b0e0fc;sona soldiers^reset; and ^#60c0fc;arknightss^reset;.	^#b0e0fc;소나 병사^reset;와 ^#60c0fc;아크나이트^reset;들이 주로 쓰는 따뜻한 장갑 제복 재킷.	
+/items/armors/alta/tier5/combat/helmet/ct_combat_helmet.head	shortdescription	Combat Helmet ^#2080f0;^reset;	전투 헬멧 ^#2080f0;^reset;	
+/items/armors/alta/tier5/combat/helmet/ct_combat_helmet.head	description	A full ^#b0e0fc;alta^reset; army helmet, covering the head completely. Provides additional breath protection.	머리 전체를 덮는 완전한 ^#b0e0fc;알타^reset; 군용 헬멧. 추가 호흡 보호를 제공한다.	
+/items/armors/alta/tier5/combat/legwear/ct_combat_legwear.legs	shortdescription	Sona Legarmor ^#2080f0;^reset;	소나 레그아머 ^#2080f0;^reset;	
+/items/armors/alta/tier5/combat/legwear/ct_combat_legwear.legs	description	Warm, armored uniform bottoms usually used by ^#b0e0fc;sona soldiers^reset; and ^#60c0fc;arknightss^reset;.	^#b0e0fc;소나 병사^reset;와 ^#60c0fc;아크나이트^reset;들이 주로 쓰는 따뜻한 장갑 제복 하의.	
+/items/armors/alta/tier5/combat/mask/ct_combat_mask.head	shortdescription	Albino Mask	알비노 마스크	
+/items/armors/alta/tier5/combat/mask/ct_combat_mask.head	description	A mask typically worn by ^#b0e0fc;alta medics^reset;. It provides medical insights and first aid instructions to the wearer.	^#b0e0fc;알타 의무병^reset;들이 주로 쓰는 마스크. 착용자에게 의료 정보와 응급처치 지침을 제공한다.	
+/items/armors/alta/tier5/combat/mask_mk2/ct_combat_mask_mk2.head	shortdescription	Faceless Mask ^#8020f0;^reset;	무면 마스크 ^#8020f0;^reset;	
+/items/armors/alta/tier5/combat/mask_mk2/ct_combat_mask_mk2.head	description	A mask of an unknown alta, presumably a spacedrifter, one of many who used stardust to fuel their artifacts, like this one. Has built-in ^#b0e0fc;breath protection^reset;.	정체불명의 알타, 아마 수많은 스페이스드리프터 중 하나의 마스크. 이 아티팩트처럼 스타더스트로 동력을 얻던 자들이다. 내장형 ^#b0e0fc;호흡 보호^reset; 탑재.	
+/items/armors/alta/tier5/eds/android_back/ct_eds_android_back.back	shortdescription	^#f02020;EDS^reset; Android Defensystem ^#2080f0;^reset;	^#f02020;EDS^reset; 안드로이드 디펜시스템 ^#2080f0;^reset;	
+/items/armors/alta/tier5/eds/android_back/ct_eds_android_back.back	description	A modularized defense system of an advanced ^#f02020;EDS Android Set^reset;.	첨단 ^#f02020;EDS 안드로이드 세트^reset;의 모듈화 방어 시스템.	
+/items/armors/alta/tier5/eds/android_head/ct_eds_android_head.head	shortdescription	^#f02020;EDS^reset; Android Head ^#2080f0;^reset;	^#f02020;EDS^reset; 안드로이드 헤드 ^#2080f0;^reset;	
+/items/armors/alta/tier5/eds/android_head/ct_eds_android_head.head	description	A head of an advanced android prototype for the ^#f02020;EDS Android Set^reset; series.	^#f02020;EDS 안드로이드 세트^reset; 시리즈용 첨단 안드로이드 시제품 헤드.	
+/items/armors/alta/tier5/eds/chest/ct_eds_chest.chest	shortdescription	Thermoarmor ^#20f080;^reset;	테르모아머 ^#20f080;^reset;	
+/items/armors/alta/tier5/eds/chest/ct_eds_chest.chest	description	A power ranger body protection often used by riverside alta scouts.	강변 알타 정찰병들이 즐겨 쓰는 파워레인저용 신체 보호구.	
+/items/armors/alta/tier5/eds/helmet/ct_eds_helmet.head	shortdescription	Thermo Helmet ^#20f080;^reset;	테르모 헬멧 ^#20f080;^reset;	
+/items/armors/alta/tier5/eds/helmet/ct_eds_helmet.head	description	A power ranger helmet often used by riverside alta scouts.	강변 알타 정찰병들이 즐겨 쓰는 파워레인저 헬멧.	
+/items/armors/alta/tier5/eds/helmet_mk2/ct_eds_helmet_mk2.head	shortdescription	^#f02020;EDS^reset; MkII Helmet ^#2080f0;^reset;	^#f02020;EDS^reset; MkII 헬멧 ^#2080f0;^reset;	
+/items/armors/alta/tier5/eds/helmet_mk2/ct_eds_helmet_mk2.head	description	An improved version of the ^#f02020;EDS Helmet^reset; with added energy capabilities.	에너지 성능이 추가된 ^#f02020;EDS 헬멧^reset;의 개량형.	
+/items/armors/alta/tier5/eds/legwear/ct_eds_legwear.legs	shortdescription	Thermoleggings ^#20f080;^reset;	테르모레깅스 ^#20f080;^reset;	
+/items/armors/alta/tier5/eds/legwear/ct_eds_legwear.legs	description	A power ranger legwear often used by riverside alta scouts.	강변 알타 정찰병들이 즐겨 쓰는 파워레인저 하의.	
+/items/armors/alta/tier5/eds/proto_helmet/ct_eds_proto_helmet.head	shortdescription	^#f02020;EDS^reset; Proto Helmet ^#2080f0;^reset;	^#f02020;EDS^reset; 프로토 헬멧 ^#2080f0;^reset;	
+/items/armors/alta/tier5/eds/proto_helmet/ct_eds_proto_helmet.head	description	A heavy ^#f02020;EDS^reset; headwear with enhanced power, protection and breath protection in exchange for energy.	에너지를 대가로 강화된 동력·보호·호흡 보호를 제공하는 중장 ^#f02020;EDS^reset; 두구.	
+/items/armors/alta/tier5/misc/bishyn/helmet/ct_bishyn_helmet.head	shortdescription	Bishyn Helmet ^#2080f0;^reset;	비신 헬멧 ^#2080f0;^reset;	
+/items/armors/alta/tier5/misc/bishyn/helmet/ct_bishyn_helmet.head	description	A helmet powered by poisonous ^#378754;bishyn^reset; crystals.	유독한 ^#378754;비신^reset; 크리스탈로 구동되는 헬멧.	
+/items/armors/alta/tier5/misc/companion/helmet/ct_companion_helmet.head	shortdescription	Companion Helmet	동료 헬멧	
+/items/armors/alta/tier5/misc/companion/helmet/ct_companion_helmet.head	description	A helmet resembling a companion android's head.	동료 안드로이드의 머리를 닮은 헬멧.	
+/items/armors/alta/tier5/misc/industrial/helmet/ct_alta_industrial_helmet.head	shortdescription	Industrial Dura-Helmet	공업용 듀라헬멧	
+/items/armors/alta/tier5/misc/industrial/helmet/ct_alta_industrial_helmet.head	description	This helmet provides full protection from ^#80f020;poison^reset; and ^#f08020;fire^reset; hazards of industrial environment.	공업 환경의 ^#80f020;독^reset;과 ^#f08020;화염^reset; 위험으로부터 완전한 보호를 제공하는 헬멧.	
+/items/armors/alta/tier5/misc/sona/helmet/ct_sona_helmet.head	shortdescription	Sona Soldier Helmet	소나 병사 헬멧	
+/items/armors/alta/tier5/misc/sona/helmet/ct_sona_helmet.head	description	A camouflaged full helmet that provides clear vision in snowy environments.	설원 환경에서 또렷한 시야를 제공하는 위장 전면 헬멧.	
+/items/armors/alta/tier6/alternia/epp/ct_alternia_epp.back	shortdescription	^#2080f0;Alter^reset;-EPP	^#2080f0;알터^reset;-EPP	
+/items/armors/alta/tier6/alternia/epp/ct_alternia_epp.back	description	"An EPP with an augment slot. Adds 20% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#2080f0;Plasma Immunity^reset;.  
+^#838383;Starburst Rework^reset;^gray;: ^reset;^#7733aa;Mild Static^reset;^gray; immunity.^reset;"	"증강 슬롯이 달린 EPP. ^#7733aa;전기 저항^reset; 20%와 ^#7733aa;전기 면역^reset;, ^#2080f0;플라스마 면역^reset;을 추가한다.  
+^#838383;스타버스트 재작업^reset;^gray;: ^reset;^#7733aa;온화한 정전기^reset;^gray; 면역.^reset;"	
+/items/armors/alta/tier6/ceterai/android_head/ct_ceterai_android_head.head	shortdescription	^#2080f0;C.T.^reset; Android Head ^#8020f0;^reset;	^#2080f0;C.T.^reset; 안드로이드 헤드 ^#8020f0;^reset;	
+/items/armors/alta/tier6/ceterai/android_head/ct_ceterai_android_head.head	description	A head of a heavy android prototype for the ^#2080f0;C.T. Android Set^reset; series.	^#2080f0;C.T. 안드로이드 세트^reset; 시리즈용 중장 안드로이드 시제품 헤드.	
+/items/armors/alta/tier6/ceterai/chest/ct_ceterai_chest.chest	shortdescription	^#2080f0;C.T.^reset; Suit	^#2080f0;C.T.^reset; 슈트	
+/items/armors/alta/tier6/ceterai/chest/ct_ceterai_chest.chest	description	Provides enhanced energy flow in exchange for protection.	보호력을 대가로 강화된 에너지 흐름을 제공한다.	
+/items/armors/alta/tier6/ceterai/core/ct_ceterai_core.back	shortdescription	^#2080f0;C.T.^reset; Energy Core	^#2080f0;C.T.^reset; 에너지 코어	
+/items/armors/alta/tier6/ceterai/core/ct_ceterai_core.back	description	This back part of the ^#2080f0;C.T. Set^reset; generates additional energy for the wearer. Has an augment slot.	^#2080f0;C.T. 세트^reset;의 등 부품으로, 착용자에게 추가 에너지를 생성한다. 증강 슬롯 탑재.	
+/items/armors/alta/tier6/ceterai/helmet/ct_ceterai_helmet.head	shortdescription	Space Helmet	우주 헬멧	
+/items/armors/alta/tier6/ceterai/helmet/ct_ceterai_helmet.head	description	A piece of equipment worn by alta researchers and workers in ^#6f6c66;Astera Ordis^reset;. Can sometimes be found on a spacedrifter as well.	^#6f6c66;아스테라 오르디스^reset;의 알타 연구자와 노동자들이 쓰는 장비. 가끔 스페이스드리프터에게서도 발견된다.	
+/items/armors/alta/tier6/ceterai/legwear/ct_ceterai_legwear.legs	shortdescription	^#2080f0;C.T.^reset; Walkers	^#2080f0;C.T.^reset; 워커	
+/items/armors/alta/tier6/ceterai/legwear/ct_ceterai_legwear.legs	description	This alternia-enhanced legwear provides additional energy to its wearer.	알테르니아로 강화된 이 하의는 착용자에게 추가 에너지를 제공한다.	
+/items/armors/alta/tier6/ceterai/mindframe/ct_ceterai_mindframe.head	shortdescription	^#2080f0;C.T.^reset; Mindframe ^#8020f0;^reset;	^#2080f0;C.T.^reset; 마인드프레임 ^#8020f0;^reset;	
+/items/armors/alta/tier6/ceterai/mindframe/ct_ceterai_mindframe.head	description	A misterious device, that you can put on your head. What is its purpose? The label on the side reads 'Mark II'. Has built-in ^#b0e0fc;breath protection^reset;.	머리에 쓸 수 있는 수수께끼의 장치. 용도는 뭘까? 측면 라벨에는 'MkII'라고 적혀 있다. 내장형 ^#b0e0fc;호흡 보호^reset; 탑재.	
+/items/armors/alta/tier6/ceternia/epp/ct_ceternia_epp.back	shortdescription	^#20f080;Ceter^reset;-EPP	^#20f080;세터^reset;-EPP	
+/items/armors/alta/tier6/ceternia/epp/ct_ceternia_epp.back	description	An EPP with an augment slot. Adds 25% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#20f080;Impulse Immunity^reset;.	증강 슬롯이 달린 EPP. ^#7733aa;전기 저항^reset; 25%와 ^#7733aa;전기 면역^reset;, ^#20f080;임펄스 면역^reset;을 추가한다.	
+/items/armors/alta/tier6/dreamer/android_head/ct_dreamer_android_head.head	shortdescription	Dreamer Android Head ^#8020f0;^reset;	드리머 안드로이드 헤드 ^#8020f0;^reset;	
+/items/armors/alta/tier6/dreamer/android_head/ct_dreamer_android_head.head	description	A head of a heavy android prototype for the ^#8020f0;Dreamer Android Set^reset; series.	^#8020f0;드리머 안드로이드 세트^reset; 시리즈용 중장 안드로이드 시제품 헤드.	
+/items/armors/alta/tier6/dreamer/chest/ct_dreamer_chest.chest	shortdescription	Dreamer's Plating	드리머의 장갑판	
+/items/armors/alta/tier6/dreamer/chest/ct_dreamer_chest.chest	description	Will protect you with ^#8020f0;ionic^reset; bursts whenever you receive damage.	피해를 받을 때마다 ^#8020f0;이온^reset; 폭발로 너를 지켜준다.	
+/items/armors/alta/tier6/dreamer/enhancer/ct_dreamer_enhancer.back	shortdescription	Thermo Thrusters ^#20f080;^reset;	테르모 추진기 ^#20f080;^reset;	
+/items/armors/alta/tier6/dreamer/enhancer/ct_dreamer_enhancer.back	description	These camo-painted backthrusters blend in perfectly with koywa fields! Almost perfectly. Often used by riverside scouts.	위장 도색된 이 등추진기는 코이와 들판에 완벽하게 어우러진다! 거의 완벽하게. 강변 정찰병들이 자주 쓴다.	
+/items/armors/alta/tier6/dreamer/helmet/ct_dreamer_helmet.head	shortdescription	Sunset Heart	석양의 심장	
+/items/armors/alta/tier6/dreamer/helmet/ct_dreamer_helmet.head	description	Some fashionable altas like to wear this stylish safety helmet when riding scouting and traveling hoverbikes, and so can you!	유행을 좋아하는 알타들이 정찰·여행용 호버바이크를 탈 때 즐겨 쓰는 멋진 안전 헬멧. 너도 쓸 수 있다!	
+/items/armors/alta/tier6/dreamer/legwear/ct_dreamer_legwear.legs	shortdescription	Dreamer's Footwear	드리머의 신발	
+/items/armors/alta/tier6/dreamer/legwear/ct_dreamer_legwear.legs	description	This energy legwear refills your energy when you loose your health.	이 에너지 하의는 체력을 잃을 때마다 에너지를 채워준다.	
+/items/armors/alta/tier6/elite/android_head/ct_elite_android_head.head	shortdescription	^#20f080;Elite^reset; Android Head ^#8020f0;^reset;	^#20f080;엘리트^reset; 안드로이드 헤드 ^#8020f0;^reset;	
+/items/armors/alta/tier6/elite/android_head/ct_elite_android_head.head	description	A head of a heavy android prototype for the ^#20f080;Elite Android Set^reset; series.	^#20f080;엘리트 안드로이드 세트^reset; 시리즈용 중장 안드로이드 시제품 헤드.	
+/items/armors/alta/tier6/elite/chest/ct_elite_chest.chest	shortdescription	Alta Lab Guard Armor	알타 연구소 경비 갑옷	
+/items/armors/alta/tier6/elite/chest/ct_elite_chest.chest	description	A piece of equipment worn by ^#b0e0fc;alta lab guards^reset; in most ^#b0e0fc;alta laboratories^reset;.	대부분의 ^#b0e0fc;알타 연구소^reset;에서 ^#b0e0fc;알타 연구소 경비^reset;가 착용하는 장비.	
+/items/armors/alta/tier6/elite/generator/ct_elite_generator.back	shortdescription	Imperial Generator ^#8020f0;^reset;	임페리얼 제너레이터 ^#8020f0;^reset;	
+/items/armors/alta/tier6/elite/generator/ct_elite_generator.back	description	Worn by ^#b0e0fc;elite guards^reset; protecting different ^#b0e0fc;alta capitals^reset; around Io.	이오 곳곳의 ^#b0e0fc;알타 수도^reset;를 지키는 ^#b0e0fc;정예 경비^reset;가 착용한다.	
+/items/armors/alta/tier6/elite/helmet/ct_elite_helmet.head	shortdescription	Imperial Guard Helmet	임페리얼 가드 헬멧	
+/items/armors/alta/tier6/elite/helmet/ct_elite_helmet.head	description	Worn by ^#b0e0fc;elite guards^reset; protecting different ^#b0e0fc;alta capitals^reset; around Io.	이오 곳곳의 ^#b0e0fc;알타 수도^reset;를 지키는 ^#b0e0fc;정예 경비^reset;가 착용한다.	
+/items/armors/alta/tier6/elite/legwear/ct_elite_legwear.legs	shortdescription	Imperial Greaves	임페리얼 그리브	
+/items/armors/alta/tier6/elite/legwear/ct_elite_legwear.legs	description	Worn by ^#b0e0fc;elite guards^reset; protecting different ^#b0e0fc;alta capitals^reset; around Io.	이오 곳곳의 ^#b0e0fc;알타 수도^reset;를 지키는 ^#b0e0fc;정예 경비^reset;가 착용한다.	
+/items/armors/alta/tier6/elite/protector/ct_elite_protector.back	shortdescription	^#20f080;Elite^reset; Protector	^#20f080;엘리트^reset; 프로텍터	
+/items/armors/alta/tier6/elite/protector/ct_elite_protector.back	description	Automatically applies a static shield whenever HP is down to 20%. Provides a life support system. Has an augment slot.	HP가 20%로 떨어질 때마다 자동으로 정전기 실드를 건다. 생명유지 시스템 제공. 증강 슬롯 탑재.	
+/items/armors/alta/tier6/enternia/epp/ct_enternia_epp.back	shortdescription	^#8020f0;Enter^reset;-EPP	^#8020f0;엔터^reset;-EPP	
+/items/armors/alta/tier6/enternia/epp/ct_enternia_epp.back	description	"An EPP with an augment slot. Adds 18% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#8020f0;Ionic Immunity^reset;.  
+^#838383;Starburst Rework^reset;^gray;: ^reset;^#7733aa;Deadly Static^reset;^gray; immunity.^reset;"	"증강 슬롯이 달린 EPP. ^#7733aa;전기 저항^reset; 18%와 ^#7733aa;전기 면역^reset;, ^#8020f0;이온 면역^reset;을 추가한다.  
+^#838383;스타버스트 재작업^reset;^gray;: ^reset;^#7733aa;치명적 정전기^reset;^gray; 면역.^reset;"	
+/items/armors/alta/tier6/ghearun/back/ct_ghearun_back.back	shortdescription	Ghearun M1 Forcefield	기어런 M1 포스필드	
+/items/armors/alta/tier6/ghearun/back/ct_ghearun_back.back	description	Automatically applies a rechargable shield. Provides enviro protection. Has an augment slot. Runs on ^#a7e001;gheatsyn^reset;.	자동으로 재충전 실드를 건다. 환경 보호 제공. 증강 슬롯 탑재. ^#a7e001;기트신^reset;으로 구동된다.	
+/items/armors/alta/tier6/ghearun/chest/ct_ghearun_chest.chest	shortdescription	Ghearun M1 Chest	기어런 M1 흉갑	
+/items/armors/alta/tier6/ghearun/chest/ct_ghearun_chest.chest	description	An armored suit with an exosceleton that runs on ^#a7e001;gheatsyn^reset; and provides power improvements.	^#a7e001;기트신^reset;으로 구동되어 동력 향상을 제공하는 외골격 장갑 슈트.	
+/items/armors/alta/tier6/ghearun/helmet/ct_ghearun_helmet.head	shortdescription	Ghearun M1 Helm	기어런 M1 헬름	
+/items/armors/alta/tier6/ghearun/helmet/ct_ghearun_helmet.head	description	A full helmet with additional visors. ^#a7e001;Ghearun^reset; suits are often worn by certain ^#b0e0fc;alta^reset; research groups. Runs on ^#a7e001;gheatsyn^reset;. Has built-in ^#b0e0fc;breath protection^reset;.	추가 바이저가 달린 전면 헬멧. ^#a7e001;기어런^reset; 슈트는 특정 ^#b0e0fc;알타^reset; 연구 단체가 즐겨 입는다. ^#a7e001;기트신^reset;으로 구동된다. 내장형 ^#b0e0fc;호흡 보호^reset; 탑재.	
+/items/armors/alta/tier6/ghearun/legwear/ct_ghearun_legwear.legs	shortdescription	Ghearun M1 Greaves	기어런 M1 그리브	
+/items/armors/alta/tier6/ghearun/legwear/ct_ghearun_legwear.legs	description	Exoskeleton pipes on these greaves increase overall mobility of the suit. Run on ^a7e001;gheatsyn^reset;.	이 각반의 외골격 관이 슈트의 전체 기동성을 높인다. ^a7e001;기트신^reset;으로 구동된다.	
+/items/armors/alta/tier6/stardust_epp/ct_alta_stardust_epp.back	shortdescription	Ceterai's Stardust EPP	세테라이의 스타더스트 EPP	
+/items/armors/alta/tier6/stardust_epp/ct_alta_stardust_epp.back	description	Electric, Enternia and Void status immunity. +20% electric resistance. Made by Ceterai to safely travel to stardust planets.	전기, 에터니아, 공허 상태 면역. 전기 저항 +20%. 스타더스트 행성으로 안전하게 여행할 수 있도록 세테라이가 제작했다.	
+/items/armors/misc/ct_invisible/back/ct_alta_no_back.back	shortdescription	Invisible Backpack	투명 배낭	
+/items/armors/misc/ct_invisible/back/ct_alta_no_back.back	description	Where did you go?!	어디 갔어?!	
+/items/armors/misc/ct_invisible/chest/ct_alta_no_body.chest	shortdescription	Invisible Shirt	투명 셔츠	reuse
+/items/armors/misc/ct_invisible/chest/ct_alta_no_body.chest	description	Where did you go?!	어디 갔어?!	
+/items/armors/misc/ct_invisible/head/ct_alta_no_head.head	shortdescription	Invisible Mask	투명 마스크	
+/items/armors/misc/ct_invisible/head/ct_alta_no_head.head	description	Where did you go?!	어디 갔어?!	
+/items/armors/misc/ct_invisible/legs/ct_alta_no_legs.legs	shortdescription	Invisible Skirt	투명 스커트	
+/items/armors/misc/ct_invisible/legs/ct_alta_no_legs.legs	description	Where did you go?!	어디 갔어?!	
+/items/armors/misc/ct_misc_crystal_pillar_hat/ct_misc_crystal_pillar_hat.head	shortdescription	Crystal Pillar Hat	크리스탈 기둥 모자	
+/items/armors/misc/ct_misc_crystal_pillar_hat/ct_misc_crystal_pillar_hat.head	description	A bright blue crystal that you can put on your head.	머리에 올려놓을 수 있는 밝은 푸른색 크리스탈.	
+/items/armors/misc/ct_misc_deprecation_device/ct_misc_deprecation_device.back	shortdescription	Deprecation Device	폐기 장치	
+/items/armors/misc/ct_misc_deprecation_device/ct_misc_deprecation_device.back	description	Please accept this small gift for all that you've lost.	잃어버린 모든 것에 대한 작은 선물을 받아주길.	
+/items/armors/misc/ct_misc_deprecation_horns/ct_misc_deprecation_horns.head	shortdescription	Deprecation Horns	폐기 뿔	
+/items/armors/misc/ct_misc_deprecation_horns/ct_misc_deprecation_horns.head	description	A chaotic wig with horns and crystals. No one likes losing things.	뿔과 크리스탈이 달린 혼돈스러운 가발. 물건을 잃어서 좋아할 사람은 없다.	
+/items/armors/my_enternia/trophies/crippit_head/ct_crippit.head	shortdescription	Crippihead	크리피헤드	
+/items/armors/my_enternia/trophies/crippit_head/ct_crippit.head	description	A set of mysterious eyes hiding underneath a moonrock.	달바위 아래에 숨은 수수께끼의 눈들.	
+/items/armors/my_enternia/trophies/impulse_bobfae_head/ct_impulse_bobfae.head	shortdescription	Impulse Bobmask	임펄스 밥마스크	
+/items/armors/my_enternia/trophies/impulse_bobfae_head/ct_impulse_bobfae.head	description	A fairly sturdy mask with a green visor embedded in it. Smells like flowers.	녹색 바이저가 박힌 꽤 튼튼한 마스크. 꽃 냄새가 난다.	
+/items/augments/back/ct_alternia_augment.augment	shortdescription	^#2080f0;Alternia^reset; Augment ^#8020f0;^reset;	^#2080f0;알테르니아^reset; 증강 ^#8020f0;^reset;	
+/items/augments/back/ct_alternia_augment.augment	description	"^#2080f0;Alter-EPP^reset;, condensed into an augment.
+Adds 20% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#2080f0;Plasma Immunity^reset;.  
+^gray;Starburst Rework: ^reset;^#7733aa;Mild Static^reset;^gray; immunity.^reset;"	"^#2080f0;알터-EPP^reset;를 증강으로 압축했다.
+^#7733aa;전기 저항^reset; 20%와 ^#7733aa;전기 면역^reset;, ^#2080f0;플라스마 면역^reset;을 추가한다.  
+^gray;스타버스트 재작업: ^reset;^#7733aa;온화한 정전기^reset;^gray; 면역.^reset;"	
+/items/augments/back/ct_arco_augment.augment	shortdescription	Enviro Augment	엔바이로 증강	
+/items/augments/back/ct_arco_augment.augment	description	An EPP module that slightly boosts your ^#f08020;fire^reset; and ^#80f020;poison^reset; resistance by 15%.	^#f08020;화염^reset;과 ^#80f020;독^reset; 저항을 15% 올려주는 EPP 모듈.	
+/items/augments/back/ct_arco_blockade_augment.augment	shortdescription	Enviroblockade Augment ^#2080f0;^reset;	엔바이로블록케이드 증강 ^#2080f0;^reset;	
+/items/augments/back/ct_arco_blockade_augment.augment	description	An EPP module that boosts your ^#7733aa;electric resistance^reset; by 15% and gives ^#7733aa;Electric Immunity^reset;.	^#7733aa;전기 저항^reset;을 15% 올리고 ^#7733aa;전기 면역^reset;을 주는 EPP 모듈.	
+/items/augments/back/ct_astera_augment.augment	shortdescription	Astera Augment	아스테라 증강	
+/items/augments/back/ct_astera_augment.augment	description	An ^#6f6c66;Astera^reset; EPP module that gives you additional protection.	추가 보호를 제공하는 ^#6f6c66;아스테라^reset; EPP 모듈.	
+/items/augments/back/ct_bionid_augment.augment	shortdescription	Bionid Augment	바이오니드 증강	
+/items/augments/back/ct_bionid_augment.augment	description	This luminous EPP module gives you electric protection and makes you highly illuminated.	전기 보호를 주고 너를 밝게 빛나게 해주는 빛나는 EPP 모듈.	
+/items/augments/back/ct_bishyn_augment.augment	shortdescription	Bishyn Augment ^#2080f0;^reset;	비신 증강 ^#2080f0;^reset;	
+/items/augments/back/ct_bishyn_augment.augment	description	An EPP module infused with charged poisonous crystals. Increases swimming speed and adds ^#80f020;poison^reset; resistance.	충전된 유독 크리스탈이 주입된 EPP 모듈. 수영 속도를 높이고 ^#80f020;독^reset; 저항을 추가한다.	
+/items/augments/back/ct_ceterai_augment.augment	shortdescription	^#2080f0;C.T.^reset; Augment ^#8020f0;^reset;	^#2080f0;C.T.^reset; 증강 ^#8020f0;^reset;	
+/items/augments/back/ct_ceterai_augment.augment	description	An EPP module that adds ^#2080f0;Sensitive Electronics^reset; and ^#2080f0;Force Field Autoshielder^reset;.	^#2080f0;민감 전자 장치^reset;와 ^#2080f0;역장 자동 차폐기^reset;를 추가하는 EPP 모듈.	
+/items/augments/back/ct_ceternia_augment.augment	shortdescription	^#20f080;Ceternia^reset; Augment ^#8020f0;^reset;	^#20f080;세터니아^reset; 증강 ^#8020f0;^reset;	
+/items/augments/back/ct_ceternia_augment.augment	description	"^#20f080;Ceter-EPP^reset;, condensed into an augment.
+Adds 25% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#20f080;Impulse Immunity^reset;."	"^#20f080;세터-EPP^reset;를 증강으로 압축했다.
+^#7733aa;전기 저항^reset; 25%와 ^#7733aa;전기 면역^reset;, ^#20f080;임펄스 면역^reset;을 추가한다."	
+/items/augments/back/ct_combat_augment.augment	shortdescription	Combat Augment	전투 증강	
+/items/augments/back/ct_combat_augment.augment	description	An EPP module that slightly boosts your power and movement speed.	동력과 이동 속도를 살짝 올려주는 EPP 모듈.	
+/items/augments/back/ct_combat_power_augment.augment	shortdescription	Combat Power Augment ^#2080f0;^reset;	전투 동력 증강 ^#2080f0;^reset;	
+/items/augments/back/ct_combat_power_augment.augment	description	An EPP module that slightly boosts your power and overall mobility.	동력과 전반적인 기동성을 살짝 올려주는 EPP 모듈.	
+/items/augments/back/ct_dreamer_augment.augment	shortdescription	Dreamer's Augment ^#8020f0;^reset;	드리머의 증강 ^#8020f0;^reset;	
+/items/augments/back/ct_dreamer_augment.augment	description	An EPP module that adds ^#8020f0;Ionic Clouds^reset; and ^#2080f0;Autoprotection^reset;.	^#8020f0;이온 구름^reset;과 ^#2080f0;자동 보호^reset;를 추가하는 EPP 모듈.	
+/items/augments/back/ct_eds_aimbot_augment.augment	shortdescription	^#f02020;EDS^reset; Aimbot Augment ^#2080f0;^reset;	^#f02020;EDS^reset; 에임봇 증강 ^#2080f0;^reset;	
+/items/augments/back/ct_eds_aimbot_augment.augment	description	An EPP module that slightly boosts your physical and electric protection.	물리·전기 보호를 살짝 올려주는 EPP 모듈.	
+/items/augments/back/ct_eds_augment.augment	shortdescription	^#f02020;EDS^reset; Augment	^#f02020;EDS^reset; 증강	
+/items/augments/back/ct_eds_augment.augment	description	An EPP module that slightly boosts your physical and electric protection.	물리·전기 보호를 살짝 올려주는 EPP 모듈.	
+/items/augments/back/ct_elite_augment.augment	shortdescription	^#20f080;Elite^reset; Augment ^#8020f0;^reset;	^#20f080;엘리트^reset; 증강 ^#8020f0;^reset;	
+/items/augments/back/ct_elite_augment.augment	description	An EPP module that adds ^#20f080;Autorepeller^reset; and ^#2080f0;Emergency Healer^reset;.	^#20f080;자동 반발기^reset;와 ^#2080f0;응급 치유기^reset;를 추가하는 EPP 모듈.	
+/items/augments/back/ct_enternia_augment.augment	shortdescription	^#8020f0;Enternia^reset; Augment ^#8020f0;^reset;	^#8020f0;에터니아^reset; 증강 ^#8020f0;^reset;	
+/items/augments/back/ct_enternia_augment.augment	description	"^#8020f0;Enter-EPP^reset;, condensed into an augment.
+Adds 18% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#8020f0;Ionic Immunity^reset;.  
+^gray;Starburst Rework: ^reset;^#7733aa;Deadly Static^reset;^gray; immunity.^reset;"	"^#8020f0;엔터-EPP^reset;를 증강으로 압축했다.
+^#7733aa;전기 저항^reset; 18%와 ^#7733aa;전기 면역^reset;, ^#8020f0;이온 면역^reset;을 추가한다.  
+^gray;스타버스트 재작업: ^reset;^#7733aa;치명적 정전기^reset;^gray; 면역.^reset;"	
+/items/augments/back/ct_hevika_augment.augment	shortdescription	Hevika Augment ^#2080f0;^reset;	헤비카 증강 ^#2080f0;^reset;	
+/items/augments/back/ct_hevika_augment.augment	description	An EPP module that gives ^#0050c0;Hevikai Status Immunity^reset; and adds ^#0050c0;Overcharged Crystals^reset;.	^#0050c0;헤비카이 상태 면역^reset;을 주고 ^#0050c0;과충전 크리스탈^reset;을 추가하는 EPP 모듈.	
+/items/augments/back/ct_impulse_augment.augment	shortdescription	Impulse Augment ^#2080f0;^reset;	임펄스 증강 ^#2080f0;^reset;	
+/items/augments/back/ct_impulse_augment.augment	description	An EPP module that makes you periodically burst with ionic clouds.	주기적으로 이온 구름을 폭발시키는 EPP 모듈.	
+/items/augments/back/ct_ion_core_augment.augment	shortdescription	Ioncore Augment ^#2080f0;^reset;	이온코어 증강 ^#2080f0;^reset;	
+/items/augments/back/ct_ion_core_augment.augment	description	This ^#4f4c46;obsidian^reset; EPP module fills you with ^#20f080;Overcharged Crystals^reset; and makes you burst with ^#8020f0;Ionic Clouds^reset;.	^#4f4c46;흑요석^reset; EPP 모듈로, ^#20f080;과충전 크리스탈^reset;로 너를 채우고 ^#8020f0;이온 구름^reset;을 폭발시킨다.	
+/items/augments/back/ct_ionic_augment.augment	shortdescription	Ionic Augment ^#2080f0;^reset;	이온 증강 ^#2080f0;^reset;	
+/items/augments/back/ct_ionic_augment.augment	description	An EPP module that makes you periodically burst with ionic clouds.	주기적으로 이온 구름을 폭발시키는 EPP 모듈.	
+/items/augments/back/ct_phospholion_augment.augment	shortdescription	Phospholion Augment	포스폴리온 증강	
+/items/augments/back/ct_phospholion_augment.augment	description	This mildly irradiated EPP module gives fire protection and makes you glow.	약하게 방사성을 띤 이 EPP 모듈은 화염 보호를 주고 너를 빛나게 해준다.	
+/items/augments/back/ct_plasma_augment.augment	shortdescription	Plasma Augment ^#2080f0;^reset;	플라스마 증강 ^#2080f0;^reset;	
+/items/augments/back/ct_plasma_augment.augment	description	An EPP module that makes you periodically burst with plasma.	주기적으로 플라스마를 폭발시키는 EPP 모듈.	
+/items/augments/back/ct_warped_augment.augment	shortdescription	Warped Augment ^#20f080;^reset;	뒤틀린 증강 ^#20f080;^reset;	
+/items/augments/back/ct_warped_augment.augment	description	This mutated EPP module gives you ^#80f020;poison^reset; protection and makes you burst with ^#9b2d3f;warped^reset; ^#80f020;Poison Clouds^reset;.	^#80f020;독^reset; 보호를 주고 주기적으로 ^#9b2d3f;뒤틀린^reset; ^#80f020;독 구름^reset;을 폭발시키는 돌연변이 EPP 모듈.	
+/items/augments/pet/ct_accumulator_collar.augment	shortdescription	Accumulator Collar	축전 목걸이	
+/items/augments/pet/ct_accumulator_collar.augment	description	A collar that makes your pet immune to electric effects and repel enemies with energy waves when attacked. Made from ^#a7e001;gheatsyn^reset;.	애완동물을 전기 효과에 면역으로 만들고 공격받을 때 에너지 파로 적을 튕겨내는 목걸이. ^#a7e001;기트신^reset;으로 만들었다.	
+/items/augments/pet/ct_aric_collar.augment	shortdescription	Toxic Spores Collar ^#2080f0;^reset;	독 포자 목걸이 ^#2080f0;^reset;	
+/items/augments/pet/ct_aric_collar.augment	description	An ^#3baf2f;aric^reset; collar that causes your pet to periodically spray ^#80f020;Poison Clouds^reset; around it and gives it ^#80f020;poison^reset; protection.	^#3baf2f;아릭^reset; 목걸이로, 애완동물이 주기적으로 주위에 ^#80f020;독 구름^reset;을 뿜게 하고 ^#80f020;독^reset; 보호를 준다.	
+/items/augments/pet/ct_eva_collar.augment	shortdescription	Evarus Collar	에바루스 목걸이	
+/items/augments/pet/ct_eva_collar.augment	description	A collar that makes your pet immune to ^#8020f0;Enternia^reset; effects.	애완동물을 ^#8020f0;에터니아^reset; 효과에 면역으로 만드는 목걸이.	
+/items/augments/pet/ct_mindframe_collar.augment	shortdescription	Mindframe Collar	마인드프레임 목걸이	
+/items/augments/pet/ct_mindframe_collar.augment	description	A collar that causes your pet to damage nearby enemies with electricity and protects it with a force shield when low on health.	애완동물이 전기로 주변 적에게 피해를 입히게 하고 체력이 낮을 때 역장 실드로 보호하는 목걸이.	
+/items/augments/pet/ct_warped_collar.augment	shortdescription	Poison Cloud Collar	독 구름 목걸이	
+/items/augments/pet/ct_warped_collar.augment	description	A collar that causes your pet to periodically spray poison clouds around it.	애완동물이 주기적으로 주위에 독 구름을 뿜게 하는 목걸이.	
+/items/augments/pet/ct_yaara_collar.augment	shortdescription	Conscious Collar	의식 목걸이	
+/items/augments/pet/ct_yaara_collar.augment	description	A collar that boosts your pet's ^#7733aa;electric resistance^reset; by 15% and gives it ^#7733aa;Electric Immunity^reset;.	애완동물의 ^#7733aa;전기 저항^reset;을 15% 올리고 ^#7733aa;전기 면역^reset;을 주는 목걸이.	
+/items/buildscripts/ct_mimics/back.back	shortdescription	Alta Antennas	알타 안테나	
+/items/buildscripts/ct_mimics/back.back	description	A set of protected hitech appendages with an unclear purpose.	용도를 알 수 없는 보호된 첨단 부속지 한 벌.	
+/items/buildscripts/ct_mimics/body.chest	shortdescription	Archiver Top	기록관 상의	
+/items/buildscripts/ct_mimics/body.chest	description	A top half of a scientific coat used by alta archivers. Has lots of pockets for storing all the science goods!	알타 기록관들이 쓰는 과학 코트의 윗부분. 온갖 과학 물품을 넣을 주머니가 잔뜩 달렸다!	
+/items/buildscripts/ct_mimics/head.head	shortdescription	Stardust Hood	스타더스트 후드	
+/items/buildscripts/ct_mimics/head.head	description	This magical hood is glittering with stardust colors!	스타더스트 빛으로 반짝이는 마법의 후드!	
+/items/buildscripts/ct_mimics/legs.legs	shortdescription	Archiver Bottom	기록관 하의	
+/items/buildscripts/ct_mimics/legs.legs	description	A bottom half of a scientific coat used by alta archivers. Has lots of pockets for storing all the science goods!	알타 기록관들이 쓰는 과학 코트의 아랫부분. 온갖 과학 물품을 넣을 주머니가 잔뜩 달렸다!	
+/items/buildscripts/ct_mimics/proj.thrownitem	shortdescription	Alta Kinetic Javelin	알타 운동 투창	
+/items/buildscripts/ct_mimics/proj.thrownitem	description	A simple toy dart that you can throw at a target. Or horibly miss it instead, whatever.	표적에 던질 수 있는 단순한 장난감 다트. 아니면 그냥 엉망으로 빗나가든가, 뭐든.	
+/items/generic/dyes/alta/ct_alta_dye.augment	shortdescription	Alta Dye	알타 염료	
+/items/generic/dyes/alta/ct_alta_dye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/alta/ct_bion_dye.augment	shortdescription	Bion Dye	바이온 염료	
+/items/generic/dyes/alta/ct_bion_dye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/alta/ct_eds_dye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/dyes/alta/ct_titanium_dye.augment	shortdescription	Titanium Dye	티타늄 염료	
+/items/generic/dyes/alta/ct_titanium_dye.augment	description	This coloured dye can be applied to a piece of armour or clothing with a right-click.	이 색 염료는 갑옷이나 옷에 우클릭으로 바를 수 있다.	reuse
+/items/generic/food/events/jinxies/ct_jinxies_nade.thrownitem	shortdescription	Sweet Surprise	달콤한 서프라이즈	
+/items/generic/food/events/jinxies/ct_jinxies_nade.thrownitem	description	An innocent-looking candy that totally won't explode. Definitely food. Trust us. ^#f02080;«^reset;	"절대 폭발하지 않을 것 같은 순진한 사탕. 분명 음식이다. 믿어줘. ^#f02080;""^reset;"	
+/items/generic/food/other/WIP/ct_alliana_cake_slice.consumable	description	Runeva alta cuisine. The empress loves and cares for you! Though this cake can't express it fully, this time it got very close.	루네바 알타 요리. 여제가 너를 사랑하고 아낀다! 이 케이크가 그걸 다 표현하진 못해도 이번엔 아주 가까이 갔다.	
+/items/generic/food/other/WIP/ct_alliana_cake_slice.consumable	shortdescription	Alliana's Love ^#8020f0;^reset;	알리아나의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_allie_cake.consumable	description	Runeva alta cuisine. The empress loves and cares for you! Though this cake can't express it fully, this time it got very close.	루네바 알타 요리. 여제가 너를 사랑하고 아낀다! 이 케이크가 그걸 다 표현하진 못해도 이번엔 아주 가까이 갔다.	
+/items/generic/food/other/WIP/ct_allie_cake.consumable	shortdescription	Alliana's Love ^#8020f0;^reset;	알리아나의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_crystal_cake_slice.consumable	description	Calin alta cuisine. The mother of stars looks at you with love through the crystal specs in this masterpiece of a cake.	칼린 알타 요리. 별들의 어머니가 이 걸작 케이크 속 크리스탈 알갱이들을 통해 사랑의 눈으로 너를 바라본다.	
+/items/generic/food/other/WIP/ct_crystal_cake_slice.consumable	shortdescription	Celestia's Love ^#8020f0;^reset;	셀레스티아의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_fortune_flower.consumable	description	Yava alta cuisine. A bouquet of flavors on a plate. These palopias turned out better than ever! Check the fortune afterwards!	야바 알타 요리. 접시 위의 풍미 꽃다발. 이 팔로피아는 그 어느 때보다 잘 구워졌다! 먹고 나서 운세를 확인해 봐!	
+/items/generic/food/other/WIP/ct_fortune_flower.consumable	shortdescription	Blooming Palopias ^#8020f0;^reset;	만개한 팔로피아스 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_ion_cake_slice.consumable	description	Nia alta cuisine. This well-made ion caked is beyond all praises! Surely it deserves the Al'deron's commander name next to it.	니아 알타 요리. 이 정성 들인 이온 케이크는 어떤 칭찬에도 뒤지지 않는다! 알데론 사령관의 이름을 곁들일 자격이 분명하다.	
+/items/generic/food/other/WIP/ct_ion_cake_slice.consumable	shortdescription	Mira's Love ^#8020f0;^reset;	미라의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_onitti_cake_slice.consumable	description	Yava alta cuisine. Multiple layers of pure love and care for all altas in existence. It melts your heart with essence of love.	야바 알타 요리. 존재하는 모든 알타를 위한 순수한 사랑과 정성의 겹겹이 층. 사랑의 정수로 네 마음을 녹인다.	
+/items/generic/food/other/WIP/ct_onitti_cake_slice.consumable	shortdescription	Elin's Love ^#8020f0;^reset;	엘린의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_pavolda_cake_slice.consumable	description	Calin alta cuisine. The mother of stars looks at you with love through the crystal specs in this masterpiece of a cake.	칼린 알타 요리. 별들의 어머니가 이 걸작 케이크 속 크리스탈 알갱이들을 통해 사랑의 눈으로 너를 바라본다.	
+/items/generic/food/other/WIP/ct_pavolda_cake_slice.consumable	shortdescription	Celestia's Love ^#8020f0;^reset;	셀레스티아의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_special_mimosa_slice.consumable	description	Runeva alta cuisine. A very special mimosa that tastes exactly like that one time! That one time...	루네바 알타 요리. 그때 그 맛이랑 똑같은 아주 특별한 미모사! 그때 그 맛...	
+/items/generic/food/other/WIP/ct_special_mimosa_slice.consumable	shortdescription	Lenn's Mimosa ^#8020f0;^reset;	렌의 미모사 ^#8020f0;^reset;	
+/items/generic/food/other/WIP/ct_trans_cake_slice.consumable	description	Runeva alta cuisine. The empress loves and cares for you! Though this cake can't express it fully, this time it got very close.	루네바 알타 요리. 여제가 너를 사랑하고 아낀다! 이 케이크가 그걸 다 표현하진 못해도 이번엔 아주 가까이 갔다.	
+/items/generic/food/other/WIP/ct_trans_cake_slice.consumable	shortdescription	Alliana's Love ^#8020f0;^reset;	알리아나의 사랑 ^#8020f0;^reset;	reuse
+/items/generic/food/other/WIP/ct_warped_apple.consumable	description	Calin alta cuisine. An extra-warpy drink that will warp your perception of drinks as a concept.	칼린 알타 요리. 음료라는 개념 자체에 대한 네 인식을 뒤틀어버릴 초월차원 음료.	
+/items/generic/food/other/WIP/ct_warped_apple.consumable	shortdescription	Glowarp ^#8020f0;^reset;	글로워프 ^#8020f0;^reset;	reuse
+/items/throwables/ct_alta_testing_ball.thrownitem	shortdescription	Gyrocore	자이로코어	
+/items/throwables/ct_alta_testing_ball.thrownitem	description	A large heavy metal ball with crystal panels and energy lines. Can be used for testing or as part of big mechanisms.	크리스탈 패널과 에너지 선이 달린 크고 무거운 금속 공. 시험이나 대형 장치의 부품으로 쓸 수 있다.	
+/items/throwables/ct_astera_tear.thrownitem	shortdescription	Astera's Tear	아스테라의 눈물	
+/items/throwables/ct_astera_tear.thrownitem	description	A launchable spear made out of ^#ffa8e8;stardust^reset; asteroids. ^#6f6c66;Astera^reset;'s gift.	^#ffa8e8;스타더스트^reset; 소행성으로 만든 발사형 창. ^#6f6c66;아스테라^reset;의 선물.	
+/items/throwables/ct_bishyn_nade.thrownitem	shortdescription	Bishyn Nade	비신 수류탄	
+/items/throwables/ct_bishyn_nade.thrownitem	description	A poison crystal shrapnel blast device. 2 in 1.	독 크리스탈 파편 폭발 장치. 2 in 1.	
+/items/throwables/ct_gheatsyn_shard.thrownitem	shortdescription	Gheatsyn Shard	기트신 파편	
+/items/throwables/ct_gheatsyn_shard.thrownitem	description	A liquid ^#a7e001;gheatsyn^reset; crystal shard that can be used as a throwable poisonous charge or as a crafting material.	투척용 유독 탄약으로도 제작 재료로도 쓸 수 있는 액체 ^#a7e001;기트신^reset; 크리스탈 파편.	
+/items/throwables/ct_hevika_flare.thrownitem	shortdescription	Hevika Flare	헤비카 플레어	
+/items/throwables/ct_hevika_flare.thrownitem	description	Good for lighting up a dark cave before you dive into it. Lasts 60 seconds.	어두운 동굴에 뛰어들기 전에 밝히기 좋다. 60초간 지속된다.	
+/items/throwables/ct_hevika_javelin.thrownitem	shortdescription	Hevika Javelin	헤비카 투창	
+/items/throwables/ct_hevika_javelin.thrownitem	description	A throwing spear made out of ^#0050c0;hevika^reset; crystals. Can be used for hunting or upgraded at an ^#b0e0fc;alta crafting station^reset;.	^#0050c0;헤비카^reset; 크리스탈로 만든 투척용 창. 사냥에 쓰거나 ^#b0e0fc;알타 제작 스테이션^reset;에서 업그레이드할 수 있다.	
+/items/throwables/ct_impulse_nade.thrownitem	shortdescription	Impulse Nade	임펄스 수류탄	
+/items/throwables/ct_impulse_nade.thrownitem	description	A condensed electric ^#20f080;impulse^reset; blast that will be released on impact or after 4 seconds of flight.	충돌하거나 4초간 날아가면 농축된 전기 ^#20f080;임펄스^reset; 폭발이 방출된다.	
+/items/throwables/ct_ion_javelin.thrownitem	shortdescription	Ion Javelin ^#8020f0;^reset;	이온 투창 ^#8020f0;^reset;	
+/items/throwables/ct_ion_javelin.thrownitem	description	An improved and reinforced ^#0050c0;hevika^reset; javelin full of freed alternia and enternia energy. Commonly used by ^#8020f0;dreamers^reset; for hunting.	알테르니아와 에터니아 에너지가 해방되어 담긴 개량·강화형 ^#0050c0;헤비카^reset; 투창. ^#8020f0;드리머^reset;들이 흔히 사냥에 쓴다.	
+/items/throwables/ct_ionic_nade.thrownitem	shortdescription	Ion Nade	이온 수류탄	
+/items/throwables/ct_ionic_nade.thrownitem	description	A grenade that creates a localised static field that stuns and damages enemies.	적을 마비시키고 피해를 입히는 국소 정전기 필드를 만드는 수류탄.	
+/items/throwables/ct_isoslime_ball.thrownitem	shortdescription	Isoslime	아이소슬라임	
+/items/throwables/ct_isoslime_ball.thrownitem	description	A chunk of ^#7ddcde;isoslime^reset; (a.k.a. izoslime) that you can maliciously throw at someone to cover them in cryonic goo. Or make jam out of it.	악의를 담아 누군가에게 던져 냉각 끈적이로 뒤덮을 수 있는 ^#7ddcde;아이소슬라임^reset; 덩어리. 아니면 잼을 만들어도 된다.	
+/items/throwables/ct_phosphonade.thrownitem	shortdescription	Phosphonade	포스포네이드	
+/items/throwables/ct_phosphonade.thrownitem	description	A dangerous ^#ceffd7;phospholion^reset; device that bursts with radioactive waves on impact.	충돌 시 방사선 파를 폭발시키는 위험한 ^#ceffd7;포스폴리온^reset; 장치.	
+/items/throwables/ct_plasma_nade.thrownitem	shortdescription	Plasma Nade	플라스마 수류탄	
+/items/throwables/ct_plasma_nade.thrownitem	description	A blast device that bursts with ^#2080f0;plasma^reset; on impact. Provides lasting damage from blobs of plasma.	충돌 시 ^#2080f0;플라스마^reset;를 폭발시키는 폭발 장치. 플라스마 덩어리로 지속 피해를 입힌다.	
+/items/throwables/ct_thermomix_nade.thrownitem	shortdescription	Thermofrag Nade	테르모프래그 수류탄	
+/items/throwables/ct_thermomix_nade.thrownitem	description	A highly combustable substance made from modified ^#b0e0fc;thermomix^reset; nades. Sometimes used by riverside scouts.	개조된 ^#b0e0fc;테르모믹스^reset; 수류탄으로 만든 고인화성 물질. 강변 정찰병들이 가끔 쓴다.	
+/items/throwables/ct_tonna.thrownitem	shortdescription	Tonna	톤나	
+/items/throwables/ct_tonna.thrownitem	description	A ^#c1ebf8;tonnova^reset; fruit. Feels lighter than a coconut. You can throw it at someone or cook it!	^#c1ebf8;톤노바^reset; 열매. 코코넛보다 가볍다. 누군가에게 던지거나 요리할 수 있다!	
+/items/throwables/ct_vortex_nade.thrownitem	shortdescription	Vortex Nade ^#2080f0;^reset;	보텍스 수류탄 ^#2080f0;^reset;	
+/items/throwables/ct_vortex_nade.thrownitem	description	A grenade that creates a localised vortex field that slows and damages enemies. Covered with signature ^#ffe364;Faradea^reset; stripes.	적을 느려지게 하고 피해를 입히는 국소 소용돌이 필드를 만드는 수류탄. 상징적인 ^#ffe364;파라데아^reset; 줄무늬로 덮여 있다.	
+/items/throwables/ct_warped_glowbomb.thrownitem	shortdescription	Warped Fumes	뒤틀린 가스	
+/items/throwables/ct_warped_glowbomb.thrownitem	description	For when you need a quick light source.	빠른 광원이 필요할 때.	
+/items/throwables/ct_warped_hive.thrownitem	shortdescription	Warped Hive	뒤틀린 벌집	
+/items/throwables/ct_warped_hive.thrownitem	description	A hive of ^#9b2d3f;warped flies^reset;. These tiny poisonous creatures can become quite a threat when a hive is disturbed.	^#9b2d3f;뒤틀린 파리^reset;의 집. 이 작은 유독 생물들은 벌집이 건드려지면 꽤 위협이 될 수 있다.	
+/stats/effects/asirai/ct_intension/ct_intension.statuseffect	label	Intension	인텐션	
+/stats/effects/asirai/ct_overtension/ct_overtension.statuseffect	label	Overtension	오버텐션	

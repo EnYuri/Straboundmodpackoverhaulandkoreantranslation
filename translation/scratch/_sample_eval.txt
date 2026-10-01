@@ -1,0 +1,260 @@
+
+########## object (95374 pairs) ##########
+[/objects/ship/kitsunetechstation/kitsunetechstation_blue.object.patch/novakidDescription]
+  EN: This here station lets me talk with SAIL.
+  KO: 이 스테이션을 통해 SAIL과 대화할 수 있구만.
+[/objects/alta/special/emblems/eds/ct_eds_emblem.object.patch/description]
+  EN: An emblem marking ^#f02020;EDS^reset; territory or facility. Everything is most likely highly protected.
+  KO: ^#f02020;EDS^reset; 영역이나 시설을 표시하는 문장이다. 대부분 삼엄하게 보호되고 있을 가능성이 높다.
+[/objects/FARMABLES/cloudflower/cloudflowerseed.object.patch/avianDescription]
+  EN: Cloud flower.
+  KO: 구름 꽃.
+[/objects/biome/v-entropic/v-hydrothermalvent/v-hydrothermalvent2.object.patch/glitchDescription]
+  EN: Observant. This hydrothermal vent will keep my circuits above operational temperatures.
+  KO: 관찰. 이 열수 분출구는 내 회로를 작동 온도 이상으로 유지한다.
+[/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.object.patch/floranDescription]
+  EN: Floran plant cute sssapling, grow big bad evil tree!
+  KO: 플로란은 귀여운 묘목을 심는다. 크고 샤악한 나무가 자란다!
+
+########## item (28546 pairs) ##########
+[/items/active/alta/spawners/bugs/ct_alto_zych_egg.activeitem.patch/altaDescription]
+  EN: It shimmers so beautifully in my hand! Does that mean that it likes me?! Oaaa~
+  KO: 내 손 안에서 정말 아름답게 반짝여! 이건 날 좋아한다는 뜻인가?! 오아아~
+[/items/StorageData/digitalstorage_datadrive_8k.item.patch/digitalstorage_drivedata/description]
+  EN: Stores items.
+  KO: 아이템 보관.
+[/items/generic/mechparts/body/atprk_mechbodydevout.item.patch/description]
+  EN: A bulky armored mech body used by the Glitch Devouts.
+  KO: 글리치 신도회가 쓰는 육중한 장갑 메크 몸체.
+[/items/MATERIALS/lunar_tile12.matitem.patch/description]
+  EN: An ornate roof tile commonly found in buildings of Lunar villages.
+  KO: 루나 마을의 건물에서 흔히 볼 수 있는 화려한 지붕 타일이다.
+[/items/generic/food/model_j/japariman_b.consumable.patch/shortdescription]
+  EN: Japari buns
+  KO: 자파리 번
+
+########## dialog (24649 pairs) ##########
+[/dialog/viera.config.patch/wayfaringvieraconverse/default/glitch/2]
+  EN: I've never seen one of your kind before
+  KO: 네 종족은 처음 봐
+[/dialog/sexbound/en/positions/reversecowgirl/glitchcowgirl.config.patch/content/r_vaginal/sex/climax/neki/text/0]
+  EN: Demanding. Give me your kittens!
+  KO: 요구. 네 새끼 고양이들을 줘!
+[/dialog/ffs_lily_converse.config.patch/converse/default/default/3]
+  EN: Chu-chu-. I have a dull mouth.
+I need to eat Alice.
+..Alice, why are you running away? heh-heh.
+  KO: 추츄-. 입이 심심해.
+앨리스를 먹어야 해.
+..앨리스, 왜 도망가는 거야? 헤헤.
+[/dialog/sexbound/en/positions/standing/defaultstandingfull.config.patch/content/vaginal/sex/sex/deerkin/text/0]
+  EN: Yeah, take my cock, you big deer!
+  KO: 그래, 내 자지를 받아, 이 큰 사슴아!
+[/dialog/sexbound/en/positions/missionary/defaultmissionary.config.patch/content/r_anal/sex/sex/default/text/7]
+  EN: I've been so naughty! Punish me harder~!
+  KO: 너무 야한 짓 했어! 더 세게 벌해줘~!
+
+########## other (19995 pairs) ##########
+[/ivrpg_specs/pioneer.config.patch/effects/4/text]
+  EN: +0.5% Hunger Rate
+  KO: 굶주림 속도 +0.5%
+[/ivrpg_specs/kunoichi.config.patch/weapon/text/4]
+  EN: Holding Shift: Cancels directional input.
+  KO: 시프트 누르고 있기: 방향 입력을 취소합니다.
+[/monsters/flying/ammagicbat/ammagicbat.monstertype.patch/shortdescription]
+  EN: Vampire Bat
+  KO: 뱀파이어 박쥐
+[/npcs/crew/alliance/crewmemberalliancejanitor.npctype.patch/scriptConfig/dialog/crewmember/roleDescription/default/default/0]
+  EN: I'm <selfname>, your proud janitor.
+  KO: 난 <selfname>, 자랑스러운 네 관리인이야.
+[/npcs/crew/crewmembermaid.npctype.patch/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0]
+  EN: Alert. I'm <selfname> the maid.
+  KO: 경고. 저는 하녀 <selfname>이에요.
+
+########## interface (6636 pairs) ##########
+[/interface/scripted/shuttlecraftscanner/config_npcshuttlecraft/config_scannersignals.config.patch/flightcontrol_signal_uscm/analysis/neutral/2]
+  EN: Former USCM craft.
+  KO: 전 USCM 함선.
+[/interface/tooltips/gico_LION_gun_big.tooltip.patch/damagePerShotTitleLabel/value]
+  EN: Damage Per Shot:
+  KO: 피해량:
+[/interface/arcana/arcana_crafting_techStation/arcana_crafting_techStation_3.config.patch/paneLayout/lblProduct/value]
+  EN: MAT. AVAILABLE
+  KO: 사용 가능한 재료
+[/interface/scripted/starforge-missioncatalogue/config/yukaihunts.config.patch/missions/0/shortDescription]
+  EN: Hunt - Yukai Terror
+  KO: 사냥 - 요괴의 공포
+[/interface/essential_gc_placeship/essential_gc_placeship.config.patch/deployingText/error]
+  EN: Error navigating ship. 
+Connection lost...
+  KO: 함선 항행 오류. 
+연결 끊김...
+
+########## codex (4042 pairs) ##########
+[/codex/newspaper/sb-chronicle-02.codex.patch/contentPages/5]
+  EN: McVicar: The mushrooms, they're... they're giving off some kind of gas. The cave's filling with spores. The ground's...
+
+McVicar: If anyone can hear me, anyone at all, I'm at co-ordinates [error in translation]. Bring guns. Bring armies. It's... it's just like on Earth... but... the Hylotl...
+
+*a lo
+  KO: 맥비카: 버섯들이, 그게... 무슨 가스 같은 걸 뿜어내고 있다. 동굴이 포자로 가득 차고 있다. 바닥이...
+
+맥비카: 누구든 내 말이 들리면, 정말 누구든, 나는 좌표 [번역 오류]에 있다. 총을 가져와라. 군대를 데려와라. 이건... 지구에서와 똑같다... 근데... 하이로틀이...
+
+*큰 굉음, 뒤이어 더 큰 포효가 다시 한번*
+
+- 종 분석 실패. 통신 두절...
+[/codex/moogle/moogleshipfurniture.codex.patch/title]
+  EN: Moogle Ship Furniture
+  KO: 모그리 함선 가구
+[/codex/neki/nekimklog71.codex.patch/contentPages/1]
+  EN: given what we know of the innate addiction of the Humans to emotion over any and all reason.
+
+However, despite the notion of it being a mere 'human vanity project' likely being convincing enough for many of my peers, it only further incites my curiosity. I suspect that only interaction with the subj
+  KO: 인간들이 어떤 그리고 모든 이성보다 감정에 중독되어 있다는 우리의 지식을 감안하면.
+
+그러나 그것이 단순한 '인간의 허영 프로젝트'라는 개념이 내 동료들 다수에게 충분히 설득력 있을지라도, 그것은 오히려 내 호기심을 더 자극할 뿐이다. 나는 대상들과의 더 깊은 상호작용만이 더 나은 이해를 위한 필요한 통찰을 줄 수 있다고 의심한다.
+
+만세... 아, 누가 신경 쓰나.
+[/codex/hylotl/sb_hylotlprologue.codex.patch/description]
+  EN: A personal log from an adventurer. Their tale was never finished...
+  KO: 모험가의 개인 일지. 그의 이야기는 끝나지 않았다...
+[/codex/documents/randombook15.codex.patch/contentPages/0]
+  EN: An alarming discovery was recently made while spying in a Floran collective. A row of Floran warriors were lined up, which was normal enough; what wasn't was the weaponry they bared.For one, it was the array of weaponry; several tech levels higher than would be assumed for them.
+  KO: 최근 플로란 집단을 염탐하던 중 충격적인 발견을 했다. 플로란 전사들이 줄지어 서 있는 모습은 평범했지만, 그들이 드러낸 무기는 그렇지 않았다. 우선 그 무기들의 종류가 그들에게 기대할 수준보다 몇 단계는 앞선 기술이었다.
+
+########## quest (3680 pairs) ##########
+[/quests/STORY/vierabootship.questtemplate.patch/scriptConfig/portraits/questComplete/title]
+  EN: The Wood
+  KO: 숲
+[/quests/lustia/keystonequestfinal.questtemplate.patch/scriptConfig/portraits/questStarted/title]
+  EN: Sister Kailia
+  KO: 카일리아 수녀
+[/quests/mwhaddon_quests/mwhaddon_quests_npc_glimmlecus_pGL/mwhaddon_quests_npc_glimmlecus_pGL_2.questtemplate.patch/title]
+  EN: ^green;Generally Perfection II
+  KO: ^green;대체로 완벽 II
+[/quests/arcana_quests_gushenAntique/arcana_quests_gushenAntique_3.questtemplate.patch/text]
+  EN: I'm looking for some ^orange;Avian relics^white; this time. Bring me back an ^green;Avian Prayer Altar^white; and an ^green;Avian Moon Emblem^white;, you should be able to locate them in Avian Temples.
+  KO: 이번엔 ^orange;아비안 유물^white;을 찾고 있어. ^green;아비안 기도 제단^white;과 ^green;아비안 달 상징^white;을 가져다줘, 아비안 신전에서 찾을 수 있을 거야.
+[/quests/sgsurvivormission.questtemplate.patch/title]
+  EN: ^green;Medical Mystery
+  KO: ^green;의료 미스터리
+
+########## radiomessage (1523 pairs) ##########
+[/radiomessages/arcana_mission_desertstart.radiomessages.patch/arcana_mission_desertstart_2_2/text]
+  EN: Ah. It looks like you'll have to find a way to open the gate ahead... you might have to try other paths first.
+  KO: 아. 앞으로 나아가려면 문을 여는 방법을 찾아야 할 것 같네... 먼저 다른 길을 시도해봐야 할지도 몰라.
+[/radiomessages/ffs2_radiomessages.radiomessages.patch/ffs2_lastboss_0_6/text]
+  EN: ^white;Battle preparations are complete. From now on, Dropship support is on standby and awaiting your command. Use the ^yellow;red smoke^white; signal for marking your target. ^green;You can find the smoke signal grenades^white; by going ^green;west along frontline.^white; Good luck.
+  KO: ^white;전투 준비가 완료됐다. 지금부터 드롭십 지원이 대기하며 명령을 기다린다. 목표를 표시할 때는 ^yellow;적색 연막^white; 신호를 사용하라. ^green;연막 신호 수류탄은^white; 전선을 따라 ^green;서쪽으로 가면 찾을 수 있다.^white; 행운을 빈다.
+[/radiomessages/ttppmission.radiomessages.patch/ttppmission2n3/senderName]
+  EN: Leda Portia
+  KO: 레다 포르샤
+[/radiomessages/lawHQmissions_M01.radiomessages.patch/hqmission01_mess01/text]
+  EN: Officer, the situation is simple. ^orange;Heavily armed individuals have raided a house suspected of drug trafficking^reset;. A frontal assault could result in... No, officer, don't go in!
+  KO: 경관님, 상황은 간단합니다. ^orange;중무장한 인물들이 마약 밀매 혐의를 받는 집을 습격했습니다^reset;. 정면 돌격은... 결과를 초래할 수 있습니다. 아니요, 경관님, 들어가지 마세요!
+[/radiomessages/gicexp_missions.radiomessages.patch/esc_MW_chat_COPSC_3/text]
+  EN: The enemy are coming, prepare for engagement!
+  KO: 적이 오고 있다. 교전을 준비하라!
+
+########## mission (769 pairs) ##########
+[/npcs/mission/atprk_devoutattackmelter.npctype.patch/scriptConfig/dialog/attack/glitch/fragmentedruin/4]
+  EN: Assertive. Corner it before it runs off!
+  KO: 단호. 도망 전에 몰아!
+[/npcs/mission/angelbanditleader3.npctype.patch/scriptConfig/dialog/attack/default/angel/3]
+  EN: You cannot escape!! There is no place you can go that you can hide from me!
+  KO: 도망 못 쳐!! 날 피해 숨을 곳은 없어!
+[/npcs/mission/atprk_devoutattackengineer.npctype.patch/scriptConfig/dialog/attack/glitch/fragmentedruin/5]
+  EN: Menacing. This wrench is heavier than it looks!
+  KO: 위협. 이 렌치는 보기보다 무겁다!
+[/npcs/mission/atprk_devoutattackminiboss.npctype.patch/scriptConfig/dialog/attack/glitch/epshadow/2]
+  EN: Mocking. There are no shadows to hide in!
+  KO: 조롱. 숨을 그림자가 없다!
+[/npcs/factions/horizon/arcana_npc_horizon_voltabolt/arcana_npc_horizon_voltaboltmission.npctype.patch/scriptConfig/dialog/attack/default/default/5]
+  EN: You will regret coming here.
+  KO: 여기 온 걸 후회하게 될 거야.
+
+########## species (414 pairs) ##########
+[/species/avali.species.patch/charGenTextLabels/5]
+  EN: Feather color
+  KO: 깃털 색상
+[/species/juux.species.patch/charGenTextLabels/5]
+  EN: Gem colour
+  KO: 보석 색상
+[/species/avali.species.patch/charGenTextLabels/7]
+  EN: Outfit color
+  KO: 복장 색상
+[/species/gilten.species.patch/charGenTextLabels/7]
+  EN: Legwear colour
+  KO: 바지 색상
+[/species/gelsemis.species.patch/charGenTextLabels/6]
+  EN: Shirt colour
+  KO: 셔츠 색상
+
+########## ai/ (272 pairs) ##########
+[/monsters/YOUKAI/NATIVE/gico_fairy_shinobi/gico_fairy_shinobi.monstertype.patch/shortdescription]
+  EN: [Fairy Shinobi]
+  KO: [요정 시노비]
+[/interface/ai/fu_byosai.config.patch/shipResetConfirmationDialogs/repairShip/subtitle]
+  EN: Repair your ship
+  KO: 함선 수리
+[/stats/LION/gico_youkai/gico_crow/gico_crow_blind_snapshot_cooldown.statuseffect.patch/label]
+  EN: Crow Blind Snapshot Cooldown - Ability Recharging.
+  KO: 크로우 실명 속사 재사용 대기 - 능력 재충전 중.
+[/monsters/YOUKAI/GENSO/gico_tengu_captain/gico_tengu_captain.monstertype.patch/shortdescription]
+  EN: [Wolf Tengu Captain]
+  KO: [늑대 텐구 대장]
+[/npcs/threats/yukai/yukaieverfrostwitch.npctype.patch/scriptConfig/dialog/cheerOn/default/default/0]
+  EN: The Tide will answer!
+  KO: 조수가 답할 거야!
+
+########## cinematic (271 pairs) ##########
+[/cinematics/CHARACTERS/CELESTIAL/gico_celestial_boss_intro_human_path.cinematic.patch/panels/18/text]
+  EN: Anyways, name's Tenshi. Show me what you got, kid!
+  KO: 아무튼, 이름은 텐시야. 뭘 할 수 있는지 보여줘봐, 꼬마야!
+[/cinematics/CHARACTERS/WOLF/gico_wolf_tengu_boss_aftermath_human_path.cinematic.patch/panels/8/text]
+  EN: No you are not! You're bleeding everywhere! I'm not going to let you kill yourself for a fight that you weren't going to win! Do you realize how hard it was for me to get here without getting shot?!
+  KO: 아니야 넌 아니야! 온몸에서 피가 나고 있잖아! 이길 수도 없었던 싸움에 널 죽게 내버려 두지 않을 거야! 총 맞지 않고 여기까지 오는 게 얼마나 힘들었는지 알아?!
+[/cinematics/arcana/arcana_seeker_desertstart/arcana_seeker_desertstart.cinematic.patch/panels/3/text]
+  EN: You'll have to travel to the ^orange;Lodestar Temple^reset;, situated nearby one of our warp points.
+  KO: 우리 워프 지점 근처에 있는 ^orange;로드스타 신전^reset;으로 가야 한다.
+[/cinematics/CHARACTERS/DAITENGU/gico_daitengu_outskirts_youkai_path.cinematic.patch/panels/2/text]
+  EN: *You hear your radio beep for your attention.*
+  KO: *무전기가 삑 울리며 당신을 부른다.*
+[/cinematics/CHARACTERS/CELESTIAL/gico_celestial_boss_intro_human_path.cinematic.patch/panels/13/text]
+  EN: Then I can't let you do that. I assume turning back isn't an option for you?
+  KO: 그렇다면 그렇게 두고 볼 수 없어. 돌아설 생각은 없는 거겠지?
+
+########## description (23 pairs) ##########
+[/affinities/affinityDescriptions.config.patch/poison/text]
+  EN: Venom, the Proficient Affinity. This Affinity grants Poison based Immunities and Resistances, and a Small Vigor, Dexterity, and Agility Stat Boost. Provides better Immunities and a Large Dexterity Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Max Health and makes you we
+  KO: 맹독, 숙련의 친화력. 이 친화력은 독 기반 면역과 저항, 그리고 소형 활력, 민첩, 기민 스탯 상승을 부여한다. 업그레이드하면 더 나은 면역과 대형 민첩 스탯 상승을 제공한다. 이 친화력을 선택하면 최대 체력이 감소하고 전기에 약해지니 주의하라.
+[/professions/professionDescriptions.config.patch/smith/text]
+  EN: The Smith toils away to make dangerous weapons and strong armor. It provides access to craftable melee weapons and means to upgrade all weapons.
+  KO: 스미스는 위험한 무기와 강력한 갑옷을 만드느라 애쓰고 있습니다. 제작 가능한 근접 무기와 모든 무기를 업그레이드하는 수단을 사용할 수 있게 해줍니다.
+[/classes/classDescriptions.config.patch/ninja/text]
+  EN: The Ninja: Mixed-Range, Evasive DPS. Does better with Shurikens, but still does great with One-Handed (Non-Ranged) Weapons. The Ninja's skills mostly improve movement and evasion. The Ninja has an easier time causing Bleed, and can easily avoid Fall Damage.
+  KO: 닌자: 혼합 거리, 회피형 딜러. 수리검을 더 잘 다루지만, 한손(비원거리) 무기로도 훌륭하게 싸웁니다. 닌자의 스킬은 주로 이동과 회피를 향상시킵니다. 닌자는 출혈을 더 쉽게 유발하며, 낙하 피해를 쉽게 피할 수 있습니다.
+[/classes/classDescriptions.config.patch/rogue/text]
+  EN: The Rogue: Mixed-Range CC. Does better with One-Handed Weapons. The Rogue's skills mostly improve offensive capabilities, though also increase Physical, Poison, and Knockback Resistance. The Rogue can randomly Poison enemies, and is more Resistant to Poison while Food is near full.
+  KO: 로그: 혼합 거리 CC(군중 제어). 한손 무기를 더 잘 다룹니다. 로그의 스킬은 주로 공격 능력을 향상시키지만, 물리, 독, 넉백 저항도 높여줍니다. 로그는 무작위로 적을 중독시킬 수 있으며, 식량이 가득 찼을 때 독에 더 강한 저항력을 가집니다.
+[/affinities/affinityDescriptions.config.patch/ice/text]
+  EN: Frost, the Protective Affinity. This Affinity grants Ice based Immunities and Resistances, and a Medium Vitality Stat Boost. Provides better Immunities and a Large Endurance Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Speed and Jump Height, and makes you weak to Fire.
+  KO: 서리, 수호의 친화력. 이 친화력은 냉기 계열 면역과 저항, 그리고 중간 수준의 활력 스탯 증가를 부여합니다. 업그레이드하면 더 나은 면역과 큰 폭의 인내력 스탯 증가를 제공합니다. 이 친화력을 선택하면 속도와 점프 높이가 감소하고 화염에 약해지니 주의하세요.
+
+########## hail (19 pairs) ##########
+[/items/active/weapons/aurorite/v-hailstorm/v-hailstorm.activeitem.patch/extraInfo]
+  EN: The Cold Wind ability causes hail pellets to grow.
+  KO: 콜드 윈드 능력은 우박 알갱이를 자라나게 합니다.
+[/ffs_weapons/ffs_5_mg/ffs_MGHailstorm/ffs_MGHailstorm_npc.activeitem.patch/description]
+  EN: ^#red;NPC USE ONLY!!
+  KO: ^#red;NPC 전용!!
+[/items/active/weapons/ranged/unique/theblackmarket/hailstrike/hailstrike.activeitem.patch/shortdescription]
+  EN: ^#bb39ce;Hail Strike^reset;
+  KO: ^#bb39ce;헤일 스트라이크^reset;
+[/items/active/weapons/aurorite/v-hailstorm/v-hailstorm.activeitem.patch/shortdescription]
+  EN: ^aurorite;Hailstorm
+  KO: ^aurorite;헤일스톰
+[/weapons/legendary/xraiizy_mikhailslastword/xraiizy_mikhailslastword.activeitem.patch/shortdescription]
+  EN: "Mikhail's Last Word" ^#e2c344;++^reset;
+  KO: 미하일의 유언 ^#e2c344;++^reset;

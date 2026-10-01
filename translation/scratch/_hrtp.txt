@@ -1,0 +1,51 @@
+/interface/RPGskillbook/RPGskillbook.config.patch|/gui/overviewlayout/children/rallymodetitle/value
+EN: Rally Mode: enemies become stronger as you level up!
+KO: 집결 모드: 레벨이 오를수록 적이 강해집니다!
+
+/interface/RPGskillbook/RPGskillbook.config.patch|/gui/overviewlayout/children/rallymodetext/value
+EN: Multiple players using Rally Mode strengthens the effect.
+KO: 여러 플레이어가 집결 모드를 사용하면 효과가 강화됩니다.
+
+/items/FIELD_MANUALS/gic_rsr_fieldmanual_maidensoldier.item.patch|/description
+EN: Despite bearing Japanese governmental ink stamps, this collection of reports makes little sense, as it describes combat operations in a ''Land of Fantasy'', or Gensokyo. More specifically, it contains documents pertainin
+KO: 일본 정부의 도장이 찍혀 있음에도, 이 보고서 묶음은 앞뒤가 잘 맞지 않습니다. '환상향'이라 불리는 판타지 세계에서의 전투 작전을 서술하고 있기 때문입니다. 더 구체적으로는, 옛 의식과 현대 전투 기술 모두를 훈련받은 여성들인 '무녀 전사'들의 훈련, 장비, 전술에 관한 문서를 담고 있습니다. /  / ^#96CBE7;획득 시: 해당 작업대에서 무녀 전사 장비를 제작하는 법을 배웁니다.
+
+/items/RALLY_SUMMON/gic_rsr_snlf_rallysummon/gic_rsr_snlf_rallysummon.activeitem.patch|/shortdescription
+EN: Rally: IJN Special Naval Landing Force
+KO: 집결: IJN 특별육전대
+
+/items/RALLY_SUMMON/gic_rsr_snlf_rallysummon/gic_rsr_snlf_rallysummon.activeitem.patch|/category
+EN: ^#8FAED3;Rally Summon^white;
+KO: ^#8FAED3;집결 소환^white;
+
+/items/RALLY_SUMMON/gic_rsr_snlf_rallysummon/gic_rsr_snlf_rallysummon_ammo.item.patch|/description
+EN: . /  / ^orange;For use with the Rally: IJN Special Naval Landing Force weapon.^reset;
+KO: . /  / ^orange;집결: 일본 해군 특별 육전대 무기와 함께 사용한다.^reset;
+
+/items/active/specweapons/captain/leadersrally.activeitem.patch|/shortdescription
+EN: ^yellow;Leader's Rally
+KO: ^yellow;지도자의 집결
+
+/items/active/specweapons/captain/leadersrally.activeitem.patch|/primaryAbility/name
+EN: Rally!
+KO: 집결!
+
+/items/active/specweapons/crusader/oathkeeper.activeitem.patch|/altAbility/name
+EN: Cleansing Light
+KO: 정화의 빛
+
+/items/armors/GiC IJA Uniforms/rsr_miko/gic_rsr_mikoset.activeitem.patch|/description
+EN: Miko clothing is traditionally handled with care. Guidelines for handling it include: ''Do not throw it'' (do not fling it off), ''Do not put it down'' (fold it immediately after putting it on and taking it off), and ''D
+KO: 무녀복은 전통적으로 조심스럽게 다뤄진다. 다루는 지침에는 다음이 포함된다: '던지지 말 것'(벗어 던지지 말 것), '내려놓지 말 것'(입고 벗은 즉시 접을 것), '넘어가지 말 것'(그 위로 넘어가는 것은 신들에 대한 불경한 행위임). 무녀들은 이 옷을 '부적처럼' 다루도록 배운다. / ^#F2B8EC;고도로 기도에 반응함 [풀 세트] - 근접 무기를 휘두르면 부적이 발사된다. / ^orange;
+
+/objects/wired/gic_ija_radio/gic_ija_radio_dadada.object.patch|/description
+EN: ''Passing entrance examinations, for who's sake? / For who's sake is the dynamite? / Fow who's sake? / They are for your liberation.'' / ''Tokyo Kid Brothers'' was a musical-theatrical collective formed in 1968, at the height of
+KO: ''입학시험 합격은, 누구를 위한 것인가? / 다이너마이트는 누구를 위한 것인가? / 누구를 위한 것인가? / 그것은 너희의 해방을 위한 것이다.'' / ''도쿄 키드 브라더스''는 일본 대학 투쟁과 전 세계적인 신좌파 운동이 절정에 이르던 1968년에 결성된 뮤지컬·연극 집단이다. 가장 유명한 작품은 데라야마 슈지의 1971년 실험 극영화 ''책을 버리고 거리로 나가자''의 사운드트랙이다.
+
+/stats/RALLY/gic_rally/esc_resistance_rally.statuseffect.patch|/label
+EN: Rally - +25% EWS Accuracy and Hit and Dodge Chance.
+KO: 집결 - EWS 정확도, 명중률, 회피 확률 +25%.
+
+/stats/effects/arcana_status_magiksense/arcana_status_cleansing.statuseffect.patch|/label
+EN: Cleansing: ^green;+10% Max Health, Frightened Immunity^reset;
+KO: 정화: ^green;최대 체력 +10%, 공포 면역^reset;
